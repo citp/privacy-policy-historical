@@ -1,14 +1,59 @@
-> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143736id_/http%3A//mega.com/en/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624021348id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MEGA
 
-MEGA appreciates your visit to our Web site and thanks you for your interest in our company, products, and services. Your privacy is important to MEGA, so we created a policy that explains how we collect, use, share, and store your information.  This policy discloses the information practices for all MEGA Web sites.
+MEGA appreciates your visit to our Web site and thanks you for your interest in our company, products, and services. Your privacy is important to MEGA, so we created a policy that explains how we collect, use, share, and store your information. This policy discloses the information practices for all MEGA Web sites.
 
-## Collection of personal information
+## Collection of personal information - Cookies
 
-Personal information is data that can be used to uniquely identify or contact a single person. You may choose to provide us with your personal information for various purposes, such as downloading marketing materials, requesting information, evaluating products or services, processing orders, applying for a job, or conducting some other business with us.  
-We may combine the personal information you communicate us with information relating to your use of our Web sites through the use of various technologies, including cookies. For example, when you visit our Web sites, we may collect certain information that your browser sends us, such as your IP address, browser type and language, access time, and referring Web site addresses. We may also use technologies to determine whether you’ve opened an email or clicked on a link contained in an email.  
-We may also collect information about you indirectly through a third party. When doing so, we require confirmation that the information was legally acquired and follows proper privacy policies. Collecting information in this manner allows us to improve the overall accuracy and completeness of your information and also help us better understand and respond to your needs.
+### What is a cookie?
+
+A cookie is a small text file that is stored on a person’s computer as they navigate through different websites. The collection of cookies helps us understand how our website is being used, user behavior, and also tells us which parts of our website have been visited. It enables us to also tailor messages and display ads to a given person’s interests on our website and on other platforms. Cookie collection facilitates and measures the effectiveness of advertisements and web searches. Cookies are stored for 13 months, unless the person decides to delete them before the end of that term.
+
+At MEGA, we treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+### Which cookies do we use and to what end?
+
+We only use tracking cookies on our website. They are then used for marketing and commercial purposes.
+
+  1. Cookies needing your consent  
+
+    1. Pardot  
+Pardot cookies are tracking cookies attached to the forms on our websites and to our tracking links. Collected data includes: information about your visits and use of all MEGA websites, as well as information that you provide for the purpose of registering to our events and/or subscribing to our communications and resources.  
+Personal data that you submit on the forms (such as your name, email, company, etc.) may be used to improve your browsing experience and send information to you by email.
+    2. Google Analytics  
+Google analytics uses cookies to collect standard internet log information and visitor behavior in an anonymous form. All information is processed to compile statistical reports on MEGA’s website activities. Google analytics cookies help us to optimize your navigation and improve content. The use of those cookies does not allow us to identify you personally, and cannot be used from one website to another.
+  2. Cookies not needing your consent  
+We also use session cookies, which are temporary files to identify and track users when navigating our website. Those cookies are deleted when you leave our website.
+
+
+
+### How to configure your browser
+
+  1. Google Chrome  
+
+    1. Go to the menu on the toolbar.
+    2. Select “Settings”.
+    3. Click on “Advanced settings”.
+    4. In the “Privacy” section, click on “Content settings” to select your configuration.
+  2. Internet Explorer  
+
+    1. Click on “Tools”, then on “Internet options”.
+    2. Navigate to the “Privacy” section, then the “Settings” section
+    3. Select your configuration.
+    4. Click “Ok” on the bottom to confirm your choice.
+  3. Mozilla Firefox  
+
+    1. Go to the “Tools” section and click on “Options”.
+    2. Go to the “Privacy” section.
+    3. Choose your configuration and click on “Ok” to confirm.
+  4. Apple Safari (Windows, Mac OS)  
+
+    1. In the toolbar, choose “Preferences”.
+    2. Go to the “Privacy” section.
+    3. Choose your configuration and close the window to confirm.
+
+
 
 ## Use of personal information
 
@@ -32,9 +77,9 @@ As an international organization, the personal information we collect may be tra
 
 At any time, you are entitled to know whether we hold personal information about you and, if we do, to have access to it and be able to corrected it if it is inaccurate.  
 Moreover, you are entitled to revoke your consent to our use of your personal information in the future, in whole or in part. Should you desire this, we will delete or store your data. You can do this by sending us an [email](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
-MEGA will make every effort to ensure the protection of your personal information on our servers, and will respond to any suspected abuse  that you report to us.
+MEGA will make every effort to ensure the protection of your personal information on our servers, and will respond to any suspected abuse that you report to us.
 
-If you have any further questions about our privacy policy, please [contact us](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
+If you have any further questions about our privacy policy, please contact [us](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
 MEGA may update his privacy policy from time to time. When we update the policy, a notice will be posted on our web site.
 
- _Last updated: November 14, 2011_
+ _Last updated: June 8, 2016_
