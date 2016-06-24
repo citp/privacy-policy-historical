@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231165227id_/http%3A//www.solarcity.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624143811id_/http%3A//www.solarcity.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Solar Power Systems | SolarCity
 
@@ -36,7 +36,7 @@ We collect only those e-mail addresses that are volunteered by the visitor, thro
 
 We use the lists of e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. We may also use the lists of e-mail addresses volunteered by our visitors to register the visitor for an extranet account or to process orders for brochures and other written materials.
 
-You may opt-out of receiving the promotional or marketing e-mails at any time by following this link, notifying us as a reply to any unwanted e-mail, or by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA. Requests to unsubscribe from SolarCity e-mails may take 10 business days to process.
+You may opt-out of receiving the promotional or marketing e-mails at any time by following [this link](http://discover.solarcity.com/hs/manage-preferences/unsubscribe-simple), notifying us as a reply to any unwanted e-mail, or by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA. Requests to unsubscribe from SolarCity e-mails may take 10 business days to process.
 
 This opt-out procedure will not be available for e-mails that are necessary to provide confirmation of a completed transaction (such as a purchase, service request or change in the visitor's user profile) or for e-mails that confirm a visitor's status as a registered user of the SolarCity customer extranet.
 
