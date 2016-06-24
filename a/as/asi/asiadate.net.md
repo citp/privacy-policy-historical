@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiadate.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226072543id_/http%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiadate.net privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624050049id_/http%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,8 +126,6 @@ AsianDate.com has VeriSign and McAfee secure certificates demonstrating that the
 Please note that whenever you submit any information to us in connection with any AsianDate.com related services, you consent to AsianDate's processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
 
 If you have any questions, comments or complaints about AsianDate’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
-
-**+1 (800) 311-7598**
 
 ### Acceptance of Privacy Statement
 
