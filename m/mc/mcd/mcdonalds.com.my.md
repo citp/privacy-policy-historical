@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mcdonalds.com.my privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030229id_/http%3A//www.mcdonalds.com.my/about_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.my privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624143742id_/http%3A//www.mcdonalds.com.my/site/privacy-policy-en) for the most accurate reproduction.*
 
-# I'm lovin' it! McDonald's® Malaysia | Privacy & PDP Policy
+# I'm lovin' it! McDonald's® Malaysia
+
+**Privacy & PDP Policy**
+
+[English](https://web.archive.org/site/privacy-policy-en) | [Bahasa Malaysia](https://web.archive.org/site/privacy-policy-bm)
 
 Thank you for visiting us online at www.mcdonalds.com.my. If you continue to browse and use this website you are agreeing to comply with and be bound by Golden Arches Restaurants Sdn Bhd (“McDonald’s® Malaysia”) Privacy and Personal Data Protection Policy. 
 
@@ -80,6 +84,6 @@ All McDonald’s® web sites operated by McDonald’s® Corporation will adhere 
   11. **Changes to this Policy**  
 This Privacy and Personal Data Protection Policy is effective as of February 2014. From time to time, it may be necessary for McDonald’s® Malaysia to change this policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy.
   12. **Consent**  
-We trust that you will consent to the processing of your Personal Data. By providing your Personal Data to us, you declare that you have read, understood and accepted the statements and terms herein. Thanks again for visiting our website and for placing your trust in McDonald’s® Malaysia. 
+We trust that you will consent to the processing of your Personal Data. By providing your Personal Data to us, you declare that you have read, understood and accepted the statements and terms herein. Thanks again for visiting our website and for placing your trust in McDonald’s® Malaysia. 
 
 
