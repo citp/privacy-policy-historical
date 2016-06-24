@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurosport.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627193328id_/http%3A//www.eurosport.com/all-sports/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624124331id_/http%3A//www.eurosport.com/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
 
-# EUROSPORT PRIVACY POLICY - All Sports - Eurosport
+# EUROSPORT PRIVACY POLICY - Eurosport - Eurosport
 
 This information supplements our General Terms and Conditions of Use (“GTCU”), and all terms used herein with an initial capital letter have the meaning ascribed to them in the GTCU. 
 
