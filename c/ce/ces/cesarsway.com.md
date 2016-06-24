@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009120846id_/http%3A//cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624074542id_/https%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cesar's Way
 
@@ -101,6 +101,6 @@ We may occasionally modify this policy, and such modification shall be effective
 If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
 Cesar’s Way Inc.  
-PO Box 11479  
-Burbank, CA 91510  
+P.O. Box 57857  
+Sherman Oaks, CA 91413  
 [contactus@cesarsway.com](mailto:contactus@cesarsway.com)
