@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponraja.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204172134id_/http%3A//www.couponraja.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponraja.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624112828id_/http%3A//www.couponraja.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponraja
 
