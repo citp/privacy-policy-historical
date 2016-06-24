@@ -1,0 +1,125 @@
+> *The following text is extracted and transformed from the bangstyle.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624120620id_/https%3A//www.bangstyle.com/privacy_policy) for the most accurate reproduction.*
+
+# 
+
+**BANGSTYLE PRIVACY POLICY**  
+**Effective as of October 21, 2015**
+
+**USE OF OUR SERVICES SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY.**
+
+**Note to All Users**
+
+Our Commitment To Privacy. This privacy policy (“Privacy Policy”) is designed to inform you about how Bangstyle Pty Ltd. (“Bangstyle” and "Nailstyle") uses information we collect from you in connection with your use of Bangstyle and Nailstyle websites or applications (including mobile applications) or other services provided by Bangstyle (collectively “Services”). It is also intended to explain the conditions under which Bangstyle and Nailstyle uses and discloses that information and your rights relating to the collection, use and disclosure of that information. For purposes of this Privacy Policy, the terms “we,” “us,” and “our” refer to Bangstyle and Nailstyle, and “you” or “your” refers to you, as a user of the Services. 
+
+**_Your Consent._**   
+By using the Services, you consent to our collection, use and disclosure of your personal information as described in this Privacy Policy. Please review the entire policy to learn about what type of information is gathered, how such information is used, and what information may be disclosed to third parties. If you do not consent to our practices, do not register, subscribe, sign up or create an account with Bangstyle. 
+
+**_Privacy Policy Changes._**   
+Bangstyle reserves the right to modify this Privacy Policy at any time without giving you prior notice. Your use of the Services following any such modification constitutes your agreement to follow and be bound by such things as modified. For this reason, we encourage you to review the Privacy Policy and other terms whenever you use the Services. 
+
+**Note to California Residents**
+
+**_Your California Privacy Rights._**   
+California Civil Code Section 1798.83 permits California residents who have provided personal information to us or our third party advertisers and marketing partners, if any, to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. Requests should be submitted via email to [info@bangstyle.com](mailto:info@bangstyle.com) and should include CALIFORNIA PRIVACY RIGHTS in the subject line. We will need your first and last name, mailing address and email address in order to process your request. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year, if any, along with the names and addresses of these third parties, if any. Please be aware that not all information sharing is covered by the requirements of Section 1798.83 and only information on covered sharing will be included in our response. This request may be made no more than once per calendar year. 
+
+**_Personally-Identifying Information We Collect_**   
+Personally-identifying information is collected when you voluntarily sign up with Bangstyle and use the Services (“Personal Information”). Personal Information we may collect includes, but is not limited to the following categories: 
+
+**_Contact and Demographic Information._**   
+When you register, you voluntarily provide your contact information, including your first and last name, user name, mailing address, and email addresses. You also provide demographic information such as your birth date, age and gender. You may also provide employment and biographical information by populating your user profile. If you leave comments, stalk other users, or post information using the Services, our social media pages or other affiliated websites, that information may be tracked. If you communicate to us by e-mail, mail, or text we will record the e-mail address, postal address and cell number from which you send your correspondence. Any telephone calls to and from Bangstyle may be monitored and recorded for quality assurance and training purposes. 
+
+**_Transactional Information._**   
+Transactional information helps us understand who you are and what types of offers may interest you. This also allows us to improve the products and services we offer. Transactional information may include the pages you visit, preferences, stalking, data uploaded, browsed or saved. If you purchase products from the Bangstyle store, you voluntarily provide us with additional transaction information such as payment information, billing address, shipping address, phone number and email address. 
+
+**_Mobile Device Information._**   
+When you access and use the Services from your mobile devices, we receive data from the mobile device you use to access the Services. This may include your location data, IP address and device type. You may manage how your mobile device and mobile browser share location information with Bangstyle, as well as how your mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+**_Social Media Sites._**   
+Bangstyle uses social media plug-ins and applications to allow you to post information about Bangstyle and your activities while using the Services on your social media accounts, including but not limited to Facebook, Twitter, LinkedIn, Pintrest, Instagram and Google. If you choose to use these plug-ins and applications, Bangstyle may get information about your user name and profile. By using these plug-ins and applications you grant Bangstyle permission to access your social media profile information and to use it in accordance with the terms of use for that social media website and this Privacy Statement. Please refer to the privacy settings of the social media website or application to determine how you may adjust our permissions and manage the interactivity between Bangstyle and your social media account. When you create you Bangstyle user account through Facebook or Google, Bangstyle receives personal information from those third party website, which may include your name, user name, mailing address, email address, IP address, phone number, educational information, employment information, hobbies, interests, activities, friends lists and photos. 
+
+**_Personal Information from Other Sources._**   
+Bangstyle may receive Personal Information about you from third parties. We may associate this information with the other Personal Information we have collected about you. The collection, use and disclosure of information third parties is governed by the privacy policies listed on the website where the information was submitted by the user. Third parties may send their own cookies and pixel tags to you, and may collect information and use it in a way inconsistent with this Privacy Policy. Please carefully review these third party privacy policies to understand how your information may be collected, used and disclosed by these third parties. 
+
+**_Non-Personally-Identifying Information We Collect._**
+
+Non-personally identifying information or “Aggregate Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. Like most website operators, we collect Aggregate Information about your activities online including referring / exit pages and URLs, computer settings, number of clicks, domain names, landing pages, pages viewed, and other such information through the use of cookies, pixel tags, Internet Protocol (IP) addresses, click-through URLs, domain name tracking, and analytics. If you have voluntarily disclosed Personal Information to Bangstyle, some or all of the Aggregate Information may be linked to your Personal Information. 
+
+**_Cookies._**   
+A cookie is a small data file stored on your hard drive that your browser provides to Bangstyle when you visit certain web pages. We use both session ID cookies and persistent cookies. For the session ID cookie, the data is temporarily stored on your computer, but once you close your browser the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. This allows us to track your activities while using the Services and help improve the functionality, navigation and performance of the Services. If you do not want to store cookies on your computer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, some parts of the Services may not function properly if you choose not to accept cookies. If you are concerned that you have created a cookie in a previous visit, you can delete cookies that are already stored on your hard drive by accessing your computer’s cookie file. 
+
+**_Pixel Tags._**   
+Pixel tags (a.k.a. clear gifs) are tiny graphics with a unique identifier, similar in function to cookies, which allow us to monitor the use of our Services and to deliver banner advertisements to you about our products and services as you browse the Internet. Pixel tags generally work in conjunction with cookies, registering when a particular computer visits a particular page. You cannot decline pixel tags; however, if you turn off cookies the pixel tag will simply detect an anonymous visit. In addition, we use pixel tags in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you do not want to receive pixel tags you can opt-out of these emails or change the type of email you receive to text only. 
+
+**_Internet Protocol (IP) Address._**   
+Bangstyle’s servers also automatically identify your computer or mobile device by its Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer by your Internet Service Provider. Your IP address does not identify you by name, however, it may reveal your geographic area and your Internet Service Provider. Bangstyle may match your IP address to your Personal Information. 
+
+**_Computer Profiles._**   
+Bangstyle may also collect and accumulate computer profile data which will help us understand and analyze the experience of our visitors. For example, Bangstyle may collect data relating to the type of browser used, operating system software, screen resolution, color capability, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. 
+
+**_Click Through URLS._**   
+Bangstyle may send you e-mail messages with a “click-through URL” linked to the content of our Services. When you click onto one of these URLs, you will pass through our server before arriving at the destination webpage. Bangstyle may track this click-through data to help us determine subscriber interest in the subject matter and measure the effectiveness of our subscriber communications. You can avoid being tracked simply by not clicking on any links or images in the e-mail. 
+
+**_Domain Name Tracking._**   
+When you use our Services, we automatically record the name of the domain from which you accessed the Services. Additionally, if you reach our Services by means of a link from another site, our computers will note the fact that you came to us from that linked site. We may also record the domain name and URL for the next website you go to after leaving the Services. 
+
+**_Analytics._**   
+Bangstyle may use one or more third party analytics programs, including but not limited to Google Analytics and Flurry, to help analyze how users utilize the Services. Google Analytics does not collect any Personal Information. Google Analytics uses a single first-party cookie containing an anonymous identifier to distinguish users and to collect standard Internet log information and visitor behavior information. The information generated by the cookie about your use of the Services (including IP address) is transmitted to Google. This information is used to create statistical reports on user activity for Bangstyle. For more information about Google Analytics, including opt-out options visit the Google Analytics privacy page at https://www.google.com/analytics/learn/privacy.html. The mobile app uses the Flurry analytics to help analyze how users use the mobile app. Flurry is analogous to Google Analytics and does not collect any Personal Information. For more information about Flurry, including opt-out options visit the Flurry privacy page at http://www.flurry.com/privacy-policy.html. 
+
+**Use of Information Collected**
+
+Our primary purpose for collecting Personal Information and Aggregate Information (collectively “User Information”) is for us to provide you with products and services. We may also use your User Information for the purpose of improving our Services; to send you notices to inform you about service updates, technical notices, security alerts, support and administrative messages, and updates to this Privacy Policy or our Terms of Use; to send advertisements and promotional offers to you, email messages, text messages, applications, or other methods of communication; to send newsletters and marketing materials; to communicate preferences which you have indicated; to customize the advertising and content you see; to verify information; to send you receipts and shipping notices for any goods purchased, and/or for any other purpose disclosed at the point of collection. 
+
+We may also use your User Information to provide services and customer support that you may request as well as to correct problems, resolve disputes and collect fees. We may also combine your information with information we collect from other companies to improve and personalize our Services. 
+
+We may also use the User Information we collect through our Services as necessary to comply with legal requirements, to enforce the Terms of Use, to prevent fraud, to cooperate with law enforcement and regulatory authorities and to stop other prohibited, illegal or harmful activities. 
+
+**_E-mail and Opt-out._**   
+If you no longer wish to receive our promotional e-mail communications, you may opt-out of receiving these communications by clicking on the "Opt-Out" link at the bottom of the promotional emails or by emailing us at info@bangstyle.com. If you choose to opt-out of receiving promotional e-mail, we may still send you administrative emails regarding Bangstyle, including, for example, administrative and transactional confirmations, and notices of updates to our Privacy Policy and Terms of Use as well as email receipts and shipping confirmations for any goods purchased using the Services. 
+
+**Information We Share**
+
+Bangstyle may share Aggregate Information with third parties for advertising and promotional purposes, to perform analytics, and to improve the quality of the Services. We may also use third-party companies to assist in collection and analysis of data collected through the use of cookies and pixel tags. Bangstyle may disclose Personal Information and/or User Information in the following circumstances: 
+
+**_Affiliated companies._**   
+Bangstyle may share User Information with its parent company, subsidiaries and other companies owned by or controlled by Bangstyle, who may use the User Information for the purposes described above. 
+
+**_Service Providers._**   
+We may disclose your User Information to third party service providers hired to perform internal business functions on our behalf, including but not limited to, providing marketing assistance, sending direct mail or email, website or database hosting companies, e-mail service providers, analytics companies, and payment processing companies. Unless otherwise stated, these companies do not have any right to use the User Information we provide to them beyond what is necessary for them to assist us. 
+
+**_Product Purchases._**   
+Bangstyle must share certain Personal Information with our brand partners to complete any purchases made using the Services, such as your name, payment information, billing address, shipping address, phone number and email address. 
+
+**_User Disclosures._**   
+Some Personal Information is disclosed as a matter of course as a result of your use of the Services. Any Personal Information shared via any public forum using our Services or on another website (such as Facebook, Google, LinkedIn, Instagram or Twitter) may become public information. We cannot control the use of information disclosed in public forums, such as social media sites, bulletin boards, blogs, chat rooms, and networking functions of the Services. You should exercise caution when disclosing information in these public areas, especially your location data, and be careful how you disclose your Personal Information. Content posted in public areas of our Services, including advice and opinions, represents the views and is the responsibility of those who post the content. We do not necessarily endorse, support, verify, or agree with the content posted. If you have any questions or comments about any content posted using our Services, please contact us at the address below. 
+
+**USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR OWN VOLUNTARY DISCLOSURE OF PERSONAL INFORMATION IN PUBLIC FORUMS.**
+
+**_Legal Disclaimer Concerning Subpoenas and Other Matters._**   
+We reserve the right to release account and User Information about you when Bangstyle believes, in its sole discretion, that such release is appropriate to   
+(1) comply with the law, legal process or law enforcement requests;   
+(2) protect and defend our rights, property, safety or other interests including those of our parent company, subsidiaries, customers, shareholders, or others;   
+(3) protect against misuse or unauthorized use of our Services and to enforce or apply our Terms of Use and other agreements; and/or   
+(4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
+
+**_Business Transitions._**   
+Bangstyle reserves the right to transfer all User Information in its possession in the event Bangstyle goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. Similarly, your User Information may be passed on to a successor in interest in the event of a reorganization, reconstruction, liquidation, bankruptcy or administration. Users will not be notified of any such change of ownership or control of their User Information. 
+
+**Children’s Privacy**
+
+The Services are intended for adult use only and are not directed towards children, minors or anyone under the age of 18. If you are under the age of 13, you are not authorized to provide us with any personally identifying information. If the parent or guardian of a child under 13 believes that the child has provided us with any personal data, the parent or guardian of that child should contact our us at the email address below and ask to have this personal information deleted from our files. We appreciate your cooperation with this federally mandated requirement. 
+
+**Links to Partner Websites**
+
+The Services may contain links to or may redirect users to other websites owned by Bangstyle (“Partner Websites”). Partner Websites may send their own cookies to you, and may collect information and use it in a way inconsistent with this Privacy Policy. Please carefully review the privacy policies on any Partner Websites to understand how your information may be collected, used and disclosed by these Partner Websites. Bangstyle may share User Information with Partner Websites pursuant to the terms of this Privacy Policy. 
+
+**Links To Third Party Sites**
+
+The Services may contain advertisements and links to sites other than our own (“Third Party Websites”). The links to Third Party Websites may be to advertisers, content providers or partners who may use our logo and/or style as a result of a co-branding agreement. This Privacy Policy does not cover the collection, use or disclosure of the information collected by these Third Party Websites. Third Party Websites may not follow the same privacy policies as Bangstyle. We have no responsibility for Third Party Websites and provide links to Third Party Websites solely for your convenience. Third Party Websites may send their own cookies and pixel tags to you, and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies or statements of these Third Party Websites to learn more about how they collect, use and disclose information. 
+
+**Security**
+
+Bangstyle protects Personal Information using various physical, technical and procedural measures. However, no transmission of data over the Internet is guaranteed to be completely secure and we cannot guarantee that your submissions to the Services, any content residing on our servers, or any transmissions from our server will be completely secure. It may be possible for third parties to intercept or access transmissions or private communications unlawfully. Any such transmission is done at your own risk. 
+
+**Questions and Concerns**
+
+If you would like to review, edit or delete any of the information we have collected from you, or if you have any questions or concerns about this Privacy Policy, please contact [info@bangstyle.com](mailto:info@bangstyle.com). 
