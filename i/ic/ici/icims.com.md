@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908074621id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213401id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
 
 # iCIMS Privacy Policy - Your Security Matters to iCIMS | iCIMS
 
-[](https://privacy.truste.com/privacy-seal/iCIMS,-Inc-/validation?rid=639e2b59-c86b-49ac-a13e-88fc3329cb42 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=0ed39a04-1e89-42ae-90d7-127046b6179e "TRUSTe Privacy Certification")
 
-Last modified: July 27, 2015
+Last modified: June 1, 2016
 
 ###  Introduction
 
@@ -24,11 +24,15 @@ This policy applies to information we collect:
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to  
 this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-iCIMS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected 2 through our Websites, [www.icims.com](http://www.icims.com/), [www.icims.co.uk](http://www.icims.co.uk/) and [www.icims.ca](http://www.icims.ca/)) and does not cover information that may be collected through our mobile applications or downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [accounts@icims.com](mailto:accounts@icims.com) or (732) 847-1941. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+The TRUSTe program covers only information that is collected through our Website, [www.icims.com](http://www.icims.com/) and our service platform and does not cover information that may be collected through software downloaded from the Website.
 
-This Website contains links to other sites. We are not responsible for the privacy practices of other sites. Accordingly, we encourage users to read the privacy statements of each and every website that collects your information.
+In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-We are a participant in the US-EU Safe Harbor program developed by the US Department of Commerce and the European Union (EU). We have certified that we adhere to the Safe Harbor Privacy Principles (the **"Principles"** ) agreed upon by the US and EU. For more information about the Safe Harbor and to view our certification, visit the US Department of Commerce's Safe Harbor [website](http://www.export.gov/safeharbor/eg_main_018236.asp).
+iCIMS complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iCIMS, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor>.
+
+###  Links to Third Party Websites
+
+This Website contains links to other sites. We are not responsible for the privacy practices of other sites. Accordingly, we encourage users to read the privacy policies of each and every website that collects your information.
 
 ###  Information We Collect About You and How We Collect It
 
@@ -57,14 +61,17 @@ The information we collect automatically is statistical data. It helps us to imp
 
 
 
-The technologies we use for this automatic data collection may include, without limitation:
+###  Tracking Technologies
 
-  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. You may refuse to allow flash cookies by activating the appropriate setting through your Adobe Settings Manager.
-  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). By disabling browser cookies, unique information associated with web beacons will also be disabled.
-  * **Third Party Cookies**. Our partners, affiliates, service providers, and agents use cookies to make it easier for you to access and navigate our site and for online behavioral advertising and related data collection, use and disclosure. This may result in such third parties placing cookies on your browser, sending their own cookies to your cookie file and using such cookies to target advertising on other sites and services. The specific use of cookies by our partners, affiliates, service providers, and agents is not covered by our privacy policy. We do not have access or control over these cookies. If you would like to learn more about this process or how to change your browser setting to not allow such practice please visit <http://www.aboutads.info/>.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may link this automatically collected data to other information we collect about you.
 
+iCIMS and our partners, affiliates, agents and service providers use technologies such as cookies, beacons tags, and scripts, to analyze trends, administer the website, tracking users’s movements around the Website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
+Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+
+**Behavioral Re-targeting**. We partner with a third party to either display advertising on our Website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. If you who wish to prevent the collection of data by Google Analytics, you may use the opt-out browser add-on developed by Google for this purpose, as further described in applicable materials made publicly available by Google.
+
+**Flash and HTML5 Cookies**. We use Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 ###  How We Use Your Information
 
@@ -109,14 +116,13 @@ We may also disclose your personal information:
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. If you choose to continue to browse the Website without changing your cookie settings, you hereby consent to the use of cookies as described herein.
   * **Promotional Offers from the Company.** If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by following instructions provided in the relevant email or form. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
 
 
 
 ###  Accessing and Correcting Your Information
 
-You can review, delete, and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [accounts@icims.com](mailto:accounts@icims.com). 
+You can review, delete, and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [accounts@icims.com](mailto:accounts@icims.com). We will respond to your request within a reasonable timeframe.
 
 We will retain your information for as long as long as your account is active; as needed to provide you products or services; as needed for the purposes outlined in this policy or at the time of collection; as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements; or to the extent permitted by law.
 
@@ -135,11 +141,27 @@ iCIMS is committed to protecting the information you provide us. iCIMS implement
 disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website you can contact us at  
 [accounts@icims.com](mailto:accounts@icims.com).
 
+###  Social Media Widgets
+
+Our Website includes social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Website. These features may collect your Internet protocol address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+###  Service Platform Policy
+
+The TRUSTe certification also covers our collection, use and disclosure of information we collect through our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged iCIMS.
+
+iCIMS collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our clients.
+
+iCIMS has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to iCIMS’s client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+We will retain personal data we process on behalf of our clients for as long as needed to provide services to our client. iCIMS will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+###  Referrals
+
+If you choose to use our referral service to tell a friend about a job opening, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [accounts@icims.com](mailto:accounts@icims.com) to request that we remove this information from our database.
+
 ###  Changes to Our Privacy Policy
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page prior to the change becoming effective. The  
-date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any  
-changes.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page prior to the change becoming effective. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
 ###  Children Under the Age of 13
 
