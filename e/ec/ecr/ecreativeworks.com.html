@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecreativeworks.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209024146id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecreativeworks.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624042740id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
@@ -39,7 +39,7 @@
     
 
     <!-- Start: Home page jQuery slide -->
-    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=002116885461925146460:hwt8blq0x6q"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://koi-3Q3G4NFWRM.marketingautomation.services/client/ss.js?ver=1.1.1"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=002116885461925146460:hwt8blq0x6q"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
  <script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.js">
     <script type="text/javascript" src="lib/jquery/js/chili-1.7.pack.js"></script>
     <script type="text/javascript" src="lib/jquery/js/jquery.cycle.all.js"></script>
@@ -97,42 +97,7 @@
     });*/
     </script>
     
-    <!-- Start: ActOn Forms -->
-    <!--script type="text/javascript" src="http://resources.ecreativeworks.com/acton/form.js"></script>
-    <script type="text/javascript">
-        function formElementSerializers() { function input(element) { switch (element.type.toLowerCase()) { case 'checkbox': case 'radio': return inputSelector(element); default: return valueSelector(element); } };
-        function inputSelector(element) { return element.checked ? element.value : null; };
-        function valueSelector(element) { return element.value; };
-        function select(element) { return (element.type === 'select-one' ? selectOne : selectMany)(element); };
-        function selectOne(element) { var index = element.selectedIndex; return index < 0 ? null : optionValue(element.options[index]); };
-        function selectMany(element) { var length = element.length; if (!length) return null; var values = []; for (var i = 0; i < length; i++) { var opt = element.options[i]; if (opt.selected) values.push(optionValue(opt)); } return values; };
-        function optionValue(opt) { if (document.documentElement.hasAttribute) return opt.hasAttribute('value') ? opt.value : opt.text; var element = document.getElementById(opt); if (element && element.getAttributeNode('value')) return opt.value; else return opt.text; };
-        return { input: input, inputSelector: inputSelector, textarea: valueSelector, select: select, selectOne: selectOne, selectMany: selectMany, optionValue: optionValue, button: valueSelector };
-        };
-        var requiredFields = new Array(); var requiredFieldGroups = new Array(); addRequiredField = function (id) { requiredFields.push (id); };
-        addRequiredFieldGroup = function (id, count) { requiredFieldGroups.push ([id, count]); };
-        missing = function (fieldName) { var f = document.getElementById(fieldName); var v = formElementSerializers()[f.tagName.toLowerCase()](f); if (v) { v = v.replace (/^\s*(.*)/, "$1"); v = v.replace (/(.*?)\s*$/, "$1"); } if (!v) { f.style.backgroundColor = '#FFFFCC'; return 1; } else { f.style.backgroundColor = ''; return 0; } };
-        missingGroup = function (fieldName, count) { var result = 1; var color = '#FFFFCC'; for (var i = 0; i < count; i++) { if (document.getElementById(fieldName+'-'+i).checked) { color = ''; result = 0; break; } } for (var i = 0; i < count; i++) document.getElementById(fieldName+'-'+i).parentNode.style.backgroundColor = color; return result; };
-        var validatedFields = new Array(); addFieldToValidate = function (id, validationType, arg1, arg2) { validatedFields.push ([ id, validationType, arg1, arg2 ]); };
-        validateField = function (id, fieldValidationValue, arg1, arg2) { var field = document.getElementById(id); var name = field.name; var value = formElementSerializers()[field.tagName.toLowerCase()](field); for (var i = 0; i < validators.length; i++) { var validationDisplay = validators[i][0]; var validationValue = validators[i][1]; var validationFunction  = validators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) {  field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } for (var i = 0; i < implicitValidators.length; i++) { var validationDisplay = implicitValidators[i][0]; var validationValue = implicitValidators[i][1]; var validationFunction   = implicitValidators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) { field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } return true; };
-        var r = ''; formElementById = function(form, id) { for (var i = 0; i < form.length; ++i) if (form[i].id === id) return form[i]; return null; };
-        doSubmit = function(form) { try { if (typeof(customSubmitProcessing) === "function") customSubmitProcessing(); } catch (err) { } var ao_jstzo = formElementById(form, "ao_jstzo"); if (ao_jstzo) ao_jstzo.value = new Date().getTimezoneOffset(); var submitButton = document.getElementById(form.id+'_ao_submit_button'); submitButton.style.visibility = 'hidden'; var missingCount = 0; for (var i = 0; i < requiredFields.length; i++) if (requiredFields[i].indexOf(form.id+'_') === 0) missingCount += missing (requiredFields[i]); for (var i = 0; i < requiredFieldGroups.length; i++) if (requiredFieldGroups[i][0].indexOf(form.id+'_') === 0) missingCount += missingGroup (requiredFieldGroups[i][0], requiredFieldGroups[i][1]); if (missingCount >
-        0) { alert ('Please fill all required fields. '); submitButton.style.visibility = 'visible'; return; } for (var i = 0; i < validatedFields.length; i++) { var ff = validatedFields[i]; if (ff[0].indexOf(form.id+'_') === 0 && !validateField (ff[0], ff[1], ff[2], ff[3])) { document.getElementById(ff[0]).focus(); submitButton.style.visibility = 'visible'; return; } } if (formElementById(form, 'ao_p').value === '1') { submitButton.style.visibility = 'visible'; return; } formElementById(form, 'ao_bot').value = 'nope'; form.submit(); };
-    </script>
 
-    <script type="text/javascript">
-    <!-- /* <! [CDATA[ */
-    document.write (
-        '<img src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts='+
-        new Date().getTime()+
-        '&ref='+escape(document.referrer) + '" mce_src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts='+
-        new Date().getTime()+
-        '&amp;ref='+escape(document.referrer) + '">'
-    );
-    /* */
-    //  &gt;
-    // -->
-    
 
     <script type="text/javascript">
         $(document).ready(function(){
@@ -170,6 +135,7 @@
   })();
 </script>
 
+<script type="text/javascript"> var _ss = _ss || []; _ss.push(['_setDomain', 'https://koi-3Q3G4NFWRM.marketingautomation.services/net']); _ss.push(['_setAccount', 'KOI-1H3OR2GF6']); _ss.push(['_trackPageView']); (function() { var ss = document.createElement('script'); ss.type = 'text/javascript'; ss.async = true; ss.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'koi-3Q3G4NFWRM.marketingautomation.services/client/ss.js?ver=1.1.1'; var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ss, scr); })(); </script> 
     
 </head>
 
@@ -626,7 +592,7 @@
                                                                 </li></ul>
                             </li>
                                         
-                                            <li class=""><a href="http://go.ecreativeworks.com/contact">
+                                            <li class=""><a href="http://www.ecreativeworks.com/contact">
                             Contact Us
                         </a>
                                         
@@ -770,6 +736,7 @@ $(document).ready(function() {
 <li><a href="https://ecreativeworks.sharefile.com/login.aspx" target="_blank">ShareFile</a></li>
 <li><a href="https://webmail.ecreativeworks.com/" target="_blank">Web Mail</a></li>
 <li><a href="http://ecreativeworks.com/meetingcenter" target="_blank">Meeting Center</a></li>
+<li><a href="https://ecreativeworks.marketingautomation.services/auth/login/MzYwN7Q0tzQ1BQA" target="_blank">Marketing Automation</a></li>
 </ul>
                     </div>
                     
@@ -785,7 +752,7 @@ $(document).ready(function() {
     
             <div id="footer2">
                 <div id="footer2_copy">
-                    ©Copyright 1997 – 2015 Ecreativeworks — A Minneapolis, Minnesota Web Design &amp; Industrial Internet Marketing Firm 
+                    ©Copyright 1997 – 2016 Ecreativeworks — A Minneapolis, Minnesota Web Design &amp; Industrial Internet Marketing Firm 
                 </div>
                 
                 <div id="footer2_links">
@@ -793,22 +760,5 @@ $(document).ready(function() {
                 </div>
             </div>
         </div>    
-<script type="text/javascript" src="//cdn.callrail.com/companies/199948031/56147f229f2bbb29937e/12/swap.js">
-</script>
-<script type="text/javascript">
-piAId = '44102';
-piCId = '151482';
-
-(function() {
-                function async_load(){
-                                var s = document.createElement('script'); s.type = 'text/javascript';
-                                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-                                var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-                }
-                if(window.attachEvent) { window.attachEvent('onload', async_load); }
-                else { window.addEventListener('load', async_load, false); }
-})();
-</script>
-
 
 </body></html>
