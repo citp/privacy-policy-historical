@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the allcigs.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811073551id_/http%3A//allcigs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcigs.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184103id_/http%3A//allcigs.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Allcigs.com
+
+  
+
 
 Our website guarantees you complete adherence of privacy. The information we are provided in no case can be shared with any third party. We oppose the emailing of any junk mail, and do not sell user information to email lists or telemarketers.
 
 **Non-disclosure**
 
-Taking into account the fact that all orders made at our website are processed and shipped from out the United States, no personal or tax information can be disclosed to any state entity or government agency even upon the official request.
+Taking into account the fact that all orders made at our website are processed and shipped from outside of Europe and Australia, no personal or tax information can be disclosed to any state entity or government agency even upon the official request.
 
 **Security**
 
