@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liftweightsfaster.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924073010id_/http%3A//www.liftweightsfaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftweightsfaster.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163323id_/http%3A//www.liftweightsfaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lift Weights Faster
 
@@ -8,11 +8,11 @@ NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHAN
 
 1\. Eligibility
 
-Lift Weights Faster Win a Home gym Contest (the “Contest”) is open to legal residents of the continental (48) United States (excepting Rhode Island) and the District of Columbia who are at least eighteen (18) years old at the time of entry. Employees of Sponsor (as defined below) and other companies associated with the promotion of the Contest, and their respective parents, subsidiaries, affiliates and advertising and promotion agencies, as well as the immediate family (spouse, parents, siblings, and children) and household members of each such employee, are not eligible.
+Unapologetically Powerful Win a Home gym Contest (the “Contest”) is open to legal residents of the continental (48) United States (excepting Rhode Island) and the District of Columbia who are at least eighteen (18) years old at the time of entry. Employees of Sponsor (as defined below) and other companies associated with the promotion of the Contest, and their respective parents, subsidiaries, affiliates and advertising and promotion agencies, as well as the immediate family (spouse, parents, siblings, and children) and household members of each such employee, are not eligible.
 
 2\. Sponsor
 
-The Contest is sponsored by Sinkler Publishing LLC, a Minnesota Limited Liability Company d/b/a Lift Weights Faster (“Sponsor”), located at 2100-B Lyndale Ave S, Minneapolis, MN 55405.
+The Contest is sponsored by Sinkler Publishing LLC, a Minnesota Limited Liability Company d/b/a Unapologetically Powerful (“Sponsor”), located at 2100-B Lyndale Ave S, Minneapolis, MN 55405.
 
 3\. Agreement to Official Rules
 
@@ -20,13 +20,13 @@ Entry in the Contest constitutes entrant’s full and unconditional agreement to
 
 4\. Contest Period
 
-The Contest begins on 2015-03-03 00:00:00 and ends on 2014-03-10 10:00:00 (the “Contest Period”). Entries that are submitted before or after the Contest Period will be disqualified. Submissions will be accepted for the duration of the Contest Period.
+The Contest begins on 2015-12-01 00:00:00 and ends on 2015-12-07 10:00:00 (the “Contest Period”). Entries that are submitted before or after the Contest Period will be disqualified. Submissions will be accepted for the duration of the Contest Period.
 
 5\. How to Enter
 
 You may enter the Contest in either of the following ways:
 
-Online: You may enter by visiting our website at the following hyperlink: http://www.liftweightsfaster.com/, and following the directions provided to fill out and submit the required entry information. By entering the Contest online, you understand that you will be automatically subscribed to our mailing list, and may receive communications from us from time to time in the future, and you expressly consent to agree to such subscription and communications.
+Online: You may enter by visiting our website at the following hyperlink: http://www.unapologeticallypowerful.com/, and following the directions provided to fill out and submit the required entry information. By entering the Contest online, you understand that you will be automatically subscribed to our mailing list, and may receive communications from us from time to time in the future, and you expressly consent to agree to such subscription and communications.
 
 Alternate Method of Entry – By Mail: You may also enter by filling out a standard postcard, postage prepaid, setting forth [the words “Compelling headline goes that summarizes the prize! Entry”, your first and last name, address, city, state, zip code, e-mail address, year and date of birth], and mailing it to [2100-B Lyndale Ave S, Minneapolis, MN 55405, Attn: Jen Sinkler]. If you enter through this alternative method of entry, you will not be subscribed to our mailing list.
 
@@ -34,7 +34,7 @@ Limite one (1) submitted entry per person for the duration of the Contest Period
 
 6.Prize Drawing; Odds of WInning
 
-On or about 2014-03-17 19:00:00, the Sponsor will select the potential winners in a random drawing, without replacement, from among all eligible entries received. The odds of being selected depend on the total number of eligible entries.
+On or about 2015-12-07 19:00:00, the Sponsor will select the potential winners in a random drawing, without replacement, from among all eligible entries received. The odds of being selected depend on the total number of eligible entries.
 
 7.Winner Notification
 
@@ -67,17 +67,17 @@ NO PURCHASE IS NECESSARY.
 
 This promotion is in no way sponsored, endorsed or administered by, or associated with Facebook, Twitter, LinkedIn or Google. You understand that you are providing your information to the owner of this contest and not to Facebook, Twitter, LinkedIn or Google.
 
-liftweightsfaster.com PRIVACY POLICY
+unapologeticallypowerful.com PRIVACY POLICY
 
 PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.
 
 I. OVERVIEW
 
-Sinkler Publishing LLC (“Jen Sinkler”) recognizes and respects the privacy of users of liftweightsfaster.com (the “Website”). The following privacy policy, as modified from time to time by us as described below (the “Policy”), tells you about the information that liftweightsfaster.com collects through the Website and how we use the information we may collect. If you access the Website, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us.
+Sinkler Publishing LLC (“Jen Sinkler”) recognizes and respects the privacy of users of unapologeticallypowerful.com (the “Website”). The following privacy policy, as modified from time to time by us as described below (the “Policy”), tells you about the information that unapologeticallypowerful.com collects through the Website and how we use the information we may collect. If you access the Website, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us.
 
 II. UPDATES
 
-liftweightsfaster.com reserves the right to make changes to this Policy at any time, and will post any revised Policy on this page. You will know we have changed the Policy when you see a new updated date at the top of this Policy. liftweightsfaster.com will not notify its Website users of any such changes by e-mail or other personal contact. We encourage you to check the date of this Policy whenever you visit this Website so that you will know when you need to review the Policy for modifications. Please note that this Policy applies to all information collected online by liftweightsfaster.com.
+unapologeticallypowerful.com reserves the right to make changes to this Policy at any time, and will post any revised Policy on this page. You will know we have changed the Policy when you see a new updated date at the top of this Policy. unapologeticallypowerful.com will not notify its Website users of any such changes by e-mail or other personal contact. We encourage you to check the date of this Policy whenever you visit this Website so that you will know when you need to review the Policy for modifications. Please note that this Policy applies to all information collected online by unapologeticallypowerful.com.
 
 III. COLLECTION AND USE OF INFORMATION
 
@@ -103,11 +103,11 @@ VI. DISCLOSURE OF PERSONAL INFORMATION
 
 We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, collect debts, analyze and enhance data, including customers’ interaction with our site, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
 
-In addition, we often partner with third party companies, agents or contractors in order to offer joint promotions, advertisements, programs and marketing campaigns in which we believe our users may be interested. These companies are not permitted to use your personal information except for the purpose of participating in the partnership arrangement for which liftweightsfaster.com engages them.
+In addition, we often partner with third party companies, agents or contractors in order to offer joint promotions, advertisements, programs and marketing campaigns in which we believe our users may be interested. These companies are not permitted to use your personal information except for the purpose of participating in the partnership arrangement for which unapologeticallypowerful.com engages them.
 
-liftweightsfaster.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that liftweightsfaster.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
+unapologeticallypowerful.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that unapologeticallypowerful.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
 
-NOTWITHSTANDING ANYTHING SET FORTH HEREIN TO THE CONTRARY, liftweightsfaster.com RESERVES THE RIGHT TO USE YOUR PERSONAL INFORMATION (EXCLUSIVE OF ANY CREDIT CARD INFORMATION PROVIDED, IF ANY) FOR ANY LEGALLY PERMISSIBLE PURPOSE, IN liftweightsfaster.com’S SOLE DISCRETION. liftweightsfaster.com may use your personal information to provide promotional offers to individuals by means of email advertising, text/short message services, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
+NOTWITHSTANDING ANYTHING SET FORTH HEREIN TO THE CONTRARY, unapologeticallypowerful.com RESERVES THE RIGHT TO USE YOUR PERSONAL INFORMATION (EXCLUSIVE OF ANY CREDIT CARD INFORMATION PROVIDED, IF ANY) FOR ANY LEGALLY PERMISSIBLE PURPOSE, IN unapologeticallypowerful.com’S SOLE DISCRETION. unapologeticallypowerful.com may use your personal information to provide promotional offers to individuals by means of email advertising, text/short message services, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
 VII. SECURITY
 
@@ -117,6 +117,6 @@ Unfortunately, no security system can be guaranteed to be 100% secure. According
 
 VIII. CONTACT
 
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email info@liftweightsfaster.com.
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email info@unapologeticallypowerful.com.
 
 Our address is 2100-B Lyndale Ave S., Minneapolis, MN 55405.
