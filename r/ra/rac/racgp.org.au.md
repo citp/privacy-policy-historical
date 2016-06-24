@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219165436id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624041526id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
