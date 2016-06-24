@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909095453id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624100854id_/https%3A//www.arrow.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Arrow Electronics: Privacy Policy
+# Arrow Electronics, Inc. Privacy Policy | Arrow.com
 
-This policy applies to the collection, use, disclosure and protection of Personal Data, relating to customers of Arrow Electronics, Inc. and all of its subsidiaries and related entities (“Arrow”), suppliers of Arrow, and website users.  This policy is effective as of July 23, 2007 
+This policy applies to the collection, use, disclosure and protection of personal data, relating to customers of Arrow Electronics, Inc. and all of its subsidiaries and related entities (“Arrow”), suppliers of Arrow, and website users.  This policy is effective as of July 23, 2007.
 
  “Personal Data” means information pertaining to specific individuals, or by which specific individuals can be identified, including by name, identification number, address, or other personal characteristics or attributes.  Personal Data does not include aggregated statistics, compilations, anonymous data, or other derivative data that does not, alone or with other data, identify a specific individual.  “Data Subject” means an individual who is the subject of personal data. 
 
@@ -30,9 +30,9 @@ Arrow will only process Personal Data fairly and lawfully and will not use Perso
 
 Arrow uses the Personal Data that Arrow collects about you: to process orders; to help us to improve our site and your online experience; to provide you with information about our products and services; for ordering, customer support, payment, processing and service purposes; to transact business with us; for credit checks, collections and related billing or credit purposes; and as otherwise allowed by law.
 
-**Canada's anti-spam legislation (CASL)**
+**Canada's Anti-Spam Legislation (CASL)**
 
-Arrow Electronics and our affiliates comply with the [Canada Anti Spam Law](http://fightspam.gc.ca/eic/site/030.nsf/eng/home) effective July 1, 2014.
+Arrow Electronics and our affiliates comply with the [Canada Anti-Spam Law](http://fightspam.gc.ca/eic/site/030.nsf/eng/home) effective July 1, 2014.
 
 **Online Ordering:   If you place an order online, we need to know your name, email address, mailing address, credit card number, and the credit card's expiration date. We may also ask you for certain credit history and tax information.  This allows us to process and fulfill your orders and keep you up-to-date on the status of your order. **
 
@@ -62,7 +62,7 @@ It is Arrow’s policy not to transfer Personal Data to any entity, individual, 
 
 Personal information transferred to another country may be subject to all the laws of that country, including laws related to national security and anti-terrorism, which may permit law enforcement or regulatory agencies to obtain access to information held by private businesses.
 
-Arrow will deal fairly with each person whose Personal Data is in Arrow’s custody or control.
+Arrow will deal fairly with each person whose personal data is in Arrow’s custody or control.
 
 **Access** : Upon reasonable written request, Arrow will inform any person what Personal Data Arrow has about him or her, the purposes for which it is processed, the recipients or categories of recipients and whether any automatic processing takes place.  Arrow will take steps to correct or delete any inaccuracies in Personal Data pointed out to us, either directly or through making available self-service mechanisms.  Arrow will endeavor to notify recipients of your Personal Data of such changes where required.  However, Arrow may limit access, corrections, or deletions as permitted or required by applicable laws or regulations.  Arrow may establish reasonable rules for providing access to Personal Data, including procedures and fees for responding to Access Requests.
 
@@ -75,5 +75,8 @@ Arrow will deal fairly with each person whose Personal Data is in Arrow’s cust
   * This policy is designed to comply with the Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce in consultation with the European Commission that are available to U.S. companies under the European Commission’s directive on data protection.  As Arrow Electronics, Inc. is a U.S. company, it has voluntarily decided to comply with the U.S.-EU Safe Harbor Framework and certify its adherence to the Safe Harbor Privacy Principles.  To learn more about the Safe Harbor program, and to view Arrow’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/")
   * This document describes Arrow’s privacy policy.  However, this policy does not grant or create any additional rights or remedies for the Data Subjects or any additional obligations on the part of Arrow other than those obligations required by applicable law, including the U.S.-EU Safe Harbor Framework. 
 
-  
 
+
+[ Haga clic aquí para ver la política de privacidad de México. 
+
+](https://static4.arrow.com/~/media/images/legal/aviso-de-privacidad-acm-clientes-y-proveedores-actualizado-nueva-direcci.pdf?la=en)
