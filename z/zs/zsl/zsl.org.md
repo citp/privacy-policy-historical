@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221130023id_/http%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624024152id_/https%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.*
 
 # ZSL Privacy Policy | Zoological Society of London (ZSL)
 
@@ -40,7 +40,7 @@ ZSL try to ensure that our website offers visitors an enjoyable experience. To h
 
 Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.
 
-Find out more about the cookies set by the ZSL website and how to delete and control them here: [Cookie information](https://admin.zsl.org/cookies-listing.html)
+Find out more about the cookies set by the ZSL website and how to delete and control them here: [Cookie information](http://www.zsl.org/cookies-listing.html)
 
 ### Analytics
 
