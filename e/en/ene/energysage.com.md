@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231162432id_/http%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624062020id_/http%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.*
 
 # EnergySage™ Privacy Policy | EnergySage
 
@@ -52,7 +52,7 @@ EnergySage will not facilitate the merging of personally identifiable informatio
 
 Users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads?hl=en&sig=ACi0TChiZ_GpFN15FW2HJOyWuuroK5SZvWq8mIUefl5UVMyvsLn0isBzUWUgki4ua_r3IvEATv33IvEVKvwmKWFC3pVM2FzA5Llf5Ir_sk_0RXRfHJHi4lFLV9U-Hvjuuv35Etd2aRF6rEt0gANLXGTpPOpZiTp0xguNDEWYyQ74-mfJ2HiNNN0). 
 
-Users can also opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/). 
+Users can also opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by clicking here or going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/). 
 
 Whenever your non-personal information is used or is stored together with the your personal information, it will be treated as personal information. 
 
