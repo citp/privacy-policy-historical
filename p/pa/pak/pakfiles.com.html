@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pakfiles.com privacy policy that was archived on 2015-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217065018id_/http%3A//www.pakfiles.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pakfiles.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624213812id_/http%3A//www.pakfiles.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -228,7 +228,7 @@
             </div>
         </div>
     </div>
-    <p>© 2015 Pakfiles.com </p>  
+    <p>© 2016 Pakfiles.com </p>  
     <p>Disclaimer: pakfiles.com is not responsible for any content linked to or referred to from these pages. All videos hosted on third party websites</p>      
 </div>
 
@@ -296,16 +296,17 @@ window.onload = init;
                 delay: 50
             });
 
-              $.getJSON("https://freegeoip.net/json/", function(data) {
+
+
 			$( ".ad_container" ).each(function( index ) {
 				var bplace = $( this ).data("bplace");
-				var url = "http://www.pakfiles.com/ads/?place="+bplace+"&ccode="+data.country_code;
+				var url = "http://www.pakfiles.com/ads/?place="+bplace+"&ccode=US";
 				$(this).append('<iframe frameborder="0" width="100%" scrolling="no"  src="'+url+'"></iframe>');
 				$('iframe').load(function() {
     					this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
 				});
 			});
-              });
+
         </script>
 
     <!-- Login Popout
