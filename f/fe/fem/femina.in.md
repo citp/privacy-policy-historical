@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210182405id_/http%3A//femina.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624090018id_/http%3A//www.femina.in/privacypolicy) for the most accurate reproduction.*
 
 # For all the women you are | femina.in
 
