@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the famefocus.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316162013id_/http%3A//www.famefocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famefocus.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122032id_/http%3A//www.famefocus.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Fame Focus
-
-## Privacy
 
 This Privacy Policy outlines the types of personal information that is received and collected and how it is used.  
 **1\. Log Files**  
