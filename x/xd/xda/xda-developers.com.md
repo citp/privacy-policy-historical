@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231133100id_/http%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624061748id_/http%3A//www.xda-developers.com/xda-developers-privacy-policy) for the most accurate reproduction.*
 
 # XDA-Developers Privacy Policy
 
@@ -91,6 +91,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-JB Online Media, LLC  
+KC Online Media, LLC  
 http://www.xda-developers.com  
 webmaster@xda-developers.com 
