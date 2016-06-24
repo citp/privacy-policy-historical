@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcstore.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055553id_/http%3A//www.ufcstore.com/helpdesk/Privacy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcstore.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624061424id_/http%3A//www.ufcstore.com/helpdesk/Privacy%233) for the most accurate reproduction.*
 
 # Privacy Information
 
