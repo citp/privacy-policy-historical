@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217131731id_/http%3A//www.zetaboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624203504id_/http%3A//www.zetaboards.com/privacy) for the most accurate reproduction.*
 
 # ZetaBoards Privacy Policy
 
