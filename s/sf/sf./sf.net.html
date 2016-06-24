@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the sf.net privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225224021id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sf.net privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624083149id_/https%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" defer="" src="//analytics.slashdotmedia.com/sdm.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQCV1BaGwEBV1RbBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
   
-  <link rel="shortcut icon" href="http://slashdotmedia.com/wp-content/themes/slashdotmedia/images/favicon.ico">
-  <link rel="stylesheet" type="text/css" media="all" href="http://slashdotmedia.com/wp-content/themes/slashdotmedia/style.css">
-  <link rel="pingback" href="http://slashdotmedia.com/xmlrpc.php">
+  <link rel="shortcut icon" href="https://slashdotmedia.com/wp-content/themes/slashdotmedia/images/favicon.ico">
+  <link rel="stylesheet" type="text/css" media="all" href="https://slashdotmedia.com/wp-content/themes/slashdotmedia/style.css">
+  <link rel="pingback" href="https://slashdotmedia.com/xmlrpc.php">
   <meta name="viewport" content="width=1000, maximum-scale=1.0">
   
   
-  <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <!--[if IE 7]><link rel="stylesheet" href="http://slashdotmedia.com/wp-content/themes/slashdotmedia/css/ie7.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="https://slashdotmedia.com/wp-content/themes/slashdotmedia/css/ie7.css" type="text/css" media="screen" /><![endif]-->
     
   
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+  <script type="text/javascript">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
@@ -23,29 +23,61 @@
 	ga('send', 'pageview');
   </script>
   
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Statement - Slashdot Media</title>
-<link rel="canonical" href="http://slashdotmedia.com/privacy-statement/">
+<link rel="canonical" href="https://slashdotmedia.com/privacy-statement/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Statement - Slashdot Media">
-<meta property="og:description" content="SLASHDOT MEDIA PRIVACY POLICY Effective Date: April 21, 2015 This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with the following Slashdot Media Internet properties (individually a “Site” and collectively “Sites”): SlashdotMedia.com … Continue reading →">
-<meta property="og:url" content="http://slashdotmedia.com/privacy-statement/">
+<meta property="og:description" content="Privacy Statement SLASHDOT MEDIA PRIVACY POLICY Effective Date: April&nbsp;21, 2016 This policy (the “Privacy Policy” or “Policy”) describes our policies on the collection, use and disclosure of your information in connection with the following Slashdot Media Internet properties (individually a … Continue reading →">
+<meta property="og:url" content="https://slashdotmedia.com/privacy-statement/">
 <meta property="og:site_name" content="Slashdot Media">
-<meta property="og:image" content="//privacy-policy.truste.com/privacy-seal/Slashdot-Media/seal?rid=3326e79e-56f0-46bb-a027-ed1bd90456d6">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Slashdot Media » Feed" href="http://slashdotmedia.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Slashdot Media » Comments Feed" href="http://slashdotmedia.com/comments/feed/">
-<link rel="stylesheet" id="bootstrap-css" href="http://slashdotmedia.com/wp-content/themes/slashdotmedia/css/bootstrap.css" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://slashdotmedia.com/wp-content/themes/slashdotmedia/js/modernizr.js"></script>
-<script type="text/javascript" src="http://slashdotmedia.com/wp-content/themes/slashdotmedia/js/all.js"></script>
-<script type="text/javascript" src="http://slashdotmedia.com/wp-content/themes/slashdotmedia/js/script.js"></script>
-<script type="text/javascript" src="http://fast.fonts.com/jsapi/9e2d503a-8804-4114-bb7b-09644fc3da46.js"></script>
+<link rel="alternate" type="application/rss+xml" title="Slashdot Media » Feed" href="https://slashdotmedia.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Slashdot Media » Comments Feed" href="https://slashdotmedia.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/slashdotmedia.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://slashdotmedia.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="bootstrap-css" href="https://slashdotmedia.com/wp-content/themes/slashdotmedia/css/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_stylesheet-css" href="https://slashdotmedia.com/wp-content/plugins/captcha/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://slashdotmedia.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_desktop_style-css" href="https://slashdotmedia.com/wp-content/plugins/captcha/css/desktop_style.css" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://slashdotmedia.com/wp-content/themes/slashdotmedia/js/modernizr.js"></script>
+<script type="text/javascript" src="https://slashdotmedia.com/wp-content/themes/slashdotmedia/js/all.js"></script>
+<script type="text/javascript" src="https://slashdotmedia.com/wp-content/themes/slashdotmedia/js/script.js"></script>
+<script type="text/javascript" src="https://fast.fonts.com/jsapi/9e2d503a-8804-4114-bb7b-09644fc3da46.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"fc5af47888","ajaxurl":"https:\/\/slashdotmedia.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://slashdotmedia.com/wp-content/plugins/captcha/js/front_end_script.js"></script>
+<link rel="https://api.w.org/" href="https://slashdotmedia.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://slashdotmedia.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://slashdotmedia.com/wp-includes/wlwmanifest.xml"> 
 
-<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script><meta name="really-static looptest" content="testtesttest">	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<style type="text/css" id="custom-background-css">
+<link rel="shortlink" href="https://slashdotmedia.com/?p=719">
+<link rel="alternate" type="application/json+oembed" href="https://slashdotmedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fslashdotmedia.com%2Fprivacy-statement%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://slashdotmedia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fslashdotmedia.com%2Fprivacy-statement%2F&amp;format=xml">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
 </style>
 </head>
@@ -57,49 +89,48 @@ body.custom-background { background-color: #ffffff; }
  	 <!--============================ HEADER ============================-->
 	<header>
 		<div class="wrapper clearfix">
-			<h1><a href="http://slashdotmedia.com"><img src="http://slashdotmedia.com/wp-content/themes/slashdotmedia/images/logo_slashdot_hd.png"><span>slashdotmedia</span></a></h1>
+			<h1><a href="https://slashdotmedia.com"><img src="https://slashdotmedia.com/wp-content/themes/slashdotmedia/images/logo_slashdot_hd.png"><span>slashdotmedia</span></a></h1>
 			<div class="right">
 				<div class="top clearfix">
-					<form method="get" id="searchform" action="http://slashdotmedia.com/">
+					<form method="get" id="searchform" action="https://slashdotmedia.com/">
 				      <input type="text" id="s" name="s" placeholder="Search">
 				      <input type="submit">
 					</form>
-					<span class="phone"> Phone +1.212.725.6550</span>
+					<span class="phone"> Phone +1.858.454.5900</span>
 					<div class="socials">
-						<a href="http://www.facebook.com/SlashdotMedia" class="fb" target="_blank">Facebook</a>
-						<a href="http://twitter.com/slashdotmedia" class="twtr" target="_blank">Twitter</a>
-						<a href="http://www.linkedin.com/company/slashdot-media" class="lkn" target="_blank">LinkedIn</a>
-						<a href="http://slashdotmedia.com/contact/" class="cnt">Contact</a>
+						<a href="https://www.facebook.com/SlashdotMedia" class="fb" target="_blank">Facebook</a>
+						<a href="https://twitter.com/slashdotmedia" class="twtr" target="_blank">Twitter</a>
+						<a href="https://www.linkedin.com/company/slashdot-media" class="lkn" target="_blank">LinkedIn</a>
+						<a href="https://slashdotmedia.com/contact/" class="cnt">Contact</a>
 					</div>
 				</div>
 				<div class="bot clearfix">
 					<nav>
-						<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-87"><a href="http://slashdotmedia.com/about-slashdot-media/">About Slashdot Media</a>
+						<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-87"><a href="https://slashdotmedia.com/about-slashdot-media/">About Slashdot Media</a>
 <ul class="sub-menu">
-	<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="http://slashdotmedia.com/about-slashdot-media/why-slashdotmedia/">Why Slashdot Media?</a></li>
-	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://slashdotmedia.com/about-slashdot-media/whos-on-our-network/">Who’s On Our Network?</a></li>
-	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://slashdotmedia.com/about-slashdot-media/sourceforge-net/">SourceForge.net</a></li>
-	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://slashdotmedia.com/about-slashdot-media/slashdot-org/">Slashdot.org</a></li>
+	<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://slashdotmedia.com/about-slashdot-media/why-slashdotmedia/">Why Slashdot Media?</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://slashdotmedia.com/about-slashdot-media/whos-on-our-network/">Who’s On Our Network?</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://slashdotmedia.com/about-slashdot-media/sourceforge-net/">SourceForge.net</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://slashdotmedia.com/about-slashdot-media/slashdot-org/">Slashdot.org</a></li>
 </ul>
 </li>
-<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-143"><a href="http://slashdotmedia.com/advertising-and-marketing-services/">Advertising &amp; Marketing Services</a>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-143"><a href="https://slashdotmedia.com/advertising-and-marketing-services/">Advertising &amp; Marketing Services</a>
 <ul class="sub-menu">
-	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://slashdotmedia.com/advertising-and-marketing-services/display-advertising/">Display Advertising</a></li>
-	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="http://slashdotmedia.com/advertising-and-marketing-services/demand-generation/">Demand Generation</a></li>
-	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="http://slashdotmedia.com/advertising-and-marketing-services/marketing-services/">Marketing Services</a></li>
-	<li id="menu-item-1210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1210"><a href="http://slashdotmedia.com/advertising-and-marketing-services/mobile-solutions/">Mobile Solutions</a></li>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://slashdotmedia.com/advertising-and-marketing-services/display-advertising/">Display Advertising</a></li>
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://slashdotmedia.com/advertising-and-marketing-services/demand-generation/">Demand Generation</a></li>
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://slashdotmedia.com/advertising-and-marketing-services/marketing-services/">Marketing Services</a></li>
+	<li id="menu-item-1210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1210"><a href="https://slashdotmedia.com/advertising-and-marketing-services/mobile-solutions/">Mobile Solutions</a></li>
 	<li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a href="http://www.slashdotmedia.com/solution-centers/">Solution Centers</a></li>
-	<li id="menu-item-1387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1387"><a target="_blank" href="http://slashdotmedia.com/wp-content/uploads/2015/07/Slashdot-Media-Kit-2015.pdf">Media Kit</a></li>
+	<li id="menu-item-1387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1387"><a target="_blank" href="http://slashdotmedia.com/wp-content/uploads/2016/04/Slashdot-Media-Kit-2016.pdf">Media Kit</a></li>
 </ul>
 </li>
-<li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819"><a href="http://slashdotmedia.com/news-press/">News &amp; Press</a>
+<li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819"><a href="https://slashdotmedia.com/news-press/">News &amp; Press</a>
 <ul class="sub-menu">
-	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://slashdotmedia.com/news-press/news/">News</a></li>
-	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://slashdotmedia.com/news-press/press-releases/">Press Releases</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://slashdotmedia.com/news-press/news/">News</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://slashdotmedia.com/news-press/press-releases/">Press Releases</a></li>
 </ul>
 </li>
-<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://slashdotmedia.com/blog/">Blog</a></li>
-<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://slashdotmedia.com/contact/">Contact</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://slashdotmedia.com/contact/">Contact</a></li>
 </ul></div> 
 					</nav>
 				</div>
@@ -120,26 +151,25 @@ body.custom-background { background-color: #ffffff; }
   <h1 class="entry-title">Privacy Statement</h1>	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p></p><h1>SLASHDOT MEDIA PRIVACY POLICY</h1><p></p>
-<p><span style="font-weight: bold;">Effective Date: April 21, 2015</span></p>
-<p></p>
-<p>This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with the following Slashdot Media Internet properties (individually a “Site” and collectively “Sites”):</p>
+		<h1>Privacy Statement</h1>
+<h1>SLASHDOT MEDIA PRIVACY POLICY</h1>
+<span style="font-weight: bold;">Effective Date: April&nbsp;21, 2016</span>
 
+This policy (the “Privacy Policy” or “Policy”) describes our policies on the collection, use and disclosure of your information in connection with the following Slashdot Media Internet properties (individually a “Site” and collectively “Sites”):
 <ul>
-	<li><span>SlashdotMedia.com</span></li>
-	<li><span>SourceForge.net</span></li>
-	<li><span>Slashdot.org</span></li>
-	<li><span>Freecode.com</span></li>
+	<li>SlashdotMedia.com</li>
+	<li>SourceForge.net</li>
+	<li>Slashdot.org</li>
+	<li>Freecode.com</li>
 </ul>
-<p>Information collected on these Sites may be used in the manner described below by our parent entity, DHI Group, Inc., subsidiaries and affiliates acting on our behalf (collectively, “DHI”). &nbsp;When used herein, the terms, “we”, “us”, and “our” refer to DHI.</p>
-<p>We are committed to good privacy practices regarding your personally identifiable information. Your loyalty as a customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the “Privacy Policy” or “Policy”), demonstrate our commitment to making your experience with us an enjoyable and satisfying one.</p>
-<div id="2399d385-ae8d-4922-8259-58cb1fc5872e"><script src="//privacy-policy.truste.com/privacy-seal/Slashdot-Media/asc?rid=2399d385-ae8d-4922-8259-58cb1fc5872e"></script><a title="TRUSTe European Safe Harbor certification" href="//privacy.truste.com/privacy-seal/Slashdot-Media/validation?rid=3326e79e-56f0-46bb-a027-ed1bd90456d6" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/Slashdot-Media/seal?rid=3326e79e-56f0-46bb-a027-ed1bd90456d6" alt="TRUSTe European Safe Harbor certification"></a></div>
-<p>We have been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with&nbsp;<a href="http://www.truste.com/privacy-program-requirements/">TRUSTe’s program requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>. If you are not satisfied with our response you can contact TRUSTe&nbsp;<a href="https://feedback-form.truste.com/watchdog/request">here</a>. The TRUSTe program covers information collected through the Sites.</p>
-<p>DHI complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DHI Group, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DHI Group, Inc.’s certification, please visit&nbsp;<a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
-<p>This Privacy Policy governs your interaction with the Sites and your registration for and use of our online services (collectively, the “Services”). Except as set forth within this Privacy Policy and our Terms of Use Agreement and other published guidelines, we do not release personally identifiable information about our users and visitors without their permission.</p>
-<p>We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.</p>
+Information collected on these Sites may be used in the manner described below by SourceForge Media LLC (whose registered office is at 1660 Logan Avenue, Suite A, Sa Diego, CA, 92113, USA) and its subsidiaries and affiliates acting on its behalf (collectively, “SourceForge Media”, “we”, “us” and “our”).
 
-<ol style="list-style-type: upper-alpha">
+We are committed to good privacy practices regarding your personal data. Your loyalty as a customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this Privacy Policy, demonstrate our commitment to making your experience with us an enjoyable and satisfying one.
+
+This Privacy Policy governs your interaction with the Sites, any support services or information provided on or in connection with the Sites or our other services and your registration for and use of our online services (collectively, the “SourceForge Services”). Except as set forth within this Privacy Policy and our Terms of Use Agreement and other published guidelines, we do not release personal data about our users and visitors without their permission. By proceeding to use the SourceForge Services you consent that we may process the personal data that we collect from you in accordance with this Privacy Policy.
+
+We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
+<ol style="list-style-type: upper-alpha;">
 	<li><a href="#A">The information we gather</a></li>
 	<li><a href="#B">How we use the information we gather</a></li>
 	<li><a href="#C">How we share information we gather</a></li>
@@ -152,104 +182,197 @@ body.custom-background { background-color: #ffffff; }
 	<li><a href="#J">Changes to this Privacy Policy</a></li>
 	<li><a href="#K">Questions?</a></li>
 </ol>
-<p><a name="A"></a></p><h3>A. The information we gather</h3><p></p>
-<p>We gather two (2) types of information about users:</p>
+<a name="A"></a>
+<h3>A. The information we gather</h3>
+We gather the following types of information about users:
 
+<strong>Information you give us</strong>
+
+In certain areas of the Sites, such as those in which you complete a profile, submit your resume, create a new account, or enter contests sponsored by us or promotions, we may request that you provide us with certain personal data such as your e-mail address, name, postcode, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional.
+
+<strong>Information we collect about you</strong>
+
+When you use the Sites we may automatically collect technical information and information about your visit including pages you visited, the order in which they were visited, page interaction information (such as the links you “clicked”), IP address, operating system and browser software.
+
+<strong>Information we receive from other sources</strong>
+
+We work closely with third parties (including, for example. business partners, sub-contractors in technical and payment services and advertising networks) and may receive information about&nbsp;you from them.
+
+<strong>Aggregated data</strong>
+
+We may aggregate the data we collect from you (including the IP addresses, operating systems and browser software) (“Aggregated Data”) to help us identify the most popular areas of the Sites and determine the effectiveness of our promotional activities. We may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements. When we provide this information, we take legal and technical measures to anonymise and de-identify the data so that it can not be associated back to you.
+
+<span style="font-style: italic;">SlashDot Media services&nbsp;</span><span style="font-style: italic;">are not available to children under 13 years of age.</span><span style="font-weight: 300;">&nbsp;We do not knowingly collect personally identifiable information from children under 13 years of age.</span>
+
+<a name="B"></a>
+<h3>B. How we use the information we gather</h3>
+Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, we: (a) encourage all third parties involved, including but not limited to advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personal data in a responsible manner; and (b) in accordance with relevant privacy laws put in place appropriate technical and organisational measures to ensure the security of your personal data. However, notwithstanding those measures we do not assume any responsibility for any actions or omissions of third parties to the fullest extent permitted by law, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party&nbsp;associated with us, or who claims association with us, who you feel is improperly collecting or using&nbsp;information about you, please contact&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>.
 <ol>
-	<li><span style="font-weight: bold;">Non-personally identifiable information (information that does not identify a specific individual):</span>&nbsp;When visitors use the Services, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which links were “clicked.” Collecting such information involves the collection and logging of IP addresses, operating system, and browser software used by each user of the Services. Although such information is not personally identifiable, we can determine from the IP address a visitor’s Internet Service Provider and the geographic location of his or her point of connectivity. The non-personally identifiable information we collect helps us identify the most popular areas of the Sites and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements. We collect non-personally identifiable information in part through the use of “cookies.” For more information, read our section entitled “Cookies” below.</li>
-	<li><span style="font-weight: bold;">Personally identifiable information:</span>&nbsp;In certain areas of the Services, such as those in which you complete a profile, submit your resume, create a new account, or enter DHI-sponsored contests or promotions, we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional.</li>
-</ol>
-<p><span style="font-style: italic;">DHI Services&nbsp;</span><span style="font-style: italic;">are not available to children under 13 years of age.</span><span>&nbsp;We do not knowingly collect personally identifiable information from children under 13 years of age.</span></p>
-<p><a name="B"></a></p><h3>B. How we use the information we gather</h3><p></p>
-<p>Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while we encourage all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personally identifiable information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with us, or who claims association with us, who you feel is improperly collecting or using information about you, please contact&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>.</p>
-
-<ol>
-	<li><span style="font-weight: bold;">How we use non-personally identifiable information:</span>&nbsp;We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our visitors and users, and by measuring demographics and interests regarding specific areas of the Services. We may provide statistical information based on this data to advertisers, users, and other current and potential business partners. We may also use the aggregate data to inform these third parties as to the number of people who have seen and clicked through links to their sites.</li>
-
-        <li><span style="font-weight: bold;">How we use personally identifiable information:</span>&nbsp;We may use the personally identifiable information a user submits for any purposes related to our business, including, but not limited:
-
-<ol style="list-style-type: lower-alpha">
+	<li><strong>How we use Aggregated Data</strong>: We use Aggregated Data to build higher quality, more useful SourceForge Services by performing statistical analyses of the collective characteristics and behavior of our visitors and users, and by measuring demographics and interests regarding specific areas of the SourceForge Services. We may provide statistical information based on this data to advertisers, users, and other current and potential business partners. We may also use Aggregated Data to inform these third parties as to the number of people who have seen and clicked through links to their sites. With respect to surveys, we will treat information provided by you in accordance with this section and Section F (Surveys &amp; Sweepstakes) below. We will disclose only Aggregated Data regarding users, i.e., anonymous information that does not identify any specific individual. Circumstances under which we would publicly disclose such Aggregated Data include, but are not limited to, sharing survey results with the site population, providing data to our advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications. Where surveys allow users to submit written comments, and where we advise users of the possibility of such disclosure at the time they take the survey, we reserve the right to disclose any information provided by users, provided that no personal data identifying a specific user is disclosed. Participation in surveys is at a user’s option. We do not conduct mandatory surveys..</li>
+	<li><strong>How we use personal data</strong>: We may use personal data a user submits for the following purposes related to our business:
+<ol style="list-style-type: lower-alpha;">
 	<li>To understand a user’s needs and create content that is relevant to the user;</li>
 	<li>To generate statistical studies;</li>
 	<li>To conduct market research and planning by sending user surveys;</li>
-	<li>To notify user referrals of DHI<span>&nbsp;services, information, or products when a user requests that we send such information to referrals;</span></li>
+	<li>To notify user referrals of SlashDot Media&nbsp;services, information, or products when a user requests that we send such information to referrals;</li>
 	<li>To improve services, information, and products;</li>
-	<li>To help a user complete a transaction, or provide services or customer support to users and to recipients of DHI products;</li>
-	<li>To communicate with the user and with recipients of DHI products and services;</li>
-	<li><span>To email users about services, information, products and offers from our business partners (and as set forth in the Section <a href="#C">How we share information we gather</a>);</span></li>
+	<li>To help a user complete a transaction, or provide services or customer support to users and to recipients of SlashDot Media products;</li>
+	<li>To communicate with the user and with recipients of SourceForge Media products and services including continuing to provide users with information (by electronic means or otherwise) about other services we offer that are similar to those that the user have already received or enquired about;</li>
+	<li>Where we have a user’s consent to email users about services, information, products and offers from our business partners (and as set forth in the Section &nbsp;<a href="#C">How we share information we gather</a>);</li>
 	<li>To personalize a Site for the user;</li>
 	<li>To notify the user of any changes with a Site which may affect the user;</li>
 	<li>To enforce terms of use on a Site;</li>
 	<li>To allow the user to purchase products, access services, or otherwise engage in activities the user selects; and</li>
 	<li>To allow us to contact you by phone and/or email.</li>
 </ol>
-</li></ol>
-<p>User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when a user voluntarily and publicly discloses personally identifiable information, such as when a user posts personally identifiable information in conjunction with content subject to an open source license, uses features to send a message to another user, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. We are not responsible for any consequences which may occur from the use of personally identifiable information that a user chooses to submit to public pages.</p>
-<p>With respect to surveys, in the event that responses are publicly disclosed, users will be notified at the time they take the survey. We will disclose only aggregate information regarding its users, i.e., anonymous information that does not identify any specific individual. Circumstances under which we would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to our advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications. Where surveys allow users to submit written comments, and where we advise users of the possibility of such disclosure at the time they take the survey, we reserve the right to disclose any information provided by users, provided that no personally identifiable information identifying a specific user is disclosed. Participation in surveys is at a user’s option. &nbsp;We do not conduct mandatory surveys.</p>
-<p><a name="C"></a></p><h3>C. How we share information we gather</h3><p></p>
-<p>Subject to the foregoing, we use your personally identifiable information in several ways. We may share your personal information with service providers to help us with our business activities such as processing credit cards, email marketing, offering customer service, or operating a community forum. &nbsp;These companies are authorized to use your personally identifiable information only as necessary to provide these services to us. We require that these third parties establish safeguards to protect the confidentiality of the information that we provide them. We take steps to ensure they subscribe to Safe Harbor, are subject to EU Directive or another adequacy finding, or we enter into a written agreement requiring that they provide at least the same level of protection as required by relevant Safe Harbor principles.</p>
-<p>In addition, we reserve the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the DHI corporate family and unrelated third parties. Aggregate information is used in a collective manner and no single person can be identified by such compiled information.</p>
-<p>We may share certain data from SourceForge.net, Freecode.com, and Slashdot.org with researchers and research organizations for the purpose of supporting academic and scholarly research on free and/or open source software. &nbsp;We may further choose to establish agreements for these parties to act in a clearinghouse capacity and authorize them to share this data with other researchers studying free and/or open source software. &nbsp;When data from these websites is transmitted to researchers, we make commercially reasonable efforts to remove personally identifiable information from data fields designed to capture personally identifiable information (other than user names and information that users have made publicly available through one of the sites). &nbsp;We, however, do not guarantee the complete removal of information that may identify a user, particularly in cases where the user has provided that information in comment fields or other fields not specifically designed for the collection of identifiers.</p>
-<p>In order to effectively tailor our services, these Sites may sell your personal information third party consultants and business partners, including, but not limited to other lead generation companies (collectively “Third Party Contractors”) to collect, compile, organize, and market to you related services.</p>
-<p>When you submit any personal identifiable information on a Site, we will obtain your consent authorizing the Sites to sell to Third Party Contractors, any and all personally identifiable information that is necessary to enable additional service offerings.</p>
-<p>Please note that we reserve the right to disclose information submitted by or concerning any visitor or user as we reasonably feel is necessary to protect our systems or business. We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We cooperate with law enforcement agencies in identifying those who may be using our servers or Services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend or terminate your use of the Sites in connection with any suspected illegal or infringing activity or if you are in violation of our Terms of Use Agreement or other published guidelines.</p>
-<p>If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. DHI reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of DHI’s or its affiliated entities’ assets or stock.</p>
-<p><a name="D"></a></p><h3>D. Tracking Technologies</h3><p></p>
-<h4>Pixels</h4>
-<p>We use pixels, or transparent GIF files, to help manage online advertising. These pixels are provided by our ad management partner, DoubleClick. These files enable our ad management partner to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to&nbsp;<a href="http://www.google.com/privacy/ads/">http://www.google.com/privacy/ads/</a>&nbsp;or you may also opt out by clicking&nbsp;<a href="http://www.networkadvertising.org/consumer/opt_out.asp">here</a>.</p>
-<h4>Framing</h4>
-<p>The Sites may utilize framing and masking techniques to make it appear that the user is still on the Site when the user is actually on a third party website. We also have co-branding relationships with certain partners. In these relationships, you will notice our service platform on our partner’s page. In this situation, both parties are collecting your data and both privacy policies govern the data collected. We will not share your data with third parties without your consent in these and other relationships. We encourage you to be aware when you leave our Sites and to read the privacy policies of each and every website that collects personally identifiable information.</p>
-<h4>Web beacons</h4>
-<p>We use web beacons from time to time. A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable us to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer. Such web beacons may be provided by our third party advertising companies to help manage and optimize any online advertising.</p>
-<p>To opt out of targeted advertising delivered by Network Advertising Initiative members, click here:&nbsp;<a href="http://www.networkadvertising.org/consumer/opt_out.asp">http://www.networkadvertising.org/consumer/opt_out.asp</a></p>
-<h4>Cookies</h4>
-<p>We use cookies on the Sites. A “browser” or “HTTP” cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. We may use browser cookies to personalize a user’s pages at a Site or Sites, to remember a user when the user registers for products or services, for fraud prevention, or to track visits to a Site or across our Sites. If a user does not want us or our partners to deploy browser cookies in the user’s browser when the user visits the Sites, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on our Sites.</p>
-<p>We also may use local shared objects, also known as “Flash cookies” to store your preferences or display content based upon what you view on our website to personalize your visit. Flash cookies are different from “browser” cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, including how to delete Flash cookies, click here for additional information:&nbsp;<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>.</p>
-<p>The ads appearing on the Sites may be delivered to visitors by third parties, such as Google. The third party advertising technology that we use on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, our advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, our partners may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. The use of cookies enables our partners to serve ads to users based on such user’s visit to our Sites and other sites on the Internet. As with other cookies, and consistent with our policy on cookies stated above, the user may block or delete such cookies from the user’s drive or memory. For more information about Google, Google’s use of cookies, and how to “opt out” of Google’s email/information lists, please click here:&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>. As noted in the Web Beacon discussion above, users also can opt-out of receiving these types of targeted network advertisements from many advertising networks by clicking&nbsp;<a href="http://www.networkadvertising.org/consumer/opt_out.asp">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
-<h4>Log files</h4>
-<p>Our web servers may automatically log aggregate information, such as a user’s IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites.</p>
-<h4>Third party web site links &amp; subdomains</h4>
-<p>Links to third party web sites or widgets to enable sharing of information through social networks on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. We have not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. We do not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, we encourage the user to read their privacy statements. The user accesses such sites at user’s own risk.</p>
-<p>With respect to SourceForge.net, we deliver the following services via subdomains:</p>
+</li>
+</ol>
+User names, identifications, and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when a user voluntarily and publicly discloses personal data, such as when a user posts personal data in conjunction with content subject to an open source license, uses features to send a message to another user, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personal data may be used by visitors of these pages to send unsolicited messages. We are not responsible for any consequences which may occur from the use of personal data that a user chooses to submit to public pages.
 
+<a name="C"></a>
+<h3>C. How we share information we gather</h3>
+We may share your personal data in the following ways:
+<ol style="list-style-type: lower-alpha;">
+	<li>We may share your personal information with service providers to help us with our business activities such as processing credit cards, email marketing, offering customer service, or operating a community forum. We include provisions within our contract with these companies to ensure that they: (i) use your personal data only as necessary to provide these services to us; and (ii establish safeguards to protect the confidentiality of the information that we provide them.</li>
+	<li>We may share Aggregated Data complied from information collected from users of the Sites, without prior notice, with entities that are part of the SourceForge Media corporate family and unrelated third parties. Aggregated Data is used in a collective manner and no single person can be identified by such compiled information.</li>
+	<li>We may share certain data from SourceForge.net, Freecode.com, and Slashdot.org with researchers and research organizations for the purpose of supporting academic and scholarly research on free and/or open source software. We may further choose to establish agreements for these parties to act in a clearinghouse capacity and authorize them to share this data with other researchers studying free and/or open source software. When data from these websites is transmitted to researchers, we make commercially reasonable efforts to remove personally identifiable information from data fields designed to capture personally identifiable information (other than user names and information that users have made publicly available through one of the sites). We, however, do not guarantee the complete removal of information that may identify a user, particularly in cases where the user has provided that information in comment fields or other fields not specifically designed for the collection of identifiers.</li>
+	<li>We may disclose information submitted by or concerning any visitor or user as we reasonably feel is necessary to protect our systems or business;</li>
+	<li>We may also disclose your personal data as required by law, such as to comply with legal processes, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We cooperate with law enforcement agencies in identifying those who may be using our servers or the SourceForge Services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution, or to suspend&nbsp;or terminate your use of the Sites in connection with any suspected illegal or infringing activity or if you are in violation of our Terms of Use Agreement or other published guidelines.</li>
+	<li>If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personal data. SourceForge Media reserves the right to assign, sell, license, or otherwise transfer to a third party your personal data in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of SourceForge Media’s or its affiliated entities’ assets or stock.</li>
+</ol>
+<a name="D"></a>
+<h3>D. Cookies, web beacons and similar tracking Technologies</h3>
+When you visit or interact with the SourceForge Services we or our authorised service providers may use cookies, web beacons and other similar technologies for storing information to help provide you with a good experience when you browse our Sites and also allow us to improve our Sites.
+
+<strong>What are cookies, web beacons and similar technologies?</strong>
+
+We use technologies that are essentially small data files placed on your computer, tablet, mobile phone or other devices (referred to collectively as a “Device”) that allow us to record certain pieces of information whenever you visit or interact with our Sites and the SourceForge Services.
+
+<strong>What types of cookies, web beacons and similar technologies do we use?</strong>
+
+Our use of such technologies fall into the following general categories:
+<ul>
+	<li><strong>Strictly necessary</strong> – these are cookies, web beacons or other similar technologies that are required for the operation of our Sites. They include, for example, technologies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.</li>
+	<li><strong>Analytical/performance</strong>. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.</li>
+	<li><strong>Functionality</strong>. These are used to recognise you when you return to our Sites. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).</li>
+	<li><strong>Advertising or targeting-related</strong>. These technologies record your visit to the Sites, the pages you have visited and the links you have followed. We will use this information to make our Sites and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.</li>
+</ul>
+You can find more information about the individual cookies, web beacons and similar technologies and the purposes for which we use them below. This list is not exhaustive, but it is intended to illustrate the primary reasons for certain types of Cookies set by SourceForge Media and third parties on our Sites.
+<h4>Pixels</h4>
+We use pixels, or transparent GIF files, to help manage online advertising. These pixels are provided by our ad management partner, DoubleClick. These files enable our ad management partner to&nbsp;recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to&nbsp;<a style="font-weight: 300;" href="http://www.google.com/privacy/ads/">http://www.google.com/privacy/ads/</a><span style="font-weight: 300;">&nbsp;or you may also opt out by clicking&nbsp;</span><a style="font-weight: 300;" href="http://www.networkadvertising.org/consumer/opt_out.asp">here</a><span style="font-weight: 300;">.</span>
+<h4>Framing</h4>
+The Sites may utilize framing and masking techniques to make it appear that the user is still on the Site when the user is actually on a third party website. We also have co-branding relationships with certain partners. In these relationships, you will notice our service platform on our partner’s page. In this situation, both parties are collecting your data and both privacy policies govern the data collected. We will not share your data with third parties without your consent in these and other relationships. We encourage you to be aware when you leave our Sites and to read the privacy policies of each and every website that collects personally identifiable information.
+<h4>Web beacons</h4>
+We use web beacons from time to time. A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable us to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer. Such web beacons may be provided by our third party advertising companies to help manage and optimize any online advertising.
+
+To opt out of targeted advertising delivered by Network Advertising Initiative members, click here<span style="font-weight: 300;">:&nbsp;</span><a style="font-weight: 300;" href="http://www.networkadvertising.org/consumer/opt_out.asp">http://www.networkadvertising.org/consumer/opt_out.asp</a>
+<h4>Cookies</h4>
+We use cookies on the Sites. A “browser” or “HTTP” cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. We may use browser cookies to personalize a user’s pages at a Site or Sites, to remember a user when the user registers for products or services, for fraud prevention, or to track visits to a Site or across our Sites. If a user does not want us or our partners to deploy browser cookies in the user’s browser when the user visits the Sites, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on our Sites.
+
+We also may use local shared objects, also known as “Flash cookies” to store your preferences or display content based upon what you view on our website to personalize your visit. Flash cookies are different from “browser” cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, including how to delete Flash cookies, click here for additional information:&nbsp;<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>.
+
+The ads appearing on the Sites may be delivered to visitors by third parties, such as Google. The third party advertising technology that we use on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, our advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, our partners may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. The use of cookies enables our partners to serve ads to users based on such user’s visit to our Sites and other sites on the Internet. As with other cookies, and consistent with our policy on cookies stated above, the user may block or delete such cookies from the user’s drive or memory. For more information about Google, Google’s use of cookies, and how to “opt out” of Google’s email/information lists, please click here:&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>. As noted in the Web Beacon discussion above, users also can opt-out of receiving these types of targeted network advertisements from many advertising networks by clicking&nbsp;<a href="http://www.networkadvertising.org/consumer/opt_out.asp">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+<strong>How to manage cookies, web beacons and cookies on our Sites</strong>
+
+There are a number of ways you can manage what Analytical/performance, Functionality and Advertising/targeting-related cookies are set on your Device. Essential cookies, however, cannot be disabled. Please note if you decline cookies, web beacons or other similar technologies, you may not be able to take advantage of certain Site features, services, applications, or tools. You may also be required to re-enter your password more frequently during your browsing session.
+
+The first time you visit any of our Sites you will see an overlay which explains that by continuing to browse the relevant Site or clicking “I Agree” you are deemed to give use your consent to use these cookies as described in this Privacy Policy.
+
+<strong>Disabling cookies, web beacons and cookies</strong>
+
+<strong>1) Cookie Preferences</strong>
+
+On some of our Sites you can set your preferences on how we, and third parties, use cookies on your Device by accessing our Cookie Preferences tab at the bottom of every screen of our Site.
+
+<strong>2) Cookies and opt-out choices statement</strong>
+
+On some of our Sites you can set your preferences on how we, and third parties, use cookies on your Device by accessing our Cookies and opt-out choices tab at the bottom of every screen of our Site.
+
+<strong>3) Browser Settings</strong>
+
+You can disable and/or delete all types of cookies, web beacons or similar technologies if your browser, installed application or Device so permits. These technologies are generally easy to disable and/or delete but how you do so varies from browser to browser. The “help” function within your browser should tell you how to do it, but we have also provided further information in our Cookies and opt-out choices statement referred to above. The following links also provide information on how to modify the cookies settings on some popular browsers:
+<ul>
+	<li>Apple Safari –&nbsp;<a href="http://support.apple.com/kb/PH5042" target="_blank">http://support.apple.com/kb/PH5042</a></li>
+	<li>Google Chrome –&nbsp;<a href="https://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647&amp;p=cpn_cookies" target="_blank">https://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647&amp;p=cpn_cookies</a></li>
+	<li>Microsoft Internet Explorer –&nbsp;<a href="http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9" target="_blank">http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9</a></li>
+	<li>Mozilla Firefox –&nbsp;<a href="http://support.mozilla.org/en-US/kb/Cookies" target="_blank">http://support.mozilla.org/en-US/kb/Cookies</a></li>
+</ul>
+<strong>4) Disabling most targeting or behaviour advertising cookies</strong>
+
+If you would like to disable advertising cookies, which remember your browsing habits and try and display relevant advertising when you use our SourceForge Services, you can visit http://www.youronlinechoices.com/uk/your-ad-choices . If you choose to turn off these cookies you will still see advertising on the internet but it may not be tailored to your interests. It does not mean that you won’t be served any advertisements whilst you are online. Whilst many companies involved in using advertising cookies and serving online behavioural advertising appear at the above link, not all do. Therefore, even if you choose to turn off cookies used by all of the companies listed, you may still receive some advertising cookies and some tailored advertisements from other companies.
+
+<strong>Cookies Chart</strong>
+
+available here
+
+<strong>Third party web site links &amp; subdomains</strong>
+
+Links to third party web sites or widgets to enable sharing of information through social networks on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. We have not reviewed all of these third party sites and do not control, and are not responsible for, any of the third party sites, their content or privacy practices. We do not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, we encourage the user to read their privacy statements. The user accesses such sites at user’s own risk.
+
+With respect to SourceForge.net, we deliver the following services via subdomains:
 <ul>
 	<li>Integrated communications,</li>
 	<li>Internet access,</li>
 	<li>Information sharing between developers and end users, and</li>
 	<li>Downloads through third-party mirror providers</li>
 </ul>
-<p>Any personally identifiable information you provide using any third party content, software, services, and other products is subject to that third party’s policies governing privacy and security.</p>
-<p><a name="E"></a></p><h3>E. Security</h3><p></p>
-<p>The security of your personally identifiable information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information.</p>
-<p>We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please help keep your account safe by using a strong password. We advise that you do not communicate any confidential information through our services.</p>
-<p>If you have any questions about security on our Sites, you can contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>.</p>
-<p><a name="F"></a></p><h3>F. Surveys &amp; Sweepstakes</h3><p></p>
-<p>Occasionally, we may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form.</p>
-<p>From time to time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). That information, to the extent it conflicts with this policy, will govern that particular promotion or sweepstakes – please remember to read it carefully. We may use this information to notify contest winners and award prizes, to monitor Site use, to personalize the Site, to send participants an email, and to measure participants’ demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-<p>If you choose to use our referral service to tell another person about a job, we will ask you for that person’s email address. We will automatically send that person a one-time email inviting him or her to visit the Site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses.</p>
-<p><a name="G"></a></p><h3>G. Social Media Features</h3><p></p>
-<p>The Sites include social media features, such as the Facebook Like button and widgets, that run on our Sites. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
-<p><a name="H"></a></p><h3>H. Facebook Connect</h3><p></p>
-<p>You may be able to log in to our Sites using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Sites to your profile page to share with others within your network.</p>
-<p><a name="I"></a></p><h3>I. Correcting personally identifiable information</h3><p></p>
-<p>If you would like to have your personally identifiable information removed from our database, or would like to correct an error in such information, please contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>, and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes. &nbsp;If you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided.</p>
+Any personal data you provide using any third party content, software, services, and other products are subject to that third party’s policies governing privacy and security.
 
+<a name="E"></a>
+<h3>E. Security</h3>
+The security of your personal data is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information.
+
+We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we will put in place appropriate technical and organisational measures to ensure the security of your personal data we cannot guarantee that, notwithstanding such compliance by us, information will not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please help keep your account safe by using a strong password. We advise that you do not make any confidential information publically available through our services.
+
+If you have any questions about security on our Sites, you can contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>.
+
+<a name="F"></a>
+<h3>F. Surveys &amp; Sweepstakes</h3>
+Occasionally, we may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the SourceForge Services. We will not share your survey information with any third party, except in aggregate form.
+
+From time to time we may provide you the opportunity to participate in contests or surveys on our Site. If you participate, we will request certain personal data from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as postcode). Any personal data that you submit in connection with these activities will be treated in accordance with this Privacy Policy unless the terms or rules which apply to those contests or surveys state otherwise. To the extent that those terms conflict with this policy the terms which govern that particular promotion or sweepstakes will prevail – please remember to read them carefully. We may use this information to notify contest winners and award prizes, to monitor Site use, to personalize the Site, to send participants an email, and to measure participants’ demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personal data for any other purpose. We will not share the personal data you provide through a contest or survey with other third parties unless we give you prior notice and you have consented. If you choose to use our referral service to tell another person about a job, we will ask you for that person’s email address. We will automatically send that person a one-time email inviting him or her to visit the Site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses.
+
+<a name="G"></a>
+<h3>G. Social Media Features</h3>
+The Sites include social media features, such as the Facebook Like button and widgets, that run on our Sites. These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+<a name="H"></a>
+<h3>H. Facebook Connect</h3>
+You may be able to log in to our Sites using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Sites to your profile page to share with others within your network.
+
+<a name="I"></a>
+<h3>I. Your Rights</h3>
+If you would like us to stop processing your personal data, or would like to correct an error in such information, please contact us at <a href="mailto:privacy@slashdotmedia.com" target="_blank">privacy@slashdotmedia.com</a>. If you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided.
 <ol>
-	<li><span style="font-weight: bold;">Access:</span>&nbsp;If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>&nbsp;or by contacting us by telephone or postal mail at the contact information listed below.</li>
-	<li><span style="font-weight: bold;">Data Retention:</span>&nbsp;We will retain your information for as long as your account is active or as needed to provide you Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</li>
-	<li><span style="font-weight: bold;">Blogs:</span>&nbsp;The Sites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.</li>
-	<li><span style="font-weight: bold;">Testimonials:</span> We post customer testimonials on the Sites which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.</li>
+	<li><strong>Access</strong>: If your personal data changes, or if you no longer desire any of the SourceForge Services, you may correct, update or amend your personal data by making the change on our member information page or by emailing our Customer Support at <a href="mailto:privacy@slashdotmedia.com" target="_blank">privacy@slashdotmedia.com</a> or by contacting us by telephone or postal mail at the contact information listed below.</li>
+	<li><strong>Data Retention</strong>: We will retain your information for as long as your account is active or as needed to provide you SourceForge Services. If you wish to cancel your account or request that we no longer use your information to provide you SourceForge Services, contact us at <a href="mailto:privacy@slashdotmedia.com" target="_blank">privacy@slashdotmedia.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</li>
+	<li><strong>Blogs</strong>: The Sites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community forum, contact us at <a href="mailto:privacy@slashdotmedia.com" target="_blank">privacy@slashdotmedia.com</a>. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.</li>
+	<li><strong>Testimonials</strong>: We post customer testimonials on the Sites which may contain personal data. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.</li>
+	<li><strong>Marketing, contests and sweepstakes</strong>: You can opt-out of receiving promotional emails or notifications about contests or sweepstakes at any time by emailing our Customer Support at <a href="mailto:privacy@slashdotmedia.com" target="_blank">privacy@slashdotmedia.com</a>. Please note that opting out of these emails will not end transmission of important information related to the SourceForge Services that are necessary to your account maintenance being sent to you.</li>
 </ol>
-<p><a name="J"></a></p><h3>J. Changes to this Privacy Policy</h3><p></p>
-<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-<p>Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the Services, please e-mail us at&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>.</p>
-<p><a name="K"></a></p><h3>K. Questions?</h3><p></p>
-<p>Questions regarding this Privacy Policy should be directed to&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>. You may also contact us at DHI Group, Inc., 12150 Meredith Drive, Urbandale, IA 50323, or 888-321-3423.</p>			</div><!-- .entry-content -->
+&nbsp;
+
+<a name="J"></a>
+<h3>J. Changes to this Privacy Policy</h3>
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+Note that, by using the SourceForge Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the SourceForge Services. Your continued use of the SourceForge Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it periodically. If you have any questions regarding this Privacy Policy, or any other privacy issues in connection with the SourceForge Services, <span style="font-weight: 300;">please e-mail us at&nbsp;</span><a style="font-weight: 300;" href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a><span style="font-weight: 300;">.</span>
+
+<a name="K"></a>
+<h3>K. Questions?</h3>
+Questions regarding this Privacy Policy should be directed to&nbsp;<a href="mailto:privacy@slashdotmedia.com">privacy@slashdotmedia.com</a>. You may also contact us at SourceForge Media, LLC dba Slashdot Media, PO Box 2452, La Jolla, CA 92038.			</div><!-- .entry-content -->
 	<footer class="entry-meta">
 			</footer><!-- .entry-meta -->
 </article><!-- #post-719 -->
 
-					<div id="comments"></div><!-- Livefyre Comments Version: 1.0-->
+						<div id="comments">
+	
+	
+	
+	
+</div><!-- #comments -->
+
 				
 			</div><!-- #content -->
 		</div><!-- #primary -->
@@ -263,15 +386,15 @@ body.custom-background { background-color: #ffffff; }
 	<div class="wrapper">
 			
 		<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-872"><a href="http://www.slashdotmedia.com/terms-of-use/">Terms</a></li>
-<li id="menu-item-358" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-358"><a href="http://www.slashdotmedia.com/privacy-statement/">Privacy</a></li>
+<li id="menu-item-358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-358"><a href="http://www.slashdotmedia.com/privacy-statement/">Privacy</a></li>
 <li id="menu-item-364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-364"><a href="http://www.slashdotmedia.com/opt-out-choices/">Cookies / Opt Out</a></li>
 <li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="http://www.sourceforge.net">SourceForge</a></li>
 <li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="http://www.slashdot.org">Slashdot</a></li>
-<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://slashdotmedia.com/solution-centers/">Solution Centers</a></li>
-<li id="menu-item-571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571"><a target="_blank" href="http://www.dhigroupinc.com/careers/default.aspx">Careers</a></li>
-<li id="menu-item-1388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388"><a target="_blank" href="http://slashdotmedia.com/wp-content/uploads/2015/07/Slashdot-Media-Kit-2015.pdf">Media Kit</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://slashdotmedia.com/solution-centers/">Solution Centers</a></li>
+<li id="menu-item-571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571"><a target="_blank" href="https://www.bizx.info/careers">Careers</a></li>
+<li id="menu-item-1388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1388"><a target="_blank" href="http://slashdotmedia.com/wp-content/uploads/2016/03/Slashdot-Media-Kit-2016.pdf">Media Kit</a></li>
 </ul></div> 
-		<p class="credits">© 2015 SlashdotMedia. All Rights Reserved.</p>
+		<p class="credits">© 2016 SlashdotMedia. All Rights Reserved.</p>
 	</div> <!-- /WRAPPER -->
 </footer>
 <div class="footer-push"></div>
@@ -284,7 +407,7 @@ body.custom-background { background-color: #ffffff; }
 	<div class="wrapper">	
 		<div class="looking">
 			<span class="slash"></span>
-			<p>Looking to advertise with Slashdot Media? To see how we can help you, <a href="http://slashdotmedia.com/contact/">contact a sales representative</a> today!</p>
+			<p>Looking to advertise with Slashdot Media? To see how we can help you, <a href="https://slashdotmedia.com/contact/">contact a sales representative</a> today!</p>
 		</div>	
 	</div> <!-- /WRAPPER -->
 </div>
@@ -292,5 +415,21 @@ body.custom-background { background-color: #ffffff; }
 
   
   <div id="fb-root"></div>
-  <script type="text/javascript" data-lf-domain="livefyre.com" id="ncomments_js" src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js"></script>
+  <script type="text/javascript" src="https://slashdotmedia.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.slashdotmedia.com/";
+    _paq.push(['setTrackerUrl', u+'sdm.php']);
+    _paq.push(['setSiteId', 44]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'sdm.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//analytics.slashdotmedia.com/sdm.php?idsite=44" style="border:0;" alt="" /></p></noscript>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0001780e30","applicationID":"2135926","transactionName":"Y1cEZxcHWkEABxdeDFodJ1ARD1tcThQCUAY=","queueTime":0,"applicationTime":319,"atts":"TxAHEV8dSU8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
