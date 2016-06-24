@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053152id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624155500id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
 
-# Prepaid Phone Cards & International Calling Cards NobelCom
+# Privacy Policy | NobelCom
 
 NobelCom Privacy Policy Statement
 
