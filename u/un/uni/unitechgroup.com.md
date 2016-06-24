@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitechgroup.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122133200id_/http%3A//www.unitechgroup.com/information/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitechgroup.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624100037id_/http%3A//www.unitechgroup.com/information/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Unitech Group
 
