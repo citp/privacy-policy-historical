@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrafastproxy.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808141730id_/http%3A//ultrafastproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrafastproxy.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624072500id_/http%3A//ultrafastproxy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.rapidproxy.org
 
