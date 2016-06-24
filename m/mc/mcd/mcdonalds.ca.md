@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.ca privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227141731id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.ca privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624214440id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | McDonalds.ca
 
