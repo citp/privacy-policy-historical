@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122014938id_/http%3A//www.arthrex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122247id_/http%3A//www.arthrex.com/privacy-policy) for the most accurate reproduction.*
 
 # Arthrex - Privacy Policy
 
@@ -10,6 +10,15 @@ ARTHREX Inc., along with its subsidiaries and affiliates (together “ARTHREX”
 ARTHREX complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of all personally identifying information that it processes and which is transferred from countries in the European Economic Area and Switzerland to the United States, both in electronic or paper form, including Personal Information and Sensitive Personal Information (defined below). ARTHREX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice and consent, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor, and to view ARTHREX’s certification, please visit http://safeharbor.export.gov/list.aspx.
 
 This certification covers both “ **Personal information** ” which means any information from which an individual can be directly or indirectly identified, as well as “ **Sensitive Personal Information** ” which means Personal Information revealing an individual’s racial or ethnic origin, political opinions or membership of political parties or similar movements, religious or philosophical beliefs, membership of a professional or trade organization or union, physical or mental health including any opinion thereof, sex life, and, where permitted by applicable law, criminal offences and alleged offences, criminal records or proceedings with regard to criminal or unlawful behavior.
+
+Please note: Arthrex recognizes on October 6, 2015, the European Court of Justice in Luxembourg ruled the Safe Harbor data transfer pact between the U.S. and the European Union (EU) as invalid. Arthrex continues to adhere to its commitments made pursuant to the Safe Harbor Privacy Principles and will continue to stay current with data protection developments related to new frameworks such as the EU-U.S. Privacy Shield, released on February 29, 2016, and new regulations such as the EU General Data Protection Regulation (GDPR), adopted April 14, 2016.
+
+In lieu of reliance on Safe Harbor, Model Clauses are being implemented between Arthrex GmbH, Arthrex Inc., and applicable affiliates and third parties. Arthrex remains committed to complying with forthcoming data protection guidance as it is released on this matter.
+
+For more information, please see the following links:
+
+EU-U.S. Privacy Shield: <https://www.commerce.gov/privacyshield>  
+EU General Data Protection Regulation (GDPR): <http://ec.europa.eu/justice/data-protection/reform/index_en.htm>
 
 **How we collect information**
 
@@ -101,4 +110,4 @@ American Arbitration Association 
 
 ARTHREX periodically evaluates its privacy policies and procedures to implement improvements and refinements from time to time. Therefore, ARTHREX reserves the right to modify or amend this Privacy Policy at any time and for any reason. When this policy is amended, ARTHREX will revise the “last updated” date at the bottom of this policy. Please review this Privacy Policy periodically and especially before you provide personally identifiable information to us. For material changes to this policy, ARTHREX will notify individuals by placing a notice on this page. Your continued use of the Site after any changes to our Privacy Policy indicates your agreement with the terms of the revised Privacy Policy.
 
- **Last Updated:**  August 10, 2015
+ **Last Updated:**  June 9, 2016
