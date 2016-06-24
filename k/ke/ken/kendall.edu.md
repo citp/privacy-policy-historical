@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008042727id_/http%3A//www.kendall.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625014314id_/https%3A//www.kendall.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kendall College
 
