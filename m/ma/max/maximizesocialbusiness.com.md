@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215837id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624025932id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Last updated on: April 19, 2015 By 
 
 ### **PRIVACY POLICY STATEMENT**
 
@@ -75,3 +77,5 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
   * by post to 14271 Jeffrey Rd., Suite 177, Irvine, CA 92620 USA
 
 
+
+FIRST PUBLISHED ON July 16, 2010
