@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wopular.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128042818id_/http%3A//www.wopular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopular.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624211500id_/http%3A//www.wopular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WOPULAR
 
