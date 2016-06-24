@@ -1,50 +1,127 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404164526id_/http%3A//pbskids.org/privacy/index.html%3Fcampaign%3Dfkhp_prv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624173941id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
-## Last modified: September 24, 2010
+## Last modified: July 1, 2013
 
-You have trusted us for many years to make safe and quality content that family members of all ages can enjoy. Online, this trust is even more important to your family, and to PBS KIDS. To make sure that this site stays safe and fun, we make the following promises:
+You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy. We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy. As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission. 
 
-  * In almost all activities, the information we collect is non-personal (such as first name only, age, and state). If you enter a contest, send us a question or send an electronic postcard, we will also ask for an e-mail address. Our use of e-mail addresses is further described in the examples below. We only collect enough information from our visitors to make activities on PBS KIDS and PBS KIDS GO! fun and interesting.
-  * If you submit stories, artwork, comments or anything else to us that is posted on our site, you will be identified on our site only by first name, age, city and state.
-  * No one will be excluded from our site for not giving us personal information. When we do ask for personal information (like an e-mail address) as part of an activity, we will only use it for that activity and keep it only until that particular activity is complete. For example:
-    * If you send us an e-mail with a question or comment, or enter one of our contests, we will respond using the e-mail address you supply, but we will not keep the address or use it again for any other purpose.
-    * If you ask PBS KIDS to send an electronic postcard or e-mail message, we will ask for your first name and e-mail address as well as the e-mail address of the person who will receive the postcard. We will only use this information to send the postcard or message to the person you specify and we will delete the information when the postcard or message has been sent.
-  * We will never share any personal information that you provide with any third parties unless those third parties: (1) are engaged by us to maintain the technical functioning of our website or web service, or to fulfill a request made by a user; (2) are restricted in their access and use of personal information only to the extent necessary to maintain the technical functioning of the website or web service, or to fulfill a request made by a user; and (3) have promised to keep the personal information that they access confidential. 
-  * If we know a visitor is under the age of thirteen, we will collect a parent's permission offline (by postal mail, fax or phone) before we collect, use, store or disclose any personal information supplied by that visitor. We will also allow parents to review any personal information we may collect from children under 13 and to request that we stop using and delete such information at any time. If our policies change with regard to personal information that we previously received parental consent to collect, we will notify the parents of the changed policies. 
-  * When you create a [username and password](http://pbskids.org/help/faq.html#login) on PBS KIDS GO!, we do not collect any information that would allow us or anyone else to identify you. When prompted to create a username, we recommend you use non-personally identifiable information. Your login information is only used in games and activities where users might want to save points and creations.
+This Privacy Policy describes how we use, share, and protect information that we collect from you and your child online through pbskids.org and any other non-commercial websites or online services that PBS operates and that link to this Privacy Policy (collectively, the "Services"). This Privacy Policy applies only to the Services.
+
+  
 
 
+## Collection of Information
 
-As you visit pbskids.org and pbskidsgo.org, it is possible that several cookies* will be set on your computer. PBS KIDS uses the information from cookies to deliver relevant local resources, remember browser preferences, and improve our visitors' experiences on the site. No personal information is ever stored in a PBS KIDS cookie, even if you have entered your name or e-mail address on other parts of PBS KIDS.
+You or your child may be prompted to provide for some or all of the following types of information in order to register, access various content or features, submit photos and other content, directly contact us with questions or feedback, or access other features of the Services:
 
-PBS KIDS does not sell information collected by cookies or use the information for commerce-related purposes. In addition, PBS KIDS will not filter content based on your preferences without permission.
+  * Contact information, such as name or e-mail address
+  * User name and password
+  * Geolocation information
+  * Other information, such as school, city, state, and zip code
+  * Communications preferences
+  * Search queries
+  * Comments and other information posted through interactive online features
+  * Correspondence you send to us
 
-_*What's a cookie? A cookie is information a website puts on your computer's hard drive so that the site can remember your preferences or which pages you visited on that site. PBS KIDS cookies are used to remember setting that you pick for the computer you use to visit our site, but not to identify any personal information about the person using the computer._
-
-PBS KIDS only uses cookies at the following times:
-
-  * If you localize pbskids.org to the PBS station nearest you, a cookie will tell us your station's call letters. PBS KIDS only keeps track of how many computers choose each station. You can choose to have your computer remember a different station, or no station at all, at any time. Please note that if you come to pbskids.org from a local station site, and you were not previously localized to a station, you may be automatically localized to that station.
-  * As you explore pbskids.org and pbskidsgo.org, a cookie will tell us which pages you visit and the amount of time between each page visit. This cookie does not remember any information about you or your computer; it just helps us at PBS KIDS identify new and repeat visitors, and tells us how long visitors spend on our sites and which pages receive the most traffic.
-
-
-
-We also promise to help families and communities find the information they need to use the Internet safely and responsibly.
-
-  * When a PBS KIDS site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We choose our underwriters carefully, to make sure that the company's products and services fit PBS standards. PBS KIDS sites will not contain advertisements promoting e-commerce or direct links to e-commerce.
-  * All underwriter logo designs will be targeted to an adult audience, not children. They will be designed so as to be clearly differentiated from games, videos and other activities on the PBS KIDS website. 
-  * All links to third party sites are insulated with a PBS KIDS bridge page. These pages clearly notify the visitor that he or she is leaving pbskids.org, and offers an opportunity to return to PBS KIDS. In the case of a sponsor's link, the bridge page will provide more information about the sponsor's relationship to PBS. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage families to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages.
-  * With areas of our site like "[Webonauts Internet Academy](http://pbskids.org/webonauts),” we will continue to empower our visitors by helping them to make informed choices.
+  
 
 
+## Public Areas
 
-Your family's use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto. 
+Some of the Services may allow you or your child to enter text and information in open fields, such as comment sections, and message boards. If you or your child choose to participate in these public areas of the Services, please be aware that any information submitted through these areas is public. Please use caution in disclosing personal information in these areas. Although we moderate public forums to keep their content appropriate for the forum's intended audience, we are not responsible for the information you or your child submits in these open forums and public areas or for other user's actions with respect to that information.
 
-We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. We are committed to protecting the safety and wellbeing of children, and we continually work to ensure that our data collection practices conform to all applicable laws, including the Children’s Online Privacy Protection Act (COPPA). If you have any comments or questions, we're happy to hear them. This is, after all, your site.
+  
 
-If you have any questions or concerns regarding this policy, send us an e-mail at [kids@pbs.org](https://web.archive.org/help/write.html).
 
-You may also contact us at 2100 Crystal Drive, Arlington, VA 22202 (703 739-5127). 
+## Use of Information
 
-Please read the [Terms of Use](https://web.archive.org/web/20130404164526id_/http%3A//pbskids.org/privacy/termsofuse.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](http://www.pbs.org/aboutsite/aboutsite_privacy.html "PBS Online Privacy Policy") for the sites hosted on pbs.org.
+We generally use the information that we collect about you or your child to:
+
+  * Fulfill your or your child's requests for services and information
+  * Enable you or your child to participate in interactive features, such as comment boxes and forums
+  * Display content and information that you may be interested in
+  * Customize the content displayed when you or your child use the Services
+  * Analyze use of the Services to understand and improve our service offerings, such as determining which pages are most popular, which browsers are most used, how long users spend on the Services, and which websites they come from
+  * Otherwise support the internal operations of the Services
+  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20160624173941id_/http%3A//pbskids.org/Terms%20of%20Use)
+  * For any other purposes disclosed to you or your child at the time we collect the information or pursuant to your consent
+
+
+
+We may aggregate your or your child's information with information about other users so that it no longer identifies and cannot reasonably be used to identify an individual person.
+
+  
+
+
+## Disclosure of Information
+
+We may share information that is collected from you or your child in the following circumstances:
+
+  * **Authorized third-party service providers**. We may share information with our third-party service providers to help us fulfill requests and perform various functions necessary to our educational mission, including usage analytics, data processing, and account management. For example, our service providers may provide to us and analyze on our behalf usage information so that we can identify which of our services are most popular and how they can be improved. 
+  * **PBS Member Stations**. In some circumstances, we may share information we collect about you or your child with your local PBS member station(s).
+  * **Business transfers**. We may share information in connection with a substantial business transaction, such as the sale of the Services, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * **Legal purposes**. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, property, safety, and security of PBS, our member stations, users, or the public.
+  * **With your consent**. We otherwise may share your or your child's information with your consent.
+
+
+
+We also may share aggregated or anonymized information with third parties, including to help us develop content and services that we hope you or your child will find of interest or to help these third parties develop their own products and service offerings.
+
+  
+
+
+## Use of Cookies, Web Beacons, and Other Technologies
+
+We may use cookies, web beacons, Local Shared Objects, and other similar technologies to collect information about your or your child's use of the Services. Cookies are small bits of information that are stored by a computer's web browser. Web beacons are very small images or small pieces of data embedded in images, also known as "pixel tags," "GIFs," or "clear GIFs," that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from a computer or device. Local Shared Objects (sometimes referred to as "Flash Cookies") are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. 
+
+We use these technologies, for example, to help us recognize your or your child's browser as a previous user and save and remember any preferences that may have been set; to help us customize the content shown while you or your child use the Services; to provide you or your child with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers; and to help measure and research the effectiveness of our Services, interactive online content, features, and other communications. 
+
+We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. 
+
+You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the "help" section). Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects may be controlled through the instructions on Adobe's [Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "ADOBE's Setting Manager"). If you choose to refuse, disable, or delete these technologies, some of the functionality of our site may no longer be available to you or your child.
+
+  
+
+
+## Parental Consent, Access, and Deletion
+
+We endeavor to obtain a parent or legal guardian's consent before collecting, using, or disclosing personal information from children. Parents or legal guardians may contact us to ask if we have collected their child's personal account information, to review that information, if any, and request that PBS stop collecting this information and have it deleted. Such requests are subject to PBS verifying to our satisfaction that the requester is in fact the child's parent or legal guardian.
+
+  
+
+
+## Protection of Information
+
+We are committed to protecting your and your child's information. We have adopted reasonable technical, administrative, and physical procedures to help protect this information from loss, misuse, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Services but we cannot ensure or warrant the security of any information you or your child transmit to us.
+
+  
+
+
+## Third-Party Services, Content, and External Links
+
+If you access third-party services, such as Facebook, Google, or Twitter, through the Services to share information about your experience on the Services with your friends and other connections, we may collect information about you from those services. In addition, those third-party services may be able to collect information about you, including information about your activity on the Services, and they may notify your connections about your use of the Services, in accordance with their own privacy policies. 
+
+You may access third-party content through the Services and navigate to third-party sites and services from links on the Services. Whether the third-party content appears within our Services (such as in an embedded video player), or you leave our Services to view the content on another website, the third party is in control of and independently produces, maintains, and monitors the content and third-party sites. When you watch third-party content that is made available through the Services or navigate to such third-party sites, you become subject to the third party's terms of use and privacy policies. You should review the privacy policies of these third-party sites for their policies and practices regarding the collection and use of your information as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third parties.
+
+  
+
+
+## Changes To This Privacy Policy
+
+We may revise this Privacy Policy, for example, to reflect changes in the law, our practices, or the features of the Services. These changes will be effective immediately upon posting. As a result, you should periodically review the Privacy Policy so that you are up to date on our most current policies and practices. By using the Services, you agree to the terms and conditions of this Privacy Policy, and, by continuing to use the Services after changes have been made, you agree to the changes.
+
+  
+
+
+## Still Have Questions?
+
+If you have any questions or concerns regarding this policy, please contact us at: 
+
+**Public Broadcasting Service**  
+2100 Crystal Drive  
+Arlington, VA 22202  
+(703) 739-5127  
+[kids@pbs.org](mailto:kids@pbs.org)
+
+Please read the Terms of Use for [Terms and Conditions](http://pbskids.org/privacy/termsofuse.html) for using this site.
