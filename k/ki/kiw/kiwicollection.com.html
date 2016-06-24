@@ -1,9 +1,19 @@
-<!--The following is the downloaded HTML source of the kiwicollection.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905145228id_/https%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kiwicollection.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624142903id_/https%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-         <script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.2/rollbar.min.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3LQQ"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=645011985549124&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script>
+<!DOCTYPE html><html ng-app="kiwi" class="no-js" lang="en"><head>
+    
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="https://cdn.kiwicollection.com/js/ie8Responsive/es5-shim-master/es5-shim.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+        <script type="text/javascript" src="https://cdn.kiwicollection.com/js/ie8Responsive/es5-shim-master/es5-sham.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+        <script type="text/javascript" src="https://cdn.kiwicollection.com/node_modules/html5shiv/dist/html5shiv.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+        <script type="text/javascript" src="https://cdn.kiwicollection.com/js/ie8Responsive/ng-shim.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+    <![endif]-->
+    <!-- -->    <script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.2/rollbar.min.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3LQQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script>
         var _rollbarConfig = {
             accessToken: "840cd94ca3504c86aaf3fe610921952f",
             captureUncaught: true,
@@ -12,7 +22,7 @@
                 client: {
                     javascript: {
                         source_map_enabled: true,
-                        code_version: "detached from b479cc4 (b479cc4)",
+                        code_version: "no branch (f9a27b8)",
                         // Optionally have Rollbar guess which frames the error was thrown from
                         // when the browser does not provide line and column numbers.
                         guess_uncaught_frames: true
@@ -23,383 +33,427 @@
         };
         !function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d,e){var f=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=h,e.parentNode.insertBefore(a,e)},this.logger),h=g(function(){var b;if(void 0===a._rollbarPayloadQueue){var c,d,f,g;for(b=new Error("rollbar.js did not load");c=a._rollbarShimQueue.shift();)for(f=c.args,g=0;g<f.length;++g)if(d=f[g],"function"==typeof d){d(b);break}}"function"==typeof e&&e(b)},this.logger);g(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(d="function"==typeof c?c:function(){return c||{}},"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw c._rollbarContext=d()||{},c._rollbarContext._wrappedSource=b.toString(),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.2/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
     </script>
-    <script src="https://cdn.optimizely.com/js/262920397.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7718894/711348/css/fonts.css">
+
+        <!--[if gte IE 9]><!-->
+        <script src="https://cdn.optimizely.com/js/262920397.js"></script>
+    <!--<![endif]-->
+        
     <link rel="shortcut icon" href="/favicons/kiwi/favicon.ico">
-	<link rel="apple-touch-icon" sizes="57x57" href="/favicons/kiwi/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/favicons/kiwi/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/favicons/kiwi/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/favicons/kiwi/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="/favicons/kiwi/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/favicons/kiwi/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/favicons/kiwi/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/favicons/kiwi/apple-touch-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/kiwi/apple-touch-icon-180x180.png">
-	<link rel="icon" type="image/png" href="/favicons/kiwi/favicon-192x192.png" sizes="192x192">
-	<link rel="icon" type="image/png" href="/favicons/kiwi/favicon-160x160.png" sizes="160x160">
-	<link rel="icon" type="image/png" href="/favicons/kiwi/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href="/favicons/kiwi/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/favicons/kiwi/favicon-32x32.png" sizes="32x32">
-	<meta name="msapplication-TileColor" content="#00a300">
-	<meta name="msapplication-TileImage" content="/favicons/kiwi/mstile-144x144.png">
-	<meta name="msapplication-config" content="/favicons/kiwi/browserconfig.xml">
-    <style>
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/kiwi/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/kiwi/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/kiwi/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/kiwi/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/kiwi/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/kiwi/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/kiwi/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/kiwi/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/kiwi/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicons/kiwi/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicons/kiwi/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicons/kiwi/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicons/kiwi/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicons/kiwi/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileImage" content="/favicons/kiwi/mstile-144x144.png">
+    <meta name="msapplication-config" content="/favicons/kiwi/browserconfig.xml">
+
+        <style>
         body.js { display: none; }
     </style>
+    
+
+            
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="description" content="Kiwi Collection Inc. will not sell, share, rent, or otherwise provide their clients' information to any third
+<meta name="description" content="Kiwi Collection Inc. will not sell, share, rent, or otherwise provide their clients' information to any third
         party without permission.">
 <meta name="robots" content="index,follow">
+
     
-<meta property="fb:page_id" content="57457855612">
-<meta property="og:title" content="Privacy | Kiwi Collection"> 
-<meta property="og:type" content="hotel"> 
-<meta property="og:url" content="https://www.kiwicollection.com/about/privacy"> 
-<meta property="og:site_name" content="Kiwi Collection"> 
-<meta property="fb:admins" content="506567958,744772603"><meta property="fb:app_id" content="645011985549124"><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">     <title>Privacy | Kiwi Collection</title>    <link rel="stylesheet" type="text/css" media="all" href="https://cdn.kiwicollection.com/css/kiwi.css?version=f31fd27f5c0521398ae24be82b25fa8179dab5f8">
-    <script type="text/javascript" src="https://cdn.kiwicollection.com/bower_components/modernizr/modernizr.js?version=f31fd27f5c0521398ae24be82b25fa8179dab5f8"></script>
+    <meta property="fb:page_id" content="57457855612">
+    <meta property="fb:app_id" content="645011985549124">
+    <meta property="og:title" content="Privacy | Kiwi Collection">
+    <meta property="og:type" content="hotel">
+    <meta property="og:url" content="https://www.kiwicollection.com/about/privacy">
+    <meta property="og:site_name" content="Kiwi Collection">
+    <meta property="fb:admins" content="506567958,744772603">
 
-    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
-    <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js" defer=""></script>
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-    <link rel="shortcut icon" href="https://cdn.kiwicollection.com/images/global/favicon.ico" type="image/x-icon">    
-    <script>
-        window.whitelabel = 'KIWI';
-    </script>
-    <link rel="canonical" href="https://www.kiwicollection.com/about/privacy">          <!-- Google Analytics -->
+    
+            <title>Privacy | Kiwi Collection</title>
+                    <!--[if gte IE 9]><!-->
+       <link rel="stylesheet" type="text/css" media="all" href="https://cdn.kiwicollection.com/css/kiwi.css?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519">
 
-<script type="text/javascript">
-/*
- *           Account: UA-254360-1 * Universal Account: UA-254360-55 *               Src: KIWI */
+    <!--<![endif]-->
 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
- 
-  var googleAnalyticsImpressiontDetails = [];
-  var googleAnalyticsProductDetails = [];
-  var googleAnalyticsPromotionDetails = [];
-  var googleAnalyticsActionDetails = [];
-  var googleAnalyticsPageHost = null;
-  var googleAnalyticsPagePath = null;
-  var googleAnalyticsPageTitle = null;
-  
+    <script type="text/javascript" src="https://cdn.kiwicollection.com/js/../node_modules/npm-modernizr/modernizr.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/kiwi-ie8.css?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519" />
+
         
-    var createConfig = {'userId':'', 'siteSpeedsampleRate': 50};
-
-    createConfig['cookieDomain'] = "kiwicollection.com";
-    createConfig['legacyCookieDomain'] = "kiwicollection.com";
-
-
-    ga('create', 'UA-254360-1', createConfig);
-
-
-          
-    var universalTrackerCreateConfig = {'userId':'', 'siteSpeedsampleRate': 50};
-
-    universalTrackerCreateConfig['cookieDomain'] = "kiwicollection.com";
-    universalTrackerCreateConfig['legacyCookieDomain'] = "kiwicollection.com";
-
-    universalTrackerCreateConfig['name'] = 'universalTracker';
-
-    ga('create', 'UA-254360-55', universalTrackerCreateConfig);
-
-    ga('universalTracker.require', 'displayfeatures');
-
-    function googleAnalyticsPageView(googleAnalyticsImpressiontDetails, googleAnalyticsProductDetails, googleAnalyticsPromotionDetails, googleAnalyticsActionDetails, pageHost, pagePath, pageTitle)
-  {
-                
-
-    ga('set', 'dimension2', 'prod-mapp-ip-10-10-102-48'); // ServerName
-
-    ga('set', 'dimension3', 'LoggedOut'); // LoggedIn
-
-    ga('set', 'dimension4', 'KIWI'); // WhiteLabel
-    
-    
-    ga('send', 'pageview', {
-        'hostname': pageHost || null,
-        'page': pagePath || null,
-        'title': pageTitle || null
-    });
-                        
-
-    ga('universalTracker.set', 'dimension2', 'prod-mapp-ip-10-10-102-48'); // ServerName
-
-    ga('universalTracker.set', 'dimension3', 'LoggedOut'); // LoggedIn
-
-    ga('universalTracker.set', 'dimension4', 'KIWI'); // WhiteLabel
-    
-    
-    ga('universalTracker.send', 'pageview', {
-        'hostname': pageHost || null,
-        'page': pagePath || null,
-        'title': pageTitle || null
-    });
-        }
-  googleAnalyticsPageView(googleAnalyticsImpressiontDetails, googleAnalyticsProductDetails, googleAnalyticsPromotionDetails, googleAnalyticsActionDetails, googleAnalyticsPageHost, googleAnalyticsPagePath, googleAnalyticsPageTitle);
-
-  </script>
-<script type="text/javascript">
-    // functions
-    function googleAnalyticsEvent(category, action, label, value, propertyId, promotionId)
-    {
-        label = label || '';
-        value = value || null;
-        propertyId = propertyId || '';
-        promotionId = promotionId || '';
-
-        propertyId = propertyId.trim();
-        promotionId = promotionId.trim();
         
-      
+    <![endif]-->
+                <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+        <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js" defer=""></script>
+
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+        <link rel="shortcut icon" href="https://cdn.kiwicollection.com/images/global/favicon.ico" type="image/x-icon">
         
-    ga('set', 'dimension2', 'prod-mapp-ip-10-10-102-48'); // ServerName
+        <script>window.whitelabel = 'KIWI';</script>
+        <script>window.culture = 'en_US';</script>
 
-    ga('set', 'dimension3', 'LoggedOut'); // LoggedIn
+        <link rel="canonical" href="https://www.kiwicollection.com/about/privacy">
 
-    ga('set', 'dimension4', 'KIWI'); // WhiteLabel
 
-        ga('send', 'event', category, action, label, value);
-            
-        
-    ga('universalTracker.set', 'dimension2', 'prod-mapp-ip-10-10-102-48'); // ServerName
-
-    ga('universalTracker.set', 'dimension3', 'LoggedOut'); // LoggedIn
-
-    ga('universalTracker.set', 'dimension4', 'KIWI'); // WhiteLabel
-
-        ga('universalTracker.send', 'event', category, action, label, value);
-      
-        return true;
-    }
-
-</script>
-
-<!-- End Google Analytics -->        
-</head>
+            </head>
 <body id="kcm-root" class="en_US js">
-<script>
-	var bod = document.getElementById("kcm-root");
-	bod.className = bod.className + " js";
-</script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=645011985549124&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script><div class="off-canvas-wrap" data-offcanvas="">
-    <div class="inner-wrap">
-                            
-        <header class="row top-bar" data-topbar="">
+    
+    <script>
+        var bod = document.getElementById("kcm-root");
+        bod.className = bod.className + " js";
+    </script>
+
+    
+    <div class="off-canvas-wrap" data-offcanvas="">
+        <div class="inner-wrap">
+                                        
+            <!-- global/kiwi/header -->
+<header class="row top-bar " data-topbar="">
     <section id="kcm-masthead">
-                <a class="kcm-title" href="https://www.kiwicollection.com/">Kiwi Collection - Hotels for people who care where they stay</a>            </section>
+                                        <a href="https://www.kiwicollection.com/" class="kcm-title">Kiwi Collection - Hotels for people who care where they stay</a>
+
+                        </section>
     <section id="navigation">
-        <!-- Right Nav Section -->
-        <ul id="main-menu">
-          <li><a class="dropit-trigger" href="https://www.kiwicollection.com/search">Find<br>a Hotel</a>            <div class="dropit-target" style="display:none">
-                              
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">Free Perks</li>
-  <li><a href="/search?view=list&amp;visa_rate%5B0%5D=1&amp;start=0&amp;rows=20">Visa Perks</a></li>
-  <li><a href="/search?view=list&amp;kiwiadvantage%5B0%5D=1">Kiwi Perks</a></li>
-  <li></li><li></li>
-  <li class="submenu-title">ALL HOTELS</li>
-  <li><a href="/search/map">Map View</a></li>
-  <li><a href="/search">List View</a></li>
-  <li></li><li></li>
-  <li class="submenu-title"><!--<a href="/search?view=list&start=0&rows=20">-->Featured Hotels<!--</a>--></li>
-  <li><a href="/photo-gallery">Photo Gallery</a></li>
-  <li><a href="/search?view=list&amp;wow%5B0%5D=YES">Wow Picks</a></li>
-</ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">TOP CITIES</li>
-  <li><a href="/luxury-hotels/north-america/united-states/new-york/new-york">New York</a></li>
-  <li><a href="/luxury-hotels/europe/united-kingdom/england/london">London</a></li>
-  <li><a href="/luxury-hotels/north-america/united-states/nevada/las-vegas">Las Vegas</a></li>
-  <li><a href="/luxury-hotels/north-america/united-states/florida/miami">Miami</a></li>
-  <li><a href="/luxury-hotels/europe/france/ile-de-france/paris">Paris</a></li>
-  <li><a href="/luxury-hotels/asia/thailand/bangkok">Bangkok</a></li>
-  <li><a href="/luxury-hotels/europe/italy/lazio/rome">Rome</a></li>
-  <li><a href="/luxury-hotels/middle-east/united-arab-emirates/dubai">Dubai</a></li>
-</ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">REGIONS</li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/africa">Africa</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/central-america">Central America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/north-america">North America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/south-america">South America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/asia">Asia</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/europe">Europe</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/caribbean">Caribbean</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/middle-east">Middle East</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/pacific">Pacific</a>    </li>
-  </ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">VACATION IDEAS</li>
-  <li><a href="/best-hotels/honeymoon-hotels">Honeymoon Suites</a></li>
-  <li><a href="/best-hotels/beach-hotels">Beach Hotels</a></li>
-  <li><a href="/best-hotels/diving-adventures">Diving Adventures</a></li>
-  <li><a href="/best-hotels/city-escapes">City Breaks</a></li>
-  <li><a href="/best-hotels/golf-getaway">Golf Getaways</a></li>
-  <li><a href="/best-hotels/spa-retreats">SPA Resorts</a></li>
-  <li><a href="/best-hotels/safari-hotels">Safaris</a></li>
-</ul>
+        <ul class="" id="main-menu">
+            <li>
+                <a href="https://www.kiwicollection.com/search" class="kc-header-mainmenu-link dropit-trigger">Find<br>a Hotel</a>
+                <div class="dropit-target" style="display:none">
+                    <div class="header-wrapper">
+                                    <!-- homepage/kiwi/findHotelsMenu -->
+        <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            Free Perks
+        </li>
+        <li>
+            <a href="/search?view=list&amp;visa_rate%5B0%5D=1&amp;start=0&amp;rows=20">
+                Visa Perks
+            </a>
+        </li>
+        <li>
+            <a href="/search?view=list&amp;kiwiadvantage%5B0%5D=1">
+                Kiwi Perks
+            </a>
+        </li>
+        <li></li>
+        <li></li>
+        <li class="submenu-title">
+            ALL HOTELS
+        </li>
+        <li>
+            <a href="/search/map">
+                Map View
+            </a>
+        </li>
+        <li>
+            <a class="list-view" href="/search">
+                List View
+            </a>
+        </li>
+        <li></li>
+        <li></li>
+        <li class="submenu-title">
+            Featured Hotels
+        </li>
+        <li>
+            <a href="/best-hotels/wow-picks">
+                Wow Picks
+            </a>
+        </li>
+    </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            TOP CITIES
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/new-york/new-york">
+                New York
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/united-kingdom/england/london">
+                London
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/nevada/las-vegas">
+                Las Vegas
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/florida/miami">
+                Miami
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/france/ile-de-france/paris">
+                Paris
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/asia/thailand/bangkok">
+                Bangkok
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/italy/lazio/rome">
+                Rome
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/middle-east/united-arab-emirates/dubai">
+                Dubai
+            </a>
+        </li>
+    </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">REGIONS</li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/africa">Africa</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/central-america">Central America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/north-america">North America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/south-america">South America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/asia">Asia</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/europe">Europe</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/caribbean">Caribbean</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/middle-east">Middle East</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/pacific">Pacific</a>
+            </li>
+            </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            VACATION IDEAS
+        </li>
+        <li>
+            <a href="/best-hotels/honeymoon-hotels">
+                Honeymoon Suites
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/beach-hotels">
+                Beach Hotels
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/diving-adventures">
+                Diving Adventures
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/city-escapes">
+                City Breaks
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/golf-getaway">
+                Golf Getaways
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/spa-retreats">
+                SPA Resorts
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/safari-hotels">
+                Safaris
+            </a>
+        </li>
+    </ul>
 
-
-                          </div>
-          </li>
-          <li><a href="https://www.kiwicollection.com/special-offers">Special<br>Offers</a></li>
-          <li><a href="https://www.kiwicollection.com/blog/"><br>Blog</a></li>
-          <!--<li><a href="https://www.kiwicollection.com/luxury/about"><br />About Us</a></li>-->
+                        </div>
+                </div>
+            </li>
+                            <li><a href="https://www.kiwicollection.com/special-offers" class="kc-header-mainmenu-link">Special<br>Offers</a></li>
+                            <li>
+        <a href="https://www.kiwicollection.com/blog/" class="kc-header-mainmenu-link"><br>Blog</a>
+    </li>
         </ul>
-        <!-- Left Nav Section -->
+
         <p class="responsive-nav">
             <a class="left-off-canvas-toggle menu-icon"><span></span></a>
         </p>
 
     </section>
     <section id="contact">
-        <ul class="kc-header-utilitymenu">
-                            <li class="first"><a id="link-header-signup" href="https://www.kiwicollection.com/account/signup">Join Now</a></li>
+        <ul class="kc-header-utilitymenu clearfix">
+                            <li class="first"><a href="https://www.kiwicollection.com/account/signup" id="link-header-signup">Join Now</a></li>
                 <li><a href="https://www.kiwicollection.com/account/login">Login</a></li>
+                                        <!-- htmlElements/languageSelector -->
+
+    
                     </ul>
+        <div style="clear: both"></div>
         <span class="show-for-large-up">
-            
-<div class="kc-header-booking"> <!-- Begin .kc-header-booking -->
-	<p class="kc-header-booking-text">Call our Luxury Hotel Specialists<br></p>
-	<h2 class="booking-phone-number-header" style=""><a href="tel:&#10;1.877.999.0680&#10;">
-1.877.999.0680
-</a></h2>
-	<a class="kc-flyout-trigger contact-flyout" href="https://www.kiwicollection.com/contact">International numbers</a>
-	 <div class="kc-flyout">
-		 <div class="kc-header-booking-phone-flyout"><!-- Open .kc-flyout -->
-			<div class="kc-contact-book-widget"> <!-- Begin .kc-contact-book-widget -->
+            <div class="kc-header-booking">
+        <p class="kc-header-booking-text">Call our Luxury Hotel Specialists<br></p>
+    <h2 class="booking-phone-number-header">
+        <a href="tel:1.877.999.0680">1.877.999.0680</a>
+    </h2>
+    <a href="https://www.kiwicollection.com/contact" class="kc-flyout-trigger contact-flyout">International numbers</a>
 
-				<div class="kc-contact-book-widget-top-wrapper"><!-- Open .kc-contact-book-widget-top-wrapper -->
+    <div class="kc-flyout">
+                <div class="kc-header-booking-phone-flyout">
+            <div class="kc-contact-book-widget">
+                                <div class="kc-contact-book-widget-top-wrapper">
+                                        <p class="heading-h4">Book By Phone</p>
 
-			       <p class="heading-h4">Book By Phone</p>
+                    <p class="heading-h6"><!-- phoneNumbers/phoneLocation -->            United States
+    </p>
 
-			       <p class="heading-h6">
+                    <p class="kc-contact-book-widget-content-phone-number">
+                        <a href="tel:1.877.999.0680">
+                            1.877.999.0680
+                        </a>
+                    </p>
 
-United States
-</p>
-
-			       <p class="kc-contact-book-widget-content-phone-number">
-			       	<a href="tel:&#10;1.877.999.0680&#10;">
-			         
-1.877.999.0680
-			        </a>
-			       </p>
-
-			       <p class="heading-h6">Worldwide</p>
+                    <p class="heading-h6">Worldwide</p>
 
 
-			       <p class="kc-contact-book-widget-content-phone-number">
-			       	<a href="tel:&#10;+1.778.331.0689&#10;">
-			         
-+1.778.331.0689
-			        </a>
-			       </p>
-		         </div>
-		         <div class="kc-contact-book-widget-middle-wrapper">
-		         	<p>
-		         		Hours of operation:
-
-			         	<br>
-			         	Monday to Friday 6am – 12am <br>
-Saturday and Sunday 7am - 3pm (PST)			         	<br>
-			         	</p><div class="clear"> </div>			        <p></p>
-			        <br>
-			        <p><a class="kc-header-flyout-contact-link" href="https://www.kiwicollection.com/contact">Additional Contact Info</a></p>
-		         </div>
-		         <div class="kc-contact-book-widget-bottom-wrapper">
-			         <p class="heading-h5">International Numbers</p>
-			         
+                    <p class="kc-contact-book-widget-content-phone-number">
+                        <a href="tel:+1.778.331.0689">
+                            +1.778.331.0689
+                        </a>
+                    </p>
+                </div>
+                <div class="kc-contact-book-widget-middle-wrapper">
+                    <p>
+                        Hours of operation:
 
 
-  <ul class="kc-contact-book-widget-content-international-number">
-          <li><span class="left">United States</span><span class="right"><a href="tel:1.877.999.0680">1.877.999.0680</a></span></li>
-          <li><span class="left">Australia</span><span class="right"><a href="tel:+61 2.8607.8307">+61 2.8607.8307</a></span></li>
-          <li><span class="left">United Kingdom</span><span class="right"><a href="tel:+44 203.318.9541">+44 203.318.9541</a></span></li>
-          <li><span class="left">Brazil</span><span class="right"><a href="tel:+55 11.3958.4479">+55 11.3958.4479</a></span></li>
-          <li><span class="left">Canada</span><span class="right"><a href="tel:1.877.999.0680">1.877.999.0680</a></span></li>
-          <li><span class="left">Spain</span><span class="right"><a href="tel:+34 91.143.8213">+34 91.143.8213</a></span></li>
-          <li><span class="left">Japan</span><span class="right"><a href="tel:+81 3.4578.9549">+81 3.4578.9549</a></span></li>
-          <li><span class="left">Greece</span><span class="right"><a href="tel:+30 21.1198.0964">+30 21.1198.0964</a></span></li>
-          <li><span class="left">Sweden</span><span class="right"><a href="tel:+46 8.40.30.96.11">+46 8.40.30.96.11</a></span></li>
-          <li><span class="left">Switzerland</span><span class="right"><a href="tel:+41 43.501.6466">+41 43.501.6466</a></span></li>
-          <li><span class="left">Mexico</span><span class="right"><a href="tel:+52 55.1167.8256">+52 55.1167.8256</a></span></li>
-      
-  </ul>  
-  
-  
+                        <br>
+                        Monday to Friday 6am – 12am <br>
+Saturday and Sunday 7am - 3pm (PST)
+                        <br>
+                        </p><div class="clear"> </div>
+                    <p></p>
+                    <br>
+                    <p><a href="https://www.kiwicollection.com/contact" class="kc-header-flyout-contact-link">Additional Contact Info</a></p>
+                </div>
+                <div class="kc-contact-book-widget-bottom-wrapper">
+                    <p class="heading-h5">International Numbers</p>
+                    <!-- phoneNumbers/headerInternationalPhoneNumbers -->        <div class="kc-contact-book-widget-content-international-numbers">
+        <ul class="kc-contact-book-widget-content-international-number">
+                            <li>
+                    <span class="left">United States</span>
+                    <span class="right">1.877.999.0680</span>
+                </li>
+                            <li>
+                    <span class="left">Australia</span>
+                    <span class="right">+61 2.8607.8307</span>
+                </li>
+                            <li>
+                    <span class="left">United Kingdom</span>
+                    <span class="right">+44 203.318.9541</span>
+                </li>
+                            <li>
+                    <span class="left">Brazil</span>
+                    <span class="right">+55 11.3958.4479</span>
+                </li>
+                            <li>
+                    <span class="left">Canada</span>
+                    <span class="right">1.877.999.0680</span>
+                </li>
+                            <li>
+                    <span class="left">Spain</span>
+                    <span class="right">+34 91.143.8213</span>
+                </li>
+                            <li>
+                    <span class="left">Japan</span>
+                    <span class="right">+81 3.4578.9549</span>
+                </li>
+                            <li>
+                    <span class="left">Greece</span>
+                    <span class="right">+30 21.1198.0964</span>
+                </li>
+                            <li>
+                    <span class="left">Sweden</span>
+                    <span class="right">+46 8.40.30.96.11</span>
+                </li>
+                            <li>
+                    <span class="left">Switzerland</span>
+                    <span class="right">+41 43.501.6466</span>
+                </li>
+                            <li>
+                    <span class="left">Mexico</span>
+                    <span class="right">+52 55.1167.8256</span>
+                </li>
+                    </ul>
+    </div>
 
 
+                    <p class="heading-h5">Callback</p>
 
-
-
-
-
-			         <p class="heading-h5">Callback</p>
-			         <p class="callback-text">Please leave us your name and number and one of our booking agents will call you within the hour during Reservation operating Hours. <a href="https://www.kiwicollection.com/contact/callback">Enter Callback Info</a></p>
-			     </div>
-    		</div>	
-		</div>
-	</div>
+                                        <p class="callback-text">Please leave us your name and number and one of our booking agents will call you within the hour during Reservation operating Hours.                         <a href="https://www.kiwicollection.com/contact/callback">Enter Callback Info</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
         </span>
         <span class="show-for-medium-down">
-            <i class="fa fa-phone" id="contact-phone-icon"></i>
-        </span>
+        	            <i class="fa fa-phone" id="contact-phone-icon"></i>
+        	        </span>
     </section>
 </header>
 
+            
+            <!--[if lte IE 8]>
+    <div class="IE8-warning-message row">
+        You are using a version of Internet Explorer that is no longer supported. Some elements may not appear as they are intended to.<br>Please 
+        <a href="http://www.microsoft.com/windows/internet-explorer" target="_blank">
+            upgrade your browser
+        </a>.
+    </div>
+<![endif]-->
 
-                <div id="about-us-page" class="main-content">
-  <div id="searchbar-container">
-	<div class="row">
-		<div class="small-12 columns left-collapse right-collapse">
-			<div id="kcm-searchbar-spacer"></div>
-		</div>
-	</div>
-  </div>
-	<div class="row subheader">
-	<div class="small-12 columns">
-		<h1>Privacy Policy</h1>
-		<ul class="kc-breadcrumb">
-			<li class="first"><a href="https://www.kiwicollection.com/">Home</a> <i class="fa fa-angle-right"></i></li>
-			<li class="current"><a href="https://www.kiwicollection.com/about/privacy">Privacy</a></li>
-		</ul>
-	</div>
-</div>
-<div class="row">
-	<div class="small-12 medium-8 columns">
-		<div class="kc-about-privacy-body-ft kc-about-body-container">
-		<p>As you would expect from all the premier properties showcased in our publications and on our website, Kiwi Collection Inc. respects your privacy and will take all reasonable measures to protect it. We will not sell, share, rent, or otherwise provide any personal information you have given us, to any third party without your permission. </p> <p>Kiwi Collection Inc. will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Our servers collect data each time a user navigates our site. This information is anonymous in nature and includes such information as the number, frequency and duration of each visit, as well as details about click-throughs to our Property Member sites and other third party sites. We will share this non-personal, aggregate, or summary information with partners or other third parties, but Kiwi Collection Inc. will not sell or share any information at the individual level. </p> <p>All personal information you do give us will be used exclusively by Kiwi Collection Inc. to communicate directly with you, or with the hotels displayed on our website, for the purpose of arranging your hotel bookings or answering questions about a booking. Any information you give us will not be used in ways to which you have not consented. At any time you may ask us to discontinue use of the information you have provided, and request that we refrain from sending any further communications to you via that information, by simply sending us a request at <a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a>. Kiwi Collection Inc. commits to accept and abide by such a request immediately.</p> <p>We do reserve the right to change this policy as we expand or alter our services. Accordingly we recommend that you check from time to time in order to understand how we treat your personal information. Your use of this website and its services constitute your agreement to the terms of our privacy policy. If we change those policies, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of this website and its services constitute your agreement to any such changes.</p> <p>If you have any questions or concerns feel free to email us. </p> <h2>Browsing and the use of cookies, Web beacons and other tracking technologies</h2> <p>Kiwi Collection uses cookie technology as part of the Website's statistical reporting and for other purposes related to making the collection available to you. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer's browser. It holds information a website may need to personalize your experience (such as, rotating images on the home page of the Website). We also utilize cookies to identify if you are logged into your Account.</p> <p>If you prefer, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie and privacy preferences. However, if you reject cookies, your use of the Website will be materially impaired or may altogether preclude your use of the Website.</p> <p>A Web beacon is an electronic image, also called a single-pixel or clear GIF, placed in the code of a webpage or in emails. The Website uses Web beacons to track traffic patterns of users as they navigate from one page to another. This information lets us tune and improve our users' browsing experience. As with cookies, the information that Web beacons collect is aggregated, anonymous 'click stream' data, and is not associated with you as an individual.</p> <p>We may use third parties to operate on our behalf to help manage and optimize our Internet business and communications. Through the use of cookies and Action Tags (commonly referred to as Web beacons or GIF tags - e.g., Atlas cookies and Action Tags, Omniture tags, and Doubleclick Web beacons), which are inserted in various places within the Website, such third party companies may collect anonymous information about your visits to the Website and your interaction with our ads and content. For instance, they may keep track of how many of our ads you had seen before visiting the Website. These third party companies may share such anonymous information about your visits to this and other websites with us. From time to time, we may also share anonymous information with such third party companies in an aggregate form, for purposes of analysis and improvement of the Website. If you would like more information about the use of third-party cookies and tags, or the process of opting out of such cookies or tags, please go to <!--<a href='http://www.atlassolutions.com/privacy.aspx' target='_blank'>http://www.atlassolutions.com/privacy.aspx</a>,--> <a href="http://www.networkadvertising.org" target="_blank">http://www.networkadvertising.org</a>, <a href="http://www.omniture.com/en/privacy/2o7" target="_blank">http://www.omniture.com/en/privacy/2o7</a> and <a href="http://www.omniture.com/privacy/product#optout" target="_blank">http://www.omniture.com/privacy/product#optout</a>. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.</p> <p>We also use Web beacons through a third party website analytics provider (Google Analytics or other provider), as well as standard Web server log files, to help us count visitors and evaluate the Website's technical capacity. We also utilize Google Analytics Demographics and Interest Reporting. This information tells us how many people visit the Website, and helps us decide how to arrange pages in the most user-friendly way. This also helps us keep the Website browser-friendly and more useful to our users. We record information on Website traffic, but not on individual visitors to the Website, so no Personal Information about you will be kept or used. We will not merge personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick Web beacon.</p> <h2>Visa Premium Cardholder Rate</h2> <p>The Visa Premium Cardholder Rate is an exclusive rate only available to eligible Visa Signature, Visa Infinite and Visa Platinum credit and debit cards. Kiwi Collection must confirm that all card numbers supplied for the Visa Premium Cardholder Rate are eligible for this exclusive rate. Accordingly, the credit or debit card number provided in connection with a Visa Premium Cardholder Rate booking will be transmitted to Visa Inc. to perform an online check for purposes of validating your card and eligibility.</p> <p><a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a></p> <h2>Disclaimer</h2> <p>Kiwi Collection Inc. endeavors to ensure that the Contents of this website are accurate and current. Nonetheless, despite our efforts this website may contain errors. Accordingly, Kiwi Collection Inc. disclaims any warranty of any kind, whether express of implied, regarding all information contained in and displayed on this website, including any use thereof, as well as any and all links to and from the website. </p> <p>Kiwi Collection Inc. does not warrant that the information included in our website is accurate, current, verified, comprehensive or complete. </p> <p>The information will, from time to time, be updated and/or changed, and Kiwi reserves the right to make all such changes to the content of this website without any obligation to advise and/or notify visitors to the website that such changes have been, or will be made. </p> <p>Currency conversion under license from openexchangerates.org (<a href="https://openexchangerates.org/terms">End User Terms of Use</a>). </p> <p>If you have any questions or concerns feel free to email us.</p> <p><a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a></p>		</div>
-	</div>
-</div>
-</div>
-<div id="kcm-searchbar" class="expander">
-    <form data-accordion="" autocomplete="off" name="search" action="https://www.kiwicollection.com/search" method="get">
+                            <!-- search/searchBar -->
 
-        <input type="hidden" name="search[view]" id="search_view">        <div class="content kcm-search-bar-advanced expander-pane">
-            <div class="row">
-                <div class="medium-4 columns">
-                    <label for="search_setting">Setting</label>                    <div class="kcm-select-box">
-                        <select name="search[settingId]" id="search_settingId">
+
+
+<div id="searchbar-container">
+    <div id="kcm-searchbar" class="expander">
+        <form data-accordion="" autocomplete="off" name="search" action="https://www.kiwicollection.com/search" method="get">
+                        
+            
+
+                            <div class="content kcm-search-bar-advanced expander-pane">
+                    <div class="setting">
+                        <label for="search_setting">Setting</label>
+                        <div class="kcm-select-box">
+                            <select name="search[settingId]" id="search_settingId">
 <option value="" selected="selected">-</option>
 <option value="1">Beach</option>
 <option value="2">City</option>
@@ -412,12 +466,13 @@ Saturday and Sunday 7am - 3pm (PST)			         	<br>
 <option value="9">Mountain</option>
 <option value="10">Savannah</option>
 <option value="11">Waterfront</option>
-</select>                    </div>
-                </div>
-
-                <div class="medium-4 columns">
-                    <label for="search_style">Style</label>                    <div class="kcm-select-box">
-                        <select name="search[styleId]" id="search_styleId">
+</select>
+                        </div>
+                    </div>
+                    <div class="style">
+                        <label for="search_style">Style</label>
+                        <div class="kcm-select-box">
+                            <select name="search[styleId]" id="search_styleId">
 <option value="" selected="selected">-</option>
 <option value="1">Boutique</option>
 <option value="17">Bungalows</option>
@@ -437,18 +492,20 @@ Saturday and Sunday 7am - 3pm (PST)			         	<br>
 <option value="13">Tropical</option>
 <option value="16">Villa</option>
 <option value="14">Western</option>
-</select>                    </div>
-                </div>
-
-                <div class="medium-4 columns">
-                    <label for="search_activity">Interests</label>                    <div class="kcm-select-box">
-                        <select name="search[activityId]" id="search_activityId">
+</select>
+                        </div>
+                    </div>
+                    <div class="interests">
+                        <label for="search_activity">Interests</label>
+                        <div class="kcm-select-box">
+                            <select name="search[activityId]" id="search_activityId">
 <option value="" selected="selected">-</option>
 <option value="426">Adult Only</option>
 <option value="395">Adventure</option>
 <option value="424">All Inclusive</option>
 <option value="417">Art/Culture</option>
 <option value="352">Bird Watching</option>
+<option value="495">Boating</option>
 <option value="410">Business</option>
 <option value="389">Cooking Classes</option>
 <option value="450">Daily activities</option>
@@ -457,7 +514,6 @@ Saturday and Sunday 7am - 3pm (PST)			         	<br>
 <option value="396">Eco-friendly</option>
 <option value="397">Extreme</option>
 <option value="491">Fall Getaway</option>
-<option value="398">Family</option>
 <option value="425">Family Friendly</option>
 <option value="323">Fishing</option>
 <option value="399">Gambling</option>
@@ -496,286 +552,520 @@ Saturday and Sunday 7am - 3pm (PST)			         	<br>
 <option value="422">Wind Surfing</option>
 <option value="419">Winetasting</option>
 <option value="393">Winter / Snow Activities</option>
-</select>                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="active content kcm-search-bar-simple">
-            <div ng-controller="SearchBarDates" class="row collapse">
-                <div class="kcm-searchbar-search-wrap search-bar-separator-right">
-                    <div class="top-label">
-                        <label><strong>DESTINATION OR HOTEL NAME</strong></label>
-                        <div class="widget-search-mobile">
-                            <span class="kcm-search-bar-toggle hide-pane expander-trigger">Basic Search <i class="fa fa-caret-up"></i></span>
-                            <span class="kcm-search-bar-toggle show-pane expander-trigger">Advanced Search <i class="fa fa-caret-down"></i></span>
+</select>
                         </div>
                     </div>
-                    <div class="notice">
-                                            </div>
-                    <div class="kc-custom-input">
-    <input type="text" name="search[keyword]" autocomplete="off" autocorrect="off" id="search_keyword">  <div id="searchWidgetInputCloseIcon" class="kc-search-clear-button hidden widget-search-clear-button"></div>
+                </div>
+            
+            <div class="active content kcm-search-bar-simple">
+                <div ng-controller="SearchBarDates" class="row collapse">
+                    <div class="kcm-searchbar-search-wrap">
+                        <div class="top-label">
+                            <label><strong>DESTINATION OR HOTEL NAME</strong></label>
+                            <div class="widget-search-mobile">
+                                <span class="kcm-search-bar-toggle hide-pane expander-trigger">Basic Search
+                                    <i class="fa fa-caret-up"></i>
+                                </span>
+                                <span class="kcm-search-bar-toggle show-pane expander-trigger" data-selenium="advanced-search-multiline">Advanced Search
+                                    <i class="fa fa-caret-down"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="notice">
+                                                    </div>
+                        <div class="kc-custom-input">
+    <input type="text" name="search[keyword]" autocomplete="off" autocorrect="off" id="search_keyword">  <i id="searchWidgetInputCloseIcon" class="kc-search-clear-button hidden widget-search-clear-button"></i>
 </div>
 <input type="hidden" name="search[persist_parameters]" value="0" id="search_persist_parameters"><input type="hidden" name="search[ignore_keyword]" id="search_ignore_keyword"><input type="hidden" name="search[geoLocationId]" id="search_geoLocationId"><input type="hidden" name="search[propertyId]" id="search_propertyId"><input type="hidden" name="search[brandId]" id="search_brandId"><input type="hidden" name="search[affiliateId]" id="search_affiliateId"><input type="hidden" name="search[affiliate_widget_referrer]" id="search_affiliate_widget_referrer"><input type="hidden" name="search[view]" id="search_view">
-                </div>
-                <div class="calendar-wrapper">
-                   <label>Travel Dates (Optional)</label>
-                    <span class="kc-search-bar-clear-dates hidden"><a>clear dates</a></span>
-                    <div class="row">
-                        <div class="small-6 columns">
-                            <div class="kcm-calendar kcm-calendar-in needs-hasJS">
-                                <input data-depends="availability[outDate]" type="text" name="availability[inDate]" ng-model="availabilityInfo.inDate" class="kc-custom-calendar-in" autocomplete="off" placeholder="Check In" id="availability_inDate">                            </div>
-                        </div>
-                        <div class="small-6 columns">
-                            <div class="kcm-calendar kcm-calendar-out  needs-hasJS">
-                                <input data-depends="availability[inDate]" type="text" name="availability[outDate]" ng-model="availabilityInfo.outDate" class="kc-custom-calendar-out" autocomplete="off" placeholder="Check Out" id="availability_outDate">                            </div>
+                    </div>
+                    <div class="calendar-wrapper">
+                        <label>Travel Dates (Optional)</label>
+                        <span class="kc-search-bar-clear-dates hidden">
+                            <a>clear dates</a>
+                        </span>
+                        <div class="field-inputs">
+                            <div class="check-in">
+                                <div class="kcm-calendar kcm-calendar-in needs-hasJS">
+                                    <input data-depends="availability[outDate]" type="text" name="availability[inDate]" ng-model="availabilityInfo.inDate" class="kc-custom-calendar-in" autocomplete="off" placeholder="Check In" id="availability_inDate">
+                                    <i class="form-icon calendar"></i>
+                                </div>
+                            </div>
+                            <div class="check-out">
+                                <div class="kcm-calendar kcm-calendar-out needs-hasJS">
+                                    <input data-depends="availability[inDate]" type="text" name="availability[outDate]" ng-model="availabilityInfo.outDate" class="kc-custom-calendar-out" autocomplete="off" placeholder="Check Out" id="availability_outDate">
+                                    <i class="form-icon calendar"></i>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="persons-wrapper search-bar-separator-left search-bar-separator-right">
-                    <div class="row">
-                        <div class="small-6 columns">
-                           <label for="availability_adults">Adults</label>                            <div class="notice"></div>
-                            <select name="availability[adults]" ng-model="availabilityInfo.adults" id="availability_adults">
+                    <div class="persons-wrapper">
+                        <div class="field-inputs">
+                            <div class="adults">
+                                <label for="availability_adults">Adults</label>
+                                <div class="notice">
+                                    
+                                </div>
+                                <select name="availability[adults]" ng-model="availabilityInfo.adults" id="availability_adults">
 <option value="1">1</option>
 <option value="2" selected="selected">2</option>
 <option value="3">3</option>
 <option value="4">4</option>
-</select>                        </div>
-                        <div class="small-6 columns">
-                            <label for="availability_children">Children</label>                            <div class="notice"></div>
-                            
+</select>
+                            </div>
+                            <div class="children">
+                                <label for="availability_children">Children</label>
+                                <div class="notice">
+                                    
+                                </div>
+                                
         <div class="{childrenSelectorClass}">
             <select name="availability[children]" ng-model="availabilityInfo.children" id="availability_children">
 <option value="0" selected="selected">0</option>
 <option value="1">1</option>
 <option value="2">2</option>
 </select>
-        </div>                        </div>
-                    </div>
-
-
-                </div>
-                <div class="kcm-searchbar-btn-wrap search-bar-separator-left">
-                    <label class="show-for-medium-up">
-                        <span class="kcm-search-bar-toggle hide-pane expander-trigger">Basic Search <i class="fa fa-caret-up"></i></span>
-                        <span class="kcm-search-bar-toggle show-pane expander-trigger">Advanced Search <i class="fa fa-caret-down"></i></span>
-                    </label>
-                    <button class="primary-button search-hotel-submit" id="search-submit" type="submit">Search Hotels</button>                </div>
-            </div>
         </div>
-    </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kcm-searchbar-btn-wrap">
+                                                    <label class="advanced-search-wide">
+                                <span class="kcm-search-bar-toggle hide-pane expander-trigger">Basic Search
+                                    <i class="fa fa-caret-up"></i>
+                                </span>
+                                <span class="kcm-search-bar-toggle show-pane expander-trigger" data-selenium="advanced-search-singleline">Advanced Search
+                                    <i class="fa fa-caret-down"></i>
+                                </span>
+                            </label>
+                                                <button class="primary-button search-hotel-submit" type="submit" id="search-submit">Search Hotels</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
 </div>
-        <aside class="left-off-canvas-menu">
-	<ul>
-      <li><a href="https://www.kiwicollection.com/search">Find a Hotel</a>        
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">Free Perks</li>
-  <li><a href="/search?view=list&amp;visa_rate%5B0%5D=1&amp;start=0&amp;rows=20">Visa Perks</a></li>
-  <li><a href="/search?view=list&amp;kiwiadvantage%5B0%5D=1">Kiwi Perks</a></li>
-  <li></li><li></li>
-  <li class="submenu-title">ALL HOTELS</li>
-  <li><a href="/search/map">Map View</a></li>
-  <li><a href="/search">List View</a></li>
-  <li></li><li></li>
-  <li class="submenu-title"><!--<a href="/search?view=list&start=0&rows=20">-->Featured Hotels<!--</a>--></li>
-  <li><a href="/photo-gallery">Photo Gallery</a></li>
-  <li><a href="/search?view=list&amp;wow%5B0%5D=YES">Wow Picks</a></li>
-</ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">TOP CITIES</li>
-  <li><a href="/luxury-hotels/north-america/united-states/new-york/new-york">New York</a></li>
-  <li><a href="/luxury-hotels/europe/united-kingdom/england/london">London</a></li>
-  <li><a href="/luxury-hotels/north-america/united-states/nevada/las-vegas">Las Vegas</a></li>
-  <li><a href="/luxury-hotels/north-america/united-states/florida/miami">Miami</a></li>
-  <li><a href="/luxury-hotels/europe/france/ile-de-france/paris">Paris</a></li>
-  <li><a href="/luxury-hotels/asia/thailand/bangkok">Bangkok</a></li>
-  <li><a href="/luxury-hotels/europe/italy/lazio/rome">Rome</a></li>
-  <li><a href="/luxury-hotels/middle-east/united-arab-emirates/dubai">Dubai</a></li>
-</ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">REGIONS</li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/africa">Africa</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/central-america">Central America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/north-america">North America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/south-america">South America</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/asia">Asia</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/europe">Europe</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/caribbean">Caribbean</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/middle-east">Middle East</a>    </li>
-      <li>
-      <a href="https://www.kiwicollection.com/luxury-hotels/pacific">Pacific</a>    </li>
-  </ul>
-<ul class="kc-header-submenu-list">
-  <li class="submenu-title">VACATION IDEAS</li>
-  <li><a href="/best-hotels/honeymoon-hotels">Honeymoon Suites</a></li>
-  <li><a href="/best-hotels/beach-hotels">Beach Hotels</a></li>
-  <li><a href="/best-hotels/diving-adventures">Diving Adventures</a></li>
-  <li><a href="/best-hotels/city-escapes">City Breaks</a></li>
-  <li><a href="/best-hotels/golf-getaway">Golf Getaways</a></li>
-  <li><a href="/best-hotels/spa-retreats">SPA Resorts</a></li>
-  <li><a href="/best-hotels/safari-hotels">Safaris</a></li>
-</ul>
 
+            
+            
+                <!-- about/kiwi/privacy -->    <div id="about-us-page" class="main-content">
+
+        
+        <div class="row">
+                            <div class="small-9 columns">
+                
+    <!-- about/kiwi/privacy -->
+    	<div class="row subheader">
+		<div class="small-12 columns">
+			<h1 class="kc-sitemap">Privacy Policy</h1>
+			<ul class="kc-breadcrumb">
+				<li class="first"><a href="https://www.kiwicollection.com/">Home</a> <i class="fa fa-angle-right"></i> </li>
+				<li class="current"><a href="https://www.kiwicollection.com/about/privacy">Privacy</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 medium-8 columns">
+			<div class="kc-about-privacy-body-ft kc-about-body-container">
+			<p>As you would expect from all the premier properties showcased in our publications and on our website, Kiwi Collection Inc. respects your privacy and will take all reasonable measures to protect it. We will not sell, share, rent, or otherwise provide any personal information you have given us, to any third party without your permission. </p> <p>Kiwi Collection Inc. will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Our servers collect data each time a user navigates our site. This information is anonymous in nature and includes such information as the number, frequency and duration of each visit, as well as details about click-throughs to our Property Member sites and other third party sites. We will share this non-personal, aggregate, or summary information with partners or other third parties, but Kiwi Collection Inc. will not sell or share any information at the individual level. </p> <p>All personal information you do give us will be used exclusively by Kiwi Collection Inc. to communicate directly with you, or with the hotels displayed on our website, for the purpose of arranging your hotel bookings or answering questions about a booking. Any information you give us will not be used in ways to which you have not consented. At any time you may ask us to discontinue use of the information you have provided, and request that we refrain from sending any further communications to you via that information, by simply sending us a request at <a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a>. Kiwi Collection Inc. commits to accept and abide by such a request immediately.</p> <p>We do reserve the right to change this policy as we expand or alter our services. Accordingly we recommend that you check from time to time in order to understand how we treat your personal information. Your use of this website and its services constitute your agreement to the terms of our privacy policy. If we change those policies, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of this website and its services constitute your agreement to any such changes.</p> <p>If you have any questions or concerns feel free to email us. </p> <h2>Browsing and the use of cookies, Web beacons and other tracking technologies</h2> <p>Kiwi Collection uses cookie technology as part of the Website's statistical reporting and for other purposes related to making the collection available to you. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer's browser. It holds information a website may need to personalize your experience (such as, rotating images on the home page of the Website). We also utilize cookies to identify if you are logged into your Account.</p> <p>If you prefer, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie and privacy preferences. However, if you reject cookies, your use of the Website will be materially impaired or may altogether preclude your use of the Website.</p> <p>A Web beacon is an electronic image, also called a single-pixel or clear GIF, placed in the code of a webpage or in emails. The Website uses Web beacons to track traffic patterns of users as they navigate from one page to another. This information lets us tune and improve our users' browsing experience. As with cookies, the information that Web beacons collect is aggregated, anonymous 'click stream' data, and is not associated with you as an individual.</p> <p>We may use third parties to operate on our behalf to help manage and optimize our Internet business and communications. Through the use of cookies and Action Tags (commonly referred to as Web beacons or GIF tags - e.g., Atlas cookies and Action Tags, Omniture tags, and Doubleclick Web beacons), which are inserted in various places within the Website, such third party companies may collect anonymous information about your visits to the Website and your interaction with our ads and content. For instance, they may keep track of how many of our ads you had seen before visiting the Website. These third party companies may share such anonymous information about your visits to this and other websites with us. From time to time, we may also share anonymous information with such third party companies in an aggregate form, for purposes of analysis and improvement of the Website. If you would like more information about the use of third-party cookies and tags, or the process of opting out of such cookies or tags, please go to <!--<a href='http://www.atlassolutions.com/privacy.aspx' target='_blank'>http://www.atlassolutions.com/privacy.aspx</a>,--> <a href="http://www.networkadvertising.org" target="_blank">http://www.networkadvertising.org</a>, <a href="http://www.omniture.com/en/privacy/2o7" target="_blank">http://www.omniture.com/en/privacy/2o7</a> and <a href="http://www.omniture.com/privacy/product#optout" target="_blank">http://www.omniture.com/privacy/product#optout</a>. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.</p> <p>We also use Web beacons through a third party website analytics provider (Google Analytics or other provider), as well as standard Web server log files, to help us count visitors and evaluate the Website's technical capacity. We also utilize Google Analytics Demographics and Interest Reporting. This information tells us how many people visit the Website, and helps us decide how to arrange pages in the most user-friendly way. This also helps us keep the Website browser-friendly and more useful to our users. We record information on Website traffic, but not on individual visitors to the Website, so no Personal Information about you will be kept or used. We will not merge personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick Web beacon.</p> <h2>Visa Premium Cardholder Rate</h2> <p>The Visa Premium Cardholder Rate is an exclusive rate only available to eligible Visa Signature, Visa Infinite and Visa Platinum credit and debit cards. Kiwi Collection must confirm that all card numbers supplied for the Visa Premium Cardholder Rate are eligible for this exclusive rate. Accordingly, the credit or debit card number provided in connection with a Visa Premium Cardholder Rate booking will be transmitted to Visa Inc. to perform an online check for purposes of validating your card and eligibility.</p> <p><a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a></p> <h2>Disclaimer</h2> <p>Kiwi Collection Inc. endeavors to ensure that the Contents of this website are accurate and current. Nonetheless, despite our efforts this website may contain errors. Accordingly, Kiwi Collection Inc. disclaims any warranty of any kind, whether express of implied, regarding all information contained in and displayed on this website, including any use thereof, as well as any and all links to and from the website. </p> <p>Kiwi Collection Inc. does not warrant that the information included in our website is accurate, current, verified, comprehensive or complete. </p> <p>The information will, from time to time, be updated and/or changed, and Kiwi reserves the right to make all such changes to the content of this website without any obligation to advise and/or notify visitors to the website that such changes have been, or will be made. </p> <p>Currency conversion under license from openexchangerates.org (<a href="https://openexchangerates.org/terms">End User Terms of Use</a>). </p> <p>If you have any questions or concerns feel free to email us.</p> <p><a href="mailto:info@kiwicollection.com">info@kiwicollection.com</a></p>
+			</div>
+		</div>
+	</div>
+    </div>
+        </div>
+    </div>
+
+
+            <!-- global/kiwi/footer -->
+<aside class="left-off-canvas-menu">
+    <ul>
+            <li>
+        <a href="https://www.kiwicollection.com/search">Find a Hotel</a>
+        <!-- homepage/kiwi/findHotelsMenu -->
+        <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            Free Perks
+        </li>
+        <li>
+            <a href="/search?view=list&amp;visa_rate%5B0%5D=1&amp;start=0&amp;rows=20">
+                Visa Perks
+            </a>
+        </li>
+        <li>
+            <a href="/search?view=list&amp;kiwiadvantage%5B0%5D=1">
+                Kiwi Perks
+            </a>
+        </li>
+        <li></li>
+        <li></li>
+        <li class="submenu-title">
+            ALL HOTELS
+        </li>
+        <li>
+            <a href="/search/map">
+                Map View
+            </a>
+        </li>
+        <li>
+            <a class="list-view" href="/search">
+                List View
+            </a>
+        </li>
+        <li></li>
+        <li></li>
+        <li class="submenu-title">
+            Featured Hotels
+        </li>
+        <li>
+            <a href="/best-hotels/wow-picks">
+                Wow Picks
+            </a>
+        </li>
+    </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            TOP CITIES
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/new-york/new-york">
+                New York
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/united-kingdom/england/london">
+                London
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/nevada/las-vegas">
+                Las Vegas
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/north-america/united-states/florida/miami">
+                Miami
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/france/ile-de-france/paris">
+                Paris
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/asia/thailand/bangkok">
+                Bangkok
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/europe/italy/lazio/rome">
+                Rome
+            </a>
+        </li>
+        <li>
+            <a href="/luxury-hotels/middle-east/united-arab-emirates/dubai">
+                Dubai
+            </a>
+        </li>
+    </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">REGIONS</li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/africa">Africa</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/central-america">Central America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/north-america">North America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/south-america">South America</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/asia">Asia</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/europe">Europe</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/caribbean">Caribbean</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/middle-east">Middle East</a>
+            </li>
+                    <li>
+                <a href="https://www.kiwicollection.com/luxury-hotels/pacific">Pacific</a>
+            </li>
+            </ul>
+    <ul class="kc-header-submenu-list">
+        <li class="submenu-title">
+            VACATION IDEAS
+        </li>
+        <li>
+            <a href="/best-hotels/honeymoon-hotels">
+                Honeymoon Suites
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/beach-hotels">
+                Beach Hotels
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/diving-adventures">
+                Diving Adventures
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/city-escapes">
+                City Breaks
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/golf-getaway">
+                Golf Getaways
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/spa-retreats">
+                SPA Resorts
+            </a>
+        </li>
+        <li>
+            <a href="/best-hotels/safari-hotels">
+                Safaris
+            </a>
+        </li>
+    </ul>
 
     </li>
-      <li><a href="https://www.kiwicollection.com/special-offers">Special Offers</a></li>
-      <li><a href="https://www.kiwicollection.com/blog/">Blog</a></li>
-      <!--<li><a href="https://www.kiwicollection.com/luxury/about"><br />About Us</a></li>-->
+    <li>
+        <a href="https://www.kiwicollection.com/special-offers">Special Offers</a>
+    </li>
+    <li>
+        <a href="https://www.kiwicollection.com/blog/">Blog</a>
+    </li>
     </ul>
 </aside>
 
 <a class="exit-off-canvas"></a>
 
-<footer class="row">
-    <div class="small-12 small-centered columns">
+<footer>
+    <!-- global/kiwi/footerHead -->
+    <div class="row">
+        
+        
+                    <div class="kc-newsletter">
+                <!-- member/kiwi/newsletterSignup -->
 
-            <div class="row">
-    
-    <div class="columns small-7 kc-newsletter">
-    <a href="https://www.kiwicollection.com/account/subscribe">Stay in the know about exclusive hotel offers &amp; exciting giveaways
-</a><span class="kc-footer-divider"></span>
-  </div>
-    <div class="columns small-5">
-    <div class="kc-footer-login-signup">
- <a href="https://www.kiwicollection.com/account/signup">Join Now</a><span class="kc-footer-divider">|</span> <a href="https://www.kiwicollection.com/account/login">Login</a>  </div>  </div>
-</div>
-         <div class="kc-footer-wrap-login-social">
-              
-<div class="row">
-  <div class="small-12 medium-3 columns">
-    <ul class="social-media">
-      <li><a class="webicon facebook small" target="_blank" href="http://www.kiwicollection.com/facebook">facebook</a></li>
-      <li><a class="webicon twitter small" target="_blank" href="http://www.kiwicollection.com/twitter">twitter</a> </li>
-      <li><a class="webicon googleplus small" target="_blank" href="https://plus.google.com/+kiwicollection/posts">LINK_KIWI_GOOGLEPLUS</a> </li>
-      <li><a class="webicon pinterest small" target="_blank" href="http://pinterest.com/kiwicollection">Pinterest</a></li>
-    </ul>
-  </div>
-  
+<a href="https://www.kiwicollection.com/account/subscribe">Stay in the know about exclusive hotel offers &amp; exciting giveaways
+</a>
+<span class="kc-footer-divider"></span>
 
-  <div class="small-2 end columns show-for-medium-up">
-    <div class="kc-footer-social-twitter-feed-label">
-      <a href="http://www.kiwicollection.com/twitter" target="_blank">Latest Tweets:</a>
-    </div>  
-  </div>
-  <div class="small-12 medium-6 end columns">
-    <div class="kc-footer-social-twitter-feed-quote">
-      <div class="kc-footer-social-twitter-feed-quote-wrapper">
-        <p><span class="quote-begin" id="quote-begin">“</span>
-        Travel inspiration for your Friday: http://t.co/zHxSeWx98N @SunSiyam in #Maldives. #luxury #travel        <span class="quote-end" id="quote-begin">“</span></p>
-      </div>
-      <div class="beak"></div>
+            </div>
+                <div class="signup-login-footer">
+            <!-- global/footerLoginSignupLinks -->
+<div class="kc-footer-login-signup">
+        	<a href="https://www.kiwicollection.com/account/signup">Join Now</a>
+    	<span class="kc-footer-divider">|</span>
+    	<a href="https://www.kiwicollection.com/account/login">Login</a>
     </div>
-  </div>
-</div>          </div>
-          <div class="row">
-	<div class="small-3 medium-1 columns right-collapse">
-		<img src="/images/global/footer-seal-fs8.png" class="kiwi-footer-seal" title="About Kiwi Collection" width="65" height="76">	</div>
-	<div class="small-9 medium-8 columns">
-		<p class="heading-h2">ABOUT KIWI COLLECTION</p>
-		<p>
-		    Kiwi Collection is the world’s largest independent collection of hotels for people who care where they stay. We provide expert guidance on the best luxury hotels to book for a range of tastes and budgets, plus exclusive free perks and a best rate guarantee. Additional perks are available to Visa Premium cardholders worldwide, including Visa Signature and Visa Infinite cards, and select Visa Platinum and Visa Gold cards.		</p>	
-	</div>
-	<div class="small-12 medium-3 columns">
-		<p class="heading-h2">CONTACT KIWI COLLECTION</p>
-  		<ul class="kc-footer-contactus">
-  <li class="kc-footer-contactus-text">Call our Luxury Hotel Specialists<br>  </li>
-  <li class="kc-footer-contactus-call">
-    <div class="text">
-1.877.999.0680
-</div>
-  </li>
-  <li class="kc-footer-contactus-technical"><a href="https://www.kiwicollection.com/contact/technology">Having technical issues?</a></li>
-</ul>
-	</div>
-</div>        <div class="row footer-links">
-            <div class="small-12 columns">
-<ul class="kc-footer-super-footer-list">
-  <li class="first"><a href="https://www.kiwicollection.com/luxury/about">About Us</a></li>
-  <li><a href="https://www.kiwicollection.com/about/press">Press</a></li>
-  <li><a href="https://www.kiwicollection.com/about/privacy">Privacy</a></li>
-  <li><a href="https://www.kiwicollection.com/about/terms">Terms of Use</a></li>
-  <li><a href="https://www.kiwicollection.com/photo-gallery">Photo Gallery</a></li>
-  <li><a href="https://www.kiwicollection.com/about/sitemap">Sitemap</a></li>
-  <li><a href="https://www.kiwicollection.com/account/agent/signup">Travel Agent Registration</a></li>
-  <li><a href="http://www2.kiwicollection.com/hotelier-signup/">Hotelier Registration</a></li>
-  <li><a href="https://www.kiwicollection.com/contact">Contact Us</a></li>
-</ul>
-<div class="kc-footer-copyright">© 2015 Kiwi Collection Inc. All Rights Reserved</div></div>
+
         </div>
     </div>
-</footer>
-        <div style="background-color: #262626; color: #FFFFFF; font-size: 10px; text-align: left padding-right: 10px; padding-bottom: 5px; max-width: 970px; margin: 0 auto; display: none">
-    detached from b479cc4 (b479cc4)</div>
+
+
+    <div class="kc-footer-wrap-login-social">
+        <!-- global/kiwi/socialLinks -->
+    <div class="social-media-footer">
+        <div class="small-12 medium-3 columns">
+            <ul class="social-media">
+                <li><a href="http://www.kiwicollection.com/facebook" class="webicon facebook small" target="_blank">facebook</a></li>
+                <li><a href="http://www.kiwicollection.com/twitter" class="webicon twitter small" target="_blank">twitter</a></li>
+                <li><a href="https://plus.google.com/+kiwicollection/posts" class="webicon googleplus small" target="_blank">LINK_KIWI_GOOGLEPLUS</a></li>
+                <li><a href="http://pinterest.com/kiwicollection" class="webicon pinterest small" target="_blank">Pinterest</a></li>
+            </ul>
+        </div>
+        <!-- homepage/twitterFeed -->
+    <div class="small-2 end columns show-for-medium-up">
+        <a href="http://www.kiwicollection.com/twitter" target="_blank" class="kc-footer-social-twitter-feed-label">Latest Tweets</a>
+    </div>
+    <div class="small-12 medium-6 end columns">
+        <div class="kc-footer-social-twitter-feed-quote">
+            <div class="kc-footer-social-twitter-feed-quote-wrapper">
+                <p><span class="quote-begin" id="quote-begin">“</span>
+                    Dinner with a view: https://t.co/m4aDsZNKqn @TheCavesResort in #Negril, #Jamaica. https://t.co/zzPrk9jc1F
+                    <span class="quote-end" id="quote-begin">“</span></p>
+            </div>
+            <div class="beak"></div>
+        </div>
+    </div>
+
+    </div>
+<!--[if IE 8]>&nbsp<![endif]-->
+            </div>
+    <div class="collection-information">
                 
-<div class="kc-search-availability-wrapper hidden">
-	
-		<div class="kc-search-availability-overlay">
-			<div class="kc-search-availability-throbber"><img src="/images/global/loading-indicator.gif"></div>
-					      <p>Why book anywhere else?</p>
-		      <p>Free Perks. Best Rates Guaranteed</p>
-	    					<p class="kc-search-availability-notice">
-					Checking availability for:				</p>
-				<div class="kc-custom-textarea">
-					<div class="kc-custom-textarea-wrapper">
-						  <p class="kc-availability-search-property"></p>
-						  <p class="kc-availability-search-dates"><span class="kc-availability-check-in"></span>&nbsp;-&nbsp;<span class="kc-availability-check-out"></span></p>
-					</div>
-			</div>
-
+        <!-- global/kiwi/footerExtraAboutDetails -->
+	<div class="row">
+		<div class="small-3 medium-1 columns right-collapse left-collapse">
+            <img src="/images/global/footer-seal-fs8.png" class="kiwi-footer-seal" title="About Kiwi Collection" width="65" height="76">
+		</div>
+		<div class="small-9 medium-8 columns left-collapse">
+			<p class="heading-h2">ABOUT KIWI COLLECTION</p>
+			<p>
+				Kiwi Collection is the world’s largest independent collection of hotels for people who care where they stay. We provide expert guidance on the best luxury hotels to book for a range of tastes and budgets, plus exclusive free perks and a best rate guarantee. Additional perks are available to Visa Premium cardholders worldwide, including Visa Signature and Visa Infinite cards, and select Visa Platinum and Visa Gold cards.
+			</p>
+		</div>
+		<div class="small-12 medium-3 columns">
+			<p class="heading-h2">CONTACT KIWI COLLECTION</p>
+			<!-- global/kiwi/conciergeContactOptions -->
+<ul class="kc-footer-contactus">
+        <li class="kc-footer-contactus-text">
+        Call our Luxury Hotel Specialists<br>
+          
+    </li>
+    <li class="kc-footer-contactus-call">
+        <div class="text">1.877.999.0680</div>
+    </li>
+            <li class="kc-footer-contactus-technical">
+        <a href="https://www.kiwicollection.com/contact/technology">Having technical issues?</a>
+    </li>
+</ul>
+		</div>
 	</div>
-	<div id="underlay" style="position:fixed;display:block; width:100%; height: 100%;"></div>
+
+
+    </div>
+            <div class="disclaimer">
+            <!-- global/footerExtraDisclaimer -->
+        </div>
+        <div class="footer-links">
+        <!-- global/kiwi/aboutFooterLinks -->
+    <ul class="kc-footer-super-footer-list">
+        <li class="first"><a href="https://www.kiwicollection.com/luxury/about">About Us</a></li>
+        <li><a href="https://www.kiwicollection.com/about/press">Press</a></li>
+        <li><a href="https://www.kiwicollection.com/about/privacy">Privacy</a></li>
+        <li><a href="https://www.kiwicollection.com/about/terms">Terms of Use</a></li>
+        <li><a href="https://www.kiwicollection.com/about/sitemap">Sitemap</a></li>
+                            <li><a href="https://www.kiwicollection.com/account/agent/signup">Travel Agent Registration</a></li>
+                <li><a href="http://www2.kiwicollection.com/hotelier-signup/">Hotelier Registration</a></li>
+                    <li><a href="https://www.kiwicollection.com/contact">Contact Us</a></li>
+    </ul>
+    <div class="kc-footer-copyright">
+        © 2016 Kiwi Collection Inc. All Rights Reserved
+    </div>
+
+    </div>
+</footer>
+            <!-- global/buildInformation -->
+<div style="background-color: #262626; color: #FFFFFF; font-size: 10px; text-align: left; padding: 5px; display: none">
+    no branch (f9a27b8)
 </div>
-                <script type="text/javascript" charset="utf-8">var kiwi_locale = 'en_US';</script>
 
-        <script type="text/javascript" src="https://cdn.kiwicollection.com/js/lib/s_code-20.3.js?version=f31fd27f5c0521398ae24be82b25fa8179dab5f8"></script>
-<script type="text/javascript" src="https://cdn.kiwicollection.com/js/dist/mobile_combined_en_US.js?version=f31fd27f5c0521398ae24be82b25fa8179dab5f8"></script>
+                        <!-- search/searchOverlay --> <div class="kc-search-availability-wrapper hidden">
+    <div class="kc-search-availability-overlay">
+        <div class="kc-search-availability-throbber">
+                            <img src="/images/global/loading-indicator.gif">
+                    </div>
+                    <p>Why book anywhere else?</p>
+            <p>Free Perks. Best Rates Guaranteed</p>
+                <p class="kc-search-availability-notice">
+            Checking availability for:
+        </p>
 
-       <!--[if IE 9]>
-			<script type="text/javascript" src="https://cdn.kiwicollection.com/bower_components/history.js/scripts/bundled/html4+html5/jquery.history.js?version=f31fd27f5c0521398ae24be82b25fa8179dab5f8"></script>
-		<![endif]-->
+        <div class="kc-custom-textarea">
+            <div class="kc-custom-textarea-wrapper">
+                <p class="kc-availability-search-property"></p>
+                <p class="kc-availability-search-dates">
+                    <span class="kc-availability-check-in"></span>
+                    &nbsp;-&nbsp;
+                    <span class="kc-availability-check-out"></span>
+                </p>
+            </div>
+        </div>
 
+    </div>
+    <div id="underlay"></div>
+</div>
+
+
+            <script type="text/javascript" charset="utf-8">
+                var kiwi_locale = 'en_US';
+            </script>
+
+            <!--[if lt IE 9]> 
+<script type="text/javascript" src="https://cdn.kiwicollection.com/js/lib/s_code-20.3.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+<script type="text/javascript" src="https://cdn.kiwicollection.com/js/dist/mobile_combined_ie8_en_US.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+ <![endif]--> 
+ <!--[if gte IE 9]><!--> 
+<script type="text/javascript" src="https://cdn.kiwicollection.com/js/lib/s_code-20.3.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+<script type="text/javascript" src="https://cdn.kiwicollection.com/js/dist/mobile_combined_en_US.js?version=3145717fac7f3d2b650d0c2b86bb0c951af6f519"></script>
+
+ <!--<![endif]-->
+
+            
+                            
+    
+    <script name="searchBar">
+        // slotPostJavascriptIncludesAvailabilityInfo
+        /** load php variables into angular */
+        angular.module('kiwi').value('availabilityInfo', {
+                        'inDate' : '',
+            'inDateISO' : '',
+            'outDate' : '',
+            'outDateISO' : '',
+            'adults' : '2',
+            'children' : '0',
+            'nights' : '0'
+        });
+    </script>
+
+            
+                        
         
-                <!--[if gte IE 8]><div id="kc-dialog" class="IE IE8 notIE6"><![endif]-->
-<!--[if IE 7]><div id="kc-dialog" class="IE IE7 notIE6"><![endif]-->
-<!--[if IE 6]><div id="kc-dialog" class="IE IE6"><![endif]-->
+<!--[if gte IE 8]>
+<div id="kc-dialog" class="IE IE8 notIE6"><![endif]-->
+<!--[if IE 7]>
+<div id="kc-dialog" class="IE IE7 notIE6"><![endif]-->
+<!--[if IE 6]>
+<div id="kc-dialog" class="IE IE6"><![endif]-->
 <div id="kc-dialog" class="W3C notIE6">
     <div class="kc-dialog-title"></div>
     <div class="kc-dialog-content"></div>
     <a class="kc-btn-close" href="#">Close</a>
 </div>
-                                            
-        <div id="newsletterOverlayBoxBackground"></div>
-<div id="newsletterOverlayBox">
-		<div id="newsletterOverlayBoxQuit" data-analytics="newsletter-close"></div>
-		<div id="newsletterThankYou"><span>Thank you for signing up!</span> <br><br> You'll start receiving exclusive offers and hotel deals soon.</div>
 
-		<div id="newsletterSecondWrap">
-		<div id="newsletterVipMembersText">
-            <h1>Be The First To Know</h1>
-		</div>
-        <div id="newsletterDontMissOutText">
 
-            Receive exclusive offers, updates on the<br>
+            
+            
+                                        
+                            <!-- member/kiwi/newsletterBox -->
+	<div id="newsletterOverlayBoxBackground"></div>
+	<div id="newsletterOverlayBox">
+			<div id="newsletterOverlayBoxQuit" data-analytics="newsletter-close"></div>
+			<div id="newsletterThankYou"><span>Thank you for signing up!</span> <br><br> You'll start receiving exclusive offers and hotel deals soon.</div>
+
+			<div id="newsletterSecondWrap">
+			<div id="newsletterVipMembersText">
+				<h1>Be The First To Know</h1>
+			</div>
+			<div id="newsletterDontMissOutText">
+
+				Receive exclusive offers, updates on the<br>
                                     latest hotels, and the inside scoop<br>
-                                    on our luxurious giveaways.        </div>
-		<form action="/account/subscribe" method="POST">
-		      <input type="text" name="newsletter[email]" value="enter your email" class="newsletterEmailInput" id="newsletterEmailInput">			  <button id="newsletterPopUpButton" class="primary-button kc-form-submit" data-analytics="newsletter-signup">Sign Up</button>
-		</form>
-		</div>
-		<div class="clear"></div>
-</div>
+                                    on our luxurious giveaways.
+			</div>
+			<form action="/account/subscribe" method="POST">
+				  <input type="text" name="newsletter[email]" value="enter your email" class="newsletterEmailInput" id="newsletterEmailInput">
+				  <button id="newsletterPopUpButton" class="primary-button kc-form-submit" data-analytics="newsletter-signup">Sign Up</button>
+			</form>
+			</div>
+			<div class="clear"></div>
+	</div>
 
-
-        <!-- begin SnapEngage code -->
+            
+            <!-- begin SnapEngage code -->
 <script type="text/javascript">
     (function() {
     	if($(window).width()>1025){
@@ -833,8 +1123,128 @@ Saturday and Sunday 7am - 3pm (PST)			         	<br>
     	}
     })();
 </script>
-<!-- end SnapEngage code -->    </div>
-</div>
+<!-- end SnapEngage code -->
+        </div>
+    </div>
+        <!--[if gte IE 9]><!-->
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+/*
+ *           Account: UA-254360-1 * Universal Account: UA-254360-55 *               Src: KIWI */
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  var googleAnalyticsImpressiontDetails = [];
+  var googleAnalyticsProductDetails = [];
+  var googleAnalyticsPromotionDetails = [];
+  var googleAnalyticsActionDetails = [];
+  var googleAnalyticsPageHost = null;
+  var googleAnalyticsPagePath = null;
+  var googleAnalyticsPageTitle = null;
+  
+        
+    var createConfig = {'userId':'', 'siteSpeedsampleRate': 50};
+
+    createConfig['cookieDomain'] = "kiwicollection.com";
+    createConfig['legacyCookieDomain'] = "kiwicollection.com";
+
+
+    ga('create', 'UA-254360-1', createConfig);
+
+
+          
+    var universalTrackerCreateConfig = {'userId':'', 'siteSpeedsampleRate': 50};
+
+    universalTrackerCreateConfig['cookieDomain'] = "kiwicollection.com";
+    universalTrackerCreateConfig['legacyCookieDomain'] = "kiwicollection.com";
+
+    universalTrackerCreateConfig['name'] = 'universalTracker';
+
+    ga('create', 'UA-254360-55', universalTrackerCreateConfig);
+
+    ga('universalTracker.require', 'displayfeatures');
+
+    function googleAnalyticsPageView(googleAnalyticsImpressiontDetails, googleAnalyticsProductDetails, googleAnalyticsPromotionDetails, googleAnalyticsActionDetails, pageHost, pagePath, pageTitle)
+  {
+                
+
+    ga('set', 'dimension3', 'LoggedOut'); // LoggedIn
+
+    ga('set', 'dimension4', 'KIWI'); // WhiteLabel
+    
+    
+    ga('send', 'pageview', {
+        'hostname': pageHost || null,
+        'page': pagePath || null,
+        'title': pageTitle || null
+    });
+                        
+
+    ga('universalTracker.set', 'dimension3', 'LoggedOut'); // LoggedIn
+
+    ga('universalTracker.set', 'dimension4', 'KIWI'); // WhiteLabel
+    
+    
+    ga('universalTracker.send', 'pageview', {
+        'hostname': pageHost || null,
+        'page': pagePath || null,
+        'title': pageTitle || null
+    });
+        }
+  
+  googleAnalyticsPageView(googleAnalyticsImpressiontDetails, googleAnalyticsProductDetails, googleAnalyticsPromotionDetails, googleAnalyticsActionDetails, googleAnalyticsPageHost, googleAnalyticsPagePath, googleAnalyticsPageTitle);
+</script>
+<script type="text/javascript">
+    // functions
+    function googleAnalyticsEvent(category, action, label, value, propertyId, promotionId)
+    {
+        label = label || '';
+        value = value || null;
+        propertyId = propertyId || '';
+        promotionId = promotionId || '';
+
+        propertyId = propertyId.trim();
+        promotionId = promotionId.trim();
+        
+      
+        
+    ga('set', 'dimension3', 'LoggedOut'); // LoggedIn
+
+    ga('set', 'dimension4', 'KIWI'); // WhiteLabel
+
+        ga('send', 'event', category, action, label, value);
+            
+        
+    ga('universalTracker.set', 'dimension3', 'LoggedOut'); // LoggedIn
+
+    ga('universalTracker.set', 'dimension4', 'KIWI'); // WhiteLabel
+
+        ga('universalTracker.send', 'event', category, action, label, value);
+      
+        return true;
+    }
+
+</script>
+<!--<![endif]-->
+
+<!--[if IE 8]>
+    <script type="text/javascript">
+        function googleAnalyticsPageView(){
+
+        }
+        function googleAnalyticsEvent(){
+
+        }
+    </script>
+<![endif]-->
+<!-- End Google Analytics -->
+
+
+    
     <!-- Google Tag Manager -->
 <noscript><iframe sandbox="allow-scripts" src="//www.googletagmanager.com/ns.html?id=GTM-3LQQ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -846,4 +1256,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+    
 </body></html>
