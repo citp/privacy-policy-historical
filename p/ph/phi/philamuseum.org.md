@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220211339id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624024234id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policies
 
@@ -8,7 +8,7 @@ Thank you for visiting the Philadelphia Museum of Art's (the "Museum's") website
 **Disclaimers**  
 The Museum is a 501(c)3, nonprofit organization. Information on this website is presented purely for educational and informational purposes. Your use of this website is subject to the provisions of this privacy policy, as well as the terms and conditions set forth in the [Copyright Notice](https://web.archive.org/copyright.html).
 
-We cannot guarantee the website will be error-free. However, we will make every reasonable effort to make content accurate, reliable and complete. This includes correcting any errors that are brought to our attention. You may contact us at webmaster@philamuseum.org. 
+We cannot guarantee the website will be error-free. However, we will make every reasonable effort to make content accurate, reliable and complete. This includes correcting any errors that are brought to our attention. You may contact us at [website@philamuseum.org](mailto:website@philamuseum.org). 
 
 **Privacy**  
 The Museum is committed to safeguarding the privacy and security of all our Web visitors. The Museum collects information throughout this website for several different purposes, which are explained below. 
@@ -47,10 +47,10 @@ In addition to using cookies and related technologies as described above, we als
 **Sending Us Personal Information**  
 If you send us personal information—by submitting an e-mail, completing an online form or survey, requesting materials or information, ordering merchandise or Museum tickets, making a donation or signing up for membership—we will use this information to respond to your inquiry or request. We may also use it to contact you to provide information about other Museum activities, programs, membership and fundraising opportunities, products and special events that may interest you. You may opt-out of having your information used by the Museum for these purposes, or you may update your contact information anytime, by contacting us via the following e-mail or postal mail addresses: 
 
-[webmaster@philamuseum.org](mailto:webmaster@philamuseum.org)
+[website@philamuseum.org](mailto:website@philamuseum.org)
 
 Philadelphia Museum of Art  
-Webmaster  
+Website  
 Box 7646  
 Philadelphia, PA 19101-7646  
 USA
