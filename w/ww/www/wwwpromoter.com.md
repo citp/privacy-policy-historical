@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the wwwpromoter.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115011543id_/http%3A//wwwpromoter.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwwpromoter.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170919id_/http%3A//wwwpromoter.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WWWPromoter
+# Terms & Conditions - WWWPromoter
+
+#### Your privacy is important to us  
+
 
 This Privacy Policy describes how WWWPromoter, Inc ("WWWPromoter," "Company," "we," or "us") collects, uses and shares information about you. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information in certain circumstances.
 
