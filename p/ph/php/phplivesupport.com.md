@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094928id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624063634id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
 
 # OSI Codes Inc. - Privacy Policy
 
@@ -60,6 +60,6 @@ Changes to our Privacy Policy
 
 If changes to our privacy policy is made, we will update the Privacy Policy modification date below. 
 
-Privacy policy last updated on Aug 6, 2015
+Privacy policy last updated on Feb 23, 2016
 
 Contact Us
