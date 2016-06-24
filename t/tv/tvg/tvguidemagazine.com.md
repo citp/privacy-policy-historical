@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122004103id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguidemagazine.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624045403id_/http%3A//www.tvguidemagazine.com/privacy) for the most accurate reproduction.*
 
 # TV Guide Magazine Privacy Policy
 
@@ -50,7 +50,7 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 On occasion, we may offer contests or other promotions involving marketing or advertising partners. If you choose to participate in one of these contests or promotions, you’ll have to provide some information about yourself (such as name, address, and email address). We may share this information with sponsors of the contest or other promotional partners, but we will always identify the other parties involved (for example, in the contest rules) and provide notice that your registration may be disclosed to these parties. We don’t control these third parties’ privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We urge you to review their privacy policies and learn how they will use your information before participating. If you don’t want us to collect the information requested in connection with a promotion, or to provide it to our co-sponsors or partners, please do not participate in the promotion.
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other TV Guide Magazine, LLC. property or any companies not owned by TV Guide Magazine, LLC., please s [here](http://www.tvguidemagazine.com/customerservice).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other TV Guide Magazine, LLC. property or any companies not owned by TV Guide Magazine, LLC., please click [here](http://www.tvguidemagazine.com/customerservice).
 
 If you prefer not to receive e-mail marketing from this or any other TV Guide Magazine property or any companies not owned by TV Magazine, LLC., please click [here](http://www.tvguidemagazine.com/customerservice).
 
