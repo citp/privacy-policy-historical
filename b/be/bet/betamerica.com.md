@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214034id_/https%3A//www.betamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betamerica.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624140311id_/https%3A//www.betamerica.com/privacy) for the most accurate reproduction.*
 
 # BetAmerica | Privacy Policy
-
-* * *
 
 **BetAmerica respects the privacy of our Account Holders and the information they provide us, and is committed to protecting Account Holder information.**
 
