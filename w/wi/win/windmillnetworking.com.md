@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011638id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624025932id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY STATEMENT**
+Last updated on: April 19, 2015 By 
+
+### **PRIVACY POLICY STATEMENT**
 
 Your privacy is important to Windmills Marketing.  This privacy statement provides information about the personal information that Windmills Marketing collects, and the ways in which Windmills Marketing uses that personal information.
 
@@ -75,3 +77,5 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
   * by post to 14271 Jeffrey Rd., Suite 177, Irvine, CA 92620 USA
 
 
+
+FIRST PUBLISHED ON July 16, 2010
