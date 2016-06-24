@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008023658id_/http%3A//www.banfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624105423id_/http%3A//www.banfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Banfield Pet Hospital®
 
