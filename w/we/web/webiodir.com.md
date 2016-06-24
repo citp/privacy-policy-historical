@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webiodir.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115175907id_/http%3A//webiodir.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webiodir.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624103348id_/http%3A//webiodir.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Webio
 
