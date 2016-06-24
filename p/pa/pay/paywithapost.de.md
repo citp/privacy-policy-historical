@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paywithapost.de privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910162920id_/http%3A//www.paywithapost.de/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paywithapost.de privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624062301id_/http%3A//www.paywithapost.de/privacy_notice) for the most accurate reproduction.*
 
 # Pay with a Tweet - Your No. 1 Referral Marketing Tool
 
