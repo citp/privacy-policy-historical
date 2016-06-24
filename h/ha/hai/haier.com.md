@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haier.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717074934id_/http%3A//www.haier.com/us/footer/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haier.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213816id_/http%3A//www.haier.com/us/footer/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Haier America
 
