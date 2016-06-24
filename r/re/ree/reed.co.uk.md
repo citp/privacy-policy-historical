@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226140529id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624114549id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - reed.co.uk
 
@@ -42,11 +42,11 @@ Any policy changes, either due to business reasons or future changes in legislat
 
 'Cookies' are ways of saving a small amount of personal information. We use cookies to save information about what type of job or course you're looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you untick the 'keep me signed in' checkbox when you sign in to www.reed.co.uk. This will remove all details from the cookie. If you would like more information about cookies, go to the Website [all about cookies](http://www.allaboutcookies.org/cookies/). 'Cookies' are ways of saving a small amount of personal information. We use cookies to save information about what type of job or Course you're looking for. This allows easy access to our Website, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you untick the 'keep me signed in' checkbox when you sign in to www.reed.co.uk. This will remove all details from the cookie. If you would like more information about cookies, go to the Website [all about cookies](http://www.allaboutcookies.org/cookies/). 
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>
 
 Reed uses Google Adwords conversion tracking to measure advertising performance and improve the quality of the adverts you see. Find out more about [Google Site Stats](https://services.google.com/sitestats/en.html?cid=1070115141). 
 
-To find out about all the cookies used on our Website and how to manage them, visit our [cookies page](https://web.archive.org/web/20151226140529id_/http%3A//www.reed.co.uk/clearcookies). 
+To find out about all the cookies used on our Website and how to manage them, visit our [cookies page](https://web.archive.org/web/20160624114549id_/http%3A//www.reed.co.uk/clearcookies). 
 
 ### How do you remove your name from the database?
 
@@ -54,7 +54,7 @@ You can [contact us](http://www.reed.co.uk/enquiries) to request for your accoun
 
 ### How do you unsubscribe from future mailings?
 
-If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20151226140529id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences). 
+If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20160624114549id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences). 
 
 **Registered Office**
 
@@ -93,4 +93,4 @@ Company Number 6317279. Registered in England and Wales.
 
 **Users** \- people who use our Website and register their details with us for the purposes of recruitment, either to gain employment or for the purposes of recruiting new staff. 
 
-**Website** \- Reed Online Limited's website wwww.reed.co.uk and/or mobile device application. 
+**Website** \- Reed Online Limited's website www.reed.co.uk and/or mobile device application. 
