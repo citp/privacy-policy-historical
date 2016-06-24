@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynorthwestern.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225202553id_/http%3A//snosites.com/client-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynorthwestern.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624202612id_/http%3A//snosites.com/client-site-privacy-policy) for the most accurate reproduction.*
 
 # Client Site Privacy Policy | SNO Sites
 
