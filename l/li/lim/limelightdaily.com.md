@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limelightdaily.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114191646id_/http%3A//limelightdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightdaily.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624044535id_/http%3A//limelightdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Limelight Daily
+# Privacy Policy - Limelight Daily
 
 Welcome to Limelightdaily.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Limelight Daily (collectively, “Services”) (“Authorized Customers”).
 
