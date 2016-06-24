@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222110857id_/http%3A//financialservices.coles.com.au/insurance/about-our-insurance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183812id_/http%3A//financialservices.coles.com.au/insurance/about-our-insurance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coles Insurance
 
@@ -64,7 +64,7 @@ If you wish to access or correct any personal information we hold about you or h
 In the case of access and correction requests, please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant laws, we are required to provide our reasons if we refuse your request. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information.  
 Additional privacy information
 
-In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and Coles MasterCard. Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
+In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and [Coles MasterCard](https://web.archive.org/credit-cards/about-our-credit-cards/important-information). Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
 
 For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at www.oaic.gov.au and on 1300 363 992.
 
