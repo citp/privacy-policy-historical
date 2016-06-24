@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217002133id_/https%3A//media.bills.com/privacy-notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624220201id_/https%3A//media.bills.com/privacy-notice.pdf) for the most accurate reproduction.*
 
 # 
 
