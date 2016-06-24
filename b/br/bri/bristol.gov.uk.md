@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016034916id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051449id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
-# Privacy statement: what we do with your personal data | Bristol City Council
+# Privacy - bristol.gov.uk
 
-**Your privacy is important to us and we take great care to protect it.**
-
-You can visit our website without giving us your personal data.
+Your privacy is important to us and we take great care to protect it. You can visit our website without giving us your personal data.
 
 ## Your rights
 
@@ -38,17 +36,24 @@ We collect your personal details when you fill in a form on our websites or send
 4\. We may also give your data to the Cabinet Office and other bodies so they can use it to match against computer records held by other public bodies.
 
   * This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.
-  * Find out about the [National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/fraud-prevention-and-detection).
+  * Find out about the [National Fraud Initiative and other data matching initiatives.](https://web.archive.org/c/portal/layout?p_l_id=217377)
 
 
 
 5\. We may also use your data to identify, understand and meet the needs of individuals and families who will benefit from a multi- agency response.
 
-  * Find out more about our ‘[Think Family](https://web.archive.org/page/community-and-safety/troubled-families-programme-think-family)’ group who use data to support families in Bristol.
+  * Find out more about our ‘[Think Family](https://web.archive.org/c/portal/layout?p_l_id=31725)’ group who use data to support families in Bristol.
 
 
 
-6\. We may also share your information without asking you if:
+6\. We collect data to help improve the health and wellbeing of Bristol residents. We will not share sensitive or confidential information without your consent except in a small number of situations where disclosure is required by law, or where we have good reason to believe that failing to do so would put you or someone else at risk
+
+  * Find out more on our [Healthy living ](https://web.archive.org/c/portal/layout?p_l_id=26741)page
+
+
+
+
+7\. We may also share your information without asking you if:
 
   * the law says we must
   * there is a risk of serious harm or threat to life.
@@ -59,13 +64,13 @@ We will always ask you before we use it for any other reason or for marketing.
 
 ## Opting out
 
-[Request to opt out of the sharing of your basic details](https://web.archive.org/form/request-opt-out-sharing-your-basic-details)
+[Request to opt out of the sharing of your basic details](https://web.archive.org/c/portal/layout?p_l_id=238431)
 
 If you've already opted out then you don't need to request again.
 
 ## Why the privacy statement has changed
 
-Information about why the privacy statement has changed in our [frequently asked questions (pdf, 282 KB)(opens new window)](http://www.bristol.gov.uk/sites/default/files/documents/homepage/privacy/privacy-notice-frequently-asked-questions_v1.02_0.pdf).
+Information about why the privacy statement has changed in our [frequently asked questions. (pdf, 282k) (opens new window)](https://web.archive.org/documents/20182/33912/Privacy+frequently+asked+questions/f8d02fd6-a7be-4ad3-b300-240f560b5dcf)
 
 ## Web statistics
 
@@ -74,7 +79,7 @@ We collect web statistics automatically about your visit to our site based on yo
 ## Cookies
 
 We sometimes store small files called ‘cookies’ on your computer or other device to help improve your experience on the website. Our cookies cannot be used to identify you personally.  
-[Find out about the cookies we store on your computer](https://web.archive.org/page/council-and-democracy/cookies).
+[Find out about the cookies we store on your computer](https://web.archive.org/c/portal/layout?p_l_id=217116).
 
 ## How to see the information we hold about you
 
@@ -87,7 +92,7 @@ Under the Data Protection Act 1998, you can ask us for the following information
 
 
 
-If you wish to see information held by the council about you, please [make a data protection request](https://web.archive.org/form/council-and-democracy/make-data-protection-request-subject-access-request).
+If you wish to see information held by the council about you, please [make a data protection request](https://web.archive.org/c/portal/layout?p_l_id=31322).
 
 ## Data Protection Notification
 
@@ -95,7 +100,7 @@ You may view the council's Data Protection Notification by searching for our reg
 
 ## CCTV video
 
-[Apply for information held on the council's CCTV system](https://web.archive.org/page/community-and-safety/apply-information-held-councils-cctv-system).
+[Apply for information held on the council's CCTV system](https://web.archive.org/c/portal/layout?p_l_id=27722).
 
 ## Contact the data protection officer
 
@@ -104,6 +109,7 @@ Email: [data.protection@bristol.gov.uk](mailto:data.protection@bristol.gov.uk)
 Post:  
 Data Protection Officer  
 Bristol City Council  
-City Hall  
-College Green  
-Bristol BS1 5TR
+Romney House  
+Romney Avenue  
+Bristol  
+BS7 9TB
