@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wideopenspaces.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919044250id_/http%3A//www.wideopenspaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wideopenspaces.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624063319id_/http%3A//www.wideopenspaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wide Open Spaces
 
 _Effective Date: This policy was last updated on 10/30/2013_
 
-## **Overview**
+##  **Overview**
 
 Wide Open Spaces takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.
 
@@ -14,7 +14,7 @@ Wide Open Spaces contains links to other sites and we are not responsible for th
 
 Wide Open Spaces gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, Wide Open Spaces, along with our advertising partners, gather information about you anonymously to provide you with more targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes below.
 
-## **Information Collected**
+##  **Information Collected**
 
 Personal Information/ Information You Directly Provide To Wide Open Spaces:
 
@@ -65,7 +65,7 @@ This type of information is collected anonymously by approved third-party partne
 
 
 
-## **What Is Done With The Collected Information?**
+##  **What Is Done With The Collected Information?**
 
 Site Content: Wide Open Spaces partners with Sailthru to provide you with content that is relevant and personalized to your reading interests. You can read [Sailthru’s privacy policy here](http://www.sailthru.com/legal/#privacy).
 
@@ -90,11 +90,11 @@ There are very few specific circumstances when your information is shared outsid
 
 
 
-## **Email Policy**
+##  **Email Policy**
 
 Wide Open Spaces does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login or email us at [newsletter@wideopenspaces.com](mailto:newsletter@wideopenspaces.com) to your profile to change your newsletter settings.
 
-## **Notices**
+##  **Notices**
 
 Children Under 13: Wide Open Spaces does not knowingly target advertising to, or collect information from children under the age of 13.
 
@@ -106,11 +106,11 @@ Changes To This Policy: Wide Open Spaces may at any time change this Privacy Pol
 
 Questions/Suggestions: If you have any questions or suggestions for this Privacy Policy, please contact the editor of Wide Open Spaces or email questions to [privacy@wideopenspaces.com](mailto:privacy@wideopenspaces.com). You can also reach us by mail at 619B Congress Ave, Austin, TX, 78701.
 
-## **Cookies**
+##  **Cookies**
 
 A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user’s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit [IAB’s web site](http://www.iab.net/).
 
-## **For More Information**
+##  **For More Information**
 
 Below are links to the privacy policies of some of our partners and links to advertising opt outs.
 
@@ -120,6 +120,6 @@ If you want to opt-out of receiving targeted ads from DFP, [visit this link](htt
 
 [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners’ non-personal information tracking, visit the [NAI opt-out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on Wide Open Spaces. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
 
-## **Contact Us**
+##  **Contact Us**
 
 If you have questions about privacy please contact us at [privacy@wideopenspaces.com](mailto:privacy@wideopenspaces.com).
