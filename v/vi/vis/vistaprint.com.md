@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231101221id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122925id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
@@ -122,7 +122,7 @@ Vistaprint Address for Written Requests
 Written request may be sent to the following address. When writing to us, please be sure to include your exact name, mailing address, telephone number and specific preferences or request. 
 
 Vistaprint Netherlands B.V.  
-c/o _[LM:SiteBranding:CompanyName]_ USA, Incorporated  
+c/o Vistaprint USA, Incorporated  
 Customer Service  
 275 Wyman Street  
 WalthamMA 02451  
