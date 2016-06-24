@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209093527id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625005845id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
-# NCIX.com - Canada's Premier Computer Store
+# Privacy Policy - NCIX.com
 
 **NCIX.com is committed to protecting your privacy.** This privacy policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means NCIX.com as well as its affiliated companies. 
 
-**What information we collect and your privacy:**
-
-**When you browse our Web site**
+## **When you browse our Web site**
 
   * **Your IP address**. We collect your IP address to measure our Web site traffic and to help provide a relevant shopping experience.   
 
@@ -18,15 +16,15 @@
 
 
 
-**When you make purchases through our Web site**
+## **When you make purchases through our Web site**
 
 We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart, PC Builder or our on-line wish list. 
 
-**When you create an E-Account on our Web site**
+## **When you create an E-Account on our Web site**
 
 We collect your user name, password, e-mail address, to protect your account. You can help us ensure your privacy by not sharing your user name or password. 
 
-**When you submit your e-mail address with NCIX.com**
+## **When you submit your e-mail address with NCIX.com**
 
 When you e-mail product information to a friend or colleague through our Web site NCIX.com collect's your e-mail address and the e-mail address of the person to whom you are sending the product information. 
 
@@ -36,7 +34,7 @@ When you enter contests, participate in surveys, or register for other activitie
 
 In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](http://newsletter.ncix.com/unsubscribe.html) and unsubscribing to our e-mail subscriptions.
 
-**Is my personal or account information used for any other purpose?**
+## **Is my personal or account information used for any other purpose?**
 
 We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
 
@@ -44,11 +42,11 @@ We may also analyze and act upon your personal and account information as part o
 
 If you become our customer, we may send you periodic updates on important information about our company and services. 
 
-**Will my personal and account information be provided to any other party?**
+## **Will my personal and account information be provided to any other party?**
 
 We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Only authorized NCIX.com personnel are permitted to see your account password. 
 
-**How do you protect my personal and account information?**
+## **How do you protect my personal and account information?**
 
 We use 128-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. Our Web site is certified by VeriSign, which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
 
