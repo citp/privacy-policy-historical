@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wikia.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231205842id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikia.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624221632id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikia
 
-Date of Last Revision: March, 2012 
+Date of Last Revision: June, 2016 
 
 This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
 
@@ -28,7 +28,9 @@ Wikia collects all the information you provide when you modify the content of a 
 
 ### Online behavioral advertising
 
-This site works with third parties, including advertising companies and website analysis firms, who use cookies to collect Non-Personally Identifiable Information ("Non-PII") when you visit our Site and third party sites about your surfing activities. This Non-PII, collected through cookies, is typically used by these third party advertising networks to serve you with advertisements while on third party sites tailored to meet your preferences and likely interests. If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out, or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site, <http://www.networkadvertising.org/managing/opt_out.asp>
+This site works with third parties, including advertising companies and website analysis firms, who use cookies to collect Non-Personally Identifiable Information ("Non-PII") when you visit our Site and third party sites about your surfing activities, such as IP address and user search data. This Non-PII, collected through cookies, is typically used by these third party advertising networks to serve you with advertisements tailored to meet your preferences and likely interests. You can opt-out of receiving personalized ads from advertisers and ad networks that are members of the Network Advertising Initiative (“NAI”) or who follow the DAA Self-Regulatory Principles for Online Behavioral Advertising using their respective opt-out tools. The NAI's opt-out tool can be found here <http://www.networkadvertising.org/choices/> and the DAA's opt out tool can be found here <http://www.aboutads.info/choices/>. Note that opting-out does not stop information from being collected. However, if you opt-out, the applicable advertiser will not use any information collected from you for the purpose of displaying personalized ads. 
+
+We utilize the Krux platform and cookies to store Non-PII regarding our users. Krux uses a number of technologies, in addition to cookies, to collect Non-PII data based on its analysis of your interaction with our sites and to select advertisements or content to provide to you. You can find out more about how the Krux platform collects and uses Non-PII by clicking the at the “Privacy” tab on the Krux web site, www.krux.com. Krux is an NAI member and, as stated above, you may utilize the NAI opt-out tool to cease our use of the Krux data for the purpose of sending you personalized advertisements. 
 
 ###  Sharing Your Information 
 
