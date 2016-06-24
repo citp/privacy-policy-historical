@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bscreview.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110074259id_/http%3A//www.bookspotcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bscreview.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624200305id_/http%3A//www.bookspotcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bookspotcentral
 
