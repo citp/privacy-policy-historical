@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awesomeitv.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221181648id_/http%3A//www.awesomeitv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeitv.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624094656id_/http%3A//www.awesomeitv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Awesome iTV
+# Privacy Policy - Awesome TV
 
 AWESOME Internet Television (“AIT”) is committed to protecting your privacy. AIT, its affiliates, and its subsidiaries own, operate, or provide access to, several interactive web sites and other interactive features that provide an authorized link to this Privacy Policy (collectively “AIT Web Sites”). This Privacy Policy applies only to the AIT Websites.
 
