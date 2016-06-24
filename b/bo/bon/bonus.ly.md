@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonus.ly privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320081629id_/https%3A//bonus.ly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonus.ly privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624204921id_/https%3A//bonus.ly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonusly
 
@@ -40,7 +40,7 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
 
 * ##### Security of Information
 
-We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Site through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
+We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Site through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt all information using Transport Layer Security (TLS) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Site, and are not responsible for the actions of any third parties that may receive any such information.
 
@@ -56,4 +56,4 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 * #####  Contact Us 
 
-email: feedback@bonus.ly
+email: support@bonus.ly
