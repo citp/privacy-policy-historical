@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promorecharge.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110034849id_/http%3A//www.promorecharge.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promorecharge.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170635id_/http%3A//www.promorecharge.com/terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy - PromoRecharge - 10 November 2015 11 Nov Diwali Offers
+# Privacy Policy - June 2016 - PromoRecharge.com
 
 > ### Personal Information
 
@@ -25,15 +25,15 @@ Some of our advertising partners may use cookies and web beacons on our site.
 Our advertising partner  
 Google Adsense
 
-> ### **How we protect your information**
+> ###  **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure of your personal information, stored on our Site.
 
-> ### **Children’s privacy**
+> ###  **Children’s privacy**
 
 Promorecharge.com requires that the visitor must be at least 18 years old to use our site. If you are below 18 years of age, you are strictly prohibited from registering on our Website.
 
-> ### **Changes to this privacy policy**
+> ###  **Changes to this privacy policy**
 
 Promorecharge has the discretion to update this privacy policy at any time. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
