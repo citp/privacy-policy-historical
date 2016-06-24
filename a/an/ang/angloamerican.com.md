@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215233716id_/http%3A//www.angloamerican.com/site-services/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625004556id_/http%3A//www.angloamerican.com/site-services/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy – Anglo American
 
@@ -148,13 +148,13 @@ You have the right to ask us not to process your personal data for marketing pur
 
 You have the right to "opt in” and "opt out” of certain uses of your personal data. For example, at the time you are requested to provide personal information on the Site, you may have the opportunity to elect to, or not to (1) receive correspondence from us, or (2) have your personal information shared with other entities for their marketing purposes.
 
-Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your personal information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personal information prior to such request. In these cases, please contact that entity directly. You can also exercise the right at any time by contacting us at [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com)
+Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your personal information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personal information prior to such request. In these cases, please contact that entity directly. You can also exercise the right at any time by contacting us at [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com)[](mailto:CorporateAffairs3@angloamerican.com)
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or Content contained on this Site. Please check these policies before you submit any personal data to these websites.
 
 ## ACCESS TO INFORMATION
 
-Subject to your local laws, you may have the right to access all the personal information we hold about you (which may include a right to correct any inaccuracies or request deletion or object to the processing of your information). If you wish to exercise your rights in relation to your personal data which is held by us, please contact [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com). We may require verification of your identity before providing a copy of your information as permitted by law.
+Subject to your local laws, you may have the right to access all the personal information we hold about you (which may include a right to correct any inaccuracies or request deletion or object to the processing of your information). If you wish to exercise your rights in relation to your personal data which is held by us, please contact [corporateaffairs@angloamerican.com](mailto:corporateaffairs@angloamerican.com)[](mailto:corporateaffairs@angloamerican.com). We may require verification of your identity before providing a copy of your information as permitted by law.
 
 ## PUBLIC AND INTERACTIVE AREAS OF OUR SITE
 
