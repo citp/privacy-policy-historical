@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218083656id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151112id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Free SIM cards | Free pay as you go SIM cards & deals | Lebara
 
@@ -126,7 +126,7 @@ _12\. Enforcement of this Privacy Policy_
 
 **7.1** Cookies are small files that websites save to your hard drive or to your browser's memory. You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of our Services or other websites that you visit.
 
-**7.2** To learn more about cookies and how to disable them we recommend you visit the Information Commissioner’s website. Furthermore, whilst we do not use third party marketing cookies, you can learn more about these and how to delete them [_here_](https://web.archive.org/web/20151218083656id_/http%3A//www.lebara.co.uk/wwww.youronlinechoices.com).
+**7.2** To learn more about cookies and how to disable them we recommend you visit the Information Commissioner’s website. Furthermore, whilst we do not use third party marketing cookies, you can learn more about these and how to delete them [_here_](https://www.youronlinechoices.com/).
 
 **7.3** By using our Services you consent to us using the following cookies:
 
@@ -155,7 +155,7 @@ Evercookie | Tracking | This is a persistent cookie which attempts to track a cu
 
 **9.2** If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to us at any time by clicking on "Edit User Profile" under the website navigation heading "My Lebara". The 'opt-out' on the website allows you to decline our offer to send you marketing information, or from our business partners. You can opt-in of either or both if you change your mind at any time.
 
-**9.3** You may request copies of your personal data held by us by making a subject access request in writing using the form provided by Lebara upon request or available for download [_here_](http://www.lebara.co.uk/medias/sys_master/h27/h18/8918702194718.pdf). Your form, once completed should be addressed to Lebara’s Legal Department as set out in the standardised form and sent together with proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and a cheque for £10 to cover the administrative cost of supplying the requested information. Provision of such information will be made with 40 days of our receipt of your request.
+**9.3** You may request copies of your personal data held by us by making a subject access request in writing using the form provided by Lebara upon request or available for download [_here_](https://web.archive.org/medias/sys_master/hc0/h3a/8925434871838.pdf). Your form, once completed should be addressed to Lebara’s Legal Department as set out in the standardised form and sent together with proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and a cheque for £10 to cover the administrative cost of supplying the requested information. Provision of such information will be made with 40 days of our receipt of your request.
 
 **9.4** You can help us to maintain the accuracy of your data by notifying us of any change.
 
