@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218012420id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624233241id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
 
 # The Real Tooth Fairies® - Guest Services - Privacy Policy
 
@@ -15,7 +15,7 @@ The Real Tooth Fairies need you to help spread Earth Kindness and change the wor
 Our Privacy Policy is designed to keep your private information safe & secure while you explore the magical world of Real Fairyland.  
   
 **Royal Council of the Real Fairyland’s Privacy Policy** –   
-June 25, 2014
+March 31, 2016
 
 **You and your child’s use of this web site signifies that you accept our Privacy Policy and Terms of Use.**
 
@@ -140,6 +140,8 @@ Effective Date**
 
   
 The effective date of this Privacy Policy update is June 25, 2014 and applies to all information previously obtained by Royal Council of the Real Fairyland, LLC. Any change made in our Privacy Policy is clearly marked with its effective date and as required by law, we will not use personally identifying information in ways that are materially different from the description in our Privacy Policy without providing notice of such and obtaining consent to any such different uses (and in the case of children users, the prior verifiable consent of the parent). We will notify you of material changes to this policy here, on our home page, in mobile apps as applicable, and/or by email.
+
+**Privacy Policy update: March 31, 2016**
 
 **  
 Questions or Concerns**
