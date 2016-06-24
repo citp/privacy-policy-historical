@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215091915id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624135551id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kaspersky Lab
+# Privacy Policy
 
-This privacy statement applies to kaspersky.com and Kaspersky Lab ZAO (“Kaspersky”) websites that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.
+[ ]()
+
+## Kaspersky Lab Privacy Policy — United States and Canada
+
+This privacy statement applies to usa.kaspersky.com, www.kaspersky.ca and all other North America web sites of AO Kaspersky Lab (“Kaspersky”) that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.
 
 In this Privacy Policy we inform you about the processing and the privacy of your personal data when using our websites. As a security expert company, data privacy and data security are very important to us. Therefore, we are committed to respecting and protecting your privacy and to handling your personal data confidentially. We recommend visiting this website regularly as this Privacy Policy can be updated due to possible amendments to the law or changes of our internal processes.
 
-Last updated: 15th of May 2014
+Last updated: October 12th, 2015
 
-### 1\. What does personal data mean?
+## 1\. What does personal data mean?
 
 “Personal data” means any information relating to an identified or identifiable natural person. If we are not (or at least not without a disproportionate amount of time and effort) able to relate a direct link to you personally, this information is not personal data.
 
-### 2\. How do we collect and process your personal data?
+## 2\. How do we collect and process your personal data?
 
 #### a. General principle
 
@@ -42,13 +46,13 @@ We will use your email address to provide you with additional information on pro
 
 If you want to contact us by using our contact and support forms, you will be asked to provide your contact information (entry fields marked “*”), which we will exclusively process or use as far as necessary to get in contact with you and provide you with the information you desire. You are free to provide additional information (through the data fields not marked “*”), which we will of course process in line with all applicable data protection requirements as well. This data will be forwarded to the Kaspersky regional teams responsible for your location. The Kaspersky regional teams will use the data in order to get in contact with you.
 
-### 3\. Kaspersky’s principles regarding data protection
+## 3\. Kaspersky’s principles regarding data protection
 
 Our website is principally designed in a way that limits the collection and processing of personal data to a minimum. In certain cases we are obliged to transfer your personal data to third parties due to applicable legal requirements. This is for instance the case when there is reason to suspect a crime or misuse of our website.
 
 For the provision of certain services we may make use of external service providers. As far as such external service providers need to have access to personal data, we ensure that any such access is limited to the extent necessary for the provision of the respective service. Furthermore, such external service providers of course have to submit themselves to comply with all applicable data protection regulations.
 
-### 4\. Do we use cookies?
+## 4\. Do we use cookies?
 
 We use different types of “cookies” (small text files that are placed on your device):
 
@@ -60,34 +64,30 @@ We use different types of “cookies” (small text files that are placed on you
 
 
 
-[Please find here a list of cookies embedded into our websites.](https://web.archive.org/web/20151215091915id_/http%3A//www.kaspersky.com/third-party-tracking)
+[Please find here a list of cookies embedded into our websites.](https://web.archive.org/about-us/third-party-tracking)
 
 You can configure your browser settings in a way that cookies are blocked or your system informs you whenever a website wants to set a cookie. However, please be aware that the blocking of cookies may have the effect that you will not be able to use all our website functions any more.
 
-### 5\. Do we use social plugins?
-
-We use different types of “social plugins”. [Please find here a table explaining the social plugins we use.](https://web.archive.org/web/20151215091915id_/http%3A//www.kaspersky.com/third-party-tracking)
-
-### 6\. Data protection with regard to partners and links
+## 6\. Data protection with regard to partners and links
 
 Our websites contain multiple links to companies we maintain business relationships with, especially to our web shop provider Digital River. We are in no way responsible for compliance with data protection requirements regarding the use of our partner’s websites. For information concerning data protection when visiting theses websites, please refer to the respective companies’ website privacy policies.
 
-### 7\. How do we protect your personal data?
+## 7\. How do we protect your personal data?
 
 Personal data we collect are stored on specially protected servers. Access is restricted to a limited number of authorized persons who need the access in order to administer our websites or ensure their proper functionality, especially with regard to technical support.
 
-### 8\. What are your rights with regard to your personal data?
+## 8\. What are your rights with regard to your personal data?
 
 You can access and change your profile by signing into your account.
 
 At your request, we will inform you what personal data we have stored about you and for what purpose(s). Should we ever have stored false data about you, despite our efforts to only store accurate and current data, we will correct it promptly upon recognition or at your request.
 
-In these cases please contact: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20\(en-Global\))
+In these cases please contact: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20%28en-GB%29)
 
 In case you want us to delete your personal data or revoke consent granted for certain processing of your personal data, please contact us in the same way. You can also delete your account information by confirming this setting in your profile.
 
 If deletion of your data should not be possible for technical or legal reasons, we will block the respective data instead.
 
-### 9\. How can you contact us?
+## 9\. How can you contact us?
 
-Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20\(en-Global\))
+Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20%28en-GB%29)
