@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228163802id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624120049id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeFury
 
@@ -148,7 +148,7 @@ Reviewing and Making Changes to Personal Information
 
   * 8.1
 
-You can obtain a copy of and request that we correct errors in your personal information by contacting us. For your protection, you will be required to provide proof of your identity to obtain a copy of your personal information. If your personal information changes or if you no longer want to use Tee Fury services, you may correct, update, or deactivate your personal information and/or your account through the account management screen. If you would like to deactivate or terminate your account you can also contact us.
+You can obtain a copy of and request that we correct errors in your personal information by contacting us. For your protection, you will be required to provide proof of your identity to obtain a copy of your personal information. If your personal information changes or if you no longer want to use Tee Fury services, you may correct or update your personal information and/or your account through the account management screen. If you would like to deactivate your account, you can contact us to request deactivation.
 
   * 8.2
 
@@ -156,7 +156,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 Tee Fury LLC   
 Attn. Legal – CA Privacy   
-51 Parker   
+9930 Irvine Center Dr  
 Irvine, California 92618
 
 
