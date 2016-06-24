@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishpond.co.nz privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143026id_/http%3A//www.fishpond.co.nz/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishpond.co.nz privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624231551id_/https%3A//www.fishpond.co.nz/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@
   2. **1.2 Application of this Privacy Policy:**
     1. Personal information submitted on this website ("Site") (e.g. where you make a purchase); and
     2. Any information automatically retrieved during visits to this Site.
-By visiting the Site, you consent to us collecting such information and using it, in accordance with this Privacy Policy. 
-  3. **1.3 Changes to Privacy Policy:** Fishpond may modify, alter or otherwise change this Privacy Policy from time to time, with or without notice to you. All such changes will be effective immediately upon the updating of the page on this Site at which the Privacy Policy is contained. You agree to check the Privacy Policy and be bound by the Privacy Policy that is in effect at the time at which you access this Site. 
-  4. **1.4 Contact:** If you have any further questions relating to this Privacy Policy, please contact us at 
+By visiting the Site, you consent to us collecting such information and using it, in accordance with this Privacy Policy.
+  3. **1.3 Changes to Privacy Policy:** Fishpond may modify, alter or otherwise change this Privacy Policy from time to time, with or without notice to you. All such changes will be effective immediately upon the updating of the page on this Site at which the Privacy Policy is contained. You agree to check the Privacy Policy and be bound by the Privacy Policy that is in effect at the time at which you access this Site.
+  4. **1.4 Contact:** If you have any further questions relating to this Privacy Policy, please contact us at
 
 P O Box 97736  
 SAMC  
 Auckland  
-New Zealand 
+New Zealand
 
 
 
@@ -38,7 +38,7 @@ New Zealand
 
   1. **1.5 Access:** You can ask to see the personal information that we hold about you at any time by writing to us at the address set out in clause 1.4 above.
   2. **1.6 Editing and deleting:** You may also ask us to correct, alter or delete any personal information that we hold about you by writing to us at the address set out in clause 1.4 above.
-  3. **1.7 Opting out of electronic communications:** If you do not want to receive marketing communications from Fishpond by electronic message, you can use our [email preference centre](http://www.fishpond.co.nz/account_newsletters.php).
+  3. **1.7 Opting out of electronic communications:** If you do not want to receive marketing communications from Fishpond by electronic message, you can use our [email preference centre](https://www.fishpond.co.nz/account_newsletters.php).
 
 
 
