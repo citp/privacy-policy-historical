@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229224058id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051957id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -69,228 +69,220 @@ Lake Mary, FL 32746
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
 
-_For a limited time, we are extending our celebration of the 40th anniversary of Charisma. As a special offer, you can get[40 issues of Charisma magazine for only $40!](https://secure.strangmagazines.com/~strangma/charisma/2015/40years/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=40th%20Anniversary)_
+_Draw closer to God. Experience the presence of the Holy Spirit every month as you read Charisma magazine. Sign up now to get Charisma for as low as[$1 per issue.](https://secure.strangmagazines.com/~strangma/charisma/2015/40years/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=40th%20Anniversary)_
 
-**NEW from CHARISMA:** _Do you want to encounter the Holy Spirit and hear God speak to you? Increase your faith, discover freedom, and draw near to God![Click Here](https://secure.strangmagazines.com/~strangma/LITS/devotional/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=LITS)_
-
-  * [
-
-#### Give Away the Word and Change Someone's Life
-
-](http://www.charismamag.com/blogs/the-strang-report/24539-help-us-give-away-free-mev-bibles-to-millions-in-need "Give Away the Word and Change Someone's Life")
-
-For the cost of a fancy cup of coffee, you can supply a Bible to someone.
+_Dare to go deeper in your faith. Our "Life in the Spirit" devotional takes you on a journey to explore who the Holy Spirit is, how to interact with Him, and how He works in your life.[Are you ready to go deeper?](https://secure.strangmagazines.com/~strangma/LITS/devotional/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=LITS)_
 
   * [
 
-#### Faith Comes by Hearing What Is Told
+#### 5 Toxic Attitudes You Must Allow God to Change
 
-](http://www.charismapodcastnetwork.com/?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "Faith Comes by Hearing What Is Told")
+](http://www.charismamag.com/blogs/fire-in-my-bones/26702-5-toxic-attitudes-you-must-allow-god-to-change "Allow the Holy Spirit to eradicate these bad attitudes from your person.")
 
-Get quality Christian content in a variety of programs including news, leadership, inspiring stories, women's topics, sports, and even more.
-
-  * [
-
-#### 7 Ways Satan Tries to Destroy a Church
-
-](http://www.charismamag.com/spirit/church-ministry/25182-7-ways-satan-tries-to-destroy-a-church "Don't let Satan tear your congregation apart.")
-
-The enemy certainly loves to disrupt the work of God's people. Here's what you can do.
+If you have not yielded these to Him, let the Holy Spirit move in and begin the process of ...
 
   * [
 
-#### Rick Joyner: 5 Trends That Will Change the World in 2016
+#### Get 2 Free Joyce Meyer Audio Teachings
 
-](http://www.charismamag.com/blogs/prophetic-insight/25160-rick-joyner-5-trends-that-will-change-the-world-in-2016 "Expect Russian President Vladimir Putin to make huge waves in the Middle East in 2016.  ")
+](http://www.charismamag.com/giveaways/26495-get-2-free-joyce-meyer-audio-teachings "Get 2 Free Joyce Meyer Audio Teachings")
 
-"A geopolitical shift has taken place at the end of 2015 that could change the world more than ...
-
-  * [
-
-#### How To Get Your Message Beyond Your Four Walls
-
-](https://secure.strangmagazines.com/~strangma/pastorsplatform/?utm_campaign=Pastors%20Platform%20Seminar&utm_source=charismamag.com&utm_medium=native%20ad "How To Get Your Message Beyond Your Four Walls")
-
-From blogging and social media to podcasting and book publishing, learn how these platforms can be used to reach a new audience.
+Discover how you can experience the unshakable confidence that comes with the completeness of Christ.
 
   * [
 
-#### How to Make a Fresh Start After Committing Sexual Sin
+#### What Wicked Spirits Are Behind the Orlando Tragedies?
 
-](http://www.charismamag.com/life/men/25157-how-to-make-a-fresh-start-after-committing-sexual-sin "Repentance is the first step to redemption after sexual sin.")
+](http://www.charismamag.com/blogs/prophetic-insight/26689-what-wicked-spirits-are-behind-the-orlando-tragedies "A man cries while his friends comfort him as they take part in a vigil for the Pulse nightclub victims following last week's shooting in Orlando.")
 
-Thankfully, if you've been guilty of any sexual sin, it's not the end of your story.
-
-  * [
-
-#### Star Wars' Carrie Fisher Condemns Theater Banning Lord's Prayer Ad
-
-](http://www.charismamag.com/life/culture/25194-star-wars-carrie-fisher-condemns-theater-banning-lord-s-prayer-ad "Carrie Fisher called out those 'offended' by Lord's Prayer ad.")
-
-"Offended? ... People should get a life."
+It doesn't take a prophet to see the princes over Orlando. But that alone is not going to stop ...
 
   * [
 
-#### Michael Snyder: Many Americans Will Die Waiting on a Pre-Tribulation Rapture
+#### Paul's Secret Spiritual Warfare Weapon Against Principalities and Powers
 
-](http://www.charismamag.com/spirit/prophecy/25165-michael-snyder-many-americans-will-die-waiting-on-a-pre-tribulation-rapture "Michael Snyder")
+](http://www.charismamag.com/blogs/the-plumb-line/26659-paul-s-secret-spiritual-warfare-weapon-against-his-principalities-and-powers "Spiritual warfare strategy")
 
-He says he's got the Scriptures to prove it. 
+Many spiritual warriors stop short of the spiritual warfare strategy in Ephesians 6.
 
-  * [
+  *   *   * [
 
-#### A Big Promise Takes Time—Don't Give Up
+#### 5 Truths to Understand When Leading Leaders
 
-](http://www.charismamag.com/blogs/fire-in-my-bones/25199-a-big-promise-takes-time-don-t-give-up "God rewards big faith.")
+](http://ministrytodaymag.com/leadership/counseling/22643-5-truths-to-understand-when-leading-leaders?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "5 Truths to Understand When Leading Leaders")
 
-If you are praying for something big, don't give up. The Christmas story reminds us that God ...
-
-  * [
-
-#### You Can Have a New Beginning in 2016—You Really Can
-
-](http://www.charismamag.com/blogs/the-plumb-line/25201-you-can-have-a-new-beginning-in-2016-you-really-can "You too can have a new beginning this year.")
-
-Now is the time to determine that you will press past the past and move into the new thing God has ...
+If you are in leadership for any length of time, there will probably come a time where you will need to lead other leaders.
 
   * [
 
-#### Little Girl's 'Dear Daddy' Video Goes Massively Viral
+#### 7 Reasons Your Organization Suffers from Marketing Malpractice
 
-](http://www.charismamag.com/life/women/25154-little-girl-s-dear-daddy-video-goes-massively-viral "If you care about the future of your children, please watch this video.")
+](https://onplatformseminar.com/marketing_malpractice/?utm_source=charismamag.com&utm_medium=Native%20Ad&utm_campaign=Marketing%20Malpractice "7 Reasons Your Organization Suffers from Marketing Malpractice")
 
-If you care about the future of your children, please watch this video.
+Receive Dr. Steve Greene's 7 Reasons Your Organization Suffers from Marketing Malpractice, plus 3 Things to Do Now to Prevent Further Damage as your FREE download.
+
+  * [
+
+#### How Christians Open the Door to Disease
+
+](http://www.charismamag.com/life/women/9678-how-christians-open-the-door-to-disease "This woman almost died until the Holy Spirit revealed to her how she unknowingly opened the way for disease to afflict her body.")
+
+This woman almost died until the Holy Spirit revealed to her how she unknowingly opened the way for ...
+
+  * [
+
+#### Prophetic Insight into Orlando Shooting: Florida's Ziklag Moment
+
+](http://www.charismamag.com/blogs/prophetic-insight/26660-prophetic-insight-into-orlando-shooting-florida-s-ziklag-moment "Orlando shooting mourners")
+
+What does this mean for the state and for the nation?
+
+  * [
+
+#### A Powerful Word for America Comes From Across the Pond
+
+](http://www.charismamag.com/blogs/the-strang-report/26670-powerful-word-for-america-comes-from-across-the-pond "Martin \(far left\) and Shaneen Clarke are a British 'Power Couple' on fire for God.")
+
+My new English friends, who are an inspiration to many, have sent a warning to our nation in the ...
+
+  * [
+
+#### 5 Things to Do While Waiting on God
+
+](http://www.charismamag.com/life/women/26653-5-things-to-do-while-waiting-on-god "Waiting is hard because there is so little we have to wait on these days. ")
+
+Waiting is hard because there is so little we have to wait on these days. 
+
+  * [
+
+#### How Will the Holy Spirit Prompt Christians to Respond to the Orlando Massacre?
+
+](http://www.charismamag.com/blogs/the-strang-report/26638-how-will-the-holy-spirit-prompt-christians-to-respond-to-the-orlando-massacre "How will the Christian community respond to this senseless tragedy?")
+
+Jesus said very clearly in the Bible what we must do in these types of situations.
 
 
 
 
   * [
 
-#### Give Away the Word and Change Someone's Life
+#### 3 Truths the Devil Doesn't Want You to Know
 
-](http://www.charismamag.com/blogs/the-strang-report/24539-help-us-give-away-free-mev-bibles-to-millions-in-need "Give Away the Word and Change Someone's Life")
+](http://www.charismamag.com/life/women/26695-3-truths-the-devil-doesn-t-want-you-to-know "Satan hates you and if he can hide these truths from you, it gives you the advantage.")
 
-For the cost of a fancy cup of coffee, you can supply a Bible to someone.
-
-  * [
-
-#### Faith Comes by Hearing What Is Told
-
-](http://www.charismapodcastnetwork.com/?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "Faith Comes by Hearing What Is Told")
-
-Get quality Christian content in a variety of programs including news, leadership, inspiring stories, women's topics, sports, and even more.
+Satan hates you and if he can hide these truths from you, it gives him the advantage.
 
   * [
 
-#### Of Course Christians and Muslims Don't Worship the Same God
+#### Get 2 Free Joyce Meyer Audio Teachings
 
-](http://www.charismamag.com/life/culture/25190-of-course-christians-and-muslims-don-t-worship-the-same-god "To the Muslim, God \(Allah\) is too transcendent and "other" to be our friend. He is to worshiped and adored and obeyed, just as our heavenly Father is to be worshiped and adored and obeyed, but Muslims do not have "fellowship" with God as Christians do.")
+](http://www.charismamag.com/giveaways/26495-get-2-free-joyce-meyer-audio-teachings "Get 2 Free Joyce Meyer Audio Teachings")
 
-We do not worship the same God, which is why Muslims seek to convert Christians to Islam and ...
-
-  * [
-
-#### James W. Goll: How Angels Silently Aid Us
-
-](http://www.charismamag.com/blogs/a-voice-calling-out/15191-angels-unaware)
-
-James W. Goll shares from personal experience how God's angels are ready to come to our aid in ...
+Discover how you can experience the unshakable confidence that comes with the completeness of Christ.
 
   * [
 
-#### How To Get Your Message Beyond Your Four Walls
+#### These 5 Steps Will Balance Prayer and Fasting in Your Life
 
-](https://secure.strangmagazines.com/~strangma/pastorsplatform/?utm_campaign=Pastors%20Platform%20Seminar&utm_source=charismamag.com&utm_medium=native%20ad "How To Get Your Message Beyond Your Four Walls")
+](http://www.charismamag.com/life/health/26683-these-5-steps-will-balance-prayer-and-fasting-in-your-life "Here's how to balance your prayer life with fasting.")
 
-From blogging and social media to podcasting and book publishing, learn how these platforms can be used to reach a new audience.
-
-  * [
-
-#### Is God Ignoring Your Prayers?
-
-](http://www.charismamag.com/life/women/25209-is-god-ignoring-your-prayers "She thinks that God isn't answering her prayers. Instead, God shows her this. ")
-
-She thinks that God isn't answering her prayers. Instead, God shows her this.
+These will increase the likelihood that you will receive the benefits this discipline offers.
 
   * [
 
-#### Be Free to Disappoint People
+#### 5 Truths to Understand When Leading Leaders
 
-](http://www.charismamag.com/life/women/25210-be-free-to-disappoint-people "Pleasing people at the cost of pleasing God is stressful. ")
+](http://ministrytodaymag.com/leadership/counseling/22643-5-truths-to-understand-when-leading-leaders?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "5 Truths to Understand When Leading Leaders")
 
-Pleasing people at the cost of pleasing God is stressful.
-
-  * [
-
-#### The 5 P's for Raising a Child in Faith
-
-](http://www.charismamag.com/life/men/25184-the-5-p-s-for-raising-a-child-in-faith "Raising children of faith in this society is not easy. Use these five P's to help you.")
-
-Raising children to have faith in God is difficult at best in the current climate. Yet it is the ...
+If you are in leadership for any length of time, there will probably come a time where you will need to lead other leaders.
 
   * [
 
-#### Verses of Violence: Comparing the Bible and Quran
+#### 7 Reasons Your Organization Suffers from Marketing Malpractice
 
-](http://www.charismamag.com/spirit/world-religions/25156-verses-of-violence-comparing-the-bible-and-quran "Muslims praying. ")
+](https://onplatformseminar.com/marketing_malpractice/?utm_source=charismamag.com&utm_medium=Native%20Ad&utm_campaign=Marketing%20Malpractice "7 Reasons Your Organization Suffers from Marketing Malpractice")
 
-Dr. Michael Brown gives three ways we can respond to the challenge from Muslims. 
-
-  * [
-
-#### What to Do When Someone You Love Hurts You
-
-](http://www.charismamag.com/life/women/25202-what-to-do-when-someone-you-love-hurts-you "Restoration begins with this.")
-
-Restoration begins with this.
+Receive Dr. Steve Greene's 7 Reasons Your Organization Suffers from Marketing Malpractice, plus 3 Things to Do Now to Prevent Further Damage as your FREE download.
 
   * [
 
-#### Meeting the Deliverer
+#### R.T. Kendall: What is Holy Spirit Religion?
 
-](http://www.charismamag.com/life/women/25075-meeting-the-deliverer)
+](http://www.charismamag.com/blogs/power-up/26676-r-t-kendall-what-is-holy-spirit-religion "Pigeon religion ")
 
-Here's how God broke the power of depression and the occult in my life.
+Let's be sure that what we believe is what we would die for. And if it is good enough to die ...
+
+  * [
+
+#### The Power of the Holy Spirit: Not Just for Charismatics
+
+](http://www.charismamag.com/spirit/supernatural/26677-the-power-of-the-holy-spirit-not-just-for-charismatics "Billy Graham ")
+
+Billy Graham once realized that he needed this same power and prayed a prayer of total dedication. ...
+
+  * [
+
+#### How Much of the Holy Spirit Do You Really Want?
+
+](http://www.charismamag.com/blogs/a-voice-calling-out/26681-how-much-of-the-holy-spirit-do-you-really-want "How hungry are you for the Holy Spirit?")
+
+The depth of your hunger is the length of your reach to God. Ask for rain.
+
+  * [
+
+#### Learning How to Be Led By the Holy Spirit
+
+](http://www.charismamag.com/blogs/straight-talk/26665-learning-how-to-be-led-by-the-holy-spirit "The Holy Spirit simply wants you to be obedient and follow Him.")
+
+It's actually exciting to follow Him. Life will never be boring with Him in the lead.
+
+  * [
+
+#### 9 Prophetic Word Words That Could Change Your Life Forever
+
+](http://www.charismamag.com/life/women/26675-9-prophetic-word-words-that-could-change-your-life-forever ""It's here my life finds purpose, and here where my passion burns, and a larger story unfolds."")
+
+"It's here my life finds purpose, and here where my passion burns, and a larger story ...
+
+  * [
+
+#### What if Somebody Had Shared Jesus With the Orlando Killer?
+
+](http://www.charismamag.com/blogs/fire-in-my-bones/26647-what-if-somebody-had-shared-jesus-with-the-orlando-killer "Omar Mateen ")
+
+Please pray today, and every day, that God will direct people into your path so you can give them ...
 
   * [
 
 #### God's Power at Work in the Church Today
 
-](http://www.charismamag.com/blogs/the-strang-report "God's Power at Work in the Church Today")
+](http://www.charismamag.com/blogs/the-strang-report?utm_source=charismamag.com&utm_medium=native%20ad "God's Power at Work in the Church Today")
 
 Charisma's founder, Steve Strang writes about today's hottest topics affecting the Christian faith.
 
   * [
 
-#### How to Overcome Anxiety and Depression Naturally This Winter
+#### Why You Shouldn't Wear Paint-On Leggings
 
-](http://www.charismamag.com/life/health/25144-how-to-overcome-anxiety-and-depression-naturally-this-winter "Sweet potatoes are chock full of antioxidants.")
+](http://www.charismamag.com/life/women/26636-why-you-shouldn-t-wear-paint-on-leggings "If I could talk to the women just for a moment, as sisters ...")
 
-Many scientists call these the "Good Mood" foods.
-
-  * [
-
-#### What Your Friends Don't Want to Hear When The Devil Is Attacking
-
-](http://www.charismamag.com/blogs/the-plumb-line/25167-what-your-friends-don-t-want-to-hear-when-the-devil-is-attacking "The last thing you need when you are being spiritually attacked is friends like Job had.")
-
-A true friend does one thing instead.
+If I could talk to the women just for a moment, as sisters ...
 
   * [
 
-#### Receive the fullest revelation of God through signs in the heavens.
+#### Can Schizophrenia and Mind Illnesses Be Healed?
 
-](http://shop.charismamag.com/collections/books/products/god-s-end-time-calendar-the-prophetic-meaning-behind-celestial-events-and-seasons?utm_source=Native%20Ad&utm_medium=shop.charismamag.com&utm_campaign=God%27s%20End%20Time%20Calendar%20Native%20Ad "Receive the fullest revelation of God through signs in the heavens.")
+](http://www.charismamag.com/life/health/26630-can-schizophrenia-and-mind-illnesses-be-healed "Jesus heals")
 
-God has set specific times for us to encounter his Holy presence and to discover His plan and purpose for us. Read Rod Parsley’s newest book for a glimpse of God’s unfailing mercy and power releasing upon the Earth during these end times.
+Here is what Jesus did when confronting a person with these issues.
 
   * [
 
-#### Supernatural Signs and Wonders Break Out Among 1,000 Jews
+#### 10 Toxic Phrases That Parents Should Avoid
 
-](http://www.charismamag.com/spirit/supernatural/25126-supernatural-signs-and-wonders-break-out-among-1-000-jews "What these men and women thought was a lecture on the supernatural soon became a powerful presentation about the kingdom of God.")
+](http://www.charismamag.com/life/men/26600-10-toxic-phrases-that-parents-should-avoid "Parents need to be very careful with what they say to their teenagers.")
 
-The last time someone stood up and gave his testimony to this many Jews at once, it was Peter in ...
+Parents have the responsibility of clear communication, but don't say these things.
 
 
 
