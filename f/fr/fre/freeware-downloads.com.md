@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeware-downloads.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911060821id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeware-downloads.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624190748id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Information of Download Collection.Com
 
@@ -8,59 +8,47 @@
 
 ### Popular Software
 
-[**Comodo Endpoint Security Manager 1.5**](https://web.archive.org/comodo_endpoint_security_manager.htm)  (1458)  
+[**Comodo Endpoint Security Manager 1.5**](https://web.archive.org/comodo_endpoint_security_manager.htm)  (2456)  
 Released: 30 June, 2013   
 Comodo Business Antivirus includes Comodo's award winning... 
 
-[**FreeCommander 2009.02b**](https://web.archive.org/freecommander.htm)  (2221)  
+[**FreeCommander 2009.02b**](https://web.archive.org/freecommander.htm)  (3201)  
 Released: 08 November, 2011   
 FreeCommander is an advanced file manager program. It can... 
 
-[**AbiWord 2.8.6**](https://web.archive.org/abiword.htm)  (871)  
+[**AbiWord 2.8.6**](https://web.archive.org/abiword.htm)  (1160)  
 Released: 05 December, 2011   
 AbiWord is a free word processor for all major operating... 
 
-[**TestDisk and PhotoRec 6.14**](https://web.archive.org/testdisk_and_photorec.htm)  (1628)  
+[**TestDisk and PhotoRec 6.14**](https://web.archive.org/testdisk_and_photorec.htm)  (2094)  
 Released: 24 October, 2012   
 TestDisk is a powerful free data recovery software! 
 
-[**Apache OpenOffice.org 4.0.1**](https://web.archive.org/apache_openoffice_org.htm)  (893)  
+[**Apache OpenOffice.org 4.0.1**](https://web.archive.org/apache_openoffice_org.htm)  (1143)  
 Released: 24 May, 2013   
 If you are not happy with paying for commercial office... 
 
-[**NaviFirm Plus 3.2**](https://web.archive.org/navifirm_plus.htm)  (2245)  
-Released: 20 June, 2013   
-NaviFirm Plus is a program that allows you to download... 
-
-[**Norton AntiVirus 2013 20.3.0.36**](https://web.archive.org/norton_antivirus_2013.htm)  (8428)  
+[**Norton AntiVirus 2013 20.3.0.36**](https://web.archive.org/norton_antivirus_2013.htm)  (9356)  
 Released: 15 August, 2013   
 Introducing the new Norton AntiVirus. Norton Antivirus... 
 
-[**NetBeans IDE 7.4**](https://web.archive.org/netbeans_ide.htm)  (577)  
+[**NetBeans IDE 7.4**](https://web.archive.org/netbeans_ide.htm)  (715)  
 Released: 02 December, 2013   
 Free and open source IDE for programmers in almost all... 
 
-[**Safari for Windows 5.1.7**](https://web.archive.org/safari_for_windows.htm)  (2488)  
+[**Safari for Windows 5.1.7**](https://web.archive.org/safari_for_windows.htm)  (3019)  
 Released: 04 December, 2013   
 Experience the fastest web browsing in your windows PC... 
 
-[**Nokia Suite 3.8**](https://web.archive.org/nokia_suite.htm)  (7996)  
-Released: 05 December, 2013   
-Download Nokia Suite and install in your windows PC to... 
-
-[**Turbo C++ 3.0**](https://web.archive.org/turbo_c__.htm)  (3404)  
-Released: 08 December, 2013   
-Turbo C++ by Borland is the most popular editor, compiler... 
-
-[**GeekUninstaller 1.1.1.21**](https://web.archive.org/geekuninstaller.htm)  (828)  
+[**GeekUninstaller 1.1.1.21**](https://web.archive.org/geekuninstaller.htm)  (1012)  
 Released: 08 December, 2013   
 GeekUninstaller is a free small sized uninstaller program... 
 
-[**SeaMonkey 2.23**](https://web.archive.org/seamonkey.htm)  (889)  
+[**SeaMonkey 2.23**](https://web.archive.org/seamonkey.htm)  (1116)  
 Released: 07 January, 2014   
 Advanced Internet user, web developer and corporate... 
 
-[**Ahnenblatt 2.74**](https://web.archive.org/ahnenblatt.htm)  (21)  
+[**Ahnenblatt 2.74**](https://web.archive.org/ahnenblatt.htm)  (32)  
 Released: 15 November, 2012   
 Ahnenblatt is a free and easy-to-use genealogy software... 
 
