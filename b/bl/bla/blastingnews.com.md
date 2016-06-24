@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221135415id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624214800id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Blasting News
 
@@ -84,13 +84,19 @@ Given the technical and impersonal character of these cookies, the user is gener
 
 Profiling Cookies are used to create user profiles and are installed in order to send advertising messages according to the preferences of the user identified by the cookies. 
 
-Considering the resulting interference with privacy such cookies entail, the Italian legislator requires the websites to properly inform their users regarding the installation of such cookies and allows the installation only upon express consent by the user. 
+Considering the resulting interference with privacy such cookies entail, the legislator requires the websites to properly inform their users regarding the installation of such cookies and allows the installation only upon express consent by the user. 
 
 **“Third party” cookies**
 
-These cookies are installed on the user’s browser by a party that is not the owner and/ or the publisher of the visited website. There are various types of such “third party” cookies, among which: Analytics Cookies: used to collect and analyze data. They do not identify the individual user. 
+These cookies are installed on the user’s browser by a party that is not the owner and/ or the publisher of the visited website. There are various types of such “third party” cookies, among which: 
 
-Advertising Cookies: applied to understand and store user preferences for advertising purposes during the user’s online browsing. Blasting has no influence on the use of cookies installed by enti 
+Analytics Cookies: used to collect and analyze data. They do not identify the individual user. 
+
+Advertising Cookies: applied to understand and store user preferences for advertising purposes during the user’s online browsing. Blasting has no influence on the use of cookies installed by entities or third parties linked to its website and declines all responsibility thereto. 
+
+**NAI Policy**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **How to disable cookies?**
 
@@ -124,6 +130,7 @@ For further information on third parties installing cookies on our websites, wit
   * [Zodiack](http://www.zodiakadvertising.com/it/privacy-policy/)
   * [Facebook](https://www.facebook.com/policy.php)
   * [Youtube](https://www.youtube.com/static?template=privacy_guidelines)
+  * [IOL](http://privacy.italiaonline.it/common/cookie/privacy_tal.php)
 
 
 
