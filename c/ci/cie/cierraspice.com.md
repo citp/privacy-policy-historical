@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cierraspice.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061320id_/http%3A//www.pacinonetwork.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cierraspice.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624082007id_/http%3A//www.pacinonetwork.com/support/privacy.php) for the most accurate reproduction.*
 
 # Pacino Network Support
 
