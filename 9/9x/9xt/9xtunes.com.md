@@ -1,43 +1,53 @@
-> *The following text is extracted and transformed from the 9xtunes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090427id_/https%3A//9xtunes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xtunes.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624061354id_/https%3A//9xtunes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ 9xTunes.Com
 
-[ ](https://web.archive.org/)
+[](https://web.archive.org/) _**#UPDATE#** **[Yg - Still Brazy - Full Album #iTunes](https://web.archive.org/album/1289/yg-still-brazy-album-download)** _ Last Updated On - 20 Jun 2016 
 
-  * [](https://web.archive.org/)
-  * Privacy 
+  * [
+
+__
+
+](https://web.archive.org/album/482/udta-punjab-songs)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1009/kapoor-and-songs-2016-movie-mp3-songs-download)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1164/sarbjit-2016-hindi-movie-mp3-songs)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1176/drake-views-download)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1208/james-blake-the-colour-in-anything-album-download)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1106/ariana-grande-dangerous-woman-deluxe-version-album-download)
+
+  * [
+
+__
+
+](https://web.archive.org/album/1107/meghan-trainor-thank-you-album--zip-download)
 
 
-
-  * [ ](https://web.archive.org/album/24/ek-paheli-leela-2015-movie-album)
-
-Ek Paheli Leel... 
-
-  * [ ](https://web.archive.org/album/15/dilliwali-zaalim-girlfriend-2015-movie-single)
-
-Dilliwali Zaal... 
-
-  * [ ](https://web.archive.org/album/36/Furious7-2015-Movie-Album)
-
-Fast & Fur... 
-
-  * [ ](https://web.archive.org/album/181/rebel-heart-super-deluxe-madonna-music-album)
-
-Madonna - Rebe... 
-
-  * [ ](https://web.archive.org/album/177/spring-break-checkin-out-luke-bryan-music-album)
-
-Luke Bryan - S... 
-
-  * [ ](https://web.archive.org/album/176/colours-blue-album)
-
-Blue - Colours 
-
-  * [ ](https://web.archive.org/album/51/kelly-clarkson-piece-by-piece-\(deluxe-version\)-2015-album)
-
-Kelly Clarkson... 
-
-
+  
 
 
 Privacy Policy 
