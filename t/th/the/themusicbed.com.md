@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912082939id_/https%3A//www.musicbed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624130000id_/https%3A//www.musicbed.com/privacy-policy) for the most accurate reproduction.*
 
-# Stock Music Licensing for Video, Photography & Film - Musicbed
+# Privacy Policy - Music Licensing for Video, Film & Advertising - Musicbed
+
+**Permitted Content:**  
+You are creating a film or slideshow that highlights an organization as a whole. Content may include company highlights, event coverage, culture highlights, and employee insights - films that give an overall sense of the spirit of the organization.
+
+**Non-Permitted Content:**  
+Fundraising campaign or call to action, or any film that highlights a specific product or service of the organization. 
+
+**Number of Uses:**  
+Single (1) use 
+
+**Distribution:**  
+World wide web, not including premium streaming services 
+
+**Lifespan:**  
+Perpetual 
 
 This Privacy Policy governs the manner in which Musicbed collects, uses, maintains and discloses information collected from users (each, a "User") of the www.musicbed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Musicbed.
 
