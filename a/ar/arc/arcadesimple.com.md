@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026052415id_/http%3A//www.arcadesimple.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051349id_/http%3A//www.arcadesimple.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,3 +78,5 @@ The responsible entity uses social plugins ("plugins") of the social networks Fa
 **Binding Agreement**
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy. By using this site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page.
+
+Updated Recently 
