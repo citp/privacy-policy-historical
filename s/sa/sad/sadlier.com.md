@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sadlier.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051615id_/http%3A//www.sadlier.com/sadlier-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadlier.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624064913id_/http%3A//www.sadlier.com/sadlier-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sadlier Privacy Policy | William H. Sadlier, Inc.
 
 ## William H. Sadlier, Inc. (“Sadlier”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit our site (“Site”). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. By using or accessing the Site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
