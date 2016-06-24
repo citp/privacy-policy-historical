@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218174208id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624022448id_/https%3A//www.sandiego.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice | City of San Diego
+# Privacy Notice | City of San Diego Official Website
 
-## Privacy Notice
-
-### Purpose
+## Purpose
 
 The City of San Diego recognizes the importance of protecting the privacy of the users of this web site. The City of San Diego World Wide Web site is a fundamental communication tool for providing critical and informative City information and interactive services to its citizens and the world. The goal of the City of San Diego Web site is to encourage user participation in City government, to enable electronic service delivery to the public, and to help create a better San Diego.
 
-### Personal/Confidential Information
+## Personal/Confidential Information
 
 The City of San Diego does not use its Web site to collect personal information for any purpose other than to respond to a user's request or input, or to complete an online transaction.
 
-Except as provided below, the City of San Diego does not create individual profiles with the information provided by users of this site, nor does it give such personal information to third parties or private organizations. The City does not track information about individuals and their visits. The information does **not** identify you personally. Web usage summary statistics are gathered for site management, and other purposes such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance issues. We automatically collect and store the following information about your visit:
+Except as provided below, the City of San Diego does not create individual profiles with the information provided by users of this site, nor does it give such personal information to third parties or private organizations. The City does not track information about individuals and their visits. The information does not identify you personally. Web usage summary statistics are gathered for site management, and other purposes such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance issues. We automatically collect and store the following information about your visit:
 
   1. The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address from which you access the City's Web site;
   2. The type of browser and operating system used to access the City's Web site;
@@ -32,7 +30,7 @@ Cookies or other technology may transfer information from the City of San Diego'
 
 Notwithstanding the above provisions of this section, information submitted to the City of San Diego's Web site may be subject to disclosure to another party pursuant to various provisions of California law, including, but not limited to, the California Civil Discovery Act of 1986 and the California Public Records Act. The City of San Diego only shares such information with another government agency if the user's inquiry relates to that agency, to protect the interests of others, to protect and defend the rights or property of the City of San Diego or as otherwise provided by law.
 
-### Minor's Privacy Policy
+## Minor's Privacy Policy
 
 Any information collected by any City of San Diego website from children 13 and under are subject to the same guidelines of the City’s general privacy policy. In addition, for any information collected by or for any child under 13, the following guidelines will be followed:
 
@@ -45,10 +43,10 @@ Any information collected by any City of San Diego website from children 13 and 
 
 
 
-Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the Kidz Privacy websites.
+Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the Kidz Privacy websites.
 
-### Security
+## Security
 
 Unless a particular web page on the City of San Diego's Web site indicates that encryption technology is being used, the user should not assume that information uploaded through that web page to the City of San Diego's Web server will be treated as confidential. If a user submits information to the City of San Diego's server through a web page containing visible indicators of active encryption technology, the City of San Diego will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure.
 
-Copyrighted © 2002-2009 City of San Diego. All rights reserved.
+Copyrighted © 2002-2016 City of San Diego. All rights reserved.
