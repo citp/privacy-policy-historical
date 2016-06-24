@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210235111id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624172958id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games Finder
 
