@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043049id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624043123id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 
