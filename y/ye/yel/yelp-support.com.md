@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091647id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624082728id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
-**Last Updated on May 4, 2015.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on June 3, 2015 for pre-existing users. To review the previous policy, please click [here](https://web.archive.org/tos/privacy_en_us_20130910). 
+**Last Updated on January 31, 2016.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on March 2, 2016 for pre-existing users. To review the previous policy, please click [here](https://web.archive.org/tos/privacy_en_us_20150504). 
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through our websites, emails, and mobile applications (collectively, the **"Service"** ). The terms **"we"** , **"us"** , and **"Yelp"** refer to Yelp Inc., a Delaware corporation. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
@@ -15,7 +15,7 @@ This Privacy Policy describes our policies on the collection, use, and disclosur
   5. Data Retention and Account Termination
   6. Children
   7. Security
-  8. Dispute Resolution
+  8. Contact Information
   9. International Data Transfer
   10. Modifications to This Privacy Policy
   11. California Residents: Your California Privacy Rights
@@ -65,7 +65,7 @@ Third parties may receive information about you as follows:
   5. **Businesses on Yelp:** We may share information from or about you (such as your age and gender), your devices, and your use of the Service (such as which businesses you bookmark or call) with businesses listed on Yelp. You may adjust your settings to increase or decrease the amount of information we share. You can view these settings and find more details about what information may be shared [here](https://web.archive.org/profile_privacy). Keep in mind that businesses may see your Public Content (as defined in Section 1(b) above) and receive information about your transactions with them, regardless of your settings. Additionally, if you make a phone call to a business through or in connection with your use of the Service, we may share information about your call with the business that the business would have received had you called them directly, such as the date and time of your call and your phone number. You may be able to limit our ability to collect and share your phone number through your phone’s settings or phone service provider.
   6. **Investigations:** We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure (a) is reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) is helpful to prevent, investigate, or identify possible wrongdoing in connection with the Service; or (c) protects our rights, reputation, property, or that of our users, affiliates, or the public, such as disclosures in connection with our Consumer Alerts program. If you flag or otherwise complain to Yelp about content through the Service, we may share the substance of your complaint with the contributor of that content in order to provide an opportunity for the contributor to respond.
   7. **Links:** The Service may contain links to unaffiliated third party services. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on or applicable to all such third party services.
-  8. **Facebook and Twitter:** If you sign up for Yelp using your Facebook account or link your Yelp account to your account with a third party service like Facebook or Twitter, we may receive information about you from such third party service. We may use this information to help you create your account on Yelp and connect and share public content with your friends and followers. You can manage how you link your Yelp account to third party services [here](https://web.archive.org/profile_sharing). Please note that if you interact with Facebook, Twitter, or other third party icons through the Service, including "Like," "Share," or similar buttons, those companies may collect information about you, such as your device’s IP address. Your interactions with these and other third parties are governed by the third parties’ privacy policies.
+  8. **Third Party Accounts:** If you sign up for Yelp using a third party service like Facebook, or link your Yelp account to your account with a third party service like Facebook or Twitter, we may receive information about you from such third party service.
 
 
 
@@ -77,29 +77,27 @@ Please also note that the messages you send or receive using the Service are onl
 
 ## 5\. Data Retention and Account Termination
 
-You can close your account by clicking [here](https://web.archive.org/support/contact/account_closure). We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
+You can close your account by clicking [here](http://www.yelp.com/support/contact/account_closure). We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings, or reviews by closing their accounts.
 
 ## 6\. Children
 
-The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://web.archive.org/support/contact/legal_inquiries). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](http://www.yelp.com/support/contact/legal_inquiries). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 ## 7\. Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-## 8\. Dispute Resolution
-
 If you believe that Yelp has not adhered to this Privacy Policy, you may contact us online by [clicking here](https://web.archive.org/contact?topic=privacy) or write to us at the following address:
 
 Yelp Inc.  
-Attn: Privacy Officer  
+Attn: Data Privacy Manager  
 140 New Montgomery St.  
 San Francisco, California 94105  
 United States of America 
 
 ## 9\. International Data Transfer
 
-The information we obtain from or about you may be processed and stored in the United States, which may provide for different data protection rules than the country in which you reside. We comply with the [U.S.-E.U. Safe Harbor Framework](http://export.gov/safeharbor/eu/index.asp) and the [U.S.-Swiss Safe Harbor Framework](http://export.gov/safeharbor/swiss/index.asp) as set forth by the United States Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We will respond to requests relating to personal data within 30 days. To learn more about the Safe Harbor program, and to view our certification, please visit <http://export.gov/safeharbor>. 
+For users residing in the European Union, please note that the personal data information we obtain from or about you may be transferred, processed and stored outside of the E.U. for the purposes described in this Privacy Policy, including in the United States of America. We take the privacy of our users seriously and therefore take steps to safeguard your information, including assuring an adequate level of data protection in accordance with E.U. standards. Please note that Yelp Ireland Ltd., a limited liability company established and resident under the laws of the Republic of Ireland, is the “data controller” responsible for protecting your personal data related to the Service. If you would like additional information about your personal data and its use in connection with this Service, including correcting any incorrect information, please contact the Data Privacy Manager at the address above. We will take such steps as we deem necessary to confirm your identity before sharing any personal data with you. We will respond to proper and confirmed requests relating to personal data within 30 days, or as otherwise required by applicable law. If you are not satisfied with the way your request was handled, you may refer your request to the Irish Data Protection Commissioner.
 
 ## 10\. Modifications to This Privacy Policy
 
@@ -109,4 +107,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 Yelp does not disclose your personal information to third parties for the purpose of directly marketing their services to you unless you first agree to such disclosure. If you have any questions regarding this policy, or would like to change your preferences, you may contact us at the address listed above in Section 8.
 
-Copyright © 2004–2015 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp. 
+Copyright © 2004–2016 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp. 
