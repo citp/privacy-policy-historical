@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175540id_/http%3A//lacrossetribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossetribune.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624224520id_/http%3A//lacrossetribune.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | lacrossetribune.com
 
 Welcome to the web sites and mobile applications of the La Crosse Tribune. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
