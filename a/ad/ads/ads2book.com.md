@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2book.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010724id_/http%3A//www.ads2book.com/ads2book/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2book.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624130648id_/http%3A//www.ads2book.com/ads2book/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ads2Book.com
 
