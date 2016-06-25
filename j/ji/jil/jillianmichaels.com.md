@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217165406id_/http%3A//www.jillianmichaels.com/fit/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625091453id_/http%3A//www.jillianmichaels.com/fit/privacy-policy) for the most accurate reproduction.*
 
 # Everyday Health, Inc. Privacy Policy
 
