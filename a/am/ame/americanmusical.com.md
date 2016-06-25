@@ -1,57 +1,133 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220031811id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625043507id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy at AmericanMusical.com
 
-Help Center | Privacy Policy
+  * AMS cares about your Personally Identifiable Information (PII) and how it’s used online. PII, as used in U.S. privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information. 
 
-  
+  * What personal information do we collect from the people that visit our blog, website or app?
+
+When ordering or registering on our site, you may be asked to enter your name, email address, mailing address, phone number, credit card information, social security number, or other details to help you with your experience.
+
+  * When do we collect information?
+
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+
+  * How do we use your information?
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
+
+    * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+    * To improve our website in order to better serve you.
+    * To allow us to better respond to your customer service requests.
+    * To administer a contest, promotion, survey or other site feature.
+    * To quickly process your transactions.
+    * To send periodic emails regarding your order or other products and services.
+  * How do we protect visitor information?
+
+    * Our website is scanned regularly for security holes and known vulnerabilities to make your visit to our site as safe as possible. 
+    * We use regular Malware Scanning.
+    * Your personal information is contained behind secured networks and is accessible to only a limited number of people who have special access rights to such systems. They are required to keep the information confidential. 
+    * All sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. When a user places an order, we implement a variety of security measures to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not processed on our servers.
+  * Do we use 'cookies'?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow). Cookies enable the site's or service provider's systems to recognize your browser and capture and remember certain information. 
+
+  * We use cookies to:
+
+    * Help remember and process the items in the shopping cart.
+    * Understand and save user's preferences for future visits.
+    * Keep track of advertisements.
+    * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. 
+
+If you disable cookies, some site features will be disabled. However, you can still place orders. 
+
+  * Third Party Disclosure
+
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties unless we provide you advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate, for example, to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+  * Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+  * Google
+
+We use Google AdSense Advertising on our website. As a third party vendor, Google uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google Ad and Content Network Privacy policy. 
+
+Google's Advertising Principles (see <https://support.google.com/adwordspolicy/answer/1316548?hl=en>) were put in place to provide a positive experience for users. 
+
+We have implemented the following:
+
+    * Remarketing with Google AdSense
+    * Google Display Network Impression Reporting
+    * Demographics and Interests Reporting
+    * DoubleClick Platform Integration
+
+We, along with third-party vendors such as Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+  * Opting out of Google Advertising:
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt-Out Browser add-on. 
+
+  * Other Privacy Protection Requirements
+
+Some states also require commercial websites and online services to conspicuously post a privacy policy. Pursuant to those regulations, we also agree with the following statements: 
+
+    * Users can visit our site anonymously
+    * Our privacy policy will be accessible via a link on our home page, or as a minimum on the first significant page after entering our website.
+    * Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+    * Users will be notified of any privacy policy changes on our Privacy Policy page.
+    * Users are able to change their personal information:
+      * By emailing us
+      * By calling us
+      * By logging in to their account
+  * How does our site handle “Do Not Track” signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+  * Does our site allow third party behavioral tracking?
+
+We allow third party behavioral tracking. 
+
+  * COPPA (Children Online Privacy Protection Act)
+
+The Children's Online Privacy Protection Act (COPPA) puts parents in control of the collection of personal information from children under 13. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
+
+We do not specifically market to children under 13. 
+
+  * CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to stop incoming emails and spells out tough penalties for violations. 
+
+  * We collect your email address in order to:
+
+    * Send information, respond to inquiries, and/or other requests or questions.
+    * Process orders and send information and updates pertaining to orders.
+    * Send you additional information related to your product and/or service.
+    * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+  * To be in compliance with CAN-SPAM we agree to the following:
+
+    * NOT use false or misleading subjects or email addresses.
+    * Identify the message as an advertisement in some reasonable way.
+    * Include the physical address of our business or site headquarters.
+    * Monitor third party email marketing services for compliance, if one is used.
+    * Honor opt-out/unsubscribe requests quickly.
+    * Allow users to unsubscribe by using the link at the bottom of each email.
+  * **If at any time you would like to unsubscribe from receiving future emails, you can email us at** [customerservice@americanmusical.com](mailto:customerservice@americanmusical.com). Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence. 
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+American Musical Supply Inc.   
+8 Thornton Road   
+Oakland, New Jersey 07436   
+United States   
+[customerservice@americanmusical.com](mailto:customerservice@americanmusical.com)   
+1-800-458-4076 
 
 
-We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
-What information do we collect? And how do we use it?
-
-  * When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and notify you of your order status. 
-  * If you apply for financing, we may gather additional information, such as your social security number, for processing the application and complying with applicable laws and regulations. 
-  * When you enter a contest or other promotion, we ask for your name, address, and e-mail address so we can enter you in the contest and notify the winners. 
-  * We personalize your shopping experience by using your purchases to formulate our recommendations about the products and merchandise that may interest you. We also monitor customer traffic patterns and site usage to assist in the design and layout of our website. 
-  * We can also use the information collected to notify you about important changes to the web site, new services, and special offers we think you'll find valuable. 
-  * Your IP address is used to help identify you and your shopping cart. We may also use your IP address to help diagnose problems with our server, and to administer our web site. 
-
-
-
-How does AMS protect customer information?  
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
-
-We also follow these additional principles of Privacy:
-
-  1. We do not use any information about pages you visit on our site or the Web, and we do not give it out to others. 
-  2. We do not give out your telephone number, credit card information, or screen names, unless you authorize us to do so. And we give you the opportunity to correct your personal contact and billing information at any time. 
-  3. We may use information about the types of products you buy from us to make other marketing offers to you, unless you tell us not to. We do not give out this purchase data to others. 
-  4. We give you choices about how AMS uses your personal information. 
-  5. We take extra steps to protect the safety and privacy of children. 
-  6. We use secure technology, privacy protection controls and restrictions on employee access in order to safeguard your personal information. 
-  7. We keep you informed on this page about our privacy policies. 
-
-
-
-What about "cookies"?  
-"Cookies" are small pieces of information stored by your browser on your computer's hard drive. Our cookies contain NO personally identifying information, but they do enable us to provide personalized features such as "My Account" and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
-
-Will AMS disclose the information it collects to outside parties?  
-American Musical Supply does not sell, trade, or rent your personal information to others. Also, AMS may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. AMS may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of AMS, our users, or others.
-
-How does AMS allow customers to update or change the information it collects?  
-You may update or change information related to your AMS account by accessing the "My Account" section of the Web site with your e-mail account and password. For other questions related to updating or changing your account information, please send e-mail to [feedback@americanmusical.com.](mailto:feedback@americanmusical.com)
-
-In summary  
-We are committed to protecting your privacy. We use information collected on our site to make shopping at AMS Online possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
-
-Your consent  
-By using our website, you consent to the collection and use of this information by American Musical Supply. We reserve the right to change this Privacy Policy at any time. Your continued use of the site means that you agree with the terms of the then-current Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-Links  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. However, any links from this website are not under our control and therefore, not governed by our privacy policies. AMS is not responsible for those websites.
-
-Tell us what you think  
-AMS welcomes your questions and comments about privacy. Please send e-mail to [feedback@americanmusical.com.](mailto:feedback@americanmusical.com)
