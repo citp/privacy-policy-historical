@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tagomatic.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428112606id_/http%3A//www.tagomatic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagomatic.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625235950id_/http%3A//www.readymadenames.com/privacy) for the most accurate reproduction.*
 
-# Tagomatic - the community recommendation engine
+# Privacy Policy Statement - Readymade Names
 
-This is the web site of **32nd Degree LLC**.
+This is a web site owned by **32nd Degree LLC**.
 
 Our postal address is   
 **P.O. Box 388  
@@ -27,7 +27,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
