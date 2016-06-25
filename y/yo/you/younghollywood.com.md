@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915203429id_/http%3A//www.younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625045754id_/http%3A//www.younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - YOUNG HOLLYWOOD
 
-**Young Hollywood LLC Privacy Policy - Last Amended on JULY 27, 2010**  
+**Young Hollywood LLC Privacy Policy**  
 Young Hollywood LLC and its affiliated companies ("we" or "us") operate a series of websites offering a variety of products and services (a "Site" or the "Sites"). This notice outlines the privacy policies of the Sites. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
 **Changes to the Privacy Policy**  
