@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the freeprizeclub.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206091336id_/http%3A//www.freeprizeclub.com/fpcpp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprizeclub.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# FreePrizeClub
+# HugeDomains.com - Privacy Policy
 
-|  | 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-**Your Privacy Statement**
+**What information do we collect?**
 
-FreePrizeClub understands that you may have concerns about safeguarding your privacy on-line. The Privacy Statement that follows explains our views and practices concerning privacy, and how they may pertain to you as you make full use of our many offerings. This statement discloses the privacy practices for all Web sites located at the uniform resource locator [**http://www.freeprizeclub.com**](http://www.freeprizeclub.com/).
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**Article 1. Collection of Personal Information from Site Visitors**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-FreePrizeClub automatically collects and/or tracks (1) the home server domain names, IP address, e-mail addresses, type of client computer, and type of Web browser of visitors to FreePrizeClub's Web site, (2) the e-mail addresses of visitors that communicate with FreePrizeClub via e-mail, (3) information such as personal, financial or demographic information, knowingly provided by the visitor in on-line forms, registration forms, surveys, and drawing entries, and (4) information, either in the aggregate or user specific, on what pages visitors access.
+**What do we use your information for?**
 
-**Article 2. Use of Personal Data Collected**
+Any of the information we collect from you may be used in one of the following ways: 
 
-Personal data collected by FreePrizeClub will be used by FreePrizeClub for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of user's behavior, for drawing product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked their advertisements, and to customize content and layout of FreePrizeClub's site. Names, e-mail addresses, and postal information collected may be added to FreePrizeClub's databases and used for future e-mails, mailings regarding site updates, new products and services, upcoming events, and status of orders placed online. Financial information collected may be used to check the user's qualifications for registration, and to bill the user for products and services.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Demographic and profile data collected is used to tailor the visitor's experience at our site, enabling us to present content we think they might be interested in. We use customer contact information to send the user information about our company and promotional material from some of our partners.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**Article 3. Disclosure of Personal Data to Third Parties**
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-FreePrizeClub reserves the right to post collected data on FreePrizeClub's Web site, or share, rent, sell, or otherwise disclose data it collects to third parties. Any third party to which FreePrizeClub shares, rents, sells, or otherwise discloses personal data will be carefully prescreened by FreePrizeClub, determined by FreePrizeClub to be reputable, and will use the personal data for marketing products and services which FreePrizeClub determines, in its sole judgment, that visitors might find of interest. FreePrizeClub will disclose to third parties information knowingly and voluntarily disclosed by visitors, or information in aggregate form.
+• To process transactions
 
-Through the use of third party cookies, an advertiser will be electronically notified when visitors view or click on its advertisements. This site contains links to other sites and FreePrizeClub is not responsible for the privacy practices or the content of such sites.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Article 4. Opt-Out Right**
+• To send periodic emails
 
-We allow users the opportunity to opt-out of receiving communications from us and our partners at the point where we voluntary request information about the visitor. This site also allows users to remove their information from our database. If a user removes his or her information from the FreePrizeClub database it will no longer be used by FreePrizeClub for secondary purposes, disclosed to third parties, or used by FreePrizeClub or third parties to send promotional correspondences to the visitor. Users can remove their information by sending an email requesting removal to [remove@FreePrizeClub.com](mailto:remove@freeprizeclub.com).
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**Article 5. Access to and Ability to Correct Personal Data**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Upon request via e-mail, FreePrizeClub will provide to visitors a summary of any personal information retained by FreePrizeClub regarding the visitor. FreePrizeClub will only send personal records to the e-mail address on file for the visitor name associated with it. Visitors may modify, correct, change, or update their personal record or cause their personal record to be removed from FreePrizeClub's database. Visitors may change or modify information previously provided by contacting FreePrizeClub via an e-mail to support@FreePrizeClub.net.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Article 6. Collection of Personal Data from Children The information and services provided at FreePrizeClub's web site by FreePrizeClub, its affiliates, sponsors, and advertisers are not intended to be viewed by children under 13 years of age. All drawings offered at FreePrizeClub are open to United States residents 18 years or older only. FreePrizeClub will not knowingly permit a child to participate in a game, offering of a prize, or another activity. If a child wins a drawing, that child's entry will be voided, and another winner will be drawn.
+**How do we protect your information?**
 
-Concerning visitors to its site that it knows are children under 13 years of age, FreePrizeClub maintains the following policies:
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-FreePrizeClub will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-In the event a child submits information to the FreePrizeClub Web site, the child must provide an e-mail address for the child's parent or guardian. Thereafter, FreePrizeClub will send an e-mail to the parent or guardian alerting them to the child's registration and providing instructions on how the parent can provide consent for the child to view the contents of FreePrizeClub, or how the parent could view or delete the child's registration, if so desired.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-FreePrizeClub will not knowingly distribute to third parties any personally identifiable off-line contact information concerning children under 13 years of age without prior parental consent.
+**Do we use cookies?**
 
-No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside FreePrizeClub.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-**Article 7. FreePrizeClub's Right to Contact User**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-FreePrizeClub reserves the right to contact site visitors regarding account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to site visitors.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**Article 8. FreePrizeClub's Right to Change Privacy Policy**
+**Do we disclose any information to outside parties?**
 
-FreePrizeClub reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.  
-  
----|---
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
