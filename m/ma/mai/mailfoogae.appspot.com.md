@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailfoogae.appspot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023358id_/http%3A//www.mailfoogae.appspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailfoogae.appspot.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625112436id_/https%3A//mailfoogae.appspot.com/privacy) for the most accurate reproduction.*
 
 # Streak - CRM in your Inbox
 
