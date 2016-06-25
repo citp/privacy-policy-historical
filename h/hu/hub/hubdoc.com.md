@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200620id_/http%3A//www.hubdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625202959id_/http%3A//www.hubdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubdoc: Document Collection & Management Software | Hubdoc
 
@@ -8,19 +8,9 @@ Privacy Policy
 
 This Privacy Policy has been prepared by Hubdoc™ Inc. (“Hubdoc”). This Privacy Policy sets out the manner in which Hubdoc collects, uses, discloses and otherwise manages personal information. This Privacy Policy applies to the privacy practices on our website, www.hubdoc.com (the “Website”). 
 
-Hubdoc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The 
+Hubdoc has been received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, http://www.hubdoc.com and does not cover information that may be collected through our mobile applications and software downloaded from the website. 
 
-[_TRUSTe program certification_](https://privacy.truste.com/privacy-seal/Hubdoc-Inc-/validation?rid=77e425ea-a6ae-45b2-968b-a3f88e133ce3)
-
-is limited to only that information collected through www.hubdoc.com and does not cover information that may be collected through our mobile applications. If you have questions or complaints regarding our privacy policy or practices, please contact us at 
-
-[_info@hubdoc.com_](mailto:info@hubdoc.com)
-
-. If you are not satisfied with our response you can contact 
-
-[_TRUSTe_](https://www.truste.com/)
-
-. 
+If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
 
 Collection & use of personal information 
 
@@ -77,35 +67,35 @@ Hubdoc and its service providers may provide your personal information in respon
 
 Additional information about our website 
 
-Hubdoc and our third party tracking-utility partners may generate certain non-identifying and aggregate data and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may use this aggregated and non-identifying information to further enhance our services. We do not link this automatically collected data to other information we collect about you. 
-
-OR 
-
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
+Hubdoc and our third party tracking-utility partners may generate certain non-identifying and aggregate data and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may use this aggregated and non-identifying information to further enhance our services. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
 Technologies such as: cookies, beacons, tags and scripts are used by Hubdoc and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 We use cookies for to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
 The Website may contain links to other sites that Hubdoc does not own or operate. Except as provided herein, we do not provide your personal information to these third parties without your consent. We provide these links as a convenience. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you carefully review. We do not have any control over such websites, and therefore have no liability or responsibility for the linked websites’ personal information practices. 
 
-Security of personal information 
+Security of Personal Information 
 
 We have implemented measures designed to help protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to help protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. When you provide us with sensitive information (such as your credit card number and your linked account credentials), we encrypt the transmission of that information using secure socket layer technology (SSL). No collection or transmission of information over the Internet or other publicly accessible communications networks can be guaranteed to be fully secure, however, and therefore, we cannot ensure or warrant the security of any such information. If you have any questions about security on our Website, you can contact us at the information at the end of this privacy policy. 
 
-Social media feature 
+Social Media Feature 
 
 Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-Access & removal of your personal information 
+Access & Removal of Your Personal information 
 
 You have the right to access, update, correct, and delete inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating, corrections, or deletions of inaccuracies by contacting us at the contact information provided below or by logging into your account and making the applicable changes in your Profile. You may also request that we delete a third party account and we will cease collecting personal information from the third party account or your personal information and delete relevant account credentials. We will respond to your request to access within 30 days. 
 
 We have personal information retention processes designed to retain personal information of our customers for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Changes to this policy 
+Changes to this Privacy Policy 
 
 This Privacy Policy may be updated periodically to reflect changes to our personal information practices. The revised Privacy Policy will be posted on the Website. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We strongly encourage you to review the Privacy Policy often for the latest information about personal information practices. 
 
@@ -117,4 +107,6 @@ If you have any questions about this Privacy Policy or the practices described h
 
 or via postal mail at 1881 Yonge Street, Suite 712, Toronto, Ontario M4S 3C4. 
 
-Last updated: **November 1, 2013**
+Last updated: **February 26, 2016**
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=77e425ea-a6ae-45b2-968b-a3f88e133ce3 "TRUSTe Privacy Certification")
