@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthiertalk.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913212142id_/http%3A//healthiertalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthiertalk.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625105712id_/https%3A//healthiertalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@ To manage your subscription by mail or for any other subscription issues, write 
 
 Healthier Talk  
 Attn: Customer Service  
-P.O. Box 925  
-Frederick, MD 21705 USA
+P.O. Box 913  
+Frederick, MD 21705-0913
 
 Or you can email us at contact@healthiertalk.com.
 
@@ -21,3 +21,5 @@ We may automatically gather general statistical information about our website an
 We require that all e-mails promoting healthiertalk.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@healthiertalk.com). We will immediately investigate all allegations made related to unsolicited messages.
 
 For any other questions or concerns, please call us at (443) 353-4723, or email us at contact@healthiertalk.com.
+
+## Reader Interactions
