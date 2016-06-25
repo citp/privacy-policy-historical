@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waleg.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720133217id_/http%3A//www.waleg.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waleg.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625143302id_/http%3A//waleg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Waleg.com
 
@@ -14,4 +14,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/)
 
-If you have any questions about this privacy statement and/or our practices involving your privacy, feel free to contact us for any inquires.
+If you have any questions about this privacy statement and/or our practices involving your privacy, feel free to [contact us](http://waleg.com/content/contact/) for any inquires.
