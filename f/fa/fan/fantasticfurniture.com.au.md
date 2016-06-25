@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105080925id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625152351id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantastic Furniture - Australia's Best Value Furniture & Bedding
 
@@ -26,6 +26,7 @@ We require this information to understand your needs and provide you with a bett
   * to process your transaction and deliver products to you;
   * for internal record keeping;
   * to improve our products and services;
+  * for warranty repairs on our products;
   * unless you ask us not to, we may send promotional material, from time to time, to any contact details you provide to us, about our new products, special offers or other information which we think you may find interesting;
   * to contact you by email, SMS, phone, fax or mail for market research purposes, from time to time; and
   * to customise the website according to your interests.
@@ -37,6 +38,7 @@ We will only use your personal information as reasonably necessary for the above
   * our parent corporation Fantastic Holdings Limited, its subsidiaries and their franchisees (the "Fantastic Group");
   * our franchisees, contractors and service providers (including IT services, mailing houses, shipping and distribution services and recruitment services) and those of the Fantastic Group;
   * our business associates;
+  * third-party product repair partners;
   * if you choose to apply for any credit facility in connection with a purchase (where offered), the credit provider;
   * our professional advisers, such as our lawyers, accountants and auditors;
   * your employees, agents and representatives (if you are our business contact);
@@ -49,6 +51,10 @@ We will only use your personal information as reasonably necessary for the above
 We require these organisations to be bound by appropriate confidentiality obligations and take reasonable steps to ensure that they are aware of their privacy obligations with respect to the protection of your information. 
 
 We do not otherwise sell or provide your information to third parties.  We will may disclose your personal information to countries overseas, in the United States of America.
+
+ **Third Party Analytics**
+
+Fantastic Furniture use third party application tracking services such as Google Analytics and Inspectlet to help understand the use of our Services and Site(s). Information collected by Google is governed by Google's Privacy Policy [https://www.google.com/policies/privacy/partners/].  We use the tool Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorised use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website.  This tracking is to understand how our user interact with our products and services – Inspectlet do not capture any personal information entered into any input form on our website including but not limited to names, email addresses, address information or payment information.  Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s Privacy Policy [https://www.inspectlet.com/legal#privacy].
 
  **Security**
 
