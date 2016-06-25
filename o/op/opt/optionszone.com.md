@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206053343id_/http%3A//investorplace.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625091817id_/http%3A//investorplace.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | InvestorPlace
 
