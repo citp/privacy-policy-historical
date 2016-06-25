@@ -1,30 +1,80 @@
-> *The following text is extracted and transformed from the inthego.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206175547id_/http%3A//www.inthego.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthego.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Notice : cheap herve leger dress,herve leger bandage,authentic herve leger on sale, cheap herve leger dress,herve leger bandage,authentic herve leger on sale
+# HugeDomains.com - Privacy Policy
 
-Agent Policy
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Nowadays,you can enjoy our professional guide forward retailing business online here.For long-term business with you in future,our company has refreshed brand-new agent policy,including both services of products line and gudience on extended marketing.Below details are shown:  
-1,For based convience in business,you are able to get a grown-up retailing site here spending only $300 to be our agent abroad.There are completely fully series of retailing products here,from which you can start you business once you purchase site here.With our professional direction,you would win earlier when enlarging retailing marketing home and abroads.Further,you will largely enjoy our free offering both of new hot selling produts updating and gudience on extended marketing;  
-2,For intime synchronous updating and accurate stock of products on sale,it is a kind suggestion that all the products shown on agent website here should be provided by our company here. Any new updating will be timely emailed or via call to notice you. Meanwhile,also you are greatly welcome to feedback us any new products in potential marketing,enforcing our business cooperation also.And we will in time reply you after studying marketing here.  
-3,Based at powerfull supportable system of manpower and technic-hardware,our retailing business including agent are updating smoothly by long-term cooperation both with manufacturing factory and also international air shipping company home and abroad.Hence,you can enjoy secure FREE shipping on all orders in our company,both service of DOOR TO DOOR and DROPSHIPPING worldwidely.   
-4,After getting our agent qualification,you can fix your own marketing price in your business,while our qualified agent can largely enjoy more discount off our retailing price here.Following common business rule -"The more you buy,the more you will save,the more profit you will make!",we will help you to request our factory VIP members for you enjoy factory bargain wholesale.  
-5,Agent could enrich payment terms on your retailing site at your willing foundation to enlarge more business,and any new request updating on payment,please [contact us](http://www.inthego.com/index.php?main_page=contact_us) here,our powerful technique will enable your requested payment to enforce your business further;Besides,due too large business financing venture,great risk and certain limit on our domestic payment in our business,it is our company policy that we only enable 3 payment terms including Western Union,MoneyGram and Wire Bank Transfer on our agent marketing.   
-6, It is our sincere and hard promise that we confidently promise in time orders processing.After orders fund arriving,all orders must be shipped out within 2days,via mail/directly call together with all list of tracking numbers here.Effectively,you all are able to track all the orders in time on line.Please allow 7-9days as orders delivery time;  
-7, For policy on shipping & returns or others info,please check our correlative define pages or our sales rep. on line for help.Besides,we will study and update essentially when agent feedback any.Welcome [Feedback Now! ](http://www.inthego.com/index.php?main_page=returns)
+**What information do we collect?**
 
-Site Policy   
-We are committed to protecting your privacy. The information you provide to us is not given or sold to any outside party except for the shipping company delivering your order. We only share your shipping address and phone number with the shipping company. The information we collect from you is used only to process and ship your order. Your email address is used only to provide you with an order confirmation and tracking number. Your phone number is used to contact you in case of a problem with the fulfillment or delivery of your order. If you have any questions, concerns, or comments about our privacy policy we would like to know so we can address them. Please [contact us](http://www.inthego.com/contact_us.html) here.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**SECURITY**  
-Our website uses industry standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. This encryption technology protects your name, address, and credit card number during data transport.We proudly displays the Verified Secure Seal - Our website has been scanned using the ControlScan Verified Secure vulnerability scanner for over 11000 vulnerabilities. This site is tested weekly and on demand to pass the FBI/SANS Internet Security Test. Our website is: 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-* 99.9% FREE from Hacker crime.   
+**What do we use your information for?**
 
-* Tested for thousands of vulnerabilities including the FBI/SANS TOP 20.   
+Any of the information we collect from you may be used in one of the following ways: 
 
-* Notified immediately of any new vulnerabilities that may arise.   
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-* Safe from identity theft and credit card fraud.   
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-* In compliance with the Gramm Leach-Bliley, Children's Privacy, HIPAA, and Sarbanes Oxley Acts. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
