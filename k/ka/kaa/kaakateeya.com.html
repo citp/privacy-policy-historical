@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kaakateeya.com privacy policy that was archived on 2015-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219185545id_/http%3A//www.kaakateeya.com/Customer_new/Customerdesignedpages/KaakateeyaPrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaakateeya.com privacy policy that was archived on 2016-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625040708id_/http%3A//kaakateeya.com/Customer_new/Customerdesignedpages/KaakateeyaPrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="format-detection" content="telephone=no"><meta name="description"><meta name="keywords" content="keyword1 keyword2"><title>
 	Kaakateeya Marriages
@@ -18,9 +18,16 @@
         ga('send', 'pageview');
 
     </script>
-
     <script type="text/javascript">
+        var apipath = '';
+    </script>
+    <script type="text/javascript">
+        function showhidepopup(str) {
 
+            console.log("loader  " + str);
+            $('#LoadProgressbarid').attr('style', 'width: ' + str + '%;');
+
+        }
         function ShowForgotPassword() {
 
             jQuery('.login_block_header').fadeToggle();
@@ -99,7 +106,7 @@
         function ShowFullProfile_client(profileID, partnerCustID) {
             var custid = '';
             if (custid.toString() != '') {
-                window.open('/Customer_new/Customerdesignedpages/CustomerfullprofileNew.aspx?ProfileID=' + profileID + "&CustID=" + partnerCustID + "&FromCustId=" + custid, '_blank');
+                window.open('/Customer_new/Customerdesignedpages/CustomerfullprofileNew.aspx?ProfileID=' + profileID + "&ToCustID=" + partnerCustID + "&FromCustId=" + custid, '_blank');
             }
             return true;
 
@@ -329,6 +336,16 @@
             margin: 0 auto;
             pointer-events: all;
         }
+
+        .loadercls {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            background: transparent none repeat scroll 0% 0%;
+            height: 5px;
+            z-index: 10100;
+        }
     </style>
 
     
@@ -342,7 +359,7 @@
 
 <body>
     <form method="post" action="KaakateeyaPrivacyPolicy.aspx" id="aspnetForm" autocomplete="off">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgIJD2QWAgIDD2QWBAIBDw9kFgIeDGF1dG9jb21wbGV0ZQUDb2ZmZAIFDw9kFgIfAAUDb2ZmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3RsMDAkSWJ0bkxvZ29kaXNwbGF5v/vaC5r5urnCxvT3CYxrxaJ6EXI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWAgILD2QWAgIDD2QWBAIBDw9kFgIeDGF1dG9jb21wbGV0ZQUDb2ZmZAIFDw9kFgIfAAUDb2ZmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUVY3RsMDAkSWJ0bkxvZ29kaXNwbGF5BRJjdGwwMCRJbWFnZUJ1dHRvbjLPczqD98MB7qlAkIHEfSwiHm9lqQ==">
 
 
 <script src="/ScriptResource.axd?d=Q_hDcqoZe0cPg44qnNfMsG9kfEHwxM8PWHi3fD8BIW-N_rl9MZiX_-UO_EpbW4pq2-8gWv7lsDhCBJEk_PL-FdvB6PW3OrUdTLlC35qa6WoVuaJKeWy5U-VKrHW0qi5oTBsfjg2&amp;t=ffffffffaa73f696" type="text/javascript"></script>
@@ -365,9 +382,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script src="/ScriptResource.axd?d=WanLaFdsdzq5VwVhVKqzZVagPRTAwwpGy0HKNMi4iVAhQeHHcljw9z6KWN3SGp4Zo6sFpD7dpRP4o3In4HlhCWcI3IuUcwAPrB48SZ5VCzLDuElIsp1Gt-uAT9l1ux38Gw40Do00kMbBS7O01t8VIg3Qy6k1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=TkkNEvRkFFcZCDh4_l3bNF9C1ypH-rngFbdJ4Wc-7Y1Hp8b8_WE1RUqyiQJA96gghi0DXlhkx04JJ9rjc2Lgj1c6lgSaL3XaYpRlCUDM13Yaq-Po2nqJcPAIDUjlHDmoqJN9H_dbaYGAjI5cmrI4JZKvR-U1&amp;t=ffffffffaa73f696" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BEC4E378">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB4aKc5qP3NdgpRpMHtOp0TBHwqrsFeMaw2IBQe07TBRRBdo+9FEMKoM3NAQ8/RDwcN7030BaN+zTNLgNIJ3sfaH72bOUkC0OtM0UzSSWkuSnS/PSAvxybIG70Gi7lMSo2Gf6jqgcEeQLyrzVn7jYXuEloPWJSKe1zSCHy16GXX96WIFgW1LWk/TnXibHzqpiNKZfFhiZqovNP3gRxyu5OqOJUAnlKGmEgfOZ2RPQMq2ozCyeWj39UgedN5N/8M+8UWN8i7LZkwgAHR1iKegUbVwqer2CEUV7g/7hv8BqVCU3aaDLqJi9fR5eLiYMk+1YaW2u7vLEDgPka9UGz2j7Cz2ro8OcCGjGTP7eg8SuCGrIAGBFhqFKDlhkxmKGhVnS0eHbde1bY6C7B1Fv5x/BTFsTSnz3P4je91iRJMQ/pzLsDkzMVjMEihmVt30cjXfmyG8YpZ1ftn7KyEcqVv+wLggrSAsWwd2AXzpUlV4Fr2P2UVETOsgd9PfcPnX4GwJ3qRIExcL7pEmUiETH6k7zdds4DSQAwxJ6FgN72eS3QkRr8XJ1zIknNHaX5nf46LjlTvd4hNEfa7zSjvdthd/K8u0i3A4W/bnhcay2Nk83oqnY63bJHPnUlElUSb3mUDw2vJCg4sHlJ/dkQjjsTnt6VN0vais7g==">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB5VLMCGJykxazuFpqDyKw6hHwqrsFeMaw2IBQe07TBRRBdo+9FEMKoM3NAQ8/RDwcN7030BaN+zTNLgNIJ3sfaH72bOUkC0OtM0UzSSWkuSnS/PSAvxybIG70Gi7lMSo2Gf6jqgcEeQLyrzVn7jYXuEloPWJSKe1zSCHy16GXX96WIFgW1LWk/TnXibHzqpiNKZfFhiZqovNP3gRxyu5OqOJUAnlKGmEgfOZ2RPQMq2ozCyeWj39UgedN5N/8M+8UWN8i7LZkwgAHR1iKegUbVwqer2CEUV7g/7hv8BqVCU3aaDLqJi9fR5eLiYMk+1YaW2u7vLEDgPka9UGz2j7Cz2ro8OcCGjGTP7eg8SuCGrIAGBFhqFKDlhkxmKGhVnS0eHbde1bY6C7B1Fv5x/BTFsOTMxWMwSKGZW3fRyNd+bIbxilnV+2fsrIRypW/7AuCCtICxbB3YBfOlSVXgWvY/ZRURM6yB3099w+dfgbAnepEgTFwvukSZSIRMfqTvN12wrngyxD1nlOKlrgLcJT2Uj4DSQAwxJ6FgN72eS3QkRr8XJ1zIknNHaX5nf46LjlTvd4hNEfa7zSjvdthd/K8u0i3A4W/bnhcay2Nk83oqnY63bJHPnUlElUSb3mUDw2vJcifiXlrAVJ/zfCiK3Q790mjCZTw==">
         
         <!--/ Header -->
+        <div class="progress loadercls">
+            <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" id="LoadProgressbarid" aria-valuemax="100">
+            </div>
+        </div>
         <div id="ctl00_UpdateProgress" style="display:none;">
 	
                 <img alt="progress" src="../images/ring.gif" style="display: block; margin: 0 auto;">Loading...
@@ -383,12 +404,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">
                                 <span aria-hidden="true">×</span><span class="sr-only">Close</span>
-
                             </button>
                             <h4 class="modal-title" id="myModalLabel">Refresh Popup</h4>
 
                         </div>
                         <div class="modal-body">
+                            <div id="ctl00_uprefresh">
+	
+                                    <span id="ctl00_lbltxt"></span>
+                                
+</div>
                             <button type="button" class="btn btn-success" onclick="location.reload();">Refresh Page&nbsp;&nbsp;<span class="fa fa-refresh"></span></button>
                         </div>
                         <div class="modal-footer">
@@ -398,7 +423,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </div>
             </div>
         </div>
-
+        <div id="commonpopup" class="modal fade" style="z-index: 9999999 ! important;">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title" id="commontitle">kaakateeya Marriages</h4>
+                    </div>
+                    <div class="modal-body" id="commonbody">
+                        <p>Unfortunatly,we faced some error while accessing your request.</p>
+                        <p class="text-warning"><small>sorry,for the inconvience.</small></p>
+                    </div>
+                    <div class="modal-footer" id="commonfooter">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="modal fade" id="refreshpopupmanagephoto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="vertical-alignment-helper">
                 <div class="modal-dialog vertical-align-center">
@@ -863,15 +904,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="span2">
                     <h6>information</h6>
                     <ul>
-
+                        <li><a onclick="return ShowForgotPassword();" href="javascript:void(0)">Forgot Password</a></li>
                         <li>
                             <a id="ctl00_lnkFeedBackFooter" href="javascript:__doPostBack('ctl00$lnkFeedBackFooter','')">Feed Back</a></li>
                         <li>
                             <a id="ctl00_lnkBranchesFooter" href="javascript:__doPostBack('ctl00$lnkBranchesFooter','')">Our Branches</a></li>
                         <li>
                             <a id="ctl00_linkHelp" href="javascript:__doPostBack('ctl00$linkHelp','')">Help</a></li>
-                        <li>
-                            <a onclick="return divloginblock();" href="javascript:__doPostBack('ctl00$ctl24','')">new profiles</a></li>
 
                         <li>
                             <a id="ctl00_lnkPrivacyFooter" href="javascript:__doPostBack('ctl00$lnkPrivacyFooter','')">Privacy Policy</a></li>
@@ -962,7 +1001,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
         <!-- Modal -->
-        <div class="modal fade" id="AlertModal" role="dialog">
+        <div class="modal fade" id="AlertModal" role="dialog" style="z-index:10000000!important">
             <div class="modal-dialog">
                 <!-- Modal content-->
                 <div class="modal-content">
@@ -1004,6 +1043,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                                         </ol>
                                         <!-- Wrapper for carousel items -->
+
                                         <div class="carousel-inner">
 
                                             
@@ -1025,6 +1065,53 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="horoscopepopup" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <input type="image" name="ctl00$ImageButton2" id="ctl00_ImageButton2" class="pull-right" data-dismiss="modal" aria-hidden="true" src="../../Images/ico_close.gif" style="text-align: right;">
+                    </div>
+                    <div class="modal-body clearfix pop_content_my" id="Div5">
+                        <img id="ctl00_imghoropopup" class="Imagehoroid" src="">
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="slidephoto" class="modal fade" role="dialog">
+            
+            <button type="button" class="glyphicon glyphicon-remove" data-dismiss="modal" style="font-size: 18px; color: white; float: right; background-color: black; right: 286px;"></button>
+
+            <div class="modal-dialog">
+                <!-- Modal content-->
+
+                <div class="modal-content">
+                    <div class="modal-body" id="Div2">
+                        <div class="bs-example">
+                            <div id="slideshow" class="carousel slide" data-interval="3000" data-ride="carousel">
+                                <!-- Carousel indicators -->
+                                <ol class="carousel-indicators">
+                                </ol>
+                                <!-- Wrapper for carousel items -->
+
+                                <div class="carousel-inner" id="Ajaxbind">
+                                </div>
+
+                                <!-- Carousel controls -->
+                                <a href="#slideshow" id="ctl00_a1" class="carousel-control left" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                </a>
+                                <a href="#slideshow" id="ctl00_a2" class="carousel-control right" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -1068,11 +1155,10 @@ Sys.Application.add_init(function() {
     <script type="text/javascript" src="../assets/bootstrap/js/bootstrap-fileupload.js"></script>
     <script type="text/javascript" src="../js/scripts.js"></script>
     <script src="../js/jquery.alert.js"></script>
-
-
-
     <script type="text/javascript" src="../js/GI.TheWall.min.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.js"></script>
+    <script src="../assets_new/scrollgress.js"></script>
     <script type="text/javascript">
 
         $('.GITheWall').GITheWall();
@@ -1209,6 +1295,7 @@ Sys.Application.add_init(function() {
                         changeYear: true,
                         yearRange: "-60:-18",
                         dateFormat: 'dd-mm-yy'
+                       , defaultDate: new Date(1956, 01, 01)
                     });
                     jQuery('.datepicker2').datepicker({
                         changeMonth: true,
@@ -1224,12 +1311,14 @@ Sys.Application.add_init(function() {
         jQuery(document).ready(function () {
             // initiate layout and plugins
             App.init();
+
             jQuery(function () {
                 jQuery('.datepicker').datepicker({
                     changeMonth: true,
                     changeYear: true,
                     yearRange: "-60:-18",
                     dateFormat: 'dd-mm-yy'
+                   , defaultDate: new Date(1956, 01, 01)
                 });
                 jQuery('.datepicker2').datepicker({
                     changeMonth: true,
