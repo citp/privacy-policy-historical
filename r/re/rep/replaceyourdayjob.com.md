@@ -1,54 +1,80 @@
-> *The following text is extracted and transformed from the replaceyourdayjob.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203125811id_/http%3A//www.replaceyourdayjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replaceyourdayjob.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy « Replace Your Day Job
+# HugeDomains.com - Privacy Policy
 
-**Collection of your Personal Information**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-www.replaceyourdayjob.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Profit System Online also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+**What information do we collect?**
 
-There is also information about your computer hardware and software that is automatically collected by www.replaceyourdayjob.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by www.replaceyourdayjob.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of www.replaceyourdayjob.com Web site.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through www.replaceyourdayjob.com public message boards, this information may be collected and used by others. Note: www.replaceyourdayjob.com does not read any of your private online communications.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-www.replaceyourdayjob.com encourages you to review the privacy statements of Web sites you choose to link to from www.replaceyourdayjob.com so that you can understand how those Web sites collect, use and share your information. www.replaceyourdayjob.com is not responsible for the privacy statements or other content on Web sites outside of www.replaceyourdayjob.com and www.replaceyourdayjob.com family of Web sites.
+**What do we use your information for?**
 
-**Use of your Personal Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-www.replaceyourdayjob.com collects and uses your personal information to operate www.replaceyourdayjob.com Web site and deliver the services you have requested. www.replaceyourdayjob.com also uses your personally identifiable information to inform you of other products or services available from www.replaceyourdayjob.com and its affiliates. www.replaceyourdayjob.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-www.replaceyourdayjob.com does not sell, rent or lease its customer lists to third parties. www.replaceyourdayjob.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, www.replaceyourdayjob.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to www.replaceyourdayjob.com, and they are required to maintain the confidentiality of your information.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-www.replaceyourdayjob.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-www.replaceyourdayjob.com keeps track of the Web sites and pages our customers visit within www.replaceyourdayjob.com, in order to determine what www.replaceyourdayjob.com services are the most popular. This data is used to deliver customized content and advertising within www.replaceyourdayjob.com to customers whose behavior indicates that they are interested in a particular subject area.
+• To process transactions
 
-www.replaceyourdayjob.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on www.replaceyourdayjob.com or the site; (b) protect and defend the rights or property of www.replaceyourdayjob.com; and, (c) act under exigent circumstances to protect the personal safety of users of www.replaceyourdayjob.com, or the public.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Use of Cookies**
+• To send periodic emails
 
-www.replaceyourdayjob.com Web site uses “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize www.replaceyourdayjob.com pages, or register with www.replaceyourdayjob.com site or services, a cookie helps www.replaceyourdayjob.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same www.replaceyourdayjob.com Web site, the information you previously provided can be retrieved, so you can easily use www.replaceyourdayjob.com features that you customized.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of www.replaceyourdayjob.com services or Web sites you visit.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Security of your Personal Information**
+**How do we protect your information?**
 
-www.replaceyourdayjob.com secures your personal information from unauthorized access, use or disclosure. www.replaceyourdayjob.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-By viewing this Web site, you agree that you have waived any and all claims of any kind or nature that could be brought against this website concerning the loss, alteration or misuse of information. You must be aware that it is possible for your personal data to potentially be obtained by unauthorized users, such as “hackers” and used in an inappropriate manner that may result in harm to you. In the event that your personal information is subject to unauthorized access, you acknowledge and agree that www.replaceyourdayjob.com is not responsible for the actions of the unauthorized users, and you waive your right to file any claims or causes of action against www.replaceyourdayjob.com arising out of the unauthorized use of your personal information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**Changes to this Statement**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-www.replaceyourdayjob.com will occasionally update this Statement of Privacy to reflect company and customer feedback. www.replaceyourdayjob.com encourages you to periodically review this Statement to be informed of how www.replaceyourdayjob.com is protecting your information.
+**Do we use cookies?**
 
-**Contact Information**
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-www.replaceyourdayjob.com welcomes your comments regarding this Statement of Privacy. If you believe that www.replaceyourdayjob.com has not adhered to this Statement, please contact www.replaceyourdayjob.com at Email. We will use commercially reasonable efforts to promptly determine and remedy the problem.  
-Discretion to Use Information. THE COMPANY MAY USE INDIVIDUAL INFORMATIONFOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY’S SOLE DISCRETION. The following paragraphs in Section 2 describe how the Company currently uses Individual Information, but the Company may change or broaden its use at any time. As noted below, the Company may update this policy from time to time. The Company may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, SMS text messaging, and package stuffers, among other possible uses.  
-SMS Wireless Policy  
-We may use personal information to provide the services you’ve requested, including services that display customized content and advertising. In addition to any fee of which you are notified, your provider’s standard messaging rates apply to our confirmation and all subsequent SMS  
-correspondence. You may opt-out and remove your SMS information by sending “STOP”, “END”, “QUIT” replying to the SMS text message you have received. If you remove your SMS information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.  
-(a) Detailed Wireless Policy (addendum) Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider’s name, and the date, time, and content of your messages. In addition to any fee of which you are notified, your provider’s standard messaging rates apply to our confirmation and all subsequent SMS correspondence. All charges are billed by and payable to your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis.  
-We may use personal information to provide the services you’ve requested, including services that display customized content and advertising. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.  
-You may remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to support@replaceyourdayjob.com or by sending “STOP”, “END”, “QUIT” to the SMS text message you have received.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
