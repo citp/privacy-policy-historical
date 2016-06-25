@@ -1,78 +1,82 @@
-> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025062326id_/http%3A//www.texanscu.org/home/about/disclosures/webprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texanscu.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625172748id_/https%3A//www.texanscu.org/home/fiFiles/static/documents/Privacy_Notice.pdf) for the most accurate reproduction.*
 
-# Texans CU - About Texans - Disclosures - Website Privacy Policy
+# FACTS
 
-## Website Privacy Policy
-
-At Texans Credit Union, we put our members first and take pride in offering a variety of financial services. Protecting your privacy, along with your financial assets, is central to our mission. Whether you are an existing member or are considering membership with us, we understand how important it is for you to know how we collect, retain, and use information about you. We recognize that you have a right to expect your personal financial information to remain private and secure. Texans Credit Union maintains standards to ensure that your information is private and secure at all times. Texans Credit Union's Website Privacy Policy appears below. It is our commitment to protect your personal information in accordance with this policy. 
-
-### Use, Collection, and Retention of Member Information 
-
-Texans Credit Union collects, retains, and uses information about members only where reasonably necessary--and allowed by law--to administer our business and to provide products, services, and other opportunities that we believe will benefit our members. 
-
-When you visit our website, we may collect and retain the following information: (i) your IP address, (ii) the domain name from which you access the Internet (e.g., aol.com, att.net), (iii) the date and time you access our site, (iv) the type of computer you are using, (v) the type of web browser you are using, and (vi) the Internet address of the website from which you directly linked to our site, if applicable. We use this information to measure the number of visitors to our site and help us make our site more useful to you. 
-
-If you identify yourself by inputting personal information at our website, we will use that information only to respond to your inquiry or request. We will not share any such information to any third party unless required by law. 
-
-### Collection of Information from Children Under 13   
-
-
-Texans does not permit children under 13 years of age to submit personal information to us online, and we do not knowingly collect personal information online from children under 13.   
-Maintenance of Accurate Information 
-
-Texans has established procedures to ensure that the personal information you submit to us is accurate, current, and complete at all times in accordance with reasonable commercial standards. If you should find that your information is incorrect, write to us at the following address: 
-
-### Texans Credit Union   
-PO Box 853912   
-Richardson, TX 75085-3912   
-
-
-We will respond to requests to correct inaccurate information in a timely manner. 
-
-### Limiting Employee Access to Information 
-
-Texans limits employee access to personally identifiable member information to those employees with a valid business reason for knowing such information. We train our employees on the importance of confidentiality and privacy and require each of our employees to comply with this policy, our procedures, and our standards of conduct. 
-
-### Protection of Information by Way of Established Security Procedures   
-
-
-All of Texans' operational and data processing systems are in a secure environment that protects your account information from being accessed by third parties. In addition, we maintain appropriate security standards and procedures to prevent unauthorized access of all other Credit Union information. By way of example, our Online Banking Solution uses a cryptographic (digital certificate) key to secure account information sent between our server and your browser. This communication key allows us to encrypt data sent through the Internet. Our server also employs sophisticated firewalls to prevent unauthorized access to Credit Union and member information. 
-
-### Restrictions on Disclosure of Account Information 
-
-Texans Credit Union does not share member information with nonaffiliated third parties for their independent use, except (i) for the exchange of information with reputable information reporting agencies in order to maximize the accuracy and security of such information, and (ii) in connection with providing certain products or services that we believe may benefit our members. We do not sell our members information to anyone. 
-
-We place strict limits on companies to whom we provide personally identifiable data for marketing purposes. Whenever we provide information for this purpose, we carefully review the company and the product or service to ensure that it provides value to our members. In addition, we share only the minimum amount of information necessary for that company to offer its product or service to you. 
-
-In addition to the foregoing, Texans will also provide member information to nonaffiliated third parties in the following circumstances: (i) in order to complete a transaction initiated by one of our members, (ii) if a member requests it, (iii) in order to enforce an agreement we have with a member, and (iv) if the information disclosure is required by law. 
-
-### Maintaining Member Privacy in Business Relationships with Third Parties   
+                                                                                                              Rev.    3/2015
+                          WHAT DOES TEXANS CREDIT UNION
+ FACTS                   DO WITH YOUR PERSONAL INFORMATION?
+Why?                    Financial companies choose how they share your personal information. Federal law gives
+                        consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                        how we collect, share, and protect your personal information. Please read this notice carefully to
+                        understand what we do.
+What?                   The types of personal information we collect and share depend on the product or service you
+                        have with us. This information can include:
+                         Social Security number, name, address and income
+                         Account balances and payment history
+                         Credit history and credit score
+How?                    All financial companies need to share customers’ personal information to run their everyday
+                        business. In the section below, we list the reasons financial companies can share their
+                        customers’ personal information; the reasons Texans Credit Union chooses to share;
+                        and whether you can limit this sharing.
+                                                                 Does Texans Credit
+Reasons we can share your personal information                                              Can you limit this sharing?
+                                                                    Union share?
+For our everyday business purposes—
+such as to process your transactions, maintain
+                                                                         YES                              NO
+your account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+For our marketing purposes—
+                                                                         YES                              NO
+to offer our products and services to you
+For joint marketing with other financial companies                       YES                              NO
+For our affiliates’ everyday business purposes—
+                                                                         YES                              NO
+information about your transactions and experiences
+For our affiliates’ everyday business purposes—
+                                                                          NO                       We do not share
+information about your creditworthiness
+For our affiliates to market to you                                       NO                       We do not share
+For nonaffiliates to market to you                                        NO                       We do not share
+                        Call 972.348.2000 or 800.843.5295 or
+Questions?
+                        Visit us online: www.Texanscu.org or
+                        Email us at Texans@Texanscu.org
 
 
-When Texans provides member information to a nonaffiliated third party, we require by way of a written agreement that the third party adhere to privacy principles and standards of conduct consistent with those to which Texans adheres for keeping member information confidential. We also ensure that the third party has adequate policies, procedures, and appropriate measures in place to meet its obligation to safeguard your information. 
-
-### A Word About Internet Cookies 
-
-To provide better service and a more effective website, Texans may use "cookies" as part of our interaction with your Internet browser. A "cookie" is a small text file placed on your hard drive by our web page server. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. Cookies are commonly used on websites and do not harm your computer system. We may use cookies in places where you may need to register, such as home banking, or where you are able to customize the information you see. Recording a cookie at such points makes your online experience easier and more personalized. We may also use cookies to identify what sections of our site our members visit most so we can continue to provide information on the products and services in which our members have demonstrated an interest. These cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personal information to determine who you are or your e-mail address. By configuring your preferences or options in your Internet browser, you can control if and how a cookie will be accepted. 
-
-### Updates and Changes to Website Privacy Policy 
-
-Texans reserves the right, at any time and without notice, to add to, change, update, or modify this policy, simply by posting such change, update, or modification on our website. Any such change, update, or modification will be effective immediately upon posting on our website. 
-
-### More Information 
-
-Texans Credit Union values its members and their privacy. We want you to understand how we use the information you provide and our commitment to ensuring your personal privacy. If you have any questions about how Texans protects or uses your confidential information, please contact us at address listed above. 
-
-* * *
-
-**COMPLAINT NOTICE**
-
-This credit union is incorporated under the laws of the State of Texas and under state law is subject to regulatory oversight by the Texas Credit Union Department. If you have a dispute with Texans Credit Union, please contact us at 800.843.5295 or 972.348.2000. If the dispute is not resolved to your satisfaction, you may file a complaint against the credit union by contacting the Texas Credit Union Department through one of the means indicated below:  
-
-  * By mail: Texas Credit Union Department, 914 East Anderson Lane, Austin, Texas 78752-1699 
-  * By telephone: 512.837.9236 
-  * By fax: 512.832.0278 
-  * By e-mail: [complaints@tcud.state.tx.us](mailto:complaints@tcud.state.tx.us)
-  * On the web at [www.tcud.state.tx.us](http://www.tcud.state.tx.us/ "www.tcud.state.tx.us")
-
-
+ Page 2
+Who we are
+Who is providing this notice?                Texans Credit Union
+What we do
+How does Texans Credit Union                 To protect your personal information from unauthorized access
+protect my personal information?             and use, we use security measures that comply with federal law.
+                                             These measures include computer safeguards and secured files
+                                             and buildings.
+How does Texans Credit Union                 We collect your personal information, for example, when you
+collect my personal information?                     apply for products or services
+                                                     pay your bills or apply for a loan
+                                                     conduct transactions with us or others
+                                             We also collect your personal information from others, such as credit
+                                             bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?               Federal law gives you the right to limit only
+                                                     sharing for affiliates’ everyday business purposes—information
+                                                      about your creditworthiness
+                                                     affiliates from using your information to market to you
+                                                     sharing for nonaffiliates to market to you
+                                              State laws and individual companies may give you additional rights to
+                                              limit sharing.
+Definitions
+Affiliates                                   Companies related by common ownership or control. They can be
+                                             financial and nonfinancial companies.
+                                                     Our affiliates include Credit Union Liquidity Services and any future
+                                                      affiliate(s) that may be added to Texans’ family of companies.
+Nonaffiliates                                Companies not related by common ownership or control. They can be
+                                             financial and nonfinancial companies.
+                                                     Texans Credit Union does not share with nonaffiliates so they can
+                                                      market to you.
+Joint marketing                              A formal agreement between nonaffiliated financial companies that
+                                             together market financial products or services to you.
+                                                     Our joint marketing partners can include insurance, investment
+                                                      companies, and other financial services companies.
+Other important information
+ If you have previously requested to be excluded from our mailings, your information will continue to be excluded.
