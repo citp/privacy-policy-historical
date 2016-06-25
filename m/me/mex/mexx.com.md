@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexx.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121222id_/http%3A//www.mexx.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexx.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625144614id_/http%3A//www.mexx.com/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Other - Mexx.com - Fashion, Inspiration, Stores and more
 
