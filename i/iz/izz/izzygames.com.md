@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izzygames.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129015657id_/http%3A//www.izzygames.com/imprint-t3765.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izzygames.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625115553id_/http%3A//www.izzygames.com/imprint-t3765.html) for the most accurate reproduction.*
 
 # Imprint - Game - Play Online For Free - Download
 
