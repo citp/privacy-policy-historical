@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icananswerthat.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231191220id_/http%3A//www.local.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icananswerthat.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625094411id_/http%3A//www.local.com/privacy) for the most accurate reproduction.*
 
 # Local Privacy Policy
 
