@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230123151id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625092128id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
 
 # The Krazy Coupon Lady Privacy Policy - The Krazy Coupon Lady
 
