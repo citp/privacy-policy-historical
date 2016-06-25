@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223014732id_/http%3A//www.dawsons.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625195955id_/http%3A//www.dawsons.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dawsons Music
 
 At Dawsons Music, we’re committed to safeguarding the privacy of our customers, and we will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
 
+This Privacy Policy, along with the Terms and Conditions, is also applicable to any Personal Information which is given by You to Us by post, fax, telephone, mobile messaging, face-to-face, social media or any other channel.
+
 ## Use of personal information
 
-We collect information through enquiry, registration and order forms. We process personal information collected via Dawsons.co.uk for the purposes of:
+We collect information through enquiry, registration, newsletter subscription, competition and order forms. We process personal information collected via Dawsons.co.uk for the purposes of:
 
   * providing the best possible service
   * processing any orders you may have made
