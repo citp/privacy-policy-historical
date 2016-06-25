@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025155102id_/http%3A//www.biztree.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envision-sbs.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625230830id_/http%3A//www.biztree.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Business-in-a-Box | Privacy Policy
+# Business-in-a-Box - Privacy Policy
 
-Protecting your privacy is important to us
+### Protecting your privacy is important to us
 
 Biztree is strongly committed to protecting your privacy and complying with your choices. Both personal and non-personal information collected is safeguarded according to the highest privacy and data protection standards adopted worldwide.
 
@@ -27,7 +27,7 @@ We use your personal information for the following purposes:
 
 ## 3\. Consent
 
-When you provide your personal information, you consent that it can be used for the above purposes and that Biztree is an authorized holder of such information. If you choose not to register or provide personal information, you can still use our website but you will not be able to receive additional services or access certain areas that require registration. In order to use Business-in-a-Box you must activate it during or after the installation process. When you activate the software, you are providing your consent to occasionally receive information from us. In each communication from us you will have the opportunity to unsubscribe from further communications; alternatively you may [contact us](https://web.archive.org/Company/Contact.aspx) to express your choices at the address provided at the bottom of this page.
+When you provide your personal information, you consent that it can be used for the above purposes and that Biztree is an authorized holder of such information. If you choose not to register or provide personal information, you can still use our website but you will not be able to receive additional services or access certain areas that require registration. In order to use Business-in-a-Box you must activate it during or after the installation process. When you activate the software, you are providing your consent to occasionally receive information from us. In each communication from us you will have the opportunity to unsubscribe from further communications; alternatively you may contact us to express your choices at the address provided at the bottom of this page.
 
 ## 4\. Access to Your Information
 
@@ -51,7 +51,7 @@ In very rare instances Biztree may disclose your personal information, without n
 
 ## 7\. How To Opt-Out
 
-We provide users with the opportunity to opt-out from receiving updates on our products, newsletters and other communications from us. You can opt-out by clicking on the link provided in our electronic mailings or by contacting us at the address at the bottom of this page. 
+We provide users with the opportunity to opt-out from receiving updates on our products, newsletters and other communications from us. You can opt-out by clicking on the link provided in our electronic mailings or by contacting us at the address at the bottom of this page.
 
 ## 8\. Does Biztree's Privacy Policy Apply to Linked Websites?
 
@@ -61,7 +61,7 @@ The Site contains links to web sites of third parties. Biztree is not responsibl
 
 Biztree uses third-party advertising companies to serve our ads on the Site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites, but will not collect any information which can personally identify you or can be linked to you. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here for the NAI gateway opt-out site](http://www.networkadvertising.org/optout_nonppii.asp).
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site.
 
 This site will also allow you to review the third-party advertising companies' privacy policies.
 
@@ -71,15 +71,15 @@ If we make changes to our Privacy Policy, we will post these changes here so tha
 
 ## 10\. Enforcement Of Policy
 
-If for some reason you believe Biztree has not adhered to these principles, please [notify us](https://web.archive.org/Company/Contact.aspx) and we will do our best to promptly make corrections.
+If for some reason you believe Biztree has not adhered to these principles, please notify us and we will do our best to promptly make corrections.
 
-## 11\. Questions of Comments
+## 11\. Questions or Comments
 
-If you have questions or comments about this privacy policy, please [email us](https://web.archive.org/Company/Contact.aspx) or write us at:
+If you have questions or comments about this privacy policy, please email us or write us at:
 
 Biztree Inc.  
 244 Fifth Avenue, Suite G291   
 New York, NY 10001-7604   
-USA 
+USA
 
-Last updated July 21, 2011
+Last updated Sept 30, 2013
