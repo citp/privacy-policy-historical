@@ -1,87 +1,80 @@
-> *The following text is extracted and transformed from the undergroundtrafficblueprints.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419211740id_/http%3A//www.undergroundtrafficblueprints.com/Members/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundtrafficblueprints.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-**UndergroundTrafficBlueprints.com WEBSITE PRIVACY POLICY**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to UndergroundTrafficBlueprints.com to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+**What information do we collect?**
 
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, UndergroundTrafficBlueprints.com follow different principles in accordance with worldwide practices for customer privacy and data protection.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone. We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**NOTICE  
-**  
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create your membership and/or subscribe to member updates or other in house mail. We use your Personal Information for four primary purposes:
+**What do we use your information for?**
 
-To make the site easier for you to use by not having to enter information more than once.   
-To help you quickly find software, services or information.   
-To help us create content most relevant to you.   
-To alert you to product upgrades, special offers, updated information and other new services from UndergroundTrafficBlueprints.com  
-**CONSENT  
-**  
-If you choose not to register or provide personal information, you cannot access the member area. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding UndergroundTrafficBlueprints.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from UndergroundTrafficBlueprints.com. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**ACCESS  
-**  
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time from your member profile. There, you can:
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-View and edit personal information you have already given us.   
-Tell us whether you want us to send you member updates or special offers.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**SECURITY  
-**
+• To process transactions
 
-UndergroundTrafficBlueprints.com  has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
+• To send periodic emails
 
-In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-UndergroundTrafficBlueprints.com strictly protect the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where UndergroundTrafficBlueprints.com, its subsidiaries, affiliates or agents are located.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
+**How do we protect your information?**
 
-**NOTICE CONCERNING CHILDREN AND TO PARENTS**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We adhere to the Children's Privacy Act. You must be 18 years of age to join or use UndergroundTrafficBlueprints.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission ([www.ftc.gov ](http://www.ftc.gov/)). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**ENFORCEMENT  
-**  
-If for some reason you believe UndergroundTrafficBlueprints.com
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-has not adhered to these principles, please notify us at: <http://membersupportsite.com/> , support @ UndergroundTrafficBlueprints.com.com or by certified mail, return receipt requested, MemberSpeed, Inc 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States, Telephone 612-590-1467 begin_of_the_skype_highlighting              612-590-1467      end_of_the_skype_highlighting and Facsimile 320-396-0046. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+**Do we use cookies?**
 
-**ELECTRONIC PRODUCT REGISTRATION**
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can click on Update Profile, and edit any of the Personal Information in your profile. If you haven't already created a membership, we will ask you to do so. This ensures that only you can access your information.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**CUSTOMER PROFILES**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile.
+**Do we disclose any information to outside parties?**
 
-When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plugin modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**WHAT WE DO WITH THE INFORMATION YOU SHARE**
+**Online Privacy Policy Only**
 
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, our 3rd party payment processors such as paypal and 2checkout will ask for your credit card number and billing address. They use this information only to bill you for the product(s) you order at that time. 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-We occasionally hire other companies to provide limited services on our behalf, including programming, answering customer questions about products or services, sending email and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+**Terms and Conditions**
 
-**CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION**
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-Except as otherwise provided in this Privacy Policy, UndergroundTrafficBlueprints.com will not share your personal information with any third parties without your consent. 
+**Your Consent**
 
-UndergroundTrafficBlueprints.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on UndergroundTrafficBlueprints.com; (b) protect and defend the rights or property of UndergroundTrafficBlueprints.com and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+By using our site, you consent to our web site privacy policy. 
 
-If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
+**Changes to our Privacy Policy**
 
-The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make email services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable User to communicate with others (each a "Communication Service" and collectively "Communication Services") available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-**UPDATES AND CHANGES TO PRIVACY POLICY**
+This policy was last modified on 1/10/2012 
 
-We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
