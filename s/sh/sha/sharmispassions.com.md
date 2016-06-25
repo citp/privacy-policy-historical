@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharmispassions.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185900id_/http%3A//www.sharmispassions.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharmispassions.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625155409id_/http%3A//www.sharmispassions.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Sharmis Passions: Privacy Policy
 
