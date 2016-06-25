@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingregisterevolution.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130074853id_/http%3A//www.brnetwork.com/collateral/BR_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingregisterevolution.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625181726id_/http%3A//www.brnetwork.com/collateral/BR_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # THE BR NETWORK PRIVACY POLICY ("PRIVACY POLICY")
 
@@ -52,11 +52,11 @@ We may disclose Your Personal Data to third parties:
           Data to the prospective seller or buyer of such business or assets.
      •    If BR Network Limited or substantially all of its assets are acquired by a third party, in which case
           personal data held by it about its customers will be one of the transferred assets.
-     • If We are under a duty to disclose or share Your Personal Data in order to comply with any legal
+
+
+      •   If We are under a duty to disclose or share Your Personal Data in order to comply with any legal
           obligation, or in order to enforce or apply any of the terms of our User Terms and our Conditions or
           Conditions for the Supply and other agreements; or to protect the rights, property, or safety of Ours, our
-
-
           customers, or others. This includes exchanging information with other companies and organisations for
           the purposes of fraud protection and credit risk reduction.
 	  
@@ -107,12 +107,13 @@ Your BR Network User registration has been closed.
 BR Network recommends that You review this Privacy Statement periodically as BR Network may update it from
 time to time with the aim of ensuring that You are fully informed of Our use of Your Personal Data.
 BR Network Limited
-3rd Floor
-North Wing
-Kent House
-Romney Place
+2nd Floor
+Whatman House
+St Leonards Road
+Allington
 Maidstone
-ME15 6LH
+Kent.
+ME16 0LS
 Tel: 01622 662668
 Fax: 01622 609409
 	  
