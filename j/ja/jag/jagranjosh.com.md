@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052945id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625210454id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MMI Online Ltd
+# Privacy Center- Jagranjosh.com Privacy Policy
 
 MMI Online ltd., (MMI) is a Jagran Prakashan ltd. venture.. MMI manages the Online Properties of the ‘Dainik Jagran Group' including [**www.jagranjosh.com**](http://www.jagranjosh.com/ "www.jagranjosh.com"), [**www.jagran.com**](http://www.jagran.com/ "www.jagran.com"), **[www.onlymyhealth.com](http://www.onlymyhealth.com/ "www.onlymyhealth.com") ** and few others.
 
 MMI respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users MMI offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about MMI. The information about the user as collected by MMI is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
-To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. 
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) phone number, c) email address, d) sex, e) age, f) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. 
 
 To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
