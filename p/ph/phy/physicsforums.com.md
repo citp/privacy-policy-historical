@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219054843id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071820id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
 
 # Physics Forums Privacy Policy | Physics Forums - The Fusion of Science and Community
 
@@ -64,7 +64,7 @@ Last edited: Feb 14, 2015
   
 
 
-     Similar discussions for: Physics Forums Privacy Policy
+     **Similar Discussions:** Physics Forums Privacy Policy
 
   1.   2.   3.   4.   5. 
 
