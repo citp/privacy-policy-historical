@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the tuzara.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531084705id_/http%3A//tuzara.com/ppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuzara.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Tuzara.com :: Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-Effective as of May 15, 2003  
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
+**What information do we collect?**
 
-Important!  
-[ Click Here](http://www.ftc.gov/bcp/conline/pubs/alerts/privtipsalrt.htm) For important information about safe browsing on the Internet
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Tuzara takes your privacy seriously. Please read the following to learn more about our privacy policy. We use the information we collect about you to process orders and to personalize your experience at our website. This privacy statement explains how we gather information and how we protect your privacy. The Tuzara Interactive Social Exchange is a private adult (18 and over) interactive entertainment community that enables its members to interact via integrated media and live events. Tuzara was founded to create an interactive network of interesting and active young professionals who enjoy socializing at live events and for whom the Internet is their primary entertainment, media and information resource. Tuzara, LLC ("TUZARA") believes that communities can only truly be built through interaction and participation among members based on trust, privacy and freedom of expression. In order to do this, we must ask for certain personal information. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We make every effort to ensure that your information is secure on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.   
-This policy does not apply to the practices of companies that Tuzara does not own or control, or to people that Tuzara does not employ or manage. 
+**What do we use your information for?**
 
-**Except where you are expressly informed otherwise or as described immediately below, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card or check transaction unless required by law or for the protection of your membership.
+Any of the information we collect from you may be used in one of the following ways: 
 
-The Information We Gather
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**  
-To accomplish our goal of creating an interactive entertainment and networking community, we must gather personal information, which may or may not include: customer-specified Tuzara..com username, gender, age, ethnic background, appearance, religion, income range, occupation, preference/lifestyle information and general geographic location. Much of this information is optional, and meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, etc. Some information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: email address, first name, last name, birth date, credit card number or checking account information for payment, a user-specified password, mailing address, Zip Code/Postal Code and telephone number. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**Ordering Online.** When you order, we need to know your name, email address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Promotions, Online Surveys & Announcements.** If you decide to participate in an online survey, subscribe to an email list, enter a contest or use one of our other promotional features, we may ask for your name, address, email address and other pertinent information to administer the contest, tabulate survey results or add you to subscriber lists. Contact and other information collected for contests will be used to notify the winners and award prizes.
+• To process transactions
 
-**Browsing.** We may use "cookies" to help us process your order and to customize information that we may present to you. A cookie is a small text file that does not personally identify users, although it does identify a user's computer. Cookies do not pose a threat to your computer, and they do not contain viruses. Most Web browsers automatically accept cookies, but you can change this feature in your browser. Once the user closes their browser, the cookie simply terminates. If a user rejects a cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas on our site. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site or for advertising tracking purposes. In addition, cookies may be used on our site to allow enhanced capabilities such as chat. We do not and will not use cookies to collect private information from any user. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Some information supplied by the user is intended to be viewed by visitors (e.g. information contained in public profiles, public and private Showcases, etc.) to the site. This information cannot be used to identify a specific member by name, address, etc.
+• To send periodic emails
 
-**Tuzara.com Affiliate Partners.** The Affiliate Partner program is a vehicle for other activity, entertainment and lifestyle sites, organizations and professionals to link to the Tuzara.com site. Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Tuzara..com and the Affiliate Partner. Affiliate Partners may not view or access private information on Tuzara.com subscribers.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**Aggregate.** This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site.   
-Communicating with Tuzara. We primarily use Email addresses submitted by members to verify enrollment and when forwarding event announcements and responses to personal advertisements. Respondees' email addresses are not disclosed to the responder. We may also use a user's email address to send news regarding our site, but the user may choose not to receive email of this type by emailing [support@tuzara.com](mailto:support@tuzara.com) . Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Tuzara.com. All private information can be updated or deleted by the user at any time. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**Links.** This site contains links to other websites. Please be aware that Tuzara..com is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Correcting/Updating or Removing Information.** Tuzara.com gives users several options for modifying or removing their information from our database please visit your "My Tuzara" page or email [ support@tuzara.com](mailto:support@tuzara.com) . 
+**How do we protect your information?**
 
-**Security.** Tuzara.com takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-When our registration/order process asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with SSL encryption software. If you have any questions about the security at our website, please email [support@tuzara.com](mailto:support@tuzara.com) . 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**Email Choice/Opt-out.** Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our newsletter or promotional materials from our partners or affiliates may opt-out of receiving these communications by following the instructions contained in the email. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Information Sharing and Disclosure.  **  
-Tuzara does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+**Do we use cookies?**
 
-We provide the information to trusted partners who work on behalf of or with Tuzara under confidentiality agreements. These companies may use your personal information to help Tuzara communicate with you about offers from Tuzara and our marketing partners. However, these companies do not have any independent right to share this information. 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Tuzara's terms of use, or as otherwise required by law. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**Prospective Member Information.** Tuzara.com also collects prospect information from our users. Our users may provide another person's information, such as their friend's e-mail address, in order to send them content or offerings from Tuzara.com.. The prospect's information is used for the purpose for which it was submitted. Prospective members may opt-out of receiving future mailings; see the choice/opt-out section below. 
+**Do we disclose any information to outside parties?**
 
-**Your Consent.** By using Tuzara.com, you consent to the collection, use, and storage of your personal and non-personal information as described above. You also authorize the export of personal information and its storage and use as specified above when you provide such information to us. This policy and our legal obligations are subject to the laws of California and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of California. 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-Whenever you voluntarily disclose personal information on forums, through email, or in chat areas, that information can be collected and used by others. Always be smart about the information you provide online.
+**Online Privacy Policy Only**
 
-**Changes to this Privacy Policy.** We may amend our Privacy Policy, but if we decide to change our Privacy Policy, we will post those changes on this page, so you can always be aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes will only apply to information collected after the change is posted.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Tuzara, LLC.  
-Customer Care  
-6114 La Salle Ave., Suite 404  
-Oakland, CA 94611  
-(866) 488-9272  
-[support@tuzara.com](mailto:support@tuzara.com)  Copyright © 2003 by Tuzara.com  
-All rights reserved. Do not duplicate or redistribute in any form.
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
