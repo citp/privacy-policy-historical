@@ -1,179 +1,266 @@
-> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223135123id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625131155id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
-| 
+## Introduction
 
-### Updated: 28 November 2013  
-  
----|---  
-  
-This notice explains how we will process your personal information
+### What this policy is for
 
-  
+This Policy explains how we collect, use and disclose information about you. By using your information, we can provide the product or service you’ve asked for. The use of your information helps us understand what your needs and interests are, provide personalised content and match the most relevant adverts and services for you.
 
+### Your consent
 
-## Why we collect your data?
+By completing our registration forms (for example through our websites or mobile applications ("apps"), or by the continued use of our services), you consent to the use of your personal information in accordance with this Policy. This includes any sensitive personal information that you may provide, such as details of any medical conditions that you may mention in a forum post or in an email to us in relation to a campaign.
 
-By collecting your data, it allows us to understand what your needs and wants are, provide personalised content and match the most relevant adverts and services for you. It also allows us to provide targeted offers and services you may be interested to hear about.
+### Who we are
 
-## Who we are?
+News Corp UK & Ireland Ltd (“News UK”), 1 London Bridge Street, London, SE1 9GF is the holding company for several companies who are its wholly owned subsidiary (together, News UK and its subsidiaries shall be called the “Group”). Each company will collect, use and disclose personal information in line with this Policy. A company that decides how it uses personal information is called a Data Controller.
 
-News Corp UK & Ireland Ltd is the holding company for several companies. Each individual company will decide on how to process personal information, but always in line with this policy. A company that decides on what and how to process personal information is called a Data Controller.
+When you provide personal information to The Sun, The Sun on Sunday, The Irish Sun, The Scottish Sun, The Irish Sun on Sunday, The Scottish Sun on Sunday and other associated websites, the data controller is News Group Newspapers Limited.
 
-When you provide personal information to The Sun the data controller is News Group Newspapers Limited.
+When you provide personal information to The Times, The Sunday Times and The Sunday Times Travel Magazine and other associated websites, the data controller is Times Newspapers Limited.
 
-When you provide personal information to The Times, The Sunday Times and The Sunday Times Travel Magazine the data controller is Times Newspapers Limited.
+When you provide personal information to The Times Literary Supplement, the data controller is The Times Literary Supplements Limited.
 
-When you provide personal information to The Times Literary Supplement the data controller is The Times Literary Supplement Limited.
+When you provide personal information to [milkround.com](http://www.milkround.com/), [secondpost.com](http://www.secondpost.com/), [fsmilkround.com](http://www.fsmilkround.com/), [graduatecareer.com](http://www.graduatecareer.com/), [milkroundonline.com](http://www.milkroundonline.com/) or [milkroundats.com ](http://www.milkroundats.com/)(Milkround Online Network), the data controller is Milkround Online Limited.
 
-When you provide personal information to milkround.com, secondpost.com, fsmilkround.com, graduatecareer.com, milkroundonline.com or milkroundats.com (the "Milkround Online Network") the data controller is Milkround Online Limited.
+When you provide personal information to The Sunday Times Driving, the data controller is News UK Automotive Limited.
 
-When you provide personal information to The Sunday Times Driving.co.uk the data controller is Sunday Times Driving Limited.
+When you provide personal information to [www.mynipp.co.uk](http://www.mynipp.co.uk/), the data controller is News International Pension Trustees Limited.
 
-When you provide personal information to mynipp.co.uk the data controller is News International Pension Trustees Limited.
+When you provide personal information to [www.news.co.uk](http://www.news.co.uk/), the data controller is News UK and Ireland Limited. 
 
-News Group Newspapers Limited, Times Newspapers Limited, The Times Literary Supplement Limited, Milkround Online Limited, Sunday Times Driving Limited and News International Pension Trustees Limited are part of the News Corp UK & Ireland Limited group of companies whose registered address is 1 London Bridge Street, London, SE1 9GF.
+When you provide personal information to The Sun's Dream Team Fantasy Football and other associated websites, the data controller is News Promotions Limited.
 
-If in the event that we sell our business, customer information may be one of the transferred business assets. If this happens, your information will still be subject to this policy.
+When you provide personal information to News UK & Ireland Direct Limited, the data controller is News UK and Ireland Direct Limited.
 
-## Cookies and IP Addresses
+When you provide personal information to News UK & Ireland Trading Limited, the data controller is News UK and Ireland Trading Limited.
 
-When you visit one of our websites, we may send you a cookie. A cookie is a small file which is placed on your computer or device.
+When you provide personal information to News Solutions Limited, the data controller is News Solutions Limited.
 
-1\. Essential Cookies These cookies are essential for the running of our websites. Without the use of these cookies parts of our websites would not function. For example, The Times paywall uses cookies to help us identify which of our readers have a subscription in order to access paid for content held on the website.
+## Collection of information
 
-2\. Analytical Performance Cookies We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance. For example, we use performance cookies on The Sun's website to provide the most popular news articles further up the page of the website.
+### Registration, forums, apps and your dealings with us
 
-3\. Functional Cookies Functional cookies are used to remember your preferences on our websites. This can be anything from remembering your city in a weather forecast or saving your username.
+We collect information about you when you provide it to us. For example, when you fill out our online forms, subscribe to one of our titles, respond to one of our promotions, enquire about our products and services or participate in a reader forum (which could be online through our websites or our apps), by telephone or in person, or on paper. If you telephone us or if we call you, the call may be recorded for quality, training and management purposes. We may also record customer enquiries via online chat for the same purposes.
 
-4\. Behavioural Advertising Cookies/Third Party Cookies We, and our advertisers/sponsors, may use cookies to provide tailored advertising to you which we believe are relevant to you. Online behavioural advertising is a way of providing advertisements on the websites you visit and making them more relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.
+### Information from devices
 
-Behavioural advertising is based upon your web browsing activity over a period of time - so it's different to advertising you may see when you're looking for something online using a search engine (e.g. Google) or on the website you may be visiting at a particular time. As an example, you may be doing research in order to buy a bicycle and read a number of different articles on a number of different websites. If a bicycle manufacturer was part of an advertising network, they may think that you are interested in buying a bicycle and serve you with one of their adverts for one of their bicycles. It is possible that from reading these articles elsewhere, you would see this advert on one of our or someone else's websites. We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors. We may also track IP addresses. 
+We also collect information indirectly from you, from the device you may be using when you interact with one of our websites or use our apps. This can include your geographic location, which for example may be required to provide services to you that have copyright restrictions. We may also collect information from cookies placed on your computer or your device. See our Cookie Policy for more information about our use of cookies.
 
-## How to control the use of cookies
+### Social login
 
-You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. The browser you use to surf the web not only allows you to see the cookies that you have got but also allows you to control their use. You can control them by allowing them, deleting them individually or deleting all of them. You can also set your browser to not accept cookies altogether. If this option is selected, you should be aware that many websites will not function properly or at all. It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. This gives you control over what is set on your device, however has the drawback of slowing down your browsing experience.
+If you log in to our websites or online services through a third party site, such as Facebook, that site may pass information to us, such as, user ID, name associated with the ID, email address and location, plus other information permitted under the privacy policy for that website. Our websites may also return information about you to that social networking site regarding your login. 
 
-There are different levels of control too. You are able to prevent just third party cookies being deployed, effectively opting out of behavioural advertising, and some even allow you to block specific companies you do not wish to deploy a cookie, instead of selecting all companies. 
+### Posts, comments and interaction 
 
-In order to manage your cookies, please follow the instructions provided by your browser supplier for your PC or device.
+When readers enter into a conversation with any of our titles, for example through the use of polls, comments, text messages, email, phone, radio or letters we reserve the right to display this content indefinitely in any relevant context subject to our editorial judgement. This may be anonymised in the case of testimonials or customer service conversations.
 
-## How can I prevent Online Behavioural Advertising?
+### Public information and posts
 
-Further to using your browser to controlling the use of cookies, there are also other ways that you can opt out of Online Behavioural Advertising.
+Any information about yourself or others that you submit on social media sites, including chat rooms, blogs and forums, will be viewed by other people. As such, this personal data may be viewed, collected and used by third parties, including search engines, over which we have no control. We are not responsible for either the information you submit/post or otherwise make available in such public areas or any use that may be made of such information by any third party.
 
-The "Your Online Choices" page provided by the Internet [Advertising Bureau (IAB)](http://www.youronlinechoices.com/uk/your-ad-choices), provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the IAB.
+### Other sources
 
-Our behavioural advertising partners include Google/Doubleclick and Criteo, and you can view their privacy policies and opt out on "Your Online Choices".
+We may also obtain information about you from other companies that have your permission to share information about you, as well as from other online and offline sources. We may combine this information with information we collect directly or indirectly from you.
 
-## Flash Cookies
+### Information about other people
 
-When you use one of our websites that uses Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your browsing experience.
+By giving us information about another person, you confirm that they have appointed you to act for them, for you to provide us with their information, including sensitive personal data, and to the transfer of their information abroad and to receive on their behalf any data protection notices.
 
-Flash Cookies are stored on your computer in a similar way to standard cookies, except they are stored in a different location. Due to this, it is not possible to block or manage Flash Cookies directly from your browser.
+### Deliver services, improve experience and personalisation
 
-In order to manage or delete Flash Cookies, please visit Adobe's website, which provides full information, by [clicking here](http://kb2.adobe.com/cps/526/52697ee8.html).
+We will use your information to provide you with the requested products and services, to provide a greater personalised experience and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes. We may use your information to monitor and improve and protect our products, content, services and websites, both online and offline. We may also provide you with help and support where we believe it is required. For example, we may contact you where a checkout journey is not completed, if you have provided your information.
 
-## Useful information about Cookies
+The content on our websites and in our communications with you may be adjusted depending on what we know about the content, products and services that you may like. This means we can highlight content and articles that we believe will be of interest to you. We provide personalisation by using cookies, IP addresses, web beacons, URL tracking and app settings. See our Cookie Policy for more information about how we use these.
 
-Further information about cookies can be found on the following websites:
+### Market research and analytics
 
-[All About Cookies](http://www.allaboutcookies.org/)  
-[Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices)  
-[Microsoft Cookies Guide](http://www.microsoft.com/info/cookies.mspx)
+We may use your information to conduct market research in order to improve the services we offer and to develop new products and services. 
 
-If you have any questions about the use of cookies on our websites, please email: 
+### Deliver relevant advertising
 
-[info@news.co.uk](mailto:info@newsco.uk)
+We use targeted advertising to provide online advertisements that we believe are more relevant to your interests. We deliver online adverts based on the way you interact with us on our websites, mobile apps and tablet editions of our products and services. We may use information obtained through your participation in competitions, offers and events provided both by us and in cooperation with our commercial partners to deliver more relevant online adverts. We may also use your device’s location to deliver relevant online advertising. The information is aggregated and advertising based on your interests and profile is then displayed, when you visit websites or apps that use the same advertising networks. For more information please see our Cookie Policy.
 
-  
+### Third party advertising 
 
+Advertising content may be adjusted depending on personal information. In some instances, this targeted advertising may be created by third parties and the information will be collected and held by these third parties outside of our control. We accept no responsibility for the content of advertising material, including any error, omission or inaccuracy contained within it. 
 
-## Web Beacons and URL tracking
+### Relevant communications
 
-As part of our email communications and website analyses, we may use web beacons and track URLs.
+Unless you have told us otherwise, we may use your information to send you newsletters, bulletins and other information about your chosen services (for example, your Sun+ or Times+ subscription or one of our campaigns).
 
-Web beacons are electronic files that count users who access a website or page and can also allow us to see if a cookie has been activated. Web beacons on web pages or email communications allow us to see how successful an article may be or that an email message was successfully delivered and read.
+### Direct marketing
 
-Tracked URLs will count the amount of clicks on a web page. This allows us to edit the site according to the popularity of the articles you read.
+This may include communications by post, telephone, email and messages to your mobile phone and through social media (such as Facebook and Twitter) about us and our business partners’ products and services, events and offers, including for a reasonable time after you may have ceased a subscription or service with us.
 
-You can't decline web beacons. However by preventing cookies being used on your computer, you can prevent web beacons from tracking your activity. For information about managing your cookie options, please [click here.](http://www.allaboutcookies.org/)
+### Sharing within News UK and News Corp affiliates
 
-Please be aware that if you disable cookies, many services on our websites will not be available to you, particularly those that contain personalised content as outlined in the section Personalised content.
+Where you consent, we may share your information:
 
-## Device Identifiers
+  1. within the Group (as defined in this policy) for use in accordance with this Policy; and 
+  2. with News Corp and any entity who is a [ News Corp affiliate ](http://newscorp.com/about/our-businesses/) (listed in this hyperlink), who may be outside of the UK, for use in accordance with this Policy. 
 
-Our Apps require access to the following services on your mobile device: UDID, MAC address, or other applicable device identifier. We send this information to our servers for the purpose of validating free trials. We do not share this information with any 3rd parties.
 
-## Personalised content
 
-The content on our websites and in our email communications may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you. Advertising content may be adjusted depending on personal information. In some instances, this targeted advertising may be created by third parties and the information will be collected and held by these third parties outside the control of News.
+### Sharing with third parties
 
-We provide personalisation by using cookies, IP addresses, web beacons and URL tracking. A full explanation of how this works and how you can prevent the use of such activities, please see our **Cookies, and IP Address section**.
+We may pass your information to suppliers we use to provide services that involve using data on our behalf, for example for delivery services or market research agencies. We may also use suppliers to collect your information on our behalf but the use of your information will still be subject to this Policy. 
 
-## Consent
+If we provide to you a service that is dependent on age or residency and we have an obligation to verify this information (for example, The Sun Dream Team, regulated by the Gambling Commission) then we may pass your details to a third party to carry out the verification for us.
 
-By completing our registration forms with personal information or by the continued use of our services, you are consenting to:
+We will only disclose your information to third party companies for their purposes, including marketing, when we have your permission to do so. For example, if we run a competition, the partner providing the prize may want to send entrants information about their products.
 
-a) our processing your sensitive personal data such as health data for the above purposes; and  
-b) the transfer and processing of your information in countries outside of the European Economic Area which may not provide the same level of data protection as the UK. If we do make such a transfer or if your personal information will be processed outside of the European Economic Area, we will put a contract in place to ensure your information is protected or where applicable covered by the US "Safe Harbor Program". 
+### To provide co-branded services and features
 
-## Marketing consent
+We may offer co-branded services or features, such as competitions or other promotions, together with a third party and may share the information you provide with that third party. These co-branded services may be hosted by us or by the third party. The third party’s use of your information will be governed by their privacy policy, which you should always read.
 
-If you are an existing customer we will keep you informed of product developments that relate to these products and services.
+### Linked services
 
-When you give us your personal information, we will give you an option to receive additional ongoing marketing communications from us which may include offers and news of alternative products and services.
+Our services may be linked to websites operated by third party companies, and may carry advertisements or offer content, functionality, games, newsletters, contests, sweepstakes, or applications developed and maintained by unaffiliated companies. We are not responsible for the privacy practices of unaffiliated companies, and once you leave the services or click an advertisement you should check the applicable privacy policy of the other service.
 
-We do not sell our customer data to other companies to use for their marketing purposes. All of our marketing communications will have a method to unsubscribe. You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by one of the methods explained at the end of this notice.
+### Allowing social sharing functionality
 
-Please note: Many products or services include personalised communications as part of their package; users will be given the opportunity to control the receipt wherever possible. In the event that the product or service consists entirely of communication (e.g editorial bulletins) this may take the form of unsubscribing from the specific communication.
+By logging in with or connecting your account with social media, you are permitting us to share information we collect from and about you with that social media provider, other users and your friends, and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your account, and do not participate in social sharing on our websites or apps.
 
-If you purchase or redeem an offer with us, we may need to disclose your personal information to our partners, suppliers and subcontractors in order to process your order, fulfil deliveries, complete billing and invoicing transactions and to inform delivery and logistics planning.
+### Disclosures required by law
 
-We may supply personal data to trusted suppliers for analysis purposes. This will be done under agreement with us and will be in line with this policy.
+Your personal information will be disclosed where we are obliged by law to do so. We may also disclose your personal information where we are allowed by law to protect or enforce our rights or the rights of others and for the detection and prevention of crimes, such as fraud. 
 
-We will work with other companies for promotional purposes where readers may be asked to opt in for future contact from that specific partner. With your permission we will transfer that customer data to the third party at which point it will fall under their own privacy and security controls. Members of the News Corp UK & Ireland Limited group of companies cannot be held liable for subsequent issues arising from third party usage of transferred data. 
+### Acceptable use of services
 
-## Disclosure
+If you post or send offensive or objectionable content anywhere on or to any of our websites or apps, or otherwise engage in any disruptive behaviour on any of our websites or apps, we may use the information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour.
 
-Your personal information will be disclosed where we are obliged or permitted by law to do so. If you post or send offensive or objectionable content anywhere on or to any of our websites or otherwise engage in any disruptive behaviour on any of our websites, we can use the information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour.
+### Sale of our business
 
-## Payment and credit checks
+If we sell part or all of our business, customer information may be one of the transferred business assets. If this happens, your information may be disclosed to any successors of our business for them to use for the purposes set out in this Policy. 
 
-Customer data will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct Debit information may be retained for ease of renewal of services.
+### Payment and credit checks
 
-If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
+Customer information will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct debit information may be retained for ease of renewal of services.
 
-## Updating or deleting your personal information profile
+If you apply for credit, then, in order to help us to make credit decisions about you, prevent fraud, check your identity and prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-When you register online with a News UK group company, you can see, review and change your personal information by logging onto the website and going to "My Profile" or equivalent. Please ensure you update your personal information if it changes or is inaccurate. Should you request that your account is closed and your personal information removed, please be assured that this will be done as soon as is reasonably possible. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed or to resolve disputes.
+## Data Transfers
 
-Personal, transactional and behavioural information will be stored against your personal profile. If you do not use your account or interact with us, then your profile will be held for three years and a further two years in an anonymised form for analysis purposes. It will then be securely deleted.
+When you complete our registration forms or use our services, we may transfer your information to processors outside the European Economic Area but will do so with appropriate measures and controls in place to protect that information in accordance with applicable data protection legislation.
 
-When readers enter into a conversation with any of our titles, for example through the use of polls, comments, text messages, email, phone, radio or letters we reserve the right to display this content indefinitely in any relevant context subject to our editorial judgement. This will be anonymised in the case of testimonials or customer service conversations.
+When you give us information about another person, you confirm that they have appointed you to act for them and agreed to the transfer of their information abroad.
 
-Please remember that any information about yourself or your family that you submit in social media including chat rooms, blogs and forums will be viewed by other people. As such, this personal data may be viewed, collected and used by third parties over whom we have no control. We are not responsible for either the information you submit/post or otherwise make available in such public areas or any use that may be made of such information by any third party.
+## User Access and Control
 
-When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices.
+### Updating your information
 
-When you request to have your profile removed from further marketing offers from us, you will be added to a suppression list to ensure your request is complied with.
+Please ensure you update your personal information or tell us if it changes or is inaccurate. You can update your details, for example your email address, through the “My Account” or an equivalent section if you are a subscriber. You may also email our Member Services team at [info@news.co.uk ](mailto:info@news.co.uk)
 
-## Information Requests
+### Controlling direct marketing
 
-You have a right to ask for a copy of your personal information from any News Corp UK & Ireland Limited group company which may hold about you (for which we charge a small processing fee) and to ask us to correct any inaccuracies in your personal information (which is free). To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls.
+You can change your mind about receiving direct marketing from us by contacting us using the details below or by following the unsubscribe instructions in the communication.
 
-## Notification of changes
+### Controlling other communications
 
-From time to time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice, changes in our services or treatment of your personal information. We will always display clearly when the privacy policy was last amended on the website.
+You can control communications such as bulletins and other information about your chosen services (for example, your Sun+ or Times+ subscription or one of our campaigns) by following the unsubscribe instructions in the communication. You may still receive other communications that are relevant to your chosen services but do not relate to that specific type of communication. Where this is the case, you will be able to unsubscribe from these communications in the same way. 
 
-## How to contact us
+### Requesting copies of your personal information
 
-**By email:**| [info@news.co.uk](mailto:info@newsint.co.uk)  
----|---  
-**By telephone:**|  020 7860 1133 (24 hours)  
-**By mail:**|  Data Protection Enquiries,  
-The Customer Liaison Department,   
-News UK,   
-1 London Bridge Street, London, SE1 9GF  
+You may request a copy of your personal information from any News UK company which may hold about you (for which we may charge a small processing fee). You can also ask us to correct any inaccuracies in your personal information (which is free).
 
+### Retention of personal information
+
+We will retain your information for as long as necessary for the uses set out in this Policy. If you ask us to delete your information before that time, we may not be able to do so, due to technical, legal, regulatory and contractual constraints. For example, we would need to retain your name and contact details for suppression purposes if you do not want to receive direct marketing from us. 
+
+If you ask for your account to be closed, we will do this as soon as is reasonably possible subject to any applicable terms and conditions relating to the account. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed or to resolve disputes.
+
+If we withdraw a product or service, such as an online forum, we may either archive or delete the information you have provided to it.
+
+## Introduction
+
+This Policy covers our use of cookies, IP addresses, and other technologies. It applies to all companies identified in the News UK Privacy Policy.
+
+## What are Cookies?
+
+Cookies and other online tracking technologies are small bits of data or code that are used to identify your devices when you use and interact with our websites and other services. They are often used for remembering your preferences, to identify popular news stories, and remember you’re logged in, allowing you to comment on stories.
+
+## What Cookies do we use and how do we use them?
+
+### Essential cookies and similar technologies
+
+These are vital for the running of our services on our websites and apps. Without the use of these cookies parts of our websites would not function. For example, Times+ uses cookies to help us identify which of our readers have a subscription in order to access content they are entitled to on the website. We use these cookies to tell if you’re logged in to your account, which allows extra functionality, such as making comments on stories.
+
+### Analytics cookies and similar technologies
+
+These collect information about your use of our websites and apps, and enable us to improve the way it works. For example, analytics cookies show us which are the most frequently visited pages on The Sun or The Times websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page; identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally these cookies allow us to see overall patterns of usage at an aggregated level.
+
+### Functional/preference cookies and similar technologies
+
+These cookies collect information about your choices and preferences, and allow us to remember things like language, your username (so you can log in faster), text size, and location, so we can show you relevant content to where you are. They allow us to customize the services you have accessed. We also use these cookies to provide you with services such as video clips. 
+
+### Tracking, advertising cookies and similar technologies
+
+We use these types of technologies to provide advertisements that are more relevant to your interests. This can be done by delivering online adverts based your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Advertising based on what you have been looking at is then displayed to you when you visit websites who use the same advertising networks. 
+
+For example: You may be doing online research in order to buy a bicycle, and read a number of articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling. 
+
+We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps. 
+
+To help us deliver relevant advertising using cookies, we use Google Double Click. You can find out more about Google Double [ Click here.](http://www.google.com/intl/bg/doubleclick/)
+
+### Web beacons
+
+These are bits of data that count the number of users who access a website or webpage and can also allow us to see if a cookie has been activated. Web beacons used on web pages or in emails allow us to see how successful an article has been or that an email message was successfully delivered and read in a marketing campaign. Web beacons are also used to verify any clicks through to links or advertisements contained in emails. We may use this information to help us identify which emails are more interesting to you and to inform advertisers how many customers have clicked on their adverts (this information is aggregated and does not identify you individually). 
+
+### Flash cookies 
+
+We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as Flash cookies) are used to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser. 
+
+### Tracking URLs
+
+Tracking URLs are a special web link that allows us to measure when a link is clicked on. They are used to help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
+
+### We also use cookies and similar technologies:
+
+When you access and interact with our services cookies may collect certain information about those visits. For example, in order to permit your connection to our websites, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, other software or hardware information, and your geographic location.
+
+### If you access our services from a mobile device 
+
+We may collect a unique device identifier assigned to that device, geo-location data, and other transactional information for that device. We may also use the unique identifier to validate free trials, for example.
+
+### Usage of services
+
+To collect, use and store information about your usage of our services, websites and apps, such as pages you have visited, content you have viewed, search queries you have run, and advertisements you have seen or interacted with. 
+
+### To provide relevant content
+
+The content on our websites and in our communications with you may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you. We provide personalisation by using cookies, IP addresses, web beacons, URL tracking and mobile app settings.
+
+## Third party advertisers
+
+We sell space on our websites to advertisers. The adverts they display on our websites will often contain cookies. Our advertisers may use cookies or similar technologies to provide you with advertisements that they believe are relevant. They may use browsing data obtained to restrict the number of times you see particular adverts (frequency capping). You may also see adverts from these advertisers on other websites you visit.
+
+Third parties that support our services by serving advertisements or providing other services, such as allowing you to share content or tracking aggregate service usage, may also use cookies and other technologies to collect information relevant to the provision of those services. 
+
+We do not control third-party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy. 
+
+To learn more about controlling cookies and similar technologies, please see the section below on managing cookies.
+
+## Mobile applications
+
+By downloading our apps, we will require access to the following services on your device: unique identifier (UDID), MAC address or other applicable device identifier and location. Other services may also be required in order for the apps to function. We may use this information to validate free trials. Our apps may also provide push notifications to your device, such as with Sun+ Goals and The Times’ Goals. You may control these through using the tools on your device, such as turning off push notification and location services.
+
+## Managing cookies
+
+Most modern browsers are set to accept cookies by default, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser.
+
+### Controlling OBA cookies
+
+The "Your Online Choices" website [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) provides more information about controlling cookies. It also provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance [http://www.youronlinechoices.com/uk/your-ad-choices.](http://www.youronlinechoices.com/uk/your-ad-choices)
+
+### Controlling Flash cookies
+
+You can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, at [http://www.adobe.com/devnet/flashplayer/articles/privacy.html.](http://www.adobe.com/devnet/flashplayer/articles/privacy.html)
+
+### Controlling web beacons
+
+You can prevent web beacons from tracking your activity, although you won’t be able to decline receiving them in emails. For information about managing your cookie options, please click here. [ http://www.allaboutcookies.org/. ](http://www.allaboutcookies.org/)
+
+Please note that by blocking any or all cookies you may not have access to certain features, content, or personalisation available on our websites, or apps. 
