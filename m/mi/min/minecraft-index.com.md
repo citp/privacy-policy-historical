@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-index.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503231635id_/http%3A//www.minecraft-index.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-index.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113715id_/http%3A//www.minecraft-index.com/privacy) for the most accurate reproduction.*
 
 # Minecraft Servers | MC Index | Privacy
 
