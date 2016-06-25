@@ -1,36 +1,80 @@
-> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927130816id_/http%3A//minekey.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy : Minekey
+# HugeDomains.com - Privacy Policy
 
-| 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Effective July 31st, 2008
+**What information do we collect?**
 
-By using the Minekey Application or Site you are consenting to our Processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information all of which will take place in the United States. If you reside outside the U.S., your personally identifiable information will be transferred to the U.S. and processed and stored there under U.S. privacy standards. By visiting our Application or Site and providing information to us, you consent to such transfer to and processing in the U.S. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [privacy@minekey.com](mailto:privacy@minekey.com). 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-#### Information Collection and Use
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-The Site may require some amount of personal information to maintain account information and communicate with users who have registered with Minekey. We also collect personally identifiable information to provide you with the Minekey service made available through the Site and Application, to communicate with you, and to manage your user account through which you can take advantage of the services made available through the Site, which include, without limitation, browsing the Site and Application and using the Service. If additional information is needed, we will amend this policy and post the changes on the Site. We may also notify you via email of the changes although we will use good sense and reasonable judgment when doing so. When you visit the Site or Application, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. Except in the instances described herein, we do not use this information to identify you personally. We use it to monitor use of the Site and the Minekey Service and for the Site's technical administration. 
+**What do we use your information for?**
 
-#### Cookies
+Any of the information we collect from you may be used in one of the following ways: 
 
-are removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Information Sharing and Disclosure the system information stores or who have a reasonable need to come in contact with and make use of such information for account purposes. Compliance with Laws and Law Enforcement. Minekey cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Minekey or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law. Business Transfers. If any or all of the assets of Minekey are acquired by, or if Minekey is acquired by or merged with another entity, we may share some or all of your information with this entity. Use of Aggregated Information. We may disclose aggregated information about the use of the Minekey application or Site to business partners, prospective investors, and others. Additionally, we may produce industry-standard traffic reports for assessing use of the Minekey Site or Application. We will use information only in the aggregate in order to monitor and improve Minekey. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-#### Security
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Minekey is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ industry standard administrative, physical and electronic measures designed to protect your information from unauthorized access. However, no Internet site can fully eliminate security risks. We will disclose any compromise of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-#### Links to Other Sites
+• To process transactions
 
-The Minekey Application or Site may contain links to other websites. The fact that Minekey links to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses the use and disclosure of information that we collect from you through this Site. Other sites, including other websites that may use Minekey services, follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-|   
----|---  
-|   quick links  
----  
-[followers](http://minekey.com/myopinion/followers)  
-[opinions](http://minekey.com/myopinion/list?acttype=rcvd)  
-[comments](http://minekey.com/myopinion/list?acttype=commentsonmyop)  
-[notes received](http://minekey.com/myopinion/notes)  
-[replies](http://minekey.com/myopinion/list?acttype=ronmycom)  
-[ratings](http://minekey.com/myopinion/rating?acttype=myratings)
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
