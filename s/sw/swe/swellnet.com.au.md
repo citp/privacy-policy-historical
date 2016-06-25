@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212412id_/http%3A//www.swellnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellnet.com.au privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625023229id_/http%3A//www.swellnet.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Swellnet
 
@@ -37,3 +37,5 @@ In some instances, advertisers will set cookies on our site. These cookies are n
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so.
 
 **This policy may be changed at any time at Swellnet's discretion.**
+
+[](https://web.archive.org/app)
