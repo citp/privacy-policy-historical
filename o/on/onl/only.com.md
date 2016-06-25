@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826010851id_/http%3A//only.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625031819id_/http%3A//only.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - read about privacy policy for BESTSELLER
+
+Please note that we will currently answer the phone in English, as we have very limited availability of Spanish language agents. Emails in Spanish will be replied to in Spanish.
+
+We apologize for any inconvenience this may cause you.
 
 ###### Collection of personal data
 
@@ -18,7 +22,7 @@ BESTSELLER HANDELS B.V. collects the personal data to be used for the BESTSELLER
 
 Your e-mail address is collected so that we can send you an order confirmation and inform you when your order has been shipped. Your name and phone number will be put on a label on the outside of the parcel with your order. This is done so that BESTSELLER HANDELS B.V. or our external shipping providers can contact you if there are any questions or problems during the shipping process, or in order to inform you that your order has arrived. 
 
-If you are a member of BESTSELLER’s customer club, BESTSELLER HANDELS B.V. may pass on and receive customer and membership information and information on purchased goods to and from BESTSELLER A/S in Denmark with the purpose of improving the shopping experience for BESTSELLER’s customers.
+If you are a member of BESTSELLER’s customer club, BESTSELLER HANDELS B.V. may pass on and receive customer and membership information and information on purchased goods to and from BESTSELLER A/S in Denmark with the purpose of improving the shopping experience for BESTSELLER’s customers and to improve and target the marketing we send to you.
 
 BESTSELLER HANDELS B.V. will process your personal data for marketing purposes subject to applicable laws, including legislation on obtaining consent for electronic marketing.
 
