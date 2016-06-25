@@ -1,66 +1,80 @@
-> *The following text is extracted and transformed from the eternyon.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324055622id_/http%3A//eternyon.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternyon.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Tech Products, LLC d/b/a Eternyon - Privacy Policy - Your Title Here
+# HugeDomains.com - Privacy Policy
 
-1. Tech Products, LLC d/b/a Eternyon is the only operator collecting or maintaining personal information through the http://eternyon.com website.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-2\. A member (any visitor or other person making use of the website) may contact   
-http://eternyon.com using the following information:
+**What information do we collect?**
 
-Tech Products, LLC d/b/a Eternyon  
-225 Park Avenue  
-Suite 1000  
-Worcester MA 01609  
-United States
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Email:  [contact@eternyon.com  
-](mailto:contact@eternyon.com)  
-Telephone: 001  
-Fax: 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-3\. Please review the Terms & Conditions of Usage.
+**What do we use your information for?**
 
- **Collection of Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-1\. The website actively collects information from its members such as first and last name, age, city and state, email address, gender, birth date, and information through signup forms, applications, voluntary surveys, sweepstakes, contests, purchases, and participation in public forums such as bulletin boards.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-2\. The site reserves the right to passively collect information related to site usage such as time spent on site, areas visited, and sites linked to and from. In the future, the site may collect additional information and may install cookies on members' hard drives.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-3\. The site allows members to make personal information available in public forums such as bulletin boards, to the extent the members choose to disclose such information.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-4\. If a member contacts any employee or affiliated person, a record of that correspondence may be kept.
+• To process transactions
 
-5\. The site is prohibited from conditioning a member's participation in an activity on the member's disclosing more personal information than is reasonably necessary to participate in such activity.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
- **Usage of Information**
+• To send periodic emails
 
-1\. Personal information is used for recordkeeping, site management, activities on the site, the fulfillment of requested transactions, and marketing only to members who have consented to such marketing.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-2\. Personal information collected from members is not disclosed to third parties, except companies with which the web site is affiliated by common ownership. The site may retain third parties to review certain personal information to advise it on demographic and marketing related issues, typically on an aggregated basis, and only after such third parties have agreed to maintain the confidentiality, security, and integrity of any personal information obtained.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
- **Minors (Children)**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-3\. A parent (or guardian) of a minor may consent to collection and use of that minor's personal information without consenting to the disclosure of that information to third parties.
+**How do we protect your information?**
 
-4\. Parents can review and have deleted the minor's personal information and/or can refuse to permit further collection or use of the minor's personal information, either of which will terminate the minor's membership on the site.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-5\. In either case, please send a letter by fax or mail to the contact address listed above:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-I do / do not consent (circle one) to the collection and use of my child's personal information by Tech Products, LLC d/b/a Eternyon, subject to the terms of the privacy policy printed above.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Date:| _____________________________________________  
----|---  
-Parent's Signature:  
-(or Legal Guardian)| _____________________________________________  
-Parent's Name (print):| _____________________________________________  
-Minor's Name (print):| _____________________________________________  
-Parent's e-mail:| _____________________________________________  
-  
-  
- **Tech Products, LLC d/b/a Eternyon  
-** 225 Park Avenue  
-Worcester MA 01609  
-United States 
+**Do we use cookies?**
 
-Email: contact@eternyon.com  
-Phone: 001
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
