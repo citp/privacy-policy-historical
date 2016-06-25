@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the revolutr.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625164126id_/http%3A//www.revolutr.com/privacy) for the most accurate reproduction.*
+
+# revolutr
+
+This privacy policy covers revolutr`s treatment of personal information that we collect while you are on the site and when you use the services 
+
+We use technologies like cookies, web beacons, to identify your computer or device so we can deliver a better experiences & recommendations. Our systems also log information like your browser, operating system and IP address. In serving you, we may use or store your precise geographic location; we do not use or share this data for any other purpose. We use information about you for various purposes to monitor and analyze trends. We hate spam as much as you do. Your e-mail address is never shared by us with any third party. Our service may automatically collect usage information, such as the numbers and frequently of visitors to our site and services and their components. revolutr may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. 
+
+We may allow third parties to provide analytics services to us. These entities may use cookies, web beacons and other technologies to collect information about your use of the Service, including your IP address, Posts, to help us understand how our services are used. They use this data solely on our behalf. We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email. 
