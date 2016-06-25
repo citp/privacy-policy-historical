@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 69jobs.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052750id_/http%3A//69jobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 69jobs.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625143942id_/http%3A//69jobs.com/privacy-policy) for the most accurate reproduction.*
 
 # 69Jobs | Privacy & Policies
 
@@ -25,4 +25,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If have any questions about our privacy policy or you need more information, please feel free to contact us through the contact form. 
+If have any questions about our privacy policy or you need more information, please feel free to [Contact Us.](https://web.archive.org/contact-us/)
