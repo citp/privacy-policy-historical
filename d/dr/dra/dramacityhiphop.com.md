@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222135512id_/http%3A//dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramacityhiphop.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625051321id_/http%3A//dramacityhiphop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
 Last modified July 1, 2011
 
-The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information.  By visiting dramacityhiphop.com collectively DCITY you agree to this Privacy Policy and to the Terms of Service (TOS) which is located [HERE](http://dramacityhiphop.com/videos/terms.php).
+The privacy of visitors to this site is very important to us. This Privacy Policy gives you information on what types of personal information we collect when you use this site, and our practices with respect to the use and disclose of such information.  By visiting dramacityhiphop.com collectively DCITY you agree to this Privacy Policy and to the Terms of Service (TOS) which is located [HERE](http://localhost/dramacityhiphop/videos/terms.php). 
 
 ## Information You Give Us:
 
 We receive and may store any personal information you enter on our Website or may give us in any other way. This information may include your name or email address, content you submit to the website,  
-and other information.
+and other information. 
 
 ## Information We Automatically Collect:
 
@@ -27,6 +27,4 @@ For information you give us, or information we automatically collect, certain re
 officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of DCITY or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
 
 DCITY also reserves the right to, but is not obligated to, refuse to disclose confidential sources or unpublished information we collect as part of our journalistic and/or newsgathering and reporting  
-under federal and/or state law.
-
-Post Views:  0
+under federal and/or state law. 
