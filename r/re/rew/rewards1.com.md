@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewards1.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126051321id_/http%3A//www.rewards1.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewards1.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625024241id_/http%3A//www.rewards1.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Rewards1.com - Your premier source for freebies!
 
@@ -34,6 +34,6 @@ R1 complies with the US Children's Online Privacy Protection Act of 1998 ("COPPA
 
 ## Questions or Concerns?
 
-[Contact Us](https://web.archive.org/web/20151126051321id_/http%3A//www.rewards1.com/contact-us.php). 
+[Contact Us](https://web.archive.org/web/20160625024241id_/http%3A//www.rewards1.com/contact-us.php). 
 
 This policy is subject to change at anytime, without notice.   This document was last revised on Aug 15, 2013
