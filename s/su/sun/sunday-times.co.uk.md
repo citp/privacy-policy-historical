@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunday-times.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626144135id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunday-times.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625131155id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
@@ -10,7 +10,7 @@ This Policy explains how we collect, use and disclose information about you. By 
 
 ### Your consent
 
-By completing our registration forms (for example through our websites or mobile applications (.apps.), or by the continued use of our services), you consent to the use of your personal information in accordance with this Policy. This includes any sensitive personal information that you may provide, such as details of any medical conditions that you may mention in a forum post or in an email to us in relation to a campaign.
+By completing our registration forms (for example through our websites or mobile applications ("apps"), or by the continued use of our services), you consent to the use of your personal information in accordance with this Policy. This includes any sensitive personal information that you may provide, such as details of any medical conditions that you may mention in a forum post or in an email to us in relation to a campaign.
 
 ### Who we are
 
@@ -22,7 +22,7 @@ When you provide personal information to The Times, The Sunday Times and The Sun
 
 When you provide personal information to The Times Literary Supplement, the data controller is The Times Literary Supplements Limited.
 
-When you provide personal information to milkround.com, secondpost.com, fsmilkround.com, graduatecareer.com, milkroundonline.com or milkroundats.com (Milkround Online Network), the data controller is Milkround Holdings Limited.
+When you provide personal information to [milkround.com](http://www.milkround.com/), [secondpost.com](http://www.secondpost.com/), [fsmilkround.com](http://www.fsmilkround.com/), [graduatecareer.com](http://www.graduatecareer.com/), [milkroundonline.com](http://www.milkroundonline.com/) or [milkroundats.com ](http://www.milkroundats.com/)(Milkround Online Network), the data controller is Milkround Online Limited.
 
 When you provide personal information to The Sunday Times Driving, the data controller is News UK Automotive Limited.
 
@@ -30,11 +30,19 @@ When you provide personal information to [www.mynipp.co.uk](http://www.mynipp.co
 
 When you provide personal information to [www.news.co.uk](http://www.news.co.uk/), the data controller is News UK and Ireland Limited. 
 
+When you provide personal information to The Sun's Dream Team Fantasy Football and other associated websites, the data controller is News Promotions Limited.
+
+When you provide personal information to News UK & Ireland Direct Limited, the data controller is News UK and Ireland Direct Limited.
+
+When you provide personal information to News UK & Ireland Trading Limited, the data controller is News UK and Ireland Trading Limited.
+
+When you provide personal information to News Solutions Limited, the data controller is News Solutions Limited.
+
 ## Collection of information
 
 ### Registration, forums, apps and your dealings with us
 
-We collect information about you when you provide it to us. For example, when you subscribe to one of our titles, respond to one of our promotions, enquire about our products and services or participate in a reader forum (which could be online through our websites or our apps), by telephone or in person, or on paper. If you telephone us or if we call you, the call may be recorded for quality, training and management purposes. We may also record customer enquiries via online chat for the same purposes.
+We collect information about you when you provide it to us. For example, when you fill out our online forms, subscribe to one of our titles, respond to one of our promotions, enquire about our products and services or participate in a reader forum (which could be online through our websites or our apps), by telephone or in person, or on paper. If you telephone us or if we call you, the call may be recorded for quality, training and management purposes. We may also record customer enquiries via online chat for the same purposes.
 
 ### Information from devices
 
@@ -62,7 +70,7 @@ By giving us information about another person, you confirm that they have appoin
 
 ### Deliver services, improve experience and personalisation
 
-We will use your information to provide you with the requested products and services, to provide a greater personalised experience and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes. We may use your information to monitor and improve and protect our products, content, services and websites, both online and offline and may provide you with support.
+We will use your information to provide you with the requested products and services, to provide a greater personalised experience and to manage our relationship with you, including allowing you to interact, comment, and participate in online games, contests and reward programmes. We may use your information to monitor and improve and protect our products, content, services and websites, both online and offline. We may also provide you with help and support where we believe it is required. For example, we may contact you where a checkout journey is not completed, if you have provided your information.
 
 The content on our websites and in our communications with you may be adjusted depending on what we know about the content, products and services that you may like. This means we can highlight content and articles that we believe will be of interest to you. We provide personalisation by using cookies, IP addresses, web beacons, URL tracking and app settings. See our Cookie Policy for more information about how we use these.
 
