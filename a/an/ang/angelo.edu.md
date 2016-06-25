@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120063345id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625193044id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Angelo State University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.angelo.edu. This site contains links to other sites. Angelo State University ([http://www.angelo.edu](https://web.archive.org/)) is not responsible for the privacy practices or the content of such Web sites. 
+Angelo State University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.angelo.edu. This site contains links to other sites. Angelo State University ([http://www.angelo.edu](https://web.archive.org/)) is not responsible for the privacy practices or the content of such web sites. 
 
-We may use your IP address to help diagnose problems with our server, and to administer our Web site. 
+We may use your IP address to help diagnose problems with our server, and to administer our web site. 
 
 Our site uses forms for students, faculty, staff, and visitors to request information, products, and services. We collect contact information (like email addresses) and unique identifiers (like social security number) for university business such as university registration and/or sending bulletins to potential students. The information supplied on the forms is maintained by the University. You have the right to review and correct this information by contacting the appropriate office. 
 
@@ -14,7 +14,7 @@ For site management functions, information is collected for analysis and statist
 
 ##  Server Logs/Log Analysis Tools 
 
-Angelo State University utilizes server logs and log analysis tools to create summary statistics about the use of the Web site. The summary statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis: 
+Angelo State University utilizes server logs and log analysis tools to create summary statistics about the use of the web site. The summary statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis: 
 
   * **User/client hostname** \- The hostname (or IP address, if DNS is disabled) of the user/client requesting access. 
   * **HTTP header, “user-agent”** \- The user-agent information includes the type of browser used, the browser version, and the operating system it is running on. 
