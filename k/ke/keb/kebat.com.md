@@ -1,35 +1,80 @@
-> *The following text is extracted and transformed from the kebat.com privacy policy that was archived on 2014-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140120163619id_/http%3A//kebat.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kebat.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# kebat.com
+# HugeDomains.com - Privacy Policy
 
-  
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
+**What information do we collect?**
 
-KEBAT.COM respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site, http://www.KEBAT.COM (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**INFORMATION AUTOMATICALLY COLLECTED BY THE SITE**  
-Like many websites, we collect and analyze certain user behavior on the Site and store it in log files. This information is non-personally identifiable and may include, but is not limited to, Internet Protocol (IP) addresses, browser type, referring/exit pages, the date & time, and search queries. We also collect information regarding user activities on the Site. We use this information to analyze website traffic, improve the performance of our search services, improve our geo-targeted advertising services, administer the website and prevent fraud. This helps us to determine how best to provide useful information to users and to understand which parts of the Site and services are of most interest to them.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-On occasion we may share your non-personally identifiable information that we collect to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of KEBAT.COM's Terms of Use, in order to diagnose a problem with our server, to administer the Site or as we otherwise deem necessary in our sole and absolute discretion. We will transfer information about you if KEBAT.COM is acquired by or merged with another company and this may occur with or without notice to you. Also, we will provide your personal information to respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims.
+**What do we use your information for?**
 
-**COOKIES AND WEB BEACONS** :  
-We track user behavior and use of our services through the use of cookies and web beacons. A “cookie” is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the website or to make it easier to use certain website functions. The cookie transmits this information back to the website's computer. Many users do not know that “cookies” are being placed on their computers when they visit a website. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a website attempts to place a “cookies” on your computer.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search and which advertisements they click on. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. We use cookies on the Site to provide our service, including without limitation, in the following ways: We use cookies to track when a search user clicks on a sponsored listing, and in some cases we use cookies and web beacons to determine whether the click resulted in an actual purchase of products or services from the advertiser's site. This information is used to determine the effectiveness of our advertising services. We also use cookies to analyze how visitors, in the aggregate, use the Site, in order to make the Site as useful as possible for them. We do not use cookies to collect or store personally identifiable information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our services may not function properly if your cookies are disabled. We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or the Site analytics company's servers) are informed of when the web page has been viewed.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**PERSONAL INFORMATION** :  
-We do not collect any personally identifiable information or financial information like credit card numbers, postal address, financial statements, etc. We do however collect a user's name and email address (if and when a user voluntarily chooses to provide) when he submits his feedback on ways to improve his experience on KEBAT.COM
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**LINKS TO OTHER WEBSITES** :  
-The Site includes links to thousands of other websites whose privacy practices may differ from those of KEBAT.COM. KEBAT.COM does not control the websites of third parties that are linked from the Site or through our services, and is not responsible for information included in those services. If you submit personal information to any of those websites, your information is subject to their privacy statements. KEBAT.COM's Privacy Policy applies only to our own services, and does not apply to any other website. We encourage you to carefully read the privacy statement of any website you visit. KEBAT.COM is not responsible for the privacy practices or the content of other websites.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**PRIVACY POLICY UPDATES** :  
-KEBAT.COM may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+• To process transactions
 
-**TERMS OF USE** :  
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://web.archive.org/termsofuse.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**CONTACTING US** :  
-If you have any questions about this privacy policy, the practices of this Site 
+• To send periodic emails
 
-or Service or your dealings with us, you can contact us at:
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
