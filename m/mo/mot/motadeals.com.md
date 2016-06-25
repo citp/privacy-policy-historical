@@ -1,68 +1,80 @@
-> *The following text is extracted and transformed from the motadeals.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211040127id_/http%3A//www.motadeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motadeals.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
+
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
 **What information do we collect?**
 
-  * Your email, city of residence and zip code may be required to gain membership of the website and or to effectively use our website.
-  * Preferences, Likes, Dislikes, Interests, Hobbies, Gender, Date of Birth may be collected to recommend relevant deals to the member.
-  * We may aggregate information relating to what pages, sections of the site/application that are accessed or visited by the member.
-  * Information volunteered by the user (surveys, polls, registration forms etc).
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
+**What do we use your information for?**
 
-The information we collect is used to improve the quality and performance of our website, applications, services and is not sold, licensed or leased to third parties for commercial purposes except to provide services that you have requested for.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**We may have to disclose member details under the following circumstances:**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-  * Member details may be shared with 3rd party merchants for the purpose of fulfilling an order/ provide services that you have requested for.
-  * It is necessary to do so to investigate or prevent or take action regarding illegal activities, suspected fraud, when there is physical danger to any person, violations to the terms of services or otherwise required by the law.
-  * We will transfer information about you in case another company acquires MotaDeals.com. You will be notified in advance.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
+• To process transactions
 
-**What do we do with the information?**
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  * Send out marketing and promotional emails.  These emails will have an opt out option if you do not wish to receive these type of communications from us.  
-  * Send out marketing and promotional SMS messages to a members phone.  Members can opt out if he or she does not wish to receive these types of communications from us.  
-  * The information may be used to provide recommendations for new products and services, offers etc.  
-  * Send out invoices, billing reminders to those who have pending payments for paid services offered by the website.  
-  * We may enter into contractual agreements with third party to conduct research and marketing on conditions that such third party will be bound by an obligation of confidentiality to MotaDeals.com.  Such third party may not use any personally identifiable information provided by us other than those expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
+• To send periodic emails
 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**What information we do not collect and store**   
-We do not store your credit card details. For services that require the use of a credit card we use trusted third party payment processors.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Cookies**
+**How do we protect your information?**
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use our website.  
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to login to your MotaDeals.com account after a certain period of time has elapsed to protect you against others inadvertently accessing your account.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Storage of Data**  
-We use third party vendors and hosting providers to provide the necessary hardware, software, networking, storage, and related technology required to run our website.
+**Do we use cookies?**
 
-**Third Party Links**  
-Links to other web sites?Our website may contain links to other web sites. We will not be responsible for the privacy policies or contents of those web sites. We recommend all our members and users to read the privacy policies of those websites. This privacy policy applies only to the information collected by MotaDeals.com.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-**Terms of Use**  
-The use of MotaDeals.comand any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use.  All dispute resolution provisions, including, arbitration, limitation on damages and choice of law are set out in the Terms of Use.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**Notices and Revisions**  
-We reserve the right to change our Privacy Policy and Terms of Use at any time. All changes to the Privacy Policy will be made in Red.  We also include the date of modification as and when changes are made to this document.  We recommend you to refer to this policy on an ongoing basis to understand our current privacy policy.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**General Information**
+**Do we disclose any information to outside parties?**
 
-MotaDeals.comis owned and managed by Verist Business Research Pvt Ltd and is located at the following address:
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-MotaDeals.com  
-B41 Nizamuddin East,   
-New Delhi 110013  
-India   
+**Online Privacy Policy Only**
 
-In case of questions or clarification you can contact us at [info@motadeals.com](mailto:info@motadeals.com.)  
-  
-Last Updated on Wednesday, 06 June 2012 07:03 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
