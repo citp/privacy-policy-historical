@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053821id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625143051id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Pages | Celebrity Cruises
-
-[Celebrity Cruises](https://web.archive.org/home)
 
 ## Privacy Policy
 
