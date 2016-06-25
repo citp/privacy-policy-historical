@@ -1,40 +1,12 @@
-<!--The following is the downloaded HTML source of the spellingcity.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206143927id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spellingcity.com privacy policy that was archived on 2016-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625084604id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="apple-itunes-app" content="app-id=538407602">
-	  <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.spellingcity.com&quot; r (SS~~000 1))">
-    
-   <script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5HRQWT"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+<!DOCTYPE html><html lang="en-US" class="no-js"><head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5HRQWT"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYAUVdACQoFU1Nb"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,-1!==o.indexOf("dev")&&(c.dev=!0),-1!==o.indexOf("nr_dev")&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{l?l-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,l=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(d){"stack"in d&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(l+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&l>0&&(l-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,l],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",l="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(l+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",l="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+l),a.inPlace(window,[s],s+l),a.inPlace(window,[f,"clearImmediate"],f+l),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){l.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),l.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),l=t(14)(u),d=NREUM.o,p=d.XHR,h=d.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,l.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],l=u.length,d=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;l>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(12),a=t(13);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],f="api-";i(c,function(t,e){newrelic[e]=r(f+e,"api")}),i(s,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){l([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw f(e+"err",[r,a,d],c),d}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){l([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=d(n),c=a.length,s=0;c>s;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function l(t,e){m[t]=d(t).concat(e)}function d(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:l,emit:n,get:p,listeners:d,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},l=e.exports=o();l.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=w.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;w.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=w.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,l="addEventListener",d="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},y=p&&h&&h[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[l]?(u[l]("DOMContentLoaded",i,!1),f[l]("load",r,!1)):(u[d]("onreadystatechange",o),f[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,7]);</script> <meta name="viewport" content="width=device-width, initial-scale=1"> <meta name="description" content=""> <meta name="author" content=""> 
+   <script>
       window.VSC = window.VSC || {};
       window.VSC.meta = {"is_pm":false,"is_premium_member":false,"is_auth_host":false,"user_type":"Visitor"};
     </script>
-  
-    	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta name="robots" content="index, follow">
-	<meta name="keywords" content="vocabulary, vocabulary activities, vocabulary games, vocabulary study, vocabulary practice, vocabulary test, vocabulary lists, SAT vocabulary, word games, word study, spelling, spelling activities, spelling games, spelling study, spelling practice">
-	<meta name="description" content="Teaching spelling and vocabulary is easy with VocabularySpellingCity! Students can study and learn their word lists using vocabulary and spelling learning activities and games. Students can take final or practice spelling and vocabulary tests right on this engaging site. Premium games and automated student record keeping are available to Premium Members.">
-	<title>Privacy Policy</title>
-
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    <script type="text/javascript">
-window.FROM_EDMODO     = 0;
-window.VSC_LOGGED_IN   = 0;
-window.EDMODO_ENDPOINT = 'http://edmodo.com/';
-</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYAUVdACQoFU1Nb"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>    <!--[if lt IE 8]><link rel="stylesheet" href="/css/vscIe7Compat.css" type="text/css" /><![endif]-->
-    <!--[if IE 8]><link rel="stylesheet" href="/css/vscIe8Compat.css" type="text/css" /><![endif]-->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-<script>
-if (typeof jQuery === 'undefined' || jQuery.fn.jquery !== '1.8.3') {
-  document.write(unescape("%3Cscript src=\"/js/jquery-1.8.3.min.js\"%3E%3C/script%3E"));
-}
-</script><script src="/js/jquery-1.8.3.min.js"></script>
-    <script src="/js/vendor/swfobject.js" type="text/javascript"></script>
-
-    
+   <title>Privacy Policy | VocabularySpellingCity</title> 
     <script type="text/javascript">
       var googletag = googletag || {};
       googletag.cmd = googletag.cmd || [];
@@ -57,28 +29,25 @@ if (typeof jQuery === 'undefined' || jQuery.fn.jquery !== '1.8.3') {
               .defineOutOfPageSlot('/1905615/vscSkin', 'vscSkin')
             .setTargeting('is_pm', '')
             .setTargeting('user_type', 'Visitor')
-            .setTargeting('article_id', '2')
-          .setCollapseEmptyDiv(true)
+          .setCollapseEmptyDiv(true, true)
             .addService(googletag.pubads());
             googletag
               .defineOutOfPageSlot('/1905615/outofpage2', 'outofpage2')
             .setTargeting('is_pm', '')
             .setTargeting('user_type', 'Visitor')
-            .setTargeting('article_id', '2')
-          .setCollapseEmptyDiv(true)
+          .setCollapseEmptyDiv(true, true)
             .addService(googletag.pubads());
           googletag.pubads().enableSingleRequest();
           googletag.enableServices();
       });
-    </script>
-    <link rel="image_src" type="image/gif" href="/images/vsc_banner.gif">
-    <link href="https://plus.google.com/114785247400135820984/" rel="publisher">
-
-    <link rel="stylesheet" href="/assets/418af57511538e02b57849/templates/spellingcity/css/combined.css" type="text/css">
-<script type="text/javascript" src="/assets/511d461d1a001c3613ce47/js/combined.js"></script>
-  </head>
-  <body>
-  <!-- Google Tag Manager -->
+    </script> <!--[if lt IE 9]> <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <![endif]--> <!-- begin vsc styles added by dev --> <link rel="stylesheet" href="/assets/aafd96ed276e387c13cb71/css/userMenu.css" type="text/css">
+<link rel="stylesheet" href="/assets/aafd96ed276e387c13cb71/js/vendor/jquery.fancybox2/jquery.fancybox.css" type="text/css">
+<link rel="stylesheet" href="/assets/aafd96ed276e387c13cb71/css/systemNotices.css" type="text/css">
+<link rel="stylesheet" href="/assets/aafd96ed276e387c13cb71/css/videoEmbed.css" type="text/css">
+<link rel="stylesheet" href="/assets/aafd96ed276e387c13cb71/css/textEmbed.css" type="text/css">
+ <!-- end vsc styles added by dev --> <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYAUVdACQoFU1Nb"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script> <meta name="robots" content="noindex,follow"><!-- All in One SEO Pack 2.3.5.1 by Michael Torbert of Semper Fi Web Design[346,392] --><meta name="description" itemprop="description" content="VocabularySpellingCity is designed to comply with regulations protecting privacy of children and ensure the security and confidentiality of student data."><meta name="keywords" itemprop="keywords" content="privacy policy,children\'s online privacy protection act,federal education rights and privacy act"><!-- /all in one seo pack --><script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.spellingcity.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};	!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="http://www.spellingcity.com/wp-includes/js/wp-emoji-release.min.js?ver=4.5.2" type="text/javascript"></script><style type="text/css">img.wp-smiley,
+img.emoji {	display: inline !important;	border: none !important;	box-shadow: none !important;	height: 1em !important;	width: 1em !important;	margin: 0 .07em !important;	vertical-align: -0.1em !important;	background: none !important;	padding: 0 !important;
+}</style><link rel="stylesheet" id="bootstrap-css" href="http://www.spellingcity.com/wp-content/themes/sc/css/bootstrap.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="font-awesome-css" href="http://www.spellingcity.com/wp-content/themes/sc/css/font-awesome.min.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="fancybox-css" href="http://www.spellingcity.com/wp-content/themes/sc/css/jquery.fancybox.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="content-style-css" href="http://www.spellingcity.com/wp-content/themes/sc/css/content.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="sc-style-css" href="http://www.spellingcity.com/wp-content/themes/sc/style.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="res-fancy-style-css" href="http://www.spellingcity.com/wp-content/themes/sc/flowplayer/fancybox-responsive.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="flowplayer-style-css" href="http://www.spellingcity.com/wp-content/themes/sc/flowplayer/functional.css?ver=4.5.2" type="text/css" media="all"><link rel="stylesheet" id="vsc_list_widget-css" href="http://www.spellingcity.com/wp-content/themes/sc/css/list-widget.css?ver=4.5.2" type="text/css" media="all"><script type="text/javascript" src="http://www.spellingcity.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/bootstrap.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/bootstrap-tabcollapse.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/jquery.bootstrap-dropdown-hover.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/jquery.fancybox.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/jquery.flexslider-min.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/main.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/flowplayer/flowplayer.min.js?ver=1"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/themes/sc/js/list-widget.js?ver=1"></script><link rel="https://api.w.org/" href="http://www.spellingcity.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.spellingcity.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.spellingcity.com/wp-includes/wlwmanifest.xml"> <meta name="generator" content="WordPress 4.5.2"><link rel="canonical" href="http://www.spellingcity.com/privacy-policy.html"><link rel="shortlink" href="http://www.spellingcity.com/?p=76"><link rel="alternate" type="application/json+oembed" href="http://www.spellingcity.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.spellingcity.com%2Fprivacy-policy.html"><link rel="alternate" type="text/xml+oembed" href="http://www.spellingcity.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.spellingcity.com%2Fprivacy-policy.html&amp;format=xml"><!-- Social Share Meta Tags --><meta property="og:title" content="Privacy Policy"><meta property="og:site_name" content="VocabularySpellingCity"><meta property="og:url" content="http://www.spellingcity.com/privacy-policy.html"><meta property="og:description" content="Privacy Policy Updated: October 8th, 2015 At VocabularySpellingCity.com, we consider children’s safety to be all-important. Our site is designed to comply with state and federal regulations enac"><meta property="og:type" content="article"><meta property="og:image" content=""><meta property="twitter:card" content="summary"><meta property="twitter:site" content="@SpellingCity"><meta property="twitter:creator" content=""><!-- End Social Share Meta Tags --></head><body class="page page-id-76 page-template page-template-template-full-page page-template-template-full-page-php is-wp"><!-- begin vsc scripts added by dev --><!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5HRQWT"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -87,446 +56,194 @@ if (typeof jQuery === 'undefined' || jQuery.fn.jquery !== '1.8.3') {
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5HRQWT');</script>
 <!-- End Google Tag Manager -->
-<div id="vscSkin"><script type="text/javascript"> googletag.cmd.push(function() { googletag.display("vscSkin"); }); </script></div><div id="outofpage2"><script type="text/javascript"> googletag.cmd.push(function() { googletag.display("outofpage2"); }); </script></div>    <div id="main">
-      <div id="top-social-media">
-        </div>
-        <ul id="top-login-buttons">
-  <li class="login">
-    <a href="https://www.spellingcity.com/Log-yourself-in.html">Log In</a>
-  </li>
-  <li class="register">
-    <a href="https://www.spellingcity.com/Create-an-account.html">Register</a>
-  </li>
-</ul>
-      <a id="app-top" href="/app/">Want Our App?</a>
-
-      <div id="content">
-
-        <div id="top">
-          <a id="homePageLink" href="/" title="SpellingCity.com Home Page"></a>
-                    <ul id="toptabs">
-            <li id="nav-parents"><a title="Parents Getting Started" href="/parent-spelling-resources.html">Parents</a></li>
-            <li id="nav-homeschool"><a title="Parents Getting Started" href="/homeschool-vocabulary.html">Homeschool</a></li>
-            <li id="nav-teachers"><a title="Teachers Getting Started" href="/teachers-overview.html">Teachers</a></li>
-            <li id="nav-districts"><a title="Districts Getting Started" href="/schools-and-districts.html">Districts</a></li>
-          </ul>
-          
-          <script src="/js/responsiveHomepage.js" type="text/javascript"></script>
-          <div id="hamburger"></div>
-        </div>
-
-
-        <div id="menu">
-  <ul class="menu">
-    <li class="item1">
-      <a href="/"><span>Home</span></a>
-    </li>
-    <li class="item179" id="search-main-nav">
-      <a href="/spelling-list-search.html"><span>Search</span></a>
-      <ul>
-        <li><a href="/spelling-list-search.html"><span>Word Lists</span></a></li>
-        <li><a href="/teacher-search.html"><span>Teachers/Parents</span></a></li>
-        <li><a href="/school-search.html"><span>Schools</span></a></li>
-      </ul>
-    </li>
-    <li class="item177">
-      <a href="/teacher-resources.html"><span>Teaching Resources</span></a>
-    </li>
-    <li class="item137">
-      <a href="/faqs.html"><span>Videos / FAQs</span></a>
-    </li>
-    <li class="item141">
-      <a href="/pm-overview.html"><span>Premium Membership</span></a>
-    </li>
-    <li class="item218" id="contact-main-nav">
-      <a href="/Contact-Us/SpellingCity.com.html"><span>Contact Us</span></a>
-    </li>
-  </ul>
-</div>
-
-        <div id="googleAds">
-  <script type="text/javascript"><!--
-    google_ad_client = "pub-2378804484054214";
-    /* Top Row - 728x15, created 10/12/09 */
-    google_ad_slot = "6487035647";
-    google_ad_width = 728;
-    google_ad_height = 15;
-    //-->
-  </script>
-  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</div>
-        <div id="responsive-menu" class="hidden">
-	<ul class="menu-links">
-    	<li class="account-btn"><a href="/">Home</a></li>
-    	<li class="account-btn"><a href="/Log-yourself-in.html">Log In</a></li>
-        <li class="account-btn"><a href="/Create-an-account.html">Register</a></li>
-        <li class="responsive-main-nav"><a href="/spelling-list-search.html"><span>Search</span></a></li>
-        <li class="responsive-main-nav"><a href="/teacher-resources.html"><span>Teaching Resources</span></a></li>
-        <li class="responsive-main-nav"><a href="/faqs.html"><span>Training Videos</span></a></li>
-        <li class="responsive-main-nav"><a href="/pm-overview.html"><span>Premium Membership</span></a></li>
-        <li class="responsive-main-nav"><a href="/Contact-Us/SpellingCity.com.html"><span>Contact Us</span></a></li>
-        <li class="responsive-main-nav"><a href="/app/">App</a></li>
-        <li class="responsive-landing-nav"><a title="Parents Getting Started" href="/parent-spelling-resources.html">Parents</a></li>
-        <li class="responsive-landing-nav"><a title="Homeschool Getting Started" href="/homeschool-vocabulary.html">Homeschool</a></li>
-        <li class="responsive-landing-nav"><a title="Teachers Getting Started" href="/teachers-overview.html">Teachers</a></li>
-        <li class="responsive-landing-nav"><a title="Districts Getting Started" href="/schools-and-districts.html">Districts</a></li>
-        <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-        <li><a href="/careers.html">Careers</a></li>
-        <li><a href="/about-us.html">About Us</a></li>
-        <li><a href="/usage-policy.html">Usage Policy</a></li>
-        <li><a href="/copyright.html">Copyright</a></li>
-        <li><a href="/General/advertising.html">Advertising</a></li>
-        <li><a href="/link-to-us.html">Link To Us</a></li>
-     </ul>
-</div>
-
-        <div id="cols">
-
-
-
-
-
-          <noscript>
-  <div id="javascript-disabled" class="alert">
-    <h3 style="margin:0;">Your browser does not support or allow JavaScript. </h3>
-    <p style="margin:0;">As a result this site will not work correctly.</p>
-  </div>
-</noscript>
-          
-          
-          
-<div class="mod_lastteacher">
-  <div class="wrapper">
-
-          <div>
-        <div class="recent_visit">
-          <div><ul class="visited-pages">
-              <li class="title-text">
-                <span>Recently Visited</span>
-                <span style="font-size:9px"><a class="tooltip" title="Recently visited pages indicates the last visited teacher or parent, word list and school" href="javascript:void(0);">(?)</a></span>
-              </li>
-
-                              <li><span>School:</span><a href="/phillips-elementary-school-hampton-va.html">Phillips Elementary School</a></li>
-              
-                              <li><span>Teacher:</span><a href="/ilike2read/">Fawn Rohn</a></li>
-              
-                          </ul></div>
-        </div>
-      </div>
-    
-    
-    <div class="clear"></div>
-  </div>
-</div>
-
-
-          
-          
-          
-<table class="contentpaneopen">
-
-  <tbody><tr>
-    <td valign="top">
-      <link rel="stylesheet" href="/css/teacherResourcesPages.css" type="text/css">
-<link rel="stylesheet" href="/css/faqs_new_test.css" type="text/css">
-
-<style type="text/css">
-.style3 {	color: #000000;
-	font-weight: bold;
-}
-.style6 {	color: #990000;
-	font-size: 22px;
-}
-.Black {
-	color: #000;
-}
-.Bold {
-	font-weight: bold;
-}
-.style9 {
-	color: #990000;
-	font-weight: bold;
-	font-size: 20px;
-	padding: 0px;
-}
-.page-header{
-	position: relative;
-	top: 20px !important;
-}
-.video-button{position: relative;
-top: 15px;
-}
-.main-text strong{font-size:14px !important;}
-
-div.wl-steps{
-	width:415px;
-	height:218px;
-	background-image:url(images/faqs/studentWelcomeLetterScreengrab.jpg);
-	background-repeat:no-repeat;
-	padding-bottom:10px;
-	
-}
-
-ol.cp-guidelines{
-	font-family:Tahoma, Geneva, sans-serif; }
-
-ol.cp-guidelines li{
-background: none no-repeat scroll 0% 0% transparent;
-list-style: decimal outside none;
-padding-left: 0px;
-padding-bottom:5px;
-color: #036;
-font-size: 12px;
-}
-
-ol.wl-steps li strong{font-size: 12px !important;}
-
-a.last-link strong{ font-size:12px !important;}
-
-.main-frame.privacy{
-	width:695px;}
-	
-.main-text a{ font-weight:bold;}
-
-</style>
+<div id="vscSkin"><script type="text/javascript"> googletag.cmd.push(function() { googletag.display("vscSkin"); }); </script></div> <div id="outofpage2"><script type="text/javascript"> googletag.cmd.push(function() { googletag.display("outofpage2"); }); </script></div><script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/libs/ResponsiveNavigationMenuActiveLinkAssigner.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/vendor/jquery.fancybox2/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/libs/UserMenu.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/libs/GoPremiumNowUpsellModal.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/libs/GlobalDocumentEvents.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/videoEmbed.js"></script>
+<script type="text/javascript" src="/assets/afd1a6473eda9d5e8fe293/js/textEmbed.js"></script>
 <script>
-	jQuery(document).ready(function() {
-		/* Fancybox Call */
-		$(".sc_game").fancybox({
-			'width'		: 750,
-			'height'	: 570,
-			'type'		: 'iframe'
-		});
-		
-		$(".trIcons img").hover(
-			function() { this.src = this.src.replace(".png", "_hover.png");
-			},
-			function() { this.src = this.src.replace("_hover.png", ".png");
-			}
-		);		
-		
-		/* Teacher Resources Sliders */
-		$('#toggleLink1').click(function() {
-			$("#resource-sliders div.current").removeClass();
-			$('#read_more1').slideToggle().addClass("current");
-			$('#read_more2').hide();								
-			$('#read_more3').hide();
-			$('#read_more4').hide();
-			return false;
-		});
-		
-		$('#toggleLink2').click(function() {
-			$("#resource-sliders div.current").removeClass();
-			$('#read_more1').hide();
-			$('#read_more2').slideToggle().addClass("current");
-			$('#read_more3').hide();
-			$('#read_more4').hide();
-			return false;
-		});
-
-		$('#toggleLink3').click(function() {
-			$("#resource-sliders div.current").removeClass();
-			$('#read_more1').hide();
-			$('#read_more2').hide();
-			$('#read_more3').slideToggle().addClass("current");
-			$('#read_more4').hide();
-			return false;
-		});
-
-		$('#toggleLink4').click(function() {
-			$("#resource-sliders div.current").removeClass();
-			$('#read_more1').hide();
-			$('#read_more2').hide();
-			$('#read_more3').hide();
-			$('#read_more4').slideToggle().addClass("current");
-			return false;
-		});
-		
-		$('#expandWordLists').click(function() {
-			$('#wordList').slideToggle();
-			return false;
-		});
-		
-		$('#expandWordListTable').click(function() {
-			$('#wordListTable').slideToggle();
-			return false;
-		});
-		
-		$('#expandFAQs').click(function() {
-			$('#FAQs').slideToggle();
-			return false;
-		});
-		
-	});
-	
+  //quick hack to restore original fancybox namespace (since it is aliased on the vsc production application)
+  jQuery.fancybox = jQuery.fancybox2;
 </script>
-<div class="main-frame privacy">
-	 <table id="header-table" class="mceItemTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:25px;">
-  <tbody>
-  	<tr valign="top">
-    	<td width="75%">
-        	<div class="page-header">Privacy Policy</div>
-        </td>
-        <!--video
-    <td width="25%"><div class="video-button" align="right"><a class="fancybox" href="/fancyframe.php?iframe&amp;video_id=68"><img src="/images/faqs/watch-video-button2.png"></a></div></td>
-    -->
-  </tr>
-</tbody></table>
-<table class="mceItemTable" border="0" cellpadding="1" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td>
-      <p class="main-text first-paragraph">Privacy Policy Updated: October 8th, 2015<br>
-<br>
-At VocabularySpellingCity.com, we consider children's safety to be all-important. Our site is designed to comply with state and federal regulations enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the <a href="http://www.coppa.org/coppa.htm" target="_blank">Children's Online Privacy Protection Act ("COPPA")</a>, the <a href="http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html" target="_blank">Federal Education Rights and Privacy Act (“FERPA”)</a>, and the <a href="http://leginfo.ca.gov/pub/13-14/bill/asm/ab_1551-1600/ab_1584_bill_20140929_chaptered.pdf" target="_blank">California Education Code Section 49073.1</a>. The following Privacy Policy describes our policies and procedures relating to the use of our site, our commitment to privacy, and the access and use of data.</p>
+<!-- end vsc scripts added by dev --><div id="wp-header-wrapper"> <header id="wp-header"> <div class="container header-height mobile-header-height"> <div class="row header-row"> <div class="col-xs-9 col-sm-7 col-lg-9"> <div class="logo-container"> <div class="site-logo"> <a href="http://www.spellingcity.com/" title="VocabularySpellingCity" rel="home"><img src="/cms/content/2016/01/logo.png" alt="VocabularySpellingCity"></a> </div> </div> </div> 
+<div class="col-xs-3 col-sm-5 col-lg-3">
+  
+  <ul class="top-links hidden-xs">
+    <li class="register"><a href="/Create-an-account.html">Register</a></li><li class="login"><a href="/Log-yourself-in.html">Login</a></li>
+  </ul>
 
-<p class="main-text"><span style="color:#003366;"><strong>Introduction</strong></span><br><br>
-VocabularySpellingCity.com exists to serve educational institutions, parents and students and strives to provide a safe, positive experience for children. We do not collect information directly from children. Any students under the age of 18 wishing to use the site, must be registered by a parent, legal guardian, or school official. VocabularySpellingCity.com does not sell or market directly to minors and always seeks the appropriate authorization whenever we identify a minor attempting to purchase a service. Whenever we collect Personally Identifiable Information, or “PII”, we do so with the sole purpose of supporting the educational purposes of which the site was designed. We do not publish or distribute any PII of students to third parties, and we try to limit access to third party web sites that may request PII. We also prohibit students from publicly posting or distributing PII without prior parental consent. In addition, in an effort to further protect children who use the site, VocabularySpellingCity does not use the prospect of a special game, prize or other activity to entice children to divulge more information than is needed to participate in an activity.</p>
 
-<p class="main-text"><span style="color:#003366;"><strong>Identity of Registrants</strong></span><br><br>
-VocabularySpelllingCity.com and the VocabularySpellingCity Apps on iOS and Android are designed to provide vocabulary and spelling practice for students. Parents or educational institutions may register with the site by providing their name, email address, affiliation with a school or district (if applicable), phone number and billing information. A user’s contact information may be used to send users service-related announcements when it is necessary or advisable to do so. However, a user’s personal information will never be shared with third parties for advertising or marketing purposes.  User information may be shared with partners, business affiliates or third party service providers who work for VocabularySpellingCity.com and operate some of its functionalities, such as hosting services, streaming services and credit card processing. However, these third parties are established service providers, who are bound to practice adequate security measures and only use user information for the sole purpose of providing the services. A user’s information may also be shared with law enforcement or other third parties as required by law or if we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or other legal process.</p>
-<p class="main-text">
-VocabularySpellingCity.com has appropriate security measures in place to safeguard against unauthorized access to the personal information collected at our site, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections. We only store passwords in an encrypted format and we do not store any credit card information.
-</p>
-<p class="main-text">
-Parents and educational institutions registering with the site are asked to create a username and password during the registration process, or, if they prefer, one may be assigned to them. We use usernames and passwords of subscribers' accounts to authenticate logins, allow access to the paid content and monitor subscription compliance. The username is also used to authenticate users when requesting technical support. The passwords are all encrypted when stored.  We do not require any PII of the students who will be using our services during the registration process or at any other time. Parents or educational institutions may choose to provide a student’s name or class when setting up a student’s account, in order to monitor the student’s activities and progress more easily. However, this is optional. VocabularySpelllingCity.com does not collect student email addresses, physical addresses, or other PII of students.
-</p>
-
-<p class="main-text"><span style="color:#003366;"><strong>Display of Registrant Information</strong></span><br><br>
-VocabularySpellingCity.com is a web 2.0 social media-type service that includes user-generated content in terms of posted word lists and discussions on the forum. Parents and educational institutions wishing to participate in social media-type services are required to set up accounts in order to maximize privacy and security.  The name and username of the account holders will be displayed on the VocabularySpellingCity website associated with their selected school and will be viewable by people and by automated systems, such as the automated indexing software utilized by Google, Yahoo, and Bing.  While the forum is moderated, the problems of misinformation, false identities and other risks typical of the internet in its current state exist on VocabularySpellingCity.com. There is no way to verify whether someone who registers as a parent or educator at a particular school is truly that parent or educator at that school.  Therefore, it is possible for a person to register and post while posing as an educator or parent when they are not actually a teacher or parent. All VocabularySpellingCity.com users should be aware of this possibility and take appropriate precautions.  If VocabularySpellingCity.com suspects a fraudulent account has been set up, we will investigate and take measures to ban that account user. However, these measures are limited to closing the particular account and banning future registrations using the particular email.</p>
-
-<p class="main-text"><span style="color:#003366;"><strong>Collection, Use, Storage and Disclosure of Student Information</strong></span><br><br>
-
-Parents and educational institutions control what student information is provided to VocabularySpellingCity.com. Information that parents and educational institutions choose to enter regarding students should always be limited to information that is relevant to a legitimate educational purpose. The only information specific to a student that is required to set up a student account is a student login and password. Parents or educational institutions may choose to provide the student’s name and/or class when setting up a student’s account in order to monitor the student’s activities and progress more easily. However, this is optional. VocabularySpellingCity.com does not request or require the disclosure of other information about students (such as email addresses, physical addresses or other PII) in order to use the site.</p>
-<p class="main-text">
-VocabularySpellingCity.com stores the data created by students (e.g. quizzes and activities completed) so that the students, the students’ parents, and the students’ educational institutions can access it and use it for educational purposes. However, the student’s parents and educational institutions maintain ownership of the student data. Parents and educational institutions are able to review, manage, edit, or delete student information at any time by logging into their accounts. VocabularySpellingCity.com will also automatically delete any student information once an account has been closed. Parents or educational institutions using the site may print out student information contained in their accounts at any time before closing their accounts. However, once student information has been deleted by VocabularySpellingCity.com, it cannot be retrieved.
-</p>
-<p class="main-text">
-Student data collected on this site will not be used for any unauthorized purpose or disclosed to any unauthorized person or third party without express written permission from the student’s parents or the educational institutions, other than as provided in this Privacy Policy or by written contract between the educational institution and VocabularySpellingCity.com. However, VocabularySpellingCity.com reserves the right to use aggregated, non-personalized data in our research, product development, and marketing. That aggregated, non-personally identifiable data (e.g., summary or statistical data) may be shared with third parties. However, we do not use PII to market any products or services directly to students or their parents. In the event that we wish to release aggregated data that identifies a particular school by name, VocabularySpellingCity will enter into a separate agreement with the school to authorize release and publication.
-</p>
-<p class="main-text">
-VocabularySpellingCity is committed to protecting student data against unauthorized access, destruction, use, modification or disclosure. To this end, we have implemented reasonable and appropriate safeguards when collecting and storing student data in our database. Our servers are located in a secured, locked and monitored environment designed to prevent unauthorized entry or theft, and are protected by a firewall. The servers are also backed up to a secure offsite data center. We take extra measures to ensure the safety of PII and Student Records and apply a Secure Sockets Layer (SSL or HTTPS) encrypting technology to establish and ensure that all data passed between the server and the browser remains encrypted. Governance policies and access controls are in place to ensure that the student information linked to each parents or educator (depending on the type of account) is separated and parents and/or educational institutions only have access to their own student data. Only limited VocabularySpellingCity.com personnel have access to the database, and they only access the database when necessary to provide services. We follow standardized and documented procedures for coding, configuration management, patch installation and change management for all applicable servers and we audit our practices at least once a year. While we strive to maintain best industry-standard privacy and security practices, it should be noted that no industry system is fail proof. In the event we learn of an actual data breach, loss or disaster, we will notify the affected user(s), and as appropriate, coordinate with the user(s) to support its notification of affected individuals, students and parents when there is a substantial risk of harm from the breach or a legal duty to provide notification.
-</p>
-
-<p class="main-text"><span style="color:#003366;"><strong>Appropriateness</strong></span><br><br>
-VocabularySpellingCity.com takes reasonable measures to prevent the posting of profanity or other objectionable language on our website. For instance, we automatically drop known profane terms from all lists and activities. Also, we do not include certain body parts on the list of words in our library. However, VocabularySpellingCity.com cannot guarantee that objectionable language will never be posted on the website, and asks that parents and educational institutions inform VocabularySpellingCity.com immediately if any objectionable language is observed so that we can take measures to address it.<br></p>
-
-<p class="main-text"><span style="color:#003366;"><strong>FERPA Compliance</strong></span><br><br>
-VocabularySpellingCity.com understand the obligation educational agencies, districts and school systems have to comply with the Family Educational Rights and Privacy Act (FERPA) and supports schools in their efforts to comply FERPA.</p>
-<p class="main-text">
-Whenever VocabularySpellingCity.com enters into a contract with schools to provide educational services to students, we agree to act as a "School Official" as defined by FERPA, meaning that we (1) perform an institutional service or function for which the school or district would otherwise use its own employees; (2) we have been determined to meet the criteria set forth in the school's or district's annual notification of FERPA rights for being a School Official with a legitimate educational interest in the education records; (3) we are under the direct control of the school or district with regard to the use and maintenance of education records; and (4) we use education records only for authorized purposes and will not re-disclose PII from education records to other parties (unless we have specific authorization from the school or district to do so and it is otherwise permitted by FERPA).
-</p>
-
-<p class="main-text"><span style="color:#003366;"><strong>Supervision</strong></span><br><br>
-It is the responsibility of parents and educational institutions to supervise children using the site and teach them about security and privacy.  We recommend that parents and educational institutions provide the following information to all children: <a href="http://www.safekids.com/kids-rules-for-online-safety/" target="_blank">Kids' Rules for Online Safety</a>.</p>
-<p class="main-text"><span style="color:#003366;"><strong>Collection of Information by Third Parties</strong></span><br><br>
-Our web site contains links to web sites not maintained by VocabularySpellingCity.com. The privacy and data collection practices on any linked web sites are entirely separate from those of VocabularySpellingCity.com and are not covered by this Privacy Policy. Although we strive to choose business partners and third party associates who have demonstrated a commitment to user privacy and education, we are not responsible for the information, content, terms of use, or privacy policies on these third-party sites. We also cannot guarantee that student users will not go to another site where personal information from them is solicited.  Parents and educational institutions do have the option to block third-party links on the site. To do so, please contact our support team.</p>
-<p class="main-text">
-VocabularySpellingCity.com allows third-party advertising companies to show certain advertisements on the site when viewed by free users. However, we take measures to maintain the appropriateness of the advertising material to the audience of VocabularySpellingCity. These companies use "cookies"  (information a website puts on your computer's hard drive so that the website can remember your preferences or which pages you visited on that website) in order to track user movement through various websites on the internet. They also may use aggregated information about the user’s visits to VocabularySpellingCity.com and other websites in order to provide contextual advertisements. However, VocabularySpellingCity is compliant with COPPA, and does not allow targeted advertisements based on user’s behavior over time. For more information about this practice and your ability to opt-out, <a href="http://www.networkadvertising.org/choices/" target="_blank">click here</a>.</p>
-<p class="main-text"><strong style="color:#003366;">Notice Regarding Changes to the Privacy Policy</strong><br><br>
-Your use of VocabularySpellingCity.com is conditioned on and deemed to constitute your acceptance of these terms. Changes to this policy may be required to keep up with changing technology and threats, and as new or changed services are released.  We expect most such changes to be minor, but there may be cases where changes may be more significant. In such cases, we will provide notice to users who are affected. We encourage all users to return to and review this Privacy Policy frequently. Posting a modified Privacy Policy on this website will give effect to the revised terms, and your continued use of this website indicates your acceptance of any revised terms. If you do not agree to a revised policy, please refrain from using this website.</p>
-<p class="main-text">
-VocabularySpellingCity.com's mission is to maximize the educational value of this website and its usefulness to educational institutions, parents and students.
-Registration by teachers or parents with VocabularySpellingCity.com includes an option to receive periodic email updates about VocabularySpellingCity and other services and products that might be of interest. VocabularySpellingCity is supported in part by Time4Learning.com and Time4Writing.com.  Time4Learning.com is an online learning service popular as a <a href="http://www.time4learning.com/homeschool-curriculum.htm" target="_blank">homeschooling 
-curriculum</a>, popular with <a href="https://www.time4learning.com/homeschool/how-to-homeschool.shtml" target="_blank">new homeschoolers</a> and <a href="http://www.time4learning.net" target="_blank">experienced homeschoolers</a>. Time4Writing.com provides unique online services that <a href="http://www.time4writing.com/teaching-writing/" target="_blank">help students learn to write well</a>.  VocabularySpellingCity is comarketed with Science4Us, an <a href="http://www.science4us.com/index.php" target="_blank">elementary online science program</a>.</p>
-<p class="main-text"><strong style="color:#003366;">Contact Us</strong><br><br>
-If you have questions or comments regarding our Privacy Policy, or need any other assistance using VocabularySpellingCity’s site or applications, please contact us at:<br>
-<br>
-VocabularySpellingCity.com<br>
-6300 NE 1st Ave, Suite 203<br>
-Ft. Lauderdale, FL 33334<br>
-<a href="mailto:legal@spellingcity.com">legal@spellingcity.com</a><br>
-<a href="tel:1-800-357-2157">(800) 357-2157</a></p>
- </td>
-    <td><div align="center"></div></td>
-  </tr>
-</tbody></table>
-
+  <div id="topnav" class="navbar-inverse hidden-lg hidden-sm">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topnavbar" aria-expanded="false" aria-controls="navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
     </div>
-    </td>
-  </tr>
-
-</tbody></table>
-<span class="article_separator">&nbsp;</span>
-                  </div>
-
-        <div id="footer">
-  <ul class="menu">
-    <li><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li>
-    <li><a href="/blog"><span>Blog</span></a></li>
-    <li><a href="/careers.html"><span>Careers</span></a></li>
-    <li><a href="/about-us.html"><span>About Us</span></a></li>
-    <li><a href="/usage-policy.html"><span>Usage Policy</span></a></li>
-    <li><a href="/copyright.html"><span>Copyright</span></a></li>
-    <li><a href="/General/advertising.html"><span>Advertising</span></a></li>
-    <li><a href="/link-to-us.html"><span>Link To Us</span></a></li>
-    <li>
-      <a class="sm-icons" href="//facebook.com/spellingcity" target="_blank"><img src="/images/social_media_icons/facebook-logo.png"></a>
-      <a class="sm-icons" href="//twitter.com/spellingcity" target="_blank"><img src="/images/social_media_icons/twitter-logo.png"></a>
-      <a class="sm-icons" href="//plus.google.com/+SpellingCity/posts" target="_blank"><img src="/images/social_media_icons/google-plus-logo.png"></a>
-      <a class="sm-icons" href="//www.pinterest.com/spellingcity/" target="_blank"><img src="/images/social_media_icons/pinterest-logo.png"></a>
-    </li>
-</ul>
+  </div>
 </div>
 
+<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+  <div id="topnavbar" class="navbar-collapse collapse" aria-expanded="false">
+    <div class="menu-mobile-navigation-container">
+      
+  <ul class="top-links hidden-xs">
+    <li class="register"><a href="/Create-an-account.html">Register</a></li><li class="login"><a href="/Log-yourself-in.html">Login</a></li>
+  </ul>
+
+        <ul id="menu-mobile-navigation" class="nav navbar-nav">
+          <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a title="Home" href="/">Home</a></li>
+                    <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a title="Log In" href="/Log-yourself-in.html">Log In</a></li>
+                              <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a title="Register" href="/index.php?option=com_route&amp;route=newuserregistrationform">Register</a></li>
+                    <li id="menu-item-6870" class="navbar-break menu-item menu-item-type-custom menu-item-object-custom menu-item-6870"><a title="Search" href="/spelling-list-search.html">Search</a></li>
+          <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a title="Training Videos" href="/teacher-resources.html">Teaching Resources</a></li>
+          <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a title="Training Videos" href="/training-videos.html">Videos/FAQs</a></li>
+          <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a title="Premium Membership" href="/pm-overview.html">Premium Membership</a></li>
+          <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a title="Contact Us" href="/Contact-Us/SpellingCity.com.html">Contact Us</a></li>
+          <li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a title="App" href="/app.html">App</a></li>
+          <li id="menu-item-53" class="navbar-break menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a title="Districts" href="/districts.html">Schools/Districts</a></li>
+          <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a title="Districts" href="/teachers-overview.html">Teachers</a></li>
+          <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a title="Districts" href="/parent-spelling-resources.html">Parents</a></li>
+          <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a title="Districts" href="/homeschool-vocabulary.html">Homeschool</a></li>
+          <li id="menu-item-117" class="navbar-break menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a title="Privacy Policy" href="/privacy-policy.html">Privacy Policy</a></li>
+          <li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a title="About Us" href="/blog/">Blog</a></li>
+          <li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a title="About Us" href="/careers.html">Careers</a></li>
+          <li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a title="About Us" href="/about-us.html">About Us</a></li>
+          <li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a title="Usage Policy" href="/usage-policy.html">Usage Policy</a></li>
+          <li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a title="Copyright" href="/copyright.html">Copyright</a></li>
+          <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a title="Advertising on VocabularySpellingCity.com" href="/advertising.html">Advertising</a></li>
+          <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a title="Link to Us" href="/link-to-us.html">Link to Us</a></li>
+        </ul>
+            </div>
+  </div>
+</div>
+
+<script>
+  window.VSC = window.VSC || {};
+
+  (function (VSC, $) {
+    $(document).ready(function () {
+
+      var $rootElement = $('#menu-mobile-navigation'),
+        activeMenuLinkAssigner = new window.VSC.ResponsiveNavigationMenuActiveLinkAssigner($rootElement),
+        currentUri = window.location.pathname;
+
+      activeMenuLinkAssigner.assignActiveLink(currentUri);
+
+    });
+  }(window.VSC, window.jQuery));
+</script>
+ </div> </div> </header> <nav id="navigation" class="navbar hidden-xs">
+  <div class="container">
+    <div class="main-navbar-container">
+      <div class="menu-main-navigation-container">
+        <ul id="menu-main-navigation" class="nav navbar-nav">
+                    <li id="menu-item-5032" class="new-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-5032"><a href="#">New
+              to SpellingCity?</a></li>
+                    <li id="menu-item-4472" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3850 current_page_item menu-item-4472">
+            <a href="/teacher-resources.html">Teaching Resources</a></li>
+          <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="/faqs.html">Videos / FAQs</a></li>
+          <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="/pm-overview.html">Premium Membership</a></li>
+          <li id="menu-item-5601" class="search-icon dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5601">
+            <a href="/spelling-list-search.html" data-toggle="dropdown" class="dropdown-toggle">Search</a>
+            <ul class="sub-menu list-group-submenu-2 dropdown-menu">
+              <li id="menu-item-6568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6568"><a href="/spelling-list-search.html">Word Lists</a></li>
+              <li id="menu-item-6569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6569"><a href="/teacher-search.html">Teachers/Parents</a></li>
+              <li id="menu-item-6570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6570"><a href="/school-search.html">Schools</a></li>
+            </ul>
+          </li>
+          <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="/app.html">Mobile App</a></li>
+          <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="/Contact-Us/SpellingCity.com.html">Contact Us</a></li>
+        </ul>
+        <div id="text-3" class="red-menu-tab-content widget widget_text" style="display: none;">
+          <div class="textwidget"><h2 class="red-tab-content-title red-tab-content-bg">Build Literacy Skills with
+              Vocabulary &amp; Spelling:</h2>
+            <div class="choose-category-label">Choose Your Category</div>
+            <div class="row nav-tab">
+              <div class="col-sm-3 col-lg-3"><a href="/schools-and-districts.html"><img src="/cms/content/nav-tab-schools-img.png" alt=""><span>Schools/Principals</span></a>
+              </div>
+              <div class="col-sm-3 col-lg-3"><a href="/teachers-overview.html"><img src="/cms/content/nav-tab-teachers-img.png" alt=""><span>Teachers</span></a></div>
+              <div class="col-sm-3 col-lg-3"><a href="/parent-spelling-resources.html"><img src="/cms/content/2016/01/nav-tab-parents.png" alt=""><span>Parents</span></a></div>
+              <div class="col-sm-3 col-lg-3 last"><a href="/homeschool-vocabulary.html"><img src="/cms/content/2016/01/nav-tab-homeschool.png" alt=""><span>Homeschool</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-
-    <div id="trademark" align="center">VocabularySpellingCity® is a registered trademark.</div>
-<div style="display:none;">
-  <div id="pm-upsell"></div>
-
-  <div id="pm-upsell-src">
-    <table>
-      <tbody><tr>
-        <td valign="middle" style="text-align: center; background:url(/images/games/bg_gradient_red.gif);">
-          <img src="/images/games/premium-activity-header-text.png" width="144" height="27" alt="Premium Activities" style="margin-top: 2px">
-        </td>
-      </tr>
-
-      <tr>
-        <td><h1 style="text-align: center; margin: 9px 0px 0 0;">Sorry, this activity is available to Premium Members only.</h1></td>
-      </tr>
-
-      <tr>
-        <td>
-          <div style="position:relative;height:180px;">
-            <p style="padding:10px 170px 10px 15px;font-size: 1.2em;">If you are a Premium Member, click <a href="/index.php?option=com_comprofiler&amp;lang=en&amp;task=login">here</a> to log in to your account.
-
-            </p><div class="clear"></div>
-            <p></p>
-            <div id="penquinImg"></div>
-            <p style="padding-right:80px; padding-left:15px; width:190px;font-size: 1.2em;">Want to know about Premium
-              Membership? Just $29.99/yr for a family or $52.95/yr for a classroom. <a href="/index.php?option=com_content&amp;id=1559&amp;lang=en&amp;view=article">Learn more</a></p>
-
-          </div>
-        </td>
-      </tr>
-    </tbody></table>
   </div>
-
-  <a class="fancybox" id="show-pm-upsell" href="#pm-upsell"></a>
-</div>
-
-<div style="display:none;">
-  <div id="pm-upsell-feature"></div>
-  <div id="pm-upsell-feature-src">
-    <div class="pm-upsell-message">Sorry. This feature is available<br> to Premium Members only.</div>
-    <div style="position:relative;height:220px;">
-            <p style="padding:20px 0 0 215px;font-size: 1.2em;">Click <a href="/index.php?option=com_route&amp;route=orderhistory">here</a> to upgrade to a Premium Membership</p><div class="clear"></div><p></p>
-      <div id="catImg"></div>
-      <p style="padding-right:80px;position:absolute;bottom:5px;left:13px; width:200px;font-size: 1.2em;">
-        <a href="/index.php?option=com_content&amp;id=1559&amp;lang=en&amp;view=article">Learn more</a> about this and other Premium features available to teachers
-        at $52.95/yr per classroom or to families at $29.99/year</p>
-      <div id="mouseImg"></div>
+</nav>
+</div> <section id="wp-main" class="full-width"> <div class="container blue-bg mobile-no-bg-border"> <div class="row"> <article class="page-container col-xs-12"> <h1 class="page-heading-text page-heading-red-bg">Privacy Policy</h1> <div class="top-right-icons"> </div> <p>Privacy Policy Updated: October 8th, 2015</p><p>At VocabularySpellingCity.com, we consider children’s safety to be all-important. Our site is designed to comply with state and federal regulations enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the <a href="http://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy" target="_blank">Children’s Online Privacy Protection Act (“COPPA”)</a>, the <a href="http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html" target="_blank">Federal Education Rights and Privacy Act (“FERPA”)</a>, and the <a href="http://leginfo.ca.gov/pub/13-14/bill/asm/ab_1551-1600/ab_1584_bill_20140929_chaptered.pdf" target="_blank">California Education Code Section 49073.1</a>. The following Privacy Policy describes our policies and procedures relating to the use of our site, our commitment to privacy, and the access and use of data.</p><h2>Introduction</h2><p>VocabularySpellingCity.com exists to serve educational institutions, parents and students and strives to provide a safe, positive experience for children. We do not collect information directly from children. Any students under the age of 18 wishing to use the site, must be registered by a parent, legal guardian, or school official. VocabularySpellingCity.com does not sell or market directly to minors and always seeks the appropriate authorization whenever we identify a minor attempting to purchase a service. Whenever we collect Personally Identifiable Information, or “PII”, we do so with the sole purpose of supporting the educational purposes of which the site was designed. We do not publish or distribute any PII of students to third parties, and we try to limit access to third party web sites that may request PII. We also prohibit students from publicly posting or distributing PII without prior parental consent. In addition, in an effort to further protect children who use the site, VocabularySpellingCity does not use the prospect of a special game, prize or other activity to entice children to divulge more information than is needed to participate in an activity.</p><h2>Identity of Registrants</h2><p>VocabularySpelllingCity.com and the VocabularySpellingCity Apps on iOS and Android are designed to provide vocabulary and spelling practice for students. Parents or educational institutions may register with the site by providing their name, email address, affiliation with a school or district (if applicable), phone number and billing information. A user’s contact information may be used to send users service-related announcements when it is necessary or advisable to do so. However, a user’s personal information will never be shared with third parties for advertising or marketing purposes. User information may be shared with partners, business affiliates or third party service providers who work for VocabularySpellingCity.com and operate some of its functionalities, such as hosting services, streaming services and credit card processing. However, these third parties are established service providers, who are bound to practice adequate security measures and only use user information for the sole purpose of providing the services. A user’s information may also be shared with law enforcement or other third parties as required by law or if we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or other legal process.<br>VocabularySpellingCity.com has appropriate security measures in place to safeguard against unauthorized access to the personal information collected at our site, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections. We only store passwords in an encrypted format and we do not store any credit card information.</p><p>Parents and educational institutions registering with the site are asked to create a username and password during the registration process, or, if they prefer, one may be assigned to them. We use usernames and passwords of subscribers’ accounts to authenticate logins, allow access to the paid content and monitor subscription compliance. The username is also used to authenticate users when requesting technical support. The passwords are all encrypted when stored. We do not require any PII of the students who will be using our services during the registration process or at any other time. Parents or educational institutions may choose to provide a student’s name or class when setting up a student’s account, in order to monitor the student’s activities and progress more easily. However, this is optional. VocabularySpelllingCity.com does not collect student email addresses, physical addresses, or other PII of students.</p><h2>Display of Registrant Information</h2><p>VocabularySpellingCity.com is a web 2.0 social media-type service that includes user-generated content in terms of posted word lists and discussions on the forum. Parents and educational institutions wishing to participate in social media-type services are required to set up accounts in order to maximize privacy and security. The name and username of the account holders will be displayed on the VocabularySpellingCity website associated with their selected school and will be viewable by people and by automated systems, such as the automated indexing software utilized by Google, Yahoo, and Bing. While the forum is moderated, the problems of misinformation, false identities and other risks typical of the internet in its current state exist on VocabularySpellingCity.com. There is no way to verify whether someone who registers as a parent or educator at a particular school is truly that parent or educator at that school. Therefore, it is possible for a person to register and post while posing as an educator or parent when they are not actually a teacher or parent. All VocabularySpellingCity.com users should be aware of this possibility and take appropriate precautions. If VocabularySpellingCity.com suspects a fraudulent account has been set up, we will investigate and take measures to ban that account user. However, these measures are limited to closing the particular account and banning future registrations using the particular email.</p><h2>Collection, Use, Storage and Disclosure of Student Information</h2><p>Parents and educational institutions control what student information is provided to VocabularySpellingCity.com. Information that parents and educational institutions choose to enter regarding students should always be limited to information that is relevant to a legitimate educational purpose. The only information specific to a student that is required to set up a student account is a student login and password. Parents or educational institutions may choose to provide the student’s name and/or class when setting up a student’s account in order to monitor the student’s activities and progress more easily. However, this is optional. VocabularySpellingCity.com does not request or require the disclosure of other information about students (such as email addresses, physical addresses or other PII) in order to use the site.</p><p>VocabularySpellingCity.com stores the data created by students (e.g. quizzes and activities completed) so that the students, the students’ parents, and the students’ educational institutions can access it and use it for educational purposes. However, the student’s parents and educational institutions maintain ownership of the student data. Parents and educational institutions are able to review, manage, edit, or delete student information at any time by logging into their accounts. VocabularySpellingCity.com will also automatically delete any student information once an account has been closed. Parents or educational institutions using the site may print out student information contained in their accounts at any time before closing their accounts. However, once student information has been deleted by VocabularySpellingCity.com, it cannot be retrieved.</p><p>Student data collected on this site will not be used for any unauthorized purpose or disclosed to any unauthorized person or third party without express written permission from the student’s parents or the educational institutions, other than as provided in this Privacy Policy or by written contract between the educational institution and VocabularySpellingCity.com. However, VocabularySpellingCity.com reserves the right to use aggregated, non-personalized data in our research, product development, and marketing. That aggregated, non-personally identifiable data (e.g., summary or statistical data) may be shared with third parties. However, we do not use PII to market any products or services directly to students or their parents. In the event that we wish to release aggregated data that identifies a particular school by name, VocabularySpellingCity will enter into a separate agreement with the school to authorize release and publication.</p><p>VocabularySpellingCity is committed to protecting student data against unauthorized access, destruction, use, modification or disclosure. To this end, we have implemented reasonable and appropriate safeguards when collecting and storing student data in our database. Our servers are located in a secured, locked and monitored environment designed to prevent unauthorized entry or theft, and are protected by a firewall. The servers are also backed up to a secure offsite data center. We take extra measures to ensure the safety of PII and Student Records and apply a Secure Sockets Layer (SSL or HTTPS) encrypting technology to establish and ensure that all data passed between the server and the browser remains encrypted. Governance policies and access controls are in place to ensure that the student information linked to each parents or educator (depending on the type of account) is separated and parents and/or educational institutions only have access to their own student data. Only limited VocabularySpellingCity.com personnel have access to the database, and they only access the database when necessary to provide services. We follow standardized and documented procedures for coding, configuration management, patch installation and change management for all applicable servers and we audit our practices at least once a year. While we strive to maintain best industry-standard privacy and security practices, it should be noted that no industry system is fail proof. In the event we learn of an actual data breach, loss or disaster, we will notify the affected user(s), and as appropriate, coordinate with the user(s) to support its notification of affected individuals, students and parents when there is a substantial risk of harm from the breach or a legal duty to provide notification.</p><h2>Appropriateness</h2><p>VocabularySpellingCity.com takes reasonable measures to prevent the posting of profanity or other objectionable language on our website. For instance, we automatically drop known profane terms from all lists and activities. Also, we do not include certain body parts on the list of words in our library. However, VocabularySpellingCity.com cannot guarantee that objectionable language will never be posted on the website, and asks that parents and educational institutions inform VocabularySpellingCity.com immediately if any objectionable language is observed so that we can take measures to address it.</p><h2>FERPA Compliance</h2><p>VocabularySpellingCity.com understand the obligation educational agencies, districts and school systems have to comply with the Family Educational Rights and Privacy Act (FERPA) and supports schools in their efforts to comply FERPA.</p><p>Whenever VocabularySpellingCity.com enters into a contract with schools to provide educational services to students, we agree to act as a “School Official” as defined by FERPA, meaning that we (1) perform an institutional service or function for which the school or district would otherwise use its own employees; (2) we have been determined to meet the criteria set forth in the school’s or district’s annual notification of FERPA rights for being a School Official with a legitimate educational interest in the education records; (3) we are under the direct control of the school or district with regard to the use and maintenance of education records; and (4) we use education records only for authorized purposes and will not re-disclose PII from education records to other parties (unless we have specific authorization from the school or district to do so and it is otherwise permitted by FERPA).</p><h2>Supervision</h2><p>It is the responsibility of parents and educational institutions to supervise children using the site and teach them about security and privacy. We recommend that parents and educational institutions provide the following information to all children: <a href="http://www.safekids.com/kids-rules-for-online-safety/" target="_blank">Kids’ Rules for Online Safety</a>.</p><h2>Collection of Information by Third Parties</h2><p>Our web site contains links to web sites not maintained by VocabularySpellingCity.com. The privacy and data collection practices on any linked web sites are entirely separate from those of VocabularySpellingCity.com and are not covered by this Privacy Policy. Although we strive to choose business partners and third party associates who have demonstrated a commitment to user privacy and education, we are not responsible for the information, content, terms of use, or privacy policies on these third-party sites. We also cannot guarantee that student users will not go to another site where personal information from them is solicited. Parents and educational institutions do have the option to block third-party links on the site. To do so, please contact our support team.</p><p>VocabularySpellingCity.com allows third-party advertising companies to show certain advertisements on the site when viewed by free users. However, we take measures to maintain the appropriateness of the advertising material to the audience of VocabularySpellingCity. These companies use “cookies” (information a website puts on your computer’s hard drive so that the website can remember your preferences or which pages you visited on that website) in order to track user movement through various websites on the internet. They also may use aggregated information about the user’s visits to VocabularySpellingCity.com and other websites in order to provide contextual advertisements. However, VocabularySpellingCity is compliant with COPPA, and does not allow targeted advertisements based on user’s behavior over time. For more information about this practice and your ability to opt-out, <a href="http://www.networkadvertising.org/choices/" target="_blank">click here</a>.</p><h2>Notice Regarding Changes to the Privacy Policy</h2><p>Your use of VocabularySpellingCity.com is conditioned on and deemed to constitute your acceptance of these terms. Changes to this policy may be required to keep up with changing technology and threats, and as new or changed services are released. We expect most such changes to be minor, but there may be cases where changes may be more significant. In such cases, we will provide notice to users who are affected. We encourage all users to return to and review this Privacy Policy frequently. Posting a modified Privacy Policy on this website will give effect to the revised terms, and your continued use of this website indicates your acceptance of any revised terms. If you do not agree to a revised policy, please refrain from using this website.</p><p>VocabularySpellingCity.com’s mission is to maximize the educational value of this website and its usefulness to educational institutions, parents and students. Registration by teachers or parents with VocabularySpellingCity.com includes an option to receive periodic email updates about VocabularySpellingCity and other services and products that might be of interest. VocabularySpellingCity is supported in part by Time4Learning.com and Time4Writing.com. Time4Learning.com is an online learning service popular as a <a href="http://www.time4learning.com/homeschool-curriculum.htm" target="_blank">homeschooling curriculum</a>, popular with <a href="https://www.time4learning.com/homeschool/how-to-homeschool.shtml" target="_blank">new homeschoolers</a> and <a href="http://www.time4learning.net/" target="_blank">experienced homeschoolers</a>. Time4Writing.com provides unique online services that <a href="http://www.time4writing.com/teaching-writing/" target="_blank">help students learn to write well</a>. VocabularySpellingCity is comarketed with Science4Us, an <a href="http://www.science4us.com/index.php" target="_blank">elementary online science program</a>.</p><h2>Contact Us</h2><p>If you have questions or comments regarding our Privacy Policy, or need any other assistance using VocabularySpellingCity’s site or applications, please contact us at:</p><p>VocabularySpellingCity.com<br>6300 NE 1st Ave, Suite 203<br>Ft. Lauderdale, FL 33334<br><a href="mailto:legal@spellingcity.com">legal@spellingcity.com</a><br><a href="tel:1-800-357-2157">(800) 357-2157</a></p> </article> </div> </div> </section><footer id="wp-footer">
+  <div class="container">
+    <div class="footer-top col-lg-8">
+      <div class="row">
+        <div class=" col-xs-12 col-sm-3 col-lg-3">
+          <div id="nav_menu-2" class="widget widget_nav_menu">
+            <h4 class="widget-title">Tools</h4>
+            <div class="menu-tools-menu-container">
+              <ul id="menu-tools-menu" class="menu">
+                <li id="menu-item-5447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5447"><a href="/teacher-resources.html">Teaching Resources</a></li>
+                <li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="/faqs.html">Videos / FAQs</a></li>
+                <li id="menu-item-6389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6389"><a href="/spelling-games-vocabulary-games.html">Games</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-lg-3">
+          <div id="nav_menu-3" class="widget widget_nav_menu">
+            <h4 class="widget-title">Info</h4>
+            <div class="menu-info-menu-container">
+              <ul id="menu-info-menu" class="menu">
+                <li id="menu-item-5449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="/parent-spelling-resources.html">Parents</a></li>
+                <li id="menu-item-5450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5450"><a href="/homeschool-vocabulary.html">Homeschool</a></li>
+                <li id="menu-item-5451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5451"><a href="/teachers-overview.html">Teachers</a></li>
+                <li id="menu-item-6390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6390"><a href="/schools-and-districts.html">Schools / Principals</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-lg-3">
+          <div id="nav_menu-4" class="widget widget_nav_menu">
+            <h4 class="widget-title">Company</h4>
+            <div class="menu-company-menu-1-container">
+              <ul id="menu-company-menu-1" class="menu">
+                <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="/about-us.html">About Us</a></li>
+                <li id="menu-item-5452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5452"><a href="/careers.html">VocabularySpellingCity Careers</a></li>
+                <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="/advertising.html">Advertising</a></li>
+                <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="/link-to-us.html">Link to Us</a></li>
+                <li id="menu-item-6413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6413"><a href="/blog/">Blog</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-lg-3">
+          <div id="nav_menu-5" class="widget widget_nav_menu">
+            <h4 class="widget-title">&nbsp;</h4>
+            <div class="menu-company-menu-2-container">
+              <ul id="menu-company-menu-2" class="menu">
+                <li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="/privacy-policy.html">Privacy Policy</a></li>
+                <li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="/usage-policy.html">Usage Policy</a></li>
+                <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="/copyright.html">Copyright</a></li>
+                <li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="/Contact-Us/SpellingCity.com.html">Contact Us</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom text-center">
+      <ul>
+        <li><a href="http://twitter.com/spellingcity" target="_blank"><img src="/wp-content/themes/sc/images/icon-twitter.png" alt=""></a> </li>
+        <li><a href="http://facebook.com/spellingcity" target="_blank"><img src="/wp-content/themes/sc/images/icon-facebook.png" alt=""></a> </li>
+        <li><a href="http://plus.google.com/+SpellingCity/posts" target="_blank"><img src="/wp-content/themes/sc/images/icon-googleplus.png" alt=""></a></li>
+        <li><a href="http://www.pinterest.com/spellingcity/" target="_blank"><img src="/wp-content/themes/sc/images/icon-pinterest.png" alt=""></a></li>
+      </ul>
     </div>
   </div>
-  <a class="fancybox" id="show-pm-upsell-feature" href="#pm-upsell-feature"></a>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d50b44a2fd","applicationID":"195729","transactionName":"NFJQZUVTWUoEU0JcVw0YZ0NeHV5XAVVOG0gLRw==","queueTime":0,"applicationTime":37,"atts":"GBVTEw1JSkQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>  <script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-
-</body></html>
+</footer>
+<script type="text/javascript">/* <![CDATA[ */
+var psmm_public = {"float":""};
+/* ]]> */</script><script type="text/javascript" src="http://www.spellingcity.com/wp-content/plugins/piccolo-social-media-manager/public/js/psmm-public.min.js?ver=1.0"></script><script type="text/javascript" src="http://www.spellingcity.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script><script src="//code.jquery.com/jquery-1.12.0.min.js"></script><script type="text/javascript" async="" defer="" src="http://www.spellingcity.com/wp-content/themes/sc/js/pinterest.js"></script><script type="text/javascript" async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script><link rel="stylesheet" href="http://www.spellingcity.com/wp-content/themes/sc/css/pinterest.css" type="text/css"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d50b44a2fd","applicationID":"195729","transactionName":"NFJQZUVTWUoEU0JcVw0YZ0NeHV5XAVVOG0gLRw==","queueTime":0,"applicationTime":32,"atts":"GBVTEw1JSkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d50b44a2fd","applicationID":"195729","transactionName":"NFJQZUVTWUoEU0JcVw0Yc1JDW1hXSkRTWEgPVkZUGlRCVQkdRlRfBg==","queueTime":0,"applicationTime":49,"atts":"GBVTEw1JSkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
