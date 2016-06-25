@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020307id_/http%3A//prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625095026id_/http%3A//www.prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Publicity For Actor/Fimmakers | Branding | Digital Media Marketing For Twitter | Instagram/Facebook/YouTube
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
-Privacy Policy 2015
+Privacy Policy 2016
 
 Privacy Policy We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use our website at www.prfastmarketing.com, as well as some of the steps we take to safeguard information.
 
@@ -38,6 +38,8 @@ We do not control the content or links that appear on these sites and are not re
 
 These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
+REFUNDS Please allow 10 days for refund.
+
 Changes to this privacy policy PR Fast Marketing has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
 
 You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -48,6 +50,4 @@ Contacting us If you have any questions about this Privacy Policy, the practices
 
 E-mail: prfastmarketing@yahoo.com
 
-Orders Inquiries: becameovernightstar@yahoo.com
-
-This document was last updated on February 24th, 2015
+This document was last updated on April 24th, 2016
