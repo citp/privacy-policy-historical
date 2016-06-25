@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105225010id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy%3Fs%3Dcorp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625080825id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy%3Fs%3Dcorp) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell
 
@@ -73,7 +73,7 @@ Dell wants to help you keep your Personal Information accurate. To view or edit 
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
   * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; and 
-  * At any point you can also visit our [List Removal Page](https://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com/content/topics/global.aspx/policy/en/country_specific&s=gen&~section=023&c=us&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * At any point you can also visit our [List Removal Page](http://www.dell.com/preferences/listremoval/?c=us&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
   * When you save a cart while shopping online, you can choose to receive email reminders; 
   * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include where applicable methods to allow you to express your preferences.
 
