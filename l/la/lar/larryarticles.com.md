@@ -1,71 +1,80 @@
-> *The following text is extracted and transformed from the larryarticles.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603132259id_/http%3A//www.larryarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larryarticles.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# privacy LarryArticles.com
+# HugeDomains.com - Privacy Policy
 
-**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-LarryArticles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. **We respect your privacy,  **we will never sell, barter, or rent your email address to any unauthorized third party 
+**What information do we collect?**
 
-**How we gather information from users**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. 
+**What do we use your information for?**
 
-You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, LarryArticles.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**What we do with the information we collect**
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. **We respect your privacy and do not share your information with anyone.**
+• To process transactions
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We may also use cookies and/or web beacons to collect data on the content you are viewing to ensure that advertisements are targeted to the content you are viewing.
+• To send periodic emails
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We may use Personally Identifiable Information collected on [www.](http://www.larryarticles.com/)[LarryArticles.com](http://www.larryarticles.com/)  to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by [www.](http://www.larryarticles.com/)[LarryArticles.com](http://www.larryarticles.com/) and other topics we think you might find of interest.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Personally Identifiable Information collected by LarryArticles.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. 
+**How do we protect your information?**
 
-We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**Affiliated sites, linked sites and advertisements**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-LarryArticles.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a [www.](http://www.larryarticles.com/)[LarryArticles.com](http://www.larryarticles.com/) page, certain content that is actually created or hosted by a third party.  
+**Do we use cookies?**
 
-You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-LarryArticles.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**Do we disclose any information to outside parties?**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of LarryArticles.com and this policy. 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**Children**
+**Online Privacy Policy Only**
 
-LarryArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ArticlesHelper.com has any information from or about anyone under 13, please contact us via our Contact Us page.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**Changes to this Policy**
+**Terms and Conditions**
 
-LarryArticles.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**Governing law**
+**Your Consent**
 
-This policy and the use of this Site are governed by European law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: England. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+By using our site, you consent to our web site privacy policy. 
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: London, under the rules of the European Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+**Changes to our Privacy Policy**
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-**
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
