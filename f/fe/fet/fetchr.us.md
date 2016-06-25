@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchr.us privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224184912id_/http%3A//fetchr.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchr.us privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625042651id_/http%3A//fetchr.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fetchr delivery APP - Ship Happy
 
