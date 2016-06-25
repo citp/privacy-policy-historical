@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the clamav.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208020641id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clamav.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022713id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Summary - Cisco Systems
+
+## Cisco Online Privacy Statement Summary
+
+|  | 
+
+## Trust and Transparency Center
+
+Cisco is committed to maintaining strong protections for our customers, products and company. We believe in building and maintaining trust, reducing risk and simply doing what is right.
+
+[**Learn More**](https://web.archive.org/c/en/us/about/trust-transparency-center/overview.html)
 
 _The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco's websites and our affiliates' websites that link to the Statement._
 
@@ -8,7 +18,7 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 ### Personal Information
 
-  * We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, personalizing your experience, or in connection with a job application.
+  * We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, sending marketing communications, personalizing your experience, or in connection with a job application.
   * We will inform you of the purpose for collecting personal information when we collect it from you and keep it to fulfill the purposes for which it was collected or as required by applicable laws or for legitimate purposes.
   * We may combine the information we collect from you with information obtained from other sources to help us improve its overall accuracy and completeness, and to help us better tailor our interactions with you.
   * We may also collect information relating to your use of our websites through the use of various technologies, including cookies.
@@ -45,8 +55,7 @@ Cisco respects and is committed to protecting your personal information. Our pri
 ### Important Information
 
   * We follow privacy policies and data protection practices not only to comply with the law but to earn the trust and confidence in Cisco.
-  * We address inquiries or complaints regarding personal information promptly and courteously. Cisco is a member of TRUSTe ([www.truste.com](http://www.truste.com/)) so if you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
-  * Cisco participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of the participation in the Safe Harbor, we have agreed to TRUSTe Watchdog dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
+  * Cisco previously certified under the [U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework](http://www.export.gov/safeharbor/) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland, though does not rely on the Safe Harbor in order to comply with EU law. Cisco has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Following the ruling of the European Court of Justice on October 6, 2015 regarding the validity of the Safe Harbor, and in light of evolving regulatory frameworks, Cisco may participate in other frameworks approved by relevant regulatory authorities from time to time.
 
 
 
@@ -54,4 +63,16 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 To find out more about our privacy practices, see the full version of the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
-_Last updated: November 2015_
+_Last updated: March 2016_
+
+## How to Contact Us
+
+Email: [privacy@cisco.com](mailto:privacy@cisco.com)
+
+Mail: Cisco Systems, Inc.   
+Legal Department   
+170 West Tasman Dr.   
+San Jose, CA 95134 USA
+
+|   
+---|---
