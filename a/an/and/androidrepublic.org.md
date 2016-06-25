@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the androidrepublic.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222061911id_/http%3A//androidrepublic.org/forum/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidrepublic.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625142427id_/http%3A//androidrepublic.org/forum/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Android Republic - Android Game Hacks
 
 [ ](http://androidrepublic.org/forum)
 
   * 
-[__](https://web.archive.org/web/20151222061911id_/http://androidrepublic.org/forum/pages/privacy/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
+[__](https://web.archive.org/web/20160625142427id_/http%3A//androidrepublic.org/forum/pages/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
 
 **Android Republic - Android Game Hacks**
 
@@ -82,7 +82,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on April 18, 2015
 
   * 
-[__](https://web.archive.org/web/20151222061911id_/http://androidrepublic.org/forum/pages/privacy/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
+[__](https://web.archive.org/web/20160625142427id_/http%3A//androidrepublic.org/forum/pages/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
 
 **Android Republic - Android Game Hacks**
 
