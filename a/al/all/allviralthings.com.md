@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allviralthings.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223225343id_/http%3A//www.allviralthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allviralthings.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625193950id_/http%3A//www.allviralthings.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy – AllViralThings
+
+## Privacy Policy
 
 This privacy policy sets out how AllViralThings uses and protects any information that you give us when you use this website.  
 AllViralThings  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
