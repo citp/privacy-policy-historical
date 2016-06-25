@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the certifiedcashclub.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022656id_/http%3A//certifiedcashclub.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certifiedcashclub.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Certified Cash Club
+# HugeDomains.com - Privacy Policy
 
-Privacy Policy 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-  
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such info. We request that you read this Privacy Policy carefully. 
+**What information do we collect?**
 
-Personal Information Our Company Collects and How It Is Used   
-Service Providers: We use Clickbank.com (KEYNETICS, Inc.) to provide payment processing on our site. When you purchase our ebook/program, we will share your name, address, and credit card information as necessary for Clickbank to provide that service. Clickbank is prohibited from using your personally identifiable information for any other purpose. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Online Shopping: At some Web sites described within our program, you can purchase products and services or register to receive materials, such as a newsletter. You can decide whether or not to use these sites or services at your own discretion. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Order Confirmation: If you order services or products directly from our company, we may share the personal information you provide on our confirmation page with a select group of 3rd party partners that offer similar products/services you may be interested in. We only work with partners that offer you the ability to opt-out of receiving future offers, and do not share your information with their partners. Our 3rd party partners are separate from www.DigitalDollarsFormula.com and we are not responsible for their content or offers. If you do not wish your information to be shared with our partners, please do not order our products. 
+**What do we use your information for?**
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. We may retain these emails for our records, only for use as a reference. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-Testimonials: If you submit a testimonial, you should be aware that any personally identifiable information you submit, such as your name, website, city and/or country of residence may be displayed on our site, where it could potentially be used by third parties to contact you, or send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a testimonial. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Legal: We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.; or to protect our company and our Members. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-"Cookies" and How Our Company Uses Them: A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
+• To process transactions
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  
-Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. If you subscribe to our newsletter, we may share the personal information you provide with a select group of 3rd party partners that offer similar products/services you may be interested in. We only work with partners that offer you the ability to opt-out of receiving future offers, and do not share your information with others. Our 3rd party partners are separate from www.DigitalDollarsFormula.com and we are not responsible for their content or offers. If you do not wish your information to be shared with our partners, please do not subscribe to our newsletter. 
+• To send periodic emails
 
-Choice/Opt-out: We provide you the opportunity to â??opt-outâ?? of receiving our newsletter, in which case your email address is permanently removed from our database. If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Our Company Commitment to Children's Privacy: Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+**How do we protect your information?**
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Website maintained by:   
-The Certified Cash Club   
-  
-  
-  
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
+**Do we use cookies?**
 
-ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. Certifiedcashclub.com is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any certifiedcashclub.com product. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by certifiedcashclub.com in the materials on this Web page. This site and the products and services offered on this site are not associated, affiliated, endorsed, or sponsored by Google, nor have they been reviewed tested or certified by Google.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-  
-Members Area       [Affiliates](https://web.archive.org/web/20090626022656id_/http%3A//certifiedcashclub.com/affiliates.htm)       [Earnings Disclaimer](https://web.archive.org/web/20090626022656id_/http%3A//certifiedcashclub.com/disclaimer.htm)       [Privacy Policy](https://web.archive.org/web/20090626022656id_/http%3A//certifiedcashclub.com/privacypolicy.htm)   
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
