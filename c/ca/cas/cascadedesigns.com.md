@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cascadedesigns.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906130824id_/http%3A//www.cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cascadedesigns.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625093747id_/http%3A//www.cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # Cascade Designs, Inc.
 
