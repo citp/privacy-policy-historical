@@ -1,37 +1,80 @@
-> *The following text is extracted and transformed from the dekhomaza.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209080307id_/http%3A//dekhomaza.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dekhomaza.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | dekhomaza.net
+# HugeDomains.com - Privacy Policy
 
-Dekhomaza.in respects the privacy of its users. Dekhomaza.in privacy determines how we treat user information while user visits to our website and uses our services. It is important to us that our user retain their Privacy while pleasing the benefit of the services we offered.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Child Protection  
-Dekhomaza.in does not offer services to the children who are under the age of 13. If we receive information signifying that a user who has registered to Dekhomaza.in is under the age of 13, we entail the user to provide evidence confirming that the user is at least 13 years old. If the user fails to present such information within 48 hours then Dekhomaza.in will right away terminate the corresponding user account.
+**What information do we collect?**
 
-Cookies  
-Depending upon how user is accessing our service, we may use “cookies” or similar technologies to record log data in order to collect information to assign each user a unique identity to understand the individual area of interest.  
-When user use Dekhomaza.in our web server automatically record limited information about user interaction with our service i.e. “log data”, including the information which browser sends whenever user visit Dekhomaza.in. This log data may include user computer’s connection to the internet, including User internet protocol address, browser type and settings, the date and time of user request. And how user used Dekhomaza.in  
-User Internet protocol address doesn’t identify any user personally; we use this information to deliver our pages to user upon request and to measure traffic within our website.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Confidentiality/Information Security  
-We have taken some security measures including physical, electronic and other required procedure to protect against unauthorized access to or unauthorized misuse, modification, discloser, loss and damage of user data we collect online. However Dekhomaza.in doesn’t take any responsibility in case of theft / damage / loss of user’s personal data.  
-Dekhomaza.in use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Third Party Link  
-Dekhomaza.in includes/contains links to other websites/third party websites by Users/Advertisers/Prmoters. Such websites or service/products are governed by their respective Privacy Policy which may be differing from ours.  
-Dekhomaza.in doesn’t take any responsibility for the Terms, Privacy Policy or Practices of any third party websites. Users/Advertisers/Promoters should visit third party websites at their own risks.  
-Dekhomaza.in has the complete authority to remove third party websites / links if found inappropriate as per the Dekhomaza.in Terms & Conditions defined.  
-Information Sharing and Disclosure  
-Dekhomaza.in may share user respective information to any third party for business or non-business purpose without obtaining the prior permission of the user. It may include any court or governmental agency or authority to disclose, for the purpose of authentication of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.  
-Ability to Edit or Delete Account Information and preferences  
-User can improve, correct, modify, edit, and update their information/data by visiting their respective profile page at any time. If any user wants to deactivate its respective account, user has to write us to Dekhomaza.in@gmail.com. Our team will deactivate the user account including user all posts, comments, Expressions and other related information from public view. User can activate their account at any stage in future by writing us to Dekhomaza.in@gmail.com our team will activate user account and restore all information including all posts, comments, Expressions and other related information.
+**What do we use your information for?**
 
-Changes to this Privacy Policy  
-Dekhomaza.in has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.  
-Contact us  
-If you have any question related to Privacy Policy of Dekhomaza.in, Please write us to: Dekhomaza.in@gmail.com  
-For any Complain, feedback and Suggestions, please write us to: admin@filmgyan.in  
-We will appreciate your feedback and suggestions and try to provide you the best service.
+Any of the information we collect from you may be used in one of the following ways: 
 
-### Comments
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-comments
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
