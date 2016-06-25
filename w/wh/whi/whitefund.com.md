@@ -1,23 +1,80 @@
-> *The following text is extracted and transformed from the whitefund.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430032232id_/http%3A//www.whitefund.com/content.php%3Fpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitefund.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# White Fund | Online Investment Fund | Forex Trading Systems
+# HugeDomains.com - Privacy Policy
 
-### Privacy Policy
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-We understand the online privacy and confidentiality of your personal information is important to you and is also at the essence of our business. 
+**What information do we collect?**
 
-At White Fund protecting the privacy and confidentiality of your personal information is important. We value your business and the trust you have placed in White Fund to provide a safe and secure environment for personally identifiable financial information. This Privacy Policy explains how we handle and protect information. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Whether you are just visiting our website or are a current customer, we strive to safeguard your information. We collect, retain and use information about you only where we reasonably believe that it will help us administer our business or provide products, services, and other opportunities to you. We collect and retain information about you only for specific business purposes. We use information to protect and administer your records, accounts, and funds; to comply with certain laws and regulations; to help us design or improve our products and services; and to understand your financial needs and provide you with quality products and superior service.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We also take steps to safeguard customer information. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with world standards to guard your nonpublic personal information.
+**What do we use your information for?**
 
-Our web servers automatically collect limited information about your computer configuration and browsing activity when you visit our site. This information includes date and time of visit, domain name, IP address, actions, URLs, visited information received and sent (bytes), cookies, reference domain and operating system. We use this information to make our website as useful as we can for as many users as possible.
+Any of the information we collect from you may be used in one of the following ways: 
 
-White Fund uses cookies to store customer preference information on the use of our site and to facilitate access to restricted web pages during a single online session. Session cookies are used to authenticate your login information. We also use cookies to evaluate and track the pages you've visited within our website. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns to help us improve the organization of our site and to understand, for example, the effectiveness of our advertising and marketing campaigns. No personally identifiable information is stored on these cookies.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-While you are logged on viewing your account information or conducting online transactions with White Fund, we recommend that you do not access other websites during your online session. Always exit from your online session with White Fund before moving to or accessing other websites and prior to turning off your computer.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-This Web site contains links to other sites not affiliated with White Fund. Your use of non White Fund web sites is subject to the privacy policies of those sites. White Fund disclaims all responsibility for the privacy practices of non White Fund web sites. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-By using this site you agree to our privacy policy. When the terms are changed, the changes will appear in this document. By using the site after any change in the terms have been posted, you agree to be bound by all of the changes as well.
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
