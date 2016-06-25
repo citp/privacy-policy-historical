@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastssh.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315120932id_/http%3A//fastssh.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastssh.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625074938id_/http%3A//fastssh.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FastSSH.com
 
