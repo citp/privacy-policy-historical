@@ -1,105 +1,49 @@
-> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509105342id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625144836id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Milan Direct Pty Ltd ("Milan Direct", "we", "us", "our") is an online retailer of consumer goods and is bound by the Australia Privacy Principles ('APPs') in the Privacy Act 1988 (Cth). We understand the importance of, and are committed to, protecting your personal information. This Privacy Policy explains how we manage your personal information, including our obligations and your rights in respect of our dealings with your personal information.
+www.milandirect.com.au, www.milandirect.co.uk and www.mdfinishings.com.au referred to below as Milan Direct, is an online retailer of consumer goods.
 
-Please take a moment to read our Privacy Policy as it describes what happens to your personal information (that is, information or an opinion about you, whether true or not, which identifies you or from which your identity is reasonably identifiable) that is collected via our website at [www.milandirect.com.au](http://milandirect.com.au/) (the Website). 
+At Milan Direct, we value our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us at: sales@milandirect.com.au
 
-**1\. Collection of your personal information**
+**Milan Direct’s Commitment to Online Security**
 
-Milan Direct will collect and hold your personal information in a fair and lawful manner, and not in an unreasonably intrusive way.  Where it is reasonably practical to do so, we will collect your personal information directly from you. However, in certain cases we may collect personal information from third parties, including from publically available sources.
-
-  
-We may collect the personal information you directly give us through some of the following means:
-
-a) When you make an inquiry or order in relation to goods or services through our Website;  
-b) In administering and performing our contracts with you following a purchase from our Website;  
-c) From other related correspondence (whether in writing or electronically);  
-d) While conducting customer satisfaction and market research surveys;  
-e) When administering any of our services; and  
-f) As otherwise required to manage Milan Direct's business. 
-
-**2\. Types of personal information we collect**
-
-The type of personal information we may collect can include (but is not limited to), your name, postal address, email address, phone numbers and billing information.
-
-Where you do not wish to provide us with your personal information, we may not be able to provide you with requested goods or services.
-
-**3\. Our purposes for handling your personal information**
-
-As a general rule, Milan Direct only processes personal information for purposes that would be considered relevant and reasonable in the circumstances. Milan Direct will only collect information that is necessary for the purposes as described in this Privacy Policy, or other purposes specifically communicated to you. Milan Direct uses fair and lawful methods to collect personal information.
-
-Milan Direct collects, holds, uses and discloses personal information to:
-
-a) Provide you with our goods and services;  
-b) Manage and administer those goods and services, including account opening procedures;  
-c) Communicate with you, including (but not limited to), emailing you tax invoices, dispatch and tracking information, returns and exchange authorisations;  
-d) Comply with its legal and regulatory obligations; and  
-e) Otherwise to manage Milan Direct's business.
-
-**4\. Use and disclosure of your personal information**
-
-Some of the primary purposes for which we use and disclose personal information include:
-
-a) Maintaining customer records;  
-b) Delivery and supply of goods and services;  
-c) Account keeping and invoicing;  
-d) Locating and/or retrieving our goods; and  
-e) Administering our accounts with you.
-
-We may also use and disclose your personal information we collect for a secondary purpose.  A secondary purpose is one which is related to the primary purpose of collection.  Some of the secondary purposes for which may collect your personal information include:
-
-a) Marketing our goods and services to you;  
-b) Goods and services development;  
-c) To any third-party, person or entity we engage in relation to the primary and secondary purposes;  
-d) Customer and market research;  
-e) To keep you informed of any changes to our business, goods and services or other offerings that may be of interest to you; and  
-f) Disclosure to any person you have consented to or which we are authorised or required by law.
-
-We will not use or disclose your personal information for any other purpose unless you have consented to that use or disclosure.
-
- **5\. Protection of personal information**
+At Milan Direct, your personal information is treated with the greatest of care. Sensitive payment information such as credit card details is NEVER stored on the Internet with our system. Once you type your information, it is sent instantly, encrypted, direct to our order processing system. We employ the latest 1024-bit encryption technology in all areas of the site which require you to provide payment information. This is done to protect you from unauthorized use of the information you are sending to our server. This website is registered with site identification authorities to enable your browser to confirm our security identity before any transmission is sent. With this technology, the identity of this site is automatically confirmed behind the scenes prior to the transmission of any sensitive information requested to complete an online order. This also ensures that your data reaches your intended target or your browser notifies you that the potential receiving site looks suspicious and should be avoided.
 
   
-At Milan Direct, your personal information is treated with the greatest of care. Milan Direct maintains appropriate physical, procedural and technical security for its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of personal information.  This also applies to disposal of personal information.
+Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. The Milan Direct website encrypts sensitive information wherever Milan Direct requests it.
 
-Milan direct further protects personal information by restricting access to personal information to those who need access to do their job.  Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of your personal information. Milan Direct does not collect sensitive information.
+**Email Newsletter Subscription**
 
-**6\. Direct marketing and Opting Out**
+All our newsletters contain a link to unsubscribe. You will not receive newsletters from us again if you choose to unsubscribe. In order to make our emails more relevant and useful to you, our servers may receive a confirmation when you open email from us.
 
-Like most business, marketing is important to Milan Direct's continued success. We believe we have a unique range of products and services that we provide to customers at a high standard. We therefore like to stay in touch with customers and let them know about new opportunities. We may provide you with information about new products, services and promotions.
+**Being Included In and Removed From Our Email Newsletters**
 
-**You may opt out at any time** if you no longer wish to receive commercial messages from us.
+You will be included in our email newsletter mailing list (which include special offers, competitions, new product arrival alerts and other communication related to our services or the products we offer) if you subscribe to our newsletter or if you make a purchase from us or have requested that we notify you of an items expected arrival and we expect to receive other items that are similar or complimentary. Every newsletter we send has an unsubscribe option in the newsletter. This will always be clear and easy to locate. You may unsubscribe from any mailing list whenever you wish and you will be immediately removed as per your request. You also have the option of emailing unsubscribe@milandirect.com.au and a member of our Customer Service Team will unsubscribe you if you provide them with the email address that is subscribed.
 
-All our newsletters contain a link to unsubscribe. You will not receive newsletters from us again if you choose to unsubscribe. You also have the option of emailing unsubscribe@milandirect.com.au and a member of our Customer Service Team will unsubscribe you if you provide them with the email address that is subscribed. In order to make our emails more relevant and useful to you, our servers may receive a confirmation when you open an email from us.  You can also make this request by contacting our Privacy Officer.
+**Personal Information that Milan Direct May Collect Online**
 
-You will be included in our email newsletter mailing list (which includes special offers, competitions, new product arrival alerts and other communication related to our services or the products we offer) if you subscribe to our newsletter or if you make a purchase from us or have requested that we notify you of an items expected arrival and we expect to receive other items that are similar or complementary or if you make an inquiry with us.
+Milan Direct collects personal information online, including names, postal and e-mail addresses, phone numbers and billing information.
 
-**7\. Computer Tracking and Cookies**
+**How Milan Direct Uses Personal Information Collected Online**
 
-This Website is not set up to track, collect or distribute personal information not entered by visitors. However, our site logs certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others.
+  
+We will use your personal information only for the purpose of processing your order and to communicate effectively with you. This communication includes but is not limited to; emailing you tax invoices, dispatch and tracking information, returns and exchange authorisations, etc. As a condition of sale we reserve the right to email you special offer promotions that we believe will be of interest to you. You may, once you have placed your order, advise us that you are not interested in these offers and we will consequently not send these to you. To do this, please send this request to unsubscribe@milandirect.com.au.com.au. In any event, you may, at any time, unsubscribe from any special offer promotions we send you, and your unsubscribe request will be actioned immediately.
 
-**8\. Accessing and correcting your personal information**
+**How Your Information May Be Shared**
 
-You may contact our Privacy Officer to request access to the personal information that we hold about you and/or to make corrections to that information, at any time.  On the rare occasions when we refuse access, we will provide you with a written notice stating our reasons for refusing access.  We may seek to recover from you reasonable costs incurred for providing you with access to any of the personal information about you held by us.
+We never sell or rent your personal information. Milan Direct may release personal information under the following circumstances:
 
-Milan Direct is not obliged to correct any of your personal information if it does not agree that it requires correction and may refuse to do so.  If Milan Direct refuses a correction request, we will provide you with a written notice stating our reasons for refusing.
+  * Where release is required by law (for example, a subpoena) or regulation or is requested by a government agency;
+  * Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;
+  * To appropriate persons, where your communication suggests possible harm to others
 
-**9\. Overseas transfers of personal information**
 
-Milan Direct may disclose your personal information to companies that are associated with us overseas to assist the provision of the services and other purposes described in this policy.
 
-**10\. Resolving personal information concerns**
+**Computer Tracking and Cookies**
 
-If you have any questions, concerns or complaints about this Privacy Policy, or how we handle your personal information, please email our Privacy Officer at [privacy@milandirect.com.au.](mailto:privacy@milandirect.com.au)
+This website is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
 
-Once a complaint has been lodged, the Privacy Officer will respond to you as soon as possible.
+**Changes to this Privacy Notice, Conditions of Use and Notices**
 
-You may also lodge a complaint with the Office of the Australian Information Commissioner by telephone: 1300 363 992 or email: [enquiries@oaic.gov.au.](mailto:enquiries@oaic.gov.au)
-
-**11\. Changes**
-
-We reserve the right to change the terms of this Privacy Policy from time to time, without notice to you. An up-to-date copy of our Privacy Policy is available on our Website. 
-
-The last update to this document was 28 March 2014.
+This Privacy Notice and our Terms of Use may change over time and the use of information which we gather now is subject to these Notices and Terms as modified. If you visit our Web site, your visit and any dispute over privacy is subject to this Notice and our Legal Notices, including the application of the laws of the State of Victoria, Australia.
