@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobicip.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209094309id_/http%3A//www.mobicip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicip.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625212238id_/http%3A//www.mobicip.com/privacy) for the most accurate reproduction.*
 
 # Mobicip - Privacy Policy
-
-By registering your details with us, you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. Mobicip.com is owned by Mobicip LLC. This privacy statement discloses the privacy practices for Mobicip ([http://www.mobicip.com](http://www.mobicip.com/)). If you have questions or concerns regarding this statement, you should first contact [support@mobicip.com](mailto:support@mobicip.com). From time to time, Mobicip may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see item number 5 for more details.
 
   1. What is Mobicip and why is my information needed?
     * Mobicip provides the registered user with secure access to the Internet from any location. Mobicip makes the Mobicip service available under a number of different subscription plans. Mobicip requires the use of first and last names, a password, a valid email address as a login, a billing address and a valid credit card, paypal account, corporate payment code or invoicing agreement to process payment for service. Therefore, at a minimum, we require such necessary information during the registration process.
