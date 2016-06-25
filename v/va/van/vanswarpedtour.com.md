@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the vanswarpedtour.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055620id_/http%3A//vanswarpedtour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanswarpedtour.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625112038id_/http%3A//vanswarpedtour.com/privacy-policy) for the most accurate reproduction.*
 
-# Vans Warped Tour
+# Privacy Policy | Vans Warped Tour
 
 PRIVACY POLICY   
-CCRL, LLC ("CCRL" or "we/us" etc.) produces the Vans Warped Tour music festival (the "Festival") and owns and operates the website located at www.vanswarpedtour.com (the "Site" or the "Website"). Thank you for your interest in and support of the Festival and the Site. We are firmly committed to the privacy of your personal information, and this policy explains CCRLs online information practices and the choices you can make about the way your information is collected and used. 
+CCRL, LLC ("CCRL" or "we/us" etc.) produces the Vans Warped Tour music festival (the "Festival") and owns and operates the website located at aws.vanswarpedtour.com (the "Site" or the "Website"). Thank you for your interest in and support of the Festival and the Site. We are firmly committed to the privacy of your personal information, and this policy explains CCRLs online information practices and the choices you can make about the way your information is collected and used. 
 
 This Privacy Policy applies to all information collected or submitted on the Website. The Site is not directed at children under the age of 13 and children under the age of 13 are not knowingly permitted to submit personal information on the Site. For more information about children under the age of 13 see the policy herein below. 
 
 CCRL reserves the right, at its discretion, to change, update or modify this Privacy Policy at any time by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website and, if required by applicable law, notice to you via the CCRL service. Please check this policy periodically for changes. Your continued use of the Website and/or any CCRL products and services following the posting of changes will mean you accept those changes. Use of information that CCRL gathers is subject to the Privacy Policy in effect at the time of use. 
 
-If users have questions or concerns regarding this policy, they should contact CCRL by sending us an email to info@vanswarpedtour.com. If you become aware that personal information CCRL maintains about you is inaccurate, or if you would like to update or review your personal information, you may contact CCRL by using the contact information below. 
+If users have questions or concerns regarding this policy, they should contact CCRL by sending us an email to [info@aws.vanswarpedtour.com](mailto:%20info@aws.vanswarpedtour.com). If you become aware that personal information CCRL maintains about you is inaccurate, or if you would like to update or review your personal information, you may contact CCRL by using the contact information below. 
 
 1\. CATEGORIES OF INFORMATION WE COLLECT 
 
@@ -49,7 +49,7 @@ When you visit the Website, CCRL may send cookies to your computer that uniquely
 
 6\. CHOICE/OPT OUT 
 
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you receive communications from us that you do not want to receive, you can opt-out from receiving these communications, by specifically telling us to stop sending them to you. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by clicking the unsubscribe link in the email or emailing us at info@vanswarpedtour.com. In addition, for email communications received from CCRL owned sites, you will be able to opt out of further communications by clicking the unsubscribe option at the bottom of the email. 
+If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you receive communications from us that you do not want to receive, you can opt-out from receiving these communications, by specifically telling us to stop sending them to you. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by clicking the unsubscribe link in the email or emailing us at [info@aws.vanswarpedtour.com](mailto:%20info@aws.vanswarpedtour.com). In addition, for email communications received from CCRL owned sites, you will be able to opt out of further communications by clicking the unsubscribe option at the bottom of the email. 
 
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
 
@@ -82,7 +82,7 @@ CCRL limits access to Customer Information to CCRL personnel who need to come in
 
 It should be noted that e mails and other information you send to us is not encrypted and cannot be considered a secure means of transmitting sensitive information. CCRL will never ask you to submit your financial data such as your credit card account numbers, via e-mail. You should be aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the Internet and that any information you transmit through the Site may be damaged, corrupted, "sniffed" and/or accessed by another person without your permission. 
 
-Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot ensure or warrant the ultimate security of any information you transmit. If you have any questions about security on the Site, you can send us an email at info@vanswarpedtour.com. 
+Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot ensure or warrant the ultimate security of any information you transmit. If you have any questions about security on the Site, you can send us an email at [info@aws.vanswarpedtour.com](mailto:%20info@aws.vanswarpedtour.com). 
 
 10\. CHILDREN'S ONLINE PRIVACY PROTECTION ACT ("COPPA") 
 
@@ -92,7 +92,7 @@ OUR SITE IS NOT DIRECTED AT CHILDREN UNDER THE AGE OF 13 AND DO NOT KNOWINGLY CO
 
 If CCRL receives actual knowledge that the site is being used by a child under the age of 13 CCRL will obtain Parental Consent before collecting, using, or disclosing the child's personal information. We obtain parental or guardian consent to collect information from a child under the age of 13 through the following process: 
 
-A parent may email us at info@vanswarpedtour.com to provide consent provided the email contains a digital signature, or other digital certificate that uses public key technology. Please put "Parental Consent for Child's Personal Information" in the subject line of the email. 
+A parent may email us at [info@aws.vanswarpedtour.com](mailto:%20info@aws.vanswarpedtour.com) to provide consent provided the email contains a digital signature, or other digital certificate that uses public key technology. Please put "Parental Consent for Child's Personal Information" in the subject line of the email. 
 
 The collection and use of personal information collected from children will be disclosed and used in the same ways described above in this Policy. 
 
