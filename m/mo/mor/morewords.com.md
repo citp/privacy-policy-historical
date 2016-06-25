@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030226id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626002406id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy and Cookies Policy
 
@@ -16,4 +16,4 @@ If you've any questions about this policy, please write to me using the [contact
 
 [New Search](https://web.archive.org/)
 
-Some random words: [luau](https://web.archive.org/word/luau/)   [oenologies](https://web.archive.org/word/oenologies/)   [oiticica](https://web.archive.org/word/oiticica/)   [clabber](https://web.archive.org/word/clabber/)   [placabilities](https://web.archive.org/word/placabilities/)   [vocable](https://web.archive.org/word/vocable/)   [oeuvre](https://web.archive.org/word/oeuvre/)  
+Some random words: [thack](https://web.archive.org/word/thack/)   [ageing](https://web.archive.org/word/ageing/)   [dwarf](https://web.archive.org/word/dwarf/)   [diabase](https://web.archive.org/word/diabase/)   [uvarovite](https://web.archive.org/word/uvarovite/)   [ebon](https://web.archive.org/word/ebon/)   [eager](https://web.archive.org/word/eager/)  
