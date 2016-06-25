@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaflash.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030023138id_/http%3A//www.cpaflash.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaflash.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071643id_/http%3A//www.cpaflash.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CPA Flash
 
