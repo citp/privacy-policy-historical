@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025190423id_/http%3A//www.adamevetoys.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625125151id_/http%3A//www.adamevetoys.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # AdamEveToys.com - Discreet Adult Toys for Men & Women
 
