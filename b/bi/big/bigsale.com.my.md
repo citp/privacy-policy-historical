@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the bigsale.com.my privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224074209id_/http%3A//www.bigsale.com.my/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsale.com.my privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625100020id_/http%3A//www.bigsale.com.my/Privacy.aspx) for the most accurate reproduction.*
 
 # Shopping Promotions, Warehouse Sales & Coupons in Malaysia | BigSale
 
-  
 BIGSALE.COM.MY("SITE") IS CREATED AND REGISTERED UNDER BIGSALE MEDIA SDN BHD. WE SUGGEST EVERYONE TO READ THE FOLLOWING PRIVACY POLICY. BY ACCESSING THE SITE AND USING THE WEB AND MOBILE SERVICES PROVIDED BY BIGSALE.COM.MY("SERVICE"), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HERE, INCLUDING ANY FUTURE MODIFICATIONS TO THESE TERMS OF SERVICES AND GUIDELINES. IF YOU DO NOT AGREE TO ANY OF THE AGREEMENTS STATED HERE, PLEASE CEASE USING THE SERVICE IMMEDIATELY. 
 
-  1. **Types of Information Collected**
+* **Types of Information Collected**
 
 Personal Information is information that can be used to identify, locate, or contact an individual. It also includes other information that may be associated with Personal Information. We collect the following types of Personal Information: 
 
@@ -19,7 +18,7 @@ Personal Information is information that can be used to identify, locate, or con
 
 **Analytics Information** about your use of our Services, such as your IP address, access time, device ID or other unique identifier (e.g., Android advertising ID), domain name, screen views, language information, device name and model, operating system type, and your activities on our Services. For example, information collection by our Services via a mobile device may include the following: (i) the names of the other applications on your mobile device and, if you use an Android-based mobile device, how you use them (e.g., frequency and duration of use); (ii) if you use an Android-based mobile device, the URL addresses of the webpages you access; (iii) information about your mobile device (e.g., make, model, operating system, and other similar information, but not phone number); (iv) information about your use of features, functions, or clicks on notifications or content; and (v) the strength of signal, temperature, battery level, and unique identifier of a nearby Bluetooth® proximity beacon. 
 
-  2. **How BIGSALE.COM.MY Collects Personal Information**
+* **How BIGSALE.COM.MY Collects Personal Information**
 
 We may ask you for Personal Information when you register, subscribe, create an account, or otherwise interact with the Services or contact BIGSALE.COM.MY. For example, you may be required to provide us with Contact Information or Relationship Information in order to register for certain services. 
 
@@ -33,38 +32,42 @@ If you use the Services on a mobile device and your mobile device's settings all
 
 From time to time, we may also supplement Personal Information with information collected from third parties, including demographic information, information about your interests, and similar information that the third parties have collected from other sources (which may include analytics data from third party websites). For example, we may collect information from third parties to enhance other information we have about you, to help us better understand you, and to otherwise enhance the Services. 
 
-  3. **How BIGSALE.COM.MY Uses Personal Information**
+* **How BIGSALE.COM.MY Uses Personal Information**
 
 BIGSALE.COM.MY uses Personal Information to: 
 
-    * Operate and improve our Services;
-    * Provide users with advertisements for products and services from merchants, including promotions and coupons based on variables such as stated and anticipated user interests, personal characteristics, and location;
-    * Evaluate eligibility of users for certain promotions, coupons, products or services;
-    * Evaluate the types of promotions, coupons, products or services that may be of interest to users;
-    * Track redemption of coupons and perform other analytics;
-    * Provide user support, including to merchants or business partners;
-    * Fulfill requests for BIGSALE.COM.MY services;
-    * Communicate and provide additional information that may be of interest to you about BIGSALE.COM.MY and featured merchants and business partners, such as BIGSALE.COM.MY news, special offers and coupons, announcements, and marketing materials;
-    * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
-    * Provide commercial notifications when you arrive at, linger near or leave places;
-    * Infer the location of the places you visit most often, determine your frequency at these locations, and send notifications when you arrive at or leave those places;
-    * Provide advertisements to you through the Services, third-party sites, email messages, text messages, mobile-push notifications, or other methods of communication;
-    * Administer surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our partners;
-    * Create user profiles that may contain inferences about users such as age range, income range, gender, and interests;
-    * Manage our everyday business needs such as website administration, forum management, analytics, fraud prevention, Terms of Use or to comply with the law;
-    * Allow you to apply for a job, post a video or sign up for special offers from third parties through the Services; and
-    * Carry out other purposes that are disclosed to you and to which you consent.
-  4. **Discloses of Your Personal Information**
+  * Operate and improve our Services;
+  * Provide users with advertisements for products and services from merchants, including promotions and coupons based on variables such as stated and anticipated user interests, personal characteristics, and location;
+  * Evaluate eligibility of users for certain promotions, coupons, products or services;
+  * Evaluate the types of promotions, coupons, products or services that may be of interest to users;
+  * Track redemption of coupons and perform other analytics;
+  * Provide user support, including to merchants or business partners;
+  * Fulfill requests for BIGSALE.COM.MY services;
+  * Communicate and provide additional information that may be of interest to you about BIGSALE.COM.MY and featured merchants and business partners, such as BIGSALE.COM.MY news, special offers and coupons, announcements, and marketing materials;
+  * Send you reminders, technical notices, updates, security alerts and support and administrative messages service bulletins, or marketing;
+  * Provide commercial notifications when you arrive at, linger near or leave places;
+  * Infer the location of the places you visit most often, determine your frequency at these locations, and send notifications when you arrive at or leave those places;
+  * Provide advertisements to you through the Services, third-party sites, email messages, text messages, mobile-push notifications, or other methods of communication;
+  * Administer surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our partners;
+  * Create user profiles that may contain inferences about users such as age range, income range, gender, and interests;
+  * Manage our everyday business needs such as website administration, forum management, analytics, fraud prevention, Terms of Use or to comply with the law;
+  * Allow you to apply for a job, post a video or sign up for special offers from third parties through the Services; and
+  * Carry out other purposes that are disclosed to you and to which you consent.
+
+
+* **Discloses of Your Personal Information**
 
 We may share your Personal Information as required or permitted by law as described below: 
 
-    * With affiliated companies (e.g., subsidiaries and other companies owned by or controlled by BIGSALE.COM.MY) who may only use the Personal Information for the purposes described in Section 3 above;
-    * With our service providers that provide services for us to assist us in carrying out the purposes described in Section 3 above such as sending emails, push notifications, or SMS messages on our behalf and conducting surveys or sweepstakes on our behalf. 
-    * Merchants, but only to the extent you have redeemed a coupon offered by the merchant, or participated in an offer, contest or other activity sponsored or offered through BIGSALE.COM.MY on behalf of the merchant;
-    * BIGSALE.COM.MY business partners or advertisers, as part of an offer, contest, or other activity that is provided by or in conjunction with BIGSALE.COM.MY and its business partners and in which you have elected to participate. For example, if you are referred to BIGSALE.COM.MY from a business partner's website or through an invitation facilitated by or in conjunction with a BIGSALE.COM.MY business partner, BIGSALE.COM.MY may provide that business partner with Contact Information and Transactional Information to validate the referral and to support the terms of the relationship between BIGSALE.COM.MY and the business partner, which may allow such business partner to contact you directly and to advertise to you;
-    * To effect a merger, acquisition, or otherwise; to support the sale or transfer of business assets; to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud, respond to a government request; or as needed to support auditing, compliance, and corporate governance functions. We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the Malaysia and other countries where we operate. If BIGSALE.COM.MY is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on one or more of our Services of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; or
-    * Otherwise with your consent. We encourage BIGSALE.COM.MY merchants and business partners to adopt and post privacy policies. However, the use of your Personal Information by such parties is governed by the privacy policies of such parties and is not subject to our control. When you choose to interact with a BIGSALE.COM.MY merchant or business partner, we encourage you to read any privacy policy they may have posted on their website.
-  5. **Cookies and Related Technologies**
+  * With affiliated companies (e.g., subsidiaries and other companies owned by or controlled by BIGSALE.COM.MY) who may only use the Personal Information for the purposes described in Section 3 above;
+  * With our service providers that provide services for us to assist us in carrying out the purposes described in Section 3 above such as sending emails, push notifications, or SMS messages on our behalf and conducting surveys or sweepstakes on our behalf. 
+  * Merchants, but only to the extent you have redeemed a coupon offered by the merchant, or participated in an offer, contest or other activity sponsored or offered through BIGSALE.COM.MY on behalf of the merchant;
+  * BIGSALE.COM.MY business partners or advertisers, as part of an offer, contest, or other activity that is provided by or in conjunction with BIGSALE.COM.MY and its business partners and in which you have elected to participate. For example, if you are referred to BIGSALE.COM.MY from a business partner's website or through an invitation facilitated by or in conjunction with a BIGSALE.COM.MY business partner, BIGSALE.COM.MY may provide that business partner with Contact Information and Transactional Information to validate the referral and to support the terms of the relationship between BIGSALE.COM.MY and the business partner, which may allow such business partner to contact you directly and to advertise to you;
+  * To effect a merger, acquisition, or otherwise; to support the sale or transfer of business assets; to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud, respond to a government request; or as needed to support auditing, compliance, and corporate governance functions. We may also disclose Personal Information to defend ourselves in litigation or a regulatory action, and when required or advised to do so by law, such as in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the Malaysia and other countries where we operate. If BIGSALE.COM.MY is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on one or more of our Services of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; or
+  * Otherwise with your consent. We encourage BIGSALE.COM.MY merchants and business partners to adopt and post privacy policies. However, the use of your Personal Information by such parties is governed by the privacy policies of such parties and is not subject to our control. When you choose to interact with a BIGSALE.COM.MY merchant or business partner, we encourage you to read any privacy policy they may have posted on their website.
+
+
+* **Cookies and Related Technologies**
 
 When you use our Services, we collect certain information by automated or electronic means, using technologies such as cookies, flash local storage objects, pixel tags, web beacons, browser analysis tools, and web server logs. As you use our Services, your browser and devices communicate with servers operated by us, our business partners and services providers to coordinate and record the interactivity and fill your requests for services and information. Additional information on how to opt-out of certain tracking features is set forth in the Your Choices section below. 
 
@@ -88,26 +91,23 @@ BIGSALE.COM.MY has relationships with third party advertising technology and ana
 
 The third parties collect information using cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Services and the other websites tracked by these third parties. This Privacy Policy does not cover the collection methods or use of the information collected by these third parties, and BIGSALE.COM.MY is not responsible for cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-  6. **Your Rights**
+* **Your Rights**
 
 You can manage your personal information by logging into the BIGSALE.COM.MY and clicking on the "User Profile" link. You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may also update your subscription preferences from time to time. 
 
 You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Site, and include emails regarding a particular User's account and requests or inquiries. In contrast to Administrative Emails, however, you do have a choice to opt-out of promotional emails. Promotional emails refer to emails that advertise our product and service, and/or the product and service of our advertisers and affiliates. If you do not wish to receive promotional emails from us, you may unsubscribe promotional emails at any time by logging into BIGSALE.COM.MY and click on subscription menu link under “My Newsletter” menu or by checking the "unsubscribe" button at the bottom of promotional emails. You may write in to us using the website’s contact form to unsubscribe too. 
 
-  7. **Privacy Policies of Third Party Websites**
+* **Privacy Policies of Third Party Websites**
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you on BIGSALE.COM.MY. Other websites that may be accessible through this Site have their own privacy policies and data collection, use and disclosure practices that may differ from this Site. If you access any other website through the Site, we urge you to review the website's Privacy Policy. We are not responsible for the policies or practices of third parties. 
 
-  8. **Security of Personal Information**
+* **Security of Personal Information**
 
 BIGSALE.COM.MY follows generally accepted industry standards to protect the Personal Information that you provide. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure, however. For this reason, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about our security practices, please contact us. 
 
-  9. **Changes to this Privacy Policy**
+* **Changes to this Privacy Policy**
 
 From time to time, we will be committed itself in protecting and maximizing our Users' privacy. We will amend the policy from time to time based on the business progression. Users are responsible to review the Privacy Policy changes from time to time. The revised Privacy Policy will be effective immediately after Privacy Policy changes. Your continuous use of the Site after effectiveness of Privacy Policy revisions will constitute your acknowledgement and acceptance of the terms of the revised Privacy Policy. If you do not agree with the terms of the revised Privacy Policy, you can choose to terminate your Site Users’ account. 
-
-
-**Contact Us**
 
 Feel free to [Contact Us](https://web.archive.org/contact.aspx) for further inquires, or write us at the following address: 
 
