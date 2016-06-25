@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveygizmo.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225001457id_/http%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveygizmo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625122803id_/http%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Like the postal service, we deliver information that belongs to you and your sur
 
 Our Privacy Policy applies to information collected on our site [http://www.surveygizmo.com](http://www.surveygizmo.com/) (our “Site”), as well as to all of our software services platforms, products, and other services and websites, except where otherwise noted. We refer to all of our products, software platforms, services and sites collectively as our “services.” This Privacy Policy does not speak to the practices of any third parties, including those of our partners who may display Widgix branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Customer has engaged Widgix.
 
-If you have questions about this privacy policy, please contact us at (720) 496-2990 or email us at [support@sgizmo.com](mailto:support@sgizmo.com).
+If you have questions about this privacy policy, please contact us at (720) 496-2990 or email us at [support@surveygizmo.com](mailto:support@surveygizmo.com).
 
 We strive for HIPAA compliance – and we want to make sure you are too! For more info, head here.
 
@@ -27,35 +27,11 @@ We strive for HIPAA compliance – and we want to make sure you are too! For mor
 #### IF YOU ANSWER SURVEYS:
 
   * **Survey creators administer + control surveys.** We are only a service provider for surveys. Survey creators administer and have control over their surveys, while we host their platform and software service for them. If you have questions about a particular survey you’re taking, please contact your survey creator.
-  * **Are anonymous responses really anonymous?** Each survey creator has different options for collecting different kinds of information about respondents. Contact your survey creator for specific information about your survey. We also have more info about our anonymous response options [here](http://surveygizmov4.helpgizmo.com/help/article/link/anonymous-surveys).
+  * **Are anonymous responses really anonymous?** Each survey creator has different options for collecting different kinds of information about respondents. Contact your survey creator for specific information about your survey. We also have more info about our anonymous response options [here](https://help.surveygizmo.com/help/article/link/anonymous-surveys).
   * **Are your survey responses sold to a third party?** Widgix does not sell or share your survey responses with third party advertisers or marketers (but your survey creator might – so check with them). The survey creator controls your response data, and we merely act as a custodian and a host on behalf of the survey creator.
-  * Think a survey violates our [Terms of Service](http://www.surveygizmo.com/terms/) or is engaging in illegal activity? Report it by emailing us at [support@sgizmo.com](mailto:support@sgizmo.com).
+  * Think a survey violates our [Terms of Service](https://www.surveygizmo.com/terms/) or is engaging in illegal activity? Report it by emailing us at [support@surveygizmo.com](mailto:support@surveygizmo.com).
 
 
-
-### Key Privacy + Security Issues: Site Map
-
-#### Our [Terms of Service](http://www.surveygizmo.com/terms/)
-
-#### Our Privacy Policy
-
-Our Privacy FAQ + Key Privacy Issues
-
-  1. What kind of information Widgix collects
-  2. How we use the information we collect
-  3. Who we share or disclose information to
-  4. Can the information be changed? Data deletion and data archive.
-  5. Data security
-  6. Account ownership transfer
-  7. Changes to the privacy policy
-
-
-
-Additional Information
-
-#### Our Software Features: Security & Privacy
-
-#### Our Other Pages
 
 1\. What kind of information Widgix collects
 
@@ -97,7 +73,7 @@ Survey Respondents provide us with the information requested by you (for example
 
 We will not – under any circumstances – use Respondent Information for any purpose other than to provide services to our Customers.
 
-We log Customer and Survey Respondent Internet Protocol (IP) addresses to confirm the accuracy of survey data and Survey Respondent IP addresses are also converted into [geo-data](http://surveygizmov4.helpgizmo.com/help/article/link/geodata-explained) for Customers within our software. For our software system administration purposes, we also log a user’s session so that we know when, how often and what pages of the Site a user visits. To avoid the need to re-insert your username and password every time you and your Survey Respondents move from one page of our Site to the next, we use a cookie. (See “Tracking Technologies” below.) We also collect information from our Customers and Respondents regarding the devices and applications used to access our services (like browser type and operating system) and referral sources (if you arrived from another website or email).
+We log Customer and Survey Respondent Internet Protocol (IP) addresses to confirm the accuracy of survey data and Survey Respondent IP addresses are also converted into [geo-data](https://help.surveygizmo.com/help/article/link/geodata-explained) for Customers within our software. For our software system administration purposes, we also log a user’s session so that we know when, how often and what pages of the Site a user visits. To avoid the need to re-insert your username and password every time you and your Survey Respondents move from one page of our Site to the next, we use a cookie. (See “Tracking Technologies” below.) We also collect information from our Customers and Respondents regarding the devices and applications used to access our services (like browser type and operating system) and referral sources (if you arrived from another website or email).
 
 You can login to our site using third party sign-in services such as Google Accounts Authentication and Authorization. These services authenticate your identity and give you the choice to share certain types of personal information with us (like your name and email address) to pre-populate your login.
 
@@ -105,7 +81,7 @@ Our site includes social media features as part of our distribution methods. The
 
 Customers collect information using our software services platform. As a service provider for our Customers, Widgix acts as a custodian for that information, with no direct relationship with the individuals or end users whose personal data our software processes. Widgix provides features and services for Customers to provide notice to their end users or customers concerning the purpose for which personal information is collected. To protect the privacy of our Customers, we cannot disclose private information to end users regarding our Customers’ accounts.
 
-#### Tracking Technologies We Use on Our Site and Services Platforms
+Tracking Technologies We Use on Our Site and Services Platforms
 
 Cookies
 
@@ -135,11 +111,11 @@ For more information on technology available to our customers in collecting data
 
 Our Software Features: Data Collection Technologies
 
-#### Integrations
+Integrations
 
-Our site includes a variety of integrations with third party services, such as ExactTarget and Salesforce (for a list of integrations, visit [our Integrations page](http://surveygizmov4.helpgizmo.com/help/article/link/integrations)). These integrations may use your account information with the third party, collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Integration to function properly. Integrations are either hosted by a third party or hosted directly on our Site. Your interactions with these Integrations are governed by the privacy policy of the third party company providing the Integration.
+Our site includes a variety of integrations with third party services, such as ExactTarget and Salesforce (for a list of integrations, visit [our Integrations page](https://help.surveygizmo.com/help/article/link/integrations)). These integrations may use your account information with the third party, collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Integration to function properly. Integrations are either hosted by a third party or hosted directly on our Site. Your interactions with these Integrations are governed by the privacy policy of the third party company providing the Integration.
 
-#### Blogs/Forums
+Blogs/Forums
 
 If you use our blog or any forums associated with our site, keep in mind that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or blog comments.
 
@@ -149,21 +125,21 @@ We use Customer Information in our normal course of business, including to conta
 
 If you do not wish to receive promotional emails from us, please follow the unsubscribe instructions included in each promotional email. We send service-related announcements when necessary to do so, and generally, you may not opt-out of these communications, which are not promotional in nature.
 
-All Respondent Information is stored in our databases for our Customers’ benefit. At your direction, we use a Survey Respondent’s email address (and at your option other contact information) to send survey invitations, reminders, and whatever other communications you choose to use. We also use Respondent Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and addressing complaints, and addressing compliance issues with our Terms of Service. We require our Customers to warranty their compliance with the CAN-SPAM Act of 2003, and we may have additional approval processes surrounding email campaigns. We also have a software program that alerts us about certain kinds of illegal or dangerous behavior in accounts that violates our [Terms of Service](http://www.surveygizmo.com/terms/). However, we don’t provide monitoring services to you, on your behalf, or otherwise search or monitor for illegal or illicit or other behavior in your account that may violate our [Terms of Service](http://www.surveygizmo.com/terms/). As part of our [Terms of Service](http://www.surveygizmo.com/terms/) our Customers maintain and warranty sole responsibility over their behavior, use of our software platform, and whatever content is inserted into or solicited by our software. We make no representations or warranty over our Customers’ use of our services, nor do we control our Customers’ behaviors. If you think there may be any violations of our Terms, please report it to us at [support@sgizmo.com](mailto:support@sgizmo.com).
+All Respondent Information is stored in our databases for our Customers’ benefit. At your direction, we use a Survey Respondent’s email address (and at your option other contact information) to send survey invitations, reminders, and whatever other communications you choose to use. We also use Respondent Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and addressing complaints, and addressing compliance issues with our Terms of Service. We require our Customers to warranty their compliance with the CAN-SPAM Act of 2003, and we may have additional approval processes surrounding email campaigns. We also have a software program that alerts us about certain kinds of illegal or dangerous behavior in accounts that violates our [Terms of Service](https://www.surveygizmo.com/terms/). However, we don’t provide monitoring services to you, on your behalf, or otherwise search or monitor for illegal or illicit or other behavior in your account that may violate our [Terms of Service](https://www.surveygizmo.com/terms/). As part of our [Terms of Service](https://www.surveygizmo.com/terms/) our Customers maintain and warranty sole responsibility over their behavior, use of our software platform, and whatever content is inserted into or solicited by our software. We make no representations or warranty over our Customers’ use of our services, nor do we control our Customers’ behaviors. If you think there may be any violations of our Terms, please report it to us at [support@surveygizmo.com](mailto:support@surveygizmo.com).
 
 We collect information on behalf of our Customers, just like the Post Office sending and receiving mail on behalf of individuals. If you are an end user or customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact that Customer directly.
 
-#### Our Staff’s Access to Information
+Our Staff’s Access to Information
 
-Our staff will only access your data at a minimum necessary standard, in order to provide technical or administrative support. For instance, if you open a support ticket, hire our consulting services, call our telephone support, or your account is flagged for a security reason, then our staff may log into your account for the purpose of troubleshooting & correcting the reported issue or performing their contracted task. We will not for any reason disseminate your data other than as you have directed (e.g. email actions, sending reports, etc.). All your data is subject to the confidentiality clause (Section 11) of our [Terms of Service](http://www.surveygizmo.com/terms/).
+Our staff will only access your data at a minimum necessary standard, in order to provide technical or administrative support. For instance, if you open a support ticket, hire our consulting services, call our telephone support, or your account is flagged for a security reason, then our staff may log into your account for the purpose of troubleshooting & correcting the reported issue or performing their contracted task. We will not for any reason disseminate your data other than as you have directed (e.g. email actions, sending reports, etc.). All your data is subject to the confidentiality clause (Section 11) of our [Terms of Service](https://www.surveygizmo.com/terms/).
 
-#### Data Retention + Deletion / Destruction
+Data Retention + Deletion / Destruction
 
 Widgix retains data that we process on behalf of our Customers and data we collect from our Customers directly for as long as it is needed to provide services to our Customers. Widgix will retain and use this data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Sometimes users have specific needs either under HIPAA or another institutional or state requirement. For instance, occasionally data needs to be completely destroyed after its intended use. In many cases (e.g. when a customer stops paying for an account, downgrades to a different account plan, etc.), data is retired and locked away rather than actually destroyed. In most cases this makes the loss retrievable in the event of a mistake. We can, however, comply with a request for total data destruction; you just need to let us know. See our section below (Section 4) for more information on data destruction.
 
-#### Links to Other Sites
+Links to Other Sites
 
 Our site contains links to other sites that are not owned or controlled by Widgix. Please be aware that we, Widgix, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
@@ -171,7 +147,7 @@ Our site contains links to other sites that are not owned or controlled by Widgi
 
 We do not share information with any third parties except under the following very limited circumstances:
 
-  1. **Respondent Information with Customer:** Our business is providing tools that allow you, our Customer, to conduct two-way communications with others. Accordingly, we provide you with access to the Respondent Information given in answer to the surveys you have conducted. You may use the Respondent Information consistent with our [Terms of Service](https://web.archive.org/terms), your own privacy policy, and applicable law.
+  1. **Respondent Information with Customer:** Our business is providing tools that allow you, our Customer, to conduct two-way communications with others. Accordingly, we provide you with access to the Respondent Information given in answer to the surveys you have conducted. You may use the Respondent Information consistent with our [Terms of Service](https://web.archive.org/terms/), your own privacy policy, and applicable law.
   2. **As Customers and Respondents Choose:** We may share or otherwise use your Customer Information as you choose, and we may share Respondent Information as both you and the Survey Respondent choose. For example, if you choose to have an email action send a copy of the survey response to the survey creator, survey respondent, and/or a third party.
   3. **Agents Acting on Our Behalf:** We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor or data hosting center. They are contractually bound under nondisclosure agreements and are granted access to only Information that is necessary for their jobs, and are prohibited from using Information for any other purpose (including marketing or sharing the Information with any other party). We do not share any personally identifiable information with third parties who are not services providers who have signed confidentiality agreements to perform services for us.
   4. **For Legal Reasons:** We are required by law to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
@@ -181,19 +157,19 @@ We do not share information with any third parties except under the following ve
 
 4\. Can the information be changed? Data deletion and data archive.
 
-To request deletion of data from our site, please contact us in writing at [support@sgizmo.com](mailto:support@sgizmo.com) and we can help you with what is needed from you to delete the data (e.g., depending on the type of deletion: specification of what data requires deletion, signature on company letterhead, etc.). If requested in writing for confirmation, SurveyGizmo will reply with written confirmation that all requested files, database records and backups of this data have been destroyed. Data cannot be recovered after this is performed.
+To request deletion of data from our site, please contact us in writing at [support@surveygizmo.com](mailto:support@surveygizmo.com) and we can help you with what is needed from you to delete the data (e.g., depending on the type of deletion: specification of what data requires deletion, signature on company letterhead, etc.). If requested in writing for confirmation, SurveyGizmo will reply with written confirmation that all requested files, database records and backups of this data have been destroyed. Data cannot be recovered after this is performed.
 
 Ceasing to pay for your account will archive your data. You can re-access your data to be deleted by yourself or your users by paying for a monthly subscription that will allow you access the data for use (e.g. local storage on your computer, etc.) before deletion. Alternatively, if you do not require access before deletion, you can contact us directly in writing as stated above.
 
-Once a Survey Respondent has submitted a survey, the Survey Respondent may not be able to access his Information through the Site. We do have [software features available](http://surveygizmov4.helpgizmo.com/help/article/link/save-and-continue) to allow Survey Respondents to re-access survey responses, but that must be enabled by the Survey Creator. Survey Respondents may contact you and you, in turn, will be able to view the Survey Respondent’s collected Information and, where appropriate, work with us in modifying such Information. If contacted directly by a Survey Respondent for modification of survey responses, we will contact you, our Customer, and direct the Survey Respondent to contact you.
+Once a Survey Respondent has submitted a survey, the Survey Respondent may not be able to access his Information through the Site. We do have [software features available](https://help.surveygizmo.com/help/article/link/save-and-continue) to allow Survey Respondents to re-access survey responses, but that must be enabled by the Survey Creator. Survey Respondents may contact you and you, in turn, will be able to view the Survey Respondent’s collected Information and, where appropriate, work with us in modifying such Information. If contacted directly by a Survey Respondent for modification of survey responses, we will contact you, our Customer, and direct the Survey Respondent to contact you.
 
 5\. Data security
 
-We have extensive security measures in place to protect your Information, and we are committed to the protection of your data. Unique user names and passwords must be entered each time a person logs on. We work with a third party Tier 1 data center service provider, Amazon Web Services, to host our Site, Services, and Software in a secure production environment that uses a firewall and other technology to reasonably prevent access from outside intruders. When transmitting sensitive Information, we also have encryption technology available for your use. (See [Project Data Encryption](http://surveygizmov4.helpgizmo.com/help/article/link/project-data-encryption) and [Secure Links](http://surveygizmov4.helpgizmo.com/help/article/link/share-survey-via-link) for more info.)
+We have extensive security measures in place to protect your Information, and we are committed to the protection of your data. Unique user names and passwords must be entered each time a person logs on. We work with a third party Tier 1 data center service provider, Amazon Web Services, to host our Site, Services, and Software in a secure production environment that uses a firewall and other technology to reasonably prevent access from outside intruders. When transmitting sensitive Information, we also have encryption technology available for your use. (See [Project Data Encryption](https://help.surveygizmo.com/help/article/link/project-data-encryption) and [Secure Links](https://help.surveygizmo.com/help/article/link/share-survey-via-link) for more info.)
 
 All of our technology and processes are not, however, guarantees of security (see our Terms of Service for more information).
 
-For more information on HIPAA compliance, head here for that section of our Privacy Policy. For more information on our security measures, get in touch with us at [support@sgizmo.com](mailto:support@sgizmo.com) and at (720) 496-2990, or head to some of our other site pages:
+For more information on HIPAA compliance, head here for that section of our Privacy Policy. For more information on our security measures, get in touch with us at [support@surveygizmo.com](mailto:support@surveygizmo.com) and at (720) 496-2990, or head to some of our other site pages:
 
 Our Software Features: Security & Privacy
 
@@ -207,18 +183,18 @@ If you transfer your account billing information and point of contact informatio
 
 As we are constantly improving our services and expanding our business, we reserve the right to modify this privacy policy at any time. In the event we make such changes, we will post the new policy on this Site with an update date. We encourage you to frequently review this page for the latest information on our privacy practices.
 
-#### HIPAA Compliance
+HIPAA Compliance
 
 We strive for compliance with HIPAA (Health Insurance Portability and Accountability Act). However, if you are transmitting or storing personal health information or HIPAA applies to you in any other way, you are obligated to notify us and engage in our HIPAA compliance procedures, which may include signing a business associate agreement with us as well as ensuring that your account tier includes the feature of data encryption at-rest that individual users (e.g. you) must ensure is enabled. For other compliance measures, you may be obligated to perform yourself within your account, including turning on data encryption in-transfer (SSL links).
 
-For more HIPAA compliance information, get in touch with us at [support@sgizmo.com](mailto:support@sgizmo.com) or by phone at (720) 496-2990. You can also take a look at some of our other website pages for more information regarding our security measures and software features:
+For more HIPAA compliance information, get in touch with us at [support@surveygizmo.com](mailto:support@surveygizmo.com) or by phone at (720) 496-2990. You can also take a look at some of our other website pages for more information regarding our security measures and software features:
 
 Our Software Features: Security & Privacy
 
 Our Other Pages
 
-#### Additional Information
+Additional Information
 
-If you have questions about this Privacy Policy or the Site, or to request a full security packet for your team, you can contact us at [dedicated@sgizmo.com](mailto:dedicated@sgizmo.com) or give us a call at (720) 496-2316.
+If you have questions about this Privacy Policy or the Site, or to request a full security packet for your team, you can contact us at [dedicated@surveygizmo.com](mailto:dedicated@surveygizmo.com) or give us a call at (720) 496-2316.
 
 Last Updated: October 6, 2015
