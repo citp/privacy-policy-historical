@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaxt.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201095057id_/http%3A//arenaxt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaxt.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625213406id_/http%3A//arenaxt.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
