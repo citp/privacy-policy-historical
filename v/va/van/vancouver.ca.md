@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083716id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625125718id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | City of Vancouver
 
@@ -12,6 +12,8 @@ This information is only obtained if you supply it voluntarily, usually through 
 
 Any personal information we ask you to provide is collected under the authority of the Freedom of Information and Protection of Privacy Act. The information will only be used for the purpose of administering City services, informing you of our services and benefits, and for statistical purposes.
 
+If you have any questions regarding the collection and use of your personal information please contact the Director, Access to Information, 453 W 12th Avenue, Vancouver, BC or call 604-873-7999.
+
 ## Tracking your website visit
 
 We constantly improve this website to make it as useful to you as possible. To do this, we gather statistics about what pages you visit when you visit the site.
@@ -24,14 +26,14 @@ This cookie does not collect any information we could use to identify you, such 
 
 The cookie does collect:
 
-  * Your IP address (a series of numbers that are automatically assigned to your computer when you go online). 
-  * The type of web browser and operating system you use. 
-  * The date and time you visited the site. 
-  * Which pages you visited. 
-  * The order you visited the pages. 
-  * How long you spent on each page. 
-  * The page you entered the site on. 
-  * The last page you looked at before you left. 
+  * Your IP address (a series of numbers that are automatically assigned to your computer when you go online).
+  * The type of web browser and operating system you use.
+  * The date and time you visited the site.
+  * Which pages you visited.
+  * The order you visited the pages.
+  * How long you spent on each page.
+  * The page you entered the site on.
+  * The last page you looked at before you left.
 
 
 
@@ -43,11 +45,11 @@ The only time we collect your personal information on this website is when you v
 
 This includes when you:
 
-  * Participate in an online forum or poll. 
-  * Fill in a feedback or contact form. 
-  * Click the "share this" button on any page. 
-  * Request further information about a specific topic. 
-  * Send us an email. 
+  * Participate in an online forum or poll.
+  * Fill in a feedback or contact form.
+  * Click the "share this" button on any page.
+  * Request further information about a specific topic.
+  * Send us an email.
 
 
 
@@ -69,7 +71,7 @@ You can pay for some City services \- such as dog license renewals and parking 
 
 These transactions are done through SSL-encrypted technology. This means that your credit card and other payment information is transmitted to us securely. After your transaction is complete, we do not store your credit card or other payment information.
 
-## Registering for a recreation program 
+## Registering for a recreation program
 
 Before you can register for a recreation program, you need to set up an account. Your account is protected by password so only you can access it. Your personal information, including credit card information, will be stored with your account. The storage and handling of your credit card information is in compliance with all applicable Payment Card Industry security standards.
 
