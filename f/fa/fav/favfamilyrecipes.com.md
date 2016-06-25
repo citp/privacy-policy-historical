@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favfamilyrecipes.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118061732id_/http%3A//www.favfamilyrecipes.com/favorite-family-recipes-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favfamilyrecipes.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625111512id_/http%3A//www.favfamilyrecipes.com/favorite-family-recipes-privacy-policy) for the most accurate reproduction.*
 
 # Favorite Family Recipes Privacy Policy -Favorite Family Recipes
 
