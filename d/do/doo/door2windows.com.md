@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011070507id_/http%3A//www.door2windows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625232150id_/http%3A//www.door2windows.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - door2windows
+# Privacy
 
 ### What information do you collect?
 
@@ -11,6 +11,12 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 ### Do you use cookies?
 
 Yes, we use cookies to keep track of advertisements. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the sites or service provider's systems to recognize your browser and capture and remember certain information.
+
+* * *
+
+* * *
+
+* * *
 
 ### Do you disclose any information to outside parties?
 
