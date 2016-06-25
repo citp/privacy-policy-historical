@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225171219id_/http%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625235750id_/http%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Well Bake Often
 
 This Privacy Policy governs the manner in which Live Well Bake Often collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.livewellbakeoften.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Live Well Bake Often.
+
+**Comment Policy**
+
+Comments are welcome and encouraged, but any comment deemed inappropriate will be deleted.
 
 **Personal identification information**
 
@@ -14,7 +18,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -67,6 +71,6 @@ Live Well Bake Often
 Danielle @ Live Well Bake Often  
 livewellbakeoften (at) gmail.com
 
-This document was last updated on April 28th, 2015.
+This document was last updated on February 6, 2016.
 
 Privacy policy created by [http://www.generateprivacypolicy.com](http://www.generateprivacypolicy.com/)
