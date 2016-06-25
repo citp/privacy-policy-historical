@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152209id_/http%3A//site.adready.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626002353id_/http%3A//site.adready.com/privacy-policy) for the most accurate reproduction.*
 
 # AdReady – Privacy Policy
 
@@ -104,7 +104,13 @@ Clients have access to their account information and may update that information
 
 If you have any questions or concerns about AdReady’s privacy policy and practices, please don’t hesitate to contact us by e-mail at: [privacy@adready.com](mailto:privacy@adready.com).
 
-## 3\. Other Information
+## 3\. Opting Out of Interest-Based Mobile Ads
+
+If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:  
+iOS – <https://support.apple.com/en-us/HT202074>  
+Android – <https://support.google.com/ads/answer/2662922?hl=en>
+
+## 4\. Other Information
 
 ### Policy Updates
 
@@ -124,4 +130,4 @@ Attention: Privacy Officer
 110 Union Street, Suite 210  
 Seattle, WA 98101
 
-Policy updated as of September 24, 2013 (The ‘effective date’) 
+Policy updated as of April 7, 2016 (The ‘effective date’) 
