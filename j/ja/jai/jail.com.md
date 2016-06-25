@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jail.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527210959id_/http%3A//jail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jail.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625054532id_/http%3A//jail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
