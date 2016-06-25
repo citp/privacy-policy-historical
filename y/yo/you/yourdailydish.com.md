@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdailydish.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607052324id_/http%3A//yourdailydish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailydish.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625224600id_/http%3A//www.yourdailydish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
