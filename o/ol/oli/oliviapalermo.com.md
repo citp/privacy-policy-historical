@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the oliviapalermo.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411094722id_/http%3A//www.oliviapalermo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliviapalermo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625061158id_/http%3A//oliviapalermo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Olivia Palermo's Style Blog and Website
+# Privacy Policy | Olivia Palermo
 
-**Privacy Policy                                                                               **Last Updated: July 1, 2013 ****
 
-This Privacy Policy sets out the privacy practices of the website located at [www.oliviapalermo.com](http://www.oliviapalermo.com/) (herein referred to as the “Website”) which is owned and operated by Butterfield Global LLC (“Company,” “we,” “our” or “us”). Specifically, this policy describes the types of information we may collect from you or that you may provide when you visit the Website and our practices for collecting, using, maintaining, protecting and disclosing that information.
+
+
+**Privacy Policy     **Last Updated: December 2015
+
+This Privacy Policy sets out the privacy practices of the website located at www.oliviapalermo.com (herein referred to as the “Website”) which is owned and operated by Butterfield Global LLC (“Company,” “we,” “our” or “us”). Specifically, this policy describes the types of information we may collect from you or that you may provide when you visit the Website and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy only applies to information we collect on the Website and in e-mail, text and other electronic messages between you and the Website.  It does not apply to information collected by: (i) us offline or through any other means, including on any website operated by any third party; or (ii) any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it.  By visiting and using the Website, you agree that your use of the Website, and any dispute over our online privacy practices, is governed by this Privacy Policy and the [Terms of Use](http://www.oliviapalermo.com/terms-and-conditions/).  Please be aware that we may need to change the Privacy Policy from time to time, in which case we will post the revised Privacy Policy on the Website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Website after we post any such changes, you accept the Privacy Policy as modified.
+Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it.  By visiting and using the Website, you agree that your use of the Website, and any dispute over our online privacy practices, is governed by this Privacy Policy and the Terms of Use.  Please be aware that we may need to change the Privacy Policy from time to time, in which case we will post the revised Privacy Policy on the Website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Website after we post any such changes, you accept the Privacy Policy as modified.
 
 **Use and disclosure of information**
 
@@ -17,7 +20,7 @@ Please read this Privacy Policy carefully to understand our policies and practic
 We use information that we collect about you or that you provide to us, including any personal information:
 
   * To present the Website and its contents to you.
-  * To provide you with information that you request from us.
+  * To send you our newsletter and other information that you request from us.
   * To send you marketing and promotional materials by mail or e-mail.
   * To fulfill any other purpose for which you provide it.
   * As a stand alone asset in the event of sale, merger, reorganization or bankruptcy of our business.
@@ -29,7 +32,7 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may also use your information to contact you about our own and select third parties’ goods and services that may be of interest to you.  If you do not want us to use your information in this way, please send an email to info(at)oliviapalermo.com.
+We may also use your information to contact you about our own and select third parties’ goods and services that may be of interest to you.  If you do not want us to use your information in this way, please send an email to [team@oliviapalermo.com](mailto:team@oliviapalermo.com).
 
 We may use the information we have collected from you to enable us to display advertisements to an advertiser’s target audiences.  Even though we will not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -57,15 +60,15 @@ Though we make every effort to preserve the privacy of the visitors to the Websi
 
 
 
-**Your California Privacy Rights** ****
+**Your California Privacy Rights**
 
-California Civil Code Section § 1798.83 permits users of the Website who are California residents to request and obtain from Company, once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the immediately preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information. If you are a California resident and would like to make such a request, please submit your request via email to info(at)oliviapalermo.com
+California Civil Code Section § 1798.83 permits users of the Website who are California residents to request and obtain from Company, once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the immediately preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information. If you are a California resident and would like to make such a request, please submit your request via email to [team@oliviapalermo.com](mailto:team@oliviapalermo.com).
 
-**CHILDREN UNDER THE AGE OF 13** ****
+**CHILDREN UNDER THE AGE OF 13**
 
-The Website is not intended for children under 13 years of age and we do not knowingly collect personal information from children under 13, nor do we knowingly distribute such information to third parties.  If you are under 13, do not provide any information to this Website or through any of its features or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at info(at)oliviapalermo.com.
+The Website is not intended for children under 13 years of age and we do not knowingly collect personal information from children under 13, nor do we knowingly distribute such information to third parties.  If you are under 13, do not provide any information to this Website or through any of its features or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at [team@oliviapalermo.com](mailto:team@oliviapalermo.com).
 
-**Usage Details, IP Addresses, Cookies and Other Technologies.** ****
+**Usage Details, IP Addresses, Cookies and Other Technologies.** ** **
 
 As you navigate through and interact with the Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including details of your visits to the Website, and other communication data and resources accessed and/or used by you on the Website.  This information is used for record keeping, to track your movements when you visit the Website and to help Company and our authorized third party analytics vendors to determine what type of information to present to you.
 
@@ -99,6 +102,6 @@ All versions of the Privacy Policy are dated with the effective date of that ver
 
 **Questions**
 
-If you have any questions about this Privacy Policy, please contact: OliviaPalermo.com at info(at)oliviapalermo.com
+If you have any questions about this Privacy Policy, please contact: [team@oliviapalermo.com](mailto:team@oliviapalermo.com).
 
-**© 2013 Butterfield Global LLC. All rights reserved.**
+**© 2015 Butterfield Global LLC. All rights reserved.**
