@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224055521id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626001344id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement|
 
