@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the bitx.co privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320124902id_/https%3A//bitx.co/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitx.co privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625170505id_/https%3A//www.bitx.co/in/global/en/legal/privacy) for the most accurate reproduction.*
 
-# BitX
+# BitX - Privacy Policy
 
 At BitX, we value your privacy and strive to protect your personal information. “Personal information” refers to any information from which your identity could reasonably be ascertained. BitX will only collect and use your personal information in accordance with this Privacy Policy and the terms of your agreements with BitX. If you need further information, please contact support@bitx.co.
 
 This Privacy Policy explains:
 
-  * The type of personal information we collect
-  * How we collect personal information
-  * How we use your personal information
-  * Disclosure of personal information
-  * The security of your personal information
-  * Additional matters relating to personal information
-
-
-
-#### The type of personal information we collect
+##### The type of personal information we collect 
 
 In order to enable us to deal with your inquiries, open and operate an account or to generally provide you with our products and services and comply with laws and regulations, we may need to and/or may be required to collect, record, hold, use, disclose and store (i.e. “process”) personal information and financial information about you, including but not limited to:
 
@@ -24,7 +15,7 @@ In order to enable us to deal with your inquiries, open and operate an account o
 
 
 
-#### How we collect personal information
+##### How we collect personal information
 
 We obtain personal information in various ways, including but not limited to:
 
@@ -37,7 +28,7 @@ We obtain personal information in various ways, including but not limited to:
 
 
 
-#### How we use your personal information
+##### How we use your personal information
 
 Other than as stated above, we may use your personal information for one or more of the following purposes:
 
@@ -62,7 +53,7 @@ Other than as stated above, we may use your personal information for one or more
 
 Please be assured that we will ask for your consent before using your personal information for a purpose other than those set out in this Privacy Policy and in the terms in your agreements with BitX.
 
-#### Disclosure of personal information
+##### Disclosure of personal information
 
 As a part of providing you with our products and services, and for the management and operations of these products and services, and to comply with legal and regulatory requirements, we may be required or need to disclose information about you and your account with us to the following third parties:
 
@@ -86,30 +77,30 @@ We will otherwise treat your personal information as private and confidential an
 
 
 
-#### Security of your personal information
+##### Security of your personal information
 
 BitX places great importance on ensuring the security of your personal information. We regularly review and implement up-to-date technical and organisational security measures when processing your personal information. Employees of BitX are trained to handle the personal information securely and with utmost respect, failing which they may be subject to disciplinary action.
 
-#### Additional matters relating to personal information
+##### Additional matters relating to personal information
 
-##### Retention of personal information
+###### Retention of personal information
 
 BitX will retain your personal information in compliance with this Privacy Policy and the terms and conditions of your agreements with BitX for the duration of your relationship with us, and afterwards for such period as may be necessary to protect the interests of BitX and its customers, and as required by BitX’s relevant policies, and as required by the law.
 
-##### Incomplete personal information
+###### Incomplete personal information
 
 Where indicated (for example in application forms or account opening forms), it is obligatory to provide your personal information to us to enable us to process your application for our products or services. Should you decline to provide such obligatory personal information, we may not be able to process your application/request or provide you with our products or services.
 
-##### Your right to access and update your personal information
+###### Your right to access and update your personal information
 
 You have a right to access your personal information. Please contact customer support if you wish to have access to your personal information. BitX will take steps to verify your identity before fulfilling your request.
 
 If there are any changes to your personal data or if you believe that the personal data we have about you is inaccurate, incomplete, misleading or not up-to-date, please contact us so that we may take steps to update your personal data. BitX may use its discretion in allowing the corrections requested and/or may require further documentary evidence of the new information to avoid fraud and inaccuracy.
 
-##### Revisions to this Privacy Policy
+###### Revisions to this Privacy Policy
 
 This Privacy Policy may be revised from time to time. If there are any material changes, BitX will notify you (e.g. by email communication or posting a prominent notice).
 
-##### Contacting BitX in relation to personal information
+###### Contacting BitX in relation to personal information
 
 Should you have any query in relation to this Privacy Policy or how we handle your personal information, kindly contact support@bitx.co.
