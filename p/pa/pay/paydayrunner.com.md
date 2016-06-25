@@ -1,62 +1,80 @@
-> *The following text is extracted and transformed from the paydayrunner.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314140637id_/http%3A//paydayrunner.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayrunner.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - paydayrunner.com
+# HugeDomains.com - Privacy Policy
 
-Version 1 Dated March 26th 2008
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY BA, INC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE "BA SITES"), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A "VISITOR" (WHICH MEANS THAT YOU SIMPLY BROWSE THE BA SITES) OR YOU ARE A "MEMBER" (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE BA SITES). THE TERM "USER" REFERS TO A VISITOR OR A MEMBER. "YOU" REFERS TO YOU AS A VISITOR OR A MEMBER.
+**What information do we collect?**
 
-This policy describes the information collection, use, and dissemination practices of BA, Inc., its subsidiaries and affiliates, (collectively referred herein as "the COMPANY") and applies to the COMPANY's collection, use, storage and disclosure of information by the COMPANY on its BA Sites.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-IF YOU REGISTER AS A MEMBER AND ACCEPT ALL THE TERMS, SELECT THE "ACCEPT" BUTTON. IF YOU ARE NOT WILLING TO BE BOUND BY THESE TERMS, SELECT THE "DO NOT ACCEPT" BUTTON AND THE REGISTRATION PROCESS WILL NOT CONTINUE. IF YOU SELECT THE "DO NOT ACCEPT" BUTTON OR YOU ARE OTHERWISE UNWILLING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, YOU ARE NOT AUTHORIZED TO REGISTER. THIS PRIVACY POLICY IS INCORPORATED INTO AND IS SUBJECT TO THE BA INC. [TERMS OF USE](https://web.archive.org/terms-of-use.aspx). BEFORE YOU SELECT THE "ACCEPT" BUTTON, YOU SHOULD PRINT OFF OR SAVE A LOCAL COPY OF THE AGREEMENT FOR YOUR RECORDS. IF YOU DO NOT WISH TO REGISTER BUT WOULD LIKE TO BROWSE OUR WEBSITE AS A VISITOR YOUR CONTINUED USE OF THE SERVICE WILL BE DEEMED ACCEPTANCE OF THESE TERMS. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-The COMPANY may change any term of this Privacy Policy at any time and for any reason after providing notice to you, including by posting notice of the change to the [BA](http://bardonadvisors.com/) Site or by sending you an email of the change to the Privacy Policy. If any changes to this Privacy are unacceptable to you, you must discontinue using the BA Site. Notice of the changes to you coupled with your continuing use of the BA Site will be evidence of your assent to the new terms of the Privacy Policy. The COMPANY is not responsible for the information collection or privacy practices of its Clients or other Third Party websites or applications. This Privacy Policy applies exclusively to information practices related to our websites. Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
+**What do we use your information for?**
 
-  1.  **Personal Information Collected on this Website.**
+Any of the information we collect from you may be used in one of the following ways: 
 
-    * a. **Visitors.** No personally-identifiable information is collected on BA Sites from Visitors that browse the BA Sites for information.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-    * b. **Members.** Personally-identifiable information collected on a BA Site is gathered on our "register here" pages. These fields include name, address, phone number, email address, gender, age and other information necessary for the system to provide you with the information responsive to your request. The personal information a Member submits to the BA Site remains property of the Member, but by submitting that information to the BA Site, you, as a Member, grant the COMPANY, the right to use that information for the purposes disclosed below.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-  2.  **No Information Collected from Children.** BA Sites are general audience websites and is intended to be used by adults. The COMPANY does not knowingly solicit, collect, or attract personal information from or about children. BA Sites are not intended for children and the COMPANY does not want to collect any personally identifiable information from Users who are under the age of 13. The safety of children is very important to the COMPANY, and the COMPANY strongly recommends that parents review this Privacy Policy and understand its terms and conditions, so that BA Sites are used only by persons age 13 and over.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-  3.  **How We May Use Your Personal Information.** The COMPANY may use a Member's personal information to provide the requested services, including services that display customized content and advertising. We may disclose, transfer, sell or lease a Member's personal information to third party businesses and to other entities affiliated with the COMPANY. In addition, we may join together with other businesses to bring opportunities to our Members. This means we may use personal information to provide promotional offers to Members by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses (collectively, "Promotions"). Third party businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. We may also use such information for content improvement and feedback purposes. The COMPANY may also use personal information for auditing, research and analysis to operate and improve our technologies and services. We may also disclose personal information to the extent necessary if the COMPANY is sold or acquired or otherwise deemed necessary or appropriate.
+• To process transactions
 
-  4.  **Legal Proceedings.** The COMPANY may disclose a Member's personally identifiable information pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of the rights of the COMPANY or any third party.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  5.  **Email and Unsubscribe Policy.** As explained above, the COMPANY uses a Member's personal information to Promotions by email to individuals and companies including clients of the COMPANY. The COMPANY may maintain separate email lists for different purposes. If you wish to discontinue receiving email messages from the COMPANY, please email [unsubscribe@bigfaninc.com](mailto:unsubscribe@bigfaninc.com)
+• To send periodic emails
 
-The COMPANY's unsubscribe process impacts only the future delivery of electronic mailings disseminated by the COMPANY on its own behalf. A Member should also note that unsubscribing from the COMPANY's electronic mailings will not automatically unsubscribe the Member's information from any third parties businesses. Since third party businesses maintain separate databases from the COMPANY, a Member will need to unsubscribe from each source individually, if desired.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-  6.  **Wireless Addresses.** If the e-mail address Member provides to the COMPANY is a wireless e-mail address, Member agrees to receive messages at such address from the COMPANY or its business associates (unless and until Member elects not to receive such messages by following the instructions in the unsubscribe portion of this policy). Member understands that a Member's wireless carrier's standard rates apply to these messages. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-  7. **Security.** The COMPANY uses industry standard security measures to protect the loss, misuse and alteration of the information under our reasonable control Although we make good faith efforts to store the information collected on BA Sites in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-  8.  **Financial Information.** We may in certain cases collect credit card numbers, bank account numbers and other related information, such as the expiration date of the credit card ("Financial Information"). This Financial Information is submitted to us, and such Financial Information is encrypted and is protected with SSL encryption software. We will use the Financial Information for purposes of processing and completing the purchase transaction, and the Financial Information will be disclosed to third parties only as necessary to complete the purchase transaction. This information will not be sold or distributed to third parties in any way.
+**How do we protect your information?**
 
-  9.  **Anonymous Information Collected on this Website.** We record anonymous data such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site. We use IP addresses and cookies for gathering website statistics. We also store IP addresses on our server in the event that a BA Site should become corrupted and it becomes necessary to discover the cause of this corruption.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We aggregate this anonymous data as part of managing, maintaining and reporting on use of our BA Sites. We may share this anonymous data with third parties for the limited purpose of reporting on use of a BA Site, or to comply with applicable law. We do not rent, sell or share any anonymous data collected on this website with third parties for marketing purposes. None of this anonymous data is linked to personally-identifiable information and we make no attempt to link IP addresses to the individuals who visit this site.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-  10.  **Cookies, Web Beacons, and Other Info Collected Using Technology.** We currently use cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-  11. We use third party advertising companies to serve ads when you visit our BA Site and sites upon which we advertise. These third party advertising companies use information about your visits to our BA Sites and the sites upon which we advertise, to serve COMPANY ads to you. In the course of our advertisements being served to you, these companies may place or recognize their own unique third-party cookies on your browser. In addition, we may use Web beacons, provided by some of our third-party advertising companies, to help manage our online advertising. These Web beacons allow us to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our website.
+**Do we use cookies?**
 
-    * a. **Cookies.** Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website. [Individuals who use the BA Site need to accept cookies in order to use all of the features and functionality of the site. To learn more about our third-party ad-serving companies, cookies, and how to opt-out please click [here](http://www.networkadvertising.org/managing/opt_out.asp)
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-    * b. **Web Beacons.** A web beacon is programming code that can be used to display an image on a web page, but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows us to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-    * c. **Usage Tracking and Log Files.** The COMPANY tracks information related to the electronic mailings and web pages viewed by members, as well as the hyperlinks clicked by members, while viewing our emails or visiting our websites. Log files are used to track and monitor member usage. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-    * d. **IP Address.** We collect your IP (Internet Protocol) address to help diagnose problems with our server, and to administer this BA Site. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data
+**Do we disclose any information to outside parties?**
 
-  12.  **Links to External Websites.** Our emails and websites may contain links to external websites not owned or operated by the COMPANY ("Linked Sites"). You will be taken to external websites if you click on these links. Your information may be passed from the COMPANY's database to the external website, and/or external database, for your convenience (e.g. your information may be used to pre-fill a form at a destination website). You acknowledge and agree that we are not responsible for the privacy practices of such Linked Sites, and this Privacy Policy does not apply to such Linked Sites. Consequently, the operators of Linked Sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the BA Site. We encourage you to review the privacy policies on the Linked Sites. THE COMPANY DISCLAIMS ALL RESPONSIBILITY OR LIABILITY FOR THE ACTIONS OF, PRIVACY PRACTICES OF, OR INFORMATION CONTAINED ON OR COLLECTED VIA LINKED SITES.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-  13.  **CALIFORNIA RESIDENTS PRIVACY RIGHTS.** Companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your personal information by following the mechanisms laid out in section 5 of this Privacy Policy.
+**Online Privacy Policy Only**
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/). If you have any questions about this Privacy Policy, please contact us at privacyofficer@bigfaninc.com.
+**Terms and Conditions**
 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
+**Your Consent**
 
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
