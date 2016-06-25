@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319024016id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625235706id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wormly
+# Privacy Policy - Wormly
+
+  1. [Home](https://web.archive.org/)
+  2. [Help](https://web.archive.org/help)
+  3. [About Us](https://web.archive.org/help/about/)
+  4. Privacy Policy 
+
+
 
 ## Privacy Policy
 
@@ -45,11 +52,24 @@ We apply the same security policy to our entire server infrastructure, which is 
 
 All communications within this distributed server infrastructure are secured using industry-standard 128-bit or 256-bit SSL encryption.
 
-## See Also
+#### W
 
-  * [About Wormly](https://web.archive.org/help/about/about-us)
-  * [Why Choose Wormly?](https://web.archive.org/help/about/why-us)
-  * [Referral Program](https://web.archive.org/help/about/affiliates)
-  * [Terms of Service](https://web.archive.org/help/about/terms-of-service)
+Monitors your website & server infrastructure to keep you online and performing fast.
 
+**Be Alert**. SMS, phone call, email and IM alerts keep you in the loop when failure strikes.
 
+**Report**. Keep all stakeholders on the same page with detailed uptime and service level reporting.
+
+**Prevent**. Server health monitoring reveals problems before they cause downtime.
+
+[ Take a Free Trial ](https://web.archive.org/join/via/RHSbtn)
+
+#### Customer Love
+
+[](http://99designs.com/)
+
+Founder of 99designs Mark Harbottle doesn't mince words:
+
+> “We monitor everything with Wormly. Website down = lost revenue. It's pretty simple, really.”
+
+[See More Reviews](https://web.archive.org/website_monitoring_reviews)
