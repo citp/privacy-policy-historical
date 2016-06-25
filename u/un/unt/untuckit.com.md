@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523011257id_/http%3A//untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071736id_/http%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNTUCKit
 
+Free Shipping and returns on all US orders!
+
 TERMS OF USE
 
-Welcome to Untuckitshirts.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms.  
-
+Welcome to Untuckitshirts.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms.
 
 GENERAL  
   
@@ -34,6 +35,22 @@ All comments, feedback, postcards, suggestions, ideas, and other submissions dis
 
 
   * Untuckitshirt.com uses your information for three general purposes: to fulfill the orders and request for certain products and services you placed with us, to contact you about specials and new products and to understand the shopping habits of our customers to better serve them in the future.
+
+
+  * By visiting our site third parties may place cookies on users’ browsers for targeted advertising purposes.
+
+
+
+
+  * These cookies are intended to track data such as website activity and IP addresses. This data may be used by third parties to target advertising on other sites based on our users' online activity.
+
+
+  * Instructions on how users can opt out of receiving targeted advertising are below: 
+
+
+    * DAA opt-out site [www.aboutads.info](http://www.aboutads.info/)
+    * NAI opt-out site at [networkadvertising.org/choices](http://www.networkadvertising.org/choices/)
+    * Europe: the EDAA opt out site at [youronlinechoices.eu](http://www.youronlinechoices.com/).)
 
 
   * Any materials sent to untuckitshirts.com will be considered confidential and will become the property of UNTUCKit.
