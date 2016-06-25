@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044849id_/http%3A//themighty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625193845id_/http%3A//themighty.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mighty
 
