@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231231622id_/http%3A//citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625165230id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
@@ -43,7 +43,7 @@ Public Citizen is fully compliant with PCI-DSS (Payment Card Industry Data Secur
 ### Contacting Us
 
    
-If you contact us by phone or email, we may keep a record so that we can follow up with you if necessary. We do not disclose the information in that record to any outside entity unless you give us permission to do so or unless disclosure is compelled by law.
+If you contact us by phone or email, we may keep a record so that we can follow up with you if necessary. We do not disclose the information in that record to any outside entity unless you give us permission to do so or disclosure is compelled by law or necessary to prevent danger to an individual or threat to public safety.
 
 ### Cookies and IP Addresses
 
@@ -61,7 +61,7 @@ For systems administration and troubleshooting, we log the IP address (the locat
 ### Updates to This Policy
 
    
-This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on May 21, 2015.
+This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on April 4, 2016.
 
 ### Questions
 
