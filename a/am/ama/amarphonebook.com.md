@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarphonebook.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230225426id_/http%3A//www.amarphonebook.com/content/Privacy-Policy/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarphonebook.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625110009id_/http%3A//www.amarphonebook.com/content/Privacy-Policy/2) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,4 @@ If you are our corporate customer, it is possible that we have entered into a co
 
 ### If you have any questions or concerns about these privacy policies; please call our 24/7 Customer Service Team at
 
-### 09612-555-555.
+### 16393.
