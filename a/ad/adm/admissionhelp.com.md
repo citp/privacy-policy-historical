@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031185554id_/http%3A//admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625052522id_/http%3A//admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Admissionhelp.com-Powered by Cyberica Net Technologies Pvt. Ltd.
 
