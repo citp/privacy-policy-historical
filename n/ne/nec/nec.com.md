@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205025840id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625073842id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | NEC
+
+This is the top of the page.
+
+Main content starts here.
 
 Updated: December 4, 2015
 
 ## About our privacy practices
 
-**NEC Privacy Policy**
+**NEC Privacy Policy**  
+
 
 By offering various Internet-related products, services, and solutions, NEC Corporation ("NEC") contributes to society as a global leading company which realizes an "information society friendly to humans and the earth" through innovation.  
 In working toward the realization of such a society, NEC recognizes that the protection of personal information, including social security and tax number ("Personal Information") is its social responsibility, and has established a policy for the protection of Personal Information. Efforts are constantly being made to implement and maintain the policy. This privacy policy sets forth our principles as follows (note that the original is in Japanese): 
@@ -19,7 +24,7 @@ In working toward the realization of such a society, NEC recognizes that the pro
 
 
 
-President  
+President   
 NEC Corporation
 
 (This policy applies only to NEC Corporation's Privacy Practices, not to those of other NEC Group companies. Please contact each NEC Group company for their Privacy Policy.)
@@ -38,11 +43,11 @@ Those Websites may issue cookies, collect data, or gather Personal Information a
 
 If you are under the age of 16, please make sure that you provide us with your Personal Information only after obtaining parental consent.
 
-## Inquiry contact regarding Personal Information/contact for complaints
+## Inquiry contact regarding personal information/contact for complaints
 
 For Personal Information handling, please get in touch with the contacts described at the time of registration.
 
-If you do not know whom to contact, please get in touch with [the inquiry contact regarding Personal Information](https://contact.nec.com/cgi-bin/contact/select_qc.cgi). NEC will respond after confirming the details.
+If you do not know whom to contact, please get in touch with the [inquiry contact regarding Personal Information.](https://contact.nec.com/cgi-bin/contact/select_qc.cgi) NEC will respond after confirming the details.
 
 ## Notice regarding this website
 
@@ -62,21 +67,17 @@ On NEC's Websites, there are pages where a tool is generally used to perform sta
 
 ### Explanation of terms
 
-Cookies:  
+Cookies:   
 "Cookies" is a technology used to identify a computer that is browsing a Website through the Internet. A cookie is a small packet of information transmitted from a Web server to the user's computer, and may be stored as a file on the said user's hard disk. The purpose of this technology is to store, on the user's computer, information regarding the Web server.   
 By doing so, even when the visitor leaves the site, when the visitor returns to it, the Web server can identify the user's computer by reading the cookie stored on the said user's computer. 
 
-Web beacons:  
+Web beacons:   
 Web beacons usually work in conjunction with cookies. These beacons may be placed as a graphical image on specific pages across a Website. They collect aggregate statistics on Website usage by monitoring certain types of information on the user's computer.
 
 ## About privacy mark
 
 NEC Corporation is certified by the Japan Information Processing Development Center (JIPDEC) for granting the Privacy Mark to be granted to enterprisers which conduct proper handling of the Personal Information.
 
-For more details of the Privacy Mark, please visit the Privacy Mark page of JIPDEC website by clicking the following image.
+For more details of the Privacy Mark, please visit the Privacy Mark page of JIPDEC website by clicking the following image. 
 
 [](http://privacymark.org/)
-
-Menu starts here.
-
-End of menu.
