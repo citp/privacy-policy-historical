@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910095601id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625020158id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
 
 # Thread
 
@@ -12,7 +12,7 @@ We will not sell your name, address, e-mail address, credit card information or 
 
 If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of Thread.
 
-All Thread members have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by visiting 'Your Details' in 'Your Account' on the Thread website. You can access 'Your Account' once you register and login. Or click on the "unsubscribe" link in any email communications which we might send you.
+All Thread members have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by visiting '[Account](https://web.archive.org/settings/account)' on the Thread website. You can access '[Account](https://web.archive.org/settings/account)' once you register and login. Or click on the "unsubscribe" link in email communications which we might send you.
 
 ### Cookies
 
