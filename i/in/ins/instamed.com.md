@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228205353id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625182138id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | InstaMed
+# Privacy Statement - InstaMed
 
 InstaMed Communications, LLC, and its respective divisions, subsidiaries and affiliates (“InstaMed”) recognizes the importance of protecting your privacy. This Privacy Statement (“Statement”) discloses our information-gathering and dissemination practices for this website at [www.instamed.com](http://www.instamed.com/) (“Website”).
 
