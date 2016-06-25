@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daad.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616135320id_/https%3A//www.daad.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daad.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625062438id_/https%3A//www.daad.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,6 +54,6 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 ## **Usage Rights**
 
-Copyright © 2012 by DAAD
+Copyright © 2016 by DAAD
 
 All rights reserved.
