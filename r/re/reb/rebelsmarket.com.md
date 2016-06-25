@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rebelsmarket.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928103715id_/http%3A//www.rebelsmarket.com/pages/15-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsmarket.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625184132id_/http%3A//www.rebelsmarket.com/pages/15-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](https://web.archive.org/) Privacy Policy
 
 At RebelsMarket, we value a fun and safe shopping community. We know you care about your privacy, too, so we provide settings that allow you to control how certain information is used on RebelsMarket. This privacy policy explains our privacy practices for RebelsMarket.com and services provided by RebelsMarket, Inc. 
 
