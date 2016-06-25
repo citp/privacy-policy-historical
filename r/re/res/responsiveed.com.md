@@ -1,76 +1,60 @@
-> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108042911id_/http%3A//responsiveed.com%3Fpage_id%3D823) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625125105id_/http%3A//responsiveed.com/privacy-policy) for the most accurate reproduction.*
 
-# Responsive Education Solutions - Privacy Policy
+# Privacy Policy - ResponsiveEd®
 
-[Home](http://responsiveed.com/ "Responsive Education Solutions") > Privacy Policy 
+This Privacy Policy governs the manner in which ResponsiveEd collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ResponsiveEd.com website (“Site”).
 
-### ResponsiveEd.com Privacy Policy
+### Personal identification information
 
-#### What information do we collect?
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+### Non-personal identification information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-#### What do we use your information for?
+### Web browser cookies
 
-Any of the information we collect from you may be used in one of the following ways:
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+### How we use collected information
+
+ResponsiveEd may collect and use Users personal information for the following purposes:
+
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### How we protect your information
 
-#### How do we protect your information?
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+### Sharing your personal information
 
-#### Do we use cookies?
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
+### Electronic newsletters
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-#### Do we disclose any information to outside parties?
+### Changes to this privacy policy
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ResponsiveEd has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-#### Children’s Online Privacy Protection Act Compliance
+### Your acceptance of these terms
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using [http://www.privacypolicies.com](http://privacypolicies.com/)
 
-#### Online Privacy Policy Only
+### Contacting us
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://responsiveed.com/contact/).
 
-#### Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.ResponsiveEd.com](https://web.archive.org/).
-
-#### Your Consent
-
-By using our site, you consent to our websites privacy policy.
-
-#### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-#### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Responsive Education Solutions  
-[http://www.ResponsiveEd.com](https://web.archive.org/)  
-PO Box 292730  
-Lewisville, Texas 75029  
-USA  
-[info@ResponsiveEd.com](mailto:info@responsiveed.com)  
-(972) 316-3663
+This document was last updated on March 17, 2016
