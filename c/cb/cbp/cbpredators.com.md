@@ -1,79 +1,80 @@
-> *The following text is extracted and transformed from the cbpredators.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215220504id_/http%3A//www.cbpredators.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbpredators.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# CB Predators
+# HugeDomains.com - Privacy Policy
 
-CBPREDATORS.COM Privacy Policy 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-PRIVACY POLICY FOR www.cbpredators.com
+**What information do we collect?**
 
-This privacy policy sets out how "www.cbpredators.com" uses and protects any information that you give "www.cbpredators.com" when you use this website.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-"www.cbpredators.com" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-"www.cbpredators.com" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from November 12, 2009.
+**What do we use your information for?**
 
-WHAT WE COLLECT
+Any of the information we collect from you may be used in one of the following ways: 
 
-We may collect the following information:
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Name,  
-Email Address,  
-Demographic information such as postcode, preferences and interests,  
-Information relevant to customer surveys and/or offers
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-What we do with the information we gather.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+• To process transactions
 
-Internal record keeping.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We may use the information to improve our products and services.
+• To send periodic emails
 
-We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We may use the information to customize the website according to your interests.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-SECURITY
+**How do we protect your information?**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
-How we use cookies
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+**Do we use cookies?**
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-LINKS TO OTHER WEBSITES
+**Do we disclose any information to outside parties?**
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-YOUR PERSONAL INFORMATION
+**Online Privacy Policy Only**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to support@cbpredators.com
+**Terms and Conditions**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
+**Your Consent**
 
-You may direct questions, comments or reports to: 
+By using our site, you consent to our web site privacy policy. 
 
-support@cbpredators.com
+**Changes to our Privacy Policy**
 
-REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+This policy was last modified on 1/10/2012 
 
-LATEST UPDATE
+**Contacting Us**
 
-This Privacy Policy was last updated on: November 12, 2009
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
