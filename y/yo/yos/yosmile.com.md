@@ -1,23 +1,80 @@
-> *The following text is extracted and transformed from the yosmile.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213002003id_/http%3A//www.yosmile.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosmile.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# YO Smile !::Privacy
+# HugeDomains.com - Privacy Policy
 
-Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
+**What information do we collect?**
 
-YO Smile ! is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-YO Smile ! collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Like many other Web sites, YO Smile ! uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use YO Smile !. Members who disable cookies will not be able to use YO Smile !. 
+**What do we use your information for?**
 
-Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their YO Smile ! list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of YO Smile ! members are never displayed to other users on the system. Users within a Personal Network communicate on YO Smile ! with each other through the YO Smile ! service without disclosing their email addresses.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. YO Smile ! does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. YO Smile ! stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-The YO Smile ! site may contain links to other Web sites. Please be aware that YO Smile ! is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than YO Smile !, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
