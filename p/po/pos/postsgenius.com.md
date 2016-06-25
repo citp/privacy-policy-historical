@@ -1,86 +1,80 @@
-> *The following text is extracted and transformed from the postsgenius.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630061749id_/http%3A//www.postsgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postsgenius.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy policy | Posts Genius
+# HugeDomains.com - Privacy Policy
 
-**Your privacy is important** to BackLinks Genius Ltd. This privacy statement provides information **about the personal information** that BackLinks Genius Ltd **collects** , and the ways in which BackLinks Genius Ltd **uses** that personal information.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-## Personal information collection
+**What information do we collect?**
 
-BackLinks Genius Ltd may collect and use the following kinds of personal information:
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-  * information about your use of this website;
-  * information that you provide for the purpose of registering with the website;
-  * any other information that you send to BackLinks Genius Ltd.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways: 
 
-## What we do not collect
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-  * financial details of our customers (like credit/debit cards, login details to PayPal and Moneybookers...)
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
+• To process transactions
 
-## Using personal information
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-BackLinks Genius Ltd may use your personal information to:
+• To send periodic emails
 
-  * administer this website;
-  * personalize the website for you;
-  * enable your access to and use of the website services;
-  * publish information about you on the website;
-  * send you products that you purchase;
-  * supply you services that you purchase;
-  * send you statements and invoices;
-  * collect payments from you; and
-  * send you marketing communications.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Where BackLinks Genius Ltd discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor will be obligated to use that personal information strictly in accordance with the terms of this privacy statement.
+**How do we protect your information?**
 
-In addition to the disclosures reasonably necessary for the purposes identified above, BackLinks Genius Ltd may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, or in order to establish, exercise or defend its legal rights.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-## Securing your data
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-BackLinks Genius Ltd will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-BackLinks Genius Ltd will store all the personal information you provide on its secure servers.
+**Do we use cookies?**
 
-Information relating to electronic transactions entered into via this website will be protected by encryption technology.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-## Cross-border data transfers
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Information that BackLinks Genius Ltd collects may be stored and processed in and transferred between any of the countries in which BackLinks Genius Ltd operates to enable the use of the information in accordance with this privacy policy.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
+**Do we disclose any information to outside parties?**
 
-You agree to such cross-border transfers of personal information.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-## What about "cookies?"
+**Online Privacy Policy Only**
 
-"Cookies" are small pieces of information that are stored by your browser on your computer´s hard drive. Our cookies do not store any personal information, but they do enable us to store your web site preferences and settings between visits.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-## Updating this statement
+**Terms and Conditions**
 
-BackLinks Genius Ltd may update this privacy policy by posting a new version on this website.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-You should check this page occasionally to ensure you are familiar with any changes, and you will be by bound by the most recent version, as published by us.
+**Your Consent**
 
-## Other websites
+By using our site, you consent to our web site privacy policy. 
 
-This website contains links to other websites.
+**Changes to our Privacy Policy**
 
-BackLinks Genius Ltd is not responsible for the privacy policies or practices of any third party.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-## In summary
+This policy was last modified on 1/10/2012 
 
-We are committed to protecting your privacy. We use the information we collect on the site to make your use of BackLinks Genius Ltd services possible and to enhance your user experience. We do not sell, trade, or rent your personal information to others.
+**Contacting Us**
 
-## Contact
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-If you have any questions about this privacy policy or Posts Genius treatment of your personal information, please write to:
-
-  * by contact form or e-mail address published on About us page; or
-  * by post to 2 TINTAGEL CLOSE, RUSHDEN, NORTHAMPTONSHIRE, UNITED KINGDOM.
-
-
+HugeDomains.com
