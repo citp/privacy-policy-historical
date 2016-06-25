@@ -1,28 +1,80 @@
-> *The following text is extracted and transformed from the medspartners.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122041942id_/http%3A//medspartners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medspartners.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# MedsPartners - The Best Pharmacy Affiliate Program
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-MedsPartners.com provides this privacy policy to demonstrate our commitment to the privacy of our Affiliate Program members (affiliates). Please read the following to familiarize yourself with our privacy policy, and how we treat all personal information collected from our affiliates. 
+**What information do we collect?**
 
-What this Privacy Policy Covers    
-This privacy policy covers our treatment of personally identifiable information collected by us through a website owned and operated by us. This privacy policy does not apply to the practices of companies that are not in our direct subjection, or of persons not employed by us, including any third-party content contributors bound by contract and any third-party websites to which our websites may link. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Collection and Use of Personal Information    
-You may visit our websites without revealing any personal information. However, we do need certain personal information if you wish to register an Affiliate Account, receive our newsletter, or use some of our other services. If and where required, this information may include your contact information and/or your company contact information. We will use this information to reply to your inquiries, to provide you with requested products and services, to set up your members' account, to contact you regarding new products and services, and to make financial settlements. By accessing our services and voluntarily providing us with the personal information we request, you consent to the collection and use of information in accordance with this privacy policy We automatically receive and record certain types of non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. We may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, we do not connect this non-personal data to any personal information we hold about you. We also allow third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. These cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and we assume no responsibility or liability for their use. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Information Sharing and Disclosure    
-We will not disclose your personal information to any third parties who work on our behalf to provide products and services requested by you. We will not share your personal information for any purposes even if a third parties privacy policies are consistent with ours. We may otherwise disclose your personal information when: (a) We have your express consent to share the information for a specified purpose; (b) We need to respond to subpoenas, court orders or other such legal process; (c) We find that your actions on our websites violate our [ Terms and Conditions ](https://web.archive.org/web/20111122041942id_/http%3A//medspartners.com/Terms.aspx) document or any of our usage guidelines pertaining to corresponding products or services. We may also disclose your personal information, with your consent, to a third party payment gateway when it is absolutely required to allow us to make financial settlements. However, only information that you provide in the Payment Method section of the Affiliate Account settings will be shared. It is your responsibility to provide the minimum but sufficient information needed to permit us to make a timely settlement. 
+**What do we use your information for?**
 
-Consent    
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us. If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us at [](https://web.archive.org/web/20111122041942id_/http%3A//medspartners.com/mailtosupport). After proper identification and fulfillment of such a request your personal data will be deleted from our records and from our backup infrastructure. However, records of payments may remain with third party payment companies such as banks, e-wallets and other payments' operators. This may or may not include your personal information. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-Security    
-Unfortunately, no data transmission over the Internet can be considered 100% secure. But your information stored on our systems is protected for your privacy and security. In certain areas of our websites, as identified on the site, we use industry-standard SSL-encryption to protect data transmissions. We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. Further, we retain your personal information only as long as is necessary to fulfill the purposes identified above. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Changes to this Privacy Policy    
-We may at any time, without notice to you, and with sole discretion, amend this policy from time to time. It is in your own interest to review this policy periodically. Your continued use of our websites after any such amendments signifies your acceptance thereof. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Questions or Suggestions    
-If you have questions or suggestions about this privacy policy, or the security of your own personal information, please e-mail us at [](https://web.archive.org/web/20111122041942id_/http%3A//medspartners.com/mailtosupport). 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
