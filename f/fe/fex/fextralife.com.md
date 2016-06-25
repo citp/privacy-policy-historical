@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222162859id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625142302id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Fextralife • User Control Panel • Privacy policy
 
@@ -22,6 +22,9 @@ We may collect, store and use the following kinds of personal information:
 
   
 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with the terms of this privacy policy.
+
+**NOTE:  ** IP addresses are not legally considered personal information, as per a Federal Court ruling in the United States (Johnson v. Microsoft Corp.). If you edit our wikis or post comments anonymously on our website, your IP will be stored and displayed to other users as a means of identifying the edit and commentator as one user. This is standard practice with websites such as ours, including Wikipedia. If you do not wish for your IP to be publicly visible, you can register an account and then your user display may be customized to whatever you choose.
+
 * **Cookies**
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
