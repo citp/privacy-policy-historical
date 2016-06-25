@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the glengala.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412231322id_/http%3A//www.glengala.com/content.cfm/privacy-policy/85) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glengala.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Glen Gala Children’s Centre - Early Learning Services
+# HugeDomains.com - Privacy Policy
 
-We are committed to maintaining the privacy of personal information you provide to us when using our web site located at www.earlylearningservices.com.au.  This Privacy Policy describes how we treat personal information received about you when you visit the Site.  Please note that we may make content or services from other web sites available to you from links located on the our Site.  These other web sites are not subject to this Privacy Policy.  We recommend that you review the privacy policy at each such web site to determine how that site protects your privacy.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-### **1\. What information do we collect?**
+**What information do we collect?**
 
-**1.1** When you submit information to our Site, we will collect personally identifiable information from you that may include your name, business and company name, e-mail address, residential and business address and other such information necessary to provide you with the services offered by our Site.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**1.2** As a general principal, we will only collect personally identifiable information that is needed to operate our Site, to provide you with the services offered by our Site and to communicate to you information and services that we believe would be of interest to you.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**1.3** We automatically collect IP addresses and web site usage information from visitors to our Site.  This information helps us evaluate how visitors and subscribers use and navigate our Site on an aggregate basis, including the number and frequency of visitors and subscribers to each web page and the length of their visits.
+**What do we use your information for?**
 
-### **2\. What do we use personal information for?**
+Any of the information we collect from you may be used in one of the following ways: 
 
-**2.1** We may use information in the following ways:
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-  * For the purposes for which you specifically provide the information and for purposes which are ancillary to those specifically purposes; 
-  * If we sell our business or any part of it to the purchaser; 
-  * When and child protection concerns are identified by us; 
-  * To enhance existing features or develop new features of our Site and the services offered by our Site; 
-  * To provide advertisers and other third parties with aggregate information about our user data base and usage patterns. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
+• To process transactions
 
-**2.2** We agree not to rent, sell or otherwise exchange to third parties any personal or confidential information submitted to our Site except where you consent, or where you would expect the information to be disclosed.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**2.3** We may disclose personal information or confidential information submitted to our Site if such disclosure is required to comply with the law, or believe in good faith that disclosure is necessary to:
+• To send periodic emails
 
-  * Comply with the law or legal process served on us; 
-  * Protect or defend its personal and property rights (for example, to enforce the General Terms and Conditions of Use on our Site); and 
-  * Protect the personal safety of other users of our Site or any other persons in an emergency. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**2.4** We may use third party network advertisers to deliver ads to you on our behalf. These network advertisers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+**How do we protect your information?**
 
-### **3\. Your ability to choose?**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-When you subscribe to our Site you can let us know that you do not wish to receive information about new features or wish to unsubscribe from our lists by opting out at any time you give us your personal identifying information or by contacting us at info@g8education.com.au
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-### **4\. Cookies**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-We employ cookies technology to help visitors and subscribers move efficiently and quickly through our Site. When you subscribe to our Site or take advantage of several key features, we may pass cookies on to your computer. A cookie is a stream of information that is sent by a web site and stored on your hard drive or temporarily in your computer's memory. If you do not want a cookie, you can set your browser to deny it.
+**Do we use cookies?**
 
-### **5\. Review and correction**
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Upon presentation of appropriate identification, we will allow you access to information we keep about you to determine what this information is and to correct the information if it is found to be inaccurate.  To review and update the personally identifiable information/registration information you have provided us contact at [info@g8education.com](mailto:info@g8education.com)
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-### **6\. Security**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-We have implemented security features in our database to protect your personal information from unauthorised access.  We maintain our servers in a controlled and secured environment.  Only staff who need to have access to your personal information in order for them to perform their job function are authorised to access the database. Constant changes to the internet and technology mean that we cannot guarantee that data transmission will be 100% secure or safe from attack by unauthorised intruders.
+**Do we disclose any information to outside parties?**
 
-### **7\. Policy modifications**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-We may revise and update this Privacy Policy by posting a revised Privacy Policy on our Site as and when we see fit. 
+**Online Privacy Policy Only**
 
-### **8\. Other terms and conditions**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-The General Terms and Conditions of Use of our Site are available at <http://www.earlylearningservices.com.au/terms_and_conditions/>
+**Terms and Conditions**
 
-### **9\. Last update**
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-This Privacy Policy was last updated on 24 September 2007.
+**Your Consent**
 
-### **10\. Contact information**
+By using our site, you consent to our web site privacy policy. 
 
-If you have any questions, comments or concerns regarding this Privacy Policy, you may contact us at [info@g8education.com](mailto:info@g8education.com)
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
