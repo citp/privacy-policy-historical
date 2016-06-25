@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010711id_/http%3A//www.care2.com/help/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625083433id_/http%3A//www.care2.com/help/general/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
-Last Updated: 05/27/2015
+Last Updated: 03/31/2016
 
 Care2.com ("Care2") takes seriously the issue of safeguarding your privacy online. This privacy policy applies to www.care2.com and thepetitionsite.com owned and operated by Care2.com. This privacy policy describes how Care2.com collects and uses the personal information you provide on our web site: www.care2.com and www.thepetitionsite.com. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings. 
 
@@ -79,7 +79,9 @@ During the signing process, you may opt to receive certain newsletters and membe
 
 This Privacy Policy is compliant with: (i) the [Safe Harbor Privacy Principles](http://export.gov/safeharbor/eu/eg_main_018475.asp) of the US - EU Safe Harbor Framework, and (ii) the [Safe Harbor Privacy Principles](http://export.gov/safeharbor/swiss/eg_main_018500.asp) of the US-Swiss Safe Harbor Framework. 
 
-We self-certify compliance with: 
+[We self-certify compliance with](https://safeharbor.export.gov/list.aspx): 
+
+[ ](https://www.export.gov/safeharbor)
 
 **[Care2 Cafe Discussions](http://www.care2.com/community/cafe/):** To post messages to the Care2 Cafe discussion boards, users must be Care2 members and must log in. When posting a message, a member's Care2 name and/or user name will appear hyperlinked as the "author" of each message. Login is required to ensure that every user who posts a message has a unique user id. The name is hyperlinked to allow other Care2 users to e-mail you; our system is designed to allow members to contact you via e-mail without revealing your e-mail address. When posting a message, there is an e-mail notification check off box that is automatically checked off so that you will be notified via e-mail when another user responds to your posted message. If you do not want to receive these e-mail notifications, simply uncheck the e-mail notification box before posting your message. After posting a message, a link to your member profile will appear (if you have submitted a member profile). Because, your discussion postings and member profile will be publicly available, Do NOT include personal information. To request removal of your personal information from our discussion boards, contact us using our [Help Form](http://www.care2.com/help/support). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
