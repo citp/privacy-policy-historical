@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726092030id_/http%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625163017id_/http%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 7 on a Shoestring
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -46,9 +46,15 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
+**Notice Regarding Interest-Based Advertising**
+
+Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website. Third party companies may use non-personally identifiable information ( _e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over_ ) during your visit to this website in order to provide advertisements about goods and services likely to be of greater interest to you. Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website.
+
+Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website ([www.networkadvertising.org](http://www.networkadvertising.org/)) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
+
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+We are in compliance with the requirements of COPPA ( _Childrens Online Privacy Protection Act_ ), our policy is located at .
 
 **Online Privacy Policy Only**
 
@@ -66,4 +72,4 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 06/29/2015
+This policy was last modified on 08/06/2015
