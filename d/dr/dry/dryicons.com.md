@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217083030id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625025643id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
