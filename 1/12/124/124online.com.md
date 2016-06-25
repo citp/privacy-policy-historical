@@ -1,28 +1,80 @@
-> *The following text is extracted and transformed from the 124online.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209154424id_/http%3A//www.natragood.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 124online.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# NatraGood
+# HugeDomains.com - Privacy Policy
 
-###  Gathering of Personally-Identifying Information 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Certain visitors to natragood.com websites choose to interact with natragood.com in ways that require natragood.com to gather personally-identifying information. The amount and type of information that natragood.com gathers depends on the nature of the interaction. natragood.com collects information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with natragood.com. natragood.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-relatead activities. 
+**What information do we collect?**
 
-  
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-###  Aggregated Statistics 
+**What do we use your information for?**
 
-natragood.com may collect statistics about the behavior of visitors to its websites. However, natragood.com does not disclose personally-identifying information other than as described below. Protection of Certain Personally-Identifying Information natragood.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on natragood.com behalf or to provide services available at natragood.com websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using natragood.com websites, you consent to the transfer of such information to them. natragood.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, natragood.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when natragood.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of natragood.com, third parties or the public at large. If you are a registered user of an natragood.com website and have supplied your email address, natragood.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with natragood.com and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. natragood.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Any of the information we collect from you may be used in one of the following ways: 
 
-  
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-###  Cookies 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. natragood.com may use cookies to help natragood.com identify and track visitors, their usage of natragood.com website, and their website access preferences. natragood.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using natragood.com websites, with the drawback that certain features of natragood.com websites may not function properly without the aid of cookies. Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by natragood.com and does not cover the use of cookies by any advertisers.
+• To process transactions
 
-  
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
+• To send periodic emails
 
-###  Privacy Policy Changes 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Although most changes are likely to be minor, natragood.com may change its Privacy Policy from time to time, and in natragood.com sole discretion. natragood.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
