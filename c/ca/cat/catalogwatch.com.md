@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogwatch.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223133443id_/http%3A//www.catalogwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogwatch.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625221114id_/http%3A//www.catalogwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CatalogWatch
 
