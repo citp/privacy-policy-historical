@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115192601id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625120131id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -8,7 +8,7 @@ When you use the Tate website, we may collect personal information about you whe
 
   * contact you to respond to your queries (if you email us with a question, for example)
   * provide you with services (send you an email bulletin or enable your progress through an online course, for example)
-  * personalise your experience of Tate content (remembering your most recent search in [Art & artists](https://web.archive.org/art/), for example)
+  * personalise your experience of Tate content (remembering your most recent search in [Art & artists](http://auth.tate.org.uk/art/), for example)
   * contact you to ask you to respond to surveys
   * optimise your experience of Tate content (remembering your connection speed to serve you streamed video, for example)
 
@@ -44,9 +44,9 @@ The cookies collect information such as the number of visitors to the site, whic
 
 If you browse this website you may receive personalised banner advertisements whilst browsing other reputable websites. We are committed to providing you with information on products and offers which are relevant to you. The banner advertisements will relate to exhibition pages, events or products which have been viewed whilst browsing this website on your computer or other device.
 
-This service is provided by Tate via a reputable third-party specialist company called Media IQ, through the use of cookies placed on your computer or other device. Media IQ may choose to target you based on your Non-Personally Identifiable Information (Non-PII), this includes but is not limited to IP host address, the date and time of activity online, the pages viewed, browser type, referring URL, Internet Service Provider and operating system. Media IQ do not collect Personally Identifiable Information (PII) such as name, address, phone number, email, address, credit card information or anything else that can personally identify you.
+This service is provided by Tate via reputable third-party specialist companies like Sizmek, DataXu and Quantcast, through the use of cookies placed on your computer or other device. These companies may choose to target you based on your Non-Personally Identifiable Information (Non-PII), this includes but is not limited to IP host address, the date and time of activity online, the pages viewed, browser type, referring URL, Internet Service Provider and operating system. These companies do not collect Personally Identifiable Information (PII) such as name, address, phone number, email, address, credit card information or anything else that can personally identify you.
 
-Visit the [Media IQ privacy policy (pdf)](http://mediaiqdigital.com/wp-content/uploads/2012/10/privacy-policy.pdf) for more details and instructions for how to [opt out](http://www.youronlinechoices.com/opt-out).
+You can visit these individual companies and read their privacies for more information on how to opt out. [The Sizmek privacy policy](http://www.sizmek.com/privacy-policy/), [Quantcast privacy policy](https://www.quantcast.com/privacy/) and [Data Xu privacy policy](https://www.dataxu.com/about-us/privacy/) are all available online. 
 
 You may also opt out of receiving further personalised advertisements in the future by clicking on the bottom right hand corner of any advertisement you receive and following the instructions.
 
@@ -90,7 +90,7 @@ We do not collect or process sensitive personal data such as race, ethnic origin
 
 #### Working with suppliers
 
-In some cases we work with external suppliers to provide certain services. For example, an external fulfilment house is used to send large volumes of mail such as [Tate Etc. magazine](https://web.archive.org/node/154226). In this instance, we send your name and address to the fulfilment house to enable them to deliver your magazine. Other services provided by external suppliers might include agencies or consultants who provide marketing assistance. All data is transferred securely and all external suppliers have signed data processing and confidentiality agreements with Tate.
+In some cases we work with external suppliers to provide certain services. For example, an external fulfilment house is used to send large volumes of mail such as [Tate Etc. magazine](http://auth.tate.org.uk/about/business-services/tate-etc-magazine). In this instance, we send your name and address to the fulfilment house to enable them to deliver your magazine. Other services provided by external suppliers might include agencies or consultants who provide marketing assistance. All data is transferred securely and all external suppliers have signed data processing and confidentiality agreements with Tate.
 
 #### Privacy and data protection
 
@@ -102,7 +102,7 @@ Our website may contain links to other websites which are outside our control an
 
 ## 4\. Apps privacy policy
 
-Our [Privacy Policy](https://web.archive.org/node/310911) explains what we do with the information we collect through our apps. Tate cares about your privacy and aims to comply with The Children’s Online Privacy Protection Act (COPPA). If you have any questions about our apps or our privacy policy, please contact [apps@tate.org.uk](mailto:apps@tate.org.uk).
+Our [Privacy Policy](http://auth.tate.org.uk/about/business-services/tate-publishing/apps-privacy-policy) explains what we do with the information we collect through our apps. Tate cares about your privacy and aims to comply with The Children’s Online Privacy Protection Act (COPPA). If you have any questions about our apps or our privacy policy, please contact [apps@tate.org.uk](mailto:apps@tate.org.uk).
 
 ## 5\. Changes to this privacy notice
 
