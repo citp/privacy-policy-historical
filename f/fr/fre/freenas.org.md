@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freenas.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212183604id_/http%3A//www.freenas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenas.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625035321id_/http%3A//www.freenas.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeNAS Project
-
-﻿
+# Privacy Policy - FreeNAS - Open Source Storage Operating System
 
 This is the Privacy Policy for the FreeNAS.org (“FreeNAS”) web site (“Site”). Your privacy is very important to us and we are committed to protecting it. We understand that you need to be in control of your personal data. This Privacy Policy explains the manner in which the FreeNAS collects personal data from you and the purpose for that collection. This Privacy Policy is designed to ensure that you are aware of how your personal data is being used and to provide you with choices about that use. By visiting the FreeNAS Site or submitting your personal data, you accept the terms described in this Privacy Policy.
 
