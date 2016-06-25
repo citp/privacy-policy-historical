@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the pcx.com.ph privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017045036id_/http%3A//pcx.com.ph/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcx.com.ph privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625182114id_/http%3A//pcx.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  *     * The requested page could not be found
-    * The requested page could not be found
-
-
+# Privacy Policy - PC EXPRESS
 
 This privacy policy sets out how PC Express uses and protects any information that you give PC Express when you use this website. PC Express is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PC Express may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -20,7 +15,7 @@ We may collect the following information:
 
 
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+For the exhaustive list of cookies we collect see the [List of cookies we collect](http://pcx.com.ph/privacy-policy-cookie-restriction-mode/#list) section.
 
 ## What we do with the information we gather
 
@@ -39,7 +34,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -66,7 +61,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name| COOKIE Description  
+COOKIE name | COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
