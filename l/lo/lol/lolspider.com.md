@@ -1,75 +1,80 @@
-> *The following text is extracted and transformed from the lolspider.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409201332id_/http%3A//www.lolspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolspider.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | lolSpider
+# HugeDomains.com - Privacy Policy
 
-**We take your privacy very seriously.**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Last Modified: 22 December 2012
+**What information do we collect?**
 
-**Introduction**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-****  
-lolSpider, Inc. (“lolSpider”) takes the private nature of your personal information very seriously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-This privacy policy, which we adapted from a policy originally provided by Automattic (WordPress.com), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
+**What do we use your information for?**
 
-**Website Visitors**
+Any of the information we collect from you may be used in one of the following ways: 
 
-****  
-Like most website operators, lolSpider collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. lolSpider’s purpose in collecting non-personally identifying information is to better understand how lolSpider’s visitors use its website. From time to time, lolSpider may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.  
-lolSpider also collects potentially personally-identifying information like Internet Protocol (IP) addresses. lolSpider does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Gathering of Personally-Identifying Information**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-****  
-Certain visitors to lolSpider’s websites choose to interact with lolSpider in ways that require lolSpider to gather personally-identifying information. The amount and type of information that lolSpider gathers depends on the nature of the interaction. For example, we ask visitors who sign up for lolSpider.com to provide a username and email address. In each case, lolSpider collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with lolSpider. lolSpider does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Aggregated Statistics**
+• To process transactions
 
-****  
-lolSpider may collect statistics about the behavior of visitors to its websites. For instance, lolSpider may monitor the most popular collections on lolSpider.com. lolSpider may display this information publicly or provide it to others. However, lolSpider does not disclose personally-identifying information other than as described below.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Protection of Certain Personally-Identifying Information**
+• To send periodic emails
 
-****  
-lolSpider discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on lolSpider’s behalf or to provide services available at lolSpider’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using lolSpider’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if lolSpider or substantially all of its assets were acquired, or in the unlikely event that lolSpider goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of lolSpider may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, lolSpider will not rent or sell potentially personally-identifying and personally-identifying information to anyone.  
-Other than to its employees, contractors and affiliated organizations, as described above, lolSpider discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when lolSpider believes in good faith that disclosure is reasonably necessary to protect the property or rights of lolSpider, third parties or the public at large. If you are a registered user of a lolSpider website and have supplied your email address, lolSpider may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with lolSpider and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. lolSpider takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.  
-You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**Cookies**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-****  
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. lolSpider uses cookies to help lolSpider identify and track visitors, their usage of lolSpider websites, and their website access preferences. lolSpider visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using lolSpider’s websites, with the drawback that certain features of lolSpider’s websites may not function properly without the aid of cookies.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Ads**
+**How do we protect your information?**
 
-****  
-Ads appearing on any lolSpider websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by lolSpider and does not cover the use of cookies by any advertisers.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**Links to Third Party Sites**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-****  
-This privacy policy only applies to information collected by lolSpider. This privacy policy does not apply to the practices of companies that lolSpider does not own or control, or employees that lolSpider does not manage. A lolSpider website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and lolSpider and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Security**
+**Do we use cookies?**
 
-****  
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.?
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-**Choice/Opt-out**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-****  
-If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.?
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**Address Book Data**
+**Do we disclose any information to outside parties?**
 
-****  
-Any external address book data (email contacts, etc.) that a user voluntarily gives lolSpider access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**Privacy Policy Changes**
+**Online Privacy Policy Only**
 
-****  
-Although most changes are likely to be minor, lolSpider may change its privacy policy from time to time, and in lolSpider’s sole discretion. lolSpider encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**Contact Us**  
-If you have any questions about this privacy policy or our sites in general, please contact us.
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
