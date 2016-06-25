@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsafeds.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917012829id_/https%3A//www.fsafeds.com/GEM/FSAFEDSForms/PS0000096550.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsafeds.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625075408id_/https%3A//www.fsafeds.com/GEM/FSAFEDSForms/PS0000096550.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,5 +43,5 @@ ADP offers several options for accessing your account information, including Web
 telephone service, customer service representative, mail, and e-mail. Specific addresses and telephone
 numbers are listed on your statements and other correspondence.
 If you have questions or comments regarding this privacy policy, please contact privacy@adp.com.
-       CORPORATE HEADQUARTERS / 11405 BLUEGRASS PARKWAY / LOUISVILLE, KY 40299 / 888 - 421 - 7477
+       CORPORATE HEADQUARTERS / 11405 BLUEGRASS PARKWAY / LOUISVILLE, KY 40299 / 877-372-3337
                          © 2012 ADP BENEFIT SERVICES KY, INC. ALL RIGHTS RESERVED
