@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014185831id_/http%3A//www.go-optic.com/new/storeinfo3.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625190429id_/http%3A//www.go-optic.com/privacy-policy) for the most accurate reproduction.*
 
-# [Go-Optic] Store Policies & Customer Privacy
-
-Effective on July 23, 2010 
+# Security & Privacy Policy | Go-Optic.com
 
 This privacy statement describes how Go-Optic.com collects and uses the personal information you provide on our Web site: [www.go-optic.com ](https://www.go-optic.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -62,8 +60,8 @@ We may provide your personal information to companies that provide services to h
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Go-Optic.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Go-Optic.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -84,7 +82,7 @@ We use a third party to gather information about how you and others use our Web 
 
 _Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Go-Optic.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Go-Optic.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ## Security
 
@@ -92,13 +90,13 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](https://web.archive.org/contactus). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](https://web.archive.org/contactus). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 If you have any questions about security on our Web site, you can [contact us ](https://web.archive.org/contactus)
 
 ## Additional Policy Information
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
@@ -110,12 +108,16 @@ To review and update your personal information to ensure it is accurate, [contac
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
+## Contact Information
+
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Go-Optic.com 
+Go-Optic.com®
 
-3422 Old Captial Trail Unit #718 
+3422 Old Captial Trail Unit #718
 
 Wilmington, DE, United States 19808
+
+Email: [Email us](https://web.archive.org/contactus)
 
 Phone: 877-634-2020
