@@ -1,73 +1,80 @@
-> *The following text is extracted and transformed from the snaglo.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213022408id_/http%3A//www.snaglo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snaglo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy :: Snaglo.com a service of Creative Shopping, LLC.
+# HugeDomains.com - Privacy Policy
 
-## Privacy Policy
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-### snaglo: COMMITTED TO YOUR PRIVACY
+**What information do we collect?**
 
-**Our Privacy Policy is also   hosted at truste.com as part of TRUSTe's program requirements. **[**Click here to view privacy policy at truste.com**](http://privacy-policy.truste.com/verified-policy/www.snaglo.com)
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-snaglo, a service provided by Creative Shopping, LLC, values your business and your privacy rights. As part of the normal operation of our business we collect and, in some cases, may disclose information about you. We have created this Privacy Policy to let you know what information we collect about you, why we collect it and how it is used. This Privacy Policy applies to all information that you provide to snaglo ("us," "we," or "our") and that we maintain electronically, whether you provide the information through our website or through other avenues. This Privacy Policy also applies to any personal information obtained from your use of our website. This Privacy Policy does not apply to any information that you may provide to third parties such as other websites linked to our website. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is in addition to our Terms and Conditions. We reserve the right to change this Privacy Policy and the Terms and Conditions at any time without prior notice to you. In the event we do so, we will post the changes on this page and the date of the changes at the top of this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact us at privacy@snaglo.com.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**CHILDREN’S ONLINE PRIVACY PROTECTION**
+**What do we use your information for?**
 
-In order to be eligible to use our website, you must be at least eighteen (18) years of age or older. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information. We do not knowingly collect any personal information from children under the age of 13 years of age and hereby advise all visitors to our website under the age of 13 not to disclose or provide any personal information on our website. In the event that we discover that a child under the age of 13 has provided personal information to us, we will delete the child’s personal information from our files to the extent technologically possible in accordance with the Children’s Online Privacy Protection Act.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We collect and maintain a variety of personal information about you to enable us to provide you with the best service. Personal information is information about you by which you may be identified. We currently collect personal information through e-mail and the various online inquiry forms on our website. The personal information we collect and maintain about you includes your username, date of birth, state of residence and/or zip code, the time zone in which you live and your email address. In the event you are the successful bidder on an item, we will also collect your mailing address and phone number.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We only collect personal information that you voluntarily provide to us or voluntarily provide to our partners who share that information with us as discussed below. We also use your personal information for other things that may include, but are not limited to, the following:
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Correspondence and Interactions**
+• To process transactions
 
-We use your personal information to communicate with you in the event we have any questions with regard to your online inquiry. We may also contact you to notify you about important changes to our Website and our products and services and those of our partners and other affiliates. We intend to retain any correspondence, including facsimiles, mail and e-mails, sent to us. We also may retain correspondence such as customer service e-mails from us to you. We may delete such records over time.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Surveys**
+• To send periodic emails
 
-You may have the opportunity to participate in demographic surveys and other marketing inquiries in an effort to further improve the website. Participation in these efforts is voluntary.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**IP Addresses**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-IP addresses are numbers that are automatically assigned to your computer and, if associated with other individually identifiable information, could be considered personal information. Your user IP address information is used only for our internal tracking purposes.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**Cookies**
+**How do we protect your information?**
 
-Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Website more satisfying and efficient by personalizing your website experience and gathering website statistical data, such as which parts of the website you have previously visited, what material you downloaded, your internet provider's domain name and country, and the addresses of websites you visited immediately before and after our website. They enable us to tailor the information you receive from us and assist our partners or other third party organizations with whom we have strategic alliances by identifying you as our customer or website user. Most web browsers automatically accept cookies unless you have configured yours not to accept them. In order for us to provide you with services on our website, your browser must accept cookies as they are essential for website administration and security. We do not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**WHAT GENERAL INFORMATION DO WE COLLECT**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-General information is information about you or your activities on our website that does not identify you personally. When you use the internet, your web browser or software may communicate certain information to the host website you visit. This information may include the unique number assigned to your server or internet connection, the capabilities and features of your computer, you geographic location and your movement and activity within a particular website. We collect the same information on our website. We use this general information to generate statistics about visitors to our website and to improve our service. Your account is password protected and you are not permitted to provide your password to anyone else as further discussed in our Terms and Conditions and for your privacy.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**USE OF YOUR INFORMATION**
+**Do we use cookies?**
 
-The information we collect is used to (i) respond to your inquiries; (ii) provide customer service and resolve any complaints; (iii) improve the website and our services and to help resolve any technical problems; (iv) communicate with you concerning the services offered on the website by us or any of our partners; (v) cross-reference with other personal information that we have acquired about you or may acquire about you through other sources; (vi) create aggregate data; (vii) ensure compliance with the website Terms and Conditions; and (viii) comply with any applicable laws and regulations. We may provide your information to government officials and agencies as required by law, and partners as part of business operations, for transaction processing and marketing efforts. For purposes of this Privacy Policy, partner shall mean any person or entity with whom we enter into any kind of business transaction who is under an obligation to us to use reasonable care to keep personal information confidential.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-**DISCLOSURE**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Except as provided in this Privacy Policy, we will not sell, trade or disclose to third parties any personal information obtained by us through this website or from our partners about you without your consent. We may disclose personal information (i) to companies that help process the transactions you request in order to protect your transactions from fraud and verify your identity; (ii) that we in good faith believe is necessary or appropriate to cooperate in investigations of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability; (iii) to conduct investigations of violations of the website Terms and Conditions; (iv) when required by law or to comply with a court order, subpoena, search warrant or other legal process; (v) to comply with legal, regulatory or administrative requirements of governmental authorities (including, without limitation, requests from the governmental agencies to view your personal information); (vi) to protect and defend us and any of our officers, directors, employees, attorneys, agents, contractors and partners in connection with any legal action, claim or dispute; (vii) to prevent imminent physical harm; (viii) to provide data, including personal information about you, to our partners as well as other business partners with whom we deem it necessary to communicate in order to provide our services (e.g., Authorize.Net); (ix) to sell or otherwise provide the information to third parties in the event of a bankruptcy or liquidation; and (x) to sell or otherwise provide information to third parties in the event of a future merger or acquisition by another company. In the event we merge or are acquired by another company, the successor company will have access to your personal information in order to continue to provide services but would continue to be bound by this Privacy Policy unless and until it is amended as described herein.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**HOW WE PROTECT YOUR INFORMATION**
+**Do we disclose any information to outside parties?**
 
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. Although no computer system is completely secure, we believe the measures implemented on our website reduce the likelihood of security problems to a level appropriate to the type of data involved.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**HOW LONG WE RETAIN YOUR INFORMATION**
+**Online Privacy Policy Only**
 
-We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Please note that we have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**YOUR CHOICE**
+**Terms and Conditions**
 
-If you do not want us to share your personal information with our partners for marketing purposes or if you do not want to receive communications and offers from us, you can make that election by writing to us at privacy@snaglo.com.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**ACCESS AND UPDATING OF YOUR INFORMATION**
+**Your Consent**
 
-You may request access all your personally identifiable information that we collect online and maintain in our database by emailing us at privacy@snaglo.com. If you believe that any personal information is not correct or has changed, please send an e-mail message to privacy@snaglo.com. Explaining the correction or change and providing any relevant confirmation or reference number.
+By using our site, you consent to our web site privacy policy. 
 
-**CHANGES TO OUR PRIVACY POLICY**
+**Changes to our Privacy Policy**
 
-By using this website, you expressly agree to this Privacy Policy, our Terms and Conditions and our terms of service as defined in the Terms and Conditions and expressly consent to our collection, storage, use and disclosure of your personal information as described herein. You further agree that you are consenting to allow your data to be provided within our corporate group and acknowledge we are a part of Creative Shopping, LLC. When you provide us with personal information, you consent to the transfer and storage of such information on our servers. You are required to promptly update your personal information when changes occur or information is inaccurate. We reserve the right to change, modify or amend this Privacy Policy, our Terms and Conditions and our terms of service at any time. When this Privacy Policy is changed, modified or amended, the revised Privacy Policy will be posted on this Website. Any revised Privacy Policy will only apply prospectively to personal information collected or modified after the effective date of the revised policy. It is your responsibility to periodically check and review our Privacy Policy and Terms and Conditions for changes.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-**QUESTIONS**
+This policy was last modified on 1/10/2012 
 
-If you have a question about this document or privacy on this website, please send an email to us at privacy@snaglo.com.
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
