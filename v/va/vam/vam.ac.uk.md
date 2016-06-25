@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209163848id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625050924id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies - Victoria and Albert Museum
 
@@ -15,7 +15,7 @@ We may amend this privacy policy at any time by posting changes on this page. Am
 
 This notice applies to all information collected or submitted on the Victoria and Albert Museum's domains www.vam.ac.uk and www.museumofchildhood.org.uk and includes areas of the website where you can create an account, comment on blogs, sign up for newsletters, enter competitions and book tickets for events or exhibitions as well as information collected automatically by cookies, if enabled.
 
-For information about your protection while making an online purchase from the online V&A Shop, please refer to the [V&A Shop Privacy & Security](http://www.vandashop.com/info/privacy) page.
+For information about your protection while making an online purchase from the online V&A Shop, please refer to the [V&A Shop Privacy & Security](http://shop.vam.ac.uk/shop/info/privacy) page.
 
 The V&A is not responsible for the privacy policy of services on third party websites (for example Facebook, Twitter, YouTube, etc). You should refer to the appropriate privacy policies of each individual third party website for further information about them and their terms.
 
