@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212161930id_/http%3A//www.cpxi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113924id_/http%3A//www.cpxi.com/privacy-policy) for the most accurate reproduction.*
 
 # CPXi – Privacy Policy
 
@@ -70,11 +70,18 @@ CPX Interactive may delete any or all of OBA or information regarding ad deliver
 
 Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as “behavioral advertising”).
 
-You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out. 
+You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out.
 
 To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
 
 You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
+
+#### Opting Out of Interest-Based Mobile Ads
+
+If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
+
+iOS – <https://support.apple.com/en-us/HT202074>  
+Android – <https://support.google.com/ads/answer/2662922?hl=en>
 
 #### European Union Privacy
 
@@ -95,4 +102,4 @@ If you have questions about this Policy, the practices of or your dealings with 
 CPX INTERACTIVE  
 1441 BROADWAY  
 18TH FLOOR  
-NEW YORK, NY 10018 
+NEW YORK, NY 10018
