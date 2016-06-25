@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228174638id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625101102id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Active You - Play.Win.Save
 
@@ -21,6 +21,8 @@ Confused.com
 Fiat
 
 Ford Motors
+
+Goalover
 
 Infiniti
 
@@ -68,6 +70,8 @@ Crisis
 
 Dogs Trust
 
+Ethicall
+
 Great Ormond Street
 
 Greenpeace
@@ -83,6 +87,8 @@ Marie Curie
 Mencap
 
 NSPCC
+
+NTT Fundraising
 
 PDSA
 
@@ -110,9 +116,13 @@ UKPrize
 
 Bespoke Offers
 
+Daily Deals
+
 Discount Vouchers
 
 Go Groopie
+
+GoGroopie
 
 Here For A Day
 
@@ -180,7 +190,17 @@ Wolford
 
 **Finance**
 
+Blueberry Wealth
+
+Bvocal
+
+Franklin Hughes
+
+Morses Club
+
 The Yes Card
+
+Think Financial
 
 **Freebie Sites**
 
@@ -198,9 +218,19 @@ MagicFreebies
 
 Bet Fair
 
+Betclic
+
+Betfair
+
+Betsson Group
+
 Big Fat Lotto
 
 Bingo Diamond
+
+BoyleSports
+
+Coral
 
 Euromillions Lottery
 
@@ -210,13 +240,21 @@ Geo lotto
 
 Labrokes
 
+Ladbrookes
+
+Little Star Media
+
 Paddy Power
 
 Planit UK
 
 Play2WinCasino
 
+Sky Bet
+
 The Football Pools
+
+Unibet
 
 William Hill
 
@@ -226,9 +264,15 @@ Winner.com
 
 MBL Group
 
+Price Engines
+
+Quotatis Limited
+
 **General Marketing**
 
 1DayOneOffer
+
+Accidents Direct
 
 Acxiom
 
@@ -236,9 +280,29 @@ Adconian
 
 All Grove
 
+Annexio
+
+Ascend
+
+Aspect Web Media
+
+Aunzton Communications UK LTD
+
+b-Three Ltd
+
+Beaufort Securities Ltd
+
+Brunel Franklin
+
+Calculatemypba.com
+
 Callcredit Data Solutions Ltd
 
+Carpeo
+
 Census Data
+
+Choose Leads
 
 Claims Advisory Group
 
@@ -250,21 +314,87 @@ Doing Digital
 
 Ginger Nut Media
 
+Gordon Lockwood
+
+Injury Law 4 U
+
+Injury Support Network
+
+Inspired Outsourcing Limited
+
+JMR Financial Ltd
+
+JRM Marketing
+
+Landmark Law Ltd
+
 Lead Performance
 
+Leadx (Claims Guys)
+
 Lifestyles Online
+
+Lion Claim Line
+
+Lito Marketing Ltd
+
+Madison Legal
+
+Mager Marketing
+
+Manchester Outsouring
+
+Manger Marketing
 
 Marketing Punch
 
 Marketing Source Ltd 
 
+McDowall
+
+Med Assist Ltd 40k
+
+Medassist ltd
+
 Media Bowl
+
+Media Tactics
+
+Minus5Media Ltd
+
+Nationwide Injury Lawyer
+
+Nextgen Ltd
+
+OK Claims
+
+One-Direct
+
+Paul Reybold Marketing
+
+PDV Ltd
+
+Sequoia Digital
 
 Teradata
 
+The Central Claims Group
+
+The Pension Review Service
+
+Total Reclaim
+
 UK Data House
 
+uk DataHouse
+
+Unique Solutions
+
+Veritas
+
 Visio Digital
+
+Web Clubs
 
 WebClubs
 
@@ -287,6 +417,8 @@ Fitness First
 Johnson & Johnson
 
 Optical Express
+
+Shave Kit
 
 Special K
 
@@ -332,6 +464,8 @@ Habitat
 
 Hillarys
 
+Made
+
 Tesco Kitchens & Bathrooms
 
 Thomas Sanderson
@@ -350,6 +484,8 @@ Protected
 
 Simply Life
 
+The Review Bureau Ltd
+
 **Lottery**
 
 European Lottery Guild
@@ -366,49 +502,23 @@ Golden Charter
 
 Grove Pensions
 
+JMR Financial Ltd
+
 Media Bowl
 
 Media Tactics
 
 Pension Right Limited
 
-**Personal Bank Accounts**
-
-Madison Legal
-
-Minus5Media Ltd
+The Pension Review Service
 
 **Personal Injury**
 
-Accidents Direct
-
-Choose Leads
-
-Injury Law 4 U
-
-Injury Support Network
-
-Media Tactics
-
-Veritas
-
-**PPI**
-
-Aspect Web Media
-
-Claims Advisory Group
-
-Lead Performance
-
-Leadx (Claims Guys)
-
-Lion Claim Line
-
-Media Tactics
-
-Sequoia Digital
+Nextgen Ltd
 
 **Premium Rate**
+
+iTech Logic
 
 Lotto by Text
 
@@ -416,7 +526,13 @@ Media Tactics
 
 Prize Pin
 
+SB Digital Media ltd
+
 SB7 Mobile
+
+txtwinner.co.uk
+
+UME Ltd
 
 **Sport**
 
@@ -426,6 +542,8 @@ ESPN
 
 BT
 
+BTG Home Solutions
+
 Carphone Warehouse
 
 Convergys
@@ -433,6 +551,8 @@ Convergys
 EE
 
 Fone Factory
+
+Intelling
 
 Lead Performance
 
@@ -445,6 +565,10 @@ O2
 Quality Comms
 
 Quality Communication
+
+ResQ
+
+Simple Site
 
 Vodaphone
 
@@ -475,6 +599,8 @@ Easy Voyage
 Holiday Discount Centre
 
 Hotels.com
+
+Ice Lolly
 
 Lastminute.com
 
@@ -522,7 +648,11 @@ B&Q Boilers
 
 British Gas
 
+Carpeo
+
 Choose Leads
+
+Consumer Helper
 
 EDF Energy
 
@@ -530,7 +660,11 @@ Energy Helpline
 
 First Utility
 
+Greenstar Energy
+
 Helplink
+
+Inspired Outsourcing Limited
 
 Lead Performance
 
@@ -538,15 +672,29 @@ MediaBowl
 
 Npower
 
+Ovo Energy
+
 PDV
+
+PDV Lts
+
+Precision Affinity Specialists Ltd
+
+Previse Solutions
 
 Save Britain Money
 
 Scottish Power
 
+Spark Energy
+
 SSE
 
 Synergy HES
+
+Totemic
+
+U Compare (ne) Ltd
 
 U-Compare
 
