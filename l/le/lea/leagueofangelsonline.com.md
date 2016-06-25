@@ -1,35 +1,80 @@
-> *The following text is extracted and transformed from the leagueofangelsonline.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226160417id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofangelsonline.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Play Free Online Games, MMORPG, Browser Games - R2Games
+# HugeDomains.com - Privacy Policy
 
-We take the privacy of our customers very seriously and as you will read, you are protected by our commitment to the following: 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-  1. We will never sell or transfer your personal information to any other third party company.
-  2. We collect the following information: 
-    * User ID : To identify yourself and access your account.
-    * Password : To protect your account.
-    * Country : Some of our games are not available in countries where other publishers own the distribution rights. Therefore, we require country information to allow access to our games. We provide country information to our advertising partners.
-    * Valid email address : We collect your email information only if you are 13 or older, or we have received the permission of the parent or legal guardian. You can use your email to retrieve your User ID if you have forgotten it. Based on your email selections, we will email you information about our games such as updates and new games. You will never receive emails from us with offerings on behalf of other companies.
-    * Character Name : Used in-game to name your character.
-    * IP Address : Each and every time you log on, your IP address will be collected in order to protect you in case someone other than you is using your account. We provide IP Addresses to our advertising partners.
-    * Cookies : We store cookies on your PC to keep track of your account. Cookies are not shared with other companies.
-  3. When a child under 13 years of age signs up we do not collect their email address without the permission of their parent or legal guardian. We will also not collect the other items listed above. If a child under 13 years of age wants to post information on our website or chat with other players, we will require that they do not disclose any personal information such as their real name, address, phone number, and any other information that could be used to contact the child.
-  4. Once you've clicked on an advertisement and have left our website, our Privacy Policy no longer applies, and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
+**What information do we collect?**
 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-When purchasing game items or subscriptions to our games, you will have the choice to pay by Paypal, Moneybookers, mobile phone, bill to your home phone, or any other e-commerce available today or in the future. We will collect the required information for each payment method, however. This information will be kept confidential and is only shared under industry standard security methodologies to the billing partners. The billing partners have no right to use your information other than completing the billing process you have initiated. 
+**What do we use your information for?**
 
-We ask that you educate your child to never give out their email, name, address, phone, or pager information without parental consent. Tell them to always notify a parent or guardian when they feel threatened or are asked for any personal information. The parent should then contact us immediately. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-For complaints or to remove your child's information, we can be reached via mail at : 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-You can send us email at: support@r2games.com 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-If we materially change our privacy policy, we will notify you when you sign on or send you an email if we have it on record. We will offer you the choice to agree to our new privacy policy. We will delete your account should you refuse to agree to the new privacy policy. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-You can change your information with the exception of your User ID anytime by visiting www.R2Games.com, signing on, and then choosing the 'My Account' link on the upper right side of the website. 
+• To process transactions
 
-In the event that we sell a portion or our entire Company, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites. 
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
