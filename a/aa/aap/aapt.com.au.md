@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2015-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150304152928id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625135657id_/https%3A//aapt.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AAPT
 
@@ -89,7 +89,7 @@ Another purpose of this Privacy Policy is to give you notice of matters in accor
 
 
 
-We refer you to our general [Personal Information Collection Notice](https://web.archive.org/web/20150304152928id_/https%3A//aapt.com.au/personal-information-collection-notice).
+We refer you to our general [Personal Information Collection Notice](https://web.archive.org/web/20160625135657id_/https%3A//aapt.com.au/personal-information-collection-notice).
 
 ## Use of your personal information
 
@@ -117,9 +117,9 @@ In the course of providing a telecommunications service to you, we may also use 
 
 ## Direct marketing
 
-We may also use your information to tell you about our other products and services or bundled offerings, provided by AAPT.
+We may also use your information to tell you about our other products and services or events and bundled offerings, provided by AAPT.
 
-We may use your information to tell you about products and services or bundled offerings provided by AAPT in conjunction with either:
+We may use your information to tell you about products and services or events and bundled offerings provided by AAPT in conjunction with either:
 
   * our related bodies corporate (including those outside Australia); or
   * our marketing partners with which we share our marketing and advertising activities; or
@@ -127,9 +127,9 @@ We may use your information to tell you about products and services or bundled o
 
 
 
-We will not provide your information to these entities for the purpose of them contacting you in respect of a product or service with which AAPT is not involved.
+We will not provide your information to these entities for the purpose of them contacting you in respect of an event, product or service with which AAPT is not involved.
 
-We may tell you about our products and services or bundled offerings via direct mail, electronic direct mail, unsolicited telemarketing calls or any other means of direct communication.
+We may tell you about our products and services or events and bundled offerings via direct mail, electronic direct mail, unsolicited telemarketing calls or any other means of direct communication.
 
 We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. 
 
@@ -163,7 +163,7 @@ When we contract services or disclose your personal information, that personal i
 
 We operate both in Australia and overseas. Therefore we may need to share some of your personal information with organisations outside Australia.
 
-AAPT may disclose some of your personal information that we hold to organisations located outside Australia in countries which do not have the same or substantially similar privacy laws, but only to the extent necessary to provide you with telecommunications services requested by you. We may also store your information in cloud or other types of networked or electronic storage. Where required, we will take reasonable steps to ensure that these overseas organisations do not breach the Australian Privacy Principles.
+AAPT may disclose some of your personal information that we hold to organisations located outside Australia in countries which do not have the same or substantially similar privacy laws, but only to the extent necessary to provide you with telecommunications services requested by you or to meet our business needs. We may also store your information in cloud or other types of networked or electronic storage. Where required, we will take reasonable steps to ensure that these overseas organisations do not breach the Australian Privacy Principles.
 
 We have listed below the known countries in which the overseas organisations with which we share your personal information are located.
 
