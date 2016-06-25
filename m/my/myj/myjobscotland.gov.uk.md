@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318202937id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113932id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | myjobscotland
 
 ## Privacy Statement
 
-### Updated 9th January 2015
+### Updated 11th May 2016
 
-This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities and the Scottish Fire and Rescue Service. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk
+This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities, the Scottish Fire and Rescue Service, and Further & Higher Education institutions. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk
 
 Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: COSLA, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
 
@@ -31,11 +31,11 @@ If you choose to apply for a vacancy with one of the organisations featured on t
 
 This information will be used solely for the purposes of recruitment by the personnel department of that organisation. It will be made clear to you at the point of submitting your application which organisation will have access to your data and by not submitting the application you would be opting out of this recruitment process.
 
-After you have created an account and/or submitted an application your account will be anonymised/archived, by removing personal details such as your name, address, email, contact telephone number, after one year of inactivity in your account.  Accounts cannot be unarchived after this period. Therefore the onus is on you to keep your account active should you wish to continue to access your application information.  Successful candidate information will be retained for seven years.
+After you have created an account and/or submitted an application your account will be anonymised/archived, by removing personal details such as your name, address, email, contact telephone number, after two years of inactivity in your account. Accounts cannot be unarchived after this period. Therefore the onus is on you to keep your account active should you wish to continue to access your application information and to keep copies of your submitted applications. Successful candidate information will be retained for seven years.
 
 If you are not offered a job, in accordance with the above paragraph, your application information will remain on your account until it is archived.
 
-COSLA will not sell or rent your personal information to third parties. We may make information available to tax and law enforcement agencies, as required or permitted by law. At any point you can request the removal of your personal data by emailing myjobscotland@cosla.gov.uk with your contact details. You will then be contacted and asked a number of security questions to ensure the validity of your request.
+COSLA will not sell or rent your personal information to third parties. We may make information available to tax and law enforcement agencies, as required or permitted by law. At any point you can request the removal of your personal data by emailing [myjobscotland@cosla.gov.uk](mailto:myjobscotland@cosla.gov.uk) with your contact details. You will then be contacted and asked a number of security questions to ensure the validity of your request.
 
 ### Statistical analysis 
 
@@ -65,8 +65,26 @@ If you take the opportunity to 'share' our content with friends through social n
 
 ### What if I don't want to accept cookies?
 
- You can choose to restrict or block the cookies set by myjobscotland, or any website. You’ll need to do this through your browser settings.
+You can choose to restrict or block the cookies set by myjobscotland, or any website. You’ll need to do this through your browser settings.
 
 Please note: if you block or restrict cookies on your machine, the myjobscotland website may be unable to function correctly.
 
 You can also visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) for comprehensive information on how to block or restrict cookies on a wide variety of browsers. You’ll also find details on how to delete cookies from your computer, as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you’ll need to refer to your handset manual.
+
+### Advertising (updated 11th May 2016)
+
+Our external advertising is supplied via the Council Advertising Network and is restricted to the main banner advert and their iBar which floats over the bottom of our main screen. Please refer to their privacy policy for further information <http://www2.counciladvertising.net/can-privacy-policy.html>
+
+Internal Advertising is self-managed, and for the purchase of tokens to use against the publication of 3rd advertisers - this is handled by PayPal.
+
+Once you have made payment you will receive an email containing the number of credits that you have purchased. This email should be received within 24 hours of purchase. Once received you can use the credits at your own leisure. There is no timeframe expiry for the purchase of these credits.
+
+Refunds can be requested within 14 days of purchase, but will only be based on the amount of credits assigned to your account at that time of request.
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
+
+### Feedback and Analysis (updated 15th January 2016)
+
+On occasions we use a tool called Hotjar which is an all-in-one Analysis and Feedback tool that show online behaviour and feedback of a website's visitors. By combining both these elements Hotjar gives us the 'big picture' of how to improve our site's experience and its performance.  We may also employ this method to analyse individual candidate problems to help provide the best support we can.
+
+ For further information they collect and use please refer to Hotjar's [privacy policy](https://www.hotjar.com/privacy "Link to Hotjar Privacy Policy page") page.
