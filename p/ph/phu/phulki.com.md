@@ -1,59 +1,80 @@
-> *The following text is extracted and transformed from the phulki.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218133832id_/http%3A//www.phulki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phulki.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Phulki Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-[](http://www.phulki.com/)
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-### Phulki Privacy Policy
+**What information do we collect?**
 
-At Phulki, we take the privacy of our users very seriously. This policy spells out the information we collect and how we put it to use. Please feel free to contact us at [contact@phulki.com](mailto:contact@phulki.com?subject=Re:%20Privacy%20Policy) if you have any questions about this Policy. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-In order for us to provide our full range of features, we may collect the following types of information: 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Information you provide at account creation time -** When you create an account with Phulki or use any other service that requires creating a new account, we ask you for personal information. 
+**What do we use your information for?**
 
-**Phulki cookies -** When you visit Phulki, we send one or more cookies, which are small files containing strings of characters, to your computer that uniquely identifies your browser. Most browsers are set up by default to accept cookies, but you can change the browser's settings to refuse all cookies. However, some Phulki features may not function properly if you disable the cookies. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Log information -** When you use Phulki, our servers automatically record information that your browser sends whenever you visit a page or access a feature on the Phulki website. These server logs may include information such as your web request, Internet Protocol address, browser type, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**User communications -** When you send email or other communication to Phulki, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**Other sites -** This Privacy Policy applies to web sites and services that are owned and operated by Phulki. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Phulki processes personal information for only the following purposes: 
+• To process transactions
 
-  * Providing our products and services to users, including possibly the display of customized content and advertising;
-  * Audit, research and analysis in order to maintain, improve and protect our services;
-  * Developing new services.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
+• To send periodic emails
 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Phulki may process personal information on our servers in the United States of America, India and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-#### Choices for personal information
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-* * *
+**How do we protect your information?**
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-You can decline to submit personal information to any of our services, in which case Phulki may not be able to provide those services to you. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-#### Information sharing
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-* * *
+**Do we use cookies?**
 
-Phulki does not currently share personal information with other companies or individuals outside of Phulki. 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-#### Information security
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-* * *
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
+**Do we disclose any information to outside parties?**
 
-#### Changes to this policy
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-* * *
+**Online Privacy Policy Only**
 
-Please note that this Privacy Policy may change from time to time. This policy was last updated on June 04, 2008. 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-©2010 Phulki
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
