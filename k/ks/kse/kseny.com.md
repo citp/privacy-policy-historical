@@ -1,56 +1,80 @@
-> *The following text is extracted and transformed from the kseny.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609184254id_/http%3A//www.kseny.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kseny.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Kseny Directory - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Privacy Policy The privacy of our clients is of utmost importance to Directory Services.
+**What information do we collect?**
 
-If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20120609184254id_/http%3A//www.kseny.com/contact.php "contact webmaster"). 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**Types of Personal Information we collect** ** **
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.
+**What do we use your information for?**
 
-For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.
+Any of the information we collect from you may be used in one of the following ways: 
 
- **  
-Why we collect personal information** ** **
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Generally we collect, update and use personal information about you to allow us to transact business on your behalf.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
- **How we collect personal information**
+• To process transactions
 
-Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
- **How we store information**
+• To send periodic emails
 
-We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
- **  
-When we may disclose your personal information**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Because your privacy is important we will not disclose your personal information without your consent.
+**How do we protect your information?**
 
-However we may disclose personal information about you in the following circumstances:
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-* Where our business partners need to provide you with information and offers about products and services.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
- **Access to personal information**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.
+**Do we use cookies?**
 
-We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
- **About this Privacy Policy Statement**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-We may update our policies and this Privacy Policy Statement from time to time.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
- **  
-Contact us**
+**Do we disclose any information to outside parties?**
 
-If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20120609184254id_/http%3A//www.kseny.com/contact.php "contact webmaster").
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
