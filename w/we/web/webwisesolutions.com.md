@@ -1,38 +1,80 @@
-> *The following text is extracted and transformed from the webwisesolutions.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710172911id_/http%3A//www.webwisesolutions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwisesolutions.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy for WWS web design company
+# HugeDomains.com - Privacy Policy
 
-  
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
+**What information do we collect?**
 
-**This Website is owned and controlled by Web Wise Solutions European  Limited (WWSE).**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Web Wise Solutions European Ltd are committed to protecting the privacy of its users to our website. We respects the privacy of all users who visit our Site and use our services, any information we collect about our users will be used to improve the services we offer. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Except as set forth within this Privacy Policy, our [Terms & Conditions](http://www.webwisesolutions.com/privacy.php), and other published guidelines, we do not release personally identifiable information (as described below) about users of this Site without their permission.
+**What do we use your information for?**
 
-**Effect of This and Related Documents:**
+Any of the information we collect from you may be used in one of the following ways: 
 
-This Privacy Policy, together with the WWS Terms & Conditions and other published guidelines, governs your interaction with this Site, and your registration for and use of Webwise Solutions European Ltd's online services.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Opt-Out Option:**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-If you would like your information removed from Web Wise Solutions European Ltd's database, please use the contact page, which can be found at, [http://www.webwisesolutions.com/contact.php](http://www.webwisesolutions.com/contact.php)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We will comply with your request. However, there will be some information that will remain within WWS Ltd's database, access logs, and other historical records, which may or may not contain such personally identifiable information.
+• To process transactions
 
-**Information We  Collect**
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Non-personally-identifiable information:
+• To send periodic emails
 
-User information will be used solely for the purpose of WWS and will never be sold or used outside of this domain
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Web Wise Solutions European Ltd keeps track of its pages via Goggle Analytics and monitors how many times users are visiting the site each month. We analyse this data for trends and statistics, as the number of users who are visiting and how long they spend there. We also gather information about what users are searching for. We use all this information in order to improve our content, site structure and user experience.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**Personally identifiable information:**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**General:**
+**How do we protect your information?**
 
-In certain areas of this Site, we require that you provide us with personally identifiable information, in order to be able to use that portion or those portions of this Site.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Please feel free to contact us with any queries you may have, now or in the future relating to this policy.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
