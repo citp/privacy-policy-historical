@@ -1,89 +1,188 @@
-> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408172040id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625181443id_/http%3A//www.quotient.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Catalog Spree
+# Privacy Policy - Quotient Technology Inc.
 
-Date last modified: April 16, 2014
+Close
 
-Padopolis, Inc. ("Padopolis") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our software applications (including any updates, new versions or new releases thereof) for use on mobile devices (such as Apple's iPad) or on social network services (each a "Padopolis Application"), our websites including without limitation those located at [www.padopolis.com](http://www.padopolis.com/), [www.catalogspree.com](http://www.catalogspree.com/) and [shop.catalogspree.com](http://shop.catalogspree.com/) (collectively, the "Site") and any other services offered by Padopolis in connection with a Padopolis Application or the Site (any and all of the foregoing the "Services"). This Privacy Policy applies only to information that you provide to us through the Services.
+Effective from November 11, 2015.
 
-### Information Collection: Personally Identifiable Information
+**1\. Introduction**
 
-  * In the course of using the Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your use and enjoyment of the Services ("Personal Information"). Personal Information may include, but is not limited to, your name, and email address. We use your Personal Information primarily to provide the Services and administer your inquiries. For example, when you choose to interact with and use certain social networking services ("SNSs") via the Services we collect the user credentials for your SNS account which typically includes your email address.
-  * We may also collect the other information that you provide as part of registration and the administration and personalization of your user experience (such as zip code or location and individual preferences) ("Non-Identifying Information").
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) primarily to provide the Services and administer your inquiries.
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (such as combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non- identifying information (such as your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Padopolis users to attempt to provide you with a better experience, to improve the Services and to analyze and understand how the Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.
-  * We also use your Personal Information to contact you with Padopolis newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
+This Privacy Policy explains how Quotient Technology Inc., formerly known as Coupons.com Incorporated (together with our subsidiaries, “ **we** ” or “ **our** ”), collects, uses, and shares information. This Privacy Policy applies to the websites, services, and mobile and software applications we own or control (the “ **Sites** ”), including emails and designated portions of third party websites and applications that link to or reference this Privacy Policy.
+
+By using any of the Sites, you are agreeing to the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you should not use any of the Sites or provide to us any of your personal information. If you have questions regarding this Privacy Policy, please contact us via email at privacy@coupons.com, or in writing at the following address:
+
+Quotient Technology Inc.  
+400 Logue Ave.  
+Mountain View, CA 94043  
+Attn: Privacy
+
+Our Sites may include links to third-party websites, products and services, and embedded third-party tools and widgets. Any linked websites, products and services of third parties, and third party collection and use of your information, on their own websites or through embedded tools and widgets, are governed by the privacy policies of the respective third parties. We encourage you to learn about the privacy practices of those third parties.
+
+**2\. Updates**
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, including changes to how we share personal information, we will notify you by email or by providing notice on the Sites prior to the change becoming effective.
+
+**3\. What Information Do We Collect And Use?**
+
+**(a) _Information You Provide_**
+
+If you create any type of account or participate in certain activities on the Sites (such as surveys, sweepstakes, contests, or other promotions), we may ask you to provide us with information that specifically identifies you (“Personal Information”), such as: your name, email address, postal mailing address, telephone number, or payment card number. It will always be your decision whether to provide us with Personal Information. In some cases, if you decline to share Personal Information with us, then we may not be able to provide you with certain services, and you may not be eligible for certain sweepstakes, contests, or other promotions. For example, in order to use our Card Linked Offers, you must provide your email address and payment card number, in addition to other requirements.
+
+In addition to Personal Information, in using the Sites, you may have the option of providing us with other information about yourself or your household that does not specifically identify you, such as age, gender, household income, interests, zip code, and product or content preferences (including saved offers and content favorites). We may associate this type of information with your Personal Information. For information about how we handle user-submitted content, see Section 8.
+
+**(b) _Information Automatically Collected As You Access and Use the Sites_**
+
+When you use or interact with the Sites in any way, we may use cookies, web beacons, pixel tags, log files, local storage, and other similar mechanisms to automatically collect information, including:
+
+• Your activity on the Sites (such as pages viewed, searches performed and features accessed);
+
+• Operating system, web browser type, and device attributes;
+
+• Inbound-referral and outbound websites;
+
+• Your internet protocol (“IP”) address;
+
+• How you interact with coupons, advertisements and other content the Sites, such as whether you print a coupon or load a Card Linked Offer to a payment card;
+
+• The dates and times that you visited or used the Sites, or requested certain services or transactions;
+
+• Location information; and
+
+• Advertising identifier associated with your mobile device.
+
+An anonymous identifier or Personal Information may be associated with the information collected using cookies and similar technologies. If you are accessing the Sites from a mobile device, see Section 3.e for additional automatically collected information.
+
+**_Device Information and Identifier_**. When you visit our Sites or install on your computer or other device our coupon printing software, mobile applications, or one of our toolbars, we may collect and store information about that device that helps us manage our products and services, deliver a more customized experience for you, and detect and prevent coupon fraud. If you download the coupon printing software, a device identifier remains associated with that device even after uninstalling the software. This identifier is used primarily to prevent coupon fraud and does not collect personally identifiable information. If you print a coupon using our download-free print technology, we will create an identifier for your print activity; a persistent identifier will be associated with any device you authenticate using your phone number.
+
+**_Cookies and Web Beacons_**. A cookie is a small text file or identifier. When you visit a Site, we may store one or more cookies or other similar information on your device. We use cookies for the purposes described in Section 4, including for advertising. Our [Cookie Policy](http://www.quotient.com/cookie-policy/) provides additional resources on cookies, and information about how to opt-out from certain interest-based advertisements. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites. These persistent cookies can be removed, but each web browser is different. Please review your browser’s settings to learn how to manage your cookies. Our Sites may also use web beacons (also known as clear gifs or pixel tags), which are tiny graphics with unique identifiers that are placed in the code of a webpage.
+
+**_Third Party Cookies_**. We allow third-party companies to use cookies, pixels or other similar technologies on our Sites to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over). These third parties include service providers, affiliate-marketing networks and other companies with whom we partner to provide certain offers, promotions or features on our Sites or to display advertising (“Ad Partners”). Ad Partners may use cookies to provide advertisements about goods and services likely to be of greater interest to you, to track off-Site transactions and to assist us in providing, evaluating, and improving the Sites and our other products and services.  Ad Partners may use information they directly collect from you in combination with information we provide (as described in Section 5). To learn more about interest-based advertising and your choices regarding third party cookies, click [here](http://www.quotient.com/cookie-policy/#ad-opt-out).
+
+**_Log Files and Local Storage (HTML5/Flash Cookies)_**. As is true of most web sites, we gather certain information automatically and store it in log files. This information may include IP addresses, browser type, internet service provider (“ISP”), referring/exit pages, operating system, date and time stamp, and clickstream data. We use this information to manage and operate our products and services, to offer you more personalized content and advertising, and for the other purposes described in Section 4 below.
+
+Certain Sites may use local shared objects, such as Flash cookies, and local storage, such as HTML5, to store content information and preferences. Ad Partners may also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+**_Analytics_** **.** We may use our own and third party tracking and analytics tools to better understand who is using our Sites and how they are using them. These tools may use cookies and page tags to collect information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used. One of the analytics tools we may use is Google Analytics. You can learn how to opt-out of the Google Analytics tracking software [here](http://tools.google.com/dlpage/gaoptout).
+
+**(c) Information From Third Parties **
+
+We may receive information from third parties about you, including Personal Information, cookies and other identifiers that do not personally identify you, and information about in-store and online transactions. We may use this information to administer the applicable program or service, to offer you more personalized content and advertising, and for the other purposes described in Section 4 below.
+
+**(d) Information _You Provide About a Third Party_**
+
+  
+If you choose to use any of our referral services to tell someone else about our Sites, or to email a promotion, we will ask you for that person’s name and email address. We will use the information you provide to automatically send to that person the referral, such as an email inviting him or her to the Sites you recommended. We do not share this email with any third party, other than those third party service providers used to transmit the referral.  
 
 
+**(e)  Information _From Use Of Our Mobile Websites and Applications_**
 
-### Device IDs
+In addition to other information described above, when you download or use one of our mobile applications, or access the Sites through a mobile device, we may automatically collect information about your location and your mobile device, including your operating system, device type, and device identifier. We may also request access to the device storage and camera, and permission to send you push notifications. You may decline to provide location information, storage and camera access, and push notification permission at any time using your mobile device’s system settings. Please consult your mobile device’s instruction manual for additional information about controlling system and application settings.
 
-When you launch a Padopolis Application, we collect the unique device ID issued by Apple for your iPad or other manufacturer for other mobile devices ("Device ID") and IP address, if applicable. We use and store your Device ID to enable you to interact with and use our Services and the SNS you may choose to access through them and to make it possible to authenticate and understand the use of our Services. We link your Device ID with the technical information accessed through your use of the Services which enables us to administer resets to your account or to delete information when you request that we do so or for other administrative purposes.
+**_Mobile Analytics._** We use mobile analytics software to allow us to better understand the usage and performance of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. We may link the information collected by the analytics software to either an account identifier, or a device advertising identifier.
 
-### Surveys and Promotions
+**4\. How We Use Your Information**
 
-From time to time, we may provide you the opportunity to participate in surveys, contests or offers (any of these a "Promotion") via our Site or Services. If you participate in a Promotion we will request certain Personal Information from you. We use the Personal Information you provide to us in these instances to administer your participation in the Promotion. Participation in a Promotion is completely voluntary and you therefore have a choice whether or not to disclose this information. We may share Personal Information with those third parties who need that information in order to fulfill a Promotion.
+We may use information that we collect for the following purposes:
 
-### Log Data
+• Operate, maintain, and improve the Sites and our other products and services;
 
-When you use our Services (such as when you visit our Site or interact with a Padopolis Application), our servers automatically record information that your browser sends whenever you visit a website or service connected to the Internet ("Log Data"). This Log Data may include information such as your computer's, iPad's or other mobile device's Internet Protocol ("IP") address, browser type, the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, sections of our applications that you access, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and Services for technical administration and tailoring our Services to our users' needs.
+• Communicate with you about the coupons, advertisements, promotional offerings, and other content found on and off our Sites;
 
-### Our Policy Toward Children
+• Process and facilitate coupon printing, loading, and redemption activity;
 
-IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER. Protecting the privacy of young children is especially important. For that reason, Padopolis does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Padopolis learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Services, then Padopolis will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who uses the Services, then please contact Padopolis [info@catalogspree.com](mailto:info@catalogspree.com) to have that child's information deleted.
+• Manage and store shopping lists;
 
-### Cookies and Other Technologies
+• Monitor and improve marketing and promotional campaigns and efforts;
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save a username and login password for future logins to the Site. We also may use "session ID cookies" to enable certain features of the Site or Services, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site and Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. We may also use "pixel tags," "web beacons", "clear GIFs" or similar means (individually or collectively "Pixel Tags") in connection with our Services to collect usage, demographic and geographical location data. A Pixel Tag is an electronic image, often a single pixel, that is ordinarily not visible to users and may be associated with cookies on a user's hard drive. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns. We may use data from Google Analytics in order to track demographic information (such as age, gender and interests).
+• Provide you with a personalized experience on and off the Sites, including targeted advertisements and promotions;
 
-### Information Sharing and Disclosure
+• Anonymize and aggregate information for different purposes, such as website traffic flow analysis, usage analysis, product development, market analysis, case studies, and marketing;
 
-We will not share, sell, rent, or trade your Personal Information with other parties except as provided below:
+• For administrative purposes, such as customer service and sweepstakes administration
 
-### Padopolis App Users
+• To comply with our legal obligations, resolve disputes, and enforce our agreements; and
 
-As a Padopolis user who accesses the Services you can interact with and use SNSs including but not limited to services like Facebook and Twitter. By using an SNS via the Services you understand and agree that Padopolis will access and store your SNS account information so that it is available to you through your use of the Padopolis Application. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF ANY OF YOUR UNIQUE PASSWORDS AND ACCOUNT INFORMATION AT ALL TIMES.
+• Share information as described in this Privacy Policy.
 
-### Aggregate Information and Non-Identifying Information
+We may combine information about you collected across different Sites, and we may combine information we obtain with information obtained from third parties. We may make inferences based on this combined information, such as product preferences and interests. We retain all information we collect about you for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
-We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information.
+**5\. When We Share Information**
 
-### Services Providers
+We may work with other companies to operate, maintain and deliver the Sites and the content, services and features available on and off the Sites, including to provide personalized coupons and advertisements, for contests and sweepstakes, and to communicate with you by email or SMS text message. In such circumstances, those companies will have access to the information needed to provide the applicable service, content or feature on our behalf, but they will not be permitted to use the information for any other purpose. For example, we may need to transmit payment card information to a payment processor or other service provider in connection with your use of one of our services.
 
-We employ third party companies and individuals to facilitate our Services (such as maintenance services, database management, web analytics and improvement of our Services' features), to provide the Services on our behalf, or to assist us in analyzing how Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+In addition, we may share information as described below.
 
-### Based on Your Consent
+**(a) Personal Information**
 
-As discussed above, we share your Personal Information in order to fulfill Promotions in which you have agreed to participate. Similarly, we share such Personal Information that you may make publicly available (such as your photo) in connection with items that you have elected to share or post through our Services (such as items of merchandise that have chosen as your "Favorites" or in your "Collections").
+We may share Personal Information with other companies with your consent or as part of a specific program or feature provided in partnership with a third party. If you choose to participate in such program or feature, we authorize those third parties to use your Personal Information. For example, we offer coupons on our Sites that require you to fill out an advertiser survey in order to receive the coupon. If you choose to participate in the survey, then we will share the information you provide with the advertiser who provided the survey. You may also be given the option to sign up for promotional emails from a third party. In order to fulfill your request, we will provide your email address to the applicable third party. In addition, we may share your Personal Information with third parties to obtain associated Personal Information or non-Personal Information, including cookies and other identifiers that do not personally identify you, and for marketing on our behalf. In such cases, the third party would be restricted from using your Personal Information for other purposes not associated with our services.
 
-### Compliance with Laws and Law Enforcement
+**(b)** **Non-Personal Information**
 
-We may disclose any information about you if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity. Padopolis also reserves the right to disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Padopolis from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Services; enforce our Terms of Use; or to protect the rights, property, or personal safety of Padopolis, our users, or others.
+We may share non-Personal Information (such as anonymous identifiers, certain cookies, age, gender, household income, interests, zip code, state, coupon activation and redemption data, purchase data, and other automatically collected information) with third parties for marketing and promotional use. A third party may match the non-Personal Information we provide with information you have previously provided to that party, or other information that party has obtained. For instance, if you have signed up for an account from one of the retailers we work with, such as a grocery retailer, and request that our coupon be saved to that account, we will provide the retailer with the coupon and other information necessary to fulfill your request. The retailer may then match the information with your account, which may contain your Personal Information.
 
-### Business Transfers
+In addition, we may aggregate non-Personal Information and share such anonymous aggregated information with third parties; we may also share such aggregated information publicly to provide information about general use of our services.
 
-Padopolis may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+We also may share non-Personal Information with Ad Partners so that they can tailor advertisements to your apparent interests and deliver those advertisements to you while you are either on our Sites or on third-party websites. For example, if you print pet food coupons, then we or an Ad Partner may conclude that you have a pet and show you a pet care supply advertisement instead of a random advertisement. For additional information about interest-based advertising and how to opt out of certain types of advertising, click [here](http://www.quotient.com/privacy-opt-out/).
 
-### Security
+**(c) Exceptions**
 
-We are concerned with the security of your Personal Information and are committed to taking reasonable steps to protect it from unauthorized access and use. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures designed to secure Personal Information. We also continue to implement procedures to maintain accurate, complete and current Personal Information. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect Personal Information, we cannot guarantee its absolute security. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+We may share information about you if required to do so by law or in the good-faith belief that such action is necessary to comply with local, state, or federal laws or to respond to a court order, judicial or other governmental subpoena or warrant, or in the event of bankruptcy proceedings. For example, where required by law, we will publicly disclose information about the winners of sweepstakes and contests. We also reserve the right to share information when we believe, in good faith, it is appropriate or necessary to protect us or the third parties we work with from fraudulent, abusive, or unlawful uses, investigate and defend ourselves against any third-party claims or allegations, assist government enforcement agencies, protect the security or integrity of the Sites, and to protect our rights, property, or safety and those of the third parties we work with.
 
-### Phishing
+**(d) Assignment**
 
-Identity theft and the practice currently known as "phishing" are of great concern to Padopolis. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+In the event that we are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control. You will be notified by email or a prominent notice on our Sites of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
-### International Transfer
+**6\. Your Choices**
 
-Your information may be transferred to -and maintained on- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Padopolis transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy through your use of the Services followed by your submission of such information represents your agreement to that transfer.
+**Site Accounts.** If you registered an account with us, you may modify or correct your Personal Information and preferences at any time by logging into this account or by contacting us using [this form](http://www.quotient.com/contact-us/). We will respond to you within 30 days from the date you contact us. If there is Personal Information that we cannot fully delete upon your request, we will provide you with any available options.
 
-### Links to Other Sites
+**Emails.** You can opt-out of marketing coupon email alerts and other emails such as newsletters by following the instructions included in our emails to you, or by contacting us using [this form](http://www.quotient.com/contact-us/). In addition, you can change your preferences for certain Coupons.com emails by logging into your Coupons.com account and going to “Email Settings” or “Alerts.” For DefinitiveDeals promotional emails, you can update your email preferences using the “Unsubscribe” or “Update Your Profile” links contained in the footer. Please note that if you opt out from all promotional emails, we may still send you transactional or administrative messages.
 
-Our Services contains links to other websites and online services. If you choose to visit a catalog publisher, third party service or an advertiser by "clicking on" a shopping cart link, banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website or online service. The fact that we link to a website, content or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or services. These other websites or services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites and services you use.
+**California Do Not Track Disclosure** **.** Because at this time, there is no general agreement on how companies should interpret Do Not Track signals, we do not currently respond to Do Not Track signals, whether a signal is received on a computer or on a mobile device. However, we offer you [choices](http://www.quotient.com/cookie-policy/#ad-opt-out) about how we use the information we collect through online tracking.
 
-### Changes and Updates to this Privacy Policy
+**Interest-Based Advertising**. Our Ad Partners, vendors and other third parties may track your online activities and collect information for use in providing content and advertising tailored to your interests.  For information about how to opt out of receiving certain behavioral advertisements, please click [here](http://www.quotient.com/cookie-policy/#ad-opt-out).
 
-This Privacy Policy may be revised periodically, and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. Our amended Privacy Policy will automatically take effect, except that (i) we will not, without your consent, use your previously collected personally identifiable information in a manner inconsistent Privacy Policy in effect when we received that information, and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of the Services.
+**Coupon Printer and Toolbars.** Instructions on uninstalling the Coupons.com toolbar and our coupon printer software are available [here](http://www.couponsinc.com/corp/source/u_uninstall.asp). Instructions on uninstalling the CouponChad toolbar is available [here](http://www.couponchad.com/toolbar/info/index_infopage.html).
 
-### Padopolis Contact Information
+**7\. Registration via Third Party Accounts and Social Media Sharing**
 
-Please contact Padopolis with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Padopolis, Inc., 400 Logue Avenue, Mountain View, CA 94043, USA or by email at [info@catalogspree.com](mailto:info@catalogspree.com). We will respond to your inquiry within 30 days of its receipt.
+You may be given the opportunity to register with us via third party accounts such as Facebook. These services will authenticate your identity and may provide you the option to share certain information (such as your name and email address) with us. We may store the information you provide us through such accounts and combine it with other information, including Personal Information. Disabling your Facebook or other such account may not terminate your account with us.
+
+Our Sites may also include social media features, such as sharing widgets provided by Facebook, Twitter, Google and Pinterest. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing them.
+
+**8\. Community Forums/Blogs; User-Generated Content**
+
+We may offer features that allow users to post comments, recipes, photos, video and other user-generated content to public areas within the Sites (“Community Forums”). By default, when you post content to a Community Forum, it is public. In addition, your account name and photo may be associated with the content, and if so, may be displayed publicly. Your Coupons profile may also link to your public profile from a third party account if you registered with us through Facebook or other such service. Please take special note that your Coupons profile and any user-generated content that you post, including any Personal Information, are intended for public consumption, will be publicly accessible and will not be considered confidential. We may display user-generated content on our Sites, including comments and recipes, and we or our users may share such content with third party sites and services. To request removal of your Personal Information from any Community Forum, please [contact us](http://www.quotient.com/contact-us/). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+
+**9\. Our Commitment to Data Security**
+
+The Sites may use various physical, electronic, and administrative procedures to safeguard the confidentiality of your Personal Information. Additional security measures, such as Secure Sockets Layer (“ _SSL_ ”) or other technology, will be used if you engage in financial transactions on our Sites. However, as no security measures are perfect or impenetrable, we cannot guarantee the security of any information you transmit to us.
+
+**10\. Our Commitment To Children’s Privacy**
+
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain information from persons under 13 years of age, and no part of our Sites is structured to attract anyone under 13. If you are under 13 years of age, then please do not use or access the Sites at any time or in any manner. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Sites, then we will take the appropriate steps to delete this information.
+
+**11\. TRUSTe Privacy Program**
+
+Quotient Technology Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal:
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c7089cba-f9ee-4208-a8ae-178e00da5c4d "TRUSTe Privacy Certification")
+
+The TRUSTe program covers only information that is collected through our mobile applications, our downloadable Coupon Printer software, and these websites: www.coupons.com, www.couponbug.com, www.couponsinc.com, www.couponsuzy.com, www.kitchme.com, www.couponsforchange.com, www.groceryiq.com, and www.definitivedeals.com.
+
+In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+
+**12\. Special Notice to Users Outside The United States of America**
+
+The Sites are hosted in the United States. If you are a consumer accessing the Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from U.S. laws, please be advised that through your continued use of the Sites, which are governed by U.S. law and this Privacy Policy, you consent to the transfer of your information, including Personal Information, to the U.S. We will use your information in accordance with this Privacy Policy.
+
+As described in Section 3(b), we use cookies to help provide you with the best possible online experience. By using the Sites, you are agreeing that we may store and access cookies on your device. Please see our [Cookie Policy](http://www.quotient.com/cookie-policy/) for additional information.
+
+**US–EU Safe Harbor**
+
+We comply with the US–EU Safe Harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and principles, and to view our certification, click [here](http://www.export.gov/safeharbor/). European Union citizens with inquiries regarding this Privacy Policy should contact us [here](http://www.quotient.com/contact-us/).
+
+**13\. Your California Privacy Rights**
+
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the personal information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. If you are a California resident and want a copy of this information, please submit a written request to us at the address provided in the Introduction above. In your request, please specify that you want a “Your California Privacy Rights Notice.” Please allow 30 days for a response.
