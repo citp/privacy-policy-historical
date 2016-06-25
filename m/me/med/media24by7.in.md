@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the media24by7.in privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217160724id_/http%3A//www.media24by7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media24by7.in privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625115051id_/http%3A//www.media24by7.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Media24by7 | MEDIA24BY7
+# Privacy Policy - Media24by7
 
 **Privacy Policy**  
 This privacy policy describes how Media24by7 uses and cares for any information that user give Media24by7 when he/she uses this website.
