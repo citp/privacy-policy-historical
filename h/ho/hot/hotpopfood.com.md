@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopfood.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216021427id_/http%3A//hotpopfood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopfood.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625170840id_/http%3A//hotpopfood.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Food
 
@@ -57,3 +57,11 @@ These third parties may offer you a way to choose not to have your information u
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
 
 ## Recent Posts from Hot Pop Food
+
+[ ](http://hotpopfood.com/national-sauce-month-2/ "National Sauce Month")
+
+### [National Sauce Month](http://hotpopfood.com/national-sauce-month-2/)
+
+__Mar 06, 2016
+
+March is National Sauce Month! Who doesn't like a creamy, tangy delicious sauce with their meal? Celebrate with us as we find some of the best sauces around! 
