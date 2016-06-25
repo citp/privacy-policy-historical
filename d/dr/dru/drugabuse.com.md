@@ -1,81 +1,69 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232428id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625150723id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | DrugAbuse.com
 
-## Website Privacy Policy Statement
+## Website Privacy Policy
 
-By using this site, you agree to the terms of this Privacy Policy and the Terms of Use and Disclaimer, DrugAbuse.com collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.
+**Effective Date: 10/01/2015**
 
-The above-described information (Personally-Identifying Information) may be used by DrugAbuse.com to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is consent to the foregoing use of your Personally-Identifying Information by DrugAbuse.com
+This Privacy Policy covers the information appearing on the website on which it is posted (“Website” or “Site”), which is operated by Recovery Brands LLC, part of Sober Media Group (“Recovery Brands”, “DrugAbuse.com”, “Sober Media Group” or “we”).  This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.  By accessing the Site on any computer, mobile phone, tablet, or other device (collectively, “Device”), you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Website.
 
-DrugAbuse.com also may share your Personally-Identifying Information with select companies and organizations for their own marketing and promotional use. While DrugAbuse.com seeks to share Personally-Identifying Information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you wish that we not share your Personally-Identifying Information with third parties, you may “opt out” by emailing us with such request.
+We may modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the information we collect.
 
-You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a “chat room,” or otherwise specifically and knowingly disclose by use of the site, may be directly collected and used by third parties. Therefore, you may be subject to unsolicited email as a result of your disclosure of such information. You should have no expectation of privacy with respect to your communications through the forums, or profile should you choose to list this information.
+## Collection of Information
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like DrugAbuse.com. Based in the United States of America, our principal activity is the delivery of informational content and business listing information.
+### Personal Information
 
-Our Website Privacy Policy Statement covers DrugAbuse.com, its subsidiaries and any of its websites accessible via the primary websites listed below:
+We collect personal information from you when you provide it to us, including by providing information to us to find a treatment facility, or when you contact us.  This information may include, for example, your email address, name, telephone phone number, or mailing address.
 
-  * You can access our website home page and browse our site without disclosing your personal data.
-  * We collect the personal information that you may volunteer while using our services.
-  * We do not collect information about our visitors from sources outside of DrugAbuse.com, such as public records or bodies, or private organizations.
-  * We do not collect or use personal data for any purpose other than email marketing and than that indicated on the Web pages where the information is requested or collected.
-  * If we wish to use your personal information for a new purpose, we will contact you first for permission.
-  * Except as requested by you, we do not disclose your personal information to other organizations.
+### Non-Personal Information
 
+When you visit the Website, we may collect certain non-personal information from you, including your Internet Protocol (IP) address, the date and time of your visit, browser type, operating system, the specific web pages visited during your connection, and the domain name from which you accessed the Website. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other clickstream data. We may also use non-personal information for statistical analysis, research, and other purposes.
 
+Like many commercial websites, we may analyze how visitors use our Site through what is known as “cookie” technology.  A cookie is a small text file that is placed on your computer when you access the Site and allows us to recognize you each time you visit the Site. We may use cookies to: (1) enhance or personalize your Website usage; (2) monitor Site usage; (3) manage the Website; and (4) improve the Website and our services. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features that are currently on our Website, or that we may put on our Website in the future.
 
-## Website Security Policy
+We may also use web beacons on the Website, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Site visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the Website. Web beacons help us analyze our Website visitors’ behavior and measure the effectiveness of the Website and our advertising. We may work with service providers that help us track, collect and analyze this and other site usage information.
 
-** ** DrugAbuse.com is committed to complying with all federal, state, and local laws, as well as applicable regulations, standards, and guidelines established by government agencies and accepted accrediting organizations.
+We may combine the non-personal information we collect, such as through cookies and web beacons, with other information we have collected from you.
 
-We will provide a secure transmission method for you to send us personal information, including:
+### Use of Information
 
-  * Identifiers (such as social security numbers, credit card details, website password)
+We may use the information we collect from and about you for any of the following purposes: (1) to improve the quality of the content available on our sites, administer the sites, and enable certain functionality such as your participation in interactive areas of the sites (2) to provide you with names of treatment centers; (3) to respond to your inquiries; (4) to review Website usage and operations; (5) to address problems with the Website, our business or our services; (6) to protect the security or integrity of the Site and our business; (7) to monitor the Site for compliance with our Terms of Use and the law; and (8) to contact you with Website updates, newsletters and other informational and promotional materials from us and third party marketing offers from our trusted partners, as well as from other companies.
 
+If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by emailing us at removal@recoverybrands.com, or by following the instructions contained in the messages you receive.
 
+## Disclosure of Information
 
-While such secure transmission methods provide reasonable protections against unauthorized access, if you have concerns regarding the transmission of sensitive information (such as contact or medical information), you should consider using non-electronic communication methods.
+We may disclose information collected from and about you as follows: (1) to select companies and organizations so that they may use it for their own marketing and promotional uses; (2) to our related companies and service providers, to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Website Terms of Use or of our rights or the rights of any third party; (4) to respond to legal process (such as a search warrant, subpoena or court order) and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent for other purposes not listed here. We may share aggregate, non-personally identifiable information about Website users with third parties.
 
-We have implemented security policies, rules, and reasonable technical measures to protect the personal data that we have under our control from:
+While DrugAbuse.com seeks to share personally-identifying information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you prefer that we not share your information with third parties, you may “opt out” by contacting us with that request. You should be aware that any information you post on a bulletin board, forum, comment space, or “chat” room or that you otherwise specifically and knowingly disclose during the use of the Site, may be directly collected and used by third parties. As a result of disclosing such information, you may be subject to unsolicited email. You should have no expectation of privacy with respect to your communications through the forums or your profile should you choose to list this information.
 
-  * Unauthorized access
-  * Improper use or disclosure
-  * Unauthorized modification
-  * Unlawful destruction or accidental loss
+## Security
 
+We maintain reasonable and appropriate measures designed to maintain information we collect in a secure manner.  We have taken certain physical, electronic, and administrative steps to safeguard and secure the information we collect from Website visitors.  Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances.
 
+## Email Policies
 
-All our employees and data processors who have access to, and are associated with, the processing of personal information are obliged to respect the confidentiality of our visitors’ personal information.
+DrugAbuse.com will use reasonable means to protect the privacy of the information you send us by email. However, because of the risks outlined below, DrugAbuse.com cannot guarantee that email communications will be confidential. Additionally, DrugAbuse.com will not be liable in the event that you or anyone else inappropriately uses your email.
 
-## Email Privacy Disclaimer
+## Interest Based Advertising
 
-DrugAbuse.com will use reasonable means to protect the privacy of your information sent by e-mail. However, because of the risks outlined below, DrugAbuse.com cannot guarantee that email communications will be confidential. Additionally, DrugAbuse.com will not be liable in the event that you or anyone else inappropriately uses your e-mail. DrugAbuse.com will not be liable for improper disclosure of your information that is not caused by DrugAbuse.com’s intentional misconduct.
+We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time.
 
-## Email Risks and Your Responsibilities
+You may visit www.aboutads.info to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program.  Note that electing to opt-out will not stop advertising from appearing in your browser or applications.  It may make the ads you see less relevant to your interests.  In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
 
-At the discretion of DrugAbuse.com, its staff, physicians and agents and upon your agreement to the terms outlined within this consent form, you may use email to communicate with DrugAbuse.com. These e-mails may contain your personal health information. If you decide to use email to communicate with DrugAbuse.com, you should be aware of the following risks and/or your responsibilities:
+## Children
 
-  1. As the Internet is not secure or private, unauthorized people may be able to intercept, read and possibly modify email you send or are sent by DrugAbuse.com.
-  2. You must protect your email account, password and computer against access by unauthorized people.
-  3. Since email can be used to spread viruses, some which cause email messages to be sent to people who you do not intend to send email messages to, you should install and maintain virus protection software on your PC.
-  4. Since e-mails can be copied, printed and forwarded by people to whom you send e-mails, you should be careful regarding to whom you send e-mails.
-  5. As your employer may claim ownership of, or the right to access, the email account issued to you by your e-mail, you should avoid using an employer issued email account to communicate with DrugAbuse.com.
+We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen.
 
+## Your California Privacy Rights
 
+California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.  To make such a request, please contact us by emailing [privacy@recoverybrands.com](mailto:privacy@recoverybrands.com).
 
-**Conditions for the Use of Email**
+## Third Party Websites
 
-** ** By consenting to the use of email with DrugAbuse.com, you agree that:
+The Site may contain links to third-party websites which may have privacy policies that differ from our own. We are not responsible for, nor do we endorse, any of the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any external site before disclosing any personal information.  Please contact those websites directly if you have any questions about their privacy policies. 
 
-  1. Drugabuse.com may forward emails as appropriate for treatment, and other related reasons. As such, DrugAbuse.com staff members, other than the recipient, may have access to emails that you send. Such access will only be to such persons who have a right to access your email to provide services to you. Otherwise, DrugAbuse.com will not, otherwise, forward emails to independent third parties without your prior written consent, except as authorized or required by law.
-  2. You should carefully word your email messages so the information provided clearly, yet briefly, describes the information you intend to convey.
-  3. You are responsible for correcting any unclear or incorrect information.
-  4. com reserves the right to save your email and include your email or information contained within your email in your medical record.
-  5. Emails may not be the only form of communication that DrugAbuse.com will use to communicate with you. Additionally, DrugAbuse.com may decide that it is not in your best interest to continue to communicate with you by email. In such case, DrugAbuse.com will notify that it no longer intends to communicate with you by email.
+## Contact Us
 
-
-
-## Contacting Us
-
-Should you have any questions regarding these Terms of Use, the Privacy Statement, or the collection, retention, or management of any information on this website, please contact us via our email: [contact@drugabuse.com](mailto:contact@drugabuse.com).
+If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@recoverybrands.com](mailto:contact@recoverybrands.com).  If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
