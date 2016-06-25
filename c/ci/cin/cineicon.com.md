@@ -1,36 +1,80 @@
-> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225032959id_/http%3A//www.cineicon.com/2011/02/aadin-actress-gallery.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Cineicon - Blog - Tamil, Telugu, Hindi, Malayalam, Kannada: Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-**Privacy Policy Statement**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+**What information do we collect?**
 
-Sites like Google AdSense, Google Analytics, FeedBurner, Flickr or [other third-party services](https://www.google.com/adsense/support/bin/answer.py?answer=94149) may place and read cookies or use web beacons to collect non-personal information. These services use the data to track conversions, to show statistics about this site or to improve their features.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-The ads from this site are served by Google AdSense, a third-party service that shows contextually-targeted ads, placement-targeted ads and interested-based ads. Google uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) to serve ads based on the sites you have recently visited. You can go to the [Google Ads Preferences page](http://www.google.com/ads/preferences/) to opt out of the DoubleClick cookie.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
- **Contact   Information**  
-If you have any questions or concerns please contact me at **_cineicon@gmail.com_** . 
+**What do we use your information for?**
 
-  
-**Disclaimer**  
+Any of the information we collect from you may be used in one of the following ways: 
 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Some of the pictures in[ _http://www.cineicon._](http://www.blogger.com/goog_2018995825)[com](http://www.cineicon.com/) have been obtained from various internet sources. If by anyhow any of them is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it.email us to **_cineicon@gmail.com._**  
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-The copyright of these pictures belongs to their original publisher / photographer. Please let us know at ****
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**_cineicon@gmail.com_** _ ****_ if any Copyright Violation occurs and we will remove them right away.
+• To process transactions
 
- **For Mp3 Songs**
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-This site is owned and operated by 
+• To send periodic emails
 
-_**www.cineicon.com**_
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-we want to make your experience online satisfying and safe.The Audio files links on this page are only for evaluation use. If you decide to download any promo music file or any file for evaluation, you should delete them after 24 hours. If you don't, you will have to accept any consequences.All songs links provided in this page are for trial use only. If you like the song, please go buy the CD.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
- ** _Downloading at your own risk!!!_**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Making CD's from Wmv-files, MP3-files and Video Files is a violation of copyrights. The Wmv-files, MP3-files and Video Files on this site are for evaluation use only. If you Download Wmv-files, MP3-files or Video Files from this site please delete the files within 24 hours. If you like the song or video, please go out and buy your self a copy at the near by CD Shops. This website, its webmasters or its ISP cannot be held responsible for the consequences. ****
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
