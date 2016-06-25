@@ -1,21 +1,80 @@
-> *The following text is extracted and transformed from the thecurrentaffairs.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226040249id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecurrentaffairs.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# (mt) Media Temple - Company - Legal - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-(mt) Media Temple, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which (mt) Media Temple protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by (mt) Media Temple, including mediatemple.net, and ac.mediatemple.net. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-**A. Personally-Identifiable Information:**
+**What information do we collect?**
 
-(mt) Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to (mt) Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want (mt) Media Temple to use this information for additional purposes. You may also request that (mt) Media Temple not use your information by sending an e-mail to contact@mediatemple.net, however, (mt) Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your (mt) Media Temple services. Absent any instructions from you, (mt) Media Temple may use information you provide to inform you about additional services and products offered by the (mt) Media Temple family of companies, (mt) Media Temple venture companies, (mt) Media Temple authorized agents, and other goods and services providers with whom (mt) Media Temple has relationships and whose offerings might be of interest to you. (mt) Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those (mt) Media Temple sites where you may provide (mt) Media Temple with credit card or other ordering information via the web, (mt) Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, (mt) Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**B. Non Personally-Identifiable (Generic) Information:**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-In general, (mt) Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the (mt) Media Temple sites visited. (mt) Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about (mt) Media Temple services). (mt) Media Temple does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the AccountCenter. 
+**What do we use your information for?**
 
-**C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+Any of the information we collect from you may be used in one of the following ways: 
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website (mt) Media Temple may host for you as part of your (mt) Media Temple services, is available to anyone else who visits that space. (mt) Media Temple cannot safeguard any information you disclose in these locations. Additionally, (mt) Media Temple websites contain links to sites that belong to third parties unrelated to (mt) Media Temple. (mt) Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**D. Exceptions and Limitations:**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Notwithstanding the foregoing and in compliance with applicable laws, (mt) Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to (mt) Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, (mt) Media Temple may be required to disclose personally identifiable information. In addition, (mt) Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate (mt) Media Temple; or (iii) to protect the rights or property of (mt) Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, (mt) Media Temple reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to (mt) Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be (mt) Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by (mt) Media Temple; and (iii) agrees to the obligations of this policy statement.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
