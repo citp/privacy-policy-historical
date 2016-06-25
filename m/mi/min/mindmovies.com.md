@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212101753id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625114114id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies
 
