@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224142010id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625214007id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
 
-# Customer Service | Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 Effective: December 30, 2013
 
@@ -55,7 +53,7 @@ Attn: Internet Services Department
 PO Box 9100  
 Medford, OR 97501-0700 
 
-Our toll-free customer service lines are available twenty-four hours a day, seven days a week (subject to change). 
+Our toll-free customer service lines are available 5:00am–9:00pm PST Monday–Friday, and 6:00am–8:00pm PST on Saturday and Sunday (subject to change). 
 
 By providing personal information through this Website you explicitly agree to our collection and use of all such information as described in this privacy policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with affiliated companies or third parties. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy. You further agree that the information you provide is current, accurate and complete and that you will update it if there are any changes. 
 
@@ -120,9 +118,9 @@ Harry & David and our brands may disclose your personal information to third par
 
 ### Cookies
 
-A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Gift History, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. We may also use technologies such as our own cookies to provide you with enhanced online display advertising. To opt out of advertising provided by Harry & David, click [here](http://dtmc.harryanddavid.com/adinfo/adchoices_fpc.html?cid=2557&cname=Harry%20%26%20David&cmagic=168082&clogo=harry_and_david.png). If you reject certain cookies, you may still browse our Website; however, you may not be able to purchase or have access to all of our services. 
+A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Gift History, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. We may also use technologies such as our own cookies to provide you with enhanced online display advertising. To opt out of advertising provided by Harry & David, click [here](https://dtmc.harryanddavid.com/adinfo/adchoices_fpc.html?cid=2557&cname=Harry%20%26%20David&cmagic=168082&clogo=harry_and_david.png). If you reject certain cookies, you may still browse our Website; however, you may not be able to purchase or have access to all of our services. 
 
-We currently do not employ technology that responds to “do-not-track” signals from your browser. We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website. These companies may collect information about your online activities over time and across different websites when you use our site and use such information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/>. 
+We currently do not employ technology that responds to “do-not-track” signals from your browser. We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website. These companies may collect information about your online activities over time and across different websites when you use our site and use such information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [http://www.networkadvertising.org/](https://www.networkadvertising.org/). 
 
 ### Changing or Deleting Information
 
