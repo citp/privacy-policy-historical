@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtamaryland.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618002518id_/http%3A//mta.maryland.gov/content/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtamaryland.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625163349id_/http%3A//mta.maryland.gov/content/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | Maryland Transit Administration
 
