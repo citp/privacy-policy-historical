@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126003644id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625083227id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Equifax UK
 
@@ -10,7 +10,7 @@ We are Equifax Limited.,("Equifax" / "we" / "us" / "our") a company registered i
 
 By using this website you agree that we can place the cookies described below on your device. Please refer to the ‘How to manage cookies’ section of this policy for more information.
 
-By using this website you also signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Privacy & Cookie Policy. You will also be deemed to have read and accepted this Privacy & Cookie Policy.  
+By using this website you also signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Privacy & Cookie Policy. You will also be deemed to have read and accepted this Privacy & Cookie Policy.   
 
 
 ## Cookies
@@ -196,7 +196,7 @@ If you do not wish to receive such information, all our communications give you 
 
 ## Your statutory rights
 
-You have the right to obtain your statutory credit report at a cost of £2. This report contains all the personal data we hold about you that is relevant to your financial standing. Click here if you wish to find out how to exercise this right <http://www.equifax.co.uk/Products/credit/statutory-report.html>
+You have the right to obtain your statutory credit report at a cost of £2. This report contains all the personal data we hold about you that is relevant to your financial standing. Click here if you wish to find out how to exercise this right <https://www.equifax.co.uk/Products/credit/statutory-report.html>
 
 You also have the right to receive a copy of all the personal information that we hold about you under S7 of the Data Protection Act 1998 by submitting a Subject Access Request. The statutory fee is currently £10. 
 
