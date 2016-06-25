@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneystreet.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212185047id_/http%3A//www.themoneystreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneystreet.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625171857id_/http%3A//www.themoneystreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Money Street
 
@@ -53,4 +53,4 @@ Occasionally, at our discretion, we may include or offer third party products or
 These policies may be amended by us at any time and without notice, but will be posted at this page. You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
 
 7.) CONTACT INFORMATION  
-If there are any questions regarding this privacy policy you may contact us at the following e-mail address: stewart.canahui@separariondegrees.com
+If there are any questions regarding this privacy policy you may contact us at the following e-mail address: charlesarmy21@gmail.com
