@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjxrewards.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204203512id_/http%3A//www.tjxrewards.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjxrewards.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625142309id_/http%3A//www.tjxrewards.com/privacy.asp) for the most accurate reproduction.*
 
 # TJXRewards® - Privacy Policy
 
@@ -41,7 +41,7 @@ When we collect information from you, we may use it for a number of purposes, in
   * Measure the advertising effectiveness of our online and other advertisements and events;
   * Help us understand Website activity and improve your use of our Website;
   * Help us prevent fraud, unauthorized activity, claims and other liabilities and minimize risk;
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and our [Terms of Use](https://web.archive.org/web/20151204203512id_/http%3A//www.tjxrewards.com/terms-of-use.asp); and
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and our [Terms of Use](https://web.archive.org/web/20160625142309id_/http%3A//www.tjxrewards.com/terms-of-use.asp); and
   * Operate, evaluate and improve our business (including developing new products and services, managing our communications, performing market research, and administering our Website).
 
 
