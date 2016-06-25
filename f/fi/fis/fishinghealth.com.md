@@ -1,71 +1,80 @@
-> *The following text is extracted and transformed from the fishinghealth.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419033050id_/http%3A//www.fishinghealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishinghealth.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | Fishing Health
+# HugeDomains.com - Privacy Policy
 
-The blog publisher values the privacy of its clients and Web/blog site viewers. Any of the following personal information that may be made available to the blog publisher when browsing or navigating the site shall be kept confidential:
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-  * First and last name
-  * Company, home, postal or other physical address
-  * Other contact information, for example, telephone number, fax number, email address, and other similar information
-  * Title or position in a company or an organization
-  * Occupation
-  * Industry
-  * Personal interests
-  * Any other information needed to provide a service you requested
+**What information do we collect?**
 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Examples of scenarios** where our visitors provide their personal information include, but may not be limited, to:
+**What do we use your information for?**
 
-  * Emailing, calling or communicating with the blog publisher.
-  * Posting a question or comment through the site.
-  * Requesting literature.
-  * Registering to attend a seminar or any event.
-  * Participating in an online survey.
-  * Requesting inclusion in an email or other mailing list.
-  * Submitting an entry for a contest or other promotions.
-  * Logging in to the site, thus requiring a user name and/or a password.
-  * Any other business-related reason.
+Any of the information we collect from you may be used in one of the following ways: 
 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-The blog publisher provides you the opportunity to agree or decline to give your personal information via the Internet. The blog publisher will inform you of the purpose for the collection and does not intend to transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled “Information Sharing and Disclosure” below. If you choose to provide us with your personal information, we may transfer that information, within the company or to a third party service provider as necessary.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Domain Information Collection**
+• To process transactions
 
-The blog publisher may collect domain information to enable us to analyze how our visitors use this site. This data enables us to become more familiar with which people visit our site, how often they visit, and what parts of the site they visit most often. The blog publisher uses this information to improve its Web-based offerings. This information is collected automatically and requires no action on your part.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Use of Cookies and Tracking User Traffic**
+• To send periodic emails
 
-Some pages on this site may use “cookies”—small files that the site places on your hard drive for identification purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal information a cookie can contain is information you supply yourself. These files are used for site registration and customization the next time you visit us.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Some parts of the site may also use cookies to track user traffic patterns. The blog publisher does this in order to determine the usefulness of our Web site information to our users and to see how effective our navigational structure is in helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**Information Sharing and Disclosure**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Your personal information is never shared outside the company without your permission, except under conditions listed below:
+**How do we protect your information?**
 
-  * Consenting to share your information to a third party service provider working on our behalf to serve you.
-  * Requiring us to provide you with a product or service.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-The blog publisher will also disclose your personal information, if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our sites.
+**Do we use cookies?**
 
-**Internet Security**
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-The blog publisher strives to protect your personal information; however, we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**Protecting the Privacy of Children**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Children under 13 years old are not the target audience for our Web site. To protect their privacy, the blog publisher prohibits the solicitation of personal information from these children.
+**Do we disclose any information to outside parties?**
 
-**Links to Third Party Sites**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-This site may contain links to other sites. The blog publisher does not share your personal information with those Web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+**Online Privacy Policy Only**
 
-**Changes to this Privacy Policy**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-The blog publisher reserves the right to change, modify or update this policy at any time without notice. Any substantial changes in the way we use your personal information will be posted on this site.
+**Terms and Conditions**
 
-If you have questions or concerns about our Privacy Policy, please email us at the contact information on the site.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
