@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chipotle.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219070540id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipotle.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625092846id_/http%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
 
-# Chipotle
+# Chipotle — Privacy Policy
 
 ## CHIPOTLE’S PRIVACY POLICY
 
