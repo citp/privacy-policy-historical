@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotaukulele.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105000654id_/http%3A//www.gotaukulele.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotaukulele.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625055310id_/http%3A//www.gotaukulele.com/p/privacy.html) for the most accurate reproduction.*
 
-# GOT A UKULELE - Leading ukulele blog for the beginner: PRIVACY
+# GOT A UKULELE - Leading Learn To Play Ukulele blog for beginners: PRIVACY
 
 This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies. You can turn off the use of cookies at anytime by changing your specific browser settings. 
 
