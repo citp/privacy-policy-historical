@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224080812id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625133343id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # First Choice | Our Policies | Privacy Policy
 
