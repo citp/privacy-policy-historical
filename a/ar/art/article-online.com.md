@@ -1,29 +1,80 @@
-> *The following text is extracted and transformed from the article-online.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023442id_/http%3A//www.article-online.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-online.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# 
+# HugeDomains.com - Privacy Policy
 
-At article-online.com, we understand the importance of your privacy. We know that you would not like to share every data you provide on our site. We assure you that we will never sell or rent your data to any third party. We also guarantee never to use your contacts for sending unsolicited emails.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-To further maintain the transparency of the affair, we have drafted an all-encompassing privacy policy so that you know exactly how your data is being used.
+**What information do we collect?**
 
-**Membership Details:** Your membership details (email ID, contact number, address, etc.) is safe with us. We will never to sell/rent them to any third party in exchange cash or kind. The personal information that you provide will only be used for providing the services that are promised to you on the website.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**Opt-In/Opt-Out Facility:** We offer Opt-In/Opt-Out facility to help you to choose the services you would like to avail. If you do not want to use a particular service/feature, simply opt out of it.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Personal Data:** At article-online.com, we use your personal data (contact number, address, email ID, etc.) to create your user account so that you may use this site to publicize your creation. We use your personal data to send you intimation regarding your account or to update you about our services.
+**What do we use your information for?**
 
-**User Communications:** We retain the emails that you send us in the form of queries or feedback. This is also to enhance the quality of our services and thus serve you better.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We may also use your data to conduct studies and researches internally so that we can upgrade our services and provide greater user experience. These data might also be used for developing new products or services for your purpose.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We may share your personal data with a third party on some occasions like complying to legal processes, protection against fraudulent activities, etc.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-In case we share your personal data with any third party, we will make sure that they (the third party) comply with our Privacy Policy. Under no circumstance, will the data provided by you be abused.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We track the way you use our services through cookies or similar applications. Cookies are HTTP texts that are stored in the user's browsers while they surf the Internet. These cookies help the service providers to learn how the users use a particular site so that they can provide a better surfing experience.
+• To process transactions
 
-We also record your log information like Internet Protocol address, browser type, access time and date, URL, domain, location, language type to locate any kind of problem that may crop up and thus serve you better.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We also track user sessions and page views so that we can deliver with the best of our potential. 
+• To send periodic emails
 
-Article-online.com would be updating its privacy policy from time to time. The users will be intimated about the changes through email or personal notifications. However, we would like you to review our privacy policy from time to time so that you do not miss out on any vital information.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
