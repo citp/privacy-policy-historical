@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miraclemindmethod.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110040053id_/http%3A//www.miraclemindmethod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miraclemindmethod.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625175001id_/http%3A//www.miraclemindmethod.com/privacy.php) for the most accurate reproduction.*
 
 # Miracle Mind Method Privacy Poilcy
 
