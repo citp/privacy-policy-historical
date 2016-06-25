@@ -1,99 +1,54 @@
-> *The following text is extracted and transformed from the criteo.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516153841id_/http%3A//www.criteo.com/us/privacy-policy%3F0ecea38193df0c9bab184bf1b140820e%3De1793c0c6bd1f5c038c2551c03befd3e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criteo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625155638id_/http%3A//www.criteo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Criteo PPC Personalized Retargeting
+# Privacy | Criteo - Making Display Marketing Perform | Criteo
 
-**What does this privacy policy cover?**
+We do not know who you are. We collect and use technical data relating to your browsing navigation to display personalized advertisements.
 
-Criteo takes your privacy very seriously. This document's purpose is to detail as clearly as possible the main principles of the Criteo retargeting solution and the data we collect through the technology as well as on our Website
+### We collect browsing information
 
-### Criteo Retargeting Solution Privacy Policy
+#### Data collected on Criteo network
 
-## Who is Criteo?
+To serve relevant ads, we have to be able to single out patterns but we never willingly store data that would allow identification of a person (such as name, surname, phone number, address, etc.). We collect data related to your browsing activity through cookies or advertising IDs that record:
 
-Criteo is a specialist in creating personalized advertisements. We work with retailers to build advertisements for their customers. Our aim is to deliver more relevant advertisements, by displaying products that you might be interested in based on your recent visit to a particular retailer's site. Criteo exhibits these products within personalized banners that you may see while visiting websites that display advertising.
+-          events related to your activity on our advertising partner’s website (such as the number of pages viewed, the products you viewed on that website, your searches made on the partner’s website)
 
-**What is the advantage of receiving ads built by Criteo?**
+-          information related to your device (device type, operating system, version)
 
-You should receive personalized ads that are more relevant for you than the standard advertising you would receive without Criteo. Our hope is that over time you will receive fewer annoying ads that aren't relevant to you and which interrupt your online activities.
+-          and events related to the Criteo ad serving activity such as the number of ads displayed to you.
 
-**What does Criteo know about me through the ads they serve?**
+We also collect technical user identifiers from our advertising partners for the purpose of linking the different browsers and mobile apps you use and serve you relevant ads based on your behaviour across environments (“ID syncing”). For that purpose we process and store
 
-We do not know who you are. We do not know your name. We do not know where you live, where you work, your gender, your age, your email address or any other personally identifiable information about you. We do not collect any information from the publisher website on which you may have seen our ads. We do not store your IP address. We do know that the Internet Browser you are using has visited one of our partner sites (probably an online retailer) in the last 30 days, and we have seen which products you were interested in on that site.
+  * Technical IDs of our advertising partners, and/or a hashed version of your CRM ID or of your email address – we use a double hashing method based on state-of-the art technologies to ensure the non-reversibility of your information. A hash of your email correspond to a series of characters that does not permit your identification. For eg : a hash of [name@mail.com](mailto:name@mail.com) would be 98307a5ba02fa1072b8792f743bd8b5151360556b8e5a6120fa9a04ae02c88c0 
+  * Mobile advertising IDs (such as Apple IDFA or Google AAID) which are specific technical data created by mobile manufacturers to allow personalization and customer analytics in a secure and non-identifying way for users 
 
-**What information does Criteo collect about me through their technology and how do they use that information?**
 
-We only collect anonymous data. In order to identify which products you might be interested in, Criteo records, via anonymous cookies, which pages you have browsed on our partners' website - normally an online retailer. Cookies keep the information of which pages you viewed, and in certain cases which products you bought. This data is anonymous and exclusively meant for statistical treatment. There is absolutely no way for Criteo to identify the visitor. Our advertisements do not combine information about you from multiple sources. We do not take any user information from a retailer that they may have stored about you (name, address, etc). We do not share any data with any site that displays our advertising.
 
-**Where will I see advertisements powered by Criteo?**
+#### Data collected from trusted partners
 
-Our retailers' advertisements are displayed on many Internet sites ("Publishers"). In some cases, these Publishers may also place a cookie on your browser. This cookie is there so that the Publisher recognizes that Criteo has a personalized advertisement available for your browser. For example Google, as a third party vendor, uses a cookie (which they call a DART cookie) to identify users where Criteo has a personalized advertisement. You may opt out of the use of the DART cookie by visiting the Google [advertising privacy policies](http://www.google.com/privacy_ads.html). To opt out of all Criteo personalized banners see below.
+We can collect technical identifiers from third parties for the purpose of improving our ID syncing and be sure to offer you a seamless online experience. These trusted partners commit to only share ID syncing information allowing us to link users’ cookies and/or mobile identifiers and to provide an efficient choice mechanism to end-users (opt-out). For eg : the linking information sourced from our partners could be Cookie ID ABC = Apple IDFA 123 = MD5 hashed value). Our partners may use probabilistic or deterministic methods but in all cases please note that beside the ID syncing information, no other data (whether personally identifying information or non-personal identifying information) that could be collected by our partners in the course of their services are shared with us. Moreover, we require that all our partners provide users with a simple way to opt out from the collection and use of their data.
 
-**What are cookies?**
+### We do not collect any identifying information
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+We do not know who you are. We do not know your address, your place of work, your date of birth, your email address, your phone number. We do not use or store full IP address for targeting purposes*.
 
-Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
+We do not collect hardware-based identifiers such as UDID, Mac Address.
 
-**Data Security**
+We do not collect sensitive information (such as religion, political opinion, health…).
 
-We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to, the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+We do not create segments to specifically target children under 16 years old.
 
-**Data Retention  
-**
+We do not process any information which could be used by Criteo, directly or indirectly, to determine the personal identity of users.
 
-We retain the anonymous data that we collect (e.g., which pages you have browsed on our partners’ website) for up to 13 months from the date of collection.  After 13 months, the information is destroyed.
+We collect information in order to increase the relevancy of the ads being displayed to you. The data we collect is also used for reporting purposes, to give our clients and partners more information about the performance of their advertising campaigns, and to improve performance over time.
 
-**How can I disable the display of Criteo personalized advertisements?**
+### We may share aggregated data
 
-If you no longer want to be exposed to Criteo personalized banners, simply click on the opt-out link below. Please note that this procedure will not block ads that are displayed on the websites you visit.
+We share information collected with our subsidiaries or affiliated companies. We may share non identifying data such as aggregated data and technical identifiers with our partners, i.e. data that does not permit identification of a partner, or permit you to be directly identified. We share non-aggregated data only upon approval of our partners and in compliance with our commercial agreements.
 
-**Your status:**
+We partner with [Ad exchanges platforms](http://www.criteo.com/privacy/criteo-works-with-the-following-platforms/ "Criteo works with the following platforms") to buy ad placements through auctions. Before the auction we link our ID with the ad exchange platform and then participate to the auction by sending the bid price and the banner code to display.
 
-Click here to opt-out.  
-[Click here](http://www.criteo.pro/us/privacy-policy/opt-in) if you already have an opt-out cookie and that you want to experience Criteo personalized ad banners. ****
+_*In compliance with the best industry standards, we only use full IP addresses:  _
 
-**Please note:** This opt out relies on a cookie, so if you wipe all your cookies then we will no longer know that you have opted out.
+-          _For fraud detection purposes (and not for targeting purposes) to help alert us to situations which could not have been caused by human behavior, such as a massive amount of clicking in a limited period of time; or_
 
-You can also Opt-Out of Criteo's Retargeting service by visiting the Network Advertising Initiative website: <http://www.networkadvertising.org/managing/opt_out.asp>.
-
- **Please note:** when you opt-out in this manner, a cookie will be set on your browser. We must maintain the cookie on your browser in order to recognize you as an opted-out visitor. You must opt-out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
-
-### Criteo Website Privacy Policy
-
-## TRUSTe
-
-Criteo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's programm requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe requirements") including transparency accountability and choice regarding the collection and use of your personal information.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@criteo.com](mailto:info@criteo.com) . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe Contact").
-
-**Customer Testimonials**
-
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
-
-**What information does Criteo collect about me on their website and how do they use that information?**
-
-We collect information from you on our Contact us form, such as your name and email address. We use this information for the sole purpose of responding to your inquiry.
-
-**Do We Share With Third Parties?**
-
-Criteo Corp does not share, sell, rent, or trade PII with third parties other than as disclosed within this privacy policy.
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-**Updating or Correcting your Personal Information**
-
-If your personally identifiable information changes you may update it by filling out our Contact Us form again.
-
-**Third Party Cookies**
-
-The use of cookies by our tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to make it easier for you to navigate our site.
-
-**Changes in this Privacy Statement**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-Criteo.  411 High St. Palo Alto, CA 94301
-
-Last updated: December 28, 2010
+-          _To extract geographical information._
