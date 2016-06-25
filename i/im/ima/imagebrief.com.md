@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127174352id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagebrief.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625182241id_/http%3A//www.imagebrief.com/privacy) for the most accurate reproduction.*
 
 # ImageBrief
+
+## ImageBrief Privacy Policy
 
 ##### General
 
@@ -103,9 +105,9 @@ We will otherwise not transfer your personal information, or use, sell or disclo
 
 The Site may contain links to websites which are owned or operated by third parties. You should make your own enquiries as to the privacy policies of these third parties. We are not responsible for information on, or the privacy practices of, such websites.
 
-You consent to and authorise ImageBrief to transfer your personal information to an organisation or individual outside Australia. ImageBrief will only transfer personal information to a foreign country for the purpose of providing you with the services of ImageBrief and for carrying out any request you make when you use and interact with the Site.
+You consent to and authorise ImageBrief to transfer your personal information to an organisation or individual outside the United States of America. ImageBrief will only transfer personal information to a foreign country for the purpose of providing you with the services of ImageBrief and for carrying out any request you make when you use and interact with the Site.
 
-Your personal information may be transferred overseas if you are accessing the Site from a country outside of Australia.
+Your personal information may be transferred overseas if you are accessing the Site from a country outside of the United States of America.
 
 If ImageBrief sells all or part of its business or makes a sale or transfer of all or part of its assets or is otherwise involved in a merger or transfer of all or part of its business, ImageBrief may transfer you personal information to the party or parties involved in the transaction as part of that transaction.
 
