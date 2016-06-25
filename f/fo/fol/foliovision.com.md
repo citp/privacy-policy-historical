@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906070248id_/https%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626012306id_/https%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Our postal address is:
 >  Bratislava, 81109  
 >  Slovakia**
 
-We can be reached via e-mail at info – at – foliovision dot com  
+We can be reached via e-mail at info - at - foliovision dot com  
 or you can reach us by telephone at +1 416 352 5026
 
 Collection and use of visitor information:
@@ -24,7 +24,7 @@ Collection and use of visitor information:
 
 Any information we collect is used only to improve the content of our Web page, used to notify visitors about updates to our Web site, such as new comments on weblog entries.
 
-We sometimes use cookies to record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+We sometimes use cookies to record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -32,6 +32,6 @@ If you supply us with your postal address on-line you may receive periodic maili
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-With respect to security we take great care to make sure that your information remains private. We hate spam too. Perhaps even more than you – we get a lot of it for ourselves and on behalf of our clients.
+With respect to security we take great care to make sure that your information remains private. We hate spam too. Perhaps even more than you - we get a lot of it for ourselves and on behalf of our clients.
 
 **If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.**
