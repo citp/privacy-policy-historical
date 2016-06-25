@@ -1,96 +1,80 @@
-> *The following text is extracted and transformed from the lovefreegames.com privacy policy that was archived on 2011-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110726050253id_/http%3A//www.lovefreegames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovefreegames.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Wireless Privacy Policy - LoveFreeGames
+# HugeDomains.com - Privacy Policy
 
-Privacy Policy - Your Privacy Rights 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-Last Updated: 04/01/2010
+**What information do we collect?**
 
-PLEASE NOTE: THE SERVICES ARE ONLY AVAILABLE TO INDIVIDUALS 13 YEARS OF AGE OR OLDER (INDIVIDUALS UNDER THE AGE OF 18, THOUGH, MUST OBTAIN THE PERMISSION OF A PARENT OR LEGAL GUARDIAN) AND WHO ARE LEGAL RESIDENTS OF THE UNITED STATES, CANADA OR THE UNITED KINGDOM (IF APPLICABLE). IF YOU DO NOT QUALIFY UNDER THESE REQUIREMENTS, YOU ARE NOT AUTHORIZED TO USE OR SUBMIT ANY INFORMATION ON THE WEBSITE OR USE THE SERVICE. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Welcome to LoveFreeGames ("Company," "we" or "us") website and service available through this website (collectively, the "Website" or "Service"). 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-This privacy policy ("Privacy Policy") covers the treatment of personally identifiable information that the Company collects when you are on the Website and/or when you sign up for and/or use the Service. It is important that our users are fully informed about the use of their personal information. The Company believes in 100% permission-based marketing. This Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from the Company and the Company 's joint marketing advertisers ("Advertisers"), whether at the Website, via e-mail and/or on third party websites (via co-registration or otherwise). 
+**What do we use your information for?**
 
-Collection of Information by the Company 
+Any of the information we collect from you may be used in one of the following ways: 
 
-Children's Privacy  
-This Website is not directed to children under the age of 13 and we do not knowingly collect personal information on this Website from children under the age of 13. If we become aware that we have inadvertently received personal information from a visitor under the age of 13, we will delete the information from our records. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Personally Identifiable Information  
-For each user, our web server automatically recognizes the user's domain name and IP address, but not the e-mail address (unless supplied independently by a user). 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-To qualify to receive access to the Website and/or Service, subject to the requirements set forth in our EULA and Website Terms and Conditions, we gather personal information from you in order to establish your Company membership account, such as your first and last name, e-mail address, postal mailing address, mobile telephone number and other demographic information. We may also collect credit/debit card information for payment and/or age verification purposes. IT IS IMPORTANT THAT YOU SUPPLY TO US WITH VALID, COMPLETE, CURRENT AND ACCURATE PERSONAL INFORMATION; SUCH INFORMATION WILL BE USED TO SUPPLY THE SERVICE TO YOU AND TO COLLECT PAYMENT FOR SUCH SERVICE (WHERE APPLICABLE). By submitting your information you authorize us to confirm the accuracy of the information you submitted against government-issued identification. We may also collect information related to your online activities to more accurately target and measure our advertising inventory, including, without limitation, the places you visit at the Website, content accessed and associated marketing metrics (such as e-mails opened and responded to) (collectively, your ?Marketing Profile?). 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-In addition, if you choose to participate in any offer available at or through the Website, whether offered by us and/or a third party, any personal information submitted by you shall be subject to the privacy policy(s) of the respective third party collecting such personal information. In addition, you may find links to other websites from our Website. Please be aware that the Company is not responsible for the privacy practices of any third parties and/or websites. We strongly encourage you to be aware of when you leave our Website and/or supply your personal information to a third party, and to read the privacy policies of each and every third party and/or website before using such third party website and/or before supplying any personally identifiable information to them. This Privacy Policy applies solely to information collected by this Website. 
+• To process transactions
 
-Use of Information Obtained by the Company  
-You understand and agree that the Company may use and share your personal information with third parties as needed to supply the Service to you. For example, if you want to use a ringtone that you created on your mobile device, we will transfer your mobile telephone number and the location of the ringtone to a service provider, who will then transmit the ringtone to your mobile device for your personal use. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-You understand and agree our advertising relationships allow us to make the Company available to you. Accordingly, the information that you submit to the Company remains your property, but by participating in the Company Service, you grant us the right to use such information and your Marketing Profile for multiple marketing purposes, including, but not limited to, sharing such information with third parties. The Company may use such information to (i) directly market certain offers to you via e-mail marketing, telemarketing, direct mail, mobile telephone text messaging (including, without limitation, SMS and/or MMS) and other methods, (ii) to monitor compliance with our Website Terms and Conditions, and (iii) for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other third party businesses to bring selected retail opportunities to you. These businesses may include, but are not limited to, providers of online, e-mail, telemarketing and direct mail marketing services and applications. Such services and applications may include, but not be limited to, lookup and reference, data enhancement, overlay, appending, suppression and validation. 
+• To send periodic emails
 
-By registering for LoveFreeGames, you are indicating that you have read and agree to this Privacy Policy and of its all terms and conditions, and you further acknowledge and agree that you understand how and under what circumstances the personal information you provide will be used. You also agree to receive marketing promotions and other solicitations from this website, its advertising partners and/or other third party advertisers (collectively, ?Website Sponsors?) based on the information you provide on this website, and expressly agree to be contacted by any such Website Sponsors through direct mail, phone, pre-recorded message, SMS text and/or email. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-In addition to marketing purposes, the Company reserves the right to release your information if: (a) we believe that the Website and/or Service is being or has been used in violation of the Terms and Conditions or to commit unlawful acts; (b) your information is subpoenaed or requested by a court, governmental agency or law enforcement entity; or (c) the Company is sold, transferred and/or acquired. Moreover, you hereby consent to the disclosure of any information, record or communication from you to any third party when the Company determines, in its sole discretion, that the disclosure is appropriate or necessary, for example, to share your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-In addition, you agree that by registering for a Company membership, such act constitutes a purchase, inquiry and/or application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. ("Rule"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, the Company retains the right to contact you via telemarketing in accordance with the Rule. Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website, such action shall constitute an inquiry and/or application with the respective third-party advertiser for purposes of the Rule. As such, you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the Rule. To the extent that your credit card-specific information and/or social security number is collected by the Company, said information will be transmitted securely, kept in confidence and will not be shared with any third parties (other than third party service providers ? such as payment processors ? who provide services to the Company and/or consumer credit agencies) without your prior informed consent. In addition, by submitting your credit card information to us, you authorize the Company to periodically verify by various methods that your credit card account continues to be valid and active, including, without limitation, charging and thereafter immediately crediting a small sum to the credit card. Apart from the foregoing uses, the Company and its affiliates and/or subsidiaries reserve the right to share with third parties the fact that we/they have credit card information on file for you, but such specific credit card information shall not be shared by us/them with any third parties without your prior authorization. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-You may receive an e-mail confirming your membership with the Company, co-registration with Advertisers, as well as promotional marketing of commercial products and services. The Company reserves the right to collect and retain data relating to e-mail marketing sent to, and opened by, individuals on our marketing list(s). 
+**How do we protect your information?**
 
-Opt-Out Policy  
-You may exercise your option to not receive any future communications from us by clicking here or sending an email to [optout@LoveFreeGames.com](mailto:optout@LoveFreeGames.com). Subscribers should note that unsubscribing from this Website's electronic mailings will not automatically unsubscribe you from any communications you have elected to receive from our Clients or other third parties. Please note that you may still receive information from third parties to whom we have disclosed your information prior to the time you opted-out. The Company users who no longer wish to receive promotional e-mail materials from our Advertisers may opt-out of receiving these communications by following the instructions contained in the applicable e-mail, in accordance with the CAN-SPAM Act of 2003. You must unsubscribe separately from each Advertiser's list. To unsubscribe from any Advertiser's website or e-mail list, please visit their website or review their e-mail for complete unsubscribe details. Similarly, if, after unsubscribing from Company emails, you click on or access an Advertiser's offer appearing at the Website, you may begin receiving offers by, or on behalf of, those particular Advertisers. You must unsubscribe from their list in order to stop receiving their email offers. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Privacy Complaints  
-If you believe that we have not complied with this Privacy Policy, please contact us at: [privacy@LoveFreeGames.com](mailto:privacy@LoveFreeGames.com)
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will investigate and respond to your complaint as promptly as possible under the circumstances. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-If you feel that your inquiry has not been satisfactorily addressed, you may contact the Direct Marketing Association at [privacypromise@the-dma.org](mailto:privacypromise@the-dma.org) or in writing at: 
+**Do we use cookies?**
 
-Direct Marketing Association: Attn: Privacy Promise, 615 L St. NW, Suite 1100,Washington, DC 20036 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-How to Access or Modify Your Information  
-We strive to keep all personal information current, accurate and complete. You are always fully in control of the information that we maintain to service you. You can change your personal information at any time and as often as necessary. You can also request that information be deleted. Information may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation, or as otherwise described above in the ?Use of Information? section. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-You may access and modify your personal information by contacting us at: [privacy@LoveFreeGames.com](mailto:privacy@LoveFreeGames.com)
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Special Notification for California Residents  
-Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following emailing address: [CAPrivacy@LoveFreeGames.com](mailto:CAPrivacy@LoveFreeGames.com)
+**Do we disclose any information to outside parties?**
 
-This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified above. 
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-General information collection and use ? Aggregate   
-We gather our users' server, IP address and browser-type related information in the general administration of our Website and Service. The Company reserves the right to transfer and/or sell aggregate or group data about the Company users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of the Company users as a group, without disclosing personally identifiable information. By submitting your personal information to, and/or using, the Website and/or Service, you agree to allow the Company to transfer and/or sell such aggregate data to third parties. 
+**Online Privacy Policy Only**
 
-Log Files  
-Like most website servers, we use log files. Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Log file information is not linked to personally identifiable information. 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Use of Cookies  
-A cookie is a text file stored on a user's hard drive containing information about the respective user. Cookies can provide great convenience for users at many websites and is required to use the Company Website and Service. For instance, by associating a cookie with your computer which is identified and processed by our servers, you need not log in more than once at the Website, thereby saving time and convenience while using our servers. In particular, we may use persistent and/or session cookies at the Website. Persistent cookies do not automatically expire, but persist to permit the Company to register future visits at the Website with your profile in our servers. In addition, cookies associated with the Company may be read, aggregated and used with cookies associated with other affiliate Internet properties. 
+**Terms and Conditions**
 
-In addition, we and/or third parties that advertise at the Website and through other types of media available at or through the Website may use cookies and pixel gifs to track and target the interests of our users to enhance the experience on our Website and/or for advertising tracking purposes. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-Third Party Cookies  
-The Company delivers to your web browser many of the advertisements you see when you use the Website. However, the Company also allows other companies, called third-party ad servers or ad networks, to serve advertisements within and/or on the Website. Because your web browser must request these advertising banners from the ad networks' servers, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the Website. Please note that if an Advertiser asks the Company to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the Advertiser and/or ad-server may conclude that you fit the description of the audience they are trying to reach. However, the Company only authorizes our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. To the Company' knowledge, the third-party ad servers do not collect personally identifying information about you. In addition, the Company uses third-party service provider partners to employ anonymous cookies for accounting and data integrity purposes.If you want to prevent a third-party ad server and/or third-party service provider from sending and reading cookies on your computer, currently you must visit each ad network's and service provider's website individually and opt-out (if they offer this capability). 
+**Your Consent**
 
-Currently, we have relationships with the following third party service providers and/or may display the following third party ad server networks (click to visit their website). In addition, we may at some point engage other third-party ad servers and/or third-party service providers in the future. 
+By using our site, you consent to our web site privacy policy. 
 
-24/7 Real Media, Inc.: <http://www.247realmedia.com/privacy.html>  
-Fastclick, Inc.: <http://www.fastclick.com/co_privacy.html>  
-Burst.com, Inc.: [http://www.burst.com](http://www.burst.com/)  
-AQuantive, Inc.: <http://www.atdmt.com/privacy/>  
-DoubleClick, Inc.: <http://www.doubleclick.com/us/about_doubleclick/privacy/>  
+**Changes to our Privacy Policy**
 
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit http://www.aboutcookies.org. 
+This policy was last modified on 1/10/2012 
 
-Security  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. 
+**Contacting Us**
 
-When a user submits sensitive personal and payment information via the Website, the information is protected both online and off-line. When our registration, download or purchase process prompts a user to enter sensitive information (such as a credit card or social security number), the information is encrypted and is protected with industry-standard encryption - SSL technology. While we use SSL encryption to protect sensitive information online, we also use commercially reasonable measures to protect user information off-line. Access to user information is restricted in our offices and areas where such information is stored. Only employees and authorized individuals who need access to the information to perform a specific job are granted access to personally identifiable information. If you have any questions about the security at our Website, please contact us at [security@LoveFreeGames.com](mailto:security@LoveFreeGames.com). 
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-Changes to This Privacy Policy  
-We reserve the right, at our sole discretion and at any time, to change, modify, add or remove portions of this Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the Company Website and/or Service following the posting of changes to this Privacy Policy constitutes your acceptance of such changes. If you do not agree to the terms of this Privacy Policy, you may not use and/or access the Website and/or Service. 
-
-Your Acceptance of this Privacy Policy  
-By using this Website and/or Service, you agree to all of the terms and conditions of the Company Privacy Policy, as well as all other policies contained on the Website and relating to the Services. 
+HugeDomains.com
