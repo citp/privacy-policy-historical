@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224140404id_/http%3A//www.manta.com/resources/manta-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625081901id_/http%3A//www.manta.com/resources/manta-privacy-policy) for the most accurate reproduction.*
 
-# Manta Privacy Policy | Manta
+# Manta Privacy Policy - Manta
 
 ## Your Manta Information
 
