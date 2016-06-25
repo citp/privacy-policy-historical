@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sermonsearch.com privacy policy that was archived on 2015-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223223013id_/http%3A//www.sermonsearch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sermonsearch.com privacy policy that was archived on 2016-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625201841id_/http%3A//www.sermonsearch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>
 	Privacy Policy for SermonSearch.com
@@ -13,22 +13,13 @@
     <!-- Bootstrap -->
     <link href="/siteinfo/css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="/siteinfo/css/bootstrap-theme.css" rel="stylesheet" type="text/css">
-    <link href="/siteinfo/css/font-awesome.css" rel="stylesheet" type="text/css">
-
     <link href="/siteinfo/css/ss.css" rel="stylesheet" type="text/css">
 
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/siteinfo/bootstrap/scripts/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="/siteinfo/javascript/jquery.cookie.js"></script>
-
-    <script type="text/javascript" src="/siteinfo/javascript/site.js"></script>
-
-
-    <script type="text/javascript" src="https://www.sermonsearch.com/siteinfo/javascript/jquery.simpleValidate.min.js"></script>
-
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/siteinfo/bootstrap/scripts/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/siteinfo/javascript/jquery.simpleValidate.min.js"></script>
 
     
 
-    <script src="/siteinfo/js/bootstrap.min.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -46,7 +37,7 @@
       }
 </script>
     <script>
-        var deactivateAPPopup = $('.allpass_container').hide();
+        //var deactivateAPPopup = $('.allpass_container').hide();
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                 (i[r].q = i[r].q || []).push(arguments)
@@ -55,10 +46,32 @@
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-2396832-13', 'auto');
+        ga('require', 'ec');
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
 
     </script>
+
+<!-- Facebook Ecommerce pixel -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '226483937541599');
+    fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=226483937541599&ev=PageView&noscript=1"
+/></noscript>
+
 <script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 <script type="text/javascript">
   try {
@@ -101,6 +114,18 @@
               googletag.pubads().setTargeting(kv[0], kv[1]);
         }
 
+        var gptKV = document.querySelector("meta[name='ad:keyvalue']");
+        if (gptKV !== null)
+        {
+            gptKV = gptKV.getAttribute("content").split(';');
+            for (var i in gptKV)
+            {
+                var kv = gptKV[i].split('=');
+                if (kv.length == 2)
+                    googletag.pubads().setTargeting(kv[0], kv[1]);
+            }
+        }
+
         if (document.referrer.indexOf('facebook') >= 0)
             googletag.pubads().setTargeting('ref', 'fb');
 
@@ -122,12 +147,13 @@
 
 
 
-<div class="container bground" style="background-image:url(http://media.salemwebnetwork.com/sermonsearch/holiday/christmas/sswinter.png); background-size:cover; background-position:top; margin-top:-20px"><br><!-- inline style and br tag added for christmas season only  -->
+<div class="container bground">
     <div class="header navbar row">
         <div class="col-sm-12 col-md-12 col-lg-6 pull-left header-logo padding-right-none">
             <div itemscope="" itemtype="http://schema.org/Organization">
                 <a itemprop="url" href="/">
-                    <img class="mainlogo" itemprop="logo" src="http://media.salemwebnetwork.com/sermonsearch/holiday/christmas/christmas-logo.png" alt="SermonSearch Logo"></a>
+                    <img class="mainlogo" itemprop="logo" src="http://media.salemwebnetwork.com/sermonsearch/2013/sermonsearch.png" alt="SermonSearch Logo"></a>
+     
             </div>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6 pull-right header-right padding-right-none">
@@ -150,12 +176,12 @@
                             </div>
                             <a id="submitLogin" href="javascript: submitLoginForm();" class="btnLogin hidden-xs"></a>
                         </form>
-                        <a href="http://www.sermonsearch.com/register/" class="register hidden-xs">Register</a>
+                        <a href="/register/" class="register hidden-xs">Register</a>
 
                   
-                    <a href="http://www.sermonsearch.com/register/" class="btn btn-default ssorange hidden-lg hidden-md hidden-sm">Login/Register</a>
-                  
                     
+                  
+                    <a href="/register/" class="btn btn-default ssorange hidden-lg hidden-md hidden-sm">Login/Register</a>
                     
 
                     
@@ -233,8 +259,8 @@
                     </li><li><a href="/sermon-illustrations/">Sermon Illustrations</a></li>
                     <li class="nav-divider">
                     </li><li><a href="http://sermonsearch.worshiphousemedia.com/" target="_blank">Sermon Videos</a></li>
-                    <li class="nav-divider">
-                    </li><li><a href="/sermon-topics/christmas-advent/?utm_source=site&amp;utm_medium=link&amp;utm_campaign=header+nav">Christmas Sermons</a></li>
+                    <li class="nav-divider">                    
+                    </li><li><a href="/sermon-topics/independence-day/?utm_source=site&amp;utm_medium=link&amp;utm_campaign=header+nav">July 4th Sermons</a></li>
                     <li class="nav-divider">
                     </li><li class="lastinlist"><a href="/articles/">Preaching Tips</a></li>
 
@@ -648,7 +674,8 @@
         <ul class="list-unstyled">
             <li><a href="/">SermonSearch Home</a></li>
             <li><a href="/sermon-outlines/">Sermon Outlines</a></li>
-            <li><a href="/free-sermon-outlines-trial/?utm_source=site&amp;utm_medium=button&amp;utm_campaign=ftfooternav">Free Sermons</a></li>
+            <li><a href="/free-sermon-outlines-trial/?utm_source=site&amp;utm_medium=button&amp;utm_campaign=ftfooternav">Free 
+Sermons</a></li>
             <li class="footer-link-long"><a href="/sermon-illustrations/">Free Sermon Illustrations</a></li>
             <li><a href="/sermon-topics/">Sermon Topics</a></li>
             <li><a href="/articles/">Preaching Articles</a></li>
@@ -685,6 +712,7 @@
 <div class="row">
     <div class="ad728x90 hidden-xs hidden-sm" style="">
         <a href="/free-sermon-outlines-trial/?utm_source=site&amp;utm_medium=button&amp;utm_campaign=ftfooter">
+        
             <img src="http://media.salemwebnetwork.com/sermonsearch/2013/footer-free-trial.png"></a>
     </div>
     <div class="hidden-sm hidden-xs hidden-sm">
@@ -737,10 +765,7 @@
                     <a href="http://www.christianjobs.com/" target="_blank" class="FooterItem FooterCJ">Christian Jobs</a>
                 </li>
                 <li>
-                    <a href="http://www.christiansongcharts.com/" target="_blank" class="FooterItem FooterCSC">Christian Song Charts</a>
-                </li>
-                <li>
-                    <a href="http://www.churchmediablog.com/" target="_blank" class="FooterItem FooterCMB">Church Media Blog</a>
+                    <a href="http://www.worshiphousemedia.com/church-media-blog/" target="_blank" class="FooterItem FooterCMB">Church Media Blog</a>
                 </li>
                 <li>
                     <a href="https://www.playbackmedia.com/" target="_blank" class="FooterItem FooterPBM">Playback Media</a>
@@ -753,7 +778,7 @@
     </div>
 </div>
 <div style="clear: both; color: #574031; font-size: 0.9em; margin: auto; text-align: center; font-weight: bold;">
-    © 2015 Salem Church Products All Rights Reserved.
+    © 2016 Salem Church Products All Rights Reserved.
 </div>
 <script type="text/javascript">
     if (window.location.href.indexOf('/cart') > -1 || window.location.href.indexOf('/register') > -1 || window.location.href.indexOf('/checkout') > -1 || window.location.href.indexOf('/contact-us') > -1 || window.location.href.indexOf('/user/accountedit.aspx') > -1 || window.location.href.indexOf('/become-a-contributor/') > -1 || window.location.href.indexOf('/user/accounteditplan.aspx') > -1) {
@@ -763,8 +788,6 @@
             </footer>
         </div>
     </div>
-
-
     <script type="text/javascript">
         $(document).ready(function () {
 
@@ -778,6 +801,29 @@
             });
         });
     </script>
+    <script type="text/javascript"> <!-- site.js -->
+        function submitLoginForm() {
+            jQuery("#loginform").submit();
+        }
+        function submitBSTForm() {
+            var url = jQuery('[name=BstUrl]').val();
+            var keyword = jQuery('[name=txtKeyword]').val();
+            var translation = jQuery('[name=txtTranslation]').val();
+            var bookGroup = jQuery('[name=txtBookGroup]').val();
+
+            if (keyword == 'Keyword search for...') {
+                keyword = '';
+            }
+            var querystring = '?q=' + keyword + '&';
+            querystring += '?t=' + translation + '&';
+            querystring += 'c=' + bookGroup;
+
+            window.open(url + querystring);
+        }
+    </script>
+    <script type="text/javascript" src="/siteinfo/javascript/jquery.cookie.js"></script>  
+    <script src="/siteinfo/js/bootstrap.min.js"></script>
+        <link href="/siteinfo/css/font-awesome.css" rel="stylesheet" type="text/css">
 
 
 <!--PhysicalUrl=/privacypolicy.aspx-->
