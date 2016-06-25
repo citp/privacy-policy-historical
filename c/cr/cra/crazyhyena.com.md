@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyhyena.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515133808id_/http%3A//crazyhyena.com/privacy-policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyhyena.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625074640id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.*
 
-# Funny Pictures, Quotes, Photos, Pics, Images. Free Humorous Videos and Facebook Covers
+# Crazy Funny Pictures and Videos
 
 ## Your Privacy
 
