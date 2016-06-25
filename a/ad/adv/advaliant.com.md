@@ -1,111 +1,80 @@
-> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Welcome to MediaTrust - The Platform for Performance Marketing
+# HugeDomains.com - Privacy Policy
 
-#### MediaTrust's Privacy Policy
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-  1. **MediaTrust, Inc. ("MediaTrust", "we" or "us") is a performance marketing company.
+**What information do we collect?**
 
-This policy is designed to inform you about our privacy practices on our corporate Website ("Website"), www.mediatrust.com. This policy also addresses how our MediaTrust platform ("Platform") processes information on behalf of the advertisers, website owners and other businesses that use the Platform (our "Clients"). If you have any questions about this privacy policy, please feel free to contact us at support@MediaTrust.com.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**
-  2. **Policy for Information we Collect on this Website**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-The Website is directed to our Clients who are generally businesses. 
+**What do we use your information for?**
 
-  3. **Personally Identifiable Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We collect Personally Identifiable Information ("PII") from the Website when it is provided to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone, number, cell phone number, or email address. We collect PII from visitors to this Website under the following circumstances:
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-\- When visitors (including Clients and prospective Clients) send us an email or submit a question via the Website, we use that information to answer their question.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-\- When visitors (including Clients and prospective Clients) apply to be publishers on the MediaTrust Platform, we collect their PII such as name, postal address, telephone number, and social security number. We use this information to process the publisher application, and if accepted into the Platform, to service the publisher's account. Therefore, by providing such information, you are also granting permission for a representative of MediaTrust to contact you to verify your application, if need be, for quality control purposes.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-  4. **Non-Personally Identifiable Information**
+• To process transactions
 
-We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. We use this information to verify our records and to provide more relevant services to our Clients and other visitors to the Website.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-  5. **Cookies**
+• To send periodic emails
 
-We use "cookies" on this Website. Cookies are small text files that contain a string of alphanumeric characters. MediaTrust uses cookies to improve the quality of our service and Website, and to store the login preferences of our Clients on the Website and Platform. Most Internet browsers are initially set up to accept cookies. You can remove cookies by following directions provided in your Internet browser's "help" file. Please note that removing or otherwise disabling cookies may reduce your ability to enjoy the full functionality of the Website. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-  6. **Information we Collect via the MediaTrust Platform**
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-This section of the policy is designed to help you understand how our MediaTrust platform ("Platform") processes information on behalf of (our "Clients").
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-  7. **Overview of the MediaTrust Platform**
+**How do we protect your information?**
 
-The MediaTrust Platform is a scalable pay-for-performance advertising platform that provides detailed campaign information including clicks, actions, and conversions. As an advertiser using the MediaTrust platform, you work with vetted publishers that can refer consumer traffic to your campaign. As a publisher, you can promote your services to advertisers that run campaigns on the platform. When a publisher is selected to participate in an advertiser's program and that publisher generates a sale, they earn a referral fee.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-  8. **Cookies and Web Beacons**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-The Platform uses cookies in conjunction with web beacons in order to help us record detailed campaign information for our Client's advertising campaigns. Web beacons, also known as 1X1 pixels or clear GIFs, allow a website to count users who have visited a particular web page.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-  9. **Controlling the use of your information**
+**Do we use cookies?**
 
-Deleting your PII
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website or via the Platform, please send your request to us at support@MediaTrust.com and we will process your request within a reasonable period of time after receipt. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-  10. **Information Security**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
+**Do we disclose any information to outside parties?**
 
-  11. **Information Relating to Children**
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records. 
+**Online Privacy Policy Only**
 
-  12. **Disclosure of Information to Third Parties**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-We generally do not rent or share PII collected via the Website or Platform with non-affiliated third parties without your consent. We may, however, share such PII with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. 
+**Terms and Conditions**
 
-We may share Non-PII collected on the Website or via our Platform with unaffiliated third parties. For example, we may disclose that "blue banner ads" receive more clicks than "orange banner ads." This information cannot be used to contact or identify any person individually. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. 
+**Your Consent**
 
-Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. 
+By using our site, you consent to our web site privacy policy. 
 
-  13. **Changes to this Privacy Policy**
+**Changes to our Privacy Policy**
 
-This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the information collected through this Website or Platform, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy. 
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-  14. **Who can I ask if I have additional questions?**
+This policy was last modified on 1/10/2012 
 
-Contact us any time and we'll answer any additional questions you may have. Our email address is support@MediaTrust.com. Alternatively, you may contact us at the following address:  
-Privacy Officer  
-MediaTrust  
-855 N. Douglas Street, 2nd Floor  
-El Segundo, CA 90245  
+**Contacting Us**
 
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-Updated February 14, 2012
-
-
-
-
-Welcome to MediaTrust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.
-
-MediaTrust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.
-
-Our service team and publishers are experts at utilizing search engine marketing, affiliate advertising, pay per click services, display advertising, email marketing and social media to bring results. Advertisers and publishers have access to a wide range of tracking and reporting tools that provide statistics about your campaigns and expert advice to help you create campaigns that will increase online sales.
-
-Performance advertising allows you to easily manage your marketing budget with costs that are easy to determine and delivers results. We deliver value by focusing on helping you increase online sales and leads, not just driver generic traffic to your website. Our pay for performance business model is designed so we get paid a commission for each lead or sale, so you pay for results.
-
-If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with MediaTrust for the best technology and expert advice and service.
-
-  * [Ad Network](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/ad-network.php)
-  * [Affiliate Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-advertising.php)
-  * [Affiliate Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-marketing.php)
-  * [Affiliate Network](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/affiliate-network.php)
-  * [Increase Online Sales](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/increase-online-sales.php)
-  * [Advertising On Social Networks](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/advertising-on-social-networks.php)
-  * [Pay Per Click Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/pay-per-click-advertising.php)
-
-
-  * [Pay For Performance](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/pay-for-performance.php)
-  * [Performance Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/performance-advertising.php)
-  * [Search Engine Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/search-engine-marketing.php)
-  * [Direct Mail Marketing](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/direct-mail-marketing.php)
-  * [Display Advertising](https://web.archive.org/web/20120615054805id_/http%3A//www.mediatrust.com/display-advertising.php)
-
-
+HugeDomains.com
