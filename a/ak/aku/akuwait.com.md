@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the akuwait.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010230id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akuwait.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # HugeDomains.com - Privacy Policy
 
-[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
 **What information do we collect?**
 
