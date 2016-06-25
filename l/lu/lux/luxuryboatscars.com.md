@@ -1,78 +1,80 @@
-> *The following text is extracted and transformed from the luxuryboatscars.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129131737id_/http%3A//www.luxuryboatscars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryboatscars.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Luxury Cars Rentals, Price, Best & Small, Classic & Exotic, Import
+# HugeDomains.com - Privacy Policy
 
-**Privacy Statement**  
-We are committed to protecting your privacy. The privacy, confidence, and trust of individuals who visit our website is important to us. No personal information is collected at this site unless provided voluntarily by an individual while participating in an activity that asks for the information.
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-**Cookies** "Cookies" are small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other websites. Cookies do not damage your system. They are used to keep track of and store information so the user does not have to supply the information multiple times. The information that is collected through cookies at this site is handled in the same manner as other information collected here. You can configure your web browser to refuse cookies or to notify you when a web site attempts to send you a cookie. You can also check your hard drive for cookie files and delete them from your computer.
+**What information do we collect?**
 
-**Links to Other Sites** This website contains links to many other websites. These include links to websites operated by other government agencies, nonprofit organizations, and private businesses. We are not responsible for the content or privacy practices of these sites and suggest you review their privacy statements.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**NOTIFICATION and CHANGES** Any modifications to our privacy practices will be reflected here. If we change our Privacy Policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Permissions to Link or Post Permission is granted for linking to our site, individual pages or articles within the site.
+**What do we use your information for?**
 
-[Taxis Belfast ](http://www.gransha-taxi.co.uk/) Do you want to take a tour of the Belfast Murals? Gransha-taxi has grown from a small taxi company in to one of the most prominent taxi companies in Belfast so why not take a tour of Belfast with Gransha Taxis Belfast? 
+Any of the information we collect from you may be used in one of the following ways: 
 
-[motorhome accessories](http://www.rvpartssupplier.com/RV-Accessories-s/79.htm) RV Parts Supplier offers an outstanding range of the latest accessories and fabrics to personalize your RV.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-[rv sales](http://www.arbogastrvs.com/) We offer top quality new motorhomes for sale and used motorhomes for sale.You can browse our wide selection of new and used RVs for sale.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-[Party Limo Services](http://www.allseasonlimo.com/party-limo-services.html) All Season Limo services provide Party Limo Services, Party Limo Rental and Toronto Party Limo at low price.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-[Location voiture Marrakech](http://www.medloc-maroc.com/) location voiture Marrakech a partir 22.
+• To process transactions
 
-[Tours in China](http://www.chinatourstailor.com/) Top China tour operator providing China tours and travel service. Specialized in Tailor-Made and Customized Private Tours in China for personal, family and group!
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-[Car Service to Airport](http://www.regencylimousine.com/) Connecticut Limo Service & Airport Transportation. CT Sedans, Airport Shuttle Service. A service award winner, Regency will get you anywhere, anytime with luxury, reliability and affordability. 
+• To send periodic emails
 
-n the rented [appartments Vienna](http://www.apartmentsvienna24.com/), the patrons can choose to cook for themselves or to eat at the restaurant of their choice. Those apartments are really ideal match for a perfect family holiday trip.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-[packers and movers bangalore](http://www.packersnmovers.ws/) We are one of the leading Poonam Cargo packers and movers in India and render valuable packing and moving services to our esteemed clients.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-[shower manufacturers](http://www.horne.co.uk/) Our broad range of thermostatic mixing valves (TMVs) is widely used to control water temperatures to safe and comfortable levels in domestic hot water services.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-[sun laboratories ultra dark](http://www.sunlabsonline.com/31/buy_8oz_ud_tan_lotion,_get_a_8oz_maintainer_free.html) Sun Laboratories Ultra Dark Self Tanning lotion is designed to create the most natural-looking tan, instantly.
+**How do we protect your information?**
 
-[new york luxury car rental](http://newyorkexoticcarrental.net/) New York Exotic Car Rental and Luxury Cars in Beverly Hills. Best Lamborghini, Ferrari, Rolls Royce, Bentley, Mercedes, Maserati, BMW, Audi, Aston Martin and Hummer rentals in California.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-[range rover accessories catalog](http://goldcoastrovers.com/c-280680-range-rover-iii-2003-on.html) Gold Coast Rovers online Range Rover accessories catalog includes axles, engine, steering, wheels and many more spare parts with same day shipping.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-[Portland car dealers ](http://www.beavertonhyundai.com/) Beaverton Hyundai conveniently serves people for great deals on Hyundai new and used cars near Portland, Oregon. Buy Hyundai cars around Hillsboro, Sherwood, & Wilsonville at great prices. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-[isee](http://www.flowercarole.com/education-2/what-expect-from-isee/)When a person commences a journey, he makes plans for his travel before he leaves his house. He obtains the required information so that he is comfortable and doesn’t face unforeseen obstacles. Similarly, when one has to appear for an exam, he should make all sorts of enquiries about the exam so that he can plan his journey of taking the exam and undertake it smoothly.
+**Do we use cookies?**
 
-[ Christmas Party London ](http://christmas.hospitalityline.co.uk/)Christmas Parties, London Christmas Parties, Nights For Christmas 2012
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-| [tyre repairs manchester](http://tyremanchester.co.uk/about.html)
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-| [car hire in manchester](http://hirecarmanchester.com/)
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-| [Car Hire UK](http://www.arnoldclarkrental.com/)
+**Do we disclose any information to outside parties?**
 
-| [Pharmacy Degrees](http://www.toppharmacyschoolsonline.com/different-types-of-pharmacy-degrees/)
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-| [peritoneal dialysis](http://www.kidneytreatmentcenter.com/)
+**Online Privacy Policy Only**
 
-| [Pantoufles en peau de mouton pour hommes](http://www.draper-of-glastonbury.com/categories/1/mens-collection)
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-| [plastic bottle](http://www.ebottles.com/showbottlefamilys.asp?type=2&mat=plastic)
+**Terms and Conditions**
 
-| [live gambling tips](http://livegamblingtips.com/)
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-| [uk poker rules](http://ukpokerrules.co.uk/)
+**Your Consent**
 
-| [777 casino jackpot](http://777casinojackpot.com/)
+By using our site, you consent to our web site privacy policy. 
 
-| [online gambling poker](http://onlinegamingpoker.co.uk/)
+**Changes to our Privacy Policy**
 
-| [casino fun game](http://casinofungame.com/)
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-| [Car Moving Company](http://www.autotransportjunction.com/)
+This policy was last modified on 1/10/2012 
 
-| [prognosis for mesothelioma](http://www.mesothelioma-prognosis.net/)
+**Contacting Us**
 
-| [view website](http://goarticles.com/article/What-Is-Search-Engine-Optimisation/7112871/)
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-| [seo](http://www.squidoo.com/the-benefits-of-search-engine-optimisation3)
+HugeDomains.com
