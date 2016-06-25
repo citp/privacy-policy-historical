@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921150101id_/http%3A//bookoutlet.com/Help/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625044856id_/http%3A//bookoutlet.com/Help/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Help - Privacy &amp; Security
 
