@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsappstatus77.in privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221182601id_/http%3A//www.whatsappstatus77.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappstatus77.in privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625080407id_/http%3A//www.whatsappstatus77.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Best Whatsapp Status | Whatsapp Status 77
 
