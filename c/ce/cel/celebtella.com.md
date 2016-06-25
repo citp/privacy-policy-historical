@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebtella.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222163342id_/http%3A//celebtella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebtella.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625150054id_/http%3A//celebtella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Celebtella
 
