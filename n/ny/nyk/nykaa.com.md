@@ -1,90 +1,110 @@
-> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812071521id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625033954id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nykaa.com
+# Privacy Policy | Nykaa
 
-## Privacy Policy for the Website of the Company
+Revised From 25th May 2016 
 
-**FSN E-COMMERCE PRIVATE LIMITED** (" **FSN** ") is committed to respecting and safeguarding the privacy of all its service recipients and users of its website, [www.nykaa.com](http://www.nykaa.com/)(" **Site** "). This privacy policy (" **Policy** ") discloses the practices and policies adopted by FSN for collecting, storing, retrieving or using personal data and sensitive personal data or information it may receive from its users of the Site. All terms and conditions of the use of the Site are incorporated in this Policy by reference. The Policy seeks to comply with the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (" **Rules** "). 
+**1.   INTRODUCTION**
 
-This Policy is applicable to all personal information and sensitive personal data or information that is disclosed by or obtained from any person who visits or uses or accesses the Site (" **User** ").
+The domain name [www.nykaa.com](http://nykaa.com/) ( ** _"Site"_** ) is owned and operated by FSN E-Commerce Private Limited (" ** _FSN_** " ). We value the trust you have in us. Therefore, we insist upon the highest standards for secure transactions and customer information privacy.
 
-FSN reserves the right to modify or review the provisions in this Policy without prior notice and the revised Policy will be in effect from the day of uploading.  Therefore, Users are requested to periodically visit the Site and review the policy.
+This Privacy Policy (" ** _Policy_** ") describes the type of personal information we collect from our User, purpose for collecting such information, how we use it, with whom we share it and the choices available to our customers regarding our use of the information. We will not disclose the personal information and sensitive information (meanings ascribed in clause 2 below) shared by the user other than in compliance with this Policy. If you do not consent to any of the terms enumerated in this Policy, do not proceed to use the Site.
 
-**1.        DEFINITIONS**
+Our Policy is subject to change at any time without notice. Your continued use of the Site following such changes to the Policy constitutes your acceptance of the changed Policy and to be bound by such changes. If you do not continue to use the Site following change in the policy but take no action with respect to your personal information and sensitive information with us, our use of your personal information and sensitive information shall remain subject to the Policy in effect prior to the change. You are responsible for periodically reviewing this Policy in order to be aware of any changes thereto.
 
-" **Applicable Law** "" means all applicable statutes, acts of Indian legislature, ordinances, rules, bye-laws, regulations, notifications, cirulars, guidelines, policies, directions, directives and orders of any government, statutory authority, regulatory authority, tribunal, board or court in India;
+**2.   WHAT WE COLLECT**
 
- " **General Information** "" will have the same meaning ascribed to it in clause 2.5 of the Policy.
+We may collect personal identifiable information from you when you save or otherwise provide us when you set up a free account with the Site OR when you communicate with us via phone, email, chat, etc OR when you fill an entry to participate in any contest, promotion or survey, etc. OR use the service of Gift Card on the Site OR when you participate at one of our events, etc. As a result of these actions you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped including address and telephone numbers, IP addresses, product interest information and in certain circumstances, your opinions and individual preferences, etc (collectively " ** _Personal Information_** "). When you visit this Site, our social media platforms, or our social networking or mobile applications, may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons
 
-" **Personal Information** "" shall mean information disclosed by or obtained from any User and includes name, age, occupation, email, residential address, telephone number, payment processing details and any other personal details capable of identifying such a person.
+You may also provide us with information like financial information such as Bank account or credit card or debit card or other payment instrument details, password, physical health condition; medical history, sex, etc. (collectively " ** _Sensitive Information_** ") for availing the services at our Site.
 
-" **Sensitive Personal Information** " shall, excluding any information that is freely available or accessible in public domain or is furnished under Applicable Laws, mean the following information:
+We may also maintain a record of your product interests and acquire information about you from our present and/or future affiliates.
 
-(a)        account password,  
- (b)        physical, physiological or mental health condition,  
- (c)        sexual orientation; medical records and history;  
- (d)        financial information such as bank account or credit/debit card details or other payment instruction details
+This Site is directed to be used by adults only who are above the age of 18 years. If you are not an adult, while you may look at our Site, but you should not make a purchase, register, or submit personal information to us. We or our associates / affilates do not knowingly collect information from minors.Minors should not be using the Site with any personal information. In an event of default by the minor, the parent or the guardian will be liable to compensate for whatsoever damages arising out of such wrongful use by the minor.
 
- " **User** " means any Person who visits or uses the Site or avails of the services at the Site.
+** ** **3.   WHAT IS THE PURPOSES FOR WHICH THE PERONAL AND SENSITIVE INFORMATION IS COLLECTED**
 
-** ** **2.        COLLECTION OF INFORMATION THROUGH THE SITE**
+FSN may use your Personal Information collected:
 
- 2.1     A User may be required to reveal Personal Information, including Sensitive Personal Information, while browsing through the Site or for availing services at the Site.
+  * send you or your friends, relatives or associates, products that you have ordered;
+  
 
- 2.2     Prior to furnishing Personal Information to FSN for using the Site, a User must grant consent to FSN for using the Personal Information. The Personal Information will be used only for the purposes set out in Clause 4 of the Policy.  If the User does not wish to provide such Personal Information, the User must not proceed with using the Site.
+  * process gift card transaction;
+  
 
- 2.3     FSN will collect Personal Information or Sensitive Personal Information only for a lawful purpose connected with a function or activity of FSN, for which activity the Personal Information or Sensitive Personal Information is reasonably considered necessary.
+  * help us learn more about your shopping preferences; or
+  
 
- 2.4     FSN will not be responsible for the correctness or completeness of the Personal Information or Sensitive Personal Information provided by the User, or any consequences arising in relation to incorrect or incomplete Personal Information or Sensitive Information.
+  * conduct marketing and performance research to assist us in measuring our customer services, benchmarking our performance and to help us improve your shopping experiences and product offerings.
+  
 
- 2.5     While browsing through the Site, the Site server may automatically record some general information about User’s visit, such as the date and time visiting the Websites, the IP address being used, the type of browser being used etc. (" **General Information** "). Such General Information collected is not Personal Information for the purpose of this Policy.
 
- 2.6     FSN reserves the right to use General Information collected by it for any purpose whatsoever including statistical analysis, tracking overall traffic patterns and marketing and promotional purposes. Consequently, FSN may share such General Information or any analysis with any third party, at its discretion.
 
-**3.        USE OF PERSONAL INFORMATION AND SENSITIVE PERSONAL INFORMATION**
+As provided below under Clause 7, you may always choose not to receive promotional materials or marketing information.
 
-Personal Information disclosed to FSN by a User will be used by FSN for one or more of the following purposes:
+**4.   WITH WHOM WE SHARE THE PERONAL AND SENSITVE INFORMATION**
 
-a. to assist FSN in creating content that is relevant to the User,
+Only the persons authorized by us shall have access to your Personal Information and Sensitive Information. We may share your Personal and Sensitive information with:
 
-b.  to maintain a database of all the Personal Information collected from the User,
+  * Our affiliates;
+  
 
-c. to evaluate and administer the Site and resolve any problems that may arise with usage of the Sites.
+  * Service providers who perform services on our behalf based on our instructions which inter alia include beauty partners providing beauty services to the customers. However, these service providers will not be authorized to use or disclose such information except as necessary to perform services on our behalf or comply with legal requirements;
+  
 
-**4.        COOKIES**
+  * Other third parties with your consent ( _e.g. Facebook applications may share information collected through those apps with your Facebook friends or other Facebook users_ ).
+  
 
- 4.1     When a User visits the Site, one or more cookies shall be sent to computer or the device being used by the User to visit the Sites. Cookies are used to improve the quality of the services provided by FSN, including for storing User preferences, improving search results and tracking User trends. 
 
- 4.2     Users will always have the option of disabling cookies via their browser preferences.  However, Users are advised and made aware that if they disable cookies on their browser, some parts of Websites may not function as effectively.
 
-**5.        INFORMATION SHARING ****AND DISCLOSURE OF PERSONAL INFORMATION AND SENSITIVE PERSONAL INFORMATION**
+We do not rent or sell your Personal and Sensitive Information to any third party. However, should we plan to merge/sell all or substantially all of our business to another business entity or similar other transaction or be required by that business entity, we may transfer or disclose your Personal Information and Sensitive Information to that business entity who may collect, use or disclose such information for the purposes of evaluating the proposed transaction or for operating and managing the affairs of the acquired business or for other purposes identified in this Policy.
 
- 5.1     Only Persons authorized by FSN shall have access to Personal Information and Sensitive Personal Information disclosed to FSN. User grants consent to FSN for sharing Personal Information or Sensitive Personal Information with persons who are associated with FSN.
+Notwithstanding anything contained in this Privacy Policy, we reserve the right to disclose any Personal Information or Sensitive Information that may be required to be disclosed mandatorily under applicable law or where the disclosure is necessary to comply with any legal obligation or to law enforcement authorities or other government officials, without prior notice or consent of the site / app user.
 
- 5.2     Notwithstanding anything contained in this Privacy Policy, FSN reserves the right to disclose any Personal Information or Sensitive Personal Information, that may be required to be disclosed under applicable law, without prior notice or consent of the User.       
+**5.   COOKIES**
 
-**6.        DISCLOSURE TO THIRD PARTY **
+We may track your preferences and activities on the Site. "Cookies" are small data files transferred to your computer's hard-drive by a website. They keep a record of your activities on the Site making your subsequent visits to the site more efficient. Cookies may store a variety of information, including, the number of times that you access a site, registration information and the number of times that you view a particular page or other item on the site. The use of cookies is a common practice adopted by most major sites to better serve their clients. Most browsers are designed to accept cookies, but they can be easily modified to block cookies.
 
-** ** 6.1     In case the information is being collected and retained by a third party, on behalf of FSN, FSN shall obtain prior permission from the User before transfer of information to any third party, unless such disclosure is necessary for compliance of a legal obligation.  Such obligation is also not applicable in case such information is being transferred to a government agency, when a request for such transfer has been made by such government agency to FSN.
+By continuing the use of the Site, you are agreeing to our use of cookies. If you do not agree to our use of cookie, you can block them in your browser setting, but you may lose some functionality on the Site.
 
- 6.2     FSN E-Commerce may transfer Personal Information or Sensitive Personal Information to any company or person located in India or any other country only if it is necessary for the performance of lawful contract between FSN and any person, provided the same level of data protection will be adhered to by the other company. FSN cannot guarantee that such parties will keep the Personal Information or Sensitive Personal Information confidential and FSN will not be liable in any manner for any loss of confidentiality attributable to such third parties.
+**6.   HOW WE RETAIN OF SENSITIVE PERSONAL DATA OR INFORMATION**
 
-**7.        SECURITY**
+We will retain your Personal and Sensitive Information only as long as it is reasonably required or otherwise permitted or required by applicable law or regulatory requirements. We may also retain your Personal and Sensitive Information so long as it is necessary to fulfil the purposes for which it was collected ( _including for purposes of meeting any legal, administrative, accounting, or other reporting requirements_ ). Your Personal and Sensitive Information is safeguarded against inappropriate access and disclosure, as per this Privacy Policy.
 
-** ** 7.1     FSN has taken all reasonable measures and precautions to keep the Personal Information and Sensitive Personal Information safe and secure and to prevent any unauthorized access to or misuse of the same.
+We also maintain appropriate and adequate administrative, technical and physical safeguards designed to protect your Personal and Sensitive Information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
- 7.2     FSN shall not be liable to any User for any loss, damage (whether direct, indirect, consequential or incidental) or harm caused to the User due to the unauthorized access or misuse of the Personal Information or Sensitive Personal Information by any third party (beyond the control of FSN).
+**7.   OPT-OUT **
 
-**8.        LINKING TO OTHER SITES**
+The Site provides an option to all the users to opt-out of receiving any promotional or marketing communications from us. If you do not wish to receive any promotional or marketing communications from us, you can contact us at the address provided below.
 
- FSN is not responsible for the privacy practices or the content of any other websites for which links may be provided on the Site or which provides links to the Site. By clicking on a link, logo or other such items, or using certain services available on the Site, User may no longer be on the Site and in such circumstances privacy policy of such other website shall apply. FSN encourages Users to read the posted privacy statement of the other websites whenever interacting with any website.
+**Your Choices to opt-out:**
 
-**9.        CONTACT US**
+You have the following choices with how your information is used:
 
- If a User wishes to report a violation of the Terms of Use or this Policy and has any questions or needs assistance, please contact:
+**Opt-out options** | **What you need to do**  
+---|---  
+Updating your Personal Information in relation to your Account | You can update or correct your name, e-mail address, security questions, and other preferences by logging into your account and clicking on the "My Account" page, calling Nykaa customer care executive, or visiting a Nykaa store and speaking with a representative.  
+Receiving newsletters and promotional e-mails | You can click on the "unsubscribe" link at the bottom of any promotional e-mail that you receive. Alternatively, you may edit your e-mail preferences on your "My Account" page or call Nykaa customer care executive to discontinue receiving any promotional materials by mail/ e-mail.  
+Behavioral Based Advertising | You can opt-out of some, but not all, online behavioral based advertising by clicking here or by using your browser settings to block cookies or notify you when a cookie is set.  
+Remove content from user review | You can remove content that you posted on a Nykaa public space, such as part of a Ratings & Review, by e-mailing details to [support@nykaa.com](mailto:support@nykaa.com "support"). Please note that we will endeavor and try to ensure to honor your request to remove information, however, our removal of your information does not completely erase that information from the internet viz. historical copies, or "caches," may remain.  
+  
+**8.   WITHDRAWAL OF CONSENT**
 
- Customer Service Desk
+If you have consented to the collection, use and/or disclosure of your Personal and Sensitive Information as identified in this Policy, you may withdraw the same at any time by communicating to us at the given below under Clause 10.
 
-**Email:** Support@nykaa.com
+**9.   SECURITY**
 
-**Phone:** (Monday to Friday): +91 9222 20 1010
+We endeavour to keep your Personal and Sensitive information secure, up-to-date, accurate in the best possible manner as it may be necessary for the purpose for which it was collected. We value the importance you attach to your Personal and Sensitive Information given to us and therefore we have (i) taken all reasonable measures and precautions to keep such information safe and secure and to prevent any unauthorized access to or misuse of the same; and (ii) enable you to review and edit the same.
+
+However, we shall not be liable to any user for any loss, damage (whether direct, indirect, consequential or incidental) or harm caused to the user due to the unauthorized access or misuse of the Personal or Sensitive Information by any third party
+
+**10.   CONTACT INFORMATION**
+
+**Customer Service Desk**
+
+**Email:**[support@nykaa.com](mailto:support@nykaa.com "support")
+
+**Phone:** +91 9222 20 1010
+
+**Contact Days:** Monday to Saturday (8:00 a.m. to 10:00 p.m.)   
+                        Sunday (10.00 a.m. to 6.00 p.m.)
