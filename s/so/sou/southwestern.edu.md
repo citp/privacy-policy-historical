@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140854id_/http%3A//southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625162218id_/http%3A//www.southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ Links to this notice are available on the University’s Homepage and on pages w
 
 ####  **Information Southwestern University Collects From Website Visitors**
 
-Southwestern collects **personally identifiable information (hereafter referred to as PII)** , submitted by visitors, at various points on University Websites/pages. Personally identifiable information are data which contain information that can be associated with or traced back to an individual visitor. PII includes, for instance, a visitor’s name, address, and phone number. 
+Southwestern collects **personally identifiable information (hereafter referred to as PII)** , submitted by visitors, at various points on University Websites/pages. Personally identifiable information are data which contain information that can be associated with or traced back to an individual visitor. PII includes, for instance, a visitor’s name, address, and phone number. Southwestern only uses your personal information to provide you requested services or to communicate with you about those services or the website. 
 
 Information that is not PII is often referred to as “aggregate information.” These data include a user’s Internet Protocol (IP) address, Website/page traffic and other statistics, and broad demographic data. Most aggregate information is collected automatically in temporary logs created by the web serving software. 
 
@@ -39,13 +39,13 @@ In addition, when a visitor uses Southwestern University’s search engine, Univ
 
 ####  **Use Of Internet Cookies By Southwestern University**
 
-Southwestern University may place Internet “cookies” on a visitor’s computer. Cookies are small files inserted automatically on the hard drive of a Website visitor by the Website visited. Cookies placed by the University generally do not contain PII. However, the University reserves the right to associate PII with cookies at any time . 
+Southwestern University may place Internet “cookies” on a visitor’s computer. Cookies are small files inserted automatically on the hard drive of a Website visitor by the Website visited. Cookies placed by the University generally do not contain PII. However, the University reserves the right to associate PII with cookies at any time. 
 
 Most browser software allows users to make choices on how cookies are set by Websites. Browser software includes the ability to disable cookies. User preferences also allow the user to be notified when the Website/page attempts to set a cookie. Setting a browser to disable cookies, however, may restrict a visitor’s ability to interact with some or all information available on University Websites. 
 
 ####  **The Way Southwestern University Uses Information Collected**
 
-Information collected by Southwestern University, “PII and/or aggregate data,” may be used by Southwestern University for: 
+Information collected by Southwestern University, “PII or aggregate data,” may be used by Southwestern University for: 
 
   * educational and/or research purposes; 
   * editorial and feedback purposes; 
@@ -57,7 +57,7 @@ Information collected by Southwestern University, “PII and/or aggregate data,�
 
 
 
-Names, postal and e-mail addresses, and phone numbers provided by visitors via online forms may be added to Southwestern’s database(s). This information may be used for correspondence or other uses consistent with Southwestern’s business practices and/or academic mission. Southwestern may also use such information to provide users with information concerning University events and other University community activities and services. 
+Names, postal and e-mail addresses, and phone numbers provided by visitors via online forms may be added to Southwestern’s database(s) and the online form will state this fact. This information may be used for correspondence or other uses consistent with requested services, Southwestern’s business practices and/or academic mission. Southwestern may also use such information to provide users with information concerning University events and other University community activities and services. If you do not wish to be contacted by Southwestern University, please opt-out of receiving emails. If you want to restrict your PII, please notify the CIO. 
 
 This policy provides a baseline standard; departmental privacy policies may enforce standards that are more rigorous. The University also adheres to legal requirements prescribed by relevant statutes, such as the [Family Education Rights and Privacy Act of 1974](http://www.ed.gov/policy/gen/guid/fpco/ferpa/) (FERPA). 
 
@@ -72,6 +72,8 @@ Southwestern University does not sell, rent or otherwise provide data to third p
 ####  **Southwestern’s Commitment To Data Security**
 
 To restrict unauthorized access and to enhance data integrity and accuracy, Southwestern University implements physical, electronic, and administrative security policies and procedures intended to safeguard information the University collects and/or stores online. However, the University cannot assure or warrant absolute effectiveness of the security measures implemented by the University. 
+
+Southwestern uses social buttons provided by services like Twitter, LinkedIn, and Facebook, as well as links to some 3rd-party fund-raising and other social media platform services. Southwestern does not control these sites nor do its policies and practices apply to third-party sites. Your use of these third-party services is entirely optional. Southwestern University is not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services’ privacy policies. 
 
 ####  **Southwestern’s Commitment To Children’s Privacy**
 
