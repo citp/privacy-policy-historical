@@ -1,25 +1,80 @@
-> *The following text is extracted and transformed from the bizarrehost.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216202729id_/http%3A//www.farmtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizarrehost.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# FarmTube.com - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-In order to provide you with our services we collect, use, and share certain information about you. This policy explains what we collect, with whom we share it, and how you can interact with us in order to ensure the accuracy of the data we collect, use, and share. 
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-**A.** The information we collect from you helps us better serve the online community by continually personalizing the electronic services we provide. We collect and maintains the following data: 
+**What information do we collect?**
 
-1\. Information that you provide to us We receive and store all information that you enter on our website: the url you are purchasing goods or services from, your e-mail address, your language preference, your first name, your last name, your address, your city, your state, your zip and your country. You are obligated to provide us with accurate and up-to-date information, and failure to provide us with such information could void any Agreement between you and us. We use the information that you provide for such purposes as processing your purchase request, responding to customer service inquiries, loss prevention, improving our service, communicating with you, and allowing our clients to provide customer service and fulfill their obligations to you. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-2\. Information that we automatically receive We receive and store certain information whenever you download web pages, or send us e-mail or forms. For example, we employ "cookie" technology. We do this so that we can recognize you when you re-visit our URLs. Additionally, we identify the numerical IP address assigned to your computer by your Internet Service Provider. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-3\. E-mail Correspondence We sometimes request a confirmation when you receive and open an e-mail communication delivered by us. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network. We require that you refrain from "forging headers" or sending "SPAM". 
+**What do we use your information for?**
 
-4\. Information from third parties From time to time, we request and receives information from third parties and compare it to the information that you have provided. The main purpose for this is that of loss prevention. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-5\. If you consent (Opt-In) Other than detailed above, we will contact you and request your permission prior to sharing your data with third parties. Generally, we will offer a promotional product or service on behalf of a third party, rather than allow the third party to contact you directly. In any event, other than detailed above, we will contact you at the location provided by you at enrollment when we desire to share your information with a third party, or, we will present you with a "check-box" requesting that you opt-in to any third party mailing lists. Should you desire to "opt-out" of any such mailing lists, simply do so by sending an e-mail to: [cs@farmtube.com](mailto:cs@farmtube.com)
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**B.** Our processor utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. They encrypt the information you provide. They reveal on the last five digits of your credit card numbers when processing your transaction internally, and they reveal the entire number when communicating on a private dedicated line of communication with their acquiring bank. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**C.** We allow you to access to certain information about you for the limited purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate. Any requests to access your information may be directed to: [cs@farmtube.com](mailto:cs@farmtube.com)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Spam Policy**
+• To process transactions
 
-Spam is flooding the Internet with many copies of the same message, in an attempt to force the message on people who would not otherwise choose to receive it. E-mail spam targets individual users with direct mail messages and costs the sender very little to send. Most of the costs are paid for by the recipient or the carriers rather than by the sender. We do not condone the use of spam and the sending of unsolicited e-mail in any form, nor do we control other Web sites involvement and/or practices in this area. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
