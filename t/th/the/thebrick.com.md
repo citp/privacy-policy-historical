@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207113736id_/http%3A//www.thebrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625073203id_/http%3A//www.thebrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Brick
 
@@ -10,11 +10,11 @@ The Brick Group promises to abide by this Privacy Policy and to deal with all pe
 
 ## Who Are We?
 
-“The Brick Group” as used in this Privacy Policy includes The Brick Ltd., The Brick Warehouse LP (including its general partner), United Furniture Warehouse LP (including its general partner) United Furniture Warehouse (a division of The Brick Warehouse LP), The Brick SuperStore (a division of The Brick Warehouse LP), The Brick Mattress Store (a division of The Brick Warehouse LP), Trans Global Warranty Corp., Trans Global Life Insurance Company, Trans Global Insurance Company, Trans Global Services (a division of The Brick Warehouse LP), Midnorthern Appliance (a division of The Brick Warehouse LP), First Oceans Hong Kong Limited and First Oceans Trading Corporation.
+“The Brick Group” as used in this Privacy Policy includes Leon’s Furniture Limited, The Brick Ltd., The Brick Warehouse LP (including its general partner), United Furniture Warehouse LP (including its general partner) United Furniture Warehouse (a division of The Brick Warehouse LP), Urban Brick (a division of The Brick Warehouse LP), The Brick Mattress Store (a division of The Brick Warehouse LP), Trans Global Warranty Corp., Trans Global Life Insurance Company, Trans Global Insurance Company, Trans Global Services (a division of The Brick Warehouse LP), Midnorthern Appliance (a division of The Brick Warehouse LP), First Oceans Hong Kong Limited and First Oceans Trading Corporation as well as our franchised locations.
 
 For the purposes of this Privacy Policy, we, us and our mean The Brick Group, and you and your mean a customer or prospective customer of The Brick Group.
 
-### What, How and Why Do We Collect, Use and Disclose?
+### What, how and why do we collect, use and disclose?
 
 ## Personal Information
 
@@ -28,7 +28,9 @@ We collect your personal information when you make a purchase from us, either in
 
 We disclose your personal information to our suppliers to provide warranty, financing, credit and other services on the products you purchase. When we offer special promotions by which you receive one or more free goods or services directly from one of our suppliers, we disclose your personal information to those suppliers for them to contact you to arrange for provision of their goods and/or services and for follow-up service.
 
-If you are applying for or financing your purchase using a Brick credit card, issued by TD Financing Services Inc. (“TDFS”) (“Credit Card”), we collect, use and disclose your information including personal information and/or financial information, on our own behalf and as agent for TDFS, and TDFS’s affiliates for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/). The Brick Group may be providing Customer Service on the Credit Card Accounts for TDFS. TDFS and The Brick Group may share your information including personal, financial and/or transaction information with each other and with their affiliates or others for that purpose and as described in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/).
+If you are applying for or financing your purchase using a Brick credit card (“Credit Card”), issued by TD Financing Services Inc. (“TDFS”) or Desjardins Group ("Desjardins”), we collect, use and disclose your information including personal information and/or financial information, on our own behalf and as agent for TDFS or Desjardins, and their affiliates for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/) or Desjardins’ Privacy Policy found at [www.desjardins.com/ca/privacy](http://www.desjardins.com/ca/privacy). The Brick Group may be providing Customer Service on the Credit Card Accounts for TDFS. TDFS or Desjardins and The Brick Group may share your information including personal, financial and/or transaction information with each other and with their affiliates or others for that purpose and as described in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/) or Desjardins’ Privacy Policy found at [www.desjardins.com/ca/privacy](http://www.desjardins.com/ca/privacy).
+
+We may offer additional financing programs through The Brick or other third party financing providers from time to time. If you choose one of these financing programs, we will collect, use and disclose your information including personal information and/or financial information on our own behalf and as agent for the financing provider and may share your information including personal and transaction information with the financing provider.
 
 If you make a claim pursuant to your credit insurance purchased through either Trans Global Life Insurance Company or Trans Global Insurance Company, we will collect and use your health information to process your claim.
 
@@ -44,11 +46,11 @@ When you make a purchase from us, we will ask you for your name, home address an
 
 If you make a purchase using a credit card, we collect your name, billing address for the card, type of card, card number and card expiration date. We require this information in order to process your purchase.
 
-In addition to your name, address and phone number, and your email address if you provide it to us, if you are applying for a Credit Card, we, on our own behalf and as agent for TDFS, collect additional personal information and/or financial information as provided for on the application form in order to process your application and for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TD’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/).
+In addition to your name, address and phone number, and your email address if you provide it to us, if you are applying for a Credit Card, we, on our own behalf and as agent for TDFS, Desjardins or to such other financing provider we may refer you, collect additional personal information and/or financial information as provided for on the application form in order to process your application and for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card. Please refer to TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/) or Desjardins’ Privacy Policy found at [www.desjardins.com/ca/privacy](http://www.desjardins.com/ca/privacy).
 
 If we are delivering your purchase to you, we require your name, address for delivery and phone number. If you will be picking up your purchase at a later time, we require your name and other identifying personal information in order to verify your identity as the purchaser at the time of pick-up.
 
-When at all possible, we collect your personal information directly from you. If you are applying for a Credit Card, we and/or TDFS and its affiliates may collect additional personal information and/or financial information from third parties such as a credit bureau.
+When at all possible, we collect your personal information directly from you. If you are applying for a Credit Card, we and/or TDFS, Desjardins and its affiliates may collect additional personal information and/or financial information from third parties such as a credit bureau.
 
 ## Consent
 
@@ -62,7 +64,7 @@ The Brick Group uses both session cookies (which are automatically deleted from 
 
 If you are browsing or shopping online, we and/or our trusted third party agents track your movement through our website and collect statistics about your navigation, such as page views and time spent on the website, using click stream data and tag software. This information about your visit to our website is then aggregated with the information about other individuals’ visits. Using this non-identifying information, we strive to continually improve and enhance the online experience of all of our customers, to evaluate the success of marketing campaigns and to report on aggregated site usage. In no case is click stream data or tag software used by us to collect or store personally identifiable information.
 
-### How Do We Protect Your Personal Information?
+### How do we protect your personal information?
 
 ## Transmission, Storage and Retention
 
@@ -88,7 +90,7 @@ We reserve the right to revise this Privacy Policy periodically without notice, 
 
 If, at any time, you have any queries about this Privacy Policy or any questions or concerns about your personal information that we hold, please contact us at:
 
-**The Brick Group**  
+**THE BRICK**  
 16930-114 Avenue  
 Edmonton, Alberta  
 T5M 3S2  
