@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthingsceleb.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143243id_/http%3A//allthingsceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsceleb.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625133810id_/http%3A//allthingsceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – All Things Celeb
 
-SKT Marketing, Inc. (“We” or “Us”), the owner of www.allthingsceleb.com (the “Website”), may revise and change this policy and the ways in which we collect, use and disclose personal information provided by users of the Website (“You” or “Your”). Please check back here frequently to review the latest version of this policy.
+BVJ4 Enterprises, Inc. (“We” or “Us”), the owner of www.allthingsceleb.com (the “Website”), may revise and change this policy and the ways in which we collect, use and disclose personal information provided by users of the Website (“You” or “Your”). Please check back here frequently to review the latest version of this policy.
 
 **Introduction**
 
