@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228201354id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625195409id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # White House Online Privacy Policy | The White House
 
