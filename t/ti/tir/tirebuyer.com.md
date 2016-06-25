@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030100339id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113409id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TireBuyer.com
 
@@ -128,8 +128,6 @@ If your personally identifiable information changes, or if you no longer desire 
 
 If you have questions or concerns about our policies concerning privacy, data collection, data processing, or data transmission, please email TireBuyer Customer Service from the Contact us page. We will respond to your inquiry within 30 days.
 
-TireBuyer.com
-
-601 108th Avenue NE, Suite 420
-
-Bellevue, WA 98004
+TireBuyer.com  
+10230 NE Points Drive, Suite 400  
+Kirkland, WA 98033
