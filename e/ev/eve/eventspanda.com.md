@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventspanda.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929073858id_/http%3A//www.eventspanda.com/privacy-policy/27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventspanda.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625203324id_/http%3A//www.eventspanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EventsPanda.com
+# Privacy Policy
 
 ### Privacy Policy
 
