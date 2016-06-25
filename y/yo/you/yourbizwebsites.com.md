@@ -1,46 +1,80 @@
-> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191135id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Grab Your FREE Website - TODAY - From YourBizWebsites
+# HugeDomains.com - Privacy Policy
 
-**Our Commitment to Privacy:**
+[Home](https://www.hugedomains.com/) _ _ Privacy Policy
 
-YourBizWebsites and Automated Income Stream Ltd is dedicated to keeping your private information safe and secure. For your information and security, please take note of our policies and procedures as it pertains to your information and its use.
+**What information do we collect?**
 
-**Personally Identifiable Information:**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Upon enrolment we collect and store Personally Identifiable Information (PII) such as: name, address, phone, and email address. This information is used to send your login details, password reminders, newsletters, and special event announcements. Your information will not be used for SPAM. Credit card and all membership and payment information is encrypted.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Contact Rights:**
+**What do we use your information for?**
 
-As a member of "YourBizWebsites" you will receive updates, news and special offers from our training program and our affiliates. All parties privy to PII are required to protect it according to this privacy policy and the CAN-SPAM act. We never use or share PII in ways unrelated to the above described without also providing you an opportunity to opt-out or prohibit such unrelated use.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Data Security:**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-To prevent data theft or unauthorized use, and ensure proper data storage procedures, we have put into place cutting edge encryption and server equipment and management to safeguard and secure all data and PII. Automated Income Streams Ltd is a Data Protection registered company.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-If you are purchasing something from YourBizWebsites/Automated Income Stream Ltd, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfil your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-When you sign up for a YourBizWebsites.com e-mail service, you may be given the opportunity to sign up for targeted third-party e-mail lists. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you can unsubscribe at any time by following the instructions on the e-mails you receive.
+• To process transactions
 
-We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from Automated Income Stream Ltd or third party companies. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**How do you use single-pixel gifs?**
+• To send periodic emails
 
-YourBizWebsites.com and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. YourBizWebsites.com does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**Additional Security:**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Certain Automated Income Stream Ltd media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Automated Income Stream Ltd media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
+**How do we protect your information?**
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**Your Consent To This Agreement:**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-By using the YourBizWebsites.com subscription form, you consent to the collection and use of information by Automated Income Stream Ltd as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Copyright 2009© YourBizWebsites.com | All rights reserved.
+**Do we use cookies?**
 
-**Automated Income Stream Ltd** : Suite 127, Communications House, 9 St Johns Street, Colchester, Essex CO2 7NN United Kingdom   
-Registered Number: 6307027. Data Protection Registration: Z1030471 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
