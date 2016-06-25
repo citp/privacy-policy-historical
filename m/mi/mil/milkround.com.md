@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143039id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625131155id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
-| 
-
-### Effective: 25 August 2015  
-  
----|---  
-  
 ## Introduction
 
 ### What this policy is for
@@ -28,7 +22,7 @@ When you provide personal information to The Times, The Sunday Times and The Sun
 
 When you provide personal information to The Times Literary Supplement, the data controller is The Times Literary Supplements Limited.
 
-When you provide personal information to milkround.com, secondpost.com, fsmilkround.com, graduatecareer.com, milkroundonline.com or milkroundats.com (Milkround Online Network), the data controller is Milkround Holdings Limited.
+When you provide personal information to [milkround.com](http://www.milkround.com/), [secondpost.com](http://www.secondpost.com/), [fsmilkround.com](http://www.fsmilkround.com/), [graduatecareer.com](http://www.graduatecareer.com/), [milkroundonline.com](http://www.milkroundonline.com/) or [milkroundats.com ](http://www.milkroundats.com/)(Milkround Online Network), the data controller is Milkround Online Limited.
 
 When you provide personal information to The Sunday Times Driving, the data controller is News UK Automotive Limited.
 
@@ -37,6 +31,12 @@ When you provide personal information to [www.mynipp.co.uk](http://www.mynipp.co
 When you provide personal information to [www.news.co.uk](http://www.news.co.uk/), the data controller is News UK and Ireland Limited. 
 
 When you provide personal information to The Sun's Dream Team Fantasy Football and other associated websites, the data controller is News Promotions Limited.
+
+When you provide personal information to News UK & Ireland Direct Limited, the data controller is News UK and Ireland Direct Limited.
+
+When you provide personal information to News UK & Ireland Trading Limited, the data controller is News UK and Ireland Trading Limited.
+
+When you provide personal information to News Solutions Limited, the data controller is News Solutions Limited.
 
 ## Collection of information
 
