@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222180153id_/http%3A//www.altredo.com/metro_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071457id_/http%3A//www.altredo.com/metro_privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Altredo
 
