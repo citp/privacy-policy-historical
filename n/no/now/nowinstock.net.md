@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217231215id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626020136id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -97,4 +97,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"I just want to say Thank You!!! I have been searching high and low...up all hours of the night and have unsuccessfully gotten a LeapPad for my son. Then I found your website. 5 hours later, I got him a leap pad!!! Thank you so much!!! BEST SERVICE EVER!!!" -Jessica F
+"Wow.Thanks so much for helping me get what I needed under the tree. This is the first year I used this service but it won't be my last. This is the place to connect with for hot Christmas items. Thanks!!!" -Aubrey
