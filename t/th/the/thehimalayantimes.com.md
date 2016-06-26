@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910164921id_/http%3A//thehimalayantimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626065454id_/http%3A//thehimalayantimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Himalayan Times
+# Privacy Policy - The Himalayan Times
 
 What we know about you:
 
