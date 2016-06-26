@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the foodmatters.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112215637id_/http%3A//www.foodmatters.com/resource/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodmatters.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626073804id_/http%3A//www.foodmatters.com/resource/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | FOOD MATTERS®
 
-[](https://web.archive.org/BannerProcess.aspx?ID=22103&URL=https%3a%2f%2fwww.fmtv.com%2flive)
-
+  
 FoodMatters.tv (Food Matters International) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
 ### How we gather information from users
 
+  
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, FoodMatters.tv (Food Matters International) also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site.   
   
 We use Google Analytics to analyze the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html).  Google uses cookies to track your behavior across the web using cookies, to help determine our audience's interests, demographics and location.   
@@ -34,12 +34,15 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 ### Children
 
-FoodMatters.tv (Food Matters International) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe FoodMatters.tv (Food Matters International) has any information from or about anyone under 13, please [contact us](https://web.archive.org/content/contact-us).
+  
+FoodMatters.tv (Food Matters International) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe FoodMatters.tv (Food Matters International) has any information from or about anyone under 13, please [contact us](https://web.archive.org/contact-us).
 
 ### Contacting Us
 
-We can be reached by using our [contact us](https://web.archive.org/content/contact-us) form
+  
+We can be reached by using our [contact us](https://web.archive.org/contact-us) form
 
 ### Changes to this Policy
 
-FoodMatters.tv (Food Matters International) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+  
+FoodMatters.tv (Food Matters International) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
