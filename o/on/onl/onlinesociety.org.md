@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218003231id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626070447id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.*
 
 # - Privacy Policy
 
