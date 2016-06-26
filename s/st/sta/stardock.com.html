@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215125041id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2016-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160626031839id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -64,7 +64,7 @@
 		color: #000;
 	}
 	</style>
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 
 <div class="PageContent" style="height: 100%">
@@ -74,8 +74,19 @@
 		<script src="/js/html5shiv.min.js"></script>
 	<![endif]-->
 	<header>
-		<section class="header_container">
+        <section class="header_container">
 			<a href="http://www.stardock.com/?from=header"><img alt="Stardock" border="0" src="/images/header/sdlogo.png"></a>
+            <div class="account">
+			    <nav>
+                      <a id="login" class="login" href="https://store.stardock.com/login">Login</a>
+                      <span id="logoutemail" style="display:none;"></span> <a id="logout" class="logout" href="https://store.stardock.com/logout" style="display:none;">Logout</a>
+					| <a href="https://store.stardock.com/myaccount" id="myaccountlink">My Account</a>
+					| <a href="https://store.stardock.com/myaccount/products" id="mydownloadslink">My Downloads</a>
+					| <a href="https://store.stardock.com/checkout" id="checkoutlink">Checkout</a>
+					| <a id="cart_button" class="header_link cart_button" href="#">(<span id="cart_count" class="cart_count">0</span>) Cart</a>
+
+				</nav>
+		    </div>
 		</section>
 		<nav role="navigation">
 			<section class="nav_container">
@@ -89,7 +100,8 @@
 					<li><a href="http://www.stardock.com/games">Games</a></li>
 					<li><a href="https://store.stardock.com">Store</a></li>
 					<li><a href="http://forums.stardock.com">Forums</a></li>
-					<li><a href="https://store.stardock.com/myaccount">My Account</a></li>
+					<li><a href="http://www.stardock.com/support">Support</a></li>
+
 					<li class="search">
 						<form method="get" action="http://www.stardock.com/search.asp" class="search">
 							<input type="hidden" name="cx" value="000252501301640439162:lsdbilb-yow" id="Hidden1">
@@ -352,15 +364,13 @@
 					<li>|</li>
 					<li><a href="http://www.stardock.com/about">About</a></li>
 					<li>|</li>
-					<li><a href="http://www.stardock.com/support">Support</a></li>
-					<li>|</li>
 					<li><a href="http://www.stardock.com/privacy.asp">Privacy</a></li>
 					<li>|</li>
 					<li><a href="http://www.stardock.com/terms/dmca.asp">DMCA Policy</a></li>
 					<li>|</li>
 					<li><a href="http://www.stardock.com/terms">Terms of Use</a></li>
 				</ul>
-				<p>Copyright&nbsp;©&nbsp;2015 Stardock Corporation. All rights reserved.</p>
+				<p>Copyright&nbsp;©&nbsp;2016 Stardock Corporation. All rights reserved.</p>
 			</div>
 			<a class="merchandise" href="http://www.cafepress.com/stardockmerchandise" target="_blank">
 				<img alt="CafePress" border="0" height="42" src="http://www.stardock.com/images/cafepress.png" width="58">
@@ -463,6 +473,42 @@
 			}
 		});
 	</script>
+   
+    <script type="text/javascript" src="https://store.stardock.com/Scripts/lib/store.cartwidget.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            // Initialize Cart Widget
+            if (typeof Store === "object" && typeof Store.CartWidget === "object") {
+                Store.CartWidget.Init("https://store.stardock.com", "https://store.stardock.com/cartgadget.aspx", $(".account"), $("#cart_button"), $("a.cartwidgify"));
+            }
+
+        });
+
+    </script>
+	<script type="text/javascript">
+	// AdRoll Smart Pixel
+    adroll_adv_id = "FZ5DD25DBVBCJLFHVMLYRE";
+    adroll_pix_id = "TAALS3B62NHYTBKK5YAVXZ";
+    // adroll_email = "username@example.com"; // OPTIONAL: provide email to improve user identification
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+	</script>	
+
 
 
 
