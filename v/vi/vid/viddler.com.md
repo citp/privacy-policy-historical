@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015185146id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626070728id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Viddler
 
