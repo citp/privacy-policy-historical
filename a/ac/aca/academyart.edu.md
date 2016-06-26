@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231004528id_/http%3A//www.academyart.edu/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627011754id_/http%3A//www.academyart.edu/privacy-terms) for the most accurate reproduction.*
 
-# Privacy & Terms
+# Privacy & Terms | Academy of Art University | Academy of Art University
 
 Academy of Art University seeks to protect your personal and private information. Any such information you submit on this website is for official Academy of Art University use only. Please carefully review the Privacy Policy of Academy of Art University’s website (below) to learn about how the University collects, uses and protects any information you provide on or through the website, and your choices for managing your Personal Information. By using the Site, you agree to this Policy. This Policy is subject to the Terms of Service posted on the website.
 
