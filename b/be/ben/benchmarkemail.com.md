@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227094403id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchmarkemail.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626194430id_/http%3A//www.benchmarkemail.com/email-marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Benchmark Email
 
@@ -6,9 +6,9 @@
 
 #### Privacy Policy for Benchmark Email
 
-Effective Date: 6/30/2015
+Effective Date: 3/9/2016
 
-[](https://privacy.truste.com/privacy-seal/Benchmark-Internet-Group/validation?rid=521da123-1edf-4e8e-ba62-a5b56ae3314a "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=1cb6a1d3-b6a1-4387-8724-f7de486717c2 "TRUSTe Privacy Certification")
 
 Welcome to Benchmark Email, owned and operated by Benchmark Internet Group (herein after referred to as "Benchmark," "company," "us," "we," and/or "our").
 
@@ -72,7 +72,7 @@ We use cookies for our shopping cart, to remember users' settings (e.g. language
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 #### What We Do with Your Information
 
