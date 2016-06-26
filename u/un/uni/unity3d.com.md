@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040134id_/http%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626171805id_/http%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Unity - Privacy Policy
 
@@ -146,7 +146,7 @@ We receive information about Users, their devices, locations and interactions wi
     * Operating system identifier (e.g., Mac, Windows, etc.)
     * A checksum of all the data that gets sent to verify that it did transmit correctly
     * App id of the game installed
-  * Developer Software information: When you use the Unity Software to develop games and apps, we will collect IP address, operating system, username, host name, hardware ID, serial number, Unity ID, organization ID and project ID during your first use of the software. When you use Unity Software, the software may automatically make Internet connections to check for updates, validate your license keys, and provide us with anonymous usage statistics. We may employ third party analytics services such as Google Analytics to collect and analyze Developers’ use of the Unity Software.
+  * Developer Software information: When you use the Unity Software to develop games and apps, we will collect IP address, operating system, username, host name, hardware ID, serial number, Unity ID, organization ID and project ID during your first use of the software. When you use Unity Software, the software may automatically make Internet connections to check for updates, validate your license keys, and provide us with aggregated usage statistics. We may employ third party analytics services such as Google Analytics to collect and analyze Developers’ use of the Unity Software.
   * Unity Cloud Build information: If you use Unity Cloud Build services, our systems are designed to track the progress of builds and to alert you and us when key steps have been completed.
   * Cookies and choices concerning Unity Ads: 
     * Unity and others working on Unity’s behalf may employ cookies and related technologies to store information on or read information from your browser or device. The technologies used for these purposes may include: (i) cookies; (ii) web beacons; (iii) tracking pixels; and/or (iv) local shared objects (also known as flash cookies). To learn more see our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies).
