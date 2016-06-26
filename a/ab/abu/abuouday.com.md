@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abuouday.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218230342id_/http%3A//abuouday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abuouday.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626102244id_/http%3A//abuouday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Abu Ouday Blog
 
@@ -48,3 +48,5 @@ This privacy policy applies only to our online activities and is valid for visit
 
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://abuouday.com/privacy-policy/)
