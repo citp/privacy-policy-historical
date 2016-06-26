@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savewalterwhite.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229012725id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savewalterwhite.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626062916id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
 
-# Privacy - AMC
+# Privacy – AMC
 
 **EFFECTIVE DATE: July 9th, 2015**
 
