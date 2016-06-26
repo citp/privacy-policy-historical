@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the manula.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208012042id_/http%3A//www.manula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manula.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626095847id_/http%3A//www.manula.com/privacy) for the most accurate reproduction.*
 
 # Manula: Privacy Policy
+
+[Sign up for the 30-day free trial](https://admin.manula.com/signup.php)
 
 ## Our Philosophy
 
@@ -18,7 +20,7 @@ Proton 27 uses your collected information to improve the Manula product and to r
 
 ## How do you protect my information?
 
-Proton 27 uses secure third party vendors and hosting partners to provide the necessary technology to run our services. The most important of these is Rackspace Cloud. For more information on the steps that Rackspace takes to protect information stored in its services see their [Security and Compliance Center](http://www.rackspace.com/security/). 
+Proton 27 uses secure third party hosting partners to provide the necessary technology to run our services. The most important of these is Amazon AWS. For more information on the steps that AWS takes to protect information stored in its services see their [page about AWS Cloud Security](https://aws.amazon.com/security/). 
 
 While we retain all rights to our code, databases, and applications, you retain all rights to your data. Proton 27 does not store your credit card information directly - see Who can see my credit card information? below.
 
@@ -37,4 +39,4 @@ Yes, cookies (small files sent to your browser from a website and stored on your
 
 ## What if I have a question?
 
-We'd love to answer any questions you may have about our privacy policy. You may contact us through our [Contact Form](https://web.archive.org/web/20151208012042id_/http%3A//www.manula.com/contact).
+We'd love to answer any questions you may have about our privacy policy. You may contact us through our [Contact Form](https://web.archive.org/web/20160626095847id_/http%3A//www.manula.com/contact).
