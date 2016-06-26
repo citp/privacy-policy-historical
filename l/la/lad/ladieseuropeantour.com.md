@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225210144id_/http%3A//ladieseuropeantour.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121310id_/http%3A//ladieseuropeantour.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Ladies European Tour
 
 ##### PRIVACY POLICY
 
-  
 This Privacy Policy set out below forms part of these Terms of Use and sets out the way in which your personal data is handled. Therefore please read this Policy carefully, as it explains what information we will collect about you, how we will use it, and the steps we take to ensure that it is kept safe.
 
 ##### What information do we collect?
@@ -33,14 +32,13 @@ In the case of an Opt-In, you acknowledge some of the organisations to which we 
 
 You have the right to prevent marketing information being sent direct to you. Even if you Opt –In , should you later decide that you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, you can write to us by mail or email (see the section “How to contact us” below. Please note, however, that if you do withdraw your consent, we and/or they will be unable to keep you informed of new services, products, events or special offers that may interest you.
 
-##### COOKIES
+##### COOKIES 
 
 In common with many other Website operators, we may use standard technology called ‘cookies’ on this site. Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. Our cookies enable us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our Website. Our cookies also enable us to enhance your visitor experience by storing information about the products and services that you select between visits so that we can provide you with focused information each time you visit our Website. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored, however if you do turn cookies off this will limit the service that we are able to provide to you.
 
 The ads that you see displayed on this Website are delivered on our behalf by a third party advertising company. No information such as your name, address, email address or telephone number are used during the course of serving our advertising. In the course of serving advertisements on our behalf, our third-party advertiser may place or recognize a unique cookie on your browser. This cookie does not collect personal data about you nor is it linked to any personal data about you. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.cookielaw.org/the-cookie-law/).
 
-#####   
-SECURITY OF INFORMATION
+##### SECURITY OF INFORMATION
 
 We take the security of your personal information seriously. We have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the personal information contained within it. However we cannot guarantee that any data transmission over the Internet is completely secure.
 
@@ -61,8 +59,7 @@ You have the right to receive a copy of the personal information that we hold ab
 
 If you would like any further information or have any comments about our privacy policy or any other aspect of our Website or service, please contact us by any of the methods shown below:
 
-#####   
-PLEASE GET IN TOUCH WITH THE LADIES EUROPEAN TOUR:  
+##### PLEASE GET IN TOUCH WITH THE LADIES EUROPEAN TOUR:  
 
 
 **LADIES EUROPEAN TOUR**  
