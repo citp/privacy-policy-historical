@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleology2.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806025633id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleology2.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626085034id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
@@ -8,11 +8,9 @@
 
 _Last Updated_ : 11 October 2010
 
-_Construct Zero, Inc_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
+This privacy statement covers the site [ www.simpleology.com](http://www.simpleology.com/).  Because this web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance.
 
-This privacy statement covers the site [ www.simpleology.com](http://www.simpleology.com/).  Because this web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-By displaying the TRUSTe trustmark, [www.simpleology.com](http://www.simpleology.com/) has agreed to notify users of: 
+[www.simpleology.com](http://www.simpleology.com/) has agreed to notify users of: 
 
   1. What personally identifiable information is collected through the web site. 
 
@@ -53,15 +51,6 @@ USA
 **If by phone:**
 
 +1 888 JOYNERM ( 1-888-569-6376) 
-
-If you do not receive acknowledgment of your inquiry, or if your inquiry is still not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php): 
-
-( _<http://www.truste.org/consumers/watchdog_complaint.php>_ ). 
-
-TRUSTe will serve as a liaison with the web site to resolve your concerns.  
-
-The TRUSTe program covers only information that is collected through this web site and does not cover information that may be collected through software downloaded from the site.  
- 
 
 **What Information Is Collected And How Is It Used?**
 
