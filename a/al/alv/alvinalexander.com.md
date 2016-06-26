@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alvinalexander.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016225127id_/http%3A//alvinalexander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvinalexander.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626040724id_/http%3A//alvinalexander.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | alvinalexander.com
 
-By Alvin Alexander. Last updated: Jan 9, 2013 
+By Alvin Alexander. Last updated: January 9 2013
 
 Alvin Alexander and alvinalexander.com do not attempt to track you in any way, shape, or form. In general we're just glad you came to visit, and hope you'll come back again.
 
