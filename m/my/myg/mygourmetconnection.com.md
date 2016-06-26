@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mygourmetconnection.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226025650id_/http%3A//www.mygourmetconnection.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygourmetconnection.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626233901id_/http%3A//www.mygourmetconnection.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MyGourmetConnection
 
-MyGourmetConnection.com (a publication of Zest for Life Media, Inc.) is committed to maintaining the highest standards of privacy for our users. The policy below provides a clear outline of how we collect, use, protect or otherwise handle your _Personally Identifiable Information_ (PII) in accordance with our website.
+MyGourmetConnection® (a publication of Zest for Life Media, Inc.) is committed to maintaining the highest standards of privacy for our users. The policy below provides a clear outline of how we collect, use, protect or otherwise handle your _Personally Identifiable Information_ (PII) in accordance with our website.
 
 ## Types of Information We Collect:
 
@@ -34,7 +34,7 @@ We also use cookies to help us compile aggregate data about site traffic and sit
 
 ## Use of IP (Internet Protocol) Addresses:
 
-User IP addresses are logged with each visit and browsing action executed on MyGourmetConnection. This information is not provided to third parties, except as otherwise stated in this Privacy Policy. IP address can be linked to personal information and may be used in an effort to block or ban malicious users from accessing our website.
+User IP addresses are logged with each visit and browsing action executed on MyGourmetConnection®. This information is not provided to third parties, except as otherwise stated in this Privacy Policy. IP address can be linked to personal information and may be used in an effort to block or ban malicious users from accessing our website.
 
 ## Do Not Track (DNT) Signals:
 
@@ -42,7 +42,7 @@ We honor all Do Not Track (DNT) signal and never track, plant cookies, or use ad
 
 ## Advertising:
 
-We use third-party advertising companies to display the ads you see on MyGourmetConnection. These companies may use your anonymous browsing information to more accurately provide advertisements that may be of interest to you.
+We use third-party advertising companies to display the ads you see on MyGourmetConnection®. These companies may use your anonymous browsing information to more accurately provide advertisements that may be of interest to you.
 
 To understand more about this process, including your opt-out options, please visit the [Network Advertising Institute: Understanding Online Advertising](http://www.networkadvertising.org/understanding-online-advertising).
 
@@ -66,7 +66,7 @@ According to CalOPPA we agree to the following:
   * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
   * Our "Privacy Policy" link includes the word "Privacy", and can be easily be found on the page specified above.
   * Users will be notified of any privacy policy changes on our "Privacy Policy Page."
-  * Users are able to change their personal information by [contacting us](http://www.mygourmetconnection.com/contact-us.php).
+  * Users are able to change their personal information by [contacting us](https://web.archive.org/contact-us.php).
 
 
 
@@ -86,7 +86,7 @@ To be in accordance with CAN-SPAM we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can [contact us](http://www.mygourmetconnection.com/contact-us.php) or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can [contact us](https://web.archive.org/contact-us.php) or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
 ## Security:
 
@@ -94,7 +94,7 @@ MyGourmetConnection maintains continual, reasonable security measures in order t
 
 ## Notice of Modification and Changes:
 
-MyGourmetConnection.com is provided as a service to its visitors. We reserves the right to delete, modify, or supplement the content of this blog at any time, for any reason, without prior notice. In addition, MyGourmetConnection.com may update and modify this Privacy Policy at any time and any further use of the site is subject to such modified terms.
+MyGourmetConnection.com is provided as a service to its visitors. We reserves the right to delete, modify, or supplement the content of this blog at any time, for any reason, without prior notice. In addition, MyGourmetConnection#174; may update and modify this Privacy Policy at any time and any further use of the site is subject to such modified terms.
 
 ## Contacting Us:
 
