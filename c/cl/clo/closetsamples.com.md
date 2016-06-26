@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211023050id_/http%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetsamples.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626022752id_/http%3A//closetsamples.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Closet of Free Samples | Get FREE Samples by Mail | Free Stuff
+# Privacy Policy - Closet of Free Samples
 
-[](http://nolarejeweled.com/)
-
-Closet of Free Samples (further referenced as “CFS,” “Closet Samples,” “our,”  “us,” or “we”) is for entertainment purposes only. However, we strive to protect our readers (further reference as “you,” “users,” or “readers”) privacy in every way possible.
+Closet of Free Samples (further referenced as “CFS,” Closet Samples “our,”  “us,” or “we”) is for entertainment purposes only. However, we strive to protect our readers (further reference as “you,” “users,” or “readers”) privacy in every way possible.
 
 **Freebies**
 
@@ -52,6 +50,3 @@ If you have any questions or concerns, please take the time to further read up o
 We reserve the right to change this privacy policy at any time in the future. We will not reduce your rights under this privacy policy without notification and your explicit consent.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-[](http://feedburner.google.com/fb/a/mailverify?uri=blogspot/sNYw&)   
-
