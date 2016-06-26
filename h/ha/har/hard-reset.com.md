@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the hard-reset.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050532id_/http%3A//www.hard-reset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hard-reset.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626101800id_/http%3A//www.hard-reset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## www.hard-reset.com Privacy Policy
+Details 
+     Last Updated: 04 August 2013 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
