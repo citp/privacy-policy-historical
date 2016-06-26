@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gagnam.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228234418id_/http%3A//gagnam.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagnam.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626075219id_/http%3A//gagnam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gagnam
+# Privacy Policy • Gagnam
 
 ### Privacy Policy:
 
@@ -34,8 +34,10 @@ If Gagnam, or substantially all of its assets, were acquired, or in the unlikely
 
 ### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Gagnam and does not cover the use of cookies by any advertisers.
+Gagnam features ads by Google & Taboola. Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Gagnam and does not cover the use of cookies by any advertisers.
 
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Gagnam may change its Privacy Policy from time to time, and in Gagnam’s sole discretion. Gagnam encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Gagnam.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+LAST UPDATED ON 24 FEBRUARY, 2016.
