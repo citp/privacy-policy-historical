@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitp.ac.in privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031160850id_/http%3A//nitp.ac.in/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitp.ac.in privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627003520id_/http%3A//www.nitp.ac.in/php/privacy.php) for the most accurate reproduction.*
 
 # NIT Patna
 
