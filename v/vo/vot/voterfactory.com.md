@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voterfactory.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210071331id_/http%3A//www.voterfactory.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voterfactory.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626135831id_/http%3A//www.voterfactory.com/Privacy.html) for the most accurate reproduction.*
 
 # RealVoter™ Pinpoint Voter Predictions
 
