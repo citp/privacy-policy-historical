@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehackfacebook.net privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815175842id_/http%3A//hackfacebook-2015.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehackfacebook.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626223145id_/http%3A//hackfacebook-2015.net/privacy.php) for the most accurate reproduction.*
 
 # Hack Facebook Account | Online Facebook Password Hacker
 
