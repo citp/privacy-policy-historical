@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exsees.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204191825id_/http%3A//newscentral.exsees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exsees.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626053207id_/http%3A//newscentral.exsees.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsCentral
 
