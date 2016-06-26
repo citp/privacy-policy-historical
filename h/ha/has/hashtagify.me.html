@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2015-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151008205313id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2016-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160626055251id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Website"><!--prefix="og: http://ogp.me/ns#"--><head>
   <meta charset="UTF-8">
@@ -23,7 +23,7 @@
 
   <script type="text/javascript" src="//www.google.com/jsapi"></script>
 
-  <link href="http://d2bsn9sp5cxln0.cloudfront.net/assets/application-1d9709190d7f883a0de4ffa7c004b940.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://d2bsn9sp5cxln0.cloudfront.net/assets/application-1fb3af82731d1761952ffb12bc8634d4.css" media="screen" rel="stylesheet" type="text/css">
 
   <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
 
@@ -32,12 +32,12 @@
   <script src="/assets/hashtagify/arbor-main.js"></script>
 
 
-  <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/hashtagify/hashtagify-main-66c22325200fb3f8af112d8660f22bc1.js" type="text/javascript"></script>
+  <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/hashtagify/hashtagify-main-70e8db5fa2b288325b09f0f60807c5da.js" type="text/javascript"></script>
 
   <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/select2/select2.min-40b83282aa5eaee1c3fd1f8ac9030a91.js" type="text/javascript"></script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="n5vCdDeJiDudt6vaPM1431VjkzfHCzYd6dtpFdYEWVY=" name="csrf-token">
+<meta content="Bn0ZyF6kFzDNE0DpS0+gIRyiSdh8SQpw3rti/YWkUEo=" name="csrf-token">
 
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
@@ -62,6 +62,7 @@
   </style>
   <![endif]-->
 
+
   <script type="text/javascript">
 
     var _gaq = _gaq || [];
@@ -77,6 +78,8 @@
     })();
 
   </script>
+
+
 
 
 
@@ -105,7 +108,8 @@
 
           <div id="menu-tagline">Find, Analyze, Amplify</div>
 
-          <ul class="menu_wrapper">
+          
+<ul class="menu_wrapper">
 
   <li class="nav profile dropdown">
     <a href="javascript:;" class="item" data-menu="hashtags">Hashtags</a>
@@ -120,8 +124,7 @@
         <li><a href="/popular"><i class="ui_icon_empty"></i>&nbsp; Popular Hashtags</a></li>
           <li><a href="javascript:" onclick="g_app.signUp(null, null, 'Sign Up Free to Manage Your Definition', function(){Hashtagify.log('goal','free_signup_from_header_menu_my_definitions_completed');window.location.href='/my/definitions'})"><i class="ui_icon_empty"></i>&nbsp; My Definitions</a></li>
 
-          <li><a href="/explorer/presentation_daily_inspiration?source=hashtagify_menu"><i class="ui_icon_cafe"></i>&nbsp; My Daily Suggestions <span class="hashtagify_menu_pro">pro</span></a></li>
-          <li><a href="/explorer/presentation_hashtags_lab?source=hashtagify_menu"><i class="ui_icon_hashtag_analysis"></i>&nbsp; Hashtags Lab <span class="hashtagify_menu_pro">pro</span></a></li>
+            <li><a href="/pricing?source=hashtagify_menu" class="pro_text"><i class="ui_icon_empty"></i>&nbsp; Get The Pro Free Trial</a></li>
       </ul>
 
       <!--<h3>Recent Hashtags</h3>-->
@@ -142,9 +145,7 @@
       <!--<h3></h3>-->
 
       <ul>
-          <li><a href="/explorer/presentation_users_lab?source=hashtagify_menu"><i class="ui_icon_empty"></i>&nbsp; My Influencers <span class="hashtagify_menu_pro">pro</span></a></li>
-          <li><a href="/explorer/presentation_hashtags_lab?source=hashtagify_menu"><i class="ui_icon_hashtag_analysis"></i>&nbsp; Find Influencers <span class="hashtagify_menu_pro">pro</span></a></li>
-          <li><a href="/explorer/presentation_users_lab?source=hashtagify_menu"><i class="ui_icon_user_analysis"></i>&nbsp; Users Lab <span class="hashtagify_menu_pro">pro</span></a></li>
+            <li><a href="/pricing?source=hashtagify_menu" class="pro_text"><i class="ui_icon_empty"></i>&nbsp; Get The Pro Free Trial</a></li>
       </ul>
 
       <!--<h3>Recent</h3>-->
@@ -164,7 +165,7 @@
     <div class="menu">
 
       <ul>
-          <li><a href="/explorer/presentation_users_lab?source=hashtagify_menu"><i class="icon-wrench"></i>&nbsp; Manage <span class="hashtagify_menu_pro">pro</span></a></li>
+            <li><a href="/pricing?source=hashtagify_menu" class="pro_text"><i class="ui_icon_empty"></i>&nbsp; Get The Pro Free Trial</a></li>
 
 
       </ul>
@@ -245,7 +246,7 @@
 
 <script type="text/javascript" charset="utf-8">
 
-  var g_header_menu_pro_link_style = {"anchor_class":"","remove_element":""};
+  var g_header_menu_pro_link_style = {"anchor_class":"pro_text","remove_element":"span.hashtagify_menu_pro"};
 
   $(function(){
     // apply header menu pro link style test
@@ -276,16 +277,40 @@
     });
     menu_wrapper.on('click', '.menu a', function(event){
       //event.preventDefault();
+      var action;
+
       if ($(event.currentTarget).hasClass('lab_analyses')) {
-        Hashtagify.log('goal', 'lab_analyses_menu_item_clicked');
+        action = 'lab_analyses_menu_item_clicked';
+        Hashtagify.log('goal', action);
       } else if (/\@/.test($(event.currentTarget).text())) {
-        Hashtagify.log('goal', 'account_menu_item_clicked');
+        action = 'account_menu_item_clicked';
+        Hashtagify.log('goal', action);
       } else {
-        Hashtagify.log('goal', $(event.currentTarget).text().trim().toLowerCase().replace(/\s/g, '_').replace(/&/g, 'and').replace(/@/g, 'account_') + '_menu_item_clicked');
+        action = $(event.currentTarget).text().trim().toLowerCase().replace(/\s/g, '_').replace(/&/g, 'and').replace(/@/g, 'account_') + '_menu_item_clicked';
+        Hashtagify.log('goal', action);
+      }
+
+      // ab-test (remove these when test finished..)
+      if ([
+          'get_the_pro_free_trial_menu_item_clicked',
+
+          'my_daily_suggestions_pro_menu_item_clicked',
+          'hashtags_lab_pro_menu_item_clicked',
+          'my_influencers_pro_menu_item_clicked',
+          'find_influencers_pro_menu_item_clicked',
+          'users_lab_pro_menu_item_clicked',
+          'manage_pro_menu_item_clicked'
+        ].indexOf(action) != -1) {
+
+        Hashtagify.log('goal', 'generic_abtest_goal_for_merged_pro_link');
       }
     });
+
+      // remove extra space on the left of the header menu dropdown (since there's no pro icons, hashtags, users lab, etc..
+      $('.ui_icon_empty').removeClass('ui_icon_empty');
   });
 </script>
+
 
         </div> <!-- .grid -->
       </div> <!-- .container -->
@@ -399,6 +424,8 @@
 </script>
 
     <div class="stickied_panel stickied_panel_bottom">
+
+
       <div id="assistance_bar" class="assistance_bar"></div>
     </div>
 
@@ -486,7 +513,7 @@
       <div class="container">
         <div class="grid grid_24 relative">
           <div id="footer-bottom-text">
-            Copyright © 2011-2015 CyBranding Ltd.
+            Copyright © 2011-2016 CyBranding Ltd.
           </div>
 
           <div id="footer-bottom-menu">
@@ -909,6 +936,142 @@
 </div>
 
   
+  
+  <div data-feedback="17" class="free_signup_survey_form" style="display:none;">
+    <div class="inner">
+      <form action="">
+        <div class="g_row">
+          <div class="g_large_6 g_columns">
+            <ul class="free_signup_survey">
+                  <li class="free_signup_survey_heading">What is your role?</li>
+
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="56">
+                        In-house marketer
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="57">
+                        Agency marketer
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="58">
+                        Business owner
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="59">
+                        Freelance marketer
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="60">
+                        Reporter/blogger
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_1" type="radio" value="67">
+                        Researcher
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="1" name="question_1" type="radio" value="61">
+                        Something else
+                      </label>
+                    </li>
+
+                  <li style="display: none;">
+                    <label>
+                      <textarea name="question_1_custom" cols="10" rows="3"></textarea>
+                    </label>
+                  </li>
+            </ul>
+          </div>
+          <div class="g_large_6 g_columns">
+            <ul class="free_signup_survey">
+                  <li class="free_signup_survey_heading">My goal with Hashtagify is to:</li>
+
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_2" type="radio" value="62">
+                        Track hashtag popularity
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_2" type="radio" value="63">
+                        Explore related hashtags
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_2" type="radio" value="64">
+                        Find hashtag influencers
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="0" name="question_2" type="radio" value="65">
+                        Increase hashtag general knowledge
+                      </label>
+                    </li>
+                    <li>
+                      <label>
+                        <input data-custom="1" name="question_2" type="radio" value="66">
+                        Something else
+                      </label>
+                    </li>
+
+                  <li style="display: none;">
+                    <label>
+                      <textarea name="question_2_custom" cols="10" rows="3"></textarea>
+                    </label>
+                  </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="g_row">
+          <div class="g_large_12 g_columns">
+            <p style="text-align: center">
+              <button class="btn survey_action_ok" type="submit" style="width: 230px">Finished!</button>
+              <button class="btn survey_action_cancel grey" type="button" style="width: 230px">Sorry, I'm a little busy</button>
+            </p>
+          </div>
+        </div>
+
+      </form>
+    </div>
+  </div>
+
+  <script type="text/javascript" charset="utf-8">
+    $("input[name=what_do_you_do]:radio").change(function(){
+      if ($(this).attr('data-custom') == 1) {
+        // show custom textarea
+        $('textarea[name=what_do_you_do_something_else]').closest('li').show();
+      } else {
+        $('textarea[name=what_do_you_do_something_else]').closest('li').hide();
+      }
+    });
+
+    $("input[name=my_main_goal_is_to]:radio").change(function(){
+      if ($(this).attr('data-custom') == 1) {
+        // show custom textarea
+        $('textarea[name=my_main_goal_with_hashtagify_is_to_something_else]').closest('li').show();
+      } else {
+        $('textarea[name=my_main_goal_with_hashtagify_is_to_something_else]').closest('li').hide();
+      }
+    });
+  </script>
+
 
   <div class="share_chart_popup">
     <div class="share_chart_popup_title">
