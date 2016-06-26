@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227020045id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626162812id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
 
 # BSO Privacy Policy | Black Sports Online
 
