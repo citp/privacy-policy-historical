@@ -1,119 +1,51 @@
-> *The following text is extracted and transformed from the nurseryadmissions.com privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925042208id_/http%3A//www.nurseryadmissions.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.nurseryadmissions.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurseryadmissions.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626041107id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
-# Privacy Policy - Nursery Admissions
+# Netfirms' Privacy Policy
 
-Updated: February 2007
+We respect your privacy and want to make your experience visiting our website located at [www.netfirms.com](http://www.netfirms.com/) and using our services as enjoyable and rewarding as possible. This Privacy Policy describes what personal information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected and how and when it might be used or shared by Netfirms with its parent company, The Endurance International Group, Inc. ("Endurance," and collectively with Netfirms, the "Company") or trusted partners to deliver or enhance our services. 
 
-We want you to protect your Personal Data. We define Personal Data as any data from which it is practical to directly determine your identity or the identity of any individual. We have established this Privacy Policy to explain how Personal Data is collected on the Ning Platform, and how this Personal Data is used by Ning. Any capitalized term not defined in this Privacy Policy has the meaning which we lay out in the Ning [User Agreement](http://www.nurseryadmissions.com/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fwww.nurseryadmissions.com%2F). From time to time, we will update this Privacy Policy and will do our best to keep you abreast of these changes by posting a notice on the Ning Platform.
+  * **WHO WE ARE.** Netfirms provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, individuals, non-profit organizations and others. As part of the Endurance corporate family, Netfirms is able to provide a variety and range of products and services to help Users with their technological needs. To learn more about the Endurance corporate family, click [here](http://www.enduranceinternational.com/). 
+  * **INFORMATION WE COLLECT.** We collect information in different ways from Users who may access our services, or the network of websites accessible through our services. 
+    * **Registration and Account Information.** Subscribers are asked to provide certain personal information when they sign up for our services including name, postal address, email address, phone number, and billing information (such as a credit card number). Subscribers may also be asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services. 
+    * **Social Media.** Our website includes social media features (such as the Facebook "Like" button). These features may collect your IP address and which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or directly on our website. Your interactions with these features are governed by the privacy policy of the company providing the feature. 
+    * **Cookies and Tracking.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites or open certain emails. We may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. More specifically, we use different types of cookies for different purposes: (i) "required cookies" are necessary for our website to work properly, (ii) "performance cookies" allow us to analyze how Visitors use our website so we can measure and improve the performance of our website, (iii) "functional cookies" allow us to remember choices you may have made on our website, and (iv) "advertising cookies" are used to present ads that are relevant to your interests. We may utilize cookies to track referrals from internal and external affiliates, as well as advertising campaigns. We may also use a third party service provider to send emails that you have agreed to receive. Pixel tags and cookies may be used in those email messages to help us measure the effectiveness of our advertising and to enable us to provide more focused marketing communications to you. You may set your web browser to notify you when you receive a cookie or change the settings on your web browser to clear or disable cookies. If you decide not to accept cookies, you may not be able to take advantage of all of the features of our website. Additionally, please be aware that if you visit third party websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Cookies do not enable third parties to access any of your personal (i.e., contact) information. However, advertisers and partners may also use their own cookies. We do not control use of these cookies and are not responsible for information collected through them. 
+    * **Customer Surveys.** We may periodically conduct customer surveys. Participation in our customer surveys is voluntary. However, we encourage our Users to participate in these surveys because your survey answers provide us with important information that helps us improve the types of services we offer and how we provide them to you. Your personal information, if provided, will remain confidential, even if the survey is conducted by a third party service provider on our behalf. 
+    * **Collection by Linked Websites.** We provide links to some third party websites as a convenience to the User. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. When you visit or make purchases through these third party sites, you may be asked to provide personal information, such as your name, address, email address, phone number, and credit/debit card information. Please note that in such cases, you are providing information to a third party and we have no control over such third party's use of any information you provide and, therefore, we have no responsibility or liability for the manner in which the third party that operates a linked website may collect, use, disclose, secure or otherwise treat your personal information. Except as provided herein, we will not provide any of your personal information to any third parties without your consent. 
+  * **USE OF INFORMATION.** We use the information we collect to provide cloud-based product solutions and services along with collecting payment. Passively collected information, such as information collected from or about your device including through the placement or reading of cookies or other tracking technologies is used to provide a customized experience as you use our services. 
+    * **Subscriber Contact/Account Information.** The information collected from Subscribers is used to manage each Subscriber's account (such as for billing and account management purposes) and to promote other products or services that we believe may be of interest to the Subscriber. We may also generate aggregate profiles from information that Subscribers provide during registration (such as the total number of Subscribers in a given category). As explained in more detail below, we may in certain instances use aggregated and non-identifying information to promote advertisements that appear on our website and in connection with our services. 
+    * **Analytics/Statistics.** We use information gathered from our website analytics (for example, User IP addresses) to help diagnose problems with our servers, and to administer and optimize our website. We also gather broad demographic information from this data to help us improve our website and make your browsing and purchasing experience more responsive, efficient, or enjoyable. Any statistics gathered by us are proprietary property of the Company. 
+    * **Responses to Email Inquiries.** When Subscribers send email inquiries to us, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry we receive. 
+    * **Customer Surveys.** We may use the contact and other information provided to follow up with Users who respond to our customer surveys to help resolve issues internally or with our third party partners. For example, we may contact Users based on their survey answers or to highlight certain changes we made in response to User feedback. 
+  * **SHARING OF PERSONAL INFORMATION OR NON-IDENTIFYING AGGREGATED DATA.** From time to time, we may share personal information with the Company's other fully or partially-owned entities and brands to improve or offer new products or services that we believe may be of interest to our Users. We may also share personal information when we believe that such disclosure is required by law, to deliver a product or service, or as described below. 
+    * **Product and Service Partners.** Some products or services are offered or promoted to Users in conjunction with a partner or sponsor. For example, we may partner with other corporate affiliates of the Company or with trusted non-affiliated partners for co-promotions of a particular product or service. We may share certain User information such as contact or demographic information, but no billing information, with such partners or sponsors in order to provide the relevant services or to run the promotion. If we share User information with such partners and sponsors, we require that they maintain the User information in confidence, and use the information solely for purposes of providing the services or carrying out the agreed upon promotion. 
+    * **Service Providers.** We may transfer (or otherwise make available) your personal information to third parties that help us provide our services or provide services on our behalf. For example, we may use service providers to authorize and process payments, administer surveys, or run promotions. Your personal information may be maintained and processed by our third party service providers in the United States or in other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
+    * **Online Advertisements.** We do not share personally identifiable information about individual Users with advertisers. We may display online advertisements and we may share aggregated and non-identifying information about our Users that we collect through the registration process or through online surveys and promotions with certain advertisers. In some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For example, an advertiser may tell us the audience they want to reach (e.g., males between 25 and 55 years of age) and provide us with an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience. 
+    * **Customer Surveys.** We may share User information obtained from customer surveys within the Company and with trusted third parties to develop or provide products and services that we believe would be of interest to the User. 
+    * **Sale of Business.** If the Company is involved in a merger, acquisition, or sale of all or a material portion of its assets, change in corporate control, or insolvency or bankruptcy proceedings, you will be notified via email and/or a prominent notice on our website of any such change in ownership or use of your personal information as well as any choices you may have regarding your personal information. 
+    * **Law Enforcement and Special Cases.** We, or our service providers, may disclose personal information about Users, or information regarding your use of the services in response to governmental or legal requests (such as to a subpoena, search warrant, or court order), or as otherwise required to comply with applicable laws. We may also disclose information that is necessary to identify, contact, or bring legal action against a party that threatens us, our systems or our Users (for example, to prevent a Distributed Denial of Service, or DDoS, attack). 
+    * **Domain Registration.** In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, the contact information you provide to register a domain name ("Domain Name Registration Information") has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us or a third party service provider and is made available to the public through WHOIS searches. At times, Subscribers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from us and we do not control the use of WHOIS information by third parties. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements. 
+  * **YOUR OPTIONS**
+    * **Public Forums.** Please remember that any information you may disclose or post in our User directory, spotlights/case studies, testimonials, forums, or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [legal@netfirms-inc.com](mailto:legal@netfirms-inc.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so. 
+    * **Unsubscribe/Opt-out.** When you become a Subscriber of [support@netfirms-inc.com](mailto:support@netfirms-inc.com), you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through Netfirms and/or in conjunction with our partners. 
 
-We take protecting your Personal Data very seriously. All Networks running on the Ning Platform are required to meet the terms of our Privacy Policy. That being said, we would like to ask you to be careful and use caution when providing Personal Data to Social Networks built on the Ning Platform. Unfortunately, there is no way we can be responsible for the actions of other Users or Social Networks not developed by Ning.
+To unsubscribe from Netfirms newsletters and promotional mailings, please update your preferences with our [Subscription Manager tool](http://www.netfirms.com/utils/Subscribe.bml) or email us at [Netfirms support](mailto:support@netfirms-inc.com). If you would like to cancel your Netfirms subscription, please contact Netfirms support through our [online support form](http://www.netfirms.com/controlpanel/sconsole/) or call us at 866-317-4678. You may also unsubscribe through the links provided in promotional email messages sent by us or our partners/affiliates. 
 
-**By registering on the Ning Platform, you agree (1) to comply with the terms and conditions of this Privacy Policy, and (2) that Ning and any User may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by Ning or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
+    * **How to Access or Modify Your Information.** We allow you to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
 
-#### Ning and Collection of User Information
+To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Netfirms support by phone 866-317-4678 or through our [online support form](http://www.netfirms.com/controlpanel/sconsole/). 
 
-##### Personally Identifiable User Information
+  * **OUR COMMITMENT TO DATA SECURITY.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data storage or transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information in transit and as stored on our systems or the systems of our third party service providers, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+    * **Password.** Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages). 
+  * **REVISIONS TO THIS POLICY.** We reserve the right to revise, amend, or modify this Privacy Policy at any time and in any manner. However, if we plan to materially change how we plan to use previously collected personal information, we will provide you with advance notice prior to the change becoming effective and an opportunity to opt-out of such differing uses. We encourage you to periodically review this page for the latest information on our privacy practices. You can find when this Privacy Policy was last updated at the bottom of this page. 
+  * **CHILDREN UNDER 13.** This website is not directed towards children and we do not seek to collect any personal information from children. If we become aware that personal information from a child under the age of 13 has been collected, we will use all reasonable efforts to delete such information from our database. 
+  * **CONTACT US REGARDING THIS POLICY.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: Legal, Netfirms, 10 Corporate Dr., Suite 300, Burlington, MA 01803 or [legal@netfirms-inc.com](mailto:legal@netfirms-inc.com). 
+  * **APPLICABLE TO ALL RESELLER RELATIONSHIPS.** In addition to all of the terms and conditions set forth above, the following terms apply to Reseller relationships only. 
+    * **Information Related to Data Collected through Resellers.** We may collect information under the direction of Resellers, and we have no direct relationship with the individuals whose personal data is provided, processed or obtained by our Resellers. Customers who seek access, or who seek to correct, amend, or delete inaccurate data should direct their query to the Reseller's data controller. If the Reseller requests that we remove the data, we will respond to such request within thirty (30) business days. 
+    * **Choice.** If you are a customer of one of our Resellers and would no longer like to be contacted by such Reseller, please contact the Reseller from whom you purchased products or services. 
+    * **Data Retention.** We retain personal data we process on behalf of our Resellers for as long as needed to provide services under the relationship. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Once you register with Ning and sign in to the Ning Platform, you are not anonymous to Ning.
 
-When registering on Ning, you provide Personal Data, which includes a Ning ID, a User- chosen password, and optionally an email address and a photo. To combat online fraud, Ning may also record your IP address when submitting information. In addition, if you choose to purchase premium services on Ning, you provide necessary information to process your credit card payment, including your billing address. When you use the Ning Address Book service, you also provide contact information of other people (“Address Book”).
 
-In an effort to support group-specific as well as location-based Social Networks, Networks can validate the domain from which your email address originates (e.g., gmail.com or hotmail.com).
+**This file was last modified on May 29, 2015.**
 
-To protect your Ning ID account information, please keep your password secure.
-
-You can decline to share such Personal Data with us by not registering on Ning. Further, you may opt to remove any Personal Data from our active database by contacting Ning and canceling your Ning User account.
-
-Ning does not intentionally gather Personal Data about visitors who are under the age of 13.
-
-##### Cookies and Passive Data Collection
-
-Ning automatically receives and records information on our server logs from your browser, including your IP address, Ning cookie information, and the page you request.
-
-Users should be aware that other websites visited before entering Ning might place personally identifiable information within a User's URL during a visit to their website, and Ning has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. 
-
-##### Content and Use of Networks
-
-When you post Content (or send messages) in any Social Network(s) on the Ning Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal Data in such Content. The Ning Platform keeps track of Content that you have uploaded to a Social Network on Ning as well as the top Users for a Network. Such information, displayed with your Ning ID and photo, if you uploaded one, is available to Users and visitors of the Ning Platform. In addition, the Ning Platform enables other Users to invite you to use Social Networks on Ning.
-
-Because you may voluntarily disclose any Personal Data in these public areas, you should be careful about the information you choose to disclose. Ning does not control that disclosure, and is not liable in any way for anyone's use or misuse of the information in the disclosure. In other words, use caution and judgment here. 
-
-#### How Ning Uses Information
-
-##### Personally Identifiable Information
-
-We will send you administrative messages, and email updates regarding your account, your Social Networks, or the Ning Platform. We may also send you notices of new Content that has been added to Networks in which you may be interested when you have subscribed to such notices. In some cases, we may also send you primarily promotional messages. In your account, you can choose to opt out of promotional messages and new Content notices. You may opt out of receiving administrative messages by canceling your Ning User account. We will not use your Address Book information for our own purposes.
-
-##### Cookies and Passive Data Collection
-
-Ning uses cookie, IP address, and URL information to improve the content of the Ningbar, the quality of Ning servers, and to provide enhanced features to Users, where available. Ning uses cookies to save Users' Ning IDs, session validators, and on Users' browsers and hard drives, and may use them to provide tailored products and services to those Users, as they become available.
-
-IP Addresses also help us to diagnose problems with our server, to administer the Ning Platform, and to otherwise provide the Ning service to its users. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process requires it, or to protect the rights or property of Ning, its Users or the general public. 
-
-#### Disclosures
-
-##### Ning Service Providers
-
-Ning may need to provide your Personal Data to third parties to deliver specific services to you (such as hosting services, support services, or credit card payment processing). These third parties are required not to disclose your Personal Data and not to use your Personal Data other than to provide the services requested by Ning.
-
-##### Network Creators
-
-The Ning Terms of Service require each Network Creator to comply with applicable laws (e.g., CAN-SPAM) and Ning's rules with respect to the Network Creators' use of your Personal Data. As a Network Creator, you may have your own privacy policy applicable to your Network if approved by Ning in advance and in writing (on a case-by-case basis). If you, as a User of a Network, agree to a Network's privacy policy, you agree that any dispute you have with a Network Creator is between you and that Network Creator (and not Ning).
-
-##### Law Enforcement
-
-Ning may disclose Personal Data if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of Ning or any third party.
-
-##### Ning Affiliates
-
-Although Ning currently does not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), it may in the future. Ning may share some of all of your Personal Data with these affiliates, in which case we will seek to require our affiliates to honor this Privacy Policy.
-
-##### Change of Ownership
-
-In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of Ning's User information, including email addresses, to a separate entity. Ning will notify Users (via a posting on this site or email (in Ning's discretion) of such a transfer, and Users may choose to modify their registration information at that time. This means if you are concerned about your Personal Data migrating to a new owner, you can deactivate your account.
-
-##### Security
-
-Ning uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Ning and Social Networks running on the Ning Platform in a secure operating environment that is not available to the public, Ning cannot guarantee complete security. Further, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Ning does not assume any liability to third parties whose information may be included in your Address Book.
-
-##### Updating or Removing User Information
-
-Users may, at any time, choose to correct or update the information they have submitted to Ning, by going to their account. Users may remove their User information from Ning's live database by canceling their account. Even if you update or remove your information from our live database, however, your Personal Data may be retained in our backup files and archives.
-
-Registered Users may remove their User information from Ning by canceling their account.
-
-##### No Spam Policy
-
-Our No Spam Policy and Terms of Service prohibit all Users from engaging in any activity involving the sending of email in violation of applicable law. Violations of these policies may result in immediate termination of service and legal action against any spammers.
-
-Any unauthorized use of Ning computer systems is a violation of the Terms of Service and certain federal and state laws, including without limitation the Computer Fraud and Abuse Act (18 U.S.C. section 1030 et seq.), Section 502 of the California Penal Code and Section 17538.45 of the California Business and Professions Code. Such violations may subject the sender and his or her agents to civil and criminal penalties.
-
-Ning offers email masking and relay when Users choose to communicate with other Users on Networks running on the Ning Platform to reduce third party email harvesting and spam. We also encourage Users to choose an email address where they will be comfortable receiving email responses from other Ning Users if they choose, at their sole discretion, to upload a profile or classifieds listings on any Social Network running on the Ning Platform.
-
-##### International Users
-
-By visiting Ning and Social Networks running on the Ning Platform and providing Ning with data, you acknowledge and agree that due to the international dimension of Ning we may use the data collected in the course of our relationship for the purposes identified in this Privacy Policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States where laws protecting Personal Data may not be as stringent as the laws in your jurisdiction. By providing us with your data, you consent to the transfer of such data.
-
-##### Revisions to This Policy
-
-Ning reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Ning, and a User's continued use of Ning will signify agreement to such changes. 
-
-##### Contacting Ning
-
-Users with questions about this Privacy Policy may contact Ning the following ways:
-
-##### E-Mail
-
-[info@ning.com](mailto:info@ning.com)
-
-##### Postal
-
-Ning  
-735 Emerson Street  
-Palo Alto, CA 94301
-
-**USE OF THE NING SERVICE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
-
-##### Feedback
-
-We welcome your [feedback](mailto:feedback@ning.com) on this document. 
+ ****
