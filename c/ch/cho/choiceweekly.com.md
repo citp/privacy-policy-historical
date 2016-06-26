@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choiceweekly.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225165020id_/http%3A//www.choiceweekly.com/%3Fp%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceweekly.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626203406id_/http%3A//www.choiceweekly.com/%3Fp%3D20) for the most accurate reproduction.*
 
-# Privacy | Choice Weekly
+# Privacy – Choice Weekly
 
 Choice Weekly (“ **Choice Weekly** “) operates Choice Weekly.com and may operate other websites. It is Choice Weekly policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -12,7 +12,7 @@ Choice Weekly also collects potentially personally-identifying information like 
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to Choice Weekly websites choose to interact with Choice Weekly in ways that require Choice Weekly to gather personally-identifying information. The amount and type of information that Choice Weekly gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Choice Weekly.com](http://wowzon.com/) to provide a username and email address. Those who engage in transactions with Choice Weekly are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Choice Weekly collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Choice Weekly. Choice Weekly does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Choice Weekly websites choose to interact with Choice Weekly in ways that require Choice Weekly to gather personally-identifying information. The amount and type of information that Choice Weekly gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Choice Weekly.com](http://www.choiceweekly.com/) to provide a username and email address. Those who engage in transactions with Choice Weekly are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Choice Weekly collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Choice Weekly. Choice Weekly does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**
 
