@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primenews.com.bd privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225154618id_/http%3A//primenews.com.bd/en/%3Fpage_id%3D1558) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primenews.com.bd privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626051334id_/http%3A//primenews.com.bd/en/%3Fpage_id%3D1558) for the most accurate reproduction.*
 
 # Privacy Policy • primenews.com.bd
 
