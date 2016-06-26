@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmagazine.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132721id_/http%3A//www.nytimes.com/ref/membercenter/help/privacysummary.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmagazine.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626040125id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
