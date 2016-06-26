@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examfx.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907042401id_/https%3A//www.examfx.com/Utility/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examfx.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626201448id_/https%3A//www.examfx.com/Utility/Privacy.aspx) for the most accurate reproduction.*
 
 # ExamFX | Privacy Policy
 
@@ -48,7 +48,7 @@ We use return e-mail addresses to answer the e-mail we receive. Such addresses a
 
 back to top
 
-We do not sell or exchange any personal information of our customers with any third parties. However, we may release your personal information in the event we are compelled to do so by court order or other requirement of law, or if we, in good faith, believe such release is advisable or necessary. Additionally, it is possible that in the future we may sell our online business. In connection with such a sale, your personal information may be transferred to a third party. 
+We do not sell or exchange any personal information of our customers with any third parties. To comply with state-imposed recordkeeping regulations, we report student course completion information (name, address, NPN, etc.) electronically to the appropriate regulatory agencies and their third party administrators. However, we may release your personal information in the event we are compelled to do so by court order or other requirement of law, or if we, in good faith, believe such release is advisable or necessary. Additionally, it is possible that in the future we may sell our online business. In connection with such a sale, your personal information may be transferred to a third party. 
 
 back to top
 
