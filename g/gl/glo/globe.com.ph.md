@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217111514id_/http%3A//www.globe.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626064427id_/http%3A//www.globe.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Globe
 
@@ -110,4 +110,13 @@ The Globe Tower
 Bonifacio Global City, 1643 Taguig City,   
 Metro Manila, Philippines  
 Mobile: +63 917 818 0026  
-Email: ambonifacio@globe.com.ph
+Email: privacy@globe.com.ph
+
+**FOR OTHER QUESTIONS OR CONCERNS ABOUT YOUR GLOBE ACCOUNT OR EXPERIENCE:**
+
+Telephone: +632 730 1000 (landline)  
+211 (Globe mobile phone)
+
+Contact form: [www.globe.com.ph/talk2globenow](http://www.globe.com.ph/talk2globenow)
+
+You may also manage your Globe account at [www.globe.com.ph/myaccount](http://www.globe.com.ph/myaccount)
