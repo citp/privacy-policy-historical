@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsource-net.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405042645id_/http%3A//outsource-net.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsource-net.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626230857id_/http%3A//www.outsource-net.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Out Source Network
 
