@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209103707id_/http%3A//www.newbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626123150id_/http%3A//www.newbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Business
 
