@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095038id_/http%3A//www.americanbar.org/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626232141id_/http%3A//www.americanbar.org/utility/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,26 +57,30 @@ Through the use of various technological tools, we may collect Non-Personal Data
 
 In addition to the rights as explained in this Privacy Policy, under California’s "Shine the Light" law, California residents who provide personal information (as defined in the statute) in obtaining products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the personal information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in 2012 will receive information about 2011). To obtain this information please write to us at: American Bar Association, 321 N. Clark St. Chicago, IL 60654. Attn: ABA List Sales -- California Privacy Law. Please include your full name and address and ABA Member Number, if applicable.
 
-### VIII. Children
+### VIII. Canada Anti-Spam Law (CASL)
+
+The ABA complies with CASL. Non-ABA Members or Associates who have provided us a Canadian mailing address will not receive unauthorized Commercial Electronic Messages (CEMs as defined under CASL) unless these individuals have opted-in to receive CEMs.
+
+### IX. Children
 
 We do not knowingly collect personal data online from or market online to children under the age of 13.
 
-### IX. Information Security
+### X. Information Security
 
 The ABA implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. Except for Directory Lists and the sharing of information as set forth in this Privacy Policy, we restrict access to personal information to certain companies who may need to know that information in order to operate, develop, or improve our services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, the ABA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. If you have questions about this Privacy Policy, please [contact us](http://www.americanbar.org/utility/about_the_aba/contact.html).
 
-### X. User ID and Password
+### XI. User ID and Password
 
 Certain areas of the Sites may require the use of a user ID, email address, or password as an additional security measure that helps protect your information.  To help you protect your privacy, the ABA Sites have tools to help you log in and log out.
 
-### XI. Linking to Other Internet Sites
+### XII. Linking to Other Internet Sites
 
 You should be aware that other Internet sites that are linked from the Sites or from an ABA email message may contain privacy provisions that differ from the provisions of this Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms.
 
-### XII. How You Can Access and Change Information
+### XIII. How You Can Access and Change Information
 
 If you are a registered user of the Sites, subscriber to ABA publications, purchaser of ABA products and services, or an ABA member, you may review and update/correct your information directly on the ABA’s website—americanbar.org—or by [contacting us](http://www.americanbar.org/utility/about_the_aba/contact.html).
 
-Last updated August 3, 2015
+Last updated October 9, 2015
