@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827074901id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626113408id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
 
 # Animaker - Privacy Policy
 
-Your privacy is very important to us. Animaker want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use Animaker's vast array of information, tools, and opportunities with complete confidence.
+Your privacy is very important to us. Animaker wants to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use Animaker's vast array of information, tools, and opportunities with complete confidence.
 
-We have created this Privacy Policy to demonstrate Animaker firm commitment to privacy and security. This Privacy Policy describes how Animaker collects information from all end users of Animaker's services (the "Services") - those who access some of Animaker Services but do not have accounts ("Visitors") as well as those who pay subscription fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. Animaker requests that you read this Privacy Policy carefully.
+We have created this Privacy Policy to demonstrate Animaker's firm commitment to privacy and security. This Privacy Policy describes how Animaker collects information from all end users of Animaker's services (the "Services") - those who access some of Animaker Services but do not have accounts ("Visitors") as well as those who pay subscription fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. Animaker requests that you read this Privacy Policy carefully.
 
 ### Introduction
 
-You may visit the Animaker website without a need to disclose any personal information or any information of such sort. Animaker collects information in different ways from Visitors and Members who access various parts of Animaker's Services and the network of Web sites accessible through Animaker's Service. We use this information primarily to provide a customized experience as you use Animaker Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. Animaker always strive to provide the best user experience and of high quality and to allow Animaker to provide the same, Animaker collects aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites.
+You may visit the Animaker website without a need to disclose any personal information or any information. Animaker collects information in different ways from Visitors and Members who access various parts of Animaker's Services and the network of Web sites accessible through Animaker's Service. We use this information primarily to provide a customized experience as you use Animaker's Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. Animaker always strive to provide the best user experience of high quality and to allow Animaker to provide the same, Animaker collects aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites.
 
 ### Registration
 
@@ -54,11 +54,11 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 ### How To Access Or Modify Your Information
 
-Animaker offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit www.animaker.com or contact Animaker Customer Service Department at Email and Contact no.
+Animaker offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit www.animaker.com or contact Animaker Customer Service Department.
 
 ### Revisions And Updates To This Policy
 
-In order to catch up with the technology and internet's rapidly evolving nature, Animaker may need to update its Privacy Policy from time to time. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. Animaker reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Animaker's website and may send registered users and email in accordance with the Agreement so that to make you aware as to what information Animaker may collect.
+In order to catch up with the technology and internet's rapidly evolving nature, Animaker may need to update its Privacy Policy from time to time. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. Animaker reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Animaker's website and may send registered users an email in accordance with the Agreement so that to make you aware as to what information Animaker may collect.
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
