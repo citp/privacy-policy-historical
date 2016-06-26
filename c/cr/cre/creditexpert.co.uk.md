@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905125210id_/https%3A//www.creditexpert.co.uk/images/CreditExpert-Privacy-Policy-29012015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626175741id_/https%3A//www.creditexpert.co.uk/images/CreditExpert-Privacy-Policy-29012015.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
