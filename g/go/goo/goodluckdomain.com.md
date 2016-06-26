@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodluckdomain.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117075359id_/http%3A//www.goodluckdomain.in/index.php/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodluckdomain.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626100029id_/http%3A//www.goodluckdomain.in/index.php/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goodluckdomain.com
 
