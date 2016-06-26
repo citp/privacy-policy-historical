@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141437id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626103731id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
 
 # Metropolitan Opera | Privacy Policy
 
@@ -12,9 +12,9 @@ By using any of our websites, or communicating with us by e-mail, you are deemed
 
 _What Information About You Is Collected and How Is It Used?_
 
-**Anonymous Information**  
+## **Anonymous Information**  
 
-You can browse our sites without logging on, and no personal information about you or your visit will be collected. Some anonymous, statistical information is automatically logged when you access one of our sites. These "access logs" allow us to make our sites more useful to you and others who use them by, for example, tracking which features of the site are most used by visitors. None of this information, which is listed below, is associated with any personal information or contains anything identifying you personally:
+You can browse our sites without logging on, and no personal information about you or your visit will be collected. Some anonymous, statistical information is automatically logged when you access one of our sites. These “access logs” allow us to make our sites more useful to you and others who use them by, for example, tracking which features of the site are most used by visitors. None of this information, which is listed below, is associated with any personal information or contains anything identifying you personally:
 
   * The date of the visit
   * The time of arrival and length of visit
@@ -25,13 +25,13 @@ You can browse our sites without logging on, and no personal information about y
 
 
 
-**"Cookies"**
+## **“Cookies”**
 
 A cookie is an alphanumeric identifier that is automatically stored on the hard drive of a computer that accesses a website. It allows our systems to recognize your browser’s access privileges and to personalize your session with us. We do not share information from cookies with any third parties. If you do not wish a cookie to be placed on your computer, however, you can adjust the settings on your browser accordingly, although doing so will limit the range of features that will be available for your use on our site. (For example, you must have cookies turned on to place items in your shopping cart.)
 
 Tracking Tags (also known as “web beacons,” “action tags” or “single-pixel gifs”).  Our websites may also use tracking tags.  Tracking tags are invisible graphics embedded in the pages of our websites that are programmed to collect non-personal information about your use of our website.  Like cookies, tracking tags provide overall usage patterns for our websites that we use for analysis and to provide personalized services and advertising content. 
 
-  **Personal Information**  
+## **Personal Information**  
 
 When a customer using our websites requests brochures, enters quizzes, uses performance/season selection tools, or purchases a membership, tickets, merchandise, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information. In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from the Met. We sometimes make names and addresses available to select organizations for direct mail marketing purposes,
 
@@ -43,17 +43,16 @@ If you communicate with us by letter, e-mail, phone or in person, it is possible
 
 To alter your e-mail preferences, please use our [My Account](https://web.archive.org/Account/) section of the site and we will record and respect your instructions.
 
-**Disclaimers**
+## **Disclaimers**
 
 Please note that the Met websites do not knowingly collect personal information from any child under 13 without parental consent. Any parent who may be concerned that a child has accessed our web sites or given personal information should contact us as indicated below.
 
-  
 Further, although we believe that our security procedures are appropriate to protect your personal information as indicated, we cannot guarantee that these precautions will protect against, and we must hereby expressly disclaim any liability for, its misuse, loss, alteration or use inconsistent with our policy. In addition, note that the policy appearing here applies solely to information collected by the Met websites, and we have no responsibility for and specifically disclaim any liability for the content, the privacy policies and the use of information of third-party websites to which our sites may give links.
 
-**Jurisdiction and Venue**
+## **Jurisdiction and Venue**
 
 All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s use of personal information or otherwise relating to privacy and that any claim made against the Met can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](https://web.archive.org/user-information/terms-and-conditions/).
 
-**Contact Information**
+## **Contact Information**
 
 If you have any questions regarding this privacy policy, please contact us at [metinfo@metopera.org](mailto:metinfo@metopera.org) 
