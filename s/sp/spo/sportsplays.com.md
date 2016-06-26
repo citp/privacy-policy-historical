@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906064507id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626171752id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
 
 # SportsPlays.com Privacy Policy
 
@@ -12,7 +12,7 @@ c.     Assent. SportsPlays.com collects information from you, other Site vis
 
 d.     Other Sites. This Site may contain advertisements and links to certain other third party websites. These sites are governed by their own privacy practices and we are not responsible for such privacy practices. This Privacy Policy applies solely to the use and disclosure of personally identifiable information collected by SportsPlays.com and not by any third party site.
 
-e.     Contact Information. We welcome your comments regarding this Privacy Policy. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact SportsPlays.com at support@sportsplays.com.
+e.     Contact Information. We welcome your comments regarding this Privacy Policy. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact SportsPlays.com at [support@sportsplays.com](mailto:support@sportsplays.com).
 
 2.     **Types of Information Collected**
 
@@ -34,7 +34,7 @@ e.     Third-party advertising. We use third-party advertising companies to
 
 3.     **Use of Information**
 
-a.     Generally. The information collected is used to: (i) ensure that you are at least eighteen (18) years of age, or of sufficient legal age to participate from your applicable Jurisdiction, whichever is higher; (ii) process your transactions, including, without limitation, subscirption fees or payments of any winnings; (iii) provide customer services and resolve any complaints; (iv) improve the Site and service and resolve any technical problems; (v) communicate with you concerning the services offered on the Site by SportsPlays.com or any of its affiliates or business partners; (vi) create aggregate data; (vii) ensure compliance with the Site Terms of Use; and (viii) comply with any applicable laws and regulations, including but not limited to anti-money laundering laws which, among other things, may oblige SportsPlays.com to obtain and verify evidence of your identity.
+a.     Generally. The information collected is used to: (i) ensure that you are at least eighteen (18) years of age, or of sufficient legal age to participate from your applicable Jurisdiction, whichever is higher; (ii) process your transactions, including, without limitation, subscription fees or payments of any winnings; (iii) provide customer services and resolve any complaints; (iv) improve the Site and service and resolve any technical problems; (v) communicate with you concerning the services offered on the Site by SportsPlays.com or any of its affiliates or business partners; (vi) create aggregate data; (vii) ensure compliance with the Site Terms of Use; and (viii) comply with any applicable laws and regulations, including but not limited to anti-money laundering laws which, among other things, may oblige SportsPlays.com to obtain and verify evidence of your identity.
 
 b.     Third Party Use. SportsPlays.com may provide your information to government officials and agencies as required by law, and business partners as part of business operations, transaction processing, and marketing efforts. For purposes of this Privacy Policy, 'Business Partner' shall mean any person or entity that the Company enters into any kind of business transaction with, including, but not limited to, transactions involving the sale and disclosure by Company of information governed under the Privacy Policy.
 
@@ -54,15 +54,15 @@ We store information that we collect through cookies, log files and graphic file
 
 a.     Limits of Security Measures. By opening an account and using the Site, you acknowledge that you understand that "perfect security" does not exist on the Internet and that we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. You agree that you do not expect that your personally identifiable information or private communications will always remain private.
 
-b.     Confidentiality Obligation. The security of your SportsPlays.com account also relies upon your protection of your SportsPlays.com unique display name, password or other appropriate security code ("IDs"). You agree to never share your IDs with anyone. In the event that you are concerned that your IDs are no longer secure and confidential, you should immediately notify SportsPlays.com by sending an e-mail to support@sportsplays.com.
+b.     Confidentiality Obligation. The security of your SportsPlays.com account also relies upon your protection of your SportsPlays.com unique display name, password or other appropriate security code ("IDs"). You agree to never share your IDs with anyone. In the event that you are concerned that your IDs are no longer secure and confidential, you should immediately notify SportsPlays.com by sending an e-mail to [support@sportsplays.com](mailto:support@sportsplays.com).
 
-c.     Questions. If you have any questions about the security at our website, please send an e-mail to support@sportsplays.com.
+c.     Questions. If you have any questions about the security at our website, please send an e-mail to [support@sportsplays.com](mailto:support@sportsplays.com).
 
 8.     **Accessing, Reviewing and Changing Personal Information**
 
-a.     Termination of Your Account. You can terminate your account by sending us an e-mail at support@sportsplays.com. Your account will be deactivated as soon as is reasonably possible and in accordance with applicable law and regulations.
+a.     Termination of Your Account. You can terminate your account by sending us an e-mail at [support@sportsplays.com](mailto:support@sportsplays.com). Your account will be deactivated as soon as is reasonably possible and in accordance with applicable law and regulations.
 
-b.     Account Inquiry. Information on what (if any) personally identifiable information is held about you may be obtained by sending e-mail to support@sportsplays.com. We reserve the right to charge you a fee for providing such information.
+b.     Account Inquiry. Information on what (if any) personally identifiable information is held about you may be obtained by sending e-mail to [support@sportsplays.com](mailto:support@sportsplays.com). We reserve the right to charge you a fee for providing such information.
 
 9.     **Changes to this Privacy Policy**
 
