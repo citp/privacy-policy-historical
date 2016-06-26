@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921095710id_/http%3A//www.motherhood.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627011948id_/http%3A//www.motherhood.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
-# retailsitesprivacypolicy | Motherhood Maternity
+# retail sites privacy policy | Motherhood Maternity
 
 | 
 
@@ -18,7 +18,7 @@ By providing us your information in-store or by using any of our web sites, you 
 
 **This Privacy Policy applies only to our retail stores and our retail and e-commerce web sites, online services, applications and social networking platforms operated by Destination Maternity Corporation and its affiliates, which include, without limitation:[www.apeainthepod.com](http://www.apeainthepod.com/); [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhood.com/nursinghome.asp); [www.destinationmaternity.com](http://www.destinationmaternity.com/); [m.destinationmaternity.com](http://www.destinationmaternity.com/mobile); and [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites").**
 
-**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20150921095710id_/http%3A//www.motherhood.com/%22http://www.destinationmaternitycorporation.com%22).**
+**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20160627011948id_/http%3A//www.motherhood.com/%22http://www.destinationmaternitycorporation.com%22).**
 
 **Access to and use of the Retail Web Sites is also governed by our[Terms and Conditions of Use](http://www.motherhood.com/TermsandConditions.asp) which are also linked to our Retail Web Sites.**
 
@@ -94,9 +94,9 @@ Destination Maternity Corporation
 
 Attn: Customer Service
 
-456 North Fifth Street
+232 Strawbridge Drive
 
-Philadelphia, Pennsylvania 19123
+Moorestown, NJ 08057
 
 1 800-4Mom2Be (1 800-466-6223)  
   
