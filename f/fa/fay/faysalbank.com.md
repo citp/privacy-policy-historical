@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faysalbank.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627211902id_/http%3A//www.faysalbank.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faysalbank.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626232810id_/http%3A//www.faysalbank.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement « Faysal Bank
+# Privacy Statement | Faysal Bank
 
 This web site is administered by Faysal Bank Limited.
 
