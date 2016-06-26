@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209215821id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commscope.com privacy policy that was archived on 2016-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160626111554id_/http%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-translate-customization" content="ac04ca58e2cb016a-f41375ae7305f72c-g7e5972fec99be307-14">
-        <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/theme/js/jquery.js"></script><!-- jQuery v1.7.1 -->
-        
+<!DOCTYPE html><html class=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+	<!-- jQuery v1.7.1 -->
+        <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://cc.chango.com/static/o.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/7au8fyUR.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/theme/js/jquery.js"></script>
     
     <title>Privacy</title>
 <meta name="Keywords" content="privacy, personal data, privacy statement, cookies">
@@ -98,100 +98,98 @@ function TrackEventByFileExtension(FileExtension)
 
     <!-- Header -->
     
-
+   <link href="/theme/css/Smoothness.css" rel="stylesheet">
 	<script type="text/javascript" src="/theme/js/jquery-ui.min.js"></script>
 	<!-- Product Spec Autocomplete -->
 	<link rel="stylesheet" href="/theme/css/jquery-ui.css">
-	<script lang="javascript" type="text/javascript">
-		$(function () {
-			$('.search-header').autocomplete({
-				source: function (request, response) {
-					$.ajax({
-						url: "/templates/ProductCatalog/Default.aspx/GetProducts",
-						data: "{ 'prefixText':'" + request.term + "'}",
-						dataType: "json",
-						type: "POST",
-						contentType: "application/json; charset=utf-8",
-						success: function (data) {
-							response($.map(data.d, function (item) {
-								return {
-									label: item.name,
-									value: item.name,
-									src: item.src + '&s=search'
-								}
-							}))
-						},
-						error: function (XMLHttpRequest, textStatus, errorThrown) {
-							//alert(textStatus);
-						}
-					});
-				},
-				select: function (event, b) {
-					// prevent autocomplete from updating the textbox
-					event.preventDefault();
-					window.location.href = b.item.src;
-				},
-				open: function (e, ui) {
-					var acData = $(this).data('ui-autocomplete');
-					acData
-					.menu
-					.element
-					.find('a')
-					.each(function () {
-						var me = $(this);
-						var keywords = acData.term.split(' ').join('|');
-						me.html(me.text().replace(new RegExp("(" + keywords + ")", "gi"), '<b>$1</b>'));
-					});
-				},
-				position: { collision: "fit none" } // accepts a single value or a pair for horizontal/vertical
-			});
+    
+	 <script src="/js/dust-full-0.3.0.min.js"></script>
+    <script src="/js/sayt-2.0.212.js"></script>
+    <script src="/js/autocompleteTemplate.js"></script>
+    <script src="/js/productTemplate.js"></script>
+	  
+	<script>
+	     var collectionval = 'productdata|contentdata';
+	     $(function () {
+	         getdata();
+	     });
+	    
+		function isEnterKey(evt) {
+            var charCode = (evt.which) ? evt.which : event.keyCode
+            if (charCode == 13) {
+                 if ($("#txtSearch2").val() != 'undefined' || $("#txtSearch2").val() != null || $("#txtSearch2").val() != '') {
+                    var value = $("#txtSearch2").val();
+                    $(window).attr('location', '/SiteSearch/?q=' + value);
+                    return false;
+                }
+            }
 
-			// append a header to the results list
+            return true;
+        }
+		
+	     function onselectCollection() {
+	         collectionval = $('#idCollection').val();
+	         getdata();
+	     }
+	     function getdata() {
+	         $('.search-header').sayt({
+	             //selectOnHover: true,
+	             subdomain: 'commscope',
+	             collection: collectionval,
+	             // Search Params - Autocomplete
+	             numSearchTerms: 5,
+	             numNavigations: 5,
+	             sortAlphabetically: false,
+	             // Search Params - Product
+	             area: 'sayt',
+				 //'Production',
+	             numProducts: 4,
+	             shouldSearchSuggestionFirst: true,
+	             hideNoProductsMessage: false,
+	             defaultImage: '',
+	             // Template Options
+	             defaultImage: '',
+	             autocompleteTemplate: 'at',
+	             productTemplate: 'pt',
+	             delay: 250,
+	             // jQuery Autocomplete Options 
+	             minLength: 3,
+	             defaultImage: '/catalog/images/noimage.gif',
+				   open: function () {
+                    // After menu has been opened, set width to 250px
+                    $('.ui-menu')
+                        .width(250);
+						               
+                },
+	             selectSearchTerm: function (data) {
+	                 $(window).attr('location', '/SiteSearch/?q=' + data.value)
+	               
+	             },
+	             selectNavigation: function (data) {
+	                 if (data.category == 'solution') {
+	                     $(window).attr('location', '/SiteSearch/?ps=' + data.value + '&s=' + data.value);
+	                 }
+	                 else if (data.category == 'brand') {
+	                     $(window).attr('location', '/SiteSearch/?pb=' + data.value + '&b=' + data.value);
+	                 }
+	                 else {
+	                     $(window).attr('location', '/SiteSearch/?q=' + data.value);
+	                 }
+	             },
+	             selectProduct: function (data) {
+	                 var url = data.url;
+	                 if (url != null) {
+	                     $(window).attr('location', data.url);
+	                 }
+	                 
 
-            // This is the mobile view search box
-			var widgetInst1 = $('#txtSearch1').autocomplete({}).data('ui-autocomplete');
-			widgetInst1._renderMenu = function (ul, items) {
-				var self = this;
-				$.each(items, function (index, item) {
-					if (index == 0)
-						ul.append("<li class='ui-autocomplete-category'>Product Specifications found:</li>");
-					self._renderItemData(ul, item);
-				});
-			};
+	             }
+	         });
+	     }
 
-            // This is the desktop view search box
-			var widgetInst2 = $('#txtSearch2').autocomplete({}).data('ui-autocomplete');
-			widgetInst2._renderMenu = function (ul, items) {
-			    var self = this;
-			    $.each(items, function (index, item) {
-			        if (index == 0)
-			            ul.append("<li class='ui-autocomplete-category'>Product Specifications found:</li>");
-			        self._renderItemData(ul, item);
-			    });
-			};
-		});
-	</script>
+
+    </script>
 	
-
-
-<!-- ============================= SITE HEADER : START ================================== -->
-	<header id="cmsc-header" class="clearfix cmsc-mobile-search-hidden">
-		<div class="search cmsc-flex cmsc-search-dark" id="csmc-search-mobile">
-			<div class="cmsc-search-wrap cmsc-flex">
-				<label class="cmsc-access" for="txtSearch1">Search</label>
-				<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch1" id="txtSearch1" value="" placeholder="Search CommScope" autocomplete="off">
-				<button type="reset" class="close">×</button>
-			</div>  
-		</div>
-
-        <script type="text/javascript">
-            function SubmitSearch1() {
-                var Searchtxt = document.getElementById("txtSearch1").value;             window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);         }
-
-            $("#txtSearch1").keyup(function (event) {
-                if (event.keyCode == 13) {
-                    SubmitSearch1();             }
-            });     </script>
 
 
     <!--mp_linkcode_begins-->
@@ -209,50 +207,55 @@ function TrackEventByFileExtension(FileExtension)
       <!--– mp_snippet_ends -->
 
 
+
+<!-- ============================= SITE HEADER : START ================================== -->
+<div id="cmsc-push-container" class="cmsc--nav-pushwrap">
+
+	<header id="cmsc-header" class="cmsc--header clearfix cmsc-mobile-search-hidden">
+		<div class="search cmsc-flex cmsc-search-dark" id="csmc-search-mobile">
+			<div class="cmsc-search-wrap cmsc--search-wrap_mobile cmsc--search-wrap cmsc-flex">
+				<label class="cmsc-access" for="txtSearch1">Search</label>
+				<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch1" id="txtSearch1" value="" placeholder="Search CommScope" autocomplete="off">
+				<button type="reset" class="close">×</button>
+			</div>
+		</div>
+
+    <script type="text/javascript">
+            function SubmitSearch1() {
+                var Searchtxt = document.getElementById("txtSearch1").value;
+                window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);
+            }
+
+            $("#txtSearch1").keyup(function (event) {
+                if (event.keyCode == 13) {
+                    SubmitSearch1();
+                }
+            });
+    </script>
+
 		<!-- ~~~~~~~~~~~~~~~~~~ Language selector, Message, Login link ~~~~~~~~~~~~~~~~~~~~~ -->
 		<div id="cmsc-te-promo" class="cmsc-banner-promo bgB">
 			<div class="container relative">
-				<div class="cmsc-lang-select cmsc-lang-select-desktop hidden-phone hidden-tablet">
+				<div class="cmsc-lang-select cmsc-lang-select-desktop cmsc--hide-sm">
 					<span class="cmsc-lang-current">
                         <!--mp_global_switch_begins-->
-                            <a mporgnav="" class="user-localecmsc-trigger" href="#" onclick="return chooser();                         function chooser(){
-                            MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';                         MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');                         MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');                         MP.init();                         var script=document.createElement('SCRIPT');                         script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';                         document.body.appendChild(script);                         return false;                         }" title="Language -Currency"> Choose Language</a>
+                            <a mporgnav="" class="user-localecmsc-trigger" href="#" onclick="return chooser();
+                            function chooser(){
+                            MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';
+                            MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');
+                            MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');
+                            MP.init(); var script=document.createElement('SCRIPT');
+                            script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';
+                            document.body.appendChild(script);
+                            return false; }" title="Language">Choose Language</a>
                             <!--mp_global_switch_ends-->
 					</span>
 				</div>
-					
-				<!-- Day 1 info-->
-                <a href="/expectmore/" class="cmsc-banner-link"><b>INNOVATION ACQUIRED FROM TE CONNECTIVITY. Learn more</b></a>
 
-                            
-<style>
-/* Styles for MyCommScope dropdown */
-  .chevron-down {background-position: 35% 3px; background-image: url(/images/downchevron.svg); background-repeat: no-repeat; background-size: 11px 8px; padding: 0 10px 10px 25px;}
-  .cmsc-my-cmscp { background: #fff; padding: 18px 15px 23px 25px; }
-  .cmsc-my-cmscp .login { padding-right: 10px /*adds the space to the right for the missing down chevron */;}
-  .cmsc-my-cmscp a {color: #000 !important; }
-  .cmsc-lang-list { background: #fff; border-top: 0px; border-bottom: 2px solid #ebebeb; border-left: 0px; border-right: 0px; color: #333; display: none; list-style: none; 
-	position: absolute; top: 35px; right: 42px; padding: 10px 0; width: auto; width: 164px; z-index: 2000;
-	background: #fdfdfd;
-	background: -moz-linear-gradient(top,  #ffffff 0%, #f4f4f4 100%);
-	background: -webkit-linear-gradient(top,  #ffffff 0%,#f4f4f4 100%);
-	background: linear-gradient(to bottom,  #ffffff 0%,#f4f4f4 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f4f4f4',GradientType=0 ); }
-  .cmsc-lang-select li, .cmsc-lang-list {white-space: normal; text-align: left;}
-  .cmsc-authed-menu li { display: block; }
-  .cmsc-authed-menu li:not(:last-child)::after { content:''; padding: 0 2px; }
-  
-  @media screen and (max-width: 1023px) {
-		.cmsc-search-wrap { position: relative; display: block; } 
-		.cmsc-search-wrap .close { position: absolute; top: 50%; margin-top: -10px; right: 10px;} 
-		#cmsc-logo-nav-search {position: relative; /* fixes the dropdown that wasn't able to be clicked because the logo had a relative position and the dropdonw would go behind the transparent div */}
-		}
-		
-	.cmsc--nav-top-level .cmsc--nav-login--mobile { background: #00aeef; border-width: 0; border-radius: 1000px; display: inline-block; font-weight: normal; margin: 2em 0 2em 20%; padding: 10px; text-align: center; text-transform: none; width: 50%; }
-/* /Styles for MyCommScope dropdown */
-</style>     
-                            
-                     <span class="cmsc-authed-menu hidden-phone cmsc-vcenter">
+				<!-- Day 1 info
+                <a href="/expectmore/" class="cmsc-banner-link"><b>INNOVATION ACQUIRED FROM TE CONNECTIVITY. Learn more</b></a>-->
+                
+				 <span class="cmsc-authed-menu hidden-phone cmsc-vcenter">
                         <div class="cmsc-lang-select cmsc-lang-select-desktop cmsc--hide-sm">
                             <span class="cmsc-my-cmscp" style="position: relative;">
                               
@@ -272,25 +275,27 @@ function TrackEventByFileExtension(FileExtension)
 		</div>
 
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~ Logo and Mobile Navigation ~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<div class="clearfix" id="cmsc-logo-nav-search">		
-			<button type="button" id="cmsc-menu-trigger" class="cmsc-trigger cmsc-btn-link">
-				<svg version="1.1" id="cmsc-burger-menu" class="cmsc-btn-label" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-307.2 220 18 12" style="enable-background:new -307.2 220 18 12;" xml:space="preserve">
+		<div class="clearfix relative" id="cmsc-logo-nav-search">
+
+			<a href="#cmsc-push-container" class="cmsc--mobile-nav-trigger cmsc--nav-trigger cmsc--hide-med">
+				<svg version="1.1" id="cmsc-burger-menu" class="cmsc-btn-label cmsc--no-click" xmlns="//www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-307.2 220 18 12" style="enable-background:new -307.2 220 18 12;" xml:space="preserve">
 					<g id="hamburger">
-						<title>Menu</title>
+						<title>Toggle Menu</title>
 						<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,221h18"></path>
-<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,226h18"></path>
+						<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,226h18"></path>
 						<path class="st0" stroke="#252525" stroke-width="2" d="M-307.2,231h18"></path>
 					</g>
 				</svg>
-			</button>
+			</a>
+
 			<div class="cmsc-logo-wrap">
 				<a href="/">
 					<svg class="cmsc-logo" xmlns="//www.w3.org/2000/svg" viewBox="0 0 564.3 74.7" enable-background="new 0 0 564.3 74.7"><title>COMMSCOPE</title><path fill="#231F20" d="M35.3 65.9c-15.2 0-26.8-13.1-26.8-28.5 0-15.5 11.7-28.7 27-28.7 6.4 0 13.1 2.4 18 6.9L57.8 9C51.8 2.8 43.9.7 36.3.7 16.2.7 0 16.9 0 37.7 0 58 16.1 74.5 35.6 73.9c6.8-.2 15.5-2.4 22.2-8.5l-4.3-6.7c-5.1 4.6-11.5 7.2-18.2 7.2zM91.5.7C71.9.7 55.7 17.2 55.7 37.3c0 20.9 16 36.6 35.8 36.6 19.7 0 35.8-15.7 35.8-36.6C127.3 17.2 111 .7 91.5.7zm0 65c-14.8 0-27.2-12.4-27.2-28.4 0-15.5 11.2-28.4 27.2-28.4s27.2 12.9 27.2 28.4c0 16-12.4 28.4-27.2 28.4zm217.3-34.8l-4.9-2c-4.3-1.7-9.5-4.6-9.5-10.1 0-6.1 6-10 11.4-10 6 0 9.7 4.1 9.9 8.7h7.8c-1.2-12.3-10-17-17.6-17-10.3 0-20.1 6.8-20.1 18.2 0 9.8 7.1 14.3 14.8 17.8l4.7 2c5.9 2.5 11.8 5.8 11.8 13.3 0 7.4-5.3 13.7-12.6 13.7s-13.3-5.6-13.2-13.3l-8.6.2c1 13.4 10 21.3 21.1 21.3 12.2 0 21.8-9.1 21.8-21.9.1-11.5-7.1-17-16.8-20.9zM471.4 2.2h-9.8v70.2h8.5V43h4.9c13 0 23.9-5.7 23.9-20.5.1-12.8-6.5-20.3-27.5-20.3zm1.5 33h-2.7V10h2.3c8.4 0 18.5 1.3 18.5 12.3 0 11.2-9.4 12.9-18.1 12.9zM505 72.4h36.7v-8h-28.1V37.9h27.3v-8h-27.3V10.2h28.1v-8H505v70.2zM364.6 8.7c6.4 0 13.1 2.4 18 6.9l4.3-6.6c-6-6.2-13.9-8.3-21.5-8.3-20.1 0-36.3 16.2-36.3 37 0 20.3 16.1 36.8 35.6 36.2 6.8-.2 15.6-2.4 22.2-8.5l-4.3-6.7c-5.1 4.7-11.5 7.3-18.2 7.3-15.2 0-26.8-13.1-26.8-28.5 0-15.6 11.7-28.8 27-28.8zM185.9 2.4l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L147.8 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm76.8 0l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L224.6 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm295 7.4v-.1c1-.3 1.7-1 1.7-2 0-.8-.4-1.4-.8-1.8-.6-.4-1.3-.7-2.9-.7-1.4 0-2.4.2-3.2.3V14h1.9v-3.4h.9c1.1 0 1.6.4 1.7 1.3.2 1 .4 1.7.7 2h2.1c-.2-.3-.4-.8-.6-2.1-.2-1.1-.7-1.8-1.5-2zm-2.3-.6h-.9V6.7c.2-.1.6-.1 1.1-.1 1.2 0 1.8.5 1.8 1.3 0 .9-.9 1.3-2 1.3zm.5-8.2c-4.8 0-8.6 3.8-8.6 8.5 0 4.8 3.8 8.6 8.5 8.6 4.8 0 8.5-3.7 8.5-8.6 0-4.7-3.7-8.5-8.4-8.5zm0 15.3c-3.7 0-6.5-3-6.5-6.8 0-3.7 2.7-6.8 6.4-6.8s6.4 3.1 6.4 6.8c0 3.8-2.7 6.9-6.3 6.8z"></path><path fill-rule="evenodd" clip-rule="evenodd" fill="#00AEEF" d="M440.9 6.8c-13.1-8.5-32.2-.3-33.1 15.3 1.4 7.1 7.7 11.4 18.5 13.6 10.1 2 12.1 8.8 11.2 14.1.3 3.5-.8 6.8-2.4 8.6-5.7 6.7-14.8 7.7-21.8 5.3-13.4-3.5-23.3-16.3-21.7-32.3 0-1.8.1-3.7.4-5.6C394.8 8.6 408.8.1 423.3.1c-1.3-.1-2.7-.2-4-.2C398.7 0 382 16.7 382 37.4c0 20.6 16.7 37.4 37.3 37.4 20.6 0 37.4-16.7 37.4-37.4 0-12.7-6.2-23.8-15.8-30.6z"></path></svg>
 				</a>
 			</div>
 			<!-- MOBILE SEARCH BUTTON -->
-			<button type="button" id="cmsc-search-trigger" title="search" class="cmsc-trigger cmsc-btn-link" data-show="#cmsc-header">
-					<svg version="1.1" class="cmsc-btn-label" id="cmsc-search" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve">
+			<button type="button" id="cmsc-search-trigger" title="search" class="cmsc-trigger cmsc-btn-link" data-show=".cmsc--nav-pushwrap">
+					<svg version="1.1" class="cmsc-btn-label" id="cmsc-search" xmlns="//www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve">
 						<title>Search</title>
 						<path id="search" d="M9.5,8.8L8.8,9.5L6.4,7C5.7,7.6,4.9,7.9,4,7.9c-0.5,0-1-0.1-1.5-0.3S1.7,7.1,1.3,6.7
 							C0.9,6.4,0.7,6,0.5,5.5S0.2,4.5,0.2,4s0.1-1,0.3-1.5s0.5-0.9,0.8-1.2C1.7,1,2.1,0.7,2.5,0.5s1-0.3,1.5-0.3c0.5,0,1,0.1,1.5,0.3
@@ -302,393 +307,855 @@ function TrackEventByFileExtension(FileExtension)
 		</div>
 
 		<!-- Main navigation bar -->
-		<nav id="navigation" class="wrapper">
-			<div class="navbar navbar-static-top">
-				<div class="container">
-					
-						<!--main navigation-->
-						<ul id="main-menu" class="nav nav-tabs">
-							<!--<li class="cmsc-login-link-wrap visible-phone hidden-desktop">
-								<a href="/membership/default.aspx" class="cmsc-login-link">Login</a>
-							</li>-->
-							<li class="dropdown">
-								<a id="solutions-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">
-									Solutions
-									<b></b>
-								</a>
-								<!-- Dropdown Menu -->
-								<div class="dropdown-menu mega-menu" role="menu" aria-labelledby="solutions-drop">
-									<ul class="dropdown-body">
-										<li class="mega-menu-wrapper row-fluid" role="menuitem">
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Solutions/Broadband-Solutions/">Broadband</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a></li>
-											</ul>
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Solutions/Enterprise-Solutions/">Enterprise</a></li>
+		<nav id="cmsc-main-nav" class="cmsc--nav">
+			<div class="cmsc--container">
+				<ul id="cmsc-top-nav" class="cmsc--nav-top-level cmsc--list-nb">
+		            <li class="cmsc--nav-has-submenu"><a href="#solutions" class="cmsc--nav-trigger cmsc--nav-arrow">Solutions</a></li>
+					<li class="cmsc--nav-has-submenu"><a href="#industries" class="cmsc--nav-trigger cmsc--nav-arrow">Industries</a></li>
+					<li class="cmsc--nav-has-submenu"><a href="#products" class="cmsc--nav-trigger cmsc--nav-arrow">Products</a></li>
+					<li class="cmsc--nav-has-submenu"><a href="#partners" class="cmsc--nav-trigger cmsc--nav-arrow">Partners</a></li>
+		            <li><a href="/Resources/">Resources</a></li>
+					<li><a href="/ThinkFiber/">Think Fiber</a></li>
+                    
 
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Data-Center-Solutions/">Data Center</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Intelligent-Building-Solutions/">Intelligent Building</a></li>				
-                                                    </ul>
-                                                    
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Solutions/Wireless-Solutions/">Wireless</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>
-											</ul>
-										</li>
-									</ul>
-								</div>
-							</li>
-                            
-							<li class="dropdown">
-								<a id="industries-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Industries</a>
-								<!-- Dropdown Menu -->
-								<div class="dropdown-menu mega-menu" role="menu" aria-labelledby="industries-drop">
-									<ul class="dropdown-body">
-										<li class="mega-menu-wrapper row-fluid" role="menuitem">
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Education/">Education</a></li>
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Energy-Solutions/">Energy</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a></li>
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Finance/">Finance</a></li>				</ul>
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Government-Solutions/">Government</a></li>
-												<li class="menuitem cmsc-subnav-item">
-													<a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">US Federal Government</a></li>
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Healthcare-Solutions/">Healthcare</a></li>
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>				</ul>
-											<ul class="span4 cmsc-submenu-column" role="menu">
-												<li class="menu-title" role="menutitle">
-													<a href="/Industries/Telecommunications/">Telecommunications</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a></li>
-												<li role="menutitle">
-													<a href="/Industries/Transportation-Solutions/" class="cmsc-noarrow">Transportation</a></li>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a></li>
-												<ul class="cmsc-subsubnav-list">
-													<li role="menuitem">
-													<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
-												<li role="menuitem">
-													<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>
-													</ul>
-												<li role="menuitem" class="cmsc-subnav-item">
-													<a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a></li>
-											</ul>
-										</li>
-									</ul>
-								</div>
-							</li>
-							<li class="dropdown">
-								<a id="eCatalog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Products</a>
-								<!-- Dropdown Menu -->
-								<div class="dropdown-menu" role="menu" aria-labelledby="eCatalog-drop">
-									<ul class="dropdown-body row-fluid">
-										<li role="menutitle" class="span4">
-											<a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a></li>
-										<li role="menutitle" class="span4">
-											<a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a></li>
-										<li role="menutitle" class="span4">
-											<a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="dropdown">
-								<a id="blog-drop" class="dropdown-toggle top-level" href="#" data-toggle="dropdown">Partners</a>
-								<!-- Dropdown Menu -->
-								<div class="dropdown-menu" role="menu" aria-labelledby="blog-drop">
-									<ul class="dropdown-body">
-										<li role="menutitle" class="menu-title">
-											<a class="menu-item" href="/Partners/PartnerPRO-Network/">PartnerPRO™ Network</a></li>
-										<li role="menuitem" class="cmsc-subnav-item">
-											<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a></li>
-										<li role="menuitem" class="cmsc-subnav-item">
-											<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a></li>
-										<li role="menutitle" class="menu-title">
-											<a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a></li>					 
-									</ul>
-								</div>
-							</li>
-							<li><a class="top-level" href="/Resources/">Resources</a></li>
-							<li><a class="top-level" href="/ThinkingAhead/">Thinking Ahead</a></li>
-							<li>
-								<div class="search cmsc-search-wrap hidden-phone hidden-tablet visible-desktop">
-									<p> 
-										<label class="cmsc-access" for="txtSearch2">Search</label>
-										<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch2" id="txtSearch2" value="" placeholder="Search" autocomplete="off">
-										<button type="submit" class="cmsc-trigger cmsc-btn-link" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch2()" value="Go"><b>Go</b>
-											<svg version="1.1" class="cmsc-btn-label" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve" height="14">
-												<title>Go</title>
-												<path id="search" d="M9.5,8.8L8.8,9.5L6.4,7C5.7,7.6,4.9,7.9,4,7.9c-0.5,0-1-0.1-1.5-0.3S1.7,7.1,1.3,6.7C0.9,6.4,0.7,6,0.5,5.5S0.2,4.5,0.2,4s0.1-1,0.3-1.5s0.5-0.9,0.8-1.2C1.7,1,2.1,0.7,2.5,0.5s1-0.3,1.5-0.3c0.5,0,1,0.1,1.5,0.3S6.4,1,6.7,1.3c0.4,0.4,0.6,0.8,0.8,1.2s0.3,1,0.3,1.5c0,0.9-0.3,1.7-0.8,2.4L9.5,8.8z M2,6.1C2.5,6.6,3.2,6.9,4,6.9s1.5-0.3,2.1-0.8c0.6-0.6,0.8-1.2,0.8-2c0-0.8-0.3-1.5-0.8-2.1C5.5,1.4,4.8,1.1,4,1.1C3.2,1.1,2.5,1.4,2,2C1.4,2.5,1.1,3.2,1.1,4S1.4,5.5,2,6.1z"></path>
-											</svg>
-										</button>
-									</p>
-								</div>
+                    <!-- Login and MyCommScope links -->
+                    
+                       <li class="cmsc--nav-has-submenu cmsc--hide-med"><a href="/membership/default.aspx">Login</a></li>
+                    
+                   
+                    <!-- My CommScope Mobile view -->
+                    	
 
-                                <script type="text/javascript">
+                   <!-- /Login and MyCommScope links -->
+                    
+                    <li class="cmsc--hide-med">
+                    <!--mp_global_switch_begins-->
+                        <a mporgnav="" class="user-localecmsc-trigger accordion-toggle cmsc--nobdr" href="#" onclick="return chooser();
+                        function chooser(){
+                        MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';
+                        MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');
+                        MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');
+                        MP.init();
+                        var script=document.createElement('SCRIPT');
+                        script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';
+                        document.body.appendChild(script);
+                        return false; }" title="Language -Currency"> Choose Language</a>
+                	<!--mp_global_switch_ends-->
+					</li>
+ 					<li class="cmsc--nav-search-wrap cmsc--hide-sm">
+						<div class="search cmsc-search-wrap cmsc--search-wrap">
+							<p>
+								<label class="cmsc-access" for="txtSearch2">Search</label>
+								<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="search" class="ui-autocomplete-input search-header" name="txtSearch2" id="txtSearch2" value="" placeholder="Search" autocomplete="off" onkeypress="return isEnterKey(event)">
+								<button type="submit" class="cmsc-trigger cmsc-btn-link" name="btnSearch" id="btnSearch" onclick="javascript:SubmitSearch2()" value="Go"><b>Go</b>
+									<svg version="1.1" class="cmsc-btn-label" xmlns="//www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 9.7 9.5" enable-background="new 0 0 9.7 9.5" xml:space="preserve" height="14">
+										<title>Go</title>
+										<path id="search" d="M9.5,8.8L8.8,9.5L6.4,7C5.7,7.6,4.9,7.9,4,7.9c-0.5,0-1-0.1-1.5-0.3S1.7,7.1,1.3,6.7C0.9,6.4,0.7,6,0.5,5.5S0.2,4.5,0.2,4s0.1-1,0.3-1.5s0.5-0.9,0.8-1.2C1.7,1,2.1,0.7,2.5,0.5s1-0.3,1.5-0.3c0.5,0,1,0.1,1.5,0.3S6.4,1,6.7,1.3c0.4,0.4,0.6,0.8,0.8,1.2s0.3,1,0.3,1.5c0,0.9-0.3,1.7-0.8,2.4L9.5,8.8z M2,6.1C2.5,6.6,3.2,6.9,4,6.9s1.5-0.3,2.1-0.8c0.6-0.6,0.8-1.2,0.8-2c0-0.8-0.3-1.5-0.8-2.1C5.5,1.4,4.8,1.1,4,1.1C3.2,1.1,2.5,1.4,2,2C1.4,2.5,1.1,3.2,1.1,4S1.4,5.5,2,6.1z"></path>
+									</svg>
+								</button>
+							</p>
+						</div>
+
+
+                                    <script type="text/javascript">
                                     function SubmitSearch2() {
-                                        var Searchtxt = document.getElementById("txtSearch2").value;                                     window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);                                 }
+                                        var Searchtxt = document.getElementById("txtSearch2").value; 
+                                        window.location = "/SiteSearch/?q=" + encodeURIComponent(Searchtxt);
+                                    }
 
                                     $("#txtSearch2").keyup(function (event) {
-                                        if (event.keyCode == 13) {
-                                            SubmitSearch2();                                     }
-                                    });                             </script>
+                                        if (event.keyCode == 13) { SubmitSearch2(); }
+                                    });
+                                    </script>
 
+					</li>
+	        	</ul>
+				<!-- END TOP LEVEL NAV -->
+			</div>
+
+
+
+
+            <div class="cmsc--nav-tab-wrap">
+               <!-- beginning tab wrap -->
+                <div class="cmsc--nav-tab-wrap-inner">
+                <!-- inner tab wrap. begin content -->
+
+                    
+				<!-- Solutions -->
+	                <ul id="solutions" role="menu" class="cmsc--nav-level cmsc--nav-tab cmsc--nav-tab-tabs cmsc--list-nb cmsc--anim-ease-in">
+						<li class="cmsc--hide-med"><a href="#solutions" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#cmsc-top-nav">Back to Menu</a></li>
+						<li><a href="#solutions-catv-headend" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow cmsc--nav-tab-trigger_current">CATV Headend</a></li>
+                        <li><a href="#solutions-central-office" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Central Office</a></li>
+                        <li><a href="#solutions-data-center" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Data Center</a></li>
+                        <li><a href="#solutions-indoor-wireless" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Indoor Wireless <br>Coverage</a></li>
+                        <li><a href="#solutions-intelligent-building" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Intelligent Building</a></li>
+                        <li><a href="#solutions-microwave-backhaul" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Microwave Backhaul</a></li>
+						<li><a href="#solutions-outdoor-cell" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Outdoor Cell Sites</a></li>
+                        <li><a href="#solutions-outdoor-plant" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Outside Plant</a></li>
+						<li class="cmsc--nav-tab-group-end"><a href="#solutions-residential" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Residential/MDU</a></li>
+					</ul>
+
+                    <!-- Solutions - CATV Headend -->
+					<div id="solutions-catv-headend" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-catv-headend" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-catv" href="/Solutions/CATV-Headend/">CATV Headend</a>
+								<ul id="solutions-catv" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-catv" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-catv-headend">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Solutions/Fiber-Connectivity-and-Management/">Fiber Connectivity and Management</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Hybrid-Fiber-Coaxial-Access-Solutions/">Hybrid Fiber Coax (HFC) Access</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Solutions - Central Office -->
+                    <div id="solutions-central-office" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-central-office" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-central" href="/Solutions/Central-Office-Solutions/">Central Office</a>
+								<ul id="solutions-central" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-central" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-central-office">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/Copper-Connectivity/">Copper Connectivity</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr cmsc-new" href="/Solutions/Fiber-Connectivity-Management-Central-Office/">Fiber Connectivity and Management Central Office</a></li>
+								</ul>
+							</li>
+                         </ul>
+						<div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    
+                    <!-- Solutions - Data Center -->
+                    <div id="solutions-data-center" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-data-center" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-dc" href="/Solutions/Data-Center-Solutions/">Data Center</a>
+								<ul id="solutions-dc" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-dc" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-data-center">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-Data-Center-Solutions/">New! Data Center Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Data-Center-Infrastructure-Management-(DCIM)/">Data Center Infrastructure Management</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Automated-Infrastructure-Management-for-Data-Centers/">Automated Infrastructure Management for Data Centers</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Modular-Data-Center-Solutions/">Modular Data Center Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Preterminated-Cabling-Solutions/">Pre-Terminated Cabling Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+						<div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    
+                     <!-- Solutions - Indoor Wireless Coverage -->
+                    <div id="solutions-indoor-wireless" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-indoor-wireless" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-iwc" href="/Solutions/Indoor-Wireless-Coverage/">Indoor Wireless Coverage</a>
+								<ul id="solutions-iwc" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-iwc" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-indoor-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-Indoor-Wireless-Coverage-Solutions/">New! Indoor Wireless Coverage Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/In-Building-Solutions/">In-Building</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Indoor-Small-Cells-and-C-RAN/">Indoor Small Cells and C-RAN</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Indoor-Solutions-for-Large-Venues/">Indoor Solutions for Large Venues</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Transportation-Solutions/">Transportation Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+						<div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    
+                    <!-- Solutions - Intelligent Building -->
+                    <div id="solutions-intelligent-building" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-intelligent-building" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-iwc" href="/Solutions/Intelligent-Building-Solutions/">Intelligent Building</a>
+								<ul id="solutions-ib" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-ib" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-intelligent-building">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-Intelligent-Building-Solutions/">New! Intelligent Building Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/In-Building-Wireless-Solutions/">In-Building Wireless</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Automated-Infrastructure-Management/">Automated Infrastructure Management</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Structured-Cabling-Solutions/">Structured Cabling Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Campus-Outside-Plant-Solutions/">Campus Outside Plant Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Campus-Passive-LAN-Solutions/">Campus Passive Optical LAN Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+						<div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    
+                    <!-- Solutions - Microwave Backhaul Solutions -->
+                    <div id="solutions-microwave-backhaul" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-microwave-backhaul" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-mbs" href="/Solutions/Microwave-Backhaul-Solutions/">Microwave Backhaul Solutions</a>
+								<ul id="solutions-mbs" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-mbs" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-microwave-backhaul">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Microwave-Systems-Solutions/">Microwave Systems Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Spectrum-Management-Solutions/">Spectrum Management</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Solutions - Outdoor Cell Sites -->
+                    <div id="solutions-outdoor-cell" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-outdoor-cell" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-ocs" href="/Solutions/Outdoor-Cell-Sites/">Outdoor Cell Sites</a>
+								<ul id="solutions-ocs" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-ocs" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-outdoor-cell">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Capacity-Enhancement-Solutions/">Capacity Enhancement Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Metro-Cell-Concealment-Solutions/">Metro Cell Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Network-Modernization-Solutions/">Network Modernization Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Wireless-Services-and-Solutions/">Wireless Services and Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                     <!-- Solutions - Outside Plant Solutions -->
+                    <div id="solutions-outdoor-plant" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-outdoor-plant" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-ocs" href="/Solutions/Outside-Plant-Solutions/">Outside Plant</a>
+								<ul id="solutions-ops" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-ops" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-outdoor-plant">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Business-Services-Solutions/">Business Services Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-Outdoor-DAS-Over-FTTH/">New! Outdoor DAS over FTTH</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-FTTN-Solutions/">New! FTTN Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Solutions/New-FTTH-P-Solutions/">New! FTTH/P Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Hybrid-Fiber-Coax-Access-Outside-Plant/">Hybrid Fiber Coax (HFC) Access Outside Plant</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Multi-Dwelling-Unit-Outside-Plant-Solutions/">Multi-Dwelling Units</a></li>
+								</ul>
+							</li>
+                         </ul>
+                         <div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    
+                    <!-- Solutions - Residential/MDU -->
+                    <div id="solutions-residential" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#solutions-residential" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions">Back to Solutions</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#solutions-res" href="/Solutions/Residential-MDU/">Residential and Multi-Dwelling Units</a>
+								<ul id="solutions-res" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#solutions-res" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#solutions-residential">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Intelligent-Solutions/">Intelligent Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Solutions/Signal-Integrity-Solutions/">Signal Integrity Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+            <!-- /Solutions -->
+                     
+                     
+                     
+                     
+                     
+            <!-- Industries -->
+	                <ul id="industries" role="menu" class="cmsc--nav-level cmsc--nav-tab cmsc--nav-tab-tabs cmsc--list-nb cmsc--anim-ease-in">
+						<li class="cmsc--hide-med"><a href="#industries" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#cmsc-top-nav">Back to Menu</a></li>
+						<li><a href="#industries-education" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow cmsc--nav-tab-trigger_current">Education</a></li>
+                        <li><a href="#industries-energy" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Energy</a></li>
+                        <li><a href="#industries-finance" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Finance</a></li>
+                        <li><a href="#industries-government" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Government</a></li>
+                        <li><a href="#industries-healthcare" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Healthcare</a></li>
+                        <li><a href="#industries-sports-entertainment" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Sports and <br>Entertainment</a></li>
+						<li><a href="#industries-telecommunications" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Telecommunications</a></li>
+                        <li class="cmsc--nav-tab-group-end"><a href="#industries-transportation" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Transportation</a></li>
+					</ul>
+
+                    <!-- Industries - Education -->
+					<div id="industries-education" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-education" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a href="/Industries/Education/" class="cmsc--nav-subnav-item">Education</a></li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Energy -->
+					<div id="industries-energy" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-energy" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#industries-eng" href="/Industries/Energy-Solutions/">Energy</a>
+								<ul id="industries-eng" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#industries-edu" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries-energy">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a></li>
+                                    <li><a class="cmsc--nav-subnav-item" href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a></li>
+                                    <li><a class="cmsc--nav-subnav-item" href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Finance -->
+					<div id="industries-finance" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-finance" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a href="/Industries/Finance/" class="cmsc--nav-subnav-item">Finance</a></li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Government -->
+					<div id="industries-government" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-government" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#industries-gov" href="/Industries/Government-Solutions/">Government</a>
+								<ul id="industries-gov" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+
+									<li class="cmsc--hide-med"><a href="#industries-gov" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries-government">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/">U.S. Federal Government</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Healthcare -->
+					<div id="industries-healthcare" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-healthcare" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a href="/Industries/Healthcare-Solutions/" class="cmsc--nav-subnav-item">Healthcare</a></li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Sports and Entertainment -->
+					<div id="industries-sports-entertainment" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-sports-entertainment" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#industries-sports" href="/Industries/Sports-and-Entertainment-Solutions/">Sports and Entertainment</a>
+								<ul id="industries-sports" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#industries-sports" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries-sports-entertainment">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Telecommunications -->
+					<div id="industries-telecommunications" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-telecommunications" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#industries-telecom" href="/Industries/Telecommunications/">Telecommunications</a>
+								<ul id="industries-telecom" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#industries-telecom" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries-telecommunications">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+                    
+                    <!-- Industries - Transportation -->
+					<div id="industries-transportation" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- column 1 -->
+                        <ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#industries-transportation" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries">Back to Industries</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#industries-tran" href="/Industries/Transportation-Solutions/">Transportation</a>
+								<ul id="industries-tran" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#industries-tran" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#industries-transportation">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Transportation-Solutions/Airport-Solutions/">Airports</a></li>
+                                    <li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a></li>
+								</ul>
+							</li>
+                         </ul>
+					</div>
+
+                     <!-- /Industries -->
+                     
+
+                    
+				<!-- Products -->
+	                <ul id="products" role="menu" class="cmsc--nav-level cmsc--nav-tab cmsc--nav-tab-tabs cmsc--list-nb cmsc--anim-ease-in">
+						<li class="cmsc--hide-med"><a href="#products" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#cmsc-top-nav">Back to Menu</a></li>
+						<li class="cmsc--nav-tab-heading">By Product Type</li>
+						<li><a href="#products-broadband" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-tab-trigger_current cmsc--nav-arrow">Broadband</a></li>
+						<li><a href="#products-enterprise" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Enterprise</a></li>
+						<li><a href="#products-wireless" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow">Wireless</a></li>
+						<li class="cmsc--nav-tab-group-end"><a href="#products-new" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-arrow cmsc-new">New to CommScope</a></li>
+                        
+
+						<li class="cmsc--nav-tab-group-end">
+							<a href="#products-brands" class="cmsc--nav-trigger cmsc--nav-tab-trigger cmsc--nav-tab-trigger_current cmsc--nav-arrow">Brands and Systems</a></li>
+					</ul>
+                    
+                    
+					<div id="products-broadband" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+                    	<!-- Products Broadband column 1 -->
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#products-broadband" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products">Back to Products</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" href="/Product-Catalog/Broadband/Product/Cables/" data-cmsc-target="#products-broadband-cables">Cables</a>
+								<ul id="products-broadband-cables" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-cables" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/Cables/Coaxial/">Coaxial</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/Cables/Fiber/">Fiber</a></li>
+								</ul>
+							</li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" href="/Product-Catalog/Broadband/Product/Conduit/" data-cmsc-target="#products-broadband-conduit">Conduit</a>
+								<ul id="products-broadband-conduit" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-conduit" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/Conduit/Empty-Conduit/">Empty Conduit</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/Conduit/Cable-In-Conduit/">Cable-In-Conduit</a></li>
+								</ul>
+							</li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-broadband-e2o" href="/Product-Catalog/Broadband/Product/E2O--(Electrical-to-Optical)/">E<sub>2</sub>O<sup>®</sup> (Electrical to Optical)</a>
+								<ul id="products-broadband-e2o" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-e2o" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/E2O-(Electrical-to-Optical)/MicroConduit-Solutions/">MicroConduit Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/E2O-(Electrical-to-Optical)/Cable-Solutions/">Cable Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/E2O-(Electrical-to-Optical)/Cable-In-Conduit-Solutions/">Cable-In-Conduit Solutions</a></li>
+								</ul>
 							</li>
 						</ul>
+                        <!-- Products Broadband column 2 -->
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nav-bdr" data-cmsc-target="#products-broadband-rfc" href="/Product-Catalog/Broadband/Product/RF-Connectivity/">RF Connectivity</a>
+								<ul id="products-broadband-rfc" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-rfc" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Drop-Passives/">Drop Passives</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Subscriber-Amplifiers-and-Components/">Subscriber Amplifiers and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Interconnect-Products/">Interconnect Products</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Grounding-Blocks/">Grounding Blocks</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Terminators-and-Hand-Tools/">Terminators and Hand Tools</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/RF-Connectivity/Additional-Components/">Additional Components</a></li>
+								</ul>
+							</li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nav-bdr" href="/Product-Catalog/Broadband/Product/Converged-Access-Products-and-Wideband-Edge-QAM/" data-cmsc-target="#products-broadband-capweqam">Converged Access Products and Wideband Edge QAM</a>
+
+								<ul id="products-broadband-capweqam" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-capweqam" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/broadband/product.aspx?id=60">Solutions</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/Converged-Access-Products-and-Wideband-Edge-QAM/System-Components/">System Components</a></li>
+								</ul>
+							</li>
+						</ul>
+                        <!-- Products Broadband column 3 -->
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-broadband-fttx" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/">FTTx and Optical Access Products</a>
+								<ul id="products-broadband-fttx" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-fttx" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/Outside-Plant-Optical-Devices-and-Enclosures/">Outside Plant Optical Devices and Enclosures</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/Radio-Frequency-Over-Glass-(RFoG)/">Radio Frequency Over Glass (RFoG)</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/Ethernet-Passive-Optical-Networks-(EPON)/">Ethernet Passive Optical Networks (EPON)</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/Gigabit-Passive-Optical-Networks-(GPON)/">Gigabit Passive Optical Networks (GPON)</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/FTTx-and-Optical-Access-Products/PON-System-Components/">PON System Components</a></li>
+								</ul>
+							</li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nobdr" data-cmsc-target="#products-broadband-grounding" href="/Product-Catalog/Broadband/Product/Grounding-Products/">Grounding Products</a>
+								<ul id="products-broadband-grounding" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-broadband-grounding" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-broadband">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/Grounding-Products/Polycoated-Wire/">Polycoated Wire</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Product/Grounding-Products/Solid--Wire/">Solid  Wire</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Broadband/Product/Grounding-Products/Stranded-Wire/">Stranded Wire</a></li>
+								</ul>
+							</li>
+						</ul><!-- /Products Broadband column 3 -->
+						<div class="cmsc--nav-legend cmsc-new">
+						    - Innovation acquired from TE Connectivity
+						</div>
+					</div>
+					<!-- END PRODUCTS-BROADBAND  -->
+                    
+                    
+                   <!-- BEGIN PRODUCTS-ENTERPRISE --> 
+					<div id="products-enterprise" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#products-enterprise" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products">Back to Products</a></li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" href="/Product-Catalog/Enterprise/Product/Copper/" data-cmsc-target="#products-enterprise-copper">Copper</a>
+								<ul id="products-enterprise-copper" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-copper" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Copper/Cables/">Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Copper/Terminated-Cables/">Terminated Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Copper/Panels-and-Components/">Panels and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Copper/Information-Outlets-and-Components/">Information Outlets and Components</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" href="/Product-Catalog/Enterprise/Product/Fiber/" data-cmsc-target="#products-enterprise-fiber">Fiber</a>
+								<ul id="products-enterprise-fiber" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-fiber" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Cables/">Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Terminated-Cables/">Terminated Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Shelves-and-Components/">Shelves and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Connectors/">Connectors</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Adapters/">Adapters</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Fiber/Distribution-Enclosures-and-Outside-Plant-Closures/">Distribution Enclosures and Outside Plant Closures</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Fiber/Tools,-Consumables,-and-Accessories/">Tools, Consumables, and Accessories</a></li>
+								</ul>
+							</li>
+						</ul>
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a data-cmsc-target="#products-enterprise-infra" class="cmsc--nav-trigger cmsc--nav-arrow" href="/Product-Catalog/Enterprise/Product/Infrastructure-Management/">Infrastructure Management</a>
+								<ul id="products-enterprise-infra" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-infra" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Infrastructure-Management/Controllers/">Controllers</a></li>
+									
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Infrastructure-Management/Software/">Software</a></li>
+									
+								</ul>
+
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-enterprise-enclosures" href="/Product-Catalog/Enterprise/Product/Racks-and-Components/">Racks and Components</a>
+								<ul id="products-enterprise-enclosures" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-enclosures" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Racks-and-Components/Racks/">Racks</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Racks-and-Components/Accessories/">Accessories</a></li>
+								</ul>
+
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nav-arrow" data-cmsc-target="#products-enterprise-cablemgmt" href="/Product-Catalog/Enterprise/Product/Cable-Management-and-Routing/">Cable Management and Routing</a>
+								<ul id="products-enterprise-cablemgmt" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-cablemgmt" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Cable-Management-and-Routing/Horizontal-and-Vertical-Cable-Management/">Horizontal and Vertical Cable Management</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Cable-Management-and-Routing/Cable-Runway/">Cable Runway</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Cable-Management-and-Routing/Fiber-Raceway/">Fiber Raceway</a></li>
+								</ul>
+							</li>
+						</ul>
+
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-enterprise-workstation" href="/Product-Catalog/Enterprise/Product/Workstation-Platforms-and-Accessories/">Workstation Platforms and Accessories</a>
+								<ul id="products-enterprise-workstation" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-workstation" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Workstation-Platforms-and-Accessories/Faceplates-and-Wall-Switches/">Faceplates and Wall Switches</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Workstation-Platforms-and-Accessories/Surface-Mount-Boxes-and-Zone-Boxes/">Surface Mount Boxes and Zone Boxes</a>		</li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Workstation-Platforms-and-Accessories/Accessories/">Accessories</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Workstation-Platforms-and-Accessories/Multimedia-Connectors/">Multimedia Connectors</a></li>
+								</ul>
+							</li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-enterprise-pol" href="/Product-Catalog/Enterprise/Product/Passive-Optical-LAN-(POL)/">Passive Optical LAN (POL)</a>
+								<ul id="products-enterprise-pol" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-pol" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Passive-Optical-LAN-(POL)/Ethernet-Passive-Optical-Networks-(EPON)/">Ethernet Passive Optical Networks (EPON)</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Passive-Optical-LAN-(POL)/Gigabit-Passive-Optical-Networks-(GPON)/">Gigabit Passive Optical Networks (GPON)</a>		</li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Product/Passive-Optical-LAN-(POL)/PON-System-Components/">PON System Components</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Passive-Optical-LAN-(POL)/Passive-Equipment/">Passive Equipment</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nobdr" data-cmsc-target="#products-enterprise-modular" href="/Product-Catalog/Enterprise/Product/Modular-Data-Centers/">Modular Data Centers</a>
+								<ul id="products-enterprise-modular" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-enterprise-modular" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-enterprise">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Product/Modular-Data-Centers/Solutions/">Solutions</a></li>
+								</ul>
+							</li>
+						</ul>
+						<div class="cmsc--nav-legend cmsc-new">
+							- Innovation acquired from TE Connectivity
+						</div>
+					</div><!-- END PRODUCTS-ENTERPRISE -->
 					
-				</div><!--/.container -->
-			</div>
+                    
+                    
+                    
+                    <!-- BEGIN PRODUCTS-WIRELESS -->
+					<div id="products-wireless" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med">
+								<a href="#products-wireless" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products">Back to Products</a>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-transmission" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/">Transmission Line Systems</a>
+								<ul id="products-wireless-transmission" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-transmission" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/Connectors-and-Components/">Connectors and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/Cable-Assemblies/">Cable Assemblies</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/Pressurization/">Pressurization</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/Surge-Arrestors-and-Components/">Surge Arrestors and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/Transmission-Line-Systems/Transmission-Lines/">Transmission Lines</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-ftta" href="/Product-Catalog/Wireless/Product/Fiber-to-the-Antenna-(FTTA)/">Fiber to the Antenna (FTTA)</a>
+								<ul id="products-wireless-ftta" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-ftta" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Fiber-to-the-Antenna-(FTTA)/Cabling/">Cabling</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/wireless/product.aspx?id=184">Enclosures</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/wireless/product.aspx?id=185">Shelves</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/catalog/wireless/product.aspx?id=187">Additional Components</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-tools" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/">Tools and Accessories</a>
+								<ul id="products-wireless-tools" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-tools" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/Attachment/">Attachment</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/Cable-Entry/">Cable Entry</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/Grounding/">Grounding</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/Installation-Aids/">Installation Aids</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/Tools-and-Accessories/Weatherproofing/">Weatherproofing</a></li>
+								</ul>
+							</li>
+						</ul><!-- /Products - Wireless column 1 -->
+                        
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-antennas" href="/Product-Catalog/Wireless/Product/Antenna-Systems/">Antenna Systems</a>
+								<ul id="products-wireless-antennas" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-antennas" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Antenna-Systems/Base-Station/">Base Station</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Antenna-Systems/Distributed-Antenna-Systems-(DAS)/">Distributed Antenna Systems (DAS)</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/Antenna-Systems/Point-to-Point-Microwave/">Point-to-Point Microwave</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-structural" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/">Structural Support Products</a>
+								<ul id="products-wireless-structural" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-structural" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Tower-Applications/">Tower Applications</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Monopole-Applications/">Monopole Applications</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Rooftop-Applications/">Rooftop Applications</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Water-Tower-Applications/">Water Tower Applications</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Waveguide-Bridge-Applications/">Waveguide Bridge Applications</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Site-Related-Components/">Site-Related Components</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/Structural-Support-Products/Monopole-Structures-and-Components/">Monopole Structures and Components</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-test" href="/Product-Catalog/Wireless/Product/Test-and-Measurement-Products/">Test and Measurement Products</a>
+								<ul id="products-wireless-test" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-test" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/wireless/product.aspx?id=201">Site Testing Equipment</a></li>
+									
+								</ul>
+							</li>
+						</ul><!-- /Products - Wireless column 2 -->
+                        
+                        
+						<!-- Products - Wireless column 3 -->
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-wireless-rf" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/">RF Conditioning Products</a>
+								<ul id="products-wireless-rf" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-rf" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Tower-Mounted-Amplifier-Products/">Tower Mounted Amplifier Products</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Multiband-Combiner-Products/">Multiband Combiner Products</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Same-Band-Combiner-Products/">Same Band Combiner Products</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Filter-Products/">Filter Products</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Point-of-Interface-Products/">Point of Interface Products</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/RF-Conditioning-Products/Additional-Components/">Additional Components</a>						</li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc--nobdr" data-cmsc-target="#products-wireless-distributed" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/">Distributed Coverage and Capacity</a>
+								<ul id="products-wireless-distributed" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-wireless-distributed" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-wireless">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Unified-Wireless-Infrastructure/">Unified Wireless Infrastructure</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Fiber-Distributed-Antenna-Systems-(DAS)/">Fiber Distributed Antenna Systems (DAS)</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Small-Cells/">Small Cells</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/RF-Repeater-Systems/">RF Repeater Systems</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Network-Management-Systems/">Network Management Systems</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Passive-Devices/">Passive Devices</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Wireless/Product/Distributed-Coverage-and-Capacity/Engineering-and-Project-Management-Services/">Engineering and Project Management Services</a></li>
+								</ul>
+							</li>
+						</ul><!-- /Products - Wireless column 3 -->
+						<div class="cmsc--nav-legend cmsc-new">
+							- Innovation acquired from TE Connectivity
+						</div>
+					</div>
+                    <!-- /PRODUCTS-WIRELESS -->
+
+
+                    <!-- BEGIN PRODUCTS - New to CommScope -->
+					<div id="products-new" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med">
+								<a href="#products-new" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products">Back to Products</a>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-indoor" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/">Indoor Networks</a>
+								<ul id="products-new-indoor" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-indoor" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Active-Optics-and-Optical-Devices/">Active Optics and Optical Devices</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Cable-Assemblies/">Cable Assemblies</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Cable-Management/">Cable Management</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Coarse-and-Dense-Wavelength-Division-Multiplexers-(CWDM-and-DWDM)-and-Optical-Splitters/">Coarse and Dense Wavelength Division Multiplexers (CWDM and DWDM) and Optical Splitters</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Frames,-Racks,-and-Components/">Frames, Racks, and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Modular-Jacks-and-Plugs,-Connectors,-and-Components/">Modular Jacks and Plugs, Connectors, and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Multi-Dwelling-Units/">Multi-Dwelling Units</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Networking-Electronics/">Networking Electronics</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Panels-and-Components/">Panels and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Power-Distribution/">Power Distribution</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Wire-and-Cabling/">Wire and Cabling</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/New-to-CommScope/Product/Indoor-Networks/Workstation-Platforms-and-Accessories/">Workstation Platforms and Accessories</a></li>
+								</ul>
+							</li>
+						</ul>
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-outdoor" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/">Outdoor Networks</a>
+								<ul id="products-new-outdoor" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-outdoor" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Access-Terminals/">Access Terminals</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Cable-Assemblies/">Cable Assemblies</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Cable-Duct-Sealing/">Cable Duct Sealing</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Coarse-and-Dense-Wavelength-Division-Multiplexers-(CWDM-and-DWDM)-and-Optical-Splitters/">Coarse and Dense Wavelength Division Multiplexers (CWDM and DWDM) and Optical Splitters</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Distribution-Cabinets-and-Components/">Distribution Cabinets and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Multi-Dwelling-Units/">Multi-Dwelling Units</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Splice-Closures-and-Components/">Splice Closures and Components</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/New-to-CommScope/Product/Outdoor-Networks/Wire-and-Cabling/">Wire and Cabling</a></li>
+								</ul>
+							</li>
+                            
+                            <li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-PFCS" href="/Product-Catalog/New-to-CommScope/Product/Powered-Fiber-Cable-Systems/">Powered Fiber Cable Systems </a>
+								<ul id="products-new-PFCS" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-tools" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/bns/product.aspx?id=69">Hybrid Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/catalog/bns/product.aspx?id=77">Power over Ethernet (PoE) Extenders</a></li>
+								</ul>
+							</li>
+
+						</ul>
+                        
+                        
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-tools" href="/Product-Catalog/New-to-CommScope/Product/Tools-and-Accessories/">Tools and Accessories</a>
+								<ul id="products-new-tools" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-tools" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Tools-and-Accessories/Fiber-Tools,-Consumables,-and-Accessories/">Fiber Tools, Consumables, and Accessories</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Tools-and-Accessories/Copper-Tools,-Consumables,-and-Accessories/">Copper Tools, Consumables, and Accessories</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/New-to-CommScope/Product/Tools-and-Accessories/Universal-Tools,-Consumables,-and-Accessories/">Universal Tools, Consumables, and Accessories</a></li>
+								</ul>
+							</li>
+                            
+                            <li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-connectivity" href="/Product-Catalog/New-to-CommScope/Product/Managed-Connectivity/">Managed Connectivity</a>
+								<ul id="products-new-connectivity" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-connectivity" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Managed-Connectivity/Analyzers-and-Controllers/">Analyzers and Controllers</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Managed-Connectivity/Cable-Assemblies/">Cable Assemblies</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Managed-Connectivity/Frames/">Frames</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/New-to-CommScope/Product/Managed-Connectivity/Panels/">Panels</a></li>
+								</ul>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow cmsc-new" data-cmsc-target="#products-new-broadcast" href="/Product-Catalog/New-to-CommScope/Product/Broadcast-and-Entertainment-Networks/">Broadcast and Entertainment Networks</a>
+								<ul id="products-new-broadcast" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#products-new-broadcast" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-new">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Broadcast-and-Entertainment-Networks/Audio-Panels/">Audio Panels</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Broadcast-and-Entertainment-Networks/Connectors/">Connectors</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/New-to-CommScope/Product/Broadcast-and-Entertainment-Networks/RF-Cable-Assemblies/">RF Cable Assemblies</a></li>
+
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/New-to-CommScope/Product/Broadcast-and-Entertainment-Networks/Video-Panels/">Video Panels</a></li>
+								</ul>
+							</li>
+						</ul>
+						<div class="cmsc--nav-legend cmsc-new">
+							- Innovation acquired from TE Connectivity
+						</div>
+					</div>
+
+                    
+                    
+                    <!-- Begin Brands and Systems -->
+					<div id="products-brands" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column cmsc--nav-column-full">
+							<li class="cmsc--hide-med">
+								<a href="#products-brands" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products">Back to Products</a>
+							</li>
+							<li>
+								<a class="cmsc--nav-trigger cmsc--nav-arrow" data-cmsc-target="#products-brands-top" href="#">Top Brands and Systems</a>
+								<ul id="products-brands-top" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level cmsc-cols-3">
+									<li class="cmsc--hide-med"><a href="#products-brands-top" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#products-brands">Back to Category</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/AMP-COTM/">AMP CO™</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/Base-Station-Antennas/Argus-/">Argus<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/CPRI/">CPRI</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/DLX-/">DLX<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/FiberGuide-/">FiberGuide<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/FISTTM/">FIST™</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/FlexWave--Prism/">FlexWave<sup>®</sup> Prism</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/FlexWave--Spectrum/">FlexWave<sup>®</sup> Spectrum</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Brand/SYSTIMAX--Copper-Solutions/GigaSPEED-X10D-/">GigaSPEED X10D<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Brand/SYSTIMAX--Copper-Solutions/GigaSPEED-XL-/">GigaSPEED XL<sup>®</sup></a></li>
+                                    
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/Fiber-to-the-Antenna-(FTTA)/HELIAX--FiberFeed-/">HELIAX<sup>®</sup> FiberFeed<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Brand/HomeConnect-/">HomeConnect<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Brand/SYSTIMAX--Intelligent-Solutions/imVision--iPatch-/">imVision<sup>®</sup>-iPatch<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/InterReach-Fusion-/">InterReach Fusion<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/Distributed-Coverage-and-Capacity/ION-/">ION<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/Distributed-Coverage-and-Capacity/i-POI-/">i-POI<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Brand/Data-Center-Infrastructure-Management-(DCIM)/iTRACS--DCIM/">iTRACS® DCIM</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Enterprise/Brand/Fiber-Solutions/LazrSPEED-/">LazrSPEED<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Brand/LightScope-ZWP-/">LightScope ZWP<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Brand/MC2--Cables/">MC<sup>2</sup><sup>®</sup> Cables</a></li>
+                                    
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/MPOptimate-/">MPOptimate<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/Next-Generation-Frame-(NGF)/">Next Generation Frame (NGF)</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/NG4access-/">NG4access<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Broadband/Brand/P3--Cables/">P3<sup>®</sup> Cables</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/Passive-Optical-LAN-PON/">Passive Optical LAN/PON</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc-new" href="/Product-Catalog/New-to-CommScope/Brand/Quareo-/">Quareo<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/RADIAX-/">RADIAX<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Product-Catalog/Wireless/Brand/Microwave-Systems/Sentinel-/">Sentinel<sup>®</sup></a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Product-Catalog/Enterprise/Brand/SYSTIMAX--Patching-Solutions/VisiPatch-360-/">VisiPatch 360<sup>®</sup></a></li>
+								</ul>
+							</li>
+						</ul>
+						<p class="cmsc--nav-view-all">
+							<a href="/Product-Catalog/Brands-and-Systems/">View all Brands and Systems</a>
+						</p>
+						<p class="cmsc--nav-legend cmsc-new">
+							- Innovation acquired from TE Connectivity
+						</p>
+					</div><!-- /Brands and Systems -->
+                     
+                    
+
+                    
+				<!-- Partners -->
+                	<div id="partners" class="cmsc--nav-level cmsc--nav-tab-panel cmsc--anim-ease-in">
+						<ul role="menu" class="cmsc--list-nb cmsc--nav-column">
+							<li class="cmsc--hide-med"><a href="#partners" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#cmsc-top-nav">Back to Menu</a></li>
+							<li><a class="cmsc--nav-trigger cmsc--nav-arrow" href="/Partners/PartnerPRO-Network/" data-cmsc-target="#partners-network">PartnerPRO™ Network</a>
+								<ul id="partners-network" role="menu" class="cmsc--nav-level cmsc--list-nb cmsc--anim-ease-in cmsc--nav-sub-sub-level">
+									<li class="cmsc--hide-med"><a href="#partners-network" class="cmsc--nav-trigger cmsc--nav-back" data-cmsc-back="#partners">Back to Partners</a></li>
+									<li><a class="cmsc--nav-subnav-item" href="/Partners/PartnerPRO™-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a></li>
+									<li><a class="cmsc--nav-subnav-item cmsc--nobdr" href="/Partners/PartnerPRO™-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a></li>
+								</ul>
+							</li>
+							<li class="cmsc--nav-subnav-single"><a href="/Partners/Partner-Locator/">Partner Locator</a>
+							</li>
+						</ul>
+					</div>
+                    
+
+                    
+                </div><!-- end inner tab wrap. end menu content -->
+               <!-- end tab wrap -->
+            </div>
 		</nav>
 		<!--/.navigation -->
 	</header>
- 
-	<!-- ~~~ mobile only navigation ~~~ -->
-	<nav id="mobile-navigation">
-		<ul>
-			<li>
-				<a id="solutions-drop" class="accordion-toggle collapsed" data-toggle="collapse" href="#solutions-submenu">
-					Solutions
-					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
-				</a>
 
-				<!-- Dropdown Menu -->
-				<ul class="collapse" role="menu" aria-labelledby="solutions-drop" id="solutions-submenu">
-					<li role="menuitem">
-						<a data-toggle="collapse" href="#cmsc-broadband-submenu" class="collapsed">Broadband
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-broadband-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Broadband-Solutions/CATV-Headend/">CATV Headend</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Broadband-Solutions/Outside-Plant/">Outside Plant</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Broadband-Solutions/Residential-Solutions/">Residential</a></li>
-						</ul>
-					</li>
-					<li class="menu-title" role="menutitle">
-						<a data-toggle="collapse" href="#cmsc-enterprise-submenu" class="collapsed">Enterprise
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-enterprise-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Data-Center-Solutions/">Data Center</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Intelligent-Building-Solutions/">Intelligent Building</a></li>				
-						</ul>
-					</li>
-					<li class="menu-title" role="menutitle">
-						<a data-toggle="collapse" href="#cmsc-wireless-submenu" class="collapsed">Wireless
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-wireless-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Wireless-Solutions/Backhaul-Solutions/">Backhaul</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Wireless-Solutions/Indoor-Coverage-and-Capacity-Solutions/">Indoor Coverage and Capacity Sites </a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Solutions/Wireless-Solutions/Outdoor-Sites/">Outdoor Sites</a></li>				
-						</ul>		
-					</li>		
-				</ul>
-			</li>
-			<li>
-				<a id="industries-drop" class="accordion-toggle collapsed" href="#industries-submenu" data-toggle="collapse">Industries  
-					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
-				</a>
+	<!-- ============================= SITE HEADER : END ================================== -->
 
-				<!-- Dropdown Menu -->
-				<ul class="collapse cmsc-submenu" role="menu" id="industries-submenu">
-					<li class="menu-title" role="menutitle">
-						<a href="/Industries/Education/">Education</a>
-					</li>
 
-					<li class="menu-title" role="menutitle">
-						<a data-toggle="collapse" href="#cmsc-energy-submenu" class="collapsed">Energy
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-energy-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Energy-Solutions/Electrical-Utility-Solutions/">Electric Utilities</a>
-							</li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Energy-Solutions/Mobile-Operators/">Mobile Operators</a>
-							</li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Energy-Solutions/Oil,-Gas-and-Petroleum-Solutions/">Oil, Petroleum and Gas</a>
-							</li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Energy-Solutions/Wind-Farm-Solutions/">Wind Farms</a>
-							</li>
-						</ul>
-					</li>
-
-					<li class="menu-title" role="menutitle">
-						 <a href="/Industries/Finance/">Finance</a>
-					</li>
-
-					<li class="menu-title" role="menutitle">
-						<a data-toggle="collapse" href="#cmsc-government-submenu" class="collapsed">Government
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-government-submenu">
-							<li class="menuitem cmsc-subnav-item">
-								<a href="/Industries/Government-Solutions/U-S--Federal-Government-Solutions/" class="cmsc-subnav-item">US Federal Government</a>
-							</li>
-						</ul>	
-					</li>	 
-					
-					<li class="menu-title" role="menutitle">
-						<a href="/Industries/Healthcare-Solutions/">Healthcare</a>
-					</li>
-					
-					<li class="menu-title" role="menutitle">
-						<a href="#cmsc-sportsent-submenu" data-toggle="collapse" class="collapsed">Sports and Entertainment
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-sportsent-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Sports-and-Entertainment-Solutions/Sports-and-Entertainment-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>  
-						</ul>
-					</li>
-
-					<li class="menu-title" role="menutitle">
-						<a data-toggle="collapse" href="#cmsc-telecomms-submenu" class="collapsed">Telecommunications
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-telecomms-submenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Telecommunications/Mobile-Operator-Solutions/">Mobile Operators</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Telecommunications/Multi-Tenant-Data-Center-Solutions/">Multi-Tenant Data Centers</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Telecommunications/Wireline-Operator-Solutions/">Wireline Operators</a>
-							</li>
-						</ul>
-					</li> 
-					
-					<li role="menutitle">
-						<a href="#cmsc-transpo-submenu" data-toggle="collapse" class="collapsed">Transportation
-							<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-						</a>
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-transpo-submenu">
-							<li role="menuitem" class="cmsc-subnav-item" href="#cmsc-transpo-submenu">
-								<a class="cmsc-subsubmenu-trigger collapsed" href="#cmsc-transpo-subsubmenu" data-toggle="collapse">Airports
-									<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-								</a>
-								<ul class="collapse cmsc-subsubmenu" id="cmsc-transpo-subsubmenu">
-									<li role="menuitem">
-										<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Enterprise-Solutions/">Enterprise Solutions</a></li>
-									<li role="menuitem">
-										<a href="/Industries/Transportation-Solutions/Airport-Solutions/Airports-%E2%80%94-Wireless-Solutions/">Wireless Solutions</a></li>
-								</ul>
-							</li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a href="/Industries/Transportation-Solutions/Railway-Solutions/">Railways</a>
-							</li>				
-						</ul>			
-					</li>		
-				</ul>
-			</li>
-			<li>
-				<a href="#cmsc-products-submenu" data-toggle="collapse" class="accordion-toggle collapsed">Products
-					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>
-				</a>
-
-				<!-- Dropdown Menu -->
-				<ul class="collapse cmsc-submenu" role="menu" id="cmsc-products-submenu">
-					<li role="menutitle">
-						<a class="menu-item" href="/Product-Catalog/Broadband">Broadband</a></li>
-					<li role="menutitle">
-						<a class="menu-item" href="/Product-Catalog/Enterprise">Enterprise</a></li>
-					<li role="menutitle">
-						<a class="menu-item" href="/Product-Catalog/Wireless">Wireless</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="#cmsc-partners-submenu" data-toggle="collapse" class="accordion-toggle collapsed">Partners 
-					<b class="cmsc-open-indicator"><svg version="1.1" class="rightchevron" xmlns="//www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 9.4" enable-background="new 0 0 6.5 9.4" xml:space="preserve"><path d="M1.7,9.4L1,8.7l3.5-3.5L1,1.6L1.7,1l4.2,4.2L1.7,9.4z" stroke="#00aeef"></path></svg></b>		 
-				</a>
-
-				<!-- Dropdown Menu -->
-				<ul class="collapse cmsc-submenu" role="menu" id="cmsc-partners-submenu">
-					<li role="menutitle" class="menu-title">
-						<a class="menu-item" href="#cmsc-partners-subsubmenu" data-toggle="collapse">PartnerPRO™ Network</a>			
-						
-						<ul class="collapse cmsc-submenu" role="menu" id="cmsc-partners-subsubmenu">
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Customers/Networks-can-complicate-your-business/">For Our Customers</a></li>
-							<li role="menuitem" class="cmsc-subnav-item">
-								<a class="menu-item" href="/Partners/PartnerPRO%E2%84%A2-Network/For-Our-Partners/Your-customers-count-on-you/">For Our Partners</a></li>
-						</ul>
-					</li>
-					<li role="menutitle" class="menu-title">
-						<a class="menu-item" href="/Partners/Partner-Locator/">Partner Locator</a>
-					</li>					 
-				</ul>
-			</li>
-			<li><a class="accordion-toggle" href="/Resources/">Resources</a></li>
-			<li><a class="accordion-toggle" href="/ThinkingAhead/">Thinking Ahead</a></li>
-            
-            
-            <li style="border-top: 1px solid #222;border-bottom: 1px solid #222;">
-				<a href="#cmsc-MyCommScope-submenu" data-toggle="collapse" class="accordion-toggle collapsed"><!--MyCommScope-->
-                
-                  		</a><a href="/membership/default.aspx" class="login accordion-toggle collapsed">Login</a>
-                  		  
-			</li>
-            
-            <li>
-            <!--<a class="accordion-toggle" href="/Resources/">Resources</a>-->
-            <!--mp_global_switch_begins-->
-                <a mporgnav="" class="user-localecmsc-trigger accordion-toggle" href="#" onclick="return chooser();             function chooser(){
-                MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';             MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');             MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');             MP.init();             var script=document.createElement('SCRIPT');             script.src='https://commscope.mpeasylink.com/mpel/mpel_chooser.js';             document.body.appendChild(script);             return false;             }" title="Language -Currency"> Choose Language</a>
-            <!--mp_global_switch_ends-->
-            </li>
-            
-		</ul>
-
-	</nav>
-<!-- ============================= SITE HEADER : END ================================== -->
 
 
 
@@ -699,7 +1166,7 @@ function TrackEventByFileExtension(FileExtension)
 
 
 
-   <!-- Main navigation bar - deleted content in cms of mainnav file because it wouldn't validate in Ektron -->
+<!-- Main navigation bar - deleted content in cms of mainnav file because it wouldn't validate in Ektron -->
 
 
 
@@ -797,10 +1264,10 @@ function TrackEventByFileExtension(FileExtension)
     <div class="span10">
         <h3><a href="/NewsCenter/PressReleases">Press Release</a></h3>
         <div class="date x-small">
-            December 09, 2015
+            June 15, 2016
         </div>
         <div class="small">
-            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-Extends-Next-Generation-Fiber-Frame-Portfolio/">CommScope Extends Next Generation Fiber Frame Portfolio</a>
+            <a id="ctl00_phBody_LatestPressRelease_lnkPressRelease" href="/NewsCenter/PressReleases/CommScope-to-Participate-in-the-Wells-Fargo-2016-Convergence-and-Connectivity-Symposium-June-15-2016/">CommScope to Participate in the Wells Fargo 2016 Convergence &amp; Connectivity Symposium</a>
         </div>
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -812,8 +1279,8 @@ function TrackEventByFileExtension(FileExtension)
 
     <div class="span10">
         <h3><a href="/Blog">CommScope Blog</a></h3>
-        <div class="date x-small">Dec 9, 2015</div>
-        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/The-Future-of-Microwave-Backhaul/">The Future of Microwave Backhaul</a></div>
+        <div class="date x-small">Jun 24, 2016</div>
+        <div class="small"><a id="ctl00_phBody_LatestBlog_lnkBlog" href="/Blog/Sharing-an-antenna-doesnt-mean-giving-up-control/">Sharing an antenna doesn’t mean giving up control</a></div>
 
     </div><!-- /span10 -->
 </div><!-- / row-fluid --> 
@@ -849,7 +1316,7 @@ function TrackEventByFileExtension(FileExtension)
 
         <div class="span10">
             <h3>Related Video</h3>
-            <iframe width="200" height="113" src="https://www.youtube.com/embed/3c1XKMzn1R0" frameborder="0" allowfullscreen=""></iframe><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=3c1XKMzn1R0">Fiber Optic Cable Trends from Daniel Daems</a>
+            <iframe width="200" height="113" src="https://www.youtube.com/embed/RoTL1wn2uxw?wmode=opaque" frameborder="0" allowfullscreen=""></iframe><a id="ctl00_phBody_FeaturedVideoEmbed_lnkVideo" href="https://www.youtube.com/watch?v=RoTL1wn2uxw">LMG using CommScope imVision for Managed Services</a>
         </div>
         <!-- /span10 -->
 
@@ -880,30 +1347,14 @@ function TrackEventByFileExtension(FileExtension)
 			  <path fill="#231F20" d="M35.3 65.9c-15.2 0-26.8-13.1-26.8-28.5 0-15.5 11.7-28.7 27-28.7 6.4 0 13.1 2.4 18 6.9L57.8 9C51.8 2.8 43.9.7 36.3.7 16.2.7 0 16.9 0 37.7 0 58 16.1 74.5 35.6 73.9c6.8-.2 15.5-2.4 22.2-8.5l-4.3-6.7c-5.1 4.6-11.5 7.2-18.2 7.2zM91.5.7C71.9.7 55.7 17.2 55.7 37.3c0 20.9 16 36.6 35.8 36.6 19.7 0 35.8-15.7 35.8-36.6C127.3 17.2 111 .7 91.5.7zm0 65c-14.8 0-27.2-12.4-27.2-28.4 0-15.5 11.2-28.4 27.2-28.4s27.2 12.9 27.2 28.4c0 16-12.4 28.4-27.2 28.4zm217.3-34.8l-4.9-2c-4.3-1.7-9.5-4.6-9.5-10.1 0-6.1 6-10 11.4-10 6 0 9.7 4.1 9.9 8.7h7.8c-1.2-12.3-10-17-17.6-17-10.3 0-20.1 6.8-20.1 18.2 0 9.8 7.1 14.3 14.8 17.8l4.7 2c5.9 2.5 11.8 5.8 11.8 13.3 0 7.4-5.3 13.7-12.6 13.7s-13.3-5.6-13.2-13.3l-8.6.2c1 13.4 10 21.3 21.1 21.3 12.2 0 21.8-9.1 21.8-21.9.1-11.5-7.1-17-16.8-20.9zM471.4 2.2h-9.8v70.2h8.5V43h4.9c13 0 23.9-5.7 23.9-20.5.1-12.8-6.5-20.3-27.5-20.3zm1.5 33h-2.7V10h2.3c8.4 0 18.5 1.3 18.5 12.3 0 11.2-9.4 12.9-18.1 12.9zM505 72.4h36.7v-8h-28.1V37.9h27.3v-8h-27.3V10.2h28.1v-8H505v70.2zM364.6 8.7c6.4 0 13.1 2.4 18 6.9l4.3-6.6c-6-6.2-13.9-8.3-21.5-8.3-20.1 0-36.3 16.2-36.3 37 0 20.3 16.1 36.8 35.6 36.2 6.8-.2 15.6-2.4 22.2-8.5l-4.3-6.7c-5.1 4.7-11.5 7.3-18.2 7.3-15.2 0-26.8-13.1-26.8-28.5 0-15.6 11.7-28.8 27-28.8zM185.9 2.4l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L147.8 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm76.8 0l-12.1 33.9c-3 8.8-5.4 16.5-7.2 23.6h-.3c-1.7-7.3-4-15-6.9-23.6L224.6 2.4h-11.2l-4.7 70h8.4l1.8-30c.6-10.5 1.1-22.2 1.3-31h.2c1.9 8.3 4.6 17.3 7.9 27.2l11 33.3h6.7l12-34c3.4-9.6 6.3-18.4 8.6-26.6h.3c-.1 8.7.5 20.5 1 30.2l1.7 30.7h8.6l-4.2-70h-11.3zm295 7.4v-.1c1-.3 1.7-1 1.7-2 0-.8-.4-1.4-.8-1.8-.6-.4-1.3-.7-2.9-.7-1.4 0-2.4.2-3.2.3V14h1.9v-3.4h.9c1.1 0 1.6.4 1.7 1.3.2 1 .4 1.7.7 2h2.1c-.2-.3-.4-.8-.6-2.1-.2-1.1-.7-1.8-1.5-2zm-2.3-.6h-.9V6.7c.2-.1.6-.1 1.1-.1 1.2 0 1.8.5 1.8 1.3 0 .9-.9 1.3-2 1.3zm.5-8.2c-4.8 0-8.6 3.8-8.6 8.5 0 4.8 3.8 8.6 8.5 8.6 4.8 0 8.5-3.7 8.5-8.6 0-4.7-3.7-8.5-8.4-8.5zm0 15.3c-3.7 0-6.5-3-6.5-6.8 0-3.7 2.7-6.8 6.4-6.8s6.4 3.1 6.4 6.8c0 3.8-2.7 6.9-6.3 6.8z" xmlns="http://www.w3.org/2000/svg"></path>
 			  <path fill-rule="evenodd" clip-rule="evenodd" fill="#00AEEF" d="M440.9 6.8c-13.1-8.5-32.2-.3-33.1 15.3 1.4 7.1 7.7 11.4 18.5 13.6 10.1 2 12.1 8.8 11.2 14.1.3 3.5-.8 6.8-2.4 8.6-5.7 6.7-14.8 7.7-21.8 5.3-13.4-3.5-23.3-16.3-21.7-32.3 0-1.8.1-3.7.4-5.6C394.8 8.6 408.8.1 423.3.1c-1.3-.1-2.7-.2-4-.2C398.7 0 382 16.7 382 37.4c0 20.6 16.7 37.4 37.3 37.4 20.6 0 37.4-16.7 37.4-37.4 0-12.7-6.2-23.8-15.8-30.6z" xmlns="http://www.w3.org/2000/svg"></path></svg></a>
 &nbsp;</div>
-<div class="bord"><ul class="inline" id="cmsc-tcp">
+<div class="bord"><small><ul class="inline" id="cmsc-tcp">
 <li><a title="Ethics" href="/About-Us/Corporate-Responsibility-and-Sustainability/Ethics/">Ethics</a></li>
 <li><a href="/About-Us/Privacy/">Privacy</a></li>
 <li><a href="/About-Us/Cookies/">Cookies</a></li>
-<!--<li><a href="/About-Us/Terms/">Terms</a></li>--><li><a class="feedbackFancybox text-error" href="/feedback">Feedback</a></li>
+<li><a href="/About-Us/Terms/">Terms</a></li>
+<li><a class="feedbackFancybox text-error" href="/feedback">Feedback</a></li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</small>
 &nbsp;</div>
 <!-- Begin social links for China --><!-- mp_trans_add="zs"
 <div id="cmsc-social">
@@ -1077,7 +1528,7 @@ function TrackEventByFileExtension(FileExtension)
 	</g>
 </svg></a>
 &nbsp;</div>
-<!-- mp_trans_remove_end="ZS" --><p id="cmsc-copyright">© 2015 All Rights Reserved.</p>
+<!-- mp_trans_remove_end="ZS" --><p id="cmsc-copyright">© 2016 All Rights Reserved.</p>
 </div>
 <!-- /cmsc-footer-block--><section class="cmsc-footer-block" id="cmsc-footer-about">
 <h2><a href="/About-Us/Who-We-Are/">About Us</a></h2>
@@ -1108,6 +1559,10 @@ function TrackEventByFileExtension(FileExtension)
 <p><a href="/Support/Technical-Support/">Technical Support</a></p>
 <p><a href="/Support/Training/">Training</a></p>
 </section>
+
+
+
+
 
 
 
@@ -1182,17 +1637,46 @@ function TrackEventByFileExtension(FileExtension)
 &nbsp;</div>
 <!-- mp_trans_remove_start="ZS" --><div class="muted clearfix zh container">苏ICP备13053344号-1</div>
 <!-- mp_trans_remove_end="ZS" --></footer>
-<!--=========================== END FOOTER =======================-->
+<!--=========================== END FOOTER =======================--><script type="text/javascript"><!--
+adroll_adv_id = "TODAXZB3FNDZNAEEPOZABH";
+    adroll_pix_id = "CGT27SQVEJCPNK2DWIXU22";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+//--></script><!-- Demandbase  --><script type="text/javascript"><!--
 
-</div><!--=========================== END FULL SITE WRAP cmsc-content-wrapper ===========================-->
+(function(d,b,a,s,e){ var t = b.createElement(a),
+    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e;
+    t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
+    fs.parentNode.insertBefore(t, fs); })
+(window,document,'script','scripts.demandbase.com/7au8fyUR.min.js','demandbase_js_lib');
+
+//--></script><!-- /Demandbase -->
+
+	</div><!--=========================== END FULL SITE WRAP cmsc-content-wrapper ===========================-->
+</div><!--=========================== END SITE HEADER cmsc-push-container ===========================-->
 
 <script type="text/javascript">
     $(document).ready(function () { $(".feedbackFancybox").fancybox({ 'width': '90%',
             'height': '90%',
             'minWidth': '100',
             'minHeight': '100',
-            'maxWidth': '450',
-            'maxHeight': '400',
+            'maxWidth': '550',
+            'maxHeight': '500',
             'autoScale': false,
             'autoSize': true,
             'transitionIn': 'elastic',
@@ -1206,32 +1690,22 @@ function TrackEventByFileExtension(FileExtension)
         }); });
 </script>
 
+<script>
+jQuery("iframe[src], embed[src]").each(function () {
+    var url = jQuery(this).prop("src");
+    if(url.search(/\?/) === -1) {
+            jQuery(this).prop("src", url + "?wmode=opaque");
+    } else {
+            jQuery(this).prop("src", url + "&wmode=opaque");
+    }
+});
+</script>
+
 
 <!-- MotionPoint script -->
     <!--mp_easylink_begins-->
     <script type="text/javascript" id="mpelid" src="//commscope.mpeasylink.com/mpel/mpel.js" async=""></script>
     <!--mp_easylink_ends-->
-
-
-<!-- LinkedIn tracking script -->
-<script type="text/javascript">
-	_bizo_data_partner_id = "8650";
-</script>
-
-<script type="text/javascript">
-	(function() {
-	  var s = document.getElementsByTagName("script")[0];
-	  var b = document.createElement("script");
-	  b.type = "text/javascript";
-	  b.async = true;
-	  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
-	  s.parentNode.insertBefore(b, s);
-	})();
-</script>
-
-<noscript>
-  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8650&fmt=gif" />
-</noscript>
 
     
         <!--Scripts -->
@@ -1262,27 +1736,41 @@ function TrackEventByFileExtension(FileExtension)
 <!-- MCC retargeting pixel -->
 	<!-- mp_trans_remove_start="ZS" -->
 		<script type="text/javascript">
-			adroll_adv_id = "TODAXZB3FNDZNAEEPOZABH";
-			adroll_pix_id = "CGT27SQVEJCPNK2DWIXU22";
-			(function () {
-				var oldonload = window.onload;
-				window.onload = function () {
-					__adroll_loaded = true;
-					var scr = document.createElement("script");
-					var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-					scr.setAttribute('async', 'true');
-					scr.type = "text/javascript";
-					scr.src = host + "/j/roundtrip.js";
-					((document.getElementsByTagName('head') || [null])[0] ||
-					 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-					if (oldonload) { oldonload() }
-				};
-			}());
+			var __cho__ = {"data":{},"pid":7620};
+			(function() {
+				var c = document.createElement('script');
+				c.type = 'text/javascript';
+				c.async = true;
+				c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(c, s);
+			})();
 		</script>
 	<!-- mp_trans_remove_end -->
 <!-- END MCC retargeting pixel -->
 
 <script type="text/javascript" src="/theme/js/cmsc-js.js"></script><!-- TB script for menu drop down / header -->
+
+<!-- LinkedIn tracking script -->
+<script type="text/javascript">
+	_bizo_data_partner_id = "8650";
+</script>
+
+<script type="text/javascript">
+	(function() {
+	  var s = document.getElementsByTagName("script")[0];
+	  var b = document.createElement("script");
+	  b.type = "text/javascript";
+	  b.async = true;
+	  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+	  s.parentNode.insertBefore(b, s);
+	})();
+</script>
+
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8650&fmt=gif" />
+</noscript>
+<!--End LinkedIn -->
 
 
 
