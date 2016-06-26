@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webparx.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105004848id_/http%3A//www.webparx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webparx.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626025434id_/http%3A//www.webparx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webparx.com
 
 **We are concerned seriously about the privacy of our users.** Please read this Privacy Policy to know more about how we treat individually identifiable details and information. We bestow this Privacy Policy as you have the right to know what knowledge and information we garner, how it is preserved and utilized, and under which circumstances it may be revealed. If you have suggestions, comments, questions, or any concerns about our Privacy Policy, kindly contact us via email at  **contact@avantplex.com**  or in write to us at: Privacy Director, AVANTPLEX Media
 
-**Online Privacy Standards.**  Although there are no such official standards administrating privacy practices on the web or internet, we firmly follow the principles promoted by the Federal Trade Commission’s Fair Information Practices Principles, presently available at [http://www.ftc.gov/reports/privacy3/toc.htm](https://www.ftc.gov/site-information/privacy-policy).
+**Online Privacy Standards.**  Although there are no such official standards administrating privacy practices on the web or internet, we firmly follow the principles promoted by the Federal Trade Commission’s Fair Information Practices Principles, presently available at http://www.ftc.gov/reports/privacy3/toc.htm.
 
 **What This Policy Subsumes.**  This policy subsumes Avantplex media’s treatment of personally recognizable information that we acquire when you use our services or visit our website. We consider personally recognizable information as the information that anyone can use to recognize or contact you in person, such as real name, personal telephone number, date of birth, email address, or physical contact address. Information and details that we use inwardly to recognize you as a member in our website or system, such as your selected UserID which is not concerned personally recognizable information.
 
@@ -20,7 +20,7 @@
 
 ### INFORMATION WE DO NOT COLLECT
 
-**Children.**  As described further in our Terms of Service, presently available at <http://www.webparx.com/terms-of-use> you must be 13 years of age or older to register to use our website. Hence, we do not intentionally garner personally recognizable information about children. If you trust that we have information from or about anyone under 13 years of age, please inform us by email at contact@avantplex.com or write to our Privacy Director at the address noted above.
+**Children.**  As described further in our Terms of Service, presently available at http://www.webparx.com/terms-of-use you must be 13 years of age or older to register to use our website. Hence, we do not intentionally garner personally recognizable information about children. If you trust that we have information from or about anyone under 13 years of age, please inform us by email at contact@avantplex.com or write to our Privacy Director at the address noted above.
 
 **Social Security Number.**  We don’t ask for or need your social security number to make use any of our services or to get access to any part of our site.
 
@@ -32,8 +32,8 @@
 
 **Our partners.**  Some of our business partners can also make use of cookies on our site. For an example, some of our advertising associates may use cookies to garner non-personally recognizable information about your visit to our site for providing advertisements about goods, products and services that may be interest you. We have no control over or access to these cookies, and, this privacy policy does not rule the use of cookies by our business associates or advertisers. To be eliminated from these services, please visit some of our partners’ websites and follow the following instructions.
 
-  * Google: [http://www.google.com/policies/technologies/ads](http://www.google.com/policies/technologies/ads)
-  * Network Advertising Initiative: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
+  * Google: http://www.google.com/policies/technologies/ads
+  * Network Advertising Initiative: http://www.networkadvertising.org/managing/opt_out.asp
 
 
 
@@ -95,4 +95,4 @@ We use information collected from log files and cookies to enhance our website, 
 
 ### UPDATES TO OUR PRIVACY POLICY
 
-**On a regular basis, we will consider and make changes to our privacy policy with specific interval.**  When we do so, we will inform you either by email or by placing an eminent notice on our website. The most latest version of our privacy policy is always available from a link on our homepage, and at <http://www.webparx.com/privacy-policy>.
+**On a regular basis, we will consider and make changes to our privacy policy with specific interval.**  When we do so, we will inform you either by email or by placing an eminent notice on our website. The most latest version of our privacy policy is always available from a link on our homepage, and at http://www.webparx.com/privacy-policy.
