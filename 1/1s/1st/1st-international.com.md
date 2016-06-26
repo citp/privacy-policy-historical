@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230202id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626151241id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -90,7 +90,7 @@ If you have any questions about this privacy policy and the practices of its usa
 **London W1A 6US, United Kingdom** ****
 
 **Toll free phone:** ** ** ** ** **   ** **       ** **    ** **1-866-Y-SINGLE** **      ** ** ** ** ** **(** ** ** **1-866-974-6453** ** ** **)**  
-**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (312) 252-0005** **      ** ** ** ******or  ** ** ** **   ** **       ** **    ** **+44 (0) 2030261229**
+**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (312) 252-0005** **      ** ** ** ******or  ** ** ** **   ** **       ** **    ****+44 (0) 2030261229 - temporarily out of order**
 
 **Fax:** **+1 (360) 525-0025**
 
