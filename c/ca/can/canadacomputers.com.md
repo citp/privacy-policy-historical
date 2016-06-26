@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224212029id_/http%3A//www.canadacomputers.com/policies/%3Fpage%3Dprivacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121438id_/http%3A//www.canadacomputers.com/policies/%3Fpage%3Dprivacy_policies) for the most accurate reproduction.*
 
 # Policies | Canada Computers & Electronics
 
@@ -18,21 +18,23 @@ As most other websites our website may collect information about you that cannot
 
 ### Access to and Releasing of Information
 
-Order Processing: When you purchase from our website, your name, address, credit card number and amount purchased will be submitted to your financial institution to verify your identity and to authorize your purchase. We must also supply your name, telephone number, address and items purchased to third party shippers such as UPS to deliver your order to you. There may also be instances where we may drop ship directly from the manufacturer or one of our suppliers. In these instances they are the shipper for this order and given the same information.
+Order Processing: When you purchase from our website or retail location, your name, address, credit card number and amount purchased will be submitted to your financial institution to verify your identity and to authorize your purchase. We must also supply your name, telephone number, address and items purchased to third party shippers such as UPS to deliver your order to you. There may also be instances where we may drop ship directly from the manufacturer or one of our suppliers. In these instances they are the shipper for this order and given the same information.
 
 Independent Contractors: From time to time, we may employ other companies or individuals to provide certain services to us such as analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose. Any 3rd parties who use our data will be fully bound by this privacy policy.
 
 Disclosure to Service Providers: Canada Computers & Electronics may share your personal information with certain service providers in order to: provide products and services to you based on your request, to verify and validate information, and to address customer service matters. Examples of service providers include credit card issuers, product service depots, warranty providers, and delivery services.
+
+Any information our customers provide will not be used for other commercial purposes and will not be sold, rented, leased or forwarded to any third party.
 
 ### Legal Disclosure:
 
 We may disclose your information as permitted or required to by law; for example: 
 
   * * To a government institution or other person or entity that has asserted its lawful authority to obtain the information;
-  * * where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
-  * * to comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
-  * * to comply with court rules regarding the production of records and information;
-  * * to our legal counsel.
+  * * Where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
+  * * To comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
+  * * To comply with court rules regarding the production of records and information;
+  * * To our legal counsel.
 
 
 
