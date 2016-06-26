@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamcommunity.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227032717id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamcommunity.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626075734id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
 
 # Privacy Policy Agreement
 
@@ -49,7 +49,7 @@ Valve gives users the option to receive promotional email communications from Va
 
 **Storage and Security of Personally Identifiable Information**
 
-Personally identifiable information provided to Valve by customers in the EU is controlled by Valve S.a.r.l, with place of business set out below. Personally identifiable information provided to Valve will be collected, processed and stored by Valve Corporation in the United States. Valve has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. Valve Corporation complies with the Safe Harbor framework developed by the U.S. Department of Commerce and the European Union relating to the transfer and processing of personally identifiable information. For more information about the Safe Harbor program or to view Valve’s certification visit <http://export.gov/safeharbor/eu/eg_main_018476.asp>.
+Personally identifiable information provided to Valve by customers in the EU is controlled by Valve S.a.r.l, with place of business set out below. Personally identifiable information provided to Valve will be collected, processed and stored by Valve Corporation in the United States. Valve has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. Valve Corporation complies with the Safe Harbor framework developed by the U.S. Department of Commerce and the European Union relating to the transfer and processing of personally identifiable information. For more information about the Safe Harbor program or to view Valve’s certification visit <http://safeharbor.export.gov/companyinfo.aspx?id=28415>.
 
 **Corrections, Updates and Removal of Personally Identifiable Information**
 
