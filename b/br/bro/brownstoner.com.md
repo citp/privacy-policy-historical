@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111054id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121413id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brownstoner
 
-Your privacy is important to us at Brownstoner Media (“Brownstoner Media”, “we”, or “our”). Accordingly, we have established and implemented information handling practices for www.brownstoner.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in the Terms of Use <http://www.brownstoner.com/terms-of-use/>.
+Your privacy is important to us at Blank Slate Factory, Inc. (“BlankSlate”, “we”, or “our”). Accordingly, we have established and implemented information handling practices for brownstoner.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in the Terms of Use <http://brownstoner.com/terms-of-use/>.
 
 **When You Visit The Site**
 
@@ -18,7 +18,7 @@ The Site has security measures in place to protect against the loss, misuse and 
 
 **When You Post Content**
 
-Users may post or upload User Content to the Site. As between Brownstoner Media and you and between other Users and you, you are the owner of all User Content that you upload, email or post to or within the Site. You grant us permission to use all such User Content on and in connection with the Site. For more information, see the Terms of Use <http://www.brownstoner.com/terms-of-use/> for the Site. When You Submit Feedback to Us In order to submit comments or questions to the site, you will have to register for a user account, a process that involves, among other disclosures, the provision of your email address. We will not disclose your email address or other personal information to third parties, except as expressly set forth in this Privacy Policy. We may contact you via the email address you provide to answer your question(s), clarify the information you have submitted and send you emails, from time to time, as part of our Email List. (For additional information, see the Email List section of the Terms of Use <http://www.brownstoner.com/terms-of-use/>.)
+Users may post or upload User Content to the Site. As between Blank Slate Factory, Inc. and you and between other Users and you, you are the owner of all User Content that you upload, email or post to or within the Site. You grant us permission to use all such User Content on and in connection with the Site. For more information, see the Terms of Use <http://brownstoner.com/terms-of-use/> for the Site. When You Submit Feedback to Us In order to submit comments or questions to the site, you will have to register for a user account, a process that involves, among other disclosures, the provision of your email address. We will not disclose your email address or other personal information to third parties, except as expressly set forth in this Privacy Policy. We may contact you via the email address you provide to answer your question(s), clarify the information you have submitted and send you emails, from time to time, as part of our Email List. (For additional information, see the Email List section of the Terms of Use <http://brownstoner.com/terms-of-use/>.)
 
 **Cookies and Pixel Tags**
 
@@ -38,6 +38,6 @@ Pursuant to California Civil Code § 1798.83, a California resident who has prov
 
 **Modifications to this Privacy Policy**
 
-Brownstoner Media reserves the right to change the terms, conditions, and notices in this Privacy Policy at any time for any reason. If you have questions about this Privacy Policy, please contact us at [brownstoner@brownstoner.com](mailto:brownstoner@brownstoner.com).
+Blank Slate Factory, Inc. reserves the right to change the terms, conditions, and notices in this Privacy Policy at any time for any reason. If you have questions about this Privacy Policy, please contact us at [brownstoner@brownstoner.com](mailto:brownstoner@brownstoner.com).
 
-Last updated as of March 13, 2015.
+Last updated as of March 19, 2016.
