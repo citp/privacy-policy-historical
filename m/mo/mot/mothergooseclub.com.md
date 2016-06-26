@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothergooseclub.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224090934id_/http%3A//www.mothergooseclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothergooseclub.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626155533id_/http%3A//www.mothergooseclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Mother Goose Club
 
@@ -98,6 +98,6 @@ Involvement in your family’s online lives is one of the most important safety 
 
 Comments and questions in regard to our Privacy Policy can be sent to us by email at info@sockeyemedia.com. If you believe that we have violated the terms of this policy in any way, please contact us immediately. You may also contact us by sending mail directly to the address listed below  
 Sockeye Media LLC  
-307 5th Ave.  
-New York, NY 10016  
+40 Rector St. 1050  
+New York, NY 10006  
 **Effective date: July 1, 2013.**
