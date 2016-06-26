@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226054759id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626182340id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
 
-# 409shop walkie talkie walkie talkie-Radio-Wholesale-rental
+# 409shop walkie talkie buy-two-way-Radio-Wholesale-retail
 
 [](http://www.409shop.com/409shop_shopcat.php?usercat=1426)[](http://www.409shop.com/409shop_shopcat.php?usercat=1705)[](http://www.409shop.com/409shop_shopcat.php?usercat=1693)[](http://www.409shop.com/409shop_shopcat.php?usercat=4934)
 
