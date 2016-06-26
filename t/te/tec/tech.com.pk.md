@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tech.com.pk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051254id_/http%3A//www.tech.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech.com.pk privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626075335id_/http%3A//www.tech.com.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Tech
+# Privacy Policy - The Tech
 
 This privacy policy applies to the Site and all products and services offered by  **The Tech**
 
