@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaperspulse.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215043211id_/http%3A//www.hdwallpaperspulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperspulse.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626114353id_/http%3A//www.hdwallpaperspulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers Pulse
 
