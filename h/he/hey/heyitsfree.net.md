@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heyitsfree.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315173414id_/http%3A//www.heyitsfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyitsfree.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626075055id_/http%3A//www.heyitsfree.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hey, It's Free!
+# Privacy Policy • Hey, It's Free!
 
 Hey, It’s Free! (further referenced as “HIF,” “our,” or “we”) is for entertainment purposes only. However, we strive to protect our readers (further reference as “you,” “users,” or “readers”) privacy in every way possible.
 
