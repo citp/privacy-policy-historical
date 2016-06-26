@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverstripe.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212162747id_/http%3A//www.silverstripe.org/footer-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverstripe.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626173237id_/https%3A//www.silverstripe.org/footer-menu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » SilverStripe
 
@@ -26,13 +26,14 @@ By using our website and submitting our online forms you are deemed to have acce
 ### Examples of personal information use
 
 When you subscribe to our newsletter, we require an email address in order to email you the newsletter. You can unsubscribe from future mailings at any time.  
-When you register on the silverstripe.org website, the wiki, or the bugtracker, we require an email address and a password. In addition, you may choose to submit additional personal information for your forum profile, and you may choose what of this personal information gets displayed to the public. You may contact us at any time to have your profile removed.  
+When you register on the silverstripe.org website, the wiki, or the bugtracker, we require an email address and a password. In addition, you may choose to submit additional personal information for your forum profile, and you may choose what, of this personal information, gets displayed to the public. You may contact us at any time to have your profile removed.  
 When you submit a comment on one of our blogs, you may provide your name and website URL if you want to add a link back to your own site.  
 The SilverStripe websites require cookies to function. We don't permit third-party cookies to track your activity on the SilverStripe websites.
 
 ### Information sharing
 
-No information about your membership, subscriptions, nor any personally identifiable information we collect is shared outside the company, with the exception of what you choose to display on your public profile on silverstripe.org.  
+No information about your membership, subscriptions, nor any personally identifiable information we collect is shared outside the company, with the exception of what you choose to display on your public profile on silverstripe.org.
+
 Server logs  
 SilverStripe uses server logs to ensure smooth operation of our services and for general site and application maintenance. Like almost all Internet servers, logged information may include timestamps, your client IP address (as it appears to the server), and the pages you visit. Our server logs will not be shared with any third party. We may however elect to publish aggregate statistics on visitor activity from time to time based on log information. We will never publish any personally identifiable information.
 
