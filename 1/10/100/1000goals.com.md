@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222225604id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626023932id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
-# Privacy | Football - 1000 Goals
-
-**27 February 2008** at 01:51 GMT
+# Privacy | 1000 Goals
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -16,35 +14,22 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-### Latest Football News
+[ ](http://www.1000goals.com/news/euro-2016-goal-of-the-day-14-xherdan-shaqiri-wonder-goal-against-poland)
 
-[ ](http://www.1000goals.com/news/wenger-believes-title-talk-is-too-early-for-arsenal)
+Switzerland failed to advance into the last eight of Euro 2016 after being defeated via penalty shoot out by Poland, but Vladimir Petkovic's men put on an excellent display in that game, including a wonder goal scored by Xherdan Shaqiri. Trailing by a goal since midway into the first 45 minutes, Shaqiri was one of…
 
-Arsenal's manager, Arsene Wenger was in a joyful mood as his team grabbed an important 2-1 victory over their title rival, Manchester City on Monday. Although acknowledging that it's a massive result for his team, Wenger believes that it's still not time yet for his team to be crowned as Premier League winner. Wenger understand…
+[ ](http://www.1000goals.com/news/quaresmas-extra-time-goal-broke-croatias-heart)
 
-[ ](http://www.1000goals.com/news/klopp-not-pleased-with-liverpool-reaction-against-watford)
+Struggling to make their way into the knock out stages of Euro 2016, Portugal showed some resilience and probably a little bit of luck as they made their way into the last eight stage after defeating Croatia in extra time. Both teams started out the match in a rather slow fashion as they look to…
 
-Liverpool still struggling to pick up consistent results in their English Premier League campaign as this past weekend, Jurgen Klopp's men suffered 3-0 defeat from Watford. Klopp admitted that it was a very disappointing result for his side, but the German tactician was more disappointed upon seeing his players' poor reaction during that match. The…
+[ ](http://www.1000goals.com/news/mcauleys-own-goal-sent-wales-into-euro-2016-quarter-finals)
 
-[ ](http://www.1000goals.com/news/bayern-extend-lead-at-top-of-bundesliga-ahead-of-winter-break)
+Wales' memorable Euro 2016 campaign continue as they got themselves through into the last eight of that tournament following a slender 1-0 win over Northern Ireland. That victory was not an easy one as it was a very tight game for both sides with an own goal from Gareth McAuley turned out as the game's…
 
-Bundesliga giant, Bayern Munich looking more comfortable at the top of German Bundesliga standings following this weekend's results. Pep Guardiola's men grabbed a 1-0 victory over Hannover with Thomas Muller scoring the all important winning goal from the penalty spot. That victory gave Bayern an eight point lead at the top of standings as their…
+[ ](http://www.1000goals.com/news/poland-advanced-into-euro-2016-last-eight-after-shoot-out-win-over-swiss)
 
-[ ](http://www.1000goals.com/news/bayern-confirmed-ancelotti-as-new-head-coach-for-next-season)
+Poland earned a historic achievement following their success in reaching Euro 2016 quarter finals after eliminating Switzerland via penalty shoot out. Both teams drew 1-1 in normal time and failed to score anymore goals during 2x15 additional time, forcing the match to be decided with shoot out. In regular time, Poland took the first initiative…
 
-The rumors that have been swirling around in recent days came into reality this weekend as Bayern Munich officially announced Carlo Ancelotti as their future head coach, starting from next season. This decision arrived soon after Pep Guardiola confirmed that he won't be extending his stay at Allianz Arena and will be leaving Bayern next…
+[ ](http://www.1000goals.com/news/northern-ireland-expecting-tough-last-16-tie-against-wales)
 
-[ ](http://www.1000goals.com/news/hiddink-officially-appointed-as-chelsea-interim-boss)
-
-Following earlier reports, former Dutch head coach, Guus Hiddink has officially been confirmed as temporary boss for Premier League side Chelsea. The Blues have recently sacked Jose Mourinho and after grabbing a home win in their latest league fixture against Sunderland, Chelsea announced that Hiddink will take over until next summer. It's not the first…
-
-[](http://www.johnnybet.com/)
-
-[](http://jackpotsprogressive.com/)
-
-### Football Scores & Highlights
-
-**Must watch football:**  
-
-
-### Latest Football Highlights
+Northern Ireland are gearing up for a massive Euro 2016 last 16 tie this weekend and their head coach, Michael O'Neil stated that his team won't be expecting anything else aside from tough encounter against Wales. O'Neill explained that Chris Coleman's men have been performing well in Euro 2016, especially in their last group game…
