@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtytrack.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224022226id_/http%3A//www.mtytrack.com/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtytrack.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626154549id_/http%3A//www.mtytrack.com/privacy/index) for the most accurate reproduction.*
 
 # contact us
 
