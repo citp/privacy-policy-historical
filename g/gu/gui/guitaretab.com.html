@@ -1,34 +1,267 @@
-<!--The following is the downloaded HTML source of the guitaretab.com privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221073652id_/http%3A//www.guitaretab.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guitaretab.com privacy policy that was archived on 2016-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160626212256id_/http%3A//www.guitaretab.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="viewport" content="width=1280">
 	<title>Privacy Policy | Guitaretab.com</title>
-	<link href="/i/style.css?1812083639" rel="stylesheet" type="text/css">
+	<link href="/i/style.css?2206131656" rel="stylesheet" type="text/css">
 	<!--[if lte IE 6]><link rel="stylesheet" href="/i/ie6.css" type="text/css" media="screen" /><![endif]-->
 	<!--[if IE 7]><link rel="stylesheet" href="/i/ie7.css" type="text/css" media="screen" /><![endif]-->
 	<link rel="alternate" type="application/rss+xml" title="GuitareTab Updates" href="http://www.guitaretab.com/rss/last_updates.xml">
 	<meta name="description" content="Privacy Policy | Guitaretab.com">
 	<meta name="keywords" content="privacy policy">
-    <link rel="shortcut icon" type="image/png" href="/i/favicon.png">
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVJJG2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://musculahq.appspot.com/Muscula7.js"></script><script type="text/javascript">
-            window.Muscula = { settings:{
-                logId:"c969386b-16ec-4082-a738-b76c9d9fbeee", suppressErrors: false
-            }};
-            (function () {
-                var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
-                m.src = (window.location.protocol == 'https:' ? 'https:' : 'http:') +
-                    '//musculahq.appspot.com/Muscula7.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-                window.Muscula.run=function(){var a;eval(arguments[0]);window.Muscula.run=function(){};};
-                window.Muscula.errors=[];window.onerror=function(){window.Muscula.errors.push(arguments);
-                return window.Muscula.settings.suppressErrors===undefined;}
-            })();
-        </script>
+        <link rel="shortcut icon" type="image/png" href="/i/favicon.png">
+        
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVJJG2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+            
+var gpads_init_start = new Date().getTime();
+var app_label = 'other';
     
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+navigator.sayswho = (function(){
+    var ua= navigator.userAgent, tem,
+    M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+    if(/trident/i.test(M[1])){
+        tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
+        return 'IE '+(tem[1] || '');
+    }
+    if(M[1]=== 'Chrome'){
+        tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
+        if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
+    }
+    M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+    if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
+    return M.join(' ');
+})();
+
+var hb_sid = Math.round(Math.random() * Math.pow(10, 16));
+
+function wsm_log(url) {
+    if (navigator.userAgent.match(/Android/i)) device_class = 'android';
+    else if (navigator.userAgent.match(/iPhone/i)) device_class = 'iphone';
+    else if (navigator.userAgent.match(/iPad/i)) device_class = 'ipad';
+    else device_class = 'desktop';
+    
+    var tracking_url = 'https://track.ultimate-guitar.com/' + url + '&device=' + device_class + '&app_label=gt:' + app_label + '&cb=' + Math.random() + '&hb_sid=' + hb_sid + '&br=' + navigator.sayswho.split(' ')[0] + '&brv=' + navigator.sayswho.split(' ')[1];
+    
+    if ('sendBeacon' in navigator)
+    {
+        navigator.sendBeacon(tracking_url, {});
+    }
+    else
+    {
+        (new Image()).src = tracking_url;
+    }
+}
+
+window['fake_ga'] = function(){
+    wsm_log('bid_events.trc?category=' + arguments[2] + '&action=' + arguments[3] + '&label=' + arguments[4] + '&value=' + arguments[5]);
+};
+
+window.hbErrorLogger = {
+    logError: function(msg, errCode, exception){
+        wsm_log('bid_errors.trc?code=' + errCode + '&msg=' + msg +'&e=' + (exception || ''));
+    }
+};
+
+function load_async(url, callback) {
+    var script = document.createElement("script"),loaded;
+    script.async = true;
+    script.crossOrigin  = 'anonymous';
+    script.src = url;
+    if (callback) script.onreadystatechange = script.onload = function() {
+        if (!loaded) callback();loaded = true;
+    };
+
+    document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+load_async("//cdn.ravenjs.com/2.1.1/raven.min.js", function() {
+    Raven.config('http://b7f66c35920945428384ddb9d5af451a@control.ultimate-guitar.com/8', {
+        shouldSendCallback: function(data) {
+            var sampleRate = 20;
+            return (Math.random() * 100 <= sampleRate);
+        }
+    }).install();
+    _r = _r || [];
+    for (var i = 0; i < _r.length; i++) {
+        Raven.captureMessage('Message: ' + _r[i][0] + ' - URL: ' + _r[i][1] + ' - Line: ' + _r[i][2])
+    }
+});
+
+(function(w){
+    if (typeof Raven === 'undefined') {
+        w._r = w._r || [];
+        w.onerror = function e(msg, url, ln) {
+            w._r.push([msg, url, ln]);
+        }
+    }
+})(window);
+
+var country = document.location.href.indexOf('gpads_debug_US') > -1 ? 'US' : 'US';
+var pb_countries = ['US', 'GB', 'DE'];
+
+window.gpads = (window.gpads || {});
+window.gpads.que = window.gpads.que || [];
+
+function getAmazonTargetingForAdUnitCodeStr(ad_unit_code) {
+    var amzn_str = '';
+
+    Array.prototype.map.call(pbjs.getBidResponses(ad_unit_code).bids, function(r){
+        if (r.bidderCode === 'amazon' && r.cpm >= 1.5) {
+            amzn_str = 'hb_adv=amazon&pt1=' + r.adId + '&value=' + r.cpm;
+        }
+    });
+
+    return amzn_str;
+}
+
+if (window.navigator.userAgent.indexOf('Opera') > -1)
+{
+    window.gpads.que.push = function(ad){document.write('<scr'+'ipt src="//ib.adnxs.com/ttj?id='+ad.p+'&size='+ad.w+'x'+ad.h+ad.q_str+'"></scr'+'ipt>');};
+}
+else
+{    
+    window.gpads.run_ad = function (ad) {
+        var i=document.createElement('iframe');
+        i.width=typeof ad.iwidth !== 'undefined' ? ad.iwidth : ad.w;
+        i.height=typeof ad.iheight !== 'undefined' ? ad.iheight : ad.h;
+        i.scrolling="no";i.marginWidth=i.marginHeight=i.frameBorder="0";
+        i.style.border="0px";i.style.verticalAlign="bottom";i.className='gpads_container_frame';
+
+        var cs = document.getElementById(ad.cs);cs.parentNode.replaceChild(i, cs);var cd = i.contentDocument;
+        
+        var hb_adv = false, hb_adid, hb_cpm;
+        
+        if (typeof window.pbjs !== 'undefined') {
+            var hb_targeting = window.pbjs.getAdserverTargetingForAdUnitCodeStr(ad.cs);
+            var hb_amzn_targeting = getAmazonTargetingForAdUnitCodeStr(ad.cs);
+            if (hb_amzn_targeting !== '') hb_targeting = hb_amzn_targeting;
+            
+            if (hb_targeting === "" || hb_targeting.indexOf('hb_adv=&') !== -1) hb_targeting = false;
+            else {
+                hb_adv = hb_targeting.split('&')[0].split('=')[1];
+                hb_adid = hb_targeting.split('&')[1].split('=')[1];
+                hb_cpm = hb_targeting.split('&')[2].split('=')[1];
+        
+                window['fake_ga']('ga', 'send', 'Prebid.js Bids|' + ad.cs, 'Sent2AN', hb_adv, hb_cpm);
+            }
+        }
+        else hb_targeting = false;
+
+        if (hb_adv !== false) {
+            cd.write('<body></body>');
+            cd.close();
+            
+            var an_tracking = {
+                'amazon' : {'160x600': 28459, '300x250': 28460, '728x90': 28461},
+                'pulsepoint' : {'160x600': 28462, '300x250': 28463, '728x90': 28464},
+                'aol' : {'160x600': 28456, '300x250': 28457, '728x90': 28458},
+                'brealtime' : {'160x600': 27945, '300x250': 27946, '728x90': 27947}
+            };
+            
+            if (hb_adv !== 'appnexus') {
+                (new Image()).src = 'http://ib.adnxs.com/imptr?id=' + an_tracking[hb_adv][ad.w + 'x' + ad.h] + '&t=2';
+            }
+           
+            window.top.pbjs.renderAd(cd, hb_adid);
+
+            document.location.href.indexOf('gpads_debug') > -1 && console.log('GPAds: DIRECT CALL TO PREBID. ADID = ' + hb_adid);
+        }
+        else {
+            var useSSL = 'https:' === document.location.protocol,
+                an_url='//' + (useSSL ? 'secure' : 'ib') + '.adnxs.com/ttj?id=' + ad.p + (useSSL ? '' : '&http=1') + '&size=' + ad.w + 'x' + ad.h;
+            if ('q_str' in ad) an_url += ad.q_str;
+
+            cd.write('<body>' + '<scr' + 'ipt src="' + an_url + '"></scri'+ 'pt>' + '</body>');
+            cd.close();
+
+            document.location.href.indexOf('gpads_debug') > -1 && console.log('GPAds: ' + ad.cs + ' ' + an_url);
+        }
+
+        i.onload=function(){
+            var h=this.contentDocument.body.scrollHeight,w=this.contentDocument.body.scrollWidth;
+            h>this.height?this.height=h:0; 
+            w>this.width?this.width=w:0;
+        };
+
+        if (typeof ad.lvars !== 'undefined') for (lvar in ad.lvars) i.contentWindow[lvar] = ad.lvars[lvar];
+    };
+    
+    if (pb_countries.indexOf(country) === -1 || app_label === 'other')
+    {
+        window.gpads.que.push = window.gpads.run_ad;
+    }
+    else
+    {
+        //load_async('http://localhost:9999/build/dev/prebid.js');
+        load_async('//cdn.ustatik.com/vendor/prebid_gt.js?5');
+        
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+
+        window.gpads.biddingComplete = window.gpads.biddingComplete || function(){
+            window.gpads.que.push = window.gpads.run_ad;
+            for (var i = 0; i < window.gpads.que.length; i++) window.gpads.run_ad(window.gpads.que[i]);
+        };
+
+        pbjs.que.push(function() {
+            pbjs.aliasBidder('appnexus', 'brealtime');
+            
+                var adUnits = [{
+                code: 'gpads_other',
+                sizes: [[728, 90]],
+                bids: [{bidder: 'amazon', params: {size: '9x2'}}]
+            }];
+    
+            pbjs.addAdUnits(adUnits);
+            pbjs.enableAnalytics({provider: 'ga', options: {global: 'fake_ga'}});
+            
+            pbjs.bidderSettings = {
+                standard: {
+                    alwaysUseBid: false,
+                    adserverTargeting: [{
+                        key: "hb_adv",
+                        val: function(bidResponse) {
+                            if (bidResponse.cpm >= 1.5) {
+                                return bidResponse.bidder;
+                            }
+                            else {
+                                return '';
+                            }
+                        }
+                    }, {
+                        key: "pt1",
+                        val: function(bidResponse) {
+                            return bidResponse.adId;
+                        }
+                    }, {
+                        key: "value",
+                        val: function(bidResponse) {
+                            return bidResponse.cpm;
+                        }
+                    }]
+                },
+                brealtime: {
+                    bidCpmAdjustment : function(bidCpm){
+                        return bidCpm * .80;
+                    }
+                }
+            };
+
+            pbjs.requestBids({
+                timeout: 1500 + navigator.userAgent.match(/Android/i) ? 500 : 0,
+                bidsBackHandler: function(bidResponses) {
+                    window.gpads.biddingComplete();
+                    pbjs.sendTimeoutEvent();
+                }
+            })
+        }); 
+    }
+}
+</script><script async="" crossorigin="anonymous" src="//cdn.ravenjs.com/2.1.1/raven.min.js"></script>        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        
 	<script language="JavaScript" src="/js/base.js"></script>
 	<script>
 	function fixed(e)
@@ -45,41 +278,37 @@
 		}
 	}
 	</script>
-
-        <script data-cfasync="false" type="text/javascript">
-            cmnunt_site     = 'guitaretab';
-            cmnunt_silo     = 's_mus';
-            cmnunt_subsilo  = '';
-            cmnunt_tier = 'to,t2,internal'; // use this on article pages
-
-            cmnunt_zone     = 'article'; // use this on article pages
-
-            cmnunt_kw       = '';
-            cmnunt_exclude  = '';
-            cmn_tb_theme    = 'default';
-        </script>
-        <script data-cfasync="false" type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-
-        <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
-        <script type="text/javascript">
-            try {
-                amznads.getAds('3246');
-            } catch(e) { /*ignore*/}
-        </script>
+        
 </head>
 <body>
+     
+    
+    <script data-cfasync="false" type="text/javascript">
+        cmnunt_site = 'guitaretab';
+        cmnunt_silo = 's_mus';
+        cmnunt_subsilo = '';
+        cmnunt_tier = 'to,t2,internal'; // use this on article pages
+        cmnunt_zone = 'article'; // use this on article pages
+        cmnunt_kw = '';
+        cmnunt_exclude = '';
+        cmn_tb_theme = 'default';
+    </script>
+    <script data-cfasync="false" type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
+    
+                
+    
 <div id="main_content" class="wrapper">
+    <div id="cmn_wrap">
 <div class="floatfix padding=100">
 	<div class="headerend"></div>
-	<div class="f-left"><a href="http://www.guitaretab.com/"><img src="/i/head.jpg" width="119" height="126" alt="Guitaretab - guitar tabs" title="Guitaretab - guitar tabs"></a></div>
+	<div class="f-left"><a href="http://www.guitaretab.com/"><img src="/i/head.png" width="119" height="126" alt="Guitaretab - guitar tabs" title="Guitaretab - guitar tabs"></a></div>
 	<table cellspacing="0" class="header">
 		<tbody><tr>
 			<td>
 				<table cellspacing="0" width="100%">
 					<tbody><tr>
 						<td class="main-menu">
-													<a href="http://www.ultimate-guitar.com/" target="_blank">Guitar tabs</a>
-												</td>
+						</td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -173,20 +402,9 @@
 	</tbody></table>
 </div>
 
-<div lazy-ad="top_banner" class="banner" style="width:728px;height:90px;margin-left: auto;margin-right: auto">
+<div lazy-ad="top_banner" class="banner" style="min-width:728px;min-height:90px;margin-left: auto;margin-right: auto">
     
-<iframe id="adfr30431744" ad-code="<!-- BEGIN JS TAG - GT ROS ATF < - DO NOT MODIFY -->
-<script type=&quot;text/javascript&quot;>
-var amznTargs='';
-var key = 'amznslots';
-if (&quot;amznads&quot; in window.top) {
-var values = window.top.amznads.getTokens('7x9');
-if (values.length > 0) amznTargs='&amp;'+key+'='+values;
-}
-document.write('<scr'+'ipt src=&quot;http://ib.adnxs.com/ttj?id=2010261&amp;size=728x90&amp;promo_sizes=970x250,970x90&amp;promo_alignment=center'+amznTargs+'&quot; type=&quot;text/javascript&quot;></scr'+'ipt>');
-</script>
-<!-- END TAG -->" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;"></iframe>
-<script>(function(){var i=document.getElementById('adfr30431744'),cd = i.contentDocument;cd.write('<body>'+i.getAttribute('ad-code')+'</body>');cd.close();i.onload=function(){var h=this.contentDocument.body.scrollHeight,w=this.contentDocument.body.scrollWidth;h>this.height?this.height=h:0; w>this.width?this.width=w:0;}})();</script>
+<iframe width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="gpads_container_frame" style="border: 0px; vertical-align: bottom;"></iframe>
 </div>
 
 <div class="content">
@@ -196,18 +414,7 @@ document.write('<scr'+'ipt src=&quot;http://ib.adnxs.com/ttj?id=2010261&amp;size
 	<tbody><tr>
 		<td class="sidebar-1">
 			<div lazy-ad="leftthin_banner" class="ads">
-<iframe id="adfr98939719" ad-code="<!-- BEGIN JS TAG - GT ROS ATF < - DO NOT MODIFY -->
-<script type=&quot;text/javascript&quot;>
-var amznTargs='';
-var key = 'amznslots';
-if (&quot;amznads&quot; in window.top) {
-var values = window.top.amznads.getTokens('1x6');
-if (values.length > 0) amznTargs='&amp;'+key+'='+values;
-}
-document.write('<scr'+'ipt src=&quot;http://ib.adnxs.com/ttj?id=2010261&amp;size=160x600'+amznTargs+'&quot; type=&quot;text/javascript&quot;></scr'+'ipt>');
-</script>
-<!-- END TAG -->" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;"></iframe>
-<script>(function(){var i=document.getElementById('adfr98939719'),cd = i.contentDocument;cd.write('<body>'+i.getAttribute('ad-code')+'</body>');cd.close();i.onload=function(){var h=this.contentDocument.body.scrollHeight,w=this.contentDocument.body.scrollWidth;h>this.height?this.height=h:0; w>this.width?this.width=w:0;}})();</script>
+<iframe width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="gpads_container_frame" style="border: 0px; vertical-align: bottom;"></iframe>
 </div>
 		</td>
 		<td class="whitebg">
@@ -293,38 +500,35 @@ document.write('<scr'+'ipt src=&quot;http://ib.adnxs.com/ttj?id=2010261&amp;size
 </tbody></table>
 </div>	<!--/body-->
 </div>
-<div class="footer"><a href="http://plus.ultimate-guitar.com/tab-pro/" target="_blank" class="footer-a">Tab Pro</a> / <a href="/contact.php" class="footer-a">Contact Us</a> / <a href="/privacy_policy.php" class="footer-a">Privacy Policy</a> / <a href="/tos.php" class="footer-a">ToS</a> / Guitaretab © 2015 </div>
+<div class="footer"><a href="/contact.php" class="footer-a">Contact Us</a> / <a href="/privacy_policy.php" class="footer-a">Privacy Policy</a> / <a href="/tos.php" class="footer-a">ToS</a> / Guitaretab © 2016 </div>
 
 <div class="banner_b">    <div style="text-align: center; width: 640px; margin: 0pt auto;">
         <table>
             <tbody><tr>
                 <td lazy-ad="bottomleft_banner">
                     
-<iframe id="adfr76198222" ad-code="<!-- BEGIN JS TAG - GT ROS BTFL < - DO NOT MODIFY -->
-<script type=&quot;text/javascript&quot;>
-var amznTargs='';
-var key = 'amznslots';
-if (&quot;amznads&quot; in window.top) {
-var values = window.top.amznads.getTokens('3x2');
-if (values.length > 0) amznTargs='&amp;'+key+'='+values;
-}
-document.write('<scr'+'ipt src=&quot;http://ib.adnxs.com/ttj?id=2010260&amp;size=300x250'+amznTargs+'&quot; type=&quot;text/javascript&quot;></scr'+'ipt>');
-</script>
-<!-- END TAG -->" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;"></iframe>
-<script>(function(){var i=document.getElementById('adfr76198222'),cd = i.contentDocument;cd.write('<body>'+i.getAttribute('ad-code')+'</body>');cd.close();i.onload=function(){var h=this.contentDocument.body.scrollHeight,w=this.contentDocument.body.scrollWidth;h>this.height?this.height=h:0; w>this.width?this.width=w:0;}})();</script>
+<iframe width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="gpads_container_frame" style="border: 0px; vertical-align: bottom;"></iframe>
                 </td>
                 <td style="width: 15px">&nbsp;</td>
                 <td lazy-ad="bottomright_banner">
                     
-<iframe id="adfr77835327" ad-code="<!-- BEGIN JS TAG - GT ROS BTFR < - DO NOT MODIFY -->
-<SCRIPT SRC=&quot;http://ib.adnxs.com/ttj?id=2010259&amp;size=300x250&quot; TYPE=&quot;text/javascript&quot;></SCRIPT>
-<!-- END TAG -->" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom;"></iframe>
-<script>(function(){var i=document.getElementById('adfr77835327'),cd = i.contentDocument;cd.write('<body>'+i.getAttribute('ad-code')+'</body>');cd.close();i.onload=function(){var h=this.contentDocument.body.scrollHeight,w=this.contentDocument.body.scrollWidth;h>this.height?this.height=h:0; w>this.width?this.width=w:0;}})();</script>
+<iframe width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" class="gpads_container_frame" style="border: 0px; vertical-align: bottom;"></iframe>
                 </td>
             </tr>
         </tbody></table>
     </div>
 </div>
+
+
+</div>
+
+
+
+<!-- Complex takeover -->
+<script type="text/javascript">cmnUNT('tover', tile_num ++);</script>
+<!-- /Complex takeover -->
+
+        
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -373,7 +577,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TVJJG2');</script>
 <!-- Jug -->
-
 
 
 </body></html>
