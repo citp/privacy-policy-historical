@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seopressor.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206213802id_/http%3A//seopressor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopressor.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626084039id_/http%3A//seopressor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « SEOPressor – Best SEO Wordpress Plugin
+# Privacy Policy « SEOPressor – WordPress SEO Plugin
 
 SEOPressor is a WordPress plugin that teaches users how to conduct on-page. Your privacy is very important to us. We are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers and visitors from our website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
