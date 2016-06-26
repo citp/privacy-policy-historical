@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225203958id_/http%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627000918id_/http%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
 
 # Privacy Rights | Guitar Center
 
@@ -28,11 +28,11 @@ Guitar Center may use consumer information obtained from third party providers f
 
 ### Third-Party Optimization Providers and Cookie Opt-Out: 
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of our ability to analyze such data by clicking here.
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of our ability to analyze such data by [clicking here](http://www.networkadvertising.org/choices/).
 
 ### Third Party Advertising Partners: 
 
-We may share your personally-identifiable information, including your name, address and email address, as well as a record of any transactions you conduct on our website or offline with us with third-party advertising partners and their service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide anonymous when utilized it in advertising. To learn more about the use of this information or choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking here.
+We may share your personally-identifiable information, including your name, address and email address, as well as a record of any transactions you conduct on our website or offline with us with third-party advertising partners and their service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide anonymous when utilized it in advertising. To learn more about the use of this information or choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by [clicking here](http://www.networkadvertising.org/choices/).
 
 ### How Else Does Guitar Center Use Information That It Collects from the Site?
 
@@ -48,7 +48,7 @@ You can correct factual errors in your Personal Information by sending us a requ
 
 ### Opt Out: 
 
-From time to time, Guitar Center may notify you by email of special promotions, changes to our Site, new product lines or products or service offerings that we think may be of special interest to you. If you decide you no longer want to receive emails notifying you of this information, click here to unsubscribe, or follow the instructions in each promotional message.
+From time to time, Guitar Center may notify you by email of special promotions, changes to our Site, new product lines or products or service offerings that we think may be of special interest to you. If you decide you no longer want to receive emails notifying you of this information, [click here](https://web.archive.org/pages/manage-subscription) to unsubscribe, or follow the instructions in each promotional message.
 
 ### Mailing List: 
 
