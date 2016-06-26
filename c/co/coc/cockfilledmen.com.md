@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockfilledmen.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225192323id_/http%3A//www.cockfilledmen.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockfilledmen.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626214601id_/http%3A//www.cockfilledmen.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
