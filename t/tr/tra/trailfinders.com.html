@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the trailfinders.com privacy policy that was archived on 2015-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228035716id_/http%3A//www.trailfinders.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trailfinders.com privacy policy that was archived on 2016-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160626234237id_/http%3A//www.trailfinders.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
-<!-- Generated: 28/12/2015 03:57:16 -->
-<!-- Goshawk -->
+<!-- Generated: 27/06/2016 00:42:36 -->
+<!-- Hobby -->
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <base href="http://www.trailfinders.com/">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,19 +26,18 @@
 <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script src="/bower_components/modernizr/modernizr.js"></script>
     <!-- endbuild -->
 <script type="text/javascript">
-// NB all siteVar Object variables are camel-case, unlike their parent field names.
 var siteVar = new Object();
-siteVar.referer = 		"UK";
-siteVar.secureServer =			"";
-siteVar.site = 				"com";
-siteVar.cookieName =			[''];
-siteVar.cookieValue =			[''];
-siteVar.payPerClick =			"";
-siteVar.path_info =			"/media.nsf/privacy?readform";
-siteVar.defaultPhone =			"020 7368 1200";
-siteVar.isOfficeHours =			false;
-siteVar.tfAgeYears =			"45";
-siteVar.webDbName =			"media.nsf";
+siteVar.referer =                 "UK";
+siteVar.secureServer =            "";
+siteVar.site =                    "com";
+siteVar.cookieName =              [''];
+siteVar.cookieValue =             [''];
+siteVar.payPerClick =             "";
+siteVar.path_info =               "/media.nsf/privacy?readform";
+siteVar.defaultPhone =            "020 7368 1200";
+siteVar.isOfficeHours =           false;
+siteVar.tfAgeYears =              "45";
+siteVar.webDbName =               "media.nsf";
 </script>
 <title>Privacy Policy - Trailfinders the Travel Experts</title>
 <!-- debug aide form=privacy in media.nsf -->
@@ -73,15 +72,28 @@ siteVar.webDbName =			"media.nsf";
 <!--Begin $$resp-4.top subform in codeSourceWeb -->
 </head>
 <body>
-<!--Facebook SDK code-->
+<!-- Facebook SDK code - only shown on UK website, not Scot or IE -->
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId      : '1015472725184490',
+xfbml      : true,
+version    : 'v2.5'
+});
+FB.Event.subscribe('edge.create', function(url) {
+ga('send', 'social', 'facebook', 'like', url);
+});
+};
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- end of Facebook SDK code - only shown on UK website, not Scot or IE -->
 <script type="text/javascript">
 // NB all siteVar Object variables are camel-case, unlike their parent field names.
 if( siteVar ){
@@ -95,20 +107,6 @@ siteVar.phoneLookup.phoneLabel.push( tmp[i].split("^")[1] );
 }
 };
 </script>
-<style type="text/css">
-/* TODO: Move to MAIN.CSS please Ed. */
-.phoneLookup { display:block; text-align:right; }
-.phoneLookup h2 { font-size: 18px; }
-.phoneLookup h3 {
-font-weight: 700;
-text-transform: uppercase;
-color: #555;
-font-size: 14px;
-line-height: 20px;
-margin: 0;
-}
-.phoneLookup h3 a { color: #428bca !important; font-size: 18px; white-space:nowrap; } /* !important needed to make sure badly coded main.css's line 6973 ".active a" doesn't take effect. */
-</style>
 <!--[if lt IE 10]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser.<br /><a href="http://browsehappy.com/">Please click here to upgrade your browser</a><br />and improve your experience of our website.</p>
 <![endif]-->
@@ -130,11 +128,31 @@ margin: 0;
 <ul class="top-nav-list-right">
 <ul id="loc-drop">
 <li class="no-bo">
-<span><span class="hidden-xs">Travel from Scotland or Ireland</span><span class="hidden-xxs hidden-sm hidden-md hidden-lg pull-left">Change location</span> &nbsp;<img src="/images/global/header/unionjack.png" alt="trailfinders.com"></span>
-<div id="loc-select">				
-<a href="http://www.trailfinders.ie" title="Show me Irish departures at Trailfinders.ie">Visit Trailfinders Ireland <img src="/images/global/header/ieflag.png" alt="trailfinders.ie"></a>
-<a href="http://www.trailfinders.scot" title="Show me Scottish departures at Trailfinders.scot">Visit Trailfinders Scotland <img src="/images/global/header/scotflag.png" alt="trailfinders.scot"></a>
-</div>
+<span>
+<span class="visible-lg-inline">Travelling from Scotland or Ireland?</span>
+<span class="hidden-xxs hidden-lg">Change location</span>
+<span class="hidden-xxs">
+<a href="http://www.trailfinders.scot" title="Show me Scottish departures at Trailfinders.scot">
+<img src="/images/global/header/scotflag.png" alt="trailfinders.scot">
+</a>
+<a href="http://www.trailfinders.ie" title="Show me Irish departures at trailfinders.ie">
+<img src="/images/global/header/ieflag.png" alt="trailfinders.ie">
+</a>
+</span>
+<span class="visible-xxs"> 
+<a href="javascript:void(0)">
+<img src="/images/global/header/unionjack.png" alt="trailfinders.com"> &nbsp;<i class="glyphicon glyphicon-chevron-down more-carat"></i>
+</a>
+</span>
+<div id="loc-select" class="visible-xxs">				
+<a href="http://www.trailfinders.scot" title="Show me Scottish departures at trailfinders.scot">
+Travelling from Scotland? <img src="/images/global/header/scotflag.png" alt="trailfinders.scot">
+</a>
+<a href="http://www.trailfinders.ie" title="Show me Irish departures at trailfinders.ie">
+Travelling from Ireland? <img src="/images/global/header/ieflag.png" alt="trailfinders.ie">
+</a> 
+</div> 
+</span>
 </li> 
 </ul>
 <li class="dropdown vt-drop" id="vt-drop">
@@ -223,7 +241,7 @@ if(key == 13){document.getElementById('gsSearch').click();return false;}else{ret
 			<ul class="xum">
 <li><a href="/latestoffers/Africa">Africa</a></li>
 
-<li><a href="/latestoffer/The-Silversea-Difference">Arctic &amp; Antarctic</a></li>
+<li><a href="/latestoffer/Antarctica-and-Arctic-Cruising">Arctic &amp; Antarctic</a></li>
 <li><a href="/latestoffers/Australia">Australia</a></li>
 <li><a href="/latestoffers/Canada-and-Alaska">Canada &amp; Alaska</a></li>
 <li><a href="/latestoffers/China%2C-Hong-Kong-and-Japan">China, Hong Kong &amp; Japan</a></li>
@@ -231,11 +249,8 @@ if(key == 13){document.getElementById('gsSearch').click();return false;}else{ret
 <li><a href="/latestoffers/India%2C-the-Himalayas-and-Sri-Lanka">India, the Himalayas &amp; Sri Lanka</a></li>
 <li><a href="/latestoffers/Maldives%2C-Mauritius-and-Seychelles">Maldives, Mauritius &amp; Seychelles</a></li>
 <li><a href="/latestoffers/New-Zealand-and-the-Pacific">New Zealand &amp; the Pacific</a></li>
-<li><a href="/latestoffers/Round-the-World">Round the World</a></li>
 
 <li><a href="/latestoffer/This-Weeks-Most-Popular-Cruises">Russia &amp; Central Asia</a></li>
-
-<li><a href="/latestoffer/Make-your-Cruise-Go-Further...">Ski USA &amp; Canada</a></li>
 <li><a href="/latestoffers/South-and-Central-America">South &amp; Central America</a></li>
 <li><a href="/latestoffers/South-East-Asia">South East Asia</a></li>
 <li><a href="/latestoffers/The-Caribbean">The Caribbean</a></li>
@@ -272,9 +287,6 @@ City Breaks<br>&amp; Stopovers</a></li>
 <li><a class="thumbnail" href="/latestoffers/Tours">
 <img class="img-rounded" src="/graphics/navigation/latestOffers/tours_tiny.jpg" alt="tours">
 Tours<br>&nbsp;</a></li>
-<li><a class="thumbnail close_link" href="/latestoffer/Complete-California">
-<img src="graphics/navigation/latestOffers/rail_tiny.jpg" alt="rail">
-Rail<br>&nbsp;</a></li>
 </ul></div>
           	<div class="clearfix"></div>
 		<div class="xtra-ank">
@@ -290,16 +302,17 @@ Destinations</a>
 <div class="dropdown-menu row">
 <div class="col-md-12 visible-xs mar-left-25 destslist">
 <ul> 
-<li><a href="/holidays/australia" class="evitca active">Australia</a></li>
 <li><a href="/holidays/africa" class="evitca active">Africa</a></li>
+<li><a href="/holidays/australia" class="evitca active">Australia</a></li>
 <li><a href="/holidays/canada---alaska" class="evitca active">Canada &amp; Alaska</a></li>
 <li><a href="/holidays/china--hong-kong---japan" class="evitca active">China, Hong Kong &amp; Japan</a></li>
+<li><a href="/europe" class="evitca active">Europe</a></li>
 <li><a href="/holidays/india--the-himalayas---sri-lanka" class="evitca active">India, the Himalayas &amp; Sri Lanka</a></li>
 <li><a href="/holidays/maldives--mauritius---seychelles" class="evitca active">Maldives, Mauritius &amp; Seychelles</a></li>
 <li><a href="/holidays/new-zealand---the-pacific" class="evitca active">New Zealand &amp; the Pacific</a></li>
 <li><a href="/holidays/russia---central-asia" class="evitca active">Russia &amp; Central Asia</a></li>
-<li><a href="/holidays/south-east-asia" class="evitca active">South East Asia</a></li>
 <li><a href="/holidays/south---central-america" class="evitca active">South &amp; Central America</a></li>
+<li><a href="/holidays/south-east-asia" class="evitca active">South East Asia</a></li>
 <li><a href="/holidays/the-caribbean" class="evitca active">The Caribbean</a></li>
 <li><a href="/holidays/the-middle-east" class="evitca active">The Middle East</a></li>
 <li><a href="/holidays/usa" class="evitca active">USA</a></li>
@@ -324,190 +337,119 @@ Destinations</a>
 		<div class="col-md-3 lvl1col hidden-xs region">
 <h4>Region</h4>
 <ul class="lvl1">
-<li><a href="#dest-australia" class="active">Australia</a></li>
 <li><a href="#dest-africa">Africa</a></li>
+<li><a href="#dest-australia" class="active">Australia</a></li>
 <li><a href="#dest-canada---alaska">Canada &amp; Alaska</a></li>
 <li><a href="#dest-china--hong-kong---japan">China, Hong Kong &amp; Japan</a></li>
+<li><a href="#dest-europe">Europe</a></li>
 <li><a href="#dest-india--the-himalayas---sri-lanka">India, the Himalayas &amp; Sri Lanka</a></li>
 <li><a href="#dest-maldives--mauritius---seychelles">Maldives, Mauritius &amp; Seychelles</a></li>
 <li><a href="#dest-new-zealand---the-pacific">New Zealand &amp; the Pacific</a></li>
 <li><a href="#dest-russia---central-asia">Russia &amp; Central Asia</a></li>
-<li><a href="#dest-south-east-asia">South East Asia</a></li>
 <li><a href="#dest-south---central-america">South &amp; Central America</a></li>
+<li><a href="#dest-south-east-asia">South East Asia</a></li>
 <li><a href="#dest-the-caribbean">The Caribbean</a></li>
 <li><a href="#dest-the-middle-east">The Middle East</a></li>
 <li><a href="#dest-usa">USA</a></li>
 </ul></div><!-- END Region col3 -->
 <div class="col-md-7 lvl2col hidden-xs destslist lvl2col">
 <h4>Destination</h4>
-  <div class="evitca active" id="dest-australia">
-<img src="images/nav/destinations/australia.gif" alt="australia" class="mapImg">
-<ul><li><a href="/holidays/australia">Australia</a></li>
-<li><a href="/holidays/australia/new-south-wales">New South Wales</a></li>
-<li><a href="/holidays/australia/northern-territory">Northern Territory</a></li>
-<li><a href="/holidays/australia/queensland">Queensland</a></li>
-<li><a href="/holidays/australia/south-australia">South Australia</a></li>
-<li><a href="/holidays/australia/tasmania">Tasmania</a></li>
-<li><a href="/holidays/australia/victoria">Victoria</a></li>
-<li><a href="/holidays/australia/western-australia">Western Australia</a></li>
- </ul>
-</div>
-  <div class="ghost" id="dest-africa">
+  <div class="evitca active" id="dest-africa">
 <img src="images/nav/destinations/africa.gif" alt="africa" class="mapImg">
-<ul><li><a href="/holidays/africa">Africa</a></li>
-<li><a href="/holidays/africa/botswana">Botswana</a></li>
-<li><a href="/holidays/africa/ethiopia">Ethiopia</a></li>
-<li><a href="/holidays/africa/kenya">Kenya</a></li>
-<li><a href="/holidays/africa/madagascar">Madagascar</a></li>
-<li><a href="/holidays/africa/malawi">Malawi</a></li>
-<li><a href="/holidays/africa/morocco">Morocco</a></li>
-<li><a href="/holidays/africa/mount-kilimanjaro">Mount Kilimanjaro</a></li>
-<li><a href="/holidays/africa/mozambique">Mozambique</a></li>
-<li><a href="/holidays/africa/namibia">Namibia</a></li>
-<li><a href="/holidays/africa/rwanda">Rwanda</a></li>
-<li><a href="/holidays/africa/south-africa">South Africa</a></li>
-<li><a href="/holidays/africa/tanzania">Tanzania</a></li>
-<li><a href="/holidays/africa/uganda">Uganda</a></li>
-<li><a href="/holidays/africa/victoria-falls">Victoria Falls</a></li>
-<li><a href="/holidays/africa/zambia">Zambia</a></li>
-<li><a href="/holidays/africa/zanzibar">Zanzibar</a></li>
-<li><a href="/holidays/africa/zimbabwe">Zimbabwe</a></li>
- </ul>
+<ul><li><a href="/holidays/africa">Africa</a></li><li><a href="/holidays/africa/botswana">Botswana</a></li><li><a href="/holidays/africa/ethiopia">Ethiopia</a></li><li><a href="/holidays/africa/kenya">Kenya</a></li><li><a href="/holidays/africa/madagascar">Madagascar</a></li><li><a href="/holidays/africa/malawi">Malawi</a></li><li><a href="/holidays/africa/morocco">Morocco</a></li><li><a href="/holidays/africa/mount-kilimanjaro">Mount Kilimanjaro</a></li><li><a href="/holidays/africa/mozambique">Mozambique</a></li><li><a href="/holidays/africa/namibia">Namibia</a></li><li><a href="/holidays/africa/rwanda">Rwanda</a></li><li><a href="/holidays/africa/south-africa">South Africa</a></li><li><a href="/holidays/africa/tanzania">Tanzania</a></li><li><a href="/holidays/africa/uganda">Uganda</a></li><li><a href="/holidays/africa/victoria-falls">Victoria Falls</a></li><li><a href="/holidays/africa/zambia">Zambia</a></li><li><a href="/holidays/africa/zanzibar">Zanzibar</a></li><li><a href="/holidays/africa/zimbabwe">Zimbabwe</a></li> </ul>
+</div>
+  <div class="ghost" id="dest-australia">
+<img src="images/nav/destinations/australia.gif" alt="australia" class="mapImg">
+<ul><li><a href="/holidays/australia">Australia</a></li><li><a href="/holidays/australia/new-south-wales">New South Wales</a></li><li><a href="/holidays/australia/northern-territory">Northern Territory</a></li><li><a href="/holidays/australia/queensland">Queensland</a></li><li><a href="/holidays/australia/south-australia">South Australia</a></li><li><a href="/holidays/australia/tasmania">Tasmania</a></li><li><a href="/holidays/australia/victoria">Victoria</a></li><li><a href="/holidays/australia/western-australia">Western Australia</a></li> </ul>
 </div>
   <div class="ghost" id="dest-canada---alaska">
 <img src="images/nav/destinations/canada___alaska.gif" alt="canada---alaska" class="mapImg">
-<ul><li><a href="/holidays/canada---alaska">Canada &amp; Alaska</a></li>
-<li><a href="/holidays/canada---alaska/alaska">Alaska</a></li>
-<li><a href="/holidays/canada---alaska/canada">Canada</a></li>
- </ul>
+<ul><li><a href="/holidays/canada---alaska">Canada &amp; Alaska</a></li><li><a href="/holidays/canada---alaska/alaska">Alaska</a></li><li><a href="/holidays/canada---alaska/canada">Canada</a></li> </ul>
 </div>
   <div class="ghost" id="dest-china--hong-kong---japan">
 <img src="images/nav/destinations/china__hong_kong___japan.gif" alt="china--hong-kong---japan" class="mapImg">
-<ul><li><a href="/holidays/china--hong-kong---japan">China, Hong Kong &amp; Japan</a></li>
-<li><a href="/holidays/china--hong-kong---japan/china">China</a></li>
-<li><a href="/holidays/china--hong-kong---japan/hong-kong---macau">Hong Kong &amp; Macau</a></li>
-<li><a href="/holidays/china--hong-kong---japan/japan">Japan</a></li>
-<li><a href="/holidays/china--hong-kong---japan/mongolia">Mongolia</a></li>
-<li><a href="/holidays/china--hong-kong---japan/south-korea">South Korea</a></li>
-<li><a href="/holidays/china--hong-kong---japan/taiwan">Taiwan</a></li>
- </ul>
+<ul><li><a href="/holidays/china--hong-kong---japan">China, Hong Kong &amp; Japan</a></li><li><a href="/holidays/china--hong-kong---japan/china">China</a></li><li><a href="/holidays/china--hong-kong---japan/hong-kong---macau">Hong Kong &amp; Macau</a></li><li><a href="/holidays/china--hong-kong---japan/japan">Japan</a></li><li><a href="/holidays/china--hong-kong---japan/mongolia">Mongolia</a></li><li><a href="/holidays/china--hong-kong---japan/south-korea">South Korea</a></li> </ul>
 </div>
+<style>
+ /* TODO: Move styles to Main.CSS please Ed */
+#dest-europe {width: 100%; 
+-webkit-column-count: 4; 
+-moz-column-count: 4; 
+column-count: 4;
+}
+#dest-europe .europeDestinationTitle{ 
+	line-height: 11px;
+    height: 11px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#dest-europe ul.europeDestination{ float: none !important;
+-webkit-column-break-inside:avoid;
+-moz-column-break-inside:avoid;
+column-break-inside:avoid;
+ }
+#dest-europe ul.europeDestination li{ margin-left: 10px;}
+</style>
   <div class="ghost" id="dest-europe">
-<img src="images/nav/destinations/europe.gif" alt="europe" class="mapImg">
-<ul><li><a href="/holidays/europe/europe">Europe</a></li>
- </ul>
+<ul></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Austria</li><li><a href="/tours/europe/austria"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Belgium</li><li><a href="/europe/bruges">Bruges City Breaks</a></li><li><a href="/tours/europe/belgium"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Croatia</li><li><a href="/tours/europe/croatia"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Czech Republic</li><li><a href="/tours/europe/czech republic"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Denmark</li><li><a href="/tours/europe/denmark"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Estonia</li><li><a href="/tours/europe/estonia"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">France</li><li><a href="/europe/paris">Paris City Breaks</a></li><li><a href="/tours/europe/france"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Germany</li><li><a href="/europe/berlin">Berlin City Breaks</a></li><li><a href="/tours/europe/germany"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Greece</li><li><a href="/europe/athens">Athens City Breaks</a></li><li><a href="/tours/europe/greece"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Holland</li><li><a href="/europe/amsterdam">Amsterdam City Breaks</a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Hungary</li><li><a href="/tours/europe/hungary"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Iceland</li><li><a href="/europe/reykjavik">Reykjav?k City Breaks</a></li><li><a href="/tours/europe/iceland"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Italy</li><li><a href="/europe/florence">Florence City Breaks</a></li><li><a href="/europe/rome">Rome City Breaks</a></li><li><a href="/europe/venice">Venice City Breaks</a></li><li><a href="/tours/europe/italy"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Luxembourg</li><li><a href="/tours/europe/luxembourg"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Norway</li><li><a href="/tours/europe/norway"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Poland</li><li><a href="/tours/europe/poland"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Portugal</li><li><a href="/europe/lisbon">Lisbon City Breaks</a></li><li><a href="/tours/europe/portugal"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Spain</li><li><a href="/europe/barcelona">Barcelona City Breaks</a></li><li><a href="/europe/madrid">Madrid City Breaks</a></li><li><a href="/tours/europe/spain"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Sweden</li><li><a href="/tours/europe/sweden"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Switzerland</li><li><a href="/tours/europe/switzerland"> Touring </a></li></ul>
+<ul class="europeDestination"><li class="europeDestinationTitle">Turkey</li><li><a href="/tours/europe/turkey"> Touring </a></li> </ul>
 </div>
   <div class="ghost" id="dest-india--the-himalayas---sri-lanka">
 <img src="images/nav/destinations/india__the_himalayas___sri_lanka.gif" alt="india--the-himalayas---sri-lanka" class="mapImg">
-<ul><li><a href="/holidays/india--the-himalayas---sri-lanka">India, the Himalayas &amp; Sri Lanka</a></li>
-<li><a href="/holidays/india--the-himalayas---sri-lanka/bhutan">Bhutan</a></li>
-<li><a href="/holidays/india--the-himalayas---sri-lanka/india">India</a></li>
-<li><a href="/holidays/india--the-himalayas---sri-lanka/nepal">Nepal</a></li>
-<li><a href="/holidays/india--the-himalayas---sri-lanka/sri-lanka">Sri Lanka</a></li>
- </ul>
+<ul><li><a href="/holidays/india--the-himalayas---sri-lanka">India, the Himalayas &amp; Sri Lanka</a></li><li><a href="/holidays/india--the-himalayas---sri-lanka/bhutan">Bhutan</a></li><li><a href="/holidays/india--the-himalayas---sri-lanka/india">India</a></li><li><a href="/holidays/india--the-himalayas---sri-lanka/nepal">Nepal</a></li><li><a href="/holidays/india--the-himalayas---sri-lanka/sri-lanka">Sri Lanka</a></li> </ul>
 </div>
   <div class="ghost" id="dest-maldives--mauritius---seychelles">
 <img src="images/nav/destinations/maldives__mauritius___seychelles.gif" alt="maldives--mauritius---seychelles" class="mapImg">
-<ul><li><a href="/holidays/maldives--mauritius---seychelles">Maldives, Mauritius &amp; Seychelles</a></li>
-<li><a href="/holidays/maldives--mauritius---seychelles/maldives">Maldives</a></li>
-<li><a href="/holidays/maldives--mauritius---seychelles/mauritius">Mauritius</a></li>
-<li><a href="/holidays/maldives--mauritius---seychelles/seychelles">Seychelles</a></li>
- </ul>
+<ul><li><a href="/holidays/maldives--mauritius---seychelles">Maldives, Mauritius &amp; Seychelles</a></li><li><a href="/holidays/maldives--mauritius---seychelles/maldives">Maldives</a></li><li><a href="/holidays/maldives--mauritius---seychelles/mauritius">Mauritius</a></li><li><a href="/holidays/maldives--mauritius---seychelles/seychelles">Seychelles</a></li> </ul>
 </div>
   <div class="ghost" id="dest-new-zealand---the-pacific">
 <img src="images/nav/destinations/new_zealand___the_pacific.gif" alt="new-zealand---the-pacific" class="mapImg">
-<ul><li><a href="/holidays/new-zealand---the-pacific">New Zealand &amp; the Pacific</a></li>
-<li><a href="/holidays/new-zealand---the-pacific/cook-islands">Cook Islands</a></li>
-<li><a href="/holidays/new-zealand---the-pacific/fiji">Fiji</a></li>
-<li><a href="/holidays/new-zealand---the-pacific/new-zealand">New Zealand</a></li>
-<li><a href="/holidays/new-zealand---the-pacific/tahiti-and-her-islands">Tahiti and Her Islands</a></li>
- </ul>
+<ul><li><a href="/holidays/new-zealand---the-pacific">New Zealand &amp; the Pacific</a></li><li><a href="/holidays/new-zealand---the-pacific/cook-islands">Cook Islands</a></li><li><a href="/holidays/new-zealand---the-pacific/fiji">Fiji</a></li><li><a href="/holidays/new-zealand---the-pacific/new-zealand">New Zealand</a></li><li><a href="/holidays/new-zealand---the-pacific/tahiti-and-her-islands">Tahiti and Her Islands</a></li> </ul>
 </div>
   <div class="ghost" id="dest-russia---central-asia">
 <img src="images/nav/destinations/russia___central_asia.gif" alt="russia---central-asia" class="mapImg">
-<ul><li><a href="/holidays/russia---central-asia">Russia &amp; Central Asia</a></li>
-<li><a href="/holidays/russia---central-asia/kazakhstan">Kazakhstan</a></li>
-<li><a href="/holidays/russia---central-asia/kyrgyzstan">Kyrgyzstan</a></li>
-<li><a href="/holidays/russia---central-asia/russia">Russia</a></li>
-<li><a href="/holidays/russia---central-asia/turkmenistan">Turkmenistan</a></li>
-<li><a href="/holidays/russia---central-asia/uzbekistan">Uzbekistan</a></li>
- </ul>
-</div>
-  <div class="ghost" id="dest-south-east-asia">
-<img src="images/nav/destinations/south_east_asia.gif" alt="south-east-asia" class="mapImg">
-<ul><li><a href="/holidays/south-east-asia">South East Asia</a></li>
-<li><a href="/holidays/south-east-asia/bali--lombok---indonesia">Bali, Lombok &amp; Indonesia</a></li>
-<li><a href="/holidays/south-east-asia/borneo">Borneo</a></li>
-<li><a href="/holidays/south-east-asia/burma-(myanmar)">Burma (Myanmar)</a></li>
-<li><a href="/holidays/south-east-asia/cambodia---laos">Cambodia &amp; Laos</a></li>
-<li><a href="/holidays/south-east-asia/malaysia">Malaysia</a></li>
-<li><a href="/holidays/south-east-asia/philippines">Philippines</a></li>
-<li><a href="/holidays/south-east-asia/singapore---bintan">Singapore &amp; Bintan</a></li>
-<li><a href="/holidays/south-east-asia/thailand">Thailand</a></li>
-<li><a href="/holidays/south-east-asia/vietnam">Vietnam</a></li>
- </ul>
+<ul><li><a href="/holidays/russia---central-asia/kyrgyzstan">Kyrgyzstan</a></li><li><a href="/holidays/russia---central-asia/russia">Russia</a></li><li><a href="/holidays/russia---central-asia/uzbekistan">Uzbekistan</a></li> </ul>
 </div>
   <div class="ghost" id="dest-south---central-america">
 <img src="images/nav/destinations/south___central_america.gif" alt="south---central-america" class="mapImg">
-<ul><li><a href="/holidays/south---central-america/amazon">Amazon</a></li>
-<li><a href="/holidays/south---central-america/argentina">Argentina</a></li>
-<li><a href="/holidays/south---central-america/belize">Belize</a></li>
-<li><a href="/holidays/south---central-america/bolivia">Bolivia</a></li>
-<li><a href="/holidays/south---central-america/brazil">Brazil</a></li>
-<li><a href="/holidays/south---central-america/chile">Chile</a></li>
-<li><a href="/holidays/south---central-america/costa-rica">Costa Rica</a></li>
-<li><a href="/holidays/south---central-america/easter-island">Easter Island</a></li>
-<li><a href="/holidays/south---central-america/ecuador">Ecuador</a></li>
-<li><a href="/holidays/south---central-america/galapagos-islands">Galapagos Islands</a></li>
-<li><a href="/holidays/south---central-america/guatemala">Guatemala</a></li>
-<li><a href="/holidays/south---central-america/iguassu-falls">Iguassu Falls</a></li>
-<li><a href="/holidays/south---central-america/mexico">Mexico</a></li>
-<li><a href="/holidays/south---central-america/patagonia">Patagonia</a></li>
-<li><a href="/holidays/south---central-america/peru">Peru</a></li>
-<li><a href="/holidays/south---central-america">South &amp; Central America</a></li>
-<li><a href="/holidays/south---central-america/uruguay">Uruguay</a></li>
- </ul>
+<ul><li><a href="/holidays/south---central-america">South &amp; Central America</a></li><li><a href="/holidays/south---central-america/amazon">Amazon</a></li><li><a href="/holidays/south---central-america/argentina">Argentina</a></li><li><a href="/holidays/south---central-america/belize">Belize</a></li><li><a href="/holidays/south---central-america/bolivia">Bolivia</a></li><li><a href="/holidays/south---central-america/brazil">Brazil</a></li><li><a href="/holidays/south---central-america/chile">Chile</a></li><li><a href="/holidays/south---central-america/colombia">Colombia</a></li><li><a href="/holidays/south---central-america/costa-rica">Costa Rica</a></li><li><a href="/holidays/south---central-america/easter-island">Easter Island</a></li><li><a href="/holidays/south---central-america/ecuador">Ecuador</a></li><li><a href="/holidays/south---central-america/galapagos-islands">Galapagos Islands</a></li><li><a href="/holidays/south---central-america/guatemala">Guatemala</a></li><li><a href="/holidays/south---central-america/iguassu-falls">Iguassu Falls</a></li><li><a href="/holidays/south---central-america/mexico">Mexico</a></li><li><a href="/holidays/south---central-america/patagonia">Patagonia</a></li><li><a href="/holidays/south---central-america/peru">Peru</a></li><li><a href="/holidays/south---central-america/uruguay">Uruguay</a></li> </ul>
+</div>
+  <div class="ghost" id="dest-south-east-asia">
+<img src="images/nav/destinations/south_east_asia.gif" alt="south-east-asia" class="mapImg">
+<ul><li><a href="/holidays/south-east-asia">South East Asia</a></li><li><a href="/holidays/south-east-asia/bali--lombok---indonesia">Bali, Lombok &amp; Indonesia</a></li><li><a href="/holidays/south-east-asia/borneo">Borneo</a></li><li><a href="/holidays/south-east-asia/burma-(myanmar)">Burma (Myanmar)</a></li><li><a href="/holidays/south-east-asia/cambodia---laos">Cambodia &amp; Laos</a></li><li><a href="/holidays/south-east-asia/malaysia">Malaysia</a></li><li><a href="/holidays/south-east-asia/philippines">Philippines</a></li><li><a href="/holidays/south-east-asia/singapore---bintan">Singapore &amp; Bintan</a></li><li><a href="/holidays/south-east-asia/thailand">Thailand</a></li><li><a href="/holidays/south-east-asia/vietnam">Vietnam</a></li> </ul>
 </div>
   <div class="ghost" id="dest-the-caribbean">
 <img src="images/nav/destinations/the_caribbean.gif" alt="the-caribbean" class="mapImg">
-<ul><li><a href="/holidays/the-caribbean">The Caribbean</a></li>
-<li><a href="/holidays/the-caribbean/antigua">Antigua</a></li>
-<li><a href="/holidays/the-caribbean/barbados">Barbados</a></li>
-<li><a href="/holidays/the-caribbean/bermuda">Bermuda</a></li>
-<li><a href="/holidays/the-caribbean/cuba">Cuba</a></li>
-<li><a href="/holidays/the-caribbean/dominican-republic">Dominican Republic</a></li>
-<li><a href="/holidays/the-caribbean/grenada">Grenada</a></li>
-<li><a href="/holidays/the-caribbean/jamaica">Jamaica</a></li>
-<li><a href="/holidays/the-caribbean/saint-lucia">Saint Lucia</a></li>
-<li><a href="/holidays/the-caribbean/st-kitts-and-nevis">St Kitts And Nevis</a></li>
-<li><a href="/holidays/the-caribbean/st-vincent---the-grenadines">St Vincent &amp; The Grenadines</a></li>
-<li><a href="/holidays/the-caribbean/the-bahamas">The Bahamas</a></li>
-<li><a href="/holidays/the-caribbean/tobago">Tobago</a></li>
-<li><a href="/holidays/the-caribbean/turks---caicos-islands">Turks &amp; Caicos Islands</a></li>
- </ul>
+<ul><li><a href="/holidays/the-caribbean">The Caribbean</a></li><li><a href="/holidays/the-caribbean/antigua">Antigua</a></li><li><a href="/holidays/the-caribbean/barbados">Barbados</a></li><li><a href="/holidays/the-caribbean/cuba">Cuba</a></li><li><a href="/holidays/the-caribbean/dominican-republic">Dominican Republic</a></li><li><a href="/holidays/the-caribbean/grenada">Grenada</a></li><li><a href="/holidays/the-caribbean/hidden-gems">Hidden Gems</a></li><li><a href="/holidays/the-caribbean/jamaica">Jamaica</a></li><li><a href="/holidays/the-caribbean/saint-lucia">Saint Lucia</a></li><li><a href="/holidays/the-caribbean/the-bahamas">The Bahamas</a></li><li><a href="/holidays/the-caribbean/tobago">Tobago</a></li> </ul>
 </div>
   <div class="ghost" id="dest-the-middle-east">
 <img src="images/nav/destinations/the_middle_east.gif" alt="the-middle-east" class="mapImg">
-<ul><li><a href="/holidays/the-middle-east">The Middle East</a></li>
-<li><a href="/holidays/the-middle-east/abu-dhabi">Abu Dhabi</a></li>
-<li><a href="/holidays/the-middle-east/dubai">Dubai</a></li>
-<li><a href="/holidays/the-middle-east/egypt">Egypt</a></li>
-<li><a href="/holidays/the-middle-east/israel">Israel</a></li>
-<li><a href="/holidays/the-middle-east/jordan">Jordan</a></li>
-<li><a href="/holidays/the-middle-east/oman">Oman</a></li>
- </ul>
+<ul><li><a href="/holidays/the-middle-east">The Middle East</a></li><li><a href="/holidays/the-middle-east/abu-dhabi">Abu Dhabi</a></li><li><a href="/holidays/the-middle-east/dubai">Dubai</a></li><li><a href="/holidays/the-middle-east/egypt">Egypt</a></li><li><a href="/holidays/the-middle-east/israel">Israel</a></li><li><a href="/holidays/the-middle-east/jordan">Jordan</a></li><li><a href="/holidays/the-middle-east/oman">Oman</a></li><li><a href="/holidays/the-middle-east/ras-al-khaimah">Ras Al Khaimah</a></li><li><a href="/holidays/the-middle-east/turkey">Turkey</a></li> </ul>
 </div>
   <div class="ghost" id="dest-usa">
 <img src="images/nav/destinations/usa.gif" alt="usa" class="mapImg">
-<ul><li><a href="/holidays/usa">USA</a></li>
-<li><a href="/holidays/usa/california">California</a></li>
-<li><a href="/holidays/usa/eastern-usa">Eastern USA</a></li>
-<li><a href="/holidays/usa/florida">Florida</a></li>
-<li><a href="/holidays/usa/hawaii">Hawaii</a></li>
-<li><a href="/holidays/usa/the-mid-west">The Mid West</a></li>
-<li><a href="/holidays/usa/the-south">The South</a></li>
-<li><a href="/holidays/usa/western-usa">Western USA</a></li>
- </ul>
+<ul><li><a href="/holidays/usa">USA</a></li><li><a href="/holidays/usa/california">California</a></li><li><a href="/holidays/usa/eastern-usa">Eastern USA</a></li><li><a href="/holidays/usa/florida">Florida</a></li><li><a href="/holidays/usa/hawaii">Hawaii</a></li><li><a href="/holidays/usa/the-mid-west">The Mid West</a></li><li><a href="/holidays/usa/the-south">The South</a></li><li><a href="/holidays/usa/western-usa">Western USA</a></li> </ul>
 </div>
 </div><!-- END Destionations col7 --> 
 <!-- END Tabs Container -->             
@@ -544,7 +486,7 @@ Whether you are just looking for a week in the sun, a beach twin centre or to un
 <a class="pull-left thumbnail panel-item" href="/coach-touring">
 <img class="pull-left img-rounded" src="images/nav/styles/coach-touring.jpg" alt="Coach Touring">
 <h4>Coach Touring</h4>
-<p>Escorted Coach Tours offer a hassle free, leisurely way to experience a destination. Travelling with a group of like minded people they are a sociable and carefree way to travel</p>
+<p>Escorted coach tours offer a hassle free, leisurely way to experience a destination. Travelling with a group of like minded people they are a sociable and carefree way to travel</p>
 </a>
 </div>
 <!-- end of Coach Touring -->
@@ -583,7 +525,7 @@ Whether you are just looking for a week in the sun, a beach twin centre or to un
 <a class="pull-left thumbnail panel-item" href="/family-holidays">
 <img class="pull-left img-rounded" src="images/nav/styles/family-holidays.jpg" alt="Family Holidays">
 <h4>Family Holidays</h4>
-<p>Inspirational Family Holiday ideas from Australia to Walt Disney World. Whether you are looking for adventure or relaxation we've got the family escape for you.</p>
+<p>Inspirational family getaway ideas from Australia to Walt Disney World. Whether you are looking for adventure or relaxation we've got the family escape for you.</p>
 </a>
 </div>
 <!-- end of Family Holidays -->
@@ -592,7 +534,7 @@ Whether you are just looking for a week in the sun, a beach twin centre or to un
 <a class="pull-left thumbnail panel-item" href="/fly-drives">
 <img class="pull-left img-rounded" src="images/nav/styles/fly-drives.jpg" alt="Fly-Drives">
 <h4>Fly-Drives</h4>
-<p>Car and Motorhome fly drives including inspirational itineraries and hand picked hotels.</p>
+<p>Car and motorhome fly drives including inspirational itineraries, with hand picked hotels and experiences.</p>
 </a>
 </div>
 <!-- end of Fly-Drives -->
@@ -601,7 +543,7 @@ Whether you are just looking for a week in the sun, a beach twin centre or to un
 <a class="pull-left thumbnail panel-item" href="/great-rail-journeys">
 <img class="pull-left img-rounded" src="images/nav/styles/great-rail-journeys.jpg" alt="Great Rail Journeys">
 <h4>Great Rail Journeys</h4>
-<p>Discover the world by rail
+<p>Discover the world by rail.
 Experience iconic rail journeys and tailormade holidays by train all over the globe.</p>
 </a>
 </div>
@@ -641,7 +583,7 @@ Experience iconic rail journeys and tailormade holidays by train all over the gl
 <a class="pull-left thumbnail panel-item" href="/small-group-adventure">
 <img class="pull-left img-rounded" src="images/nav/styles/small-group-adventure.jpg" alt="Small Group Adventure">
 <h4>Small Group Adventure</h4>
-<p>Small Group adventures all over the globe travelling on local transport and staying in simple accommodation or even camping under the stars!</p>
+<p>Sociable small group tours all over the globe, travelling on local transport and staying in simple accommodation or even camping under the stars!</p>
 </a>
 </div>
 <!-- end of Small Group Adventure -->
@@ -914,7 +856,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul>
 <li><a href="/flights/new-zealand#economy" class="flightsFirstDest">New Zealand</a></li>
 <li><a href="/flights/auckland#economy">Auckland</a></li>
-<li><a href="/flights/christchurch#economy">Christchurch</a></li>
 <li><a href="/flights/wellington#economy">Wellington</a></li>
 <li><a href="/flights/cook-islands-(rarotonga)#economy">Cook Islands (Rarotonga)</a></li>
 <li><a href="/flights/fiji#economy">Fiji</a></li>
@@ -930,7 +871,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/hit-the-road">Hit the Road</a></li>
 <li><a href="/flights/perfect-pacific">Perfect Pacific</a></li>
 <li><a href="/flights/round-the-world-by-train">Round the World by Train</a></li>
-<li><a href="/flights/sail-away">Sail Away</a></li>
 <li><a href="/flights/slumdog-to-samba">Slumdog to Samba</a></li>
 <li><a href="/flights/spirit-of-adventure">Spirit of Adventure</a></li>
 <li><a href="/flights/the-classic">The Classic</a></li>
@@ -1016,8 +956,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/boston#economy">Boston</a></li>
 <li><a href="/flights/chicago#economy">Chicago</a></li>
 <li><a href="/flights/denver#economy">Denver</a></li>
-<li><a href="/flights/hawaii#economy">Hawaii</a></li>
-<li><a href="/flights/las-vegas#economy">Las Vegas</a></li>
 <li><a href="/flights/miami#economy">Miami</a></li>
 <li><a href="/flights/new-orleans#economy">New Orleans</a></li>
 <li><a href="/flights/new-york#economy">New York</a></li>
@@ -1026,6 +964,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/san-diego#economy">San Diego</a></li>
 <li><a href="/flights/tampa#economy">Tampa</a></li>
 <li><a href="/flights/washington-d.c.#economy">Washington D.C.</a></li>
+<li><a href="/flights/las-vegas#economy">Las Vegas</a></li>
 <li><a href="/flights/los-angeles#economy">Los Angeles</a></li>
 <li><a href="/flights/san-francisco#economy">San Francisco</a></li>
 </ul>
@@ -1088,11 +1027,9 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul>
 <li><a href="/flights/malaysia#premium" class="flightsFirstDest">Malaysia</a></li>
 <li><a href="/flights/kuala-lumpur#premium">Kuala Lumpur</a></li>
-<li><a href="/flights/penang#premium">Penang</a></li>
 <li><a href="/flights/thailand#premium" class="flightsFirstDest">Thailand</a></li>
 <li><a href="/flights/bangkok#premium">Bangkok</a></li>
 <li><a href="/flights/vietnam#premium" class="flightsFirstDest">Vietnam</a></li>
-<li><a href="/flights/ho-chi-minh-city#premium">Ho Chi Minh City</a></li>
 <li><a href="/flights/singapore#premium">Singapore</a></li>
 </ul>
 <!-- END premium_economysouth_east_asia--></div>
@@ -1123,6 +1060,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul>
 <li><a href="/flights/usa#premium" class="flightsFirstDest">USA</a></li>
 <li><a href="/flights/boston#premium">Boston</a></li>
+<li><a href="/flights/las-vegas#premium">Las Vegas</a></li>
 <li><a href="/flights/los-angeles#premium">Los Angeles</a></li>
 <li><a href="/flights/miami#premium">Miami</a></li>
 <li><a href="/flights/new-york#premium">New York</a></li>
@@ -1191,8 +1129,8 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/chennai#business">Chennai</a></li>
 <li><a href="/flights/delhi#business">Delhi</a></li>
 <li><a href="/flights/mumbai#business">Mumbai</a></li>
-<li><a href="/flights/colombo#business">Colombo</a></li>
 <li><a href="/flights/kathmandu#business">Kathmandu</a></li>
+<li><a href="/flights/sri-lanka#business">Sri Lanka</a></li>
 </ul>
 <!-- END business_classindia_the_himalayas__sri_lanka--></div>
  <!-- START maldives_mauritius__seychellesbusiness_class -->
@@ -1255,6 +1193,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/rio-de-janeiro#business">Rio de Janeiro</a></li>
 <li><a href="/flights/sao-paulo#business">Sao Paulo</a></li>
 <li><a href="/flights/buenos-aires#business">Buenos Aires</a></li>
+<li><a href="/flights/lima#business">Lima</a></li>
 <li><a href="/flights/mexico-city#business">Mexico City</a></li>
 <li><a href="/flights/santiago#business">Santiago</a></li>
 </ul>
@@ -1373,7 +1312,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/flights/bangkok#first">Bangkok</a></li>
 <li><a href="/flights/phuket#first">Phuket</a></li>
 <li><a href="/flights/vietnam#first" class="flightsFirstDest">Vietnam</a></li>
-<li><a href="/flights/ho-chi-minh-city#first">Ho Chi Minh City</a></li>
 <li><a href="/flights/manila#first">Manila</a></li>
 <li><a href="/flights/singapore#first">Singapore</a></li>
 </ul>
@@ -1452,6 +1390,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="#australiaHotelsRegion" id="hot-australia">Australia</a></li>
 <li><a href="#canada__alaskaHotelsRegion" id="hot-canada__alaska">Canada &amp; Alaska</a></li>
 <li><a href="#china_hong_kong__japanHotelsRegion" id="hot-china_hong_kong__japan">China, Hong Kong &amp; Japan</a></li>
+<li><a href="#europeHotelsRegion" id="hot-europe">Europe</a></li>
 <li><a href="#india_the_himalayas__sri_lankaHotelsRegion" id="hot-india_the_himalayas__sri_lanka">India, the Himalayas &amp; Sri Lanka</a></li>
 <li><a href="#maldives_mauritius__seychellesHotelsRegion" id="hot-maldives_mauritius__seychelles">Maldives, Mauritius &amp; Seychelles</a></li>
 <li><a href="#new_zealand__the_pacificHotelsRegion" id="hot-new_zealand__the_pacific">New Zealand &amp; the Pacific</a></li>
@@ -1484,8 +1423,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul class="lvl1">
 <li><a href="#ayers_rock__northern_territoryaustralia" class="evitca active">Ayers Rock &amp; Northern Territory</a></li>
 <li><a href="#great_barrier_reef__queenslandaustralia">Great Barrier Reef &amp; Queensland</a></li>
-<li><a href="#northern_territoryaustralia">Northern Territory</a></li>
-<li><a href="#queenslandaustralia">Queensland</a></li>
 <li><a href="#south_australiaaustralia">South Australia</a></li>
 <li><a href="#sydney__new_south_walesaustralia">Sydney &amp; New South Wales</a></li>
 <li><a href="#tasmaniaaustralia">Tasmania</a></li>
@@ -1508,14 +1445,37 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="#chinachina_hong_kong__japan" class="evitca active">China</a></li>
 <li><a href="#hong_kong__macauchina_hong_kong__japan">Hong Kong &amp; Macau</a></li>
 <li><a href="#japanchina_hong_kong__japan">Japan</a></li>
-<li><a href="#taiwanchina_hong_kong__japan">Taiwan</a></li>
+<li><a href="#south_koreachina_hong_kong__japan">South Korea</a></li>
  </ul>
 </div>
-<!-- END china_hong_kong__japan REGION --><!--START india_the_himalayas__sri_lanka REGION -->
+<!-- END china_hong_kong__japan REGION --><!--START europe REGION -->
+<div id="europeHotelsRegion" class="ghost">
+<ul class="lvl1">
+<li><a href="#austriaeurope" class="evitca active">Austria</a></li>
+<li><a href="#belgiumeurope">Belgium</a></li>
+<li><a href="#czech_republiceurope">Czech Republic</a></li>
+<li><a href="#denmarkeurope">Denmark</a></li>
+<li><a href="#franceeurope">France</a></li>
+<li><a href="#germanyeurope">Germany</a></li>
+<li><a href="#greeceeurope">Greece</a></li>
+<li><a href="#hollandeurope">Holland</a></li>
+<li><a href="#hungaryeurope">Hungary</a></li>
+<li><a href="#icelandeurope">Iceland</a></li>
+<li><a href="#italyeurope">Italy</a></li>
+<li><a href="#monacoeurope">Monaco</a></li>
+<li><a href="#norwayeurope">Norway</a></li>
+<li><a href="#portugaleurope">Portugal</a></li>
+<li><a href="#spaineurope">Spain</a></li>
+<li><a href="#swedeneurope">Sweden</a></li>
+<li><a href="#switzerlandeurope">Switzerland</a></li>
+<li><a href="#turkeyeurope">Turkey</a></li>
+ </ul>
+</div>
+<!-- END europe REGION --><!--START india_the_himalayas__sri_lanka REGION -->
 <div id="india_the_himalayas__sri_lankaHotelsRegion" class="ghost">
 <ul class="lvl1">
-<li><a href="#central__western_indiaindia_the_himalayas__sri_lanka" class="evitca active">Central &amp; Western India</a></li>
-<li><a href="#goaindia_the_himalayas__sri_lanka">Goa</a></li>
+<li><a href="#bhutanindia_the_himalayas__sri_lanka" class="evitca active">Bhutan</a></li>
+<li><a href="#central__western_indiaindia_the_himalayas__sri_lanka">Central &amp; Western India</a></li>
 <li><a href="#himalayas__eastern_indiaindia_the_himalayas__sri_lanka">Himalayas &amp; Eastern India</a></li>
 <li><a href="#indian_national_parksindia_the_himalayas__sri_lanka">Indian National Parks</a></li>
 <li><a href="#indiaindia_the_himalayas__sri_lanka">India</a></li>
@@ -1580,7 +1540,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul class="lvl1">
 <li><a href="#antiguathe_caribbean" class="evitca active">Antigua</a></li>
 <li><a href="#barbadosthe_caribbean">Barbados</a></li>
-<li><a href="#bermudathe_caribbean">Bermuda</a></li>
 <li><a href="#cubathe_caribbean">Cuba</a></li>
 <li><a href="#dominican_republicthe_caribbean">Dominican Republic</a></li>
 <li><a href="#grenadathe_caribbean">Grenada</a></li>
@@ -1602,6 +1561,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="#jordanthe_middle_east">Jordan</a></li>
 <li><a href="#omanthe_middle_east">Oman</a></li>
 <li><a href="#turkeythe_middle_east">Turkey</a></li>
+<li><a href="#uaethe_middle_east">Uae</a></li>
  </ul>
 </div>
 <!-- END the_middle_east REGION --><!--START usa REGION -->
@@ -1654,13 +1614,12 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START moroccoafrica Destination -->
 <div id="moroccoafrica" class="ghost">
 <ul>
-<li><a href="/hotels/africa/morocco/agadir">Agadir</a></li>
-<li><a href="/hotels/africa/morocco/casablanca" class="ghost">Casablanca</a></li>
+<li><a href="/hotels/africa/morocco/casablanca">Casablanca</a></li>
 <li><a href="/hotels/africa/morocco/essaouira" class="ghost">Essaouira</a></li>
-<li><a href="/hotels/africa/morocco/fes" class="ghost">Fes</a></li>
+<li><a href="/hotels/africa/morocco/fez" class="ghost">Fez</a></li>
 <li><a href="/hotels/africa/morocco/high-atlas-mountains" class="ghost">High Atlas Mountains</a></li>
 <li><a href="/hotels/africa/morocco/marrakech" class="ghost">Marrakech</a></li>
-<li><a href="/hotels/africa/morocco/mazagan" class="ghost">Mazagan</a></li>
+<li><a href="/hotels/africa/morocco/merzouga-dunes" class="ghost">Merzouga Dunes</a></li>
 </ul>
 </div><!-- END moroccoafrica Destination -->
 <!-- START mozambiqueafrica Destination -->
@@ -1692,6 +1651,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div id="tanzaniaafrica" class="ghost">
 <ul>
 <li><a href="/hotels/africa/tanzania/arusha">Arusha</a></li>
+<li><a href="/hotels/africa/tanzania/grumeti" class="ghost">Grumeti</a></li>
 <li><a href="/hotels/africa/tanzania/lake-manyara-national-park" class="ghost">Lake Manyara National Park</a></li>
 <li><a href="/hotels/africa/tanzania/ngorongoro-crater" class="ghost">Ngorongoro Crater</a></li>
 <li><a href="/hotels/africa/tanzania/serengeti-national-park" class="ghost">Serengeti National Park</a></li>
@@ -1732,6 +1692,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/cairns" class="ghost">Cairns</a></li>
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/fraser-island-and-the-sunshine-coast" class="ghost">Fraser Island &amp; The Sunshine Coast</a></li>
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/gold-coast" class="ghost">Gold Coast</a></li>
+<li><a href="/hotels/australia/great-barrier-reef-and-queensland/islands-of-the-great-barrier-reef" class="ghost">Islands Of The Great Barrier Reef</a></li>
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/kewarra%2c-trinity-and-mission-beach" class="ghost">Kewarra, Trinity &amp; Mission Beach</a></li>
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/palm-cove" class="ghost">Palm Cove</a></li>
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/port-douglas" class="ghost">Port Douglas</a></li>
@@ -1739,38 +1700,23 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/australia/great-barrier-reef-and-queensland/tropical-tablelands" class="ghost">Tropical Tablelands</a></li>
 </ul>
 </div><!-- END great_barrier_reef__queenslandaustralia Destination -->
-<!-- START northern_territoryaustralia Destination -->
-<div id="northern_territoryaustralia" class="ghost">
-<ul>
-<li><a href="/hotels/australia/northern-territory/top-end">Top End</a></li>
-</ul>
-</div><!-- END northern_territoryaustralia Destination -->
-<!-- START queenslandaustralia Destination -->
-<div id="queenslandaustralia" class="ghost">
-<ul>
-<li><a href="/hotels/australia/queensland/islands-of-the-great-barrier-reef">Islands Of The Great Barrier Reef</a></li>
-<li><a href="/hotels/australia/queensland/port-douglas" class="ghost">Port Douglas</a></li>
-</ul>
-</div><!-- END queenslandaustralia Destination -->
 <!-- START south_australiaaustralia Destination -->
 <div id="south_australiaaustralia" class="ghost">
 <ul>
-<li><a href="/hotels/australia/south-australia/adelaide-and-barossa-valley">Adelaide &amp; Barossa Valley</a></li>
-<li><a href="/hotels/australia/south-australia/adelaide-and-glenelg-hotels" class="ghost">Adelaide &amp; Glenelg Hotels</a></li>
+<li><a href="/hotels/australia/south-australia/adelaide-and-glenelg">Adelaide &amp; Glenelg</a></li>
+<li><a href="/hotels/australia/south-australia/barossa-valley-and-fleurieu-peninsula" class="ghost">Barossa Valley &amp; Fleurieu Peninsula</a></li>
+<li><a href="/hotels/australia/south-australia/flinders-ranges-and-port-lincoln" class="ghost">Flinders Ranges &amp; Port Lincoln</a></li>
 <li><a href="/hotels/australia/south-australia/kangaroo-island" class="ghost">Kangaroo Island</a></li>
-<li><a href="/hotels/australia/south-australia/south-australia" class="ghost">South Australia</a></li>
 </ul>
 </div><!-- END south_australiaaustralia Destination -->
 <!-- START sydney__new_south_walesaustralia Destination -->
 <div id="sydney__new_south_walesaustralia" class="ghost">
 <ul>
-<li><a href="/hotels/australia/sydney-and-new-south-wales/blue-mountains-and-hunter-valley">Blue Mountains &amp; Hunter Valley</a></li>
-<li><a href="/hotels/australia/sydney-and-new-south-wales/blue-mountains" class="ghost">Blue Mountains</a></li>
+<li><a href="/hotels/australia/sydney-and-new-south-wales/blue-mountains">Blue Mountains</a></li>
 <li><a href="/hotels/australia/sydney-and-new-south-wales/hunter-valley-and-the-legendary-pacific-coast" class="ghost">Hunter Valley &amp; The Legendary Pacific Coast</a></li>
 <li><a href="/hotels/australia/sydney-and-new-south-wales/southern-new-south-wales-and-canberra" class="ghost">Southern New South Wales &amp; Canberra</a></li>
 <li><a href="/hotels/australia/sydney-and-new-south-wales/sydney-beaches" class="ghost">Sydney Beaches</a></li>
 <li><a href="/hotels/australia/sydney-and-new-south-wales/sydney" class="ghost">Sydney</a></li>
-<li><a href="/hotels/australia/sydney-and-new-south-wales/the-legendary-pacific-coast" class="ghost">The Legendary Pacific Coast</a></li>
 </ul>
 </div><!-- END sydney__new_south_walesaustralia Destination -->
 <!-- START tasmaniaaustralia Destination -->
@@ -1782,9 +1728,8 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START victoriaaustralia Destination -->
 <div id="victoriaaustralia" class="ghost">
 <ul>
-<li><a href="/hotels/australia/victoria/melbourne">Melbourne</a></li>
-<li><a href="/hotels/australia/victoria/the-great-ocean-road" class="ghost">The Great Ocean Road</a></li>
-<li><a href="/hotels/australia/victoria/victoria" class="ghost">Victoria</a></li>
+<li><a href="/hotels/australia/victoria/great-ocean-road-and-beyond">Great Ocean Road &amp; Beyond</a></li>
+<li><a href="/hotels/australia/victoria/melbourne" class="ghost">Melbourne</a></li>
 </ul>
 </div><!-- END victoriaaustralia Destination -->
 <!-- START western_australiaaustralia Destination -->
@@ -1804,22 +1749,16 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START eastern_canadacanada__alaska Destination -->
 <div id="eastern_canadacanada__alaska" class="ghost">
 <ul>
-<li><a href="/hotels/canada/eastern-canada/montreal">Montreal</a></li>
-<li><a href="/hotels/canada/eastern-canada/newfoundland" class="ghost">Newfoundland</a></li>
-<li><a href="/hotels/canada/eastern-canada/quebec" class="ghost">Quebec</a></li>
+<li><a href="/hotels/canada/eastern-canada/newfoundland">Newfoundland</a></li>
+<li><a href="/hotels//eastern-canada/quebec" class="ghost">Quebec</a></li>
 <li><a href="/hotels/canada/eastern-canada/the-maritimes" class="ghost">The Maritimes</a></li>
-<li><a href="/hotels/canada/eastern-canada/toronto-and-ontario" class="ghost">Toronto &amp; Ontario</a></li>
+<li><a href="/hotels//eastern-canada/toronto-and-ontario" class="ghost">Toronto &amp; Ontario</a></li>
 </ul>
 </div><!-- END eastern_canadacanada__alaska Destination -->
 <!-- START northern_canada__the_arcticcanada__alaska Destination -->
 <div id="northern_canada__the_arcticcanada__alaska" class="ghost">
 <ul>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/beaver-creek">Beaver Creek</a></li>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/dawson-city" class="ghost">Dawson City</a></li>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/haines-junction" class="ghost">Haines Junction</a></li>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/iqaluit%2c-nunavut" class="ghost">Iqaluit, Nunavut</a></li>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/northwest-territories" class="ghost">Northwest Territories</a></li>
-<li><a href="/hotels/canada/northern-canada-and-the-arctic/whitehorse%2c-yukon" class="ghost">Whitehorse, Yukon</a></li>
+<li><a href="/hotels/canada/northern-canada-and-the-arctic/northern-canada-and-the-arctic">Northern Canada &amp; The Arctic</a></li>
 </ul>
 </div><!-- END northern_canada__the_arcticcanada__alaska Destination -->
 <!-- START western_canadacanada__alaska Destination -->
@@ -1829,7 +1768,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/canada/western-canada/vancouver-island-and-the-sunshine-coast" class="ghost">Vancouver Island &amp; The Sunshine Coast</a></li>
 <li><a href="/hotels/canada/western-canada/vancouver" class="ghost">Vancouver</a></li>
 <li><a href="/hotels/canada/western-canada/whistler%2c-british-columbia-resorts-and-ranches" class="ghost">Whistler, British Columbia Resorts &amp; Ranches</a></li>
-<li><a href="/hotels/canada/western-canada/whistler" class="ghost">Whistler</a></li>
 <li><a href="/hotels/canada/western-canada/wilderness-and-wildlife-resorts" class="ghost">Wilderness &amp; Wildlife Resorts</a></li>
 </ul>
 </div><!-- END western_canadacanada__alaska Destination -->
@@ -1837,6 +1775,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div id="chinachina_hong_kong__japan" class="ghost">
 <ul>
 <li><a href="/hotels/china/china/beijing">Beijing</a></li>
+<li><a href="/hotels/china/china/benzilan" class="ghost">Benzilan</a></li>
 <li><a href="/hotels/china/china/chengdu" class="ghost">Chengdu</a></li>
 <li><a href="/hotels/china/china/chongqing" class="ghost">Chongqing</a></li>
 <li><a href="/hotels/china/china/dali" class="ghost">Dali</a></li>
@@ -1872,43 +1811,194 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START japanchina_hong_kong__japan Destination -->
 <div id="japanchina_hong_kong__japan" class="ghost">
 <ul>
-<li><a href="/hotels/china/japan/aso">Aso</a></li>
-<li><a href="/hotels/china/japan/beppu" class="ghost">Beppu</a></li>
-<li><a href="/hotels/china/japan/hakone" class="ghost">Hakone</a></li>
+<li><a href="/hotels/china/japan/hakone">Hakone</a></li>
 <li><a href="/hotels/china/japan/hiroshima" class="ghost">Hiroshima</a></li>
+<li><a href="/hotels/china/japan/ishigaki-island" class="ghost">Ishigaki Island</a></li>
 <li><a href="/hotels/china/japan/kanazawa" class="ghost">Kanazawa</a></li>
 <li><a href="/hotels/china/japan/kumamoto" class="ghost">Kumamoto</a></li>
 <li><a href="/hotels/china/japan/kyoto" class="ghost">Kyoto</a></li>
 <li><a href="/hotels/china/japan/miyajima" class="ghost">Miyajima</a></li>
+<li><a href="/hotels/china/japan/mount-koya" class="ghost">Mount Koya</a></li>
 <li><a href="/hotels/china/japan/nagasaki" class="ghost">Nagasaki</a></li>
 <li><a href="/hotels/china/japan/naoshima" class="ghost">Naoshima</a></li>
 <li><a href="/hotels/china/japan/nara" class="ghost">Nara</a></li>
 <li><a href="/hotels/china/japan/nikko" class="ghost">Nikko</a></li>
-<li><a href="/hotels/china/japan/osaka" class="ghost">Osaka</a></li>
 <li><a href="/hotels/china/japan/takayama" class="ghost">Takayama</a></li>
 <li><a href="/hotels/china/japan/tokyo" class="ghost">Tokyo</a></li>
 </ul>
 </div><!-- END japanchina_hong_kong__japan Destination -->
-<!-- START taiwanchina_hong_kong__japan Destination -->
-<div id="taiwanchina_hong_kong__japan" class="ghost">
+<!-- START south_koreachina_hong_kong__japan Destination -->
+<div id="south_koreachina_hong_kong__japan" class="ghost">
 <ul>
-<li><a href="/hotels/china/taiwan/taipei">Taipei</a></li>
+<li><a href="/hotels/china/south-korea/busan">Busan</a></li>
+<li><a href="/hotels/china/south-korea/daegu" class="ghost">Daegu</a></li>
+<li><a href="/hotels/china/south-korea/gyeongju" class="ghost">Gyeongju</a></li>
+<li><a href="/hotels/china/south-korea/jeju-island" class="ghost">Jeju Island</a></li>
+<li><a href="/hotels/china/south-korea/seoul" class="ghost">Seoul</a></li>
 </ul>
-</div><!-- END taiwanchina_hong_kong__japan Destination -->
+</div><!-- END south_koreachina_hong_kong__japan Destination -->
+<!-- START austriaeurope Destination -->
+<div id="austriaeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/austria/vienna">Vienna</a></li>
+</ul>
+</div><!-- END austriaeurope Destination -->
+<!-- START belgiumeurope Destination -->
+<div id="belgiumeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/belgium/bruges">Bruges</a></li>
+<li><a href="/hotels/europe/belgium/brussels" class="ghost">Brussels</a></li>
+</ul>
+</div><!-- END belgiumeurope Destination -->
+<!-- START czech_republiceurope Destination -->
+<div id="czech_republiceurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/czech-republic/prague">Prague</a></li>
+</ul>
+</div><!-- END czech_republiceurope Destination -->
+<!-- START denmarkeurope Destination -->
+<div id="denmarkeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/denmark/copenhagen">Copenhagen</a></li>
+</ul>
+</div><!-- END denmarkeurope Destination -->
+<!-- START franceeurope Destination -->
+<div id="franceeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/france/nice">Nice</a></li>
+<li><a href="/hotels/europe/france/paris" class="ghost">Paris</a></li>
+</ul>
+</div><!-- END franceeurope Destination -->
+<!-- START germanyeurope Destination -->
+<div id="germanyeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/germany/berlin">Berlin</a></li>
+<li><a href="/hotels/europe/germany/munich" class="ghost">Munich</a></li>
+</ul>
+</div><!-- END germanyeurope Destination -->
+<!-- START greeceeurope Destination -->
+<div id="greeceeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/greece/athens">Athens</a></li>
+</ul>
+</div><!-- END greeceeurope Destination -->
+<!-- START hollandeurope Destination -->
+<div id="hollandeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/holland/amsterdam">Amsterdam</a></li>
+</ul>
+</div><!-- END hollandeurope Destination -->
+<!-- START hungaryeurope Destination -->
+<div id="hungaryeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/hungary/budapest">Budapest</a></li>
+</ul>
+</div><!-- END hungaryeurope Destination -->
+<!-- START icelandeurope Destination -->
+<div id="icelandeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/iceland/reykjavik">Reykjavik</a></li>
+</ul>
+</div><!-- END icelandeurope Destination -->
+<!-- START italyeurope Destination -->
+<div id="italyeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/italy/amalfi-coast">Amalfi Coast</a></li>
+<li><a href="/hotels/europe/italy/assisi" class="ghost">Assisi</a></li>
+<li><a href="/hotels/europe/italy/florence" class="ghost">Florence</a></li>
+<li><a href="/hotels/europe/italy/lake-como" class="ghost">Lake Como</a></li>
+<li><a href="/hotels/europe/italy/milan" class="ghost">Milan</a></li>
+<li><a href="/hotels/europe/italy/naples" class="ghost">Naples</a></li>
+<li><a href="/hotels/europe/italy/pallanza" class="ghost">Pallanza</a></li>
+<li><a href="/hotels/europe/italy/rome" class="ghost">Rome</a></li>
+<li><a href="/hotels/europe/italy/sorrento" class="ghost">Sorrento</a></li>
+<li><a href="/hotels/europe/italy/stresa" class="ghost">Stresa</a></li>
+<li><a href="/hotels/europe/italy/tuscany" class="ghost">Tuscany</a></li>
+<li><a href="/hotels/europe/italy/venice" class="ghost">Venice</a></li>
+<li><a href="/hotels/europe/italy/verona" class="ghost">Verona</a></li>
+</ul>
+</div><!-- END italyeurope Destination -->
+<!-- START monacoeurope Destination -->
+<div id="monacoeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/monaco/monte-carlo">Monte Carlo</a></li>
+</ul>
+</div><!-- END monacoeurope Destination -->
+<!-- START norwayeurope Destination -->
+<div id="norwayeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/norway/bergen">Bergen</a></li>
+<li><a href="/hotels/europe/norway/oslo" class="ghost">Oslo</a></li>
+<li><a href="/hotels/europe/norway/tromso" class="ghost">Tromso</a></li>
+</ul>
+</div><!-- END norwayeurope Destination -->
+<!-- START portugaleurope Destination -->
+<div id="portugaleurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/portugal/algarve">Algarve</a></li>
+<li><a href="/hotels/europe/portugal/lisbon" class="ghost">Lisbon</a></li>
+</ul>
+</div><!-- END portugaleurope Destination -->
+<!-- START spaineurope Destination -->
+<div id="spaineurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/spain/barcelona">Barcelona</a></li>
+<li><a href="/hotels/europe/spain/cordoba" class="ghost">Cordoba</a></li>
+<li><a href="/hotels/europe/spain/granada" class="ghost">Granada</a></li>
+<li><a href="/hotels/europe/spain/madrid" class="ghost">Madrid</a></li>
+<li><a href="/hotels/europe/spain/malaga" class="ghost">Malaga</a></li>
+<li><a href="/hotels/europe/spain/seville" class="ghost">Seville</a></li>
+<li><a href="/hotels/europe/spain/valencia" class="ghost">Valencia</a></li>
+</ul>
+</div><!-- END spaineurope Destination -->
+<!-- START swedeneurope Destination -->
+<div id="swedeneurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/sweden/stockholm">Stockholm</a></li>
+</ul>
+</div><!-- END swedeneurope Destination -->
+<!-- START switzerlandeurope Destination -->
+<div id="switzerlandeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/switzerland/geneva">Geneva</a></li>
+</ul>
+</div><!-- END switzerlandeurope Destination -->
+<!-- START turkeyeurope Destination -->
+<div id="turkeyeurope" class="ghost">
+<ul>
+<li><a href="/hotels/europe/turkey/alacati">Alacati</a></li>
+<li><a href="/hotels/europe/turkey/belek" class="ghost">Belek</a></li>
+<li><a href="/hotels/europe/turkey/bodrum-peninsula" class="ghost">Bodrum Peninsula</a></li>
+<li><a href="/hotels/europe/turkey/canakkale" class="ghost">Canakkale</a></li>
+<li><a href="/hotels/europe/turkey/cappadocia" class="ghost">Cappadocia</a></li>
+<li><a href="/hotels/europe/turkey/cirali" class="ghost">Cirali</a></li>
+<li><a href="/hotels/europe/turkey/dat%c3%a7a-peninsula" class="ghost">Dat?a Peninsula</a></li>
+<li><a href="/hotels/europe/turkey/fethiye" class="ghost">Fethiye</a></li>
+<li><a href="/hotels/europe/turkey/istanbul" class="ghost">Istanbul</a></li>
+<li><a href="/hotels/europe/turkey/izmir" class="ghost">Izmir</a></li>
+<li><a href="/hotels/europe/turkey/kalkan" class="ghost">Kalkan</a></li>
+<li><a href="/hotels/europe/turkey/kas" class="ghost">Kas</a></li>
+<li><a href="/hotels/europe/turkey/konya" class="ghost">Konya</a></li>
+<li><a href="/hotels/europe/turkey/oludeniz" class="ghost">Oludeniz</a></li>
+<li><a href="/hotels/europe/turkey/pamukkale" class="ghost">Pamukkale</a></li>
+<li><a href="/hotels/europe/turkey/sirince" class="ghost">Sirince</a></li>
+</ul>
+</div><!-- END turkeyeurope Destination -->
+<!-- START bhutanindia_the_himalayas__sri_lanka Destination -->
+<div id="bhutanindia_the_himalayas__sri_lanka" class="ghost">
+<ul>
+<li><a href="/hotels/india/bhutan/paro">Paro</a></li>
+<li><a href="/hotels/india/bhutan/punakha" class="ghost">Punakha</a></li>
+<li><a href="/hotels/india/bhutan/thimphu" class="ghost">Thimphu</a></li>
+</ul>
+</div><!-- END bhutanindia_the_himalayas__sri_lanka Destination -->
 <!-- START central__western_indiaindia_the_himalayas__sri_lanka Destination -->
 <div id="central__western_indiaindia_the_himalayas__sri_lanka" class="ghost">
 <ul>
 <li><a href="/hotels/india/central-and-western-india/ahmedabad">Ahmedabad</a></li>
-<li><a href="/hotels/india/central-and-western-india/aurangabad" class="ghost">Aurangabad</a></li>
 <li><a href="/hotels/india/central-and-western-india/mumbai" class="ghost">Mumbai</a></li>
 </ul>
 </div><!-- END central__western_indiaindia_the_himalayas__sri_lanka Destination -->
-<!-- START goaindia_the_himalayas__sri_lanka Destination -->
-<div id="goaindia_the_himalayas__sri_lanka" class="ghost">
-<ul>
-<li><a href="/hotels/india/goa/goa">Goa</a></li>
-</ul>
-</div><!-- END goaindia_the_himalayas__sri_lanka Destination -->
 <!-- START himalayas__eastern_indiaindia_the_himalayas__sri_lanka Destination -->
 <div id="himalayas__eastern_indiaindia_the_himalayas__sri_lanka" class="ghost">
 <ul>
@@ -1916,6 +2006,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/india/himalayas-and-eastern-india/dharamsala" class="ghost">Dharamsala</a></li>
 <li><a href="/hotels/india/himalayas-and-eastern-india/gangtok" class="ghost">Gangtok</a></li>
 <li><a href="/hotels/india/himalayas-and-eastern-india/kolkata" class="ghost">Kolkata</a></li>
+<li><a href="/hotels/india/himalayas-and-eastern-india/pelling" class="ghost">Pelling</a></li>
 <li><a href="/hotels/india/himalayas-and-eastern-india/shimla" class="ghost">Shimla</a></li>
 </ul>
 </div><!-- END himalayas__eastern_indiaindia_the_himalayas__sri_lanka Destination -->
@@ -1925,31 +2016,27 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/india/indian-national-parks/bandhavgarh-national-park">Bandhavgarh National Park</a></li>
 <li><a href="/hotels/india/indian-national-parks/corbett" class="ghost">Corbett</a></li>
 <li><a href="/hotels/india/indian-national-parks/kanha-tiger-reserve" class="ghost">Kanha Tiger Reserve</a></li>
-<li><a href="/hotels/india/indian-national-parks/kaziranga" class="ghost">Kaziranga</a></li>
+<li><a href="/hotels/india/indian-national-parks/nagarhole-national-park" class="ghost">Nagarhole National Park</a></li>
 <li><a href="/hotels/india/indian-national-parks/pench-tiger-reserve" class="ghost">Pench Tiger Reserve</a></li>
-<li><a href="/hotels/india/indian-national-parks/ranthambhore" class="ghost">Ranthambhore</a></li>
+<li><a href="/hotels/india/indian-national-parks/ranthambore" class="ghost">Ranthambore</a></li>
 </ul>
 </div><!-- END indian_national_parksindia_the_himalayas__sri_lanka Destination -->
 <!-- START indiaindia_the_himalayas__sri_lanka Destination -->
 <div id="indiaindia_the_himalayas__sri_lanka" class="ghost">
 <ul>
-<li><a href="/hotels/india/india/delhi">Delhi</a></li>
+<li><a href="/hotels/india/india/goa">Goa</a></li>
 </ul>
 </div><!-- END indiaindia_the_himalayas__sri_lanka Destination -->
 <!-- START kerala__southern_indiaindia_the_himalayas__sri_lanka Destination -->
 <div id="kerala__southern_indiaindia_the_himalayas__sri_lanka" class="ghost">
 <ul>
-<li><a href="/hotels/india/kerala-and-southern-india/alleppey">Alleppey</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/bangalore" class="ghost">Bangalore</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/calicut" class="ghost">Calicut</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/bangalore">Bangalore</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/bekal" class="ghost">Bekal</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/chennai" class="ghost">Chennai</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/cochin" class="ghost">Cochin</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/coonoor" class="ghost">Coonoor</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/hospet" class="ghost">Hospet</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/coorg" class="ghost">Coorg</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/hyderabad" class="ghost">Hyderabad</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/kanam" class="ghost">Kanam</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/kerala's-backwaters" class="ghost">Kerala's Backwaters</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/kerala%e2%80%99s-backwaters" class="ghost">Kerala?S Backwaters</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/kovalam" class="ghost">Kovalam</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/madurai" class="ghost">Madurai</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/mahabalipuram" class="ghost">Mahabalipuram</a></li>
@@ -1957,12 +2044,11 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/india/kerala-and-southern-india/marari" class="ghost">Marari</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/munnar" class="ghost">Munnar</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/mysore" class="ghost">Mysore</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/ooty" class="ghost">Ooty</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/neeleshwar" class="ghost">Neeleshwar</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/periyar" class="ghost">Periyar</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/tanjore" class="ghost">Tanjore</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/pondicherry" class="ghost">Pondicherry</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/tellicherry" class="ghost">Tellicherry</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/trivandrum" class="ghost">Trivandrum</a></li>
-<li><a href="/hotels/india/kerala-and-southern-india/varkala" class="ghost">Varkala</a></li>
+<li><a href="/hotels/india/kerala-and-southern-india/trichy" class="ghost">Trichy</a></li>
 <li><a href="/hotels/india/kerala-and-southern-india/wayanad" class="ghost">Wayanad</a></li>
 </ul>
 </div><!-- END kerala__southern_indiaindia_the_himalayas__sri_lanka Destination -->
@@ -1979,7 +2065,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul>
 <li><a href="/hotels/india/rajasthan-and-northern-india/agra">Agra</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/amritsar" class="ghost">Amritsar</a></li>
-<li><a href="/hotels/india/rajasthan-and-northern-india/bharatpur" class="ghost">Bharatpur</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/bikaner" class="ghost">Bikaner</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/delhi" class="ghost">Delhi</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/deogarh" class="ghost">Deogarh</a></li>
@@ -1989,10 +2074,9 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/india/rajasthan-and-northern-india/jodhpur" class="ghost">Jodhpur</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/khajuraho" class="ghost">Khajuraho</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/lucknow" class="ghost">Lucknow</a></li>
-<li><a href="/hotels/india/rajasthan-and-northern-india/nimaj" class="ghost">Nimaj</a></li>
+<li><a href="/hotels/india/rajasthan-and-northern-india/mandawa" class="ghost">Mandawa</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/osian" class="ghost">Osian</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/rohet" class="ghost">Rohet</a></li>
-<li><a href="/hotels/india/rajasthan-and-northern-india/samode" class="ghost">Samode</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/udaipur" class="ghost">Udaipur</a></li>
 <li><a href="/hotels/india/rajasthan-and-northern-india/varanasi" class="ghost">Varanasi</a></li>
 </ul>
@@ -2024,13 +2108,13 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START maldivesmaldives_mauritius__seychelles Destination -->
 <div id="maldivesmaldives_mauritius__seychelles" class="ghost">
 <ul>
-<li><a href="/hotels/indian-ocean/maldives/maldives">Maldives</a></li>
+<li><a href="/hotels//maldives/maldives">Maldives</a></li>
 </ul>
 </div><!-- END maldivesmaldives_mauritius__seychelles Destination -->
 <!-- START mauritiusmaldives_mauritius__seychelles Destination -->
 <div id="mauritiusmaldives_mauritius__seychelles" class="ghost">
 <ul>
-<li><a href="/hotels/indian-ocean/mauritius/mauritius">Mauritius</a></li>
+<li><a href="/hotels//mauritius/mauritius">Mauritius</a></li>
 </ul>
 </div><!-- END mauritiusmaldives_mauritius__seychelles Destination -->
 <!-- START reunionmaldives_mauritius__seychelles Destination -->
@@ -2042,7 +2126,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START seychellesmaldives_mauritius__seychelles Destination -->
 <div id="seychellesmaldives_mauritius__seychelles" class="ghost">
 <ul>
-<li><a href="/hotels/indian-ocean/seychelles/seychelles">Seychelles</a></li>
+<li><a href="/hotels//seychelles/seychelles">Seychelles</a></li>
 </ul>
 </div><!-- END seychellesmaldives_mauritius__seychelles Destination -->
 <!-- START cook_islandsnew_zealand__the_pacific Destination -->
@@ -2082,14 +2166,17 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/asia/bali-and-lombok/bali">Bali</a></li>
 <li><a href="/hotels/asia/bali-and-lombok/candi-dasa" class="ghost">Candi Dasa</a></li>
 <li><a href="/hotels/asia/bali-and-lombok/lombok" class="ghost">Lombok</a></li>
+<li><a href="/hotels/asia/bali-and-lombok/nusa-dua" class="ghost">Nusa Dua</a></li>
 <li><a href="/hotels/asia/bali-and-lombok/tabanan" class="ghost">Tabanan</a></li>
 <li><a href="/hotels/asia/bali-and-lombok/ubud" class="ghost">Ubud</a></li>
+<li><a href="/hotels/asia/bali-and-lombok/uluwatu" class="ghost">Uluwatu</a></li>
 </ul>
 </div><!-- END bali__lomboksouth_east_asia Destination -->
 <!-- START burma_myanmarsouth_east_asia Destination -->
 <div id="burma_myanmarsouth_east_asia" class="ghost">
 <ul>
 <li><a href="/hotels/asia/burma-myanmar/bagan">Bagan</a></li>
+<li><a href="/hotels/asia/burma-myanmar/hpa-an" class="ghost">Hpa-An</a></li>
 <li><a href="/hotels/asia/burma-myanmar/inle-lake" class="ghost">Inle Lake</a></li>
 <li><a href="/hotels/asia/burma-myanmar/irrawaddy-river-cruising" class="ghost">Irrawaddy River Cruising</a></li>
 <li><a href="/hotels/asia/burma-myanmar/kalaw" class="ghost">Kalaw</a></li>
@@ -2097,6 +2184,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/asia/burma-myanmar/monywa" class="ghost">Monywa</a></li>
 <li><a href="/hotels/asia/burma-myanmar/mount-popa" class="ghost">Mount Popa</a></li>
 <li><a href="/hotels/asia/burma-myanmar/ngapali" class="ghost">Ngapali</a></li>
+<li><a href="/hotels/asia/burma-myanmar/pindaya" class="ghost">Pindaya</a></li>
 <li><a href="/hotels/asia/burma-myanmar/pyin-u-lwin" class="ghost">Pyin U Lwin</a></li>
 <li><a href="/hotels/asia/burma-myanmar/rangoon-(yangon)" class="ghost">Rangoon (Yangon)</a></li>
 </ul>
@@ -2132,7 +2220,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/asia/laos/champasak">Champasak</a></li>
 <li><a href="/hotels/asia/laos/luang-prabang" class="ghost">Luang Prabang</a></li>
 <li><a href="/hotels/asia/laos/ngoy-hai" class="ghost">Ngoy Hai</a></li>
-<li><a href="/hotels/asia/laos/phonsavan" class="ghost">Phonsavan</a></li>
 <li><a href="/hotels/asia/laos/vang-vieng" class="ghost">Vang Vieng</a></li>
 <li><a href="/hotels/asia/laos/vientiane" class="ghost">Vientiane</a></li>
 </ul>
@@ -2143,10 +2230,14 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/asia/malaysia-and-borneo/borneo">Borneo</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/cameron-highlands" class="ghost">Cameron Highlands</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/hidden-gems" class="ghost">Hidden Gems</a></li>
+<li><a href="/hotels/asia/malaysia-and-borneo/kota-kinabalu" class="ghost">Kota Kinabalu</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/kuala-lumpur" class="ghost">Kuala Lumpur</a></li>
+<li><a href="/hotels/asia/malaysia-and-borneo/kuching" class="ghost">Kuching</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/langkawi" class="ghost">Langkawi</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/malacca" class="ghost">Malacca</a></li>
 <li><a href="/hotels/asia/malaysia-and-borneo/penang" class="ghost">Penang</a></li>
+<li><a href="/hotels/asia/malaysia-and-borneo/ranau" class="ghost">Ranau</a></li>
+<li><a href="/hotels/asia/malaysia-and-borneo/sabah" class="ghost">Sabah</a></li>
 </ul>
 </div><!-- END malaysia__borneosouth_east_asia Destination -->
 <!-- START philippinessouth_east_asia Destination -->
@@ -2175,10 +2266,8 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/asia/thailand/central-thailand" class="ghost">Central Thailand</a></li>
 <li><a href="/hotels/asia/thailand/chiang-mai-and-the-north" class="ghost">Chiang Mai &amp; The North</a></li>
 <li><a href="/hotels/asia/thailand/chiang-rai-and-golden-triangle" class="ghost">Chiang Rai &amp; Golden Triangle</a></li>
-<li><a href="/hotels/asia/thailand/golden-triangle-region" class="ghost">Golden Triangle Region</a></li>
 <li><a href="/hotels/asia/thailand/hidden-gems" class="ghost">Hidden Gems</a></li>
 <li><a href="/hotels/asia/thailand/hua-hin" class="ghost">Hua Hin</a></li>
-<li><a href="/hotels/asia/thailand/isan" class="ghost">Isan</a></li>
 <li><a href="/hotels/asia/thailand/khao-lak" class="ghost">Khao Lak</a></li>
 <li><a href="/hotels/asia/thailand/koh-samui%2c-koh-phangan-and-koh-tao" class="ghost">Koh Samui, Koh Phangan &amp; Koh Tao</a></li>
 <li><a href="/hotels/asia/thailand/krabi" class="ghost">Krabi</a></li>
@@ -2224,6 +2313,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/south-america/argentina/esteros-del-ibera" class="ghost">Esteros Del Ibera</a></li>
 <li><a href="/hotels/south-america/argentina/iguazu" class="ghost">Iguazu</a></li>
 <li><a href="/hotels/south-america/argentina/mendoza" class="ghost">Mendoza</a></li>
+<li><a href="/hotels/south-america/argentina/molinos" class="ghost">Molinos</a></li>
 <li><a href="/hotels/south-america/argentina/patagonia%2c-el-calafate" class="ghost">Patagonia, El Calafate</a></li>
 <li><a href="/hotels/south-america/argentina/peninsula-valdes" class="ghost">Peninsula Valdes</a></li>
 <li><a href="/hotels/south-america/argentina/puerto-madryn" class="ghost">Puerto Madryn</a></li>
@@ -2253,6 +2343,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div id="brazilsouth__central_america" class="ghost">
 <ul>
 <li><a href="/hotels/south-america/brazil/bahian-beaches">Bahian Beaches</a></li>
+<li><a href="/hotels/south-america/brazil/brasilia" class="ghost">Brasilia</a></li>
 <li><a href="/hotels/south-america/brazil/brazilian-amazon-cruising" class="ghost">Brazilian Amazon Cruising</a></li>
 <li><a href="/hotels/south-america/brazil/brazilian-amazon" class="ghost">Brazilian Amazon</a></li>
 <li><a href="/hotels/south-america/brazil/cuiaba" class="ghost">Cuiaba</a></li>
@@ -2276,6 +2367,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/south-america/chile/chilo%c3%a9-island" class="ghost">Chiloe Island</a></li>
 <li><a href="/hotels/south-america/chile/easter-island" class="ghost">Easter Island</a></li>
 <li><a href="/hotels/south-america/chile/lake-district" class="ghost">Lake District</a></li>
+<li><a href="/hotels/south-america/chile/patagonia" class="ghost">Patagonia</a></li>
 <li><a href="/hotels/south-america/chile/puerto-natales" class="ghost">Puerto Natales</a></li>
 <li><a href="/hotels/south-america/chile/san-pedro-de-atacama" class="ghost">San Pedro De Atacama</a></li>
 <li><a href="/hotels/south-america/chile/santiago" class="ghost">Santiago</a></li>
@@ -2321,9 +2413,9 @@ Secure your place on the must do experiences and book your local tours with Trai
 <!-- START ecuadorsouth__central_america Destination -->
 <div id="ecuadorsouth__central_america" class="ghost">
 <ul>
-<li><a href="/hotels/south-america/ecuador/cloud-forest">Cloud Forest</a></li>
+<li><a href="/hotels/south-america/ecuador/amazon">Amazon</a></li>
+<li><a href="/hotels/south-america/ecuador/cloud-forest" class="ghost">Cloud Forest</a></li>
 <li><a href="/hotels/south-america/ecuador/cotacachi" class="ghost">Cotacachi</a></li>
-<li><a href="/hotels/south-america/ecuador/cotopaxi" class="ghost">Cotopaxi</a></li>
 <li><a href="/hotels/south-america/ecuador/cuenca" class="ghost">Cuenca</a></li>
 <li><a href="/hotels/south-america/ecuador/ecuadorian-amazon" class="ghost">Ecuadorian Amazon</a></li>
 <li><a href="/hotels/south-america/ecuador/guayaquil" class="ghost">Guayaquil</a></li>
@@ -2353,12 +2445,13 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/south-america/mexico/campeche">Campeche</a></li>
 <li><a href="/hotels/south-america/mexico/cancun-and-riviera-maya-beaches" class="ghost">Cancun &amp; Riviera Maya Beaches</a></li>
 <li><a href="/hotels/south-america/mexico/chichen-itza" class="ghost">Chichen Itza</a></li>
-<li><a href="/hotels/south-america/mexico/isla-holbox-" class="ghost">Isla Holbox </a></li>
+<li><a href="/hotels/south-america/mexico/copper-canyon" class="ghost">Copper Canyon</a></li>
 <li><a href="/hotels/south-america/mexico/los-cabos" class="ghost">Los Cabos</a></li>
 <li><a href="/hotels/south-america/mexico/merida" class="ghost">Merida</a></li>
 <li><a href="/hotels/south-america/mexico/mexico-city" class="ghost">Mexico City</a></li>
 <li><a href="/hotels/south-america/mexico/oaxaca" class="ghost">Oaxaca</a></li>
 <li><a href="/hotels/south-america/mexico/palenque" class="ghost">Palenque</a></li>
+<li><a href="/hotels/south-america/mexico/patzcuaro" class="ghost">Patzcuaro</a></li>
 <li><a href="/hotels/south-america/mexico/san-cristobal-de-las-casas" class="ghost">San Cristobal De Las Casas</a></li>
 </ul>
 </div><!-- END mexicosouth__central_america Destination -->
@@ -2401,12 +2494,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/caribbean/barbados/barbados">Barbados</a></li>
 </ul>
 </div><!-- END barbadosthe_caribbean Destination -->
-<!-- START bermudathe_caribbean Destination -->
-<div id="bermudathe_caribbean" class="ghost">
-<ul>
-<li><a href="/hotels/caribbean/bermuda/bermuda">Bermuda</a></li>
-</ul>
-</div><!-- END bermudathe_caribbean Destination -->
 <!-- START cubathe_caribbean Destination -->
 <div id="cubathe_caribbean" class="ghost">
 <ul>
@@ -2545,14 +2632,26 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/middle-east/turkey/bodrum-peninsula" class="ghost">Bodrum Peninsula</a></li>
 <li><a href="/hotels/middle-east/turkey/canakkale" class="ghost">Canakkale</a></li>
 <li><a href="/hotels/middle-east/turkey/cappadocia" class="ghost">Cappadocia</a></li>
+<li><a href="/hotels/middle-east/turkey/cirali" class="ghost">Cirali</a></li>
+<li><a href="/hotels/middle-east/turkey/dat%c3%a7a-peninsula" class="ghost">Dat?a Peninsula</a></li>
+<li><a href="/hotels/middle-east/turkey/fethiye" class="ghost">Fethiye</a></li>
 <li><a href="/hotels/middle-east/turkey/istanbul" class="ghost">Istanbul</a></li>
 <li><a href="/hotels/middle-east/turkey/izmir" class="ghost">Izmir</a></li>
+<li><a href="/hotels/middle-east/turkey/kalkan" class="ghost">Kalkan</a></li>
+<li><a href="/hotels/middle-east/turkey/kas" class="ghost">Kas</a></li>
 <li><a href="/hotels/middle-east/turkey/konya" class="ghost">Konya</a></li>
+<li><a href="/hotels/middle-east/turkey/oludeniz" class="ghost">Oludeniz</a></li>
 <li><a href="/hotels/middle-east/turkey/pamukkale" class="ghost">Pamukkale</a></li>
 <li><a href="/hotels/middle-east/turkey/sirince" class="ghost">Sirince</a></li>
-<li><a href="/hotels/middle-east/turkey/urgup" class="ghost">Urgup</a></li>
 </ul>
 </div><!-- END turkeythe_middle_east Destination -->
+<!-- START uaethe_middle_east Destination -->
+<div id="uaethe_middle_east" class="ghost">
+<ul>
+<li><a href="/hotels/middle-east/uae/abu-dhabi">Abu Dhabi</a></li>
+<li><a href="/hotels/middle-east/uae/dubai" class="ghost">Dubai</a></li>
+</ul>
+</div><!-- END uaethe_middle_east Destination -->
 <!-- START californiausa Destination -->
 <div id="californiausa" class="ghost">
 <ul>
@@ -2595,8 +2694,8 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/hotels/usa/florida/fort-lauderdale" class="ghost">Fort Lauderdale</a></li>
 <li><a href="/hotels/usa/florida/gulf-coast" class="ghost">Gulf Coast</a></li>
 <li><a href="/hotels/usa/florida/miami" class="ghost">Miami</a></li>
-<li><a href="/hotels/usa/florida/north-florida" class="ghost">North Florida</a></li>
 <li><a href="/hotels/usa/florida/orlando" class="ghost">Orlando</a></li>
+<li><a href="/hotels/usa/florida/st-augustine" class="ghost">St Augustine</a></li>
 <li><a href="/hotels/usa/florida/the-keys" class="ghost">The Keys</a></li>
 </ul>
 </div><!-- END floridausa Destination -->
@@ -2676,9 +2775,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div class="col-sm-6 lvl2col destslist">
 <h4>Destination</h4>
 <div id="tour-africa" style="-webkit-column-count: 2;">
-<ul><li><a href="/tours/africa/">Africa</a></li>
-<li><a href="/tours/africa/botswana">Botswana</a></li>
-<li><a href="/tours/africa/egypt">Egypt</a></li>
+<ul><li><a href="/tours/africa/botswana">Botswana</a></li>
 <li><a href="/tours/africa/ethiopia">Ethiopia</a></li>
 <li><a href="/tours/africa/kenya">Kenya</a></li>
 <li><a href="/tours/africa/madagascar">Madagascar</a></li>
@@ -2717,12 +2814,28 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/tours/china%2C-hong-kong-and-japan/south-korea">South Korea</a></li>
  </ul>
 </div>
-<div id="tour-europe" class="ghost">
-<ul><li><a href="/tours/europe/croatia">Croatia</a></li>
+<div id="tour-europe" class="ghost" style="-webkit-column-count: 2;">
+<ul><li><a href="/tours/europe/austria">Austria</a></li>
+<li><a href="/tours/europe/belgium">Belgium</a></li>
+<li><a href="/tours/europe/croatia">Croatia</a></li>
+<li><a href="/tours/europe/czech-republic">Czech Republic</a></li>
 <li><a href="/tours/europe/denmark">Denmark</a></li>
+<li><a href="/tours/europe/estonia">Estonia</a></li>
+<li><a href="/tours/europe/france">France</a></li>
+<li><a href="/tours/europe/germany">Germany</a></li>
+<li><a href="/tours/europe/greece">Greece</a></li>
+<li><a href="/tours/europe/hungary">Hungary</a></li>
+<li><a href="/tours/europe/iceland">Iceland</a></li>
 <li><a href="/tours/europe/italy">Italy</a></li>
+<li><a href="/tours/europe/luxembourg">Luxembourg</a></li>
+<li><a href="/tours/europe/netherlands">Netherlands</a></li>
 <li><a href="/tours/europe/norway">Norway</a></li>
+<li><a href="/tours/europe/poland">Poland</a></li>
+<li><a href="/tours/europe/portugal">Portugal</a></li>
+<li><a href="/tours/europe/spain">Spain</a></li>
 <li><a href="/tours/europe/sweden">Sweden</a></li>
+<li><a href="/tours/europe/switzerland">Switzerland</a></li>
+<li><a href="/tours/europe/turkey">Turkey</a></li>
  </ul>
 </div>
 <div id="tour-india_the_himalayas__sri_lanka" class="ghost">
@@ -2737,9 +2850,9 @@ Secure your place on the must do experiences and book your local tours with Trai
  </ul>
 </div>
 <div id="tour-maldives_mauritius__seychelles" class="ghost">
-<ul><li><a href="/tours/maldives%2C-mauritius-and-seychelles/">Maldives, Mauritius &amp; Seychelles</a></li>
-<li><a href="/tours/maldives%2C-mauritius-and-seychelles/maldives">Maldives</a></li>
+<ul><li><a href="/tours/maldives%2C-mauritius-and-seychelles/maldives">Maldives</a></li>
 <li><a href="/tours/maldives%2C-mauritius-and-seychelles/mauritius">Mauritius</a></li>
+<li><a href="/tours/maldives%2C-mauritius-and-seychelles/reunion">Reunion</a></li>
 <li><a href="/tours/maldives%2C-mauritius-and-seychelles/seychelles">Seychelles</a></li>
  </ul>
 </div>
@@ -2756,6 +2869,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/tours/russia-and-central-asia/kyrgyzstan">Kyrgyzstan</a></li>
 <li><a href="/tours/russia-and-central-asia/mongolia">Mongolia</a></li>
 <li><a href="/tours/russia-and-central-asia/russia">Russia</a></li>
+<li><a href="/tours/russia-and-central-asia/turkmenistan">Turkmenistan</a></li>
 <li><a href="/tours/russia-and-central-asia/uzbekistan">Uzbekistan</a></li>
  </ul>
 </div>
@@ -2784,7 +2898,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/tours/south-and-central-america/ecuador">Ecuador</a></li>
 <li><a href="/tours/south-and-central-america/galapagos-islands">Galapagos Islands</a></li>
 <li><a href="/tours/south-and-central-america/guatemala">Guatemala</a></li>
-<li><a href="/tours/south-and-central-america/guyana">Guyana</a></li>
 <li><a href="/tours/south-and-central-america/honduras">Honduras</a></li>
 <li><a href="/tours/south-and-central-america/mexico">Mexico</a></li>
 <li><a href="/tours/south-and-central-america/nicaragua">Nicaragua</a></li>
@@ -2798,7 +2911,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul><li><a href="/tours/the-caribbean/antigua">Antigua</a></li>
 <li><a href="/tours/the-caribbean/barbados">Barbados</a></li>
 <li><a href="/tours/the-caribbean/cuba">Cuba</a></li>
-<li><a href="/tours/the-caribbean/dominican-republic">Dominican Republic</a></li>
 <li><a href="/tours/the-caribbean/mexico">Mexico</a></li>
 <li><a href="/tours/the-caribbean/saint-lucia">Saint Lucia</a></li>
  </ul>
@@ -2810,6 +2922,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/tours/the-middle-east/jordan">Jordan</a></li>
 <li><a href="/tours/the-middle-east/oman">Oman</a></li>
 <li><a href="/tours/the-middle-east/turkey">Turkey</a></li>
+<li><a href="/tours/the-middle-east/uzbekistan">Uzbekistan</a></li>
  </ul>
 </div>
 <div id="tour-usa" class="ghost">
@@ -2819,7 +2932,6 @@ Secure your place on the must do experiences and book your local tours with Trai
 <li><a href="/tours/usa/hawaii">Hawaii</a></li>
 <li><a href="/tours/usa/mid-west">Mid West</a></li>
 <li><a href="/tours/usa/southern-usa">Southern USA</a></li>
-<li><a href="/tours/usa/">USA</a></li>
 <li><a href="/tours/usa/western-usa">Western USA</a></li>
  </ul>
 </div>
@@ -2914,6 +3026,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 </li>
 <li><a href="/car-hire/australia">Australia</a></li>
 <li><a href="/car-hire/canada">Canada</a></li>
+<li><a href="/car-hire/europe">Europe</a></li>
 <li><a href="/car-hire/new-zealand">New Zealand</a></li>
 <li><a href="/car-hire/usa">USA</a></li>
 </ul>
@@ -2960,6 +3073,11 @@ Secure your place on the must do experiences and book your local tours with Trai
 </a>
 </li>
 <li>     
+<!-- Honeymoons by Appointment -->
+<a href="https://secure.trailfinders.com/honeymoons/appointment" class="thumbnail">
+<img class="round" src="images/nav/wedMoon/hm-app.jpg" alt="Honeymoons by Appointment"> 
+Honeymoons<br>by Appointment</a></li>
+<li>    
 <!--Gift Cards-->
 <a href="/giftcards" class="thumbnail">
 <img class="round" src="images/nav/wedMoon/giftCard.jpg" alt="Gift Cards">
@@ -3015,9 +3133,9 @@ Secure your place on the must do experiences and book your local tours with Trai
 <ul class="nav nav-list">
 
 <li><a href="/aboutus" title="About Us">About Us</a></li>
-<li><a href="/whytrailfinders" title="Why book with Trailfinders">30 Reasons to Choose Trailfinders</a></li>
+<li><a href="/whytrailfinders" title="Why book with Trailfinders">Good Reasons to Choose Trailfinders</a></li>
 <li><a href="faq/Trailfinders-Consumer-Protection">Trailfinders Consumer Protection</a></li>
-<li><a href="/chairmanmessage/Trouble%20free%20travel" title="Trailfinders Chairman's Messages">Chairman's Message</a></li><!-- Chairman's Messages -->
+<li><a href="/chairmanmessage/Service%20you%20can%20always%20rely%20on" title="Trailfinders Chairman's Messages">Chairman's Message</a></li><!-- Chairman's Messages -->
 <li><a href="/awards" title="Major National Awards">Major National Awards</a></li><!-- hidden on IE -->
 <li><a href="/milestones" title="Trailfinders Milestones">Trailfinders Milestones</a></li>
 <li><a href="/client-feedback" title="Client Feedback">Client Feedback</a></li>
@@ -3047,7 +3165,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div class="sideBarTxt1">
 <img style="float:right; padding:0 4px 0;" src="/graphics/sideBar/thumbsup_wh.gif" width="64" height="60" alt="Trailfinders customers feedback">
 <blockquote class="feedback">
-<p>From my initial phone call to making a booking I felt confident that the travel consultant really understood my requirements and at once set about finding the ideal package for us. I was particularly pleased at how the consultant chose flights from our regional airport with reasonable timings - at a reasonable cost. Very pleased!</p><div><span>Mrs A Martinson</span></div>
+<p>Every time I book with Trailfinders, the staff are absolutely fantastic. Nothing is too much trouble and they always find great deals for me. I would not go anywhere else for travel bookings.</p><div><span>Miss K Murison</span></div>
 </blockquote>
 <a class="pull-right" href="/client-feedback" title="Client Feedback">more feedback »</a>
 <div class="clearfix"></div>
@@ -3086,7 +3204,7 @@ Secure your place on the must do experiences and book your local tours with Trai
 <div class="foot-print">
 <img class="pull-right" src="/images/footer/thumbsup.png" alt="Trailfinders customers feedback">
 <blockquote class="feedback">
-<p>Excellent service, I will always book with Trailfinders. When you travel in general, visit family, it's enjoyable and reassuring to know the travel planning is practical and works. Hassle free with Trailfinders. Thank you!</p><br><div class="zero"><span>Miss G Wright</span></div>
+<p>Thank you. Kirsty was excellent. She was more than helpful, she imparted additional information about my destination based on her own experience - it was great to talk things through with her to help me in my decision making. Her customer service and friendly manner was delightful. I can't thank her enough for her service.</p><br><div class="zero"><span>Miss N Galley</span></div>
 </blockquote>
 </div>
 </div><!--col-->
@@ -3116,13 +3234,13 @@ Secure your place on the must do experiences and book your local tours with Trai
 <span class="foot-print"> <span>Find the best value travel arrangements with the best trained, most widely travelled consultants in the business with cutting edge technology at their fingertips.</span> </span>
 </a>
 </div><!-- col -->
-<div class="col-md-6 col-sm-6 col-xs-10">
+<div class="col-md-7 col-sm-7 col-xs-10">
 <a href="/awards" title="Award Winning Service">
 <img class="img-responsive awards-strip" src="images/awards/awards-strip.png" alt="Major National Awards">
 </a>
 </div><!--col-->
             
-<div class="col-md-2 col-sm-2 col-xs-2">
+<div class="col-md-1 col-sm-1 col-xs-1">
 <a href="/ccNoSurcharge" title="No credit card surcharges!">
 <img class="pull-right img-responsive cc-sc" src="images/footer/cc-surcharge.gif" alt="No credit card surcharges - the price you see is the price you pay">
 </a>
@@ -3166,7 +3284,7 @@ call you, typically within 48 hours.
 </a>
 <div class="clearfix"></div>
 </div><!--col-->
-<!-- Request a call back hidden during Office Hours - ie if IsOfficeHours = Yes then class of hidden added. -->
+<!-- Request a Call Back hidden during Office Hours - ie if IsOfficeHours = Yes then class of hidden added. Also hidden for .IE site in busy season.-->
 <div class="col-md-4 col-sm-12 ">
 <h3>Request a call back</h3> 
 <img class="pull-right" src="/images/footer/contact-us-icon.png" alt="Call Back">
@@ -3197,8 +3315,8 @@ I require a
 </div><!--footer-content-->
 <!-- End of 2nd Footer row -->
 <!-- Very bottom Footer row -->
-<div class="row sub-foot">
-<div class="sub-foot-content">
+<div class="sub-foot">
+<div class="row sub-foot-content">
 <div class="col-sm-1 col-xs-1 zero">
 <a href="http://abta.com/go-travel/before-you-travel/find-a-member">
 <img class="img-responsive pull-left abta-cert" src="images/footer/abta-reverse.gif" alt="ABTA Certified">
@@ -3214,11 +3332,27 @@ I require a
 <span class="foot-fine-print pull-right trust">Trusted for over 45 years</span>
 </div><!--col-->
 <div class="col-sm-4 col-xs-4">
-<span class="foot-fine-print pull-right copyright">©2015 Trailfinders Ltd. | Reg No1004502 | <a href="/privacy">Privacy Policy</a> &nbsp;</span>
+<span class="foot-fine-print pull-right copyright">©2016 Trailfinders Ltd. | Reg No1004502 | <a href="/privacy">Privacy Policy</a> &nbsp;</span>
 </div><!--col-->
 <div class="col-sm-3 col-xs-3 zero">
 <img class="tf-foot-img" src="images/footer/tf-logo-reverse.gif" alt="Trailfinders the Travel Experts">
 </div><!--col-->
+<div style="display:none">
+<div class="clearfix"></div>
+<span class="foot-fine-print pop-pages"><strong>Popular pages</strong></span>
+<ul class="list-inline pop-pages">
+<li><a href="/holidays/usa"> USA holidays</a></li>
+<li><a href="/holidays/usa/california"> California Holidays</a></li>
+<li><a href="/holidays/canada---alaska/canada"> Canada Holidays</a></li>
+<li><a href="/holidays/australia"> Australia Holidays</a></li>
+<li><a href="/holidays/new-zealand---the-pacific/new-zealand"> New Zealand Holidays</a></li>
+<li><a href="/holidays/africa/south-africa"> South Africa Holidays</a></li>
+<li><a href="/holidays/south-east-asia/thailand"> Thailand Holidays</a></li>
+<li><a href="/holidays/india--the-himalayas---sri-lanka/india"> India Holidays</a></li>
+<li><a href="/holidays/south-east-asia/vietnam"> Vietnam Holidays</a></li>
+<li><a href="/holidays/south---central-america/costa-rica"> Costa Rica Holidays</a></li>
+</ul>
+</div><!--homepageonlydisp-->
 </div><!--sub-foot-content-->
 </div><!--sub-foot row-->
 <!-- End of very bottom Footer row -->
