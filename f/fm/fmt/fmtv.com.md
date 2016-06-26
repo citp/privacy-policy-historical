@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910033823id_/https%3A//www.fmtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626020801id_/https%3A//www.fmtv.com/privacy-policy) for the most accurate reproduction.*
 
-# | FMTV
+# Privacy Policy | FMTV
 
 FMTV.com (Food Matters TV Pty Ltd) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
