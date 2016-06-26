@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108004659id_/http%3A//www.bmtmicro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626020158id_/https%3A//www.bmtmicro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -22,18 +22,18 @@ Our commerce system was developed in-house, with security as the foremost concer
 
 BMT Micro, Inc. has made an investment in protecting our clients’ and customers’ information, utilizing the following technologies:
 
-Firewall
+**Firewall**
 
 Firewalls allow the use of authenticated access and can prevent certain types of traffic from entering the private network. Customizing the firewall according to the network topology is essential to having a useful firewall protection mechanism.
 
-SSL (Secure Socket Layers)
+**SSL (Secure Socket Layers)**
 
 Because we accept sensitive information from end-users, such as passwords and credit card numbers, BMT Micro, Inc.’s site uses SSL. This logic encrypts the data being sent to the server from the browser, using high-level encryption technology. Once the data is received from customers on the BMT Micro, Inc. network, it may be required that the data be maintained for a certain period of time inside our private network. Encrypting the data means it cannot be viewed in plain text.
 
-Security Metrics
+**Security Metrics**
 
 BMT Micro is reviewed quarterly by Security Metrics to ensure that high security standards are maintained. Security Metrics tests for over 4400 security weaknesses!
 
-What about cookies?
+**What about cookies?**
 
 “Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. BMT Micro, Inc.’s cookies are used only to aid in purchasing and do not store any specific customer traits. These cookies do not store sensitive data. Cookies are P3P enabled to ensure security.
