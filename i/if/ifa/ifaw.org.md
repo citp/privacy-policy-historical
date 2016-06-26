@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611172446id_/http%3A//www.ifaw.org/international/our-work/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121904id_/http%3A//www.ifaw.org/united-states/our-work/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy statement | IFAW - International Fund for Animal Welfare
 
@@ -40,9 +40,6 @@ We use an outside shipping company to ship orders, and a credit card processing 
 We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
 
 These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. IFAW will automatically send the friend a one-time email inviting them to visit the site. IFAW stores this information for the sole purpose of sending this one-time email. The friend may contact IFAW at [info@ifaw.org](mailto:info@ifaw.org "Click to open your email program.") to request the removal of this information from their database.
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This includes a firewall and 24 monitoring of site activities by our hosting service provider as well as 128-bit SSL encryption (where allowable by law) on all transaction oriented operations between you and IFAW via our transaction service provider.
