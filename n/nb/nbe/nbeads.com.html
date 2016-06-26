@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the nbeads.com privacy policy that was archived on 2015-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150904100323id_/http%3A//www.nbeads.com/help/entried/29-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nbeads.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627012128id_/http%3A//www.nbeads.com/help/entried/29-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Product"><head>
 <meta name="google-site-verification" content="nd1pzd8AT7U0BvF2cgqsasWMajwqkCul-yYXl9yTAcE">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy- Help Center</title>
-<link rel="stylesheet" type="text/css" href="http://www.nbeads.com/buyer/css/master.css?v=1209">
+<link rel="stylesheet" type="text/css" href="http://www.nbeads.com/buyer/css/master.css?v=20160504">
 <link rel="shortcut icon" href="http://www.nbeads.com/buyer/images/favicon.ico" type="image/x-icon">
 <script type="text/javascript" async="" src="//www.qushopping.net/wsta.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -18,7 +18,7 @@
 		
 		</script>
 <script type="text/javascript" src="http://www.nbeads.com/common/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.nbeads.com/buyer/js/global.js?v=1122"></script>
+<script type="text/javascript" src="http://www.nbeads.com/buyer/js/global.js?v=20160504"></script>
 <script type="text/javascript"> 
 	    	var ctx="http://www.nbeads.com";var rate="1.0000";var symbol="US $";
 	    </script>
@@ -26,7 +26,7 @@
 		<script type="text/javascript" src="http://www.nbeads.com/common/js/DD_belatedPNG_0.0.8a-min.js"></script>
 		<script type="text/javascript">DD_belatedPNG.fix('.SubMenus, .SubMenusBottom,.CartBoxTop,.CartBoxContent,.CartBoxBottom,.BoxRight,.BoxBottom,.PromotionLogo');</script>
 		<![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.nbeads.com/buyer/css/help.css">
+<link rel="stylesheet" type="text/css" href="http://www.nbeads.com/buyer/css/help.css?v=20160504">
 <script>(function() {
 		  var _fbq = window._fbq || (window._fbq = []);
 		  if (!_fbq.loaded) {
@@ -46,6 +46,107 @@
 </head>
 <body>
 <div id="Wrap">
+<style>.promotion_time{background:url(http://www.nbeads.com/homephotos/20160607/en/top_bg.jpg) no-repeat center top #02afc9;height:50px;}.promotion_time .top_banner{width:1000px;margin:0 auto;position:relative;}.Promotion_num{float:right;padding:7px 0 5px;position:absolute;right:10px;top:0;text-align:center;font-family:Arial,Helvetica,sans-serif;}.Promotion_num li{float:left;color:#02aec8;margin-right:2px;font-size:30px;}.Promotion_num .fenj{float:left;padding:0 1px;font-size:30px;color:#fff;margin-right:0px;}.Promotion_num .fenj_days{padding:16px 4px 0 2px;font-size:16px;color:#fff;}.Promotion_num .day{width:27px;height:38px;line-height:38px;background:url(http://www.nbeads.com/homephotos/20160607/en/bg_timeday1.png) no-repeat;}.Promotion_num .hour{width:22px;height:35px;line-height:35px;background:url(http://www.nbeads.com/homephotos/20160607/de/bg_timeday2.png) no-repeat;margin-top:3px;}.Promotion_num .right_no{margin-right:0;}</style>
+<div id="promotionTime" class="promotion_time" style="display: none;">
+<div class="top_banner">
+<a title="Up To 80% OFF + Free Shipping" href="http://www.nbeads.com/nbeads-promotion.html?home=BN01_20160503">
+<img width="1000" height="50" border="0" title="Up To 80% OFF + Free Shipping" src="http://www.nbeads.com/homephotos/20160607/en/top_banner.jpg">
+</a>
+<div class="Promotion_num">
+<ul>
+<li class="day" id="dayLeft">0</li>
+<li class="day" id="dayRight">0</li>
+<li class="fenj fenj_days">Days</li>
+<li class="hour" id="hourLeft">0</li>
+<li class="hour right_no" id="hourRight">0</li>
+<li class="fenj">:</li>
+<li class="hour" id="minuteLeft">0</li>
+<li class="hour right_no" id="minuteRight">0</li>
+<li class="fenj">:</li>
+<li class="hour" id="secondLeft">0</li>
+<li class="hour" id="secondRight">0</li>
+</ul>
+</div>
+</div>
+</div>
+<input type="hidden" id="hidTotalSecond" value="1466990487582">
+<script type="text/javascript">
+    var PromotionTime = {
+        timer: null,
+        init: function() {
+    		// 夏令时提前一小时
+            var totalSecond = this.totalTime("2016/06/20 23:59:59 GMT-0700",$("#hidTotalSecond").val());
+            if (totalSecond <= 0) return;
+            this.setTime(totalSecond);
+        },
+        totalTime : function(date,sysdate){
+			var data = new Date(date);	 
+			var longTime = data.getTime();
+			var totalSecond = parseInt((longTime - sysdate)/1000) ;
+			return totalSecond;
+		},
+        setTime: function(totalSecond) {
+            /*var dayText = "days";*/
+            var day = Math.floor(totalSecond / (60 * 60 * 24));
+            var hour = Math.floor(totalSecond / 3600) - (day * 24);
+            var minute = Math.floor(totalSecond / 60) - (day * 24 * 60) - (hour * 60);
+            var second = Math.floor(totalSecond) - (day * 24 * 60 * 60) - (hour * 60 * 60) - (minute * 60);
+            var timeOver = parseInt(day) < 1 && parseInt(hour) < 1 && parseInt(minute) < 1 && parseInt(second) < 1;
+
+            if (second < 10) {
+                $("#secondLeft").html("0");
+                $("#secondRight").html(second);
+            } else {
+                var strS = second.toString(), s1 = strS.charAt(0), s2 = strS.charAt(1);
+                $("#secondLeft").html(s1);
+                $("#secondRight").html(s2);
+            }
+
+            if (minute < 10) {
+                $("#minuteLeft").html("0");
+                $("#minuteRight").html(minute);
+
+            } else {
+                var strM = minute.toString(), m1 = strM.charAt(0), m2 = strM.charAt(1);
+                $("#minuteLeft").html(m1);
+                $("#minuteRight").html(m2);
+            }
+
+            if (hour < 10) {
+                $("#hourLeft").html("0");
+                $("#hourRight").html(hour);
+            } else {
+                var strH = hour.toString(), h1 = strH.charAt(0), h2 = strH.charAt(1);
+                $("#hourLeft").html(h1);
+                $("#hourRight").html(h2);
+            }
+
+            if (day < 10) {
+                $("#dayLeft").html("0");
+                $("#dayRight").html(day);
+            } else {
+                var strD = day.toString(), d1 = strD.charAt(0), d2 = strD.charAt(1);
+                $("#dayLeft").html(d1);
+                $("#dayRight").html(d2);
+            }
+
+            /*if (day <= 1) {
+                dayText = "day";
+            }
+            $("#dayText").html(dayText);*/
+
+            PromotionTime.timer = setTimeout(function() {
+                if (timeOver) {
+                    $(".promotion_time").hide();
+                }
+                else {
+                    PromotionTime.setTime(totalSecond - 1);
+                }
+            }, 1000);
+        }
+    };
+    $(function() { PromotionTime.init(); });
+   </script>
 <div id="Header" class="help-header">
 <div class="HeaderTop cls">
 <p class="HeaderLangNav WidthAuto">
@@ -53,11 +154,11 @@
 <span></span><a href="http://www.nbeads.com/es/help/default.html">Español</a><span></span><a href="http://www.nbeads.com/jp/help/default.html">日本語</a>
 </p>
 <p class="WebsiteRelate">
-<a rel="nofollow" href="http://www.nbeads.com/order-tracking.html">Order Tracking</a>&nbsp;&nbsp;|&nbsp;
+<a rel="nofollow" href="http://www.nbeads.com/order-tracking.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C">Order Tracking</a>&nbsp;&nbsp;|&nbsp;
 <a rel="nofollow" href="http://www.nbeads.com/customer/myaccount/doOrderList.do">My Orders</a>&nbsp;&nbsp;|&nbsp;
-<a rel="nofollow" href="http://www.nbeads.com/MyAccount">My Account</a>&nbsp;&nbsp;|&nbsp;
+<a rel="nofollow" href="http://www.nbeads.com/MyAccount;jsessionid=1798D48FA1D9279E048FAC0204626B4C">My Account</a>&nbsp;&nbsp;|&nbsp;
 <a rel="nofollow" href="http://www.nbeads.com/delivery-fee.html">Delivery Fee</a>&nbsp;&nbsp;|&nbsp;
-<a rel="nofollow" href="http://www.nbeads.com/help/default.html">Help</a>
+<a rel="nofollow" href="http://www.nbeads.com/help/default.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C">Help</a>
 </p>
 </div>
 <div class="Logo">
@@ -67,7 +168,7 @@
 </div>
 <p class="banner"><a title="" href="http://www.nbeads.com/help/default.html">Help Center</a></p>
 <p id="login_info" class="login-info">
-Hello, <a rel="nofollow" href="http://www.nbeads.com/sign-in.html">Sign in</a> or <a rel="nofollow" href="http://www.nbeads.com/register.html">Register</a>
+Hello, <a rel="nofollow" href="http://www.nbeads.com/sign-in.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C">Sign in</a> or <a rel="nofollow" href="http://www.nbeads.com/register.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C">Register</a>
 </p>
 <div class="Clears"></div>
 </div>
@@ -75,10 +176,10 @@ Hello, <a rel="nofollow" href="http://www.nbeads.com/sign-in.html">Sign in</a> o
 <ul>
 <li class="NavBar_left">&nbsp;</li>
 <li>
-<p><a class="ArrowNone" href="http://www.nbeads.com/help/default.html">Home</a></p>
+<p><a class="ArrowNone" href="http://www.nbeads.com/help/default.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C">Home</a></p>
 </li>
 <li class="HoverNav">
-<p><a href="http://www.nbeads.com/help/instant-answers-p1.html?showMode=1" class="ArrowNone">Instant Answers</a></p>
+<p><a href="http://www.nbeads.com/help/instant-answers-p1.html;jsessionid=1798D48FA1D9279E048FAC0204626B4C?showMode=1" class="ArrowNone">Instant Answers</a></p>
 </li>
 <li>
 <p><a href="#this" onclick="helpValidateIsLogin(this);" class="ArrowNone">Check your existing requests</a></p>
@@ -136,14 +237,12 @@ Finally, we never use or share the personally identifiable information provided 
 <p>
 <strong>4.&nbsp; Direct Marketing</strong></p>
 <p>
-We may contact you from time to time with a view to providing the latest information on our products and services / member program. If you do not wish to receive these updates, please login at http:www.nbeads.com to unsubscribe. Alternatively, you may click the unsubscribe link as shown in our electronic promotional materials; or can write to us via e-mail to sales@nbeads.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or via mail at HuiYuan 2-908, District A, Technology Park of Wuhan University, East Lake High-Tech Development Zone, Wuhan City, Hubei Province, China or via calling at (0086) 027 59710538. In accordance with the statutory requirements, we will honor your request not to use your Personal Data for the purposes of direct marketing. Unless otherwise instructed as per the above, we may use any of your Personal Data collected in the normal course of our business for direct marketing purposes.<br>
+We may contact you from time to time with a view to providing the latest information on our products and services / member program. If you do not wish to receive these updates, please login at http:www.nbeads.com to unsubscribe. Alternatively, you may click the unsubscribe link as shown in our electronic promotional materials; or can write to us via e-mail to sales@nbeads.com or via mail at HuiYuan 2-908, District A, Technology Park of Wuhan University, East Lake High-Tech Development Zone, Wuhan City, Hubei Province, China or via calling at (0086) 027 59710538. In accordance with the statutory requirements, we will honor your request not to use your Personal Data for the purposes of direct marketing. Unless otherwise instructed as per the above, we may use any of your Personal Data collected in the normal course of our business for direct marketing purposes.<br>
 &nbsp;</p>
 <p>
 <strong>5. Accessing Personal Data</strong></p>
 <p>
-You have full control and ability to correct or edit your Personal Data at any time, including whether you want us to contact you about direct marketing purpose, VIP promotional offers and new products and services or deletion of your VIP membership online account. You may request your right of access or right of correction by logging in at http://www.nbeads.com. Alternatively, you may click the unsubscribe link as shown in our electronic promotional materials; or can write to us via e-mail to sales@nbeads.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> or via mail at HuiYuan 2-908, District A, Technology Park of Wuhan University, East Lake High-Tech Development Zone, Wuhan City, Hubei Province, China or via calling at (0086) 027 59710538. We will upon satisfying itself of the authenticity and validity of the access or correction request, make every endeavor to comply with and respond to the request within the period set by the statutory requirement.</p>
+You have full control and ability to correct or edit your Personal Data at any time, including whether you want us to contact you about direct marketing purpose, VIP promotional offers and new products and services or deletion of your VIP membership online account. You may request your right of access or right of correction by logging in at http://www.nbeads.com. Alternatively, you may click the unsubscribe link as shown in our electronic promotional materials; or can write to us via e-mail to sales@nbeads.com or via mail at HuiYuan 2-908, District A, Technology Park of Wuhan University, East Lake High-Tech Development Zone, Wuhan City, Hubei Province, China or via calling at (0086) 027 59710538. We will upon satisfying itself of the authenticity and validity of the access or correction request, make every endeavor to comply with and respond to the request within the period set by the statutory requirement.</p>
 <p>
 <br>
 <strong>6. Our Commitment to Data Security</strong></p>
@@ -177,19 +276,19 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 | <a rel="nofollow" href="http://www.pandawhole.com" title="PandaWhole.com" target="_blank"><b>PandaWhole.com</b></a>
 </p>
 <p class="CopyText">
-©2011 - 2015 EC World International Limited All rights reserved.
+©2011 - 2016 EC World International Limited All rights reserved.
 </p>
 <div class="Clear"></div>
 </div>
 <script type="text/javascript" src="http://www.nbeads.com/common/js/jquery.DOMWindow.js"></script>
-<script type="text/javascript" src="http://www.nbeads.com/buyer/js/loginpop.js?v=1122"></script>
+<script type="text/javascript" src="http://www.nbeads.com/buyer/js/loginpop.js?v=1123"></script>
 <script type="text/javascript">
 	var totalWeight = "";
 </script>
 <div id="Loginbox" style="display:none">
 <div class="Loginbox">
 <span title="Close" class="BtnBoxClose" id="BtnBoxClose" style="margin: -6px 0 0 816px;"></span>
-<div class="MainPopContent MainLogin" style="height:400px;">
+<div class="MainPopContent MainLogin" style="height:430px;">
 <p class="PopboxTitle" id="LoginBoxTitle">Sign in to Continue Checkout</p>
 <dl>
 <dt>Already a member? Sign in</dt>
@@ -203,6 +302,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 </div>
 <ul class="LoginLeft">
 <li id="loginError" class="WarnMsgError" style="width:400px;display:none;margin:0;">We were unable to log you on Nbeads. Please make sure both your email address and the password are correct.</li>
+<li id="loginError1" class="WarnMsgError" style="width:400px;display:none;margin:0;">The Verification Code you input is error.</li>
 <li>
 <p class="TextTitle">Email</p>
 <input id="LoginId" class="InputStyle" type="text" maxlength="100">
@@ -214,7 +314,13 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 <input class="InputStyle" id="PasswordId" type="password" maxlength="100">
 <span id="passwordIdTip"></span>
 <div class="Clear"></div>
-<p class="FindPws">Forget Password? <a href="http://www.nbeads.com/forget-password.html" alt="">Click Here</a></p>
+<p>&nbsp;</p>
+<p class="TextTitle">Verify Number</p>
+<input name="verifyCode" id="verifyCodePop" type="text" style="float:left; width:126px;height:28px;line-height:28px; border:1px solid #ccc;">
+<span class="yz_img" style="float: left; margin-top: 5px;"> <img src="http://www.nbeads.com/validateCodeServlet?w=69&amp;h=23&amp;pop=1" alt="Verify Number" id="validateCodeIdPop"></span>
+<span id="verifyCodePopTip"></span>
+<div class="Clear"></div>
+<p class="FindPws">Forget Password? <a href="http://www.nbeads.com/forget-password.html">Click Here</a></p>
 <p class="Checkbox TextColor">
 <input type="checkbox" name="CkIsCookie">Keep me signed in
 </p>
@@ -376,9 +482,12 @@ If you have specific questions about your orders, please contact <a href="http:/
 </div>
 </div>
 </div>
+<script>
+		$(document).ready(function(){regionSetting();promptLanguageInfo(true)});
+	</script>
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4021471"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
 </div>
-<script type="text/javascript" src="http://www.nbeads.com/buyer/js/help.js"></script>
+<script type="text/javascript" src="http://www.nbeads.com/buyer/js/help.js?v=20160504"></script>
  
  
 <script type="text/javascript">
