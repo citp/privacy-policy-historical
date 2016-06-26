@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004101349id_/http%3A//www.dynatrace.com/en/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627002754id_/http%3A//www.dynatrace.com/en/about-us/privacy.html) for the most accurate reproduction.*
 
 # About Us - Privacy | Dynatrace
 
