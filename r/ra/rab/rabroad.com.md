@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabroad.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625172123id_/http%3A//discuss.org/discuss.org-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabroad.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626071817id_/http%3A//discuss.org/discuss.org-privacy-policy.html) for the most accurate reproduction.*
 
 # Discuss.org Privacy Policy
 
