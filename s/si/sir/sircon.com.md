@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210084728id_/http%3A//www.sircon.com/about/security/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626225235id_/http%3A//www.sircon.com/about/security/privacy.jsp) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Sircon Solutions | Vertafore
 
 #### Updated: May 2, 2011
 
