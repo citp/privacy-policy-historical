@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopcars.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225083525id_/http%3A//hotpopcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopcars.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626081702id_/http%3A//hotpopcars.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Cars
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recently on Hot Pop Cars
 
-[ ](http://hotpopcars.com/the-2017-camaro-zl1-is-on-its-way/ "The 2017 Camaro ZL1 is On Its Way")
+[ ](http://hotpopcars.com/the-stupidest-cars-in-modern-history-2/ "The Stupidest Cars In Modern History")
 
-### [The 2017 Camaro ZL1 is On Its Way](http://hotpopcars.com/the-2017-camaro-zl1-is-on-its-way/)
+### [The Stupidest Cars In Modern History](http://hotpopcars.com/the-stupidest-cars-in-modern-history-2/)
 
-__Dec 07, 2015
+__Feb 28, 2016
 
-Motortrend managed to spy the 2017 Chevrolet Camaro ZL1 testing on the street and at the Nürburgring, while wrapped in camouflage. What’s immediately clear is that... 
+Stupid can be subjective, but it’s surprising when automakers can get something so very, very wrong, or even worse, proceed in the face of a better idea. When it comes... 
