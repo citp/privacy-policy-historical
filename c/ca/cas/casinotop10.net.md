@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227035213id_/http%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626223055id_/http%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The fine print of CasinoTop10.net
-
-435
 
 CasinoTop10 respects your privacy. Any information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.
 
@@ -20,11 +18,3 @@ CasinoTop10 reserves the right to replace this Privacy Policy at any time. We su
 
 
 Please feel free to e-mail any questions or comments to [info@casinotop10.net](mailto:info@casinotop10.net).
-
-  
-
-
-* * *
-
-  
-
