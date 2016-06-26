@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121010346id_/http%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626051130id_/http%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
 
 # About United Press International | About UPI
 
@@ -30,6 +30,6 @@ Please note that on UPI.com, links may be provided to other Web sites. In using 
 
 By accessing UPI.com, you agree to the terms of this privacy policy. We may amend this privacy and data protection policy at any time. When we do amend the privacy and data protection policy, we will post the amended policy on the UPI.com site. Your continued use of UPI.com shall constitute your acceptance of such revised privacy policy. 
 
-Any comments or questions concerning this policy please click here. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail by clicking here, or a written request to, Legal Department, United Press International, Inc., 1133 19th Street, NW, Suite 800, Washington, D.C., 20036, Attn: Privacy Policy. 
+Any comments or questions concerning this policy please click here. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail by clicking here, or a written request to, Legal Department, United Press International, Inc., 1200 N. Federal Highway, Suite 200, Boca Raton FL 33432, Attn: Privacy Policy. 
 
 Updated June 2015
