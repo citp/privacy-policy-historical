@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemoonforms.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224174914id_/http%3A//bluemoonforms.com%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemoonforms.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626141018id_/http%3A//www.bluemoonforms.com%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Blue Moon Software
 
