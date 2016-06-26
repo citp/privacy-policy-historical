@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226074329id_/http%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626234806id_/http%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
 
 # Revo Uninstaller Pro - Privacy Policy
 
@@ -32,4 +32,4 @@ You can uninstall Revo Uninstaller Pro from its shortcut in the Start Menu->All 
 
 Or you can uninstall it from My Computer->Control Panel -> Programs and Features (or "Add or Remove Programs" on Windows XP). There in the list of installed programs, select "Revo Uninstaller Pro" and click the "Uninstall" or "Remove" button to uninstall it. Both approaches will start the uninstall module of Revo Uninstaller Pro and remove it from your system. 
 
-If you have any problems uninstalling the product, please contact our support team to assist you - by email [support@revouninstaller.com](mailto:support@revouninstaller.com) or using the [support section](https://web.archive.org/web/20151226074329id_/http%3A//www.revouninstaller.com/revo_uninstaller_support_contacts.php) of our web site. 
+If you have any problems uninstalling the product, please contact our support team to assist you - by email [support@revouninstaller.com](mailto:support@revouninstaller.com) or using the [support section](https://web.archive.org/web/20160626234806id_/http%3A//www.revouninstaller.com/revo_uninstaller_support_contacts.php) of our web site. 
