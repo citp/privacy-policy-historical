@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ft.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628032729id_/http%3A//www.ft.com/servicestools/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ft.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626032933id_/http%3A//www.ft.com/servicestools/help/privacy) for the most accurate reproduction.*
 
 # Financial Times privacy policy | FT Help | FT.com
 
@@ -14,7 +14,7 @@ Personal information is collected by the FT companies listed below on behalf of 
 > 
 > Registered Office:Number One Southwark Bridge, London SE1 9HL
 > 
-> Registered Number:227590
+> Registered Number: 879531
 > 
 > Data Protection Registration Number:Z7087146
 > 
