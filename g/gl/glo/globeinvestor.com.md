@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231223741id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626035459id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
-This privacy policy was last amended December 2014.
+This privacy policy was last amended January 2015.
 
 This is the main privacy policy for [theglobeandmail.com](http://www.globeandmail.com/) and [globeadvisor.com](http://www.globeadvisor.com/) and for certain services provided through these and other websites and applications of The Globe and Mail Inc. (“The Globe”). There may be other policies that apply to certain services that we provide, or we may link to third parties who may have their own policies. Please read these when you register or subscribe for these services, or visit a third party website or application. 
 
@@ -33,8 +33,8 @@ The following sets out what you need to know about our personal handling practic
 ### Uses you can explicitly consent to:
 
   * You may opt-in to receive additional services such specialized daily email newsletters or marketing communications from our advertisers based on your areas of interest. Go to the [Customer Preference Centre](http://www.theglobeandmail.com/community/) to take advantage of these services from The Globe. Your email address is not shared with our advertisers.
-  * You [may opt-in to receive stock alerts](https://secure.globeadvisor.com/gahelp/portfolios/help_alerts_funds_setup.html) from The Globe by visiting Globe Advisor and setting up a personalized portfolio.
-  * You may opt-in to provide supplementary information and you may withdraw your consent for The Globe to continue using supplementary information at any time by changing your preferences in the [Customer Preference Centre](http://www.theglobeandmail.com/community/) or by contacting [Customer Service](http://www.theglobeandmail.com/help/contact-us/). 
+  * You [may opt-in to receive stock alerts](https://secure.globeadvisor.com/gahelp/portfolios/help_alerts_funds_setup.html) from The Globe by visiting [globeadvisor.com](http://www.globeadvisor.com/) or [globeandmail.com](http://www.theglobeandmail.com/) and setting up a personalized portfolio.
+  * We are currently updating our Customer Preference Centre to include editing capabilities for supplemental information. In the meantime, please send email to [privacy@globeandmail.com](mailto:optout@globeandmail.com) with your request.
 
 
 
@@ -48,9 +48,9 @@ The following sets out what you need to know about our personal handling practic
 
 ### What you can do if you wish to withdraw your consent or change your personal information:
 
-  * If at any time you would like to unsubscribe from marketing and/or service email communications from The Globe please email [optout@globeandmail.com](mailto:optout@globeandmail.com) with your request. You may also click the unsubscribe link provided in the footer of all non-essential communication from The Globe. You must call Customer Service to provide an alternate method of contacting you should you wish to unsubscribe from certain email services we consider essential to your service such as billing notices, delivery notices, or password reset requests.
-  * If you wish to make a change to your supplementary information or to add or remove your consent regarding The Globe’s use of your supplementary information, please send email to [optout@globeandmail.com](mailto:optout@globeandmail.com) and include Supplementary Information in the subject line or call Customer Service at [1-800-387-5400](tel:+1-800-387-5400). 
-  * You may manage your editorial newsletters, advertiser marketing offer consents and see what is available to you from The Globe in the [Customer Preference Centre](http://www.theglobeandmail.com/community/).
+  * If at any time you would like to unsubscribe from marketing and/or service email communications from The Globe please email [privacy@globeandmail.com](mailto:optout@globeandmail.com) with your request. You may also click the unsubscribe link provided in the footer of all non-essential communication from The Globe. You must call Customer Service to provide an alternate method of contacting you should you wish to unsubscribe from certain email services we consider essential to your service such as billing notices, delivery notices, or password reset requests.
+  * If you wish to make a change to your supplementary information or remove your consent regarding The Globe’s use of your supplementary information, please send email to [privacy@globeandmail.com](mailto:optout@globeandmail.com) and include Supplementary Information in the subject line or call Customer Service at [1-800-387-5400](tel:+1-800-387-5400). 
+  * You may manage your editorial newsletters by e-mailing privacy@globeandmail.com with your request; or if you are a registered user or subscriber, manage your advertiser marketing offer consents and see what is available to you from The Globe in the [Customer Preference Centre](http://www.theglobeandmail.com/community/).
   * You can opt-out of online behavioural advertising where applicable by clicking the AdChoices icon in the top-right corner of ads appearing on our websites. 
   * You can also limit the collection of your information by disabling cookies. However, because The Globe website and the AdChoices program both rely on cookies to enable core functionality, disabling cookies is not recommended. If you choose to do so, some of The Globe’s services may not work properly and your AdChoices opt-out may not be registered.
   * You may update your account information by logging in to theglobeandmail.com, clicking your username at the top right corner of the webpage and then following the “[Edit Profile](https://sec.theglobeandmail.com/edit-account/)” link. 
@@ -178,10 +178,10 @@ Most browsers are initially set up to accept cookies, but offer a number of ways
 
 For step-by-step instructions on how to modify cookie preferences, please consult your browser’s support documentation. You can find instructions for commonly used browsers here:
 
-  * [Internet Explorer](https://web.archive.org/web/20141231223741id_/http://www.theglobeandmail.com/help/privacy-policy/windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
+  * [Internet Explorer](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
   * [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
-  * [Safari](https://web.archive.org/web/20141231223741id_/http://www.theglobeandmail.com/help/privacy-policy/support.apple.com/kb/ph5042)
-  * [Firefox](https://web.archive.org/web/20141231223741id_/http://www.theglobeandmail.com/help/privacy-policy/support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Safari](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/support.apple.com/kb/ph5042)
+  * [Firefox](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 
 
 
