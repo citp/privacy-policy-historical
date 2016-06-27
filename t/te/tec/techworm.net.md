@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techworm.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204191603id_/http%3A//www.techworm.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworm.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627163837id_/http%3A//www.techworm.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » TechWorm
 
