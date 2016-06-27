@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060951id_/http%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065136id_/http%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Post: Latest North Wales news, sport, what's on and business
 
