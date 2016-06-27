@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfa.ie privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174643id_/https%3A//www.dfa.ie/about-us/compliance/compliance-and-customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfa.ie privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124521id_/https%3A//www.dfa.ie/about-us/compliance/compliance-and-customer-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Department of Foreign Affairs and Trade
 
