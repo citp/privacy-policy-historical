@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901063324id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627122337id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
 
 # Traffic Brokers - The #1 Make Money Online Community
 
