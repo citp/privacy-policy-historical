@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171218id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627224750id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# PredictIt | Terms And Conditions
-
-#### **Sign Up for Full Benefits!**
-
-You can make use of all of PredictIt's features only by opening an account.
-
-Sign Up Now Or Sign In
+# PredictIt | Privacy Policy
 
 **_Last updated on November 1, 2014_**
 
