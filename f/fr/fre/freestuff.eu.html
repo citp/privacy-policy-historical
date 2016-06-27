@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freestuff.eu privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226175052id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freestuff.eu privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627172619id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="robots" content="noindex,nofollow">
@@ -7,7 +7,7 @@
 <meta name="description" content="Enter and win prizes free online at Free Stuff! 100's of competitions to choose from. Win a car, holiday, shopping spree and more!">
 <meta name="keywords" content="Competitions, prizes, win cash, free competitions, online competitions, uk prizes, free stuff ">
 <title>Privacy Policy | Free Stuff</title> 
-    
+
 <!-- Custom Fonts -->
 <link href="//fonts.googleapis.com/css?family=.|Montserrat:light,normal,bold|Montserrat:light,normal,bold|Montserrat:light,normal,bold|Lato:light,normal,bold" rel="stylesheet" type="text/css">
     
@@ -31,9 +31,65 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+function emailverify(override)
+{
+  if(document.getElementById('prevemail').value!=document.getElementById('email').value||override){
+    if(document.getElementById('email').value){
+      $('#prizebutton').prop("disabled",true);
+      document.getElementById("emailresponse").innerHTML="Checking your email address...";
+      document.getElementById("emailresponse").style.color="black";
+      x=new Date();
+      $.getJSON( "/verify-email.php?email="+encodeURIComponent(document.getElementById('email').value)+"&r="+x,true, function( data ) {
+        if(data["Data"]["status"]!="invalid"){
+          document.getElementById("emailresponse").innerHTML="";
+          document.getElementById('email').style.border="2px solid #2f2";
+          $('#prizebutton').prop("disabled",false);
+        }else{
+          document.getElementById("emailresponse").innerHTML="Please provide a correct email address. Winners will be contacted by email.";
+          document.getElementById('email').style.border="2px solid #b00";
+          document.getElementById("emailresponse").style.color="#b00";
+        }
+      });
+      document.getElementById('prevemail').value=document.getElementById('email').value;
+    }else{
+      document.getElementById("emailresponse").innerHTML="";
+      document.getElementById('email').style.border="";
+      $('#prizebutton').prop("disabled",false);
+    }
+  }
+}
+function numberverify(override)
+{
+  if(document.getElementById('prevnumber').value!=document.getElementById('mobile').value||override){
+    if(document.getElementById('mobile').value){
+      $('#prizebutton').prop("disabled",true);
+      document.getElementById("numberresponse").innerHTML="Checking your mobile number...";
+      document.getElementById("numberresponse").style.color="black";
+      x=new Date();
+      $.getJSON( "/verify-number.php?number="+encodeURIComponent(document.getElementById('mobile').value)+"&r="+x,true, function( data ) {
+        if(data["Data"]["status"]!="invalid"){
+          document.getElementById("numberresponse").innerHTML="";
+          document.getElementById('mobile').style.border="2px solid #2f2";
+          $('#prizebutton').prop("disabled",false);
+        }else{
+          document.getElementById("numberresponse").innerHTML="Please provide a correct mobile number. Winners will be contacted by phone.";
+          document.getElementById('mobile').style.border="2px solid #b00";
+          document.getElementById("numberresponse").style.color="#b00";
+        }
+      });
+      document.getElementById('prevnumber').value=document.getElementById('mobile').value;
+    }else{
+      document.getElementById("numberresponse").innerHTML="";
+      document.getElementById('mobile').style.border="";
+      $('#prizebutton').prop("disabled",false);
+    }
+  }
+}
 </script>
+
+
 </head>
+
 <body>
 <div class="all" style="border-top:3px solid #000;">
   <div class="logo">
@@ -54,7 +110,11 @@
       </div>
     </div>
   </div> 
-    
+<style>
+b { font-size:14px;}
+#terms-a td { padding:12px; } 
+#terms-a th { padding:12px; }
+</style>        
 <div class="container bmargin">
 <div class="row">
 <div class="col-xs-12 list">
@@ -64,89 +124,408 @@
 </div>
 <div style="text-align:left; font-size:12px; margin-top:20px;">
 
-<ol class="listpoints">
-<li>
-<b>Privacy Policy - Freestuff.eu</b><br><br>
-Last updated: August 8th, 2015<br><br></li>
-<li><b>Who is <a href="/index.php">Freestuff.eu</a>?</b><br><br>
-This Privacy Policy describes how FreeStuff.eu treats your personal data. FreeStuff.eu is a website operated by All Groove Limited. For the purposes of the Data Protection Act 1998 (the "Act"), the data processer is Lolagrove Limited and the data controller is All Groove Limited.<br><br>
-All Groove Limited deals with so-called opt-in marketing. By participating in activities via FreeStuff.eu you can win prizes. The rules for participation and prize draw can be found in our conditions of <a href="/prize-policy.php">prize policy</a>.<br><br>
-In this privacy policy a reference to "prize draws", "draws", "competitions" or "contests" will include a reference to any promotion where a user may or does qualify for a prize, gift, reward or other promotional item. A reference to a "prize" or "reward" will include a reference to any gift, reward or other promotional item earned. A reference to a "winner" will include a reference to a participant who has earned or qualified for a gift, reward or other promotional item.<br><br>
-</li>
-<li><b>What personal data do we collect?</b></li><br>
-<ol class="subcats">
-<li><b>Information provided by you through the Website</b><br><br>
-When you participate in activities on the Website, you are asked to provide information about yourself. This includes your name, address, date of birth, gender, e-mail address and telephone number. We may also ask further questions regarding your marital status, education and for example about the price you want to receive, your interests, preferences and the receipt of products or information. Allgroove Limited and our <a href="/sponsors.php">Sponsors</a> can also use your telephone number to send you a text message. These messages are for the verification of an order made.</li><br>
-<li><b>Information provided by you via surveys</b><br><br>
-Besides issuing competitions through FreeStuff.eu, AllGroove Limited or a client of AllGroove Limited can contact you through telephone, email or Internet for a survey. When you participate in such a survey, AllGroove Limited or the client which sends the survey shall process the personal data you provided in the survey. In such surveys you are asked to provide personal data such as your name, email address, address, postal code, telephone numbers, date of birth, gender, salary, education, and marital status, occupation, hobbies, interests, and (online) surfing habits.</li><br>
-<li><b>Information provided by you to third parties</b><br><br>
-AllGroove Limited can obtain information about you through third parties or 'list rental'. AllGroove Limited acquires for example the following personal data through third parties: name, email address, address, postal code, telephone numbers, date of birth, gender, salary, education and marital status, occupation, the industry sector in which you workin addition to information about your hobbies, interests and online habits. AllGroove Limited ensures that you have agreed that your data can be transferred to third parties such AllGroove Limited. If you do not want your data to be further processed by AllGroove Limited, you can send an e-mail to info@freestuff.eu</li><br>
-<li><b>Information collected through cookies and third party pixels</b><br><br>
-Besides the data which is collected by AllGroove Limited via FreeStuff.eu, via surveys and via third parties, AllGroove Limited uses cookies and other technology such as so-called third-party pixels to collect data about you.</li><br>
-A cookie is a small text file placed on your hard disk by the server of the Website. This allows the server to save your preferences and other data including passwords. Furthermore, Allgroove Limited uses cookies to track the visits to the Website and to track and aggregate statistical data regarding site visits to gather information, for example for reporting purposes for its internal organization or for third parties. You can decide whether to accept or refuse cookies. Most web browsers automatically accept cookies, but you can adjust your browser settings to refuse cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Website.<br><br>
-Allgroove Limited uses the following cookies:<br><br>
-1. Strictly necessary cookies. These are cookies that are required for the operation of the Website. They include, for example, cookies that enable you to log into secure areas of our Website, use a shopping cart or make use of other services.<br><br>
-2. Analytical/performance cookies. They allow Allgroove Limited to recognizes and count the number of visitors and to see how visitors move around the Website when they are using it. This helps Allgroove Limited to improve the way the Website works, for example, by ensuring that users are finding what they are looking for easily.<br><br>
-3. Functionality cookies. These are used to recognise you when you return to the Website. This enables Allgroove Limited to personalize content for you and remember your preferences (for example, your choice of language or region).<br><br>
-4. Targeting cookies. These cookies record your visit to the Website, the pages you have visited and the links you have followed. Allgroove Limited will use this information to make the Website and the advertising displayed on it more relevant to your interests. Allgroove Limited may also share this information with third parties for this purpose.<br><br>
-5. "Here you will find a list of suppliers who are authorized to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies."<br><br> 
+Last updated: 27th June 2016<br><br>
+All Groove recognizes that your privacy and the protection of your personal information is important to you. All Groove takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. All Groove complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit https://ico.org.uk/ FreeStuff.eu is owned by Brandling AG and operated by All Groove Ltd ("All Groove") whose registration number at the UK Information Commissioner's Office (ICO) is . This statement discloses how All Groove helps to protect your personal information while using the FreeStuff website.<br><br>
+<b>Third parties - marketing and relationship management</b><br><br>
+We may from time to time supply your information to third parties for marketing or relationship management purposes. The main purposes to which your data are put are to allow third parties to provide you with information about goods and services which they think may be of interest to you and/or to maintain any existing relationship they may have with you. Such information may be provided by marketing communications or advertising which is tailored to your interests. Your data may also be used in the way described below. Be assured that any such parties will only be allowed to use your data in accordance with the Data Protection Act 1998 and other applicable law relating to privacy. Those third parties who would wish to send you marketing communications or to advertise to you will fall into the following categories:<br><br>
 
-Category: Personalized advertising &amp; email marketing<br><br> 
-
-Company: Criteo<br><br> 
-
-The purpose of Criteo's service is to find visitors of our advertising clients' 
-
-properties and send them personalized emails or serve them personalized ads. Criteo 
-
-uses cookies to single out users and then personalize ads based on their browsing 
-
-experience. To learn more or opt out of Criteo Display click <a href="http://privacy.criteoemail.com/gb/privacy-policy.html" target="_blank">here</a><br><br>
-<b>Other information</b><br><br>
-If you contact Allgroove Limited, Allgroove Limited can keep a record of that correspondence. Allgroove Limited can also collect details of your visit to the Website, including but not limited to traffic data, location data, weblogs and other communication data including information about your computer, your IP address, operating system and browser type.<br><br>
-</ol>
-<li><b>For what purposes do we use your personal data?</b></li><br>
-
-AllGroove Limited uses the data you provide or which is otherwise obtained for the following purposes:<br><br>
-<ol class="subcats">
-<li>Awarding prizes and communication with winners about their prizes, including carrying out promotional activities regarding winners and their prizes;</li><br>
-<li>Making offers on behalf of Allgroove Limited or on behalf of its clients and partners. Click on the following <a href="/sponsors.php">link</a> for an overview of clients and partners with whom Allgroove Limited works: http://freestuff.eu/sponsors.php Allgroove Limited can contact you on behalf of Allgroove limited or on behalf of clients and partners via e-mail, telephone or regular mail.</li><br>
-<li>Providing your data to clients and partners so that they can approach you with targeted surveys, offers and information. Clients and partners of Allgroove Limited who received your information can contact you via e-mail, telephone and regular mail;</li><br>
-<li>Creating interest profiles for marketing purposes. Allgroove Limited composes an interest profile based on your personal data. For this purpose a combination is made of data you have provided through surveys and any information obtained from third parties or data from public sources.</li><br>
-</ol>
-<li><b>Who does AllGroove Limited provide with your data?</b></li><br>
-<ol class="subcats">
-<li>Once you have given permission for the provision of your data to clients and partners of Allgroove Limited, Allgroove Limited sends your personal data to the concerned clients and partners. Click on the following <a href="/sponsors.php">link</a> for an overview of clients and partners with whom Allgroove Limited works.</li><br>
-<li>Allgroove Limited may hire other companies to manage its website or to provide you with products and services.These service providers (such as website and database hosting companies, directory providers, analytics companies, distribution companies, fulfillment companies and other similar service providers) may therefore have access to your information, but only to the extent necessary for the services provided to Allgroove Limited.</li><br>
-<li>Also, AllGroove Limited can give third parties access to your personal data where it is legally entitled to do so or where it is obliged to do so in order to comply with the law, (such as in response to a Court order) or for conducting legal proceedings.</li><br>
-<li>Furthermore, AllGroove Limited can use or disclose your personal data if we believe that it is necessary to share that information in order to investigate, to prevent, or to be able to take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of individuals.</li><br>
-<li>Finally, Allgroove Limited can transfer your personal data in the event of an acquisition, merger, sale or other change in its operational status and Allgroove Limited can disclose your personal data to any member of its group, which means its subsidiaries, its ultimate holding company and such holding company"s subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</li><br>
-</ol>
-<li><b>How do we deal with personal data of minors?</b><br><br>    
-AllGroove Limited does not knowingly collect data from persons under the age of eighteen. As soon as it becomes known to AllGroove Limited that personal data of a person under the age of eighteen are included in its database, it will remove this data.<br><br>
-</li>
-<li><b>How do we protect your data?</b></li><br>
-When you provide personal data via the website, or when third parties provide personal data to AllGroove Limited, AllGroove Limited ensures the adequate security of your personal data. All data is stored in databases protected by among other things firewalls, to protect data from loss, abuse or accidental changes. We will review and update these measures as new technology becomes available.<br><br>
-<li><b>What is the relationship between AllGroove Limited and third party websites?</b></li><br>
-The website of AllGroove Limited and e-mail messages sent by AllGroove Limited contain links to other websites. AllGroove Limited accepts no responsibility for the content of these websites.<br><br>
-
-<li><b>How can I unsubscribe from AllGroove Limited and its partners and clients?</b></li><br>
-<ol class="subcats">
-<li><b>Unsubscribe from AllGroove Limited</b><br>
-You have the right to ask AllGroove Limited not to process your personal data. If you no longer wish to be contacted by e-mail by Allgroove Limited, please fill out the unsubscribe form <a href="/unsubscribe.php">here</a>. Also for e-mails sent by AllGroove Limited on behalf of its partners, you can unsubscribe through by filling out the unsubscribe form <a href="/unsubscribe.php">here</a>.</li><br>
-<li><b>Unsubscribe from clients and partners of AllGroove Limited</b><br>
-Once you have agreed to provide your data to clients and partners of AllGroove Limited, these third parties can approach you with offers and information. To Opt out of receiving offers and information from these third parties, you should submit a direct request to the concerned third party.</li><br>
-</ol>
-<li><b>How can I access my information?</b><br><br>
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet Allgroove Limited's costs in providing you with details of the information Allgroove Limited holds about you.<br><br>
-</li>
-<li><b>Changes to AllGroove Limited's Privacy Policy</b></li><br>
-Any changes AllGroove Limited makes to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.<br><br>
-<li><b>How Can I Get Contact?</b><br><br>
-If you want to change your personal data or have other questions about how AllGroove Limited processes your personal data, please contact us at info@freestuff.eu<br> 
+<table id="terms-a" border="1px">
+<tbody><tr>
+<th><b style="font-size:12px;">Sector</b></th><th><b style="font-size:12px;">Description and examples</b></th>
+</tr>
+<tr>
+<td style="width:120px;">Retail</td>
+<td>
+- Online retail<br>
+- General stores<br>
+-	Automotive (including dealerships and accessories)<br>
+-	Property<br>
+-	Home furnishings<br>
+-	Home improvement<br> 
+-	Fashion and clothing<br> 
+-	Telecoms and utilities<br>
+</td>
+</tr>
+<tr>
+<td>Finance</td>
+<td>	
+-	Pensions<br> 
+-	Loans, credit cards and mortgages<br> 
+- Investments &amp; savings<br>
+</td>
+</tr> 
+<tr>
+<td>Insurance</td>
+<td>
+-	Home<br>
+- Car<br>
+-	Travel<br>
+- Pet<br>
+- Personal<br>
+-	Other insurances<br>
+</td>
+</tr>
+<tr>
+<td>Travel</td>
+<td>	
+-	Holidays<br>
+-	Hotel<br>
+-	Airlines<br>
+-	Travel booking<br>
+</td> 
+</tr>
+<tr>
+<td>Lifestyle</td>	
+<td>
+-	Health &amp; Well-being<br> 
+-	Fitness<br>
+-	Charities<br>
+-	Media &amp; publishing companies<br>
+- Leisure<br>
+-	Gaming<br>
+- Legal Services<br>
+-	Educational institutions<br>
+</td>
+</tr>
+</tbody></table>
+<br><br>
+By continuing to use this website you have consented to information being collected from your device by cookies or other similar technologies, for the purposes described in this Privacy Policy, including the display of targeted advertising based on the information provided.<br><br>
+<b>Opting Out (Deregistration)</b><br><br>
+Should you wish to opt out of your data being used for these purposes, please <a href="unsubscribe.php">unsubscribe</a>.<br><br>
+The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from FreeStuff.eu. Every email that FreeStuff.eu sends contains a link to unsubscribe and a link to this privacy policy.<br><br>
+<b>Opting out at a later date</b><br><br>
+Once you have given your consent, you can however still control whether or not you continue to receive communications or see such advertisements from such third parties. The method of control depends on the channel of communication or advertising:<br><br>
+<b>Post</b><br><br>
+You can also withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to www.mpsonline.org.uk.<br><br>
+<b>E-mail or SMS (text message)</b><br><br>
+You can unsubscribe from receiving e-mail or SMS marketing communications from any individual third party by using the instructions in any email communication such third party sends you (usually an 'unsubscribe' or 'STOP' link).<br><br>
+<b>Telephone calls</b><br><br>
+To withdraw your consent for live or automated calls from anyone you can add your name to the Telephone Preference Service which is maintained at this website address: www.tpsonline.org.uk.<br><br>
+You can also opt out at any time from communications via any of the methods described above by e-mailing us at Contact@freestuff.eu Please note that such opt-out will only apply to communications from those third parties with whom we have a business relationship. If you opt out this way, you may still receive communications from third parties with whom we have no relationship.<br><br>
+<b>Social media and online</b><br><br>
+You can configure your advertising preferences on social media such as Facebook, Twitter, Instagram or Pinterest by accessing your settings or preference options on the relevant platform. If you no longer want to receive personalized advertising on any website you visit, you can usually opt out directly through the privacy policy of the particular website you are accessing. Please note that this will not block ads that are displayed on the websites you visit, it will simply stop you receiving advertising that has been tailored to your interests. This opt-out relies on a cookie, so if you wipe all your cookies then that website will no longer know that you have opted out. The same applies if you use a different internet browser, or use a new computer to access the internet. You can also opt out of such advertising by visiting the IAB opt-out platform at
+<br><br>
+<b>Your Personal Information</b><br><br>
+When you are registering with the FreeStuff.eu website, it is not until you click the submit button that your information is transferred to All Groove database. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of FreeStuff.eu. The information collected at registration is name, address, telephone number, email address and date of birth. All Groove may use other third party suppliers to provide its services in connection with your registration. However this will not affect your statutory rights under the Data Protection Act.<br><br>
+Once you register with the FreeStuff.eu website you consent to All Groove Ltd, the sponsors of Questions on the site and website sponsors being able to send you communications via email, post, SMS or telephone, until such times as you exercise your right to opt-out of receiving such communications. Also you are giving your permission for us to share your information with third parties At registration you have the option to opt-in to our Website Sponsors of FreeStuff.eu. Website Sponsors have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.<br><br>
+The collection of data by All Groove through registration on third party sites may lead to your data also being held by that third party site.<br><br>
+We share personally identifiable information with selected third-parties. We also share the information that you have answered in the questionnaires with the relevant sponsor client. The sponsor clients and third parties use this information so as to send you personally-tailored communications as requested.<br><br>
+All Groove collects, store and uses data about you and answers to specific questions asked by our question sponsors. All Grovoe, opted in question sponsors and opted-in website sponsors will contact you with offers and information which they feel will be of interest to you through mail, telephone, sms or email. The data that is held by both All Groove and the Sponsors whose questions you have answered. All Groove holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected.<br><br>
+Your data may be provided to selected third parties to be appended to information they already hold about you for the purpose of contacting you with information about their products and services. When first contacting you these clients will seek your appropriate consent. The information you give us may be combined with other information about you that is obtained from other sources. For example:<br><br>
+-   If you are already a customer of a third party, that third party might wish to add an e-mail address you give us to the customer records that it holds about you, and use that email address to maintain their relationship with you and/or to offer you goods and services that are similar to those you have previously purchased.<br><br>
+-   If you have given any third parties permission to share your information, or if you sign in through a social medium, those third parties may be able to find and use information about you so that, in order to speed up the registration process or offer you tailored advertising, you don't have to provide the information directly to us. The information we obtain will be used in accordance with the other parts of this privacy policy.<br><br>
+The consent you provided for any information you have previously shared with us or any third parties will be renewed at the time you give your consent for any new information sharing unless you indicate otherwise by contacting us, by e-mailing us at Contact@freestuff.eu<br><br>
+All Groove may from time to time use third party suppliers to provide all or part of a service to you. All Groove will only supply such of your personal information as is necessary to enable them to provide the relevant service to you. You should be aware that such outside service providers might be based in countries outside the European Union whose laws provide for a different standard of protection for your personal data than that provided under English law. In such circumstance All Groove will have in place contractual arrangements which will require your data to be processed at least to a standard compliant with the Data Protection Act 1998.<br><br>
+All Groove will not provide your personal information to any third party without your prior consent, however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers All Groove will comply with any such legally binding request.<br><br>
+Where consent has been given All Groove Ltd reserves the right to transfer or sell your personal information to selected third parties; this is at our sole discretion. When your information is shared with our third party partners for promotional purposes, it is no longer governed by this privacy policy; it's governed by the policy of the partner site.<br><br>
+<b>Use of your personal information</b><br><br>
+We use your personal information collected via the FreeStuff.eu website to:<br><br>
+- Provide you with information about the products and services we offer<br><br>
+- Provide you with a more personalised service<br><br>
+- Conduct market research<br><br>
+- Run prize draws and promotions<br><br>
+- Pass on to selected companies to provide you with other offers and promotions<br><br>
+- Help other companies profile and extend their databases<br><br>
+- Facilitate communication between yourself and others<br><br>
+- For analysis purposes or to build data products. In these instances, the information is aggregated and wherever possible anonymised in line with the Information Commissioner's code of practice. Again, these products are of a marketing nature.<br><br>
+<a name="DataCollectionNotice" href="#DataCollectionNotice"><b>Data Collection Notice</b></a><br><br>
+Below is see our list of valued, third party partners, who could send you marketing messages. From time to time we may add or remove businesses from this list and we will update this web page accordingly.<br><br>
+You should always read their terms and conditions and/or disclosure statement.<br><br>
+<table id="terms-a" border="1px">
+<tbody><tr>
+<th><b style="font-size:12px;">Sector</b></th><th><b style="font-size:12px;">Description and examples</b></th>
+</tr>
+<tr>
+<td style="width:120px;">Astrology</td>
+<td>
+Maria<br>
+Nicola<br>
+</td>
+</tr>
+<tr>
+<td>Charity</td>
+<td>	
+Blind Children<br> 
+Guide Dogs<br> 
+Ethicall<br>   
+Great Ormond Street Hospital<br>
+NTT Fundraising<br>
+</td>
+</tr> 
+<tr>
+<td>Competition Sites</td>
+<td>
+Get Me A Ticket<br> 
+Lucky Day<br>
+Lucky Day UK LP<br>
+Magic Freebies<br>
+MintedMobi<br>
+OfferX<br>     
+SB Digital<br>
+Union Jack Freebies<br>
+</td>
+</tr>
+<tr>
+<td>Daily Deals</td>
+<td>	
+WeatherWherever<br>
+DiscountVouchers.co.uk<br>
+Go Groopie<br>
+GoGroopie<br>
+Mighty Deals<br>
+MyVoucherCodes<br>
+Wowcher<br>
+</td> 
+</tr>
+<tr>
+<td>Gambling</td>	
+<td>
+188Bet<br>
+AccuScore<br>
+Betfair<br>
+Betsson Group<br>
+Big Lotto<br>
+BoyleSports<br>
+ComeOn<br>
+Coral<br>
+Expekt<br>
+Football INDEX<br>
+FreeLotto<br>
+Gala Bingo<br>  
+Ladbrokes<br>
+Leo Vegas<br>  
+Lottoland<br>
+Mansion<br>
+MintedMobi<br>
+NetBet<br>
+Paddy Power<br>
+Play Million<br>
+Pokies City<br>
+Prime Slots<br>
+Sky Bet<br>
+Sun Bingo<br>
+The Football INDEX<br>
+Unibet<br>
+William Hill<br>
+</td>
+</tr> 
+<tr>
+<td>General</td>
+<td>Author Solutions<br>
+LoveHoney<br>
+Rokfri<br>
+Sell My Story V2<br></td>
+</tr> 
+<tr>
+<td>Insurance</td>
+<td>Arrangemyfuneral<br>
+AXA SunLife<br>
+Consumer Helper<br>
+Grove Pension Ltd<br>
+Independent Financial Matters Registration<br>
+Promis Life<br>
+Smart Insurance<br></td>
+</tr>
+<tr>
+<td>Personal Injury</td>
+<td>	
+Accident Advice Helpline<br>
+Accident Support Network<br>
+No Win No Fee<br>
+</td> 
+</tr>  
+<tr>
+<td>Subscription</td>
+<td>Aditus - Magazines<br>
+Aditus - Newspapers<br>
+Hello Fresh<br>
+MintedMobi<br>
+PrizeFun<br>
+Prizehook<br>  
+Remote Games<br>
+Supercard<br>
+Xinion Limited<br <="" td="">
+</td></tr>   
+<tr>
+<td>Survey</td>
+<td>Charity Survey<br>
+GlobalTestMarket<br>
+Household Survey<br>
+Inbox Pounds<br>
+Maximiles<br>
+Research Now<br>
+Toluna<br></td>
+</tr>
+<tr>
+<td>Travel</td>
+<td>	
+Bonotour<br>
+Cheapflights.co.uk<br>
+Club La Costa<br>
+Easy Voyage<br>
+</td>  
+</tr><tr>
+<td>Utilities</td>
+<td>	
+Economy Energy<br>
+Hassle Free Boilers<br>
+Homebase<br>
+Scottish Power<br>
+Simplify Digital LP<br>
+Unbranded Utility<br>
+Utilita Energy Limited<br>
+</td> 
+</tr>
+<tr>
+<td>General Marketing</td>
+<td>
+Acxiom<br>
+Antevenio<br> 
+Apollo Digitals Ads<br>
+Aquira<br>
+BVocal<br>
+Contact Centre 33<br>    
+Convergys<br>  
+Data Bowl<br>
+Data Locator<br>
+Digitalbox<br>
+Digitonics Ltd<br>
+DMLS<br>             
+EM Medier<br>
+First Source Interactive<br>
+Goallover<br>
+Graffiti Media Group<br>
+Jump Start Media<br>      
+Kes Marketing<br>
+LBM Direct Marketing<br>
+Lifestyles Online<br>
+Magnetise Media<br>
+Mail2Media<br>
+Mangostorm Limited<br>
+Market Genius<br>
+Marketing Data Consultancy<br>
+Marketing Source<br>
+Media Bowl<br>
+Media Tactics<br>
+Media Web<br>
+MediaLab<br>
+Niagara<br>
+Orca Media<br>
+Plasma Net inc<br>
+PMDSC limited<br>  
+Purus Technology Ltd<br>
+Reactiv Media<br>  
+Rendham Marketing Services<br>  
+Response One<br>  
+Result Generation Group LLC<br>
+Sonateu Ltd<br>
+The Response Team<br>
+The Trading Floor<br>
+Tradeo UK<br>
+TTH Ltd<br>
+Veneficus Ltd<br>
+Viajes Tuttocard<br>
+XL Marketing<br>
+</td>
+</tr>
+</tbody></table><br><br>
+<b>Security and storage of your personal information</b><br><br>
+All Groove is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.<br><br>
+The Internet is not a 100% secure medium for communication and, accordingly, All Groove cannot guarantee the security of any information you send to the FreeStuff.eu website via the Internet. All Groove has all reasonable precautions possible in place to ensure data is kept and processed fairly. All Groove is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.<br><br>
+<b>Managing your personal information</b><br><br>
+Under the Data Protection Act 1998, you are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us via the Contact Page or email contact@freestuff.eu.<br><br>
+<b>Cookies</b><br><br>
+A cookie is a small text-only file which is stored on your computer or mobile device when visiting a website. The FreeStuff.eu website required cookies to help the website function properly, improve the website appearance and user experience by tracking your visits and usage statistics. By opting-in to the FreeStuff.eu website you agree to the use of cookies by All Groove. For further information on cookies and to find out about how to delete or manage cookies, please visit www.allaboutcookies.org. The table below explains the cookies that are used on FreeStuff.eu website.<br><br>
+<table id="terms-a" border="1px">
+<tbody><tr>
+<th><b style="font-size:12px;">Cookie</b></th><th><b style="font-size:12px;">Name</b></th><th><b style="font-size:12px;">Purpose</b></th>
+</tr>
+<tr>
+<td style="width:120px;">Google Analytics</td>
+<td>
+_ga<br>
+__utma<br>
+__utmb<br>
+__utmc<br> 
+__utmv<br>
+__utmz<br>
+</td>
+<td>
+These cookies allow FreeStuff.eu to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at Google
+</td>
+</tr>
+</tbody></table>
 <br>
-</li>
-</ol>
+In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to Criteo, Acxiom and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioral advertising can be found at www.youronlinechoices.com/uk/.<br><br>
+<table id="terms-a" border="1px">
+<tbody><tr>
+<th><b style="font-size:12px;">Cookie</b></th><th><b style="font-size:12px;">Name</b></th><th><b style="font-size:12px;">Purpose</b></th>
+</tr>
+<tr>
+<td style="width:120px;">Criteo</td>
+<td>
+ERCook<br>
+CEM<br>
+</td>       
+<td>
+The purpose of Criteo's service is to find visitors of our advertising clients' properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click <a href="http://privacy.criteoemail.com/gb/privacy-policy.html" target="_blank">here</a></td>
+</tr>  
+<tr>
+<td style="width:120px;">Acxiom</td>
+<td>
+ACX_COUNT<br>
+ACXID<br>
+</td>       
+<td>
+Acxiom Limited (registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please click here. Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising</td>
+</tr>
+</tbody></table>
+<br>
+<b>Web Beacons</b><br><br>
+FreeStuff.eu web pages, emails and newsletters may contain electronic images known as web beacons - sometimes called single-pixel gifs - that allow us to count users who have visited those pages and to determine whether messages have been opened and acted upon.
+<br><br>
+FreeStuff.eu may also employ web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit web beacons on our sites from being used by third-parties to collect or access your personal information.
+<br><br>
+Finally, we may work with other companies that advertise on the FreeStuff.eu website to place web beacons on their sites in order to allow us to determine the effectiveness of promotional campaigns.
+<br><br>
+<b>Liability of All Groove</b><br><br>
+Material displayed on the Website is provided without any guarantees, conditions or warranties. All Groove will not be liable for interruptions to operations or any other interference, including technical interference, over which it has no control. Further, All Groove does not accept responsibility for errors in the data you enter including your registration details. This includes, but is not limited to, submission errors caused by transmission failures; delays; typographical errors; telephone or network failures; computer, electronic, or Internet hardware or software failures: the inability of any site to accept all of All Groove's data; and tampering. All Groove does not provide any assurance or guarantee that you will win prizes in any draw, or at all.
+<br><br>
+Whilst All Groove takes reasonable measures to detect and eliminate viruses from the Website, All Groove cannot ensure that the website will be free from viruses and does not accept any liability in this respect. You are recommended to take all appropriate measures before downloading or accessing information from the Website.
+<br><br>
+Users cannot knowingly use the site to introduce virus and Trojans
+<br><br>
+You must not misuse the Website by knowingly introducing viruses, trojans, worms or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to the Website, the server on which the Website is stored or any server, computer or database connected to the Website. You must not attack the Website via a denial-of-service attack or a distributed denial-of-service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. All Groove will report any such breach to the relevant law enforcement authorities and will cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use the Website will cease immediately. All Groove will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the Website or use of any website linked to it. However All Groove will take adequate measures from their end to ensure that such incidents do not occur.
+<br><br>
+<b>Changes to this Privacy Policy</b>
+<br><br>
+All Groove will occasionally update this privacy policy. When we do, we will also revise the last updated date at the top of this page. All Groove will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
+<br><br>
+<b>Useful Information</b>
+<br><br>
+For useful information about data protection you can visit:
+<br><br>
+- The Direct Marketing Association; www.dma.org.uk<br>
+- The Information Commissioner; www.dataprotection.go.uk<br>
+- The Citizen Advice Bureau; www.adviceguide.org.uk<br><br>
+<b>Access your Information</b>
+<br><br>
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the address below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for these services.
+<br><br>
+Further Information
+<br><br>
+If you have questions regarding this privacy policy, please contact All Groove by following this link:
+<br><br>
+<a href="contact.php">Contact Page</a><br><br>
+or by post:
+<br><br>
+All Groove Ltd,<br>
+Unit 1,<br>
+80 - 82 White Lion St,<br>
+London,<br>
+N1 9PF<br>
+UK<br>
+<br>
 </div>
 </div>
 </div>   
@@ -209,9 +588,18 @@ If you want to change your personal data or have other questions about how AllGr
         <p>FreeStuff.eu is an independent rewards program for consumers and is not affiliated with, sponsored by or endorsed by any of the listed products or retailers. Trademarks, service marks, logos, and/or domain names (including, without limitation, the individual names of products and retailers) are the property of their respective owners. This offer is only open to UK residents. You must be at least 18 years of age or older to enter. By registering and entering your details you consent to receive information and offers from FreeStuff.eu, our Clients and our Partners about products and/or services that have been selected based on your stated interests. You also agree to the Prize Policy, Terms &amp; Conditions and the Privacy Policy as set forth by FreeStuff.eu.</p>
       </div>
   </div>
-  <h1 style="text-align:center; color:#fff;">© FreeStuff 2015</h1>
+  <h1 style="text-align:center; color:#fff;">© FreeStuff 2016</h1>
 </div>
 </div>
+
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nuxot', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuxot&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuxot&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter universal website tag code -->
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="/new/js/bootstrap.min.js"></script>
