@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219133750id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627064008id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Miracle Tutorials Privacy Policy | Miracle Tutorials
 
 ### Effective as from 27 June 2012.
 
-Miracle Tutorials is a department of Footprint Communication, registered in Belgium under number BE0842326719.  
-(“ **Miracle Tutorials** ”, “ **we** ” or “ **us** ”) wishes to bring you the best information available on video audio. To be able to do this, and to offer you information and products described on Miracle Tutorials at [http://www.miracletutorials.com/](http://www.spotify.com/uk/) we use a content management system which automatically sets cookies. Some third party add banners may set cookies as well. This policy (the “ **Miracle Tutorials** **Privacy Policy** ”) describes what personal information we may collect from you and what we will and will not do with that information.
+Miracle Tutorials is a project of Footprint Communication, registered in Belgium under number BE0842326719.  
+(“ **Miracle Tutorials** ”, “ **we** ” or “ **us** ”) wishes to bring you the best information available on video and audio. To be able to do this, and to offer you information and products described on Miracle Tutorials at [http://www.miracletutorials.com/](http://www.spotify.com/uk/) we use a content management system which automatically sets cookies. Some third party add banners may set cookies as well. This policy (the “ **Miracle Tutorials** **Privacy Policy** ”) describes what personal information we may collect from you and what we will and will not do with that information.
 
 ## 2\. Sharing information with others
 
@@ -21,7 +21,7 @@ Unless you give us your explicit approval we will only share your personal infor
 
 ## 4\. Security
 
-We use a professional service that encrypts transmissions to limit access to the system that store your personal information when you subscribe to our newsletter. You are not obliged to use your real name and we actually encourage you to use a non existing name. Further, we respect and comply with EU legislation on data protection.
+We use a professional service that encrypts transmissions to limit access to the system that store your personal information when you subscribe to our newsletter. **You are not obliged to use your real name** and we actually encourage you to use a non existing name. Further, we respect and comply with EU legislation on data protection.
 
 ## 5\. Unsubscribing from the newsletter
 
@@ -39,7 +39,7 @@ We use cookies for 4 purposes:
 
 Cookie Type | Purpose  
 ---|---  
-Essential Operational | These cookies are necessary to allow us to operate the Miracle Tutorials Website as you have requested. These cookies, for example, let us recognize what type of subscriber you are and then provide you with the services which you are entitled to.  
+Essential Operational | These cookies are necessary to allow us to operate the Miracle Tutorials Website as you have requested. These cookies, for example, let us recognize what type of subscriber you are (not who you are) and then provide you with the services which you are entitled to.  
 Performance | These cookies are used by us or our business partners to analyze how the Miracle Tutorials Website is used. The cookies also let us monitor how the Miracle Tutorials Website performs. These cookies do not let us identify users. We use this information to maintain, operate and continually improve the information on this site.  
 Functional | These cookies let us operate certain functions of the Miracle Tutorials Website in line with the choices you make. For instance, if you log into the Member Area, and you come back at a later date, the site may remember you, so that logging in because easier. Or when you write a comment and it is approved by us for publishing, the next time your comment will be published automatically.  
 Targeting/advertising | These cookies are used by us and our business partners to serve you with advertisements when using the Miracle Tutorials Website. Some advertisements may be relevant to you and your interests. These cookies may also help us and our business partners regulate the advertisement you receive and measure the effectiveness of the advert. Even if we let our business partners place the cookies for advertising we do not identify you to those business partners.  
@@ -56,4 +56,4 @@ Miracle Tutorials reserves the right to make changes to this Miracle Tutorials P
 
 Please note that by accepting the [Terms of Use](http://www.miracletutorials.com/terms-of-use/), or by reading content on the Miracle Tutorials or subscribing to the newsletter, you consent to the collection and processing of your personal information as described in this Miracle Tutorials Privacy Policy. As mentioned above, we will notify you if we make any material changes to this Miracle Tutorials Privacy Policy by posting the new version of the policy on the Miracle Tutorials Website. Your continued use of the Miracle Tutorials Website following the posting of changes to this Miracle Tutorials Privacy Policy will constitute an acceptance of such changes.
 
-If you have any concerns, questions or thoughts on how we can improve our privacy policy, please let us know via the contact page.
+If you have any concerns, questions or thoughts on how we can improve our privacy policy, you can [contact us here](mailto:rudolfb@miracletutorials.com).
