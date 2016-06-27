@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190517id_/http%3A//www.heritage.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627110131id_/http%3A//www.heritage.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,10 @@ Heritage Foundation employees understand the need for user privacy and access to
 
 **Children and Privacy**   
 The Heritage Foundation encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, heritage.org will not contain content that is reasonably considered unsuitable for children.
+
+**Mailing List Information**
+
+From time to time, we make our contributor list of both offline and online donors available to other organizations to mail. This process is carefully controlled, and it is our hope that you may find information from these groups interesting and helpful. This also saves us a considerable amount of money, which can be used to preserve and protect our shared values. If you would like to be excluded from this, please call us at (800) 546-2843, and we’ll make sure your name is not included in our mailing list sharing activities. 
 
 **Links to Other Sites**   
 It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "External Resources" section of heritage.org will take you away from heritage.org to an entirely different site.
