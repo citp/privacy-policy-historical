@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100752id_/http%3A//www.nhtsa.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627215040id_/http%3A//www.nhtsa.gov/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | National Highway Traffic Safety Administration (NHTSA)
 
@@ -113,7 +113,7 @@
 > 
 
 >
->> Click here to view our [Privacy Act Notices](http://www.dot.gov/privacy/privacyactnotices/index.htm)  
+>> Click here to view our [Privacy Act Notices](https://www.transportation.gov/individuals/privacy/privacy-act-system-records-notices)  
 > 
 > 
 >   **How do you find out more about, or comment on, our privacy practices?**  
