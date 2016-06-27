@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113521id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinbus.ie privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065025id_/http%3A//www.dublinbus.ie/Privacy) for the most accurate reproduction.*
 
 # Privacy - Dublin Bus
 
