@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225194503id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627180745id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
 
 # Privacy « Price Comparison Widget
 
 Last Revised: March 9, 2014
 
-Welcome to the Reprice downloadable browser add-on application or to our website at the address www.Reprice.us (collectively and separately known as «Reprice»), brought to you (the “User», «you») by Monetizus. («we», «us», or the «Company»).
+Welcome to the Reprice downloadable browser add-on application or to our website at the address www.Reprice.us (collectively and separately known as «Reprice»), brought to you (the “User», «you») by Reprice Technologies. («we», «us», or the «Company»).
 
 We respect the privacy of our users and are committed to protect the personal information that you share with us in connection with the use of Reprice.  
 This Privacy and Cookie Policy (the «Privacy Policy») is intended to describe our practices regarding the information we collect from you when you use Reprice, the manners in which we may use such information, and the options and rights available to you.  
