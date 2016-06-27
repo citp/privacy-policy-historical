@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220192901id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627151936id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nigeria News Online Daily
-
-[ ](http://www.ngtrends.com/wp-content/uploads/2013/09/ngtrends.jpg)
-
-##### Privacy Policy
-
-* * *
+# Privacy Policy - NG Trends
 
 **Privacy Policy for www.ngtrends.com**
 
