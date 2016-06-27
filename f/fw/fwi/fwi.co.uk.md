@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226052019id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627045807id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
 
 # Cookies & Privacy - Farmers Weekly
 
