@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227043823id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140715id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - 38 Degrees
 
@@ -51,7 +51,7 @@ We will not sell, rent or share your personal data with third party organisation
 
 ### **4\. Donations**
 
-All our one-off website financial transactions are handled through our payment services provider, Paypal. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at [www.paypal.com](http://www.paypal.com/)).  We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website. We do not store your financial or credit card details.
+All our one-off website financial transactions are handled through our payment services provider, Stripe. You should only provide your personal information to Stripe after reviewing the Stripe privacy policy (available at <https://stripe.com/gb/privacy>). We will share information with Stripe only to the extent necessary for the purposes of processing payments you make via our website. We do not store your financial or credit card details.
 
 We have a refund policy in case you make a donation in error. If you [contact us](http://www.38degrees.org.uk/contact-us "Contact Us") within 7 days of making the donation we will return it to you within 40 days without charge.
 
