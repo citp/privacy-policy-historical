@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231185745id_/http%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627162223id_/http%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002%3Fici%3Dfooter_global%26icn%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | rue21
 
@@ -61,3 +61,11 @@ Attn: Your California Privacy Rights
   25. 14\. Contact Us.  If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/store/contactUs.jsp).
 
 
+
+Your account information has been updated successfully!
+
+OK, THANKS
+
+Your account has been created successfully!
+
+OK, THANKS
