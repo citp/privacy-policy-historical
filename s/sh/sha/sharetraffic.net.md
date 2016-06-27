@@ -1,35 +1,62 @@
-> *The following text is extracted and transformed from the sharetraffic.net privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914043222id_/http%3A//www.4v4.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetraffic.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628005901id_/http%3A//www.4v4.com/privacy) for the most accurate reproduction.*
 
-# 
+# 4v4.com | Privacy Policy
 
-## Privacy Policy
+**4v4.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **4v4.com** protects your personal information. By accessing **4v4.com** , you acknowledge and fully understand **4v4.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
-We are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online. 
+**Third Party Policies**
 
-**What information do we collect?**  
-We may request and/or collect information from you on a voluntary basis when you: register with us, or when you send questions or comments via e-mail to our customer support. The requested information may include personal information such as your name and e-mail address.  
-If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities. 
+Websites visited through links from this website may or may not have their own privacy statements and **4v4.com** is not responsible for the privacy practices or contents of those sites.
 
-**Cookies**  
-We may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. 
+**What Information Is Collected?**
 
-**IP Addresses**  
-We may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. 
+**4v4.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
 
-**Linking to third party sites**  
-To provide relevant information not found on our Web site, we may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites' privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and us is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install @ your own risk. We resumes NO responsibility. We are not responsible for the privacy practices of the content of third party sites'. We hereby disclaims any representations or warranties expressed on any site other than its own site. 
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.networkadvertising.org/choices/ "Ads Settings").
 
-**Who is collecting my personal information?**  
-Any personal information that you disclose while visiting any of our websites is collected by us, and is used in the manner specified above. 
+We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on 4v4.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
-**Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us @ info@4v4.com 
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Referring website.
+  * Pages you viewed on the site.
 
-By using this site, you signify your assent to the Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
 
-_Additional Information_  
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. 
+**Copyright**
+
+All the games published on this portal together with the Intellectual Property belong to their respective owners. If any games published break any ownership rights, please contact us right away and we'll make sure to remove the games in the shortest time possible. All the published content is free to use and falls under the **fan art** category. 
+
+**Notification of Claimed Copyright Infringement**
+
+Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, www.4v4.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] ideastudios.ro 
+
+**The Comment System**
+
+4v4.com uses the Disqus.com comment system. Disqus.com asks for one's email address ( depending on the login method: Facebook, Google, email ) in order to post comments. This data is automatically collected by Disqus.com (email, IP, username on Disqus.com) and is viewable by our moderators. All comments including weblinks are subject to human moderation and the system has bad words filtering enabled. 
+
+**How We Use the Information**
+
+User Profile information including members pavatars and usernames are displayed to people in order to facilitate user interaction in the **4v4.com** social networking community. Email addresses are used for the purposes of inviting new friends to join **4v4.com** , to add users to members' friends' networks, and to send notifications related to the service. Users full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service, **4v4.com** allows users to search for other members using gender, age and proximity.
+
+We use visitors Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
+
+We also use visitors computer information to track usage, improve the design of the site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. 
+
+We may disclose information about our visitors, including personal information (e.g., registration information, e-mail address, content of messages), as well as computer information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws, or to protect against misuse or unauthorized use of the site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others.
+
+**Cookies**
+
+Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to "remember" users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.
+
+**Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
+
+**Changes to this Privacy Policy**
+
+**4v4.com** reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
