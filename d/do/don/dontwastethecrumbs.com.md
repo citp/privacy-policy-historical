@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dontwastethecrumbs.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181917id_/http%3A//dontwastethecrumbs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontwastethecrumbs.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627052659id_/http%3A//dontwastethecrumbs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Don't Waste the Crumbs
+# Privacy Policy | Don't Waste the Crumbs
 
 This Privacy Policy governs the manner in which Crumbs Media, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://dontwastethecrumbs.com](http://dontwastethecrumbs.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Crumbs Media, LLC.
 
@@ -62,7 +62,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>. For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/). For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 ### **Changes to this privacy policy**
 
@@ -81,4 +81,4 @@ tiffany (at) dontwastethecrumbs (dot) com
 
 This document was last updated on December 17, 2014
 
-Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
+Privacy policy created by [Generate Privacy Policy](http://privacypolicies.com/)
