@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laudable.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219011423id_/http%3A//www.laudable.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laudable.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627034453id_/http%3A//www.laudable.com/about/privacy) for the most accurate reproduction.*
 
 # Laudable.com
 
