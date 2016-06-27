@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228052008id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627092637id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
 
 # Security & privacy - Wesfarmers
 
@@ -86,7 +86,7 @@ If you wish to make a formal complaint, please make your complaint in writing to
 Wesfarmers Limited  
 Level 11, 40 The Esplanade, Perth  WA  6000  
 Email: [privacy@wesfarmers.com.au](mailto:privacy@wesfarmers.com.au)   
-Phone: (+61) 8 9327 4230
+Phone: (+61) 8 9327 4211
 
 **Office of the Australian Information Commissioner**  
 Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
