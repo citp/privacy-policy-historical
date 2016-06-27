@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210005119id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627045952id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Volcom
 
