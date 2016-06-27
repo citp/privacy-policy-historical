@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222091140id_/http%3A//alberta.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627031830id_/http%3A//alberta.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # Alberta classifieds for apts, jobs, and items for sale - backpage.com
 
@@ -63,9 +63,10 @@ Telephone: +44 1929290057
 
 Postal Address:   
 International Correspondence:   
-Payment Solutions BV.   
-Zuidplein 116, Tower H, Level 14,   
-1077XV, Amsterdam, Netherlands 
+Payment Solutions BV.  
+Keizersgracht 127  
+1015 CJ Amsterdam  
+The Netherlands
 
 **Children**
 
