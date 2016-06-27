@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206150623id_/http%3A//www.msudenver.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627024102id_/http%3A//www.msudenver.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Statement | MSU Denver
 
@@ -8,14 +8,14 @@ As part of the University commitment to maintaining the privacy of Web users, MS
 
 Metropolitan State University of Denver complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records other than public directory information, without student permission. For additional details on FERPA, the document is available for review at [www.ed.gov/offices/OII/fpco/ferpa/](http://www.ed.gov/offices/OII/fpco/ferpa/).
 
-The MSU Denver Web consists of numerous Web servers. Some servers hosted by non-IT departments may have individual privacy statements.  However, such policies must be reviewed by the appropriate authorities and must be posted on their servers. Such policies must adhere to all federal and state regulations.
+The MSU Denver Web consists of numerous Web servers. Some servers, sites and services hosted by non-IT departments may have individual privacy statements.  However, such policies must be reviewed by the appropriate authorities and must be posted on their servers. Such policies must adhere to all federal and state regulations.
 
-The MSU Denver Web site contains links to hundreds of external Web sites. The University is not responsible for the privacy practices or the content of external Web sites.
+The MSU Denver Web site contains links to hundreds of external Web sites and services. The University is not responsible for the privacy practices or the content of external websites.
 
  **Information Collected**  
 The University Web servers generate temporary logs that contain the following information:
 
-The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See Responsible Use of Information Technology Resources Policy for further information ([https://www.msudenver.edu/technology/policies/](http://www.msudenver.edu/technology/policies/ "Policies"))  
+The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See Responsible Use of Information Technology Resources Policy for further information ([www.msudenver.edu/technology/policies/](http://www.msudenver.edu/technology/policies/ "Policies"))  
 Summary reports produced from the logs help web publishers determine what pages are most popular. For example, the aggregate reports can show each page accessed and how many times it was viewed. The reports can also show what times of the day and what days of the week are most popular and from where the web users are accessing the Internet.
 
  **Personal Information**  
@@ -29,7 +29,7 @@ Various MSU Denver Web servers use cookies in different ways.  The University's
 Some Web servers within the University may also use cookies to retain user preference information. It is against University policy to share this information with external third parties.
 
  **Security and Accuracy of Confidential Information**   
-The University does its best to ensure that the personal information retained about individuals is accurate. Every faculty member, staff member and student has the ability to check and update personal information such as his or her name, address, phone, etc. online at [https://www.msudenver.edu/connectu](https://web.archive.org/connectu/).
+The University does its best to ensure that the personal information retained about individuals is accurate. Every faculty member, staff member and student has the ability to check and update personal information such as his or her name, address, phone, etc. online at the [Student Hub](http://www.msudenver.edu/studenthub) or the [Faculty and Staff page](http://www.msudenver.edu/facstaff/).
 
 Although no computer system is 100% secure, MSU Denver has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under University control.
 
@@ -39,7 +39,7 @@ Several sites within MSU Denver enable users to pay for products or services onl
  **Sharing of Information**  
 MSU Denver does, upon explicit request of users, share information with other parties and gather information from other private data providers. For example, the University receives test scores from testing agencies and will send transcripts to other schools. This is done only at the request of users (persons to whom the information applies).
 
-Consistent with FERPA, the University does not release personal student information, other than public directory information, to other parties unless an explicit written authorization is submitted requesting the institution to do so.  Students who wish to have their information removed from the campus directory should visit the Registrar's Office in Central Classroom 105.
+Consistent with FERPA, the University does not release personal student information, other than public directory information, to other parties unless an explicit written authorization is submitted requesting the institution to do so.  Students who wish to have their information removed from the campus directory should visit the [Registrar's Office](https://web.archive.org/registrar/) in Student Success Building 160.
 
  **Open Records Requests**  
 Except for educational records governed by FERPA, all information collected from the University Web site, including the summary server log information, e-mail sent to the Web site, and information collected from Web-based forms, may be made available to requesting parties if it is subject to the Colorado Open Records Act.
