@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the fuckbooknigeria.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316222630id_/http%3A//www.fuckbooknigeria.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbooknigeria.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628000349id_/http%3A//www.fuckbooknigeria.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, F*ckbook Nigeria
 
-F*ckbook Nigeria (the "Site") is owned and operated by **Infinite Connections Inc./Infinite Connections LTD**
+F*ckbook Nigeria (the "Site") is owned and operated by **Infinite Connections Inc. / Infinite Connections Ltd**
 
-Our postal address is   
-**Domestic Offices - Infinite Connections Inc.  
-865 SW 78th Ave A100   
-Plantation, FL 33324  
-954-944-9054 **
+Our postal address is: 
 
-**UK Offices - INFINITE CONNECTIONS LTD  
-1 KINGS AVENUE   
-WINCHMORE HILL   
-LONDON   
-ENGLAND   
-N21 3NA  
-44 203 318 0106  
-VAT #EU196011004  
+**Domestic Offices:  
+Infinite Connections Inc.  
+865 SW 78th Ave  
+Plantation, 33324 FL, US  
 **
+
+**International Offices:  
+Infinite Connections Ltd  
+1 Kings Avenue  
+Winchmore Hill  
+London N21 3NA, UK  
+Company No. 07557899  
+VAT:EU196011004 **
 
 This website is registered with the Information Commissionaire's Office in accordance to the Data Protection Act of 1998 
 
@@ -86,5 +86,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the http://www.fuckbooknigeria.com/pagesterms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the http://www.fuckbooknigeria.com/pages/terms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
