@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226154351id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627030656id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
 
 # Deakin University Privacy Statement
 
@@ -77,12 +77,12 @@ Geelong Vic 3220
 
 ### Links:
 
-  * [Deakin University Privacy Policy](http://theguide.deakin.edu.au/TheGuide/TheGuide2011.nsf/191d0d51322b3a04ca2576be00064063/be56c159459e1ca9ca257b02007a17c6?OpenDocument)
+  * [Deakin University Privacy Policy](https://policy.deakin.edu.au/view.current.php?id=00139)
   * [ _Privacy and Data Protection Act 2014  (Vic)_](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/409fbd6322ca2b75ca257d5700232e36!OpenDocument)
-  * [Privacy Victoria](http://www.privacy.vic.gov.au/privacy/web2.nsf/pages/home)
+  * [Privacy Victoria](https://www.cpdp.vic.gov.au/menu-privacy/privacy-what-is)
 
 
 
 Page custodian: eSolutions - Digital Presence
 
-Last updated: October 7, 2014 (3:36pm)
+Last updated: February 5, 2016 (12:52pm)
