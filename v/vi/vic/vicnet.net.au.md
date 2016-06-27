@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228061348id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627061456id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | State Library Victoria
 
@@ -13,6 +13,8 @@ The State Library of Victoria website can be accessed and browsed without disclo
 ## Collection & use of personal information
 
 This site does not collect or use personal information except that which you provide freely through online forms as part of a service request.
+
+The Library may, in some circumstances for the necessary performance of its functions, transfer personal information or information collected from individuals outside Victoria to the servers of third-party organisations.
 
 ## Disclosure
 
