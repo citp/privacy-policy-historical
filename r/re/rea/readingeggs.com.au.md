@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeggs.com.au privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227234959id_/http%3A//readingeggs.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627064133id_/http%3A//readingeggs.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – ABC Reading Eggs
 
@@ -84,7 +84,7 @@ If you wish to lodge a complaint with Blake eLearning about your privacy, please
 **Blake eLearning Privacy Officer:**
 
 Ph: (02) 8585 4067  
-Email: kate.mclennan@pascalpress.com.au  
+Email: socialmedia@readingeggs.com  
 Address: 655 Parramatta Rd Leichhardt NSW 2040 Australia
 
 ## Your consent
