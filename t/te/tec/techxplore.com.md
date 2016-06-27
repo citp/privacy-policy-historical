@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techxplore.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224081847id_/https%3A//sciencex.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxplore.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140400id_/https%3A//sciencex.com/help/privacy) for the most accurate reproduction.*
 
 # Science X Network :: Phys.org, Medical Xpress, Tech Xplore
 
