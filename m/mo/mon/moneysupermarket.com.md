@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysupermarket.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230225344id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysupermarket.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627163125id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # moneysupermarket.com - Legal Services
 
@@ -6,7 +6,7 @@
 
 1. Who are we?
 
-2. How do we collect information?
+2. How do we collect information? 
 
 3. What Information do we collect? 
 
@@ -46,7 +46,7 @@ We may obtain information from you through the websites, mobile applications or 
 
 
 
-MoneySavingExpert.com may also share your personal information with the rest of the Moneysupermarket Group but only if you have given your informed consent for it to do so while using MoneySavingExpert.com. This information will be used to speed up form filling, or to personalise, or improve your experience when using the Sites and MoneySavingExpert.com. Other than this, MoneySavingExpert.com does not share your personal information with the other members of the Moneysupermarket Group. You should read MoneySavingExpert.com's own [Privacy Policy  ](http://www.moneysavingexpert.com/site/privacy-policy)for further information about the ways in which it uses your personal information.
+MoneySavingExpert.com may also share your personal information with the rest of the Moneysupermarket Group but only if you have given your informed consent for it to do so while using MoneySavingExpert.com. This information will be used to speed up form filling, or to personalise, or improve your experience when using the Sites and MoneySavingExpert.com. Other than this, MoneySavingExpert.com does not share your personal information with the other members of the Moneysupermarket Group. You should read MoneySavingExpert.com's own [Privacy Policy](http://www.moneysavingexpert.com/site/privacy-policy) for further information about the ways in which it uses your personal information.
 
 Moneysupermarket.com Limited (company number 3945937) is the data controller in relation to the processing of the personal information that you provide to us when using the Services. Its registered address is Moneysupermarket House, St David's Park, Ewloe, Chester, CH5 3UZ. If you have any queries relating to our use of your personal information, or any other related data protection questions, please contact our Customer Services Team at [customerservices@moneysupermarket.com](mailto:customerservices@moneysupermarket.com).
 
@@ -115,7 +115,7 @@ If we reasonably believe false or inaccurate information has been provided and f
 
 **Who might our providers share your information with?**
 
-Some of our providers will use your personal information to assess your circumstances (including information about any third party who is named on the policy) and verify the information that you have provided before providing a quote to you.  Some providers may carry out checks with fraud prevention and credit reference agencies. Both public data (e.g. the electoral roll) and private data (e.g. your personal credit history) may be checked in this way.  Providers may also exchange data with certain industry databases such as the No Claims Discount Database, the Motor Insurance Anti-Fraud and Theft Register, the Claims and Underwriting Exchange (which holds records of incidents reported to insurers that may or may not have resulted in a claim) and the Hunter Database (a central insurance and claims checking system).  If providers carry out these searches, a record of the search will appear on your credit report.  Some providers may also check public and private higher education sources to obtain information about your educational background.  
+Some of our providers will use your personal information to assess your circumstances (including information about any third party who is named on the policy) and verify the information that you have provided before providing a quote to you.  Some providers may carry out checks with fraud prevention and credit reference agencies. Both public data (e.g. the electoral roll) and private data (e.g. your personal credit history) may be checked in this way. Some providers may carry out checks against data they already hold on you, (or is held by the company whose brand they administer the product for, or members of their group of companies) such as data from existing products, account data, data from previous product transactions, accounts you may hold with them or loyalty scheme data to share with insurers in order to determine your premium. Providers may also exchange data with certain industry databases such as the No Claims Discount Database, the Motor Insurance Anti-Fraud and Theft Register, the Claims and Underwriting Exchange (which holds records of incidents reported to insurers that may or may not have resulted in a claim) and the Hunter Database (a central insurance and claims checking system).  If providers carry out these searches, a record of the search will appear on your credit report.  Some providers may also check public and private higher education sources to obtain information about your educational background.  
 
 This information exchange allows providers to verify the information that is provided during the quote process (including information about any third party who is named on the policy), and also helps to detect fraudulent claims.  Providers may also share information with insurance underwriters. These checks are not unique to users of our Services \- they may also be carried out if you obtain quotes from other sources.
 
@@ -127,7 +127,7 @@ In common with many other businesses, we use suppliers in other countries which 
 
 ### 6\. What cookies do we use?
 
-A cookie is a very small text file placed on your computer. Cookies help us to: 
+A cookie is a very small text file placed on your computer or device. Cookies help us to: 
 
   1. understand browsing habits on the Sites;
   2. understand the number of visitors to the Sites and the pages visited; and
@@ -135,7 +135,7 @@ A cookie is a very small text file placed on your computer. Cookies help us to:
 
 
 
-Most cookies are deleted as soon as you close your browser - these are known as session cookies. Others, known as persistent cookies, are stored on your computer either until you delete them or they expire. The cookie used to keep you signed in to your account expires after 90 days. Every time you visit moneysupermarket.com, you will be kept signed in for a further 90 days. By using the Services, you consent to us using cookies.
+Most cookies are deleted as soon as you close your browser or mobile application - these are known as session cookies. Others, known as persistent cookies, are stored on your computer or device either until you delete them or they expire. The cookie used to keep you signed in to your account expires after 90 days. Every time you visit moneysupermarket.com, you will be kept signed in for a further 90 days. By using the Services, you consent to us using cookies.
 
 You can choose to block or delete cookies through your browser settings. If you decide to block or delete our cookies, you will not be able to benefit from the full range of our Services and this may affect the performance of our Sites on your system. For more information on the cookies we use, please see our [Cookie Policy](http://www.moneysupermarket.com/legal/cookie-policy.asp).
 
@@ -181,7 +181,7 @@ This Privacy Policy shall be governed and construed in all respects in accordanc
 
 We reserve the right to amend or modify this Privacy Policy at any time and any changes will be published on the Sites.
 
-**Last updated  November 2015  
+**Last updated  June 2016  
 **
 
-[](https://web.archive.org/web/20151230225344id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20160627163125id_/http%3A//www.moneysupermarket.com/)
