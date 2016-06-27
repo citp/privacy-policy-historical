@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211316id_/http%3A//www.maritz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627171456id_/http%3A//www.maritz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,10 +6,10 @@
 
 When you browse on this site your e-mail address is not automatically collected, but our server may automatically gather and store the following information about your visit: 
 
-  * Your Internet domain name and IP address
-  * The type of browser and operating system used to access our site
-  * The pages you visit
-  * The date and time of your visit
+  * Your Internet domain name and IP address 
+  * The type of browser and operating system used to access our site 
+  * The pages you visit 
+  * The date and time of your visit 
 
 
 
@@ -19,10 +19,10 @@ If you choose to provide information to us through our site by use of registrati
 
 In general, we will not share personally identifiable information about you with third parties. We may send personally identifiable information about you, including your email address, to other companies or people when:
 
-  * We have your consent to share the information
-  * We need to share this information to provide to you the information, product or service you have requested
-  * We respond to subpoenas, court orders or legal process; or
-  * We find or have reason to believe that your actions on our website violate website terms or conditions or are in violation of law.
+  * We have your consent to share the information 
+  * We need to share this information to provide to you the information, product or service you have requested 
+  * We respond to subpoenas, court orders or legal process; or 
+  * We find or have reason to believe that your actions on our website violate website terms or conditions or are in violation of law. 
 
 
 
@@ -63,7 +63,7 @@ Maritz adheres to the Safe Harbor Agreement concerning the transfer of personal 
 
 "Sensitive personal data" is a subset of personal data that indicates an individual's medical or health condition, racial or ethnic origin, political opinions, religion, union membership, sexual orientation, or actual or alleged criminal activity.
 
-"Maritz" refers to Maritz Holdings Inc., its U.S. subsidiaries and divisions, including but not limited to the following: Maritz Motivation Solutions Inc.; Maritz Research Inc., and Maritz Travel Company.
+"Maritz" refers to Maritz Holdings Inc., its U.S. subsidiaries and divisions, including but not limited to the following: Maritz Motivation Solutions Inc.; MaritzCX Holdings LLC, and Maritz Global Events, Inc. and its subsidiaries and divisions.
 
 ## Notice
 
