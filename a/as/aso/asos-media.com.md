@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos-media.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231075015id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos-media.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627094819id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies | ASOS
 
@@ -265,7 +265,7 @@ With respect to the information relating to you that ends up in our possession, 
   * You can withdraw or modify your consent to ASOS’ collection and processing of the information you provide at any time. You can do this by changing your account settings.  You can access 'Your Account' by logging in.
   
 
-  * You can link or unlink your ASOS account from an account on another service (e.g., Facebook or Twitter), also by changing your [account](https://www.linkedin.com/settings/) settings. 
+  * You can link or unlink your ASOS account from an account on another service (e.g., Facebook or Twitter), also by changing your [account](https://www.asos.com/account/pgeaccmenu.aspx) settings. 
   
 
   * You can close your account, also through our account settings. If you close your account(s), we’ll deactivate it and will generally delete closed account information within 30 days of account closure, except as set out in this notice.  However, we may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).  Please note though that, if you have shared any information with others through the ASOS Social Media channels for example, that information may remain visible, even after you have closed your account. 
