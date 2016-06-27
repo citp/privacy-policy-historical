@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226155339id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627144351id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ back to top __
 
 ### Information Voluntarily Supplied to ASH by Our Members
 
-We maintain data (including contact information, subspecialty, and ASH committee participation) on all of our members that can be accessed through a secure [online member directory](https://store.hematology.org/Default.aspx?tabid=64&redirecttabid=137). This directory may be accessed only by other current ASH members through a password-protected, members-only area of the Site. This directory is not made available to the general public. Members who wish to opt out of being included in the directory may do so by accessing their [member profile](https://store.hematology.org/Default.aspx?tabid=64&redirecttabid=137) online.
+We maintain data (including contact information, subspecialty, and ASH committee participation) on all of our members that can be accessed through a secure [online member directory](http://webapps.hematology.org/memberdirectory/ "online member directory"). This directory may be accessed only by other current ASH members through a password-protected, members-only area of the Site. This directory is not made available to the general public. Members who wish to opt out of being included in the directory may do so by accessing their [member profile](http://webapps.hematology.org/Account)online.
 
-We also offer a voluntary, publicly accessible online directory of members through [Find a Hematologist](http://www.findahematologist.org/). The Find a Hematologist directory allows patients and other members of the public to search for hematologists and provides users with contact information for members who have chosen to be listed. Participation in the directory is optional. ASH members must opt in to be included and may opt out at any time by accessing their [member profile](https://store.hematology.org/Default.aspx?tabid=64&redirecttabid=137) online.
+We also offer a voluntary, publicly accessible online directory of members through [Find a Hematologist](http://www.findahematologist.org/). The Find a Hematologist directory allows patients and other members of the public to search for hematologists and provides users with contact information for members who have chosen to be listed. Participation in the directory is optional. ASH members must opt in to be included and may opt out at any time by accessing their [member profile](http://webapps.hematology.org/Account) online.
 
 We do not share member e-mail addresses, phone numbers, or fax numbers with non-members or other organizations, except that we may share member information with third-party service providers, contractors, partners, and fulfillment agencies to use only for purposes of providing a service relating to the Site.
 
