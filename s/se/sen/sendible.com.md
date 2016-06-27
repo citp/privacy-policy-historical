@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226221930id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121027id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sendible
+# Sendible Privacy Policy
 
 In order to benefit from the full functionality offered by this web site, it is occasionally necessary for us to place a small amount of information (a cookie) on your computer. Cookies are used to store your viewing options for displaying thumbnail images and text. When you change these options, your new selections are recorded in a cookie for use next time you visit the site. 
 
