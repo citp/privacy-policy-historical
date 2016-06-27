@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016073015id_/http%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627152812id_/http%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy | The Idle Man
+# Privacy Policy at The Idle Man
 
 Idle Projects Ltd (" **we/us/our** ") is committed to protecting and respecting your privacy. Our registered office is at 27 Colwell Road, London SE22 8QP and our company number is 08484139.
 
