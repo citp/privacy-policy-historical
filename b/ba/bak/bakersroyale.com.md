@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226210250id_/http%3A//www.bakersroyale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140935id_/http%3A//www.bakersroyale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Bakers Royale
 
 The Privacy Policy covers all of Bakers Royale (“BR Site”) and any associated content, including, but not limited to, email and RSS feeds. Your use of Bakers Royale indicates you have read and understood this privacy policy and indicates your agreement to abide by the Terms of Use in effect.
 
