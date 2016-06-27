@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122104456id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627213815id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Money Expert
 
-We at File Creator LTD. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://themoney.expert/terms-of-use/ "Terms").
 
