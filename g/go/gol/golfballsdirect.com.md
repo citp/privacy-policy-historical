@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfballsdirect.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226232007id_/http%3A//www.golfballsdirect.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballsdirect.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627071617id_/http%3A//www.golfballsdirect.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy | GolfBallsDirect.com
 
@@ -131,7 +131,7 @@ Online Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.  
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20151226232007id_/http%3A//www.golfballsdirect.com/terms.asp)section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160627071617id_/http%3A//www.golfballsdirect.com/terms.asp)section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
 Your consent
 
 By using our site, you consent to our privacy policy.
