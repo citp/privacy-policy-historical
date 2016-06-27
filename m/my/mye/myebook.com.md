@@ -1,62 +1,23 @@
-> *The following text is extracted and transformed from the myebook.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206031929id_/http%3A//www.myebook.com/%3Fpage_id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myebook.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627063306id_/http%3A//www.myebook.com/index.php%3Foption%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Myebook
+# Myebook - get it out there!
 
-This Privacy Policy governs the manner in which myebook collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.myebook.com website (“Site”). This privacy policy applies to the Site and all products and services offered by myebook.
+  1. MyeBook Global Limited also known as Myebook and MyeBook,(sometimes abbreviated as Mye) of 24 Deansgate, Blackpool, Lancashire, FY1 1BN, UK and each of the companies in the MyeBook Group ("MyeBook") believes strongly in protecting your privacy and MyeBook complies with the Data Protection Act 1988. When you provide and MyeBook collects your personal information when you use the Site, MyeBook will use best endeavours only to use it or disclose it in the manner stated below and in accordance with current legislation and in line so as to meet current internet best practices. By using the Site you agree that MyeBook may do so.
+  2. MyeBook will not disclose your personal details to other users except in accordance with this Privacy Policy.
+  3. MyeBook reserves the right to send all registrants of our services e-mail communications from time to time regarding updates and changes to the services, new links to the Site and any technical, administrative or legal notices important to the Site and the services that MyeBook considers essential. You are not able to unsubscribe from these notices.
+  4. MyeBook are the sole owners of the information collected on the Site. MyeBook will not sell, rent or otherwise disclose your personal information to any third party, without your consent, except in the following circumstances: 
+    1. MyeBook does share non-personal, non-individual information in aggregate form with third parties for business purposes, for example with advertisers on the Site or we may tell our business partners the number of customers in certain demographic groups who use certain services. However, this does not involve disclosing any personal information which can identify any individual client in any way.
+    2. MyeBook will disclose your personal information to any appropriate investigative third party if MyeBook believes that you are involved in any illegal or harmful conduct or if MyeBook is required to do so by law or MyeBook believes that such action is necessary to: 
+      1. comply with the law or with legal process;
+      2. protect and defend MyeBook's rights and property or that of other users;
+      3. prevent fraud;
+      4. protect against abuse, misuse or unauthorized use of the Site; or
+      5. protect the personal safety or property of other users or the public (eg. if you provide false or deceptive information about yourself or attempt to pose as someone else, MyeBook will disclose such information about you as it has to assist any type of investigation into your actions).
+    3. MyeBook may employ other companies to provide services for us. These companies have access to the personal information needed to perform their functions and not for any other purposes.
+    4. MyeBook may transfer its user database, including personal information contained therein, to another company in the MyeBook Group or to a third party who acquires all or substantially all of the assets or stock in our company or the Site service whether by merger, acquisition, reorganisation or otherwise.
+  5. The Site may contain links to other websites. Please note that MyeBook is not responsible for the privacy practices of such other websites and advise you to read the privacy statements of each website you visit which collects personal information.
+  6. The "MyeBook Group" means any company which is a parent or holding company and any company which is a subsidiary or affiliate company of MyeBook Global Limited. 
 
-**Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**How we use collected information**
-
-myebook may collect and use Users personal information for the following purposes:
-
-\- To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To improve our Site  
-We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners and trusted affiliates.
-
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-**Google Adsense**
-
-on our social publishing platform some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
-
-**Changes to this privacy policy**
-
-myebook has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-myebook, 24 Deansgate, Blackpool, Lancs, FY1 1BN.  
-privacy@myebook.com
-
-This document was last updated on July 19, 2014
+A cookie is an alphanumeric identifier which MyeBook transfers to your hard drive through your web browser when you visit the Site. It enables MyeBook's own system to recognise you when you visit the Site again and improve our service to you. Cookies may also be used to compile aggregate information about areas of the Site that are visited most frequently. This traffic information can be used to enhance the content of the Site and make your use of it easier. MyeBook does not track which pages you looked at while visiting the Site. If you wish to reject our cookie, you can configure your browser to do so. 
