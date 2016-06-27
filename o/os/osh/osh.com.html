@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the osh.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905053629id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the osh.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628013743id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 
 	
 	<title>
-		osh Site</title>
+		Orchard Supply Hardware Store</title>
 	
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="970">
@@ -46,7 +46,8 @@
 <link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/osh/css/prettyPhoto.css">
 <link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/osh/css/skin.css"> 
 <link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/osh/css/store_portal.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DDR6V"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_ui/desktop/osh/js/jquery-1.8.2.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DDR6V"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false">
+<script type="text/javascript" src="/_ui/desktop/osh/js/jquery-1.8.2.js" ></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.ui.core.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery-1.8.0.min.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.ui.widget.js"></script>
@@ -66,7 +67,6 @@
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.ui.effect-blind.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.ui.effect-explode.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery-ui.js"></script>
-<script type="text/javascript" src="/_ui/desktop/osh/js/common.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery_validation.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="/_ui/desktop/osh/js/jquery.prettyPhoto.js"></script>
@@ -78,6 +78,8 @@
 <script type="text/javascript" src="/_ui/desktop/common/js/jquery.colorbox-1.3.16.js"></script>
 <script type="text/javascript" src="/_ui/desktop/common/js/jquery.form-3.09.js"></script>
 
+<script type="text/javascript" src="/_ui/desktop/osh/js/common.js"></script>
+
 <script type="text/javascript" src="/_ui/desktop/common/js/jquery.tmpl-1.0.0pre.min.js"></script>
 
 <script type="text/javascript" src="/_ui/desktop/common/js/jquery.blockUI-2.39.js"></script>
@@ -86,6 +88,7 @@
 
 <script type="text/javascript" src="/_ui/desktop/osh/js/oshcheckout.js"></script>
 
+<script type="text/javascript" src="/_ui/desktop/osh/js/jquery.cookie.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 
 
@@ -151,9 +154,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <!-- To find latitude & longitude of user's current location -->	
 	
 
-
-
-<script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
+<!-- <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script> -->
 
 <script type="text/javascript">
 
@@ -167,6 +168,7 @@ function initialize() {
     zoom: 8,
     center: latlng
   }
+if(document.getElementById('map-canvas')!=null)
   map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 }
 
@@ -184,7 +186,7 @@ function codeAddress() {
 		  store = unescape(temp[1]);
 	  }
 	  
-	  var sessionStore = null;
+	  var sessionStore = 'null';
 
 	  if((store == null || sessionStore == null) && address.length){
 	  geocoder.geocode( { 'address': address}, function(results, status) { 
@@ -226,7 +228,7 @@ google.maps.event.addDomListener(window, 'load', codeAddress);
 
 </script>
 
-
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DDR6V"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -285,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <span>
 <span class="dot">|</span>
-<a href="http://www.circularhub.com/pub/orchardsupplyhardware?type=1" title="Weekly Ad">Weekly Ad</a>
+<a href="/weeklyad" title="Weekly Ad">Weekly Ad</a>
  </span>
 
 <span>
@@ -319,7 +321,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 			</span>
 		</form>
+
 	</div>
+	<div class="cluborchardlogo">
+	<div class="simple_banner">
+	<a href="http://cluborchard.osh.com" target="_blank"><img title="" alt="" src="/medias/sys_master/h49/h55/8897740177438/club-orchard-graphic.png"></a>
+		</div></div>
 	<script id="miniCartTemplate" type="text/x-jquery-tmpl">
 /*<![CDATA[*/
 
@@ -451,16 +458,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</span>
 		</span>
 	</div>
-</div><div class="banner">
-	<a href="http://cluborchard.osh.com">
-			<div class="thumb">
-					<img title="" alt="" class="" src="/medias/sys_master/h63/h95/8881098031134/club_orchard_logo_150623.png">
-				</div>
-				</a>
-		</div></div>
+</div></div>
 <div id="headerNav">
 	<ul id="nav" class="dropdown dropdown-linear dropdown-columnar">
-		<li class="dir maindir first"><span class="dropmenuahead"> <a href="OSH-Categories/ToolsAndHardware/c/osh1006" title="Tools &amp; Hardware">Tools &amp; Hardware</a></span> <ul>
+			<li class="dir maindir first"><span class="dropmenuahead"> <a href="OSH-Categories/ToolsAndHardware/c/osh1006" title="Tools &amp; Hardware">Tools &amp; Hardware</a></span> <ul>
 				<li style="float: left; width: 100%;">
 					<table class="tables" width="929">
 						<tbody>
@@ -789,10 +790,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 														<li><a href="/c/osh3159" title="Lights">Lights</a></li>
 														<li><a href="/c/osh3160" title="Faux Tree">Faux Tree</a></li>
 														</ul>
-											</li><li class="dir" style="min-height: 146px;">
-												<a href="/Rugs">Rugs</a>	
-													<ul>
-														</ul>
 											</li></ul>
 								<!-- </td>
 
@@ -853,10 +850,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<a href="/OSH-Categories/AirFilters/c/osh2003">Air Filters</a>	
 													<ul>
 														<li><a href="OSH-Categories/Pleated/c/osh3003" title="Pleated">Pleated</a></li>
-														</ul>
-											</li><li class="dir" style="min-height: 146px;">
-												<a href="/HeatingCooling">Heating &amp; Cooling Systems</a>	
-													<ul>
 														</ul>
 											</li></ul>
 								<!-- </td>
@@ -991,10 +984,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</tbody>
 					</table>
 			</li></ul>
-		</li><li class="dir maindir"><span class="dropmenuahead"> <a href="http://www.osh.com/IHI" title="Installed Home Improvement" target="_new">Installed Home Improvement</a></span> </li></ul>
-</div><script>
+		</li><li class="dir maindir"><span class="dropmenuahead"> <a href="http://www.osh.com/SolarEnergy" title="SunPower® Solar" target="_new">SunPower® Solar</a></span> </li></ul>
+	 </div><script>
 	
-
+	$('.cluborchardlogo a').attr('target', '_blank');
 	$(function() {
 		$("#search").autocomplete({
 			source : function(request, response) {
@@ -1442,15 +1435,12 @@ San Jose, CA  95119<br>
 			</div>
 			
 
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
-
+<title>
+		Orchard Supply Hardware Store</title>
 
 <div id="footer">
 <div>
-<form id="cheetahMailSubscibe" action="/subscribe/cheetah" method="Post"><div class="floatl">
+<form id="cheetahMailSubscibe" action="/subscribe" method="Post"><div class="floatl">
 		<ul class="first">
 			<li class="footerspecialfont">1 888 SHOP OSH (1-888-746-7674)</li>
 			<li class="footerspecialfont signupinlist">Sign up to receive special offers</li>
@@ -1481,8 +1471,8 @@ San Jose, CA  95119<br>
 				<li><a href="/rebates" title="Rebates">Rebates</a></li>
 				<li><a href="/shipping" title="Shipping">Shipping</a></li>
 				<li><a href="/r&amp;r" title="Returns and Refunds">Returns and Refunds</a></li>
-				<li><a href="http://www.circularhub.com/pub/orchardsupplyhardware?type=2" title="Weekly Ad">Weekly Ad</a></li>
-				<li><a href="/PrivacyPolicy" title="Privacy Statement ">Privacy Statement </a></li>
+				<li><a href="/weeklyad" title="Weekly Ad">Weekly Ad</a></li>
+				<li><a href="/privacyPolicy" title="Privacy Statement ">Privacy Statement </a></li>
 				<li><a href="/caprivacyrights" title="Your California Privacy Rights">Your California Privacy Rights</a></li>
 				<li><a href="/interestbasedads" title="Interest-Based Ads">Interest-Based Ads</a></li>
 				<li><a href="/terms" title="Terms of Use">Terms of Use</a></li>
@@ -1514,7 +1504,7 @@ San Jose, CA  95119<br>
 	</div>
 	<div class="copyrightsbox">
 		<div class="innercopyrightsbox">
-			<span>Copyright © 2015 Orchard Supply Hardware. All rights reserved.</span>
+			<span>Copyright © 2016 Orchard Supply Hardware. All rights reserved.</span>
 		</div>
 		</div>
 	</div>
@@ -1575,12 +1565,11 @@ requestURI=/WEB-INF/views/desktop/pages/layout/oshLandingPageTemplate.jsp
 
 Jalo Session details:
 
-[DeviceDetectionFacade-Detected-Device] = [com.hybris.osh.facades.device.data.DeviceData@38c605d6]
+[DeviceDetectionFacade-Detected-Device] = [com.hybris.osh.facades.device.data.DeviceData@5c6fb0a0]
 [Europe1PriceFactory_UTG] = [UserTaxGroup.jp-taxes(jp-taxes(8796131328091))]
-[JaloSession ID] = [s19236345973472]
-[RULE_DATA_STORAGE_CONTAINER_MAP] = [de.hybris.platform.btg.result.BTGResultSessionCacheHolder@276d9850]
+[JaloSession ID] = [s2054515332016]
 [UiExperienceService-Detected-Level] = [UiExperienceLevel.Desktop(Desktop(8796107833435))]
-[_slsession_] = [de.hybris.platform.servicelayer.session.impl.DefaultSession@615d4af4]
+[_slsession_] = [de.hybris.platform.servicelayer.session.impl.DefaultSession@d1a7f74c]
 [catalogversions] = [[OSHClassification/1.0 (8796093219417), oshProductCatalog/Online(8796093186649), oshContentCatalog/Online(8796093284953)]]
 [currency] = [8796125888545->USD]
 [currentCatalogVersion] = [oshProductCatalog/Online(8796093186649)]
@@ -1589,7 +1578,7 @@ Jalo Session details:
 [enable.language.fallback.serviceLayer] = [true]
 [language] = [8796093055008->en]
 [locale] = [en]
-[sessionUserBrowseHistory-osh] = [com.hybris.osh.storefront.history.impl.DefaultBrowseHistory$InstanceWrapper@50a941b8]
+[sessionUserBrowseHistory-osh] = [com.hybris.osh.storefront.history.impl.DefaultBrowseHistory$InstanceWrapper@28b507c9]
 [timezone] = [sun.util.calendar.ZoneInfo[id="GMT",offset=0,dstSavings=0,useDaylight=false,transitions=0,lastRule=null]]
 [user] = [anonymous[8796093087748]]
 
@@ -1605,8 +1594,8 @@ overrideUiExperienceCode=
 
 Detected Browser:
 
-detectedDeviceId=generic_web_crawler
-detectedDeviceUserAgent=DO_NOT_MATCH_GENERIC_WEB_CRAWLER
-detectedDeviceCapabilities={screensaver_greyscale=false, fl_wallpaper=false, columns=120, mms_xmf=false, wta_phonebook=false, viewport_supported=false, mms_wml=false, ringtone_directdownload_size_limit=0, ringtone_xmf=false, streaming_real_media=none, chtml_displays_image_in_center=false, wallpaper_colors=2, mms_max_width=0, screensaver_max_height=0, j2me_audio_capture_enabled=false, wallpaper_preferred_height=0, xhtml_supports_monospace_font=false, dual_orientation=false, panasonic=false, video=false, ajax_xhr_type=standard, device_os_version=, time_to_live_support=false, handheldfriendly=false, wml_displays_image_in_center=false, fl_sub_lcd=false, screensaver_png=false, mobile_browser_version=, j2me_midi=false, viewport_initial_scale=, ajax_manipulate_css=true, xhtml_marquee_as_css_property=false, picture_bmp=false, j2me_3gpp=false, epoc_bmp=false, gif=true, digiplug=false, evrc=false, xhtml_nowrap_mode=false, j2me_udp=false, physical_screen_height=400, sms_enabled=false, unique=true, max_deck_size=100000, streaming_mp4=false, nokia_ringtone=false, j2me_wma=false, emoji=false, screensaver_bmp=false, sagem_v1=false, sagem_v2=false, wizards_recommended=false, j2me_3dapi=false, xhtml_avoid_accesskeys=true, wta_misc=false, streaming_mov=false, empty_option_value_support=true, sckl_vcard=false, xhtml_table_support=false, device_claims_web_support=true, playback_acodec_aac=none, uaprof3=, oma_v_1_0_combined_delivery=false, rss_support=false, uaprof2=, physical_screen_width=400, marketing_name=, picture_inline_size_limit=0, streaming_preferred_protocol=rtsp, ringtone_oma_size_limit=0, mms_3gpp2=false, j2me_realaudio=false, pointing_method=mouse, built_in_recorder=false, wallpaper_wbmp=false, sender=false, j2me_au=false, has_cellular_radio=false, ringtone_qcelp=false, wbmp=false, post_method_support=true, iso8859_support=false, mms_midi_monophonic=false, image_as_link_support=false, max_url_length_homepage=0, cookie_support=true, colors=65536, wallpaper=false, built_in_camera=false, viewport_maximum_scale=, wallpaper_directdownload_size_limit=0, has_qwerty_keyboard=true, mms_midi_polyphonic_voices=0, connectionoriented_confirmed_service_load=false, bmp=true, j2me_datefield_broken=false, expiration_date=false, mms_evrc=false, ringtone_3gpp=false, amr=false, ems_upi=false, model_name=Bot or Crawler, resolution_height=600, nokiavcal=false, built_in_back_button_support=false, j2me_png=false, voicexml=false, xhtml_select_as_radiobutton=true, imelody=false, max_no_of_bookmarks=0, picture_gif=false, xhtml_file_upload=supported, mms_3gpp=false, css_border_image=none, card_title_support=false, xhtml_support_level=4, au=false, j2me_mmapi_1_0=false, j2me_mmapi_1_1=false, chtml_display_accesskey=false, screensaver_gif=false, transparent_png_alpha=false, is_smarttv=false, mms_max_size=0, ems_odi=false, mms_video=false, j2me_jtwi=false, wallpaper_jpg=false, ringtone_df_size_limit=0, xhtml_supports_css_cell_table_coloring=false, mms_ota_bitmap=false, streaming_3g2=false, screensaver_oma_size_limit=0, playback_directdownload_size_limit=0, j2me_imelody=false, viewport_userscalable=, xhtml_supports_invisible_text=false, nokia_series=0, xhtml_allows_disabled_form_elements=false, aac=false, access_key_support=false, mms_jad=false, progressive_download=false, oma_v_1_0_forwardlock=false, playback_3gpp=false, transcoder_ua_header=user-agent, svgt_1_1=false, wallpaper_tiff=false, mms_jar=false, wallpaper_oma_size_limit=0, playback_vcodec_mpeg4_sp=-1, chtml_can_display_images_and_text_on_same_line=false, j2me_video_capture_enabled=false, picture_resize=none, ringtone_midi_monophonic=false, streaming_3gpp=false, opwv_wml_extensions_support=false, j2me_https=false, picture_oma_size_limit=0, insert_br_element_after_widget_recommended=false, sckl_operatorlogo=false, picture_greyscale=false, xhtml_display_accesskey=false, hinted_progressive_download=false, mms_gif_static=false, siemens_logo_height=29, j2me_nokia_ui=false, ringtone_awb=false, streaming_flv=false, playback_oma_size_limit=0, opwv_xhtml_extensions_support=false, greyscale=false, ringtone_imelody=false, picture_png=false, html_wi_imode_htmlx_1_1=false, picturemessage=false, ajax_support_inner_html=true, jpg=true, streaming_acodec_aac=none, wallpaper_gif=false, j2me_socket=false, mms_mp4=false, mms_mp3=false, rmf=false, xhtml_readable_background_color2=#FFFFFF, j2me_max_record_store_size=0, xhtml_readable_background_color1=#FFFFFF, transparent_png_index=false, softkey_support=false, html_wi_imode_htmlx_1=false, j2me_siemens_extension=false, max_url_length_in_requests=128, j2me_mpeg4=false, sckl_vcalendar=false, mms_nokia_ringingtone=false, playback_vcodec_h264_bp=-1, ringtone=false, proportional_font=false, mms_wbxml=false, ems_imelody=false, picture_jpg=false, max_url_length_cached_page=0, wallpaper_df_size_limit=0, mms_mmf=false, total_cache_disable_support=false, ununiqueness_handler=, rows=200, max_no_of_connection_settings=0, ems_version=0, imode_region=none, ajax_manipulate_dom=true, icons_on_menu_items_support=false, xhtml_supports_forms_in_table=true, ajax_preferred_geoloc_api=none, picture_max_height=0, j2me_http=false, nokia_voice_call=false, wta_voice_call=false, wallpaper_bmp=false, wav=false, j2me_screen_height=0, mms_wmlc=false, streaming_vcodec_h264_bp=-1, screensaver_preferred_width=0, xhtml_supports_inline_input=false, basic_authentication_support=true, fl_standalone=false, compactmidi=false, wta_pdc=false, can_skip_aligned_link_row=true, wallpaper_greyscale=false, j2me_screen_width=0, j2me_canvas_width=0, j2me_bits_per_pixel=0, j2me_select_key_code=0, full_flash_support=true, ajax_support_event_listener=true, mobile_browser=, times_square_mode_support=false, ringtone_digiplug=false, screensaver_directdownload_size_limit=0, https_support=true, wifi=false, css_rounded_corners=none, xhtml_send_sms_string=none, uaprof=, is_wireless_device=false, mms_nokia_wallpaper=false, smf=false, picture_max_width=0, max_object_size=0, ringtone_wav=false, can_assign_phone_number=false, receiver=false, sckl_groupgraphic=false, wallpaper_png=false, brand_name=Robot, menu_with_select_element_recommended=false, ringtone_mmf=false, j2me_locapi=false, streaming_vcodec_mpeg4_sp=-1, j2me_btapi=false, streaming_vcodec_h263_0=-1, nokia_edition=0, multipart_support=false, picture_colors=2, j2me_realmedia=false, streaming_vcodec_h263_3=-1, j2me_realvideo=false, wallpaper_max_height=0, picture_directdownload_size_limit=0, playback_acodec_amr=none, phone_id_provided=false, flash_lite_version=, j2me_right_softkey_code=0, callericon=false, j2me_rmf=false, streaming_vcodec_mpeg4_asp=-1, sp_midi=false, resolution_width=800, mms_symbian_install=false, ringtone_amr=false, preferred_markup=html_web_4_0, mms_gif_animated=false, playback_mov=false, j2me_h263=false, mms_max_height=0, device_os=, midi_monophonic=false, inline_support=false, mms_spmidi=false, j2me_real8=false, svgt_1_1_plus=false, mms_nokia_3dscreensaver=false, screensaver_max_width=0, utf8_support=false, gprtf=false, doja_4_0=false, connectionoriented_confirmed_cache_operation=false, ringtone_mp3=false, connectionoriented_unconfirmed_cache_operation=false, xhtml_document_title_support=true, mms_qcelp=false, connectionoriented_confirmed_service_indication=false, downloadfun_support=false, j2me_gif=false, playback_mp4=false, wallpaper_inline_size_limit=0, xhtml_support_wml2_namespace=false, png=true, j2me_canvas_height=0, xhtml_preferred_charset=utf8, release_date=2000_january, html_wi_imode_compact_generic=false, operatorlogo=false, screensaver_wbmp=false, streaming_video_size_limit=0, mms_vcard=false, j2me_photo_capture_enabled=false, j2me_gif89a=false, screensaver_preferred_height=0, siemens_ota=false, oma_v_1_0_separate_delivery=false, chtml_make_phone_call_string=tel:, j2me_serial=false, j2me_mp4=false, j2me_wmapi_2_0=false, j2me_mp3=false, pdf_support=true, ems_variablesizedpictures=false, playback_3g2=false, mms_bmp=false, ringtone_inline_size_limit=0, xmf=false, directdownload_support=false, siemens_screensaver_width=101, picture_preferred_width=0, qcelp=false, mms_vcalendar=false, connectionless_service_indication=false, streaming_acodec_amr=none, canvas_support=none, is_transcoder=false, connectionoriented_unconfirmed_service_load=false, wallpaper_resize=none, text_imelody=false, screensaver=false, j2me_wav=false, xhtml_select_as_dropdown=true, j2me_clear_key_code=0, xhtml_format_as_attribute=false, j2me_midp_1_0=false, wml_can_display_images_and_text_on_same_line=false, wallpaper_preferred_width=0, ringtone_voices=1, j2me_left_softkey_code=0, mms_jpeg_progressive=false, j2me_aac=false, streaming_video=false, mms_midi_polyphonic=false, j2me_middle_softkey_code=0, max_url_length_bookmark=0, playback_vcodec_h263_3=-1, xhtml_send_mms_string=none, is_tablet=false, playback_vcodec_h263_0=-1, emptyok=false, streaming_wmv=none, picture_wbmp=false, screensaver_inline_size_limit=0, siemens_screensaver_height=50, playback_wmv=none, css_gradient=none, xhtml_supports_iframe=full, xhtml_make_phone_call_string=tel:, css_spriting=false, max_image_height=600, ringtone_rmf=false, xhtml_select_as_popup=true, mms_nokia_operatorlogo=false, ascii_support=false, mms_amr=false, max_image_width=600, playback_df_size_limit=0, mobileoptimized=false, fl_browser=false, elective_forms_recommended=false, tiff=false, chtml_table_support=true, model_extra_info=, j2me_motorola_lwt=false, image_inlining=false, j2me_heap_size=0, html_wi_oma_xhtmlmp_1_0=false, playback_real_media=none, wml_make_phone_call_string=none, numbered_menus=false, html_web_3_2=true, j2me_wbmp=false, max_length_of_username=0, ems=false, siemens_logo_width=101, doja_2_0=false, viewport_minimum_scale=, doja_2_1=false, break_list_of_links_with_br_element_recommended=false, oma_support=false, picture_df_size_limit=0, largeoperatorlogo=false, j2me_capture_image_formats=none, viewport_width=, doja_2_2=false, wrap_mode_support=false, xhtml_supports_table_for_layout=false, xhtml_can_embed_video=none, html_preferred_dtd=html4, html_web_4_0=true, j2me_midp_2_0=false, fl_screensaver=false, j2me_siemens_color_game=false, screensaver_resize=none, wallpaper_max_width=0, mms_wav=false, j2me_datefield_no_accepts_null_date=false, j2me_return_key_code=0, j2me_jpg=false, playback_inline_size_limit=0, sdio=false, j2me_amr=false, playback_vcodec_mpeg4_asp=-1, ajax_support_getelementbyid=true, j2me_cldc_1_0=false, j2me_cldc_1_1=false, max_length_of_password=0, nfc_support=false, j2me_max_jar_size=0, j2me_wmapi_1_1=false, j2me_wmapi_1_0=false, html_wi_imode_html_2=false, xhtmlmp_preferred_mime_type=text/html, html_wi_imode_html_3=false, mld=false, screensaver_df_size_limit=0, html_wi_imode_html_1=false, j2me_storage_size=0, html_wi_imode_html_4=false, ringtone_compactmidi=false, html_wi_imode_html_5=false, nokiaring=false, ringtone_midi_polyphonic=false, nokiavcard=false, wap_push_support=false, awb=false, deck_prefetch_support=false, menu_with_list_of_links_recommended=false, xhtml_autoexpand_select=false, j2me_xmf=false, ajax_support_events=true, ringtone_spmidi=false, picture_preferred_height=0, screensaver_jpg=false, picture=false, accept_third_party_cookie=true, html_wi_w3_xhtmlbasic=true, voices=1, midi_polyphonic=false, xhtml_format_as_css_property=false, j2me_bmp3=false, max_data_rate=9, doja_1_5=false, connectionless_service_load=false, table_support=false, mp3=false, doja_1_0=false, playback_acodec_qcelp=false, nokia_feature_pack=0, mms_rmf=false, doja_3_0=false, ringtone_aac=false, j2me_svgt=false, doja_3_5=false, mms_wbmp=false, gif_animated=true, wml_1_2=false, wml_1_1=false, wml_1_3=false, mms_png=false, connectionoriented_unconfirmed_service_indication=false, mms_max_frame_rate=0, sckl_ringtone=false, connectionless_cache_operation=false, xhtml_honors_bgcolor=true, screensaver_colors=2, ajax_support_javascript=true, css_supports_width_as_percentage=true, vpn=false, mms_jpeg_baseline=false, j2me_bmp=false, mmf=false}
+detectedDeviceId=generic
+detectedDeviceUserAgent=
+detectedDeviceCapabilities={screensaver_greyscale=false, fl_wallpaper=false, columns=11, mms_xmf=false, wta_phonebook=false, viewport_supported=false, mms_wml=false, ringtone_directdownload_size_limit=0, ringtone_xmf=false, streaming_real_media=none, chtml_displays_image_in_center=false, wallpaper_colors=2, mms_max_width=0, screensaver_max_height=0, j2me_audio_capture_enabled=false, wallpaper_preferred_height=0, xhtml_supports_monospace_font=false, dual_orientation=false, panasonic=false, video=false, ajax_xhr_type=none, device_os_version=, time_to_live_support=false, handheldfriendly=false, wml_displays_image_in_center=false, fl_sub_lcd=false, screensaver_png=false, mobile_browser_version=, j2me_midi=false, viewport_initial_scale=, ajax_manipulate_css=false, xhtml_marquee_as_css_property=false, picture_bmp=false, j2me_3gpp=false, epoc_bmp=false, gif=true, digiplug=false, evrc=false, xhtml_nowrap_mode=false, j2me_udp=false, physical_screen_height=27, sms_enabled=true, unique=true, max_deck_size=4000, streaming_mp4=false, nokia_ringtone=false, j2me_wma=false, emoji=false, screensaver_bmp=false, sagem_v1=false, sagem_v2=false, wizards_recommended=false, j2me_3dapi=false, xhtml_avoid_accesskeys=false, wta_misc=false, streaming_mov=false, empty_option_value_support=true, sckl_vcard=false, xhtml_table_support=false, device_claims_web_support=false, playback_acodec_aac=none, uaprof3=, oma_v_1_0_combined_delivery=false, rss_support=false, uaprof2=, physical_screen_width=27, marketing_name=, picture_inline_size_limit=0, streaming_preferred_protocol=rtsp, ringtone_oma_size_limit=0, mms_3gpp2=false, j2me_realaudio=false, pointing_method=, built_in_recorder=false, wallpaper_wbmp=false, sender=false, j2me_au=false, has_cellular_radio=true, ringtone_qcelp=false, wbmp=true, post_method_support=true, iso8859_support=false, mms_midi_monophonic=false, image_as_link_support=false, max_url_length_homepage=0, cookie_support=true, colors=256, wallpaper=false, built_in_camera=false, viewport_maximum_scale=, wallpaper_directdownload_size_limit=0, has_qwerty_keyboard=false, mms_midi_polyphonic_voices=0, connectionoriented_confirmed_service_load=false, bmp=false, j2me_datefield_broken=false, expiration_date=false, mms_evrc=false, ringtone_3gpp=false, amr=false, ems_upi=false, model_name=, resolution_height=40, nokiavcal=false, built_in_back_button_support=false, j2me_png=false, voicexml=false, xhtml_select_as_radiobutton=false, imelody=false, max_no_of_bookmarks=0, picture_gif=false, xhtml_file_upload=not_supported, mms_3gpp=false, css_border_image=none, card_title_support=true, xhtml_support_level=1, au=false, j2me_mmapi_1_0=false, j2me_mmapi_1_1=false, chtml_display_accesskey=false, screensaver_gif=false, transparent_png_alpha=false, is_smarttv=false, mms_max_size=0, ems_odi=false, mms_video=false, j2me_jtwi=false, wallpaper_jpg=false, ringtone_df_size_limit=0, xhtml_supports_css_cell_table_coloring=false, mms_ota_bitmap=false, streaming_3g2=false, screensaver_oma_size_limit=0, playback_directdownload_size_limit=0, j2me_imelody=false, viewport_userscalable=, xhtml_supports_invisible_text=false, nokia_series=0, xhtml_allows_disabled_form_elements=false, aac=false, access_key_support=false, mms_jad=false, progressive_download=false, oma_v_1_0_forwardlock=false, playback_3gpp=false, transcoder_ua_header=user-agent, svgt_1_1=false, wallpaper_tiff=false, mms_jar=false, wallpaper_oma_size_limit=0, playback_vcodec_mpeg4_sp=-1, chtml_can_display_images_and_text_on_same_line=false, j2me_video_capture_enabled=false, picture_resize=none, ringtone_midi_monophonic=false, streaming_3gpp=false, opwv_wml_extensions_support=false, j2me_https=false, picture_oma_size_limit=0, insert_br_element_after_widget_recommended=false, sckl_operatorlogo=false, picture_greyscale=false, xhtml_display_accesskey=false, hinted_progressive_download=false, mms_gif_static=false, siemens_logo_height=29, j2me_nokia_ui=false, ringtone_awb=false, streaming_flv=false, playback_oma_size_limit=0, opwv_xhtml_extensions_support=false, greyscale=false, ringtone_imelody=false, picture_png=false, html_wi_imode_htmlx_1_1=false, picturemessage=false, ajax_support_inner_html=false, jpg=false, streaming_acodec_aac=none, wallpaper_gif=false, j2me_socket=false, mms_mp4=false, mms_mp3=false, rmf=false, xhtml_readable_background_color2=#FFFFFF, j2me_max_record_store_size=0, xhtml_readable_background_color1=#FFFFFF, transparent_png_index=false, softkey_support=false, html_wi_imode_htmlx_1=false, j2me_siemens_extension=false, max_url_length_in_requests=128, j2me_mpeg4=false, sckl_vcalendar=false, mms_nokia_ringingtone=false, playback_vcodec_h264_bp=-1, ringtone=false, proportional_font=false, mms_wbxml=false, ems_imelody=false, picture_jpg=false, max_url_length_cached_page=0, wallpaper_df_size_limit=0, mms_mmf=false, total_cache_disable_support=false, ununiqueness_handler=, rows=6, max_no_of_connection_settings=0, ems_version=0, imode_region=none, ajax_manipulate_dom=false, icons_on_menu_items_support=false, xhtml_supports_forms_in_table=false, ajax_preferred_geoloc_api=none, picture_max_height=0, j2me_http=false, nokia_voice_call=false, wta_voice_call=false, wallpaper_bmp=false, wav=false, j2me_screen_height=0, mms_wmlc=false, streaming_vcodec_h264_bp=-1, screensaver_preferred_width=0, xhtml_supports_inline_input=false, basic_authentication_support=true, fl_standalone=false, compactmidi=false, wta_pdc=false, can_skip_aligned_link_row=false, wallpaper_greyscale=false, j2me_screen_width=0, j2me_canvas_width=0, j2me_bits_per_pixel=0, j2me_select_key_code=0, full_flash_support=false, ajax_support_event_listener=false, mobile_browser=, times_square_mode_support=false, ringtone_digiplug=false, screensaver_directdownload_size_limit=0, https_support=true, wifi=false, css_rounded_corners=none, xhtml_send_sms_string=none, uaprof=, is_wireless_device=true, mms_nokia_wallpaper=false, smf=false, picture_max_width=0, max_object_size=0, ringtone_wav=false, can_assign_phone_number=true, receiver=false, sckl_groupgraphic=false, wallpaper_png=false, brand_name=, menu_with_select_element_recommended=false, ringtone_mmf=false, j2me_locapi=false, streaming_vcodec_mpeg4_sp=-1, j2me_btapi=false, streaming_vcodec_h263_0=-1, nokia_edition=0, multipart_support=false, picture_colors=2, j2me_realmedia=false, streaming_vcodec_h263_3=-1, j2me_realvideo=false, wallpaper_max_height=0, picture_directdownload_size_limit=0, playback_acodec_amr=none, phone_id_provided=false, flash_lite_version=, j2me_right_softkey_code=0, callericon=false, j2me_rmf=false, streaming_vcodec_mpeg4_asp=-1, sp_midi=false, resolution_width=90, mms_symbian_install=false, ringtone_amr=false, preferred_markup=html_wi_oma_xhtmlmp_1_0, mms_gif_animated=false, playback_mov=false, j2me_h263=false, mms_max_height=0, device_os=, midi_monophonic=false, inline_support=false, mms_spmidi=false, j2me_real8=false, svgt_1_1_plus=false, mms_nokia_3dscreensaver=false, screensaver_max_width=0, utf8_support=false, gprtf=false, doja_4_0=false, connectionoriented_confirmed_cache_operation=false, ringtone_mp3=false, connectionoriented_unconfirmed_cache_operation=false, xhtml_document_title_support=true, mms_qcelp=false, connectionoriented_confirmed_service_indication=false, downloadfun_support=false, j2me_gif=false, playback_mp4=false, wallpaper_inline_size_limit=0, xhtml_support_wml2_namespace=false, png=false, j2me_canvas_height=0, xhtml_preferred_charset=utf8, release_date=2002_january, html_wi_imode_compact_generic=false, operatorlogo=false, screensaver_wbmp=false, streaming_video_size_limit=0, mms_vcard=false, j2me_photo_capture_enabled=false, j2me_gif89a=false, screensaver_preferred_height=0, siemens_ota=false, oma_v_1_0_separate_delivery=false, chtml_make_phone_call_string=tel:, j2me_serial=false, j2me_mp4=false, j2me_wmapi_2_0=false, j2me_mp3=false, pdf_support=false, ems_variablesizedpictures=false, playback_3g2=false, mms_bmp=false, ringtone_inline_size_limit=0, xmf=false, directdownload_support=false, siemens_screensaver_width=101, picture_preferred_width=0, qcelp=false, mms_vcalendar=false, connectionless_service_indication=false, streaming_acodec_amr=none, canvas_support=none, is_transcoder=false, connectionoriented_unconfirmed_service_load=false, wallpaper_resize=none, text_imelody=false, screensaver=false, j2me_wav=false, xhtml_select_as_dropdown=false, j2me_clear_key_code=0, xhtml_format_as_attribute=false, j2me_midp_1_0=false, wml_can_display_images_and_text_on_same_line=false, wallpaper_preferred_width=0, ringtone_voices=1, j2me_left_softkey_code=0, mms_jpeg_progressive=false, j2me_aac=false, streaming_video=false, mms_midi_polyphonic=false, j2me_middle_softkey_code=0, max_url_length_bookmark=0, playback_vcodec_h263_3=-1, xhtml_send_mms_string=none, is_tablet=false, playback_vcodec_h263_0=-1, emptyok=false, streaming_wmv=none, picture_wbmp=false, screensaver_inline_size_limit=0, siemens_screensaver_height=50, playback_wmv=none, css_gradient=none, xhtml_supports_iframe=none, xhtml_make_phone_call_string=tel:, css_spriting=false, max_image_height=35, ringtone_rmf=false, xhtml_select_as_popup=false, mms_nokia_operatorlogo=false, ascii_support=false, mms_amr=false, max_image_width=90, playback_df_size_limit=0, mobileoptimized=false, fl_browser=false, elective_forms_recommended=true, tiff=false, chtml_table_support=false, model_extra_info=, j2me_motorola_lwt=false, image_inlining=false, j2me_heap_size=0, html_wi_oma_xhtmlmp_1_0=true, playback_real_media=none, wml_make_phone_call_string=wtai://wp/mc;, numbered_menus=false, html_web_3_2=false, j2me_wbmp=false, max_length_of_username=0, ems=false, siemens_logo_width=101, doja_2_0=false, viewport_minimum_scale=, doja_2_1=false, break_list_of_links_with_br_element_recommended=true, oma_support=false, picture_df_size_limit=0, largeoperatorlogo=false, j2me_capture_image_formats=none, viewport_width=, doja_2_2=false, wrap_mode_support=false, xhtml_supports_table_for_layout=false, xhtml_can_embed_video=none, html_preferred_dtd=html4, html_web_4_0=false, j2me_midp_2_0=false, fl_screensaver=false, j2me_siemens_color_game=false, screensaver_resize=none, wallpaper_max_width=0, mms_wav=false, j2me_datefield_no_accepts_null_date=false, j2me_return_key_code=0, j2me_jpg=false, playback_inline_size_limit=0, sdio=false, j2me_amr=false, playback_vcodec_mpeg4_asp=-1, ajax_support_getelementbyid=false, j2me_cldc_1_0=false, j2me_cldc_1_1=false, max_length_of_password=0, nfc_support=false, j2me_max_jar_size=0, j2me_wmapi_1_1=false, j2me_wmapi_1_0=false, html_wi_imode_html_2=false, xhtmlmp_preferred_mime_type=application/vnd.wap.xhtml+xml, html_wi_imode_html_3=false, mld=false, screensaver_df_size_limit=0, html_wi_imode_html_1=false, j2me_storage_size=0, html_wi_imode_html_4=false, ringtone_compactmidi=false, html_wi_imode_html_5=false, nokiaring=false, ringtone_midi_polyphonic=false, nokiavcard=false, wap_push_support=false, awb=false, deck_prefetch_support=false, menu_with_list_of_links_recommended=true, xhtml_autoexpand_select=false, j2me_xmf=false, ajax_support_events=false, ringtone_spmidi=false, picture_preferred_height=0, screensaver_jpg=false, picture=false, accept_third_party_cookie=true, html_wi_w3_xhtmlbasic=true, voices=1, midi_polyphonic=false, xhtml_format_as_css_property=false, j2me_bmp3=false, max_data_rate=9, doja_1_5=false, connectionless_service_load=false, table_support=true, mp3=false, doja_1_0=false, playback_acodec_qcelp=false, nokia_feature_pack=0, mms_rmf=false, doja_3_0=false, ringtone_aac=false, j2me_svgt=false, doja_3_5=false, mms_wbmp=false, gif_animated=false, wml_1_2=false, wml_1_1=true, wml_1_3=false, mms_png=false, connectionoriented_unconfirmed_service_indication=false, mms_max_frame_rate=0, sckl_ringtone=false, connectionless_cache_operation=false, xhtml_honors_bgcolor=false, screensaver_colors=2, ajax_support_javascript=false, css_supports_width_as_percentage=true, vpn=false, mms_jpeg_baseline=false, j2me_bmp=false, mmf=false}
 
 --></html>
