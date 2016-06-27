@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226205404id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627231507id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SHOEme.ca
 
@@ -106,4 +106,4 @@ If you have any questions or concerns about our privacy practices or this Privac
 1.866.440.7948 or write us at  
 Attn: Dominic Uy  
 Suite 400, 1500 West Georgia Street  
-Vancouver, BC V6E 4G1
+Vancouver, BC, V6G 2Z6
