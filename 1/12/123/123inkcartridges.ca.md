@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323044157id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627185525id_/http%3A//www.123inkcartridges.ca/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for www.123inkcartridges.ca
+# Privacy Policy for SHOPPER+ Inc.
 
 Effective on June 27, 2011 
 
-This privacy statement describes how 123inkcartridges.ca Inc. collects and uses the personal information you provide on our Web site: [www.123inkcartridges.ca ](https://www.123inkcartridges.ca/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-123inkcartridges.ca Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+This privacy statement describes how SHOPPER+ Inc. collects and uses the personal information you provide on our SHOPPER+ family sites: [123InkCartridges.ca ](http://www.123inkcartridges.ca/), [PrimeCables.com ](http://www.primecables.com/), [PhoneGala.com ](http://www.phonegala.com/), [PhotoGear.com ](http://www.photogear.com/), [LightingBox.com ](http://www.lightingbox.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -40,7 +34,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@123inkcartridges.ca ](mailto:support@123inkcartridges.ca).
 
 ## Information Sharing
 
@@ -52,7 +46,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if 123inkcartridges.ca Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if SHOPPER+ Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
   * to any other third party with your prior consent to do so.
 
 
@@ -77,15 +71,15 @@ We use a third party to gather information about how you and others use our Web 
 
 _Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of 123inkcartridges.ca Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of SHOPPER+ Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca)
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@123inkcartridges.ca ](mailto:support@123inkcartridges.ca)
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [techsupport@123inkcartridges.ca](mailto:techsupport@123inkcartridges.ca). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@123inkcartridges.ca](mailto:support@123inkcartridges.ca). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Additional Policy Information
 
@@ -93,7 +87,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca).
+To review and update your personal information to ensure it is accurate, contact us at [support@123inkcartridges.ca ](mailto:support@123inkcartridges.ca).
 
 **Notification of Privacy Statement Changes**
 
@@ -101,10 +95,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-123inkcartridges.ca Inc. 
+SHOPPER+ Inc. 
 
 2210 52e Av 
 
-Lachine, , Canada H8T 2Y3
+Lachine, , QC, Canada H8T 2Y3
 
 Phone: 1-866-979-7463
