@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226111445id_/http%3A//personacentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627154041id_/http%3A//personacentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Persona Central
 
@@ -23,6 +23,7 @@ http://personacentral.com/ uses cookies to store information about visitors’ p
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
   * Google
+  * Amazon
 
 
 
@@ -30,6 +31,8 @@ _While each of these advertising partners has their own Privacy Policy for their
 You may consult this listing to find the privacy policy for each of the advertising partners of http://personacentral.com/._
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://personacentral.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+Persona Central is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 http://personacentral.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
@@ -48,6 +51,11 @@ This privacy policy applies only to our online activities and is valid for visit
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf "amendments for government websites of the Google Analytics Terms of Use")) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
+
 **Update**  
-This Privacy Policy was last updated on: Sunday, August 9th, 2015.  
+This Privacy Policy was last updated on: Friday, June 3, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+  *[IP]: Internet Protocol
