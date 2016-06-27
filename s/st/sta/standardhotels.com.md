@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123210103id_/http%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627113103id_/http%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
 
 # The Standard Hotels | New York City - Los Angeles - Miami
 
@@ -93,7 +93,7 @@ We and our third party service providers may collect Other Information in a vari
 
 
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept our cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer, so you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept our cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer, so you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to your interests and needs. You may opt out of cookie collection here <http://www.networkadvertising.org/choices/>. 
 
 We use Google Analytics, which uses cookies and other, similar technologies to collect information about use of the Services and reports website trends, without identifying individual visitors. You can learn about Google’s practices and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
 
@@ -168,7 +168,7 @@ Standard International Management, LLC 
 Attention: Legal Department   
 23 E 4th Street, 5th floor   
 New York, NY 10003   
-Tel: 212.965.4326   
+Tel: 212.226.5656  
 Email: legal@standardhotels.com
 
 Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
