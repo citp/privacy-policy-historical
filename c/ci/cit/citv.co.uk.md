@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citv.co.uk privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228210853id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citv.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124041id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for ITV services – ITV
 
@@ -10,7 +10,7 @@ Please do read this policy and our [**cookie policy**](http://www.itv.com/cookie
 
 By accessing and using our services, you are agreeing to the terms of this privacy policy and to our [**cookie policy**](http://www.itv.com/cookies).
 
-We may update this privacy policy and our cookie policy from time to time and will post any changes on our website at [**www.itv.com**](http://www.itv.com/) so it's a good idea to come back and read through them again, from time to time. This privacy policy was last updated on 4 November 2013.
+We may update this privacy policy and our cookie policy from time to time and will post any changes on our website at [**www.itv.com**](http://www.itv.com/) so it's a good idea to come back and read through them again, from time to time. This privacy policy was last updated on 22 January 2016.
 
 ##  Which ITV companies does this policy cover? 
 
@@ -18,7 +18,7 @@ Any reference to "we", "us" and "our" is to ITV Consumer Limited, except where t
 
 ITV Consumer Limited is a company registered in England and Wales (registered number is 2937518) with registered office at The London Television Centre, Upper Ground, London SE1 9LT. Our VAT registration number is 197 0041 67.
 
-We are registered on the Data Protection Public Register. Our Data Protection Registration Number is Z7505566. To find out more information about the Data Protection Register, visit the [**Information Commissioner's Office website**](http://www.ico.gov.uk/).
+We are registered on the Data Protection Public Register. Our Data Protection Registration Number is Z7505566. To find out more information about the Data Protection Register, visit the [**Information Commissioner's Office website**.](https://ico.org.uk/)
 
 ##  What services does this policy cover? 
 
@@ -95,6 +95,8 @@ To opt-out of receiving any such communications from a third party, you will nee
 
 We do not pass or sell your personal information to third parties for any other purpose than as set out in this privacy policy. Unless you have given us your consent to pass your details to a third party, any marketing referred to in this section is conducted by us on our own behalf or on behalf of third parties to whom we have not given any access to your data.
 
+If you download one of our mobile apps then we may send you messages, including marketing messages, via push notifications. You can disable these at any time by altering the notification settings on your mobile device or by uninstalling the app.
+
 We may pass information about you to other parties as follows:
 
   * to third parties authorised by us and acting on our behalf such as our employees, contractors, suppliers and/or agents including without limitation our customer care teams to administer the Services provided to you by us now or in the future;
@@ -138,4 +140,4 @@ Where you register your details for certain Services and open a user account wit
 
 ##  Contact us
 
-You can email us with any questions, queries or complaints at **[itv.comsupport@itv.com.](mailto:itv.comsupport@itv.com)**
+You can email us with any questions, queries or complaints at **[itvhubhelp@itv.com](mailto:itvhubhelp@itv.com)[.](mailto:itv.comsupport@itv.com)**
