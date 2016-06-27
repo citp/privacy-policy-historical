@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119172220id_/http%3A//www.epiqsystems.com/general.aspx%3Fid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627170917id_/http%3A//www.epiqsystems.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Epiq Systems
-
-### Privacy Statement
+# Privacy Statement | Epiq
 
 Epiqsystems.com is owned and operated by Epiq Systems, Inc. ("Epiq"). Epiq collects personal and non-personal information on Epiqsystems.com. Epiq is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Epiq's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [webmaster@epiqsystems.com](mailto:webmaster@epiqsystems.com). In the email, please state your questions or concerns.
 
@@ -28,7 +26,7 @@ We use non-personal information such as demographic data to analyze and develop 
 
 Our Privacy Statement applies solely to information collection practice on Epiqsystems.com. This web site contains links to other sites. Please be aware that Epiq has no control or influence over the privacy practices of such other sites. We encourage our users to be aware when they leave Epiqsystems.com and to read the privacy statements of each and every web site that they visit.
 
-### Changes to this privacy statement 
+### Changes to this privacy statement
 
 If we later change our Privacy Statement, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
