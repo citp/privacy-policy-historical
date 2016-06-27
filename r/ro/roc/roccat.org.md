@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910071029id_/http%3A//www.roccat.org/en-BE/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627070944id_/http%3A//www.roccat.org/en-US/Home/Privacy-Policy) for the most accurate reproduction.*
 
-# ROCCAT® – Set the Rules \ Roccat.org
+# ROCCAT® – Set the Rules » Privacy Policy
 
 ## Provisions
 
@@ -111,4 +111,4 @@ Personal information required to use our offerings and, if applicable, to accoun
 
 You are legally entitled to know what information we hold about you. You also have the right to correct, delete, and block your information. You can of course also object to your data being collected, processed, and used and/or revoke any consent granted to us to collect, process, and forward your personal information with immediate effect provided this information is not required to deal with matters of a contractual nature. Please contact our Support team at [info@roccat.org](mailto:info@roccat.org). 
 
-© 2014 ROCCAT GmbH 
+© 2015 ROCCAT GmbH 
