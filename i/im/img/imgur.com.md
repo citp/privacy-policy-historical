@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225082547id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627135220id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Imgur
-
-Effective September 8, 2015
 
 ## Information we collect; how we use it
 
@@ -12,9 +10,9 @@ We may use cookies, web beacons, or other anonymous tracking information to impr
 
 Imgur participates in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
 
-We collect whatever personal data about you that you choose to give us, such as a contact email address and profile information. We do not require you to use an account to upload images, andif you open an account you do not have to use your real name – you may choose a username and email address that reveal nothing about your identity.
+We collect whatever personal data about you that you choose to give us, such as a contact email address and profile information. We do not require you to use an account to upload images, and if you open an account you do not have to use your real name – you may choose a username and email address that reveal nothing about your identity. If you give us an email address, we’ll probably send you promotional messages once in a while; we’ll try to make them fun and interesting but of course you’ll be able to opt out at any time.
 
 ## Personal Data Protection
 
@@ -30,6 +28,7 @@ That stated, we do offer two privacy settings if you upload images via your user
 
   * Image privacy: Individual images can be toggled between "private" and "public" through your personal settings menu, accessible by clicking your username after you've signed in. If you select "private," any images you upload via your user account will not appear on your public images page, will not appear in response to our image search function, and will not appear in the gallery (except to the extent that you submit them). If you select "public," all of your images will be displayed individually on your public images page (http://username.imgur.com). They still will not be searchable via our search function, and will not be displayed in the gallery (except to the extent you submit them).
   * Album privacy: If you group your images into albums, each album can have one of three privacy settings that apply to the albums as such, and not to individual images: (1) "Public" albums are displayed on your public images page (http://username.imgur.com) and are searchable. If you submit them to the gallery they might appear there. (2) "Hidden" albums are not displayed on your public images page and are not searchable. (3) "Secret" albums likewise are not searchable, and can't be viewed by anyone other than the logged-in user who uploaded the album.
+  * Exception: If we notice that one of your images has gone viral (for example, if you posted a link to it elsewhere), we may treat it as public and it may be added to the Imgur community gallery.
 
 
 
