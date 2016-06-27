@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expandcart.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904005528id_/http%3A//www.expandcart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expandcart.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627195534id_/http%3A//www.expandcart.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Expand Cart, Expand your sales!
+# Privacy Policy - Expand Cart
 
 This is the website of **Expand Cart**
 
-We can be reached via email at [support@expandcart.com](mailto:support@expandcart.com) or you can reach us by telephone at (Egypt) +2 (011) 522-68981.
+We can be reached via email at support@expandcart.com or you can reach us by telephone at (Egypt) +2 (011) 1 4000 433.
 
 For each visitor to our web page, our web server automatically recognizes no information regarding the domain or email address. We collect the email addresses of those who communicate with us via email. The information we collect is used for internal review and is then discarded. We use cookies to and allow Expand Cart customers to login to their account.
 
