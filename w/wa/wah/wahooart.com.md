@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wahooart.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229014437id_/http%3A//en.wahooart.com/%40%40/9B4RDG-WahooArt.com-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahooart.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627201827id_/http%3A//en.wahooart.com/%40%40/9B4RDG-WahooArt.com-Privacy-Policies) for the most accurate reproduction.*
 
-# WahooArt.com Privacy Policies
+# WahooArt.com Privacy Policy
 
 **  
 **
 
-**What information do we collect?**  
+**What information do we collect?**
 
 We collect information from you only when you place an order. 
 
@@ -15,7 +15,8 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
- **What do we use your information for?**  
+ **   
+** **What do we use your information for?**  
 
 Any of the information we collect from you may be used in one of the following ways: 
 
