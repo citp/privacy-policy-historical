@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johnstonscashmere.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022145402id_/http%3A//www.johnstonscashmere.com/retail/customer-assistance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnstonscashmere.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627195349id_/http%3A//www.johnstonscashmere.com/us/customer-assistance/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Johnstons of Elgin - fine cashmere clothing, accessories and knitwear
+# Privacy Policy - fine cashmere clothing, accessories and knitwear
 
 Like you, we don't like people running off with our personal details so we promise not to sell, lease or otherwise transfer your information to anyone else, except where you've expressly asked us to (by entering a competition we're running jointly with another company for example).
 
@@ -52,19 +52,24 @@ You can find more detailed information about the individual cookies we use and t
 
 **Cookie** | **Purpose** | **Expires**  
 ---|---|---  
-frontend | Session ID to maintain the shopping bag for the user. | 2 hours  
-geolocation | Notes user's location, to enable content to be presented  | 1 week  
+cookiealert | Checks whether cookie message has been displayed to customer. | 1 year  
+popup-shown | Checks whether welcome message has been displayed to customer. | 1 year  
+selected_store | Saves customers selected store. | 50 years  
+external_no_cache | Disables external cache. | 1 hour  
+nocache | Disables external cache. | 1 hour  
+frontend | Used for customer sessions. | 2 hours  
+frontend_cid | Used for customer sessions. | 2 hours  
   
-**Third Party Cookies**   
-**Cookie** | **Domain** | **Purpose** | **Expires**  
+**Third Party Cookies** **Cookie** | **Domain** | **Purpose** | **Expires**  
 ---|---|---|---  
-__utma | .johnstonscashmere.com | Google analytics tracking cookie. | 2 years  
-__utmb | .johnstonscashmere.com | Google analytics tracking cookie. | 30 minutes  
-__utmc | .johnstonscashmere.com | Google analytics tracking cookie. | End of Session  
-__utmz | .johnstonscashmere.com | Google analytics tracking cookie. | 183 Days  
-fr | .johnstonscashmere.com | Facebook cookie | session  
-datr | .johnstonscashmere.com | Facebook cookie | session  
-lu | .johnstonscashmere.com | Facebook cookie | session  
+ASP.NET_SessionId | webservices.sub2tech.com | Sub2 Abandonment cookie | session  
+V9v1 | webservices.sub2tech.com | Sub2 Abandonment cookie | 16 days  
+_ga | .johnstonscashmere.com | Google analytics cookie. | 2 years  
+_gat | .johnstonscashmere.com | Google analytics cookie. | 2 years  
+DSID | .doubleclick.net | DoubleClick targeting cookie. | 2 years  
+IDE | .doubleclick.net | DoubleClick targeting cookie. | 2 years  
+_drt_ | .doubleclick.net | DoubleClick targeting cookie. | 2 years  
+id | .doubleclick.net | DoubleClick targeting cookie. | 2 years  
   
 
     * 3.3 Browser Settings   
