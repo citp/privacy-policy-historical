@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422065916id_/http%3A//doofinder.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627220717id_/http%3A//doofinder.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Doofinder's privacy policy
 
 ## General Information
 
-Namiria Service Solutions, S. L., limited company, whose registered office is located in Madrid (C.P. 28006), CL. General Pardiñas, 70, piso 1º, puerta B, is included in the Madrid Companies Registry Office, in Volume 27.661, Sheet 90, Section 8, Page M-498464 Registration 1ª, CIF number B-85996932 (Doofinder from now on), is the owner of the website located in the internet domain: doofinder.com.
+Doofinder, S. L., limited company, whose registered office is located in Madrid (C.P. 28006), CL. General Pardiñas, 70, piso 1º, puerta B, is included in the Madrid Companies Registry Office, in Volume 27.661, Sheet 90, Section 8, Page M-498464 Registration 1ª, CIF number B-85996932 (Doofinder from now on), is the owner of the website located in the internet domain: doofinder.com.
 
 The privacy policy that is described here afterwards is only applicable to the present website, meaning all pages and subpages included in the Doofinder.com domain, Doofinder declines any responsibility over the different privacy policies and personal data protection that these websites may contain and which you can access through the hyperlinks located in this website and which are not administered directly by Doofinder. **Doofinder**.
 
