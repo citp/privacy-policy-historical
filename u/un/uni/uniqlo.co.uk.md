@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016163032id_/http%3A//www.uniqlo.com/uk/corp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627123523id_/http%3A//www.uniqlo.com/uk/corp/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - UNIQLO
 
@@ -25,7 +25,8 @@ You should be aware that this site is being monitored and may capture informatio
 
 We may also collect the above personal data from third parties who have your consent to pass your details to us. If you are using a data capture form then add the following: 
 
-We will send you information according to the preferences you submitted via our data capture form. If you would like to change these preferences at any point, please email us at helpme.uniqlo.eu alternatively you can also write to us at:   
+We will send you information according to the preferences you submitted via our data capture form. If you would like to change these preferences at any point, please email us at helpme.uniqlo.eu alternatively you can also write to us at: 
+
 Data Protection   
 UNIQLO EUROPE LTD   
 6th Floor   
@@ -72,7 +73,13 @@ You agree that:
 **Marketing (if applicable)**
 
   * Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you. If you indicated any preferences when providing us with your data, we will use these to determine what information we provide you with.
-  * If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at [provide the email address here]. Alternatively you may wish to write to us at [provide the postal address here].
+  * If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at **helpme@uniqlo.eu**. Alternatively you may wish to write to us at: 
+
+UNIQLO EUROPE   
+1 Kingsway - 6th Floor   
+London   
+WC2B 6AN 
+
   * From time to time we would like to be able to pass your information to carefully selected third parties that offer products or services that we have identified as likely to be of interest to you.
   * We will only do this if you have opted-in to receive such communications, for example when you completed a data capture form or placed an order with us.
   * By entering into an agreement with us when you (select from the following as applicable): placed an order, entered a competition or prize draw run by us or on our behalf, or joined our membership, you have consented to this use of your data. 
