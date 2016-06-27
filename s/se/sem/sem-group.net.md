@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230090034id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627085704id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Search Engine Marketing Group
 
 Search engine marketing group is committed to protecting your privacy.
 
@@ -21,7 +21,7 @@ For questions regarding this privacy policy you may call 281-727-0484 or simply 
 
 ## Testimonials
 
-Since hiring Gerald to handle my SEO and link building needs, my website has taken a drastic leap upward in the search rankings. I'm now enjoying first page rankings for many of the most desirable keywords, and my website is getting more quality traffic and more conversions. I look forward to continuing the use of Search Engine Marketing Group's services!
+Working with Gerald has been an absolute pleasure. Within the first month of working with him, he helped us rank our website on the front page of Google in the #1 spot for a highly competitive keyword that generates 75,000 global searches per month. To say we were happy would be an understatement! Stop searching for another SEO company, Gerald is the only person you need on your team to get bottom line results.
 
-Eric Brantner  
-[ericbrantner.com](http://ericbrantner.com/)
+Scott Bradley  
+[leanstrongbody.com](http://leanstrongbody.com/)
