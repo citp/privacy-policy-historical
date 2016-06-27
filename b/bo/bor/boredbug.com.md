@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boredbug.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905204653id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredbug.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628014901id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • BoredBug
+# Privacy Policy – BoredBug
 
-This privacy policy sets out how BoredBug uses and protects any information that you give us when you use this website. BoredBug is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. BoredBug may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 23, 2013.
+This privacy policy sets out how BoredBug uses and protects any information that you give us when you use this website. BoredBug is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. BoredBug may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 31, 2015.
 
 **What we collect**  We may ask to collect the following information:
 
@@ -19,6 +19,8 @@ Additionally, we collect non-personally identifiable information for aggregation
 Additionally, BoredBug utilizes cookies to show our advertisements to you on various websites on the Internet.
 
 You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings").
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Third Party Vendors**
 
