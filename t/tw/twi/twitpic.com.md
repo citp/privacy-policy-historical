@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234647id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120226id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
 
 # Twitpic - Share photos and videos on Twitter
 
@@ -78,7 +78,4 @@ The Site is not directed to persons under 13. If a parent or guardian becomes aw
 
 ### Questions or Concerns
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: 
-
-Email:  
-twitpicsupport@twitter.com 
+If you have any questions regarding this privacy policy or information that you have submitted to us you can [contact us](https://twitterinc.secure.force.com/DynamicFormPage?formName=twitpic). 
