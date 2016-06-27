@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228063608id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627024446id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument) for the most accurate reproduction.*
 
 # ABS Privacy Policy
 
@@ -23,7 +23,8 @@ We may collect personal information about you relating to:
 · your involvement in activities that support statistical coordination and dissemination; or  
 · you contacting the ABS; or  
 · your employment by or contract to the ABS.
-  
+
+
 **Kinds of personal information that we collect and hold**
 
 In performing our functions, we may collect and hold the following kinds of personal information about you: 
@@ -35,7 +36,8 @@ In performing our functions, we may collect and hold the following kinds of pers
 · personal identifiers (e.g. government related identifiers or payroll identifiers);  
 · employee records; and/or  
 · photographs, video recordings and audio recordings of you (as part of testing, and with your consent).
-  
+
+
 In performing our functions, we may also on occasion collect and hold the following kinds of information considered sensitive under the APPs: 
 
 · your racial or ethnic origin;  
@@ -43,7 +45,8 @@ In performing our functions, we may also on occasion collect and hold the follow
 · your membership of a trade union;  
 · your criminal record; and/or  
 · your health information (e.g. physical health, mental health, disability).
-  
+
+
 **How we collect and hold personal information**
 
 We may collect personal information about you directly from you as well as indirectly from third parties.
@@ -57,7 +60,8 @@ In performing our functions, we may collect your personal information using a va
 · paper and electronic correspondence;  
 [· ABS](http://www.abs.gov.au/), Australian Statistics Advisory Council ([ASAC](http://www.asac.gov.au/)) and National Statistical Service ([NSS](http://www.nss.gov.au/)) websites; and  
 · ABS’ social media accounts.
-  
+
+
 We collect and store your personal information securely. Electronic and paper records containing your personal information are protected in accordance with the Australian Government Protective Security Policy Framework. We manage your personal information in accordance with the Australian Government records management regime. When no longer required, your personal information is destroyed or deleted according to the [Administrative Functions Disposal Authority](http://www.naa.gov.au/records-management/publications/afda.aspx) and our records authorities ([2001/00000540](http://www.naa.gov.au/records-management/agency/keep-destroy-transfer/agency-ra/authority.aspx?a=2001/00000540&q=statistics&sort=agency&qt=basic) and [2007/00105946](http://www.naa.gov.au/records-management/agency/keep-destroy-transfer/agency-ra/authority.aspx?a=2007/00105946&q=statistics&sort=agency&qt=basic)).
 
 **USE OR DISCLOSURE**
@@ -69,7 +73,8 @@ We do not usually disclose your personal information and are unlikely to disclos
 · you have consented;  
 · you would reasonably expect, or have been told, that we usually disclose information of this kind; or  
 · the disclosure is otherwise required or authorised by law.
-  
+
+
 **Purposes for which we collect, hold, use and disclose personal information**
 
 We collect, hold, use and disclose personal information for statistical and non-statistical purposes.
@@ -82,7 +87,8 @@ Statistical collections include:
 · surveys conducted under the ABS Act;  
 · administrative data collections; and  
 · other data collection activities (including statistical research).
-  
+
+
 Statistical coordination and dissemination activities include contact with stakeholders, event participants, consultancy clients and those individuals who collaborate with us on statistical development activities.
 
 For non-statistical purposes, your personal information may be handled in relation to you contacting the ABS (public contact) and your employment by or contract to the ABS (ABS staff).
@@ -110,7 +116,8 @@ We use this personal information to manage:
 · volunteer contact for testing infrastructure in the development and evaluation of the ABS website  
 · authentication to access online resources (e.g. group membership lists)  
 · notification about ABS products and services (e.g. distribution lists).
-  
+
+
 **_Public contact_**
 
 We collect personal information including name, address and contact details as part of our usual communication and correspondence processes, including when you write to or email us, when you call us, or when you hand us your business card.
@@ -123,8 +130,8 @@ We collect and hold personal information about our staff; regarding personnel an
 
 We collect this personal information through our corporate systems and only use or disclose it to facilitate the effective business operations of the ABS.
 
-  
-**OUR WEBSITES - ABS (**[ www.abs.gov.au](http://www.abs.gov.au/) **), ASAC (**[ www.asac.gov.au](http://www.asac.gov.au/) **) and NSS (**[ www.nss.gov.au](http://www.nss.gov.au/) **)**  
+**OUR WEBSITES - ABS (**[ www.abs.gov.au](http://www.abs.gov.au/) **), ASAC (**[ www.asac.gov.au](http://www.asac.gov.au/) **) and NSS (**[ www.nss.gov.au](http://www.nss.gov.au/) **)**
+
 We will keep the information you submit via our websites secure. 
 
 **INFORMATION COLLECTED**
@@ -142,7 +149,8 @@ We use first party cookies to collect the following information:
 · your network location name (such as your internet service provider or organisation's name)  
 · any cookies that your browser has presented to our server  
 · your browser, operating system and other information about your computer (such as your screen resolution, colour depth and various plugins that you used in visiting our site).
-  
+
+
 More information about first party cookies can be found below.
 
 This information is used by the ABS only for the purpose of improving our online offerings. We do not collect identifiable personal information about you if you only browse our websites.
@@ -198,7 +206,7 @@ You have the right to request access to the personal information that the ABS ho
 
 If your request to access personal information does not relate to a survey, you may request access to or correction of the personal information that we hold about you by contacting us using the details provided below.
 
-**HOW TO COMPLAIN ABOUT US BREACHING YOUR PRIVACY**
+**HOW TO LODGE A COMPLAINT ABOUT PRIVACY MATTERS**
 
 We are committed to protecting your privacy. We treat any accidental or unauthorised disclosure of your personal information seriously and deal with it promptly.
 
@@ -232,10 +240,3 @@ The [ABS Privacy Policy](http://www.abs.gov.au/privacy) outlines how the ABS wil
 **AVAILABILITY OF THIS POLICY**
 
 If you wish to access this policy in an alternative format (e.g. hard copy), please contact us using the details provided above. 
-
-This page first published 29 February 2008, last updated 10 February 2015
-
-[]()  
-  
-  
-Unless otherwise noted, content on this website is licensed under a Creative Commons Attribution 2.5 Australia Licence together with any terms, conditions and exclusions as set out in the website Copyright notice. For permission to do anything beyond the scope of this licence and copyright terms contact us.
