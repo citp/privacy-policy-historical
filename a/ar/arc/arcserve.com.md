@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209080704id_/http%3A//arcserve.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141823id_/http%3A//arcserve.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Arcserve
 
@@ -56,7 +56,7 @@ You are entitled to know whether we hold information about you and, if we do (su
 
 This website contains links to other websites. Arcserve is not responsible for the privacy practices or the content of such websites.
 
-Arcserve uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) for more information, including information about how to opt out of these technologies.
+Arcserve uses pixels, transparent GIF files and other methods to help manage online advertising.
 
 ### Cookies and Web Beacons
 
