@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234744id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132717id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
 
 # Fanpop - Privacy Policy
 
-_Last Updated: August 2015_
+_Last Updated: April 2016_
 
 ## User Information
 
@@ -14,7 +14,7 @@ Information We Collect
 
 Fanpop collects the following personal information via the user profile page (this information is not required by Fanpop and is provided at the sole discretion of the user):
 
-  1. Personally identifiable information for display on the user’s profile page. This information includes: first name, last name, birthdate, gender, im username, city, state and postal code as well as links to other personal websites (note that birthdate itself is not displayed, but age is).
+  1. Personally identifiable information for display on the user’s profile page. This optional information includes: first name, last name, birthdate, gender, posted usernames, city, state and postal code as well as links to other personal websites (note that birthdate itself is not displayed, but age is).
   2. Personal information that is not displayed but used to enhance the user experience: email address. Email address is not published on the user profile but used for password recovery, activity alerts and periodic announcements from Fanpop.com (all of which the user can disable at any time). Email information is not sold or given to any 3rd parties and is used solely to improve the Fanpop.com experience.
 
 
@@ -23,17 +23,13 @@ Fanpop also allows users to post photos, participate in polls, submit content an
 
 Some information collected by Fanpop is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp.
 
-Fanpop does not collect any financial or payment data from its users.
-
-We have contracted with Lotame Solutions, Inc. (“Lotame”) to better help us operate the web site, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on our web site. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics and user data about our website visitors. Lotame does not collect personally identifiable information. For more information about how the information is collected and used by Lotame or to opt-out, please see Lotame’s privacy policy at <http://www.lotame.com/PrivacyPolicy.shtml>.
-
-Fanpop also integrates several 3rd party services including Facebook Connect, the Facebook Like Button and Meebo Chat which may collect and archive personal information. Please refer to the privacy policies for these respective services to learn more about their privacy policies as Fanpop has no control over the information they collect.
+Fanpop also integrates several 3rd party services including, but not limited to Facebook Connect, the Facebook Like Button and the Twitter follow button which may collect and archive personal information. Please refer to the privacy policies for these respective services to learn more about their privacy policies as Fanpop has no control over the information they collect.
 
 How We Use Your Information
 
 Information such as your full name, profile photo and any personally identifiable information you have included in your profile may be shown to friends or other users primarily in conjunction with content you have contributed. Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by editing your preferences in your profile. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
 
-Fanpop uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).
+Fanpop uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://www.networkadvertising.org/choices/>).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Fanpop, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
 
@@ -47,7 +43,7 @@ Fanpop will notify you when information about you may be provided to third parti
 
 Controlling Your Personal Information
 
-You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via comments, messages, forums, postings, or in other areas of the Fanpop network, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Fanpop. Please do not post any personal information on the Fanpop site or in other areas that you expect to keep private. 
+You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via comments, messages, forums, postings, or in other areas of the Fanpop network, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties, including search engines, and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Fanpop. Please do not post any personal information on the Fanpop site or in other areas that you expect to keep private. 
 
 As a registered Fanpop user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Fanpop will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Fanpop. Registered users who wish to close their account should [Contact Us](https://web.archive.org/contact)
 
