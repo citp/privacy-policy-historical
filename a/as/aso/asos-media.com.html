@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asos-media.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231075015id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asos-media.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627094819id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="MasterLayout no-js wf-loading" lang="en-GB" data-platform="desktop" data-production="true" data-store="1" data-language="en-GB"><!--<![endif]--><head>
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
@@ -11,14 +11,14 @@
 <meta name="description" content="Privacy &amp; Cookies. ASOS.  ">
 <link rel="canonical" href="http://www.asos.com/privacy-policy/">
      
-        <link rel="alternate" hreflang="en-GB" href="http://www.asos.com/privacy-policy/">
-        <link rel="alternate" hreflang="ru-RU" href="http://www.asos.com/ru/privacy-policy/">
         <link rel="alternate" hreflang="es-ES" href="http://www.asos.com/es/privacidad/">
         <link rel="alternate" hreflang="fr-FR" href="http://www.asos.fr/confidentialite/">
         <link rel="alternate" hreflang="it-IT" href="http://www.asos.com/it/privacy/">
         <link rel="alternate" hreflang="en-US" href="http://us.asos.com/privacy-policy/">
         <link rel="alternate" hreflang="de-DE" href="http://www.asos.de/datenschutz/">
         <link rel="alternate" hreflang="en-AU" href="http://www.asos.com/au/privacy-policy/">
+        <link rel="alternate" hreflang="en-GB" href="http://www.asos.com/privacy-policy/">
+        <link rel="alternate" hreflang="ru-RU" href="http://www.asos.com/ru/privacy-policy/">
     
                
 
@@ -56,10 +56,10 @@
 </script>
     
 <script src="http://assets.asosservices.com/Store/Src/Libs/jquery-1.7.2.min.js"></script>
-
+    
     
     <script type="text/javascript">
-    
+
     define("Global.Config", ['devicetype'], function(devicetype) {
         return {
             siteDomain: 'www.asos.com',
@@ -103,6 +103,7 @@
                 currency: 'currency',
                 floor: 'floor',
                 store: 'store',
+                imageSize: 'imagesize',
                 keys: {
                     topCatId: 'topcatid',
                     preferredFloor: 'PreferredFloor',
@@ -115,7 +116,8 @@
                     customerguid: 'customerguid',
                     currencyId: 'currencyid',
                     affiliateId: 'affiliateId',
-                    premier: 'premier'
+                    premier: 'premier',
+                    imageSize: 'categoryImageSize'
                 }
             }
         };
@@ -124,14 +126,14 @@
 
 <script>
     (function () {
-        var PreferredSite=function(e,t,r,i){"use strict";var o={};o.Cookies=function(){var e=function(e,t,r){var i={};if(e)for(var o=e.split(t),n=0;n<o.length;n++){var s=o[n].indexOf(r);i[$.trim(o[n].substr(0,s))]=o[n].substr(s+1)}return i},t=function(e,t,r){var i=[];for(var o in e)i.push(o+r+e[o]);return i.join(t)},r=function(t){var r=e(document.cookie,";","="),i=r[t]||"";return unescape(i)},i=function(t){var i=r(t);return e(i,"&","=")},o=function(e){return document.cookie.indexOf(e)>=0?!0:!1},n=function(e){var t=new Date;t.setFullYear(1900,1,1),document.cookie=e+"=; expires="+t.toUTCString()+"; path=/"},s=function(e,t,r){var i="";if(r){var o=new Date;o.setTime(o.getTime()+24*r*60*60*1e3),i="; expires="+o.toGMTString()}document.cookie=e+"="+t+i+";path=/"};return{readCookie:r,cookieExists:o,clearCookie:n,readFromCookie:function(e,t){var r=i(e);return r[t]||""},writeToCookie:function(e,r,o,n){var u=i(e);u[r]=escape(o);var a=t(u,"&","=");s(e,a,n)},writeCookie:function(e,t,r){s(e,escape(t),r)}}}(),o.QueryString=function(){var e=function(){for(var e,t=location.search.slice(1).split("&"),r={},i=t.length-1;i>=0;i--)e=t[i].split("="),r[e[0]]?$.isArray(r[e[0]])?r[e[0]].push(e[1]||""):r[e[0]]=[r[e[0]],e[1]||""]:r[e[0]]=e[1]||"";return r};return{getValue:function(t){return e()[t]}}}();var n=function(){this.pageModes={Normal:"Normal",Editing:"Editing",Preview:"Preview"},this.config=e,this.config.cookies.asos=e.cookies.asos,this.config.siteHostsLookup=e.siteHostsLookup,this.protocol=location.protocol,this.defaultCookieExpiryDays=365};n.prototype.isPageModeNormal=function(){return!this.isPageModeEdit()&&!this.isPageModePreview()},n.prototype.isPageModeEdit=function(){return"edit"===o.QueryString.getValue("sc_mode")},n.prototype.isPageModePreview=function(){return"preview"===o.QueryString.getValue("sc_mode")},n.prototype.getDefaultCookieExpiryDays=function(){return this.defaultCookieExpiryDays},n.prototype.getPreferredSite=function(){if(0===this.config.siteHostsLookup.length)return o.Cookies.readFromCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite);for(var e,t=o.Cookies.readFromCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite),r=t.replace(/\/$/,""),i=0;i<this.config.siteHostsLookup.length;i++)this.config.siteHostsLookup[i][0]===r&&(e=this.config.siteHostsLookup[i][1]);return e||""},n.prototype.setPreferredSite=function(e){if(0===this.config.siteHostsLookup.length)o.Cookies.writeToCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite,e,this.defaultCookieExpiryDays);else{for(var t,r=e,i=0;i<this.config.siteHostsLookup.length;i++)this.config.siteHostsLookup[i][1]===r&&(t=this.config.siteHostsLookup[i][0]);t=t||"",o.Cookies.writeToCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite,t,this.defaultCookieExpiryDays)}},n.prototype.getQueryStringParameterValue=function(e,t){return this.getQueryStringParameterValueInternal(e,t,!1)},n.prototype.joinQueryString=function(e){var t="";for(var r in e)t=t+"&"+r+"="+encodeURIComponent(e[r]);return""!=t&&(t=t.substring(1)),t},n.prototype.combineQueryStringParts=function(e){var t=e[0];return""!=e[1]&&(t=t+"?"+e[1]),""!=e[2]&&(t=t+"#"+e[2]),t},n.prototype.queryStringExists=function(e,t){var r=this.queryStringGetParts(e),i=this.queryStringSplitQuery(r[1]),o=i[t];return"undefined"!=typeof o?!0:!1},n.prototype.addQueryStringValue=function(e,t,r){var i=this.queryStringGetParts(e),o=this.queryStringSplitQuery(i[1]);return o[t]=r,i[1]=this.joinQueryString(o),this.combineQueryStringParts(i)},n.prototype.queryStringSplitQuery=function(e,t){var r,i=[];e=e.split("&");for(var o=0;o<e.length;o++)r=e[o].split("="),r&&""!=r&&(r[0]=t===!0?r[0].toLowerCase():r[0],i[r[0]]=decodeURIComponent(r[1]));return i},n.prototype.queryStringGetParts=function(e){var t=[],r="",i="",o=e.indexOf("#");o>=0&&(r=e.substring(o+1),e=e.substring(0,o));var n=e.indexOf("?");return n>=0&&(i=e.substring(n+1),e=e.substring(0,n)),t.push(e),t.push(i),t.push(r),t},n.prototype.getQueryStringParameterValueInternal=function(e,t,r){var i=this.queryStringGetParts(e),o=this.queryStringSplitQuery(i[1],r);t=r===!0?t.toLowerCase():t;var n=o[t];return n?n:""};var s=new n(location),u=function(){return this.CommonInstance=r||s,this.Utils=i||o,this.shouldRedirect="Home Page"===e.pageType||"Floor Page"===e.pageType?!0:!1,s.isPageModeNormal()&&this.shouldRedirect?(this.windowLocation=t||window.location,this.currentSiteDomain=e.siteDomain,this.preferredSite=this.CommonInstance.getPreferredSite(),this.preferredSite||(this.preferredSite=""),"mobile"===e.platform.toLowerCase()&&(this.hasPreferredSiteSet()||this.setPreferredSiteToCurrent()),void this.performSiteCheck()):!1};return u.prototype.hasPreferredSiteSet=function(){return""!=this.preferredSite},u.prototype.setPreferredSiteToCurrent=function(){this.CommonInstance.setPreferredSite(this.currentSiteDomain)},u.prototype.isCurrentRequestRedirect=function(){var e=this.CommonInstance.getQueryStringParameterValue(this.windowLocation.search,"r");return""!=e},u.prototype.shouldBeRedirectedToPreferredSite=function(){return""!=this.preferredSite&&this.preferredSite.toLowerCase()!=this.currentSiteDomain.toLowerCase()},u.prototype.performSiteCheck=function(){if(this.isCurrentRequestRedirect())this.CommonInstance.setPreferredSite(this.currentSiteDomain),this.preferredSite=this.currentSiteDomain;else if(this.shouldBeRedirectedToPreferredSite()){var e=this.getRedirectionUrl();this.windowLocation.assign(e)}},u.prototype.getRedirectionUrl=function(){var t=this.Utils.Cookies.readFromCookie(e.cookies.asosStore,e.cookies.keys.preferredFloor),r="/";"1000"==t?r+="women/":"1001"==t&&(r+="men/");var i=this.CommonInstance.addQueryStringValue(r,"r","1"),o=this.windowLocation.protocol;return o+"//"+this.preferredSite+i},new u(e)};
+        var PreferredSite = function (e, t, r, o) { "use strict"; var i = {}; i.Cookies = function () { var e = function (e, t, r) { var o = {}; if (e) for (var i = e.split(t), n = 0; n < i.length; n++) { var s = i[n].indexOf(r); o[$.trim(i[n].substr(0, s))] = i[n].substr(s + 1) } return o }, t = function (e, t, r) { var o = []; for (var i in e) o.push(i + r + e[i]); return o.join(t) }, r = function (t) { var r = e(document.cookie, ";", "="), o = r[t] || ""; return unescape(o) }, o = function (t) { var o = r(t); return e(o, "&", "=") }, i = function (e) { return document.cookie.indexOf(e) >= 0 ? !0 : !1 }, n = function (e) { var t = new Date; t.setFullYear(1900, 1, 1), document.cookie = e + "=; expires=" + t.toUTCString() + "; path=/" }, s = function (e, t, r) { var o = ""; if (r) { var i = new Date; i.setTime(i.getTime() + 24 * r * 60 * 60 * 1e3), o = "; expires=" + i.toGMTString() } document.cookie = e + "=" + t + o + ";path=/" }; return { readCookie: r, cookieExists: i, clearCookie: n, readFromCookie: function (e, t) { var r = o(e); return r[t] || "" }, writeToCookie: function (e, r, i, n) { var u = o(e); u[r] = escape(i); var a = t(u, "&", "="); s(e, a, n) }, writeCookie: function (e, t, r) { s(e, escape(t), r) } } }(), i.QueryString = function () { var e = function () { for (var e, t = location.search.slice(1).split("&"), r = {}, o = t.length - 1; o >= 0; o--) e = t[o].split("="), r[e[0]] ? $.isArray(r[e[0]]) ? r[e[0]].push(e[1] || "") : r[e[0]] = [r[e[0]], e[1] || ""] : r[e[0]] = e[1] || ""; return r }; return { getValue: function (t) { return e()[t] } } }(); var n = function () { this.pageModes = { Normal: "Normal", Editing: "Editing", Preview: "Preview" }, this.config = e, this.config.cookies.asos = e.cookies.asos, this.config.siteHostsLookup = e.siteHostsLookup, this.protocol = location.protocol, this.defaultCookieExpiryDays = 365 }; n.prototype.isPageModeNormal = function () { return !this.isPageModeEdit() && !this.isPageModePreview() }, n.prototype.isPageModeEdit = function () { return "edit" === i.QueryString.getValue("sc_mode") }, n.prototype.isPageModePreview = function () { return "preview" === i.QueryString.getValue("sc_mode") }, n.prototype.getDefaultCookieExpiryDays = function () { return this.defaultCookieExpiryDays }, n.prototype.getPreferredSite = function () { if (0 === this.config.siteHostsLookup.length) return i.Cookies.readFromCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite); for (var e, t = i.Cookies.readFromCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite), r = t.replace(/\/$/, ""), o = 0; o < this.config.siteHostsLookup.length; o++) this.config.siteHostsLookup[o][0] === r && (e = this.config.siteHostsLookup[o][1]); return e || "" }, n.prototype.setPreferredSite = function (e) { if (0 === this.config.siteHostsLookup.length) i.Cookies.writeToCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite, e, this.defaultCookieExpiryDays); else { for (var t, r = e, o = 0; o < this.config.siteHostsLookup.length; o++) this.config.siteHostsLookup[o][1] === r && (t = this.config.siteHostsLookup[o][0]); t = t || "", i.Cookies.writeToCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite, t, this.defaultCookieExpiryDays) } }, n.prototype.getQueryStringParameterValue = function (e, t) { return this.getQueryStringParameterValueInternal(e, t, !1) }, n.prototype.joinQueryString = function (e) { var t = ""; for (var r in e) t = t + "&" + r + "=" + encodeURIComponent(e[r]); return "" != t && (t = t.substring(1)), t }, n.prototype.combineQueryStringParts = function (e) { var t = e[0]; return "" != e[1] && (t = t + "?" + e[1]), "" != e[2] && (t = t + "#" + e[2]), t }, n.prototype.queryStringExists = function (e, t) { var r = this.queryStringGetParts(e), o = this.queryStringSplitQuery(r[1]), i = o[t]; return "undefined" != typeof i ? !0 : !1 }, n.prototype.addQueryStringValue = function (e, t, r) { var o = this.queryStringGetParts(e), i = this.queryStringSplitQuery(o[1]); return i[t] = r, o[1] = this.joinQueryString(i), this.combineQueryStringParts(o) }, n.prototype.queryStringSplitQuery = function (e, t) { var r, o = []; e = e.split("&"); for (var i = 0; i < e.length; i++) r = e[i].split("="), r && "" != r && (r[0] = t === !0 ? r[0].toLowerCase() : r[0], o[r[0]] = decodeURIComponent(r[1])); return o }, n.prototype.queryStringGetParts = function (e) { var t = [], r = "", o = "", i = e.indexOf("#"); i >= 0 && (r = e.substring(i + 1), e = e.substring(0, i)); var n = e.indexOf("?"); return n >= 0 && (o = e.substring(n + 1), e = e.substring(0, n)), t.push(e), t.push(o), t.push(r), t }, n.prototype.getQueryStringParameterValueInternal = function (e, t, r) { var o = this.queryStringGetParts(e), i = this.queryStringSplitQuery(o[1], r); t = r === !0 ? t.toLowerCase() : t; var n = i[t]; return n ? n : "" }; var s = new n(location), u = function () { return this.CommonInstance = r || s, this.Utils = o || i, this.shouldRedirect = "Home Page" === e.pageType || "Floor Page" === e.pageType ? !0 : !1, s.isPageModeNormal() && this.shouldRedirect ? (this.windowLocation = t || window.location, this.currentSiteDomain = e.siteDomain, this.preferredSite = this.CommonInstance.getPreferredSite(), this.preferredSite || (this.preferredSite = ""), "mobile" === e.platform.toLowerCase() && (this.hasPreferredSiteSet() || this.setPreferredSiteToCurrent()), void this.performSiteCheck()) : !1 }; return u.prototype.hasPreferredSiteSet = function () { return "" != this.preferredSite }, u.prototype.setPreferredSiteToCurrent = function () { this.CommonInstance.setPreferredSite(this.currentSiteDomain) }, u.prototype.isCurrentRequestRedirect = function () { var e = this.CommonInstance.getQueryStringParameterValue(this.windowLocation.search, "r"); return "" != e }, u.prototype.shouldBeRedirectedToPreferredSite = function () { return "" != this.preferredSite && this.preferredSite.toLowerCase() != this.currentSiteDomain.toLowerCase() }, u.prototype.performSiteCheck = function () { if (this.isCurrentRequestRedirect()) this.CommonInstance.setPreferredSite(this.currentSiteDomain), this.preferredSite = this.currentSiteDomain; else if (this.shouldBeRedirectedToPreferredSite()) { var e = this.getRedirectionUrl(); this.windowLocation.assign(e) } }, u.prototype.getRedirectionUrl = function () { var t = this.Utils.Cookies.readFromCookie(e.cookies.asosStore, e.cookies.keys.preferredFloor), r = "/"; "1000" == t ? r += "women/" : "1001" == t && (r += "men/"); var o = this.CommonInstance.addQueryStringValue(r, "r", "1"); o += window.location.search.replace("?", "&"); var i = this.windowLocation.protocol; return i + "//" + this.preferredSite + o }, new u(e) };
         new PreferredSite({pageType: 'help and faq',siteDomain: 'www.asos.com',platform: $("html").attr('data-platform'),siteHostsLookup: [],cookies: {asos: 'asos',asosStore: 'asosStore',refName: 'dcsref',keys: {preferredFloor: 'PreferredFloor',preferredSite: 'PreferredSite'}}});
     })();
 </script>
 
     
     
-            <script src="//ci.asosservices.com/core/core.min.js"></script>
+        <script src="//ci.asosservices.com/core/core.min.js"></script>
 
 
 
@@ -186,11 +188,7 @@
 	    </div>
 	<!-- /ko -->
 </div>
-    
-    
-
-
-     <a id="top-of-page"></a>
+         <a id="top-of-page"></a>
     
    
 
@@ -372,7 +370,7 @@ new brands and vintage boutiques                        <br>
 <div id="your-account-container">
 
     <div id="anonymous" class="your-account hide" data-bind="css: { 'hide': customerState() != 'Anonymous' }">
-        <span class="anonymous">Welcome to ASOS.</span>
+        <span class="anonymous">Welcome to ASOS</span>
         <a href="https://my.asos.com/register?lang=en-GB&amp;returnurl=https://www.asos.com/pgecustlogin.aspx?backurl=http://www.asos.com/privacy-policy/" title="">Join</a> |
         <a href="https://www.asos.com/pgecustlogin.aspx" title="">Sign In</a>
     </div>
@@ -404,7 +402,7 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/women/sale/cat/pgehtml.aspx?cid=7046&amp;wt.ac=nav%7csale&amp;via=top" class="red">SALE NOW ON</a></li>
+    <li><a href="http://www.asos.com/women/sale/?via=top" class="red">SALE NOW ON</a></li>
 
 
     <li><a href="http://www.asos.com/women/sale/dresses/cat/pgecategory.aspx?cid=5235&amp;via=top" class="red">SALE: Dresses</a></li>
@@ -419,22 +417,19 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/new-in-shoes-accs/cat/pgecategory.aspx?cid=6992&amp;via=top">New In: Shoes &amp; Accs</a></li>
 
 
-    <li class="spacer"></li>
-
-
     <li><a href="http://www.asos.com/daily-deals/cat/pgecategory.aspx?cid=14788&amp;via=top" class="branddirectory">OUTLET: New In</a></li>
 
 
     <li><a href="http://www.asos.com/women/accessories/cat/pgecategory.aspx?cid=4174&amp;via=top">Accessories</a></li>
 
 
-    <li><a href="http://www.asos.com/women/basics/cat/pgecategory.aspx?cid=20951&amp;via=top">ASOS Basics</a></li>
+    <li><a href="http://www.asos.com/women/tops/asos-basics/cat/pgecategory.aspx?cid=17459&amp;via=top">ASOS Basic Tops</a></li>
 
 
     <li><a href="http://www.asos.com/women/bags-purses/cat/pgecategory.aspx?cid=8730&amp;via=top">Bags &amp; Purses</a></li>
 
 
-    <li><a href="http://www.asos.com/women/beauty/cat/pgehtml.aspx?cid=1314&amp;via=top">Beauty</a></li>
+    <li><a href="http://www.asos.com/women/beauty/?via=top">Beauty</a></li>
 
 
     <li><a href="http://www.asos.com/women/blazers/cat/pgecategory.aspx?cid=11896&amp;via=top">Blazers</a></li>
@@ -462,11 +457,11 @@ new brands and vintage boutiques                        <br>
 
 
     <li><a href="http://www.asos.com/women/hoodies-sweatshirts/cat/pgecategory.aspx?cid=11321&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
-                                                </ul>
-                                                    <ul class="items">
 
 
     <li><a href="http://www.asos.com/women/jeans/cat/pgecategory.aspx?cid=3630&amp;via=top">Jeans</a></li>
+                                                </ul>
+                                                    <ul class="items">
 
 
     <li><a href="http://www.asos.com/women/jewellery-watches/cat/pgecategory.aspx?cid=4175&amp;via=top">Jewellery &amp; Watches</a></li>
@@ -479,6 +474,9 @@ new brands and vintage boutiques                        <br>
 
 
     <li><a href="http://www.asos.com/women/lingerie-nightwear/cat/pgecategory.aspx?cid=6046&amp;via=top">Lingerie &amp; Nightwear</a></li>
+
+
+    <li><a href="http://www.asos.com/loungewear/cat/pgecategory.aspx?cid=21867+&amp;via=top">Loungewear</a></li>
 
 
     <li><a href="http://www.asos.com/women/maternity/cat/pgecategory.aspx?cid=5813&amp;via=top">Maternity</a></li>
@@ -502,9 +500,6 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/socks-tights/cat/pgecategory.aspx?cid=7657&amp;via=top">Socks &amp; Tights</a></li>
 
 
-    <li><a href="http://www.asos.com/women/suits-separates/cat/pgecategory.aspx?cid=13632&amp;via=top">Suits &amp; Separates </a></li>
-
-
     <li><a href="http://www.asos.com/women/sunglasses/cat/pgecategory.aspx?cid=4545&amp;via=top">Sunglasses</a></li>
 
 
@@ -523,7 +518,10 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/trousers-leggings/cat/pgecategory.aspx?cid=2640&amp;via=top">Trousers &amp; Leggings</a></li>
 
 
-    <li><a href="http://www.asos.com/women/multi-packs-save/cat/pgecategory.aspx?cid=19224&amp;via=top" class="red">Multi Packs SAVE</a></li>
+    <li><a href="http://www.asos.com/women/suits-separates/cat/pgecategory.aspx?cid=13632&amp;via=top">Workwear Suits</a></li>
+
+
+    <li><a href="http://www.asos.com/women/multi-packs-save/cat/pgecategory.aspx?cid=19224&amp;via=top" class="red">Multipacks SAVE</a></li>
                                                     </ul>
                                         </dd>
                                     </dl>
@@ -533,34 +531,40 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/adidas/cat/pgecategory.aspx?cid=5906&amp;ctaref=ww%7cnav%7cadidas&amp;via=top">adidas</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/adidas/cat/?cid=5906&amp;via=top">adidas</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-white/cat/pgecategory.aspx?cid=11761&amp;wt.ac=ww%7cnav%7casosblack&amp;via=top">ASOS White</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-africa/cat/?cid=15683&amp;via=top">ASOS Africa</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/chi-chi/cat/pgecategory.aspx?cid=19316&amp;ctaref=ww%7cnav%7cchichilondon&amp;via=top">Chi Chi London</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-white/cat/?cid=11761&amp;via=top">ASOS White</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/glamorous/cat/pgecategory.aspx?cid=15307&amp;via=top">Glamorous</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/chi-chi/cat/?cid=19316&amp;via=top">Chi Chi London</a></li>
+
+
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/glamorous/cat/?cid=15307&amp;via=top">Glamorous</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/lipsy/cat/?cid=1503&amp;via=top">Lipsy</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/missguided/cat/pgecategory.aspx?cid=14001&amp;via=top">Missguided</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/missguided/cat/?cid=14001&amp;via=top">Missguided</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/monki/cat/pgecategory.aspx?cid=17556&amp;ctaref=ww%7cnav%7cmonki&amp;via=top">Monki</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/monki/cat/?cid=17556&amp;via=top">Monki</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/new-balance/cat/pgecategory.aspx?cid=15892&amp;ctaref=ww%7cnav%7cnewbalance&amp;via=top">New Balance</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/new-balance/cat/?cid=15892&amp;via=top">New Balance</a></li>
+
+
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/new-look/cat/?cid=15872&amp;via=top">New Look</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/nike/cat/?cid=5897&amp;via=top">Nike</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/noisy-may/cat/pgecategory.aspx?cid=17564&amp;via=top">Noisy May</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/noisy-may/cat/?cid=17564&amp;via=top">Noisy May</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/reclaimed-vintage/cat/?cid=10597&amp;via=top">Reclaimed Vintage</a></li>
@@ -569,10 +573,10 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/river-island/cat/?cid=12268&amp;via=top">River Island</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/vila/cat/pgecategory.aspx?cid=6425+&amp;via=top">Vila</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/vila/cat/?cid=6425&amp;via=top">Vila</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/weekday/cat/pgecategory.aspx?cid=19511&amp;ctaref=ww%7cnav%7cweekday&amp;via=top">Weekday</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/weekday/cat/?cid=19511&amp;via=top">Weekday</a></li>
 
 
     <li class="spacer"></li>
@@ -581,16 +585,10 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/cat/pgehtml.aspx?cid=1340&amp;via=top" class="branddirectory">A To Z Of Brands</a></li>
 
 
-    <li><a href="http://www.asos.com/exclusives/cat/pgecategory.aspx?cid=16979&amp;wt.ac=ww%7cnav%7cexclusives&amp;via=top">Exclusive to ASOS</a></li>
+    <li><a href="http://www.asos.com/exclusives/cat/pgecategory.aspx?cid=16979&amp;wt.ac=ww%7cnav%7cexclusives&amp;via=top">Exclusive To ASOS</a></li>
 
 
-    <li><a href="http://www.asos.com/women/eco-brands/cat/pgecategory.aspx?cid=10062&amp;via=top">Eco Brands</a></li>
-
-
-    <li class="spacer"></li>
-
-
-    <li><a href="http://www.asos.com/women/magazine/cat/pgehtml.aspx?cid=20209&amp;via=top">ASOS Magazine</a></li>
+    <li><a href="http://www.asos.com/women/eco-brands/cat/pgecategory.aspx?cid=10062&amp;via=top">Eco Edit</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -600,25 +598,25 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/aw-fashion-trend-3/cat/pgecategory.aspx?cid=20250&amp;via=top">Trend: New Minimal</a></li>
+    <li><a href="http://www.asos.com/ss-fashion-trend-7/cat/pgecategory.aspx?cid=20242&amp;via=top">Trend: Modern Romance</a></li>
 
 
-    <li><a href="http://www.asos.com/metallic/cat/pgecategory.aspx?cid=16401&amp;via=top">Trend: Gold</a></li>
+    <li><a href="http://www.asos.com/fashion-online-6/cat/pgecategory.aspx?cid=13501&amp;via=top">Street Classics</a></li>
 
 
-    <li><a href="http://www.asos.com/women/shoes/caged-shoes/cat/pgecategory.aspx?cid=21004&amp;via=top">Ghillie Lace-up Sandals</a></li>
+    <li><a href="http://www.asos.com/festival/cat/pgecategory.aspx?cid=7662&amp;via=top">Festival</a></li>
 
 
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/party-wear/cat/pgecategory.aspx?cid=18761&amp;via=top">Party</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-5/cat/pgecategory.aspx?cid=16890&amp;via=top">Summer Shop</a></li>
 
 
-    <li><a href="http://www.asos.com/women/holiday-shop/cat/pgecategory.aspx?cid=6446&amp;wt.ac=nav%7chol&amp;via=top">Holiday</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-4/cat/pgecategory.aspx?cid=16889&amp;via=top">Wedding Shop</a></li>
 
 
-    <li><a href="http://www.asos.com/wedding/cat/pgecategory.aspx?cid=15493&amp;via=top">Wedding</a></li>
+    <li><a href="http://www.asos.com/going-out-outfits/cat/pgecategory.aspx?cid=19903&amp;via=top">Going Out-Out</a></li>
 
 
     <li><a href="http://www.asos.com/workwear/cat/pgecategory.aspx?cid=19645&amp;wt.ac=nav%7cwork&amp;via=top">Workwear</a></li>
@@ -630,7 +628,7 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/marketplace-edits/cat/pgehtml.aspx?cid=19024+&amp;via=top" class="branddirectory">ASOS MARKETPLACE</a></li>
 
 
-    <li><a href="http://www.asos.com/women/up-to-50-off-sale/cat/pgehtml.aspx?cid=21099&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
+    <li><a href="http://www.asos.com/fashion-online-18/cat/pgecategory.aspx?cid=13521&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
 
 
     <li><a href="http://www.asos.com/women/new-in-vintage/cat/pgehtml.aspx?cid=19566&amp;via=top">New In: Vintage </a></li>
@@ -645,13 +643,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/marketplace-edits/cat/pgehtml.aspx?cid=19024&amp;via=top" class="branddirectory">Marketplace Edits</a></li>
 
 
-    <li><a href="http://www.asos.com/women/70s-vintage/cat/pgehtml.aspx?cid=20616&amp;via=top">70s Vintage</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-6/cat/pgecategory.aspx?cid=16899&amp;via=top">Retro Festival</a></li>
 
 
-    <li><a href="http://www.asos.com/women/partywear/cat/pgehtml.aspx?cid=21438&amp;via=top">Partywear</a></li>
+    <li><a href="http://www.asos.com/women/scandi-style/cat/pgehtml.aspx?cid=21799&amp;via=top">Scandi Style </a></li>
 
 
-    <li><a href="http://www.asos.com/women/retro-coats-jackets/cat/pgehtml.aspx?cid=21439&amp;via=top">Retro Coats &amp; Jackets</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/cat/pgecategory.aspx?cid=13499&amp;via=top">Reworked Staples</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -666,19 +664,19 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/men/sale/cat/pgehtml.aspx?cid=8409&amp;wt.ac=nav%7csale&amp;via=top" class="red">SALE NOW ON</a></li>
+    <li><a href="http://www.asos.com/men/sale/?via=top" class="red">SALE NOW ON</a></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/shoes-trainers/cat/pgecategory.aspx?cid=1935&amp;via=top" class="red">SALE: Footwear</a></li>
+    <li><a href="http://www.asos.com/men/sale/shoes-trainers/cat/pgecategory.aspx?cid=1935+&amp;via=top" class="red">SALE: Footwear</a></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/jackets-coats/cat/pgecategory.aspx?cid=2112&amp;via=top" class="red">SALE: Jackets &amp; Coats</a></li>
+    <li><a href="http://www.asos.com/men/sale/t-shirts-vests/cat/pgecategory.aspx?cid=5232+&amp;via=top" class="red">SALE: T-Shirts </a></li>
 
 
     <li><a href="http://www.asos.com/men/new-in-clothing/cat/pgecategory.aspx?cid=6993&amp;via=top">New In: Clothing</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jackets-coats/new-in-jackets-coats/cat/pgecategory.aspx?cid=21060&amp;via=top">New In: Jackets &amp; Coats</a></li>
+    <li><a href="http://www.asos.com/men/t-shirts/new-in-t-shirts/cat/pgecategory.aspx?cid=20778+&amp;via=top">New In: T-Shirts</a></li>
 
 
     <li><a href="http://www.asos.com/men/new-in-shoes/cat/pgecategory.aspx?cid=17184&amp;via=top">New In: Shoes</a></li>
@@ -690,25 +688,28 @@ new brands and vintage boutiques                        <br>
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/new-lines-added/cat/pgecategory.aspx?cid=9862&amp;via=top" class="branddirectory">OUTLET: New In</a></li>
+    <li><a href="http://www.asos.com/men/sale/new-lines-added/cat/pgecategory.aspx?cid=9862&amp;via=top" class="branddirectory">OUTLET: New In </a></li>
 
 
     <li><a href="http://www.asos.com/men/accessories/cat/pgecategory.aspx?cid=4210&amp;via=top">Accessories</a></li>
 
 
-    <li><a href="http://www.asos.com/men/basics/cat/pgecategory.aspx?cid=21508&amp;via=top">ASOS Basics</a></li>
+    <li><a href="http://www.asos.com/men/basic-tops/cat/pgecategory.aspx?cid=21508&amp;via=top">ASOS Basic Tops</a></li>
 
 
     <li><a href="http://www.asos.com/men/bags/cat/pgecategory.aspx?cid=9265&amp;via=top">Bags</a></li>
 
 
+    <li><a href="http://www.asos.com/men/jackets-coats/blazers/cat/pgecategory.aspx?cid=11903&amp;via=top">Blazers</a></li>
+
+
     <li><a href="http://www.asos.com/men/accessories/caps-hats/cat/pgecategory.aspx?cid=6517+&amp;via=top">Caps &amp; Hats</a></li>
 
 
-    <li><a href="http://www.asos.com/men/gifts-for-men/cat/pgecategory.aspx?cid=16091&amp;wt.ac=mw%7cnav%7cgifts&amp;via=top">Gifts </a></li>
+    <li><a href="http://www.asos.com/men/gifts-for-men/cat/pgecategory.aspx?cid=16091+&amp;via=top">Gifts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/accessories/grooming/cat/pgecategory.aspx?cid=19517&amp;via=top">Grooming</a></li>
+    <li><a href="http://www.asos.com/men/grooming/cat/pgecategory.aspx?cid=19517&amp;via=top">Grooming</a></li>
 
 
     <li><a href="http://www.asos.com/men/hoodies-sweatshirts/cat/pgecategory.aspx?cid=5668&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
@@ -721,11 +722,11 @@ new brands and vintage boutiques                        <br>
 
 
     <li><a href="http://www.asos.com/men/jewellery/cat/pgecategory.aspx?cid=11330&amp;via=top">Jewellery</a></li>
+                                                </ul>
+                                                    <ul class="items">
 
 
     <li><a href="http://www.asos.com/men/trousers-chinos/sweat-pants/cat/pgecategory.aspx?cid=14274&amp;via=top">Joggers</a></li>
-                                                </ul>
-                                                    <ul class="items">
 
 
     <li><a href="http://www.asos.com/men/jumpers-cardigans/cat/pgecategory.aspx?cid=7617&amp;via=top">Jumpers &amp; Cardigans</a></li>
@@ -755,16 +756,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/shorts/cat/pgecategory.aspx?cid=7078&amp;via=top">Shorts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/suits-blazers/cat/pgecategory.aspx?cid=5678&amp;via=top">Suits &amp; Blazers</a></li>
+    <li><a href="http://www.asos.com/men/suits/cat/pgecategory.aspx?cid=5678&amp;via=top">Suits</a></li>
 
 
     <li><a href="http://www.asos.com/men/sunglasses/cat/pgecategory.aspx?cid=6519&amp;via=top">Sunglasses</a></li>
 
 
     <li><a href="http://www.asos.com/men/swimwear/cat/pgecategory.aspx?cid=13210&amp;via=top">Swimwear</a></li>
-
-
-    <li><a href="http://www.asos.com/men/accessories/ties/cat/pgecategory.aspx?cid=6520&amp;wt.ac=mw%7cnav%7ctiespocketsquares&amp;via=top">Ties &amp; Pocket Squares</a></li>
 
 
     <li><a href="http://www.asos.com/men/trousers-chinos/cat/pgecategory.aspx?cid=4910&amp;via=top">Trousers &amp; Chinos</a></li>
@@ -795,52 +793,55 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/abercrombie-and-fitch/cat/?cid=19971&amp;wt.ac=mw%7cnav%7cabercrombie&amp;via=top">Abercrombie &amp; Fitch</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/abercrombie-and-fitch/cat/?cid=19971&amp;via=top">Abercrombie &amp; Fitch</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/adidas/cat/pgecategory.aspx?cid=7113&amp;ctaref=mw%7cnav%7cadidasoriginals&amp;via=top">adidas Originals</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/adidas/cat/?cid=7113&amp;via=top">adidas Originals</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/asos-collection/cat/pgecategory.aspx?cid=3159&amp;ctaref=mw%7cnav%7casos&amp;via=top">ASOS</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/asos-collection/cat/?cid=3159&amp;via=top">ASOS</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/cheap-monday/cat/?cid=4671&amp;ctaref=mw%7cnav%7ccheapmonday&amp;via=top">Cheap Monday</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/cheap-monday/cat/?cid=4671&amp;via=top">Cheap Monday</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/diesel/cat/pgecategory.aspx?cid=2592&amp;ctaref=mw%7cnav%7cdiesel&amp;via=top">Diesel</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/diesel/cat/?cid=2592&amp;via=top">Diesel</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/ellesse/cat/pgecategory.aspx?cid=19763&amp;ctaref=mw%7cnav%7cellesse&amp;via=top">Ellesse</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/ellesse/cat/?cid=19763&amp;via=top">Ellesse</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/fred-perry/cat/pgecategory.aspx?cid=4562&amp;ctaref=mw%7cnav%7cfredperry&amp;via=top">Fred Perry</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/fred-perry/cat/?cid=4562&amp;via=top">Fred Perry</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/jack-jones/cat/pgecategory.aspx?cid=9828&amp;wt.ac=mw%7cnav%7cjackjones&amp;via=top">Jack &amp; Jones</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/jack-jones/cat/?cid=9828&amp;via=top">Jack &amp; Jones</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/new-balance/cat/pgecategory.aspx?cid=3792&amp;wt.ac=mw%7cnav%7cnewbalance&amp;via=top">New Balance</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/new-balance/cat/?cid=3792&amp;via=top">New Balance</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/new-look/cat/pgecategory.aspx?cid=17311&amp;wt.ac=mw%7cnav%7cnewlook&amp;via=top">New Look</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/new-look/cat/?cid=17311&amp;via=top">New Look</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/nike/cat/?cid=4766&amp;ctaref=mw%7cnav%7cnike&amp;via=top">Nike</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/nike/cat/?cid=4766&amp;via=top">Nike</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/polo-ralph-lauren/cat/pgecategory.aspx?cid=4280+&amp;via=top">Polo Ralph Lauren</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/polo-ralph-lauren/cat/?cid=4280&amp;via=top">Polo Ralph Lauren</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/religion/cat/pgecategory.aspx?cid=1607&amp;ctaref=mw%7cnav%7creligion&amp;via=top">Religion</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/reclaimed-vintage/cat/?cid=11248&amp;via=top">Reclaimed Vintage</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/river-island/cat/?cid=12269&amp;ctaref=mw%7cnav%7criverisland&amp;via=top">River Island</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/religion/cat/?cid=1607&amp;via=top">Religion</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/selected/cat/pgecategory.aspx?cid=11618&amp;ctaref=mw%7cnav%7cselected&amp;via=top">Selected Homme</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/river-island/cat/?cid=12269&amp;via=top">River Island</a></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/vans/cat/pgecategory.aspx?cid=2465&amp;wt.ac=mw%7cnav%7cvans&amp;via=top">Vans</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/selected/cat/?cid=11618&amp;via=top">Selected Homme</a></li>
+
+
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/vans/cat/?cid=2465&amp;via=top">Vans</a></li>
 
 
     <li class="spacer"></li>
@@ -856,19 +857,25 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/party-wear/cat/pgecategory.aspx?cid=20024&amp;via=top">Partywear</a></li>
+    <li><a href="http://www.asos.com/men/fashion-online-38/cat/pgecategory.aspx?cid=19841&amp;via=top">New Trend: Riviera</a></li>
+
+
+    <li><a href="http://www.asos.com/fashion-online-3/cat/pgecategory.aspx?cid=13503&amp;via=top">Summer</a></li>
+
+
+    <li><a href="http://www.asos.com/fashion-online-30/cat/pgecategory.aspx?via=top">The Suit Guide</a></li>
+
+
+    <li><a href="http://www.asos.com/mens-occasionwear/wedding-attire/cat/pgecategory.aspx?cid=21809&amp;via=top" class="branddirectory">Wedding</a></li>
+
+
+    <li><a href="http://www.asos.com/men/fashion-online-2/cat/pgecategory.aspx?cid=13500&amp;via=top">Neutral Colours</a></li>
 
 
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/mens-exclusives/cat/pgecategory.aspx?cid=21049&amp;via=top">Exclusives</a></li>
-
-
     <li><a href="http://www.asos.com/fashion-online-8/cat/pgecategory.aspx?cid=13514&amp;via=top">Sneaker Brands</a></li>
-
-
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/reclaimed-vintage/cat/?cid=11248&amp;via=top">Vintage-Inspired</a></li>
 
 
     <li><a href="http://www.asos.com/men/jeans-find-your-style/cat/pgehtml.aspx?cid=20391&amp;via=top">Jeans: Find Your Style</a></li>
@@ -877,13 +884,16 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/discover/t-shirts/?via=top">The T-Shirt Guide</a></li>
 
 
+    <li><a href="http://www.asos.com/mens-exclusives/cat/pgecategory.aspx?cid=21049&amp;via=top">Exclusives</a></li>
+
+
     <li class="spacer"></li>
 
 
     <li><a href="http://www.asos.com/men/marketplace/cat/pgecategory.aspx?cid=20783&amp;via=top" class="branddirectory">ASOS MARKETPLACE</a></li>
 
 
-    <li><a href="http://www.asos.com/men/up-to-50-off-sale/cat/pgehtml.aspx?cid=21559&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
+    <li><a href="http://www.asos.com/fashion-online-14/cat/pgecategory.aspx?cid=13524&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
 
 
     <li><a href="http://www.asos.com/men/new-in-vintage/cat/pgehtml.aspx?cid=19570&amp;via=top">New In: Vintage </a></li>
@@ -898,13 +908,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/marketplace-edits/cat/pgehtml.aspx?cid=20119&amp;via=top" class="branddirectory">Marketplace Edits</a></li>
 
 
-    <li><a href="http://www.asos.com/men/vintage-shirts/cat/pgehtml.aspx?cid=21557&amp;via=top">Vintage Shirts</a></li>
+    <li><a href="http://www.asos.com/fashion-online-31/cat/pgecategory.aspx?cid=18846&amp;via=top">Spring Shades</a></li>
 
 
     <li><a href="http://www.asos.com/men/streetwear/cat/pgehtml.aspx?cid=20098&amp;via=top">Streetwear</a></li>
 
 
-    <li><a href="http://www.asos.com/men/retro-jackets-coats/cat/pgehtml.aspx?cid=21430&amp;via=top">Retro Jackets &amp; Coats</a></li>
+    <li><a href="http://www.asos.com/fashion-online-26/cat/pgecategory.aspx?cid=16774&amp;via=top">Retro Jackets</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -1025,28 +1035,28 @@ new brands and vintage boutiques                        <br>
         </ul>
     </div>
     <div class="global-banner-wrapper">
-    <link mpdisnav="" href="http://images.asos.com/css/creative/global-banner-aw15-sale-v02.css" rel="stylesheet" type="text/css" media="all">
-<!-- <link mpdisnav href="creative/global-banner-aw15-sale-v02.css" rel="stylesheet" type="text/css" media="all"> --><ul id="globalBanner" class="global-banner v2box-151230">
+    <link mpdisnav="" href="http://images.asos.com/css/creative/global-banner-ss16-v21.css" rel="stylesheet" type="text/css" media="all">
+<!-- <link mpdisnav href="creative/global-banner-ss16-v21.css" rel="stylesheet" type="text/css" media="all" /> --><ul id="globalBanner" class="uk global-banner v2box-160620">
   <li class="is-hover box-left promos box-content">
-    <span class="promo-message double">
-      <strong>FURTHER REDUCTIONS? ERM, YEAH!<br> GET UP TO 70% OFF IN THE ASOS SALE</strong>
+    <span class="promo-message">
+      <strong>Did someone say up-to-50%-off sale?*</strong>
     </span>
-    <a class="gb-fade link-left link" rel="nofollow" href="http://www.asos.com/women/sale?CTARef=GlobalBanner1|WW">
+    <a class="gb-fade link-left link" rel="nofollow" href="http://www.asos.com/women/sale/?CTARef=GlobalBanner1|WW">
       <strong>Women ›</strong>
     </a>
-    <a class="gb-fade link-right link" rel="nofollow" href="http://www.asos.com/men/sale?CTARef=GlobalBanner1|MW">
+    <a class="gb-fade link-right link" rel="nofollow" href="http://www.asos.com/men/sale/?CTARef=GlobalBanner1|MW">
       <strong>Men ›</strong>
     </a>
     <div class="tooltip">
-      *Limited time only, while stocks last. Selected items marked down on site. <a href="http://asos.com/terms-and-conditions/?CTARef=GlobalBanner1">See full terms</a>
+      *Valid for a limited time only on selected items that are marked down on site. Brand exclusions apply.
     </div>
   </li>
   <li class="gb-fade box-right box-content">
-      <a class="link double" rel="nofollow" href="http://www.asos.com/infopages/pgeshiptocountry.aspx?CTARef=GlobalBanner3">
-          <strong>FREE DELIVERY</strong> WORLDWIDE*<br>
-          *MORE INFO HERE  ›
-      </a>  
-    </li>
+        <a class="link double" rel="nofollow" href="http://www.asos.com/infopages/pgeshiptocountry.aspx?CTARef=GlobalBanner2">
+              <strong>FREE DELIVERY</strong> WORLDWIDE*<br>
+              *MORE INFO HERE  ›
+        </a>  
+  </li>
 </ul>
 </div>
 </header>
@@ -1250,7 +1260,7 @@ new brands and vintage boutiques                        <br>
     <br>
     <li>You can withdraw or modify your consent to ASOS’ collection and processing of the information you provide at any time. You can do this by changing your account settings.&nbsp; You can access 'Your Account' by logging in.</li>
     <br>
-    <li>You can link or unlink your ASOS account from an account on another service (e.g., Facebook or Twitter), also by changing your&nbsp;<a href="https://www.linkedin.com/settings/">account</a> settings. </li>
+    <li>You can link or unlink your ASOS account from an account on another service (e.g., Facebook or Twitter), also by changing your&nbsp;<a href="https://www.asos.com/account/pgeaccmenu.aspx">account</a> settings. </li>
     <br>
     <li>You can close your account, also through our account settings. If you close your account(s), we’ll deactivate it and will generally delete closed account information within 30 days of account closure, except as set out in this notice. &nbsp;However, we may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).&nbsp; Please note though that, if you have shared any information with others through the ASOS Social Media channels for example, that information may remain visible, even after you have closed your account.&nbsp; </li>
     <br>
@@ -1354,10 +1364,7 @@ UK</p></dd>
             <a href="http://www.asos.com/men/">Men</a>
         </li>
         <li>
-            <a href="http://www.asos.com/product/pgeproductindex.aspx">Product A-Z</a>
-        </li>
-        <li>
-            <a href="http://www.asos.com/gift-vouchers/cat/pgehtml.aspx?cid=6078">Buy Gift Vouchers</a>
+            <a href="http://www.asos.com/discover/gift-vouchers/">Buy Gift Vouchers</a>
         </li>
     </ul>
     <ul>
@@ -1386,9 +1393,6 @@ UK</p></dd>
         </li>
         <li>
             <a href="http://www.asosplc.com/">Investors</a>
-        </li>
-        <li>
-            <a href="http://www.asos.com/asos-as-seen-on-screen/cat/pgehtml.aspx?cid=18967">As Seen On Screen</a>
         </li>
     </ul>
     <ul>
@@ -1469,16 +1473,16 @@ UK</p></dd>
 <div class="links">        
 	<ul>
                
-        <li class="first"><a href="http://www.asos.com/infopages/pgeprivacy.aspx">Privacy &amp; Cookies</a></li>
-        <li><a href="http://www.asos.com/infopages/pgetandc.aspx">Terms &amp; Conditions</a></li>
+        <li class="first"><a href="http://www.asos.com/privacy-policy/">Privacy &amp; Cookies</a></li>
+        <li><a href="http://www.asos.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
         <li><a href="http://www.asos.com/infopages/pgeaccessibilitystmt.aspx">Accessibility</a></li>
-        <li><a href="http://www.asos.com/infopages/pgeaboutus.aspx">About Us</a></li>
+        <li><a href="http://www.asos.com/about/">About Us</a></li>
     </ul>
 	<p>The celebrities named or featured on asos.com have not endorsed recommended or approved the items offered on site</p>
 </div>
 
 <div class="legal">            
-	<p class="copyright">©2015 asos.com Ltd</p>
+	<p class="copyright">©2016 asos.com Ltd</p>
     <p>All rights reserved</p>
 </div>
 
@@ -1759,7 +1763,7 @@ UK</p></dd>
 
 <script>
 
-    require(['events', 'MasterLayout/Analytics/Analytics.Controller'], function (events) {
+    require(['events', 'MasterLayout/Analytics/Analytics.Controller.Desktop'], function (events) {
         events.trigger('AnalyticsRegisterBTScript');
     });
 </script>
