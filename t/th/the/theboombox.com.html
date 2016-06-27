@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the theboombox.com privacy policy that was archived on 2015-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151128140857id_/http%3A//theboombox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theboombox.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627071542id_/http%3A//theboombox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=1020">
 <title>Rap, R&amp;B and Hip Hop Music News and Videos</title>
 
@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="The Boombox » Feed" href="http://theboombox.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://theboombox.com/wp-content/themes/townsquare3-music/style.css">
-<script type="text/javascript">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
 			window.TSM = window.TSM || {};
 			window.TSM.ga = {"accounts":["UA-19109753-32","UA-19109753-34"]};
 		</script><script type="text/javascript">(function(w){w.TSM.sitetype="national";})(window);</script>		<script type="text/javascript">
@@ -33,14 +33,14 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="weather-widget-css-css" href="http://theboombox.com/wp-content/plugins/weather-widget/resources/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="sp-gallery-css" href="http://theboombox.com/wp-content/plugins/gallery/resources/sp-gallery.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=1a28748934d3853d076ad469b29f8298a8d45f09" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://theboombox.com/css/ts3.css?ver=14465571171a28748934" type="text/css" media="all">
-<link rel="stylesheet" id="facebook_auth-css" href="http://theboombox.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=1a28748934d3853d076ad469b29f8298a8d45f09" type="text/css" media="all">
-<link rel="stylesheet" id="radio-players-css" href="http://theboombox.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=1a28748934d3853d076ad469b29f8298a8d45f09" type="text/css" media="screen">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=de2de75269ae879abcd6ca53f462572de4d92fe0" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://theboombox.com/css/ts3.css?ver=1446557117de2de75269" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://theboombox.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=de2de75269ae879abcd6ca53f462572de4d92fe0" type="text/css" media="all">
+<link rel="stylesheet" id="radio-players-css" href="http://theboombox.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=de2de75269ae879abcd6ca53f462572de4d92fe0" type="text/css" media="screen">
 <script type="text/javascript" src="http://theboombox.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
 <script type="text/javascript" src="http://theboombox.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://theboombox.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://theboombox.com/wp-includes/wlwmanifest.xml"> 
@@ -60,7 +60,7 @@ img.emoji {
 				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 			})();
-		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=55228854139&amp;varName=crtg_content" async=""></script>
+		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=60307669812&amp;varName=crtg_content" async=""></script>
 			<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 		<script type="text/javascript">
 		var googletag = googletag || {};
@@ -70,7 +70,7 @@ img.emoji {
 		googletag.cmd = googletag.cmd || [];
 	</script>
 	<script id="tsm-googletag-init" type="text/javascript">
-	window.TSMAdSettings = {"activeSlots":["top-right-300x250","middle-right-300x250","bottom-right-300x250","dynamic-ad-custom","top-728x90","bottom-728x90","tsm-out-of-page","top-right-noflex-300x250","tsm-2x2"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TheBoombox","pagetype":"home","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":true,"sharethroughKey":"ad3a10ac","enableYieldbot":false},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["urban"],"device":"web","kv":[]}}};
+	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","dynamic-ad-custom","top-728x90","bottom-728x90","top-right-noflex-300x250","tsm-2x2"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TheBoombox","pagetype":"home","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":true,"sharethroughKey":"ad3a10ac","enableYieldbot":"ff15","enableSonobi":"{\"top-right-300x250\":{\"key\":\"theboombox_top-right\",\"val\":\"b0af3f1dca9cb1bca6d5\"},\"middle-right-300x250\":{\"key\":\"theboombox_middle-right\",\"val\":\"d45c6ad587be83d4ca02\"},\"bottom-right-300x250\":{\"key\":\"theboombox_bottom-right\",\"val\":\"a4b01a9860782490cee8\"},\"top-728x90\":{\"key\":\"theboombox_top\",\"val\":\"acea786e9f40e393adaf\"},\"bottom-728x90\":{\"key\":\"theboombox_bottom\",\"val\":\"8a825b7aa286b26bd41d\"},\"top-right-noflex-300x250\":{\"key\":\"theboombox_top-right\",\"val\":\"b0af3f1dca9cb1bca6d5\"},\"ads-top-leaderboard\":{\"key\":\"theboombox_mobile_ads-top-leaderboard\",\"val\":\"febd90c5680a1349fef7\"},\"ads-top-right\":{\"key\":\"theboombox_mobile_ads-top-right\",\"val\":\"3f3e9aff3fce43aa545b\"},\"ads-bottom-right\":{\"key\":\"theboombox_mobile_ads-bottom-right\",\"val\":\"0f46475cb48238d4a93b\"},\"ads-bottom-leaderboard\":{\"key\":\"theboombox_mobile_ads-bottom-leaderboard\",\"val\":\"6f1c21724c1d2c2fc3e5\"},\"ads-mid-top\":{\"key\":\"theboombox_mobile_ads-mid-top\",\"val\":\"3ae33b4c6f00619086f0\"},\"ads-mid-bottom\":{\"key\":\"theboombox_mobile_ads-mid-bottom\",\"val\":\"10a50c9ec90a35d141f0\"}}"},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["urban"],"device":"web","kv":[]}}};
 			var crtg_split = crtg_content.split( ';' );
 		for (var i=1;i<crtg_split.length;i++){
 			var keyvals = crtg_split[ i-1 ].split( '=' );
@@ -80,8 +80,12 @@ img.emoji {
 			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
 		}
 	</script>
-<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-
+<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript">
+			(function(w){
+				w.TSMAnalytics = {"info":{"title":null,"ip":"66.155.35.41","referer":null,"callsign":"TheBoombox","sitetype":"National","siteClassification":"","state":"NY","genre":["urban"],"tags":[],"categories":[]}};
+			})(window);
+		</script>
 <!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[591,614] -->
 <meta name="description" content="Top R&amp;B and hip hop news, music videos, newest songs and exclusive interviews with the hottest rappers and R&amp;B artists.">
 <meta name="keywords" content="hip hop news, rappers">
@@ -133,12 +137,12 @@ var analyticsFileTypes = [''];
 var analyticsEventTracking = 'enabled';
 </script>
 <script type="text/javascript">
-var _gaq_author = 'The Boombox';
+var _gaq_author = '';
 var _gaq_categories = '';
 var _gaq_uid = 'UA-19109753-32';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19109753-32']);
-_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setCustomVar', 3, 'Pagetype', window.TSMAdSettings&&TSMAdSettings.adPageSettings&&TSMAdSettings.adPageSettings.pageSettings&&TSMAdSettings.adPageSettings.pageSettings.pagetype?TSMAdSettings.adPageSettings.pageSettings.pagetype:'', 3]);_gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
 _gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
@@ -220,9 +224,7 @@ _gaq.push(['_trackPageview']);
 							<!--<iframe class="share_link_small facebook" src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/theboombox&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="overflow:hidden; width:50px; height:20px;" allowTransparency="true"></iframe>-->
 				<div class="fb-like share_link_small facebook" data-href="https://www.facebook.com/theboombox" data-layout="button" data-action="like" data-show-faces="false" data-share="false" data-width="47px"></div>
 							<!--<iframe class="share_link_small twitter" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=theboombox&show_count=false&show_screen_name=false" style="width:60px; height:20px;"></iframe>-->
-				<div class="share_link_small twitter">
-					<a href="https://twitter.com/theboombox" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en">Follow</a>
-				</div>
+								<div class="share_link_small twitter" id="nav-social-submenu-twitter" data-handle="theboombox"></div>
 							<!--<iframe class="share_link_small youtube" data-gapiattached="true" frameborder="0" scrolling="no"
 						src="http://www.youtube.com/subscribe_embed?bsv&usegapi=1&channel=theboomboxchannel1&count=hidden"
 						style="overflow: hidden; height: 24px; width: 87px;">
@@ -273,10 +275,10 @@ _gaq.push(['_trackPageview']);
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-trending-container"><ul id="menu-trending" class="menu"><li id="menu-item-3844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3844"><a>Trending:</a></li>
-<li id="menu-item-198145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198145"><a href="http://theboombox.com/j-cole-kendrick-lamar-pair-freestyles-black-friday/">Cole &amp; K.Dot’s ‘Black Friday’ Freestyles</a></li>
-<li id="menu-item-198147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198147"><a href="http://theboombox.com/erykah-badu-but-you-caint-use-my-phone/">Erykah Badu’s New Mixtape</a></li>
-<li id="menu-item-194071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194071"><a href="http://theboombox.com/vote-the-boombox-fan-choice-awards/">Vote in The Boombox Fan Choice Awards</a></li>
-<li id="menu-item-198146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198146"><a href="http://theboombox.com/tori-kelly-vs-ciara-the-boombox-battle/">Vote for Tori Kelly or Ciara</a></li>
+<li id="menu-item-194071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194071"><a href="http://theboombox.com/2016-bet-awards-the-winners-list/">2016 BET Awards Winners</a></li>
+<li id="menu-item-201943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201943"><a href="http://theboombox.com/jay-zs-reasonable-doubt-outlined-his-hustlers-ambition-and-conflicted-soul/">‘Reasonable Doubt’ At 20</a></li>
+<li id="menu-item-198146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198146"><a href="http://theboombox.com/kanye-west-premieres-nsfw-clip-for-famous-watch/">Kanye West’s ‘Famous’</a></li>
+<li id="menu-item-198145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198145"><a href="http://theboombox.com/rihanna-vs-tory-lanez-the-boombox-battle/">VOTE: Rihanna Vs. Tory Lanez</a></li>
 </ul></div>	</div>
 <div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
 
@@ -292,101 +294,193 @@ _gaq.push(['_trackPageview']);
 <div id="content_main" class="clearfix">
 	<section class="single page">
 		<article class="footer_link_legal">
-			<h1>Privacy</h1>
+			<h1>Privacy Policy (Updated: 5/9/16)</h1>
 			<div class="the_content">
-			<h3>About THEBOOMBOX.COM</h3>
+			
+<p>Townsquare Media, Inc. and its subsidiaries and affiliates (individually or collectively, “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy.  </p>
 
-<p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to THEBOOMBOX.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://theboombox.com/?geo-address=pbafhzresrrqonpxAgbjafdhnerzrqvnNpbz" class="geo-address ">consumerfeedback@townsquaremedia.com</a>.</p>
+<p>This policy describes the type of information we may collect from you and or that you may provide us when you visit our websites.   “You/your/user(s)” means you as a user of our website(s), mobile site(s) and/or app(s) (individually or collectively, “Website(s)”) provided by us.  We offer the Websites, including all information, tools and services available from the Websites, to you conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to utilize the Websites.</p>
+<ul>
+<p>Guide to Contents: </p>
+<p><a href="#scope">1.	Scope</a></p>
+<p><a href="#info">2.	Information Collected</a></p>
+<p><a href="#personal">3.	Use of your Personal Information</a></p>
+<p><a href="#third-parties">4.	Sharing Personal Information with Third Parties</a></p>
+<p><a href="#non-personal">5.	Non-Personally Identifiable Information  </a></p>
+<p><a href="#security">6.	Your Security </a></p>
+<p><a href="#links">7.	Links to Other Website(s) </a></p>
+<p><a href="#opt-out">8.	Opt-Out </a></p>
+<p><a href="#children">9.	Children </a></p>
+<p><a href="#california">10.	Your California Privacy Rights </a></p>
+<p><a href="#disclosure">11.	Disclosure for Legal Purposes</a></p>
+<p><a href="#non-confidential">12.	Non-Confidential Information </a></p>
+<p><a href="#retention">13.	Retention, Access and Deletion</a></p>
+<p><a href="#assignment">14.	Assignment</a></p>
+<p><a href="#international">15.	International Uses</a></p>
+<p><a href="#disputes">16.	Disputes</a></p>
+<p><a href="#contact">17.	Contact</a></p>
+</ul>
 
-<h3>Information Collection and Use by the Websites</h3>
+<h3 id="scope">1.	Scope</h3>
+<p>1.1	We value our users and respect your privacy.  This Privacy Policy describes the Personal Information (as defined below) we collect about you online, why we collect it, how we use it, and when we share it with third parties. This Privacy Policy also describes the choices you can make about how we collect and use certain of that information.</p>
 
-<p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
+<p>1.2	The Privacy Policy does not apply to information collected by us offline or through any other means, including any third party or any application or content (including advertising) that may link to or be accessible from or on the Websites. </p>
 
-<p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+<p>1.3. 	Although many areas of the Website(s) do not require registration and may be accessed by you without having to disclose any personal information, we or our service providers and/or third-party advertisers may ask you for certain kinds of personal information, including but not limited to your name, email address, mailing address, telephone number, age, credit/debit card information, user name and password, demographic information and other information that might identify you as an individual (“Personal Information”).  The Personal Information we collect about you may also be combined or supplemented with information from other sources.  Any Personal Information used in any manner will be used consistent with this Privacy Policy. </p>
 
-<p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
+<p>1.4	By accessing the Website(s), you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on each of the Website(s) that you visit. If there is anything you do not understand please email any inquiry to <a href="http://theboombox.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYgurobbzobkNpbz" class="geo-address ">privacy@townsquaremedia.com</a>. If at any time you do not agree to this Privacy Policy, please do not use the Website(s).  </p>
 
-<p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
+<p>1.5	We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Website(s). Amendments to this Privacy Policy will be posted at this URL and will be effective when posted.  It is your responsibility to review any such changes or updates and check the Website(s) from time to time to be sure you understand all terms and conditions, agreements and policies of the Website(s) and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website(s) following the posting of any amendment, modification or change shall constitute your acceptance thereof.  </p>
 
-<p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
+<h3 id="info">2.	Information Collected  </h3>
 
-<p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
+<p>	2.1	We collect information that you provide directly to us.  You may provide different types of Personal Information to us when you engage in certain Website(s) activities, such as creating an account, ordering a product or service, submitting, posting or accessing various content or features, subscribing to mobile push notifications, responding to and submitting a form, participating in our blogs or forums, entering a sweepstakes, contest, promotion or other special initiative, signing up for a special offer, completing a survey, sending feedback, requesting or submitting information, applying for a job, or directly contacting us.  It is optional for you to engage in such activity, however, if you choose to do so, we may require that you provide us certain Personal Information.  Depending upon the activity, some of the information we ask you to provide is required and some is voluntary.  If you do not provide required information for a particular activity, you may not be permitted to engage in that activity. We also ask that you not send us, and that you not share, any sensitive Personal Information, for example, social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background and/or trade union membership.</p>
 
-<p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
+<p>2.2	We may also collect certain information automatically, we may collect data that is not linked but may be linkable to an individual or to a particular device (such as “hashed” email addresses or usernames so as to be non-identifiable, and demographic information such as gender, age or income when not tied to PII), and location data that describes the precise geographic location of a device.  This information may be collected through various technologies, including through use of cookies, web beacons and other technologies, and may include the following:  your browser and mobile phone, tablet or other device type, operating system and name of your Internet service provider; web pages you visit on the Website(s); IP address, browser type, profile information, geo-location information; information about your interactions with email messages, such as whether the messages were opened and the links clicked in those emails; and standard server log information. 	</p>
 
-<p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
+<p>2.3	We collect email lists.  When you use the Website(s), you may be given the option to subscribe to or to be added to our subscription or email list. Whether or not you select either option, your Personal Information may be shared with third parties consistent with this Privacy Policy. Subscriptions to the email list can be cancelled at any time. </p>
 
-<h3>User Content</h3>
+<p>2.4	We collect Information provided when you set up your account/become a registered user.  You may have the opportunity to create account(s) on the Website(s), which may include a shopping account with us. A shopping account may allow you to shop faster and easier, check on order status and history, entering contests and participating in promotions and surveys, posting comments, participating in special features on the Website(s) and to use certain other features of the Website(s). Using your email and password of your choice, you may access your account online at any time to add, delete, or change information. The Personal Information provided by you is not used for any purpose other than as outlined in this Privacy Policy. If you ever use a public computer to access the Website(s) account, we strongly encourage you to log out at the conclusion of your session. By doing so, although your information may still be stored with us, it should not be accessible to anyone else from that computer.  </p>
 
-<p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
+<p>2.5	We collect information provided by registered users.  In creating an account, you authorize us to store your name, address, email address, telephone number and other Personal Information that you may provide.  With the exception of email addresses, physical address and cell phone numbers, registered users’ voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction.  Registered users’ user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name.  We therefore encourage you to choose a user name that is not your actual name. We take steps to protect against our revealing email addresses, physical addresses or cell phone numbers directly to other users or disclosing such information to third parties other than as set forth in this Privacy Policy.  </p>
 
-<h3>Use of Cookies</h3>
+<p>2.6	Payment processing information is not collected by us.  We currently use a third party for payment processing.  We do not receive or store your credit card or bank account information, and we do not want you to send us your credit card or bank account information. Please review the terms of use and privacy policies of the third party payment processor prior to providing Personal Information to them.  </p>
 
-<p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
+<h3 id="personal">3.	Use of Your Personal Information  </h3>
 
-<h3>Alternative Tracking Devices</h3>
+<p>3.1	Uses.  We use the Personal Information we collect for various purposes, including to:</p>
 
-<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
+<p>•	authenticate users</p>
+<p>•	provide the services you request</p>
+<p>•	enable you to participate in features such as surveys, reviews, blogs or forums, or to enter sweepstakes, contests, promotions and other special initiatives and to communicate with you about them</p>
+<p>•	complete your purchase transactions, fulfill your orders, keep you informed about the status of our services and your orders</p>
+<p>•	identify your product and service preferences, including so that we can notify you of new or additional products, services, and promotions that might be of interest to you </p>
+<p>•	improve our services and merchandise selections, customer service, and overall Website(s) experience</p>
+<p>•	analyze the use of our products and services and information about visitors to the Website(s)</p>
+<p>•	conduct or facilitate market research</p>
+<p>•	update and maintain the accuracy of our information </p>
+<p>•	communicate with you by email, postal mail, telephone, text message, push notification or other means about our company, our products, or other information that we believe may be of interest to you </p>
+<p>•	provide others with your information for the limited purposes described in this Privacy Policy</p>
+<p>•	send you notices of a transactional, administrative or relationship nature or as required by law.</p>
 
-<h3>Links</h3>
+<p>3.2	We use the Personal Information (and other information as outlined below) that we collect to customize your experience and to allow advertising to be targeted to users for whom such advertising is most pertinent. We may also use this information to customize certain features of the Website(s) to provide you with an enhanced experienced based on the type of device you are using to access the Websites, and in certain cases, provide you with requested services. </p>
 
-<p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
+<p>3.3.	We may use demographic and preference information to allow advertising on the Website(s) to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.  We disclose information to third party advertisers only in aggregate or de-identified form.  </p>
 
-<p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
+<h3 id="third-parties">4.	Sharing Personal Information With Third Parties</h3>
 
-<h3>Correcting/Updating Information and Terminating Registration</h3>
+<p>4.1	We are committed to maintaining your trust and we want you to understand when and with whom we may share Personal Information and information collected about you.  </p>
 
-<p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://theboombox.com/?geo-address=pbafhzresrrqonpxAgbjafdhnerzrqvnNpbz" class="geo-address ">consumerfeedback@townsquaremedia.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
+<p>4.2	We may disclose your Personal Information to outside individuals and/or companies who help us:  bring you the products and services we offer; create, operate, and maintain the Website(s); and with specialized services such as payment processing, shipping, mail and e-mail distribution, mobile messaging, Website(s) hosting, monitoring, analytics, sweepstakes and promotions management,  and survey processing.  We provide these companies only with the information they need to perform their services. We also work with third parties, such as ad networks, analytics companies and social networking platforms, and they may collect information about your online activities over time and across our sites and other online services.  We may also contribute to or participate in cooperative databases, which give other companies access to Personal Information.</p>
 
-<h3>Third Party Advertising</h3>
+<p>4.3	If you choose to enter a sweepstakes, contest or other promotion, your information may be disclosed to third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list.</p>
 
-<p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
+<p>4.4	We may disclose your Personal Information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Website(s), to limit our legal liability and protect our rights or to protect the rights, property or safety of users of the Website(s) or the public.</p>
 
-<h3>Agents</h3>
+<p>4.5	We may provide products or services jointly with or through certain third-party businesses, including but not limited to retail businesses.  We may share your Personal Information with such entities to help them deliver to you related goods and services, and to provide you with better service and to measure a program’s value.  Sharing this information will allow such providers to market products and services directly to you, should they so choose. </p>
 
-<p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
+<p>4.6	In addition, if we go through a business transition, such as a merger, acquisition by another company or a financing, investment, support or funding, sharing or sale of all or a portion of our assets, your Personal Information may be among the assets shared or transferred.  If we engage in any of these types of transactions, your information will be subject to our Privacy Policy in effect at the time of the transfer or sharing of such information.  </p>
 
-<h3>Service Providers</h3>
+<p>4.7 	The Website(s) may allow users to post comments and other content to the Website(s). Any Personal Information that you post to the Website(s) will become public information and will be accessible by other users of the Website(s). In addition, your user name will be viewable by other users, and we therefore encourage you to use a user name that is not your actual name. We have no responsibility to maintain the privacy or security of any such Personal Information that you may choose to post to the Website(s).  </p>
 
-<p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
+<p>4.8	By providing us with your telephone number, you are authorizing us, our service providers and our and their affiliated companies to deliver or cause to be delivered SMS text messages, texts, push notifications and voice message notifications, including promotional messages, using an automatic telephone dialing system. You are not required to receive such messages, or enter into an agreement to receive promotional text messages as a condition of purchasing any property, goods or services. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration or in any other form you may fill out with us. You can also cancel the SMS service at any time by replying ‘STOP’ via text. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.  </p>
+<h3 id="non-personal">5.	Non-Personally Identifiable Information  </h3>
 
-<h3>Opt-out</h3>
+<p>5.1	Through your use of the Website(s), we may also collect certain non-personally identifiable information from you (“NPII”). NPII is not associated with you as an individual, it is data that is linked or reasonably linkable to a particular computer or device. It is measured anonymously and generally in the aggregate.  We use NPII to maintain and administer the Website(s), analyze trends and user activities, gather demographic information and comply with applicable law.  We may share this information with others without express notice to you or consent from you, and we may exploit, use and disclose your NPII without limitation of any kind.</p>
 
-<p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
+<p>5.2	The Website(s) may use cookies. A cookie is a small piece of information sent by a Website(s) that is saved on your hard drive by your computer's browser. Cookies help us remember you when you return to the Website(s). Cookies also hold information to personalize and enhance your experience and to gather Website(s) statistical data, such as which pages are visited, the Internet provider's domain name and the addresses of the sites you visited immediately before coming to and immediately after leaving the Website(s).  The information in the cookies lets us trace your “clickstream” activity (i.e., the paths taken by users of the Website(s) as they move from page to page) to enable us to better serve you by revealing which portions of the Website(s) are the most popular. We may also allow our affiliate and service providers and advertisers to serve cookies from the Website(s) to allow them to assist us in various activities such as doing analysis and research on the effectiveness of the Website(s), its content and advertising.  Some third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offer a single location to opt out of ad targeting from member companies (www.networkadvertising.org).  </p>
 
-<h3>Security</h3>
+<p>5.3	We may also use “pixel tags” (sometimes called “web beacons” or “clear gifs”), which are tiny graphic images, on the Website(s). Pixel tags help us analyze users’ online behavior and measure the effectiveness of the Website(s) and our advertising and marketing. We may also use other analytical tools to evaluate site performance through the use of aggregated data, which contain no Personal Information. We work with service providers that help us track, collect, and analyze this information.  </p>
 
-<p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
+<p>5.4	Cookies, pixel tags, and/or other analytical tools that we may use on the Website(s) may collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website(s).  This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website(s) you visited immediately before coming to the Website(s). Cookies, pixel tags, and/or other analytical tools in our emails may also be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.  We may also work with businesses that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to the Website(s) and your interaction with our advertising and other communications. </p>
 
-<p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://theboombox.com/?geo-address=pbafhzresrrqonpxAgbjafdhnerzrqvnNpbz" class="geo-address ">consumerfeedback@townsquaremedia.com</a>.</p>
+<p>5.5	We may combine the NPII collected through cookies, pixel tags and other analytical tools with other information we may have collected from you. This information may be used to improve the Website(s), to personalize your online experience, to help us deliver information to you, to determine the effectiveness of advertising, and for other internal business purposes.  We may use and share aggregated and anonymous information to conduct market research and analysis for ourselves and/or for our business partners. Given the anonymous, non-personally identifiable nature of such information, there are no restrictions under this Privacy Policy on how we may use or disclose such information. For example, we may freely share such information with third parties who may use such data for their own marketing, advertising, research, or other business purposes. We may also freely share such information with our service providers in order for them to perform services to or for us.  </p>
 
-<p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
+<p>5.6	Ads appearing on the Website(s) may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows us or our partners to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
 
-<h3>Sharing and Disclosure of Information</h3>
+<p>5.7	We authorize certain service providers to utilize NPII for their business purposes and in accordance with their privacy policies, such as to report on usage or industry trends to their customer base. </p>
 
-<p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to consumerfeedback@townsquaremedia.com. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
+<p>5.8 	Third Party Functionalities: The Website(s) contains links to and/or enables certain third-party functionalities to enhance your experience on the Website(s), including social plug-ins, tools and APIs. Prior to using any third-party functionalities (for example, the Facebook “Like” button) on the Website(s), you should consult the privacy notices of the third-party providers of such functionalities (for example, Facebook), as we have no control over information that is submitted to, or collected by, such third parties, or how they may use the information. The privacy policies and data practices of such third parties may significantly differ from ours, and we make no representation or warranty whatsoever about their policies and practices. Your communications and interactions with such third parties are solely between you and them, and are at your own risk.</p>
 
-<h3>Children's Privacy</h3>
+<h3 id="security">6.	Your Security </h3>
 
-<p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>6.1	We strive to keep your Personal Information private and safe. We take commercially reasonable physical, electronic and administrative steps to maintain the security of Personal Information collected, including limiting the number of people who have physical access to database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information, so please do not send us your credit card number by email.  Any payment transactions will be encrypted. </p>
 
-<p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
+<p>6.2	Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100% secure. While we will use reasonable means to ensure the security of information you transmit through the Website(s), any transmission of Personal Information is at your own risk.  We cannot guarantee that such information will not be intercepted by third parties and we shall not be liable for any breach of the security of your Personal Information resulting from causes or events that are beyond our control, including, without limitation, your own act or omission, corruption of storage media, defects in third-party data security products or services, power failures, natural phenomena, riots, acts of vandalism, hacking, sabotage, viruses, Trojan horses, other malware or terrorism and we are not responsible for circumvention of any privacy settings or security measures contained on the Website(s).</p>
 
-<h3>International User Notice</h3>
+<h3 id="links">7.	Links to Other Website(s)</h3>
 
-<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+<p>7.1	While visiting the Website(s), you may link to websites operated by third parties or you may have come to the Website(s) using a link found in another website. This does not mean that we endorse these website(s) or the goods or services they provide. We do not make any representations or warranties about any website(s) that may be linked to the Website(s), including those of our payment processors. Such other website(s) are independent from us, and we have no control over, or responsibility for their information, products or activities.</p>
 
-<h3>Changes in Our Privacy Policy</h3>
+<p>7.2	In addition, our privacy practices may differ from those of these other website(s). If you access these other websites, including if you provide Personal Information at one of those website(s), you are subject to the privacy policy of the operator of that website(s), not our Privacy Policy. Please make sure you understand any other website's privacy policy before providing Personal Information. </p>
 
-<p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
+<h3 id="opt-out">8.	Opt-Out  </h3>
 
-<h3>Contacting Us</h3>
+<p>8.1	You may opt out of receiving email communications such as email newsletters and promotional emails by following the instructions provided at the bottom of each email, clicking the “unsubscribe” button at the bottom of emails we sent you, or by managing your preferences here:  <a href="http://theboombox.com/privacy/preferences" rel="nofollow">http://theboombox.com/privacy/preferences</a>.  Please allow up to ten (10) business days for changes to your email preferences to take effect.  During that time, you may continue to receive email communications from us that were already in process.  Opting out of receiving Website(s) communications will not affect your receipt of service-related communications such as payment confirmations.</p>
 
-<p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://theboombox.com/?geo-address=pbafhzresrrqonpxAgbjafdhnerzrqvnNpbz" class="geo-address ">contact us</a>.</p>
+<p>8.2	Opting out of online and mobile website advertising.  You can opt out of Internet-based and mobile advertising on your mobile device by visiting TRUSTe’s Ad Preference Manager, currently available at <a href="https://preferences-mgr.truste.com/">https://preferences-mgr.truste.com/</a>.   </p>
 
-<h3>Effective Date</h3>
+<p>8.3	Some of our products and services use Google Analytics Advertising Features and its associated tracking technologies to help display our ads you see on other sites, and to help us manage and optimize our online advertising efforts. To opt out of Google Analytics Advertising Features, visit Google’s Ad Settings page, currently located at <a href="http://www.google.com/settings/ads/anonymous?hl=en&amp;sig=ACi0TChxIfzpj2J6usLkL-0dI8ne85jUphqPycQiIZWAbmYdRqii0QU9BGagUo1QZSCorX444VirLNBdiZy35GLbfl3uBv86er6QXD-avsQyACFwBx6K8dM">http://www.google.com/settings/ads/anonymous?hl=en</a>.  Website users can also access the Google Analytics Opt Out Browser Add-on, currently located at <a href="https://support.google.com/analytics/answer/181881?hl=en">https://support.google.com/analytics/answer/181881?hl=en</a>.       </p>
 
-<p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>			</div>
+<p>8.4	You can opt out of receiving online behavioral or internet based advertising by using the tools located at the Digital Advertising Alliance’s (DAA) consumer choice page, currently available at <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> or the Network Advertising Initiative (NAI) opt out tool currently available at <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.  In addition, the DAA’s AppChoices App allows you to limit the collection of cross-app data for your device, and a link to the AppChoices program for opting out is currently located at <a href="http://www.aboutads.info/appchoices">www.aboutads.info/appchoices</a>.  </p>
+
+<p>8.5	We also follow the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via it’s opt out program, currently available at <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>.   For any data provided to Oracle related to the Oracle Audience Data Marketplace which data may be shared in any other global region outside the U.S. or EU/EDAA, we will adhere to the Oracle Marketing Cloud &amp; Oracle Data Cloud Privacy Policy, currently available at <a href="http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy/index.html">http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy/index.html</a>. </p>
+
+<p>8.6	When using the ad industry opt out tools described in Sections 8.2 through 8.5, note that:  (a) if you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you; (b) if you use multiple browsers or devices you may need to execute this opt out on each browser or device; and (c) other ad companies’ opt-outs may function differently than our opt-out.  We do not make any representations or warranties about such opt-out services. Such services are independent from us, and we have no control over, or responsibility for their performance.</p>
+
+<p>8.7	You can opt out of accepting cookies or disable them from your browser. The Help function on most browsers contains information on how you can set your browser to notify you before accepting cookies or can disable them entirely. If you opt out of cookies, you will not be able to take advantage of various features of the Website(s) that are available to other users.  For example, we may use cookies to recognize you by name when you return to this site so you don’t have to login again and provide your password.  </p>
+<p>8.8	Registered users who have provided their cell phone number to us may remove it from within their personal profile settings If you prefer not to receive text or wireless promotional communications on your mobile device, you can opt out by replying STOP. </p>
+
+<p>8.9	You may ask us to delete your Personal Information from our system, however, because we archive and keep track of past transactions, you cannot delete information associated with past transactions or archived information on the Website(s).  Please also update your Personal Information if it changes.</p>
+
+<p>8.10	Registered users may terminate their registration at any time, for any reason, by contacting us. Terminating your registration will not necessarily remove previous public comments or other user content on public display on the Website(s).  You understand it may be impossible to delete Personal Information entirely because of backups and records of deletions.  If you wish to cancel your account on the Website(s) or delete your Personal Information previously provided to us, you may send your request here:  <a href="http://theboombox.com/privacy/preferences" rel="nofollow">http://theboombox.com/privacy/preferences</a>.   </p>
+
+<p>8.11. If you do not receive a response from us to any emails you send to us within ten (10) business days, please send us another email as your original email may not have been received. </p>
+
+<h3 id="children">9.	Children </h3>
+
+<p>We do not permit children under 13 years of age to use the Website(s), and we do not knowingly collect, use or disclose Personal Information from anyone under 13 years of age except as part of specific outreach programs with parental permission.  If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.  If you believe that we have mistakenly or unintentionally collected Personal Information of a minor without appropriate consent, please notify us at <a href="http://theboombox.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYgurobbzobkNpbz" class="geo-address ">privacy@townsquaremedia.com</a> or by mail to the following address: Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, so that we may immediately delete such information and take other appropriate action.</p>
+
+<h3 id="california">10.	Your California Privacy Rights </h3>
+
+<p>10.1	Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830.  You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zip code. </p>
+<p>10.2	In addition, please note the following: </p>
+<p>(a) 	Users can visit the Website(s) anonymously; </p>
+<p>(b) 	We will add a link to this Privacy Policy on our home page, or at a minimum, on the first significant page after entering the Website(s);</p>
+<p>(c)	Our Privacy Policy link includes the word “Privacy” and can be easily be found on the page specified above; </p>
+<p>(d)	Users will be notified of any privacy policy changes on our Privacy Policy page;</p>
+<p>(e)	Users are able to change their Personal Information by emailing us;</p>
+<p>(f)	Some Internet browsers include the ability to transmit “Do Not Track” signals that give you control over the collection and use of web browsing information. Because uniform standards for “Do Not Track” signals have not yet been adopted, we do not do not process or respond to such signals in users’ web browsers at this time; and </p>
+<p>(g)	We allow the collection of users’ behavioral tracking (but not Personal Information) by third parties. We do not authorize the collection of Personal Information on the Website(s) by third parties.  </p>
+<h3 id="disclosure">11.	Disclosure for Legal Purposes</h3>
+
+<p>You hereby authorize us to disclose any of your Personal Information pursuant to judicial and administrative proceedings and to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose Personal Information if we believe the disclosure is necessary or appropriate in the event of an investigation of improper or illegal conduct in connection with the Website(s), such as fraud, misrepresentation, intellectual property infringement, or other activity that may put us at risk for liability.</p>
+
+<h3 id="non-confidential">12.	Non-Confidential Information </h3>
+
+<p>We do not want you to send to us any confidential or proprietary information through email or otherwise. Any information, materials, suggestions, ideas or comments sent to us will be considered non-confidential, and by submitting the same to us, you are giving us the absolute right to use, modify, reproduce, transmit, display and distribute the information for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission. </p>
+
+<h3 id="retention">13.	Retention, Access and Deletion</h3>
+
+<p>We will retain your Personal Information for as long as your account is active, as needed to provide you products or services; as needed for the purposes outlined in this Privacy Policy or at the time of collection; as necessary to comply with our legal obligations, resolve disputes and enforce our agreements; or to the extent permitted by law.  At the end of the retention period, we will delete your Personal information in a manner designated to ensure that it cannot be reconstructed or read.</p>
+
+<p>We currently work with Oracle, which maintains a consumer tool called the BlueKai Registry, which allows you to remove individual interest segments at your sole discretion.  Such information is from the profile associated with the specific browser, computer or device that you are visiting it with, and unless Oracle has linked browsers, computers or devices into a common profile as described in the Oracle Marketing Cloud &amp; Oracle Data Cloud Privacy Policy (link above), you may see different segments when viewing the registry from a different browser, computer or device.  </p>
+
+<h3 id="assignment">14.	Assignment</h3>
+
+<p>We may freely assign this Privacy Policy or any of our rights and/or obligations hereunder. </p>
+<h3 id="international">15.	International User Notice</h3>
+<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union -- the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy, including Section 8.5. By using the Website(s), you agree to have your information used and transferred to the United States as set forth in this policy. </p>
+<h3 id="disputes">16.	Disputes</h3>
+<p>Any disputes regarding this Privacy Policy are subject to the Terms of Service on the Website(s) that you access and will be governed by the laws of the State of New York, applicable to agreements made and performed in New York.  You agree that any and all disputes and causes of action arising out of this Privacy Policy shall be resolved exclusively by final and binding arbitration under the rules of the Judicial Arbitration and Mediation Services, Inc. (“JAMS”) and held at the JAMS regional office in the Borough of Manhattan, New York City, New York.  This obligation applies regardless of whether the claim or dispute involves a tort, fraud, breach of contract, misrepresentation, product liability, negligence, violation of a statute, or any other legal theory. Included are all claims that may arise after the termination of this Privacy Policy and claims related to direct marketing efforts, including complaints concerning unsolicited text messages, emails, and telemarketing calls. We agree that each of us may bring claims against the other only in an individual capacity and not in a class action or representative proceeding. All arbitrations shall be conducted on an individual and not on a class-wide basis, and an arbitrator shall have no authority to award class-wide relief. You acknowledge and agree that this agreement specifically prohibits you from commencing arbitration proceedings as a representative of others or joining in any arbitration proceedings brought by any other person. This provision concerns a transaction in interstate commerce, and therefore shall be governed by the United States Federal Arbitration Act, 9 U.S.C. § 1 et seq.</p>
+<p>The remedy for any claim shall be limited to actual damages, and in no event shall any party be entitled to recover punitive, exemplary, consequential, or incidental damages, including attorney’s fees or other such related costs of bringing a claim or seek injunctive relief or any other equitable claim.  SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.  For New Jersey residents, the previous two sentences apply only to the maximum extent permitted under New Jersey law.</p>
+<h3 id="contact">17.	Contact</h3>
+
+<p>If you have any questions about your privacy or security at the Website(s), or wish to update your Personal Information, please send an email to <a href="http://theboombox.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYgurobbzobkNpbz" class="geo-address ">privacy@townsquaremedia.com</a> or write to us at:  Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message.  You may call us at 1 (203) 861-0900. </p>
+
+
+<h3>DATE LAST MODIFIED: May 4, 2016</h3>
+			</div>
 		</article>
 	</section>
 </div>
@@ -395,52 +489,52 @@ _gaq.push(['_trackPageview']);
 <aside id="content_sidebar" class="sidebar clearfix">
     <div id="google-ads-widget-5" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad"></div></div><div id="ts_blogroll_pinned ts_blogroll-4" class="widget ts_blogroll_pinned ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Photo Galleries</h4></div>	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://theboombox.com/25-gifts-every-beyonce-fan-needs-right-now/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Beyonce" datasrc="http://theboombox.com/files/2015/11/beyonce-feat-JasonMerritt.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://theboombox.com/20-sizzling-sneakers-for-summer-16/?trackback=blogroll_widget-photo-galleries">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="A Ma Maniere x Diadora N9000" datasrc="http://theboombox.com/files/2016/06/A-Ma-Maniere-x-Diadora-N9000.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://theboombox.com/25-gifts-every-beyonce-fan-needs-right-now/">25 Gifts Every Beyonce Fan Needs Right Now</a>
-	        <em>Yesterday</em>
-	    </div>
-	</article>
-    	<article class="small_thumb_title_date  clearfix">
-	    	    <figure>
-	        <a href="http://theboombox.com/25-hip-hop-album-covers-rappers-creative-side/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kevin Winter / Michael Loccisano (2) / Todd Williamson, Getty Images" datasrc="http://theboombox.com/files/2015/11/Wayne1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
-	        	    </figure>
-	    	    <div class="excerpt clearfix">
-	        <a href="http://theboombox.com/25-hip-hop-album-covers-rappers-creative-side/">25 Striking Hip-Hop Album Covers That Will Make You Appreciate a Rapper’s Creative Side</a>
+	        <a href="http://theboombox.com/20-sizzling-sneakers-for-summer-16/?trackback=blogroll_widget-photo-galleries">20 Sizzling Sneakers For Summer 16</a>
 	        <em>5 days ago</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://theboombox.com/2015-american-music-awards-red-carpet/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Zendaya Ciara Christina Milian" datasrc="http://theboombox.com/files/2015/11/zendaya-ciara-christinamilian.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://theboombox.com/prince-inducted-into-the-apollo-theaters-walk-of-fame-melisa-morgan-maceo-parker-and-more-pay-tribute-photos/?trackback=blogroll_widget-photo-galleries">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="prince_apollo-featured" datasrc="http://theboombox.com/files/2016/06/prince_apollo-featured.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://theboombox.com/2015-american-music-awards-red-carpet/">2015 American Music Awards Red Carpet</a>
-	        <em>6 days ago</em>
+	        <a href="http://theboombox.com/prince-inducted-into-the-apollo-theaters-walk-of-fame-melisa-morgan-maceo-parker-and-more-pay-tribute-photos/?trackback=blogroll_widget-photo-galleries">Prince Inducted Into the Apollo Theater’s Walk of Fame; Meli’sa Morgan, Maceo Parker and More Pay Tribute [PHOTOS]</a>
+	        <em>2 weeks ago</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://theboombox.com/20-hilarious-r-and-b-tweets/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Ben Gabbe / Michael Loccisano / Eugene Gologursky, Getty Images" datasrc="http://theboombox.com/files/2015/11/frankoceanerykahbadu1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://theboombox.com/2016-billboard-music-awards-red-carpet-rihanna-ciara-more-dazzle/?trackback=blogroll_widget-photo-galleries">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kelly Rowland Ariana Grande Rihanna" datasrc="http://theboombox.com/files/2016/05/KellyAriana-Riri-DavidBecker.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://theboombox.com/20-hilarious-r-and-b-tweets/">20 Hilarious R&amp;B Tweets Guaranteed to Keep You Entertained</a>
-	        <em>3 weeks ago</em>
+	        <a href="http://theboombox.com/2016-billboard-music-awards-red-carpet-rihanna-ciara-more-dazzle/?trackback=blogroll_widget-photo-galleries">2016 Billboard Music Awards Red Carpet: Rihanna, Ciara &amp; More Dazzle</a>
+	        <em>May 22, 2016</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://theboombox.com/maxwell-estelle-fab-five-freddy-masquerade-ball/?trackback=blogroll_widget-photo-galleries">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Victoria Johnson, The Boombox" datasrc="http://theboombox.com/files/2016/05/mocada-featured.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://theboombox.com/maxwell-estelle-fab-five-freddy-masquerade-ball/?trackback=blogroll_widget-photo-galleries">Maxwell, Estelle, Fab Five Freddy &amp; More Attend Masquerade Ball in Brooklyn</a>
+	        <em>May 20, 2016</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date last clearfix">
 	    	    <figure>
-	        <a href="http://theboombox.com/20-shoes-weatherproof-feet-winter/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Adidas / Nike / Ewing / Converse" datasrc="http://theboombox.com/files/2015/11/wintersneaks.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://theboombox.com/teyana-taylor-brings-the-vii-unplugged-tour-to-new-york-city/?trackback=blogroll_widget-photo-galleries">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Teyana Taylor" datasrc="http://theboombox.com/files/2016/04/feat-teyanataylor-irvingplaza-27Apr16-emilytan_6.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://theboombox.com/20-shoes-weatherproof-feet-winter/">20 Ways to Weatherproof Your Feet This Winter</a>
-	        <em>3 weeks ago</em>
+	        <a href="http://theboombox.com/teyana-taylor-brings-the-vii-unplugged-tour-to-new-york-city/?trackback=blogroll_widget-photo-galleries">Teyana Taylor Brings The ‘VII Unplugged Tour’ to New York City</a>
+	        <em>April 28, 2016</em>
 	    </div>
 	</article>
     </div><div id="widget_youtube-2" class="widget widget_youtube  clearfix">	<div class="youtube_wrap">
@@ -453,92 +547,92 @@ _gaq.push(['_trackPageview']);
 			</div>
 	</div><div id="ts_blogroll-6" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Lists</h4></div><article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/25-pusha-t-facts/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Jamie McCarthy, Getty Images" datasrc="http://theboombox.com/files/2015/11/Pusha-T-Jamie-McCarthy1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/happy-birthday-pete-rock-10-classic-beats-from-the-chocolate-boy-wonder/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="One Step Beyond Presents: Blacksmith Music &quot;A Night At The Museum&quot;" datasrc="http://theboombox.com/files/2016/06/pete-rock-birthday-10-dopest-classic-beats.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/25-pusha-t-facts/">25 Facts You Probably Didn’t Know About Pusha T</a>
-        <em>5 days ago</em>
+        <a href="http://theboombox.com/happy-birthday-pete-rock-10-classic-beats-from-the-chocolate-boy-wonder/?trackback=blogroll_widget-lists">Happy Birthday, Pete Rock: 10 Classic Beats From the Chocolate Boy Wonder</a>
+        <em>6 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/coolio-gangstas-paradise-album/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Coolio Gangsta's Paradise" datasrc="http://theboombox.com/files/2015/11/Coolio-Gangstas-Paradise.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/rihanna-to-fat-joe-remy-ma10-songs-of-the-summer/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="YouTube" datasrc="http://theboombox.com/files/2016/02/work1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/coolio-gangstas-paradise-album/">Five Best Songs from Coolio’s ‘Gangsta’s Paradise’ Album</a>
+        <a href="http://theboombox.com/rihanna-to-fat-joe-remy-ma10-songs-of-the-summer/?trackback=blogroll_widget-lists">From Rihanna to Fat Joe and Remy Ma: the 10 Hottest Songs for Your Summer</a>
         <em>1 week ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/best-songs-of-week-busta-rhymes-lil-bibby-e-40/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Busta Rhymes Lil Bibby E-40" datasrc="http://theboombox.com/files/2015/11/Busta-Rhymes-Lil-Bibby-E-40.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/happy-birthday-2pac-10-of-the-legendary-rappers-most-underrated-songs/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Interscope" datasrc="http://theboombox.com/files/2016/06/2pac-birthday-10-most-underrated.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/best-songs-of-week-busta-rhymes-lil-bibby-e-40/">Best Songs of the Week: Busta Rhymes, Lil Bibby &amp; E-40</a>
-        <em>1 week ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://theboombox.com/10-signs-youre-a-slab-god-paul-wall/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Audible Treats" datasrc="http://theboombox.com/files/2015/10/paulwall.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://theboombox.com/10-signs-youre-a-slab-god-paul-wall/">10 Signs You’re a Slab God According to Paul Wall&nbsp;[EXCLUSIVE INTERVIEW]&nbsp;</a>
+        <a href="http://theboombox.com/happy-birthday-2pac-10-of-the-legendary-rappers-most-underrated-songs/?trackback=blogroll_widget-lists">Happy Birthday, 2Pac: 10 of the Legendary Rapper’s Most Underrated Songs</a>
         <em>2 weeks ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/25-jeezy-facts/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Mark Davis, Getty Images" datasrc="http://theboombox.com/files/2015/11/jeezy1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/tamar-braxtons-still-winning-10-things-we-love-about-the-real-alumna/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="12th Annual MusiCares MAP Fund Tribute Concert - Arrivals" datasrc="http://theboombox.com/files/2016/06/tamar-braxton-10-reasons-we-love.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/25-jeezy-facts/">25 Facts You Probably Didn’t Know About Jeezy</a>
-        <em>2 weeks ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://theboombox.com/best-songs-of-the-week-juicy-j-anderson-paak-krs-one/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Juicy J Anderson Paak KRS-One" datasrc="http://theboombox.com/files/2015/11/juicy-j-anderson-paak-krs-one1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://theboombox.com/best-songs-of-the-week-juicy-j-anderson-paak-krs-one/">Best Songs of the Week: Juicy J, Anderson .Paak and KRS-One</a>
-        <em>2 weeks ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://theboombox.com/r-kelly-self-titled-album/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="R. Kelly" datasrc="http://theboombox.com/files/2015/11/RKelly-Jive-Records1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://theboombox.com/r-kelly-self-titled-album/">Five Best Songs From R. Kelly’s Self-Titled Album</a>
-        <em>2 weeks ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://theboombox.com/10-best-hotline-bling-covers/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Neilson Barnard/Michael Loccisano/Dave Kotinsky, Getty Images" datasrc="http://theboombox.com/files/2015/11/trina-erykah-kehlani.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://theboombox.com/10-best-hotline-bling-covers/">10 Best ‘Hotline Bling’ Covers You Need to Hear</a>
+        <a href="http://theboombox.com/tamar-braxtons-still-winning-10-things-we-love-about-the-real-alumna/?trackback=blogroll_widget-lists">Tamar Braxton’s Still Winning: 10 Things We Love About ‘The Real’ Alumna</a>
         <em>3 weeks ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/10-best-videos-cuffing-season/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="YouTube (3)" datasrc="http://theboombox.com/files/2015/11/cuffingseason-videos.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/best-songs-of-the-week-yg-vic-mensa-kanye-west/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="YG Vic Mensa Kanye West" datasrc="http://theboombox.com/files/2016/06/YG-Vic-Mensa-Kanye-West.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/10-best-videos-cuffing-season/">10 Best Videos Showcasing Cuffing Season Done Right</a>
-        <em>3 weeks ago</em>
+        <a href="http://theboombox.com/best-songs-of-the-week-yg-vic-mensa-kanye-west/?trackback=blogroll_widget-lists">Best Songs of the Week: YG, Vic Mensa &amp; Kanye West</a>
+        <em>4 weeks ago</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://theboombox.com/best-songs-of-the-week-dave-east-yasiin-bey-gucci-mane/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Dave East Yasiin Bey Gucci-Mane" datasrc="http://theboombox.com/files/2016/05/Dave-East-Yasiin-Bey-Gucci-Mane.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://theboombox.com/best-songs-of-the-week-dave-east-yasiin-bey-gucci-mane/?trackback=blogroll_widget-lists">Best Songs of the Week: Dave East, Yasiin Bey &amp; Gucci Mane</a>
+        <em>5 weeks ago</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://theboombox.com/12-major-donts-for-heading-to-an-outdoor-festival-this-summer/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Pandora Discovery Den - 2016 SXSW Music, Film + Interactive Festival" datasrc="http://theboombox.com/files/2016/05/torylanez.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://theboombox.com/12-major-donts-for-heading-to-an-outdoor-festival-this-summer/?trackback=blogroll_widget-lists">12 Major DON’Ts for Heading to an Outdoor Festival This Summer</a>
+        <em>May 26, 2016</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://theboombox.com/best-songs-of-the-week-camron-the-game-chinx/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Cam'ron The Game Chinx" datasrc="http://theboombox.com/files/2016/05/Camron-The-Game-Chinx.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://theboombox.com/best-songs-of-the-week-camron-the-game-chinx/?trackback=blogroll_widget-lists">Best Songs of the Week: Cam’ron, The Game &amp; Chinx</a>
+        <em>May 21, 2016</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://theboombox.com/songs-of-the-week-dj-drama-lloyd-chance-the-rapper/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="DJ Drama Lloyd Chance The Rapper" datasrc="http://theboombox.com/files/2016/05/DJ-Drama-Lloyd-Chance-The-Rapper.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://theboombox.com/songs-of-the-week-dj-drama-lloyd-chance-the-rapper/?trackback=blogroll_widget-lists">Best Songs of the Week: DJ Drama, Lloyd &amp; Chance the Rapper</a>
+        <em>May 14, 2016</em>
     </div>
 </article>
 <article class="small_thumb_title_date last clearfix">
         <figure>
-        <a href="http://theboombox.com/songs-of-the-week-pimp-c-sheek-louch-babyface/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Pimp C Sheek Louch Babyface" datasrc="http://theboombox.com/files/2015/11/Pimp-C-Sheek-Louch-Babyface.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/from-rick-ross-to-rakim-20-of-the-weirdest-wackest-and-most-wtf-rapper-lines/?trackback=blogroll_widget-lists"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="TIDAL X: 1020 Amplified by HTC - Show" datasrc="http://theboombox.com/files/2016/05/rick-ross-wackiest-lyrics.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/songs-of-the-week-pimp-c-sheek-louch-babyface/">Best Songs of the Week: Pimp C, Sheek Louch &amp; Babyface</a>
-        <em>3 weeks ago</em>
+        <a href="http://theboombox.com/from-rick-ross-to-rakim-20-of-the-weirdest-wackest-and-most-wtf-rapper-lines/?trackback=blogroll_widget-lists">From Rick Ross to Rakim: 20 of the Weirdest, Wackest and Most ‘WTF?’ Rapper Lines</a>
+        <em>May 9, 2016</em>
     </div>
 </article>
 <p class="more_act"><a href="http://theboombox.com/category/the-rundown/page/2/" title="Read More Lists">Read More Lists</a></p>
@@ -553,92 +647,92 @@ _gaq.push(['_trackPageview']);
 			</article>
 </div><div id="ts_blogroll-7" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Style</h4></div><article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/nike-air-huarache-light-black-speckle/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Foot Patrol" datasrc="http://theboombox.com/files/2015/11/nike-huarache-light-black-speckle.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/2016-bet-awards-red-carpet/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Frederick M. Brown, Getty Images" datasrc="http://theboombox.com/files/2016/06/swizz-beatz-alicia-keys2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/nike-air-huarache-light-black-speckle/">Nike Air Huarache Light Black Speckle</a>
+        <a href="http://theboombox.com/2016-bet-awards-red-carpet/?trackback=blogroll_widget-style">2016 BET Awards Red Carpet</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/nike-reflective-safari-pack/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Nike" datasrc="http://theboombox.com/files/2015/11/nike-reflective-safari-pack-spring-2016-highsnob-01_zr6byk.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/sneaker-of-the-week-adidas-ultraboost-uncaged/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="adidas" datasrc="http://theboombox.com/files/2016/06/adidas-ultraboost-uncaged-01.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/nike-reflective-safari-pack/">Nike Reflective Safari Pack</a>
-        <em>Yesterday</em>
+        <a href="http://theboombox.com/sneaker-of-the-week-adidas-ultraboost-uncaged/?trackback=blogroll_widget-style">Sneaker of The Week: adidas UltraBOOST Uncaged</a>
+        <em>3 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/bape-puma-2015-collection/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Bape" datasrc="http://theboombox.com/files/2015/11/bape-x-puma-f-w-collection-header-e1448056747890.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/raekwon-just-blaze-featured-in-new-book-documenting-polo-ralph-lauren-subculture/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Frazer Harrison, Getty Images" datasrc="http://theboombox.com/files/2015/06/Raekwon.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/bape-puma-2015-collection/">Bape x Puma 2015 Collection</a>
+        <a href="http://theboombox.com/raekwon-just-blaze-featured-in-new-book-documenting-polo-ralph-lauren-subculture/?trackback=blogroll_widget-style">Raekwon, Just Blaze Featured in New Book Documenting Polo Ralph Lauren Subculture</a>
+        <em>3 days ago</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://theboombox.com/nike-lebron-13-low-olympic/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="atmos" datasrc="http://theboombox.com/files/2016/06/lebron-13-low-white-red-blue-gold-02_aozkzp.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://theboombox.com/nike-lebron-13-low-olympic/?trackback=blogroll_widget-style">Nike Lebron 13 Low Olympic</a>
         <em>4 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/new-balance-997-purple-heather-and-cathay-spice/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Premier" datasrc="http://theboombox.com/files/2015/11/New-Balance-997-1-681x454.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/missy-elliott-is-flawless-as-marc-jacobs-muse-for-fall-16-campaign/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Instagram" datasrc="http://theboombox.com/files/2016/06/missy-elliott-marc-jacobs.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/new-balance-997-purple-heather-and-cathay-spice/">New Balance 997 Purple Heather and Cathay Spice</a>
+        <a href="http://theboombox.com/missy-elliott-is-flawless-as-marc-jacobs-muse-for-fall-16-campaign/?trackback=blogroll_widget-style">Missy Elliott is Flawless as Marc Jacobs’ Muse for Fall ’16 Campaign</a>
         <em>5 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/saucony-shadow-6000-irish-coffee/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Saucony" datasrc="http://theboombox.com/files/2015/11/saucony-brews-shadow-6000-irish-coffee-pack-0.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/new-balance-999-re-engineered/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="New Balance" datasrc="http://theboombox.com/files/2016/06/new-balance-999-reengineered-03-960x640.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/saucony-shadow-6000-irish-coffee/">Saucony Shadow 6000 Irish Coffee</a>
+        <a href="http://theboombox.com/new-balance-999-re-engineered/?trackback=blogroll_widget-style">New Balance 999 Re-Engineered</a>
         <em>5 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/atmos-converse-all-star-m65/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="atmos" datasrc="http://theboombox.com/files/2015/11/converse-all-star-m65-atmos-tokyo-1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/nike-lebron-soldier-10-finals/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Nike" datasrc="http://theboombox.com/files/2016/06/lebron-soldier-10-finals-id-1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/atmos-converse-all-star-m65/">atmos x Converse All Star M65</a>
-        <em>6 days ago</em>
+        <a href="http://theboombox.com/nike-lebron-soldier-10-finals/?trackback=blogroll_widget-style">Nike Lebron Soldier 10 Finals</a>
+        <em>5 days ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/adidas-originals-pro-model-gtx-collection/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Adidas" datasrc="http://theboombox.com/files/2015/11/adidas-originals-pro-model-gtx-collection-222.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/nike-sb-dunk-high-picnic/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Premier" datasrc="http://theboombox.com/files/2016/06/nike-dunk-high-premium-sb-picnic-1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/adidas-originals-pro-model-gtx-collection/">Adidas Originals Pro Model GTX Collection</a>
-        <em>6 days ago</em>
-    </div>
-</article>
-<article class="small_thumb_title_date  clearfix">
-        <figure>
-        <a href="http://theboombox.com/new-balance-3d-printed-sneaker/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="New Balance" datasrc="http://theboombox.com/files/2015/11/new-balance-3D-printed-running-shoe.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-    </figure>
-        <div class="excerpt clearfix">
-        <a href="http://theboombox.com/new-balance-3d-printed-sneaker/">New Balance 3D Printed Sneaker</a>
+        <a href="http://theboombox.com/nike-sb-dunk-high-picnic/?trackback=blogroll_widget-style">Nike SB Dunk High Picnic</a>
         <em>1 week ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://theboombox.com/jeremy-scott-adidas-liquid-silver/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Oneness" datasrc="http://theboombox.com/files/2015/11/jeremy-scott-adidas-js-wings-liquid-silver-04.jpeg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/adidas-stan-smith-leather-sock-pack/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="adidas" datasrc="http://theboombox.com/files/2016/06/MTM5NDMwOTk5MDMyNDcyNzQw.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/jeremy-scott-adidas-liquid-silver/">Jeremy Scott x Adidas Liquid Silver</a>
+        <a href="http://theboombox.com/adidas-stan-smith-leather-sock-pack/?trackback=blogroll_widget-style">adidas Stan Smith Leather Sock Pack</a>
         <em>1 week ago</em>
     </div>
 </article>
 <article class="small_thumb_title_date last clearfix">
         <figure>
-        <a href="http://theboombox.com/nike-air-flight-89-obsidian/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Nike" datasrc="http://theboombox.com/files/2015/11/nike-air-flight-89-white-obsidian-1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://theboombox.com/kendrick-lamar-x-reebok-classic-leather/?trackback=blogroll_widget-style"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Reebok" datasrc="http://theboombox.com/files/2016/06/MTM5NDM2MjMxMTA3ODgwMTAw.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://theboombox.com/nike-air-flight-89-obsidian/">Sneaker of the Week: Nike Air Flight 89 Obsidian</a>
-        <em>2 weeks ago</em>
+        <a href="http://theboombox.com/kendrick-lamar-x-reebok-classic-leather/?trackback=blogroll_widget-style">Kendrick Lamar x Reebok Classic Leather</a>
+        <em>1 week ago</em>
     </div>
 </article>
 <p class="more_act"><a href="http://theboombox.com/category/style/" title="Read More Style Articles">Read More Style Articles</a></p>
@@ -646,22 +740,10 @@ _gaq.push(['_trackPageview']);
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div data-id="24" id="xlink_footer" class="clearfix footer-id-24 data--wp_cache map--wp_cache"><div class="top_row row clearfix"><div class="sect clearfix"><a data="foo" class="logo" href="http://screencrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/442-light.png?id=625" alt="Logo for the website http://screencrush.com"></a><a data-id="279097" class="article" href="http://screencrush.com/rocky-trivia-facts/" title="Don’t Be a Bum, Check Out These 10 ‘Rocky’ Facts" target="_blank" rel="nofollow"><span>Don’t Be a Bum, Check Out These 10 ‘Rocky’ Facts<em>•</em></span></a><a data-id="278746" class="article" href="http://screencrush.com/batman-the-dark-knight-returns-trivia-facts/" title="7 Things You Might Not Know About ‘The Dark Knight Returns’" target="_blank" rel="nofollow"><span>7 Things You Might Not Know About ‘The Dark Knight Returns’<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://popcrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/252-light.png?id=625" alt="Logo for the website http://popcrush.com"></a><a data-id="453736" class="article" href="http://popcrush.com/hot-child-stars-all-grown-up-gallery/" title="20 Childhood Stars Who Grew Up To Be Totally Gorgeous" target="_blank" rel="nofollow"><span>20 Childhood Stars Who Grew Up To Be Totally Gorgeous<em>•</em></span></a><a data-id="453514" class="article" href="http://popcrush.com/celebrities-cooking/" title="Celebrities Who Whip Up Magic in the Kitchen" target="_blank" rel="nofollow"><span>Celebrities Who Whip Up Magic in the Kitchen<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://comicsalliance.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/622-light.png?id=625" alt="Logo for the website http://comicsalliance.com"></a><a data-id="166748" class="article" href="http://comicsalliance.com/best-hunger-games-fan-art/" title="The Fire Will Burn Forever: The Best Hunger Games Fan Art Ever" target="_blank" rel="nofollow"><span>The Fire Will Burn Forever: The Best Hunger Games Fan Art Ever<em>•</em></span></a><a data-id="165788" class="article" href="http://comicsalliance.com/dc-movie-easter-eggs/" title="The 25 Coolest DC Movie Easter Eggs" target="_blank" rel="nofollow"><span>The 25 Coolest DC Movie Easter Eggs<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://diffuser.fm" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/443-light.png?id=625" alt="Logo for the website http://diffuser.fm"></a><a data-id="226215" class="article" href="http://diffuser.fm/21-collaborations-that-didnt-last-long/" title="21 Musical Collaborations That Didn’t Last Long" target="_blank" rel="nofollow"><span>21 Musical Collaborations That Didn’t Last Long<em>•</em></span></a><a data-id="223183" class="article" href="http://diffuser.fm/50-alternative-albums-to-own-on-vinyl/" title="50 Alternative Albums You Need to Own on Vinyl" target="_blank" rel="nofollow"><span>50 Alternative Albums You Need to Own on Vinyl<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://arcadesushi.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/550-light.png?id=625" alt="Logo for the website http://arcadesushi.com"></a><a data-id="141599" class="article" href="http://arcadesushi.com/best-video-game-families/" title="10 Best Video Game Families" target="_blank" rel="nofollow"><span>10 Best Video Game Families<em>•</em></span></a><a data-id="141572" class="article" href="http://arcadesushi.com/best-nes-platformers/" title="10 Best NES Platformers" target="_blank" rel="nofollow"><span>10 Best NES Platformers<em>•</em></span></a></div>
-</div><hr><div class="row clearfix"><div class="sect clearfix"><a class="article img" href="http://screencrush.com/guardians-of-the-galaxy-easter-egg-undiscovered/?footer" title="A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet" target="_blank" rel="nofollow"><img width="180" height="120" src="http://screencrush.com/files/2015/10/guardians-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet"><span>A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://popcrush.com/mad-men-guest-stars/?footer" title="13 Famous Stars You Might Not Have Recognized On 'Mad Men’" target="_blank" rel="nofollow"><img width="180" height="120" src="http://popcrush.com/files/2015/10/mad-men-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="13 Famous Stars You Might Not Have Recognized On 'Mad Men’"><span>13 Famous Stars You Might Not Have Recognized On 'Mad Men’</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://comicsalliance.com/deadpool-deadshot-deathstroke-deathlok-which-ones-which/?footer" title="Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?" target="_blank" rel="nofollow"><img width="180" height="120" src="http://comicsalliance.com/files/2015/08/deadpool-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?"><span>Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://diffuser.fm/50-rock-facts-you-may-not-know/?footer" title="The Coolest Little-Known Facts In Rock Music" target="_blank" rel="nofollow"><img width="180" height="120" src="http://diffuser.fm/files/2015/10/ryan-adams-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="The Coolest Little-Known Facts In Rock Music"><span>The Coolest Little-Known Facts In Rock Music</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://arcadesushi.com/batman-arkham-knight-ps4-giveaway/?footer" title="Win a Batman: Arkham Knight Limited Edition PlayStation 4" target="_blank" rel="nofollow"><img width="180" height="120" src="http://arcadesushi.com/files/2015/04/batman-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Win a Batman: Arkham Knight Limited Edition PlayStation 4"><span>Win a Batman: Arkham Knight Limited Edition PlayStation 4</span></a></div>
-</div>
-</div>
-<div data="bar" id="footer_links" class="horizontal_navigation clearfix">
-	<ul id="menu-footer" class=""><li class="first menu-item"><a target="_parent">THE XXL NETWORK</a></li><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-74"><a target="_parent" title="Privacy Policy" href="/privacy">Privacy</a></li>
+    <span class="dividerrr"></span><div data-ct="The XXL Network" data-theme-location="footer" data="bar" id="footer_links" class="horizontal_navigation clearfix">
+	<ul id="menu-footer" class=""><li class="first comscore menu-item"><a target="_parent">The XXL Network</a></li><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-74"><a target="_parent" title="Privacy Policy" href="/privacy">Privacy</a></li>
 <li id="menu-item-40726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40726"><a target="_parent" title="Advertise on The Boombox " href="http://www.townsquaremedia.com/national-media/advertise">Advertise</a></li>
-</ul></div><div data="bar" id="network_links" class="horizontal_navigation clearfix">
+</ul></div><div data-ct="" data-theme-location="network" data="bar" id="network_links" class="horizontal_navigation clearfix">
 	</div></footer><!-- // footer -->
 
 <script type="text/javascript" src="http://theboombox.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
@@ -669,7 +751,7 @@ _gaq.push(['_trackPageview']);
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&amp;g=001&amp;c=285367&amp;ctg=urban"></script>
 <div style="display:none;">
-	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="0095260f73"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="3cf14848e2"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
 	<div id="fb-auth-account-activation" class="fb-auth-form">
 		<h3 class="generic-link-color">Welcome back to The Boombox</h3>
 		<p>
@@ -765,50 +847,51 @@ _gaq.push(['_trackPageview']);
 			<label>Your Name<span class="error-messages error-name" style="display:none;">*Please enter your name.</span></label>
 			<input type="text" class="input iname" value="">
 
-			<label>Your Email<span>(Optional)</span></label>
+			<label>Your Email<span class="error-messages error-email" style="display:none;">*Please enter your email.</span></label>
 			<input type="text" class="input iemail" value="">
 
 			<div class="default-button login">
 				<a class="request-submit" href="#">Submit</a>
 			</div>
 
-			<input type="hidden" id="request_song" name="request_song" value="f481cdbe8e"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+			<input type="hidden" id="request_song" name="request_song" value="359238e528"><input type="hidden" name="_wp_http_referer" value="/privacy/">
 		</form>
 
 		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
 
 	</div>
 </div>
-<!-- Page rendered at 9:08:56 am 11/28/15 --><link rel="stylesheet" id="local_experts-css" href="http://theboombox.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
+<!-- Page rendered at 3:10:56 am 06/27/16 --><link rel="stylesheet" id="local_experts-css" href="http://theboombox.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
 <script type="text/javascript" src="http://theboombox.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://content.jwplatform.com/libraries/RAvk1rfG.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/widgets/request-song/js/request_song.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://theboombox.com/wp-content/widgets/youtube-widget/js/youtube_widget.js?ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=1a28748934d3853d076ad469b29f8298a8d45f09"></script>
-<!-- ip: 68.232.39.174 -->
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://content.jwplatform.com/libraries/RAvk1rfG.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/widgets/request-song/js/request_song.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://theboombox.com/wp-content/widgets/youtube-widget/js/youtube_widget.js?ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=de2de75269ae879abcd6ca53f462572de4d92fe0"></script>
+<!-- ip: 108.161.244.166 -->
 </div><!-- // #takeover_wrap.body_child  -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseNhNcHV9dU1caG0kNQQ==","queueTime":0,"applicationTime":3531,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 33/124 queries in 0.085 seconds using memcached
+Database Caching 35/68 queries in 0.034 seconds using memcached
 Database cluster enabled 
-Object Caching 2826/3213 objects using memcached
+Object Caching 2852/3102 objects using memcached
 
- Served from: theboombox.com @ 2015-11-28 09:08:56 by W3 Total Cache --></body></html>
+ Served from: theboombox.com @ 2016-06-27 03:10:56 by W3 Total Cache --></body></html>
