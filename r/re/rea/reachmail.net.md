@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908173905id_/http%3A//www.reachmail.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132902id_/http%3A//www.reachmail.net/privacy-policy) for the most accurate reproduction.*
 
-# Free Email Marketing Software, Services & Tools | ReachMail
+# Privacy Policy | Reachmail
 
 ReachMail is committed to the highest standards of Privacy and maintains a strict Anti-Spam policy. 
 
@@ -52,7 +52,7 @@ Email is sent only to lists that have been warranted to us to be composed of opt
 
 ## Subscriber Privacy
 
-Data Collection: ReachMail allows customers to collect subscriber data only if that data is collected using legitimate opt-in methods—that is, the recipient actively entered their email into the customer's sign-up form, or the email came from an existing customer database.
+Data Collection: ReachMail allows customers to collect subscriber data only if that data is collected using legitimate opt-in methods-that is, the recipient actively entered their email into the customer's sign-up form, or the email came from an existing customer database.
 
 Use of purchased lists is prohibited.
 
