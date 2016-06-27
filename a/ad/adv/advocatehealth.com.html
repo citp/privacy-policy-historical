@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226094545id_/http%3A//www.advocatehealth.com/NoticeofPrivacyPractices) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627083519id_/http%3A//www.advocatehealth.com/NoticeofPrivacyPractices) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,19 +24,30 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 (c) since 1999 Influence Health, Inc. All rights reserved.
  -->
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="dynamicfiles/publicGeneral.js" type="text/javascript"></script>
+<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WP7NL4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="dynamicfiles/publicGeneral.js" type="text/javascript"></script>
 <script type="text/javascript">if(typeof ccPublic != 'undefined') ccPublic.bolEnableSubmitDisable = true;</script>
 					
 <script src="dynamicfiles/smt_SiteSearchValidation_body592CECD6819433634784F2DC42349B96.JS" type="text/javascript"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	
-<script src="http://chi-adv-web-01.influencehealth.com/libraries/bootstrap/3.3.5/dist/js/bootstrap.min.js" type="text/javascript"></script>
-<link href="http://chi-adv-web-01.influencehealth.com/libraries/bootstrap/3.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
-<link href="http://chi-adv-web-01.influencehealth.com/libraries/bootstrap/bootstrap.influencehealth.css" rel="stylesheet">
- <link rel="stylesheet" href="../../libraries/font-awesome/4.3.0/css/font-awesome.min.css"> 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-			<link type="text/css" rel="Stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
-		
+	<link rel="stylesheet" href="../../libraries/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//chi-adv-web-01.influencehealth.com/libraries/bootstrap/bootstrap.influencehealth.css" rel="stylesheet">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		// Copyright 2014-2015 Twitter, Inc.
+		// Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement('style')
+			msViewportStyle.appendChild(
+				document.createTextNode(
+					'@-ms-viewport{width:auto!important}'
+				)
+			)
+			document.querySelector('head').appendChild(msViewportStyle)
+		}
+	</script>
+	<link type="text/css" rel="Stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
 				<link type="text/css" rel="stylesheet" href="bootstrap-theme.min.css">
 				
 				<script src="js/jquery.sticky.js" type="text/javascript"></script>
@@ -55,15 +66,25 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 
 </script>
 				<script type="text/javascript">
-				$(function() {
-				    $( ".Accordion" ).accordion(
-						{
+				$(function(){
+					$(".Accordion").accordion({
 						active: false,
-					    collapsible: true   	
+						collapsible: true
+					});
+					// IH TODO104297
+					// Accordion Method Updates
+					$('.Accordion .Trigger').unbind();
+					$('.Accordion .Payload').hide();
+					$('.Accordion .Trigger').bind('click',function(e){
+						if($(this).hasClass('ui-state-active')){
+							$(this).removeClass('ui-state-active').removeClass('ui-accordion-header-active').removeClass('ui-corner-top').addClass('ui-corner-all').find('span').removeClass('ui-icon-triangle-1-s').addClass('ui-icon-triangle-1-e');
+							$('#' + $(this).attr('aria-controls')).removeClass('ui-accordion-content-active').hide();
+						}else{
+							$(this).addClass('ui-state-active').addClass('ui-accordion-header-active').addClass('ui-corner-top').removeClass('ui-corner-all').find('span').addClass('ui-icon-triangle-1-s').removeClass('ui-icon-triangle-1-e');
+							$('#' + $(this).attr('aria-controls')).addClass('ui-accordion-content-active').show();
 						}
-					);
-				  });
-
+					});
+				});
 
 				function ezinesubmit(){
 			         var emailvalue=document.forms["savicom_signup_form"].savicom_EMAIL_box.value;
@@ -78,7 +99,15 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 			</head>
 
 	<body class="default">
-<!--googleoff: index--><!--googleon: index-->
+<!--googleoff: index--><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WP7NL4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WP7NL4');</script>
+<!-- End Google Tag Manager --><!--googleon: index-->
 	<div id="header">
 
 			<div id="container-utility" class="hidden-xs hidden-print">
@@ -94,7 +123,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 								<!--googleoff: index-->
 <ul class="nav nav-pills">
 		<li class=""><a href="https://jobs.advocatehealth.com/" target="_blank">Jobs</a></li>
-		<li class=""><a href="amg-myadvocate-patient-portal" target="_blank">MyAdvocate</a></li>
+		<li class=""><a href="/myadvocate" target="_blank">MyAdvocate</a></li>
 		<li class=""><a href="https://healthadvisor.advocatehealth.com/classes" target="_blank">Classes</a></li>
 		<li class=""><a href="https://advocate.patientcompass.com/portal/" target="_blank">Bill Pay</a></li>
 	</ul><!--googleon: index-->
@@ -122,7 +151,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 									</a>
 								</li>
 								<li>
-									<a href="tel:180032382283">
+									<a href="tel:18003238622">
 										<i class="fa fa-phone"></i>
 									</a>
 								</li>
@@ -136,7 +165,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 									<!--googleoff: index-->
 <nav class="navbar navbar-default" role="navigation">
 	<div class="navbar-header">
-		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1-f12baf34bc">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1-845cac9e7e">
 			<span class="sr-only">Toggle navigation</span>
 			<span class="icon-bar-label">Menu</span>
 			<span class="icon-bar"></span>
@@ -144,7 +173,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 			<span class="icon-bar"></span>
 		</button>
 	</div>
-<div class="collapse navbar-collapse" id="bs-navbar-collapse-1-f12baf34bc">
+<div class="collapse navbar-collapse" id="bs-navbar-collapse-1-845cac9e7e">
 	<ul class="nav navbar-nav">
 		<li class="navbar_1_4093"><a href="findadoctor">Find a Doctor</a></li>
 		<li class="dropdown  navbar_1_19" role="menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Health Services<b class="caret"></b></a>
@@ -185,7 +214,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 		<ul class="dropdown-menu navbar_1_3938_children_9" role="menu">
 			<li class="navbar_1_3976"><a href="hospital-locations">Hospital Locations</a></li>
 			<li class="navbar_1_3977"><a href="outpatient-locations">Outpatient Locations</a></li>
-			<li class="navbar_1_3978"><a href="http://amgdoctors.com/map/" target="_blank">Advocate Medical Group</a></li>
+			<li class="navbar_1_3978"><a href="http://www.advocatehealth.com/amg-location" target="_blank">Advocate Medical Group</a></li>
 			<li class="navbar_1_3979"><a href="locations">Map and Directions</a></li>
 		</ul>
 		</li>
@@ -194,6 +223,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 			<li class="navbar_1_3813"><a href="overview-of-advocate">About Advocate</a></li>
 			<li class="navbar_1_4483"><a href="newsroom">Advocate Newsroom</a></li>
 			<li class="navbar_1_70253"><a href="http://www.advocategiving.org/" target="_blank">Giving at Advocate</a></li>
+			<li class="navbar_1_70607"><a href="volunteer-opportunities">Volunteer Opportunities</a></li>
 			<li class="navbar_1_1921"><a href="patientinformationbysitesofcare">Hospital Information</a></li>
 			<li class="navbar_1_1892"><a href="plansaccepted">Insurance Accepted</a></li>
 			<li class="navbar_1_455"><a href="financialassistance">Financial Assistance</a></li>
@@ -203,7 +233,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 <!--googleoff: index-->
 <ul class="nav navbar-nav visible-xs"><li role="separator" class="divider hr"><hr></li>
 		<li class=""><a href="https://jobs.advocatehealth.com/" target="_blank">Jobs</a></li>
-		<li class=""><a href="amg-myadvocate-patient-portal" target="_blank">MyAdvocate</a></li>
+		<li class=""><a href="/myadvocate" target="_blank">MyAdvocate</a></li>
 		<li class=""><a href="https://healthadvisor.advocatehealth.com/classes" target="_blank">Classes</a></li>
 		<li class=""><a href="https://advocate.patientcompass.com/portal/" target="_blank">Bill Pay</a></li>
 	</ul><!--googleon: index-->
@@ -253,7 +283,6 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 		</div>
 		
 			</div>
-
 			<div id="toggleSearchNavigationContainer" class="">
 				<div class="container">
 					<div class="row">
@@ -301,7 +330,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 					</li>
 				
 					<li>
-						<a href="http://www.advocatehealth.com/body_full.cfm?id=19">
+						<a href="http://www.advocatehealth.com/body.cfm?id=19">
 							<i class="fa fa-heartbeat"></i>
 							Health Services
 						</a>
@@ -333,7 +362,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 					</li>
 				
 					<li>
-						<a href="amg-myadvocate-patient-portal">
+						<a href="/myadvocate">
 							<i class="fa fa-lock"></i>
 							MyAdvocate
 						</a>
@@ -366,14 +395,6 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 				<div class="row">
 					<div class="col-sm-9">
 						
-	<ol class="breadcrumb">
-		
-					<li class="active">
-						Privacy Policy
-					</li>
-				
-	</ol>
-
 					</div>
 					<div class="col-sm-3">
 						<div class="addthis_sharing_toolbox pull-right"></div>
@@ -381,13 +402,19 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 				</div>
 				<div class="row">
 					
+					<div class="col-md-12">
+						
+						
+									<div class="page-header">
+										<h1 class="title">Privacy Policy</h1>
+									</div>
+								
+
+					</div>
+
 					<div class="col-md-12 column-content">
 						<div id="content-lvm-before"></div>
-							
-			<div class="page-header">
-				<h1 class="title">Privacy Policy</h1>
-			</div>
-		<p>To view <strong><em>Advocate's Notice of Privacy Practices </em></strong><a target="_blank" href="documents/system/NoticeOfPrivacyPractices2013Final.pdf">click here</a>.<br>To view the <em><strong>Patient Acknowledgment Form</strong></em>, <a target="_blank" href="documents/system/Notice_of_Privacy_Practices_Acknowledgement_FormFinal.pdf">click here</a>.</p>
+							<p>To view <strong><em>Advocate's Notice of Privacy Practices </em></strong><a target="_blank" href="documents/system/NoticeOfPrivacyPractices2013Final.pdf">click here</a>.<br>To view the <em><strong>Patient Acknowledgment Form</strong></em>, <a target="_blank" href="documents/system/Notice_of_Privacy_Practices_Acknowledgement_FormFinal.pdf">click here</a>.</p>
 <p>Advocate Health Care supports and recognizes our patients' right to expect that their medical records and other information about their care will be kept confidential.&nbsp; Our Notice of Privacy Practices, effective September 23, 2013, includes:</p>
 <ul>
 <li>When we are required to obtain your authorization for disclosures, including for the use of psychotherapy notes</li>
@@ -478,6 +505,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 <li><a href="http://www.advocategiving.org" target="_blank">Giving</a></li>
 <li><a href="research">Research at Advocate</a></li>
 <li><a href="advocate-supply-chain">For Vendors</a></li>
+<li><a href="volunteer-opportunities">Volunteer Opportunities</a></li>
 </ul>
 <hr class="visible-xs"></div>
 <div class="col-md-3 col-sm-4">
@@ -487,9 +515,10 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 <li><a href="https://jobs.advocatehealth.com/">Find a Job</a></li>
 <li><a href="https://healthadvisor.advocatehealth.com/classes">Register for a class</a></li>
 <li><a href="https://advocate.patientcompass.com/portal/">Pay My Bill</a></li>
-<li><a href="amg-myadvocate-patient-portal">MyAdvocate</a></li>
+<li><a href="myadvocate">MyAdvocate</a></li>
+<li><a href="flowershop">Send Flowers</a></li>
+<li><a href="ob-preregistration">OB Preregistration</a></li>
 <li><a href="ach">Advocate Children's Hospital</a></li>
-<li><a href="amg">Advocate Medical Group</a></li>
 </ul>
 <hr class="visible-xs"></div>
 <div class="col-md-3 col-sm-4">
@@ -502,6 +531,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 <li><a href="body.cfm?id=713">Education Information</a></li>
 <li><a href="residency">Residents</a></li>
 <li><a href="http://www.advocatedocs.com" target="_blank">AdvocateDocs.com</a></li>
+<li><a href="amg">Advocate Medical Group</a></li>
 </ul>
 <hr class="visible-xs"></div>
 <div class="col-md-3 col-sm-12"><hr class="visible-sm visible-xs">
@@ -509,15 +539,15 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 <div class="col-md-12 col-sm-6">
 <h5>Latest Health News</h5>
 
-				<div class="row"><div class="col-xs-4"><img class="img-responsive" src="http://dp88pot7smo43.cloudfront.net/wp-content/uploads/2015/12/traditions-150x100.jpg"></div>
-					<div class="col-xs-8"><span>12/23/2015</span>
-						<p>Why we celebrate holiday traditions<br><a href="http://www.ahchealthenews.com/2015/12/23/why-we-celebrate-holiday-traditions/" target="_blank"><strong>Read More</strong></a></p>
+				<div class="row"><div class="col-xs-4"><img class="img-responsive" src="http://dp88pot7smo43.cloudfront.net/wp-content/uploads/2016/06/The-deadly-consequences-of-getting-water-up-your-nose-150x100.jpg"></div>
+					<div class="col-xs-8"><span>06/27/2016</span>
+						<p>The deadly consequences of getting water up your nose<br><a href="http://www.ahchealthenews.com/2016/06/27/deadly-consequences-getting-water-nose/" target="_blank"><strong>Read More</strong></a></p>
 					</div>
 				</div>
 				
-				<div class="row"><div class="col-xs-4"><img class="img-responsive" src="http://dp88pot7smo43.cloudfront.net/wp-content/uploads/2015/12/holiday-stress-150x100.jpg"></div>
-					<div class="col-xs-8"><span>12/23/2015</span>
-						<p>Infographic: 5 tips to reduce holiday stress<br><a href="http://www.ahchealthenews.com/2015/12/23/5-tips-to-reduce-holiday-stress-2/" target="_blank"><strong>Read More</strong></a></p>
+				<div class="row"><div class="col-xs-4"><img class="img-responsive" src="http://dp88pot7smo43.cloudfront.net/wp-content/uploads/2016/06/Do-we-really-need-eight-hours-of-sleep-150x100.jpg"></div>
+					<div class="col-xs-8"><span>06/27/2016</span>
+						<p>When it comes to sleep, are we doing it all wrong?<br><a href="http://www.ahchealthenews.com/2016/06/27/comes-sleep-wrong/" target="_blank"><strong>Read More</strong></a></p>
 					</div>
 				</div>
 				</div>
@@ -561,6 +591,7 @@ This is an RC build: COD9.1.  It has been built on COD9.0.
 		<li class=""><a href="TermsofUse">Terms of Use</a></li>
 		<li class="active"><a href="NoticeofPrivacyPractices">Privacy Policy</a></li>
 		<li class=""><a href="TableofContents">Site Map</a></li>
+		<li class=""><a href="http://doctors.advocatehealth.com" target="_blank">List of Physicians</a></li>
 		<li class=""><a href="http://www.advocatehealth.com/body.cfm?id=199">Contact Us</a></li>
 	</ul><!--googleon: index--> 
 							</div>
@@ -591,7 +622,65 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
 </script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!--googleon: index-->
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4019829"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4019829&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1059887687;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1059887687/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961330655;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961330655/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1008994867;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008994867/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1013907743;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1013907743/?value=0&guid=ON&script=0"/>
+</div>
+</noscript><!--googleon: index-->
 			<script type="text/javascript">
 				//
 				var resizeEndTimeout;
@@ -607,14 +696,14 @@ function googleTranslateElementInit() {
 				$('#container-header .navigation li:nth-child(n+1)').find('.dropdown-menu').addClass('dropdown-menu-right');
 				$('#toggleSearchNavigationContainer').css('top',$('#container-header').outerHeight(true));
 				//
-				$('#toggleSearchNavigation').bind('click',function(){
+				$('#toggleSearchNavigation').bind('click',function(e){
 					if($('#toggleSearchNavigationContainer').hasClass('show')){
 						$('#toggleSearchNavigationContainer').removeClass('show');
 					}else{
 						$('#toggleSearchNavigationContainer').addClass('show');
 					}
 				});
-				$(document).on('click', function(){
+				$(document).on('click', function(e){
 					var toggle = $('#toggleSearchNavigation')
 					if (!toggle.is(e.target) && toggle.has(e.target).length === 0){
 						var container = $('#toggleSearchNavigationContainer');
