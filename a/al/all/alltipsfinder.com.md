@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203003309id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627213802id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | all tips finder
 
@@ -49,6 +49,19 @@ We are in compliance with the requirements of Children’s Online privacy protec
 ###  **Your consent**
 
 By using our site, you consent to our? Privacy policy
+
+##  **Comment Policy**
+
+Comments are welcome and encouraged in this Blog, but there are some instances where comments will be edited Or Deleted as Follow
+
+  * Comment that attack a person individually will be deleted.
+  * Comment Deepens to be Spam or questionable spam will be deleted, including a link to relevant content is permitted, but comment should be relevant to the Article topic.
+  * Comment including profanity will be deleted.
+  * Comment containing language or concepts that could be deemed offensive will be deleted.
+
+
+
+The owner of this blog reserves the right to Edit or Delete any comment submitted to this blog without any notice. This comment policy is subject to change at any-time.
 
 ###  **Contact with us**
 
