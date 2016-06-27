@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204040515id_/http%3A//www.1stonlinesolutions.com/%23%21/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133259id_/http%3A//www.1stonlinesolutions.com/%23%21/privacy-policy) for the most accurate reproduction.*
 
 # First Online Solutions - Web design, UX and SEO
 
@@ -138,6 +138,8 @@ If you are dissatisfied with the level of support you are receiving from us afte
     4. No delay, neglect or forbearance of the part of either party in enforcing against the other party any term of condition of this Agreement shall either be deemed to be a waiver or in any way prejudice any right of that party under this Agreement. No waiver of any right, power or remedy arising under this Agreement is effective unless in writing signed by a duly authorised officer or representative of each of the parties.
     5. A person who is not party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
     6. This Agreement shall be governed by, and construed in accordance with, English law. Any dispute arising out of or in connection with, or concerning the carrying into effect of, this Settlement Agreement shall be subject to the exclusive jurisdiction of the English Courts, and the parties hereby submit to the exclusive jurisdiction of that court for these purposes
+  10. Other
+    1. [1STONLINE Registrar Tag Terms and Conditions](http://www.1stonlinesolutions.com/downloads/nominet-terms-and-conditions.pdf "Nominet Terms and Conditions")
 
 
 
