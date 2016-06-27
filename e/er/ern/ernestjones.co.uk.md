@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025042320id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/customer_privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627172915id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/customer_privacy_policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Services - Ernest Jones
 
