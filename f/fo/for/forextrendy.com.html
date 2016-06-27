@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the forextrendy.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206223507id_/http%3A//www.forextrendy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forextrendy.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627214652id_/http%3A//www.forextrendy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Forex Trend Scanner">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="Forex Trend Scanner">
 <meta name="keywords" content="forex trend, forex time frame, which time frame, forex pair, forex pairs, which forex pair, forex trending, forex trending pair, best forex pair, best forex pairs, forex trend follow, forex trend following, chart pattern, chart patterns, forex chart pattern, forex chart patterns, forex chart, forex charts, forex recognition, forex recognizer, chart pattern recognizer, pattern recognizer, pattern recognition, forex signals, forex, trading, trading signals, buy signals, market signals, forex, signals, making money online, home business, forex resources, forex directory, forex market, forex traders, online currency trading, advanced signal system, Forex entry signal, forex entry signals, foreign currency trading, Forex, forex rates, advanced forex signal systems, forex trading system, forex entry signal, forex chart, forex signals chart, forex trading, forex funds, foreign currency trading, forex analysis, active forex trade, advanced trading signal system, advanced signal system, advanced forex signal systems, forex trading system, forex trading information, specific entry and exit strategies, advanced signal system, online currency trading, pips,day trading signals, good trading system, forex brokerage firms, active trade,currency pairs, simulated trading, simulated forex trading, forex directory, forex resources, forex brokerage firms, Fibonacci's, forex exit limit price, forex traders, forex system, trading signals, forex market, entry signal">
 <title>Forex Trendy - Best Trend Scanner</title>
 <base href="http://www.forextrendy.com/">
 <link type="text/css" rel="stylesheet" href="jquery-ui.css">
 <link type="text/css" rel="stylesheet" href="gstyle.css">
-<link type="text/css" rel="stylesheet" href="style.css">
+<link type="text/css" rel="stylesheet" href="style.min.css">
 <!--[if lt IE 7]>
 <style media="screen" type="text/css">
 #splash_main {
@@ -18,7 +18,7 @@
 </style>
 <![endif]-->
 <link rel="stylesheet" href="prestyle.css" type="text/css">
-<link rel="icon" type="image/ico" href="/imgs/favicon.ico">
+<link type="text/css" rel="stylesheet" href="mobile.css"><link rel="icon" type="image/ico" href="/imgs/favicon.ico">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="jwplayer.js"></script>
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="jquery-ui.min.js"></script>
@@ -51,9 +51,10 @@
 
 <div id="splash_main">
 	<div id="thebody">
-		<div style="height:173px;">&nbsp;</div>
+		<!--div style="height:173px;">&nbsp;</div-->
+		<img style="display:block;" src="imgs/headerspace.png">
 <h2 style="margin:20px 0 20px 0;">Privacy Policy</h2>
-<div style="font-size:15px; margin:0 50px 0 50px;">
+<div class="page_margins" style="font-size:15px;">
 <p>We maintain this page to demonstrate our firm commitment to the rights and privacy of our users. This page explains how our site collects information from our members.
 </p>
 <p>Free newsletter and mailing list: we respect the privacy of our users, and as such we will never share our database of email addresses and names with any third party.
@@ -62,10 +63,13 @@
 </p>
 <p>Personal Information we collect and how it is used: When you purchase the access to Forex Trendy, the payment is processed by Clickbank.com (Keynetics Inc), who will collect your name, address, and credit card information (if any) so as to verify your order. They may not use the information for any other purpose. Upon ordering, we also collect your name and email address. We use this information to follow-up on you as per the above newsletter section. We will not share leads with any other party.
 </p>
+<p>Returns and refunds policy: as stated, if you purchase the access to Forex Trendy, and you do not enjoy the benefits that you expected, do not improve your trading as you expected, or indeed for any reason, you may claim a refund for the product. On a side note we do ask you to put the software into use before requesting a refund, for both our benefit: however, our refund policy is unconditional and this is a suggestion, not a requirement. We are aware that some buyers will not achieve their personal goals despite our best efforts to the contrary, and we stand by our refund policy as such. Please forward your receipt number (given to you when you ordered) to us and we will action your refund request as quickly as possible.
+</p>
 </div>
-<div style="display:block; width:800px; height:100px;">&nbsp;</div>
-<div class="footlinks"><a class="link" href="/">Home</a> | <a class="link" href="mailto:support@forextrendy.com">Contact Us</a> | <a class="link" href="/privacy">Privacy</a> | <a class="link" href="/riskdisclaimer">Risk Disclaimer</a></div>
-		<div style="height:125px;">&nbsp;</div>
+<div style="display:block; height:70px;">&nbsp;</div>
+<div class="footlinks"><a class="link" href="/">Home</a> | <a class="link" href="mailto:support@forextrendy.com">Contact Us</a> | <a class="link" href="/privacy">Privacy</a> | <a class="link" href="/riskdisclaimer">Risk Disclaimer</a><div><img src="imgs/footerspace.png"></div></div>
+		<!--div style="height:125px;">&nbsp;</div-->
+		<img style="display:block;" src="imgs/footerspace.png">
 	</div>
 	<div id="theheader">
 		<img src="imgs/header.jpg">
@@ -75,15 +79,21 @@
 	</div>
 </div>
 <script type="text/javascript">
-	$('#thebody').css('min-height', $('#splash_main').height());
+	var SetMinHeight = function() {  
+		$('#thebody').css('min-height', $('body').height());
+	}
+	SetMinHeight();
+	$(window).resize(function() {
+		SetMinHeight();
+	});
 </script>
 <div id="splash_exit" style="display:none;width:100%; height:100%; position:absolute; background:#FFFFFF; margin-top:0px; margin-left:0px;" align="center">
-	<iframe src="freedownload.php" width="100%" height="100%" align="middle" frameborder="0"></iframe>
+	<iframe src="freedownload.php" width="100%" height="100%" align="middle" frameborder="0" style="height:100%!important;"></iframe>
 </div>
 <script type="text/javascript">
-	$('a').click(function () {
-		nosplash = true;
-	});
+$('a').click(function () {
+	nosplash = true;
+});
 </script>
 
 
