@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043401id_/http%3A//www.backwoodshome.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627135701id_/http%3A//www.backwoodshome.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Backwoods Home Magazine Website Privacy Statement
+# Privacy Policy | Backwoods Home Magazine
 
 ###  Website Privacy Statement
 
-|    
----|---  
-  
 This document was last updated on July 16, 2013.
 
 1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS
 
-Backwoods Home Magazine, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.backwoodshome.com, whether directly or through alternate web addresses, links from other websites, advertising banners, or any other means, you acknowledge and fully understand Backwoods Home Magazine, Inc.'s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Backwoods Home Magazine, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.backwoodshome.com, whether directly or through alternate web addresses, links from other websites, advertising banners, or any other means, you acknowledge and fully understand Backwoods Home Magazine, Inc.’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 2\. MAILING LISTS
 
@@ -35,7 +32,7 @@ If you do not want your letter published, or if you do not want your name, city 
 
 Editorial comments may be sent via email to [editor@backwoodshome.com](mailto:editor@backwoodshome.com) .
 
-Comments about website issues should be addressed to [webmaster@backwoodshome.com](mailto:webmaster@backwoodshome.com) .
+Comments about website issues should be addressed to .
 
 4\. PARTICIPATING MERCHANT POLICIES
 
@@ -64,7 +61,7 @@ B. Personal Information From Users
 
 Visitors to our website purchase goods and services. When you register and/or check out, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing goods or a service, we will request financial information. Any financial information we collect is used only to bill you for the goods and/or services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider.
 
-For other types of registrations, such as for our Readers' Forum, we will ask for the relevant information.
+For other types of registrations, such as for our Readers’ Forum, we will ask for the relevant information.
 
 You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
@@ -79,7 +76,7 @@ We will not disclose personally identifiable information we collect from you to 
 
 > Tell-A-Friend
 > 
-> If you use our Tell-A-Friend form to let someone else know about one of our websites, we will collect your name, the other person's name, and both email addresses. Email addresses are not added to any mailing list. If you are selected as a winner, we will use your email address to notify you. If you respond before the date listed in the notice, we will use your name and mailing address to send you the prize you selected. Winner's names, mailing addresses, and email addresses are added to our customer database and mailing list.
+> If you use our Tell-A-Friend form to let someone else know about one of our websites, we will collect your name, the other person’s name, and both email addresses. Email addresses are not added to any mailing list. If you are selected as a winner, we will use your email address to notify you. If you respond before the date listed in the notice, we will use your name and mailing address to send you the prize you selected. Winner’s names, mailing addresses, and email addresses are added to our customer database and mailing list.
 > 
 > Forum & Chat Room
 > 
@@ -95,7 +92,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 Backwoods Home Magazine, Inc. reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value, such as merging into www.backwoodshome.com a site that relies on third-party cookies or serving third-party advertising.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. You also have the ability to delete cookies at any time. Refer to your web browser's documentation for details.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. You also have the ability to delete cookies at any time. Refer to your web browser’s documentation for details.
 
 > i. Third-party Advertising
 > 
@@ -105,19 +102,19 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 > 
 > Google, as a third party vendor, uses cookies to serve ads on our site(s).
 > 
-> Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our site(s) and other sites on the Internet. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help Google better serve ads of interest to visitors and AdSense publishers better serve and manage the ads on their site(s) and across the web.
+> Google’s use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our site(s) and other sites on the Internet. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help Google better serve ads of interest to visitors and AdSense publishers better serve and manage the ads on their site(s) and across the web.
 > 
 > Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) page.
 
 6\. USE OF TRACKING CODE, WEB BEACONS OR GIF FILES
 
-Backwoods Home Magazine's Web pages may contain tracking code or electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Backwoods Home Magazine, Inc. to count users who have visited those pages and to deliver co-branded services. Backwoods Home Magazine, Inc. may include tracking code or Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+Backwoods Home Magazine’s Web pages may contain tracking code or electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Backwoods Home Magazine, Inc. to count users who have visited those pages and to deliver co-branded services. Backwoods Home Magazine, Inc. may include tracking code or Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these tracking codes and/or Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These tracking codes and/or Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Backwoods Home Magazine, Inc. prohibits tracking codes and Web beacons from being used to collect or access your personal information.
 
-7\. CHANGES TO THIS STATEMENT 
+7\. CHANGES TO THIS STATEMENT
 
-Backwoods Home Magazine, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Backwoods Home Magazine, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 8\. CONTACTING US
 
@@ -135,14 +132,6 @@ Gold Beach, OR 97444
 Telephone — 1-541-247-8900  
 Fax — 1-541-247-8600
 
-Office Hours: Monday - Friday, 8 AM to 5 PM Pacific Time 
+Office Hours: Monday – Friday, 8 AM to 5 PM Pacific Time 
 
 Backwoods Home Magazine, Inc. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-| 
-
-|   
----|---  
-|   
-   
-      Please address comments regarding this page to editor[at]backwoodshome.com. Comments may appear in the "Letters" section of Backwoods Home Magazine. Although every email is read, busy schedules generally do not permit personal responses. 
