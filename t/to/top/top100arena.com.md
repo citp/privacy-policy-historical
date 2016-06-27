@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top100arena.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909233856id_/http%3A//www.top100arena.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100arena.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628013102id_/http%3A//www.top100arena.com/privacy.asp) for the most accurate reproduction.*
 
 # Top 100 Arena Gaming Sites Network - Privacy Policy
 
