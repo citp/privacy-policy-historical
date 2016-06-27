@@ -1,47 +1,68 @@
-> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923110739id_/http%3A//www.davidwolfe.com/Home/tabid/561/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004214id_/http%3A//www.davidwolfe.com/privacy-policy) for the most accurate reproduction.*
 
-# DavidWolfe.com > Home
+# 
 
-DavidWolfe.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DavidWolfe.com Web site and governs data collection and usage. By using the DavidWolfe.com website, you consent to the data practices described in this statement.
+This Privacy Policy governs the manner in which Chaga Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.davidwolfe.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Chaga Inc..
 
-Collection of your Personal Information
+### Personal identification information
 
-DavidWolfe.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. DavidWolfe.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-There is also information about your computer hardware and software that is automatically collected by DavidWolfe.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by DavidWolfe.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DavidWolfe.com Web site.
+### Non-personal identification information
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through DavidWolfe.com public message boards, this information may be collected and used by others. Note: DavidWolfe.com does not read any of your private online communications.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-DavidWolfe.com encourages you to review the privacy statements of Web sites you choose to link to from DavidWolfe.com so that you can understand how those Web sites collect, use and share your information. DavidWolfe.com is not responsible for the privacy statements or other content on Web sites outside of the DavidWolfe.com and DavidWolfe.com family of Web sites.
+### Web browser cookies
 
-Use of your Personal Information
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-DavidWolfe.com collects and uses your personal information to operate the DavidWolfe.com Web site and deliver the services you have requested. DavidWolfe.com also uses your personally identifiable information to inform you of other products or services available from DavidWolfe.com and its affiliates. DavidWolfe.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+### How we use collected information
 
-DavidWolfe.com does not sell, rent or lease its customer lists to third parties. DavidWolfe.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, DavidWolfe.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to DavidWolfe.com, and they are required to maintain the confidentiality of your information.
+Chaga Inc. may collect and use Users personal information for the following purposes:
 
-DavidWolfe.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  *  _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  *  _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  *  _To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  *  _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
-DavidWolfe.com keeps track of the Web sites and pages our customers visit within DavidWolfe.com, in order to determine what DavidWolfe.com services are the most popular. This data is used to deliver customized content and advertising within DavidWolfe.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-DavidWolfe.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on DavidWolfe.com or the site; (b) protect and defend the rights or property of DavidWolfe.com; and, (c) act under exigent circumstances to protect the personal safety of users of DavidWolfe.com, or the public.
 
-Use of Cookies
+### How we protect your information
 
-The DavidWolfe.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize DavidWolfe.com pages, or register with DavidWolfe.com site or services, a cookie helps DavidWolfe.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same DavidWolfe.com Web site, the information you previously provided can be retrieved, so you can easily use the DavidWolfe.com features that you customized.
+### Sharing your personal information
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the DavidWolfe.com services or Web sites you visit.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Security of your Personal Information
+### Third party websites
 
-DavidWolfe.com secures your personal information from unauthorized access, use or disclosure. DavidWolfe.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Changes to this Statement
+### Advertising
 
-DavidWolfe.com will occasionally update this Statement of Privacy to reflect company and customer feedback. DavidWolfe.com encourages you to periodically review this Statement to be informed of how DavidWolfe.com is protecting your information.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Contact Information
+### Google Adsense
 
-DavidWolfe.com welcomes your comments regarding this Statement of Privacy. If you believe that DavidWolfe.com has not adhered to this Statement, please contact DavidWolfe.com at [supergojigirl@gmail.com](mailto:supergojigirl@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+### Changes to this privacy policy
+
+Chaga Inc. has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on October 26, 2015
