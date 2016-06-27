@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingmylink.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501235716id_/http%3A//www.pingmylink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingmylink.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627203127id_/http%3A//www.pingmylink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # PingMyLink.com - Privacy Policy
 
