@@ -1,88 +1,137 @@
-> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022160729id_/http%3A//about.topsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsylabs.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124446id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# Topsy | Privacy Policy
+# Privacy - Our Privacy Policy - Apple
 
-  * [Support](http://about.topsy.com/support/ "Support")
-    * [Topsy Social Search](http://about.topsy.com/support/search/ "Topsy Social Search")
-    * [Topsy Pro Analytics](http://about.topsy.com/support/proanalytics/ "Topsy Pro Analytics")
-    * [Topsy API Services](http://about.topsy.com/support/api/ "Topsy API Services")
+Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
+##### Collection and Use of Personal Information
 
-## Privacy Policy 
+Personal information is data that can be used to identify or contact a single person.
 
-**LAST UPDATED: November 26, 2013  
-**
+You may be asked to provide your personal information anytime you are in contact with Apple or an Apple affiliated company. Apple and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
 
-**IMPORTANT UPDATE** :
+Here are some examples of the types of personal information Apple may collect and how we may use it:
 
-We’re updating our Privacy Policy to highlight our new collaboration with Apple Inc. Our new Privacy Policy is effective November 26, 2013. To learn about how we treat information collected prior to November 26, 2013, please click [here](http://about.topsy.com/privacy-policy-previous).
+###### What personal information we collect
 
-**TOPSY PRIVACY POLICY**
-
-Topsy Labs, Inc. (“Topsy”) cares about privacy and wants you to be familiar with how we collect, use and disclose personal information.  We may collect personal information you provide to us on www.topsy.com or other sites where this Privacy Policy is posted (collectively, the “ **Sites** ”). Topsy may also collect personal information that is publically available on third party sites and then make that data searchable on the Sites (the “ **Services** ”).  By using the Sites or the Services provided, you are consenting to the collection, transfer, and disclosure of your information as described in this Privacy Policy.
-
-**Information COLLECTED**
-
-“Personal Information” is information that identifies you as an individual, such as your first and last name or email address. We receive this Personal Information when you provide it directly to us on our Sites.
-
-In addition, Topsy may also collect information about you, some of which may constitute Personal Information that you have made publically available on third party sites (“Public Information”). If you do not want Public Information about you included in the Services, we recommend that you adjust the privacy settings of any third party site you use. You may also contact Topsy via email at [support@topsy.com](mailto:support@topsy.com) to request that Topsy delete Personal Information about you. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
-
-**USE of Personal Information**
-
-Topsy may use Personal Information you provide directly to us to respond to your inquiries, notify you of important changes to our Services and fulfill your requests.  We use Public Information to provide an index of the public social web and to improve our product offerings and Services.  This allows users of our Sites and Services to view data aggregated across social networking sites, analyze trends on various topics and identify key thoughts, opinions and content over time or in real time.   All data, including Personal Information, is processed by Topsy on servers located in the United States.
-
-**Disclosure of Personal Information  **
-
-Topsy may share Personal Information with third parties who provide Topsy with services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, and auditing.  These companies are obligated to protect your Personal Information in accordance with this Privacy Policy.
-
-Topsy may share Public Information that contains Personal Information with users of the Services.
-
-Topsy may share Personal Information with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, or assets (including in connection with any bankruptcy or similar proceedings).
-
-Topsy may share Personal Information or Public Information that contains Personal Information with its parent, Apple Inc.  Apple will treat such information in compliance with the Apple Privacy Policy.  In no event will Apple combine the personal information it has about an individual with any Personal Information collected by Topsy about that same individual without first obtaining his or her consent.
-
-Topsy will also disclose information as it deems necessary or appropriate: (i) under applicable law, including laws outside your country of residence; (ii) to comply with legal process or respond to exigent circumstances; (iii) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (iv) to enforce the Topsy terms and conditions; (v) to protect our operations or those of any of our affiliates; (vi) to protect Topsy and its customers’ rights, privacy, safety or property; and (vii) to allow us to pursue available remedies or limit the damages that we may sustain.
-
-**OTHER Information**
-
-We and our third party service providers may also collect and use information not tied to any Personal Information that does not identify you as an individual.  Such information includes browser and device information, demographic data and aggregated data as well as the following:
-
-  * • Data about your access or use of Services:  When you access or use our Services, we and our service providers may track, collect, and process usage data, such as your search queries, web pages that you requested, your activity on the Services, and errors you have encountered.
-
-
-  * 〈 Cookies and other Technologies:  Cookies are pieces of information stored directly on the computer that you are using.  Cookies allow us and our service providers to collect information such as browser type, session information, time spent on the Services, pages visited, and anonymous traffic data. We and our service providers use the information for internal purposes such as security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services.  We also gather statistical information about the use of the Services in order to continually improve their design and functionality, understand how they are used and to assist us with resolving questions regarding them.
+  * When you create an Apple ID, apply for commercial credit, purchase a product, download a software update, register for a class at an Apple Retail Store, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
+  * When you share your content with family and friends using Apple products, send gift certificates and products, or invite others to participate in Apple services or forums, Apple may collect the information you provide about those people such as name, mailing address, email address, and phone number. Apple will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
+  * In the U.S., we may ask for a government issued ID in limited circumstances including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law.
 
 
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies.  If you do not accept cookies, however, you may be unable to take advantage of some of the features of our Services.
+###### How we use your personal information
 
-  * 〈 IP Address:  Your “IP Address” is a number that is automatically assigned by your Internet Service Provider to the computer that you are using.  An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services.  We use IP Addresses for internal purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.  Log files containing IP addresses will be retained for a maximum of one year and then deleted.
+  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry).
+  * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
+  * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of Apple ID account holders.
+  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
+  * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
 
 
-We may use and disclose the information described above for any purpose, except where prohibited by law. If we combine this data with Personal Information, we will treat it as Personal Information as long as it is combined.
+##### Collection and Use of Non-Personal Information
 
-**THIRD PARTY SERVICES**
+We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.  We encourage you to familiarize yourself with the privacy practices of such third parties.
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+  * We may collect information regarding customer activities on our website, iCloud services, and iTunes Store and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non‑personal information for the purposes of this Privacy Policy.
+  * We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.
+  * With your explicit consent, we may collect data about how you use your device and applications in order to help app developers improve their apps.
 
-**Security**
 
-Topsy takes precautions — including administrative, technical, and physical measures — to safeguard Personal Information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
 
-**use by MINORS**
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-The Topsy Sites and Services are not directed to individuals under the age of thirteen (13), and children under 13 may not submit Personal Information through the Sites or Services. If we learn that we have collected the Personal Information of a child under 13 we will delete the information as soon as possible.
+##### Cookies and Other Technologies
 
-**Do Not Track**
+Apple’s websites, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://web.archive.org/legal/privacy/en-ww/cookies/) such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-Some browsers have incorporated “Do Not Track” (“DNT”) features.  We interpret the DNT feature to apply to third party tracking on a website.  Since we do not allow third parties to track users on our Sites, we take no action when we receive a DNT signal.
+Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com.](https://support.apple.com/en-us/HT202074) Alternatively, if you are using the iOS 6 operating system or later on your mobile device, you may opt-out by selecting Limit Ad Tracking. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third-party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
 
-**UPDATES TO THIS PRIVACY POLICY**
+Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
 
-We may change this Privacy Policy.  The “Last Updated” legend at the top of this page indicates when it was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.  If we make material changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on this Privacy Policy. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
 
-CONTACTING US
+As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
 
-If you have any questions about this Privacy Policy, please contact us at support@topsy.com.
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
+
+In some of our email messages, we use a “click-through URL” linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
+
+##### Disclosure to Third Parties
+
+At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+
+###### Service Providers
+
+Apple shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Apple operates.
+
+###### Others
+
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Apple to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+
+##### Protection of Personal Information
+
+Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third-party storage.
+
+When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
+
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/icloud/family-sharing/) for more information.]
+
+##### Integrity and Retention of Personal Information
+
+Apple makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+##### Access to Personal Information
+
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+##### Children & Education
+
+We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes), before they can begin the Apple ID account creation process for their child. In addition, schools that participate in Apple School Manager and have reviewed and consented to the Managed Apple IDs for Students Disclosure may create Managed Apple IDs for students. The [Managed Apple IDs for Students Disclosure](https://web.archive.org/legal/education/apple-school-manager) describes how Apple handles student information and supplements Apple’s Privacy Policy. Learn more about [Family Sharing](https://web.archive.org/icloud/family-sharing), the [Managed Apple IDs](https://web.archive.org/education/it) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+
+If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, outside the above circumstances we will take steps to delete the information as soon as possible.
+
+If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
+
+##### Location-Based Services
+
+To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work.
+
+##### Third‑Party Sites and Services
+
+Apple websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, a third‑party iPhone app. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+
+##### International Users
+
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp).
+
+Please note that personal information, including the information provided when using iCloud, regarding individuals who reside in a member state of the European Economic Area (EEA) and Switzerland is controlled by Apple Distribution International in Cork, Ireland, and processed on its behalf by Apple Inc. Personal information collected in the EEA and Switzerland when using iTunes is controlled by iTunes SARL in Luxembourg and processed on its behalf by Apple Inc.
+
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.
+
+##### Our Companywide Commitment to Your Privacy
+
+To make sure your personal information is secure, we communicate our privacy and security guidelines to Apple employees and strictly enforce privacy safeguards within the company.
+
+##### Privacy Questions
+
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](https://web.archive.org/legal/privacy/en-ww/contact/). You can always contact us by phone at the relevant [Apple Support](http://support.apple.com/kb/HE57) number for your country.
+
+All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+
+Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
