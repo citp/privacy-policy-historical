@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826030412id_/http%3A//legacyeducationalliance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627130608id_/http%3A//legacyeducationalliance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ We may use the personal information we collect to:
 
 We may share your personal information in the following ways:
 
-  * With our affiliated brands. Some of these entities who may share information with each other include, but are not limited to, Real Options Masters, Tigrent Learning Inc., Rich Dad Education, Inc., Tigrent Enterprises Inc., Tigrent Learning UK Ltd., Tigrent Learning Canada Inc., Rich Dad Education Ltd., operating in Canada, and Rich Dad Education Limited, operating in the United Kingdom. A listing of such Company's and active brands is available at www.legacyeducationalliance.com. In the event of the sale or a merger of Legacy Education Alliance, Inc. or any of its affiliates, information we have collected may be among the assets transferred.
+  * With our affiliated brands. Some of these entities who may share information with each other include, but are not limited to, Real Options Masters, Rich Dad Education, Inc., Rich Dad Education Ltd., operating in Canada, and Rich Dad Education Limited, operating in the United Kingdom. A listing of such Company's and active brands is available at www.legacyeducationalliance.com. In the event of the sale or a merger of Legacy Education Alliance, Inc. or any of its affiliates, information we have collected may be among the assets transferred.
   * There are also times when it may be advantageous for us to make certain Personal Information about you available to companies that perform work for us to provide products and services to you on our behalf ("Service Providers"). These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are not within our control and may not follow the same privacy standards as ours.
   * With co-sponsors of contests, sweepstakes or promotions.
   * With reputable companies whose products we believe will be of interest to you.
@@ -112,8 +112,7 @@ Rich Dad Education Limited
 Woodbridge, ON L4L 5Z9  
 Tel: 800-288-8015
 
-Tigrent Learning UK Limited  
-MWB Business Exchange  
+Legacy Education Alliance, Inc.  
 Parkshot House, 5 Kew Road  
 Richmond, TW9 2PR  
-Tel: 0800 1613262
+Tel: 0208 996 6700
