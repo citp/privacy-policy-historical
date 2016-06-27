@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225084937id_/http%3A//www.argyllfreepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argyllfreepress.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627163904id_/http%3A//www.argyllfreepress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
