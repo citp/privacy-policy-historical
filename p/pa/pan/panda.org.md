@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103152535id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627075738id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
 
-# WWF - WWF Online Privacy Policy
+# WWF Online Privacy Policy | WWF
 
 This website is owned by WWF-World Wide Fund for Nature (formerly World Wildlife Fund), hereafter referred to as "WWF". 
 
