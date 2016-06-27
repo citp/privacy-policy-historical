@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barneyswarehouse.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227071508id_/http%3A//www.barneyswarehouse.com/aboutbarneys%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barneyswarehouse.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627153916id_/http%3A//www.barneyswarehouse.com/aboutbarneys%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Protecting your online order information on Barneyswarehouse.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL. 
 
-Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9.00am - 9.00pm, and Saturday - Sunday 11:30am - 8.00pm, ET. 
+Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9 AM - 9 PM, and Saturday - Sunday, 10:30 AM - 7 PM, ET. 
 
 ###### Privacy Policy
 
