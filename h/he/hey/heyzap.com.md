@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229034721id_/https%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627162812id_/https%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Terms of Service](https://web.archive.org/legal/terms) | [Privacy Policy](https://web.archive.org/legal/privacy) | [Copyright](https://web.archive.org/legal/copyright) | [Advertiser Agreement](https://web.archive.org/legal/advertiser_agreement) | [SDK](https://web.archive.org/legal/sdk)
+| [Terms of Service](https://web.archive.org/legal/terms) | [Privacy Policy](https://web.archive.org/legal/privacy) | [Copyright](https://web.archive.org/legal/copyright) | [Advertiser Agreement](https://web.archive.org/legal/advertiser_agreement) | [Heyzap SDK](https://web.archive.org/legal/heyzap_sdk) | [Fyber SDK](https://web.archive.org/legal/fyber_sdk) | [Fyber Account Notice](https://web.archive.org/legal/fyber_account_notice)
 
-_Last modified on April 24, 2014_
+_Last modified on March 30, 2016_
 
-Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, Applications, websites, or other affiliated ventures operated by Heyzap, Inc. Throughout this Policy, “Heyzap” and “We” refers to Heyzap, Inc. and its affiliates. “You” or “Users” refers to you, our users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Heyzap. The “Heyzap Application and/or Heyzap Network” refers to the applications you download from the Apple app store or the Google Play store. The term “Heyzap Network” applies to the web site, games, and/or services controlled, operated or produced by Heyzap, Inc. and all advertisements and other content referenced therein.
+Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, Applications, websites, or other affiliated ventures operated by Heyzap, Inc. Throughout this Policy, “Heyzap” and “We” refers to Heyzap, Inc. and its affiliates. “You” or “Users” refers to you, our users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Heyzap. The “Heyzap Application and/or Heyzap Network” refers to the applications you download from the Apple app store or the Google Play store. The term “Heyzap Network” applies to the advertising platform, web site, games, and/or services controlled, operated or produced by Heyzap, Inc. and all advertisements and other content referenced therein.
 
 By using the Heyzap Application and/or Heyzap Network and the Heyzap Network, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Heyzap Application and/or Heyzap Network Terms of Service. Your use of the Heyzap Application and/or Heyzap Network and any personal information you provide through the Heyzap Application and/or Heyzap Network are subject at all times to this Privacy Policy and the Terms of Use. This policy explains how information is collected and used by Heyzap.
 
@@ -21,7 +21,7 @@ By using the Heyzap Application and/or Heyzap Network and the Heyzap Network, yo
   7. Developers and COPPA
   8. Data Security
   9. Children’s Privacy
-  10. International Visitors
+  10. Cross-Border Transfers
   11. In the Event of Merger or Sale
   12. Third Parties
   13. Changes and Updates to this Privacy Policy
@@ -41,7 +41,7 @@ Your User ID. Your User ID is displayed throughout the Heyzap Application and/or
 
 ### 2\. The Way Heyzap Uses Information
 
-Heyzap uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Heyzap Application and/or Heyzap Network as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws.
+Heyzap and its service providers use the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Heyzap Application and/or Heyzap Network as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws.
 
 We may use your email address or other provided contact (e.g. mobile number), without further consent, for administrative communications such as notifying you of major Heyzap Application and/or Heyzap Network updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted and to send privacy or security related notices.
 
@@ -67,7 +67,7 @@ You may, of course, decline to share your personally-identifiable information wi
 
 Heyzap does respect your choice to use Apple’s IFDA opt out option. In the event you are both an Apple user and have chosen to opt out of sharing your personal data, the Heyzap Application and/or Heyzap Network will be unable to store and use your data. Please be aware that the advertisements and other content served to you by the Heyzap Application and/or the Heyzap Network will not be optimized for your usage.
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES
 
 ### 5\. Advertisers
 
@@ -97,9 +97,9 @@ Protecting the privacy of children is especially important. For that reason, Hey
 
 If you are the parent or legal guardian of a child under 13 who has become Heyzap Application and/or Heyzap Network member, then please contact Heyzap at privacy@Heyzap.com to have that child’s account terminated and information deleted.
 
-### 10\. International Visitors:
+### 10\. Cross-Border Transfers:
 
-For Users visiting the Heyzap Application and/or Heyzap Network from the European Union or other non-U.S. territories, please note that any data you enter into the Heyzap Application and/or Heyzap Network will be transferred outside the European Union or such other non-U.S. territory for use by Heyzap and its affiliates for any of the purposes described herein. In addition, because Heyzap operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Heyzap Application and/or Heyzap Network, you hereby expressly consent to such transfers of your data to the United States or other countries.
+Any data you enter into the Heyzap Application, the Heyzap Network and / or similar applications of Heyzap’s service providers or affiliates may be transferred, stored and processed in any country where we or our service providers operate. By using the Heyzap Application, the Heyzap Network and / or and / or similar applications of Heyzap’s service providers or affiliates you consent to the transfer of information to countries outside of your country of residence, including but not limited to the United States and countries within the European Union, which may have different data protection rules than those of your country. In addition, because Heyzap operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Heyzap Application, the Heyzap Network and / or similar applications of Heyzap’s service providers or affiliates, you hereby expressly consent to such transfers of your data to the United States or other countries.
 
 ### 11\. In the Event of Merger or Sale:
 
@@ -117,4 +117,4 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ### 14\. Heyzap Contact Information:
 
-Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 251 Kearny St. 3rd Floor, San Francisco, CA 94108 or by email: privacy@Heyzap.com. We will respond to your inquiry within 30 days of its receipt.
+Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 785 Market Street, Floor 12, San Francisco, USA or by email: privacy@heyzap.com. We will respond to your inquiry within 30 days of its receipt.
