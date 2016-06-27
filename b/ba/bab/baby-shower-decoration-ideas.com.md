@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045824id_/http%3A//printmybabyshower.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627042658id_/http%3A//printmybabyshower.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies
 
