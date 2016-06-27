@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the zurichprime.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001044828id_/http%3A//zurichprime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurichprime.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627070449id_/http%3A//zurichprime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zurich Prime™ | Leader In Online Trading : Zurich Prime
 
-  
-**Notice** : Undefined index: HTTP_ACCEPT in **/var/www/zurichprime/public_html/wp-content/plugins/any-mobile-theme-switcher/any-mobile-theme-switcher.php** on line **117**  
-Privacy Policy - Zurich Prime™ | Leader In Online Trading : Zurich Prime [](http://zurichprime.com/)
+[](http://zurichprime.com/)
 
 ### Privacy Policy
 
