@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smalldressup.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112213531id_/http%3A//www.smalldressup.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smalldressup.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627163118id_/http%3A//www.smalldressup.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Dress Up Games For Girls | Dress Up Games - New games added daily
 
