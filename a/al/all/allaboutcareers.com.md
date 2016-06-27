@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
@@ -14,9 +14,9 @@
   * [Employers](http://www.allaboutcareers.com/careers/graduate-employers) _(4)_
   * [Advice](http://www.allaboutcareers.com/careers-advice) _(5)_
   * [News](http://www.allaboutcareers.com/features) _(6)_
-  * [More](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) _(7)_
+  * [More](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) _(7)_
   * [Login](http://www.allaboutcareers.com/login) _(8)_
-  * [Search](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)
+  * [Search](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)
   * [Facebook](http://facebook.com/allaboutcareers) [Twitter](http://twitter.com/allaboutcareers) _(9)_
     *     * [Follow](http://twitter.com/allaboutcareers)
   * Get the latest jobs, the best advice and the freshest news. [Sign up](http://www.allaboutcareers.com/register) _(0)_
@@ -149,26 +149,26 @@ The entrepreneur, the socialite, the Clark Kent lookalike.
 
 #### Best childhood memory?
 
-I cashed a car at the tender age of three. Jumped into the front seat, pulled it in reverse and knocked the door off a brand new Mercedes Benz. Needless to say my Dad wasn’t very happy… Though perhaps slightly proud!
+I crashed a car at the tender age of three. Jumped into the front seat, pulled it in reverse and knocked the door off a brand new Mercedes Benz. Needless to say my Dad wasn’t very happy… Though perhaps slightly proud!
 
     * E rayer/van-ristell//allaboutgroup/org
     *       * T 0203 651 4919
 
 
 
-  * Ronan Curran Business Development 
+  * Tom Clark Business Development 
 
-### Ronan Curran Business Development
+### Tom Clark Business Development
 
-The smooth operator, the international chatterbox, the baller.
+The opportunist, the late bloomer, the overrated footballer.
 
-#### Hidden talent?
+#### Biggest Regret?
 
-My name translated from Irish to English (pronounced Roe-nawn) means little seal, and ironically I can balance a football on my forehead for a very long time, akin to a seal. 
+Upon graduation of university my favourite lecturer came over to congratulate me with a few kind words and a firm handshake. Unfortunately due to, possibly the nerves and probably the celebratory drinks, I forgot to remove the half eaten pork pie from my outstretched hand. The disgusted look of the esteemed academic as our hands mashed the meaty snack will haunt my dreams for ever more.
 
-    * E ronan/curran//allaboutgroup/org
+    * E tom/clark//allaboutgroup/org
     *       * T 0203 651 4919
-      * M 0783 325 4783
+      * M 0754 581 0766
 
   * Laura Edgington Marketing 
 
@@ -181,47 +181,6 @@ The social media suave, the small one, the lover of seafood.
 I can remember a ridiculous amount of quotes from Bridesmaids. #HelpMeImPoor
 
     * E laura/edgington//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Alex Harris Marketing 
-
-### Alex HarrisMarketing
-
-The Google pro, the diplomat, the identical twin.
-
-#### What's an interesting fact about yourself?
-
-I have an identical twin who sometimes comes into work for me when I’m not feeling it. Please don’t tell my manag – ah, rats!
-
-    * E alex/harris//allaboutgroup/org
-    *       * T 0203 651 4919
-
-  * Yeva Agayan Marketing 
-
-### Yeva AgayanMarketing
-
-The search engine sav, the negotiator, the LSE lover.
-
-#### What’s the toughest task at work?
-
-Coming up with something witty for my profile.
-
-    * E yeva/agayan//allaboutgroup/org
-    *       * T 0203 651 4919
-
-
-
-  * Georgia Leefe communications 
-
-### Georgia Leefecommunications
-
-The rhetorician, the pug lover, the wearer of purple.
-
-#### Biggest necessity?
-
-Singing in the shower first thing every morning. It releases endorphins. Nina, Ella and Dolly are my girls.
-
-    * E georgia/leefe//allaboutgroup/org
     *       * T 0203 651 4919
 
   * Emma Finamore editorial 
@@ -252,6 +211,21 @@ I’m absolutely obsessed with darts. Whether it’s playing, watching or just r
     * E jay/collins//allaboutgroup/org
     *       * T 0203 651 4919
 
+
+
+  * Georgia Leefe communications 
+
+### Georgia Leefecommunications
+
+The rhetorician, the pug lover, the wearer of purple.
+
+#### Biggest necessity?
+
+Singing in the shower first thing every morning. It releases endorphins. Nina, Ella and Dolly are my girls.
+
+    * E georgia/leefe//allaboutgroup/org
+    *       * T 0203 651 4919
+
   * Josh Krohn Design 
 
 ### Josh Krohn Design
@@ -264,8 +238,6 @@ The ability to fall asleep anywhere, anytime, any position, in ten minutes or le
 
     * E josh/krohn//allaboutgroup/org
     *       * T 0203 651 4919
-
-
 
   * Adam Zapasnik Back-End Development 
 
@@ -285,7 +257,7 @@ A mountain of chicken and mashed potato. A cheeky nap. And then another mountain
 
 ## Privacy policy
 
-This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)].
+This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)].
 
 All About Careers Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -334,7 +306,7 @@ Your profile on any of the All About Careers Ltd group of websites will only be 
 
 For all users under the age of 18 the default setting is private.
 
-People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20151221173819id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
 
 Any personal information you choose to share on the site is at your own risk. Minors aged 13–17 should seek advice and permission from their parents or guardians before sharing personal information.
 
