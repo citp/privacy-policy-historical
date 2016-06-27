@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175933id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SkillSurvey
 
 ### The SkillSurvey System
 
-SkillSurvey provides a web-based service that enables the assessment of an individual’s competencies for a specific job based on confidential feedback from people that have worked with that individual in the past.
+SkillSurvey provides a web-based service that enables people who have worked with an individual to provide confidential feedback on the individual’s competencies for a specific job. Additionally, SkillSurvey provides services related to physician credentialing for healthcare providers.
 
 Organizations and individuals (Subscribers) use the service to send emails to the job candidate and the candidate’s references. The reference email contains a link to a web-based survey, which the reference then completes and submits electronically.
 
 Candidate reports are either generated automatically or monitored and finalized by customer personnel (such as HR staff, recruiters, hiring managers, etc.).
 
+By using the SkillSurvey services, you consent to this Privacy Policy.
+
 ### General Security Policy
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
-  * We will only collect the minimum personal information required to successfully complete the SkillSurvey reference checking process for our Subscribers
+  * We will only receive the minimum personal information required to successfully complete the SkillSurvey reference checking process for our Subscribers
   * We will never rent or sell the personally identifiable information of any user of our system (e.g. recruiter, candidate, reference, etc.) to third parties for marketing purposes
-  * Any sensitive information that you provide will be secured with all industry standard protocols and technology
+  * Any sensitive information that you provide will be secured with industry standard protocols and technology
 
 
 
@@ -24,38 +26,55 @@ Notice of all changes that materially affect ways in which your personally ident
 
 ### Information Collection
 
-SkillSurvey does not collect personally identifying information from visitors to this site unless specifically provided by our customers, their job candidates, or the job candidate’s references. Personally identifiable information includes name, email address and other data elements required to perform the SkillSurvey reference checking process for our customers.
+SkillSurvey does not collect personally identifying information from visitors to this site unless specifically provided by our customers, their employees or representatives, their job or credentialing candidates, or the candidate’s references. Personally identifiable information includes name, email address and other data elements requested by our customers or required to perform the SkillSurvey services.
 
-SkillSurvey may collect background/demographic information, on a voluntary or optional basis, from job candidates. This information will not be associated with the candidate’s name, email address, or any other personally identifying information. This information will not be shared with a prospective employer. It will be used by SkillSurvey solely to monitor compliance with federal statutes and for other research purposes.
+##### For Candidate Reference Services
 
-SkillSurvey also collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. The IP addresses are analyzed only for the purposes of fraud detection and service performance. (Think of an IP address like your zip code; it tells us in general terms where you’re from.)
+We receive personally identifiable information about you and your references in order to perform the SkillSurvey reference checking process for our customers.
 
-SkillSurvey uses “cookies” – files written to the visitor’s computer that are used by some sites for record-keeping or to remember certain information about visitors during their visit only. These cookies are removed after each session.
+SkillSurvey may receive background/demographic information, on a voluntary or optional basis, from job candidates. This information will not be associated with the candidate’s name, email address, or any other personally identifying information. This information will not be shared with a prospective employer. It will be used by SkillSurvey solely to monitor compliance with federal statutes and for other research purposes.
+
+##### For Physician Credentialing Services
+
+We receive personally identifiable information from physicians on behalf of certain healthcare providers for the provider’s use in the credentialing process. The information includes name, contact information, education, work and training history, references as well as other information customarily collected as part of a physician credentialing process.
+
+##### For All Visitors
+
+SkillSurvey collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. The IP addresses are analyzed only for the purposes of fraud detection and service performance. (Think of an IP address like your zip code; it tells us in general terms where you’re from.)
+
+The SkillSurvey application uses “cookies” – files written to the visitor’s computer that are used by some sites for record-keeping or to remember certain information about visitors during their visit only. These cookies are removed after each session.
+
+SkillSurvey uses Google Analytics web analytics service offered by Google to track and report website traffic. Google Analytics may leave cookies after each session.
 
 ### Information Use
 
-SkillSurvey does not provide or sell any of this information to third parties and will not use your personally identifiable information except to:
+Except as provided in this Privacy Policy, SkillSurvey does not provide or sell any of this information to third parties and will not disclose or use your personally identifiable information except to:
 
   * Provide customer support in successfully completing the SkillSurvey reference checking process
   * Perform statistical analyses of user behavior and characteristics
   * Measure traffic and traffic trends at this site
-  * Support products and services provided by SkillSurvey
+  * Support and provide the products and services provided by SkillSurvey
+  * Monitor compliance with applicable laws
 
 
 
-We may provide aggregated data about the usage of our service to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, company. If you would like to be excluded from the aggregated research, please email customer service.
+We may provide non-identifying aggregated data about the usage of our service to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, company. If you would like to be excluded from the aggregated research, please email customer service. We may also associate non-identifying information, such as IP address, with identifying information for purposes of fraud detection.
+
+For physicians participating in a credentialing process with a healthcare provider, we will disclose information as requested by the provider, such as to peer references.
 
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
+
+We reserve the right to transfer information (including personally identifiable information) to a third party in the event of a sale, merger, or transfer of all or substantially all of the assets of SkillSurvey, or in the unlikely event of a bankruptcy, liquidation or receivership of our business. We will provide notice of any such change in ownership of personal information.
 
 ### Website Security
 
 Special attention is appropriately given to website security and the overall security of all data storage, processing, and transmission systems. This website, and its use as a data conduit, is protected by:
 
-  * Authentication through firewalls with full exclusion logic
-  * Use of encryption when transferring secure information through Secure Socket Layer (SSL)
-  * Password protection and user identification including access logs, transaction logs and traffic logs
-  * Virtual private network security for development and internal access
-  * Security management software
+  * Firewalls with stateful packet inspection
+  * Use of Secure Socket Layer (SSL) to protect data in motion
+  * Use of encryption to protect data at rest
+  * Regular vulnerability scanning to identify new threats
+  * 24×7 monitoring and intrusion detection
 
 
 
@@ -65,13 +84,15 @@ If you have any questions about the privacy statement and other policies outline
 
 SkillSurvey, Inc.  
 Corporate Headquarters  
-565 E. Swedesford Road  
-Wayne, PA 19087  
+1235 Westlakes Drive  
+Suite 330  
+Berwyn, PA 19312
+
 Email: customerservice@skillsurvey.com
 
-The foregoing policies are effective as of August 8, 2006. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+The foregoing policies are effective as of March 25, 2016. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  * [Terms of Use](https://web.archive.org/web/20151209175933id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
-  * [Service Level Agreement](https://web.archive.org/web/20151209175933id_/http%3A//www.skillsurvey.com/service-level-agreement/)
+  * [Terms of Use](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
+  * [Service Level Agreement](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/service-level-agreement/)
 
 
