@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipcc.ch privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009222139id_/http%3A//www.ipcc.ch/home_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipcc.ch privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627221354id_/http%3A//www.ipcc.ch/home_privacy.shtml) for the most accurate reproduction.*
 
 # IPCC - Intergovernmental Panel on Climate Change
 
