@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popuphero.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219073740id_/http%3A//popuphero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popuphero.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627191738id_/http%3A//popuphero.com/privacy-policy) for the most accurate reproduction.*
 
 # PopupHero - Privacy Policy
 
