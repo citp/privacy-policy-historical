@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226074715id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120256id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
 
 # ooShirts Privacy Policy
 
