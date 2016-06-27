@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226094545id_/http%3A//www.advocatehealth.com/NoticeofPrivacyPractices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627083519id_/http%3A//www.advocatehealth.com/NoticeofPrivacyPractices) for the most accurate reproduction.*
 
 # Privacy Policy
 
-To view **_Advocate's Notice of Privacy Practices_**[click here](https://web.archive.org/web/20151226094545id_/http%3A//www.advocatehealth.com/documents/system/NoticeOfPrivacyPractices2013Final.pdf).  
-To view the _**Patient Acknowledgment Form**_ , [click here](https://web.archive.org/web/20151226094545id_/http%3A//www.advocatehealth.com/documents/system/Notice_of_Privacy_Practices_Acknowledgement_FormFinal.pdf).
+To view **_Advocate's Notice of Privacy Practices_**[click here](https://web.archive.org/web/20160627083519id_/http%3A//www.advocatehealth.com/documents/system/NoticeOfPrivacyPractices2013Final.pdf).  
+To view the _**Patient Acknowledgment Form**_ , [click here](https://web.archive.org/web/20160627083519id_/http%3A//www.advocatehealth.com/documents/system/Notice_of_Privacy_Practices_Acknowledgement_FormFinal.pdf).
 
 Advocate Health Care supports and recognizes our patients' right to expect that their medical records and other information about their care will be kept confidential.  Our Notice of Privacy Practices, effective September 23, 2013, includes:
 
