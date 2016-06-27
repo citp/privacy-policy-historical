@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223005422id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627185205id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
 ## Quantum takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[Last Version November 2013](https://iq.quantum.com/exLink.asp?26021766OB48G65I56280152)   
-Current Version December 2015 
+[Current Version June 2016](https://iq.quantum.com/exLink.asp?26021766OB48G65I56280152&EC00019A&view=1)
 
-  * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898)
-  * [EU Safe Harbor Policy](https://iq.quantum.com/exLink.asp?16501958OX28T81I46403797)
+  * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898&EC00010A&view=1)
 
 
 
@@ -89,7 +87,7 @@ To learn more about cookies and other automatic data collection tools, please vi
 
 Quantum also employs a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc. When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails that may use web beacons by going here: <http://landing.quantum.com/Subscription-Center_Subscription-Center.html>
 
-Quantum has engaged one or more affiliated and unaffiliated third party service providers to track and analyze usage and volume statistical information from visitors to the Web site. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third party cookies to track the effectiveness of Quantum.com and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our site are Google Analytics (http://www.google.com/intl/en/policies/privacy), Treehouse ( <http://www.treehousei.com/privacy-policy.html>), and Crazyegg. ( <http://www.crazyegg.com/privacy>) 
+Quantum has engaged one or more affiliated and unaffiliated third party service providers to track and analyze usage and volume statistical information from visitors to the Web site. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third party cookies to track the effectiveness of Quantum.com and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our site are Google Analytics (http://www.google.com/intl/en/policies/privacy), Marketo ( <http://legal.marketo.com/privacy/>), and Crazyegg. ( <http://www.crazyegg.com/privacy>) 
 
 Examples of this information we track may include, but are not limited to:
 
@@ -157,4 +155,4 @@ Tel (local): (949) 856-7800
 Fax: (949) 856-7799   
 [webteam@quantum.com](mailto:webteam@quantum.com)
 
-Privacy Policy updated December 2015
+Privacy Policy updated June 2016
