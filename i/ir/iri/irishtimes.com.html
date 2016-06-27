@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irishtimes.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231100554id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irishtimes.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628004201id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml rNews:http://www.iptc.org/ns/1.0 irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"><!-- <![endif]--><head>
 
@@ -34,36 +34,30 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144-precomposed.png">
 
-  
-  <link rel="stylesheet" href="/assets/css/framework.css?rev=20151218T171747">
-  <!--<link rel="stylesheet" href="/assets/css/index.css?rev=20151218T171747"/>-->
+    
+  <link rel="stylesheet" href="/assets/css/framework.min.css?rev=20160608T115454">
+  <!--<link rel="stylesheet" href="/assets/css/index.css?rev=20160608T115454"/>-->
   	
 	<link href="//fonts.googleapis.com/css?family=Dosis:800" rel="stylesheet" type="text/css">	
 
 
 
-  <!--<link rel="stylesheet" href="/assets/css/patch.css?rev=20151218T171747"/>-->
+  <!--<link rel="stylesheet" href="/assets/css/patch.css?rev=20160608T115454"/>-->
 
-  	  <link rel="stylesheet" href="/assets/css/styles2014.css?rev=20151218T171747">
-	  <!-- New header & nav styles -->
-	  <link rel="stylesheet" href="/assets/css/global.css?rev=20151218T171747">
-	  <link rel="stylesheet" href="/assets/css/slidebars.css?rev=20151218T171747">
-	  <link rel="stylesheet" href="/assets/css/weather.css?rev=20151218T171747">
-	  <link rel="stylesheet" href="/assets/css/tabbedgallery.css?rev=20151218T171747">
-	  <link rel="stylesheet" href="/assets/fancybox/jquery.fancybox.css?rev=20151218T171747">
-	    	  
-
+    	  	  	<link rel="stylesheet" href="/assets/css/mondo-style.min.css?rev=20160608T115454">
+	    
 
   <link rel="stylesheet" type="text/css" href="/polopoly_css/footer-styles-7.1617844">
   <link rel="stylesheet" type="text/css" href="/polopoly_css/footer-styles-7.1617844">
 
-<link rel="stylesheet" href="/assets/css/comments.css?rev=20151218T171747" type="text/css" media="screen">
+<link rel="stylesheet" href="/assets/css/comments.min.css?rev=20160608T115454" type="text/css" media="screen">
 
-    <link rel="alternate" type="application/rss+xml" title="work rss" href="/rss/work-rss-1.2458565">
+    <link rel="alternate" type="application/rss+xml" title="facebook instant articles" href="/rss/facebook-instant-articles-1.2675736">
+        <link rel="alternate" type="application/rss+xml" title="work rss" href="/rss/work-rss-1.2458565">
         <link rel="alternate" type="application/rss+xml" title="Apple RSS" href="/rss/apple-rss-1.2384003">
         
 
-	<script src="/assets/js/mondo-script.min.js?rev=20151218T171747"></script>
+	<script src="/assets/js/mondo-script.min.js?rev=20160608T115454"></script>
 
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
           	<meta property="og:image" content="http://www.irishtimes.com/polopoly_fs/1.2302052.1438259328!/image/image.png">
@@ -83,7 +77,8 @@
 		var _ittwitterhandle = 'IrishTimes';
     </script>
   
-    <meta property="twitter:account_id" content="15084853">
+        <meta property="fb:pages" content="45441411157">
+      <meta property="twitter:account_id" content="15084853">
       
 
 
@@ -187,44 +182,72 @@
         <script src="/assets/js/notify.js"></script>
 <script>
 jq(document).ready( function($) {
-  
-  var pw_meter_news = $.cookie('pw_meter_news');
-  var it_pw_auth = $.cookie('IT_PW_AUTH');
-  if (pw_meter_news && pw_meter_news != ""
-    && (!(it_pw_auth || it_pw_auth == ""))
+
+    var pw_meter_news = $.cookie('pw_meter_news');
+    var it_pw_auth = $.cookie('IT_PW_AUTH');
+    if (pw_meter_news && pw_meter_news != ""
+        && (!(it_pw_auth || it_pw_auth == ""))
     ) {
-    var parts = pw_meter_news.split(".");
-  
-    var consumed = parseInt( parts[2], 10 );
-    
-  
-   if (consumed == 8
-      && jq(document.body).hasClass('isArticle')
-      && jq(document.body).hasClass('isMetered')
-      && location.href.indexOf('mode=sample') == -1) {
-      
-      jq.notify({
-        message: "You have read " + consumed + " of 10 free articles this week.",
-        prompt: "Try unlimited access for just \u20ac1. <span>Find out more</span>"
-      }, { 
-        globalPosition: 'bottom left',
-         //  autoHide: false
-        autoHideDelay: 8000
-      });
+        var parts = pw_meter_news.split(".");
+
+        var used_quota = parseInt( parts[2], 10 );
+        var max_quota = parseInt( parts[3], 10 );
+        var free_quota = max_quota - used_quota;
+
+        if (free_quota == 2
+            && jq(document.body).hasClass('isArticle')
+            && jq(document.body).hasClass('isMetered')
+            && location.href.indexOf('mode=sample') == -1) {
+
+            //show the toast
+            jq.notify({
+                //message: "You have read " + used_quota + " of " + max_quota + " free articles this week.",
+                message: "You have "+ free_quota + " free articles left this week.",
+                //message: "You have 2 free articles left this week.",
+                prompt: "Try unlimited access for just \u20ac1. <span>Find out more</span>"
+            }, {
+                globalPosition: 'bottom left',
+                //  autoHide: false
+                autoHideDelay: 8000
+            });
+
+            //fire a custom event
+            if ( dataLayer && Array.isArray(dataLayer) ) {
+                dataLayer.push({
+                    'category': 'Non Interaction Events',
+                    'action': 'Toast Message Triggered',
+                    'label': 'Find out more: Toast message - article '+used_quota+' of '+max_quota
+                }, {'event': 'data-layer-event'});
+
+            }
+
+
+        }
+
+        jq("#metermsg-storefront").click(function() {
+            if ( dataLayer && Array.isArray(dataLayer) ) {
+                dataLayer.push({
+                    'category': '/digital-subscriptions',
+                    'action': 'Go to StoreFront',
+                    'label': 'Find out more: Toast message - article ' + used_quota + ' of ' + max_quota
+                }, {'event': 'data-layer-event'});
+            }
+        });
     }
-  }
+
 });
 
 jq.notify.addStyle('bootstrap', {
-  html: 
+    html:
     "<div>" +
-        "<a href='/digital-subscriptions' class='toast-msg goto-storefront gtm-event' id='metermsg-storefront' data-evt-category='/digital-subscriptions' data-evt-action='Go to StoreFront'  data-evt-label='Find out more: Toast message' >" +
-          "<div class='notify-msg' data-notify-text='message'/>" +
-          "<div class='notify-prompt' data-notify-html='prompt'>" +
-          "</div>" +
-    	"</a>" +
+    "<a href='/digital-subscriptions' class='toast-msg goto-storefront' id='metermsg-storefront'>" +
+    "<div class='notify-msg' data-notify-text='message'/>" +
+    "<div class='notify-prompt' data-notify-html='prompt'>" +
+    "</div>" +
+    "</a>" +
     "</div>"
 });
+
 
 
 
@@ -232,26 +255,25 @@ jq.notify.addStyle('bootstrap', {
 
 <style type="text/css">
 
-.notifyjs-bootstrap-base{font-family:"DINWeb-Medium",Arial,Helvetica,sans-serif; font-size:15px; box-shadow:5px 5px 15px 0 rgba(0, 0, 0, 0.3); background-color:rgba(246,246,246, .9); padding:8px; border:1px solid #C6C6C6; border-top:3px solid #006666; text-align:center;}
-.notifyjs-bootstrap-base .notify-msg{color:#006666; font-size:110%; margin:5px 8px;}
-.notifyjs-bootstrap-base .notify-prompt{color:#515151;}
+    .notifyjs-bootstrap-base{font-family:"DINWeb-Medium",Arial,Helvetica,sans-serif; font-size:15px; box-shadow:5px 5px 15px 0 rgba(0, 0, 0, 0.3); background-color:rgba(246,246,246, .9); padding:8px; border:1px solid #C6C6C6; border-top:3px solid #006666; text-align:center;}
+    .notifyjs-bootstrap-base .notify-msg{color:#006666; font-size:110%; margin:5px 8px;}
+    .notifyjs-bootstrap-base .notify-prompt{color:#515151;}
 
-.notifyjs-bootstrap-base .notify-prompt span{background-color:#fad165; border-radius:4px; color:#333; display: inline-block; font-family: "DINWeb-Bold",Arial,Helvetica,sans-serif; 
-  font-size: 14px; line-height:15px; padding:9px 9px 5px; text-transform: uppercase; border: 1px solid #bb9c4b;}
+    .notifyjs-bootstrap-base .notify-prompt span{background-color:#fad165; border-radius:4px; color:#333; display: inline-block; font-family: "DINWeb-Bold",Arial,Helvetica,sans-serif;
+    font-size: 14px; line-height:15px; padding:9px 9px 5px; text-transform: uppercase; border: 1px solid #bb9c4b;}
 
-.lt-ie9 .notifyjs-bootstrap-base{ background-color:rgb(246,246,246);}
+    .lt-ie9 .notifyjs-bootstrap-base{ background-color:rgb(246,246,246);}
 
-@media only screen and (max-width: 768px) {
- 
-  .notifyjs-bootstrap-base{}
-  .notifyjs-bootstrap-base .notify-msg{font-size:100%;}
-  .notifyjs-bootstrap-base .notify-prompt{}
-  .notifyjs-bootstrap-base .notify-prompt span{display:none;}
+    @media only screen and (max-width: 768px) {
+
+    .notifyjs-bootstrap-base{}
+    .notifyjs-bootstrap-base .notify-msg{font-size:100%;}
+    .notifyjs-bootstrap-base .notify-prompt{}
+    .notifyjs-bootstrap-base .notify-prompt span{display:none;}
 }
 
 
 </style>
-
 
       
     
@@ -268,8 +290,8 @@ jq.notify.addStyle('bootstrap', {
               <i class="s-icon s-icon-search"></i>
               <span>Search</span>
             </a>
-          </li><!-- 
-          --><li class="newsletters"><a href="/newsletters"><i class="s-icon s-icon-newsletters"></i> <span>Newsletters</span></a></li><!-- 
+          </li><!--
+          --><li class="newsletters"><a href="/newsletters"><i class="s-icon s-icon-newsletters"></i> <span>Newsletters</span></a></li><!--
           --><li class="crosswords"><a href="/games/crosswords"><i class="s-icon s-icon-crossword"></i> <span>Crossword</span></a></li><!--
           --><li class="crosswords"><a href="http://notices.irishtimes.com/"><i class="s-icon s-icon-notices"></i> <span>Notices</span></a></li>
         </ul>
@@ -278,12 +300,12 @@ jq.notify.addStyle('bootstrap', {
         <ul>
         <li class="my-account">
           <a href="#" id="activate-myaccount" data-dropdown-menu="myaccount">
-            <i class="s-icon s-icon-signed-in"></i>
-            <span>My Account </span><i class="caret"></i>
+            <!-- <i class="s-icon s-icon-signed-in"></i> -->
+            <span>My Account</span>
+            <i></i>
+            <i></i>
+            <i></i>
           </a>
-        </li><!--
-        --><li class="signout">
-              <a href="#" id="activate-signout">Sign Out</a>
         </li><!--
         --><li class="subscribe">
               <a href="/digital-subscriptions" class="goto-storefront gtm-event" id="toolbar-storefront" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Top toolbar (desktop only)">Subscribe</a>
@@ -301,6 +323,7 @@ jq.notify.addStyle('bootstrap', {
       <div class="inner"></div>
     </div>
   </div>
+
       
     
     
@@ -411,7 +434,7 @@ jq.notify.addStyle('bootstrap', {
 
     	document.write('<scr'+'ipt language="javascript1.1" src="//adserver.adtech.de/addyn|3.0|826.1|4269189|0|225|ADTECH;cookie=info;loc=100;target=_blank;kvtopic=Privacy+Policy;grp='+window.adgroupid+android+';'+ kvprofile + ';' +kvusertype + ';' + kvarticlecount +';misc='+new Date().getTime()+'"></scri'+'pt>');
   	}
-  </script><script language="javascript1.1" src="//adserver.adtech.de/addyn|3.0|826.1|4269189|0|225|ADTECH;cookie=info;loc=100;target=_blank;kvtopic=Privacy+Policy;grp=712;null;kvusertype=0;;;misc=1582532140329"></script>
+  </script><script language="javascript1.1" src="//adserver.adtech.de/addyn|3.0|826.1|4269189|0|225|ADTECH;cookie=info;loc=100;target=_blank;kvtopic=Privacy+Policy;grp=829;null;kvusertype=0;;;misc=1582532119283"></script>
 	<noscript>
 	    	    			<a href="//adserver.adtech.de/adlink|3.0|826.1|4269189|0|225|ADTECH;loc=300;target=_blank;kvtopic=Privacy+Policy;cookie=info;" target="_blank">
 			<img src="//adserver.adtech.de/adserv|3.0|826.1|4269189|0|225|ADTECH;loc=300;target=_blank;kvtopic=Privacy+Policy;cookie=info;" border="0">
@@ -434,7 +457,7 @@ jq.notify.addStyle('bootstrap', {
 
 
 
- <div class="persistent-wrapper"> 
+ <div class="persistent-wrapper">
  <div id="persistent">
     <!-- Masthead area -->
     <div id="page-metadata" class="alternate">
@@ -446,7 +469,7 @@ jq.notify.addStyle('bootstrap', {
         <i class="s-icon s-icon-menu"></i><span>Menu</span>
       </div>
       <div id="logo"> <a href="/"> <span class="accessibility">The Irish Times</span> </a> </div>
-	  <div class="date">Thu, Dec 31, 2015</div>
+	  <div class="date">Tue, Jun 28, 2016</div>
       <div class="weather weather-landing" id="weatherWidget">
         <a href="/weather/">
 		  <div class="default-location">  <i class="s-icon s-icon-settings"></i></div>
@@ -466,16 +489,16 @@ jq.notify.addStyle('bootstrap', {
           <span class="signedout">Sign In</span>
           <span class="signedin">Welcome</span>
         </a>
-       </div> 
+       </div>
 
     </div>
     <div class="right-remainder">
       <div class="inner"></div>
     </div>
   </div>
-    
+
        <div id="primary-navigation">
-      <div class="section-navigation clearfix"> 
+      <div class="section-navigation clearfix">
         <div class="left-remainder">
             <div class="inner"></div>
         </div>
@@ -494,26 +517,28 @@ jq.notify.addStyle('bootstrap', {
 				                                    	                                                           					<li class="top-section video-section" role="menuitem"><a href="/video"><i class="s-icon s-icon-video"></i>Video</a></li>
 				                                    	                                                           					<li class="top-section podcast-section" role="menuitem"><a href="/podcasts"><i class="s-icon s-icon-podcast"></i>Podcasts</a></li>
 				                                                        	                                                           					<li class="top-section jobs-section" role="menuitem"><a href="http://execjobs.irishtimes.com/" target="blank">Executive Jobs</a></li>
-				        <li class="top-section subscribe">
-          <a href="/digital-subscriptions" class="goto-storefront gtm-event" id="sticky-storefront" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Sticky menu (desktop only)">Subscribe</a>
-        </li>
-        <li class="top-section my-account">
-          <a href="#" id="sticky-myaccount">
-            <i class="s-icon s-icon-signed-in"></i>
-            <span>My Account</span><i class="caret"></i>
-          </a>
-        </li>
-        <li class="top-section signout">
-          <a href="#">Sign Out</a>
-        </li>         
-        <li class="top-section signin">
+								<li class="top-section search">
+						<a href="#" id="sticky-search">
+							<i class="s-icon s-icon-search"></i>
+							<span>Search</span>
+						</a>
+				</li>
+				<div class="right-utilities">
+        	<li class="top-section subscribe">
+          	<a href="/digital-subscriptions" class="goto-storefront gtm-event" id="sticky-storefront" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Sticky menu (desktop only)">Subscribe</a>
+        	</li>
+        	<li class="top-section my-account">
+          	<a href="#" id="sticky-myaccount">
+            	<span>My Account</span>
+							<i></i>
+							<i></i>
+							<i></i>
+          	</a>
+        	</li>
+        	<li class="top-section signin">
             <a href="#" id="sticky-signin">Sign In</a>
-        </li>
-        <li class="top-section search">
-            <a href="#" id="sticky-search">
-              <i class="s-icon s-icon-search"></i>
-            </a>
-        </li>
+        	</li>
+				</div>
       </ul>
             </nav>
         </div>
@@ -523,7 +548,7 @@ jq.notify.addStyle('bootstrap', {
         </div>
       </div>
 
-    <div class="sub-navigation clearfix"> 
+    <div class="sub-navigation clearfix">
       <div class="left-remainder">
           <div class="inner"></div>
       </div>
@@ -540,7 +565,7 @@ jq.notify.addStyle('bootstrap', {
           <div class="inner"></div>
         </div>
    	</div>
-    
+
  </div>
 </div></div>
   
@@ -751,7 +776,220 @@ By using this website, you consent to our use of cookies. For more information o
     
         
 
+<div class="row">
+  <div class="span4">
+		<h3 class="section-title ">
+			<a href="/video"><span>				Video
+			</span></a>		</h3>
+  </div>
+</div>
 
+      
+    
+    
+        
+
+
+
+
+
+
+
+<div class="twotabs large-tabs frontpage">	
+	
+	
+	<ul class="nav nav-tabs sidebar_tabs">
+		<li class="left left-tab active"><a data-toggle="tab" href="#left-tab72884835" onclick="_gaq.push(['_trackEvent','Two Tabs', 'Video Choice &amp; Most Viewed', (jq(this).parents( '.left-tab' ).length == 1 ? 'LEFT Tab clicked [Video Choice]' : 'RIGHT Tab clicked [Most Viewed]') ]);">Video Choice</a></li>
+		<li class="right right-tab"><a data-toggle="tab" href="#right-tab72884835" onclick="_gaq.push(['_trackEvent','Two Tabs', 'Video Choice &amp; Most Viewed', (jq(this).parents( '.left-tab' ).length == 1 ? 'LEFT Tab clicked [Video Choice]' : 'RIGHT Tab clicked [Most Viewed]') ]);">Most Viewed</a></li>
+	</ul>
+
+	<div class="tab-content">
+		<div class="row tab-pane fade in active" id="left-tab72884835">
+			<div class="span4">
+				 
+                  
+    
+  
+    
+  
+    
+    
+        
+				
+	
+			
+	<div class="row section alsoin">
+		<div class="span4">
+      
+	  		</div>
+									
+				                				
+																
+				<div class="span4 trending btm-line" expid="myExperience12701888">
+					<a href="/sport/euro-2016/robbie-keane-the-journey-is-only-beginning-with-these-young-players-1.2701888">
+																					<span class="img"> <img src="/polopoly_fs/1.2701888.1467049371!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Robbie Keane: 'The journey is only beginning with these young players'" title=""><span class="video-icon"><i></i><span class="duration">1:31</span></span></span> 
+																										<span class="h4">Robbie Keane: 'The journey is only beginning with these young players'</span>
+											</a>
+				</div>
+												
+				                				
+																
+				<div class="span4 trending btm-line" expid="myExperience12701625">
+					<a href="/enda-kenny-outlines-plan-for-dealing-with-brexit-1.2701625">
+																					<span class="img"> <img src="/polopoly_fs/1.2701625.1467036076!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Enda Kenny outlines plan for dealing with Brexit" title=""><span class="video-icon"><i></i><span class="duration">3:15</span></span></span> 
+																										<span class="h4">Enda Kenny outlines plan for dealing with Brexit</span>
+											</a>
+				</div>
+												
+				                				
+																
+				<div class="span4 trending btm-line" expid="myExperience12701484">
+					<a href="/sport/euro-2016/how-ireland-s-fans-won-euro-2016-1.2701484">
+																					<span class="img"> <img src="/polopoly_fs/1.2701484.1467024907!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="How Ireland's fans won Euro 2016" title=""><span class="video-icon"><i></i><span class="duration">1:36</span></span></span> 
+																										<span class="h4">How Ireland's fans won Euro 2016</span>
+											</a>
+				</div>
+												
+				                				
+																
+				<div class="span4 trending btm-line" expid="myExperience12701634">
+					<a href="/news/world/lgbt-communities-around-the-world-show-their-pride-1.2701634">
+																					<span class="img"> <img src="/polopoly_fs/1.2701634.1467037902!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="LGBT+ communities around the world show their Pride" title=""><span class="video-icon"><i></i><span class="duration">0:57</span></span></span> 
+																										<span class="h4">LGBT+ communities around the world show their Pride</span>
+											</a>
+				</div>
+												
+				                				
+																
+				<div class="span4 trending btm-line" expid="myExperience12701452">
+					<a href="/news/world/uk/brexit-boris-johnson-claims-project-fear-is-over-1.2701452">
+																					<span class="img"> <img src="/polopoly_fs/1.2701452.1467021419!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Brexit: Boris Johnson claims 'project fear' is over" title=""><span class="video-icon"><i></i><span class="duration">1:23</span></span></span> 
+																										<span class="h4">Brexit: Boris Johnson claims 'project fear' is over</span>
+											</a>
+				</div>
+																</div>
+
+      
+  
+      			</div>
+		</div>	
+		<div class="row tab-pane fade" id="right-tab72884835">	
+			<div class="span4">
+				
+                  
+    
+  
+    
+  
+    
+    
+        
+
+<div class="row section alsoin trendingvideos">
+                       
+  		  	
+        
+       
+          
+        <div class="span4 trending btm-line">
+          <a href="/news/world/brexit/from-pensions-to-holidays-how-brexit-will-affect-you-1.2698692" onclick="_gaq.push(['_trackEvent', 'Trending Videos Element', 'Clicked: '+(jq(this).attr('href')), 'From: '+whichPosition( jq(this) ) ]); ">
+                          <span class="img"> <img src="/polopoly_fs/1.2698692.1466785204!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="From pensions to holidays, how Brexit will affect you" title=""><span class="video-icon"><i></i> 2:08</span></span> 
+              
+              
+            <span class="h4">
+                                From pensions to holidays, how Brexit will affect you
+                            
+            </span>
+          </a>
+        </div>
+        
+                                  
+  		  	
+        
+       
+          
+        <div class="span4 trending btm-line">
+          <a href="/news/ireland/irish-news/tens-of-thousands-turn-out-for-dublin-pride-1.2700269" onclick="_gaq.push(['_trackEvent', 'Trending Videos Element', 'Clicked: '+(jq(this).attr('href')), 'From: '+whichPosition( jq(this) ) ]); ">
+                          <span class="img"> <img src="/polopoly_fs/1.2700269.1466890451!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Tens of thousands turn out for Dublin Pride" title=""><span class="video-icon"><i></i> 1:36</span></span> 
+              
+              
+            <span class="h4">
+                                Tens of thousands turn out for Dublin Pride
+                            
+            </span>
+          </a>
+        </div>
+        
+                                  
+  		  	
+        
+       
+          
+        <div class="span4 trending btm-line">
+          <a href="/news/world/police-officer-halts-london-s-pride-parade-to-propose-to-boyfriend-1.2700329" onclick="_gaq.push(['_trackEvent', 'Trending Videos Element', 'Clicked: '+(jq(this).attr('href')), 'From: '+whichPosition( jq(this) ) ]); ">
+                          <span class="img"> <img src="/polopoly_fs/1.2700329.1466942063!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Police officer halts London's Pride parade to propose to boyfriend " title=""><span class="video-icon"><i></i> 1:05</span></span> 
+              
+              
+            <span class="h4">
+                                Police officer halts London's Pride parade to propose to boyfriend 
+                            
+            </span>
+          </a>
+        </div>
+        
+                                  
+  		  	
+        
+       
+          
+        <div class="span4 trending btm-line">
+          <a href="/news/world/uk/brexit-a-political-disaster-of-first-magnitude-1.2698103" onclick="_gaq.push(['_trackEvent', 'Trending Videos Element', 'Clicked: '+(jq(this).attr('href')), 'From: '+whichPosition( jq(this) ) ]); ">
+                          <span class="img"> <img src="/polopoly_fs/1.2698103.1466779941!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="Brexit: 'A political disaster of first magnitude'" title=""><span class="video-icon"><i></i> 3:41</span></span> 
+              
+              
+            <span class="h4">
+                                Brexit: 'A political disaster of first magnitude'
+                            
+            </span>
+          </a>
+        </div>
+        
+                                  
+  		  	
+        
+       
+          
+        <div class="span4 trending btm-line">
+          <a href="/sport/euro-2016/how-ireland-s-fans-won-euro-2016-1.2701484" onclick="_gaq.push(['_trackEvent', 'Trending Videos Element', 'Clicked: '+(jq(this).attr('href')), 'From: '+whichPosition( jq(this) ) ]); ">
+                          <span class="img"> <img src="/polopoly_fs/1.2701484.1467024907!/image/image.jpg_gen/derivatives/box_140/image.jpg" alt="How Ireland's fans won Euro 2016" title=""><span class="video-icon"><i></i> 1:36</span></span> 
+              
+              
+            <span class="h4">
+                                How Ireland's fans won Euro 2016
+                            
+            </span>
+          </a>
+        </div>
+        
+                                                                                                                                                                           </div>
+
+      
+  
+      			</div>
+		</div>
+	</div>
+</div>
+<script>
+jq('.twotabs a[data-toggle="tab"]').on('shown', function(e) {
+    reduceGap();
+});
+</script>
+      
+    
+    
+        
+
+      	  	  	  	  	  	  
 
 
 
@@ -759,17 +997,16 @@ By using this website, you consent to our use of cookies. For more information o
 
 <div class="row">
 	<div class="span4">
-										<div class="feature_box  horizontal clearfix debate">
+										<div class="feature_box   clearfix sport">
 								    		
-    			        			        				<a href="http://edition.pagesuite-professional.co.uk//launch.aspx?pbid=349f0831-3024-43f3-a67a-641aa7a9f804" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);"> 
+    			        			        				<a href="/sport/euro-2016" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourVertical - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);">
         			        			                        			        			       <span class="img">
-        						                                                                                        	        <img title="" height="140" alt="2016 Calendar available to view" width="140" src="/polopoly_fs/1.2475157.1450800300!/image/image.jpg_gen/derivatives/box_140_140/image.jpg">                                            				</span>
+        						                                                                                        	        <img title="" height="172" alt="" width="300" src="/polopoly_fs/1.2689171.1466177621!/image/image.jpg_gen/derivatives/box_300/image.jpg">                                            				</span>
             										</a>
 				    			        			<div class="feature_text">
-        				            				<a href="http://edition.pagesuite-professional.co.uk//launch.aspx?pbid=349f0831-3024-43f3-a67a-641aa7a9f804" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);">
-            			                											<span class="h2">Martyn Turner </span>
-                			                											<span class="p">2016 calendar available to view, print or download (PDF)</span>
-                			        				</a>
+        				            				<a href="/sport/euro-2016" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourVertical - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);">
+            			                											<span class="h2">All the thrills and spills from the European Championships</span>
+                			                			        				</a>
         			</div>
         			<div class="border_bottom">&nbsp;</div>
 							</div>
@@ -839,30 +1076,37 @@ jq( document ).on( "click", "#vf-md .vf-articles .vf-article-body > a", function
     
         
 
-      	  	  	  	  	  	  
-
-
-
-
-
 <div class="row">
-	<div class="span4">
-										<div class="feature_box   clearfix">
-				    		
-    			        			        				<a href="/student-hub" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourVertical - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);">
-        			        			                        			        			       <span class="img">
-        						                                                                                        	        <img title="" height="172" alt="" width="300" src="/polopoly_fs/1.2424086.1447158533!/image/image.jpg_gen/derivatives/box_300/image.jpg">                                            				</span>
-            										</a>
-				    			        			<div class="feature_text">
-        				            				<a href="/student-hub" onclick="_gaq.push(['_trackEvent','Editor Feature Box', 'Clicked: '+(jq(this).attr('href')), 'spanFourVertical - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')]);">
-            			                											<span class="h2">Student Hub</span>
-                			                											<span class="p">The Irish Times launches a new service for third-level students</span>
-                			        				</a>
-        			</div>
-        			<div class="border_bottom">&nbsp;</div>
-							</div>
-			</div>
+  <div class="span4">
+		<h3 class="section-title ">
+			<a href="/podcasts"><span>				Podcasts
+			</span></a>		</h3>
+  </div>
 </div>
+
+      
+    
+    
+        
+<div class="row section">
+  <div class="span4">
+      </div>
+  <div class="span4 ">
+	<iframe width="300" height="395" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/23971207&amp;color=cc0000&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=false&amp;show_comments=false&amp;show_playcount=false"></iframe>
+  </div>
+</div>
+
+      
+    
+    
+        <p><iframe frameborder="0" id="mdgxWidgetiFrame" src="//www.irishtimes.com/madgex-widget-7.3557396?ot=example.AjaxPageLayout.ot" style="width: 100%; border: 0; height: 300px; background: 0"></iframe></p>
+
+      
+    
+    
+        <p>
+	<a class="gtm-event goto-storefront" data-evt-action="Go to StoreFront" data-evt-category="/digital-subscriptions" data-evt-label="Find out more: Gifting tile on homepage" href="http://www.irishtimes.com/gift"><img alt="gifting" src="/polopoly_fs/1.2496626!/image/image.jpg_gen/derivatives/landscape_300/image.jpg"></a></p>
+
 
       
     
@@ -890,22 +1134,20 @@ jq( document ).on( "click", "#vf-md .vf-articles .vf-article-body > a", function
 												    						
     							
 								    							<div class="image first">
-    								  <a href="&#9;&#9;&#9;&#9;&#9;&#9;&#9;/news/ireland/irish-news/storm-frank-1.2480371&#9;">
-										                    						<img title="A massive wave break over the promenade at Tramore, Co Waterford, during Storm Frank. Photograph: Noel Browne
-" height="160" alt="A massive wave break over the promenade at Tramore, Co Waterford, during Storm Frank. Photograph: Noel Browne
-" width="300" src="/polopoly_fs/1.2481028.1451554236!/image/image.jpg_gen/derivatives/box_300_160/image.jpg">																				<i class="icon"></i>
+    								  <a href="&#9;&#9;&#9;&#9;&#9;&#9;&#9;/business/images-of-the-day-1.2701841&#9;">
+										                    						<img title="TWIN CUBS: Giant panda Xin Xin cares for one of two newborn twin baby pandas at the Giant Panda Pavilion at Coloane, Macau, June 27th, 2016. The larger cub weighed 138g (0.3 lb) and the smaller cub, weighing just 53.8g, was taken into intensive care. Photograph: Macau Government Information Bureau/AFP/Getty Images" height="160" alt="TWIN CUBS: Giant panda Xin Xin cares for one of two newborn twin baby pandas at the Giant Panda Pavilion at Coloane, Macau, June 27th, 2016. The larger cub weighed 138g (0.3 lb) and the smaller cub, weighing just 53.8g, was taken into intensive care. Photograph: Macau Government Information Bureau/AFP/Getty Images" width="300" src="/polopoly_fs/1.2701829.1467047801!/image/image.jpg_gen/derivatives/box_300_160/image.jpg">																				<i class="icon"></i>
 										            								<span class="title">
-												Storm Frank
+												Images of the Day
                                             </span>
 										        							</a>
 								</div>
 																					    						
     							
 								    							<div class="image ">
-    								  <a href="&#9;&#9;&#9;&#9;&#9;&#9;&#9;/news/ireland/irish-news/images-of-the-day-1.2480605&#9;">
-										                    						<img title="STORM FRANK: Firemen deal with a flooded SuperValu on Lower Main Street in Graiguenamanagh, Co Kilkenny. Photograph: Dylan Vaughan
-" height="160" alt="STORM FRANK: Firemen deal with a flooded SuperValu on Lower Main Street in Graiguenamanagh, Co Kilkenny. Photograph: Dylan Vaughan
-" width="300" src="/polopoly_fs/1.2480595.1451499058!/image/image.jpg_gen/derivatives/box_300_160/image.jpg">																				<i class="icon"></i>
+    								  <a href="&#9;&#9;&#9;&#9;&#9;&#9;&#9;/news/ireland/irish-news/images-of-the-day-1.2700685&#9;">
+										                    						<img title="THE DREAM IS OVER: Irish fans watch in Smithfield, Dublin, as Ireland lost 2-1 to France in their last 16 tie at the European Championship. Photograph: Gareth Chaney Collins
+" height="160" alt="THE DREAM IS OVER: Irish fans watch in Smithfield, Dublin, as Ireland lost 2-1 to France in their last 16 tie at the European Championship. Photograph: Gareth Chaney Collins
+" width="300" src="/polopoly_fs/1.2700672.1466964774!/image/image.jpg_gen/derivatives/box_300_160/image.jpg">																				<i class="icon"></i>
 										            								<span class="title">
 												Images of the Day
                                             </span>
@@ -918,44 +1160,6 @@ jq( document ).on( "click", "#vf-md .vf-articles .vf-article-body > a", function
 			
 		</div>
 	</div>
-
-      
-    
-    
-        <p>
-	<iframe frameborder="0" id="mdgxWidgetiFrame" src="https://execjobs.irishtimes.com/widget/bootstrap/job/#i=4" style="width: 100%; border: 0; height: 424px; background: 0"></iframe></p>
-
-      
-    
-    
-        
-
-<div class="row">
-  <div class="span4">
-		<h3 class="section-title ">
-			<a href="/podcasts"><span>				Podcasts
-			</span></a>		</h3>
-  </div>
-</div>
-
-      
-    
-    
-        
-<div class="row section">
-  <div class="span4">
-      </div>
-  <div class="span4 ">
-	<iframe width="300" height="395" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/23971207&amp;color=cc0000&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=false&amp;show_comments=false&amp;show_playcount=false"></iframe>
-  </div>
-</div>
-
-      
-    
-    
-        <p>
-	<a class="gtm-event goto-storefront" data-evt-action="Go to StoreFront" data-evt-category="/digital-subscriptions" data-evt-label="Find out more: Gifting tile on homepage" href="http://www.irishtimes.com/gift"><img alt="gifting" src="/polopoly_fs/1.2471119!/image/image.jpg_gen/derivatives/landscape_300/image.jpg"></a></p>
-
 
       
     
@@ -1065,6 +1269,7 @@ jq(document).ready( function() {
         success: function (data, status) {
           var digestSelection = jq('input[name=digestSelection]:checked', '#newsdigest-form'  ).val();
           _gaq.push([ '_trackEvent', 'Digest Signup', 'digestSelection', digestSelection ]);
+          dataLayer.push({'digest-signup': 'News Digest Signup'},{'event': 'digest-signup-event'});
         },
         complete: function (data, status) {    
           if (data.status != 200) {
@@ -1168,7 +1373,7 @@ jq(document).ready( function() {
 
 
 	<style>
-	#commercialFeature_390040910_7_2997642.internal-advertisement > a {		
+	#commercialFeature_8446466_7_2997642.internal-advertisement > a {		
 						
 
 			background-image: url(/polopoly_fs/1.2356609.1442566038!/image/image.jpg);
@@ -1181,7 +1386,7 @@ jq(document).ready( function() {
 
 
 <div class="row">
-	<div id="commercialFeature_390040910_7_2997642" class="span4 internal-advertisement no-top-margin">
+	<div id="commercialFeature_8446466_7_2997642" class="span4 internal-advertisement no-top-margin">
 			<a class="generic" href="https://www.irishtimes.com/offers/irish-times-books">
 				<span class="h3">Great reads</span>
 			<span class="p">From crosswords to great wines and the best bits from The Irish Times - Buy an Irish Times Book today </span>
@@ -1228,7 +1433,7 @@ jq(document).ready( function() {
 .successOverlay p.thanks {font-size:16px !important;}
 .successOverlay p.thanks2 {font-size:13px !important;}
 
-#rewarding-times-form {padding:80px 4px 0 4px; width:290px !important; background:url('http://www.irishtimes.com/polopoly_fs/1.2266795.1435587203!/image/image.png') no-repeat top left;}
+#rewarding-times-form {padding:80px 4px 0 4px; width:290px !important; background:url('//www.irishtimes.com/polopoly_fs/1.2266795.1435587203!/image/image.png') no-repeat top left;}
 
 #rewarding-times-form .digestSelection li  { width:95px !important;}
 
@@ -1397,7 +1602,7 @@ jq(document).ready( function() {
 
 
 	<style>
-	#commercialFeature_390040914_7_2465934.internal-advertisement > a {		
+	#commercialFeature_8446468_7_2465934.internal-advertisement > a {		
 						
 
 			background-image: url(/polopoly_fs/1.1495231.1376579681!/image/image.jpg);
@@ -1410,7 +1615,7 @@ jq(document).ready( function() {
 
 
 <div class="row">
-	<div id="commercialFeature_390040914_7_2465934" class="span4 internal-advertisement no-top-margin">
+	<div id="commercialFeature_8446468_7_2465934" class="span4 internal-advertisement no-top-margin">
 			<a class="generic" href="/news/weather">
 				<span class="h3">Weather</span>
 			<span class="p">Check the five-day forecast in your area</span>
@@ -1519,7 +1724,7 @@ jq(document).ready( function() {
             </div>
         </div>
         <div class="span6">
-            <div class="apps"> <a target="_blank" href="https://itunes.apple.com/ie/artist/the-irish-times-ltd/id365544597"> <img alt="Download on the App Store" src="/assets/images/icons/apps/app-store.png" width="106" height="32"> </a> <a target="_blank" href="https://play.google.com/store/apps/developer?id=The+Irish+Times+Ltd"> <img alt="Download on Google Play" src="/assets/images/icons/apps/google-play.png" width="106" height="32"> </a> </div>
+            <div class="apps"> <a target="_blank" href="https://itunes.apple.com/ie/artist/the-irish-times-ltd/id365544597&amp;app=itunes"> <img alt="Download on the App Store" src="/assets/images/icons/apps/app-store.png" width="106" height="32"> </a> <a target="_blank" href="https://play.google.com/store/apps/developer?id=The+Irish+Times+Ltd"> <img alt="Download on Google Play" src="/assets/images/icons/apps/google-play.png" width="106" height="32"> </a> </div>
           </div>
         </div>
       </div><!-- /#connect --> 
@@ -1622,6 +1827,163 @@ jq(document).ready( function() {
   
     
     
+        <style>
+span.at4-visually-hidden {
+  position: absolute !important;
+}
+
+.at-share-tbx-element .at-share-btn:focus, .at-share-tbx-element .at-share-btn:hover {
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  outline-offset: 0px;
+}
+
+</style>
+
+
+      
+    
+    
+        <style>
+/* CS-83 */
+.headline-over.index_story .affiliation{
+	margin:0 0 10px 0;
+}
+
+/* EURO-115 */
+.spt_message{
+	margin-bottom:20px;
+}
+
+/* Euro 2016 - Scorer Font Size */
+
+.euro16-widget .tlds_euro_top_scorers.s1 .scorer span.player{
+	font-size:13px;
+}
+
+/* Euro 2016 - Scoreboard Fixtures */
+.euro16-widget.scoreboard .match.fixture .m_status span {
+    font-size: 16px;
+    line-height: 26px;
+}
+.euro16-widget.scoreboard .match.fixture .m_venue{
+	margin-top: 10px;	
+}
+	/* Scoreboard Result Tweaks */
+	.euro16-widget.scoreboard .tlds_euro_scoreboard.s1 .m_score span {
+    	background: #1d2134;
+    	color: #fff;
+	}
+	
+/* Match Statistics Tweaks */
+.tlds_euro_match_stats h6{
+	display:none;
+}
+.tlds_euro_match_stats .m_home, .tlds_euro_match_stats .m_away{
+	line-height:17px!important;
+}
+
+/* Sponsored Teaser Homepage when in position 9 alongside taller teaser -- cs_teaser.css*/
+
+.span8 .row:nth-child(5) .index_story.background:before, .span8 .row:nth-child(5) .index_story.background:after{
+	border-bottom:none;
+}
+
+/* Euro 2016 Article Sticky Menu */
+
+.euro16-stickymenu {
+  padding: 0;
+}
+#column-wrap.is_stuck{
+top:60px!important;
+}
+#column-wrap.is_stuck.bottomed{
+top:auto!important;
+}
+.euro16-stickymenu h3 {
+  font-family: "DinWeb-Medium";
+  margin-bottom: 0;
+  font-size: 20px;
+  padding-bottom:0;
+}
+.euro16-stickymenu h3:after {
+  content: "";
+  height: 5px;
+  width: 100%;
+  display: block;
+  background-image: -webkit-linear-gradient(left, #3f456d 0%, #9a3a45 50%, #e23225 75%, #e23225 100%);
+  background-image: linear-gradient(to right, #3f456d 0%, #9a3a45 50%, #e23225 75%, #e23225 100%);
+  margin-top: 5px;
+}
+.euro16-stickymenu a {
+  text-decoration: none;
+  display: block;
+  position: relative;
+  padding: 8px 0;
+}
+.euro16-stickymenu a:after {
+  position: absolute;
+  border-style: solid;
+  border-width: 0.10em 0.10em 0 0;
+  content: '';
+  display: block;
+  height: 10px;
+  right: 8px;
+  top: 25px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  vertical-align: middle;
+  width: 10px;
+  color: #dedede;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.euro16-stickymenu a:hover:after {
+  color: #2c3351;
+  right: 5px;
+}
+.euro16-stickymenu ul {
+  list-style-type: none;
+  margin: 0;
+  padding:10px 15px;
+  border-left: 1px solid #e9e9e9;
+  border-right: 1px solid #e9e9e9;
+  border-bottom: 2px solid #d5d5d5;
+}
+.euro16-stickymenu li {
+  padding: 0;
+  border-bottom: 1px solid #d2d2d2;
+}
+.euro16-stickymenu li:last-child {
+  border-bottom: none;
+}
+.euro16-stickymenu span {
+  display: block;
+  line-height: 20px;
+  font-size: 14px;
+  color: #888;
+  font-family: "Helvetica";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.euro16-stickymenu span.feature-title {
+  font-family: "DinWeb-Medium";
+  color: #2c3351;
+  font-size: 16px;
+}
+
+
+@media only screen and (max-width: 767px){
+.tlds_euro_match_stats .m_home, .tlds_euro_match_stats .m_away {
+    line-height: 12px!important ;
+	
+}
+</style>
+
+
+      
+    
+    
         <script>
 jq(document).ready(function() {
   var minWidth = 1100;
@@ -1681,60 +2043,102 @@ jq(document).ready(function() {
     
           <div id="mobile-signin" class="sb-slidebar sb-right sb-style-push sb-width-wide">
     <div class="signin">
-        <h4><span class="s-icon s-icon-lock"></span>Sign In</h4>
-        <form action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post">
-          <div>
-            <input type="email" name="signin-email" id="signin-email-mobile" autocorrect="off" autocapitalize="off" placeholder="Email">
-          </div>
-          <div>
-            <input type="password" name="signin-password" id="signin-password-mobile" placeholder="Password">
-          </div>
-          <div>
-            <button type="submit" class="btn btn-small">Sign In</button>
-          </div>
-          <div class="error">
-            <p></p>
-          </div>
+        <h4>Sign In</h4>
+				<div class="userlog">
+	        <form id="sign-inForm__Mobile" action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post">
+						<div class="form-element">
+	          	<span class="input-holder">
+	            	<input type="email" name="signin__email__mobile" id="signin-email-mobile" autocorrect="off" autocapitalize="off" placeholder="Email Address" onfocus="this.placeholder = 'Email Address' onblur=" this.placeholder="Email Address" "="">
+								<label for="signin-email-mobile" class="error" generated="true"></label>
+	          	</span>
+						</div>
+						<div class="form-element">
+	          	<span class="input-holder">
+	            	<input type="password" name="signin__password__mobile" id="signin-password-mobile" placeholder="Password" onfocus="this.placeholder = 'Password'" this.placeholder="Password" "="">
+							 	<label for="signin-password-mobile" class="error" generated="true"></label>
+	          	</span>
+						</div>
+	          <div>
+	            <button type="submit" class="btn btn-small sign-in-btn"><span>Sign In</span></button>
+	          </div>
+	          <div class="error">
+	            <p></p>
+	          </div>
+					</form></div>
           <a href="/myaccount/forgot" class="forgot-pw">Forgot Password?</a>
-          <h5>Don't have an account?</h5> 
-          <a class="subscribe goto-storefront gtm-event" id="mobilesignin-storefront" href="/digital-subscriptions" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Mobile sign in area (pushes out from RHS)">Subscribe</a>   
-        </form>
+					<div class="subscribe-panel">
+    				<div class="subscribe-cta">
+          		<h5>Don't have an account?</h5>
+          		<a class="subscribe goto-storefront gtm-event" id="mobilesignin-storefront" href="/digital-subscriptions" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Mobile sign in area (pushes out from RHS)">Subscribe</a>
+							</div>
+					</div>
+				
     </div>
     <div class="signout">
-      <h4> </h4>
-		  <span class="mobile-divider"></span>       
-          <div class="myservices">
-		  <ul>
-				<li class="h5"><span>Subscriber quick links</span></li> 
-		  </ul>
-			<ul class="links">
-				<li><a href="/premium/loginpage">Newspaper Archive</a></li>
-				<li><a href="/games/crosswords">Crossword Club</a></li>
-				<li><a href="/it-sunday">IT Sunday</a></li>
-				<li><a href="/more/ebooks">eBooks</a></li>
-				<li><a href="/subscriber-benefits">Subscriber Benefits</a></li>
-				<li><a href="/myaccount">My Account</a></li> 
-			</ul>	
-			<span class="mobile-divider"></span>	
-			<ul>
-				<li class="sign-out-btn"><span>Sign Out</span></li> 
-			</ul>
+			<h4> </h4>
+      <div class="myservices">
+				<ul id="subscriber-menu" class="links">
+					<li class="e-paper">
+						<a href="/digital-edition" id="epaper-app2"><b>The ePaper</b></a>
+					</li>
+					<li class="ebooks">
+						<a href="/more/ebooks">
+							<b>eBooks</b>
+						</a>
+					</li>
+					<li class="benefit">
+						<a href="/subscriber-benefits">
+							<b>Subscriber Rewards</b>
+						</a>
+					</li>
+					<li class="itsunday">
+						<a href="/it-sunday">
+							<b>IT Sunday</b>
+						</a>
+					</li>
+					<li class="newsletters">
+						<a href="/newsletters">
+							<b>Email Newsletters</b>
+						</a>
+					</li>
+					<li class="breaking-news">
+						<a id="bnews-app2" href="/apps"><b>Breaking news app</b></a>
+					</li>
+					<li class="myaccount">
+						<a href="/myaccount">
+							<b>My Account</b>
+						</a>
+					</li>
+					<li class="archive">
+						<a href="/arch-mobile-message">
+							<b>Newspaper Archive</b>
+						</a>
+					</li>
+					<li class="crossword">
+						<a href="/cross-mobile-message">
+							<b>Crossword Club</b>
+						</a>
+					</li>
+				</ul>
+				<ul>
+					<li class="sign-out-btn"><span>Sign Out</span></li>
+				</ul>
 		  </div>
     </div>
   </div>
 	<div id="mobile-navigation" class="sb-slidebar sb-left sb-style-push sb-width-wide">
 		<div class="mobile-top">
-			
+
 			<span class="IT-logo"><a href="/"></a></span><span class="subscribe"><a id="mobilemenu-storefront" class="goto-storefront gtm-event" href="/digital-subscriptions" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Mobile menu (pushes out from LHS)">SUBSCRIBE</a></span>
 		</div>
 		<div class="mobile-search">
 									
 						  			  			
 						<form action="/search/search-7.1213540" method="get" autocomplete="off">
-			
+
 			<input type="text" name="q" id="mobile-search" autocorrect="off" autocapitalize="off" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
 			<button type="submit" class="btn search-btn"></button>
-			
+
 			</form>
 		</div>
 		<!-- Mobile Weather Row -->
@@ -1750,7 +2154,7 @@ jq(document).ready(function() {
 						</div>
 						<div class="temp"></div>
 						<div class="date-location">
-							<time class="date">Thu 31/12/2015</time>
+							<time class="date">Tue 28/6/2016</time>
 							<div class="default-location"></div>
 						</div>
 					</a>
@@ -1762,7 +2166,8 @@ jq(document).ready(function() {
 	                                                                                      								            	<li class="nav-level-1 with-subs news-section  "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news&#9;">News</a><!--
 --><span class="toggle" data-toggle="collapse" data-target="#news-sub"> <span class="caret-light"></span> </span>
           			<ul class="nav-level-2-list collapse" id="news-sub" data-parent="#mobile-navigation" data-control=".with-subs.news-section">
-	          							          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/election-2016&#9;">Election 2016</a> </li>
+	          							          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/world/brexit&#9;">Brexit</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/euro-2016&#9;">Euro 2016</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/ireland&#9;">Ireland</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/world&#9;">World</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/politics&#9;">Politics</a> </li>
@@ -1770,19 +2175,21 @@ jq(document).ready(function() {
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/social-affairs&#9;">Social Affairs</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/health&#9;">Health</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/news/education&#9;">Education</a> </li>
-				          						          					          					          					          					          					          					          					          					          					          					          					          					          					          					          					          					          		        		</ul>
+				          						          					          					          					          					          					          					          					          					          					          					          					          					          					          					          		        		</ul>
                           		</li>
                                                                                           								            	<li class="nav-level-1 with-subs sport-section  "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport&#9;">Sport</a><!--
 --><span class="toggle" data-toggle="collapse" data-target="#sport-sub"> <span class="caret-light"></span> </span>
           			<ul class="nav-level-2-list collapse" id="sport-sub" data-parent="#mobile-navigation" data-control=".with-subs.sport-section">
-	          							          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/rugby&#9;">Rugby</a> </li>
+	          							          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/euro-2016&#9;">Euro 2016</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/rugby&#9;">Rugby</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/soccer&#9;">Soccer</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/gaelic-games&#9;">Gaelic Games</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/golf&#9;">Golf</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/racing&#9;">Racing</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/other-sports&#9;">Other Sports</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/women-in-sport&#9;">Women in Sport</a> </li>
 				          						          					          													          		<li class="nav-level-2-item "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/sport/comment&#9;">Comment</a> </li>
-				          						          		        		</ul>
+				          						          					          					          		        		</ul>
                           		</li>
                                                                                           								            	<li class="nav-level-1 with-subs business-section  "><a href="&#9;&#9;  &#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;/business&#9;">Business</a><!--
 --><span class="toggle" data-toggle="collapse" data-target="#business-sub"> <span class="caret-light"></span> </span>
@@ -1884,67 +2291,108 @@ jq(document).ready(function() {
                                     
                 <form action="/search/search-7.1213540" method="get" autocomplete="off">
           <div>
-            <input type="text" name="q" id="header-search" autocorrect="off" autocapitalize="off" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
+            <input type="text" name="q" id="header-search" autocorrect="off" autocapitalize="off" placeholder="Search" onfocus="this.placeholder = 'Search'" onblur="this.placeholder = 'Search'">
             <button type="submit" class="btn sign-in"></button>
           </div>
         </form>
       </div>
-      <div class="pushup close"><i class="s-icon s-icon-close"></i></div>
+      <!-- <div class="pushup close"><i class="s-icon s-icon-close"></i></div> -->
     </div>
     <div class="toolbar-pushdown signin-pushdown" id="signin-pushdown">
       <div class="container">
-        <form action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post">
+				<div class="signin-dropdown">
+        	<form action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post" id="sign-inForm">
           <div>
-            <span class="s-icon s-icon-lock"></span>
-			<input type="email" tabindex="1" name="signin-email" id="signin-email" autocorrect="off" autocapitalize="off" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'">
+						<input type="email" tabindex="1" name="signin__email" id="signin__email" autocorrect="off" autocapitalize="off" placeholder="Email Address" onfocus="this.placeholder = 'Email Address' onblur=" this.placeholder="Email Address" "="">
+						<label for="signin__email" class="error" generated="true"></label>
           </div>
           <div>
-            <input type="password" tabindex="2" name="signin-password" id="signin-password" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+            <input type="password" tabindex="2" name="signin__password" id="signin__password" placeholder="Password" onfocus="this.placeholder = 'Password' onblur=" this.placeholder="Password" "="">
+						<label for="signin__password" class="error" generated="true"></label>
             <div class="forgot-pw">
               <a href="/myaccount/forgot">Forgot Password?</a>
             </div>
           </div>
-          <div>
-            <button type="submit" tabindex="3" class="btn sign-in">Sign In</button>
-          </div>
+            <button type="submit" tabindex="3" class="btn sign-in"><span>Sign In</span></button>
         </form>
         <div class="error">
           <p>Invalid email or password.</p>
-        </div>        
+        </div>
+				<div>
+					<span>Not an Irish Times subscriber? <a href="/digital-subscriptions">Subscribe</a></span>
+				</div>
       </div>
-      <div class="pushup close"><i class="s-icon s-icon-close"></i></div>
-    </div> 
-	
+			</div>
+    </div>
+
 	<div class="toolbar-pushdown myaccount-pushdown" id="myaccount-pushdown">
       <div class="container">
-        
 		<div class="myservices row">
-			<div class="span4">
-				<div class="devices"></div>
-			</div>	
-			<div class="span8">
-				<h5>Subscriber quick links</h5>		 
 				<ul>
-					<li><a href="/premium/loginpage">Newspaper Archive</a></li>
-					<li><a href="/games/crosswords">Crossword Club</a></li>
-					<li><a href="/digital-edition">ePaper <span>desktop app</span></a></li>
-				</ul>	
-				<ul>
-					<li><a href="/it-sunday">IT Sunday</a></li>
-					<li><a href="/more/ebooks">eBooks</a></li>
+				<li class="archive">
+					<a href="/premium/loginpage">
+						<b>Newspaper Archive</b>
+						<span>150 years of Irish Times journalism</span>
+					</a>
+				</li>
+					<li class="crossword">
+						<a href="/games/crosswords">
+							<b>Crossword Club</b>
+							<span>Digital Simplex and Crosaire crosswords</span>
+						</a>
+					</li>
+					<li class="ebooks">
+						<a href="/more/ebooks">
+							<b>eBooks</b>
+							<span>Carefully curated selections of Irish Times writing</span>
+						</a>
+					</li>
+					<li class="benefit">
+						<a href="/subscriber-benefits">
+							<b>Subscriber Rewards</b>
+							<span>Exclusive offers, discounts and invitations</span>
+						</a>
+					</li>
+					<li class="itsunday">
+						<a href="/it-sunday">
+							<b>IT Sunday</b>
+							<span>Your weekly email exclusively curated for subscribers</span>
+						</a>
+					</li>
+					<li class="newsletters">
+						<a href="/newsletters">
+							<b>Email Newsletters</b>
+							<span>Sign up to get the stories you want delivered to your inbox</span>
+						</a>
+					</li>
+					<li class="myaccount">
+						<a href="/myaccount">
+							<b>My Account</b>
+							<span>Manage your account</span>
+						</a>
+					</li>
+					<li class="e-paper">
+						<a id="epaper-app" href="/digital-edition">
+							<b>The ePaper</b>
+							<span>An exact digital replica of the printed paper</span>
+						</a>
+					</li>
+					<li class="breaking-news">
+						<a id="bnews-app" href="/apps">
+							<b>Breaking news app</b>
+							<span>Our <em>Apple and Android</em> app<em>s</em> to read on the go</span>
+						</a>
+					</li>
+					<li class="signout">
+						<a id="activate-signout" href="#">Sign Out</a>
+					</li>
 				</ul>
-				<ul>	
-					<li><a href="/subscriber-benefits">Subscriber Benefits</a></li>
-					<li><a href="/myaccount">My Account</a></li> 
-				</ul>
-			</div>
-			
 		</div>
-		
+
       </div>
-      <div class="pushup close"><i class="s-icon s-icon-close"></i></div>
-    </div> 
-	
+      <!-- <div class="pushup close"><i class="s-icon s-icon-close"></i></div>-->
+    </div>
+
   </div> <!-- / #pushdown-overlay -->
 
       
