@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117101351id_/http%3A//www.arm.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arm.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627173021id_/https%3A//www.arm.com/about/privacy.php) for the most accurate reproduction.*
 
 # Data use and privacy policy - ARM
 
