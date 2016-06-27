@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbuying.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210194818id_/http%3A//www.everbuying.net/m-article-id-83.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbuying.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627225209id_/http%3A//www.everbuying.net/m-article-id-83.html) for the most accurate reproduction.*
 
 # Privacy Policies - Everbuying
 
