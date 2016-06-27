@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the minecraftfive.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092221id_/http%3A//minecraftfive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftfive.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627142101id_/http%3A//minecraftfive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MinecraftFive
+
+### Information
 
 This privacy policy sets out how minecraftfive.com uses and protects any information that you give minecraftfive.com when you use this website.
 
@@ -44,7 +46,7 @@ We use the following ad networks:
 
 
 
-### **Security**
+### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
@@ -60,4 +62,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://minecraftfive.com/contact-us/>
+[Click here to contact us](http://minecraftfive.com/contact/)
