@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222074610id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfriday.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627024355id_/http%3A//www.filmyfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Latest in Bollywood, Movie Review, tv news & Celebrity hot photos
-
-__April 6, 2009 [Privacy](http://www.filmyfriday.com/privacy)2013-11-06T11:50:11+00:00
 
 FilmyFriday.com has created this privacy statement in order to demonstrate our website commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: FilmyFriday.com  
 Information Automatically Logged  
@@ -32,4 +30,3 @@ Filmyfriday.com delivers content from third-parties editor, Filmyfriday.com does
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using feedback form.
-  *[April 6, 2009]: 2009-04-06T01:42:11+00:00
