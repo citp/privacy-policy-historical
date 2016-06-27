@@ -1,157 +1,135 @@
-> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628175400id_/http%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627025321id_/http%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
 
-# Privacy | Joules UK
+# Privacy
 
-**Policy last updated: January 2014**
+#####  Last updated June 2015 
 
-Joules Limited ("We") are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998, the data controller is Joules Limited of 16 The Point, Rockingham Road, Market Harborough, Leicestershire LE16 7QU. Our company number is 02934327.
+We are Joules Limited, a company registered in England and Wales under company number 2934327 and with our registered office at Joules Building, The Point, Rockingham Road, Market Harborough, Leicestershire LE16 7QU England. 
 
-This policy (together with our [Terms of Use](https://web.archive.org/terms_of_use/Static.raction "Terms of Use") and [Acceptable Use Policy](https://web.archive.org/acceptable_use/Static.raction "Acceptable Use")) is presented to you in order to help you make an informed decision about using this website and to explain to you what information we collect, how we store that information, and how we may use it. By using www.Joules.com (“our site”), you are consenting to this Privacy Policy and to have your personal data we collect from you, or that you provide to us, processed in accordance with the terms of this Privacy Policy. Please do not use our site or purchase any products over the phone with our customer services team unless you agree with this Privacy Policy and any other policies listed on our site. 
+We are committed to protecting and respecting your privacy. This policy (together with the separately posted, [Website Terms of Use](https://web.archive.org/terms_of_use/Static.raction), [Website Privacy Policy](https://web.archive.org/Privacy/Static.raction "Privacy Policy"), [Website Acceptable Use Policy](https://web.archive.org/acceptable_use/Static.raction "Acceptable Use Policy") and [Website Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy")) tells you how personal information which we collect from you, or which you provide to us, will be processed by us. 
 
-**A. INFORMATION WE COLLECT**
+Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website [www.joules.com](http://www.joules.com/) and any other website on which this policy is posted or expressly referenced (“Joules Sites”), you are accepting and consenting to the practices set out in this policy. Please do not use the Joules Sites or purchase any products over the telephone with our customer services team unless you agree with this policy. 
 
-**1\. Non Personally Identifiable Information**
+For the purposes of the Data Protection Act 1998, the data controller is Joules Limited. 
 
-When you enter Joules.com, we may collect certain non-personally identifiable information. This may include your browser information (including browser type, browser version, host operating system, and browser language) and your IP address. Joules.com uses this information to help diagnose problems with our server and for other administrative purposes including, but not limited to providing you with content and services in your country's local language and currency.
+##  1\. INFORMATION WE COLLECT 
 
-In addition, aggregate traffic information may also be collected at our site from this non-personally identifiable information. We may use this data for improving the services offered at Joules.com and developing marketing programs. Joules.com may also provide aggregate (but not personally identifiable) statistics about our traffic to advertisers and third-party vendors.
+**Automatically Collected Information**
 
-**2\. Personally Identifiable Information**
+When you visit any of the Joules Sites, we may automatically collect certain information about your visit. This information will not allow you to be personally identified: 
 
-Many of the services offered on Joules.com are only made available if we have certain information about you. To access these services, you will, from time to time, be asked to submit personal data about yourself. We may collect and process the following personal information related to our services:
+  * Browser information. This may include your browser type, browser version, host operating system, browser language and your IP address. 
+  * Other information about your visit. This may include the full Uniform Resource Locators (URL) clickstream to, through and from our site, products viewed or searched for, page response times, download errors, lengths of visits to certain pages, page interaction information (such as scrolling, clicks and mouse overs) and methods used to browse away from the page. 
+  * Aggregated Information. In addition, aggregate traffic information may also be collected from your visit. 
 
-• _Registration information._ In registering for our site, we require certain contact information (including your name, e-mail address, and phone number.) We use this to contact you regarding orders, offers, and other notices.
 
-• _Information to fulfill your order._ When placing an order online at Joules.com or over the phone with our customer service team, we collect your name, phone number, address, and personal payment information. This information is used to process and fulfill any orders you may make. We may also ask you for this information when you enter a competition or promotion sponsored by us or when you report a problem with our site and/or your order.
 
-• _Support or customer services issues._ If you contact us, we may keep a record of that correspondence and record conversations for training and/or monitoring purposes.
+**Personally Identifiable Information**
 
-• _Surveys_. We may from time to time ask you to complete surveys that we use for research purposes. You do not have to respond to these surveys and may opt out of future emails by clicking a link at the bottom of the email or emailing us at joulesteam@joules.com.
+We may also collect and process personal data that you give us. Many of the services that we offer are only made available if we have certain information about you. To access these services, you will, from time to time, be asked to submit personal data about yourself. We may collect and process the following personal information related to our services: 
 
-• _Website Use._ Details of your visits to our site and the calls that you make to us including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * Registration information. In registering to use the Joules Sites, we require certain contact information (including your name, email address and phone number). 
+  * Information to fulfil your order. When placing an order online at a Joules Site or over the telephone with our customer service team, we collect your name, phone number, address and personal payment information. We may also ask you for this information when you enter a competition or promotion sponsored by us or when you report a problem with our site and/or your order. 
+  * Support or customer services issues. If you contact us, we may keep a record of that correspondence and record conversations for training and/or monitoring purposes. 
+  * Surveys. We may from time to time ask you to complete surveys that we use for research purposes. You do not have to respond to these surveys and may opt out of future emails by clicking a link at the bottom of the email or emailing us at joulesteam@joules.com. 
+  * Website Use. We may collect details of your visits to our site and any calls that you make to us. This may include location data, weblogs, other communication data and resources that you access. 
 
-Please note:
 
-When placing an order with us:
 
-When placing an order with us, we will ask for your email address and/or mobile telephone number so that we can send you information confirming your order and so that we may send you additional marketing information by email. You can opt out of receiving such information when setting up your Joules.com account or by following the opt-out instructions set out in those emails.
+**Payment Details**
 
-If at any time you wish to unsubscribe to our mailing list please let us know by sending an email to: _[joulesteam@joules.com](mailto:joulesteam@joules.com)_
+**We will only ask for your payment or credit card details if you are placing an order. We will never ask you to confirm or supply any account or credit card details via email or text message. If you receive such an email or text message, please do not respond and notify us immediately at:[joulesteam@joules.com](mailto:joulesteam@joules.com).**
 
-   
-**WE WILL ONLY ASK FOR YOUR CREDIT CARD DETAILS IF YOU ARE PLACING AN ORDER. WE WILL NEVER ASK YOU TO CONFIRM ANY ACCOUNT OR CREDIT CARD DETAILS VIA EMAIL OR TEXT MESSAGE. IF YOU RECEIVE SUCH AN EMAIL OR TEXT MESSAGE, PLEASE DO NOT RESPOND AND NOTIFY US IMMEDIATELY AT:[ _joulesteam@joules.com_](mailto:joulesteam@joules.com)**
+##  2\. USES MADE OF THE INFORMATION 
 
-**3\. Use of Cookies**  
-Joules.com uses cookies on our website. By using Joules.com you accept the use of cookies in accordance with this privacy policy. If you do not accept the use of these cookies please disable them following the instructions in this Privacy Policy.
+**Automatically Collected Information**
 
-What is a cookie?
+We may use information which we automatically collect about you as follows: 
 
-Cookies are small text files that websites place in your browser when you visit them. When you return to the site, the site can access its previously placed cookie to uniquely identify your browser. Cookies accomplish several different things. They recall your preferences at a website, help content render more efficiently, and improve the overall user experience on a website. The can also help advertisers see what interests you and what advertising may be relevant to you. For further information on cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit <http://www.allaboutcookies.org/>.
+  * To administer the Joules Sites and for internal operations such as to help diagnose problems with our server, trouble shoot, analyse data and other administrative purposes. 
+  * To improve the Joules Sites and to ensure that content is presented in the most effective manner for you and your computer (this may include providing you with content and services in your country's local language and currency). 
+  * To allow you to participate in interactive features of our service when you choose to do so. 
+  * As part of our efforts to keep the Joules Sites safe and secure. 
+  * To improve the services we offer, make recommendations about goods or services that may be of interest to you and to develop marketing programs. 
 
-How do we use cookies?
 
-We use cookies to collect information about your computer, including where available your IP address, operating system and browser type. We also use cookies to obtain information about your general Internet usage. They help us to improve our site and to deliver a better and more personalized service. They enable us to:
 
-• Estimate our audience size and usage pattern;
+**Personally Identifiable Information**
 
-• Store information about your preferences, and so allow us to customise our site according to your individual interests.
+We may use personal data which you give to us as follows: 
 
-• Speed up your searches; and
+  * To process and fulfil your orders effectively and to carry out any further obligations arising from any contracts entered into between you and us. 
+  * To provide you with information that you have requested from us and to inform you of offers or other goods or services that may be of interest to you (but only where you have consented to be contacted for such purposes). 
+  * To notify you about changes to our service. 
+  * To help to protect you from fraud (for instance, we may carry out identity verification, credit or anti-fraud checks against your name using third party databases which may involve disclosure of your personal details to registered credit reference or fraud prevention agencies who may retain and use your personal information). 
 
-• Recognise you when you return to our site.
 
-In addition to uses for analytical purposes and for system administration, we also use cookies to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-How do I delete and manage cookies?
+**Consent to use of Data for Marketing Purposes**
 
-You can enable, disable or delete cookies within your browser. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” menu). Disabling a cookie or category of cookie does not delete the cookie from your browser; you will need to do this yourself from within your browser by choosing the option to delete cookies. If you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set, however, we will stop using the disabled cookie to collect any further information.
+When placing an order with us, we will ask for your email address and/or mobile telephone number so that we can send you information confirming your order. 
 
-**4\. Cookies and Privacy Practices of Third Parties**
+We would also like to use your data, and permit selected third parties to use your personal data, to provide you with information about goods and services which may be of interest to you. We will only contact you by electronic means (email) or post with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-Our site may contain links to and from the websites of our partner networks, data partners, advertisers and affiliates. It may also contain links to third-party social media sites. These third-parties may place their own cookies or other technological devices on your Internet browser, independent of Joules.com. We have no control over these third parties and no responsibility for the technologies they employ. To learn how a particular web site collects and uses your information, you should read the privacy policy of that website.
+Where we permit selected third parties to use your data, we (or they) will contact you by electronic means or post only if you have expressly consented to this. 
 
-We do not accept any responsibility or liability for third-party policies. Please check these policies before you submit any personal data to these websites.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you before collecting your data if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. 
 
-**5\. Web Site Recording**
+You can also request us not to use your personal data for this purpose when setting up your Joules account or by emailing us at [joulesteam@joules.com](mailto:joulesteam@joules.com). 
 
-Joules.com may also use the SessionCam web site recording device. SessionCam is a product that has been developed by ServiceTick Ltd. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by SessionCam from the ServiceTick website is used to improve our website usability. The information collected does not include any personal data. It is used for aggregated and statistical reporting.
+If at any time you wish to unsubscribe to our mailing list please let us know by sending an email to [joulesteam@joules.com](mailto:joulesteam@joules.com). 
 
-**6\. Privacy of Children and Sensitive Personal Data**
+##  3\. DISCLOSURE OF YOUR INFORMATION 
 
-Joules.com does not knowingly collect personal data from anyone under the age of 18.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
 
-Joules.com does not knowingly obtain or store any Sensitive Personal Data, such as information about health or medical conditions, race or religious beliefs.
+We may disclose your personal information to third parties: 
 
-If we are made aware that we have received information from anyone under the age of 18 or Sensitive Personal Data in violation of this Privacy Policy, we will use reasonable efforts to locate and remove that information from our records.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+  * If Joules Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, in order to enforce or apply our terms of use or terms and conditions of sale or to protect the rights, property, or safety of Joules, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * To registered credit reference or fraud prevention agencies for the prevention of fraud. 
+  * To our nominated third party carriers to enable them to deliver your order and to contact you if there is a problem with delivery (i.e. telephone, name and address only). 
+  * To our nominated marketing agencies who provide marketing services on our behalf. 
 
-**B. WHERE WE STORE YOUR PERSONAL DATA**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. When you proceed to make your purchase and your browser connects to the secure section of our site your browser should show a padlock in the bottom right hand corner.
+##  4\. WHERE WE STORE YOUR PERSONAL DATA 
 
-If you are using a computer in a public location we recommend that you always log out and close the website browser down when you complete an online session for your security.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, amongst other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. When you proceed to make your purchase and your browser connects to the secure section of a Joules Site your browser window frame will show a padlock icon to indicate that you are entering a secure area. 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+If you are using a computer in a public location we recommend that you always log out and close the website browser down when you complete an online session for your security. 
 
-**  
-C. USES MADE OF THE INFORMATION**
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
-At Joules we are committed to providing excellent customer service.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
- We use the information that we gather from you so that we can:
+##  5\. YOUR ACCESS RIGHT 
 
-• Process your orders effectively
+If you have any questions about our processing of your personal data, you are welcome to contact us. You will find our contact details at the bottom of this page. If you notice any errors in your personal data, you have the right to have them corrected. 
 
-• Make your shopping experience with us as quick and as simple as possible.
+The Data Protection Act 1998 also gives you the right to access information held about you. You may exercise this right by notifying us in writing. We may charge you a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
-• Inform you of Joules offers that may be of interest to you, where you have consented to be contacted for such purposes.
+##  6\. PRIVACY OF CHILDREN AND SENSITIVE PERSONAL DATA 
 
-• Ensure that content from our site is presented in the most effective manner for you and for your computer.
+We do not knowingly collect personal data from anyone under the age of 18. We do not knowingly obtain or store any Sensitive Personal Data, such as information about health or medical conditions, race or religious beliefs. 
 
-• Carry out our obligations arising from any contracts entered into between you and us.
+If we are made aware that we have received information from anyone under the age of 18 or Sensitive Personal Data in violation of this Privacy Policy, we will use reasonable efforts to locate and remove that information from our records. 
 
-• Allow you to participate in interactive features of our service, when you choose to do so.
+##  7\. LINKS 
 
-• Notify you about changes to our service.
+The Joules Sites may contain links to third party websites. If you follow a link to any such website, please note that your use of such website will be subject to the terms of that website’s privacy policy and we do not accept responsibility or liability for your use of such website. Please check the terms of the third party website’s privacy policy before submitting any personal data to such a website. 
 
-• Help to protect you from fraud (For instance we may carry out identity verification, credit or anti-fraud checks against your name using third party databases (which may involve disclosure to registered credit reference or fraud prevention agencies who may retain and use your personal information), carry out analysis and to help us manage our business, statutory returns and legal and regulatory compliance).
+##  8\. COOKIES 
 
-• Send you catalogues and details of our offers and promotions..
+The Joules Sites use cookies to distinguish you from other users of the Joules Sites. This helps us to provide you with a good experience when you browse the Joules Sites and also allows us to improve the Joules Sites. For detailed information on the cookies we use and the purposes for which we use them see our [Cookies Policy](https://web.archive.org/cookie-policy "Cookie Policy"). 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you.
+##  9\. CHANGES TO OUR PRIVACY POLICY 
 
-We will only contact you by electronic means (e-mail) or post with information about goods and services similar to those which were the subject of a previous sale to you. Where we permit selected third parties to use your data, we (or they) will contact you by electronic means or post only if you have expressly consented to this.
+We may amend this privacy policy at any time so please review it frequently and at least each time you submit personal information to us. The date at the top of this page will be amended each time this policy is updated. Our current privacy policy applies to all information that we have about you and your account. 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also opt-out when setting up your Joules account, or contact us at joulesteam@joules.com.
+##  10\. CONTACT DETAILS 
 
-**D. DISCLOSURE OF YOUR INFORMATION**
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-
-•If Joules or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-
-•If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of sale; or to protect the rights, property, or safety of Joules, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
-•To registered credit reference or fraud prevention agencies for the reasons already set out in this policy.
-
-•To our nominated third party carriers to enable them to deliver your order and to contact you if there is a problem with delivery (i.e. telephone, name and address only).
-
-•To our nominated marketing agencies who provide marketing services on our behalf.
-
-**E. YOUR ACCESS RIGHT**  
-If you have any questions about our processing of your personal data, you are welcome to contact us. You will find our contact details at the bottom of this page. If you notice any errors in your personal data, you have the right to have them corrected. The Data Protection Act also gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**F. CHANGES TO OUR PRIVACY POLICY**
-
-We reserve the right to modify this privacy policy at any time, so please review it frequently and at least each time you submit personal information to Joules.com. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
-
-  
-**CONTACT**  
-If you have any questions, comments, requests or complaints regarding this privacy policy, our site and/or our products, please send us an email at: _[joulesteam@joules.com](mailto:joulesteam@joules.com)_. Alternatively, you can call us on: 0845 606 6871 or you can write to us at: Joules Clothing, Saxon Way West, Corby NN18 9ES, England.
+If you have any questions, comments or requests regarding this privacy policy, the Joules Sites or our products, please send us an email at: [joulesteam@joules.com](mailto:joulesteam@joules.com). Alternatively, you can call us on: **01536 454266,** or you can write to us at: **Customer Services Team, Joules Building, Saxon Way West, Corby, Northants NN18 9ES, England**. 
