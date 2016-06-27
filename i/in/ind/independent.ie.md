@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231012842id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141052id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Independent.ie
-
-**Published** 30/05/2012 | 09:48
 
 Independent Newspapers (Ireland) Limited and its associated companies fully respect your right to privacy. 
 
@@ -165,5 +163,3 @@ Independent Newspapers (Ireland) Limited
 27-32 Talbot St   
 Dublin 1   
 Ireland
-
-[Follow @Independent_ie](https://twitter.com/Independent_ie)
