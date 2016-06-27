@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229083228id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627210248id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
 
 # Privacy, Shipping & Returns Policy - Wayland Games
 
@@ -147,6 +147,10 @@ Aerosols cannot be sent by Air or surface shipping postage and can only be shipp
 
 When you place an order, the estimated dispatch time varies according to the stock status. "In Stock" items are usually dispatched within 48 hours, "Available" items can take between 3 and 9 working days to arrive from the supplier and ship out. This is an average and some special items may take longer. We aim to get the orders packaged and out of the door as soon as possible. But at busy times and after public holidays, there can be a small backlog. Also bear in mind the delivery method selected does not impact the processing-packing-dispatch process. It is simply how quickly your order will be delivered from our warehouse.
 
+### Exclusions
+
+Regretfully we are unable to ship to addresses in Brazil, Russia, South Africa, Zimbabwe and Swaziland. Orders made to these locations will be cancelled and refunded. 
+
 ##### Returns Policy
 
 If you are not 100% satisfied with your purchase from Wayland Games, you can return your items for a full refund within 7 days of the original delivery date.
@@ -164,20 +168,3 @@ It may take 4-5 business days for your return to reach Wayland Games. Although i
 Please note that depending on your credit card company, it may take an additional 2-10 business days after your credit is applied for it to post to your account.
 
 For questions regarding our returns policy please [Contact Us](http://www.teapot.waylandgames.co.uk/contact-us).
-
-##### Free Shipping Terms and Conditions
-
-We often run Free Shipping promotions, which you can usually qualify for by spending a certain amount with us or entering a special coupon code at the checkout. However, each Free Shipping promotion has its own terms and conditions. Meanwhile, certain products, such as heavy, bulky items and aerosols are not included in these promotions.
-
-Typically our Free Shipping promotional terms and conditions include:
-
-  * The promotion must be claimed by including the correct voucher code within a single order of goods that is priced at £30 or more.
-  * The promotion will comprise free standard shipping on qualifying orders.
-  * Bulky items, aerosols and paint are excluded. What constitutes a bulky item shall be at Wayland Games Limited's discretion.
-  * Regretfully we are unable to offer free shipping under this promotion to destination addresses in Brazil and the Russian Federation. Any orders placed using this voucher destined for Brazil or the Russian Federation shall be cancelled and refunded.
-  * Courier shipping upgrades remain at standard price.
-  * There is no cash alternative.
-
-
-
-Please note that during a free shipping promotion, due to the large influx of orders, order processing times may be slightly impacted.
