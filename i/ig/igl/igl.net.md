@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005025156id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121201id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
 
 # Case's Ladder: Case's Ladder
 
 | 
 
-**Effective as of** **February 24, 2007**
+**Effective as of** **November 2, 2015**
 
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY FROM[CASESPRIVACY@DEMANDMEDIA.COM](mailto:CASESPRIVACY@INTERMIX.COM). **
+**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY FROM[LEGAL@THULIUMSOFTWARE.COM](mailto:legal@thuliumsoftware.com). **
 
 Welcome to CasesLadder.com (the .Site.) an interactive website specializing in Internet gaming ladders, leagues and tournaments (the .Services.). The Site is owned and operated by Case.s Ladder (the .Network.). Cases Ladder developed this privacy policy to demonstrate its firm commitment to protecting your privacy and personal information and to inform you on how this information is handled. This privacy policy applies only to transactions and activities you engage in, and data gathered, on the Site. Please review this privacy policy from time to time as it may be modified without notice. Each time you visit the Site or provide the Network with information, by doing so you are agreeing to the terms of this privacy policy at that time. 
 
@@ -93,6 +93,6 @@ The Network may disclose, transfer and sell Individual Information to an entity 
 The Network maintains multiple newsletter and email marketing lists. To unsubscribe from one or more of such lists, click the link included in the footer of any message delivered by the Network and follow the instructions provided. 
 
 **6\. More Information.**  
-For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.grab.com/site/www.privacylaw.net) or [www.privacyalliance.org](http://www.grab.com/site/www.privacyalliance.org). If you have questions about this policy, please contact us at [casesprivacy@demandmedia.com](mailto:casesprivacy@demandmedia.com). **THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.**
+If you have questions about this policy, please contact us at [legal@thuliumsoftware.com](mailto:legal@thuliumsoftware.com). **THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.**
 
 ** | 
