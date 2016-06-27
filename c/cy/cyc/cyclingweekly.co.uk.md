@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclingweekly.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103140id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingweekly.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627112916id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
 # TimeIncUK.com Official Website|privacy policy
 
@@ -28,9 +28,11 @@ We will use the anonymous information we collect about you to analyse web usage 
 
 From time to time we will ask you whether you wish to receive marketing material from Time Inc. (UK) Ltd containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from: 
 
-* Emails - by clicking on an email unsubscribe link;
-* SMS - by following the instructions in any SMS message received;
-* Post or telemarketing - by writing to The Head of Database Marketing at Time Inc. (UK) Ltd, Blue Fin Building, 110 Southwark Street, London SE1 0SU. 
+  * Emails - by clicking on an email unsubscribe link;
+  * SMS - by following the instructions in any SMS message received;
+  * Post or telemarketing - by writing to The Head of Database Marketing at Time Inc. (UK) Ltd, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
+
+
 
 Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
 
