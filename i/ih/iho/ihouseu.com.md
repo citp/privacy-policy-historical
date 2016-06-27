@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205204111id_/http%3A//ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627212319id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
 
 # Privacy Statements | I H O U S E U
 
@@ -17,3 +17,7 @@ Depending on your selection when you purchase a ticket, your personal informatio
 Correspondence from our partners is subject to their relevant Privacy Policy.
 
 We do not sell, rent or exchange mailing lists.
+
+  * 25724 reads
+
+
