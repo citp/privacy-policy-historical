@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912230556id_/https%3A//www.sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121834id_/https%3A//www.sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Information Security Statement - SportsCapping.com
 
