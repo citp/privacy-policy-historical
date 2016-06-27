@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twitpic.com privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224234647id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twitpic.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627120226id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
           
@@ -52,15 +52,15 @@
 <script type="text/javascript">
 	Twitpic.load();
 
-	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"16ca0d3dbf34e742263bbf8f426b9105","is_mobile":false});
-Twitpic.Template.store({"name":"facetag_editor","content":"<div id=\"facetag-editor\">\n  <div class=\"left\">\n    <div id=\"facetag-left-arrow\"><\/div>\n  <\/div>\n  <div class=\"right\">\n    <p><small>Name<\/small><\/p>\n    <input type=\"text\" name=\"name\" \/>\n\n    <p><small>Twitter Username<\/small><\/p>\n    <input type=\"text\" name=\"username\" value=\"@\" \/>\n\n    <p><input type=\"checkbox\" name=\"reply\" value=\"1\" checked=\"true\" \/> Post to Twitter<\/p>\n\n    <div id=\"facetag-save\">\n      <input type=\"button\" class=\"red-button\" value=\"Delete\" name=\"delete\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Cancel\" name=\"cancel\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Save\" name=\"save\" \/>\n    <\/div>\n  <\/div>\n<\/div>"});
+	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"ac72d49d72984e3e2286d0882d1e2c9a","is_mobile":false});
 Twitpic.Template.store({"name":"rotate","content":"<div id=\"rotate\">\n\t<div id=\"rotate-background\"><\/div>\n\t<div id=\"rotate-wrap\">\n\t\t<div id=\"rotate-controls\" class=\"clear\">\n\t\t\t<div class=\"rotate left\" data-dir=\"cc\">\n\t\t\t\t<img src=\"\/images\/hud-img-arrow-cc.png\" \/>\n\t\t\t\tRotate Left\n\t\t\t<\/div>\n\t\t\t\t\t\t<div class=\"rotate right\" data-dir=\"c\">\n\t\t\t\tRotate Right\n\t\t\t\t<img src=\"\/images\/hud-img-arrow.png\" \/>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div id=\"rotate-image\">\n\t\t\t<img src=\"\/show\/large\/<%=short_id%>\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"});
-Twitpic.Template.store({"name":"search_photo","content":"<div class=\"user-photo-wrap\">\n  <div class=\"user-photo left\">\n    <a href=\"<%=link%>\">\n      <img src=\"<%=thumb%>\" \/>\n    <\/a>\n  <\/div>\n<\/div>"});
-Twitpic.Template.store({"name":"facetag","content":"<div \n  class=\"facetag\" \n  data-id=\"<%=id%>\" \n  data-name=\"<%=typeof name !== 'undefined' ? name : ''%>\"\n  data-username=\"<%=typeof username !== 'undefined' ? username : ''%>\"\n  style=\"top:<%=top%>px;left:<%=left%>px;\">\n\n  <div class=\"facetag-inner\">\n    <% if (!isNew && canEdit) { %>\n    <p class=\"facetag-edit\"><strong>Edit?<\/strong><\/p>\n    <% } %>\n  <\/div>\n  <% if (typeof name !== \"undefined\") { %>\n  <div class=\"facetag-name\">\n    <%=name%>\n    <%= typeof username !== \"undefined\" && username !== null && username.length > 0 ? \"(@\" + username + \")\" : \"\" %>\n  <\/div>\n  <% } %>\n<\/div>"});
-Twitpic.Template.store({"name":"comment","content":"<div class=\"comment clear\" data-id=\"<%=id%>\">\n\t<div class=\"avatar left\">\n\t\t<img src=\"<%=user.avatar_url.replace('normal', 'reasonably_small')%>\" \/>\n\t<\/div>\n\t<div class=\"comment-content right\">\n\t\t<div class=\"comment-header\">\n\t\t\t<h4 class=\"reset-height\">\n\t\t\t\t<a href=\"\/photos\/<%=user.username%>\"><%=user.username%><\/a> \n\t\t\t\t<small>\n\t\t\t\t\t<%=$.timeago(new Date(timestamp.replace('-', '\/')))%>\n\t\t\t\t\t<span class=\"comment-delete\"><img src=\"\/images\/delete.png\" \/> delete<\/span>\n\t\t\t\t<\/small>\n\t\t\t<\/h4>\n\t\t<\/div>\n\t\t<div class=\"comment-body\">\n\t\t\t<p><%=message_html%><\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"});
-Twitpic.Template.store({"name":"event_tag","content":"<div class=\"event\">\n  <h5 class=\"reset-height\">\n  \t<a href=\"\/e\/<%=id.toString(36)%>\"><%=name%><\/a>\n  \t<small><%= hash_trigger ? \"#\" + hash_trigger : \"\" %><\/small>\n  <\/h5>\n<\/div>"});
-Twitpic.Template.store({"name":"realtime_image","content":"<div class=\"image-wrap\" data-id=\"<%= id %>\">\n  <div class=\"image\">\n    <img src=\"http:\/\/twitpic.com\/show\/large\/<%= short_id %>\" \/>\n  <\/div>\n\n  <div class=\"image-info\">\n    <h1><%= user.name %> <small>@<%= user.username %><\/small><\/h1>\n    <p><%= message %><\/p>\n  <\/div>\n<\/div>"});
 Twitpic.Template.store({"name":"location_result","content":"<div class=\"location-result\" data-id=\"<%=id%>\">\n  <h4><%=name%><\/h4>\n  <p><%= typeof street_address !== \"undefined\" ? street_address : full_name %><\/p>\n<\/div>"});
+Twitpic.Template.store({"name":"facetag_editor","content":"<div id=\"facetag-editor\">\n  <div class=\"left\">\n    <div id=\"facetag-left-arrow\"><\/div>\n  <\/div>\n  <div class=\"right\">\n    <p><small>Name<\/small><\/p>\n    <input type=\"text\" name=\"name\" \/>\n\n    <p><small>Twitter Username<\/small><\/p>\n    <input type=\"text\" name=\"username\" value=\"@\" \/>\n\n    <p><input type=\"checkbox\" name=\"reply\" value=\"1\" checked=\"true\" \/> Post to Twitter<\/p>\n\n    <div id=\"facetag-save\">\n      <input type=\"button\" class=\"red-button\" value=\"Delete\" name=\"delete\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Cancel\" name=\"cancel\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Save\" name=\"save\" \/>\n    <\/div>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"facetag","content":"<div \n  class=\"facetag\" \n  data-id=\"<%=id%>\" \n  data-name=\"<%=typeof name !== 'undefined' ? name : ''%>\"\n  data-username=\"<%=typeof username !== 'undefined' ? username : ''%>\"\n  style=\"top:<%=top%>px;left:<%=left%>px;\">\n\n  <div class=\"facetag-inner\">\n    <% if (!isNew && canEdit) { %>\n    <p class=\"facetag-edit\"><strong>Edit?<\/strong><\/p>\n    <% } %>\n  <\/div>\n  <% if (typeof name !== \"undefined\") { %>\n  <div class=\"facetag-name\">\n    <%=name%>\n    <%= typeof username !== \"undefined\" && username !== null && username.length > 0 ? \"(@\" + username + \")\" : \"\" %>\n  <\/div>\n  <% } %>\n<\/div>"});
+Twitpic.Template.store({"name":"event_tag","content":"<div class=\"event\">\n  <h5 class=\"reset-height\">\n  \t<a href=\"\/e\/<%=id.toString(36)%>\"><%=name%><\/a>\n  \t<small><%= hash_trigger ? \"#\" + hash_trigger : \"\" %><\/small>\n  <\/h5>\n<\/div>"});
+Twitpic.Template.store({"name":"comment","content":"<div class=\"comment clear\" data-id=\"<%=id%>\">\n\t<div class=\"avatar left\">\n\t\t<img src=\"<%=user.avatar_url.replace('normal', 'reasonably_small')%>\" \/>\n\t<\/div>\n\t<div class=\"comment-content right\">\n\t\t<div class=\"comment-header\">\n\t\t\t<h4 class=\"reset-height\">\n\t\t\t\t<a href=\"\/photos\/<%=user.username%>\"><%=user.username%><\/a> \n\t\t\t\t<small>\n\t\t\t\t\t<%=$.timeago(new Date(timestamp.replace('-', '\/')))%>\n\t\t\t\t\t<span class=\"comment-delete\"><img src=\"\/images\/delete.png\" \/> delete<\/span>\n\t\t\t\t<\/small>\n\t\t\t<\/h4>\n\t\t<\/div>\n\t\t<div class=\"comment-body\">\n\t\t\t<p><%=message_html%><\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"search_photo","content":"<div class=\"user-photo-wrap\">\n  <div class=\"user-photo left\">\n    <a href=\"<%=link%>\">\n      <img src=\"<%=thumb%>\" \/>\n    <\/a>\n  <\/div>\n<\/div>"});
+Twitpic.Template.store({"name":"realtime_image","content":"<div class=\"image-wrap\" data-id=\"<%= id %>\">\n  <div class=\"image\">\n    <img src=\"http:\/\/twitpic.com\/show\/large\/<%= short_id %>\" \/>\n  <\/div>\n\n  <div class=\"image-info\">\n    <h1><%= user.name %> <small>@<%= user.username %><\/small><\/h1>\n    <p><%= message %><\/p>\n  <\/div>\n<\/div>"});
 Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" action=\"\/upload\/process\" method=\"post\" enctype=\"multipart\/form-data\">\n\t<input type=\"hidden\" name=\"form_auth\" value=\"fcbf7fb44d92d1c1ced259cea95ffa78245314bb\" \/>\n\t<div id=\"select-media\">\n\t\t<h4>Select photo or video<\/h4>\n\t\n\t\t<div id=\"media-upload-wrap\">\n\t\t\t<div id=\"media-upload\"><\/div>\n\t\t<\/div>\n\t\t\n\t\t<p id=\"upload-meta\"><small><b>\n\t\t\tReady to upload <span id=\"media-upload-name\"><\/span> (<span id=\"media-upload-size\"><\/span>) as <span id=\"media-upload-type\">\n\t\t<\/span><\/b><\/small><\/p>\n\t\t\n\t\t<p><small>We take GIF, JPG, & PNG images up to 10MB in size, and videos up to 3:00 in length in most formats.<\/small><\/p>\n\t\t<p><small>Having problems uploading? Try the <a href=\"\/upload\">simple uploader<\/a> instead.<\/small><\/p>\n\t<\/div>\n\t\n\t<div id=\"upload-caption\" class=\"upload-section\">\n\t\t<div class=\"clear\">\n\t\t\t<h4 class=\"left\">Caption<\/h4>\n\t\t\t<p class=\"right\"><span id=\"upload-chars-left\">114<\/span> <small>(twitter limit only)<\/small><\/p>\n\t\t<\/div>\n\t\t\n\t\t<textarea name=\"message\"><\/textarea>\n\t<\/div>\n\t\n\t<div id=\"upload-options\" class=\"upload-section\">\n\t\t<h4>Post Options<\/h4>\n\t\t<div>\n\t\t\t<label for=\"save_location\">\n\t\t\t\t<input type=\"checkbox\" name=\"save_location\" id=\"save_location\" checked=\"checked\" value=\"1\" \/> Set Location (if available)\n\t\t\t<\/label>\n\t\t<\/div>\n\n\t\t<h4>Share to<\/h4>\n\t\t\n\t\t<div id=\"share-options\">\n\t\t\t<label for=\"post_photo\"><input type=\"checkbox\" name=\"post_photo\" id=\"post_photo\" checked=\"checked\" value=\"1\" \/> Twitter<\/label>\n\n\t\t\t\t\t<\/div>\n\t\t\n\t<\/div>\n\t\n\t<div id=\"upload-submit\" class=\"clear\">\n\t\t<div class=\"left\">\n\t\t\t<div id=\"upload-progress-wrap\">\n\t\t\t\t<div id=\"upload-progress\"><\/div>\n\t\t\t<\/div>\n\t\t\t<p id=\"upload-progress-amount\" class=\"left\"><\/p>\n\t\t<\/div>\n\t\t<div class=\"right\">\n\t\t\t<input type=\"submit\" value=\"Upload\" class=\"grey-button\" id=\"upload-button\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n"});
 </script>
 
@@ -173,17 +173,14 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 	</p>
 	<h3>Questions or Concerns</h3>
 	<p>
-	If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
-	</p><p>
-  Email:<br>
-  twitpicsupport@twitter.com
+	If you have any questions regarding this privacy policy or information that you have submitted to us you can <a href="https://twitterinc.secure.force.com/DynamicFormPage?formName=twitpic">contact us</a>.
 	</p>
 </div>
 	</div>
 	
 	<div id="footer">
   <div class="left">
-    <p>©2015 Twitpic Inc, All Rights Reserved</p>
+    <p>©2016 Twitpic Inc, All Rights Reserved</p>
   </div>
   <div class="right">
     <p>
@@ -202,7 +199,7 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 
 
 
-<!-- Generated by web01 -->
+<!-- Generated by web04 -->
 
 
 </body></html>
