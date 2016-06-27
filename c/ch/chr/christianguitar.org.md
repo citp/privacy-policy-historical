@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223011502id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627073028id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Guitar Tabs
 
@@ -36,7 +36,7 @@ This site makes message boards available to its users. Please remember that any 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20151223011502id_/http%3A//www.christianguitar.org/contactus.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20160627073028id_/http%3A//www.christianguitar.org/contactus.php).
 
 **[Complimentary Christian Ringtones](http://x.azjmp.com/0ZR2g)**  
 Dadamobile and CGR have teamed up to bring your favorite Christian artists right to your phone. Sign up today and get 10 complementary ringtones!
@@ -56,9 +56,9 @@ Subscribe and stay up to date
 
 [](http://feeds.feedburner.com/CGR)
 
-There are currently **262** users ( **35** members and **227** guests) on the site. 
+There are currently **189** users ( **22** members and **167** guests) on the site. 
 
-As of December 12th, 2015 we have **14,760** tabs, which have been viewed **70,998,387** times.
+As of February 14th, 2016 we have **14,760** tabs, which have been viewed **71,115,274** times.
 
 sponsor
 
