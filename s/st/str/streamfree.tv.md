@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228062243id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627180853id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stream FREE TV
+# Privacy Policy - Stream FREE TV
 
 ## **Privacy Policy for www.streamfree.tv**
 
-If you require any more  information or have any questions about our privacy policy, please feel free to  contact us by email at editor@streamfree.tv.
+If you require any more  information or have any questions about our privacy policy, please feel free to  contact us by email at contact@streamfree.tv.
 
 At www.streamfree.tv, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.streamfree.tv and how it is used.
+
+**Amazon Affiliate Disclosure Statement**
+
+StreamFREE.TV is a participant in the Amazon Services LLC Associates Program,   
+an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Log Files**  
 Like many other Web sites, www.streamfree.tv makes use of log files. The information  
@@ -35,7 +40,7 @@ http://www.google.com/privacy_ads.html
 Some of our advertising partners  
 may use cookies and web beacons on our site. Our advertising partners include  
 ….  
-Google Adsense
+**Google Adsense**
 
 These third-party ad servers or ad networks  
 use technology to the advertisements and links that appear on www.streamfree.tv  
