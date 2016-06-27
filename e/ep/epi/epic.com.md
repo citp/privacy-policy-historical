@@ -1,40 +1,95 @@
-> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104801id_/http%3A//www.epic.com/euprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627074200id_/http%3A//www.epic.com/About/PrivacyPolicies) for the most accurate reproduction.*
 
-# Epic: Privacy
+# Privacy Policies
 
-## EU Safe Harbor Privacy Policy
+Epic is a member of Carequality, an initiative of The Sequoia Project. Epic makes functionality available to its customers to enable them to exchange data with other healthcare organizations using the Carequality Framework. Epic does not handle information transmitted in the course of its customers’ use of Carequality.
 
-Effective Date: January 1, 2008  
-Last Modified: March 18, 2013 
+Effective Date September 18, 2014
 
-### General
+##### In General
 
-Epic Systems Corporation and its controlled affiliates provide Healthcare Information Software to the healthcare industry. While helping our customers to install and use our software, Epic employees sometimes need to access personal information (including sensitive health information) that is stored in our customers' healthcare information software systems. Epic employees only access this information with explicit permission from our customers.
+Epic takes very seriously its obligation to protect the confidentiality of your personal information. Epic's mobile applications for healthcare providers, including Haiku, Canto and Rover, are intended to connect to servers and systems operated and maintained by Epic community members in order to provide you secure, mobile access to those systems.
 
-We take very seriously our obligation to protect the confidentiality of, and to limit uses and disclosure of, such personal information. 
+###### This Privacy Policy
 
-Epic complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Epic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Epic's certification, please visit <http://www.export.gov/safeharbor/>.
+This Privacy Policy describes how Epic Systems Corporation's ("Epic") mobile applications for providers (our "Applications") use, store and transmit information and data. By using our Applications to connect to a healthcare provider, you consent to this Privacy Policy. Epic may modify this Privacy Policy at any time effective upon its posting. Your continued use of our Applications constitutes your acceptance of this Privacy Policy and any updates. Your use of our Applications is subject to the of the applicable Applications' End User License Agreement.
 
-This policy is intended to inform people in the EU about the safeguards we have in place for protecting this personal information.
+##### Your Personal Information
 
-### Notice and Choice
+Epic Does Not Receive Your Information or Data
 
-We know it's important to you to understand what will happen to your personal information. Although Epic itself does not collect that information from you directly, we do require that our EU customers comply with the Notice and Choice standards applicable in the EU. That means that our customers notify you of the purposes for which your personal information is collected, the uses to which it will be put and the types of third parties to which it may be disclosed. In addition, when required to do so under the applicable EU standards, our customers offer you choices about whether your personal information will be disclosed to third parties or used for any purpose incompatible with those for which it is collected or subsequently authorized.
+When you use our Applications, Epic does not receive or collect any data or information directly from you or your device. As described below, our Applications connect with systems operated and maintained by a healthcare institution customer of Epic.
 
-### Onward Transfer
+###### Connections to Healthcare Institutions
 
-We do not provide your personal information to other third parties unless they also adhere to the seven EU Safe Harbor principles or they've entered into a written agreement with us that provides the same level of protection. If we do provide your information to such third parties, we do so only for the same uses for which we are authorized (i.e., to assist in our EU customers' to install and use our software).
+To use our Applications, you must have an account with a healthcare institution who uses Epic's software. Your use of our Application with that healthcare institution may be subject to that healthcare institution's policies and terms. You understand that while connected, or attempting to connect, to a healthcare institution's system, the healthcare institution may collect, store, process, maintain, upload, sync, transmit, share, disclose and use certain data and related information, including but not limited to information or data regarding the characteristics or usage of your device, system and application software, and peripherals as well as your personal information, location data and other content.
 
-### Access, Security and Data Integrity
+Please contact your healthcare institution if you have any questions about their policies or terms.
 
-We do not ordinarily retain, hold or maintain the information about you to which we might have access while supporting customers; instead, your information typically resides on and is maintained within our customers' systems. Nevertheless, in the event that we were to receive such personal information for the purpose of maintaining or storing the information on any Epic system for active live or archival use related to our customer's operations (as opposed to the receipt and storage of data that occurs incidentally in the course of supporting our software), we will comply with all reasonable instructions from a customer to correct, amend or delete your information, or to provide you access to your information. We also expect our EU customers to comply with the Access standards applicable to them in the EU.
+###### Using Third Party Tools and Features
 
-We also take reasonable and appropriate precautions (a) to protect personal information in our possession from loss, misuse, unauthorized access, disclosure, alteration and destruction; and (b) to ensure that such information in our possession is reliable for its intended use, accurate, complete and current.
+If you use any third party tools and features, such as speech-to-text dictation or third party video, your use of those features is subject to the terms and policies of those third parties. If you have any questions about those terms or policies, you should contact your healthcare institution or the third party provider.
 
-### Enforcement / Inquiries
+##### How We Protect Your Personal Information
 
-We train our employees on the requirements of this policy, and regularly communicate to them about the proper uses, disclosure and handling of personal information. Any Epic employee who violates this policy, or fails to report any violation of which they are aware, is subject to appropriate disciplinary action, which can include termination. In addition, we periodically undertake an objective self assessment of the accuracy of this policy and our conformance with its requirements.
+The security of your information and data while using our Applications is very important to us. Our Applications employ a variety of technical safeguards to protect the confidentiality, integrity, and availability of your personal information including supporting Transport Layer Security (TLS)/Secure Sockets Layer (SSL) certificate technology and encryption.
 
-Individuals in the EU who have concerns about our use, disclosure or handling of their personal information are encouraged to contact our EU Safe Harbor Compliance Program Monitor by emailing [privacyinquiries@epic.com](mailto:privacyinquiries@epic.com). We'll work hard to address those concerns, and, if needed we'll cooperate with Data Protection Authorities in the EU in the unlikely event we're unable to otherwise resolve a complaint you raise concerning our compliance with this policy.
+In addition, healthcare providers with whom you connect may use a variety of physical, administrative and technical measures to protect your personal information.
 
-We may make changes to this policy from time to time. If we do, such changes will remain consistent with the requirements of the Safe Harbor Principles, and will reflect our continued commitment to protect your privacy while helping our customers provide even better healthcare to all their patients.
+##### Contact Epic
+
+If you have any questions about this Privacy Policy, you may contact Epic at 608-271-9000 or at info@epic.com.
+
+Effective Date October 2, 2014
+
+##### Overview
+
+Epic takes very seriously its obligation to protect the confidentiality of your personal information. Epic's mobile applications for patients, including MyChart for iOS and Android, are intended to connect to servers and systems operated and maintained by Epic community members in order to provide you secure, mobile access to those systems and to your health information.
+
+###### This Privacy Policy
+
+This Privacy Policy describes how Epic Systems Corporation's ("Epic") mobile applications for patients (our "Applications") use, store and transmit information and data. By using our Applications to connect to a healthcare provider, you consent to this Privacy Policy. Epic may modify this Privacy Policy at any time effective upon its posting. Your continued use of our Applications constitutes your acceptance of this Privacy Policy and any updates. Your use of our Applications is subject to the of the applicable Applications' End User License Agreement.
+
+###### Purpose
+
+The purpose of this Privacy Policy lets you know what limited information we collect about you when you use our Applications and how that information is used and the limited ways in which we use the additional information you provide.
+
+##### Your Personal Information
+
+###### Our Applications And The Limited Ways In Which Epic Uses Your Information
+
+Epic does not sell or license any information that it may collect from you from using our Applications.
+
+And, except for those things stated below, our Applications do not store any of your personal information on your device or on iCloud and do not send your personal information directly to Epic.
+
+Epic attempts to minimize the amount of your personal or health information stored or retained on your device. Nevertheless, our Applications may:
+
+  * Store a copy of a picture on your device if you choose to add a picture to your profile.
+  * Create encrypted identifiers to identify target healthcare providers for HealthKit data, if you are using HealthKit.
+  * Temporarily store your personal information in memory or on the device while you use our Applications.
+  * Share some limited amount of information for purposes of troubleshooting and error correction directly or indirectly with Epic with your consent.
+  * In addition, in order to provide you certain features, our Applications may request information from servers and systems owned or operated by Epic and those servers and systems may record technical information about that request such as an IP address.
+
+
+
+###### Your Healthcare Providers
+
+To use our Applications, you must have an account with a healthcare provider who uses Epic's software and your use of our Applications is also subject to your healthcare provider's privacy policy. You understand that while connected, or attempting to connect, to a healthcare institution's system, the healthcare institution may collect, store, process, maintain, upload, sync, transmit, share, disclose and use certain data and related information, including but not limited to information or data regarding the characteristics or usage of your device, system and application software, and peripherals as well as your personal information, location data and other content.
+
+Please contact your healthcare institution if you have any questions about their policies or terms.
+
+###### HealthKit
+
+With your permission, certain versions of our Applications can connect to Apple HealthKit to receive health information and to share that information with your healthcare providers.
+
+Our Applications do not share your health information with HealthKit or with other HealthKit-enabled software.
+
+##### How We Protect Your Personal Information
+
+The security of your information and data while using our Applications is very important to us. Our Applications employ a variety of technical safeguards to protect the confidentiality, integrity, and availability of your personal information including supporting Transport Layer Security (TLS)/Secure Sockets Layer (SSL) certificate technology and encryption.
+
+In addition, healthcare providers with whom you connect may use a variety of physical, administrative and technical measures to protect your personal information.
+
+##### Contact Epic
+
+If you have any questions about this Privacy Policy, you may contact Epic at 608-271-9000 or at info@epic.com.
