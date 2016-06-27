@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208105032id_/http%3A//www.ucd.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627130007id_/http%3A//www.ucd.ie/privacy) for the most accurate reproduction.*
 
 # University College Dublin - Privacy
 
@@ -28,7 +28,7 @@ Any information you provide is not made available to any third parties, and is u
 
 **Processing of technical information**
 
-This website does not use [cookies](https://web.archive.org/web/20151208105032id_/http%3A//www.ucd.ie/cookie-policy.htm), apart from temporary "session" cookies which enable, for example, a visitor’s web browser to remember which pages on this website have already been visited. University staff and students will need cookies turned on to access certain Web applications such as UCD Connect or the Student Information System. No information is retained once the “session” is complete.
+This website does not use [cookies](https://web.archive.org/web/20160627130007id_/http://www.ucd.ie/privacy/cookie-policy.htm), apart from temporary "session" cookies which enable, for example, a visitor’s web browser to remember which pages on this website have already been visited. University staff and students will need cookies turned on to access certain Web applications such as UCD Connect or the Student Information System. No information is retained once the “session” is complete.
 
 By modifying your browser preferences, you will have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.
 
