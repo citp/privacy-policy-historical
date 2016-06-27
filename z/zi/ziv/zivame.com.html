@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zivame.com privacy policy that was archived on 2015-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909120211id_/http%3A//www.zivame.com/privacy_policy_m) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zivame.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627133017id_/http%3A//www.zivame.com/privacy_policy_m) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="msvalidate.01" content="04B05C1C66DA0160D96B0403FB3C2DDE">
@@ -25,7 +25,7 @@ Like
 <![endif]-->
 <!--<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Merriweather' rel='stylesheet' type='text/css'/>-->
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/customer/signin_reg.min.css?t=1436417266?v=1.3" media="all"> 
+<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/customer/signin_reg.min.css?t=1466057723?v=1.3" media="all"> 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P46FGS"></script><script type="text/javascript">
 //<![CDATA[
     var BLANK_URL = 'http://cdn.zivame.com/js/blank.html';
@@ -54,7 +54,7 @@ Like
 <script type="text/javascript" src="http://cdn.zivame.com/js/gomage/category-navigation.js"></script>
 <script type="text/javascript" src="http://cdn.zivame.com/js/advancedreviews/ajax-reviews.js"></script>
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customproduct/jquery.fancybox.js"></script>
-<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customer/customer.form.js?t=1441769060"></script>
+<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customer/customer.form.js?t=1458120756"></script>
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customer/bootstrap-alerts.js"></script>
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/magestore/giftvoucher.js"></script>
 <!--[if lt IE 7]>
@@ -90,6 +90,19 @@ if(!isMobile2) {
 }
 </script>
 
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=191912,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=191912&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160627133017id_%2Fhttp%253A%2F%2Fwww.zivame.com%2Fprivacy_policy_m&amp;r=0.8834327236160722" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy-m">
@@ -133,7 +146,10 @@ var dataLayer = [{
               "payment_medhod": "",
               "shipping_cost": "",
               "discount": "",
-              "coupon_code": ""
+              "coupon_code": "",
+			  "order_email": "",
+			  "order_customer_firstname": "",
+			  "order_customer_lastname": ""
             },
 "gtm_browsername" : navigator.userAgent,
 "gtm_device" : gtm_device
@@ -172,12 +188,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         
 <script>
+    var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+    };
+
+    function setBrandSwitcherCookie(key, value) {
+            document.cookie = key + '=' + value + ';expires=0; path=/';
+    }
+
+    function getBrandSwitcherCookie(key) {
+            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+            return keyValue ? keyValue[2] : null;
+    }
+
+     function setBrandSwitchInfoCookie(key, value) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (365 * 24 * 60 * 60 * 1000));
+            document.cookie = key + '=' + value + ';expires=' + expires.toUTCString() +"; path=/";
+    }
+
+    function getBrandSwitchInfoCookie(key) {
+            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+            return keyValue ? keyValue[2] : null;
+    }
     document.cookie = 'resolution=' + Math.max(screen.width, screen.height);
     isMobile = (jQuery(window).width() < 998)? true : false;
 </script>
-
+<link rel="alternate" href="http://www.zivame.com/privacy_policy_m/?" hreflang="en-in">
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/jquery-ui.js"></script>
-<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/modernizr.custom.js"></script>
+<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/modernizr.custom.js?t=1454996246"></script>
 <!--<script type="text/javascript" src=""></script>-->
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/bootstrap-dropdown.js"></script>
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/jquery.smooth-scroll.min.js"></script>
@@ -186,13 +236,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/jquery.placeholder.js"></script>
 
-<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/header/menu_custom-v1.min.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/customproduct/default-v1.min.css?t=1440041277" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/header/menu_custom-v1.min.css?t=1464747059" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/customproduct/default-v1.min.css?t=1464747059" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/cms/cms_styles.min.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/header/feedback.min.css" media="all">
 
 <link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/customproduct/lightbox.min.css?v=1.1" media="all">
-<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customproduct/lightbox.js?t=1434680952"></script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/customproduct/lightbox.js?t=1466057723"></script>
 
 <!-- <link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/header/scratch-new-may.css" media="all" /> -->
 <link rel="stylesheet" type="text/css" href="http://cdn.zivame.com/skin/frontend/base/theme049/css/header/scratch.min.css" media="all">
@@ -241,42 +292,119 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     document.location.href = '/gotowww.php?path=' + encodeURIComponent(document.location.href);
                             }
             </script>
+<script>
+
+var referalEmail = '';
+var referalFname = '';
+</script>
+
 <div class="container">
      <div id="offer_on_top" class="promo-top" style="display: block; color: #fff!important;"><span class="promo" style="pading: 9px 0 !important; color: #fff!important; background-image: url(http://cdn.zivame.mobi/media/wysiwyg/home_new/persistant_bg_2.png); height: 43px; width: 100%; background-color: #7c7c7c; cursor: default;">
 <div class="content_container">
-<div class="content_inner1" style="color: #fff!important;"><span class="long" style="font-family: 'Droid serif',serif; text-transform: uppercase; text-decoration: none; color: #fff!important; font-size: 15px;">ends today - buy 6 briefs for rs.999.&nbsp;&nbsp;<a id="top_persistance" style="background: #60c81b; border: 1px solid #60c81b; padding: 5px; margin-right: 10px; text-align: center; border-radius: 4px; color: #fff !important; text-transform: uppercase; font-size: 13px;" href="http://www.zivame.com/buy-6-for-999.html?dir=desc&amp;order=bestsellers">Shop now</a></span></div>
+<div class="content_inner1" style="color: #fff!important;"><span class="long" style="font-family: 'Droid serif',serif; text-transform: uppercase; text-decoration: none; color: #fff!important; font-size: 15px;">check out todays flash sale&nbsp;&nbsp;<a id="top_persistance" style="background: #60c81b; border: 1px solid #60c81b; padding: 5px; margin-right: 10px; text-align: center; border-radius: 4px; color: #fff !important; text-transform: uppercase; font-size: 13px;" href="http://www.zivame.com/zivame-brands.html?dir=desc&amp;order=bestsellers&amp;cussku=BA11934-Black,B25471-Black,PNBRFS02,PNBRFS16-Black" target="_blank">Shop Now</a></span></div>
+<div id="brand-switcher-top-header" class="brand-switcher-top-header">
+<div style="float: right; padding-left: 15px; font: bold 13px/24px 'Droid serif',serif !important;"><span style="text-transform: none;">You’re browsing Zivame’s exclusive brands. </span><a id="other-brand-switcher-offertop" style="color: #ccc; text-decoration: underline; font: bold 13px/24px 'Droid serif',serif !important;" href="/zivameswitcher/index/setOtherBrandsSwitcher">Switch to Others.</a></div>
+</div>
 <div id="subbannerdiv" class="title fr mgr0">&nbsp;</div>
 </div>
-</span></div>    
+</span></div>    <div id="exclusive-tooltip" class="exclusive-tooltip" style="display:none;"><img src="http://cdn.zivame.com/skin/frontend/base/theme049/images/exclusive-brand-close.png" class="exclusive-tooltip-close-button"></div>
+    <div id="exclusive-tooltip-2" class="exclusive-tooltip-2" style="display:none;"></div>
     <header id="hdsk">
         <div id="header_inner">
-            <div id="header_top">
 
 
-<div id="topmenu"><a href="/trackorder/index/orderstatus" id="track_order_toplinks">TRACK ORDER / RETURNS</a> <a href="http://www.zivame.com/bra-size-calculator_m" id="bra_size_calculator_toplinks" target="_new">BRA SIZE CALCULATOR</a> <a id="top_menu_fittinglounge" href="/fitting-lounge">FITTING LOUNGE</a> <a id="top_menu_shopassistant" href="/shopassistant">SHOP ASSISTANT </a></div>
-                <div id="topleft"><a href="javascript:void(0)" id="custcarelink" class="floatl"><span class="irarrow floatr"></span><span class="cus_num">CALL TO ORDER </span> (080) 4922-1777 </a></div>
-            </div>
-            <!-- /#header_top -->
                 <div id="header_bot" class="clearfix">
-                <div class="toplinks_box">  
-                    <div class="toplink lcheckout"><a href="/checkout"><span id="icheckout" class="icon icheckout"></span><span style="margin-left:-2px;" class="toplinktext">CHECKOUT</span></a></div>
-                    <div class="toplink lcart"><a href="http://www.zivame.com/checkout/cart"><span id="cartitemscount_p" class="icon icart"></span><span class="toplinktext">SHOPPING CART</span></a></div>
-                        <div class="toplink lcust dropdown" id="L1_Accountmenu"><a onclick="openLoginPopUp();" href="javascript:void(0);"><span class="icon isignreg iprofile"></span><span class="toplinktext">SIGN IN / REGISTER</span></a>
+                 <div id="switcher-first-div" class="switcher-first-div">
+                      <div id="customercare-number" class="customercare-number">
+                      <i class="fa fa-phone awesome-phone" aria-hidden="true"></i>
+                      <span>
+                         CONTACT US (080) 4922-1777
+                      </span></div>
+                      <div id="intl-switcher" class="intl-switcher">
+                      <i class="fa fa-plane awesome-plane" aria-hidden="true"></i>
+                      <a href="http://www.zivame.com/international" target="_blank"><span>
+                         SWITCH TO INTERNATIONAL
+                      </span></a></div>
+                      <div id="download-app" class="download-app"><span>
+                         DOWNLOAD APP
+                      </span>
+                      <a target="_blank" href="https://itunes.apple.com/in/app/zivame/id1065767207?mt=8&amp;referrer=utm_source%3Ddesktop%26utm_medium%3Dmain_banner%26utm_campaign%3Dhome_main_banner_itunes"><i class="fa fa-apple fa-2 awesome-apple" aria-hidden="true"></i></a>
+                      <span class="app-separator"></span>
+                      <a target="_blank" href="https://play.google.com/store/apps/details?id=com.zivame.consumer&amp;referrer=utm_source%3Ddesktop%26utm_medium%3Dmain_banner%26utm_campaign%3Dhome_main_banner_android"><i class="fa fa-android awesome-android" aria-hidden="true"></i></a>
+                      </div>
+                 </div>
+                 
+                                  <div id="switcher-second-div-not-loggedin" class="switcher-second-div-not-loggedin">
+                                       <div id="second-div-exclusive-text" class="second-div-exclusive-text" style="display:none;">
+                           <div>Find Our Exclusives Here</div>
+                           <div class="exclusive-tooltip-arrow-container"><img src="http://cdn.zivame.com/skin/frontend/base/theme049/images/exclusive-brand-arrow-1.png" class="exclusive-tooltip-arrow"></div>
+                      </div>
+                      <div id="zivame-logo" class="zivame-logo"><a class="z-logo" href="/"><span class="zivLogo">ZIVAME</span></a></div>
+                      <div id="brand-switcher" class="brand-switcher">
+                         
+                                                <div class="our-brand-switcher-container" style="background-color:#F48583;"><a href="/zivameswitcher/index/setOurBrandsSwitcher" id="our-brand-switcher"><span class="our-brand-switcher-text" style="color:white;">OUR BRANDS</span></a></div>
+                          <div class="other-brand-switcher-container"><a href="/zivameswitcher/index/setOtherBrandsSwitcher" id="other-brand-switcher"><span class="other-brand-switcher-text" style="color:#F48583;">OTHER BRANDS</span></a></div>
+                      
+                      </div>
+                 </div>
+                                     
+                    <div id="switcher-third-div" class="switcher-third-div">
+                         <div class="switch-top-rightlinks">
+
+                            <div class="switch-cart">
+                               <a class="switch-cart-wrapper" style="display:block" href="/checkout/cart">
+                                  <div id="switch-cart-icon" class="switch-cart-icon">
+                                       <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                                                         </div> 
+                                  <div class="switch-cart-link">
+                                       <span>VIEW CART</span>
+                                  </div>
+                             </a></div>
+                             
+                             <div class="switch-trackorder">
+                               <a class="switch-trackorder-wrapper" style="display:block" href="/trackorder/index/orderstatus">
+                                  <div class="switch-trackorder-icon">
+                                       <i class="fa fa-truck" aria-hidden="true"></i>
+                                  </div>
+                                  <div class="switch-trackorder-link">
+                                       <span>TRACK ORDERS</span>
+                                  </div>
+                             </a></div>
+                             
+                             <div class="switch-login" id="switch-login">
+                                                              <a class="switch-login-wrapper" href="#">
+                                                                 <div class="switch-login-icon">
+                                       <i class="fa fa-user" aria-hidden="true"></i>
+                                  </div>
+                                  <div class="switch-login-link">
+                                                                                  <span>SIGN IN</span>
+                                                                         </div>
+                                                               </a>
+
+                              <ul class="dropdown-menu" id="dropdown-menu">
+                                <li><a href="/sales/order/history"><span class="ico2"></span>RECENT ORDERS</a></li>
+                                <li><a href="/customer/address"><span class="ico3"></span>PROFILE</a></li>
+                                <li><a href="/bookmark/"><span class="ico5"></span>WISHLIST</a></li>
+                                <li><a href="/review/customer/"><span class="ico6"></span>RATINGS &amp; REVIEWS</a></li>
+                                <li><a href="https://www.zivame.com/storecredits/index/view"><span class="ico8"></span>NO zCOINS</a></li>
+                                <li style="border: medium none;"><a href="/customer/account/logout"><span class="ico10"></span>LOGOUT</a></li>
+                              </ul>
+
+                             </div>
+                             
+
+                             
                         </div>
-                </div>
-                <!-- /.toplinks_box -->
-                <div id="logo_contianter">
-                    <div class="toplinks_narrow" style="height:75px;"><!--<a id="isearch" class="icon isearch"></a>--><a id="imenua"><span class="icon imenu"></span><span class="menu_txt">MENU</span></a></div>
-                    <a class="z-logo" href="/"><img src="http://cdn.zivame.com/skin/frontend/base/theme049/images/zivame_logo_new.png" alt="Zivame Logo"></a></div>
-                <!-- /#logo_contianter -->
-                <div id="search_box1" class="search_box searchDiv">
+
+                        <div class="switch-top-searchbar">
+                           <div id="search_box1" class="search_box searchDiv">
 <style type="text/css">
 
 .display_box_hover{ background-color:#f9f9f9!important;cursor:pointer;} 
 
 </style>
 <!--
-<form class="search-input-form" id="search_mini_form" action="http://www.zivame.com/search/result/" method="post" onsubmit="ga('send', 'event', 'Search', '/privacy_policy_m');">
+<form class="search-input-form" id="search_mini_form" action="http://www.zivame.com/search/result/" method="post" onsubmit="ga('send', 'event', 'Search', '/privacy_policy_m/?');">
 <input class="" autocomplete="off" id="fld_search" type="text" name="fld_search" placeholder="Search for" />
 <input class="icon_search" type="submit" title="Search for" value=""  />
 <div id="search-running" style="display: none; position: absolute; right: 40px; top: 7px; z-index: 100;">
@@ -289,10 +417,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         //]]>
         </script>
 </form> -->
-<form class="solr-search-input-form" id="solr_search_form" action="http://www.zivame.com/search/result/" method="get">
-<input class="" autocomplete="off" id="searchinput" type="text" name="q" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for your favourite lingerie'" placeholder="Search for your favourite lingerie">
-<span id="iconspan" style="float: right; width:11%; height: 38px; background-color: #61C262;">
-<img src="/skin/frontend/base/theme049/css/img/imgowhite.png" value="" title="Search for" id="icon_search" class=""></span>
+<form class="solr-search-input-form" id="solr_search_form" onkeypress="return event.keyCode != 13;">
+<input class="" autocomplete="off" id="searchinput" type="text" name="q" onfocus="this.placeholder = ''" onblur="this.placeholder = 'FIND YOUR FAVORITE LINGERIE HERE'" placeholder="FIND YOUR FAVORITE LINGERIE HERE">
+<i class="fa fa-search awesome-search" aria-hidden="true"></i>
 <div id="search-running" style="display: none; position: absolute; right: 40px; top: 7px; z-index: 100;">
 <img alt="" src="http://cdn.zivame.com/skin/frontend/base/theme049/images/search-loader.gif"></div>
 
@@ -304,7 +431,7 @@ var jqr = jQuery.noConflict();
 var xhr;
 var acBusy =false;
 var urlm;
-
+var listUrl = '';
 var displayBoxIndex =-1;
 function NavigateSuggestionList(diffValu){
 
@@ -317,10 +444,12 @@ function NavigateSuggestionList(diffValu){
             displayBoxIndex = oBoxCollection.length - 1;
         }
         var cssClass = "display_box_hover";
-	jqr("#searchinput").val('');
-	var litext =  oBoxCollection.removeClass(cssClass).eq(displayBoxIndex).attr('data-autosuggest-val');
-        oBoxCollection.removeClass(cssClass).eq(displayBoxIndex).addClass(cssClass);
-	jqr("#searchinput").val(litext);
+  jqr("#searchinput").val('');
+  var litext =  oBoxCollection.removeClass(cssClass).eq(displayBoxIndex).addClass(cssClass).attr('data-autosuggest-val');
+
+listUrl =  oBoxCollection.eq(displayBoxIndex).find("a").attr("href");
+
+  jqr("#searchinput").val(litext);
 }
 
 
@@ -331,28 +460,29 @@ var fetchAutComp = function () {
             xhr.abort();
         }
 
-	if(window.location.protocol == 'https:' ){ urlm= "https://www.zivame.com/search/result/autoComplete";}
-	else{ urlm= "http://www.zivame.com/search/result/autoComplete";};
+  if(window.location.protocol == 'https:' ){ urlm= "/search/result/autoComplete";}
+  else{ urlm= "/search/result/autoComplete";};
         xhr = jqr.ajax({
             type: "POST",
             url: urlm,
-	    data : {q: jqr("#searchinput").val()},
+      data : {q: jqr("#searchinput").val()},
             cache: false,
             beforeSend: function () {
                 acBusy = true;
             },
             success: function (result) {
-		 var response = eval('(' + (result || false) + ')');
-		if(response.error == 0){
-               		jqr('#search-autocomplete').html(response.msg).slideDown(150);
-		}else{
-			jqr('#search-autocomplete').hide();
-		}
+     var response = eval('(' + (result || false) + ')');
+    if(response.error == 0){
+                  jqr('#search-autocomplete').html(response.msg).slideDown(150);
+    }else{
+      jqr('#search-autocomplete').hide();
+    }
             },
             error: function () {
 
             },
             complete: function () {
+		listUrl = '';
                 acBusy = false;
             }
         });
@@ -360,28 +490,26 @@ var fetchAutComp = function () {
 
 
 jqr(window).on('load', function(){
-   if(window.location.protocol == 'https:' ){ urlm= "https://www.zivame.com/search/result/autoComplete";}
-	else{urlm= "http://www.zivame.com/search/result/autoComplete";}
+   if(window.location.protocol == 'https:' ){ urlm= "/search/result/autoComplete";}
+  else{urlm= "/search/result/autoComplete";}
 });
 
 
 jqr(document).ready(function () {
-	       
-	jqr('#searchinput').focus(function(){
-		jqr("#searchinput").css("border","1px solid #F7A6AF");//iconspan
-		//jqr("#iconspan").css("background-color","#61C262");
-	});
+         
+  
 jqr('#searchinput').focusout(function(){
-		jqr("#searchinput").css("border","");
+    jqr("#searchinput").css("border","");
 //jqr("#iconspan").css("background-color","#999");
-	});
+  });
      jqr("#icon_search").click(function(){
-			var searchInputVar =  jqr("#searchinput").val();
-		     if( searchInputVar != ''){  
-		        jqr("#solr_search_form").submit();
-		     }
-            
-	});
+      var searchInputVar =  jqr("#searchinput").val();
+	if(listUrl == ''){
+         if( searchInputVar != ''){  
+            jqr("#solr_search_form").submit();
+         }
+         }else{ window.location = listUrl;}          
+  });
 
      /*jqr('#search-autocomplete > li').on({'mouseover':
                   function () {
@@ -392,60 +520,172 @@ jqr('#searchinput').focusout(function(){
                   }
              });*/
 
-	jqr('#search-autocomplete').on('click', 'li', function (e) {
-		var that = jqr(this);
-		//var q = that.attr('data-autosuggest-val');
-		//jqr("#searchinput").val(q);
-		//jqr('#search-autocomplete').hide();
-		//jqr("#solr_search_form").submit();
-		//var solrUrl = that.attr('data-product_url');
-		//var tempUrl = solrUrl.substring(21);
-		window.location = jqr(this).children("a").attr("href");
-       });
+  jqr('#search-autocomplete').on('click', 'li', function (e) {
+    var redirectLink = jqr(this).children("a").attr("href");
+    e.preventDefault();
+    var dataCategory = jqr(this).attr("data-category");
+    if(!dataCategory)
+    {
+        dataCategory = 'products';
+    }
+    var that = jqr(this);
+    var hrefLink = redirectLink;
+    var currentTime = Date.now();
+    if((hrefLink.indexOf("coucou-teens.html")>=0) || (hrefLink.indexOf("penny.html")>=0) || (hrefLink.indexOf("coucou.html")>=0) || (hrefLink.indexOf("rosaline.html")>=0) || (hrefLink.indexOf("36-24-36.html")>=0) || (hrefLink.indexOf("pny.html")>=0) || (hrefLink.indexOf("bracotair.html")>=0) || (hrefLink.indexOf("zivame.html")>=0)){
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_autoselect_search_brands"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    } else if(dataCategory === 'Brands'){
+        setBrandSwitcherCookie('brand_switcher', 'others');
+        dataLayer.push({"event":"brand_switcher","action":"others_autoselect_search_brands"});
+        var val = 'others';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    } else {
+        window.location = redirectLink;
+    }
 
-	jqr('#search-autocomplete').on('mouseleave',function(){
-		//alert("Hello");
-		jqr('#search-autocomplete').hide();
-		//jqr('#search-autocomplete').html('');
+  });
 
-	});
+  jqr('#search-autocomplete').on('mouseleave',function(){
+    //alert("Hello");
+   jqr('#search-autocomplete').hide();
+displayBoxIndex =-1;listUrl = '';
+    //jqr('#search-autocomplete').html('');
 
-jqr('#search-autocomplete').on('focusout',function(){
-		//alert("Hello");
-		jqr('#search-autocomplete').hide();
-		//jqr('#search-autocomplete').html('');
+  });
 
-	});
+jqr('#search-autocomplete').on('focusout',function(e){
+    //alert("Hello");
+    jqr('#search-autocomplete').hide();
+    //jqr('#search-autocomplete').html('');
+displayBoxIndex =-1;listUrl = '';
+  });
     jqr("#searchinput").keyup(function(e){
-
-	if(e.keyCode == 38 || e.keyCode== 40){ 			
-			 if (e.keyCode == 40 ) // Down key
-			    {
-				NavigateSuggestionList(1);
-  			  }else if ( e.keyCode == 38 ) // Up key
-			    {
-				NavigateSuggestionList(-1);
-			    }
-		}
-       else if (e.keyCode == 13 && !e.shiftKey) {
+           //e.preventDefault();
+           if(e.keyCode == 38 || e.keyCode== 40)
+           {  
+	        if (e.keyCode == 40 ) // Down key
+                {
+                    listUrl = '';
+                    NavigateSuggestionList(1);
+                }
+                else if ( e.keyCode == 38 ) // Up key
+                {
+                    listUrl = '';
+                    NavigateSuggestionList(-1);
+                }
+          }
+          else if (e.keyCode == 13 && !e.shiftKey) 
+          {
                e.preventDefault();            
-             var searchInputVar =  jqr("#searchinput").val();
-             if( searchInputVar != ''){  
-                jqr("#solr_search_form").submit();
-             }           
+	       if(listUrl == '' )
+               {
+                    var searchInputVar =  jqr("#searchinput").val();
+                    if( searchInputVar != '')
+                    {  
+					    document.getElementById('solr_search_form').action = "/search/result/";
+                        jqr("#solr_search_form").submit();
+                    }  
+	       }
+               else
+               { 
 
-        }else{
-		if(jqr("#searchinput").val() != ''){
-			fetchAutComp();
-		}
-		if(jqr("#searchinput").val() == ''){
-			 xhr.abort();
-			jqr('#search-autocomplete').hide();
-			//jqr('#search-autocomplete').html('');
-		}
+if((listUrl.indexOf("coucou-teens.html")>=0) || (listUrl.indexOf("penny.html")>=0) || (listUrl.indexOf("coucou.html")>=0) || (listUrl.indexOf("rosaline.html")>=0) || (listUrl.indexOf("36-24-36.html")>=0) || (listUrl.indexOf("pny.html")>=0) || (listUrl.indexOf("bracotair.html")>=0) || (listUrl.indexOf("zivame.html")>=0)){
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_autoselect_search_brands"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = listUrl;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+//alert(errorThrown);
+            }
+        });
+    } else if((listUrl.indexOf("brands-1/")>=0)) {
+        setBrandSwitcherCookie('brand_switcher', 'others');
+        dataLayer.push({"event":"brand_switcher","action":"others_autoselect_search_brands"});
+        var val = 'others';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = listUrl;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+//alert(errorThrown);
+            }
+        });
+    } else
+    {
+         window.location = listUrl;   
+    }
+                }         
+
+        }
+        else
+        {
+    if(jqr("#searchinput").val() != ''){
+      fetchAutComp();
+listUrl = '';
+displayBoxIndex =-1;
+    }
+    if(jqr("#searchinput").val() == ''){
+       xhr.abort();listUrl = '';
+      jqr('#search-autocomplete').hide();
+displayBoxIndex =-1;
+      //jqr('#search-autocomplete').html('');
+    }
 
 
-	}
+  }
     });
 
 /*$('#search-autocomplete li').keydown(function(e)
@@ -480,36 +720,46 @@ jqr('#search-autocomplete').on('focusout',function(){
     $current.addClass('selected');
 });​
   */
-				
+        
 });
 </script>
+                           </div>
+                        <div class="switch-top-rightlinks">
 
-                </div>
-                <!-- /#search_box1 -->
+                      </div>
+                 </div>
             </div>
-            <!-- /#header_bot -->
-        </div>
         <!-- /#header_inner -->
-    </header>
+    </div></div></header>
     <!--    New header for Tab-->
     <header id="htab">
       <div class="zhnav">
-          <ul class="navLogo">
-              <li><a href="/" class="zivLogo"></a></li>
-          </ul>
           <ul class="nav-Links">
-              <li id="mSrc"><span class="icon-search iconic"></span><a href="javascript:void(0)">Search</a></li>
+              <li id="mMenu" class="ipad-top-menu-icon"><span class="imenu iconic"></span><a href="javascript:void(0)">menu</a></li>
+              <li id="mSrc" class="ipad-top-search-icon"><span class="icon-search iconic"></span><a href="javascript:void(0)">Search</a></li>
+              <li id="brandSwitcher" class="ipad-brandSwitcher">
+                                  <div id="switcher-second-div-not-loggedin" class="switcher-second-div-not-loggedin">
+                                       <div id="second-div-exclusive-text-ipad" class="second-div-exclusive-text-ipad" style="display:none;">
+                           <div>Find Our Exclusives Here</div>
+                           <div class="exclusive-tooltip-arrow-container"><img src="http://cdn.zivame.com/skin/frontend/base/theme049/images/exclusive-brand-arrow-1.png" class="exclusive-tooltip-arrow"></div>
+                      </div>
+                      <div id="zivame-logo" class="zivame-logo"><a class="z-logo" href="/"><span class="zivLogo">ZIVAME</span></a></div>
+                      <div id="brand-switcher" class="brand-switcher ipad">
+                                                 <div class="our-brand-switcher-container ipad" style="background-color:#F48583;"><a href="/zivameswitcher/index/setOurBrandsSwitcher" id="our-brand-switcher"><span class="our-brand-switcher-text" style="color:white;">OUR BRANDS</span></a></div>
+                          <div class="other-brand-switcher-container ipad"><a href="/zivameswitcher/index/setOtherBrandsSwitcher" id="other-brand-switcher"><span class="other-brand-switcher-text" style="color:#F48583;">OTHER BRANDS</span></a></div>
+                                            </div>
+                 </div>
+              </li>
                             <li class="lcust dropdown" id="L1_Accountmenu_tab" onclick="openLoginPopUp();" href="javascript:void(0);"><span class="iprofile iconic"></span><a href="javascript:void(0)">Account</a></li>
-              <li id="cartIcon" onclick="location.href = '/checkout/cart';"><span id="cartitemscount_p_tab" class="icheckout iconic"></span><a href="javascript:void(0)">Cart</a></li>
-              <li id="mMenu"><span class="imenu iconic"></span><a href="javascript:void(0)">menu</a></li>
+              <li id="cartIcon" class="ipad-top-cart-icon" onclick="location.href = '/checkout/cart';"><span id="cartitemscount_p_tab" class="icheckout iconic"></span><a href="javascript:void(0)">Cart</a></li>
           </ul>
       </div>
-      <div id="search_box1_htab" class="search_box searchDiv">
+      <div id="search_box1_htab" class="search_box searchDiv" style="max-width: 100%">
         
 <div class="autooverlay"></div>
 <form class="solr-search-input-form" id="port_tab_solr_search_form" action="http://www.zivame.com/search/result/" method="get">
 
-<input class="" autocomplete="off" id="porttabsearchinput" type="text" name="q" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for your favourite lingerie'" placeholder="Search for your favourite lingerie">
+<input class="" autocomplete="off" id="porttabsearchinput" type="text" name="q" onfocus="this.placeholder = ''" onblur="this.placeholder = 'FIND YOUR FAVORITE LINGERIE HERE'" placeholder="FIND YOUR FAVORITE LINGERIE HERE">
 
 <span id="tabiconspan" style="float: right; width: 5%; height: 39px; background-color:#61C262">
 <img src="/skin/frontend/base/theme049/css/img/imgowhite.png" value="" title="Search for" id="porttab_icon_search" class=""></span>
@@ -519,6 +769,92 @@ jqr('#search-autocomplete').on('focusout',function(){
 </form>
 <div class="search-autocomplete" id="port-tab-search-autocomplete"></div>
 <script type="text/javascript">
+
+function ajaxCartDax(daxData){
+var daxAttrAry = daxData.split('#');
+		 dataLayer.push({
+		 	"event": "searchpage_product_ajaxcart",
+			"name":daxAttrAry[0],
+			"id":daxAttrAry[1],
+			"sku":daxAttrAry[2],
+			"price":daxAttrAry[3],
+			"saleprice":daxAttrAry[4],
+			"brand":daxAttrAry[5],
+			"position":daxAttrAry[6],
+			"sorting":daxAttrAry[7],
+			"user_login_status":"NO"
+               
+           	 });
+
+}
+
+function saveNewBookmark(productId,productName,daxAttr){
+
+    if(jqr("#customerInState").val() == 0){
+		var daxAttrAry = daxAttr.split('#');
+		 dataLayer.push({
+		 	"event": "searchpage_product_wishlist",
+			"name":daxAttrAry[0],
+			"id":daxAttrAry[1],
+			"sku":daxAttrAry[2],
+			"price":daxAttrAry[3],
+			"saleprice":daxAttrAry[4],
+			"brand":daxAttrAry[5],
+			"position":daxAttrAry[6],
+			"sorting":daxAttrAry[7],
+			"user_login_status":"NO"
+               
+           	 });
+
+        lightbox(null, "/customer/login/loginpopup?action=bcbookmark&pid="+productId+"&pname="+productName);
+    }else{
+
+	var daxAttrAry = daxAttr.split('#');
+		 dataLayer.push({
+		 	"event": "searchpage_product_wishlist",
+			"name":daxAttrAry[0],
+			"id":daxAttrAry[1],
+			"sku":daxAttrAry[2],
+			"price":daxAttrAry[3],
+			"saleprice":daxAttrAry[4],
+			"brand":daxAttrAry[5],
+			"position":daxAttrAry[6],
+			"sorting":daxAttrAry[7],
+			"user_login_status":"YES"
+               
+           	 });
+
+   jqr.ajax({
+            type: "POST",
+            url: window.location.origin+'/catalog/category/customBookmark',
+            data: {pId:productId, pName:productName},
+            cache: false,
+            dataType: 'json',
+            success: function(response) {
+                
+                if(response.status == 1) {                    
+                   lightbox(null, "/customer/login/loginpopup?action=bcbookmark&pid="+productId+"&pname="+productName);
+                }else if(response.status == 0) {
+                    
+                    if(jqr('#icon_fav_'+productId).hasClass("added")){
+                      jqr('#icon_fav_'+productId).removeClass("added");
+                    }else{
+                      jqr('#icon_fav_'+productId).addClass("added")
+                    }
+                    
+                    return;
+                }
+                return;
+            },
+            error: function(e) {
+
+            }
+        });
+    }
+}
+
+
+
 var jqr = jQuery.noConflict();
 var xhrtab;
 var acBusy =false;
@@ -562,8 +898,8 @@ var portTabfetchAutComp = function () {
 }
 
 jqr(window).on('load', function(){
-   if(window.location.protocol == 'https:' ){ urlm= "https://www.zivame.com/search/result/autoComplete";}
-	else{urlm= "http://www.zivame.com/search/result/autoComplete";}
+   if(window.location.protocol == 'https:' ){ urlm= "/search/result/autoComplete";}
+	else{urlm= "/search/result/autoComplete";}
 });
 
 jqr(document).ready(function () {
@@ -602,16 +938,56 @@ jqr("#port_tab_solr_search_form").css({"z-index":"0","position":""});
 	});
 
 	jqr('#port-tab-search-autocomplete').on('click', 'li', function (e) {
-		var that = jqr(this);
-		//var q = that.attr('data-autosuggest-val');
-		//jqr("#porttabsearchinput").val(q);
-		//jqr('#port-tab-search-autocomplete').hide();
-		//jqr("#port_tab_solr_search_form").submit();
-		//var solrUrl = that.attr('data-product_url');
-		//var tempUrl = solrUrl.substring(21);
-		//window.location = window.location.origin + '' + tempUrl;
-window.location = jqr(this).children("a").attr("href");
-       });
+		var redirectLink = jqr(this).children("a").attr("href");
+    e.preventDefault();
+    var dataCategory = jqr(this).attr("data-category");
+    var that = jqr(this);
+    var hrefLink = redirectLink;
+    var currentTime = Date.now();
+    if((hrefLink.indexOf("coucou-teens.html")>=0) || (hrefLink.indexOf("penny.html")>=0) || (hrefLink.indexOf("coucou.html")>=0) || (hrefLink.indexOf("rosaline.html")>=0) || (hrefLink.indexOf("36-24-36.html")>=0) || (hrefLink.indexOf("pny.html")>=0) || (hrefLink.indexOf("bracotair.html")>=0) || (hrefLink.indexOf("zivame.html")>=0)){
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_autoselect_search_brands"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    } else if(dataCategory === 'Brands'){
+        setBrandSwitcherCookie('brand_switcher', 'others');
+        dataLayer.push({"event":"brand_switcher","action":"others_autoselect_search_brands"});
+        var val = 'others';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    } else {
+        window.location = redirectLink;
+    }
+  });
 
 	
     jqr("#porttabsearchinput").keyup(function(e){
@@ -644,433 +1020,320 @@ window.location = jqr(this).children("a").attr("href");
 </script>
       </div>
   </header>
+
     <div id="absL3Menu"></div>
     <div class="main_menu">
         <div class="clearfix"></div>
         <!-- end search_box2 -->
-        <style> @media screen and (min-width:992px) {
-	.z-hrmenu .z-hrsub-inner .width_l18_inner { width: 16% !important;/* 100/5 cols */}
-    }	
-</style>
-<div class="main-zmenu">
-	<div class="z-mobi-ctrl">
-      <div class="title-menu">Shop</div>
-      <div class="close-menu"></div>
-    </div>
-   <nav id="z-hrmenu" class="z-hrmenu">
-      <ul>
-         <li id="l10" class="l1item">
-            <a id="L1_A0" href="/buy-bra-online.html?dir=desc&amp;order=bestsellers" class="l1menuitemanchor">Bras</a>
-            <div class="z-hrsub">
-               <div class="z-hrsub-inner">
-				  <div class="width_l10_inner">
-						<h4 class="l2seeall l2menutitle"><a href="/buy-bra-online.html?dir=desc&amp;order=bestsellers">See all bras</a></h4>
-				  </div>
-                  <div class="width_l10_inner">
-                     <h4 id="l10_l21" class="l2menutitle">By Style</h4>
-                     <ul id="l10_l21_ul">
-                        <li><a id="topmenu_bra_backlessbras" class="l3menuitemanchor" href="/buy-bra-online/backless.html?dir=desc&amp;order=bestsellers">Backless Bras</a></li>
-                        <li><a id="topmenu_bra_frontopenbra" class="l3menuitemanchor" href="/buy-bra-online/front-open-bra.html?dir=desc&amp;order=bestsellers">Front Open Bra</a></li>
-                        <li><a id="topmenu_bra_pushupbra" class="l3menuitemanchor" href="/buy-bra-online/push-up-bra.html?dir=desc&amp;order=bestsellers">Pushup Bra</a></li>
-                        <li><a id="topmenu_bra_stickonbra" class="l3menuitemanchor" href="/buy-bra-online/stick-on-bra.html?dir=desc&amp;order=bestsellers">Stick on Bra</a></li>
-                        <li><a id="topmenu_bra_straplessbymultiwaybra" class="l3menuitemanchor" href="/buy-bra-online/strapless-bra.html?dir=desc&amp;order=bestsellers">Strapless</a></li>
-                        <li><a id="topmenu_bra_tshirtbra" class="l3menuitemanchor" href="/buy-bra-online/t-shirt-bra.html?dir=desc&amp;order=bestsellers">T-Shirt Bra</a></li>
-						<li><a id="topmenu_bra_postsurgical" class="l3menuitemanchor" href="/buy-bra-online/post-surgical-posture-corrector.html?dir=desc&amp;order=bestsellers">Post Surgical / <br>Posture Corrector</a></li>
-						<li><a id="topmenu_bra_minimiserbra" class="l3menuitemanchor" href="/buy-bra-online/minimizer-bra.html?dir=desc&amp;order=bestsellers">Minimiser Bra</a></li>
-						<li><a id="topmenu_bra_corsets" class="l3menuitemanchor" href="/buy-bra-online/corset-bra.html?dir=desc&amp;order=bestsellers">Corsets</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l10_inner -->
-                  <div class="width_l10_inner">
-                     <h4 id="l10_l22" class="l2menutitle">By Preferences</h4>
-                     <ul id="l10_l22_ul">
-                        <li><a id="topmenu_bra_padded" class="l3menuitemanchor" href="/buy-bra-online/padded-bra.html?dir=desc&amp;order=bestsellers">Padded</a></li>
-                        <li><a id="topmenu_bra_nonpadded" class="l3menuitemanchor" href="/buy-bra-online/non-padded-bra.html?dir=desc&amp;order=bestsellers">Non Padded</a></li>
-                        <li><a id="topmenu_bra_lightlypadded" class="l3menuitemanchor" href="/buy-bra-online/lightly-padded-bra.html?dir=desc&amp;order=bestsellers">Lightly Padded</a></li>
-                        <li><a id="topmenu_bra_wired" class="l3menuitemanchor" href="/buy-bra-online/underwire-bra.html?dir=desc&amp;order=bestsellers">Wired</a></li>
-                        <li><a id="topmenu_bra_nonwired" class="l3menuitemanchor" href="/buy-bra-online/non-wired-bra.html?dir=desc&amp;order=bestsellers">Non Wired</a></li>
-                        <li><a id="topmenu_bra_1by2coverage" class="l3menuitemanchor" href="/buy-bra-online/half-cup-bra.html?dir=desc&amp;order=bestsellers">1/2 Coverage</a></li>
-						<li><a id="topmenu_bra_3by4coverage" class="l3menuitemanchor" href="/buy-bra-online/three-fourth-cup-bra.html?dir=desc&amp;order=bestsellers">3/4 Coverage</a></li>
-                        <li><a id="topmenu_bra_fullcoverage" class="l3menuitemanchor" href="/buy-bra-online/full-cup-bra.html?dir=desc&amp;order=bestsellers">Full Coverage</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l10_inner -->
-                  <div class="width_l10_inner">
-                     <h4 id="l10_l23" class="l2menutitle">By Collections</h4>
-                     <ul id="l10_l23_ul">
-                        <li><a id="topmenu_bra_bridal" class="l3menuitemanchor" href="/buy-bra-online/bridal-bra.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
-                        <li><a id="topmenu_bra_verysexy" class="l3menuitemanchor" href="/buy-bra-online/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
-                        <li><a id="topmenu_bra_teenage" class="l3menuitemanchor" href="/buy-bra-online/teenage-bra.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
-                        <li><a id="topmenu_bra_plussize" class="l3menuitemanchor" href="/buy-bra-online/super-support-plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
-                        <li><a id="topmenu_bra_dd" class="l3menuitemanchor" href="/buy-bra-online/dd-k-cups.html?dir=desc&amp;order=bestsellers">DD +</a></li>
-						 <li><a id="topmenu_bra_valuepacks" class="l3menuitemanchor" href="/buy-bra-online/value-packs.html?dir=desc&amp;order=bestsellers">Value Packs</a></li>
-                        <li><a id="topmenu_bra_sportsbras" class="l3menuitemanchor" href="/buy-bra-online/sports-bra.html?dir=desc&amp;order=bestsellers">Sports Bra</a></li>
-                        <li><a id="topmenu_bra_maternitybynursing" class="l3menuitemanchor" href="/buy-bra-online/maternity-bra.html?dir=desc&amp;order=bestsellers">Maternity / Nursing</a></li>
-                        <li><a id="topmenu_bra_cotton" class="l3menuitemanchor" href="/buy-bra-online/cotton.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l10_inner -->                  
-               </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>
-         <li id="l11" class="l1item">
-            <a id="L1_A1" href="/buy-lingerie-online.html?dir=desc&amp;order=bestsellers" class="l1menuitemanchor">Panty</a>
-            <div class="z-hrsub">
-               <div class="z-hrsub-inner">
-				  <div class="width_l11_inner">
-						<h4 class="l2seeall l2menutitle"><a href="/buy-lingerie-online.html?dir=desc&amp;order=bestsellers">See all Panties</a></h4>
-				  </div>
-                  <div class="width_l11_inner">
-                     <h4 id="l11_l21" class="l2menutitle">By Style</h4>
-                     <ul id="l11_l21_ul">
-                        <li><a id="topmenu_panty_bikini" class="l3menuitemanchor" href="/buy-lingerie-online/buy-bikini-online.html?dir=desc&amp;order=bestsellers">Bikini</a></li>
-						<li><a id="topmenu_panty_boyshort" class="l3menuitemanchor" href="/buy-lingerie-online/boyshorts-brief.html?dir=desc&amp;order=bestsellers">Boyshort</a></li>
-						<li><a id="topmenu_panty_gstringbythongs" class="l3menuitemanchor" href="/buy-lingerie-online/buy-thongs-online.html?dir=desc&amp;order=bestsellers">G-String / Thongs</a></li>
-                        <li><a id="topmenu_panty_hipster" class="l3menuitemanchor" href="/buy-lingerie-online/hipster.html?dir=desc&amp;order=bestsellers">Hipster</a></li>
-						<li><a id="topmenu_panty_cheekini" class="l3menuitemanchor" href="/buy-lingerie-online/cheekini.html?dir=desc&amp;order=bestsellers">Cheekini</a></li>
-                     </ul>
-                  </div>
-                  <!---/.width_l11_inner-->
-                  <div class="width_l11_inner">
-                     <h4 id="l11_l22" class="l2menutitle">By Preferences</h4>
-                     <ul id="l11_l22_ul">
-                        <li><a id="topmenu_panty_zerocoverage" class="l3menuitemanchor" href="/buy-lingerie-online/no-cover.html?dir=desc&amp;order=bestsellers">Zero Coverage</a></li>
-                        <li><a id="topmenu_panty_halfcoverage" class="l3menuitemanchor" href="/buy-lingerie-online/half-cover-brief.html?dir=desc&amp;order=bestsellers">Half Coverage</a></li>
-                        <li><a id="topmenu_panty_3by4coverage" class="l3menuitemanchor" href="/buy-lingerie-online/three-fourth-cover-brief.html?dir=desc&amp;order=bestsellers">3/4 Coverage</a></li>
-						<li><a id="topmenu_panty_fullcoverage" class="l3menuitemanchor" href="/buy-lingerie-online/full-cover-brief.html?dir=desc&amp;order=bestsellers">Full Coverage</a></li>
-                        <li><a id="topmenu_panty_nopantyline" class="l3menuitemanchor" href="/buy-lingerie-online/no-panty-line-brief.html?dir=desc&amp;order=bestsellers">No Panty Line</a></li>
-                        <li><a id="topmenu_panty_periodpanties" class="l3menuitemanchor" href="/buy-lingerie-online/no-stain-panties.html?dir=desc&amp;order=bestsellers">Period Panties</a></li>
-                     </ul>
-                  </div>
-                  <!---/.width_l11_inner-->
-                  <div class="width_l11_inner">
-                     <h4 id="l11_l24" class="l2menutitle">By Collection</h4>
-                     <ul id="l11_l24_ul">
-						<li><a id="topmenu_panty_bridal" class="l3menuitemanchor" href="/buy-lingerie-online/bridal-brief.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
-                        <li><a id="topmenu_panty_verysexy" class="l3menuitemanchor" href="/buy-lingerie-online/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
-						<li><a id="topmenu_panty_teenage" class="l3menuitemanchor" href="/buy-lingerie-online/teenage-briefs.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
-						 <li><a id="topmenu_panty_plussize" class="l3menuitemanchor" href="/buy-lingerie-online/plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
-                        <li><a id="topmenu_panty_maternity" class="l3menuitemanchor" href="/buy-lingerie-online/maternity-brief.html?dir=desc&amp;order=bestsellers">Maternity</a></li>
-                        <li><a id="topmenu_panty_valuepacks" class="l3menuitemanchor" href="/buy-lingerie-online/value-packs-brief.html?dir=desc&amp;order=bestsellers">Value Packs</a></li>
-						<li><a id="topmenu_panty_cotton" class="l3menuitemanchor" href="/buy-lingerie-online/cotton-panty.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
-                     </ul>
-                  </div>
-                  <!---/.width_l11_inner-->
-               </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>
-         <li id="l12" class="l1item">
-            <a id="L1_A2" href="/nightwear.html?dir=desc&amp;order=bestsellers&amp;cussku=SGSE01,EIL011 - Black,563519BL - Black,52285690 - Leopard Print" class="l1menuitemanchor">Nightwear</a>
-            <div class="z-hrsub">
-               <div class="z-hrsub-inner">
-				  <div class="width_l12_inner">
-						<h4 class="l2seeall l2menutitle"><a href="/nightwear.html?dir=desc&amp;order=bestsellers&amp;cussku=SGSE01,EIL011 - Black,563519BL - Black,52285690 - Leopard Print">See all in Nightwear</a></h4>
-				  </div>
-                  <div class="width_l12_inner">
-                     <h4 id="l12_l21" class="l2menutitle">Style</h4>
-                     <ul id="l12_l21_ul">
-                        <li><a id="topmenu_nightwear_chemiseandbabydoll" class="l3menuitemanchor" href="/nightwear/babydoll-and-chemise.html?dir=desc&amp;order=bestsellers">Chemise &amp; Babydoll</a></li>
-                        <li><a id="topmenu_nightwear_nightygownsbynighty" class="l3menuitemanchor" href="/nightwear/night-gowns-nighty.html?dir=desc&amp;order=bestsellers">Night Gowns / Nighty</a></li>
-						<li><a id="topmenu_nightwear_nightdress" class="l3menuitemanchor" href="/nightwear/long-nightdress.html?dir=desc&amp;order=bestsellers">Night Dress</a></li>
-                        <li><a id="topmenu_nightwear_sleepbottoms" class="l3menuitemanchor" href="/nightwear/sleep-bottoms.html?dir=desc&amp;order=bestsellers">Sleep Bottoms</a></li>
-                        <li><a id="topmenu_nightwear_sleeptops" class="l3menuitemanchor" href="/nightwear/sleep-tops.html?dir=desc&amp;order=bestsellers">Sleep Tops</a></li>
-                        <li><a id="topmenu_nightwear_wrapsandrobes" class="l3menuitemanchor" href="/nightwear/wraps-and-robes.html?dir=desc&amp;order=bestsellers">Wraps &amp; Robes</a></li>
-                        <!-- <li><a class="l3menuitemanchor" href="/nightwear/jumpsuits.html?dir=desc&order=bestsellers">Jumpsuits</a></li> -->
-						 <li><a id="topmenu_nightwear_camisoles" class="l3menuitemanchor" href="/nightwear/camisoles.html?dir=desc&amp;order=bestsellers">Camisoles</a></li>
-                        <li><a id="topmenu_nightwear_slips" class="l3menuitemanchor" href="/nightwear/slips.html?dir=desc&amp;order=bestsellers">Slips</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l12_inner -->
-                  <div class="width_l12_inner">
-                     <h4 id="l12_l22" class="l2menutitle">Sets</h4>
-                     <ul id="l12_l22_ul">
-                        <li><a id="topmenu_nightwear_topandpyjama" class="l3menuitemanchor" href="/nightwear/value-sets/top-pyjama.html?dir=desc&amp;order=bestsellers">Top &amp; Pyjama</a></li>
-                        <li><a id="topmenu_nightwear_topandcapris" class="l3menuitemanchor" href="/nightwear/value-sets/top-capris.html?dir=desc&amp;order=bestsellers">Top &amp; Capris</a></li>
-                        <li><a id="topmenu_nightwear_topandshorts" class="l3menuitemanchor" href="/nightwear/value-sets/top-shorts.html?dir=desc&amp;order=bestsellers">Top &amp; Shorts</a></li>
-                        <li><a id="topmenu_nightwear_twopiecesets" class="l3menuitemanchor" href="/nightwear/value-sets/two-piece-sets.html?dir=desc&amp;order=bestsellers">Two Piece Sets</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l12_inner -->
-                  <div class="width_l12_inner">
-                     <h4 id="l12_l23" class="l2menutitle">Collections</h4>
-                     <ul id="l12_l23_ul">
-                        <li><a id="topmenu_nightwear_bridal" class="l3menuitemanchor" href="/nightwear/bridal.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
-                        <li><a id="topmenu_nightwear_verysexy" class="l3menuitemanchor" href="/nightwear/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
-                        <li><a id="topmenu_nightwear_teenage" class="l3menuitemanchor" href="/nightwear/teenage-nightwear.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
-                        <li><a id="topmenu_nightwear_winterbythermals" class="l3menuitemanchor" href="/nightwear/winterwear-thermals.html?dir=desc&amp;order=bestsellers">Winterwear / Thermals</a></li>
-                        <li><a id="topmenu_nightwear_cotton" class="l3menuitemanchor" href="/nightwear/cotton.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
-                        <li><a id="topmenu_nightwear_maternity" class="l3menuitemanchor" href="/nightwear/maternity.html?dir=desc&amp;order=bestsellers">Maternity / Nursing<sup><span class="ifNew">New</span></sup></a></li>
-                        <li><a id="topmenu_nightwear_plussize" class="l3menuitemanchor" href="/nightwear/plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>
-         <li id="l13" class="l1item">
-            <a id="L1_A3" href="/Shapewear.html?dir=desc&amp;order=bestsellers&amp;cussku=SweeGlory" class="l1menuitemanchor">Shapewear</a>
-            <div class="z-hrsub">
-               <div class="z-hrsub-inner">
-				  <div class="width_l13_inner">
-						<h4 class="l2seeall l2menutitle"><a href="/Shapewear.html?dir=desc&amp;order=bestsellers&amp;cussku=SweeGlory">See all in Shapewear</a></h4>
-				  </div>
-                  <div class="width_l13_inner">
-                     <h4 id="l13_l21" class="l2menutitle">By Style</h4>
-                     <ul id="l13_l21_ul">
-                        <li><a id="topmenu_shapewear_bodysuit" class="l3menuitemanchor" href="/shapewear/bodysuit.html?dir=desc&amp;order=bestsellers">BodySuit</a></li>
-                        <li><a id="topmenu_shapewear_shapingbriefs" class="l3menuitemanchor" href="/shapewear/briefs.html?dir=desc&amp;order=bestsellers">Shaping Briefs</a></li>
-                        <li><a id="topmenu_shapewear_postsurgery" class="l3menuitemanchor" href="/shapewear/post-surgical-shapewear.html?dir=desc&amp;order=bestsellers">Post Surgery</a></li>
-                        <li><a id="topmenu_shapewear_postpregnancy" class="l3menuitemanchor" href="/shapewear/postpartum.html?dir=desc&amp;order=bestsellers">Post Pregnancy</a></li>
-                        <li><a id="topmenu_shapewear_gridles" class="l3menuitemanchor" href="/shapewear/girdles.html?dir=desc&amp;order=bestsellers">Girdles</a></li>
-                        <li><a id="topmenu_shapewear_shapingcamisoles" class="l3menuitemanchor" href="/shapewear/shaping-camisoles.html?dir=desc&amp;order=bestsellers">Shaping Camisoles</a></li>
-                        <li><a id="topmenu_shapewear_shapingdress" class="l3menuitemanchor" href="/shapewear/dress.html?dir=desc&amp;order=bestsellers">Shaping Dress</a></li>
-						<li><a id="topmenu_shapewear_shapingleggins" class="l3menuitemanchor" href="/shapewear/shaping-tights.html?dir=desc&amp;order=bestsellers">Shaping Leggings</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l13_inner -->
-                  <div class="width_l13_inner">
-                     <h4 id="l13_l22" class="l2menutitle">By Preferences</h4>
-                     <ul id="l13_l22_ul">
-                        <li><a id="topmenu_shapewear_smooth" class="l3menuitemanchor" href="/shapewear/light-control.html?dir=desc&amp;order=bestsellers">Smooth</a> </li>
-                        <li><a id="topmenu_shapewear_medium" class="l3menuitemanchor" href="/shapewear/medium-control.html?dir=desc&amp;order=bestsellers">Medium</a></li>
-                        <li><a id="topmenu_shapewear_high" class="l3menuitemanchor" href="/shapewear/high-control.html?dir=desc&amp;order=bestsellers">High</a></li>
-                        <li><a id="topmenu_shapewear_extreme" class="l3menuitemanchor" href="/shapewear/extreme-control.html?dir=desc&amp;order=bestsellers">Extreme</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l13_inner -->
-                  <div class="width_l13_inner">
-                     <h4 id="l13_l23" class="l2menutitle">By Collections</h4>
-                     <ul id="l13_l23_ul">
-                        <li><a id="topmenu_shapewear_thermoslim" class="l3menuitemanchor" href="/shapewear/thermoslim.html?dir=desc&amp;order=bestsellers">Thermoslim</a></li>
-                        <li><a id="topmenu_shapewear_cellulitecontrol" class="l3menuitemanchor" href="/shapewear/cellulite-control.html?dir=desc&amp;order=bestsellers">Cellulite Control</a></li>
-                        <li><a id="topmenu_shapewear_seamless" class="l3menuitemanchor" href="/shapewear/seamless.html?dir=desc&amp;order=bestsellers">Seamless</a></li>
-                        <li><a id="topmenu_shapewear_tummycontrol" class="l3menuitemanchor" href="/shapewear/tummy-flattening.html?dir=desc&amp;order=bestsellers">Tummy Control</a></li>
-                        <li><a id="topmenu_shapewear_rearshaping" class="l3menuitemanchor" href="/shapewear/rear-shaping.html?dir=desc&amp;order=bestsellers">Rear Shaping</a></li>
-                        <li><a id="topmenu_shapewear_waistshaping" class="l3menuitemanchor" href="/shapewear/waist-shapers.html?dir=desc&amp;order=bestsellers">Waist Shaping</a></li>
-                        <li><a id="topmenu_shapewear_thighshaping" class="l3menuitemanchor" href="/shapewear/thigh-shaping.html?dir=desc&amp;order=bestsellers">Thigh Shaping</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l13_inner -->
-               </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>
-         <li id="l14" class="l1item">
-            <a id="L1_A4" href="/apparel/leisurewear.html?dir=desc&amp;order=bestsellers&amp;cussku=T001-Navy,TA008 - Green,COUCMF11 - Grey Milange,TA003 - Grey" class="l1menuitemanchor pd">Comfortwear</a>
-         </li>
-		 <li id="l15" class="l1item">
-            <a id="L1_A5" href="/apparel/sportswear.html?dir=desc&amp;order=bestsellers">Activewear</a>
-         </li>
-		 <li id="l16" class="l1item">
-            <a id="L1_A6" href="/apparel/swimwear.html?dir=desc&amp;order=bestsellers" class="l1menuitemanchor pd">Swim and Beach</a>
-		 </li>
-         <li id="l17" class="l1item">
-            <a id="L1_A7" href="/accessories.html?dir=desc&amp;order=bestsellers" class="l1menuitemanchor">Accessories</a>
-            <div class="z-hrsub">
-                <div class="z-hrsub-inner">
-				  <div class="width_l17_inner">
-						<h4 class="l2seeall l2menutitle"><a href="/accessories.html?dir=desc&amp;order=bestsellers">See all in Accessories</a></h4>
-				  </div>
-                  <div class="width_l17_inner">
-                     <h4 id="l17_l21" class="l2menutitle">Lingerie Accessories</h4>
-                     <ul id="l17_l21_ul">
-                        <li><a id="topmenu_accessories_brastraps" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/bra-straps.html?dir=desc&amp;order=bestsellers">Bra Straps </a> </li>
-                        <li><a id="topmenu_accessories_lingeriebags" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/lingerie-bags.html?dir=desc&amp;order=bestsellers">Lingerie Bags</a></li>
-                        <li><a id="topmenu_accessories_concealersandstickon" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/concealers-stick-on.html?dir=desc&amp;order=bestsellers">Concealers &amp; Stick On</a> </li>
-                        <li><a id="topmenu_accessories_brasolutions" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/bra-solutions.html?dir=desc&amp;order=bestsellers">Bra Solutions</a> </li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l17_inner -->
-                  <div class="width_l17_inner">
-                     <h4 id="l17_l22" class="l2menutitle">Hosiery</h4>
-                     <ul id="l17_l22_ul">
-                        <li><a id="topmenu_accessories_pantyhose" class="l3menuitemanchor" href="/accessories-new/hosiery/pantyhose.html?dir=desc&amp;order=bestsellers">Pantyhose</a></li>
-                        <li><a id="topmenu_accessories_socks" class="l3menuitemanchor" href="/accessories-new/hosiery/hosiery-socks.html?dir=desc&amp;order=bestsellers">Socks</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l17_inner -->
-                  <div class="width_l17_inner">
-                     <h4 id="l17_l23" class="l2menutitle">Fashion Accessories</h4>
-                     <ul id="l17_l23_ul">
-                        <li><a id="topmenu_accessories_fashionsolutions" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-solution.html?dir=desc&amp;order=bestsellers">Fashion Solutions</a> </li>
-                        <li><a id="topmenu_accessories_gloves" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-gloves.html?dir=desc&amp;order=bestsellers">Gloves</a></li>
-                        <li><a id="topmenu_accessories_scarves" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-scarves.html?dir=desc&amp;order=bestsellers">Scarves</a></li>
-                        <li><a id="topmenu_accessories_belts" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-belt.html?dir=desc&amp;order=bestsellers">Belts</a></li>
-						<li><a id="topmenu_accessories_bags" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/bags.html?dir=desc&amp;order=bestsellers">Bags<sup><span class="ifNew">New</span></sup></a></li>
-						<li><a id="topmenu_accessories_footwear" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/footwear.html?dir=desc&amp;order=bestsellers">Footwear</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l17_inner -->
-                </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>  
-		  <li id="l18" class="l1item">
-            <a id="L1_A8" href="#" class="l1menuitemanchor">Brands</a>
-            <div class="z-hrsub">
-               <div class="z-hrsub-inner">
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l21" class="l2menutitle">Top Brands</h4>
-                     <ul id="l18_l21_ul">
-						<li><a id="topmenu_brands_Penny" class="l3menuitemanchor" href="/brands-1/penny.html?dir=desc&amp;order=bestsellers&amp;cussku=B23779-White,B25022 - Beige,615972,B23779-Pink-Black,603601">Penny</a></li>
-						<li><a id="topmenu_brands_Coucou" class="l3menuitemanchor" href="/brands-1/coucou.html?dir=desc&amp;order=bestsellers">Coucou</a></li>
-                        <li><a id="topmenu_brands_Enamor" class="l3menuitemanchor" href="/brands-1/enamor-bra.html?dir=desc&amp;order=bestsellers">Enamor</a></li>
-						<li><a id="topmenu_brands_Lovable" class="l3menuitemanchor" href="/brands-1/lovable-bra.html?dir=desc&amp;order=bestsellers">Lovable</a></li>
-						<li><a id="topmenu_brands_Amante" class="l3menuitemanchor" href="/brands-1/amante-bra.html?dir=desc&amp;order=bestsellers">Amante</a></li>
-						<li><a id="topmenu_brands_Jockey" class="l3menuitemanchor" href="/brands-1/jockey.html?dir=desc&amp;order=bestsellers">Jockey</a></li>
-						<li><a id="topmenu_brands_Bracotair" class="l3menuitemanchor" href="/brands-1/bracotair.html?dir=desc&amp;order=bestsellers">Bracotair</a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l18_inner -->
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l22" class="l2menutitle">International</h4>
-                     <ul id="l18_l22_ul">
-						<li><a id="topmenu_brands_AllInternational" class="l3menuitemanchor" href="/international-brands.html?dir=desc&amp;order=bestsellers">All International</a></li>
-						<li><a id="topmenu_brands_Claudette" class="l3menuitemanchor" href="/brands-1/claudette.html?dir=desc&amp;order=bestsellers">Claudette</a></li>
-						<li><a id="topmenu_brands_Anita" class="l3menuitemanchor" href="/brands-1/anita.html?dir=desc&amp;order=bestsellers">Anita</a></li>
-						<li><a id="topmenu_brands_Leonisa" class="l3menuitemanchor" href="/brands-1/leonisa.html?dir=desc&amp;order=bestsellers">Leonisa</a></li>
-						<li><a id="topmenu_brands_LeMystere" class="l3menuitemanchor" href="/brands-1/le-mystere.html?dir=desc&amp;order=bestsellers">Le Mystere</a></li>
-                        <li><a id="topmenu_brands_Miraclesuit" class="l3menuitemanchor" href="/brands-1/miracle-suit.html?dir=desc&amp;order=bestsellers">Miraclesuit</a></li>
-                        <li><a id="topmenu_brands_Moonbasa" class="l3menuitemanchor" href="/brands-1/moonbasa.html?dir=desc&amp;order=bestsellers">Moonbasa</a></li>
-                        <li><a id="topmenu_brands_Caprice" class="l3menuitemanchor" href="/brands-1/caprice.html?dir=desc&amp;order=bestsellers">Caprice</a></li>
-                        <li><a id="topmenu_brands_Panache" class="l3menuitemanchor" href="/brands-1/panache.html?dir=desc&amp;order=bestsellers">Panache</a></li>
-                        <li><a id="topmenu_brands_Eveden" class="l3menuitemanchor" href="/brands-1/eveden.html?dir=desc&amp;order=bestsellers">Eveden</a></li>
-                        <li><a id="topmenu_brands_Promise" class="l3menuitemanchor" href="/brands-1/promise.html?dir=desc&amp;order=bestsellers">Promise</a></li>
-                        <li><a id="topmenu_brands_Curvykate" class="l3menuitemanchor" href="/brands-1/curvykate.html?dir=desc&amp;order=bestsellers">Curvykate</a></li>
-                        <li><a id="topmenu_brands_Platino" class="l3menuitemanchor" href="/brands-1/platino.html?dir=desc&amp;order=bestsellers">Platino</a></li>
-                        <!--<li><a class="l3menuitemanchor" href="/brands-1/hollywood-fashion-secrets.html?dir=desc&order=bestsellers">HFS</a></li>
-                        <li><a class="l3menuitemanchor" href="/brands-1/fit.html?dir=desc&order=bestsellers">FIT</a></li>
-                        <li><a class="l3menuitemanchor" href="/brands-1/ultimo-bra.html?dir=desc&order=bestsellers">Ultimo</a></li>-->
-                     </ul>
-                  </div>
-                  <!-- /.width_l18_inner -->
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l23" class="l2menutitle">A - D</h4>
-                     <ul id="l18_l23_ul">
-					    <li><a id="topmenu_brands_AtoD_Anita" class="l3menuitemanchor" href="/brands-1/anita.html?dir=desc&amp;order=bestsellers">Anita</a></li>
-                        <li><a id="topmenu_brands_AtoD_Avirate" class="l3menuitemanchor" href="/brands-1/avirate.html?dir=desc&amp;order=bestsellers">Avirate</a></li>
-                        <li><a id="topmenu_brands_AtoD_Adira" class="l3menuitemanchor" href="/brands-1/adira.html?dir=desc&amp;order=bestsellers">Adira</a></li>
-                        <li><a id="topmenu_brands_AtoD_Amante" class="l3menuitemanchor" href="/brands-1/amante-bra.html?dir=desc&amp;order=bestsellers">Amante</a></li>
-						<li><a id="topmenu_brands_AtoD_Bellafonte" class="l3menuitemanchor" href="/brands-1/bellafonte.html?dir=desc&amp;order=bestsellers">Bellafonte<sup><span class="ifNew">New</span></sup></a></li>
-                        <li><a id="topmenu_brands_AtoD_Bracotair" class="l3menuitemanchor" href="/brands-1/bracotair.html?dir=desc&amp;order=bestsellers">Bracotair</a></li>
-                        <li><a id="topmenu_brands_AtoD_Benetton" class="l3menuitemanchor" href="/brands-1/united-colors-of-benetton.html?dir=desc&amp;order=bestsellers">Benetton</a></li>
-                        <li><a id="topmenu_brands_AtoD_Biara" class="l3menuitemanchor" href="/brands-1/biara.html?dir=desc&amp;order=bestsellers">Biara</a></li>
-                        <li><a id="topmenu_brands_AtoD_Bwitch" class="l3menuitemanchor" href="/brands-1/bwitch-bra.html?dir=desc&amp;order=bestsellers">Bw!tch</a></li>
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/boobs-bloomers.html?dir=desc&order=bestsellers">Boobs &amp; Bloomers</a></li> -->
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/cake.html?dir=desc&order=bestsellers">Cake</a></li> -->
-                        <li><a id="topmenu_brands_AtoD_Caprice" class="l3menuitemanchor" href="/brands-1/caprice.html?dir=desc&amp;order=bestsellers">Caprice</a></li>
-						<li><a id="topmenu_brands_AtoD_Claudette" class="l3menuitemanchor" href="/brands-1/claudette.html?dir=desc&amp;order=bestsellers">Claudette</a></li>
-                        <li><a id="topmenu_brands_AtoD_Curvykate" class="l3menuitemanchor" href="/brands-1/curvykate.html?dir=desc&amp;order=bestsellers">Curvy Kate</a></li>
-                        <li><a id="topmenu_brands_AtoD_Coucou" class="l3menuitemanchor" href="/brands-1/coucou.html?dir=desc&amp;order=bestsellers">Coucou</a></li>
-						<li><a id="topmenu_brands_AtoD_Coucouteens" class="l3menuitemanchor" href="/brands-1/coucou-teens.html?dir=desc&amp;order=bestsellers">Coucou Teens</a></li>
-                        <!-- <li><a id="topmenu_brands_AtoD_Decathlon" class="l3menuitemanchor" href="/brands-1/decathlon.html?dir=desc&order=bestsellers">Decathlon</a></li> -->
-						<li><a id="topmenu_brands_AtoD_dermawear" class="l3menuitemanchor" href="/brands-1/dermawear.html?dir=desc&amp;order=bestsellers">Dermawear<sup><span class="ifNew">New</span></sup></a></li>
-                     </ul>
-                  </div>
-                  <!-- /.width_l18_inner -->
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l24" class="l2menutitle">E - K</h4>
-                     <ul id="l18_l24_ul">
-                        <li><a id="topmenu_brands_EtoK_Enamor" class="l3menuitemanchor" href="/brands-1/enamor-bra.html?dir=desc&amp;order=bestsellers">Enamor</a></li>
-						<li><a id="topmenu_brands_EtoK_Eveden" class="l3menuitemanchor" href="/brands-1/eveden.html?dir=desc&amp;order=bestsellers">Eveden</a></li>
-                        <!-- <li><a id="topmenu_brands_EtoK_FIT" class="l3menuitemanchor" href="/brands-1/fit.html?dir=desc&order=bestsellers">F.I.T</a></li> -->
-						<!-- <li><a id="topmenu_brands_EtoK_Floret" class="l3menuitemanchor" href="/brands-1/floret.html?dir=desc&order=bestsellers">Floret<sup><span class="ifNew">New</span></sup></a></li> -->
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/garfield.html?dir=desc&order=bestsellers">Garfield</a></li> -->
-                        <li><a id="topmenu_brands_EtoK_Hanes" class="l3menuitemanchor" href="/brands-1/hanes-bra.html?dir=desc&amp;order=bestsellers">Hanes</a></li>
-                        <!-- <li><a id="topmenu_brands_EtoK_Hearttoheart" class="l3menuitemanchor" href="/brands-1/heart-2-heart.html?dir=desc&order=bestsellers">Heart 2 Heart</a></li> -->
-                        <!-- <li><a id="topmenu_brands_EtoK_HFS" class="l3menuitemanchor" href="/brands-1/hollywood-fashion-secrets.html?dir=desc&order=bestsellers">H F S</a></li> -->
-                        <li><a id="topmenu_brands_EtoK_Innersense" class="l3menuitemanchor" href="/brands-1/inner-sense.html?dir=desc&amp;order=bestsellers">Inner Sense<sup><span class="ifNew">Organic</span></sup></a></li>
-                        <li><a id="topmenu_brands_EtoK_Inaya" class="l3menuitemanchor" href="/brands-1/inaya.html?dir=desc&amp;order=bestsellers">Inaya</a></li>
-                        <!--<li><a class="l3menuitemanchor" href="/brands-1/Ing2ing.html">Ing2Ing</a></li>-->
-                        <!-- <li><a id="topmenu_brands_EtoK_Intense" class="l3menuitemanchor" href="/brands-1/intense.html?dir=desc&order=bestsellers">Intense</a></li> -->
-                        <li><a id="topmenu_brands_EtoK_Jockey" class="l3menuitemanchor" href="/brands-1/jockey.html?dir=desc&amp;order=bestsellers">Jockey</a></li>
-						<!-- <li><a id="topmenu_brands_EtoK_July" class="l3menuitemanchor" href="/brands-1/july.html?dir=desc&order=bestsellers">July</a></li> -->
-                        <!-- <li><a id="topmenu_brands_EtoK_Kanvin" class="l3menuitemanchor" href="/brands-1/kanvin.html?dir=desc&order=bestsellers">Kanvin</a></li> -->
-                     </ul>
-                  </div>
-                  <!-- /.width_l18_inner -->
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l25" class="l2menutitle">L - P</h4>
-                     <ul id="l18_l25_ul">
-						<li><a id="topmenu_brands_LtoP_LeMystere" class="l3menuitemanchor" href="/brands-1/le-mystere.html?dir=desc&amp;order=bestsellers">Le Mystere</a></li>
-						<li><a id="topmenu_brands_LtoP_Leonisa" class="l3menuitemanchor" href="/brands-1/leonisa.html?dir=desc&amp;order=bestsellers">Leonisa</a></li>
-                      <!--   <li><a id="topmenu_brands_LtoP_Lavos" class="l3menuitemanchor" href="/brands-1/lavos.html?dir=desc&order=bestsellers">Lavos</a></li> -->
-						<li><a id="topmenu_brands_LtoP_Libertina" class="l3menuitemanchor" href="/brands-1/libertina.html?dir=desc&amp;order=bestsellers">Libertina</a></li>
-						<li><a id="topmenu_brands_LtoP_Lobster" class="l3menuitemanchor" href="/brands-1/lobster.html?dir=desc&amp;order=bestsellers">Lobster<sup><span class="ifNew">New</span></sup></a></li>
-                        <li><a id="topmenu_brands_LtoP_Lovable" class="l3menuitemanchor" href="/brands-1/lovable-bra.html?dir=desc&amp;order=bestsellers">Lovable</a></li>
-                        <li><a id="topmenu_brands_LtoP_Miraclesuit" class="l3menuitemanchor" href="/brands-1/miracle-suit.html?dir=desc&amp;order=bestsellers">Miraclesuit</a></li>
-                        <li><a id="topmenu_brands_LtoP_Moonbasa" class="l3menuitemanchor" href="/brands-1/moonbasa.html?dir=desc&amp;order=bestsellers">Moonbasa</a></li>
-						<!-- <li><a id="topmenu_brands_LtoP_Neva" class="l3menuitemanchor" href="/brands-1/neva.html?dir=desc&order=bestsellers">Neva<sup><span class="ifNew">Thermals</span></sup></a></li> -->
-						<li><a id="topmenu_brands_LtoP_Nxt2Skn" class="l3menuitemanchor" href="/brands-1/nxt-2-skn.html?dir=desc&amp;order=bestsellers">Nxt 2 Skn<sup><span class="ifNew">New</span></sup></a></li>
-						<li><a id="topmenu_brands_LtoP_Omtex" class="l3menuitemanchor" href="/brands-1/omtex.html?dir=desc&amp;order=bestsellers">Omtex</a></li>
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/marie-meili.html?dir=desc&order=bestsellers">Marie Meili</a></li> -->
-                        <li><a id="topmenu_brands_LtoP_Panache" class="l3menuitemanchor" href="/brands-1/panache.html?dir=desc&amp;order=bestsellers">Panache</a></li>
-                        <li><a id="topmenu_brands_LtoP_Penny" class="l3menuitemanchor" href="/brands-1/penny.html?dir=desc&amp;order=bestsellers&amp;cussku=B23779-White,B25022 - Beige,615972,B23779-Pink-Black,603601">Penny</a></li>
-                        <li><a id="topmenu_brands_LtoP_Periperi" class="l3menuitemanchor" href="/brands-1/peri-peri.html?dir=desc&amp;order=bestsellers">Peri-Peri</a></li>
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/platino.html?dir=desc&order=bestsellers">Platino</a></li>
-						<li><a id="topmenu_brands_LtoP_Prettysecrets" class="l3menuitemanchor" href="/brands-1/pretty-secrets.html?dir=desc&order=bestsellers">Pretty Secrets</a></li> -->
-                        <li><a id="topmenu_brands_LtoP_Promise" class="l3menuitemanchor" href="/brands-1/promise.html?dir=desc&amp;order=bestsellers">Promise</a></li>
-                        <!-- <li><a id="topmenu_brands_LtoP_Puma" class="l3menuitemanchor" href="/brands-1/puma.html?dir=desc&order=bestsellers">Puma</a></li> -->
-                        <!-- <li><a id="topmenu_brands_LtoP_Plie" class="l3menuitemanchor" href="/brands-1/plie.html?dir=desc&order=bestsellers">Plie</a></li> -->
-                     </ul>
-                  </div>
-                  <!-- /.width_l18_inner -->
-                  <div class="width_l18_inner">
-                     <h4 id="l18_l26" class="l2menutitle">Q - Z</h4>
-                     <ul id="l18_l26_ul">
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/scandale.html?dir=desc&order=bestsellers">Scandale</a></li> -->
-						<li><a id="topmenu_brands_QtoZ_Silverguard" class="l3menuitemanchor" href="/brands-1/silverguard.html?dir=desc&amp;order=bestsellers">Silverguard</a></li>
-                        <!-- <li><a id="topmenu_brands_QtoZ_Soie" class="l3menuitemanchor" href="/brands-1/soie.html?dir=desc&order=bestsellers">Soie</a></li> -->
-						<li><a id="topmenu_brands_QtoZ_Swee" class="l3menuitemanchor" href="/brands-1/swee.html?dir=desc&amp;order=bestsellers">Swee</a></li>
-						<li><a id="topmenu_brands_QtoZ_Sweetdreams" class="l3menuitemanchor" href="/brands-1/sweet-dreams.html?dir=desc&amp;order=bestsellers">Sweet Dreams</a></li>
-                        <li><a id="topmenu_brands_QtoZ_Triumph" class="l3menuitemanchor" href="/brands-1/triumph-bra.html?dir=desc&amp;order=bestsellers">Triumph</a></li>
-						<li><a id="topmenu_brands_QtoZ_Trylo" class="l3menuitemanchor" href="/brands-1/trylo.html?dir=desc&amp;order=bestsellers">Trylo</a></li>
-                        <!-- <li><a class="l3menuitemanchor" href="/brands-1/ultimo-bra.html?dir=desc&order=bestsellers">Ultimo</a></li> 
-                        <li><a id="topmenu_brands_QtoZ_Wonderbra" class="l3menuitemanchor" href="/brands-1/wonderbra.html?dir=desc&order=bestsellers">WonderBra</a></li>-->
-                        <li><a id="topmenu_brands_QtoZ_362436" class="l3menuitemanchor" href="/brands-1/36-24-36.html?dir=desc&amp;order=bestsellers">36-24-36</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <!-- /.z-hrsub-inner -->
-            </div>
-            <!-- /.z-hrsub -->
-         </li>
-         <li id="l19" class="l1item">
-            <a id="L1_A9" href="/eoss.html?dir=desc&amp;order=bestsellers" class="sale_new l1menuitemanchor pd">Sale</a>
-         </li>
-      </ul>
-   </nav>
-   <!-- / nav -->
-    <!-- Mobile only links -->
-   <div class="z-mobi-ctrl mStatic">
-      <div class="title-menu">Explore</div>
-   </div>
-   <ul class="mExplore">
-      <li>
-        <a href="/trackorder/index/orderstatus">Track Your Order</a>
-      </li>
-      <li>
-        <a href="/try-at-home">Try at home</a>
-      </li>
-      <li>
-        <a href="/fitting-lounge">Fitting Lounge</a>
-      </li>
-      <li>
-        <a href="/giftcard.html">Gift Card</a>
-      </li>
-      <li>
-        <a href="/shopassistant">Shop Assistant</a>
-      </li>
-   </ul>
-   <div class="clearfix"></div>
-</div><!--Main-zmenu-ends-->        <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/menu-v1.js?t=1428405212"></script>
+        
+                     <div class="main-zmenu"> 
+   <div class="z-mobi-ctrl"> 
+      <div class="title-menu">Shop</div> 
+      <div class="close-menu"></div> 
+    </div> 
+   <nav id="z-hrmenu" class="z-hrmenu"> 
+      <ul> <li id="l09" class="l1item"> <a id="L1_A0" class="l1menuitemanchor ipadfix" href="javascript:void(0)"><span style="padding: 4px 10px; border-radius: 3px; background-color: #fb1d52;">ZIVAME BRANDS</span></a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner" style="padding: 0 20px 10px 20px; background: #000000; width: 100%; max-width: 1120px; background-repeat: no-repeat; background-position: right; background-size: contain; background-image: url(http://cdn.zivame.com//media/wysiwyg/Mailer_Images/Mar_16/background_menu.png);"><!-- /.width_l10_inner -->
+<div class="width_l09_inner" style="width: 27% !important;"><br> <a id="topmenu_exclusive_penny" href="/brands-1/penny.html?dir=desc&amp;order=bestsellers"> <img id="topmenu_exclusive_main_1" src="http://cdn.zivame.com//media/wysiwyg/Mailer_Images/Mar_16/v2-1.png" alt=""> </a>
+<p style="font-size: 12px; color: #999; text-transform: none; line-height: 1.3; max-width: 95%; font: 12px 'Droid Sans',sans;">Beautifully crafted fit for the confident you</p>
+<ul id="l10_l22_ul">
+<li><a id="topmenu_exclusive_1_1" class="l3menuitemanchor" href="/penny-quattro.html?dir=desc&amp;order=bestsellers">Best Support Bras - D to FF</a></li>
+<li><a id="topmenu_exclusive_1_2" class="l3menuitemanchor" href="/fashion-bra-bonanza.html?dir=desc&amp;order=created_at">Trendiest Collection</a></li>
+<li><a id="topmenu_exclusive_1_3" class="l3menuitemanchor" href="/look-upto-3-sizes-slimmer.html?dir=desc&amp;order=bestsellers">Shaping Solutions</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner -->
+<div class="width_l09_inner" style="width: 27% !important;"><br> <a id="topmenu_exclusive_pny" href="/brands-1/pny.html?dir=desc&amp;order=bestsellers"> <img id="topmenu_exclusive_main_2" src="http://cdn.zivame.com//media/wysiwyg/Mailer_Images/Mar_16/V2-3.png" alt=""> </a>
+<p style="font-size: 12px; color: #999; text-transform: none; line-height: 1.3; max-width: 95%; font: 12px 'Droid Sans',sans;">Designed for the spontaneous you!</p>
+<ul id="l10_l21_ul">
+<li><a id="topmenu_exclusive_2_1" class="l3menuitemanchor" href="/apparel/leisurewear/pny-cool-tops.html?dir=desc&amp;order=bestsellers">Cool Tops</a></li>
+<li><a id="topmenu_exclusive_2_2" class="l3menuitemanchor" href="/apparel/leisurewear/pny-comfortable-summer-pants.html?dir=desc&amp;order=bestsellers">Summer Pants</a></li>
+<li><a id="topmenu_exclusive_2_3" class="l3menuitemanchor" href="/apparel/leisurewear/pny-fashion-forward-palazzos.html?dir=desc&amp;order=bestsellers">Fashionable Palazzos</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner -->
+<div class="width_109_inner" style="width: 27% !important;"><br> <a id="topmenu_exclusive_rosaline" href="/brands-1/rosaline.html?dir=desc&amp;order=bestsellers"> <img id="topmenu_exclusive_main_2" src="http://cdn.zivame.com//media/wysiwyg/Mailer_Images/Mar_16/v2-2.png" alt=""> </a>
+<p style="font-size: 12px; color: #999; text-transform: none; line-height: 1.3; max-width: 90%; font: 12px 'Droid Sans',sans;">Soft cottons  inspired by feminine elegance.</p>
+<ul id="l10_l23_ul">
+<li><a id="topmenu_exclusive_3_1" class="l3menuitemanchor" href="/comfy-cotton-bras-under-rs-399.html?dir=desc&amp;order=bestsellers">Cotton Bras &lt; Rs.399</a></li>
+<li><a id="topmenu_exclusive_3_2" class="l3menuitemanchor" href="/bras-for-the-backless-look.html?dir=desc&amp;order=bestsellers">Backless Bras</a></li>
+<li><a id="topmenu_exclusive_3_3" class="l3menuitemanchor" href="/buy-lingerie-online/value-packs-brief.html?dir=desc&amp;order=bestsellers&amp;cat=1341">Value Pack Briefs</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner -->
+<div class="width_l09_inner" style="width: 100% !important;"><br> <img style="width: 450px; height: 55px; display: block; margin-left: -10px; opacity: 0.6; margin-bottom: -15px;" src="http://cdn.zivame.com//media/wysiwyg/Mailer_Images/Mar_16/menu_back2_31-03.png" alt=""></div>
+</div>
+<!-- /.z-hrsub-inner --></div>
+<!-- /.z-hrsub --> </li>
+<li id="l10" class="l1item"> <a id="L1_A0" class="l1menuitemanchor" href="/buy-bra-online.html?dir=desc&amp;order=bestsellers&amp;cussku=B55469-Purple,B55471-Turquiose,CB25441-Coral,ROAP07-Dark Pink">Bras</a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner">
+<div class="width_l10_inner">
+<h4 class="l2seeall l2menutitle"><a href="/buy-bra-online.html?dir=desc&amp;order=bestsellers&amp;cussku=B55469-Purple,B55471-Turquiose,CB25441-Coral,ROAP07-Dark Pink">See all bras</a></h4>
+</div>
+<div class="width_l10_inner">
+<h4 id="l10_l21" class="l2menutitle">By Style</h4>
+<ul id="l10_l21_ul">
+<li><a id="topmenu_bra_backlessbras" class="l3menuitemanchor" href="/buy-bra-online/backless-stick-on.html?dir=desc&amp;order=bestsellers">Backless / Stick on Bras</a></li>
+<li><a id="topmenu_bra_braletteslipon" class="l3menuitemanchor" href="/bralette-slip-on-bras.html?dir=desc&amp;order=bestsellers">Bralette / Slip on</a></li>
+<li><a id="topmenu_bra_frontopenbra" class="l3menuitemanchor" href="/buy-bra-online/front-open-bra.html?dir=desc&amp;order=bestsellers">Front Open Bra</a></li>
+<li><a id="topmenu_bra_pushupbra" class="l3menuitemanchor" href="/buy-bra-online/push-up-bra.html?dir=desc&amp;order=bestsellers">Pushup Bra</a></li>
+<!--
+<li><a id="topmenu_bra_stickonbra" class="l3menuitemanchor" href="/buy-bra-online/stick-on-bra.html?dir=desc&order=bestsellers" _mce_href="/buy-bra-online/stick-on-bra.html?dir=desc&amp;order=bestsellers">Stick on Bra</a></li>
+-->
+<li><a id="topmenu_bra_straplessbymultiwaybra" class="l3menuitemanchor" href="/buy-bra-online/strapless-bra.html?dir=desc&amp;order=bestsellers">Strapless</a></li>
+<li><a id="topmenu_bra_tshirtbra" class="l3menuitemanchor" href="/buy-bra-online/t-shirt-bra.html?dir=desc&amp;order=bestsellers">T-Shirt Bra</a></li>
+<!--
+<li><a id="topmenu_bra_postsurgical" class="l3menuitemanchor" href="/buy-bra-online/post-surgical-posture-corrector.html?dir=desc&order=bestsellers" _mce_href="/buy-bra-online/post-surgical-posture-corrector.html?dir=desc&amp;order=bestsellers">Post Surgical / <br>Posture Corrector</a></li>
+-->
+<li><a id="topmenu_bra_minimiserbra" class="l3menuitemanchor" href="/buy-bra-online/minimizer-bra.html?dir=desc&amp;order=bestsellers">Minimiser Bra</a></li>
+<li><a id="topmenu_bra_corsets" class="l3menuitemanchor" href="/buy-bra-online/corset-bra.html?dir=desc&amp;order=bestsellers">Corsets</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner -->
+<div class="width_l10_inner">
+<h4 id="l10_l22" class="l2menutitle">By Preferences</h4>
+<ul id="l10_l22_ul">
+<li><a id="topmenu_bra_padded" class="l3menuitemanchor" href="/buy-bra-online/padded-bra.html?dir=desc&amp;order=bestsellers">Padded</a></li>
+<li><a id="topmenu_bra_nonpadded" class="l3menuitemanchor" href="/buy-bra-online/non-padded-bra.html?dir=desc&amp;order=bestsellers">Non Padded</a></li>
+<li><a id="topmenu_bra_lightlypadded" class="l3menuitemanchor" href="/buy-bra-online/lightly-padded-bra.html?dir=desc&amp;order=bestsellers">Lightly Padded</a></li>
+<li><a id="topmenu_bra_wired" class="l3menuitemanchor" href="/buy-bra-online/underwire-bra.html?dir=desc&amp;order=bestsellers">Wired</a></li>
+<li><a id="topmenu_bra_nonwired" class="l3menuitemanchor" href="/buy-bra-online/non-wired-bra.html?dir=desc&amp;order=bestsellers">Non Wired</a></li>
+<li><a id="topmenu_bra_1by2coverage" class="l3menuitemanchor" href="/buy-bra-online/half-cup-bra.html?dir=desc&amp;order=bestsellers">1/2 Coverage</a></li>
+<li><a id="topmenu_bra_3by4coverage" class="l3menuitemanchor" href="/buy-bra-online/three-fourth-cup-bra.html?dir=desc&amp;order=bestsellers">3/4 Coverage</a></li>
+<li><a id="topmenu_bra_fullcoverage" class="l3menuitemanchor" href="/buy-bra-online/full-cup-bra.html?dir=desc&amp;order=bestsellers">Full Coverage</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner -->
+<div class="width_l10_inner">
+<h4 id="l10_l23" class="l2menutitle">By Collections</h4>
+<ul id="l10_l23_ul">
+<li><a id="topmenu_bra_bridal" class="l3menuitemanchor" href="/buy-bra-online/bridal-bra.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
+<li><a id="topmenu_bra_verysexy" class="l3menuitemanchor" href="/buy-bra-online/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
+<li><a id="topmenu_bra_teenage" class="l3menuitemanchor" href="/buy-bra-online/teenage-bra.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
+<li><a id="topmenu_bra_plussize" class="l3menuitemanchor" href="/buy-bra-online/super-support-plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
+<li><a id="topmenu_bra_dd" class="l3menuitemanchor" href="/buy-bra-online/dd-k-cups.html?dir=desc&amp;order=bestsellers">DD +</a></li>
+<li><a id="topmenu_bra_valuepacks" class="l3menuitemanchor" href="/buy-bra-online/value-packs.html?dir=desc&amp;order=bestsellers">Value Packs</a></li>
+<li><a id="topmenu_bra_sportsbras" class="l3menuitemanchor" href="/buy-bra-online/sports-bra.html?dir=desc&amp;order=bestsellers">Sports Bra</a></li>
+<li><a id="topmenu_bra_maternitybynursing" class="l3menuitemanchor" href="/buy-bra-online/maternity-bra.html?dir=desc&amp;order=bestsellers">Maternity / Nursing</a></li>
+<li><a id="topmenu_bra_cotton" class="l3menuitemanchor" href="/buy-bra-online/cotton.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
+</ul>
+</div>
+<!-- /.width_l10_inner --></div>
+<!-- /.z-hrsub-inner --></div>
+<!-- /.z-hrsub --> </li>
+<li id="l11" class="l1item"> <a id="L1_A1" class="l1menuitemanchor" href="/buy-lingerie-online.html?dir=desc&amp;order=bestsellers&amp;cussku=ROTTHW09-Navy%20Blue%20N%20Pink,P195281-Peach,PCBP05-Black%20Neon%20Coral,PNPNTFS3-Maroon%20Print">Panty</a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner">
+<div class="width_l11_inner">
+<h4 class="l2seeall l2menutitle"><a href="/buy-lingerie-online.html?dir=desc&amp;order=bestsellers&amp;cussku=ROTTHW09-Navy%20Blue%20N%20Pink,P195281-Peach,PCBP05-Black%20Neon%20Coral,PNPNTFS3-Maroon%20Print">See all Panties</a></h4>
+</div>
+<div class="width_l11_inner">
+<h4 id="l11_l21" class="l2menutitle">By Style</h4>
+<ul id="l11_l21_ul">
+<li><a id="topmenu_panty_bikini" class="l3menuitemanchor" href="/buy-lingerie-online/buy-bikini-online.html?dir=desc&amp;order=bestsellers">Bikini</a></li>
+<li><a id="topmenu_panty_boyshort" class="l3menuitemanchor" href="/buy-lingerie-online/boyshorts-brief.html?dir=desc&amp;order=bestsellers">Boyshort</a></li>
+<li><a id="topmenu_panty_gstringbythongs" class="l3menuitemanchor" href="/buy-lingerie-online/buy-thongs-online.html?dir=desc&amp;order=bestsellers">G-String / Thongs</a></li>
+<li><a id="topmenu_panty_hipster" class="l3menuitemanchor" href="/buy-lingerie-online/hipster.html?dir=desc&amp;order=bestsellers">Hipster</a></li>
+<!--
+<li><a id="topmenu_panty_cheekini" class="l3menuitemanchor" href="/buy-lingerie-online/cheekini.html?dir=desc&order=bestsellers" _mce_href="/buy-lingerie-online/cheekini.html?dir=desc&amp;order=bestsellers">Cheekini</a></li>
+--> 
+</ul>
+</div>
+<!---/.width_l11_inner-->
+<div class="width_l11_inner">
+<h4 id="l11_l22" class="l2menutitle">By Preferences</h4>
+<ul id="l11_l22_ul">
+<li><a id="topmenu_panty_zerocoverage" class="l3menuitemanchor" href="/buy-lingerie-online/no-cover.html?dir=desc&amp;order=bestsellers">Zero Coverage</a></li>
+<li><a id="topmenu_panty_halfcoverage" class="l3menuitemanchor" href="/buy-lingerie-online/half-cover-brief.html?dir=desc&amp;order=bestsellers">Half Coverage</a></li>
+<li><a id="topmenu_panty_3by4coverage" class="l3menuitemanchor" href="/buy-lingerie-online/three-fourth-cover-brief.html?dir=desc&amp;order=bestsellers">3/4 Coverage</a></li>
+<li><a id="topmenu_panty_fullcoverage" class="l3menuitemanchor" href="/buy-lingerie-online/full-cover-brief.html?dir=desc&amp;order=bestsellers">Full Coverage</a></li>
+<li><a id="topmenu_panty_nopantyline" class="l3menuitemanchor" href="/buy-lingerie-online/no-panty-line-brief.html?dir=desc&amp;order=bestsellers">No Panty Line</a></li>
+<!--
+<li><a id="topmenu_panty_periodpanties" class="l3menuitemanchor" href="/buy-lingerie-online/no-stain-panties.html?dir=desc&order=bestsellers" _mce_href="/buy-lingerie-online/no-stain-panties.html?dir=desc&amp;order=bestsellers">Period Panties</a></li>
+--> 
+</ul>
+</div>
+<!---/.width_l11_inner-->
+<div class="width_l11_inner">
+<h4 id="l11_l24" class="l2menutitle">By Collection</h4>
+<ul id="l11_l24_ul">
+<li><a id="topmenu_panty_bridal" class="l3menuitemanchor" href="/buy-lingerie-online/bridal-brief.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
+<li><a id="topmenu_panty_verysexy" class="l3menuitemanchor" href="/buy-lingerie-online/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
+<!--
+<li><a id="topmenu_panty_teenage" class="l3menuitemanchor" href="/buy-lingerie-online/teenage-briefs.html?dir=desc&order=bestsellers" _mce_href="/buy-lingerie-online/teenage-briefs.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
+-->
+<li><a id="topmenu_panty_plussize" class="l3menuitemanchor" href="/buy-lingerie-online/plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
+<!--
+<li><a id="topmenu_panty_maternity" class="l3menuitemanchor" href="/buy-lingerie-online/maternity-brief.html?dir=desc&order=bestsellers" _mce_href="/buy-lingerie-online/maternity-brief.html?dir=desc&amp;order=bestsellers">Maternity</a></li>
+-->
+<li><a id="topmenu_panty_valuepacks" class="l3menuitemanchor" href="/buy-lingerie-online/value-packs-brief.html?dir=desc&amp;order=bestsellers">Value Packs</a></li>
+<li><a id="topmenu_panty_cotton" class="l3menuitemanchor" href="/buy-lingerie-online/cotton-panty.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
+</ul>
+</div>
+<!---/.width_l11_inner--></div>
+<!-- /.z-hrsub-inner --></div>
+<!-- /.z-hrsub --> </li>
+<li id="l12" class="l1item"> <a id="L1_A2" class="l1menuitemanchor" href="/nightwear.html?dir=desc&amp;order=bestsellers">Nightwear</a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner">
+<div class="width_l12_inner">
+<h4 class="l2seeall l2menutitle"><a href="/nightwear.html?dir=desc&amp;order=bestsellers">See all in Nightwear</a></h4>
+</div>
+<div class="width_l12_inner">
+<h4 id="l12_l21" class="l2menutitle">Style</h4>
+<ul id="l12_l21_ul">
+<li><a id="topmenu_nightwear_chemiseandbabydoll" class="l3menuitemanchor" href="/nightwear/babydoll-and-chemise.html?dir=desc&amp;order=bestsellers">Chemise &amp; Babydoll</a></li>
+<li><a id="topmenu_nightwear_nightygownsbynighty" class="l3menuitemanchor" href="/nightwear/night-gowns-nighty.html?dir=desc&amp;order=bestsellers">Night Gowns / Nighty</a></li>
+<li><a id="topmenu_nightwear_nightdress" class="l3menuitemanchor" href="/nightwear/long-nightdress.html?dir=desc&amp;order=bestsellers">Night Dress</a></li>
+<li><a id="topmenu_nightwear_sleepbottoms" class="l3menuitemanchor" href="/nightwear/sleep-bottoms.html?dir=desc&amp;order=bestsellers">Sleep Bottoms</a></li>
+<li><a id="topmenu_nightwear_sleeptops" class="l3menuitemanchor" href="/nightwear/sleep-tops.html?dir=desc&amp;order=bestsellers">Sleep Tops</a></li>
+<li><a id="topmenu_nightwear_wrapsandrobes" class="l3menuitemanchor" href="/nightwear/wraps-and-robes.html?dir=desc&amp;order=bestsellers">Wraps &amp; Robes</a></li>
+<!--
+<li><a class="l3menuitemanchor" href="/nightwear/jumpsuits.html?dir=desc&order=bestsellers" _mce_href="/nightwear/jumpsuits.html?dir=desc&amp;order=bestsellers">Jumpsuits</a></li>
+-->
+<li><a id="topmenu_nightwear_camisoles" class="l3menuitemanchor" href="/nightwear/camisoles.html?dir=desc&amp;order=bestsellers">Camisoles</a></li>
+<!--
+<li><a id="topmenu_nightwear_slips" class="l3menuitemanchor" href="/nightwear/slips.html?dir=desc&order=bestsellers" _mce_href="/nightwear/slips.html?dir=desc&amp;order=bestsellers">Slips</a></li>
+--> 
+</ul>
+</div>
+<!-- /.width_l12_inner -->
+<div class="width_l12_inner">
+<h4 id="l12_l22" class="l2menutitle">Sets</h4>
+<ul id="l12_l22_ul">
+<li><a id="topmenu_nightwear_topandpyjama" class="l3menuitemanchor" href="/nightwear/value-sets/top-pyjama.html?dir=desc&amp;order=bestsellers">Top &amp; Pyjama</a></li>
+<li><a id="topmenu_nightwear_topandcapris" class="l3menuitemanchor" href="/nightwear/value-sets/top-capris.html?dir=desc&amp;order=bestsellers">Top &amp; Capris</a></li>
+<li><a id="topmenu_nightwear_topandshorts" class="l3menuitemanchor" href="/nightwear/value-sets/top-shorts.html?dir=desc&amp;order=bestsellers">Top &amp; Shorts</a></li>
+<li><a id="topmenu_nightwear_twopiecesets" class="l3menuitemanchor" href="/nightwear/value-sets/two-piece-sets.html?dir=desc&amp;order=bestsellers">Two Piece Sets</a></li>
+</ul>
+</div>
+<!-- /.width_l12_inner -->
+<div class="width_l12_inner">
+<h4 id="l12_l23" class="l2menutitle">Collections</h4>
+<ul id="l12_l23_ul">
+<li><a id="topmenu_nightwear_bridal" class="l3menuitemanchor" href="/nightwear/bridal.html?dir=desc&amp;order=bestsellers">Bridal</a></li>
+<li><a id="topmenu_nightwear_verysexy" class="l3menuitemanchor" href="/nightwear/very-sexy.html?dir=desc&amp;order=bestsellers">Very Sexy</a></li>
+<li><a id="topmenu_nightwear_teenage" class="l3menuitemanchor" href="/nightwear/teenage-nightwear.html?dir=desc&amp;order=bestsellers">Teenage</a></li>
+<li><a id="topmenu_nightwear_winterbythermals" class="l3menuitemanchor" href="/nightwear/winterwear-thermals.html?dir=desc&amp;order=bestsellers">Winterwear / Thermals</a></li>
+<li><a id="topmenu_nightwear_cotton" class="l3menuitemanchor" href="/nightwear/cotton.html?dir=desc&amp;order=bestsellers">Cotton</a></li>
+<li><a id="topmenu_nightwear_maternity" class="l3menuitemanchor" href="/nightwear/maternity.html?dir=desc&amp;order=bestsellers">Maternity / Nursing</a></li>
+<li><a id="topmenu_nightwear_plussize" class="l3menuitemanchor" href="/nightwear/plus-size.html?dir=desc&amp;order=bestsellers">Plus Size</a></li>
+</ul>
+</div>
+</div>
+<!-- /.z-hrsub-inner --></div>
+<!-- /.z-hrsub --> </li>
+<li id="l13" class="l1item"> <a id="L1_A3" class="l1menuitemanchor" href="/Shapewear.html?dir=desc&amp;order=bestsellers">Shapewear</a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner">
+<div class="width_l13_inner">
+<h4 class="l2seeall l2menutitle"><a href="/Shapewear.html?dir=desc&amp;order=bestsellers">See all in Shapewear</a></h4>
+</div>
+<div class="width_l13_inner">
+<h4 id="l13_l21" class="l2menutitle">By Style</h4>
+<ul id="l13_l21_ul">
+<li><a id="topmenu_shapewear_bodysuit" class="l3menuitemanchor" href="/shapewear/bodysuit.html?dir=desc&amp;order=bestsellers">BodySuit</a></li>
+<li><a id="topmenu_shapewear_shapingbriefs" class="l3menuitemanchor" href="/shapewear/briefs.html?dir=desc&amp;order=bestsellers">Shaping Briefs</a></li>
+<li><a id="topmenu_shapewear_postsurgery" class="l3menuitemanchor" href="/shapewear/post-surgical-shapewear.html?dir=desc&amp;order=bestsellers">Post Surgery</a></li>
+<li><a id="topmenu_shapewear_postpregnancy" class="l3menuitemanchor" href="/shapewear/postpartum.html?dir=desc&amp;order=bestsellers">Post Pregnancy</a></li>
+<li><a id="topmenu_shapewear_gridles" class="l3menuitemanchor" href="/shapewear/girdles.html?dir=desc&amp;order=bestsellers">Girdles</a></li>
+<li><a id="topmenu_shapewear_shapingcamisoles" class="l3menuitemanchor" href="/shapewear/shaping-camisoles.html?dir=desc&amp;order=bestsellers">Shaping Camisoles</a></li>
+<li><a id="topmenu_shapewear_shapingdress" class="l3menuitemanchor" href="/shapewear/dress.html?dir=desc&amp;order=bestsellers">Shaping Dress</a></li>
+<li><a id="topmenu_shapewear_shapingleggins" class="l3menuitemanchor" href="/shapewear/shaping-tights.html?dir=desc&amp;order=bestsellers">Shaping Leggings</a></li>
+</ul>
+</div>
+<!-- /.width_l13_inner -->
+<div class="width_l13_inner">
+<h4 id="l13_l22" class="l2menutitle">By Preferences</h4>
+<ul id="l13_l22_ul">
+<li><a id="topmenu_shapewear_smooth" class="l3menuitemanchor" href="/shapewear/light-control.html?dir=desc&amp;order=bestsellers">Smooth</a> </li>
+<li><a id="topmenu_shapewear_medium" class="l3menuitemanchor" href="/shapewear/medium-control.html?dir=desc&amp;order=bestsellers">Medium</a></li>
+<li><a id="topmenu_shapewear_high" class="l3menuitemanchor" href="/shapewear/high-control.html?dir=desc&amp;order=bestsellers">High</a></li>
+<li><a id="topmenu_shapewear_extreme" class="l3menuitemanchor" href="/shapewear/extreme-control.html?dir=desc&amp;order=bestsellers">Extreme</a></li>
+</ul>
+</div>
+<!-- /.width_l13_inner -->
+<div class="width_l13_inner">
+<h4 id="l13_l23" class="l2menutitle">By Collections</h4>
+<ul id="l13_l23_ul">
+<li><a id="topmenu_shapewear_thermoslim" class="l3menuitemanchor" href="/shapewear/thermoslim.html?dir=desc&amp;order=bestsellers">Thermoslim</a></li>
+<li><a id="topmenu_shapewear_cellulitecontrol" class="l3menuitemanchor" href="/shapewear/cellulite-control.html?dir=desc&amp;order=bestsellers">Cellulite Control</a></li>
+<li><a id="topmenu_shapewear_seamless" class="l3menuitemanchor" href="/shapewear/seamless.html?dir=desc&amp;order=bestsellers">Seamless</a></li>
+<li><a id="topmenu_shapewear_tummycontrol" class="l3menuitemanchor" href="/shapewear/tummy-flattening.html?dir=desc&amp;order=bestsellers">Tummy Control</a></li>
+<li><a id="topmenu_shapewear_rearshaping" class="l3menuitemanchor" href="/shapewear/rear-shaping.html?dir=desc&amp;order=bestsellers">Rear Shaping</a></li>
+<li><a id="topmenu_shapewear_waistshaping" class="l3menuitemanchor" href="/shapewear/waist-shapers.html?dir=desc&amp;order=bestsellers">Waist Shaping</a></li>
+<li><a id="topmenu_shapewear_thighshaping" class="l3menuitemanchor" href="/shapewear/thigh-shaping.html?dir=desc&amp;order=bestsellers">Thigh Shaping</a></li>
+</ul>
+</div>
+<!-- /.width_l13_inner --></div>
+<!-- /.z-hrsub-inner --></div>
+<!-- /.z-hrsub --> </li>
+<li id="l14" class="l1item"> <a id="L1_A4" class="l1menuitemanchor pd" href="/apparel/leisurewear.html?dir=desc&amp;order=created_at">Comfortwear</a> </li>
+<li id="l15" class="l1item"> <a id="L1_A5" href="/apparel/sportswear.html?dir=desc&amp;order=bestsellers">Activewear</a> </li>
+<li id="l16" class="l1item"> <a id="L1_A6" class="l1menuitemanchor pd" href="/apparel/swimwear.html?dir=desc&amp;order=bestsellers">Swim and Beach</a> </li>
+<li id="l17" class="l1item"> <a id="L1_A7" class="l1menuitemanchor" href="/accessories.html?dir=desc&amp;order=bestsellers&amp;cussku=B001-PK3-Miracle Cami,MCAMI1-MrclCam PK3 Blk Wht Skn,EMMCAMI1- Blue Fuschia Pnk Blk">Accessories</a>
+<div class="z-hrsub">
+<div class="z-hrsub-inner">
+<div class="width_l17_inner">
+<h4 class="l2seeall l2menutitle"><a href="/accessories.html?dir=desc&amp;order=bestsellers&amp;cussku=B001-PK3-Miracle Cami,MCAMI1-MrclCam PK3 Blk Wht Skn,EMMCAMI1- Blue Fuschia Pnk Blk">See all in Accessories</a></h4>
+</div>
+<div class="width_l17_inner">
+<h4 id="l17_l21" class="l2menutitle">Lingerie Accessories</h4>
+<ul id="l17_l21_ul">
+<li><a id="topmenu_accessories_brastraps" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/bra-straps.html?dir=desc&amp;order=bestsellers">Bra Straps </a> </li>
+<li><a id="topmenu_accessories_lingeriebags" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/lingerie-bags.html?dir=desc&amp;order=bestsellers">Lingerie Bags</a></li>
+<li><a id="topmenu_accessories_concealersandstickon" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/concealers-stick-on.html?dir=desc&amp;order=bestsellers">Concealers &amp; Stick On</a> </li>
+<li><a id="topmenu_accessories_brasolutions" class="l3menuitemanchor" href="/accessories-new/lingerie-accessories/bra-solutions.html?dir=desc&amp;order=bestsellers">Bra Solutions</a> </li>
+</ul>
+</div>
+<!-- /.width_l17_inner -->
+<div class="width_l17_inner">
+<h4 id="l17_l22" class="l2menutitle">Hosiery</h4>
+<ul id="l17_l22_ul">
+<li><a id="topmenu_accessories_pantyhose" class="l3menuitemanchor" href="/accessories-new/hosiery/pantyhose.html?dir=desc&amp;order=bestsellers">Pantyhose</a></li>
+<li><a id="topmenu_accessories_socks" class="l3menuitemanchor" href="/accessories-new/hosiery/hosiery-socks.html?dir=desc&amp;order=bestsellers">Socks</a></li>
+</ul>
+</div>
+<!-- /.width_l17_inner -->
+<div class="width_l17_inner">
+<h4 id="l17_l23" class="l2menutitle">Fashion Accessories</h4>
+<ul id="l17_l23_ul">
+<li><a id="topmenu_accessories_fashionsolutions" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-solution.html?dir=desc&amp;order=bestsellers">Fashion Solutions</a> </li>
+<li><a id="topmenu_accessories_gloves" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-gloves.html?dir=desc&amp;order=bestsellers">Gloves</a></li>
+<!--
+<li><a id="topmenu_accessories_scarves" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-scarves.html?dir=desc&order=bestsellers" _mce_href="/accessories-new/fashion-accessories/fashion-scarves.html?dir=desc&amp;order=bestsellers">Scarves</a></li>
+-->                         <!--
+<li><a id="topmenu_accessories_belts" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/fashion-belt.html?dir=desc&order=bestsellers" _mce_href="/accessories-new/fashion-accessories/fashion-belt.html?dir=desc&amp;order=bestsellers">Belts</a></li>
+-->
+<li><a id="topmenu_accessories_bags" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/bags.html?dir=desc&amp;order=bestsellers">Bags</a></li>
+<li><a id="topmenu_accessories_footwear" class="l3menuitemanchor" href="/accessories-new/fashion-accessories/footwear.html?dir=desc&amp;order=bestsellers">Footwear</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li id="l19" class="l1item"> <a id="L1_A9" class="1menuitemanchor pd" href="/lingerie-sets.html?dir=desc&amp;order=bestsellers">Sets</a> </li>
+<li id="l19" class="l1item"> <a id="L1_A9" class="sale_new l1menuitemanchor pd" href="/eoss.html?dir=desc&amp;order=bestsellers">sale</a> </li>
+</ul>
+<!-- / nav --> <!-- Mobile only links -->
+<div class="z-mobi-ctrl mStatic">
+<div class="title-menu">Explore</div>
+</div>
+<ul class="mExplore">
+<li> <a href="/trackorder/index/orderstatus">Track Your Order</a> </li>
+<li> <a href="/try-at-home">Try at home</a> </li>
+<li> <a href="/fitting-lounge">Fitting Lounge</a> </li>
+<li> <a href="/giftcard.html">Gift Card</a> </li>
+<li> <a href="/shopassistant">Shop Assistant</a> </li>
+<li> <a href="http://www.zivame.com/international" target="_blank">Switch to International</a> </li>
+<li> <a href="https://play.google.com/store/apps/details?id=com.zivame.consumer&amp;referrer=utm_source%3Ddesktop%26utm_medium%3Dmain_banner%26utm_campaign%3Dhome_main_banner_andr">Download Android App</a> </li>
+<li> <a href="https://itunes.apple.com/in/app/zivame/id1065767207?mt=8&amp;referrer=utm_source%3Ddesktop%26utm_medium%3Dmain_banner%26utm_campaign%3Dhome_main_banner_itunes">Download iOs App</a> </li>
+<li> <a> CALL TO ORDER (080) 4922-1777</a> </li>
+</ul>
+</nav></div>
+<!--Main-zmenu-ends-->                <script type="text/javascript" src="http://cdn.zivame.com/skin/frontend/base/theme049/js/newheader/menu-v1.js?t=1450328630"></script>
     </div>
             <!--    <script language="javascript">initMenu();</script>-->
     <!-- end main_menu -->
@@ -1248,7 +1511,7 @@ if($("subbannerdiv_m")) $("subbannerdiv_m").removeClassName('title');
     </script>
     <script language="javascript">
                     document.domain = "zivame.com";</script>
-        <iframe src="//origin.zivame.com/session.php" frameborder="0" padding="0" scrolling="no" height="0" width="0"></iframe>
+        <iframe id="varnish-iframe" src="//origin.zivame.com/session.php" frameborder="0" padding="0" scrolling="no" height="0" width="0"></iframe>
      
         
         
@@ -1327,9 +1590,473 @@ ecomm_pagetype: "other",hasaccount: "n"                            };</script>
                                         }
                                         
                                         function sendUdmSearch(){
-                                            udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=14366955&name=privacy_policy_m&ns_type=hidden&ns_search_term='+document.getElementById('fld_search').value);
+                                            udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=14366955&name=?&ns_type=hidden&ns_search_term='+document.getElementById('fld_search').value);
                                         }
     </script>
+
+<!-- Get the customer location and show valentine popup if they are in bangalore after 15 seconds [13 + time for other actions]@author-Pavan -->
+<style>
+.intl-stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+.intl-h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 21px;
+  font-family: 'droid serif';
+  text-align: center;
+}
+.intl-h3, .intl-h2 {
+  margin-top: -13px !important;
+  padding-left: 4px;
+  font-family: 'droid sans',sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+.intl-click {
+  color: #e91e63 !important;
+  cursor: pointer;
+}
+.intl-loading-image {
+  padding-left: 130px;
+}
+.intl-container {
+  width: 600px;
+}
+.intl-india {
+  background-color: #e91e63 !important;
+  width: 97%;
+  font-family: 'droid sans',sans-serif;
+  margin-bottom: 9px;
+  font-weight: bold;
+  border-color: rgba(123, 36, 36, 0);
+  color: #FFF !important;
+  cursor: pointer;
+  border: solid 1px;
+  font-size: 13px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+.intl-international {
+  background-color: #e91e63 !important;
+  width: 97%;
+  font-family: 'droid sans',sans-serif;
+  margin-bottom: 9px;
+  font-weight: bold;
+  border-color: rgba(123, 36, 36, 0);
+  color: #FFF !important;;
+  cursor: pointer;
+  border: solid 1px;
+  font-size: 13px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+#intl-india-info {
+  font-family: 'droid sans',sans-serif;
+  font-size: 12px;
+  text-align: -webkit-right;
+  padding-left: 18px;
+  color: #666;
+}
+#intl-international-info {
+  font-family: 'droid sans',sans-serif;
+  font-size: 12px;
+  text-align: -webkit-right;
+  padding-left: 18px;
+  color: #666;
+}
+#intl-redirect-div {
+  padding-left: 85px;
+  padding-bottom: 45px;
+  margin-top: 30px;
+  width: 95%;
+}
+#intl-redirect-div-1 {
+  width: 50%;
+  float: left;
+  margin-bottom: 40px;
+}
+#intl-redirect-div-2 {
+  width: 50%;
+  float: right;
+  margin-bottom: 40px;
+}
+</style>
+
+<script>
+
+jQuery( document ).ready(function() {
+
+    // intl site redirect logic
+    var zivameRedirectCookieValue = getPromoCookie('zivame_redirect');
+    var intlRedirectPopup = 'false';
+    if(!zivameRedirectCookieValue)
+    {
+        zivameRedirectCookieValue = 'default';
+    }
+
+    if (zivameRedirectCookieValue !== 'india' && zivameRedirectCookieValue !== 'intl' && /Android|BlackBerry|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent) === false) {
+             jQuery.getJSON('http://ip-api.com/json') 
+               .done (function(location)
+             {
+                 if(location.countryCode !== 'IN') 
+                 {
+                       lightbox(null, 'noajaxcall/intlredirect', 0);
+                       intlRedirectPopup = 'true';
+                 }
+             });
+    }
+
+    // Brand switching info pop up
+    var brandSwitchingInfoCookieValue = getPromoCookie('brand_switch_tooltip');
+    if(!brandSwitchingInfoCookieValue && brandSwitchingInfoCookieValue !== '1')
+    {
+        //lightbox(null, 'noajaxcall/brandSwitchInfo', 0);
+        jQuery('#exclusive-tooltip').show();
+        jQuery('#brand-switcher').css({
+                                         'z-index': '11',
+                                         'background-color': '#fbfbfb',
+                                         'padding': '7px',
+                                         'position': 'relative',
+                                         'border-radius': '2px'
+        });
+        jQuery('#brand-switcher.ipad').css({
+                                         'z-index': '11',
+                                         'background-color': '#fbfbfb',
+                                         'padding': '7px',
+                                         'position': 'relative',
+                                         'border-radius': '2px'
+        });
+        jQuery('.other-brand-switcher-text').css({'margin-left': '6px'});
+        jQuery('#second-div-exclusive-text').show();
+        jQuery('#second-div-exclusive-text-ipad').show();
+        jQuery('#exclusive-tooltip-2').show();
+        setBrandSwitchInfoCookie('brand_switch_tooltip', '1');
+        dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_opened"});
+        setTimeout(function() 
+        {
+             dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_auto_closed"});
+             jQuery('#brand-switcher').removeAttr('style');
+             jQuery('#brand-switcher.ipad').removeAttr('style');
+             jQuery('.other-brand-switcher-text').css({'margin-left': '10px'});
+             jQuery('#second-div-exclusive-text').hide();
+             jQuery('#second-div-exclusive-text-ipad').hide();
+             jQuery('#exclusive-tooltip').hide(); 
+             jQuery('#exclusive-tooltip-2').hide();           
+        }, 10000);
+    }
+    jQuery('#exclusive-tooltip').click(function(){
+        dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_closed"});
+        jQuery('#brand-switcher').removeAttr('style');
+        jQuery('#brand-switcher.ipad').removeAttr('style');
+        jQuery('.other-brand-switcher-text').css({'margin-left': '10px'});
+        jQuery('#second-div-exclusive-text').hide();
+        jQuery('#second-div-exclusive-text-ipad').hide();
+        jQuery('#exclusive-tooltip').hide();
+        jQuery('#exclusive-tooltip-2').hide();
+    });
+    jQuery('#exclusive-tooltip-2').click(function(){
+        dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_closed"});
+        jQuery('#brand-switcher').removeAttr('style');
+        jQuery('#brand-switcher.ipad').removeAttr('style');
+        jQuery('.other-brand-switcher-text').css({'margin-left': '10px'});
+        jQuery('#second-div-exclusive-text').hide();
+        jQuery('#second-div-exclusive-text-ipad').hide();
+        jQuery('#exclusive-tooltip').hide();
+        jQuery('#exclusive-tooltip-2').hide();
+    });
+    jQuery('#second-div-exclusive-text').click(function(){
+        dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_closed"});
+        jQuery('#brand-switcher').removeAttr('style');
+        jQuery('#brand-switcher.ipad').removeAttr('style');
+        jQuery('.other-brand-switcher-text').css({'margin-left': '10px'});
+        jQuery('#second-div-exclusive-text').hide();
+        jQuery('#second-div-exclusive-text-ipad').hide();
+        jQuery('#exclusive-tooltip').hide();
+        jQuery('#exclusive-tooltip-2').hide();
+    });
+    jQuery('#second-div-exclusive-text-ipad').click(function(){
+        dataLayer.push({"event":"brand_switcher","action":"brand_switch_info_tooltip_closed"});
+        jQuery('#brand-switcher').removeAttr('style');
+        jQuery('#brand-switcher.ipad').removeAttr('style');
+        jQuery('.other-brand-switcher-text').css({'margin-left': '10px'});
+        jQuery('#second-div-exclusive-text').hide();
+        jQuery('#second-div-exclusive-text-ipad').hide();
+        jQuery('#exclusive-tooltip').hide();
+        jQuery('#exclusive-tooltip-2').hide();
+    });
+
+});
+</script>
+<script>
+jQuery(document).ready(function(){
+    var brandSwitcherCookieValue = getBrandSwitcherCookie('brand_switcher');
+    var brandSwitchingMode = getUrlParameter('brandSwitch');
+    if(brandSwitchingMode && brandSwitchingMode === 'zivame')
+    {
+        jQuery('.our-brand-switcher-container').css('background-color','#F48583');
+        jQuery('.our-brand-switcher-text').css('color','white');
+        jQuery('.other-brand-switcher-text').css('color','#F48583');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_by_url"});
+        //jQuery(".category-filter-switch-dropdown").val('zivame');
+    }
+    else if(brandSwitchingMode && brandSwitchingMode === 'others')
+    {
+        jQuery('.other-brand-switcher-container').css('background-color','#F48583');
+        jQuery('.other-brand-switcher-text').css('color','white');
+        jQuery('.our-brand-switcher-text').css('color','#F48583');
+        setBrandSwitcherCookie('brand_switcher', 'others');
+        dataLayer.push({"event":"brand_switcher","action":"others_by_url"});
+        //jQuery(".category-filter-switch-dropdown").val('others');
+    }
+    else if(!brandSwitcherCookieValue)
+    {
+        //jQuery('.our-brand-switcher-container').css('background-color','#F48583');
+        //jQuery('.our-brand-switcher-text').css('color','white');
+        //jQuery('.other-brand-switcher-text').css('color','#F48583');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_by_default"});
+        //jQuery(".category-filter-switch-dropdown").val('zivame');
+    }
+    else if(brandSwitcherCookieValue === 'zivame')
+    {
+        //jQuery('.our-brand-switcher-container').css('background-color','#F48583');
+        //jQuery('.our-brand-switcher-text').css('color','white');
+        //jQuery('.other-brand-switcher-text').css('color','#F48583');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_on_load"});
+        //jQuery(".category-filter-switch-dropdown").val('zivame');
+    }
+    else if(brandSwitcherCookieValue === 'others')
+    {
+        //jQuery('.other-brand-switcher-container').css('background-color','#F48583');
+        //jQuery('.other-brand-switcher-text').css('color','white');
+        //jQuery('.our-brand-switcher-text').css('color','#F48583');
+        dataLayer.push({"event":"brand_switcher","action":"others_on_load"});
+        //jQuery(".category-filter-switch-dropdown").val('others');
+    }
+    jQuery("#our-brand-switcher").live('click', function(e){
+        e.preventDefault();
+        dataLayer.push({"event":"brand_switcher","action":"zivame_top_header"});
+	setBrandSwitcherCookie('brand_switcher', 'zivame');
+	window.location = "/zivameswitcher/index/setOurBrandsSwitcher";
+    });
+    jQuery("#other-brand-switcher").live('click', function(e){
+        e.preventDefault();
+        dataLayer.push({"event":"brand_switcher","action":"others_top_header"});
+	setBrandSwitcherCookie('brand_switcher', 'others');
+	window.location = "/zivameswitcher/index/setOtherBrandsSwitcher";
+    });
+    jQuery("#our-brand-switcher-offertop").live('click', function(e){
+        e.preventDefault();
+        dataLayer.push({"event":"brand_switcher","action":"zivame_offer_top_header"});
+	setBrandSwitcherCookie('brand_switcher', 'zivame');
+	window.location = "/zivameswitcher/index/setOurBrandsSwitcher";
+    });
+    jQuery("#other-brand-switcher-offertop").live('click', function(e){
+        e.preventDefault();
+        dataLayer.push({"event":"brand_switcher","action":"others_offer_top_header"});
+	setBrandSwitcherCookie('brand_switcher', 'others');
+	window.location = "/zivameswitcher/index/setOtherBrandsSwitcher";
+    });
+    jQuery(".switch-login-wrapper").click(function(e){
+        e.preventDefault();
+        openLoginPopUp();
+    });
+    jQuery(".switch-login-loggedin-wrapper").live('click', function(e){
+        e.preventDefault();
+        var attributeValue = jQuery(".dropdown-menu").css("display");
+        if(attributeValue === 'none')
+        {
+             jQuery(".dropdown-menu").css("display", "block");
+        }
+        else
+        {
+             jQuery(".dropdown-menu").css("display", "none");
+        }
+    });
+    jQuery("#sign-in-link-toggle").click(function(){
+        jQuery("#dropdown-menu-toggle").toggle();
+    });
+    jQuery("#topmenu_exclusive_penny").click(function(e){
+        e.preventDefault();
+        var redirectLink = jQuery(this).attr('href');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_exclusive_menu"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    });
+    jQuery("#topmenu_exclusive_pny").click(function(e){
+        e.preventDefault();
+        var redirectLink = jQuery(this).attr('href');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_exclusive_menu"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    });
+    jQuery("#topmenu_exclusive_rosaline").click(function(e){
+        e.preventDefault();
+        var redirectLink = jQuery(this).attr('href');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_exclusive_menu"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    });
+    jQuery("#topmenu_exclusive_1_1, #topmenu_exclusive_1_2, #topmenu_exclusive_1_3, #topmenu_exclusive_2_1, #topmenu_exclusive_2_2, #topmenu_exclusive_2_3, #topmenu_exclusive_3_1, #topmenu_exclusive_3_2, #topmenu_exclusive_3_3").click(function(e){
+        e.preventDefault();
+        var redirectLink = jQuery(this).attr('href');
+        setBrandSwitcherCookie('brand_switcher', 'zivame');
+        dataLayer.push({"event":"brand_switcher","action":"zivame_exclusive_menu"});
+        var val = 'zivame';
+        jQuery.ajax({
+            url: "/zivameswitcher/index/storeBrandSwicher",
+            beforeSend: function(xhr) {
+                 xhr.setRequestHeader("promo-cache-control", "no-cache");
+            },
+            type: "post",
+            data: { val : val } ,
+            success: function (response) {
+               if(response === 'success') {
+                   window.location = redirectLink;
+               }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+            }
+        });
+    });
+    jQuery("#category-no-products-switch").live('click', function(e){
+        e.preventDefault();
+        var currentSelection = getBrandSwitcherCookie('brand_switcher');
+        if(currentSelection && currentSelection === 'others')
+        {
+            setBrandSwitcherCookie('brand_switcher', 'zivame');
+            dataLayer.push({"event":"brand_switcher","action":"zivame_category_noproducts_header"});
+	    window.location = "/zivameswitcher/index/setOurBrandsSwitcher?fromSource=categoryPage";
+        }
+        else
+        {
+            setBrandSwitcherCookie('brand_switcher', 'others');
+            dataLayer.push({"event":"brand_switcher","action":"others_category_noproducts_header"});
+	    window.location = "/zivameswitcher/index/setOtherBrandsSwitcher?fromSource=categoryPage";
+        }
+    });
+    jQuery(".brand_link").live('click', function(e){
+        e.preventDefault();
+        var redirectLink = jQuery(this).attr('href');
+        var dataBrandSwitcher = jQuery(this).attr('data-brand-switcher');
+	//jQuery(this).removeAttr("href");
+        if(dataBrandSwitcher === 'zivame')
+        {
+             var val = 'zivame';
+             setBrandSwitcherCookie('brand_switcher', 'zivame');
+             dataLayer.push({"event":"brand_switcher","action":"zivame_autoselect_product_view_brands"});
+             jQuery.ajax({
+                url: "/zivameswitcher/index/storeBrandSwicher",
+                beforeSend: function(xhr) {
+                   xhr.setRequestHeader("promo-cache-control", "no-cache");
+                },
+                type: "post",
+                data: { val : val } ,
+                success: function (response) {
+                   if(response === 'success') {
+        	      jQuery("#brand_link_for_switch").trigger("click");
+                }
+              },
+              error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+              }
+             });
+        }
+        else
+        {
+             var val = 'others';
+             setBrandSwitcherCookie('brand_switcher', 'others');
+             dataLayer.push({"event":"brand_switcher","action":"others_autoselect_product_view_brands"});
+             jQuery.ajax({
+                url: "/zivameswitcher/index/storeBrandSwicher",
+                beforeSend: function(xhr) {
+                   xhr.setRequestHeader("promo-cache-control", "no-cache");
+                },
+                type: "post",
+                data: { val : val } ,
+                success: function (response) {
+                   if(response === 'success') {
+                      jQuery("#brand_link_for_switch").trigger("click");
+                }
+              },
+              error: function(jqXHR, textStatus, errorThrown) {
+               //alert('Some error occured, please try again.');
+              }
+             });
+        }
+    });
+    jQuery(".category-filter-switch-dropdown").on('change', function(e){
+        var currentSelection = this.value;
+        if(currentSelection && currentSelection === 'zivame')
+        {
+            setBrandSwitcherCookie('brand_switcher', 'zivame');
+            dataLayer.push({"event":"brand_switcher","action":"zivame_category_subheader"});
+	    window.location = "/zivameswitcher/index/setOurBrandsSwitcher?fromSource=categoryPage";
+        }
+        else
+        {
+            setBrandSwitcherCookie('brand_switcher', 'others');
+            dataLayer.push({"event":"brand_switcher","action":"others_category_subheader"});
+	    window.location = "/zivameswitcher/index/setOtherBrandsSwitcher?fromSource=categoryPage";
+        }
+    });
+});
+</script>
 <div class="content_inner">
 
             <div class="breadcrumbs">
@@ -1488,7 +2215,47 @@ jqr("#newsletter_div").append(content);
 }
 </script>
 <link rel="stylesheet" type="text/css" href="/skin/frontend/base/theme049/css/footer/menu.min.css" media="all">
-<footer>
+<style>#mainbanner1 .fourth_section {max-width:1100px;}</style>
+<div id="mainbanner1">
+	<div class="fourth_section">
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://www.zivame.com/bra-size-calculator_m" id="footer_block_brasizecalculator" target="_blank"><span class="footer_icon footer_brasizecalculator"> </span>
+				<span class="text_span">Life is too short for ill-fitting bras! Learn How to Measure yourself Today!</span></a></p>
+			</div>
+		</div>
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://www.zivame.com/return_policy_m" id="footer_block_returnpolicy" target="_blank"><span class="footer_icon footer_returnpolicy"> </span>
+				<span class="text_span">We have an easy no-questions asked return policy.</span></a></p>
+			</div>
+		</div>
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://www.zivame.com/contactus" id="footer_block_fitconsultant" target="_blank"><span class="footer_icon footer_fitconsultant" target="_blank"> </span>
+				<span class="text_span">Call 080- 49221777 to get free customized lingerie solutions from our Fit Experts.</span></a></p>
+			</div>
+		</div>
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://www.followmycurves.com/" id="footer_block_followmycurves" target="_blank"><span class="footer_icon footer_followmycurves"> </span>
+				<span class="text_span">Turn on your Lingerie Quotient. We're talking trends and everything Zivame.</span></a></p>
+			</div>
+		</div>
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://answers.zivame.com/" id="footer_block_answers" target="_blank"><span class="footer_icon footer_answers"> </span>
+				<span class="text_span">Ask questions &amp; share your gyaan. Join our lingerie sorority.</span></a></p>
+			</div>
+		</div>
+		<div class="wdt16">
+			<div class="img_section1 clearfix">
+				<p><a href="http://www.zivame.com/discreet_packaging_m.html" id="footer_block_discretepacking" target="_blank"><span class="footer_icon footer_discretepacking"> </span>
+				<span class="text_span">All orders are dispatched in plain packaging to ensure privacy.</span></a></p>
+			</div>
+		</div>		
+	</div>
+  </div><footer>
         <div id="footer_start">
                   &nbsp;
         </div>
@@ -1506,6 +2273,7 @@ jqr("#newsletter_div").append(content);
             <li><a href="/ziva_presscenter_m.html">Press Center</a></li>
             <li><a href="/why-shop-on-zivame_m.html">Why Shop On Zivame</a></li>
             <li><a href="/zivamerec_career.html">Careers</a></li>
+                        <li><a href="/become-a-franchisee.html">Become a Franchisee</a></li>
           </ul>
         </div>
         <!-- /.footer_col -->
@@ -1515,6 +2283,7 @@ jqr("#newsletter_div").append(content);
             <li><a rel="nofollow" href="/contactus">Contact Us</a></li>
             <li><a rel="nofollow" href="/generalq_m.html">FAQ</a></li>
             <li><a rel="nofollow" href="/trackorder/index/orderstatus" id="track_order_footer_link">Track Order / Returns</a></li>
+	    <li><a target="_blank" id="international_shipping_link" rel="nofollow" href="/international">International Shipping</a></li>
             <li><a rel="nofollow" href="/shippingpolicy_m">Shipping Policy</a></li>
             <li><a rel="nofollow" href="/return_policy_m">Return Policy</a></li>
             <li><a rel="nofollow" href="/disclaimer_policy_m">Disclaimer Policy</a></li>
@@ -1525,11 +2294,12 @@ jqr("#newsletter_div").append(content);
         <div class="footer_col">
           <div class="title">LET US HELP YOU SHOP</div>
           <ul class="footer_col_inner">
+		   <li><a href="/fitting-lounge" id="fitting_lounge_block_link">Zivame Fitting Lounge</a></li>
             <li><a href="/bra-size-calculator_m" id="brasize_calculater_block_link">Bra Size Calculator</a></li>
             <li><a href="/brafit_lingerie_m.html">Caring For Lingerie</a></li>
             <li><a href="/fittingguide_m">Fitting Guides</a></li>
             <li><a href="/giftcard.html" target="_blank">Gift Card</a></li>
-			<!-- <li><a href="/gift-forher.html">Gifts For Her</a></li> -->
+                        <!-- <li><a href="/gift-forher.html">Gifts For Her</a></li> -->
             <li><a href="/brafit_lingerie_solution_m.html">Lingerie Solutions</a></li>
             <li><a target="_blank" href="http://followmycurves.com/">Follow My Curves Blog</a></li>
             <li><a target="_blank" href="http://answers.zivame.com">Zivame Answers</a></li>
@@ -1562,9 +2332,11 @@ jqr("#newsletter_div").append(content);
         <!-- /.footer_col -->
                 <div class="gradient_ver"></div>
         <div class="footer_col">
-          <div class="title">KEEP IN TOUCH </div>
+          <div class="title">Worldwide Shipping</div>
+	  <ul class="footer_col_inner">
+	    <li>Shop in over 200 countries<br> <a target="_blank" href="/international"><img style="width: 85%;" src="http://cdn.zivame.com/media/wysiwyg/map.png" alt=""></a></li>
+	  </ul>
           <ul class="footer_col_inner">
-            <li>We send out monthly updates about special deals, product launches &amp; a whole bunch of other goodies.</li>
             <li id="newsletter_div"><br>
               Subscribe to our newsletter
               <div class="subscriber_email_outer">
@@ -1574,7 +2346,7 @@ jqr("#newsletter_div").append(content);
                         <div style="margin-top:10px" id="emailError_div" class="validationerrmsg"></div>
             </li><br>
             <li class="title">CONNECT WITH US</li>
-            <li class="social_icons_outer"><a href="http://facebook.com/zivame" target="_blank" class="social_icon icon_fb"></a> <a href="http://twitter.com/zivame" target="_blank" class="social_icon icon_twitter"></a> <a href="http://www.youtube.com/user/Zivame" target="_blank" class="social_icon icon_utube"></a> <a href="http://www.pinterest.com/zivame/" target="_blank" class="social_icon icon_pinterest"></a> <a href="http://instagram.com/officialzivame" target="_blank" class="social_icon icon_disk"></a> </li>
+            <li class="social_icons_outer"><a href="http://facebook.com/zivame" target="_blank" class="social_icon icon_fb"></a> <a href="http://twitter.com/zivame" target="_blank" class="social_icon icon_twitter"></a> <a href="http://www.youtube.com/user/Zivame" target="_blank" class="social_icon icon_utube"></a> <a href="https://in.pinterest.com/zivameofficial/" target="_blank" class="social_icon icon_pinterest"></a> <a href="http://instagram.com/officialzivame" target="_blank" class="social_icon icon_disk"></a> </li>
           </ul>
         </div>
         <!-- /.footer_col -->
@@ -1586,7 +2358,7 @@ jqr("#newsletter_div").append(content);
     </div>
     <!-- /.footer.inner -->
     <hr class="horz">
-    <div id="footer_end">© 2015 Zivame.com. All Rights Reserved. <br>
+    <div id="footer_end">© 2016 Zivame.com. All Rights Reserved. <br>
       <a rel="nofollow" href="/privacy_policy_m">Privacy Policy</a> | <a rel="nofollow" href="/termsconditions_m">Terms Of Use</a>
         </div>
   </footer><script type="text/javascript">
@@ -1731,10 +2503,7 @@ document.observe('click', function(e){
 //]]>
 </script>
 <!-- END Inchoo Facebook Connect -->
-    	<script>
-udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=14366955&z_debug=1&z_orderid=NA');
-</script>
-
+    
 
 
 </div></body></html>
