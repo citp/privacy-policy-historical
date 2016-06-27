@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tedafrica.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231172414id_/http%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedafrica.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124008id_/http%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our policies + terms | Our Organization | About | TED
+
+[TED ](https://web.archive.org/)
+
+Ideas worth spreading
 
 About  ›  [Our Organization](https://web.archive.org/about/our-organization)  ›  [Our policies + terms](https://web.archive.org/about/our-organization/our-policies-terms)  ›  
 
