@@ -1,47 +1,141 @@
-> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901061924id_/http%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharti-axagi.co.in privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627031517id_/http%3A//www.bharti-axagi.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Protection | Bharti AXA GI
 
-At Bharti AXA General Insurance, we are committed to protecting your privacy. We use the information we collect about you to serve you in a better way. Please read on for more details about our privacy policy.
+#### PRIVACY POLICY
 
-**WHAT INFORMATION DO WE COLLECT? HOW DO WE USE IT?**
+At Bharti AXA General Insurance, we are committed to protecting your privacy. We use the information we collect about you to serve you in a better way.
 
-When You buy the insurance policies online or enquire about any insurance products, We need to know certain details including but not limited to personal details, details which are necessary for the issuance of policy or calculation of premium, subscription of any online services and details with respect to purchase of a product online. This allows Us to better serve your needs and also when you purchase a product it enables us to process and issue policies to You and to notify You the status for the same. You are required to provide your consent thereto, in writing, through letter or fax, email or by through any other electronic mode in which we may require you to give such consent acknowledging that any sensitive personal data or information that is shared with us for the purpose of issuance of policies to You is with your consent. You understand and acknowledge that we shall not be able to process information provided by You or issue policies until we receive such consent from You. You further understand and acknowledge that certain data/information provided by you will be shared with our Service providers for the purpose of providing the services under the contract of insurance. You also understand and acknowledge that such data/information may be shared with our group companies for research and analysis purposes only.
+BY USING THIS WEBSITE, YOU CONSENT TO THE COLLECTION AND USE OF INFORMATION AS SET FORTH IN THIS PRIVACY POLICY. YOU ALSO ACKNOWLEDGE THAT BHARTI AXA GENERAL INSURANCE CO. LTD. MAY PERIODICALLY CHANGE, MODIFY, ADD OR REMOVE OR OTHERWISE UPDATE THIS PRIVACY POLICY AT ITS DISCRETION, WITHOUT PRIOR NOTIFICATION.
 
-Further we don't store your credit card information and the payment gateway link available on our website, which facilitates you to make the payment for the policies bought by you. You may voluntarily sign up to be informed about certain offers. For this service we need only an e-mail address and / or phone number and the preferred time and language of communication, which we use to send the information you requested. In case you have provided your phone number, you hereby acknowledge that you have agreed to be contacted on that number of your own volition even if you have subscribed / registered your phone number under NDNC registry. We continually strive to improve our website offerings based on the information and feedback we receive from you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the Website. The email address you provide for issuance of the policies may be used to send to you information and updates pertaining to your policies, in addition to receiving occasional company news, updates, related product / service information, etc.
+Please read on for more details about our privacy policy.
 
-We shall not hold or retain any of your sensitive personal data or information for a period longer than is required for the purposes for which such information has been collected or is otherwise required under any applicable law.
+#### DEFINITION: 
 
-By using this Website, you authorize us to use your information for the following purposes:
+For the purpose this Privacy Policy the following terms shall have the meaning as defined hereunder, unless the context otherwise requires:
 
-a) To contact you over the telephone/ mobile number or e-mail address which you have shared with us for the purpose of providing you the information about our products in which you have shown your interest within 30days period from the date of your sharing the details with us.   
-b) To send you the information about our new products and services as well as that of our affiliates and other general information about insurance. You may intimate us not to share your information to any third party by sending us an e-mail @[thirdparty@bharti-axagi.co.in](mailto:thirdparty@bharti-axagi.co.in). Please allow us 30days time to update our database.  
-c) To contact you for at the e-mail, telephone / mobile number shared with us for issuance of policies, sending renewal reminders, renewal of policies, processing the claims, advising on claim processing the procedure etc.;  
-d) analyzing the data either in house by the Company or through any of its group or affiliate Companies or through any duly engaged service provider;  
-e) disclosing any information compelled under the rules, regulations, guidelines or order of any statutory body or Court.
+(a) "BAGI" or "Bharti AXA GI" or "Us" means Bharti AXA General Insurance Company Limited.
 
-If you choose to be contacted by us on a number that is registered under the NDNC Registry, you understand and acknowledge that you have allowed us to contact you for the above mentioned purposes on your own volition and free will. Further if you wish to withdraw the consent, kindly send the request through the verified email addresses provided by you at [unsubscribe@bharti-axagi.co.in](mailto:unsubscribe@bharti-axagi.co.in). Please allow 30 working days for the removal of the specified numbers or email address from our databases. In case you continue to receive phone calls or sms from us please raise your complaint at 080-49123900. You hereby irrevocably and unconditionally authorise the Company to use the information provided by you to carry out your instructions, effecting transactions that you may undertake on the Website, in accordance with these Terms and such other terms as may be specified by the Company. Certain transactions would be effected only after you authorise it by using your password and the Company shall have no obligation to verify the authenticity of any such duly authorised transaction. The records of the Company generated by the transaction(s), including the recording of the time of the transaction(s), shall be conclusive proof of the genuineness and accuracy of such transactions.
+(b) "Call Center" means the call center facility set up/ engaged by Bharti AXA to assist its Customers with respect to various transactions and to furnish information etc., regarding its products and such other related information. The Customers can presently reach BAGI on the numbers notified on the Website.
 
-**WITH WHOM WILL YOUR INFORMATION BE SHARED?**
+(c) "Personal Data" or "Personal Information" means any information relating to a Person who can be identified either: 
+
+  * directly from that data; or
+  * from that data together with any other information which either is or likely to be available."
+
+
+
+Examples of Personal data include: name, pseudonyms, address, telephone number, identity card number, occupation, salary/compensation, health or personal records, birth date, etc. 
+
+Personal Information or Personal Data also includes 'Sensitive personal data'. 
+
+Personal Data is each piece of information related to the individual, regardless of the form in which it is expressed and the format in which it is kept in or on the information holder (storage media, paper, tape, film, electronic media, etc).
+
+However, any information that is freely available or accessible in public domain or is permissible to be furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as personal data.
+
+(d) 'Sensitive personal data or information'— Sensitive personal data or information of a person means such personal information which consists of information relating to;— 
+
+  * password; 
+  * financial information such as Bank account or credit card or debit card or other payment instrument details 
+  * physical, physiological and mental health condition; 
+  * sexual orientation; 
+  * medical records and history; 
+  * Biometric information; 
+  * any detail relating to the above clauses as provided to body corporate for providing service; and 
+  * any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise.
+
+
+
+(e) "Use" means accessing the Website for any purpose including for enquiring on our products or services, log in to the Website, making any transaction on the Website etc. or entering into a transaction with Us in any other manner.
+
+(f) "Website" means [www.bharti-axagi.co.in](http://www.bharti-axagi.co.in/) or any other website which Bharti AXA General Insurance Company Limited may launch or operate¬ for its business purposes or otherwise.
+
+The word "Data" and "Information" are used interchangeably in this document.
+
+#### COLLECTION OF INFORMATION:
+
+We may collect information from you in the following instances:
+
+a. When you submit your details in the physical or electronic mode including mobile applications in connection with the purchase of a an insurance cover from Us;
+
+b. When you provide information or data to Us while using the Website or while making any enquiry with Us either online or in any other manner;
+
+c. Any information which is derived from the information provided by you, eg. information generated through an online tool or Calculators available on the Website or while purchasing our products online.
+
+d. When you perform online transaction on the Website or any of the payment gateway links available on the Website.
+
+e. When We receive information from any third parties such as your employers, hospitals, , medical practitioners, clinics, motor workshops, travel agencies or banks, etc. in connection with provision of insurance services;
+
+f. When you participate in any events organized by Us, such as contests, recruitment fairs, functions and seminars including contests and quizzes on social networking websites;
+
+g. From cookies, or other technology deployed for the collection of statistical data on our website, web and mobile applications;
+
+The collection of information allows Us to serve your needs in a better manner, including issuance of Insurance policies, settlement of claim etc.. You understand and acknowledge that certain data/information provided by you will be shared with our Service providers for the purpose of providing the services under the contract of insurance including any ancillary services required to be provided thereunder. You also understand and acknowledge that such data/information may also be shared with our group companies for research and analysis purposes.
+
+We don't store your credit card information or internet banking information. However, if you make online purchase of a policy from Us, the payment gateways on our website may collect your card number and expiry date for processing the payment. 
+
+We continually strive to improve our website offerings based on the information and feedback we receive from you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the Website. 
+
+We shall not retain any of your sensitive personal data or information unless retention of the information is required for rendering the services or is required under any Regulatory provision. Provided, however, in such case the information will be retained only for a period required for the purposes for provision of services or for a required under any applicable law as the case may be. 
+
+#### USAGE OF THE INFORMATION:
+
+By using this Website, you authorize Us to use your information for the following purposes:
+
+a) Contacting you over the telephone/ mobile number and/or e-mail address provided by you(hereinafter collectively referred to as "Contact Information") for sending information of our products in which you have shown your interest. 
+
+b) Sending you the information about our new products and services as well as that of our affiliates, policy renewal reminders, other service details and other general information about insurance. 
+
+c) Sending or conveying information relating to issuance of policies, renewal reminders, claims related information etc.;
+
+d) Analyzing the data either in house by the Company or through any of its group or affiliate Companies or through any duly engaged service provider;
+
+e) Sharing the Personal Data with any Service provider duly engaged by Us, either in India or outside India for the purpose of providing any ancillary services to You arising out of the Contract of Insurance or otherwise, subject to We ensuring that such service provider has in place required security measures to protect Your Data both physically as well as in electronic form. 
+
+f) Disclosing any information compelled under the rules, regulations, guidelines or order of any statutory body or Court.
+
+By providing your Contact Information You have consented to be contacted by us on the said Contact Information even if the said Contact Information is registered under the National Do Not Call ("NDNC") Registry, on Your own volition and free will. You may withdraw the consent or change your interests at any time and may opt-out of any marketing / promotional / newsletters mailings by sending us a letter or an email to that effect at [unsubscribe@bharti-axagi.co.in.](mailto:unsubscribe@bharti-axagi.co.in)
+
+The Company reserves the right to send you certain service related communication, without offering you the facility to opt-out. 
+
+The contact information will be removed from our database within 30 working days. However, even after un-subscription if you transact with us again in any of the manner stated under section "collection of information", your information will be recollected and used as per this policy statement. 
+
+You hereby irrevocably and unconditionally authorise the Company to use the information provided by you to carry out your instructions and effecting transactions that you may undertake on the Website, in accordance with these Terms and such other terms as may be specified by the Company. The records of the Company generated by the transaction(s), including the recording of the time of the transaction(s), shall be conclusive proof of the genuineness and accuracy of such transactions. 
+
+The Personal Data and other information which We collect shall be stored either in India or abroad, subject to applicable Regulatory provisions. You hereby provide your consent to us to transfer/share your personal Data outside India for the purpose for which said information has been collected by Us. We shall always ensure that effective level of data protection to protect Your Personal Data is in place wherever Your Personal Data is stored or processed, which shall at no point be less than the regulatory compliance required in India.
+
+#### SHARING OF YOUR INFORMATION
 
 We shall not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit.
 
-We shall set and access our own cookies on your computer to allow you to buy and interact at the Website. We also use web beacons to gather anonymous, aggregated statistical information (e.g. unique hits, page views, etc.) about our Website traffic.
+We may share your information collected by us with third parties for providing you with better services and offerings as stated under the section "Usage of Information".
 
-We may share your information collected by us with third parties for providing you with better services and offerings or to carry out the purpose for which such information was collected by us. Further we may share the above said information if required to do so under any of the provisions of the laws applicable to us or by any order of the Court or other statutory authorities.
+#### OPTION TO UPDATE THE PERSONAL INFORMATION:
 
-**WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION:**
+Whenever you use our services, we aim to provide you with access to your personal information to the extent possible. If you find any of your personal information is wrong or inaccurate, we strive to give you ways to update the same. We will however verify your identity before proceeding with your request for such updation or correction.
 
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. The Company reserves the right to send you certain service related communication, considered to be a part of your Website account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
+We may reject requests that are unreasonably repetitive, risk the privacy of others or updating which would be extremely impractical.
 
-Upon receipt of a request by you, we shall remove/block your personally identifiable information from our database, thereby canceling your registration. Upon such cancellation, we shall cease to provide services to you and you shall not be entitled to access the Website. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+While we endeavor to provide the updation service free of charge, we may charge a fee, if the same is permitted under laws in India. 
 
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for such purposes.
+#### COOKIES AND LOG:
 
-**HOW DO WE PROTECT CUSTOMER INFORMATION?**
+We or our Partners may store cookie when you visit our Website or our Partner’s websites and access said cookies on your computer to allow you to buy and interact at the Website. The primary purpose of these cookies is to analyze how users move within our Web site. Our cookies let you view customized pages while transacting with us. 
 
-We have a strong content management system using the latest encryption technology in place where the information collected is cycled and is operated by professional people with password protected user environment.
+Cookies are small data files that a website stores on your device to "recognize" you on subsequent requests. Our cookies do not have confidential or personally identifiable information. 
 
-We have adequate security practices and procedures in place and a comprehensive documented information security programme and policies that contain managerial, technical, operational and physical security measures that are appropriate to protect information received by us. We have the International Standard ISO 27001 in place.
+We may use various tools viz., Chart tool, tracking tool etc. on our website to improve the customer experience by showing services or advertising we think you may be interested in. Also, We use analytic tools, web beacons etc. to gather anonymous, aggregated statistical information (e.g. unique hits, page views, etc.) about our Website traffic. We use Non Persistent cookies for managing the users' logged in session and persistent cookies for managing the performance. 
+
+However, you can turn-off the Cookies in your browser.
+
+#### LINKS TO THIRD PARTY WEBSITES:
+
+This Website may contain external links to websites operated by third parties other than BAGI. Such links are provided for your convenience only and BAGI has no control over such websites and no representation is being made by the Company as to their content and conduct. Use or reliance on any such links and the content thereon provided shall be at your sole risk.
+
+When visiting such external links, you shall refer to the terms and conditions of use of such websites. No hypertext links shall be created from any website controlled by You or any other person, to this Website, without the express prior written permission of the Company.
+
+#### HOW DO WE PROTECT YOUR INFORMATION
+
+We have adequate security practices and procedures in place and a comprehensive documented information security programme and policies that contain managerial, technical, operational and physical security measures that are appropriate to protect information received by us. Our Operations are certified with International Standard ISO 27001:2013.
 
 Although we shall endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this Website, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
