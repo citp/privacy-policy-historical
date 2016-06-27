@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214153429id_/http%3A//intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627063324id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Intuitive Surgical - Privacy
 
@@ -48,4 +48,4 @@ Risks specific to minimally invasive surgery, including _da Vinci_ Surgery, incl
 
 Patients who are not candidates for non-robotic minimally invasive surgery are also not candidates for da Vinci® Surgery. Patients should talk to their doctor to decide if _da Vinci_ Surgery is right for them. Patients and doctors should review all available information on non-surgical and surgical options in order to make an informed decision. For Important Safety Information, including surgical risks, indications, and considerations and contraindications for use, please also refer to [http://www.intuitivesurgical.com/safety](http://www.intuitivesurgical.com/safety/). Unless otherwise noted, all people depicted are models.
 
-© 2014 Intuitive Surgical. All rights reserved. All product names are trademarks or registered trademarks of their respective holders. 
+Product names are trademarks or registered trademarks of their respective holders. 
