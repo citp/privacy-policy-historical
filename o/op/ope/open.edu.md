@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225122906id_/http%3A//www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627023512id_/http%3A//www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
 
 # Website privacy at the OU - About the OU - Open University
 
@@ -67,6 +67,10 @@ We take security very seriously. All staff are made aware of the security proced
 We also protect data transferred. As long as your web browser supports the Secure Sockets Layer (SSL), any personal data transmitted from your browser to our web service, or from the service to your browser, will be encrypted.
 
 Please note that email is never a 100% secure way of communicating. By using it, you agree that you will send any information by email at your own risk.
+
+## Prevent Duty
+
+The Open University is under a statutory duty to have regard to the need to prevent people being drawn into terrorism.  If the use of OU computer equipment, information and systems gives rise to a concern that a person may be at risk, this may result in action being taken in accordance with the [OU Prevent strategy](http://www.open.ac.uk/about/main/management/policies-and-statements/prevent-counter-terrorism-duty)
 
 ## Links to third-party sites
 
