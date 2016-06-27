@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228132458id_/http%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628014245id_/http%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Social Report
 
