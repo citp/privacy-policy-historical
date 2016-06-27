@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the hondafinancialservices.com privacy policy that was archived on 2015-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219090850id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hondafinancialservices.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627184848id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 <!--[if IE]><link rel="shortcut icon" href="/static/img/global/favicon.ico"><![endif]-->
 <link rel="icon" href="/static/img/global/favicon.ico">
     <!--
-.118
-12/19/2015 12:58:00 AM PST
+.114
+6/27/2016 11:48:47 AM PDT
 http%3a%2f%2fwww.hondafinancialservices.com%3a80%2fhelp%2fprivacy-policy
-Release: 11302015
+Release: 01202016.1
 //-->
 
     
@@ -20,6 +20,8 @@ Release: 11302015
 	<meta name="google-site-verification" content="NCoAqXJ7bvMn7b3F3SCepgWQmbE26DmGNOb_-Mi2iPw">
 
 
+
+   
     <meta property="og:url" content="http://www.hondafinancialservices.com">
     <meta property="og:title" content="Honda Financial Services: Financing, Lease and Warranty Options">
     <meta property="og:description" content="Provides Honda financing, lease and extended warranty options to help you when considering a new Honda lease or purchase.">
@@ -27,9 +29,161 @@ Release: 11302015
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <!--[if IE]><![endif]-->
     <link rel="stylesheet" type="text/css" href="/combres.axd/coreCss/986228693/">
-    <link rel="stylesheet" type="text/css" href="/combres.axd/skinCss/-2002592995/">
+    <link rel="stylesheet" type="text/css" href="/combres.axd/skinCss/-1847777058/">
     <link rel="stylesheet" type="text/css" href="/combres.axd/printCss/517041840/" media="print">
     <link rel="stylesheet" type="text/css" href="/combres.axd/help-privacy-policyCss/-549002482/">
+
+    <script language="javascript" type="text/javascript">
+        //alert('isMobile response value:' + false + ''); 
+        function getDocHeight(doc) {
+            doc = doc || document;
+            // stackoverflow.com/questions/1145850/
+            var body = doc.body, html = doc.documentElement;
+            var height = Math.max(body.scrollHeight, body.offsetHeight,
+        html.clientHeight, html.scrollHeight, html.offsetHeight);
+            return height;
+        }
+
+//        function setIframeHeight(id) {
+//            //document.domain = "localhost";
+//            var ifrm = document.getElementById(id);
+//            var doc = ifrm.contentDocument ? ifrm.contentDocument : ifrm.contentWindow.document;
+//            ifrm.style.visibility = 'hidden';
+//            ifrm.style.height = "667px"; // reset to minimal height ...
+//            // IE opt. for bing/msn needs a bit added or scrollbar appears
+//            var newHeight =  getDocHeight(doc);
+//            if(newHeight > 667)
+//            {
+//                ifrm.style.height = getDocHeight(doc) + 4 + "px";
+//                ifrm.style.visibility = 'visible';
+//            }
+//            //            alert('Over hereeeee.');
+
+//        }
+
+
+        function SingleSignOnToLink(type, accountNumber) {
+            var isMobile = false; 
+            var targetURL = "";
+
+            if((isMobile != null) || (isMobile != undefined))
+            {
+                if (isMobile) {
+                    targetURL = (accountNumber != null) ? "/SSO/login?type=" + type.toUpperCase() + "&ac=" + accountNumber : "/SSO/login?type=" + type.toUpperCase();
+                    window.open(targetURL, "salesforcesso");
+                }
+                else {
+                    switch (type.toUpperCase()) {
+                        case "CPS":
+                            location.href = (accountNumber != null) ? "/MyProfile/communication-preferences?ac=" + accountNumber : "/MyProfile/communication-preferences";
+                       
+                            break;
+                        case "EPY":
+                            location.href = (accountNumber != null) ? "/MyAccount/easypay?ac=" + accountNumber : "/MyAccount/easypay";
+                        
+                            break;
+                        case "MAP":
+                            location.href = (accountNumber != null) ? "/MyAccount/make-a-payment?ac=" + accountNumber : "/MyAccount/make-a-payment";
+                        
+                            break;
+                        case "MBA":
+                            location.href = (accountNumber != null) ? "/MyAccount/manage-bank-accounts?ac=" + accountNumber : "/MyAccount/manage-bank-accounts";
+                       
+                            break;
+                        case "MPO":
+                            location.href = (accountNumber != null) ? "/MyAccount/make-a-payoff?ac=" + accountNumber : "/MyAccount/make-a-payoff";
+                        
+                            break;
+                        case "MPT":
+                            location.href = (accountNumber != null) ? "/MyAccount/manage-payments?ac=" + accountNumber : "/MyAccount/manage-payments";
+                        
+                            break;
+                        case "PPT":
+                            location.href = (accountNumber != null) ? "/MyAccount/pending-payments?ac=" + accountNumber : "/MyAccount/pending-payments";
+                       
+                            break;
+                        default:
+                            location.href = (accountNumber != null) ? "/MyAccount/make-a-payment?ac=" + accountNumber : "/MyAccount/make-a-payment";
+                       
+                            break;
+
+                    }
+                }
+            }
+
+          }
+
+		  function handleEmailBounceBack(acctNum, ackUrl) {
+				if (ackUrl != null && ackUrl != '') {
+                ackUrl = ackUrl.replace(/___/g, '%'); 
+                $.ajax({
+                    url: ackUrl,
+                    type: 'GET',
+                    dataType: 'html',
+                    cache: false,
+                    async: false,
+                    success: function (data) {
+                        //alert(data);
+                    },
+                    error: function (xhr, status, msg) {
+	                     //alert(msg);					  
+                    }
+                });
+				}
+				SingleSignOnToLink('CPS', acctNum.trim());
+		  }
+
+		  function getCookie(cname) {
+		        var name = cname + "=";
+                var ca = document.cookie.split(';');                            
+
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1);
+                    if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+                }
+                return "";
+            }
+
+            function handleMessage( e ) {
+	                    
+              var message = e.data;
+              
+              switch(message.toUpperCase())
+              {
+                    case "ACCOUNTOVERVIEW":
+                          location.href= 'http://www.hondafinancialservices.com/MyAccount/Index';
+                          break;
+                    case "MPM":
+                          location.href = 'http://www.hondafinancialservices.com/MyAccount/made-a-promise';
+                          break;
+                    case "CCS":
+                          location.href = 'http://www.hondafinancialservices.com/MyAccount/customer-service';
+                          break;
+                   default:
+                           //location.href = 'http://www.hondafinancialservices.com';
+                           break;
+              }
+	        }
+
+	        function addEvent(evnt, elem, func) {
+	           if (elem.addEventListener)  // W3C DOM
+		          elem.addEventListener(evnt,func,false);
+	           else if (elem.attachEvent) { // IE DOM
+		          elem.attachEvent("on"+evnt, func);
+	           }
+	           else { // No much to do
+		          elem[evnt] = func;
+	           }
+	        }
+
+	        //window.addEventListener( "message", handleMessage, false );
+	        addEvent("message", window, handleMessage);
+
+        
+    </script>
+
+
 	
 </head>
 <!--[if lt IE 7]><body id="help-privacy-policy" class="template-2 ie ie6 lte9 lte8 lte7"><![endif]-->
@@ -38,9 +192,12 @@ Release: 11302015
 <!--[if IE 9]><body id="help-privacy-policy" class="template-2 ie ie9 lte9"><![endif]-->
 <!--[if gt IE 9]><body id="help-privacy-policy" class="template-2"><![endif]-->
 <!--[if !IE]><!-->
+
+
 <body id="help-privacy-policy" class="template-2">
     <!--<![endif]-->
-    <script type="text/javascript">        document.body.className = document.body.className.replace(/no\-js\s?/gi, '');</script>
+    <script type="text/javascript">   document.body.className = document.body.className.replace(/no\-js\s?/gi, '');</script>
+    
     <div id="page">
         <div id="header">
             <a class="logo" href="/"><span>
@@ -117,6 +274,11 @@ Release: 11302015
                     
                     <li class="last item-3">
                     
+<style type="text/css">
+    span.new {color:#b60202; font-style:italic; padding-left: 2px; font-weight: 600;} 
+</style>
+
+   
                         <a href="/account-management"><span>Account Management</span></a>
                         <div class="sub-nav">
                             <ul>
@@ -163,30 +325,51 @@ Release: 11302015
     </ul>
 </div>
 
+
 <div class="tertiary-nav">
     <h3>
         Shopping Tools</h3>
     <ul>
         
-        <li class="first"><a class="" href="/finance/applying-auto" title="Apply for Credit Approval">
+        <li class="first"><a class="" href="/finance/applying-auto" title="Apply for Credit Approval" id="leftNavApplyCredit">
             Apply for Credit Pre-Approval</a></li>
         
-        <li><a class="" href="/shopping-tools/apply-credit-status" title="Check Your Application Status">
+        <li><a class="" href="/shopping-tools/apply-credit-status" title="Check Your Application Status" id="leftNavApplicationStatus">
             Check Your Application Status</a></li>
         
+
+        <li><a id="newLeftNavCalculators" onclick="toggle_visibility('calculatorsSubMenu')">Calculators</a></li>
+        <div id="calculatorsSubMenu" style="display: none; padding-left: 10px;">
+                <ul>
+                    <li><a id="lefNavNewVehicleCalculator" href="http://automobiles.honda.com/tools/monthly-payment-estimator/models.aspx" target="_blank" title="New Vehicles">New Vehicles</a></li>
+                    <li><a id="lefNavCertifiedVehicleCalculator" href="http://www.hondacertified.com/reverse-calculator.aspx" target="_blank" title="Certified Pre-Owned">Certified Pre-Owned</a></li>
+                    <li><a href="http://www.powersports.honda.com/financing.aspx" target="_blank" title="Powersports">Powersports</a></li>
+                    <li><a href="http://marine.honda.com/finance/payment-calculator" target="_blank" title="Marine">Marine</a></li>
+                </ul>         
+        </div>
+
+        
         <li>
-            <a href="/shopping-tools/calculators-new-vehicles" title="Calculators">Calculators</a>
+            <a href="/shopping-tools/current-offers" id="leftNavCurrentOffers" title="Current Offers">Current Offers</a>
         </li>
         <li>
-            <a href="/shopping-tools/current-offers" title="Current Offers">Current Offers</a>
-        </li>
-        <li>
-            <a href="/shopping-tools/locate-a-dealer" title="Locate a Honda Dealer">Locate a Honda Dealer</a></li>
+            <a href="/shopping-tools/locate-a-dealer" id="leftNavLocateDealer" title="Locate a Honda Dealer">Locate a Honda Dealer</a></li>
         <li class="last">
-            <a href="/shopping-tools/lease-or-finance" title="Lease or Finance?">Lease or Finance?</a></li>
+            <a href="/shopping-tools/lease-or-finance" id="leftNavLeaseOrFinance" title="Lease or Finance?">Lease or Finance?</a></li>
     </ul>
 </div>
 
+
+<script type="text/javascript">
+    function toggle_visibility(id) {
+        var e = document.getElementById(id);
+        if (e.style.display == 'block')
+            e.style.display = 'none';
+        else
+            e.style.display = 'block';
+    }
+    toggle_visibility('calculatorsSubMenu');
+</script>
         </div>
         <div class="col col-2">
             <h1>Privacy Policy</h1>
@@ -610,7 +793,7 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
                     <li><a href="/help/privacy-policy"><span>Privacy Policy</span></a></li>
                     <li><a href="/help/terms-and-conditions"><span>Legal Terms and
                         Conditions</span></a></li>
-                    <li class="last"><span>©2015
+                    <li class="last"><span>©2016
                         American Honda Finance Corporation</span></li>
                 </ul>
             </div>
@@ -629,6 +812,7 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             <li>View payment history</li>
             <li>Update account profile</li>
             <li>Go paperless - Get eDelivery</li>
+            <li>Receive email/text payment alerts</li>
         </ul>
         <form id="form-nav-register" action="/Registration/reg-step-one-disclaimer" method="post">
         <div id="nav-register-error" class="error-messages">
@@ -720,7 +904,7 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
         <div id="popPromoOverlay">
         </div>
         <div id="popPromo" class="article">
-            <div class="title">Coming Soon to Your HFS Account:</div>
+            <div class="title">Now Available on Your HFS Account:</div>
             <div><span class="subtitle">•	Schedule Payments – </span>Make your payments same-day or schedule them for a future date.</div> 
             <div><span class="subtitle">•	Manage Payments – </span>View, modify and cancel payments.</div>
             <div><span class="subtitle">•	Payment Notifications – </span>Receive payment reminders and other payment notifications via email and/or text. The choice is yours.</div>
@@ -729,12 +913,15 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             <div class="btnContainer"><a id="btn-Close" class="btn btn-1" href="javascript:closePromo()"><span>Close</span></a></div>
        </div>
     <script type="text/javascript" src="/combres.axd/coreJs/47001285/"></script>
-    <script type="text/javascript" src="/combres.axd/skinJs/827927368/"></script>
+    <script type="text/javascript" src="/combres.axd/skinJs/925917334/"></script>
     <script type="text/javascript" src="/combres.axd/help-privacy-policyJs/2101909388/"></script>
-
+    
 	
 
     <input id="input-login-count" name="input-login-count" type="hidden" value="0">
+    
+    
+
     
 <script type="text/javascript">
     function ReadConfigSettings() {
@@ -760,7 +947,7 @@ var s_code = $.omniture.triggerPageLoad(omniData); if (s_code) document.write(s_
 
 <noscript>
 	<div>
-		<img src="http://omt.honda.com/b/ss/ahmhondafinancialservicesprod/5/65109?pageName=PRIVACY+POLICY&amp;ch=HELP&amp;c11=CONTENT&amp;c37=HTTP%3a%2f%2fWWW.HONDAFINANCIALSERVICES.COM%2fHELP%2fPRIVACY-POLICY&amp;v5=" alt=""/>
+		<img src="http://omt.honda.com/b/ss/ahmhondafinancialservicesprod/5/16775?pageName=PRIVACY+POLICY&amp;ch=HELP&amp;c11=CONTENT&amp;c37=HTTP%3a%2f%2fWWW.HONDAFINANCIALSERVICES.COM%2fHELP%2fPRIVACY-POLICY&amp;v5=" alt=""/>
 	</div>
 </noscript><!--/DO NOT REMOVE/-->
 
