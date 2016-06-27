@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208074823id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627131158id_/http%3A//www.dickblick.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - BLICK art materials
 
@@ -36,9 +36,9 @@ Blick Art Materials, like all companies that sell through a catalog or through a
 
 We recognize that you may or may not want to receive future catalogs and offers. If you don't want either catalogs or email from us, let us know and we will follow your wishes. If you're an online customer, you can tell us your wishes on this website, by clicking on "My Account" (located on every page of our site, in the upper right corner) while logged in. 
 
-Click the "Account Preferences" option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
+Click the “Account Preferences” option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
 
-Click the "Email Preferences" link to access and edit your email subscription status.
+Click the "Email Preferences" link to access and edit your email subscription status. 
 
 Alternatively, you may adjust your catalog or email preferences by contacting us via email at [info@dickblick.com](mailto:info@dickblick.com), by phone at 1-800-828-4548, or by mail at: 
 
@@ -63,9 +63,9 @@ Return to Top
 
 At Blick Art Materials, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner). 
 
-Click the "Account Preferences" option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
+Click the “Account Preferences” option to manage your catalog subscriptions. On this page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving mailings from us and/or mailings from other companies that may be interested in contacting you. 
 
-Click "Email Preferences" to access and edit your email subscription status.
+Click “Email Preferences” to access and edit your email subscription status. 
 
 If you do not have a registered account on our website, but you are already a customer of ours, please feel free to write us and let us know your wishes. Write to us at [info@dickblick.com](mailto:info@dickblick.com), call us at 1-800-828-4548, or send us an ordinary letter at: 
 
