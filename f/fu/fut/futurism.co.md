@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurism.co privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208075200id_/http%3A//futurism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurism.co privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133020id_/http%3A//futurism.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,8 +43,6 @@ While we use encryption to protect sensitive information transmitted online, we 
 **Cookies**
 
 We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
-
-If other organizations use cookies or other devices that track site visitors to your site, insert a paragraph like this in your privacy policy:
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
