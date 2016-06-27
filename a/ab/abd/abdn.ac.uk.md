@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114115040id_/http%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627100955id_/http%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | About | The University of Aberdeen
 
-This policy explains what information is gathered from web clients visiting the University of Aberdeen's central web server, and how that information is used. Our website is designed in accordance with the Information Commissioner's Office guidance on the use of cookies and similar technologies[1](http://www.abdn.ac.uk/about/our-website/privacy.php#_ftnref1).
+This policy explains what information is gathered from visitors to the University of Aberdeen's website, and how that information is used. Our website is designed in accordance with the Information Commissioner's Office guidance on the use of cookies and similar technologies[1](http://www.abdn.ac.uk/about/our-website/privacy.php#_ftnref1).
 
 ## Information Collected
 
-Information is gathered from clients via several methods that are outlined below:
+Information is gathered from visitors via several methods that are outlined below:
 
 ### 1\. Logfiles
 
@@ -16,8 +16,8 @@ The University of Aberdeen's central web server [[www.abdn.ac.uk/](http://www.ab
   * Identification of the files requested
   * Whether the request was successful
   * The size (in bytes) sent in response
-  * The referring page (where the client came from), as supplied by the client browser
-  * The software used to access the server, as supplied by the client browser
+  * The referring page (where the visitor came from), as supplied by the visitor's browser
+  * The software used to access the server, as supplied by the visitor's browser
 
 
 
@@ -38,31 +38,41 @@ Examples of data collected automatically from all users include:
 
 
 
-### 2\. Cookies
+### 2\. Cookies, web beacons and similar technologies
 
-Cookies are small files that are sent from the web server to the client's computer via the client's browser. They are then stored in the client's computer as text files and passed back to the server. Cookies are generally used to identify users and, on occasion, prepare customized web pages for them. Cookies may remain on the client's computer merely for the duration of the visit or they may remain indefinitely. Most standard web browsers may be configured to refuse cookies. 
+#### Cookies
+
+Cookies are small files that are sent from the web server to the visitor's computer via the visitor's browser. They are then stored in the visitor's computer as text files and passed back to the server. Cookies are generally used to identify users and, on occasion, prepare customized web pages for them. Cookies may remain on the visitor's computer merely for the duration of the visit or they may remain indefinitely. Most standard web browsers may be configured to refuse cookies.
 
 The University of Aberdeen uses cookies for the essential running of its websites and web applications. Such cookies are transient, do not contain any personal information, cannot be used to identify you and are exempt from the EU Directive[2](http://www.abdn.ac.uk/about/our-website/privacy.php#_ftnref2). 
 
-The University of Aberdeen also uses a number of cookies for marketing purposes. These are detailed in [our section on cookies](https://web.archive.org/about/our-website/cookies.php). Any other ad hoc use of cookies will be stated separately and explicitly.
+The University of Aberdeen also uses cookies for marketing purposes. Use of cookies for these purposes is described in [our list of cookies](https://web.archive.org/about/our-website/cookies.php). Any other ad hoc use of cookies will be stated separately and explicitly.
+
+#### Web Beacons and Similar Technologies
+
+The University of Aberdeen uses web beacons and similar technologies for marketing purposes. These technologies (also known as "pixel tags", "tracking pixels" or "clear GIFs") retain information in your browser through local objects or storage. Their purpose is to identify users of our site and their behaviour. Information collected may be shared with authorised third-party providers.
+
+Beacons or similar technologies may work in conjunction with cookies and can operate across all of your browsers. In some instances, these may not be fully managed by your browser and may require management directly through your installed applications or device.
 
 ### 3\. Web forms
 
-Forms on the University of Aberdeen website may request clients to supply personal details, bank details and/or credit card details in order to receive goods or services, or in order to make donations. Where appropriate, such forms operate over secure connections so that data is safeguarded.
+Forms on the University of Aberdeen website may request visitors to supply personal details, bank details and/or credit card details in order to receive goods or services, or in order to make donations. Where appropriate, such forms operate over secure connections so that data is safeguarded.
 
-By supplying such information the client consents to the University storing the information for a period of time appropriate to the supply of the goods or services requested. Personal information provided will only be used for the purpose stated and will not be sold, licensed or traded to third parties.
+By supplying such information the visitor consents to the University storing the information for a period of time appropriate to the supply of the goods or services requested. Personal information provided will be used for the purpose stated and will not be sold, licensed or traded to third parties. Information entered into a form may be used by the University of Aberdeen to contact you.
 
 Personal information collected and/or processed by the University is held in accordance with the provisions of the _Data Protection Act 1998_.
 
 ### 4\. Discussion fora, chat rooms, conferencing facilities, bulletin boards and mailing lists
 
-Tools for synchronous and asynchronous web-based communication that are hosted on the University of Aberdeen websites may request clients to supply details such as names and email addresses for registration purposes.
+Tools for synchronous and asynchronous web-based communication that are hosted on the University of Aberdeen websites may request visitors to supply details such as names and email addresses for registration purposes.
 
-By supplying such information the client consents to the University storing the information in a manner appropriate for administration of the tool. Information provided will only be used for the purpose stated and will not be sold, licensed or traded to third parties.
+By supplying such information the visitor consents to the University storing the information in a manner appropriate for administration of the tool. Information provided will only be used for the purpose stated and will not be sold, licensed or traded to third parties.
 
-Our Alumni [[www.abdn.ac.uk/alumni/](http://www.abdn.ac.uk/alumni/)] and Giving [[www.abdn.ac.uk/giving/](http://www.abdn.ac.uk/giving/)] websites contain profile forms which allow clients to share some or all of the personally-identifying information they supply with us and with other members. Clients may update this information at any time.
+Our website may contain profile forms which allow visitors to share personally-identifying information. Visitors may update this information at any time.
 
-If clients supply information via these forms, the University may use clients' contact details to send further information about the organisation to clients when necessary. Clients may opt out of such mailings at any time, or may choose to receive only specific communications.
+Our website may contain real-time communication tools enabling visitors to connect to and communicate with University-authorised individuals.
+
+If visitors supply information via these forms and tools, the University may use the visitor's contact details or information provided to send further information about the organisation to the visitor when necessary. Visitors may opt out of such mailings at any time by contacting the University.
 
 Personal information collected and/or processed by the University is held in accordance with the provisions of the _Data Protection Act 1998_.
 
@@ -90,5 +100,5 @@ The University of Aberdeen websites include links to third-party websites. These
 
 2 [Directive 2009/136/EE Of The European Parliament And Of The Council](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:En:PDF)
 
-Last reviewed: 19 October 2015  
-Last updated: 19 October 2015
+Last reviewed: 27 April 2016  
+Last updated: 27 April 2016
