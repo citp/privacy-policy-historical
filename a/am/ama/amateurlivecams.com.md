@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125406id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628012151id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # AmateurLiveCams - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
