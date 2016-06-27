@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925210523id_/https%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627055502id_/https%3A//quotewizard.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuoteWizard
 
-_This privacy policy was last updated on September 1st, 2015_
+_This privacy policy was last updated on February 5th, 2015_
 
 QuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates.
 
@@ -64,10 +64,6 @@ The company respects the privacy of users visiting our sites and will abide by a
 
 Our web sites have security measures in place to protect against the loss, misuse, and/or alteration of the information under our control.
 
-### Opt-out
-
-If you no longer desire to receive communications from us, you may opt-out by emailing our Customer Support at consumerinquiries@qw-corp.com or by contacting us by postal mail at quotewizard.com, 157 Yesler Way Suite 400, Seattle, WA 98104.
-
 ### Why We Use "Cookies"
 
 When you visit some of our sites, we use cookies to keep track of your information. A "cookie" is a small piece of program code that resides on your computer and stores your contact information for all of our "Request Information" sites. Each time you visit our site, the cookie uses the stored information to pre-populate our online forms, so that you do not have to re-enter your contact information as you move from one site to another.
@@ -100,7 +96,4 @@ The leading security protocol on the Internet. When an SSL session is started, t
 
 ### URL (Uniform Resource Locator)
 
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for QuoteWizard is http://QuoteWizard.com.
-
-  
-
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for QuoteWizard is //quotewizard.com.
