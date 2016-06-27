@@ -1,46 +1,91 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193340id_/http%3A//www.talkstreamlive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627040954id_/http%3A//www.talkstreamlive.com/privacy.htm) for the most accurate reproduction.*
 
 # Streaming Online Radio & Best Live Talk Shows | TalkStreamLive | www.talkstreamlive.com
 
-## Privacy Policy
+Last updated: March 18, 2016
 
-**Effective 8/14/06  
-Updated 2/28/11**
+TalkStreamLive LLC ("us", "we", or "our") operates the http://www.talkstreamlive.com website (the "Service").
 
-Welcome to TalkStreamLive. We value your privacy, and we want you to know what information we collect and what we do with it.   
-This privacy statement covers the site [TalkStreamLive](http://www.talkstreamlive.com/). Because TalkStreamLive wants to demonstrate its commitment to your privacy it has agreed to disclose its information practices.   
-If you have questions or concerns regarding this statement, you should first contact [contacttsl@gmail.com](mailto:contacttsl@gmail.com). 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-From time to time, we may make changes to this policy, so please review it frequently. Whenever we make a change, we will post or otherwise make available the revised policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of this policy will appear at the top of this page. This policy applies to any information we collect from you. If we make any material changes to this policy, we will notify you here. 
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**INFORMATION YOU PROVIDE TO US.**
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.talkstreamlive.com
 
-We only require basic information for users who wish to create a free TalkStreamLive account. We hate spam as much as you do. We will NEVER sell or distribute you personal information to any 3rd party sites. 
+**Information Collection And Use**
 
-_Browsing the Site._ If you are browsing the TalkStreamLive site, we may track gross usage on a non-personally identifiable basis for our own internal use or to share gross impressions with third party advertisers. We do not track or have access to your personal data. 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-_Communications with Us._ Our services have features that allow you to submit information to us (such as when contacting us with a question or problem related to the service). We may retain your emails and other information you submit to us for our internal purposes, monthlly newsletter and to help us to serve you better. 
+**Log Data**
 
-_Communications with Friends._ TalkStreamLive has a mailing feature that allows you to send a link of the site to a friend. We do not capture, keep or share these email addresses. 
+We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-_Surveys._ We may occasionally ask you to participate in voluntary surveys. These surveys are anonymous. 
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**AUTOMATIC DATA COLLECTION**
+**Cookies**
 
-_TalkStreamLive Site._ As you browse our site and as you use any of the Web Services, we may track your movement through the site through our web logs. We will only use this data on an aggregated basis with that of other users for general business purposes, such as site analysis and ad sales.   
-_Cookies._ We use cookies for several purposes. Within all of the TalkStreamLive services, we use what are commonly called "session" cookies, meaning that they only last as long as you are online. These cookies do not contain any personally identifying information and we do not store data collected by them. 
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-**WITH WHOM WE SHARE YOUR INFORMATION**
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-We will never share your personal information with any marketing or promotional partners.
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
+**DoubleClick Cookie**
 
-**LINKS**
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-We display links to other sites within the TalkStreamLive site and services. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information. 
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
 
-**CONTACT US:**
+**Do Not Track Disclosure**
 
-If you have any questions about this privacy policy, or the privacy practices of TalkStreamLive, you can email [contacttsl@gmail.com](mailto:contacttsl@gmail.com).   
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+**Compliance With Laws**
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+**Security**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children's Privacy**
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of March 18, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
