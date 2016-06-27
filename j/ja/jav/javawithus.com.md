@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javawithus.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427232357id_/http%3A//www.javawithus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javawithus.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627225802id_/http%3A//www.javawithus.com/privacy-policy) for the most accurate reproduction.*
 
 # Java With Us : Java Tutorial
 
