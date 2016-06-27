@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102002242id_/http%3A//www.games-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120906id_/http%3A//www.games-kids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CONTACT - GAMES KIDS ONLINE
 
