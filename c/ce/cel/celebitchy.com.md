@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220164901id_/http%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627062757id_/http%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cele|bitchy | Privacy Policy
 
