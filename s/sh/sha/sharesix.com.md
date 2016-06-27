@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharesix.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217033531id_/http%3A//sharesix.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharesix.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124629id_/http%3A//sharesix.com/policy) for the most accurate reproduction.*
 
 # Share your Files on ShareSix - Easy way to share your files
 
