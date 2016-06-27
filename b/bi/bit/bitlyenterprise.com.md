@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitlyenterprise.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216082001id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitlyenterprise.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120629id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bitly
+# Bitly | Privacy Policy
 
 This Privacy Policy describes the policies and procedures of Bitly, Inc. (“Bitly”, “we” or “us”) on the collection, use and disclosure of information about you on [https://bitly.com](https://bitly.com/) (the “Site”) and the services, features, content or applications offered by Bitly (collectively with the Site, the “Services”). Bitly receives information about you from various sources, such as: (i) when you register for the Site and the Services, through your user account with Bitly (your “Account”); (ii) when you use the Services; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. The information you provide may be transferred, processed and/or accessed by us in the United States or another country where we (or our service providers) operate.
 
