@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215233907id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627054442id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Trade Alert
 
-Last Updated: 03/19/2015
+Last Updated: 04/27/2016
 
 **What information do we collect?**
 
@@ -41,7 +41,7 @@ Any of the information we collect from you may be used in one of the following w
 
 Note: If at any time you would like to unsubscribe from receiving future emails from us, we include simple, hassle-free unsubscribe instructions at the bottom of each and every email.
 
-If at any time you need help escalating or resolving an issue you are having with our emails, please contact postmaster@dailytradealert.com.
+If at any time you need help escalating or resolving an issue you are having with our emails, please contact DTA@DailyTradeAlert.com.
 
 **Do we use cookies?**
 
@@ -89,7 +89,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **03/19/2015**
+This policy was last modified on **04/27/2016**
 
 **Contacting Us**
 
@@ -100,7 +100,7 @@ www.DailyTradeAlert.com
 Geneva, NY 14456  
 United States
 
-Greg(at)DailyTradeAlert.com  
+DTA(at)DailyTradeAlert.com  
 (585) 412-2145
 
 **Privacy Policy Customer Pledge**
@@ -115,7 +115,7 @@ We pledge to you, our subscriber, that we have made a dedicated effort to bring 
 
 
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
+If at anytime you have a cause that needs to be disputed please fill out the [Contact Us](http://dailytradealert.com/contact-us/) form.
 
 Respectfully,
 
