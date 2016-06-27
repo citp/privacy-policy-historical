@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042602id_/http%3A//www.socialflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627131835id_/http%3A//www.socialflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SocialFlowSocialFlow
 
