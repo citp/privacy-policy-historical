@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208021108id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132213id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
 
 # Legal Disclaimer | Privacy Policy - MotivationalWellBeing
 
