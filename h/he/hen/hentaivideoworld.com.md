@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204221800id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaivideoworld.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627152343id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
