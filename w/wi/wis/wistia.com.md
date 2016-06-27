@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603052843id_/http%3A//wistia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627021212id_/https%3A//wistia.com/privacy) for the most accurate reproduction.*
 
-# Wistia Terms of Service
+# Wistia Privacy Policy | Wistia
 
 We at Wistia, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. 
 
-By visiting or using the various websites owned and operated by Company, including, without limitation, the http://wistia.com/ website (the “Websites”), accessing or viewing videos hosted by Company (the “Videos”) and/or accessing or using any other functionalities, features, content, applications or services offered from time to time by Company in connection with the Websites or Videos (collectively, the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways. 
+By visiting or using the various websites owned and operated by Company, including, without limitation, the https://wistia.com/ website (the “Websites”), accessing or viewing videos hosted by Company (the “Videos”) and/or accessing or using any other functionalities, features, content, applications or services offered from time to time by Company in connection with the Websites or Videos (collectively, the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways. 
 
 ## I. What Does This Privacy Policy Cover?
 
