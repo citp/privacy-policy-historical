@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newstalk.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119230435id_/http%3A//www.newstalk.com/reader/47.1153/42690/-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627131555id_/https%3A//www.newstalk.com/reader/47.1153/42690/-) for the most accurate reproduction.*
 
-# Privacy Policy - Newstalk
+# Privacy Policy | Newstalk
 
 We will not monitor, edit or disclose any personal information about you without your prior consent. In the course of the Newstalk Nation Royalty Scheme (Newstalk Nation) we may acquire personal data and information about you which you have registered with us. When you give your personal details to us, we have a duty to keep these details private and safe. This process is known as data protection. Under data protection law, you have rights regarding the use of your personal details and we have certain responsibilities in how we handle this information.
 
