@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugg.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126084443id_/http%3A//www.uggaustralia.com/on/demandware.store/Sites-UGG-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugg.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627040820id_/http%3A//www.ugg.com/on/demandware.store/Sites-UGG-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # UGG® Official Site | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ##### Effective Date: July 24, 2014
 
-We are part of the Deckers Outdoor Corporation family, which includes the following brands (brought to you by Deckers Consumer Direct Corporation and our various corporate entities): UGG® Australia, I HEART UGG®, Teva®, Sanuk®, Tsubo®, Ahnu®, MOZO®, and Hoka ONE ONE® (for purposes of this policy, all of our entities and brands are referred to as "Deckers"). Deckers values your privacy. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to this website, as well as our other websites (collectively, the "Site") and the services available through our Site (collectively, the "Services"). Some features and functionalities (e.g. the ability to make purchases) are not available on all of our websites; please contact us if you have any questions.
+We are part of the Deckers Outdoor Corporation family, which includes the following brands (brought to you by Deckers Consumer Direct Corporation and our various corporate entities): UGG® Australia, I HEART UGG®, Teva®, Sanuk®, Ahnu®, and Hoka ONE ONE® (for purposes of this policy, all of our entities and brands are referred to as "Deckers"). Deckers values your privacy. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to this website, as well as our other websites (collectively, the "Site") and the services available through our Site (collectively, the "Services"). Some features and functionalities (e.g. the ability to make purchases) are not available on all of our websites; please contact us if you have any questions.
 
 By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service (available on this website), including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy. 
 
@@ -170,8 +170,6 @@ Sanuk | Netherlands | klantenservice@sanuk.eu
 Sanuk | France | serviceclients@sanuk.eu  
 Ahnu | U.S. | Ahnu_cs@deckers.com  
 HOKA ONE ONE | U.S. | hokacustomerservice@deckers.com  
-Tsubo | U.S. | Customersuppport@tsubo.com  
-MOZO | U.S. | mozoservice@deckers.com  
   
 As permitted by applicable law, we may retain changed or deleted information for archival purposes.
 
