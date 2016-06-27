@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231000802id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-summary-revised.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627022614id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-summary-revised.aspx) for the most accurate reproduction.*
 
 # Aberdeen Group | Privacy Policy
 
 By providing us with your personal information and your permission to share your personal information with our clients, Aberdeen makes available to you comprehensive, industry-leading research products. If you do not want your personal information shared with others, do not use our website products or services. If you do not want your personal information shared with others but still wish to access Aberdeen research content, you may purchase such content directly from Account Services as explained below. Your privacy and marketing preferences are important to us and this statement is intended to provide you with notice regarding the information we collect in connection with our websites, the fair information practice principles which govern our use of such information and the choices available to you regarding our use of your personal information.
 
-We are committed to honoring your privacy and marketing preferences. It is our policy and practice to conform our business practices to the various laws and regulations that govern our business, privacy and information security practices. We implement controls within our business to adhere to generally accepted privacy principles and other self-regulatory efforts designed to support individual choice and protect privacy and business innovation. We may collect personal data from Europe and store such information in the United States in accordance with European law. If you choose to visit our website or use our applications, your actions are subject to this privacy statement and all applicable [Terms of Use](https://web.archive.org/web/20151231000802id_/http%3A//www.aberdeen.com/_aberdeen/app/terms-revised.aspx).
+We are committed to honoring your privacy and marketing preferences. It is our policy and practice to conform our business practices to the various laws and regulations that govern our business, privacy and information security practices. We implement controls within our business to adhere to generally accepted privacy principles and other self-regulatory efforts designed to support individual choice and protect privacy and business innovation. We may collect personal data from Europe and store such information in the United States in accordance with European law. If you choose to visit our website or use our applications, your actions are subject to this privacy statement and all applicable [Terms of Use](https://web.archive.org/web/20160627022614id_/http%3A//www.aberdeen.com/_aberdeen/app/terms-revised.aspx).
 
   
 
@@ -60,7 +60,7 @@ We may supplement information about you with information obtained from other sou
 
 ## User Contributed Content
 
-Our websites may offer you with opportunities to contribute content for the exchange of information and opinions through, among other tools, blogs or comments on our website our websites own by other parties. For example, we may facilitate the comments or opinions you wish to express through various social websites. You should note that these tools are not designed to support sensitive personal information and you should carefully consider that any personally identifiable information you include within such comments or opinions through these tools will be available and visible to others. Contributed content and the use such tools in relation to Aberdeen websites, is subject to the "Communication Services; User Contributions" section as stated in our [Terms of Use](https://web.archive.org/web/20151231000802id_/http%3A//www.aberdeen.com/_aberdeen/app/terms-revised.aspx). Aberdeen is not responsible for contributed content, the tools specific to the websites of other parties, or the use of third party tools made available to you on our website.
+Our websites may offer you with opportunities to contribute content for the exchange of information and opinions through, among other tools, blogs or comments on our website our websites own by other parties. For example, we may facilitate the comments or opinions you wish to express through various social websites. You should note that these tools are not designed to support sensitive personal information and you should carefully consider that any personally identifiable information you include within such comments or opinions through these tools will be available and visible to others. Contributed content and the use such tools in relation to Aberdeen websites, is subject to the "Communication Services; User Contributions" section as stated in our [Terms of Use](https://web.archive.org/web/20160627022614id_/http%3A//www.aberdeen.com/_aberdeen/app/terms-revised.aspx). Aberdeen is not responsible for contributed content, the tools specific to the websites of other parties, or the use of third party tools made available to you on our website.
 
   
 
@@ -108,10 +108,10 @@ To change your subscription preferences, modify your account information, exerci
 
 **Account Services** Phone: 800-577-7891   
 Fax: 617-723-7897  
-Email: [member.services@aberdeen.com](https://web.archive.org/web/20151231000802id_/http%3A//www.aberdeen.com/_aberdeen/app/member.services@aberdeen.com)
+Email: [member.services@aberdeen.com](https://web.archive.org/web/20160627022614id_/http%3A//www.aberdeen.com/_aberdeen/app/member.services@aberdeen.com)
 
 ## Privacy Statement Updates
 
-This privacy statement (like the website Terms of Use) may be updated periodically. We encourage you to re-visit this statement from time to time to check for updates. If you have any questions or concerns about our privacy practices, please contact us. Click [here](https://web.archive.org/web/20151231000802id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-comparison.aspx) to view the comparison of our previous Privacy Statement.
+This privacy statement (like the website Terms of Use) may be updated periodically. We encourage you to re-visit this statement from time to time to check for updates. If you have any questions or concerns about our privacy practices, please contact us. Click [here](https://web.archive.org/web/20160627022614id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-comparison.aspx) to view the comparison of our previous Privacy Statement.
 
 **Last Updated: August 2015**
