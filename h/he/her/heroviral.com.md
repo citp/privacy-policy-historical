@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroviral.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208055501id_/http%3A//www.heroviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroviral.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627153502id_/http%3A//www.heroviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HeroViral
 
