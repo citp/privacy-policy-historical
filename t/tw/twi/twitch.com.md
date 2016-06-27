@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitch.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219043839id_/http%3A//www.twitch.tv/user/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitch.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120235id_/https%3A//www.twitch.tv/user/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Twitch
 
