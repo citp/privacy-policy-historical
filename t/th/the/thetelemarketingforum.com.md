@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetelemarketingforum.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203091305id_/http%3A//www.safesoftsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelemarketingforum.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627050958id_/http%3A//www.safesoftsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - safesoftsolutions
+# Privacy Policy - SafeSoft Solutions
 
 ### Privacy Policy
 
