@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221013509id_/http%3A//sweepstakesalerts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakesalerts.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627155747id_/http%3A//sweepstakesalerts.com/privacy) for the most accurate reproduction.*
 
 # SweepstakesAlerts.com - Privacy Policy
 
@@ -65,6 +65,8 @@ We may also share your information with affiliated and non-affiliated third-part
 SweepstakesAlerts.com may also disclose Information when it determines it is necessary to comply with applicable laws or regulations, in connection with a merger, acquisition, asset purchase or sale of or by SweepstakesAlerts.com, or to protect the interests or safety of SweepstakesAlerts.com, its customers, or other visitors to the Site.
 
 SweepstakesAlerts.com may share information to respond to subpoenas, court order, or legal process, or to establish or exercise it legal rights or defend against legal claims. We will transfer Information about you if SweepstakesAlerts.com is acquired by or merged with another company. 
+
+This website uses Pollfish web plugin. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones and website owners in order to have access to users of such applications/websites and address survey questionnaires to them. This website uses and enables Pollfish cookies. When a user connects to this website, Pollfish detects whether the user is eligible for a survey. Data collected by Pollfish will be associated with your answers to the questionnaires whenever Pollfish sents such questionnaires to eligible users. For a full list of data received by Pollfish through this website, please read carefully Pollfish respondent terms located at https://www.pollfish.com/terms/respondent. By using this website you accept this privacy policy document and you hereby give your explicit consent for the placement of a Pollfish cookie in your system and the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website or by disabling “third party cookies” from your browser’s settings. We once more invite you to check the Pollfish respondent’s terms of use, if you wish to have more detailed view of the way Pollfish works works. APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THIS CONTEST/DRAW. NO APPLE PRODUCTS ARE BEING USED AS PRIZES. 
 
 ## Opting Out from Offers from SweepstakesAlerts.com.
 
