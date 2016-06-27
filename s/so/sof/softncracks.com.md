@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203192148id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140434id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy l SoftnCracks.com
 
 [   
-**Privacy Policy**](http://livedownblue.com/download/getfile/9490000/0/?q=Privacy%20Policy%20rel=)
+**Privacy Policy**](http://tfp.sapphirum.com/ref?k=3e49655e6bbbe8841fe79334814fec51&q=Privacy%20Policy%20rel=)
 
 This Privacy Policy governs the manner in which softncracks.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://softncracks.com/>website (“Site”).
 
@@ -69,5 +69,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on June 01, 2015
 
 [   
-**Privacy Policy**](http://livedownblue.com/download/getfile/9490000/0/?q=Privacy%20Policy%20rel=)  
+**Privacy Policy**](http://tfp.sapphirum.com/ref?k=3e49655e6bbbe8841fe79334814fec51&q=Privacy%20Policy%20rel=)  
 
