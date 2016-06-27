@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221143010id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627214727id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - Flaticon
 
 ### January 2015
 
-The website located at the addresses http://www.Flaticon.com and http://www.Flaticon.es, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at C/ Molina Lario 13 Planta 5, 29015 Málaga, España. This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services'). The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly. Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy. Likewise, the Conditions apply to the access, use and Services of the Website.
+The website located at the addresses http://www.flaticon.com and http://www.flaticon.es, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at C/ Molina Lario 13 Planta 5, 29015 Málaga, España. This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services'). The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly. Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy. Likewise, the Conditions apply to the access, use and Services of the Website.
 
 ### HOW Flaticon USES PERSONAL INFORMATION
 
@@ -102,6 +102,7 @@ sponsor_coupon | www.flaticon.com
 uftid | .freepik.com  
 vblastactivity | .statcounter.com  
 Local Storage  
+---  
 current  
 fi  
 logged_data  
