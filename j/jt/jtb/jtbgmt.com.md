@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221234723id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627105851id_/http%3A//www.jtbgmt.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leading Japan Tours and Travel Management | JTBGMT
 
@@ -57,7 +57,7 @@ JTBGMT does not collect, use or provide information to third parties on politica
   * JTBGMT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.
 
 
-  * JTBGMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
+  * JTBGMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure. Please confirm Article9 (COOKIES) about the information on which the third parties can acquire via the advertisements posted on JTB GMT’s website or e-mails distributed by JTB GMT.
 
 
 
@@ -95,6 +95,7 @@ JTBGMT handles the collection and use of customer personal information as follow
   * JTB Okinawa Corp.
   * i.JTB Corp.
   * JTB Asia Tourist Corp.
+  * JTB Japan Travel Corp.
 
 
 
@@ -210,9 +211,17 @@ Travel Plaza International, Inc.
 
 2-1-9 Tomioka, Koto-ku, Tokyo  
   
+JTB Japan Travel Corp.
+
+| 
+
+2-3-1, Higasishinagawa, Shinagawa-ku  
+  
 ### **9\. Cookies**
 
 The JTB GMT website uses “cookies” to provide better service and ensure security. Cookies are data files that are stored by websites on customer computers and can be read when the customer visits the site at a later date. Individual cookies can only be read by the website that created them. JTB GMT uses cookies for many website management purposes. For instance, to record the types of information requested by customers and to use that information to automatically fill in fields when the customer visits the site. Most cookies are used only for a single session or visit to the site. They do not contain any information that would allow anybody to contact the customer such as phone numbers, e-mail addresses, or mail addresses. Customers can set their browser to inform them of the placement of cookies or to not permit the placement of any cookies.
+
+JTB GMT distributes advertisement requested to post by the third parties on its websites or e-mails. In such cases advertisers can acquire the facts the Customer has accessed to our websites, the fact the Customer has browsed e mails distributed by JTB GMT, the clicking date to the advertisement and any other information, since the advertisers use cookies in the ads Such information can be related to the Customer’s personal information if the Customers provide its personal information to the advertiser otherwise on deals such as shopping.
 
 ### **10\. Inquiries, Release, Deletion, and Correction of Customer Personal Information**
 
