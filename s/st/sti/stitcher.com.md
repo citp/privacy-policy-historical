@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115022823id_/http%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140608id_/https%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
 
 # Stitcher Radio | Privacy Statement
 
@@ -55,4 +55,4 @@ We do not seek or knowingly collect any Personal Information about children unde
 
 This Privacy Policy and the privacy practices of Stitcher will be subject exclusively to the laws of California, without regard to its conflict of law principles. Stitcher makes no representation that this Privacy Policy and such practices comply with the laws of any country outside the United States. 
 
-Should you have any questions relating to this Privacy Policy, please contact us at [support@stitcher.com](mailto:support@stitcher.com). You may also contact us by mail: Stitcher, Inc., 121 2nd St., Suite 600, San Francisco, CA 94105. 
+Should you have any questions relating to this Privacy Policy, please contact us at [support@stitcher.com](mailto:support@stitcher.com). You may also contact us by mail: Stitcher, Inc., 527 Howard St. 4th Floor San Francisco CA 94105. 
