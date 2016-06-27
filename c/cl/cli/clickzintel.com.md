@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the clickzintel.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210084810id_/http%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickzintel.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627152051id_/http%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClickZ
 
 **1\. INTRODUCTION**  
-ClickZ Group Limited and all companies within its Group ("ClickZ Group" or "We") are committed to protecting and respecting your privacy.
+ClickZ Group Limited and all companies within its Group (“ClickZ Group” or “We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20151210084810id_/http%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20160627152051id_/http%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 ("the Act"), the data controller is ClickZ Group Limited of 1 Hammersmith Broadway, London, W6 9DL.
+For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is ClickZ Group Limited of 1 Hammersmith Broadway, London, W6 9DL.
 
 **2\. INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (" **our sites** "). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (“ **our sites** “). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -21,10 +21,10 @@ We may collect and process the following data about you:
 
 
 **3\. IP ADDRESSES**  
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
 **4\. COOKIES**  
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
 
   * Strictly necessary
   * Performance
@@ -34,7 +34,7 @@ For the same reason, we may obtain information about your general internet usage
 
 
 _Strictly Necessary_  
-'Strictly Necessary' cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet. Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won't be able to ensure your security or predict how our website will perform during your visit.
+‘Strictly Necessary’ cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don’t gather any information about you that could be used for marketing or remembering where you’ve been on the internet. Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won’t be able to ensure your security or predict how our website will perform during your visit.
 
 An examples of a strictly necessary cookie that we use is: Kreatio_session
 
@@ -43,7 +43,7 @@ This type of cookie collects information about how you use our website e.g. whic
 An example of a performance cookie is: Kreatio_session
 
 _Functionality_  
-This type of cookie remembers your preferences for tools found on our websites, so you don't have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first.  
+This type of cookie remembers your preferences for tools found on our websites, so you don’t have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first.  
 An example is: __utmz
 
 _Targeting_  
@@ -57,17 +57,17 @@ You can block cookies by activating the setting on your browser which allows you
 Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
 
 **5\. WHERE WE STORE YOUR PERSONAL DATA**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.  
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 **6\. USES MADE OF THE INFORMATION**  
 We use information held about you in the following ways:
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To ensure that content from our sites is presented in the most effective manner for you and for your computer.
   * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
   * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To allow you to participate in interactive features of our services, when you choose to do so.
   * To notify you about changes to our service.
 
 
@@ -78,7 +78,9 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted.
+If you are an event attendee, your job title and organisation will be included on a delegate list, which will be available to all attendees at the event. Your information will be shared with event sponsors/partners if a) you attend a session given by a sponsor /partner and/or b) your badge is scanned by a sponsor. This will enable them to follow up with presentations or relevant information on products or services which they believe may be of interest to you.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, email info@clickz.com if you do not wish for your details to be made available to carefully chosen companies.
 
 **7\. DISCLOSURE OF YOUR INFORMATION**  
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal information to third parties:
@@ -86,7 +88,7 @@ We may disclose your personal information to any member of our group, which mean
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If ClickZ Group or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our  
-View our [terms and conditions of use](https://web.archive.org/web/20151210084810id_/http%3A/static/terms-conditions/) and other agreements; or to protect the rights, property, or safety of ClickZ Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+View our [terms and conditions of use](https://web.archive.org/web/20160627152051id_/http%3A/static/terms-conditions/) and other agreements; or to protect the rights, property, or safety of ClickZ Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
