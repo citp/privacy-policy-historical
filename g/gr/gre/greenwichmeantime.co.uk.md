@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the greenwichmeantime.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211055051id_/http%3A//wwp.greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichmeantime.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627194735id_/http%3A//wwp.greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
 
-# GMT: Greenwich Mean Time - World Time / Time in every Time Zone
-
-We use cookies to maintain our site and for behavioural advertising. I agree [More information](https://web.archive.org/privacy-and-cookies.htm "Read our cookie and privacy policy")
+# GMT: Greenwich Mean Time - World Time / Time in every Time Zone | Greenwich Mean Time
 
   * [Home](https://web.archive.org/)
-  * [> Privacy And Cookies](https://web.archive.org/privacy-and-cookies.htm)
+  * [ Privacy And Cookies](https://web.archive.org/privacy-and-cookies.htm/ " Privacy And Cookies")
 
 
 
-**Effective Date: 26 October 2015**
+**Effective Date: 21 May 2015**
 
   1. **Who are we?**
     1. We are Greenwich 2000 Limited. We own and operate this site. Our contact details are on the site. Please contact us if you have any questions or feedback about this policy.
@@ -43,10 +41,11 @@ We use cookies to maintain our site and for behavioural advertising. I agree [Mo
         2. **_Google advertising cookies (AdSense, Doubleclick)_** **:**  Google uses cookies in connection with Google advertising on our website to serve ads to you based on your visits to this and other websites, to avoid showing you repeat ads and for various other purposes.
         3. **_GA Advertising Features:_** We may use the following GA Advertising Features: Remarketing with GA / Google Display Network Impression Reporting / GA Demographics and Interest Reporting / Integrated services that require GA to collect data via advertising cookies and anonymous identifiers. These features involve GA collecting data via Google or other advertising cookies including for display of ads which may be of interest based on your visits to this and other sites. You can specifically opt out of GA [here](https://tools.google.com/dlpage/gaoptout/). See below (and above) for other opt out routes. 
         4. **_More information and opt out:_** Click [here](http://www.google.com/policies/privacy/) for Google’s privacy policy and [here](https://www.google.co.uk/policies/technologies/types/) for more information about the kinds of cookies placed by Google. Click [here](http://www.google.com/intl/en/policies/privacy/partners/) for information about how Google uses data from its partners’ sites or apps as well as how to opt out of Google cookies.
+        5. **_Google Maps API:_** We use this API to provide maps and convert place names to latitude/longitude which are governed by [Google's Privacy Policy](https://www.google.com/policies/privacy).
       5. **_Dstillery advertising cookies:_** Dstillery places third party advertising cookies on our site. Click [here](http://dstillery.com/privacy-policy/) for more information and to opt out.
       6. **_Analytics cookies:_** Our site also uses analytics cookies placed by [Drawbrid.ge](http://www.drawbrid.ge/privacy) (opt out [here](http://www.drawbrid.ge/optout)), [Datalogix](https://www.datalogix.com/privacy/)  (includes opt out) and [Scorecard](http://www.scorecardresearch.com/privacy.aspx) (includes opt out).
       7. **_Twitter cookies:_** Twitter places persistent cookies (up to two years) to facilitate tweets relating to our site. Click [here](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies) for more information.
-      8. **_Cookie warning cookie:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the site. This persistent cookie will remember your preference for up to two years.  
+      8. **_Cookie warning cookie:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the site. This persistent cookie will remember your preference for up to two years.
     4. By continuing to use our site, having seen our cookie notice, we assume that you consent to use of the cookies outlined above.  
 
 
@@ -80,4 +79,11 @@ We use cookies to maintain our site and for behavioural advertising. I agree [Mo
 
 
 
-Version 5
+Version 6
+
+  
+
+
+* * *
+
+* * *
