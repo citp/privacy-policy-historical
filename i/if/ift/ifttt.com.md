@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220704id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120522id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IFTTT
 
