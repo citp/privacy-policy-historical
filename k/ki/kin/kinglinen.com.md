@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052512id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627162253id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -92,7 +92,7 @@ We will retain your information for as long as your account is active or as need
 
 **Last Update**
 
-The Privacy Policy contained herein was last updated  on March 20th, 2013. 
+The Privacy Policy contained herein was last updated  on March 20th, 2015. 
 
 **Address**
 
