@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217205120id_/http%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkingcreditcard.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628005757id_/http%3A//checkingcreditcard.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Checking Credit Card
 
@@ -11,8 +11,9 @@ Our users are free to visit and enjoy our content at no personal obligation; use
 
 2\. To third party service providers we have partnered with so we may provide services our users requested
 
-3\. Following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+3\. Following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)​
 
 **Cookies**  
 To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.  
