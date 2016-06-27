@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freezetheme.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028152141id_/http%3A//www.freezetheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezetheme.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627183744id_/http%3A//www.freezetheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Download Premium Wordpress, Joomla themes plugins | FreezeTheme
 
