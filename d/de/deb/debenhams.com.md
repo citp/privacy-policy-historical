@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debenhams.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225215152id_/http%3A//www.debenhams.com/wcsstore/DebenhamsUKSite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debenhams.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627144841id_/http%3A//www.debenhams.com/wcsstore/DebenhamsUKSite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Debenhams - Help
 
@@ -12,7 +12,7 @@ We respect your right to privacy and are committed to maintaining it. We only co
 
 Information that you have provided to us including but not limited to when you:
 
-  * purchase products through the Website, over the phone, through store kiosks and/or store till points
+  * purchase products through the Website, over the phone and/or through store kiosks
   * submit rate and reviews
   * use Debenhams applications on Facebook
   * use the Debenhams mobile shopping application
@@ -59,7 +59,6 @@ To provide you with the requested goods and/or services including but not limite
   * In the detection and prevention of fraud or other crimes.
   * To assist with any of your customer queries
   * For research, analysis, risk management, legal, accounting, administrative, testing, monitoring and for our business operations.
-  * To provide an e-Receipt for a store purchase.
 
 
 
