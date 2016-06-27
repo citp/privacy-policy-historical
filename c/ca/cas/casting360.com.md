@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124231954id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casting360.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627163316id_/http%3A//casting360.com/privacy-policy) for the most accurate reproduction.*
 
 # Open casting calls, modeling, singing, acting, dancing auditions on Casting360
 
