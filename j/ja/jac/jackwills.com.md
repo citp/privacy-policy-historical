@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208204217id_/http%3A//www.jackwills.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627170452id_/http%3A//www.jackwills.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jack Wills
 
@@ -18,7 +18,7 @@ When you register, we will provide a link to the Privacy Policy and consent butt
 
 At all times, we will offer you the opportunity to opt-out of any service to which you have subscribed. Any e-mail we send you will contain an easy automated opt-out link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. It is not the Company's current policy to share its customers' personal details with third parties other than as stated herein.
 
-Should you choose to have your name and personal data removed from our database all together, you can do so by sending an email to **[jack@jackwills.com](mailto:jack@jackwills.com)[](mailto:customerservices@jackwills.com)** or by writing to us at:
+Should you choose to have your name and personal data removed from our database all together, you can do so by sending an email to **[jack@jackwills.com](mailto:jack@jackwills.com)** or by writing to us at:
 
   * Jack Wills (handbook opt out):
   * Unit 4 Greenford Park
@@ -47,3 +47,7 @@ We will only collect personally identifiable information to the extent deemed re
 ## Your consent
 
 By visiting jackwills.com, you are accepting and consenting to the practices described in this Privacy Policy and the Terms and Conditions.
+
+## Criteo
+
+Your browser blocks some third party cookie by default. By clicking on this page you allow our partner criteo toplace it's cookies and serve personalised ads. You can read more or disable criteo ads [here](http://info.criteo.com/privacy/cookiecontrol/?src=pre&partnerids=15574).
