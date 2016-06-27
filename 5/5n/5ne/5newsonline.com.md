@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5newsonline.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219162735id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5newsonline.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120453id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
 
 # Privacy Policy - Tribune - privacy.tribune.com
 
