@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050532id_/https%3A//www.iis.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627123610id_/https%3A//www.iis.net/privacy) for the most accurate reproduction.*
 
-# IIS.NET Privacy Statement : The Official Microsoft IIS Site
+# Privacy Statement : The Official Microsoft IIS Site
 
 Last updated: **_June 2015_**
 
