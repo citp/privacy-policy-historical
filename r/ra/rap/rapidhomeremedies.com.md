@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidhomeremedies.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034504id_/http%3A//www.rapidhomeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidhomeremedies.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627201928id_/http%3A//www.rapidhomeremedies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rapid Home Remedies
+# Privacy Policy - Rapid Home Remedies
 
 At http://www.rapidhomeremedies.com/, we always safe keep the privacy of our visitors. This Privacy Policy document relates to the kind of personal information received and collected by http://www.rapidhomeremedies.com/ and its uses.
 
