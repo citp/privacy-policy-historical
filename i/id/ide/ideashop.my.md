@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideashop.my privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706222415id_/http%3A//www.ideashop.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideashop.my privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132015id_/http%3A//www.ideashop.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ Our website may contain links to other websites of interest. However, once you h
 Controlling your personal information  
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at ideashop.my@gmail.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@ideashop.my
 
 
 
