@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016074404id_/http%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627213312id_/http%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
 
 # Time & Expense Tracking Software | Privacy | ClickTime Web Timesheet
 
