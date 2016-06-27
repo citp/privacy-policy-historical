@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentpremiere.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217125727id_/http%3A//www.entertainmentpremiere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentpremiere.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627054159id_/http%3A//www.entertainmentpremiere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EntertainmentPremiere
 
