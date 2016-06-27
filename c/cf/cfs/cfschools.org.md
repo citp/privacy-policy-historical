@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfschools.org privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502122756id_/http%3A//www.cedar-falls.k12.ia.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfschools.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627063231id_/http%3A//www.cfschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Cedar Falls Community School District - Privacy Policy
 
