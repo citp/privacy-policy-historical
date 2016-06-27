@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190041id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627142418id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MediaMath
 
@@ -20,6 +20,9 @@ MediaMath complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Ha
 
 MediaMath is an active member of the industry associations that govern the policies around online consumer privacy, including: the Interactive Advertising Bureau (IAB) in Australia, Brazil, Canada, Europe, Italy, Mexico, Singapore, the US and the UK; the Digital Advertising Alliance (DAA) in the US, EU, and Canada; and the Network Advertising Initiative (NAI) ([www.networkadvertising.org](http://www.networkadvertising.org/)). MediaMath complies with the DAA Self-Regulatory Principles for Online Behavioral Advertising and their Application to the Mobile Environment, and the 2015 NAI Code of Conduct. We believe that these programs’ principles help protect and ensure individual consumer privacy.
 
+[](http://www.networkadvertising.org/) | [](http://www.iab.net/)   | [](http://thedma.org/)   | [](http://www.edaa.eu/participating-companies/)   | [](http://www.youradchoices.com/)   | [](https://www.tagtoday.net/)  
+---|---|---|---|---|---  
+  
 #### **Platform Data Collection and Use**
 
 At MediaMath, we think it’s important to provide transparency so that you have a better idea of which data we might collect and can make informed decisions.
