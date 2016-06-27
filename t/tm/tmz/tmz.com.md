@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229083603id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628001212id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY CENTER: WB Privacy Policy - WarnerBros.com - The Studio
 
-[PRINT](http://www.warnerbros.com/print/14276 "Display a printer-friendly version of this page.")
-
 PRIVACY CENTER: WB Privacy Policy
 
- **Scope of Privacy Policy**  
+**Scope of Privacy Policy**  
 Your privacy is important to us. This notice provides highlights of Warner Bros. Entertainment Inc.'s ("WBEI", "we," "our," "us") Privacy Policy. Our full Privacy Policy applies to WBEI Web sites ("Site" or "Sites") and services that display or link to this policy. To review our children's privacy practices, please view our Additional information regarding children.   
-WBEI's Full Privacy Policythis is new
+WBEI's Full Privacy Policy
 
 **INFORMATION COLLECTION**
 
@@ -41,8 +39,6 @@ Additional Information
 
 
 
-| 
-
 **YOUR CHOICES**
 
   * If you decide you no longer want to receive our promotional e-mails, simply follow the instructions in that e-mail.
@@ -70,10 +66,8 @@ Additional Information
 
 **HOW TO CONTACT US**
 
-For more information about our privacy practices, go to our full WBEI Privacy Policy, write us using our [Web form](https://web.archive.org/help/customer-service) or send an email to [privacy@wb.com](mailto:privacy@wb.com)  
-  
----|---  
-  
+For more information about our privacy practices, go to our full WBEI Privacy Policy, write us using our [Web form](https://web.archive.org/help/customer-service) or send an email to [privacy@wb.com](mailto:privacy@wb.com)
+
 **THE ENTIRE WB PRIVACY POLICY**  
 Updated: January 6, 2014
 
