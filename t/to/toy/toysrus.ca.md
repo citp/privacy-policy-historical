@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222130714id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627224627id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -134,4 +134,6 @@ The Website Use Agreement governing your use of this website (which may be viewe
 
 _Effective Date of Privacy Policy: August, 2007_
 
-© 2015 Toys"R"Us (Canada) Ltd. All Rights Reserved. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
+Toys"R"Us (Canada) Ltd. 2777 Langstaff Road, Concord ON L4K 4M5, Tel: 1 800 TOYSRUS, Email: [Canada@cust-help-us.com](mailto:Canada@cust-help-us.com)
+
+© 2016 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
