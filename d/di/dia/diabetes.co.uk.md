@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126060549id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627022422id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
-**DIABETES DIGITAL MEDIA LIMITED** ("We”, “Us”, “Our") are committed to protecting and respecting your privacy.
+**Diabetes Digital Media Ltd** ("We”, “Us”, “Our") are committed to protecting and respecting your privacy.
 
-This privacy policy (“Privacy Policy”) (together with our [Terms and Conditions](https://web.archive.org/web/20151126060549id_/http%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to) sets out the basis on which any personal data we collect from you (whether sensitive personal data or otherwise) (“Personal Data”), or that you provide to us, via our website www.diabetes.co.uk (“Website”) and all branded pages on third party platforms (such as Facebook or YouTube) (insofar as they are applicable), will be processed by us. 
+Engaging with each other and sharing health experiences and outcomes is improving real-world health. Why? Well, by sharing real-world data, change becomes possible.
+
+Of course, we have a privacy policy. However, our philosophy is open and transparent. Real-world data is innovating healthcare, and we're proud to be part of that innovation.
+
+You may also want to read [our mission](https://web.archive.org/web/20160627022422id_/http%3A//www.diabetes.co.uk/our-mission.html).
+
+This privacy policy (“Privacy Policy”) (together with our [Terms and Conditions](https://web.archive.org/web/20160627022422id_/http%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to) sets out the basis on which any personal data we collect from you (whether sensitive personal data or otherwise) (“Personal Data”), or that you provide to us, via our website www.diabetes.co.uk (“Website”) and all branded pages on third party platforms (such as Facebook or YouTube) (insofar as they are applicable), will be processed by us. 
 
 **Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Diabetes Digital Media Limited of Dotcom House, Broomfield Place, Earlsdon, Coventry, West Midlands CV5 6GY, with registration number Z3613413. 
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Diabetes Digital Media Limited of Technology House, Sir William Lyons Road, University of Warwick Science Park, Coventry, CV4 7EZ, with registration number Z3613413. 
 
 ## 1\. Information We May Collect From You
 
 **1.1** We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, for the purchase of products and/or use of our services, posting material, raising quotes or general enquiries, completing an offer submission, entering a competition or requesting further services. We may also ask you for information when you report a problem with our Website or regarding the products and services provided by us.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, for the purchase of products and/or use of our services, posting material, reviewing Products, raising quotes or general enquiries, completing an offer submission, entering a competition or requesting further services. We may also ask you for information when you report a problem with our Website or regarding the products and services provided by us.
   * Sensitive personal data concerning health matters from or about you if you disclose such information on our Website (via the Diabetes Forums, myLifestyle, the Diabetes App, when registering to take part in clinical trials, making enquiries or otherwise). 
   * If you contact us, we may keep a record of that correspondence and/or any video or audio uploads or telephone calls.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
@@ -62,7 +68,7 @@ You should be aware that information captured via our Website may be viewed by o
   * in accordance with the law;
   * compliance with the direction of any regulatory or governing bodies; 
   * for the purposes of preventing injury or harm to you as the data subject; or 
-  * when registering to take part in clinical trials, to the responsible clinical research organisation(s). 
+  * when registering to receive services or take part in clinical trials/surveys, to the responsible organisation(s). 
 
 
 
@@ -89,8 +95,8 @@ You should be aware that information captured via our Website may be viewed by o
 
   * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others; 
   * analytics and search engine providers that assist us in the improvement and optimisation of our Website; or
-  * pharmaceutical research organisations.  
-Please note, we do not disclose information about identifiable individuals to such third parties, but we may provide them with aggregate information about our users.   
+  * research organisations.  
+Please note, we do not disclose information about identifiable individuals to such third parties, but we may provide them with aggregate information about our users (anonymous and aggregated).   
 
 
 
@@ -98,9 +104,10 @@ Please note, we do not disclose information about identifiable individuals to su
 **8.2** We may disclose your personal information to third parties:
 
   * including business partners or suppliers for the performance of any contract we enter into with you strictly as is necessary to provide you with the products or services that you request from us; 
+  * in registering for the Diabetes.co.uk Prescription Service (DCUK+), Diabetes.co.uk will share that information once, to Pharmacy2U for that the purpose of Pharmacy2U providing the Prescription Services and Diabetes.co.uk will not store or use that information for any other purpose;
   * in the event that you register to take part in a clinical trial, in such circumstances we will only provide your personal information to the responsible clinical research organisation(s);
   * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/web/20151126060549id_/http%3A//www.diabetes.co.uk/disclaimer.html) and other agreements; 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/web/20160627022422id_/http%3A//www.diabetes.co.uk/disclaimer.html) and other agreements; 
   * or to protect the rights, property, or safety of Diabetes Digital Media Limited, our customers, or others (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction);
   * for the prevention of crime, in accordance with the law, regulatory or governing body, for the purposes of preventing injury or harm to the data subject; or
   * otherwise in accordance with this Privacy Policy. 
@@ -128,7 +135,7 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
 
 ## 1\. Our Use of Cookies
 
-**1.1** www.diabetes.co.uk (the “Website”) uses cookies, which are small text files stored on a user’s computer by their web browser. DIGITAL DIABETES MEDIA LIMITED (“We”, “Us”, “Our”) uses cookies to store information about your preferences, speed up your searches, recognise you when you return to our Website and estimate our audience size and usage pattern (and branded pages on third party platforms (such as Facebook or YouTube)). For details on the specific categories of our cookies and what they are used for please see below.
+**1.1** www.diabetes.co.uk (the “Website”) uses cookies, which are small text files stored on a user’s computer by their web browser. DIABETES DIGITAL MEDIA LIMITED (“We”, “Us”, “Our”) uses cookies to store information about your preferences, speed up your searches, recognise you when you return to our Website and estimate our audience size and usage pattern (and branded pages on third party platforms (such as Facebook or YouTube)). For details on the specific categories of our cookies and what they are used for please see below.
 
 **1.2** You may delete and block all cookies from our Website by changing your browser settings to refuse the setting of all or some cookies. Making this change may affect the functionality of our Website and you may not be able to access all or parts of the Website.
 
