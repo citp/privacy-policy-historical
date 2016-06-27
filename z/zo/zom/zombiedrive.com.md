@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zombiedrive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144335id_/http%3A//zombiedrive.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zombiedrive.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627070310id_/http%3A//zombdrive.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
@@ -6,14 +6,14 @@
 
 1\. We collect
 
-Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to http://zombiedrive.com. It also includes the data about your Windows and the language you are using.
+Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to http://zombdrive.com. It also includes the data about your Windows and the language you are using.
 
 2\. Cookies
 
 Cookies are used to store your personal information while you are on the site and this also incresaes the security.  
 This doesn't take much of your time as only one pop-up launches every time you come to the website.
 
-Some third party advertisements are also used to support our website http://zombiedrive.com financially.   
+Some third party advertisements are also used to support our website http://zombdrive.com financially.   
 Some advertisers may also use different technologies such as cookies and web beacons while they advertise on our site . This also sends these advertisers(such as Google through the Google AdSense account) some information which includes your IP, ISP and the version and name of the browser you've installed, and in some cases, the version of flash you've installed. The purpose of this is to achieve geotargeting (showing London real estate ads to someone in London, for example) or to show specific ads such as showing sports ads to someone who frequently visits sports websites. 
 
 3\. DoubleClick Cookies
