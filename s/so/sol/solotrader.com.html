@@ -1,428 +1,538 @@
-<!--The following is the downloaded HTML source of the solotrader.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231112131id_/http%3A//www.solotrader.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solotrader.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627035706id_/http%3A//www.solotrader.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SoloTrader | Privacy Policy</title>
-    <link rel="shortcut icon" type="http://www.solotrader.com/assets/image/x-icon" href="http://www.solotrader.com/assets/images/solotrader-logo.ico">
-    <link rel="stylesheet" href="http://www.solotrader.com/assets/css/style.css">
-    <link rel="stylesheet" href="http://www.solotrader.com/assets/css/icons.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.solotrader.com/assets/js/jquery-1.11.1.min.js"></script>
-    <script type="text/javascript" src="http://www.solotrader.com/assets/js/jquery-script-01.js"></script>
-    <!-- MARKET OPEN/CLOSE COUNTER START -->
-    <link rel="stylesheet" href="http://www.solotrader.com/assets/css/jquery.countdown.css">
-    <script type="text/javascript" src="http://www.solotrader.com/assets/js/jquery-clock.js"></script>
-    <script type="text/javascript">
-        $(function () {
-
-            $('#newyork').clock({offset: '-4', type: 'digital'});
-            $('#london').clock({offset: '0', type: 'digital'});
-            $('#tokyo').clock({offset: '9', type: 'digital'});
-            $('#sydney').clock({offset: '11', type: 'digital'});
-            $('#moscow').clock({offset: '3', type: 'digital'});
-
-            $('#newyork-02').clock({offset: '-4', type: 'digital'});
-            $('#london-02').clock({offset: '0', type: 'digital'});
-            $('#tokyo-02').clock({offset: '9', type: 'digital'});
-            $('#sydney-02').clock({offset: '11', type: 'digital'});
-            $('#moscow-02').clock({offset: '3', type: 'digital'});
-        });
-    </script>
-    <!-- MARKET OPEN/CLOSE COUNTER END -->
-
-    <!-- SLIDETO SCROLL START -->
-    <script src="http://www.solotrader.com/assets/js/jquery.slideto.min.js" type="text/javascript"></script>
-    <script src="http://www.solotrader.com/assets/js/global.js" type="text/javascript"></script>
-    <script>
-        $(document).ready(function(){
-            $(".backtotop-btn").click(function(){
-                $("body").slideto({highlight: false, offset: -500});
-            });
-        });
-    </script>
-    <!-- SLIDETO SCROLL END -->
-    <!-- GOOGLE RECAPTCHA -->
-    <script src="https://www.google.com/recaptcha/api.js"></script>
-    <!-- SOLOTRADER MAP START -->
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <script>
-        function initialize() {
-            var myLatlng = new google.maps.LatLng(22.279987, 114.179016);
-            var mapOptions = {
-                zoom: 19,
-                center: myLatlng
-            }
-            var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-            var marker = new google.maps.Marker({
-                position: myLatlng,
-                map: map,
-                title: 'Hello World!'
-            });
-        }
-        google.maps.event.addDomListener(window, 'load', initialize);
-    </script>
-    <!-- SOLOTRADER MAP END -->
-
-    <!--    QUOTES START-->
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
-            var intervalOn = setInterval(function() {
-                var base = 'http://www.solotrader.com//';
-                $('div.forex-quotes').load( base +'home/db_only');
-            }, 3000);
-
-            var updateQuotesDB = setInterval(function() {
-                var base = 'http://www.solotrader.com//';
-                var quotes = $('div.forex-quotes').load( base +'home/newQuotes');
-            }, 10000);
-        });
-    </script>
-    <!--    QUOTES END-->
+    <!-- core CSS -->
+    <link href="http://www.solotrader.com/assets/version-2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/animate.min.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/prettyPhoto.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/style.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/responsive.css" rel="stylesheet">
+    <link href="http://www.solotrader.com/assets/version-2/css/custom.css" rel="stylesheet">
+<!--    <script src="--><!--html5shiv.js"></script>-->
+<!--    <script src="--><!--respond.min.js"></script>-->
+    <link rel="shortcut icon" href="http://www.solotrader.com/assets/version-2/images/ico/favicon.ico">
+        <!-- MARKET OPEN/CLOSE COUNTER START -->
+</head>
+<body id="body_back_to_top" class="homepage">
 <style>
-    div#sydney-02, div#london-02, div#london-02,div#moscow-02,div#newyork-02,div#tokyo-02{
-        display: block;
-        margin: 5px 5px 0px;
-        max-width: inherit;
-        width: 100%;
-        background: #000 none repeat scroll 0% 0%;
-        border: medium none;
-    }
-    b.countdown > li {list-style-type:none;display:inline; font-size:12px;}
-    b.countdown > span {list-style-type:none;display:inline; font-size:12px;}
-    /*  ERROR   */
-    div.error{  background-color: rgb(240, 216, 216);  margin: 5px;  padding: 5px;  border: 1px solid rgb(255, 163, 163);  border-radius: 3px;  }
-    div.error > p {  color: red;  font-size: 12px;  line-height: 20px !important;  margin: 0;  }
-    li.nav-main-responsive-title{text-transform: capitalize;}
-</style></head>
+    div.hasCountdown{display:inline-block;color:#fff;margin-right:30px;}div.hasCountdown *{font-weight:normal !important;font-size:12px;}.time_zone_div li{margin-right:0px;}
+    .lq_value{font-size:15px;}
+</style>
+<header id="header">
+    <div class="top-bar">
+        <div class="container">
+            <div class="row">
 
-<body>
-<div class="backtotop-btn" title="Back to top"></div>
-<input type="hidden" value="United States">
-<div class="top-maincontainer">
-    <!-- HEADER START -->
-        <div class="top-container">
-            <a href="http://www.solotrader.com/" class="logo"><img src="http://www.solotrader.com/assets/images/solotrader-logo.png" alt=""></a>
-            <div class="header-topright-maincontainer">
-                <div class="countdown-container">
-                    <div id="sydney" class="hasCountdown">
-                        <b>Sydney -</b>
-                        <b class="countdown">
-                            <li class="hour"></li>
-                            <li class="min"></li>
-                            <li class="sec"></li>
-                        </b>
+                <div class="col-sm-10 col-xs-8">
+                    <div class="toggle_sidebar_div">
+                        <span class="timezone_label" data-toggle="collapse" data-target="#time_zone"><i class="fa fa-clock-o" aria-hidden="true"></i> Time Zone</span>
                     </div>
-                    <div id="tokyo" class="hasCountdown">
-                        <b>Tokyo -</b>
-                        <b class="countdown">
-                            <li class="hour"></li>
-                            <li class="min"></li>
-                            <li class="sec"></li>
-                        </b>
+                    <div id="time_zone" class="time_zone">
+                        <ul class="time_zone_div">
+                            <div class="countdown-container">
+                                <div id="sydney" class="hasCountdown">
+                                    <b>Sydney -</b>
+                                    <b class="countdown">
+                                        <li class="hour"></li>
+                                        <li class="min"></li>
+                                        <li class="sec"></li>
+                                    </b>
+                                </div>
+                                <div id="tokyo" class="hasCountdown">
+                                    <b>Tokyo -</b>
+                                    <b class="countdown">
+                                        <li class="hour"></li>
+                                        <li class="min"></li>
+                                        <li class="sec"></li>
+                                    </b>
+                                </div>
+                                <div id="moscow" class="hasCountdown">
+                                    <b>Moscow -</b>
+                                    <b class="countdown">
+                                        <li class="hour"></li>
+                                        <li class="min"></li>
+                                        <li class="sec"></li>
+                                    </b>
+                                </div>
+                                <div id="london" class="hasCountdown">
+                                    <b>London -</b>
+                                    <b class="countdown">
+                                        <li class="hour"></li>
+                                        <li class="min"></li>
+                                        <li class="sec"></li>
+                                    </b>
+                                </div>
+                                <div id="newyork" class="hasCountdown"><b>New York -</b>
+                                    <b class="countdown">
+                                        <li class="hour"></li>
+                                        <li class="min"></li>
+                                        <li class="sec"></li>
+                                    </b>
+                                </div>
+                            </div>
+                        </ul>
+
                     </div>
-                    <div id="moscow" class="hasCountdown">
-                        <b>Moscow -</b>
-                        <b class="countdown">
-                            <li class="hour"></li>
-                            <li class="min"></li>
-                            <li class="sec"></li>
-                        </b>
+                </div>
+
+                <div class="col-sm-2 col-xs-4">
+                    <div class="nav-tabs-custom pull-right">
+                        <!-- Tabs within a box -->
+                                                <ul class="nav nav-tabs flag_nav">
+                            <li class="active"><a id="set_en" href="" title="English"><img src="http://www.solotrader.com/assets/version-2/images/lang_flag/flag-english.png"></a></li>
+                            <li class=""><a id="set_id" href="id/privacy-policy" title="Indonesian"><img src="http://www.solotrader.com/assets/version-2/images/lang_flag/flag-indonesian.png"></a></li>
+                        </ul>
                     </div>
-                    <div id="london" class="hasCountdown">
-                        <b>London -</b>
-                        <b class="countdown">
-                            <li class="hour"></li>
-                            <li class="min"></li>
-                            <li class="sec"></li>
-                        </b>
-                    </div>
-                    <div id="newyork" class="hasCountdown"><b>New York -</b>
-                        <b class="countdown">
-                            <li class="hour"></li>
-                            <li class="min"></li>
-                            <li class="sec"></li>
-                        </b>
-                    </div>
+                </div>
+
+            </div>
+        </div><!--/.container-->
+    </div><!--/.top-bar-->
+
+    <nav class="navbar navbar-inverse" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.solotrader.com/"><img class="img-responsive" src="http://www.solotrader.com/assets/version-2/images/solotrader-logo.png" alt="logo"></a>
+            </div>
+
+            <div class="collapse navbar-collapse navbar-right">
+                <ul class="nav navbar-nav">
+                    <li class=""><a href="http://www.solotrader.com/">Home</a></li>
+
+                    <li class=""><a href="http://www.solotrader.com/about-us">About Us</a></li>
+
+                    <li class="dropdown ">
+                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Products <i class="fa fa-caret-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.solotrader.com/product-overview">Product Overview</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-platform">SoloTrader Desktop Platform</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-web-platform">SoloTrader Web Platform</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-web-chart">SoloTrader Web Chart</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-ios">SoloTrader for iOS</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-mobile">SoloTrader for Android</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-studio">SoloTrader Studio</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown ">
+                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Clients <i class="fa fa-caret-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.solotrader.com/banks">Banks</a></li>
+                            <li><a href="http://www.solotrader.com/brokers">Brokers</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown ">
+                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-caret-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.solotrader.com/bitcoin-exchanges">BitCoin Exchanges</a></li>
+                            <li><a href="http://www.solotrader.com/broker-start-up">Broker Start-up</a></li>
+                            <li><a href="http://www.solotrader.com/consulting-services">Consulting Services</a></li>
+                            <li><a href="http://www.solotrader.com/offers-for-partners">Offers For Partners</a></li>
+                            <li><a href="http://www.solotrader.com/solotrader-prices">SoloTrader Prices</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown ">
+                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Features <i class="fa fa-caret-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.solotrader.com/advantages">Advantages</a></li>
+                            <li><a href="http://www.solotrader.com/functions">Functions</a></li>
+                        </ul>
+                    </li>
+
+                    <li class=""><a href="http://www.solotrader.com/contact-us">Contact Us</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<input type="hidden" value="United States"><section id="privacy_policy">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="privacy_policy wow fadeInLeft">
+                    <h1 class="h1_dark">Privacy Policy</h1>
+                    <p class="p_medium">SoloTrader recognizes each individual’s right to privacy. All information and data collected through the site will be under the comprehensive Privacy Policy of the company. Be aware that solotrader.com does not automatically obtain personal infromation from clients without consent. Visitors of the website are not asked by default any information that might compromise the client’s identity. <br> Opening demo and live accounts require clients to input personal information and verify the information for security and business purposes. SoloTrader and its affiliates utilizes this information for the safety of the client, improvement of services, and to be able to contact and tend to the needs of the client. <br> Registering a live account with the company will require client’s information but please take note that SoloTrader has no control over any information the client discloses over electronic communication.</p>
+                    <br>
+
+                    <h2 class="h1_dark">Controlling Personal Information</h2>
+                    <p class="p_medium">For inquiries and requests for increased security, the client may contact our helpdesk at support@solotrader.com where we will address any concerns regarding disclosure of information especially if you do not want to provide sensitive information. We can also address other issues here like incorrect data inputs, etc.</p>
+                    <br>
+
+                    <h2 class="h1_dark">Information Security</h2>
+                    <p class="p_medium">All information disclosed by the client and acquiesced through electronic communication via our website is protected. The Company utilizes technical and regulatory measures like data encryption and client verification. The client can be confident that SoloTrader is employing the latest in security systems to protect the Clients’ information.</p>
+                    <br>
+
+                    <h2 class="h1_dark">Cookies and Caches</h2>
+                    <p class="p_medium">solotrader.com makes use of internet cookies to expidite the clients navigation and enhance visitor convenience. Standard internet browsers are prone to accept cookies however if the client opts, he or she can easily access the setting of his or her internet browser and choose to reject or delete the cookies. The site utilizes both session cookies and persistent cookies to keep track of client as he or she navigates the website and to allow the site to automatically distinguish the visitor of the site.</p>
+                    <br>
+
+                    <h2 class="h1_dark">Third Party</h2>
+                    <p class="p_medium">In no way does SoloTrader disclose any information, personal or otherwise, that is obtained from the client through any means including electronic communication and other forms of correspondence, with any third party. All information are secured.</p>
+                    <br>
+
+                    <h2 class="h1_dark">Privacy Policy Changes</h2>
+                    <p class="p_medium">SoloTrader will notify registered members of any changes in the Privacy Policy that the Company deems important to the client through any means necessary.</p>
+                    <br>
                 </div>
             </div>
         </div>
-        <div class="nav-maincontainer">
-            <ul class="nav-main">
-                <li class="nav-main "><a href="http://www.solotrader.com/" class="nav-main">Home</a></li>
-                <li class="nav-main "><a href="http://www.solotrader.com/about-us" class="nav-main">About Us</a></li>
-                <li class="nav-main ">
-                    <a href="javascript:void(0)" class="nav-main">Products</a>
-                    <ul class="nav-sub">
-                        <li class="nav-sub"><a href="http://www.solotrader.com/product-overview" class="nav-sub">Product Overview</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-platform" class="nav-sub">SoloTrader Platform</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-web-platform" class="nav-sub">SoloTrader Web Platform</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-ios" class="nav-sub">SoloTrader IOS <br> (<span>Coming Soon</span>)</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-mobile" class="nav-sub">SoloTrader Mobile</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-studio" class="nav-sub">SoloTrader Studio <br> (<span>Coming Soon</span>)</a></li>
-                    </ul>
-                </li>
-                <li class="nav-main ">
-                    <a href="javascript:void(0)" class="nav-main">Clients</a>
-                    <ul class="nav-sub">
-                        <li class="nav-sub"><a href="http://www.solotrader.com/banks" class="nav-sub">Banks</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/brokers" class="nav-sub">Brokers</a></li>
-                    </ul>
-                </li>
-                <li class="nav-main ">
-                    <a href="javascript:void(0)" class="nav-main">Services</a>
-                    <ul class="nav-sub">
-                        <li class="nav-sub"><a href="http://www.solotrader.com/bitcoin-exchanges" class="nav-sub">BitCoin Exchanges</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/broker-start-up" class="nav-sub">Broker Start-up</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/consulting-services" class="nav-sub">Consulting Services</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/offers-for-partners" class="nav-sub">Offers For Partners</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/solotrader-prices" class="nav-sub">SoloTrader Prices</a></li>
-                    </ul>
-                </li>
-                <li class="nav-main ">
-                    <a href="javascript:void(0)" class="nav-main">Features</a>
-                    <ul class="nav-sub">
-                        <li class="nav-sub"><a href="http://www.solotrader.com/advantages" class="nav-sub">Advantages</a></li>
-                        <li class="nav-sub"><a href="http://www.solotrader.com/functions" class="nav-sub">Functions</a></li>
-                    </ul>
-                </li>
-                <li class="nav-main "><a href="http://www.solotrader.com/contact-us" class="nav-main">Contact Us</a></li>
-                                <li class="nav-main nav-main-language">
-                    <a href="javascript:void(0)" class="nav-main nav-main-language"><span>English</span> :
-                        <span><img src="http://www.solotrader.com/assets/images/flag-english.png" alt=""></span>
-                    </a>
-                    <ul class="nav-sub">
-                                                <li class="nav-sub"><a id="set_en" href="" class="nav-sub nav-sub-language"><span><img src="http://www.solotrader.com/assets/images/flag-english.png" alt=""></span> <span>english</span></a></li>
-                        <li class="nav-sub"><a id="set_id" href="id/privacy-policy" class="nav-sub nav-sub-language"><span><img src="http://www.solotrader.com/assets/images/flag-indonesian.png" alt=""></span> <span>indonesian</span></a></li>
-<!--                        <li class="nav-sub"><a href="--><!--?//=($used == 'en' ? str_replace('/','ru/',$_SERVER['REQUEST_URI']) : str_replace($lang,'ru/',$_SERVER['REQUEST_URI']))?--><!--" class="nav-sub nav-sub-language"><span><img src="--><!--?//=base_url();?--><!--assets/images/flag-russian.png" alt=""></span><span>язык</span></a></li>-->
-                    </ul>
-                </li>
-            </ul>
-        </div>
-                                <div class="nav-main-responsive-maincontainer">
-        <span class="nav-main-responsive-btn-close" title="Close menu">x</span>
-        <span class="nav-main-responsive-btn-toggle" title="Toggle menu"></span>
-        <ul class="nav-main-responsive">
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/" class="nav-main-responsive ">Home</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/about-us" class="nav-main-responsive ">About Us</a></li>
-            <li class="nav-main-responsive-title"><span>Products</span></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/product-overview" class="nav-main-responsive ">Product Overview</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-platform" class="nav-main-responsive ">SoloTrader Platform</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-web-platform" class="nav-main-responsive ">SoloTrader Web Platform</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-ios" class="nav-main-responsive ">SoloTrader IOS</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-mobile" class="nav-main-responsive ">SoloTrader Mobile</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-studio" class="nav-main-responsive ">SoloTrader Studio</a></li>
-            <li class="nav-main-responsive-title"><span>Clients</span></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/banks" class="nav-main-responsive ">Banks</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/brokers" class="nav-main-responsive ">Brokers</a></li>
-            <li class="nav-main-responsive-title"><span>Services</span></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/bitcoin-exchanges" class="nav-main-responsive ">BitCoin Exchanges</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/broker-start-up" class="nav-main-responsive ">Broker Start-up</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/consulting-services" class="nav-main-responsive ">Consulting Services</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/offers-for-partners" class="nav-main-responsive ">Offers For Partners</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/solotrader-prices" class="nav-main-responsive ">SoloTrader Prices</a></li>
-            <li class="nav-main-responsive-title"><span>Features</span></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/advantages" class="nav-main-responsive ">Advantages</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/functions" class="nav-main-responsive ">Functions</a><hr class="separator-03"></li>
-            <li class="nav-main-responsive-title"><span>Other Useful Links</span></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/contact-us" class="nav-main-responsive ">Contact Us</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/terms-conditions" class="nav-main-responsive ">Terms and Conditions</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/privacy-policy" class="nav-main-responsive ">Privacy Policy</a></li>
-            <li class="nav-main-responsive"><a href="http://www.solotrader.com/affiliate-program" class="nav-main-responsive ">Affiliate Program</a></li>
-            <li class="nav-main-responsive-title"><span>Social media</span></li>
-            <li class="nav-main-responsive nav-main-responsive-sm">
-                <a href="https://www.linkedin.com/hp/?dnr=guOie8d4k2n64_QtgR8hex0qkBXPjJgWXtY7" title="LinkedIn"><img src="http://www.solotrader.com/assets/images/icon-sm-linkedin.png"></a>
-                <a href="https://twitter.com/STMarketing3" title="Follow us on Twitter"><img src="http://www.solotrader.com/assets/images/icon-sm-twitter.png"></a>
-                <a href="https://www.facebook.com/pages/SoloTrader/523578067795774" title="Like us on Facebook"><img src="http://www.solotrader.com/assets/images/icon-sm-facebook.png"></a>
-            </li>
-            <li class="nav-main-responsive-language">
-            	<span class="nav-main-responsive-language-btn" title="Click to toggle menu and change default language">
-                	<span><img src="http://www.solotrader.com/assets/images/flag-english.png" alt=""></span> <span>: Language</span>
-                </span>
-                <ul class="nav-main-responsive-language-body">
-                    <li><a href=""><span><img src="http://www.solotrader.com/assets/images/flag-english.png" alt=""></span> <span>English</span></a></li>
-                    <li><a href="id/privacy-policy"><span><img src="http://www.solotrader.com/assets/images/flag-indonesian.png" alt=""></span> <span>Indonesian</span></a></li>
-                    <!--                        <li><a href="--><!--?//=($used == 'en' ? str_replace('/','ru/',$_SERVER['REQUEST_URI']) : str_replace($lang,'ru/',$_SERVER['REQUEST_URI']))?--><!--"><span><img src="--><!--?//=base_url()?--><!--assets/images/flag-russian.png" alt=""></span> <span>язык</span></a></li>-->
-                </ul>
-            </li>
-            <li class="nav-main-responsive-title"><span>Time Zone</span></li>
-            <li class="nav-main-responsive">
-                    <div id="sydney-02" class="hasCountdown">
-                        <b>Sydney</b> -
-                        <b class="countdown responsive">
-                            <span class="hour"></span>
-                            <span class="min"></span>
-                            <span class="sec"></span>
-                        </b>
-                    </div>
-                    <div id="tokyo-02" class="hasCountdown">
-                        <b>Tokyo</b> -
-                        <b class="countdown responsive">
-                            <span class="hour"></span>
-                            <span class="min"></span>
-                            <span class="sec"></span>
-                        </b>
-                    </div>
-                    <div id="moscow-02" class="hasCountdown">
-                        <b>Moscow</b> -
-                        <b class="countdown responsive">
-                            <span class="hour"></span>
-                            <span class="min"></span>
-                            <span class="sec"></span>
-                        </b>
-                    </div>
-                    <div id="london-02" class="hasCountdown">
-                        <b>London</b> -
-                        <b class="countdown responsive">
-                            <span class="hour"></span>
-                            <span class="min"></span>
-                            <span class="sec"></span>
-                        </b>
-                    </div>
-                    <div id="newyork-02" class="hasCountdown">
-                        <b>New York</b> -
-                        <b class="countdown responsive">
-                            <span class="hour"></span>
-                            <span class="min"></span>
-                            <span class="sec"></span>
-                        </b>
-                    </div>
-            </li>
-        </ul>
     </div>
-</div>
-<div class="mid-maincontainer" style="">
-    <!-- HEADER END -->
-<div class="mid-maincontainer">
-    <!-- INDEX START -->
-    <div class="index-container index-maincontainer">
-        <div class="index-container-header">
-            <h2>Privacy Policy</h2>
-            <p>SoloTrader recognizes each individual’s right to privacy. All information and data collected through the site will be under the comprehensive Privacy Policy of the company. Be aware that solotrader.com does not automatically obtain personal infromation from clients without consent. Visitors of the website are not asked by default any information that might compromise the client’s identity. <br> Opening demo and live accounts require clients to input personal information and verify the information for security and business purposes. SoloTrader and its affiliates utilizes this information for the safety of the client, improvement of services, and to be able to contact and tend to the needs of the client. <br> Registering a live account with the company will require client’s information but please take note that SoloTrader has no control over any information the client discloses over electronic communication.</p>
-        </div>
-        <div class="index-container">
-            <h4>Controlling Personal Information</h4>
-            <p>For inquiries and requests for increased security, the client may contact our helpdesk at support@solotrader.com where we will address any concerns regarding disclosure of information especially if you do not want to provide sensitive information. We can also address other issues here like incorrect data inputs, etc.</p>
-            <h4>Information Security</h4>
-            <p>All information disclosed by the client and acquiesced through electronic communication via our website is protected. The Company utilizes technical and regulatory measures like data encryption and client verification. The client can be confident that SoloTrader is employing the latest in security systems to protect the Clients’ information.</p>
-            <h4>Cookies and Caches</h4>
-            <p>solotrader.com makes use of internet cookies to expidite the clients navigation and enhance visitor convenience. Standard internet browsers are prone to accept cookies however if the client opts, he or she can easily access the setting of his or her internet browser and choose to reject or delete the cookies. The site utilizes both session cookies and persistent cookies to keep track of client as he or she navigates the website and to allow the site to automatically distinguish the visitor of the site.</p>
-            <h4>Third Party</h4>
-            <p>In no way does SoloTrader disclose any information, personal or otherwise, that is obtained from the client through any means including electronic communication and other forms of correspondence, with any third party. All information are secured.</p>
-            <h4>Privacy Policy Changes</h4>
-            <p>SoloTrader will notify registered members of any changes in the Privacy Policy that the Company deems important to the client through any means necessary.</p>
-        </div>
-    <!-- INDEX END --><!-- SIDEBAR START -->
-</div><div class="sidebar-maincontainer">
-    <div class="sidebar-container forex-quotes">
+</section><footer id="footer">
+    <div class="container">
+        <div class="container footer_container">
+            <div class="col-md-12">
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">COMPANY</h2>
+                    <ul>
+                        <li><a href="http://www.solotrader.com/"><i class="fa fa-arrow-circle-right"></i> Home</a></li>
+                        <li><a href="http://www.solotrader.com/about-us"><i class="fa fa-arrow-circle-right"></i> About Us</a></li>
+                        <li><a href="http://www.solotrader.com/contact-us"><i class="fa fa-arrow-circle-right"></i> Contact Us</a></li>
+                    </ul>
+                </div>
 
-    </div>
-    <div class="sidebar-container">
-        <h5><span class="sticonfonts">:</span> <span>Company News</span></h5>
-        <hr class="separator-06">
-        <ul class="sidebar-container sidebar-container-companynews">
-            <li><p>Market statistics recently added.</p><hr class="separator-06"></li>
-            <li><p>Bitcoins Dashboard is added.</p><hr class="separator-06"></li>
-            <li><p>News feed is added.</p><hr class="separator-06"></li>
-            <li><p>Financial calendar is added.</p><hr class="separator-06"></li>
-            <li><p>Buy your own SoloTrader white label platform for Bitcoins.</p><hr class="separator-06"></li>
-            <li><p>SoloTrader is cheap solution for Forex start ups.</p><hr class="separator-06"></li>
-            <li><p>SoloTrader is becoming leading solution for Bitcoin exchanges.</p><hr class="separator-06"></li>
-<!--            <li><p><strong>Facilisis, nunc risus odio nec. Est! Lundium.</strong><br>Magna eros scelerisque, cum? Vut nec lectus. Elementum! Enim, ultricies elementum...<br><a href="#link">Read more...</a></p><hr class="separator-06"></li>-->
-        </ul>
-<!--        <a href="#link"><strong>More News</strong></a>-->
-    </div>
-    <a href="http://www.solotrader.com/affiliate-program" class="sidebar-banner"><img src="http://www.solotrader.com/assets/images/solostrader-banner-340x250.jpg" alt="" width="340" height="250"></a>
-    <span class="btn-container btn-container-sidebar"><a href="http://www.solotrader.com/affiliate-program" class="btn">SoloTrader Affiliate Program</a></span>
-</div>
-<!-- SIDEBAR END -->
-</div></div>
-<div class="bottom-maincontainer">
-    <div class="bottom-container">
-        <a href="http://www.solotrader.com/bitcoin-exchanges" class="bottom-container-text" style="">We are now accepting BitCoin as payment method<img src="http://www.solotrader.com/assets/images/images-bitcoin.png" alt="" width="168" height="168" class="bottom-container-bitcoinimage"></a>
-    </div>
-</div>
-<style>
-    span.nav-footer{text-transform:capitalize;}
-</style>
-<!-- FOOTER START -->
-<div class="footer-maincontainer">
-    <div class="footer-container">
-        <div class="footer-innercontainer">
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Company</span>
-                    <a href="http://www.solotrader.com/" class="nav-footer">Home</a>
-                    <a href="http://www.solotrader.com/about-us" class="nav-footer">About Us</a>
-                    <a href="http://www.solotrader.com/contact-us" class="nav-footer">Contact Us</a>
-                </li>
-            </ul>
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Products</span>
-                    <a href="http://www.solotrader.com/product-overview" class="nav-footer">Product Overview</a>
-                    <a href="http://www.solotrader.com/solotrader-platform" class="nav-footer">SoloTrader Platform</a>
-                    <a href="http://www.solotrader.com/solotrader-web-platform" class="nav-footer">SoloTrader Web Platform</a>
-                    <a href="http://www.solotrader.com/solotrader-ios" class="nav-footer">SoloTrader IOS</a>
-                    <a href="http://www.solotrader.com/solotrader-mobile" class="nav-footer">SoloTrader Mobile</a>
-                    <a href="http://www.solotrader.com/solotrader-studio" class="nav-footer">SoloTrader Studio</a>
-                </li>
-            </ul>
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Clients</span>
-                    <a href="http://www.solotrader.com/banks" class="nav-footer">Banks</a>
-                    <a href="http://www.solotrader.com/brokers" class="nav-footer">Brokers</a>
-                </li>
-            </ul>
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Services</span>
-                    <a href="http://www.solotrader.com/bitcoin-exchanges" class="nav-footer">BitCoin Exchanges</a>
-                    <a href="http://www.solotrader.com/broker-start-up" class="nav-footer">Broker Start-up</a>
-                    <a href="http://www.solotrader.com/consulting-services" class="nav-footer">Consulting Services</a>
-                    <a href="http://www.solotrader.com/offers-for-partners" class="nav-footer">Offers For Partners</a>
-                    <a href="http://www.solotrader.com/solotrader-prices" class="nav-footer">SoloTrader Prices</a>
-                </li>
-            </ul>
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Features</span>
-                    <a href="http://www.solotrader.com/advantages" class="nav-footer">Advantages</a>
-                    <a href="http://www.solotrader.com/functions" class="nav-footer">Functions</a>
-                </li>
-            </ul>
-            <ul class="nav-footer-container">
-                <li class="nav-footer-container">
-                    <span class="nav-footer">Social media</span>
-                    <div class="sm-maincontainer">
-                        <a href="https://www.facebook.com/pages/SoloTrader/523578067795774" title="Like us on Facebook"><img src="http://www.solotrader.com/assets/images/icon-sm-facebook.png"></a>
-                        <a href="https://twitter.com/STMarketing3" title="Follow us on Twitter"><img src="http://www.solotrader.com/assets/images/icon-sm-twitter.png"></a>
-                        <a href="https://www.linkedin.com/hp/?dnr=guOie8d4k2n64_QtgR8hex0qkBXPjJgWXtY7" title="LinkedIn"><img src="http://www.solotrader.com/assets/images/icon-sm-linkedin.png"></a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <span class="copyright-container">
-            <img src="http://www.solotrader.com/assets/images/solotrader-logo-small.png" alt="" width="181" height="28" class="copyright">
-            <span class="copyright">SOLOTRADER.COM  - © 2015 - All Rights Reserved.</span>
-            <a href="http://www.solotrader.com/terms-conditions" class="nav-footer">Terms and Conditions</a> |
-            <a href="http://www.solotrader.com/privacy-policy" class="nav-footer">Privacy Policy</a>
-        </span>
-    </div>
-</div>
-<!-- FOOTER END -->
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">PRODUCTS</h2>
+                    <ul>
+                        <li><a href="http://www.solotrader.com/product-overview"><i class="fa fa-arrow-circle-right"></i> Product Overview</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-platform"><i class="fa fa-arrow-circle-right"></i> Platform</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-web-platform"><i class="fa fa-arrow-circle-right"></i> Web Platform</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-ios"><i class="fa fa-arrow-circle-right"></i> iOS</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-mobile"><i class="fa fa-arrow-circle-right"></i> Mobile</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-studio"><i class="fa fa-arrow-circle-right"></i> Studio</a></li>
+                    </ul>
+                </div>
 
-<link rel="stylesheet" href="http://www.solotrader.com/assets/css/style-responsive.css">
+
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">CLIENTS</h2>
+                    <ul>
+                        <li><a href="http://www.solotrader.com/banks"><i class="fa fa-arrow-circle-right"></i> Banks</a></li>
+                        <li><a href="http://www.solotrader.com/brokers"><i class="fa fa-arrow-circle-right"></i> Brokers</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">SERVICES</h2>
+                    <ul>
+                        <li><a href="http://www.solotrader.com/bitcoin-exchanges"><i class="fa fa-arrow-circle-right"></i> BitCoin Exchanges</a></li>
+                        <li><a href="http://www.solotrader.com/broker-start-up"><i class="fa fa-arrow-circle-right"></i> Broker Start-up</a></li>
+                        <li><a href="http://www.solotrader.com/consulting-services"><i class="fa fa-arrow-circle-right"></i> Consulting Services</a></li>
+                        <li><a href="http://www.solotrader.com/offers-for-partners"><i class="fa fa-arrow-circle-right"></i> Offers For Partners</a></li>
+                        <li><a href="http://www.solotrader.com/solotrader-prices"><i class="fa fa-arrow-circle-right"></i> SoloTrader Prices</a></li>
+                    </ul>
+                </div>
+
+
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">FEATURES</h2>
+                    <ul>
+                        <li><a href="http://www.solotrader.com/advantages"><i class="fa fa-arrow-circle-right"></i> Advantages</a></li>
+                        <li><a href="http://www.solotrader.com/functions"><i class="fa fa-arrow-circle-right"></i> Functions</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-2 fttrnme">
+                    <h2 class="h2_white">SOCIAL MEDIA</h2>
+                    <ul>
+                        <li><a href="https://www.facebook.com/pages/SoloTrader/523578067795774" title="Like us on Facebook"><img class="img_social" src="http://www.solotrader.com/assets/version-2/images/social/icon-sm-facebook.png"> Facebook</a></li>
+                        <li><a href="https://twitter.com/STMarketing3" title="Follow us on Twitter"><img class="img_social" src="http://www.solotrader.com/assets/version-2/images/social/icon-sm-twitter.png"> Twitter</a></li>
+                        <li><a href="https://www.linkedin.com/hp/?dnr=guOie8d4k2n64_QtgR8hex0qkBXPjJgWXtY7" title="LinkedIn"><img class="img_social" src="http://www.solotrader.com/assets/version-2/images/social/icon-sm-linkedin.png"> LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="solotrader_main_footer">
+        <img class="img-responsive" src="http://www.solotrader.com/assets/version-2/images/solotrader-logo.png">
+        <span class="copyright_span">SOLOTRADER.COM - © 2016 - All Rights Reserved.</span>
+        <span><a href="http://www.solotrader.com/terms-conditions">Terms and Conditions</a></span>
+        <span> | </span>
+        <span><a href="http://www.solotrader.com/privacy-policy">Privacy Policy</a></span>
+        <div title="back to top" class="back_to_top" id="back_to_top"><i class="fa fa-chevron-circle-up"></i></div>
+    </div>
+
+</footer>
+<script src="http://www.solotrader.com/assets/version-2/js/jquery.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/bootstrap.min.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/jquery.prettyPhoto.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/jquery.fancybox.pack.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/jquery.fancybox-media.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/jquery.isotope.min.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/main.js"></script>
+<script src="http://www.solotrader.com/assets/version-2/js/wow.min.js"></script>
+<script src="http://www.solotrader.com/assets/js/jquery-clock.js" type="text/javascript"></script>
+<script src="http://www.solotrader.com/assets/js/global.js" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(22.279987, 114.179016);
+        var mapOptions = {
+            zoom: 19,
+            center: myLatlng
+        }
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Hello World!'
+        });
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
 
-    ga('create', 'UA-64409562-1', 'auto');
-    ga('send', 'pageview');
+    $(document).ready(function () {
 
+        $('form').on('submit', function(){
+            var view =   'privacy_policy';
+            $(this).append('<input type="hidden" name="view" id="view" value="'+view+'">');
+        })
+
+        $("#back_to_top").click(function() {
+            $('html, body').animate({
+                scrollTop: $("#body_back_to_top").offset().top
+            }, 1000);
+        });
+
+        $('#newyork').clock({offset: '-4', type: 'digital'});
+        $('#london').clock({offset: '0', type: 'digital'});
+        $('#tokyo').clock({offset: '9', type: 'digital'});
+        $('#sydney').clock({offset: '11', type: 'digital'});
+        $('#moscow').clock({offset: '3', type: 'digital'});
+
+        $('#newyork-02').clock({offset: '-4', type: 'digital'});
+        $('#london-02').clock({offset: '0', type: 'digital'});
+        $('#tokyo-02').clock({offset: '9', type: 'digital'});
+        $('#sydney-02').clock({offset: '11', type: 'digital'});
+        $('#moscow-02').clock({offset: '3', type: 'digital'});
+
+        $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
+        var intervalOn = setInterval(function() {
+            var base = 'http://www.solotrader.com//';
+            $.ajax({
+                type: "POST",
+                url: base+'home/db_only',
+                success:function(response){
+                    $('section#live_forex_quotes').find('div.container').find('div.live_forex_quotes').html(response);
+                }
+            })
+        }, 3000);
+
+        var updateQuotesDB = setInterval(function() {
+            var base = 'http://www.solotrader.com//';
+            $.ajax({
+                type: "POST",
+                url: base+'home/newQuotes',
+                success:function(response){
+                    $('section#live_forex_quotes').find('div.container').find('div.live_forex_quotes').html(response);
+                }
+            })
+        }, 10000);
+
+        /*
+         *  Simple image gallery. Uses default settings
+         */
+
+        $('.fancybox').fancybox();
+
+        /*
+         *  Different effects
+         */
+
+        // Change title type, overlay closing speed
+        $(".fancybox-effects-a").fancybox({
+            helpers: {
+                title : {
+                    type : 'outside'
+                },
+                overlay : {
+                    speedOut : 0
+                }
+            }
+        });
+
+        // Disable opening and closing animations, change title type
+        $(".fancybox-effects-b").fancybox({
+            openEffect  : 'none',
+            closeEffect : 'none',
+
+            helpers : {
+                title : {
+                    type : 'over'
+                }
+            }
+        });
+
+        // Set custom style, close if clicked, change title type and overlay color
+        $(".fancybox-effects-c").fancybox({
+            wrapCSS    : 'fancybox-custom',
+            closeClick : true,
+
+            openEffect : 'none',
+
+            helpers : {
+                title : {
+                    type : 'inside'
+                },
+                overlay : {
+                    css : {
+                        'background' : 'rgba(238,238,238,0.85)'
+                    }
+                }
+            }
+        });
+
+        // Remove padding, set opening and closing animations, close if clicked and disable overlay
+        $(".fancybox-effects-d").fancybox({
+            padding: 0,
+
+            openEffect : 'elastic',
+            openSpeed  : 150,
+
+            closeEffect : 'elastic',
+            closeSpeed  : 150,
+
+            closeClick : true,
+
+            helpers : {
+                overlay : null
+            }
+        });
+
+        /*
+         *  Button helper. Disable animations, hide close button, change title type and content
+         */
+
+        $('.fancybox-buttons').fancybox({
+            openEffect  : 'none',
+            closeEffect : 'none',
+
+            prevEffect : 'none',
+            nextEffect : 'none',
+
+            closeBtn  : false,
+
+            helpers : {
+                title : {
+                    type : 'inside'
+                },
+                buttons : {}
+            },
+
+            afterLoad : function() {
+                this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+            }
+        });
+
+
+        /*
+         *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+         */
+
+        $('.fancybox-thumbs').fancybox({
+            prevEffect : 'none',
+            nextEffect : 'none',
+
+            closeBtn  : false,
+            arrows    : false,
+            nextClick : true,
+
+            helpers : {
+                thumbs : {
+                    width  : 50,
+                    height : 50
+                }
+            }
+        });
+
+        /*
+         *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+         */
+        $('.fancybox-media')
+            .attr('rel', 'media-gallery')
+            .fancybox({
+                openEffect : 'none',
+                closeEffect : 'none',
+                prevEffect : 'none',
+                nextEffect : 'none',
+
+                arrows : false,
+                helpers : {
+                    media : {},
+                    buttons : {}
+                }
+            });
+
+        /*
+         *  Open manually
+         */
+
+        $("#fancybox-manual-a").click(function() {
+            $.fancybox.open('1_b.jpg');
+        });
+
+        $("#fancybox-manual-b").click(function() {
+            $.fancybox.open({
+                href : 'iframe.html',
+                type : 'iframe',
+                padding : 5
+            });
+        });
+
+        $("#fancybox-manual-c").click(function() {
+            $.fancybox.open([
+                {
+                    href : '1_b.jpg',
+                    title : 'My title'
+                }, {
+                    href : '2_b.jpg',
+                    title : '2nd title'
+                }, {
+                    href : '3_b.jpg'
+                }
+            ], {
+                helpers : {
+                    thumbs : {
+                        width: 75,
+                        height: 50
+                    }
+                }
+            });
+        });
+    });
+
+    $(window).resize(function(){
+        if ($(window).width() <= 767){
+            $("#time_zone").addClass("collapse");
+        }
+        else {
+            $("#time_zone").removeClass("collapse");
+        }
+    });
+
+
+    $(window).load(function(){
+        if ($(window).width() <= 767){
+            $("#time_zone").addClass("collapse");
+        }
+        else {
+            $("#time_zone").removeClass("collapse");
+        }
+    });
 </script>
 </body></html>
