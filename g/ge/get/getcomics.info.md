@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227214925id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627235659id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GetComics –
 
@@ -56,3 +56,5 @@ In no event will we be liable for any loss or damage including without limitatio
 Through this website you are able to link to other websites which are not under the control of GetComics. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
 Every effort is made to keep the website up and running smoothly. However, GetComics takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+
+The Comic Guy is an admin for GetComics.Info website. 
