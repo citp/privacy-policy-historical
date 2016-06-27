@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003707id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004847id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -10,13 +10,13 @@ Privacy at Bell
 
 The Bell companies have long been committed to maintaining the accuracy, confidentiality, security and privacy of your information. Our long-standing commitment to safeguarding your right to privacy has led to our reputation as a leader in the protection of customer privacy. To continue to earn your trust, we want to keep you up-to-date on your rights as our customer and on how the Bell companies use and safeguard your personal information. Our representatives undergo privacy training to ensure they are aware of your rights.
 
-[Download the full text of the Bell Privacy Policy (PDF 208.26 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
+[Download the full text of the Bell Privacy Policy (PDF 162.71 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
 
 Bell has also developed a privacy policy specific to Bell Mobility’s Finder Services.
 
 [Download the full text of the Privacy Policy for Bell's Finder services (PDF 34.16 KB)](https://web.archive.org/_web/guides/Common/Legal/privacy\(en\).pdf?ver=23.0%20target=) (PDF - 35K).
 
-**Bell's Privacy Policy applies to all employees and agents of the Bell companies.**
+ **Bell's Privacy Policy applies to all employees and agents of the Bell companies.**
 
 The Bell Privacy Policy applies to the Bell companies offering communications services including wireless, Internet, satellite and IP television, TV, local and long distance wireline services as well as radio, television and digital media services and our various retail locations. It also applies to the Ontario and Québec operations of Bell Aliant.
 
@@ -24,14 +24,14 @@ Any time you do business with any of these companies, or with anyone acting as o
 
 Every year, we ensure that each of our employees reviews and signs a code of business conduct that requires, among other things, the safeguarding and proper use of customer information. Our representatives undergo extensive privacy training to ensure they are aware of and respect your rights at all times. We also place strict controls on the protection and use of personal information within our systems and websites.
 
-**Questions or concerns about your privacy?**
+ **Questions or concerns about your privacy?**
 
-We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml) section.
+We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Contact-us) section.
 
 If you still have unresolved privacy concerns, you can write to the Bell Privacy Ombudsman at:
 
 The Office of the Bell Privacy Ombudsman  
-160 Elgin St.  
+160 Elgin St., 19th floor  
 Ottawa ON K2P 2C4   
 Or by email at [privacy@bell.ca](mailto:privacy@bell.ca)
 
@@ -95,7 +95,7 @@ Does Bell share personal client information?
 
 ## Does Bell share personal client information?
 
-**Does Bell share personal client information with outside organizations?**
+ **Does Bell share personal client information with outside organizations?**
 
 We do not provide personal information to any party outside of the Bell companies except in limited circumstances in which it is necessary for us to do so. These third parties may include:
 
@@ -107,23 +107,19 @@ We do not provide personal information to any party outside of the Bell companie
 
 When we provide personal information to third parties, we give only the information that is required under the specific circumstances. That information is used only for the purpose stated and is subject to strict terms of confidentiality. The employees of the companies that we share this information with must meet and respect our privacy standards.
 
-**Directory listing information**
+ **Directory listing information**
 
 Please note that, pursuant to federal legislation, publicly available information, including a directory listing of your name, address and telephone number, may be collected, used and disclosed by organizations without your consent.
 
 If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml).
 
-**Sharing information among the Bell companies**
+ **Sharing information among the Bell companies**
 
 Occasionally we may share information between the Bell companies to help understand your information, communication and entertainment needs, and to provide you with relevant information to meet those needs.
 
-**Option to opt out**
+To manage your communications preferences: [bell.ca/marketingpreferences](http://www.bell.ca/marketingpreferences)
 
-If you don't want your information shared among the Bell companies, please [contact us](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml).
-
-Please note that when you choose to opt out (or opt back in), it may take up to 30 days to update our databases.
-
-**Legal and emergency exceptions**
+ **Legal and emergency exceptions**
 
 It' s important to note that in certain circumstances, we may collect, use or disclose personal information without your knowledge or consent. For example:
 
@@ -182,7 +178,7 @@ Some of the things that will trigger monitoring of your use include:
 
 
 
-Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates. For more information, see [bell.ca/relevantads](http://www.bell.ca/relevantads).
+With your permission, Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates. For more information, see [bell.ca/onlinemarketing](http://www.bell.ca/onlinemarketing).
 
 You can [view your Bell Internet Service Agreement online](http://bell.ca/Legal_residential_services/Bell_Internet_and_Value_Added_Services.tab).
 
