@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115607id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627063735id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kitchen Stewardship | A Baby Steps Approach to Balanced Nutrition
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20151225115607id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
+This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20160627063735id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
 
 **Personal identification information**
 
@@ -70,8 +70,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Kitchen Stewardship, LLC](https://web.archive.org/web/20151225115607id_/)  
-[http://www.kitchenstewardship.com](https://web.archive.org/web/20151225115607id_/)  
+[Kitchen Stewardship, LLC](https://web.archive.org/web/20160627063735id_/)  
+[http://www.kitchenstewardship.com](https://web.archive.org/web/20160627063735id_/)  
 Katie Kimball Kitchen Stewardship, LLC  
 kitchenstew@gmail.com
 
