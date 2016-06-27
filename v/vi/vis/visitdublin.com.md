@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075135id_/http%3A//www.visitdublin.com/Pages/Privacy-Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121517id_/http%3A//www.visitdublin.com/Pages/Privacy-Cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies Information | Visit Dublin
+# Privacy and Cookies | Dublin Travel & Tourism Official Website | Visit Dublin
 
 ## Privacy and Cookies Policy
 
@@ -322,7 +322,7 @@ For more information about cookies and managing them including how to turn them 
 
 ### Registration process
 
-To register as a user of services, such as the My Dublin function, we need to collect information such as, at a minimum, an email address and a password. You can update your personal information held in the My Dublin page at any time, and change your stated interests and whether or not you wish to receive correspondence from us. You may unsubscribe from newsletters and other updates by selecting the Unsubscribe button at the foot of every communication. We may ask different questions for different services, including competitions. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+To register as a user of services, such as the My Dublin Map function, we need to collect information such as, at a minimum, an email address and a password. You can update your personal information held in the My Dublin Map page at any time, and change your stated interests and whether or not you wish to receive correspondence from us. You may unsubscribe from newsletters and other updates by selecting the Unsubscribe button at the foot of every communication. We may ask different questions for different services, including competitions. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
 ### Mobile devices
 
@@ -357,7 +357,8 @@ Where we wish to use your personal information in any other way, we will ensure 
 
 ### Do we protect your personal information?
 
-We do our utmost to protect user privacy through the appropriate use of security technology: we ensure that we have appropriate physical and technological security measures to protect your information; and we ensure that when we outsource any processes that the service provider has appropriate security measures.  
+We do our utmost to protect user privacy through the appropriate use of security technology: we ensure that we have appropriate physical and technological security measures to protect your information; and we ensure that when we outsource any processes that the service provider has appropriate security measures.
+
 However, this Website contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
 ### Who we share data with
