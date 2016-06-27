@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053629id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628013743id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# osh Site
+# Orchard Supply Hardware Store
 
 Orchard Supply Company, LLC ("Orchard Supply Hardware", “our" or "we"), a subsidiary of Lowe’s Companies, Inc., respects your privacy. This Privacy Statement describes how we collect, use, share, and protect information, and the choices you can make about such information. It also contains other important privacy disclosures, such as how we may update the Statement and how you can contact us. This Privacy Statement applies to most interactions with our customers, visitors, and online job applicants, including:
 
