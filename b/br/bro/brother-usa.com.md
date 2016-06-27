@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216013301id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627165524id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # Brother International - Privacy Statement
 
 **Privacy Policy**
 
-**(Last Updated: April 22, 2015)**
+**(Last Updated: March 24, 2016)**
 
 Brother International Corporation, and its subsidiaries ("Company," "we," or "us"), are committed to respecting and protecting your privacy. We know that the privacy of personal information is an important concern to our customers. 
 
 This policy covers information that is collected through Brother websites, including www.brother-usa.com, www.brothermall.com, www.brothercloud.com, and www.ibroidery.com, to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
 
-[ ](https://privacy.truste.com/privacy-seal/Brother-International-Corporation/validation?rid=a83e152c-8ecd-47d1-8712-bd547dcc9ea3 "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=ec0be97b-12d7-465d-8d62-a4423cb6a3fc "TRUSTe Privacy Certification")
 
 Brother International Corporation has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the websites [www.brother-usa.com](http://www.brother-usa.com/), [www.brothermall.com](http://www.brothermall.com/), [www.brothercloud.com](http://www.brothercloud.com/), and [www.ibroidery.com](http://www.ibroidery.com/) and does not cover information that may be collected through our services. The TRUSTe program does not cover information that may be collected through downloadable software. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
-Brother International Corporation complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view Brother International Corporation certification, please visit <http://www.export.gov/safeharbor/>. 
+Brother International Corporation complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Brother International Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brother International Corporation certification, please visit <http://www.export.gov/safeharbor/>. 
 
 This statement describes (i) the types of personal information we collect, (ii) how we use and protect the information, and (iii) to whom we disclose information. 
 
@@ -22,8 +22,8 @@ PLEASE REVIEW THIS PRIVACY POLICY REGULARLY. By using the Site and the Services,
 
 The Site and the Services are generally intended for adult audiences. Company does not knowingly collect, disclose or use any Personal Information of individuals under 13 years of age for marketing, solicitation or any other purposes, other than for lawful purposes related to the operation and maintenance of the Site and the Services. 
 
-**Collection of Personal Information** **  
-Personal Information is any data that can be used to identify an individual. **
+**Collection of Personal Information**  
+**Personal Information is any data that can be used to identify an individual.**
 
 The Personal Information that you may be asked to provide when creating an account or registering for our services may include your first and last name, mailing address (including ZIP code), e-mail address, password, billing contact information, telephone and, if applicable, your employer's name and address. 
 
@@ -75,7 +75,7 @@ Brother shares aggregated demographic information with its business associates a
 
 **Updating Your Personal Information**
 
-If your Personal Information changes, it is your responsibility and obligation to update it. If you wish to change, review or update your Personal Information, you can do so by logging onto your "My Account" page. You can access or update your Personal Information and communication preferences we have on file. If you require assistance in updating or accessing your Personal Information, ask to have it removed from a public forum or if you would like to request that your account be marked as inactive, please contact us at [privacy@brother.com](mailto:privacy@brother.com). We will respond to your request within 30 days. 
+If your Personal Information changes, it is your responsibility and obligation to update it. If you wish to change, review, delete or update your Personal Information, you can do so by logging onto your "My Account" page. You can access or update your Personal Information and communication preferences we have on file. If you require assistance in updating or accessing your Personal Information, ask to have it removed from a public forum or if you would like to request that your account be marked as inactive, please contact us at [privacy@brother.com](mailto:privacy@brother.com). We will respond to your request within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -91,21 +91,17 @@ Any information (including without limitation Personal Information) that you sub
 
 We do not disclose your private, online communications ("Content") with Company to any third parties other than as outlined in this Privacy Policy. However, your Content is available to those whom you authorize to see your Content as well as all other parties with whom your Content may be shared, including any other participant in your conference. Additionally, any participant in a conference may record and retransmit your Content. In the event that you elect not to use any of the Service's security access controls, the Content that you share in conjunction with your access to or use of the Site and the Services is available to those in the general public who are aware of the URL address for your conference. Such Content may include, without limitation, data, packets, information, communication or other material that is transmitted, copied, uploaded or otherwise made available through the Services using your log-in ID and password. 
 
-**Use of Cookies and Similar Tools**
+**Tracking Technologies**
 
-In order to improve our Site, we may use "cookies" or other tools such as tags and scripts to track your visit. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave the cookie to you. For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies may not be able to access those pages. If you choose to decline cookies, you may not be able to use interactive features of the Site. 
+We and our marketing partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis 
 
-One of the primary purposes of cookies is to help the website recall your specific information to deliver relevant content and eases website navigation, when you return to the website. 
+One of the primary purposes of cookies is to help the website recall your specific information to deliver relevant content and eases website navigation, when you return to the website. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. 
 
 In addition to cookies, the Site gathers information automatically and store it in log files. This information includes IP/Internet address of your computer, your browser version, referring URLs and general web visitor information used by our web traffic reporting tools. This information may be linked to your registration information, and your navigation around the Site may be tracked. We use this information to understand how the Site is being used so that we can improve the Site and offer appropriate products and services to our customers. 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. 
-
-We and our third party partners may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information. 
-
 We use clear gifs in our HTML-based emails in order to count traffic or determine readership statistics. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
 
-We also use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To learn how to manage privacy and storage settings for Flash cookies click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118** ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We also use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To learn how to manage privacy and storage settings for Flash cookies click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118** ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
