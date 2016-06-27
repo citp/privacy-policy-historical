@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandmovers.co privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018000016id_/http%3A//brandmovers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmovers.co privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627125014id_/http%3A//brandmovers.com/legal/privacy) for the most accurate reproduction.*
 
 # Digital Engagement | Brandmovers | The Engagement Marketers.
 
