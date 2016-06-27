@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideiim.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211142128id_/http%3A//insideiim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideiim.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627165501id_/http%3A//insideiim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InsideIIM.com
 
@@ -76,5 +76,17 @@ KiRa9 Edumedia Pvt Ltd
 310, Apeejay House, Bombay Samachar Marg, Fort, Mumbai, India. Email: ___________________  
 Contact No.: 9321346317
 
+
+
+
+Now, everyone can write on InsideIIM.com. Express yourself and create your own space with your own following and fans. Write a story of your choice and theme. We will move it in the featured stories section if we like it. If readers add you, you become part of their personalized canvas. Interesting stories will help you gain a better reach and more following. Add an image to your post to make it more attractive and to get more people to click on it! 
+
+  1. Each story will be part of All Stories section as soon as it is approved. Approval will take 30-45 mins for stories written between 9 am to 10 pm and up to 8 hours after that.
+  2. Spam, Slander, Pornographic content or any other form of abuse will be rejected
+  3. Each Story can have only one theme from the drop down box. We may change the theme if it is not deemed appropriate.
+  4. Interesting stories which our editorial team feels can add value to our users will be shifted to Featured Stories and promoted.
+  5. Stories not picked by the editorial team but which become popular will automatically become part of Featured Stories. Popularity is a function of number of unique visitors that read a story in fixed amount of time.
+  6. We will not approve Stories with less than 250 words
+  7. All your stories will be listed on your own personal subdomain ( e.g. yourname.insideiim.com) which is public
 
 
