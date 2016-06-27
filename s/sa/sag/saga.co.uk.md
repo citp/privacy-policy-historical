@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221121543id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065449id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -38,7 +38,7 @@ When it comes to your privacy we never compromise. We will always be clear about
 
 Saga plc., together with its subsidiaries, being the various groups of companies that Saga plc. ultimately owns including the Saga Leisure group, Acromas Insurance Co Ltd and Destinology.
 
-Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Saga Healthre, Saga Freedom, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
+Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Saga Healthcare, Saga Freedom, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
 Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data."   
 **  
@@ -84,7 +84,7 @@ If you make a donation to the Saga Charitable Trust, your data will not be used 
 
 Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'.
 
-If you wish to exercise the opt-out: please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or for Allied Healthcare (Allied and Nestor Group) products or services write to the Data Protection Officer, Allied Healthcare Group, Enbrook Park, Sandgate, Kent CT20 3SE.
+If you wish to exercise the opt-out: please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
 If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
@@ -531,8 +531,6 @@ Please advise us in writing as to any changes in your circumstances. Obviously i
 ### Subject access requests 
 
 You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE for requests relating to information held by Saga Group companies; Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited. 
-
-Requests relating to Allied Healthcare should be made to the branch manager of your local branch, details of which can be found at [www.alliedhealthcare.com](http://www.alliedhealthcare.com/).  The £10 cheque should be made payable to “Nestor Primecare Services Ltd t/a Allied Healthcare”.
 
 We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.  
  
