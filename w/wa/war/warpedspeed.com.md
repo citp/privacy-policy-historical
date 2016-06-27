@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warpedspeed.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228172801id_/http%3A//www.warpedspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpedspeed.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627082911id_/http%3A//www.warpedspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warped Speed
 
@@ -79,7 +79,14 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 **Notice of Privacy Rights to California Residents**. California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of Business Development and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
 
-**11\. Contacting Us** **–** **Corporate Address** ****
+**11\. Opting Out of Interest-Based Mobile Ads** ****
+
+If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
+
+**iOS** – <https://support.apple.com/en-us/HT202074>  
+**Android** – <https://support.google.com/ads/answer/2662922?hl=en>
+
+**12\. Contacting Us** **–** **Corporate Address** ****
 
 warpedspeed.com
 
