@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162954id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627075404id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
 
 # Calling Cards: Your Phone Card & International Calling Cards Source.
 
