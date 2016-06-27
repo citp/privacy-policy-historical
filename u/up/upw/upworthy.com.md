@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the upworthy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231203709id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upworthy.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627211758id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Upworthy.com is owned and operated by Cloud Tiger Media, Inc. (“Upworthy,” “we,” or “us”). Upworthy provides a powerful new way to discover and share content, ideas, and messages about stuff that matters on social media networks and around the web. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our  [Terms of Use](https://web.archive.org/tos).
+Upworthy.com is owned and operated by Cloud Tiger Media, Inc. (“Upworthy,” “we,” or “us”). Upworthy is on a mission to tell stories that bring people together — because we’re all part of the same story. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our  [Terms of Use](https://web.archive.org/tos).
 
   1. [How We Collect and Use Information](https://web.archive.org/privacy#collection)
   2. [Sharing of Your Information](https://web.archive.org/privacy#sharing)
