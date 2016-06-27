@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheeseuncle.biz privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216085300id_/http%3A//cheeseuncle.biz/%3Fpage_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheeseuncle.biz privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065502id_/http%3A//cheeseuncle.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « PRETTY-SHOPPING
 
