@@ -1,60 +1,153 @@
-> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007120139id_/http%3A//www.medhub.com/notice.mh%3FpageID%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627232406id_/http%3A//www.medhub.com/privacy) for the most accurate reproduction.*
 
-# MedHub - Privacy Policy
+# Privacy Policy - MedHub
 
-Privacy Policy
+Welcome to MedHub.com. This web site is owned and operated by MedHub, LLC with
 
- **NOTE: The information below defines the privacy policy of the MedHub PUBLIC website. Terms of use of the MedHub Residency Management System are stipulated in the MedHub client contract.**
+headquarters at 3515 Broad St. #200 Dexter, Michigan 48130, USA (“MedHub” or
 
-The following statement discloses Medhub, Inc.'s consumer privacy practices for the Medhub, Inc. PUBLIC Web Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this site. 
+“we” or “us”).  This privacy policy (“Privacy Policy”) explains to visitors (“you”) how
 
-Medhub, Inc. understands your desire to protect personal information. We intend to inform you how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on web pages where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences. 
+we collect, use and disclose personal information that we obtain through this web
 
-**What information we gather and track**  
-  
-We sometimes request personal information when you request a service, answer a survey or correspond with us or engage in certain other activities on our website. For example: If you request technical support online, we will ask you for information necessary to address the issue  such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing. 
+site.
 
-You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. 
+### Data Collection
 
-**How we use the information we gather and track**  
-  
-We use personally identifiable information in the following ways: 
+MedHub is dedicated to protecting the privacy of all personal information collected
 
-  * To provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements; 
-  * To assist us in creating content that is relevant to you; 
-  * To provide you with special offers that may be of interest to you; 
-  * To assist us in creating better products and services to meet your needs; 
-  * To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select; 
-  * To help you quickly find software, services or product information important to you. 
+through this web site. We may collect personal information during the login process
 
+used to access certain portions of our website or to use other functions or features,
 
+as noted. MedHub may collect and use personally identifiable information including,
 
-**Sharing of information**  
-  
-From time to time, we may provide aggregate information to 3rd parties (ACGME, MEDICARE, RRC, etc.) in order to develop statistical models, generate output data and improve this service. Medhub, Inc. will never provide anyone, anywhere at any time personal information specific to you unless required by law or warrant to do so. All individualized information collected or dispensed is for the sole use of your program, Graduate Medical Education office, educational institution and authorized governmental agencies in order to perform the required routines for program compliance and resident accreditation. 
+but not limited to, the following: name, address, phone number, fax number, email
 
-Medhub, Inc. may retain the services of outside contractors to provide services for us. They may be used to provide technical support, or provide other functions. We require that these contractors keep the personal information of users secure and confidential. We also require that these contractors use personal information only on behalf of Medhub, Inc. and in strict accordance with our own stringent privacy regulations. 
+address, employer, title, user ID and password, IP address. Any demographic
 
-Please be advised that in certain instances, it may be necessary for Medhub, Inc. to disclose your personal information to government officials or otherwise as required by our legal obligations. 
+information we request is generally used in aggregate form for various analyses
 
-If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the unsubscribe in the subject line in the email. 
+conducted by MedHub regarding our web site and related materials.
 
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Information is transmitted using secure socket layer (SSL) encryption. 
+### Use of Information Collected on MedHub’s Site
 
-Medhub, Inc. utilizes cookies for better performence. A cookie is a unique text file that a Web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Medhub, Inc. may use cookies to personalize your PortalHub pages, or to remember you when you access the site. If you do not want Medhub, Inc. to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site. 
+We use personal information to provide the highest quality of service to our
 
-Medhub, Inc. may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous. 
+customers, prospects, and general visitors to this web site. MedHub may collect
 
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Medhub, Inc.'s Web site. Such information is not correlated with any personal information. 
+personal information in connection with any online employment applications, or so
 
-Please remember that information you submit in a discussion group or forum, or PortalHub communication, will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online. 
+that we can contact you, provide materials to you upon your request, register you,
 
-In the event there is a major change to Medhub, Inc.'s privacy practices, a prominent notice will be posted on our web site. If thechange involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use. 
+send relevant messages via e-mail or postal mail, or for any other purpose identified
 
-If you have any questions, comments, or would like to change your communication preferences, please contact us using one of the options below: 
+when personal information is collected. The MedHub website provides a way to
 
-US Mail:  | Medhub, Inc.  
-P.O. Box 4157  
-Ann Arbor, Michigan 48106-4148  
----|---  
-Email:  | [info@medhub.com](mailto:info@medhub.com)
+indicate that you do not wish to receive these messages in which case we will
+
+remove your information from the appropriate list.
+
+### Information Sharing
+
+MedHub will not sell, rent, trade or lease your personal information to others unless
+
+we have requested to do so and have received your permission, provided that you
+
+authorize MedHub to disclose your personal information to others under the following
+
+circumstances: We may, and you authorize MedHub to, transfer your personal
+
+information to any MedHub affiliate (or business partner or agent acting on our
+
+behalf) worldwide for purposes described herein. Such MedHub affiliates, business
+
+partners, and agents will be under the same obligations as is MedHub under this
+
+Privacy Policy.  We may be required to transfer your personal information by law or
+
+under a court order or in connection with an organizational change, such as a merger
+
+or acquisition by another company or the sale of MedHub’s assets. If MedHub, in its
+
+sole discretion, determines that a transfer is necessary to protect the rights,
+
+property, or personal safety of MedHub, this site, or its users, then we may also
+
+share your personal information.
+
+### Data Protection
+
+Medhub is committed to ensuring the security of your information. We use industry-
+
+standard processes designed to protect sensitive data, however, because of the
+
+nature of internet, we cannot guarantee the security of the information you transmit,
+
+so you should take precautions to protect your personal information when you are on
+
+the internet, such as changing passwords often, using a combination of letters and
+
+numbers when creating passwords, and using a secure browser.
+
+### Consent
+
+By use of the MedHub website, and entry of any personal information into this site,
+
+you are consenting to the collection, use, and transfer of your personal information
+
+as outlined in this Privacy Policy.  If you are located outside the United States, your
+
+use and entry of personal information into this site constitutes your consent to the
+
+transfer of your personal information into the United States. Although we do not
+
+normally collect any sensitive personal information (such as ethnicity or race,
+
+religious beliefs or medical conditions), your entry of any such sensitive information
+
+on this web site is your express consent to the collection, use and transfer of such
+
+information.
+
+### Cookies and other Tracking Devices
+
+MedHub may use cookies, IP addresses, and other passive tracking devices to
+
+collect aggregate statistics about our web site. We use this information to monitor
+
+the performance of this site so we can improve its use and add features and
+
+programs to make it more effective. MedHub may also disclose this aggregate
+
+information to third parties. You may choose to set your browser settings to disable
+
+cookies, however, please note that if you do so, you may not be able to complete
+
+certain activities or access certain information on our web site.
+
+### Links
+
+MedHub’s web site may contain links to other web sites, including those of MedHub’s
+
+affiliated companies. Please note that these other web sites’ privacy policies may
+
+differ from MedHub’s and we encourage you to carefully read those policies, as well.
+
+MedHub is not responsible for the contents of any web site of another party.
+
+### Revisions to this Privacy Policy
+
+MedHub reserves the right to revise this Privacy Policy at any time, without notice,
+
+so please review this Privacy Policy frequently. Each version of this Privacy Policy will
+
+have a date, noted below.
+
+### Feedback
+
+If you have any questions or comments about MedHub’s Privacy Policy, please
+
+contact us by email at info@medhub.com.
+
+MedHub, LLC Privacy Policy (Rev. Nov. 2015)
