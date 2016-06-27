@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102012248id_/http%3A//nexonia.com/about-nexonia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627061828id_/http%3A//www.nexonia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Site Safety | Nexonia
+# Privacy Policy | Nexonia
 
 Your privacy is very important to us. It affects all aspects of our business from how we communicate with you to how we handle your personal information. The following policy is our commitment to your privacy. If you have any questions about our privacy policy, you can contact us by email at [help@nexonia.com](mailto:help@nexonia.com).
 
