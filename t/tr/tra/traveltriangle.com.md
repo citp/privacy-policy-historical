@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208012536id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627190116id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TravelTriangle
 
@@ -29,6 +29,6 @@ We use third-party advertising companies to serve ads when you visit our website
 
 
 
-### Contacting Us
+### Contact Us
 
 [About Us](https://web.archive.org/aboutus)
