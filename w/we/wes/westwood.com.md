@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the westwood.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231205045id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627180750id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
-Effective Date: June 28, 2013
+Effective Date: May 9, 2016
 
   
 
 
-[](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification")
 
 By registering for an EA Account (formerly known as an Origin Account) ( ** _"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.
 
@@ -41,8 +41,6 @@ EA and its subsidiary companies know that you care how information about you is 
 If you reside in the United States, Canada or Japan, these terms are an agreement between you and Electronic Arts Inc.  If you reside in any other country, then these terms are an agreement between you and Electronic Arts Swiss Sàrl.
 
 This policy also applies to TRUSTe certified EA Websites. To view a list of these Validated EA Websites, please visit www.TRUSTe.com. In addition, EA owns several other domain names that point to the websites referenced above. We may also add new sites that are subject to this privacy policy and that list will be updated to include those. Please note that this policy applies only to sites maintained by EA, and not to websites maintained by other companies or organizations to which we link.
-
-EA complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from European Union member countries and Switzerland.   EA has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view EA's certification, please visit <http://www.export.gov/safeharbor>.
 
 II.    EA's Site Is TRUSTe Certified
 
@@ -188,7 +186,9 @@ We may also access and disclose personal information, including personal communi
 
 VII.    Where Is The Information Held?
 
-EA is a global organization and the majority of the computer systems on which EA collects, stores, and uses the information it collects or receives are based in the United States and The Netherlands. We may also utilize data storage facilities located in Asia, Canada and/or the European Union. Your personal information may be transferred to, used, processed or held by EA in the United States and in other countries, including countries outside your country of residence both in and outside the European Union and Asia, and used for the purposes set out in this Privacy Policy.
+Personal Information we collect may be stored and processed for the purposes set out in this Privacy Policy in the United States or any other country in which EA, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship. 
+
+EA participates in the U.S.-Swiss Safe Harbor Framework for the collection, use, and retention of data from Switzerland. While EA relies on various mechanisms to effectuate cross-border transfers, we continue to adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor>.
 
 VIII.    How Does EA Protect Your Personal Information?
 
@@ -204,17 +204,19 @@ If you've granted EA access to your Facebook account information through an EA o
 
 X.    A Special Note About Children
 
-Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does request age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or we will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. At that time, we will provide a description of the information that the child may make publically available, how we will use the information and other practices. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
+Protecting children’s privacy online is extremely important to EA.  Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When users identify themselves as being children (i.e. under the age of 13 or under the minimum age in the relevant territory), consistent with applicable law we will: (1) not provide a path for them to input personal information, (2) collect certain information for limited purposes only (consistent with applicable law)), (3) block the child from accessing relevant services; and/or (4) obtain consent from parents for the collection, use, and sharing of their children’s personal information.
 
-Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can review, edit, request the deletion, or prevent further collection or use of their children's personal information or make inquiries regarding this policy by sending an email to [privacy_policy@ea.com](mailto:privacy_policy@ea.com); writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065; or calling (650) 628-1393.  Alternatively, you may also contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
+Through our mobile applications your child will be able to receive local in app notifications, which do not collect any personal information. 
 
-If we change this privacy statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and we will be required to obtain the parent's additional consent.
+Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages.
 
-We encourage you to talk with your children about communicating with strangers and disclosing personal information online. You and your child should review our Online Safety web page for additional information about using the Internet safely.
+If you are a parent and wish to revoke your previously provided consent, review information collected from your child or have that information deleted, contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/), writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065 or by telephone at (650) 628-1393.
 
-Information collected is secured in a manner consistent with this privacy policy (see Section VIII above). If we change how we handle your child's information, we will notify you in a manner consistent with this policy.
+Information collected is secured in a manner consistent with this privacy policy (see Section VIII above).  If we make material changes to how we use, collect, or share your child’s personal information, we will notify parents by email or by in-game notice in order to obtain verifiable parental consent for the new uses of your child’s personal information.
 
-Under no circumstances do we condition a child's participation in an activity—like contests—on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. On certain sites, we may not permit children to participate at all regardless of consent.
+We encourage you to talk with your children about communicating with strangers and disclosing personal information online.  You and your child should review our Online Safety web page for additional information about using the Internet safely.
+
+Under no circumstances do we condition a child’s participation in an activity—like contests—on the child’s disclosure of more personal information than is reasonably necessary to participate in the activity.  On certain sites, we may not permit children to participate at all regardless of consent.
 
 XI.    Public Information Including User Generated Content, Online Forums, Blogs And Profiles
 
@@ -286,4 +288,4 @@ The right to attorneys' fees and expenses discussed above supplements any right 
 
  **G. Changes to This Provision.**   Notwithstanding any provision in this Agreement to the contrary, we agree that if EA makes any future change to this arbitration provision (other than a change to the Notice Address), you may reject any such change by sending us written notice within 30 days of the change to the Arbitration Notice Address provided above.  By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this provision.
 
-Version 54402_9
+Version 54402_11
