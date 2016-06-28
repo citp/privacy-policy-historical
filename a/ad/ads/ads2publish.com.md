@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210023017id_/http%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628190529id_/http%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Book Ads Online - Ads2Publish , about-us
 
