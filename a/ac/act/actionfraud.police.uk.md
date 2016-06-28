@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906005456id_/http%3A//www.actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionfraud.police.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628113740id_/http%3A//www.actionfraud.police.uk/e-privacy-policy) for the most accurate reproduction.*
 
 # E-Privacy Policy | Action Fraud
 
@@ -150,4 +150,4 @@ You should exercise caution and look at the privacy statement applicable to the 
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-This page was last updated on – 24th November 2014
+This page was last updated on – 2nd May 2016
