@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229135814id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628213135id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
 
 # Privacy policy - Compare prices and do more with your money!
 
@@ -45,7 +45,7 @@ We have collected this information in order to provide the best possible service
 
 What about cookies?
 
-A cookie is a small text file that websites you visit may request to save on your computer. The cookie cannot access your hard drive and does not provide us with any personally identifiable information. It does provide details of your IP address, the computer platform that you use (e.g. Mac or Windows), the browser that you use (e.g. Microsoft Explorer or Firefox) and what domain you are accessing our website from. With this information we can do the following:
+A cookie is a small text file that websites you visit may request you save on your computer. The cookie cannot access your hard drive and does not provide us with any personally identifiable information. It does provide details of your IP address, the computer platform that you use (e.g. Mac or Windows), the browser that you use (e.g. Microsoft Explorer or Firefox) and what domain you are accessing our website from. With this information we can do the following:
 
   1. Track traffic patterns to our site.
   2. Ensure that the most relevant content is being shown.
@@ -55,7 +55,7 @@ A cookie is a small text file that websites you visit may request to save on you
 
 At PriceSpy we use two types of cookies, persistent cookies and session cookies. Persistent cookies stay on your computer until either you manually delete them or they are deleted by the website. Session cookies delete themselves when you close your web browser. 
 
-If you do not want to receive cookies, you can refuse them by turning them off in your browser and/or deleting them from your hard drive. You will still be able to visit our website.
+If you do not want to receive cookies, you can refuse them by turning them off in your browser and/or delete them from your hard drive. You will still be able to visit our website.
 
 We also use cookies to build market segments and target audiences based on user behaviour. The information is anonymous and used for targeted advertising. If you do not want such information to be saved, you can use the NAI Opt-out Tool to identify and replace advertising cookies. Visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), NAI, website for more information and instructions. Opting out of a network does not mean you will no longer receive online advertising, but it does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
 
