@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105053843id_/http%3A//corporate.shoppersdrugmart.ca/en-ca/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628022812id_/http%3A//corporate.shoppersdrugmart.ca/en-ca/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy
 
-At Shoppers Drug Mart, we respect your privacy and take great care in protecting your Personal Information. This policy demonstrates our commitment to your privacy. Read on to discover how your Personal Information is being protected. 
+At Shoppers Drug Mart, we respect your privacy and take great care in protecting your Personal Information. This policy demonstrates our commitment to your privacy. Read on to discover how your Personal Information is being protected.
 
 **A. Scope & Interpretation**
 
 This policy applies to Shoppers Drug Mart Inc. and its affiliates and subsidiaries, which:
 
-  1. Own stores that operate under the names Shoppers Home Health Care® and Murale®; and 
+  1. Own stores that operate under the names Shoppers Home Health Care® and Murale®; and
   2. License the operation of retail drug stores and medical clinic pharmacies under the names Shoppers Drug Mart® (Pharmaprix® in Québec) and Shoppers Simply Pharmacy® (Pharmaprix Simplement Santé in Québec) (owned and operated by Associate-Owners, who are individually responsible for compliance with this policy).  
 
 
@@ -63,7 +63,7 @@ Shoppers Drug Mart collects Personal Information in the following ways:
 
 **From Related Companies**. We may receive Personal Information from related companies.  Any such disclosure to us by a related company will be done in accordance with that company’s privacy policy.
 
- **From Third Parties.  **Occasionally, we may receive Personal Information from other sources if we have obtained your consent to do so or if the law permits us to do so.  
+**From Third Parties.  **Occasionally, we may receive Personal Information from other sources if we have obtained your consent to do so or if the law permits us to do so.  
 
 **Through Technology.  **We may collect Personal Information and non-personal information through various technologies directly from you or from third parties.
 
@@ -146,6 +146,8 @@ In order to communicate with you, which includes: 
 
 
 Unless you tell us otherwise or consent is required by law, we may contact you by any means for which you have provided contact information.
+
+If you no longer wish to receive commercial electronic messages from us please follow the unsubscribe directions provided in every commercial electronic message we send, or you can send an email to [customerservice@shoppersdrugmart.ca](mailto:customerservice@shoppersdrugmart.ca) for assistance.
 
 **Market Research**
 
