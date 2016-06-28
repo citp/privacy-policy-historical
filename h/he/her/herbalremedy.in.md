@@ -1,33 +1,92 @@
-> *The following text is extracted and transformed from the herbalremedy.in privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319093422id_/http%3A//www.herbalremedy.in/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedy.in privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628070621id_/http%3A//herbalremedy.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Herbal Remedy India - Privacy Policy
+# Privacy and Cookie Policy
 
-At HerbalRemedy.in, we protect your privacy as if it were our own. We use the information you provide to us for four purposes only: to process your order(s), to reply to your questions, provide our newsletter via email and to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information or specific account activity to anyone for any reason except as required by law.
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g. Google Analytics). 
 
-Our Secure Ordering  
-At HerbalRemedy.in we use Secure Socket Layer (SSL) technology to encrypt the information you send us when you place your order. The information is encrypted on your computer, sent through the Internet as jumbled code, and decoded on our secure server. It cannot be read in transit.
+This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-Credit Card Fraud Protection  
-All major credit card companies protect cardholders against fraud, subject to a $25 deductible. HerbalRemedy.in will protect you for this $25 portion in the highly unlikely situation that you ever encounter an inappropriate charge involving our company.
+## What we collect
 
-Information We Collect  
-In designing our website, we started with the simple belief that customer service is our number one priority. Therefore the customer information we collect is used to enhance our services to you, our customer.
+We may collect the following information:
 
-When you visit our website, we collect non-personal information about your visit. We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website and the emails you receive from us (should you grant us permission to send to you). We keep this information for our internal use; we do not share it with others. 
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Our site uses cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at HerbalRemedy.in, tailoring the content to your interests.
 
-If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us, as described in the opt-out section below. The credit card information we collect is used ONLY to bill you for products you purchase. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You will automatically be registered to receive our weekly newsletter unless you opt-out at the time of purchase. You may opt-out at any later time by following the unsubscribe instructions in the newsletter or by emailing us for the same.
 
-We occasionally run our own online surveys and we ask visitors for contact information (such as email address) and demographic information (such as zip code, age, or income level). We use contact data from our surveys to send users information about our company. You may opt-out of the survey and also opt-out of any future mailings at the time of the survey. The demographic information is used to learn more about the types of people who visit our site. This information is not shared with any other parties currently. We reserve the right to share this information with other parties in the future in an aggregated format that would not disclose any personally identifiable information. 
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-Opt-Out  
-If you decide to opt out of our newsletter, our emails provide you the opportunity to opt out of receiving communications from us. You can also opt-out by sending an email to us with the word unsubscribe followed by your email address in the subject line of the email.
+## What we do with the information we gather
 
-Links  
-This site contains links to other sites. HerbalRemedy.in is not responsible for the privacy practices or the content of such Web sites. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-When You Send Email to our Customer Service Department  
-We provide email links on our Contact Us page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-If you have any questions or concerns, please contact us by e-mail at: [support@herbalremedy.in](mailto:support@herbalremedy.in)
+
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us this request using our Contact Us information. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FORM_KEY | Stores form key used by page cache functionality.  
+FRONTEND | Your session ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wish List.  
+WISHLIST_CNT | The number of items in your Wish List.
