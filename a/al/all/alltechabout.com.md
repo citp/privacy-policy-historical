@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechabout.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227192757id_/http%3A//www.alltechabout.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechabout.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628144539id_/http%3A//www.alltechabout.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy • ALL Tech About
 
