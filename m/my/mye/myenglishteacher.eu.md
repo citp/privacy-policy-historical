@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142900id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628090056id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online English Teacher - MyEnglishTeacher.eu
 
