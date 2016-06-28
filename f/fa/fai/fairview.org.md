@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223105509id_/http%3A//www.fairview.org/about/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628043121id_/http%3A//www.fairview.org/about/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Fairview Health Services - Fairview Health Services
 
