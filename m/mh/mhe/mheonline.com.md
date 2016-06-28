@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040411id_/http%3A//www.mheducation.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629000450id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Center
 
@@ -159,7 +159,7 @@ We recognize and acknowledge current data protection laws in the European Union,
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
-In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
+In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
 
 ## Educator Data Privacy Notice
 
@@ -299,7 +299,7 @@ We recognize and acknowledge current data protection laws in the European Union,
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
-In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
+In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
 
 ## Parent Data Privacy Notice
 
@@ -430,7 +430,7 @@ We recognize and acknowledge current data protection laws in the European Union,
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
-In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
+In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
 
 ## Student Data Privacy Notice
 
@@ -541,4 +541,4 @@ We recognize and acknowledge current data protection laws in the European Union,
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
-In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
+In the event your complaint cannot be resolved, you may contact the appropriate DPA or the Swiss Federal Data Protection and Information Commissioner. The contact information for the EU DPAs is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm. The contact information for the Commissioner is available at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
