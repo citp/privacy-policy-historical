@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229134929id_/http%3A//newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsghana.com.gh privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628211712id_/http%3A//www.newsghana.com.gh/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | News Ghana
 
@@ -25,3 +25,5 @@ From time to time we partner with third party service providers to offer additio
 **Changes to our Privacy Policy:**
 
 We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.
+
+Contact us: info@newsghana.com.gh
