@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916050557id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628235610id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -23,7 +23,7 @@ We may collect and process the following information about you:
 
 We will use the information set out above to:
 
-  * carry out our obligations arising from any contracts entered into between you and us;
+  * carry out our obligations arising from any contracts entered into between you and us including any outstanding obligations we may have following termination of any contract we may have had with you;
   * provide and personalise our services to you; 
   * notify you about changes to our service or improvements to our website;
   * deal with your enquiries and requests; 
