@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221101511id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628140354id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 
@@ -88,8 +88,13 @@
         var expectedMobileURL = '/mobile/about-the-museum/privacy-policy';
 
         // the expectedURL is for the mobile site
-        if (window.addEventListener) window.addEventListener("load", goMobile(navigator.userAgent||navigator.vendor||window.opera), true);
-        else window.onload = goMobile(navigator.userAgent||navigator.vendor||window.opera);
+        if (window.location.href == "https://www.ushmm.org/information/plan-a-visit") {
+            if (window.addEventListener) {
+                window.addEventListener("load", goMobile(navigator.userAgent||navigator.vendor||window.opera), true);
+            } else {
+                window.onload = goMobile(navigator.userAgent||navigator.vendor||window.opera);
+            }            
+        }
 
         // if we made it this far we are staying here, please continue
     </script>
@@ -99,6 +104,7 @@
     <title>Privacy Policy — United States Holocaust Memorial Museum</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-Frame-Options" content="sameorigin">
     <meta name="apple-itunes-app" content="app-id=901527212">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -139,7 +145,7 @@
                 videojs.options.flash.swf = "/a/vplayer/video-js.swf"
             </script>
 
-<link rel="stylesheet" type="text/css" href="/a/c/font-awesome-4.3.0/css/font-awesome.min.css"><meta property="og:site_name" content="United States Holocaust Memorial Museum"><meta property="og:type" content="article"><meta property="og:image" content="http://www.ushmm.org/m/img/facebook.png"><style>* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}</style></head>
+<link rel="stylesheet" type="text/css" href="/a/c/font-awesome-4.3.0/css/font-awesome.min.css"><meta property="og:site_name" content="United States Holocaust Memorial Museum"><meta property="og:type" content="article"><meta property="og:image" content="//www.ushmm.org/m/img/facebook.png"><style>* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}</style></head>
 <body class="full-text content-tmplt">
 
 
@@ -150,7 +156,7 @@
 	<div class="wrap">
 
 		
-		<strong class="move"><a href="http://www.ushmm.org/">United States Holocaust Memorial Museum</a></strong>
+		<strong class="move"><a href="https://www.ushmm.org/">United States Holocaust Memorial Museum</a></strong>
 		
 
 		<ul class="utility-nav" role="navigation">
@@ -170,6 +176,8 @@
                             <li lang="fa"><a href="/fa">منابع موجود به زبان فارسی</a></li>
                         
                             <li lang="fr"><a href="/fr">Ressources en français</a></li>
+                        
+                            <li lang="hu"><a href="/hu">Gyűjtemény és tudástár magyar nyelven</a></li>
                         
                             <li lang="id"><a href="/id">Sumber Bahasa Indonesia</a></li>
                         
@@ -192,18 +200,18 @@
                     </ul>
 				</div>
 			</li>
-			<li><a href="http://www.ushmm.org/online/calendar/">Events</a></li>
-			<li><a href="http://www.ushmm.org/information/plan-a-visit">Plan Your Visit</a></li>
-			<li><a href="http://www.ushmm.org/support">Support the Museum</a></li>
-			<li><a href="http://www.ushmm.org/information/connect-with-the-museum">Connect</a></li>
-			<li><a href="https://donate.ushmm.org/support" class="btn">Donate</a></li>
+			<li><a href="https://www.ushmm.org/online/calendar/">Events</a></li>
+			<li><a href="https://www.ushmm.org/information/plan-a-visit">Plan Your Visit</a></li>
+			<li><a href="https://www.ushmm.org/support">Support the Museum</a></li>
+			<li><a href="https://www.ushmm.org/information/connect-with-the-museum">Connect</a></li>
+			<li><a href="https://engage.ushmm.org/support.html" class="btn">Donate</a></li>
 		</ul>
 
 
 		<ul class="main-nav" role="navigation">
-			<li><a href="http://www.ushmm.org/learn"><strong>Learn About</strong> The Holocaust</a></li>
-			<li><a href="http://www.ushmm.org/remember"><strong>Remember</strong> Survivors and Victims</a></li>
-			<li class="alt-main-nav"><strong>Confront</strong> <a class="nav-genocide" href="http://www.ushmm.org/confront-genocide">Genocide</a> <span class="move">and</span> <a class="" href="http://www.ushmm.org/confront-antisemitism">Antisemitism</a></li>
+			<li><a href="https://www.ushmm.org/learn"><strong>Learn About</strong> The Holocaust</a></li>
+			<li><a href="https://www.ushmm.org/remember"><strong>Remember</strong> Survivors and Victims</a></li>
+			<li class="alt-main-nav"><strong>Confront</strong> <a class="nav-genocide" href="https://www.ushmm.org/confront-genocide">Genocide</a> <span class="move">and</span> <a class="" href="https://www.ushmm.org/confront-antisemitism">Antisemitism</a></li>
 		</ul>
 
 		<form action="/search/results/" method="get" name="search" id="search" role="search" onsubmit="return validate_site_search()">
@@ -240,14 +248,14 @@
         <a href="/" class="logo-link"><img src="/a/titles/logo-foremost.gif"></a>
 
         <ul class="breadcrumbs">
-            <li class="first"><a href="http://www.ushmm.org/">Home</a></li>
+            <li class="first"><a href="https://www.ushmm.org/">Home</a></li>
 
             
 
                 
 
                     
-                    <li><a href="http://www.ushmm.org/copyright-and-legal-information">Copyright and Legal Information</a></li>
+                    <li><a href="https://www.ushmm.org/copyright-and-legal-information">Copyright and Legal Information</a></li>
                 
 
             
@@ -287,7 +295,7 @@ var USHMMShareDisplayElement = document.createElement("div");
 var USHMMShareDisplayIDAttribute = document.createAttribute("id");
 USHMMShareDisplayIDAttribute.value = "desktop-share-col";
 USHMMShareDisplayElement.setAttributeNode(USHMMShareDisplayIDAttribute);
-USHMMShareDisplayElement.innerHTML = "<div class='social-share desktop'><h4>Share</h4><a href='#' onclick=\"window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436'); return false;\"><i class='fa fa-facebook'></i></a><a href='#' onclick=\"window.open('https://twitter.com/share?url='+encodeURIComponent(location.href)+'&lang=en&text=Privacy Policy&related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;\"><i class='fa fa-twitter'></i></a><a href='#' onclick=\"javascript:window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href), 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;\"><i class='fa fa-google-plus'></i></a><a href='#' onclick=\"window.open('http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'&title=Privacy+Policy&summary=&source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;\"><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=I found something interesting on USHMM.org&body=Privacy Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttp://www.ushmm.org/copyright-and-legal-information/privacy-policy'><i class='fa fa-envelope'></i></a></div>";
+USHMMShareDisplayElement.innerHTML = "<div class='social-share desktop'><h4>Share</h4><a href='#' onclick=\"window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy','facebook-share-dialog','width=626,height=436'); return false;\"><i class='fa fa-facebook'></i></a><a href='#' onclick=\"window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&lang=en&text=Privacy+Policy&related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;\"><i class='fa fa-twitter'></i></a><a href='#' onclick=\"javascript:window.open('https://plus.google.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy', 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;\"><i class='fa fa-google-plus'></i></a><a href='#' onclick=\"window.open('//www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&title=Privacy+Policy&summary=&source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;\"><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=I found something interesting on USHMM.org&body=Privacy+Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttps%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy' target='_blank'><i class='fa fa-envelope'></i></a></div>";
 document.body.appendChild(USHMMShareDisplayElement);
 var USHMMShareLinkElement = document.createElement("link");
 var USHMMShareRelAttribute = document.createAttribute("rel");
@@ -321,7 +329,7 @@ var USHMMFacebookImagePropertyAttribute = document.createAttribute("property");
 USHMMFacebookImagePropertyAttribute.value = "og:image";
 USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImagePropertyAttribute);
 var USHMMFacebookImageContentAttribute = document.createAttribute("content");
-USHMMFacebookImageContentAttribute.value = "http://www.ushmm.org/m/img/facebook.png";
+USHMMFacebookImageContentAttribute.value = "//www.ushmm.org/m/img/facebook.png";
 USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImageContentAttribute);
 document.head.appendChild(USHMMFacebookImageMeta);
 var USHMMShareStyleElement = document.createElement("style");
@@ -336,12 +344,12 @@ var fixd_social = setInterval(fixSocial, 100);
             
                 
                 <ul id="nav-sub" class="nav">
-<li class="first"><a href="http://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
-<li class="active"><a href="http://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy Policy</a></li>
-<li><a href="http://www.ushmm.org/copyright-and-legal-information/annual-reports">Reports</a></li>
-<li><a href="http://www.ushmm.org/copyright-and-legal-information/irs-form-990">IRS Form 990</a></li>
-<li><a href="http://www.ushmm.org/copyright-and-legal-information/performance-and-accountability">Performance and Accountability</a></li>
-<li class="last"><a href="http://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal and Tax Status Information</a></li>
+<li class="first"><a href="https://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
+<li class="active"><a href="https://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://www.ushmm.org/copyright-and-legal-information/annual-reports">Reports</a></li>
+<li><a href="https://www.ushmm.org/copyright-and-legal-information/irs-form-990">IRS Form 990</a></li>
+<li><a href="https://www.ushmm.org/copyright-and-legal-information/performance-and-accountability">Performance and Accountability</a></li>
+<li class="last"><a href="https://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal and Tax Status Information</a></li>
 </ul>
 
             
@@ -366,163 +374,137 @@ var fixd_social = setInterval(fixSocial, 100);
 
     
 
-    <div class="wysiwyg"><p>
-	The United States Holocaust Memorial Museum (“Museum”) is committed to protecting the personal information that you provide to us when using our website. The Museum does not collect personal information about visitors to our website unless you choose to provide it to us.</p>
-<p>
-	This privacy policy describes how we handle all user information collected during your visit. Occasionally, changes in the technology, functionality, or content we provide on our website may require us to revise this policy. We encourage our visitors to return to this page periodically to learn about any changes we may have made.</p>
-<h2 style="font-size:24px;">
-	Information Collected</h2>
-<p>
-	We collect two types of information about our website visitors: 1) anonymous information that is automatically collected from all visitors to our site, and 2) personally identifiable information that you knowingly and voluntarily submit to us (“personal information”).</p>
-<h2 style="font-size:24px;">
-	Anonymous Information</h2>
-<p>
-	If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. We use this information to help us make our site more useful to visitors — to learn about the number of visitors to our site and the types of technology our visitors use. This information does not identify you personally. We collect the following information:</p>
+    <div class="wysiwyg"><p>The United States Holocaust Memorial Museum (“Museum”) is committed to protecting the personal information that you provide to us when using our website. The Museum does not collect personal information about visitors to our website unless you choose to provide it to us.</p>
+
+<p>This privacy policy describes how we handle all user information collected during your visit. Occasionally, changes in the technology, functionality, or content we provide on our website may require us to revise this policy. We encourage our visitors to return to this page periodically to learn about any changes we may have made.</p>
+
+<h2 style="font-size:24px;">Information Collected</h2>
+
+<p>We collect two types of information about our website visitors: 1) anonymous information that is automatically collected from all visitors to our site, and 2) personally identifiable information that you knowingly and voluntarily submit to us (“personal information”).</p>
+
+<h2 style="font-size:24px;">Anonymous Information</h2>
+
+<p>If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. We use this information to help us make our site more useful to visitors — to learn about the number of visitors to our site and the types of technology our visitors use. This information does not identify you personally. We collect the following information:</p>
+
 <ul>
-	<li>
-		The Internet domain (e.g., “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and the Internet Protocol (IP) address (the unique numerical expression of the domain from which your computer operates and the computer that you are using) from which you access our website</li>
-	<li>
-		The types of browser and operating systems used to access our website</li>
-	<li>
-		The dates and times our website is accessed</li>
-	<li>
-		The pages visited</li>
-	<li>
-		The number of accesses to each page</li>
-	<li>
-		If users linked to our website from another website, the address of that website</li>
+	<li>The Internet domain (e.g., “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and the Internet Protocol (IP) address (the unique numerical expression of the domain from which your computer operates and the computer that you are using) from which you access our website</li>
+	<li>The types of browser and operating systems used to access our website</li>
+	<li>The dates and times our website is accessed</li>
+	<li>The pages visited</li>
+	<li>The number of accesses to each page</li>
+	<li>If users linked to our website from another website, the address of that website</li>
 </ul>
-<h2 style="font-size:24px;">
-	Personal Information</h2>
-<p>
-	The Museum only collects personal information that you voluntarily provide to us. Personal information we may collect includes your name, postal address, e-mail address, preferences for types of information, or the name, address or e-mail address of a friend to whom you wish us to send information or a gift. A specific type of personal information that may be collected is financial information, as further described below.</p>
-<p>
-	The Museum may collect personal information when you:</p>
+
+<h2 style="font-size:24px;">Personal Information</h2>
+
+<p>The Museum only collects personal information that you voluntarily provide to us. Personal information we may collect includes your name, postal address, e-mail address, preferences for types of information, or the name, address or e-mail address of a friend to whom you wish us to send information or a gift. A specific type of personal information that may be collected is financial information, as further described below.</p>
+
+<p>The Museum may collect personal information when you:</p>
+
 <ul>
-	<li>
-		Register to attend a Museum event</li>
-	<li>
-		Complete a Museum form</li>
-	<li>
-		Join or renew your membership with the Museum</li>
-	<li>
-		Make a tribute or gift membership</li>
-	<li>
-		Make a contribution to the Museum</li>
-	<li>
-		Sign up for our e-mail network or one of our e-newsletters</li>
-	<li>
-		Send correspondence to our webmaster or other Museum staff member</li>
-	<li>
-		Order items available from the Museum Shop</li>
-	<li>
-		Participate in one of our online surveys</li>
-	<li>
-		Post a comment to our website</li>
+	<li>Register to attend a Museum event</li>
+	<li>Complete a Museum form</li>
+	<li>Join or renew your membership with the Museum</li>
+	<li>Make a tribute or gift membership</li>
+	<li>Make a contribution to the Museum</li>
+	<li>Sign up for our e-mail network or one of our e-newsletters</li>
+	<li>Send correspondence to our webmaster or other Museum staff member</li>
+	<li>Order items available from the Museum Shop</li>
+	<li>Participate in one of our online surveys</li>
+	<li>Post a comment to our website</li>
 </ul>
-<p>
-	By providing personal information on our website, you are giving consent to the Museum to use the information for the stated purpose, such as to:</p>
+
+<p>By providing personal information on our website, you are giving consent to the Museum to use the information for the stated purpose, such as to:</p>
+
 <ul>
-	<li>
-		Respond to your message</li>
-	<li>
-		Help us get you the information you have requested</li>
-	<li>
-		Provide you the requested service</li>
-	<li>
-		Allow you to select or change user preferences</li>
-	<li>
-		Confirm your contribution</li>
-	<li>
-		Send you receipts for tax-deductible gifts</li>
-	<li>
-		Personalize the content you see based on the activities and choices you have made</li>
+	<li>Respond to your message</li>
+	<li>Help us get you the information you have requested</li>
+	<li>Provide you the requested service</li>
+	<li>Allow you to select or change user preferences</li>
+	<li>Confirm your contribution</li>
+	<li>Send you receipts for tax-deductible gifts</li>
+	<li>Personalize the content you see based on the activities and choices you have made</li>
 </ul>
-<p>
-	If you decide to give us personal information for a particular purpose, we may contact you about other Museum programs or opportunities to support Museum programs. For example, if you do one of the activities on our website, such as post a comment, you may be given the option to subscribe to our e-newsletters or to donate funds in support of Museum programs. You will always have an immediate opportunity to decline further communication.</p>
-<p>
-	If you make a tribute gift, the Museum may provide your name and postal address to the family of the person who was honored by your gift. If you wish that your name or address not be shared for this purpose, please contact our Membership Division at the telephone number or email address given below.</p>
-<p>
-	Donors who have provided the Museum with an e-mail address or whose postal address is matched to an e-mail address will receive Museum’s general news e-newsletter. If you wish to decline the e-communication benefits, please follow one of the opt-out procedures described below.</p>
-<p>
-	Our website has pages on which members of the public are invited to comment or provide feedback, such as message boards. Any information (comments, photos, sounds) posted on these pages becomes public information. Please exercise caution when deciding to disclose personal information.</p>
-<h2 style="font-size:24px;">
-	Children’s Privacy Policy</h2>
-<p>
-	Some of the Museum’s online programs and applications may offer educational content of interest to children under the age of 13, and the Museum may occasionally receive personally identifiable information from a child in order to respond to a one-time request or communication. We do not use the information for any other purpose and will delete the information as soon as practical. For example, a child may use his or her e-mail address to send us a photograph for a Museum web page for students. We will use the e-mail address to send the child confirmation that we have received the photo and we will then delete the e-mail address.</p>
-<p>
-	The Museum may occasionally provide an online interactive program for children under the age of 13 and collect personal information from these children to enable their ongoing participation in the program. To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program. The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy. That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.</p>
-<p>
-	If the Museum becomes aware that a child has posted personally identifiable information on any of our web pages, we will delete the information as soon as practical.</p>
-<p>
-	The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at <a href="http://www.ushmm.org/museum/contact/">ushmm.org/museum/contact/</a>. Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.</p>
-<h2 style="font-size:24px;">
-	Financial Information</h2>
-<p>
-	Financial information is personally identifiable information you submit that may include the amount of a gift or payment, preferred payment method, a credit card number, debit tracking number, or other information required to complete a financial transaction. The Museum will not disclose financial information except as necessary to fulfill the donation or order request. We collect financial information in a secure manner and discard such information after processing is complete. We employ error-checking procedures to make certain transactions are processed in an accurate, complete, and timely manner. The Museum also obtains independent internal and external audits to ensure the privacy, security, and appropriateness of these transactions.</p>
-<p>
-	If you prefer to mail or phone in a donation, please see the contact information on the donation form, or call 866.99USHMM (866.998.7466), or mail your gift to: United States Holocaust Memorial Museum, Donation Processing Center, P.O. Box 7022, Albert Lea, MN 56007-8022.</p>
-<h2 style="font-size:24px;">
-	Use of Cookies</h2>
-<p>
-	We may collect some information through the use of cookies. Cookies are alphanumeric identifiers that are transferred either to your computer’s hard drive (“long-term” or “persistent” cookies) or temporarily to your computer’s Random Access Memory (“session” cookies). A cookie cannot read data off your computer hard disk nor can it read cookies files created by other websites. We use cookies to make visiting and using our site easier.</p>
-<p>
-	We only use long-term cookies to enable us to measure return visits to the website. These cookies contain no personal information and will only be used in aggregate form. You may refuse to accept long-term cookies by adjusting your browser preferences.</p>
-<p>
-	When you visit the Museum’s site, session cookies may be stored that last only as long as your session on the Museum’s site. They expire when your session ends and are not written onto your computer's hard drive. For example, we may use session cookies in retaining a choice you have made while using the Museum’s calendar.</p>
-<p>
-	As with long-term cookies, no personal information is stored in session cookies. Credit card information cannot be accessed using cookies.</p>
-<p>
-	You may set your browser to refuse long-term and session cookies from any website that you visit. If you so choose, you may still gain access to most of the Museum’s website, but you may not be able to conduct certain types of transactions (such as shopping) or take advantage of some of the interactive elements offered.</p>
-<h2 style="font-size:24px;">
-	Third-Party Disclosure</h2>
-<p>
-	We may disclose personal information to third-party service providers who are contracted by the Museum to facilitate services, such as completing contribution transactions, responding to your service requests, sending e-newsletters, responding to surveys, or other similar functions. All of our third-party service providers have access to your personal information solely for the purpose of providing services to you on our behalf, and they are contractually prohibited from sharing your personal information with other third parties.</p>
-<p>
-	Except for these exceptions and for law enforcement or other purposes specifically required by law, the Museum does not disclose personal information to third parties without first obtaining your permission.</p>
-<p>
-	We occasionally exchange or rent contributor postal mailing lists with carefully selected organizations, specifically to help us expand our Membership program in a cost-effective way. Please note that we do not exchange or rent e-mail addresses. If you prefer that we do not exchange or rent your name and postal address, please follow the instructions in the opt-out procedures below.</p>
-<h2 style="font-size:24px;">
-	Security</h2>
-<p>
-	The personal information we collect is stored on a secured server. We use industry-standard encryption technologies to prevent your personal and financial information from being seen as it travels over the Internet to our servers. We routinely evaluate our security and the security of our third-party service providers to monitor and upgrade security measures.</p>
-<h2 style="font-size:24px;">
-	External Links</h2>
-<p>
-	This website contains links to the websites of other government agencies, affiliated museums, and private organizations. When you click on the links to any of these other websites, you leave the Museum’s website and will no longer be subject to this Privacy Policy. While we make efforts to choose our links carefully, we cannot take responsibility for the content or privacy policies of linked websites. We encourage you to review the privacy policies on those websites.</p>
-<h2 style="font-size:24px;">
-	Opt-Out Options</h2>
-<p>
-	You can opt out of receiving e-mail correspondence or e-newsletters in one of two ways.</p>
+
+<p>If you decide to give us personal information for a particular purpose, we may contact you about other Museum programs or opportunities to support Museum programs. For example, if you do one of the activities on our website, such as post a comment, you may be given the option to subscribe to our e-newsletters or to donate funds in support of Museum programs. You will always have an immediate opportunity to decline further communication.</p>
+
+<p>If you make a tribute gift, the Museum may provide your name and postal address to the family of the person who was honored by your gift. If you wish that your name or address not be shared for this purpose, please contact our Membership Division at the telephone number or email address given below.</p>
+
+<p>Donors who have provided the Museum with an e-mail address or whose postal address is matched to an e-mail address will receive Museum’s general news e-newsletter. If you wish to decline the e-communication benefits, please follow one of the opt-out procedures described below.</p>
+
+<p>Our website has pages on which members of the public are invited to comment or provide feedback, such as message boards. Any information (comments, photos, sounds) posted on these pages becomes public information. Please exercise caution when deciding to disclose personal information.</p>
+
+<h2 style="font-size:24px;">Children’s Privacy Policy</h2>
+
+<p>Some of the Museum’s online programs and applications may offer educational content of interest to children under the age of 13, and the Museum may occasionally receive personally identifiable information from a child in order to respond to a one-time request or communication. We do not use the information for any other purpose and will delete the information as soon as practical. For example, a child may use his or her e-mail address to send us a photograph for a Museum web page for students. We will use the e-mail address to send the child confirmation that we have received the photo and we will then delete the e-mail address.</p>
+
+<p>The Museum may occasionally provide an online interactive program for children under the age of 13 and collect personal information from these children to enable their ongoing participation in the program. To register for such programs, a child under the age of 13 may have to provide an e-mail address that we will store and use only for the purposes of the program. The child will also have to complete a “parent’s or teacher’s e-mail approval” box so that the Museum may notify the adult of the registration and the Museum’s privacy policy. That e-mail will also allow the adult to consent to the Museum’s collection and use of the child’s personal information for the program, or to request that the child’s registration be revoked and personal information deleted.</p>
+
+<p>If the Museum becomes aware that a child has posted personally identifiable information on any of our web pages, we will delete the information as soon as practical.</p>
+
+<p>The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at <a href="https://www.ushmm.org/information/contact-the-museum">ushmm.org/information/contact-the-museum</a>. Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.</p>
+
+<h2 style="font-size:24px;">Financial Information</h2>
+
+<p>Financial information is personally identifiable information you submit that may include the amount of a gift or payment, preferred payment method, a credit card number, debit tracking number, or other information required to complete a financial transaction. The Museum will not disclose financial information except as necessary to fulfill the donation or order request. We collect financial information in a secure manner and discard such information after processing is complete. We employ error-checking procedures to make certain transactions are processed in an accurate, complete, and timely manner. The Museum also obtains independent internal and external audits to ensure the privacy, security, and appropriateness of these transactions.</p>
+
+<p>If you prefer to mail or phone in a donation, please see the contact information on the donation form, or call 866.99USHMM (866.998.7466), or mail your gift to: United States Holocaust Memorial Museum, Donation Processing Center, P.O. Box 1568, Merrifield, VA 22116-1568.</p>
+
+<h2 style="font-size:24px;">Use of Cookies</h2>
+
+<p>We may collect some information through the use of cookies. Cookies are alphanumeric identifiers that are transferred either to your computer’s hard drive (“long-term” or “persistent” cookies) or temporarily to your computer’s Random Access Memory (“session” cookies). A cookie cannot read data off your computer hard disk nor can it read cookies files created by other websites. We use cookies to make visiting and using our site easier.</p>
+
+<p>We only use long-term cookies to enable us to measure return visits to the website. These cookies contain no personal information and will only be used in aggregate form. You may refuse to accept long-term cookies by adjusting your browser preferences.</p>
+
+<p>When you visit the Museum’s site, session cookies may be stored that last only as long as your session on the Museum’s site. They expire when your session ends and are not written onto your computer's hard drive. For example, we may use session cookies in retaining a choice you have made while using the Museum’s calendar.</p>
+
+<p>As with long-term cookies, no personal information is stored in session cookies. Credit card information cannot be accessed using cookies.</p>
+
+<p>You may set your browser to refuse long-term and session cookies from any website that you visit. If you so choose, you may still gain access to most of the Museum’s website, but you may not be able to conduct certain types of transactions (such as shopping) or take advantage of some of the interactive elements offered.</p>
+
+<h2 style="font-size:24px;">Third-Party Disclosure</h2>
+
+<p>We may disclose personal information to third-party service providers who are contracted by the Museum to facilitate services, such as completing contribution transactions, responding to your service requests, sending e-newsletters, responding to surveys, or other similar functions. All of our third-party service providers have access to your personal information solely for the purpose of providing services to you on our behalf, and they are contractually prohibited from sharing your personal information with other third parties.</p>
+
+<p>Except for these exceptions and for law enforcement or other purposes specifically required by law, the Museum does not disclose personal information to third parties without first obtaining your permission.</p>
+
+<p>We occasionally exchange or rent contributor postal mailing lists with carefully selected organizations, specifically to help us expand our Membership program in a cost-effective way. Please note that we do not exchange or rent e-mail addresses. If you prefer that we do not exchange or rent your name and postal address, please follow the instructions in the opt-out procedures below.</p>
+
+<h2 style="font-size:24px;">Security</h2>
+
+<p>The personal information we collect is stored on a secured server. We use industry-standard encryption technologies to prevent your personal and financial information from being seen as it travels over the Internet to our servers. We routinely evaluate our security and the security of our third-party service providers to monitor and upgrade security measures.</p>
+
+<h2 style="font-size:24px;">External Links</h2>
+
+<p>This website contains links to the websites of other government agencies, affiliated museums, and private organizations. When you click on the links to any of these other websites, you leave the Museum’s website and will no longer be subject to this Privacy Policy. While we make efforts to choose our links carefully, we cannot take responsibility for the content or privacy policies of linked websites. We encourage you to review the privacy policies on those websites.</p>
+
+<h2 style="font-size:24px;">Opt-Out Options</h2>
+
+<p>You can opt out of receiving e-mail correspondence or e-newsletters in one of two ways.</p>
+
 <ol>
-	<li>
-		E-mail correspondence and e-newsletters have an easy-to-use unsubscribe option at the bottom of each e-mail. Just click on the unsubscribe link at the bottom of an e-mail and follow the instructions on the page to opt out of that e-mail correspondence.</li>
-	<li>
-		Send an e-mail to <a href="mailto:web_administrator@ushmm.org">web_administrator@ushmm.org</a></li>
+	<li>E-mail correspondence and e-newsletters have an easy-to-use unsubscribe option at the bottom of each e-mail. Just click on the unsubscribe link at the bottom of an e-mail and follow the instructions on the page to opt out of that e-mail correspondence.</li>
+	<li>Send an e-mail to <a href="mailto:web_administrator@ushmm.org">web_administrator@ushmm.org</a></li>
 </ol>
-<p>
-	If you wish to review or change your contact information for the purposes of your web activity and e-mail correspondence, please e-mail <a href="mailto:web_administrator@ushmm.org">web_administrator@ushmm.org</a></p>
-<p>
-	If you have made a gift to the Museum, you may request a review of or correction to your account information in one of two ways.</p>
+
+<p>If you wish to review or change your contact information for the purposes of your web activity and e-mail correspondence, please e-mail <a href="mailto:web_administrator@ushmm.org">web_administrator@ushmm.org</a></p>
+
+<p>If you have made a gift to the Museum, you may request a review of or correction to your account information in one of two ways.</p>
+
 <ol>
-	<li>
-		Send an e-mail to <a href="mailto:membership@ushmm.org">membership@ushmm.org</a></li>
-	<li>
-		Call our toll-free Member Services line at 866.998.7466.</li>
+	<li>Send an e-mail to <a href="mailto:membership@ushmm.org">membership@ushmm.org</a></li>
+	<li>Call our toll-free Member Services line at 866.998.7466.</li>
 </ol>
-<p>
-	If you are a member or donor, you can choose to limit the postal mail exchange or rent of addresses with other charitable organizations in one of three ways:</p>
+
+<p>If you are a member or donor, you can choose to limit the postal mail exchange or rent of addresses with other charitable organizations in one of three ways:</p>
+
 <ol>
-	<li>
-		Indicate “do not exchange” or “do not rent” on any of your membership mail packages and return in the pre-addressed envelope.</li>
-	<li>
-		Send an e-mail to<a href="mailto:membership@ushmm.org"> </a><a href="mailto:Membership@ushmm.org">membership@ushmm.org</a>.</li>
-	<li>
-		Call our Member Services line at 866.998.7466.</li>
+	<li>Indicate “do not exchange” or “do not rent” on any of your membership mail packages and return in the pre-addressed envelope.</li>
+	<li>Send an e-mail to<a href="mailto:membership@ushmm.org"> </a><a href="mailto:Membership@ushmm.org">membership@ushmm.org</a>.</li>
+	<li>Call our Member Services line at 866.998.7466.</li>
 </ol>
-<p>
-	You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting STOP to the short code 20222. Text HELP for help or visit <a href="http://www.hmgf.org/t">hmgf.org/t</a> (external link). Messaging and data rates may apply.</p>
-</div>
+
+<p>You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting STOP to the short code 20222. Text HELP for help or visit <a href="http://www.hmgf.org/t">hmgf.org/t</a> (external link). Messaging and data rates may apply.</p></div>
 
     
 
@@ -536,13 +518,57 @@ var fixd_social = setInterval(fixSocial, 100);
 
 
 
-</div><div id="desktop-share-col"><div class="social-share desktop"><h4>Share</h4><a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436'); return false;"><i class="fa fa-facebook"></i></a><a href="#" onclick="window.open('https://twitter.com/share?url='+encodeURIComponent(location.href)+'&amp;lang=en&amp;text=Privacy Policy&amp;related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;"><i class="fa fa-twitter"></i></a><a href="#" onclick="javascript:window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href), 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a><a href="#" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent(location.href)+'&amp;title=Privacy+Policy&amp;summary=&amp;source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;"><i class="fa fa-linkedin"></i></a><a href="mailto:?subject=I found something interesting on USHMM.org&amp;body=Privacy Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttp://www.ushmm.org/copyright-and-legal-information/privacy-policy"><i class="fa fa-envelope"></i></a></div></div>
+</div><div id="desktop-share-col"><div class="social-share desktop"><h4>Share</h4><a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy','facebook-share-dialog','width=626,height=436'); return false;"><i class="fa fa-facebook"></i></a><a href="#" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&amp;lang=en&amp;text=Privacy+Policy&amp;related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;"><i class="fa fa-twitter"></i></a><a href="#" onclick="javascript:window.open('https://plus.google.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy', 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a><a href="#" onclick="window.open('//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&amp;title=Privacy+Policy&amp;summary=&amp;source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;"><i class="fa fa-linkedin"></i></a><a href="mailto:?subject=I found something interesting on USHMM.org&amp;body=Privacy+Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttps%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy" target="_blank"><i class="fa fa-envelope"></i></a></div></div>
 
+<div class="coda" role="navigation">
+	<div class="wrap">
+		<div class="coda-block first">
+			<h2>Museum <a href="/information">Information</a></h2>
+			<ul>
+                <li><a href="/information/plan-a-visit/exhibitions-and-activities">Today at the Museum</a></li>
+				<li><a href="/information/plan-a-visit">Plan Your Visit</a></li>
+				<li><a href="/information/exhibitions">Exhibitions and Collections</a></li>
+				<li><a href="/information/exhibitions/traveling-exhibitions">Traveling Exhibitions</a></li>
+			</ul>
+		</div>
 
+		<div class="coda-block">
+			<h2>Resources for <a href="/research">Academics and Research</a></h2>
+			<ul>
+                <li><a href="/research/ask-a-research-question">Ask a Research Question</a></li>
+				<li><a href="/research/research-in-collections">Research in Collections</a></li>
+				<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center">Research about Survivors and Victims</a></li>
+				<li><a href="/research/the-center-for-advanced-holocaust-studies">Academic Programs</a></li>
+			</ul>
+		</div>
+
+		<div class="coda-block">
+			<h2>Resources for <a href="/educators">Educators</a></h2>
+			<ul>
+                <li><a href="/educators/teaching-about-the-holocaust">Teaching about the Holocaust </a></li>
+				<li><a href="/educators/professional-events-and-resources">Programs for Teachers</a></li>
+				<li><a href="/educators/teaching-materials">Teaching Materials</a></li>
+				<li><a href="/learn/holocaust-encyclopedia">Holocaust Encyclopedia</a></li>
+			</ul>
+
+		</div>
+
+		<div class="coda-block last">
+			<h2>Resources for <a href="/professionals-and-student-leaders">Professionals and Student Leaders</a></h2>
+			<ul>
+				<li><a href="/professionals-and-student-leaders/judiciary">Judiciary</a></li>
+				<li><a href="/professionals-and-student-leaders/military-professionals">Military</a></li>
+				<li><a href="/professionals-and-student-leaders/law-enforcement">Law Enforcement</a></li>
+				<li><a href="/research/the-center-for-advanced-holocaust-studies/programs-ethics-religion-the-holocaust">Faith and Interfaith Communities</a></li>
+			</ul>
+		</div>
+
+	</div><!--/wrap-->
+</div><!--/coda-->
 <div class="footer" role="contentinfo">
 	<div class="wrap">
 		<a class="logo-foot" href="/">United States Holocaust Memorial Museum</a>
-		<a href="https://plus.google.com/100561664959124518865?rel=author" style="text-decoration: none; color: inherit; cursor: text;"><strong>United States Holocaust Memorial Museum</strong></a>
+		<a href="//plus.google.com/100561664959124518865?rel=author" style="text-decoration: none; color: inherit; cursor: text;"><strong>United States Holocaust Memorial Museum</strong></a>
 
 		<div>
 			<p>
@@ -553,20 +579,20 @@ var fixd_social = setInterval(fixSocial, 100);
 			</p>
 		</div>
 		<ul class="social">
-			<li><a target="_blank" href="http://www.facebook.com/holocaustmuseum"><img src="/a/screen/social/icon-fb.png" alt="Facebook"></a></li>
-			<li><a target="_blank" href="http://www.twitter.com/holocaustmuseum"><img src="/a/screen/social/icon-twtr.png" alt="Twitter"></a></li>
-			<li><a target="_blank" href="http://plus.google.com/+holocaustmuseum/"><img src="/a/screen/social/icon-gplus.png" alt="Google Plus"></a></li>
-			<li><a target="_blank" href="http://www.youtube.com/ushmm"><img src="/a/screen/social/icon-ytube.png" alt="Youtube"></a></li>
-			<li><a target="_blank" href="http://www.pinterest.com/ushmm"><img src="/a/screen/social/icon-pint.png" alt="Pinterest"></a></li>
-			<li class="last"><a target="_blank" href="http://www.instagram.com/holocaustmuseum/"><img src="/a/screen/social/icon-inst.png" alt="Instagram"></a></li>
+			<li><a target="_blank" href="//www.facebook.com/holocaustmuseum"><img src="/a/screen/social/icon-fb.png" alt="Facebook"></a></li>
+			<li><a target="_blank" href="//www.twitter.com/holocaustmuseum"><img src="/a/screen/social/icon-twtr.png" alt="Twitter"></a></li>
+			<li><a target="_blank" href="//plus.google.com/+holocaustmuseum/"><img src="/a/screen/social/icon-gplus.png" alt="Google Plus"></a></li>
+			<li><a target="_blank" href="//www.youtube.com/ushmm"><img src="/a/screen/social/icon-ytube.png" alt="Youtube"></a></li>
+			<li><a target="_blank" href="//www.pinterest.com/ushmm"><img src="/a/screen/social/icon-pint.png" alt="Pinterest"></a></li>
+			<li class="last"><a target="_blank" href="//www.instagram.com/holocaustmuseum/"><img src="/a/screen/social/icon-inst.png" alt="Instagram"></a></li>
 		</ul>
 		<ul>
-			<li><a href="http://www.ushmm.org/information/about-the-museum">About the Museum</a></li>
-			<li><a href="http://www.ushmm.org/information/contact-the-museum">Contact the Museum</a></li>
-			<li><a href="http://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
-			<li><a href="http://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy</a></li>
-			<li><a href="http://www.ushmm.org/information/access">Accessibility</a></li>
-			<li><a href="http://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal</a></li>
+			<li><a href="https://www.ushmm.org/information/about-the-museum">About the Museum</a></li>
+			<li><a href="https://www.ushmm.org/information/contact-the-museum">Contact the Museum</a></li>
+			<li><a href="https://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
+			<li><a href="https://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy</a></li>
+			<li><a href="https://www.ushmm.org/information/access">Accessibility</a></li>
+			<li><a href="https://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal</a></li>
                         <script>
                             if (getCookie('isMobile') == "true" && getCookie('siteVersion') == "full") {
                                 document.write("<li><a onclick=\"document.cookie='siteVersion=mobile; expires=; path=/';location.reload();\">Switch to Mobile Website</a></li>");
@@ -594,7 +620,7 @@ var fixd_social = setInterval(fixSocial, 100);
 
 <script>
 <!--
-var a='';var b=' 9%A0%%00A';var c='2896715430';for(var i=0;i<1;i++) for(var j=0;j<10;j++) a+=b.charAt((parseInt(c.charAt(i*10+j))*1)+i); document.writeln(unescape(a));
+var a='';var b='%%9AA0 %00';var c='7540821936';for(var i=0;i<1;i++) for(var j=0;j<10;j++) a+=b.charAt((parseInt(c.charAt(i*10+j))*1)+i); document.writeln(unescape(a));
 -->
 </script>
 	
