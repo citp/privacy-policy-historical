@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127120455id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628143933id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
@@ -39,4 +39,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above addresses or phone number. For more information please [ _contact us_](http://www.siliconexpert.com/contact-us).
 
-© 2015 All Rights Reserved. SiliconExpert Technologies, Inc.
+© 2020 All Rights Reserved. SiliconExpert Technologies, Inc.
