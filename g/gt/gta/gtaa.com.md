@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010637id_/http%3A//www.torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628151733id_/http%3A//torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The GTAA is committed to protecting the privacy of individuals using the GTAA’s websites: torontopearson.com, festi.ca, and apps.torontopearson.com, in addition to other domain names which automatically redirect to torontopearson.com or festi.ca (the “Website(s)”). We will maintain personal information collected through the Website(s) in accordance with our Privacy Policy. We do not sell, share, or rent personal information collected from you to others in any way that is not mentioned in our Privacy Policy. The GTAA is the sole owner of all personal information collected on the Website(s).  
 The GTAA will use personal information collected to perform statistical analysis of user behaviour based on the Website(s) log files. This includes site usage patterns gathered during thousands of user visits to the Website(s) each month but does not contain identifying information about any individual.  
- 
+
 
 ## Obtaining your Consent
 
@@ -14,8 +14,8 @@ The GTAA has a Privacy Policy concerning the collection, use and disclosure of p
 The GTAA may occasionally amend its Privacy Policy. We suggest that you bookmark this page and periodically check to see if changes have been made.
 
   
- 
+
 
 ## Questions?
 
-If you wish to change any personal information you have given us, or have any questions about the website, you can contact us via email at [webmaster@gtaa.com](mailto:mailto:webmaster@gtaa.com).
+If you wish to change any personal information you have given us, or have any questions about the website, you can contact us via email at [webmaster@gtaa.com](mailto:webmaster@gtaa.com).
