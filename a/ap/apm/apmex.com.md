@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | APMEX
+# Buy Gold and Silver Safely - APMEX Privacy Policy | APMEX
 
 APMEX, Inc. ("APMEX") respects your privacy. We will never willfully disclose individually identifiable information about our customers to any third party, except in the limited circumstances permitted by this policy.
 
@@ -10,18 +10,18 @@ This privacy policy (“Privacy Policy”) applies solely to information collect
 
 This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities. Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [User Agreement](https://web.archive.org/useragreement), which governs your use of the Sites and any content you submit to the Sites.
 
-  1. [Information We Collect On Our Sites](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
-  2. [How We Use The Information We Collect](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
-  3. [Sharing Of Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
-  4. [Information We Receive From Third Parties](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
-  5. [Your Choice And Access](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
-  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
-  7. [Children](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?children#children)
-  8. [Security Of Your Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
-  9. [Other Sites](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
-  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
-  11. [Changes](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?changes#changes)
-  12. [Contact Us](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
+  1. [Information We Collect On Our Sites](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
+  2. [How We Use The Information We Collect](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
+  3. [Sharing Of Information](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
+  4. [Information We Receive From Third Parties](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
+  5. [Your Choice And Access](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
+  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
+  7. [Children](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?children#children)
+  8. [Security Of Your Information](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
+  9. [Other Sites](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
+  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
+  11. [Changes](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?changes#changes)
+  12. [Contact Us](https://web.archive.org/web/20160628074332id_/http%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
 
 
 
