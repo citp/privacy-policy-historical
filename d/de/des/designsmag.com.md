@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designsmag.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130231704id_/http%3A//www.designsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsmag.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628191716id_/http%3A//www.designsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Designsmag (Designs Magazine)
 
@@ -8,7 +8,7 @@ When you reached Designsmag.com, the privacy of our respected visitors is of gre
 
 Email addresses are only provided by the user voluntarily through the commenting process or via e-mail communications. Authors’ personal information collected through 3rd party forms are also provided voluntarily and will remain confidential and abide by the terms stated in this privacy policy.
 
-[](http://www.designsmag.com/wp-content/uploads/2014/11/BdASH_privacy-policy.jpg)
+[](https://cdn.designsmag.netdna-cdn.com/wp-content/uploads/2014/11/BdASH_privacy-policy.jpg)
 
 ### Cookies And Web Beacons
 
