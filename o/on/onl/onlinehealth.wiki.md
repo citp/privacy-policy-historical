@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlinehealth.wiki privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212054823id_/http%3A//onlinehealth.wiki/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehealth.wiki privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628060332id_/http%3A//onlinehealth.wiki/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We at File Creator LTD. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://onlinehealth.wiki/terms-use.html "Terms").
 
