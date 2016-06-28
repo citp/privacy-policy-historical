@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triplethreattrading.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192738id_/http%3A//www.triplethreattrading.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplethreattrading.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629002648id_/http%3A//tradeempowered.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Triple Threat Trading
+# Privacy Policy – TradeEmpowered
 
 ## Information that is gathered from visitors
 
@@ -20,7 +20,7 @@ E-mail may be sent to inform you of news of our services or offers by us or our 
 
 ## Visitor Options
 
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive or by contacting us at support@tradeempowered.com.
 
 You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
 
