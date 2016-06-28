@@ -1,69 +1,107 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612202422id_/http%3A//www.24hourfitness.com/company/policies/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628114230id_/http%3A//www.24hourfitness.com/membership/inclub_privacy_policy.html) for the most accurate reproduction.*
 
-# 24 Hour Fitness: privacy policy
+# 24 Hour Fitness In-Club (Offline) Privacy Policy
 
-## information gathered by 24 Hour Fitness
+Last modified 5/12/2015 ( [view archived versions](https://web.archive.org/web/20160628114230id_/http%3A//membership/inclub_privacy_policy_12272013.html) ) 
 
-This is 24HourFitness.com's ("24 Hour Fitness's") online privacy policy ("Policy"). This policy applies only to activities 24 Hour Fitness engages in on its website and does not apply to 24 Hour Fitness's activities that are "offline" or unrelated to the website. If you have questions about our policy, please email our Chief Privacy Officer at [cpo@24hourfit.com](mailto:cpo@24hourfit.com).
+### 1\. Introduction
 
-24 Hour Fitness collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by the 24 Hour Fitness website can include information such as the type of browser you are using, your IP address and the length of the visit to the website. Also, if you respond to a poll, we will aggregate your responses with those of other 24HourFitness.com members but we do not associate your response with any personally identifiable information.
+**     **1.1 **Questions.  If you have any questions or concerns about our Privacy Policy, feel free to email us at [cpm@24hourfit.com](mailto:cpm@24hourfit.com),  or contact us by mail at the following address:**
 
-In order to become a member of 24HourFitness.com and have access to our members' only areas, we ask you to register with our site and provide your e-mail address and name. We also ask for your 24 Hour Fitness Club membership number (if you are a member) in order to help us enhance your use of our site and clubs. This Registration Information is personally identifiable information because it allows us to contact you and distinguish you from other users.
+            24 Hour Fitness  
+            P.O. Box 2689  
+            Carlsbad, CA 92018
 
-You may also be asked to provide personally identifiable information in other areas of the 24 Hour Fitness website, which may include your name, address, title, company name, number of employees in your company, telephone number, cellular phone number, date of birth, fax number, address, credit card number, and e-mail address, as well as your user ID and password, the name of your school or organization, and the name of your Varsity Organization Sport or Group. This information can be gathered when feedback or e-mails are sent to 24 Hour Fitness, when you register for services, post information on our forums, or make purchases via the website. In all such cases you have the option of providing us with personally identifiable information, though certain services and features may not be available to you if you do not provide us with personally identifiable information.
+    1.2 **Scope.**  This Privacy Policy applies only to information we collect from you offline (e.g., when you sign up at one of our facilities or clubs) and does not apply to information we collect at or through our Internet website. View our [Website Privacy Policy](http://www.24hourfitness.com/company/policies/privacy/privacy_policy.html) for our information collection and privacy practices for information collected through our website, mobile website, mobile applications, and other electronic and digital means of communication.    
 
-You may also buy health products and club memberships on our site. If you make purchases through 24HourFitness.com, we need to gather information relating to the sale, including what you are buying, how you are paying and where you would like the products shipped. However, we will use that Transactional Information only to complete the transaction, to provide you with an order history and to facilitate future orders. We may also use information about the transaction for aggregate reporting (where we summarize the data in a report that does not contain your personally identifiable information).
+* * *
 
-If you are a member of 24HourFitness.com, you may enter contests. If you enter a 24HourFitness.com contest, we record your entry and link it to your 24HourFitness.com Registration Information.
+### 2\. Information We Collect
 
-We may receive additional personally identifiable information from you through communications with 24HourFitness.com. If so, we will use that information to fulfill your request and for aggregate reporting before deleting it from our active system. For example, if you e-mail 24HourFitness.com to ask about an article or tool, we will use that information to give you an answer, to make sure that you are satisfied with our answer, to have a history of our service to you and to make our service better by reporting your request, without any personally identifying information, in our customer service totals.
+    ** ** 2.1 **Information You Provide Us.** We collect information from you when you purchase a membership and other services from us. The information we collect includes personally identifiable information, such as your name, home address, telephone number and email address. You may also provide non-personally identifiable information, for example, demographic information such as gender and date of birth, or the name of your employer or school.
 
-## cookies
+    The information we collect may include the following:  
+    • Name  
+    • Home address  
+    • Home / mobile telephone number  
+    • Email address  
+    • Gender  
+    • Credit, debit or other payment account number and related information     
+    • Health-related information (as explained below)         
+    • Date of birth  
+    • For corporate sponsored program participants only: Name of Employer and employment verification  
+    • For health insurance related program participants only: Insurance Information  
+    • For school-related programs: name of School or Group       
+    • For children enrolled in Kid’s Club: we collect from the parent/legal guardian, the name, date of birth, parent/legal guardian contact information, list of known allergies, and physical description (hair and eye color)
 
-Cookies are small bits of data that are deposited on a user's hard drive. Cookies permit users to store their password and other user information without having to constantly re-enter this data. 24 Hour Fitness uses cookies to remember your username and password as you navigate around our site. Cookies also allow us to ensure that you may only respond once per day to polls or contests. For more information about cookies, please visit [The Privacy Foundation](http://www.privacyfoundation.org/).
+Guests are asked to provide certain contact and demographic information.
 
-We also use "activity tags" (also called "Spotlight tags"). These invisible tags provide information to third parties about the flow of users on our site and other web sites. 24HourFitness.com also receives reports generated from that information. Information collected through the use of activity tags on our site is never linked to any personally identifiable information you provided to 24HourFitness.com. For more information about Activity Tags, please visit [The Privacy Foundation](http://www.privacyfoundation.org/).
+We also collect a limited amount of fitness, physical activity and health related information from you if you sign-up for personal training services or our Fitness Consultation service. This information (such as whether you suffer from a heart condition, dizziness, high blood pressure, and knee or back problems) helps you determine your eligibility to participate in our personal training and Fitness Consultation programs. If you participate in our training or consultation/orientation programs, we may also obtain certain measurements, height, weight and age from you. 
 
-## use and disclosure of information
+    2.2 **Cardless Check-in System.**  24 Hour Fitness has implemented a Cardless Check-In system in its locations. This allows members to check-in without their membership card, and by using a fingerprint scanner. By scanning your finger, we chart the distance between a few distinct points that are unique to you and come up with an identifying number based on those distances. **We do not store your fingerprints, nor can the data we store be re-created into a fingerprint image. Additionally, we do not sell, lease, rent, trade or otherwise transfer the data collected by the Cardless Check-In system to any third parties.**
 
-24 Hour Fitness typically does not sell personally identifiable information, such as your name or e-mail address to advertisers. However, non-personal "aggregated data" may be used to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties to enhance your experience on our website. Additionally, if you provide 24 Hour Fitness with content for publishing or feedback, we may publish your user name or other identifying data. 24HourFitness.com also provides you with many ways to submit information to be posted on our site including participating in our forums and asking our experts a question. In each of these circumstances, 24HourFitness.com gathers information from you. Be aware that anything you submit to 24HourFitness.com through these services may be made public, so please remember not to include any information you want kept private. Information submitted to forums or experts can be read, recorded and used by any third party or by 24HourFitness.com.
+    2.3 **Other Sources.** We may receive information about you from other sources, such as public databases, commercially available sources, social networks, and other third parties.
 
-We also aggregate information supplied by users during registration and information about their use of 24HourFitness.com to maintain our services and describe our user base to potential partners, investors and advertisers. In providing this information, however, we do not reveal any personally identifiable information, and only supply summary data about our community of users.
+    2.4 **Aggregated Information**. We may aggregate personally identifiable information.  Aggregated information is not personally identifiable information because it does not identify and is not associated with you or any other user.
 
-24 Hour Fitness may also disclose personally identifiable information in order to respond to a subpoena, court order or other such request. 24 Hour Fitness may also provide such personally identifiable information in response to a law enforcement agency's request or as otherwise required by law, or if we believe you are harming or interfering with others' use of this site, you are violating the User Agreement, or infringing the rights of 24 Hour Fitness, or its employees. Your personally identifiable information may be provided to a party if 24 Hour Fitness files for bankruptcy, or there is a transfer of the assets or ownership of 24 Hour Fitness in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
+    2.5 I **n-Club Wireless Access.** As a convenience to our members, internet access may be available in our facilities via wireless hotspots.  Any such in-club wireless access is provided by 3rd parties and not by 24 Hour Fitness, and we do not collect any information in relation to your use of the in-club wireless access.  We are not responsible for the 3rd party privacy, information or other practices.
 
-Except as otherwise stated in this Policy, we do not sell, trade or rent your personally identifiable information collected on the site to others. The information collected by our site is used to process orders and membership orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our site.
+* * *
 
-We will disclose your personally identifiable information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our site, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered. We may employ other companies to perform functions on our behalf, such as fulfilling orders, delivering packages, providing customer service, sending mail, processing credit card payments, holding live chats, hosting message boards or other functions necessary for us to provide services to you. We may need to share your personally identifiable information with these companies. However, we will provide them with only the information necessary to perform their functions, and will not allow them to use that information for any other purposes.
+### 3\. How We Use Your Information
 
-In the interest of enhancing our service, we form partnerships with other web-based services. Some of these partnerships include the sharing of some of your personal information with our partners in order to extend these services to you. We require that our partners respect your privacy and not disclose your information to other organizations without your consent, but beyond that, our partners' use of your information is governed by their privacy policies. You will be given the opportunity to opt out of joining any of our partner services at the time of registration.
+    ** ** 3.1 **To Provide Products, Services and Information. We use your personally identifiable information to:**
 
-## other web sites
+    • Set-up your membership  
+    • Provide services and products to you  
+    • Process payments for your membership and services, including credit card, debit card and bank account debit (ACH) transactions  
+    • Contact you regarding your membership and services, and other administrative information  
+    • Track member and guest use of our facilities  
+    • Respond to your inquiries and comments  
+    • Provide advertisements, newsletters, or other marketing or promotional and other information relating to materials to you regarding products and services that we provide or otherwise offer for sale
 
-24 Hour Fitness is not responsible for the privacy policies of websites to which it links. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. We strongly suggest you review such third party's privacy policies before providing any data to them. We are not responsible for the policies or practices of third parties. Please be aware that our sites may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those Web sites linked to our site is not covered by this Policy. These other sites may send their own cookies or clear GIFs to users, collect data or solicit personally identifiable information. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies or clear GIFs. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect.
+    3.2 **Our Business Purposes.** We may use your information for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products and services, enhancing, improving or modifying our services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-## security
+    3.3 **Other Purposes.** We may use non-personally identifiable information for any purpose, except where we are required to do otherwise under applicable law.  In some instances, we may combine non-personally identifiable information with personally identifiable information (such as associating your name with your employer if you are a participant in a corporate sponsored program), in which case we will treat the combined information as personally identifiable information as long as it is combined.  
 
-24 Hour Fitness takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, 24 Hour Fitness cannot guarantee the security of any information that is disclosed online. Your 24HourFitness.com account is password protected so that only you may use it. We recommend that you do not divulge your password to anyone and 24HourFitness.com will never ask for your password by phone or e-mail. Also remember to log out from 24HourFitness.com and close your browser window when you have finished your work to ensure that others cannot access your personal information and correspondence.
+* * *
 
-While 24HourFitness.com takes reasonable steps to secure your personal information, no system is fault proof. If 24HourFitness.com's security systems are breached 24HourFitness.com may attempt to notify you electronically. By using this web site or providing personal information to us you agree that we can notify you electronically. 24HourFitness.com may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the 24HourFitness.com web site. 24HourFitness.com may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should email our [Chief Privacy Officer](mailto:cpo@24hourfit.com). If your email address changes, and you have provided 24HourFitness.com with personal information, you should notify our [Chief Privacy Officer](mailto:cpo@24hourfit.com) so that we can communicate with you if necessary.
+### 4\. How We Share Your Information
 
-## children
+    4.1 **Our Third Party Service Providers.**   We may share your information with our third party service providers and agents who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, text messaging, credit card or other payment account processing, auditing and similar services.  Contracts with our service providers require them to keep information confidential.
 
-24 Hour Fitness does not knowingly collect personal information from children under the age of 13. Children are not permitted to use the 24 Hour Fitness website or services, and 24 Hour Fitness requests that children under the age of 13 not submit any personal information to the website. Since information regarding children under the age of 13 is not collected, 24 Hour Fitness does not knowingly distribute personal information regarding children under the age of 13.
+**     **4.2 **Advertising and Third Party Advertisers.**  We may provide your personally identifiable information, including your name, address, email address, and a record of any transactions you conduct with us, to third-party advertising companies and their service providers to display online advertising that may be of interest to you.  You can learn about these advertising practices and your choices in connection with them by visiting the Digital Advertising Alliance’s (DAA) consumer information page at www.aboutads.info and the Network Advertising Initiative’s (NAI) opt-out page at [http://www.networkadvertising.org/choices/.](http://www.networkadvertising.org/choices/)  The DAA and NAI are self-regulatory organizations that provide educational content and opt-out tools to help Internet users learn about and exercise choice with respect to online interest-based advertising practices.
 
-## corrections and updates
+    4.3 **Legal Requests or Requirements and to Prevent Harm.**  We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on 24 Hour Fitness. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to prevent harm to 24 Hour Fitness, our members or other individuals. This may include sharing information with other companies, lawyers, courts or other government entities.
 
-If you wish to modify or update any information 24 Hour Fitness has received, you can visit the [eClub Member Home](https://www.24hourfitness.com/MemberLoginForm.do) page _(you may be prompted to log in)_.
+    4.4 **Transfer in the Event of Sale or Change of Control.**  If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business to a third party, we may transfer your personally identifiable information to the new owner to be used consistent with this Policy.
 
-If at any time you would like to unsubscribe from our email list, you can either click the unsubscribe link in any email message or mail us at 24 Hour Fitness, Member Service Dept. , PO Box 2689, Carlsbad, CA 92018.
+    4.5 **Corporate and Insurance Programs.**  If you have a corporate employer sponsored or health insurance sponsored membership, upon the request of your employer or insurance provider, as applicable, we may share usage statistics and information, including your name, date of birth, insurance identification number and how often you use one of our facilities.
 
-## modifications of the privacy policy
+* * *
 
-24 Hour Fitness reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. 24 Hour Fitness encourages you to frequently review the privacy policy for any modifications.
+### 5\. Access to Your Information and Choices.
 
-## questions about this policy
+You can email us at [cpm@24hourfit.com](mailto:cpm@24hourfit.com) or contact us by mail at the following address:
 
-If you have any questions about this privacy policy or other privacy questions about us, please email our [Chief Privacy Officer](mailto:cpo@24hourfit.com).
+            24 Hour Fitness  
+            P.O. Box 2689  
+            Carlsbad, CA 92018
 
-Join before April 1, 2007? [Click here](https://web.archive.org/PrivacyPolicy_20070401.do) for your Privacy Policy.
+You can also access certain information we have relating to your account by registering as a member at our website www.24hourfitness.com. Any information you provide to us online is governed by our [Website Privacy Policy](http://www.24hourfitness.com/company/policies/privacy/privacy_policy.html).
+
+You can update or change your information by contacting us as described above. You can also opt-out of receiving marketing and promotional emails from us by using the opt-out or unsubscribe feature contained in the emails and if you have registered on our website, by accessing your membership information online at www.24hourfitness.com/Member Services as well.  To opt-out of other means of marketing communications, including telephone, text or other electronic communications from 24 Hour Fitness, contact Member Services at 1-800-432-6348.
+
+We will try to comply with your request(s) as soon as reasonably practicable.  If you opt-out of receiving marketing-related messages from us, we may still send you administrative messages so that you continue to receive important information (for example, transactional messages relating to your membership, purchases and club information).
+
+* * *
+
+### 6\. Security of Your Information
+
+We use industry standard physical, technical and administrative security measures to protect your information. Our employees have access to your personally identifiable information only on a need to know basis. Contracts with our third party service providers require them to keep information confidential. However, no storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Questions” section above.  
+
+* * *
+
+### 7\. Changes to Our Privacy Policy
+
+If we decide to change our Privacy Policy, we will post those changes on the 24hourfitness.com website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.  Please contact us if you would like the current version of this Privacy Policy or our Website Privacy Policy. Unless stated otherwise, the revisions will apply to all information we have about you and your account.
