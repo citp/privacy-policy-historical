@@ -1,567 +1,138 @@
-<!--The following is the downloaded HTML source of the investopedia.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231175442id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investopedia.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628183343id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5V3WHJ"></script><script async="" id="LOTCC_6079" src="http://tags.crwdcntrl.net/c/6079/cc.js?ns=_cc6079"></script><script async="" src="http://ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds"></script><script async="" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-    </script>
-    
-	<script language="javascript">
-				function tryWelcomeAd()
-		{
-			var domain = invCookieDomain();
+        <link rel="dns-prefetch" href="http://i.investopedia.com/public">
+    <link rel="preconnect" href="http://i.investopedia.com/public">
+    <link rel="dns-prefetch" href="www.investopedia.com">
+    <link rel="preconnect" href="www.investopedia.com">
+    <link rel="dns-prefetch" href="v1.investopedia.com">
+    <link rel="preconnect" href="v1.investopedia.com">
+    <link rel="dns-prefetch" href="ajax.googleapis.com">
+    <link rel="preconnect" href="ajax.googleapis.com">
 
-			function invCookieDomain(){
-				var host = window.location.host.toLowerCase();
-				return host.replace('www.','');
-			}
-
-			function hasWelcomeAdCookie()
-			{
-				var name = 'AdViewed';
-				c = document.cookie.split('; ');
-				cookies = {};
-
-				for(i=c.length-1; i>=0; i--){
-					C = c[i].split('=');
-					cookies[C[0]] = C[1];
-				}
-
-				if (cookies[name] == '1') {
-					return true;
-				} else {
-					return false;
-				}
-			}
-
-			function getUrlParam(name)
-			{
-				name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-				var regexS = "[\\?&]"+name+"=([^&#]*)";
-				var regex = new RegExp( regexS );
-				var results = regex.exec( window.location.href );
-				if( results == null )    return null;
-				else    return results[1];
-			}
-
-			function isDebugMode() {
-				if ((getUrlParam("wa") != null) && (getUrlParam("wa") == "1")) {
-					return true;
-				}
-				return false;
-			}
-
-			function isUsTraffic() {
-				return geoResult;
-			}
-
-			function isWelcomeAdEnabledPreGeo() {
-								if (isVideoOnPage && isVideoAutoPlay) {
-					return false;
-				}
-
-				if (isDebugMode()) {
-					return true;
-				}
-
-								if (hasWelcomeAdCookie('AdViewed') ||
-					!isPathAllowed() ||
-					!isTaxonomyAllowed() ||
-					isRobot()) {
-					return false;
-				}
-
-				getGeoResult();
-			}
-
-			function isWelcomeAdEnabledPostGeo() {
-
-								if (!isUsTraffic()) {
-										if (isInvFirstPageVisit()
-						&& _pageTaxonomy["Channel"].toLowerCase() == "dictionary") {
-						return false;
-					}
-										return true;
-				}
-
-								if (isInvFirstPageVisit()) {
-										if (isDesktop() ||
-												getDfpReferrerSearch().toLowerCase() === "false") {
-						return false;
-					}
-				}
-
-								return true;
-			}
-
-
-			function isDesktop() {
-				return true;
-			}
-
-			function isRobot()
-			{
-				var clients = {};
-				var user_agent = navigator.userAgent;
-
-				clients.user_agent = user_agent.toLowerCase();
-				clients.googlebot = user_agent.indexOf("googlebot") > -1;
-				clients.googlebot_news = user_agent.indexOf("googlebot-news") > -1;
-				clients.googlebot_image = user_agent.indexOf("googlebot-image") > -1;
-				clients.googlebot_video = user_agent.indexOf("googlebot-video") > -1;
-				clients.googlebot_mobile = user_agent.indexOf("googlebot-mobile") > -1;
-				clients.mediapartners_google = user_agent.indexOf("mediapartners-google") > -1;
-				clients.adsbot_google = user_agent.indexOf("adsbot-google") > -1;
-				clients.msnbot = user_agent.indexOf("msnbot") > -1;
-				clients.slurp = user_agent.indexOf("slurp") > -1;
-				clients.ask_jeeves = user_agent.indexOf("ask jeeves") > -1;
-				clients.bingbot = user_agent.indexOf("bingbot") > -1;
-
-				for (var i in clients) {
-					if (clients[i] == true) {
-						return true;
-					}
-				}
-
-				return false;
-			}
-
-			function isPathAllowed()
-			{
-				var paths = [];
-
-				paths.push('/user/');
-				paths.push('/not-found/');
-
-				if (_pageTaxonomy) {
-					for (var i=0; i<paths.length; i++) {
-						if (_pageTaxonomy.Path.indexOf(paths[i]) > -1 ) {
-							return false;
-						}
-					}
-				}
-
-				return true;
-			}
-
-			function isTaxonomyAllowed()
-			{
-								if (_pageTaxonomy["Channel"].toLowerCase() == "accounts") return false;
-				if (_pageTaxonomy["Advertising"].toLowerCase() == "unknown") return false;
-
-				return true;
-			}
-
-			function isInvFirstPageVisit()
-			{
-								if ((document.referrer == null) || (document.referrer.length == 0)) return true;
-								if (document.referrer.toLowerCase().indexOf(domain.toLowerCase()) >= 0) {
-					return false;
-				}
-				return true;
-			}
-
-			function makeWelcomeAd() {
-				var welcomeAdId = "AdSlot_" + "PG-Interstitial";
-				function closeWelcomeAdOverlay() {
-					document.getElementById(welcomeAdId).style.display = "none";
-				}
-				var welcomeAdDiv = document.createElement("div");
-				welcomeAdDiv.id = welcomeAdId;
-				var welcomeAdStyle = document.createElement("style");
-				var css = '#AdSlot_PG-Interstitial > div, ';
-				css += '#AdSlot_PG-Interstitial > div > iframe { width:100%; height:100%; position:absolute; }';
-				css += '#AdSlot_PG-Interstitial .welcome-close { position:fixed; top:25px; right:104px; z-index:999; font-family:"Sling-Light";color:#06c; font-size:16px; cursor:pointer; }';
-				css += '#AdSlot_PG-Interstitial .welcome-close:hover { text-decoration:underline; }';
-				css += '@media only screen and (max-width: 767px) {';
-				css += '#AdSlot_PG-Interstitial .welcome-close { top:60px; right:auto; left:50%; width:170px; margin-left:-85px; text-align:center; }';
-				css += '}';
-				welcomeAdStyle.appendChild(document.createTextNode(css));
-				var welcomeAdH3 = document.createElement("h3");
-				welcomeAdH3.onclick = closeWelcomeAdOverlay;
-				welcomeAdH3.className = "welcome-close";
-				welcomeAdH3.innerHTML = "Continue to Site &raquo;";
-				function addWelcomeAdHeader() {
-					welcomeAdDiv.appendChild(welcomeAdStyle);
-					welcomeAdDiv.appendChild(welcomeAdH3);
-				}
-				googletag.cmd.push(function() {
-
-					var dartCC = [];
-					var lpid = (typeof(ccauds.Profile.pid) != 'undefined') ? ccauds.Profile.pid : "",
-						ltpid = (typeof(ccauds.Profile.tpid) != 'undefined') ? ccauds.Profile.tpid : "";
-
-					if (typeof(ccauds) != 'undefined')
-					{
-						for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++)
-						{
-							dartCC.push(ccauds.Profile.Audiences.Audience[cci].id);
-						}
-					}
-					googletag.pubads().setTargeting("lpid",lpid);
-					googletag.pubads().setTargeting("ltpid",ltpid);
-					googletag.pubads().setTargeting("lseg",dartCC);
-					var slot = googletag.defineOutOfPageSlot('/8397/INV-NA/Investing/Investing/PG-Interstitial/Corp', 'AdSlot_PG-Interstitial')
-						.addService(googletag.pubads())
-						.setTargeting('Location', 'PG-Interstitial');
-
-					googletag.pubads().setTargeting('Type', "Corp");
-					googletag.pubads().setTargeting('Environment', "Live");
-					googletag.pubads().setTargeting('URL', "/corp/privacypolicy.aspx");
-					googletag.pubads().setTargeting('Tags', "");
-					googletag.pubads().setTargeting('Tickers', "''");
-
-					welcomeAdDiv.style.display = "none";
-					document.body.insertBefore(welcomeAdDiv, document.body.firstChild);
-					googletag.display(welcomeAdId);
-					slot.isDisplayed = true;
-					googletag.pubads().addEventListener("slotRenderEnded", function(event) {
-						if (event.slot.getSlotElementId().toLowerCase() === welcomeAdId.toLowerCase()) {
-							setTimeout(welcomeAdDiv.style.opacity = 1.0, 100);
-							setTimeout(addWelcomeAdHeader, 100);
-							setTimeout(gptApp.displaySlots(), 100);
-						}
-					});
-
-
-				});
-								var invWelcomeAd_CookieExpiry = 3600000 * 24;
-				var invCookieExpires = new Date();
-
-				function invCookieDomain()
-				{
-					var host = window.location.host.toLowerCase();
-					return host.replace('www.','');
-				}
-
-				function setCookie(key, value, options)
-				{
-										if (arguments.length > 1 && String(value) !== "[object Object]") {
-
-						if (value === null || value === undefined) {
-							options.expires = -1;
-						}
-
-						if (typeof options.expires === 'number') {
-							var days = options.expires, t = options.expires = new Date();
-							t.setDate(t.getDate() + days);
-						}
-
-						value = String(value);
-
-						return (document.cookie = [
-							encodeURIComponent(key), '=',
-							options.raw ? value : encodeURIComponent(value),
-														options.expires ? '; expires=' + options.expires.toUTCString() : '',
-							options.path ? '; path=' + options.path : '',
-							options.domain ? '; domain=' + options.domain : '',
-							options.secure ? '; secure' : ''
-						].join(''));
-					}
-
-										options = value || {};
-					var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
-					return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
-
-				};
-
-				invCookieExpires.setTime(invCookieExpires.getTime() + invWelcomeAd_CookieExpiry);
-				setCookie('AdViewed', '1', { expires: invCookieExpires, path: '/', domain: invCookieDomain() });
-			}
-
-						var geoUrl = "/vcb_lib/geoip.php";
-			var geoMatchArray= ["us", "unknown"];
-						var geoResult = false;
-
-
-						function getGeoResult() {
-				var oReq = new XMLHttpRequest();
-				oReq.ontimeout = function() {
-					geoResult = true;
-					maybeShowWelcomeAd(isWelcomeAdEnabledPostGeo);
-				}
-				oReq.onreadystatechange = function () {
-										if (oReq.readyState == 4 && oReq.status == 200) {
-						var contentType = oReq.getResponseHeader("Content-Type");
-						if (typeof(contentType) === "string"
-							&& contentType.toLowerCase() === "application/json") {
-							var responseJson = JSON.parse(oReq.responseText);
-							if ("country_code" in responseJson
-								&& typeof(responseJson.country_code) === "string") {
-								for (var i = 0; i < geoMatchArray.length; i++) {
-									if (responseJson.country_code.toLowerCase() === geoMatchArray[i].toLowerCase()) {
-										geoResult = true;
-										break;
-									}
-								}
-							}
-						}
-						maybeShowWelcomeAd(isWelcomeAdEnabledPostGeo);
-					}
-				}
-				oReq.open("GET", geoUrl, true);
-				oReq.timeout = 166*2;
-				oReq.send();
-			}
-
-			maybeShowWelcomeAd(isWelcomeAdEnabledPreGeo);
-
-			function maybeShowWelcomeAd(funcCheck) {
-				if (funcCheck()) {
-					makeWelcomeAd();
-				}
-				else {
-					gptApp.displaySlots();
-				}
-			}
-		};
-
-	</script>    <script data-id="script_async_bidder" type="text/javascript">
-    "use strict";
-    var isDesktop = true;
-        var adStart = Date.now(),
-        OX_dfp_ads,
-        attachScriptAsync, targetingComplete, oxDone, gptCallIntiated = false,
-        completedTargeting = {},
-        gptApp = gptApp || {},
-        isVideoOnPage = "",
-        isVideoAutoPlay = "",
-        targetingEvtResponseTime = [];
-        gptApp.ads = gptApp.ads || [];
-        var openXScript = {
-            src: "//ox-d.ask.servedbyopenx.com/w/1.0/jstag?nc=8397-Investopedia",
-            is_desktop_only: true,
-            event_name: "ox",
-            onload: function () {
-                var event_name = this.event_name;
-                setTimeout(function () {
-                    if (!('OX' in window)) {
-                        targetingComplete(event_name);
-                    }
-                }, 100);
+        <link rel="dns-prefetch" href="idsync.rlcdn.com">
+    <link rel="dns-prefetch" href="cdn.feedbackify.com">
+    <link rel="dns-prefetch" href="ic.tynt.com">
+    <link rel="dns-prefetch" href="rc.rlcdn.com">
+    <link rel="dns-prefetch" href="z.moatads.com">
+    <link rel="dns-prefetch" href="ak.sail-horizon.com">
+    <link rel="dns-prefetch" href="pagead2.googlesyndication.com">
+        <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5V3WHJ"></script><script language="javascript" type="text/javascript">
+        var sem_pageview = false;
+        var sem_ocode = '9999';
+        var sem_ldid = '';
+        var sem_sh = '';
+        function updateSemVariable(query) {
+            if (query[1] === undefined) {
+                return;
             }
+            switch(query[0]) {
+            case 'o':
+                    sem_ocode = query[1];
+                    break;
+                case 'ldid':
+                    sem_ldid = query[1];
+                    break;
+                case 'sh':
+                    sem_sh = query[1];
+                    break;
+            }
+        }
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+            }
+            return "";
+        }
+        function getSemCookie() {
+            var queryStr = getCookie('semuser');
+            if (queryStr == "") {
+                return;
+            }
+            sem_pageview = true;
+            var queries = queryStr.split("&");
+            for (var i = 0, l = queries.length; i < l; i++) {
+                var query = queries[i].split('=');
+                updateSemVariable(query);
+            }
+        }
+        getSemCookie();
+        var updateAup = function(aUp) {
+            aUp = aUp.replace("INV-NA", "invsem-serp-ds");
+            var utms = null;
+            if (typeof getUrlParam === "function") {
+                try {
+                    utms = getUrlParam("utm_source");
+                } catch (e) {}
+            }
+            var aUp_arr = aUp.split("/");
+            var last = aUp_arr.pop();
+            aUp_arr.push((utms !== null ? utms : "dir") +
+                "_" + (typeof sem_ocode !== "undefined" ?
+                    sem_ocode : 0));
+            if (aUp_arr.length > 3) {
+                aUp_arr[3] = last;
+            }
+            return aUp_arr.join("/");
         };
-        var scriptInfos = [
-            {
-                src: "//www.googletagservices.com/tag/js/gpt.js",
-                is_desktop_only: false,
-                event_name: "gpt",
-                onload: function() {
-                    var event_name = this.event_name;
-                    setTimeout(function() {
-                        try {
-                            targetingComplete(event_name);
-                            if (googletag.pubads != undefined) {
-                                OX_dfp_ads = gptApp.setOxDfpAds();
-                                if (openXScript.is_desktop_only && !isDesktop) {
-                                    targetingComplete(openXScript.event_name);
-                                } else {
-                                    attachScriptAsync(openXScript);
+        if (typeof googletag !== "undefined") {
+            googletag.cmd.push( function() {
+                if ((typeof sem_pageview !== 'undefined') && (sem_pageview == true)) {
+                    var processArgs = function(arguments) {
+                        if (typeof arguments === "object") {
+                            for (var i = 0; i < arguments.length; i++) {
+                                if (arguments[i].indexOf("8397") > -1) {
+                                    arguments[i] = updateAup(arguments[i]);
+                                    break;
                                 }
                             }
-                        } catch(e) {}
-                    }, 100);
-                }
-            },
-            {
-                src: "//c.amazon-adsystem.com/aax2/amzn_ads.js",
-                is_desktop_only: false,
-                event_name: "amz",
-                onload: function() {
-                    var event_name = this.event_name;
-                    try {
-                        amznads.getAdsCallback('3067', function() {
-                            googletag.cmd.push(function() {
-                                amznads.setTargetingForGPTAsync('a9');
-                            });
-                            targetingComplete(event_name);
-                        }, 1000);
-                    } catch (e) {}
-                }
-            },
-            {
-                src: "http://ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds",
-                is_desktop_only: false,
-                event_name: "lotaud",
-                onload: function() {
-                    var event_name = this.event_name;
-                    try {
-                        googletag.cmd.push(function() {
-                            var dartCC, lpid, ltpid, cci;
-                            if (typeof(ccauds) != "undefined" && ccauds.Profile) {
-                                dartCC = [];
-                                lpid = (typeof(ccauds.Profile.pid) != "undefined") ? ccauds.Profile.pid : "";
-                                ltpid = (typeof(ccauds.Profile.tpid) != "undefined") ? ccauds.Profile.tpid : "";
-                                if (typeof(ccauds) != "undefined") {
-                                    for (cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
-                                        dartCC.push(ccauds.Profile.Audiences.Audience[cci].id);
-                                    }
-                                }
-                                googletag.pubads().setTargeting("lpid", lpid).setTargeting("ltpid", ltpid).setTargeting("lseg", dartCC);
-                            }
-                        });
-                        targetingComplete(event_name);
-                    } catch(e) {}
-                }
-            },
-            {
-                id: "LOTCC_6079",
-                src: "http://tags.crwdcntrl.net/c/6079/cc.js?ns=_cc6079",
-                is_desktop_only: false,
-                event_name: "lotmes",
-                onload: function() {
-                    try {
-                                                _cc6079.add("ctax","Sites^Investopedia^Channel^General^^General");
-                                                                                                _cc6079.add("ctax","Sites^Investopedia^Type^Corp^^Corp");
-                                                                        _cc6079.add("ctax","Sites^Investopedia^Timelessness^Timeless^^Timeless");
-                                                                                                _cc6079.add("ctax","Sites^Investopedia^Advertising^Investing^^Investing");
-                                                                        _cc6079.bcp();
-                    } catch(e) {}
-                }
-            }
-        ]
-
-    attachScriptAsync = function(scriptInfo) {
-        var tag = document.createElement("script"),
-            p, node = document.getElementsByTagName("script")[0];
-        tag.async = true;
-        for (p in scriptInfo) {
-            if (scriptInfo.hasOwnProperty(p) && p != "src") {
-                tag[p] = scriptInfo[p];
-            }
-        }
-        tag.src = scriptInfo.src;
-        node.parentNode.insertBefore(tag, node);
-    }
-
-    gptApp.displaySlots = function() {
-        var slots = googletag.pubads().getSlots();
-        for (i = 0; i < slots.length; i++) {
-            if ("isDisplayed" in slots[i]
-                && slots[i].isDisplayed === true) {
-                continue;
-            }
-            if ("isCompanion" in slots[i]
-                && slots[i].isCompanion === true
-                && isVideoOnPage) {
-                slots[i].addService(googletag.companionAds());
-            }
-            googletag.display(slots[i].getSlotElementId());
-            slots[i].isDisplayed = true;
-        }
-        var refreshAdsAfterVideoAd = function () {
-            var rF = function() {
-                googletag.pubads().refresh();
-            };
-            jwplayer().on("adImpression", rF);
-            jwplayer().on("error", rF);
-            jwplayer().on("adError", rF);
-            jwplayer().on("setupError", rF);
-        };
-        if (isVideoOnPage && isVideoAutoPlay) {
-            if (window.jwplayer_loaded) {
-                refreshAdsAfterVideoAd();
-            } else {
-                $(document).on("jwplayer-initial-setup", function() {
-                    refreshAdsAfterVideoAd();
-                });
-            }
-        }
-    };
-
-    gptApp.getTargetingForAllSlots = function() {
-        var slots = googletag.pubads().getSlots();
-        for (var i = 0; i < slots.length; i++) {
-            var targetingKeys = slots[i].getTargetingKeys();
-            for (var j = 0; j < targetingKeys.length; j++) {
-                console.log(slots[i].getSlotElementId() + " " + targetingKeys[j] + " " + slots[i].getTargeting(targetingKeys[j]))
-            }
-        }
-    };
-
-    gptApp.setOxDfpAds = function() {
-        var OX_dfp_ads = [];
-        var slots = googletag.pubads().getSlots();
-        for (var i=0; i < slots.length; i++) {
-            var slot_array = [];
-            var targeting_keys = slots[i].getTargetingKeys();
-            var targeting_key = "pos"; // used by Openx
-            if (targeting_keys.indexOf(targeting_key) > -1) {
-                slot_array.push(slots[i].getName());
-                var size_array = [];
-                var sizes = slots[i].getSizes();
-                for (var j=0; j < sizes.length;  j++) {
-                    size_array.push(sizes[j].getWidth() + "x" + sizes[j].getHeight());
-                }
-                slot_array.push(size_array);
-                slot_array.push(slots[i].getSlotElementId());
-                var targeting_object = {};
-                targeting_object[targeting_key] = slots[i].getTargeting(targeting_key)[0];
-                slot_array.push(targeting_object);
-                OX_dfp_ads.push(slot_array);
-            }
-        }
-        return OX_dfp_ads;
-    }
-
-    targetingComplete = function(event) {
-        completedTargeting[event] = true;
-        if (!gptCallIntiated) {
-            targetingEvtResponseTime.push(event + "|" + (Date.now() - adStart));
-            if ((completedTargeting.gpt
-                && completedTargeting.amz
-                && completedTargeting.ox
-                && completedTargeting.lotaud)
-                || event == "fallback") {
-                gptCallIntiated = true;
-                googletag.cmd.push(function() {
-                    if (isVideoOnPage) {
-                        googletag.companionAds().setRefreshUnfilledSlots(true);
-                        if (isVideoAutoPlay) {
-                            googletag.pubads().disableInitialLoad();
                         }
-                        googletag.pubads().enableVideoAds();
-                    }
-                    googletag.enableServices(); // Enable GPT service
-
-                    if(!window.welcomeAdAttempt) {
-                        window.welcomeAdAttempt = true;
-                        tryWelcomeAd();
-                    }
-                    googletag.pubads().setTargeting("perf", targetingEvtResponseTime);
-                });
-            }
+                        return arguments;
+                    };
+                    googletag.defineSlot = (function() {
+                        var orig_func = googletag.defineSlot;
+                        return function() {
+                            return orig_func.apply(this, processArgs(arguments));
+                        };
+                    })();
+                    googletag.defineOutOfPageSlot = (function() {
+                        var orig_func = googletag.defineOutOfPageSlot;
+                        return function() {
+                            return orig_func.apply(this, processArgs(arguments));
+                        };
+                    })();
+                }
+            });
         }
+    </script>
+<script type="text/javascript">
+    window.adblock = false;
+    function hasAdBlocker() {
+        window.adblock = true;
     }
-
-    oxDone = function(events) {
-        googletag.cmd.push(function() {
-            try {
-                OX.dfp_bidder.setOxTargeting(googletag.pubads().getSlots());
-            } catch (e) {}
-        });
-        targetingComplete("ox");
+    function isAdBlocked () {
+        return window.adblock;
     }
+</script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="hasAdBlocker();"></script>
 
+                                                        <script type="text/javascript">
+    /* observer */!function(){window.adonis=window.adonis||{},window.adonis.scriptStatuses={};var t=function(){var t,n="NEW_SCRIPT_EVENT";window.CustomEvent?t=new CustomEvent(n,{detail:{}}):(t=document.createEvent("CustomEvent"),t.initCustomEvent(n,!0,!0,{})),window.dispatchEvent(t)};document.addEventListener("load",function(n){n.target&&"SCRIPT"===n.target.nodeName&&(window.adonis.scriptStatuses[n.target.src]="load",t())},!0),document.addEventListener("error",function(n){n.target&&"SCRIPT"===n.target.nodeName&&(window.adonis.scriptStatuses[n.target.src]="error",t())},!0)}();
+</script>    
 
-    for (var i=0; i<scriptInfos.length; i++) {
-        attachScriptAsync(scriptInfos[i]);
-    }
-
-
-    setTimeout(function() {
-        targetingComplete("fallback");
-    }, 2000);
-
-</script>    <script type="text/javascript">
-    !function(){var t=function(){var t,e="NEW_SCRIPT_EVENT";window.CustomEvent?t=new CustomEvent(e,{detail:{}}):(t=document.createEvent("CustomEvent"),t.initCustomEvent(e,!0,!0,{})),window.dispatchEvent(t)};document.addEventListener("load",function(e){e.target&&"SCRIPT"==e.target.nodeName&&(e.target._loadState="load",t())},!0),document.addEventListener("error",function(e){e.target&&"SCRIPT"==e.target.nodeName&&(e.target._loadState="error",t())},!0)}();
-</script>    <title>Privacy Policy | Investopedia</title>
+    <title>Privacy Policy | Investopedia</title>
     <meta name="application-name" content="Investopedia">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="X-UA-Compatible" content="IE=9">
     <!-- Nativo -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="fb:pages" content="105109162854142, 925483520864421">
+    <meta property="fb:app_id" content="371867692868423">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     
 
 
@@ -584,26 +155,43 @@
 <link rel="apple-touch-icon" href="http://i.investopedia.com/public/img/apple-touch-icon.png">
 <link rel="canonical" href="http://www.investopedia.com/corp/privacypolicy.aspx">
 <link rel="shortcut icon" href="http://i.investopedia.com/public/img/favicon.ico" type="image/vnd.microsoft.icon">
-        
-          <link rel="stylesheet" type="text/css" href="http://i.investopedia.com/public/css/tablet.css?v=5.339">
+    
+          <link rel="stylesheet" type="text/css" href="http://i.investopedia.com/public/css/tablet.css?v=5.388">
     
 	<!-- Bof Taxonomy -->
 	    
   <!-- Page Taxonomy -->
   <script type="text/javascript" data-id="script_taxonomy">
   //<![CDATA[
-    var _pageTaxonomy = {"Hashkey":"$corp$privacypolicy","Path":"/corp/privacypolicy.aspx","Channel":"General","SubChannel":null,"Advertising":"Investing","SubAdvertising":null,"AdTarget":"investopedia.com","DfpTarget":"Investing/Investing","Tags":[],"Taggroup":[],"Type":"Corp","Lucrativeness":null,"Timelessness":"Timeless","Feature":null,"Design":null,"InterestLevel":null,"Index":"True","NoIndexParams":"False","Follow":"True","Master":"False"};
+    var _pageTaxonomy = {"Hashkey":null,"Path":"/corp/privacypolicy.aspx","Channel":"Investing","SubChannel":"Investing Strategy","Advertising":"Investing","SubAdvertising":"Investing","DfpTarget":"Investing/Investing","Tags":[],"Taggroup":[],"Type":"Corp","Lucrativeness":null,"Timelessness":"Timeless","Feature":null,"Design":null,"InterestLevel":null,"Index":"True","NoIndexParams":"False","Follow":"True","Master":"False","ServerName":"tax002"};
   //]]>
   </script>
-  <!-- End Page Taxonomy -->	<!-- Eof Taxonomy -->
+  <!-- End Page Taxonomy -->	<script type="text/javascript">
+    var idc_slots = {};
+    idc_slots["slots"] = ["AdSlot_PG-Background"];
+    idc_slots["build"] = function(slot) {
+        return "/8397/INV-NA/Investing/Investing/position/Corp".replace("position", slot.position);
+    };
+</script>	<script type="text/javascript">
+    var idc_device = {"desktop":true,"tablet":false,"phone":false};
+</script>	<!-- Eof Taxonomy -->
 
     <!--js start-->
-    <script language="javascript" type="text/javascript" src="http://i.investopedia.com/public/js/jquery.min.js?v=5.339"></script>
-            <script language="javascript" type="text/javascript" src="http://i.investopedia.com/public/js/main.min.js?v=5.339"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+            <script language="javascript" type="text/javascript" src="http://i.investopedia.com/public/js/main.min.js?v=5.388"></script>
+                <script language="javascript" type="text/javascript" src="http://i.investopedia.com/dest/js/inv.min.js?v=5.388"></script>
     
+      <script>
+    var initLayer = _pageTaxonomy;
+    initLayer['country'] = invGCookie.geoCountry();
+    initLayer['state'] = invGCookie.geoStateProvince();
+    initLayer['asset_version'] = '5.388';
+    initLayer['device'] = 'desktop';
+    dataLayer = [initLayer];
+  </script>
 
     <script data-id="script_optimizely" src="//cdn.optimizely.com/js/3135740712.js"></script>
-    <script language="javascript" type="text/javascript" src="http://i.investopedia.com/public/js/streamsense.min.js?v=5.339"></script>
+    <script language="javascript" type="text/javascript" src="http://i.investopedia.com/public/js/streamsense.min.js?v=5.388"></script>
 
 
     <!-- comScore video tagging -->
@@ -620,34 +208,70 @@
     </script>
 
 
-
-    
+            
 
 
 <script type="text/javascript">
-var AFTopLeaderboard = null;
-var AFRightMulti = null;
-var AF_Right_Multi_Mapping;
+  /* Sequential Messaging Allowance
+   * sequentialMessaging=A will show the same ad over and over during 24 hours
+   * sequentialMessaging=B will show different ads in order of B1, B2, B3 ....
+   */
+  var sequentialMessaging = getCookie('sequentialMessaging') || null;
+  if(sequentialMessaging) {
+    if (  sequentialMessaging.indexOf('B') > -1 ) {
+      if ( sequentialMessaging == 'B' ) {
+        setCookie('sequentialMessaging', 'B1');
+      }else {
+        var seqPageNum = parseInt(sequentialMessaging.replace("B", ""));
+        seqPageNum++;
+        setCookie('sequentialMessaging', 'B' + seqPageNum );
+      }
+    }
+  }
+
+
+  var AFTopLeaderboard = null;
+  var AFRightMulti = null;
+  var AF_Right_Multi_Mapping;
 </script>
 <!-- DFP head -->
-<script>
-var hasFlash = (function() {
-  try {
-    if (typeof navigator.plugins != "undefined" && typeof
-      navigator.plugins["Shockwave Flash"] == "object") {
-      return true;
-    } else if (typeof window.ActiveXObject != "undefined") {
-      new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
-      return true;
-    }
-  } catch (e) { }
-    return false;
-})();
-</script>
+  <script>
+    var hasFlash = (function() {
+      try {
+        if (typeof navigator.plugins != "undefined" && typeof
+            navigator.plugins["Shockwave Flash"] == "object") {
+          return true;
+        } else if (typeof window.ActiveXObject != "undefined") {
+          new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+          return true;
+        }
+      } catch (e) { }
+      return false;
+    })();
+  </script>
 
 
 <script type="text/javascript">
-    var noDfp = false;
+  var noDfp = false;
+  var ecLayout = false;
+
+  /* remove ads for email capture layout, here the bc-textnote won't be removed
+   */
+  if (window.location.hash.substring(0, 3) === "#ec") {
+    noDfp = true;
+    ecLayout = true;
+    /* set welcome_ad is viewed */
+    var invWelcomeAd_CookieExpiry = 3600000 * 24;
+    var invCookieExpires = new Date();
+    var host = window.location.host.toLowerCase().replace('www.','');
+    invCookieExpires.setTime(invCookieExpires.getTime() + invWelcomeAd_CookieExpiry);
+
+    setCookie('AdViewed', '1', { expires: invCookieExpires, path: '/', domain: host });
+  }
+    if (window.location.hash === "#ra") {
+    noDfp = true;
+    ecLayout = false;
+  }
 </script>
 
 
@@ -671,191 +295,209 @@ var hasFlash = (function() {
    */
   var requestObject = GetRequest();
   var utm_source = typeof requestObject['utm_source'] == 'undefined' ? '' :  requestObject['utm_source'],
-        utm_medium = typeof requestObject['utm_medium'] == 'undefined' ? '' :  requestObject['utm_medium'],
-        utm_campaign = typeof requestObject['utm_campaign'] == 'undefined' ? '' :  requestObject['utm_campaign'],
-        utm_content = typeof requestObject['utm_content'] == 'undefined' ? '' :  requestObject['utm_content'],
-        utm_term = typeof requestObject['utm_term'] == 'undefined' ? '' :  requestObject['utm_term'];
+    utm_medium = typeof requestObject['utm_medium'] == 'undefined' ? '' :  requestObject['utm_medium'],
+    utm_campaign = typeof requestObject['utm_campaign'] == 'undefined' ? '' :  requestObject['utm_campaign'],
+    utm_content = typeof requestObject['utm_content'] == 'undefined' ? '' :  requestObject['utm_content'],
+    utm_term = typeof requestObject['utm_term'] == 'undefined' ? '' :  requestObject['utm_term'];
 
   function getDfpReferrerHost() {
-         var ref = document.referrer;
-         if ((ref == null) || (ref.length == 0)) return 'Direct';
-         ref = ref.toLowerCase();
-         if (ref.indexOf('http://') == 0) ref = ref.substring(7);
-         if (ref.indexOf('https://') == 0) ref = ref.substring(8);
-         if (ref.indexOf('/') >= 0) ref = ref.substring(0, ref.indexOf('/'));
-         return ref;
+    var ref = document.referrer;
+    if ((ref == null) || (ref.length == 0)) return 'Direct';
+    ref = ref.toLowerCase();
+    if (ref.indexOf('http://') == 0) ref = ref.substring(7);
+    if (ref.indexOf('https://') == 0) ref = ref.substring(8);
+    if (ref.indexOf('/') >= 0) ref = ref.substring(0, ref.indexOf('/'));
+    return ref;
   }
   function getDfpReferrerSearch() {
-         var refHost = getDfpReferrerHost();
-         if (refHost.indexOf('.google.') >= 0) return 'True';
-         if (refHost.indexOf('.bing.') >= 0) return 'True';
-         if (refHost.indexOf('.yahoo.') >= 0) return 'True';
-         if (refHost.indexOf('.ask.') >= 0) return 'True';
-         if (refHost.indexOf('.aol.') >= 0) return 'True';
-         return 'False';
+    var refHost = getDfpReferrerHost();
+    if (refHost.indexOf('.google.') >= 0) return 'True';
+    if (refHost.indexOf('.bing.') >= 0) return 'True';
+    if (refHost.indexOf('.yahoo.') >= 0) return 'True';
+    if (refHost.indexOf('.ask.') >= 0) return 'True';
+    if (refHost.indexOf('.aol.') >= 0) return 'True';
+    return 'False';
   }
   function trackUniqid(){
-      var uid = new Date().getTime().toString(16);
-      return uid + Math.random().toString().slice(-8) + Math.random().toString().slice(-8) + Math.floor((1 + Math.random()) * Math.pow(16, (16 - uid.length))).toString(16).slice(1);
+    var uid = new Date().getTime().toString(16);
+    return uid + Math.random().toString().slice(-8) + Math.random().toString().slice(-8) + Math.floor((1 + Math.random()) * Math.pow(16, (16 - uid.length))).toString(16).slice(1);
   }
 
   var biPageViewID = trackUniqid();
   var trafficSourceParam = getUrlParam('source') || getCookie('d_src');
 
-  googletag.cmd.push(function() {
+  // bugzilla #351848 - Custom Target for DFP : Browser Height Detection
+  function getScreenHeight() {
+    if(isNaN($(window).height())){
+      return 0;
+    } else {
+      var _screen = $(window).height();
 
-  // defineSlot
+      if (_screen < 250) { _screen = 200; }
+      if (_screen >= 1950) { _screen = 2000; }
 
-        // Reference: INV-249
+      _screen = Math.round(_screen/100)*100;
+      return _screen;
+    }
+  }
+  var h = getScreenHeight();
+
+
+  var dfp_spv = parseInt(getCookie('dfp_spv') || 0) + 1;
+  setCookie('dfp_spv', dfp_spv);
+
+  
+  simpUrl = "&t=";
+  targetingList = {
+            'd_pv': biPageViewID,
+    'requestSource': "GPT",
+        'infiniteScroll': 'false',
+        'BrowserHeight': String(h),
+                'Type': 'Corp',
+            'URL': '/corp/privacypolicy.aspx',
+            'Environment': 'Live',
+        'ReferrerHost': getDfpReferrerHost(),
+    'ReferrerSearch': getDfpReferrerSearch(),
+    'hasFlash': hasFlash ? 'True' : 'False',
+    //Level1Adunit to Level3Adunit start
+        'Level1Adunit': 'INV-NA',
+            'Level2Adunit': 'Investing',
+            'Level3Adunit': 'Investing',
+            'spv': dfp_spv.toString(),
+    'rpv':(Math.floor(Math.random() * 100) + 1).toString(),
+    'page_url': 'http://www.investopedia.com/corp/privacypolicy.aspx?d_pv=' + biPageViewID,
+    //output audience segments   Bugzilla# 351853
+      }
+
+  if(getUrlParam('adtest')) {
+    targetingList.adtest = getUrlParam('adtest').toString();
+  }
+
+  //UTM Start
+  if ((trafficSourceParam != null) && (trafficSourceParam != '')) {
+    targetingList.d_src = trafficSourceParam;
+  }
+  if (utm_source) {
+    targetingList.utm_source = utm_source;
+  }
+  if (utm_medium) {
+    targetingList.utm_medium = utm_medium;
+  }
+  if (utm_campaign) {
+    targetingList.utm_campaign = utm_campaign;
+  }
+  if (utm_content) {
+    targetingList.utm_content = utm_content;
+  }
+  if (utm_term) {
+    targetingList.utm_term = utm_term;
+  }
+  //UTM End
+  
+  if ((typeof sem_pageview !== 'undefined')
+    && (sem_pageview == true)
+    && (typeof sem_ocode !== 'undefined')) {
+    targetingList.ocode = sem_ocode;
+  }
+  for(targets in targetingList) {
+    if (typeof isVideoOnPage != "undefined" && isVideoOnPage) {
+      simpUrl += encodeURIComponent(encodeURIComponent(targets)) + encodeURIComponent("=") + encodeURIComponent(encodeURIComponent(targetingList[targets])) + encodeURIComponent("&");
+    }
+  }
+  simpUrl = "&t=" + encodeURIComponent(simpUrl);
+  idc_targeting = targetingList || {};
+  var timeToSlotRenderEnded = Date.now(),
+  slotRenderCount = 0;
+  googletag.cmd.push( function() {
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      try {
+        if (event.slot.getSlotElementId().indexOf("BC-Textnote") > -1) return;
+        // WARNING: This will be updated in the future but is used track render times for the idc library.
+        slotRenderCount++;
+        if (typeof idc_slots !== "undefined") {
+          if (slotRenderCount == Object.keys(idc_slots.slots).length) {
+            dataLayer.push({
+              'event': 'event-all-slots-render-ended',
+              'eventLabel' : true+"|"+slotRenderCount,
+              'eventValue': Date.now() - timeToSlotRenderEnded
+            });
+          }
+        }
+      } catch (e) {}
+    });
+  });
+  googletag.cmd.push(function() {  return; 
+    // Set Sequential Targeting
+    if (sequentialMessaging) {
+      googletag.pubads().setTargeting("sequential", sequentialMessaging);
+    }
+
+    // defineSlot
+            // Reference: INV-249
     
-          googletag.defineOutOfPageSlot('/8397/INV-NA/Investing/Investing/PG-Background/Corp', 'AdSlot_PG-Background').addService(googletag.pubads()).setTargeting("Location", "PG-Background");
+        googletag.defineOutOfPageSlot('/8397/INV-NA/Investing/Investing/PG-Background/Corp', 'AdSlot_PG-Background').addService(googletag.pubads()).setTargeting("Location", "PG-Background");
 
     
-        // Reference: INV-249
     
-          googletag.defineOutOfPageSlot('/8397/INV-NA/Investing/Investing/PG-Web-Bar/Corp', 'AdSlot_PG-Web-Bar').addService(googletag.pubads()).setTargeting("Location", "PG-Web-Bar");
-
-    
-
 // new welcome ad
     function checkDevice() {
-        if(navigator.userAgent.toLowerCase().indexOf("iphone") > -1)
-            return 'iphone';
-        if(navigator.userAgent.toLowerCase().indexOf("ipad") > -1)
-            return 'ipad';
-        if(navigator.userAgent.toLowerCase().indexOf("blackberry") > -1)
-            return 'blackberry';
-        if(navigator.userAgent.toLowerCase().indexOf("android") > -1)
-            return 'android';
-        return 'others';
+      if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1)
+        return 'iphone';
+      if (navigator.userAgent.toLowerCase().indexOf("ipad") > -1)
+        return 'ipad';
+      if (navigator.userAgent.toLowerCase().indexOf("blackberry") > -1)
+        return 'blackberry';
+      if (navigator.userAgent.toLowerCase().indexOf("android") > -1)
+        return 'android';
+      return 'others';
     }
-
     console.log("device: ", checkDevice());
-
-
-
     // End defineSlot
-    // setTargeting
-  googletag.pubads().setTargeting('Tags', []);
-    googletag.pubads().setTargeting('Tickers', ['']);
-    googletag.pubads().setTargeting('d_pv', biPageViewID);
-    googletag.pubads().setTargeting("requestSource", "GPT");
 
-              googletag.pubads().setTargeting('infiniteScroll', 'false');
-      
 
-	// bugzilla #351848 - Custom Target for DFP : Browser Height Detection
-	function getScreenHeight()
-	{
-		if(isNaN($(window).height())){
-			return 0;
-		} else {
-			var _screen = $(window).height();
-
-			if (_screen < 250) { _screen = 200; }
-			if (_screen >= 1950) { _screen = 2000; }
-
-			_screen = Math.round(_screen/100)*100;
-			return _screen;
-		}
-	}
-	var h = getScreenHeight();
-	googletag.pubads().setTargeting('BrowserHeight', String(h));
-
-	if ((trafficSourceParam != null) && (trafficSourceParam != '')) {
-        googletag.pubads().setTargeting('d_src', trafficSourceParam);
+    for(targets in targetingList) {
+      googletag.pubads().setTargeting(targets, targetingList[targets]);
     }
 
-    
-    
-      // FEATURED VIDEO
-      
-  googletag.pubads().setTargeting('Type', 'Corp');
-  googletag.pubads().setTargeting('URL', '/corp/privacypolicy.aspx');
-
-
-
-
-
-      googletag.pubads().setTargeting('Environment', 'Live');
-        googletag.pubads().setTargeting('ReferrerHost', getDfpReferrerHost());
-    googletag.pubads().setTargeting('ReferrerSearch', getDfpReferrerSearch());
-    googletag.pubads().setTargeting('hasFlash', hasFlash ? 'True' : 'False');
-
-    //Level1Adunit to Level3Adunit start
-    googletag.pubads().setTargeting('Level1Adunit', 'INV-NA');
-    googletag.pubads().setTargeting('Level2Adunit', 'Investing');
-    googletag.pubads().setTargeting('Level3Adunit', 'Investing');
-    //Level1Adunit to Level3Adunit end
-
-    //UTM start
-    if (utm_source) {
-      googletag.pubads().setTargeting('utm_source', utm_source);
-    }
-    if (utm_medium) {
-      googletag.pubads().setTargeting('utm_medium', utm_medium);
-    }
-    if (utm_campaign) {
-      googletag.pubads().setTargeting('utm_campaign', utm_campaign);
-    }
-    if (utm_content) {
-      googletag.pubads().setTargeting('utm_content', utm_content);
-    }
-    if (utm_term) {
-      googletag.pubads().setTargeting('utm_term', utm_term);
-    }
-
-    //UTM end
-
-    
-	//output audience segments   Bugzilla# 351853
-	
-    
-      var dfp_spv = parseInt(getCookie('dfp_spv') || 0) + 1;
-      setCookie('dfp_spv', dfp_spv);
-      if(getUrlParam('adtest'))
-        googletag.pubads().setTargeting('adtest', getUrlParam('adtest').toString());
-      googletag.pubads().setTargeting('spv', dfp_spv.toString());
-      googletag.pubads().setTargeting('rpv',(Math.floor(Math.random() * 100) + 1).toString());
-    googletag.pubads().set('page_url', 'http://www.investopedia.com/corp/privacypolicy.aspx?d_pv=' + biPageViewID);
-
-
-
-
-
-
-
-  });
-
-
+      });
 </script>
 
 <!-- End DFP head -->
 
-    <!-- Bof Welcome Ad -->
-
-    <!-- Eof Welcome Ad -->
 
 
-
-
-
-
-
+    
 
 
                     <!--js end-->
 
     <!-- Nativo -->
-            <script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
-    
-</head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-152715 node-type-inv-static-page" id="GeneralChannel">
-<script type="text/javascript">
-    !function(){function e(){r&&console.log.apply(console,arguments)}var t=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection;if(t&&(!window.adonisGlobal||"full"===window.adonisGlobal.detectionLevel)){var r="#adonis-logging"===window.location.hash?!0:!1,n=function(e){var t=function(){e===!0&&console.log.apply(console,arguments)},r=["script","img"];document.addEventListener("load",function(e){t("withinIframe load",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="load")},!0),document.addEventListener("error",function(e){t("withinIframe error",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="error")},!0),window.addEventListener("message",function(e){if(void 0!==e.data.iframeId){t("message received "+e.data.iframeId);var n=e.data,a=function(e){"loading"!=document.readyState?e():document.addEventListener("DOMContentLoaded",e)},o=function(e){var n={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},a=e.srcSubstrings;if(void 0!==a)for(var i=document.querySelectorAll(r.join(",")),c=0;c<i.length;c++){var d=i[c];if(d.src){var s=a.some(function(e){return-1!==d.src.indexOf(e)});if(s){if(void 0===d._loadState)return t("Wait for event from "+d.src),d.addEventListener("load",function(){o(e)}),void d.addEventListener("error",function(){o(e)});n.requestData.push({type:d.nodeName,src:d.src,state:d._loadState})}}}var u=e.displayTypes,l=e.cssAttributes;if(void 0!==u&&void 0!==l){var i=document.querySelectorAll(u.join(","));Array.prototype.forEach.call(i,function(e){var t=window.getComputedStyle(e),r={};l.forEach(function(e){r[e]=t.getPropertyValue(e)}),n.cssData.push({type:e.nodeName,id:e.id,"class":e.getAttribute("class"),cssAttributes:r})})}t("send response "+e.iframeId),parent.postMessage(n,"*")};a(function(){o(n)})}})},a=['<script type="text/javascript">(',n.toString(),")(",r.toString(),")<","/script>"].join(""),o=function(e,t,r,n){var a=Object.getOwnPropertyDescriptor(e.prototype,t);Object.defineProperty(e.prototype,t,{get:function(){return r(a.get,this,arguments)},set:function(){return n(a.set,this,arguments)},enumerable:!0})},i=function(e,t,r){return e.apply(t,r)},c=function(t,r,n){try{var o=n[0];if(-1!==o.indexOf("html")){var i=o.split(";"),c=i[1],d=parseInt(c)+a.length;i[1]=d.toString(),o=i.join(";"),o=o.replace("<head>","<head>"+a),n[0]=o}}catch(s){e(s)}return t.apply(r,n)};o(HTMLIFrameElement,"name",i,c);var d=function(e){var t=!1;if(e.src)if(0===e.src.indexOf("javascript:"))t=!0;else{var r=document.createElement("a");r.href=e.src;var n=r.host;n===window.location.host&&(t=!0)}return t},s=function(t,r,n){var o=t.apply(r,n);try{if(d(r)&&void 0===o._writeDecorated){o._writeDecorated=!0;var i=o.write;o.write=function(t){try{-1!==t.indexOf("<head>")?t=t.replace("<head>","<head>"+a):-1!==t.indexOf("<script")&&(t=t.replace(/(<script.*?>)/,a+"$1"))}catch(r){e(r)}return i.call(this,t)}}}catch(c){e(c)}return o},u=function(e,t,r){return e.apply(t,r)};o(HTMLIFrameElement,"contentDocument",s,u);var l=function(t,r,n){var o=t.apply(r,n);try{if(d(r)&&void 0===o.document._writeDecorated){o.document._writeDecorated=!0;var i=o.document.write;o.document.write=function(t){try{-1!==t.indexOf("<head>")?t=t.replace("<head>","<head>"+a):-1!==t.indexOf("<script")&&(t=t.replace(/(<script.*?>)/,a+"$1"))}catch(r){e(r)}return i.call(this,t)}}}catch(c){e(c)}return o},f=function(e,t,r){return e.apply(t,r)};o(HTMLIFrameElement,"contentWindow",l,f)}}();
+          <script type="text/javascript">
+        if(invGCookie.geoCountry() !== "IN") {
+            var nativoScript = document.createElement('script');
+            nativoScript.type = 'text/javascript';
+            nativoScript.src = 'http://a.postrelease.com/serve/load.js?async=true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(nativoScript, s);
+        }
+      </script>
+        <script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.uid = 56959;
+    _sf_async_config.domain = "www.investopedia.com";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.flickerControl=false;
+    var _sf_startpt = (new Date()).getTime();
 </script>
-<!-- Current time is: 12/31/2015 10:54:42 am -->
-<div class="pg-wrapper">
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+</head>
+<!--shift_source: web002-->
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-152715 node-type-inv-static-page" id="InvestingChannel">
+    <script type="text/javascript">
+/* wrapper */!function e(t,n,r){function o(a,c){if(!n[a]){if(!t[a]){var d="function"==typeof require&&require;if(!c&&d)return d(a,!0);if(i)return i(a,!0);var s=new Error("Cannot find module '"+a+"'");throw s.code="MODULE_NOT_FOUND",s}var u=n[a]={exports:{}};t[a][0].call(u.exports,function(e){var n=t[a][1][e];return o(n?n:e)},u,u.exports,e,t,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(e,t,n){!function(){function t(){o&&console.log.apply(console,arguments)}var n=e(4),r=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection;if(!r||window.adonisGlobal&&"full"!==window.adonisGlobal.detectionLevel)return void n.reportEvent("bootstrap.ifw.rtc.absent");n.reportEvent("bootstrap.ifw.rtc.exists");var o="#adonis-logging"===window.location.hash,i=function(e){var t=function(){e===!0&&console.log.apply(console,arguments)},n=["script","img"];document.addEventListener("load",function(e){t("withinIframe load event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="load")},!0),document.addEventListener("error",function(e){t("withinIframe error event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="error")},!0),window.addEventListener("message",function(e){if(void 0!==e.data.iframeId){t("message received "+e.data.iframeId);var r=e.data,o=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)},i=function(e){var r={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},o=e.srcSubstrings;if(void 0!==o)for(var a=document.querySelectorAll(n.join(",")),c=0;c<a.length;c++){var d=a[c];if(d.src){var s=o.some(function(e){return-1!==d.src.indexOf(e)});if(s){if(void 0===d._loadState)return t("Wait for event from "+d.src),d.addEventListener("load",function(){i(e)}),void d.addEventListener("error",function(){i(e)});r.requestData.push({type:d.nodeName,src:d.src,state:d._loadState})}}}var u=e.displayTypes,f=e.cssAttributes;void 0!==u&&void 0!==f&&(a=document.querySelectorAll(u.join(",")),Array.prototype.forEach.call(a,function(e){var t=window.getComputedStyle(e),n={};f.forEach(function(e){n[e]=t.getPropertyValue(e)}),r.cssData.push({type:e.nodeName,id:e.id,"class":e.getAttribute("class"),cssAttributes:n})})),t("send response "+e.iframeId),parent.postMessage(r,"*")};o(function(){i(r)})}})},a=['<script type="text/javascript">(',i.toString(),")(",o.toString(),")<","/script>"].join(""),c=function(e,t,n,r){var o=Object.getOwnPropertyDescriptor(e.prototype,t);Object.defineProperty(e.prototype,t,{get:function(){return n(o.get,this,arguments)},set:function(){return r(o.set,this,arguments)},enumerable:!0})},d=function(e,t,n){return e.apply(t,n)},s=function(e,n,r){try{var o=r[0];if(-1!==o.indexOf("html")){var i=o.split(";"),c=i[1],d=parseInt(c)+a.length;i[1]=d.toString(),o=i.join(";"),o=o.replace("<head>","<head>"+a),r[0]=o}}catch(s){t(s)}return e.apply(n,r)};c(HTMLIFrameElement,"name",d,s);var u=function(e){var t=!1;if(e.src)if(0===e.src.indexOf("javascript:"))t=!0;else{var n=document.createElement("a");n.href=e.src;var r=n.host;r===window.location.host&&(t=!0)}return t},f=function(e,n,r){var o=e.apply(n,r);try{if(u(n)&&void 0===o._writeDecorated){o._writeDecorated=!0;var i=o.write;o.write=function(e){try{-1!==e.indexOf("<head>")?e=e.replace("<head>","<head>"+a):-1!==e.indexOf("<script")&&(e=e.replace(/(<script.*?>)/,a+"$1"))}catch(n){t(n)}return i.call(this,e)}}}catch(c){t(c)}return o},p=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentDocument",f,p);var l=function(e,n,r){var o=e.apply(n,r);try{if(u(n)&&void 0===o.document._writeDecorated){o.document._writeDecorated=!0;var i=o.document.write;o.document.write=function(e){try{-1!==e.indexOf("<head>")?e=e.replace("<head>","<head>"+a):-1!==e.indexOf("<script")&&(e=e.replace(/(<script.*?>)/,a+"$1"))}catch(n){t(n)}return i.call(this,e)}}}catch(c){t(c)}return o},v=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentWindow",l,v)}()},{4:4}],2:[function(e,t,n){var r=e(3);t.exports=r},{3:3}],3:[function(e,t,n){t.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,t,n){function r(e){var t=new XMLHttpRequest,n=[s.REPORTING_URL,e].join("");t.open("GET",n,!0),t.send()}function o(e){r("/adonis_error?e="+e.toString())}function i(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<s.REPORTING_RATE}function a(e,t){if(c(e),i()){var n={website:window.location.hostname,key:e};null!=t&&(n.quantity=t),r(["/adonis_event/?event=",JSON.stringify(n)].join(""))}}function c(e){if(window.performance){var t={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};f.push(t)}}function d(){u.defineReadOnlyProperty("adonisBootstrapTiming",f)}var s=e(2),u=e(5),f=[];t.exports={reportError:o,reportEvent:a,saveTiming:d,shouldReport:i}},{2:2,5:5}],5:[function(e,t,n){function r(e,t){Object.defineProperty(window,e,{value:t,writable:!1})}function o(e,t){return!t||Number(t)<=e}function i(e){var t=(new Date).getTime()/1e3;return o(t,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),t=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==t){var n=t[1],r=t[2],o=parseInt(r.split(".")[0]);if("chrome"===n&&o>=41||"firefox"===n&&o>=37)return!0}return!1},c=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};t.exports={isSupportedBrowser:a,defineReadOnlyProperty:r,ready:c,isExpired:o,isExpiredNow:i}},{}]},{},[1]);
+</script>
+<!-- Current time is: 06/28/2016 12:33:43 pm -->
+<div class="page-wrapper">
         <!-- Activity name for this tag: INV -->
     <script type="text/javascript" data-id="script_dfp_tracking">
         var axel = Math.random()+"";
@@ -871,18 +513,988 @@ var hasFlash = (function() {
 
     </script>
     <noscript><img src="http://pubads.g.doubleclick.net/activity;xsp=197334;ord=1?" width=1 height=1 border=0/></noscript>
-    <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5V3WHJ"
-height="0" width="0"
-style="display:none;visibility:hidden"></iframe></noscript>
-<script data-id="script_gtm_load">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5V3WHJ');</script>
-<!-- End Google Tag Manager -->
-        
+      <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5V3WHJ"
+                    height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe></noscript>
+  <script data-id="script_gtm_load">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5V3WHJ');</script>
+  <!-- End Google Tag Manager -->
+        <style>
 
+  .page-width
+  {
+    max-width:1170px;
+    margin:0 auto;
+    padding:0 20px;
+  }
+
+  .header a:hover
+  {
+    text-decoration: none !important;
+  }
+
+  .header.meganav
+  {
+    position:fixed;
+    letter-spacing:0.05em;
+    -webkit-text-stroke:0;
+    z-index:105;
+    top:0;
+    width:100%;
+  }
+
+  body
+  {
+    margin-top:54px;
+  }
+
+  .header.meganav .brand
+  {
+    width:220px;
+    height:50px;
+    background:url(http://i.investopedia.com/public/img/logo_white_new.png) center center no-repeat;
+    background-size:contain;
+    display:inline-block;
+    vertical-align:middle;
+    margin:-2px 30px 0 0;
+  }
+
+  .header.meganav .menus
+  {
+    width:calc(100% - 250px);
+    display:inline-block;
+  }
+
+  .header.meganav .primary
+  {
+    width:50%;
+    display:inline-block;
+    border:none;
+    margin:0;
+    text-align:left;
+    vertical-align:middle;
+  }
+
+  .header.meganav .secondary
+  {
+    width:50%;
+    display:inline-block;
+    text-align:right;
+  }
+
+  .header.meganav .menu
+  {
+    display:inline-block;
+    vertical-align:middle;
+    position:static;
+  }
+
+  .header.meganav .menu.nav
+  {
+    box-shadow:none;
+    width:auto;
+    height:auto;
+    transform:none;
+    transition:none;
+    -webkit-transform:none;
+  }
+
+  .header.meganav .menu.open .menu-items
+  {
+    display:block !important;
+  }
+
+  .header.meganav .menu-icon
+  {
+    width:20px;
+    height:9px;
+    padding:22px 26px 22px 18px;
+    margin:0;
+    vertical-align:top;
+    position:relative;
+    background-size:auto 20px;
+    background-position:15px center;
+    background-repeat:no-repeat;
+    display:none;
+    cursor:pointer;
+  }
+
+  .menu.member .menu-icon
+  { background-image:url(http://i.investopedia.com/header_c/icon_user.png); background-size:auto 22px; }
+
+  .menu.search .menu-icon
+  { background-image:url(http://i.investopedia.com/public/fa/img/icon_search_white.png); }
+
+  .menu.nav .menu-icon
+  { background-image:url(http://i.investopedia.com/public/fa/img/icon_menu.png); }
+
+  .menu.newsletters .menu-icon
+  { background-image:url(http://i.investopedia.com/header_c/icon_newsletter.png); }
+
+  .header.meganav .menu-icon:before,
+  .header.meganav .menu-icon:after,
+  .header.meganav .menu-item-title:before,
+  .header.meganav .menu-item-title:after
+  {
+    content:'';
+    border-width:5px;
+    border-style:solid;
+    border-color:#ccc transparent transparent;
+    z-index:1;
+    position:absolute;
+    top:24px;
+    right:9px;
+  }
+
+  .header.meganav .menu-icon:after,
+  .header.meganav .menu-item-title:after,
+  .header.meganav .menu-item-link:after
+  {
+    z-index:2;
+    margin-top:-2px;
+    border-top-color:#333;
+  }
+
+  .header.meganav.tablet .menu-item-title:before,
+  .header.meganav.tablet .menu-item-title:after,
+  .header.meganav.tablet .menu-icon:before,
+  .header.meganav.tablet .menu-icon:after
+  {
+    display:none;
+  }
+
+  .header.meganav .menu-items
+  {
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-align:left;
+    box-sizing:border-box;
+  }
+
+  .header.meganav .menu-items > li
+  {
+    display:inline-block;
+    margin:0;
+    padding:0;
+    text-align:left;
+  }
+
+  .header.meganav .menu-item-title,
+  .header.meganav .menu-item-link,
+  .header.meganav .menu-item{
+    display:block;
+    position:relative;
+    background:none !important;
+  }
+
+  .header.meganav .menu-item-title
+  {
+    padding: 18px 26px 16px 9px;
+  }
+  
+  .header.meganav .menu-item-link 
+  {
+    padding: 18px 9px 16px 9px;  
+  }
+
+  .header.meganav .menu-item{
+    padding:18px 15px 16px 15px;
+  }
+
+  .header.meganav.tablet .menu-item-title,
+  .header.meganav.tablet .menu-item-link
+  {
+    padding:18px 15px 16px 15px;
+  }
+
+  .header.meganav .menu.search
+  {
+    width:calc(100% - 220px);
+  }
+
+  .header.meganav .menu.search .menu-items > li
+  {
+    display:block;
+  }
+
+  .header.meganav .search-box
+  {
+    position:relative;
+    width:auto;
+    display:block;
+    background-color:transparent;
+    max-width: none;
+  }
+
+  .header.meganav .search-box input
+  {
+    border:none;
+    border-radius:2px;
+    font-size:14px;
+    padding:7px 40px 6px 15px;
+    box-sizing:border-box;
+    width:100%;
+    height:30px;
+    outline:none;
+  }
+
+  .header.meganav .search-box button
+  {
+    position:absolute;
+    width:20px;
+    height:20px;
+    background:url(http://i.investopedia.com/public/fa/img/icon_search.png) center center no-repeat;
+    background-size:contain;
+    top:5px;
+    right:10px;
+    border:none;
+    cursor:pointer;
+    padding:0;
+  }
+
+  .header.meganav .menu.member
+  {
+    position:relative;
+  }
+
+  .header.meganav .menu.member .menu-icon
+  {
+    display:inline-block;/* Used for js to detect media queries. */
+    background-position:15px 17px;
+  }
+
+  .header.meganav .menu.member .menu-items
+  {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: none;
+    font-size: 14px;
+    position: absolute;
+    top: 100%;
+    min-width: 180px;
+    background-color:#444;
+    right:0;
+  }
+
+  .header.meganav .menu.member .menu-items > li
+  {
+    display:block;
+  }
+
+  .header.meganav .menu.member .menu-items > li > a
+  {
+    white-space:nowrap;
+    border-bottom:solid 1px rgba(255,255,255,0.2);
+  }
+
+  .header.meganav .menu.member .menu-items > li:last-child > a
+  {
+    border-bottom:none;
+  }
+
+  .header.meganav .menu.member .menu-item-title:before,
+  .header.meganav .menu.member .menu-item-title:after,
+  .header.meganav .menu.member .menu-item-link:before,
+  .header.meganav .menu.member .menu-item-link:after
+  {
+    display:none;
+  }
+
+  .header.meganav .menu.newsletters
+  {
+    margin-top:0;
+    border:none;
+  }
+
+  .header.meganav .menu.newsletters .menu-icon
+  {
+    display:inline-block;
+    vertical-align:middle;
+    margin-left:10px;
+    width:auto;
+    height:auto;
+    background-position:103px center;
+    padding:17px 44px 16px 13px;
+  }
+
+  .header.meganav .menu.newsletters .menu-icon:before,
+  .header.meganav .menu.newsletters .menu-icon:after
+  {
+    display: none;
+  }
+
+  .header.meganav .menu-panel
+  {
+    position:absolute;
+    top:100%;
+    left:0;
+    width:100%;
+    display:none;
+    z-index:100;
+    text-align:left;
+    margin-top:-1px;
+  }
+
+  .header.meganav .menu-panel > .inner
+  {
+    padding:30px;
+  }
+
+  .header.meganav .menu-panel.tools > .inner
+  {
+    padding:40px 30px 60px 30px;
+  }
+
+  .header.meganav .col
+  {
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    padding-right:40px;
+  }
+
+  .header.meganav .col:last-child
+  {
+    padding-right:0;
+  }
+
+  .header.meganav .col .title
+  {
+    font-size:20px;
+    margin-bottom:10px;
+    display:block;
+    text-transform:none;
+    border:none;
+    background:none !important;
+  }
+
+  .header.meganav .col a.title:after
+  {
+    content:'';
+    background:url(http://i.investopedia.com/header_c/icon_home.png) center right no-repeat;
+    background-size:contain;
+    display:inline-block;
+    margin:0 0 0 10px;
+    width:16px;
+    height:16px;
+  }
+
+  .header.meganav .tod-title
+  {
+    font-size:12px;
+    text-transform:uppercase;
+  }
+
+  .header.meganav .term-title
+  {
+    font-size:36px;
+    line-height:36px;
+  }
+
+  .header.meganav .term-desc
+  {
+    margin-bottom:10px;
+  }
+
+  .header.meganav .term-btn
+  {
+    font-size:10px;
+    padding:6px 10px 4px 10px;
+    line-height:9px;
+    border-radius:3px;
+    display:inline-block;
+    text-transform:uppercase;
+    float:right;
+    background-color:#555;
+  }
+
+  .header.meganav .tool-title
+  {
+    font-size:28px;
+  }
+
+  .header.meganav .tool-title:after
+  {
+    content:'';
+    display:inline-block;
+    width:28px;
+    height:23px;
+    margin-left:10px;
+  }
+
+  .header.meganav .tool-title.fxtrader:after
+  { background:url(http://i.investopedia.com/header_c/icon_fxtrader.png) center right no-repeat; }
+
+  .header.meganav .tool-title.simulator:after
+  { background:url(http://i.investopedia.com/header_c/icon_simulator.png) center right no-repeat; }
+
+  .header.meganav a.article
+  {
+    display:inline-block;
+    vertical-align:top;
+    width:45%;
+    background:none !important;
+  }
+
+  .header.meganav .article:last-child
+  {
+    margin-left:8%;
+  }
+
+  .header.meganav .article img
+  {
+    width:100%;
+    height:86px;
+    display:block;
+  }
+
+  .header.meganav .article-title
+  {
+    font-size:13px;
+    padding:10px 0;
+    display:block;
+  }
+
+  .header.meganav .links
+  {
+    margin:10px 0 0 0;
+    padding:0;
+  }
+
+  .header.meganav .links li
+  {
+    vertical-align:top;
+    box-sizing:border-box;
+    margin:0 0 8px 0;
+    padding:0;
+    display:block;
+  }
+
+  .header.meganav .links li a
+  {
+    border-bottom:solid 1px rgba(255,255,255,0.1) !important;
+    display:block;
+    padding-bottom:2px;
+    transition:border-color 0.2s ease-out;
+    background:none !important;
+    text-align:left;
+  }
+
+  .header.meganav .links.topics
+  {
+    margin-right:-20px;
+  }
+
+  .header.meganav .links.topics li
+  {
+    display:inline-block;
+    padding:4px 20px 4px 4px;
+    width:24%;
+  }
+
+  .header.subchannels
+  {
+    z-index:104;
+    -webkit-text-stroke:0;
+    position:relative;
+  }
+
+  .header.subchannels ul
+  {
+    margin:0;
+    padding:0;
+    list-style:none;
+    letter-spacing:normal;
+  }
+
+  .header.subchannels ul > li
+  {
+    display:inline-block;
+    margin:0;
+    padding:0;
+    border-bottom:solid 2px transparent;
+  }
+
+  .header.subchannels ul > li > a
+  {
+    display:inline-block;
+    padding:9px 8px 6px 8px;
+  }
+
+  .header.subchannels li > a
+  {
+    font-size:14px;
+  }
+
+  .header.subchannels li.separator
+  {
+    margin:0;
+    background-color:transparent;
+  }
+
+  #Footer .icon-newsletter:after
+  {
+    content:'';
+    width:20px;
+    height:20px;
+    background:url(http://i.investopedia.com/header_c/icon_newsletter.png) center center no-repeat;
+    background-size:contain;
+    display:inline-block;
+    vertical-align:middle;
+    margin-left:5px;
+  }
+
+  .header.meganav, #Footer .mid
+  { background:#333; }
+
+  #Footer .btm
+  { background:#2b2b2b; }
+
+  .header.subchannels
+  { background-color:#e4e4e4; }
+
+  .header .menu-panel, .header .menu.open .menu-icon
+  { background-color:#444; }
+
+  .header.subchannels li:hover
+  { background-color:#ccc; }
+
+  .header.subchannels li.separator:hover
+  { background-color:transparent; }
+
+  .header .menu.nav
+  { background-color:transparent; }
+
+  .header.meganav, .header.meganav a, #Footer .flist > li:first-child,
+  #Footer .column-list ul li.first, .header.meganav .primary
+  { color:#fff !important; }
+
+  .header.subchannels a
+  { color:#333 !important; }
+
+  .header .menu-panel .title, .header .menu-panel a,
+  #Footer, #Footer a
+  { color:#ccc !important; }
+
+  #Footer .btm
+  {
+    padding:20px 0;
+  }
+
+  #Footer .flist
+  { border-color:#3c3c3c; }
+
+  #Footer .btm span
+  {
+    margin-right:10px;
+  }
+
+  #Footer .btm span a
+  {
+    padding:0 10px;
+    font-size:13px;
+  }
+
+  .header.subchannels li.selected
+  { border-bottom:solid 2px #444; }
+
+  .header.meganav, .header.meganav a, .header.subchannels li.selected a, .header .menu-panel .col .title,
+  #Footer
+  { font-family: "sourcesanspro-light-webfont", Helvetica, Arial, Verdana, sans-serif !important; }
+
+  .header.subchannels, .header.subchannels li.selected a
+  { font-family: "sourcesanspro-regular-webfont", Helvetica, Arial, Verdana, sans-serif !important; }
+
+  .header.subchannels .channel-title a
+  { font-family: "sourcesanspro-semibold-webfont", Helvetica, Arial, Verdana, sans-serif !important; }
+
+  .hspace { text-align:justify; }
+  .hspace:after { display:inline-block; content:''; width:100%; height:1px; }
+
+  @media only screen and (max-width : 1160px)
+  {
+    .header.meganav .primary
+    {
+      width:75%;
+    }
+
+    .header.meganav .secondary
+    {
+      width:25%;
+    }
+
+    .header.meganav .menu-icon
+    {
+      padding:22px 17px;
+    }
+
+    .header.meganav .menu-icon:before,
+    .header.meganav .menu-icon:after
+    {
+      display:none;
+    }
+
+    .header.meganav .menu.search
+    {
+      width:auto;
+    }
+
+    .header.meganav .menu.search .menu-icon
+    {
+      display:inline-block;
+    }
+
+    .header.meganav .menu.search .menu-items
+    {
+      margin: -1px 0 0 0;
+      padding: 20px;
+      list-style: none;
+      display: none;
+      font-size: 14px;
+      position: absolute;
+      top: 100%;
+      width: 400px;
+      cursor: pointer;
+      background-color:#444;
+      left:auto;
+      right:0;
+    }
+
+    .header.meganav .menu.search .menu-items > li
+    {
+      display:block;
+    }
+
+    .header.meganav .menu.search .menu-item-title:after,
+    .header.meganav .menu.search .menu-item-link:after
+    {
+      border-top-color:#444;
+    }
+
+    .header.meganav .menu.newsletters .icon-txt
+    {
+      display:none;
+    }
+
+    .header.meganav .menu.newsletters .menu-icon
+    {
+      background-position:center 19px;
+      padding:22px;
+      margin:0;
+      height:10px;
+    }
+  }
+
+  @media only screen and (max-width : 960px)
+  {
+    .page-width
+    {
+      padding:0 5px;
+    }
+
+    .header.meganav
+    {
+      background-color:rgba(0,0,0,0.8);
+    }
+
+    .header.meganav .menus
+    {
+      width:calc(100% - 210px);
+      text-align:right;
+    }
+
+    .header.meganav .primary
+    {
+      width:auto;
+    }
+
+    .header.meganav .secondary
+    {
+      width:auto;
+    }
+
+    .header.meganav .brand
+    {
+      width:180px;
+      background-size:auto 25px;
+      background-position:left center;
+    }
+
+    .header.meganav .menu-icon
+    {
+      display:block !important;
+      background-position:center center;
+    }
+
+    .header.meganav .menu.member .menu-icon
+    {
+      background-position:center 18px;
+    }
+
+    .header.meganav .menu.nav .menu-items
+    {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: none;
+      font-size: 14px;
+      position: absolute;
+      left: 0;
+      top: 100%;
+      width: 100%;
+      cursor: pointer;
+      background-color:#444;
+    }
+
+    .header.meganav .menu-items > li
+    {
+      display:block;
+    }
+
+    .header.meganav .menu.nav .menu-items > li
+    {
+      border-bottom:solid 1px #333;
+    }
+
+    .header.meganav .menu-item-title,
+    .header.meganav .menu-item-link,
+    .header.meganav .menu-item
+    {
+      padding:14px 15px 12px 15px;
+    }
+
+    .header.meganav .menu-item-title:after,
+    .header.meganav .menu-item-link:after
+    {
+      border-top-color:#444;
+    }
+
+    .header.meganav .menu-panel
+    {
+      position:static;
+    }
+
+    .header.meganav .menu-items > li.open .menu-panel
+    {
+      display:block;
+    }
+
+    .header.meganav .menu-items > li.open .menu-item-title:before,
+    .header.meganav .menu-items > li.open .menu-item-title:after,
+    .header.meganav .menu-items > li.open .menu-item-link:before,
+    .header.meganav .menu-items > li.open .menu-item-link:after
+    {
+      border-top-color:transparent;
+      border-bottom-color:#ccc;
+      top:18px;
+    }
+
+    .header.meganav .menu-items > li.open .menu-item-title:after,
+    .header.meganav .menu-items > li.open .menu-item-link:after
+    {
+      margin-top:2px;
+      border-bottom-color:#444;
+    }
+
+    .header.meganav .menu-panel > .inner
+    {
+      padding:10px;
+      background-color:#3e3e3e;
+    }
+
+    .header.meganav .col.new,
+    .header.meganav .col .article,
+    .header.meganav .col.topics > .title,
+    .header.meganav .col.tod .tod-title,
+    .header.meganav .col.tod .tod-term,
+    .header.meganav .col .tool-title:after,
+    .header.meganav .col .tool-desc
+    {
+      display:none;
+    }
+
+    .header.meganav .col.topics
+    {
+      width:auto !important;
+    }
+
+    .header.meganav .col.tod,
+    .header.meganav .col.video,
+    .header.meganav .col.guides
+    {
+      width:49% !important;
+    }
+
+    .header.meganav .col.tod,
+    .header.meganav .col.video
+    {
+      margin-top:10px;
+    }
+
+    .header.meganav .col.video
+    {
+      padding-right:0;
+    }
+
+    .header.meganav .col.guides > .title,
+    .header.meganav .col.tod > .title,
+    .header.meganav .col.video > .title
+    {
+      font-size:14px;
+      border-bottom:solid 1px rgba(255,255,255,0.1) !important;
+      display:block;
+      padding:4px;
+    }
+
+    .header.meganav .col > .title:after
+    {
+      display:none !important;
+    }
+
+    .header.meganav .col.topics .links
+    {
+      margin:0;
+    }
+
+    .header.meganav .col.topics .links li
+    {
+      width:49%;
+    }
+
+    .header.meganav .col.guides .links
+    {
+      display:none;
+    }
+
+    .header.meganav .col .tool-title
+    {
+      font-size:14px;
+      border-bottom:solid 1px rgba(255,255,255, 0.1);
+      padding:4px;
+      transition:border-color 0.2s ease-out;
+    }
+
+    .header.meganav .menu-panel.tools > .inner
+    {
+      padding:20px 10px;
+    }
+
+    .header.subchannels
+    {
+      display:none;
+    }
+
+    .header.meganav a, .header.meganav a.title
+    { color:#fff !important; }
+  }
+
+  @media only screen and (max-width : 740px)
+  {
+    .header.meganav .menu.search .menu-items
+    {
+      left:0;
+      right:auto;
+      width: 100%;
+    }
+
+    .header.meganav .menu-icon
+    {
+      padding:22px 8px;
+    }
+
+  }
+
+  @media only screen and (max-width : 500px)
+  {
+    .header.meganav .menus
+    {
+      width:calc(100% - 190px);
+    }
+
+    .header.meganav .brand
+    {
+      margin-right:10px;
+    }
+
+    .header.meganav a, .header.meganav a.title
+    { color:#fff !important; }
+  }
+
+
+  @media only screen and (max-width : 400px)
+  {
+    .header.meganav .menus
+    {
+      width:calc(100% - 150px);
+    }
+
+    .header.meganav .brand
+    {
+      width:140px;
+      background-size:auto 18px;
+      margin-right:0;
+    }
+  }
+
+  @media only screen and (min-width : 960px)
+  {
+    .header.meganav .menu-items a:hover,
+    .header.meganav .tool-title:hover
+    {
+      border-bottom-color: #fff !important;
+    }
+
+    .header.meganav .menu a:hover {
+      color: #fff !important;
+    }
+
+    .header.meganav .menu.member .menu-items a:hover
+    {
+      border-bottom-color:rgba(255,255,255,0.2) !important;
+    }
+
+    .header.meganav .menu:hover .menu-icon:after,
+    .header.meganav .menu-items > li:hover .menu-item-title:after,
+    .header.meganav .menu-items > li:hover .menu-item-link:after {
+      border-top-color: #444;
+    }
+
+    .header.meganav .tod-term:hover .term-btn {
+      background-color: #397902;
+    }
+
+    .header.meganav .menu.member .menu-items li:hover .menu-item-title,
+    .header.meganav .menu.member .menu-items li:hover .menu-item-link
+    {
+      background-color:#363636 !important;
+    }
+
+    .header.meganav .menu:hover .menu-icon,
+    .header.meganav .menu-items > li:hover .menu-item-title,
+    .header.meganav .menu-items > li:hover .menu-item-link,
+    .header.meganav .menu:hover .menu-item
+    {
+      background-color:#444 !important;
+    }
+
+    .header.meganav .menu.member:hover .menu-items,
+    .header.meganav .menu:hover .menu-items,
+    .header.meganav .menu-items > li:hover .menu-panel
+    {
+      display:block;
+    }
+  }
+  
+  
+</style>
+
+          
 
 <div class="ad-background">
   <div id="AdSlot_PG-Background">
@@ -891,573 +1503,224 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
   </div>
 </div>
+  
+  <div class="header meganav ">
+    <div class="inner page-width">
 
-<div id="Header" class="Header">
+      <a href="/" class="brand"></a><div class="menus">
 
-<!--shift_source: web001-->
-    <style>
+        <div class="primary">
+          <div class="menu nav">
 
-        .autocomplete-results {
-            border: 1px solid lightblue;
-            background: #ffffff;
-            position: absolute;
-            padding: 5;
-            width: auto;
-            white-space: normal !important;
-            z-index: 1;
-            border: 1px solid #ccc !important;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
-            max-height: 400px;
-            overflow-y: auto;
-            overflow-x: hidden;
-            -webkit-overflow-scrolling: touch;
-        }
+            <div class="menu-icon"></div>
 
-        .symbol-list {
-            width: 100% !important;
-            border: none !important;
-            padding: 0 !important;
-        }
+            <ul class="menu-items">
+              <li>
+                <a href="/topics/" class="menu-item-title">Topics</a>
 
-        .symbol-result {
-            white-space: normal !important;
-            padding: 8px 10px !important;
-            display: block !important;
-            box-sizing: border-box;
-            min-width: 300px;
-            color: #005b9d;
-            background: #ffffff;
-            cursor: hand;
-            cursor: pointer;
-        }
+                  <div class="menu-panel">
+                    <div class="inner page-width">
 
-        .symbol-result:hover {
-            color: #ffffff;
-            background: #292f40;
-        }
-
-        .symbol-result > a {
-            text-decoration: none;
-            color: #005b9d;
-        }
-
-
-        .ticker-symbol {
-            width: 30%;
-            display: inline-block;
-            font-size: 15px;
-            vertical-align: middle;
-        }
-
-        .ticker-company {
-            width: 70%;
-            display: inline-block;
-            vertical-align: middle;
-        }
-
-        .autocomplete-footer {
-            border-top: 1px solid #e7e7e7 !important;
-            margin-top: 0 !important;
-            font-size: 13px;
-            padding: 8px 10px !important;
-            background: #f6f6f6 !important;
-        }
-
-        .autocomplete-footer > a {
-            color: #005b9d !important;
-            text-decoration: none;
-        }
-
-        .autocomplete-footer > a:hover {
-            text-decoration: underline;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-    </style>
-
-    <script type="text/javascript">
-        var g_config = window.g_config || {};
-
-        
-        /*
-        $(function() {
-            $(document).click(function(){
-                hideAutocomplete();
-            });
-
-            $('.invSearchText, .autocomplete-results').click(function(e){
-                e.stopPropogation();
-            });
-
-            $('.invSearchText').keyup(function() {
-
-                var serviceURL = document.location.origin + "/simulator/ajax/stock/getautosuggestdata.aspx?DataType=Stock&Keyword="+ $('#search-box').val() +"&format=json";
-                $.ajax({
-                    type: "POST",
-                    url: serviceURL,
-                    success: function(response) {
-                        console.log(response);
-                        var json_obj = $.parseJSON(response); //parse JSON
-
-                        loadAutocomplete(json_obj);
-                    },
-                    error: function() {
-                        var response = '[{"symbol":"MS","company":"MORGAN STANLEY"},{"symbol":"MSV.TO","company":"MINCO SILVER CORP"},{"symbol":"MSTX","company":"MAST THERAPEUTICS INC"},{"symbol":"MSTR","company":"MICROSTRATEGY INC"},{"symbol":"MSA","company":"MSA SAFETY INC"},{"symbol":"IIF","company":"MS INDIA INV FUND SHS"},{"symbol":"MSON","company":"MISONIX INC"},{"symbol":"MSP","company":"MADISON STRATEGIC SHS"},{"symbol":"MSL","company":"MIDSOUTH BANCORP INC"},{"symbol":"MS-PF","company":"MORGAN STANLEY"},{"symbol":"MSF","company":"MS EMG MARKETS FD SHS"},{"symbol":"MS-PA","company":"MORGAN STANLEY DEPOSIT SHS REP"},{"symbol":"MS-PG","company":"MORGAN STANLEY"},{"symbol":"MSCC","company":"MICROSEMI CORP"},{"symbol":"MS-PE","company":"MORGAN STANLEY"},{"symbol":"MSI.TO","company":"MORNEAU SHEPELL INC"},{"symbol":"EDD","company":"MS EMMK DOM DEB SHS"},{"symbol":"MSFG","company":"MAINSOURCE FINANCIAL GROUP INC"},{"symbol":"MSBF","company":"MSB FINANCIAL CORP"},{"symbol":"MSEX","company":"MIDDLESEX WATER CO"},{"symbol":"MSN","company":"EMERSON RADIO CORP"},{"symbol":"MST.UN.TO","company":"MILESTONE APARTMENTS REIT"},{"symbol":"MSFT","company":"MICROSOFT CORP"},{"symbol":"APF","company":"MS ASIA-PACIFIC FD SHS"},{"symbol":"MSD","company":"MS EMERGING MKTS FD SHS"}]'
-                        console.log(response);
-                        var json_obj = $.parseJSON(response);
-
-                        loadAutocomplete(json_obj);
-                    },
-                    dataType: "json" //set to JSON
-                });
-            });
-        });
-
-        function hideAutocomplete() {
-            $('.autocomplete-results > .symbol-list').empty();
-            $('.autocomplete-results').addClass('hidden');
-        };
-
-        function loadAutocomplete(result) {
-            $('.autocomplete-results > .symbol-list').empty();
-            $('.autocomplete-results').removeClass('hidden');
-
-            if ($('.invSearchText').val() == ""){
-                return false;
-            }
-
-            for (var i = 0; i < Math.min(result.length, 8); i++) {
-                var addedItem =
-                    '<a href="http://www.investopedia.com/search/default.aspx?q=' +
-                    result[i].symbol + '&type=market">' +
-                    '<div class="symbol-result">' +
-                    '<div class="ticker-symbol">' + result[i].symbol + '</div>' +
-                    '<div class="ticker-company">' + result[i].company + '</div>' +
-                    '</div></a>';
-
-                var res = $('.autocomplete-results > .symbol-list').append(addedItem);
-            }
-
-            var footerItem = "<div class='autocomplete-footer'><a href='http://www.investopedia.com/search/default.aspx?q=" +
-                $('.invSearchText').val() + "'>View All Results</a></div>";
-
-            $('.autocomplete-results > .symbol-list').append(footerItem);
-        };
-        */
-    </script>
-
-  <style type="text/css">
-    #Header .member .search-box
-    {
-      width:190px;
-    }
-
-    #Header .member .ticker-search
-    {
-      display:inline-block !important;
-      width:100px;
-    }
-
-    .m-search-box div.container-inline.form-wrapper{
-      position:relative;
-    }
-
-    .m-search-box .form-item-symbol label{
-      display:none;
-    }
-
-    .m-search-box .form-item-symbol{
-      width: 100%;
-      height: 31px;
-      padding-right: 80px;
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      -ms-box-sizing: border-box;
-      -o-box-sizing: border-box;
-      box-sizing: border-box;
-      padding-right: 68px;
-      font-size:16px;
-      font-family: "sourcesanspro-light-webfont",Helvetica,Arial,Verdana,sans-serif;
-
-    }
-
-    .m-search-box .form-item-symbol input{
-      height: 31px;
-      font-size:13px;
-      padding-left: 10px;
-      color: black;
-      position: absolute;
-    }
-
-
-    .m-search-box .form-item-symbol + input{
-      position: absolute;
-      right: 0px;
-      top: 0px;
-      padding: 0;
-      width: 68px;
-      height: 31px;
-      color: #fff;
-      background-color: #a62436;
-      cursor: pointer;
-      border: 0;
-      font-size: 15px;
-      text-align: center;
-
-    }
-
-    /*Overwrites Default phone.css*/
-    .open-search {
-      -webkit-transform: translate3d(0, 120px, 0);
-      -ms-transform: translate3d(0, 120px, 0);
-      transform: translate3d(0, 120px, 0);
-    }
-
-    .m-search-box{
-      margin-top:-120px;
-    }
-
-  </style>
-
-    <div class="mid">
-        <div class="brand clear layout-size">
-            <div class="m-search-icon"><i></i></div>
-            <div id="m-nav-icon-open" class="m-nav-icon "><i></i></div>
-            <a href="/" class="logo"></a>
-            <div class="member">
-                <ul class="user-nav">
-                    <li><a href="http://investopedia.ar.wilink.com/" target="_blank" rel="nofollow">Free Annual Reports</a></li>
-                      <!--?returnurl-->
-                    <li><a href="/accounts/signupmember/" rel="nofollow">Register</a></li>
-                      <!--?returnurl-->
-                    <li><a href="/accounts/login.aspx" rel="nofollow">Sign in</a></li>
-                </ul>
-                <div class="search-bars">
-    <div class="search-box clear">
-
-        <div class="form-box form-group">
-                <div>
-                    <div class="container-inline form-wrapper" id="edit-basic">
-                        <div class="form-item form-type-textfield form-item-symbol">
-                            <input type="text" class="SearchValue form-text input-text input-help invSearchText" value="Search Investopedia">
-                        </div>
-                        <input type="button" name="invSearchBtn" class="invSearchBtn search-btn form-submit">
+                      <div class="col new" style="width:35%;">
+                        <div class="title">What's New</div>
+                                                  <a href="/articles/markets/062816/bis-urges-central-bank-coordination-following-brexit.asp" class="article new">
+                            <img src="http://i.investopedia.com/content/daily_blog/bis_urges_central_ba/shutterstock_378664741.jpg?quality=60&amp;width=200&amp;height=200">
+                            <span class="article-title">BIS Urges Central Bank Coordination Following Brexit </span>
+                          </a>
+                                                    <a href="/articles/markets/062816/soros-bet-against-deutsche-bank-after-brexit-vote-db.asp" class="article new">
+                            <img src="http://i.investopedia.com/content/daily_blog/soros_bet_against_de/shutterstock_39886366.jpg?quality=60&amp;width=200&amp;height=200">
+                            <span class="article-title">Soros Bet Against Deutsche Bank After Brexit Vote</span>
+                          </a>
+                                                </div><div class="col topics" style="width:65%;">
+                        <div class="title">Topics</div>
+                        <ul class="links topics">
+                          <li><a href="/markets/">Markets</a></li>
+                          <li><a href="/financial-advisor/">Financial Advisors</a></li>
+                          <li><a href="/active-trading/">Trading</a></li>
+                          <li><a href="/anxiety-index/">Anxiety Index</a></li>
+                          <li><a href="/retirement/">Retirement</a></li>
+                          <li><a href="/personal-finance/">Personal Finance</a></li>
+                          <li><a href="/investing/mutual-funds-and-etfs/">ETFs &amp; Mutual Funds</a></li>
+                          <li><a href="/election-center/">Election Center</a></li>
+                          <li><a href="/wealth-management/">Managing Wealth</a></li>
+                          <li><a href="/investing/">Investing</a></li>
+                          <li><a href="/markets/stock-analysis/">Stock Analysis</a></li>
+                        </ul>
+                      </div>
 
                     </div>
+                  </div>
+              </li><li>
+                <a href="/dictionary/" class="menu-item-title">Reference</a>
+
+                  <div class="menu-panel">
+                    <div class="inner page-width">
+
+                      <div class="col tod" style="width:30%;">
+                                                <a class="title" href="/dictionary/">Dictionary</a>
+                        <div class="tod-title">Term Of The Day</div>
+                        <a href="/terms/g/gbp.asp" class="tod-term">
+                          <div class="term-title">GBP</div>
+                          <div class="term-desc">The abbreviation for the British pound sterling, the official currency of the United ... </div>
+                          <div class="term-btn">Read More »</div>
+                        </a>
+                      </div><div class="col video" style="width:30%;">
+                        <a class="title" href="/video/">Latest Videos</a>
+                                                  <a href="/video/play/influence-mohamed-elerian/" class="article video">
+                            <img src="http://i.investopedia.com/content/video/influence_mohamed_e/mohamed_influence_thumb.jpg?quality=60&amp;width=200&amp;height=200">
+                            <span class="article-title">Mohamed El-Erian's Greatest Investment Influence</span>
+                          </a>
+                                                    <a href="/video/play/building-alletf-portfolio/" class="article video">
+                            <img src="http://i.investopedia.com/thumbs/buildingalletfportfolio.png?width=200&amp;height=200">
+                            <span class="article-title">Building An All-ETF Portfolio</span>
+                          </a>
+                                                </div><div class="col guides" style="width:20%;">
+                        <a class="title" href="/university/">Guides</a>
+                        <ul class="links">
+                          <li><a href="/university/stocks/">Stock Basics</a></li>
+                          <li><a href="/university/economics/">Economics Basics</a></li>
+                          <li><a href="/university/options/">Options Basics</a></li>
+                        </ul>
+                      </div><div class="col guides" style="width:20%;">
+                        <a class="title" href="/professionals/">Exam Prep</a>
+                        <ul class="links">
+                          <li><a href="/professionals/series7/">Series 7 Exam</a></li>
+                          <li><a href="/professionals/cfa/">CFA Level 1</a></li>
+                          <li><a href="/professionals/series65/">Series 65 Exam</a></li>
+                        </ul>
+                      </div>
+
+                    </div>
+                  </div>
+              </li><li>
+                <a href="/simulator/" class="menu-item-title">Simulator</a>
+
+                  <div class="menu-panel tools">
+                    <div class="inner page-width">
+
+                      <div class="col" style="width:50%;">
+                        <a href="/simulator/">
+                          <div class="tool-title simulator">Stock Simulator</div>
+                          <div class="tool-desc">Trade with a starting balance of $100,000 and zero risk!</div>
+                        </a>
+                      </div><div class="col" style="width:50%;">
+                        <a href="/fxtrader/">
+                          <div class="tool-title fxtrader">FX Trader</div>
+                          <div class="tool-desc">Trade the Forex market risk free using our free Forex trading simulator.</div>
+                        </a>
+                      </div>
+
+                    </div>
+                  </div>
+              </li><li><a href="/advisor-network/" class="menu-item-link">Advisor Insights</a>
+              </li>
+            </ul>
+          </div>
+        </div><div class="secondary"><div class="menu search">
+            <div class="menu-icon"></div>
+            <ul class="menu-items">
+              <li>
+                <div class="search-box">
+                  <input type="text" placeholder="Search Investopedia" value="" name="SearchValue" class="SearchValue invSearchText">
+                  <button type="button" name="SearchButton" class="invSearchBtn"></button>
                 </div>
+              </li>
+            </ul>
+          </div><div class="menu newsletters">
+            <a href="/accounts/signupnewsletter/?subid=header&amp;source=header" class="menu-icon"><span class="icon-txt">Newsletters</span></a>
+          </div><div class="menu member">
+            <div class="menu-icon"></div>
+
+            <ul class="menu-items">
+              <li>
+                <a href="/accounts/login.aspx" rel="nofollow" class="menu-item-title">Log In</a>
+              </li>
+            </ul>
+          </div>
         </div>
+      </div>
 
     </div>
-    <div class="search-box clear ticker-search">
-        <div class="form-box form-group">
-            <form class="filter-form" action="/corp/privacypolicy.aspx" method="post" id="market-api-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-symbol">
-  <label for="edit-symbol">Enter Symbol </label>
- <input type="text" id="edit-symbol" name="symbol" value="" size="10" maxlength="255" class="form-text">
-</div>
-<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-R1a15m2HZb6VhnBqhlVWUMFo0jqu_gTh-fLb8bnyZzU">
-<input type="hidden" name="form_id" value="market_api_form">
-</div></form>        </div>
-    </div>
-</div>            </div>
-        </div>
-    </div>
-    <div class="m-search-box">
-        <input type="text" class="SearchValue input-text invSearchText" value="Search Investopedia">
-        <input type="button" name="invSearchBtn" class="invSearchBtn search-btn" value="Search">
-        <span id="symbol-search">
-        <form class="filter-form" action="/corp/privacypolicy.aspx" method="post" id="market-api-form--2" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic--2"><div class="form-item form-type-textfield form-item-symbol">
-  <label for="edit-symbol--2">Enter Symbol </label>
- <input type="text" id="edit-symbol--2" name="symbol" value="" size="10" maxlength="255" class="form-text">
-</div>
-<input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-MEGd7A8R2MZKTgV4hbWPUZ-fOpkwLTqvJB5VdXYvvck">
-<input type="hidden" name="form_id" value="market_api_form">
-</div></form>        </span>
-    </div>
+  </div>
 
-</div>
-
-<div id="Nav" class="nav mobileCustomScrollbar">
-    <div class="m-login clear" style="width:136px;">
-          <!--?returnurl-->
-        <a href="/accounts/login.aspx" rel="nofollow">Sign in</a>
-          <!--?returnurl-->
-        <a href="/accounts/signupmember/" rel="nofollow">Register</a>
-    </div>
-    <div style="display:inline-block;">
-      <div id="m-nav-icon-close" class="m-nav-icon active"><i></i></div>
-    </div>
-
-    <div class="mainnav layout-size">
-        <ul class="menulist">
-            <li class="MenuDefaultDictionary">
-                        <i></i>
-                        <a href="/dictionary/"><br>Dictionary</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/categories/tradingterms.asp">Active Trading</a></li>
-                                                                                <li><a href="/categories/forex.asp">Forex</a></li>
-                                                                                <li><a href="/categories/technicalanalysis.asp">Technical Analysis</a></li>
-                                                                                <li><a href="/categories/brokers.asp">Brokers</a></li>
-                                                                                <li><a href="/categories/optionsandfutures.asp">Options</a></li>
-                                                                                <li><a href="/categories/futures.asp">Futures</a></li>
-                                                                                <li><a href="/categories/personalfinance.asp">Personal Finance</a></li>
-                                                                                <li><a href="/categories/retirementplanning.asp">Retirement</a></li>
-                                                                                <li><a href="/categories/acronyms.asp">Acronyms</a></li>
-                                                                                <li><a href="/categories/accounting.asp">Accounting</a></li>
-                                                                                <li><a href="/categories/banking.asp">Banking</a></li>
-                                                                                <li><a href="/categories/bonds.asp">Bonds</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuInvesting">
-                        <i></i>
-                        <a href="/investing/"><br>Investing</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/investing/investing-basics/">Investing Basics</a></li>
-                                                                                <li><a href="/investing/bonds-and-fixed-income/">Bonds &amp; Fixed Income</a></li>
-                                                                                <li><a href="/tags/automated-investing/">Automated Investing</a></li>
-                                                                                <li><a href="/investing/fundamental-analysis/">Fundamental Analysis</a></li>
-                                                                                <li><a href="/investing/mutual-funds-and-etfs/">Mutual Funds &amp; ETFs</a></li>
-                                                                                <li><a href="/investing/economics/">Economics</a></li>
-                                                                                <li><a href="/calculator/">Calculators</a></li>
-                                                                                <li><a href="/university/all/basics/">Tutorials</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuActiveTrading">
-                        <i></i>
-                        <a href="/active-trading/"><br>Trading</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/active-trading/fundamentals/">Fundamentals</a></li>
-                                                                                <li><a href="/active-trading/charts-and-patterns/">Charts &amp; Patterns</a></li>
-                                                                                <li><a href="/active-trading/technical-indicators/">Technical Indicators</a></li>
-                                                                                <li><a href="/active-trading/trading-strategies/">Trading Strategies</a></li>
-                                                                                <li><a href="/active-trading/brokers-and-reviews/">Brokers</a></li>
-                                                                                <li><a href="/active-trading/trading-systems-and-software/">Software</a></li>
-                                                                                <li><a href="/active-trading/options-and-futures/">Options &amp; Futures</a></li>
-                                                                                <li><a href="/active-trading/chartadvisor/">Chart Advisor</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuMarkets">
-                        <i></i>
-                        <a href="/markets/"><br>Markets</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/forex/">Forex</a></li>
-                                                                                <li><a href="/fxtrader/">FXTrader</a></li>
-                                                                                <li><a href="/markets/stock-analysis/">Analysis &amp; Opinions</a></li>
-                                                                                <li><a href="/markets/etfs/">ETF Center</a></li>
-                                                                                <li><a href="/markets/sectors/">Sectors</a></li>
-                                                                                <li><a href="/active-trading/chartadvisor/">Chart Advisor</a></li>
-                                                                                <li><a href="/free/">Free Tools</a></li>
-                                                                                <li><a href="http://investopedia.ar.wilink.com"><img class="nav-FARL-1" src="http://i.investopedia.com/public/img/precision-ir-nav-icon.gif" alt="Free Annual Reports Logo"><img class="nav-FARL-2" src="http://i.investopedia.com/public/img/logo_precision.png" alt="Free Annual Reports Logo"> Free Annual Reports</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuPersonalFinance">
-                        <i></i>
-                        <a href="/personal-finance/">Personal<br>Finance</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/personal-finance/life-stages/">Life Stages</a></li>
-                                                                                <li><a href="/personal-finance/credit-and-loans/">Credit &amp; Loans</a></li>
-                                                                                <li><a href="/personal-finance/insurance/">Insurance</a></li>
-                                                                                <li><a href="/personal-finance/retirement/">Retirement</a></li>
-                                                                                <li><a href="/personal-finance/home-and-auto/">Home &amp; Auto</a></li>
-                                                                                <li><a href="/personal-finance/savings/">Savings</a></li>
-                                                                                <li><a href="/personal-finance/budgeting/">Budgeting</a></li>
-                                                                                <li><a href="/personal-finance/entrepreneurship/">Entrepreneurship</a></li>
-                                                                                <li><a href="/personal-finance/taxes/">Taxes</a></li>
-                                                                                <li><a href="/net-worth/">Net Worth</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuWealthManagement">
-                        <i></i>
-                        <a href="/wealth-management/">Wealth<br>Management</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/wealth-management/personal-wealth-and-private-banking/">Personal Wealth &amp; Private Banking</a></li>
-                                                                                <li><a href="/wealth-management/executive-compensation/">Executive Compensation</a></li>
-                                                                                <li><a href="/wealth-management/estate-planning/">Estate Planning</a></li>
-                                                                                <li><a href="/wealth-management/real-estate/">Real Estate</a></li>
-                                                                                <li><a href="/wealth-management/insurance/">Insurance</a></li>
-                                                                                <li><a href="/wealth-management/philanthropy/">Philanthropy</a></li>
-                                                                                <li><a href="/wealth-management/tax-strategy/">Tax Strategy</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuFinancialAdvisors">
-                        <i></i>
-                        <a href="/financial-advisor/">Financial<br>Advisors</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/financial-advisor/saving-and-spending/">Saving and Spending</a></li>
-                                                                                <li><a href="/financial-advisor/products-and-investments/">Products and Investments</a></li>
-                                                                                <li><a href="/financial-advisor/career-education-and-resources/">Career Education &amp; Resources</a></li>
-                                                                                <li><a href="/financial-advisor/your-clients/">Your Clients</a></li>
-                                                                                <li><a href="/financial-advisor/your-practice/">Your Practice</a></li>
-                                                                                <li><a href="/financial-advisor/financial-advisor-technology/">Financial Advisor Technology</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuProfessionals">
-                        <i></i>
-                        <a href="/professionals/"><br>Exam Prep</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                    <li><a href="/tags/continuing_education/">Continuing Education</a></li>
-                                                                                <li><a href="/quizzer/">Exam Prep Quizzer</a></li>
-                                                                                <li><a href="/professionals/questionoftheweek.aspx">FAQs</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuTutorials">
-                        <i></i>
-                        <a href="/university/"><br>Tutorials</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/university/all/trading/">Active Trading</a></li>
-                                                                                <li><a href="/university/all/forex/">Forex</a></li>
-                                                                                <li><a href="/university/all/pf/">Personal Finance</a></li>
-                                                                                <li><a href="/university/all/mortgages-real-estate/">Real Estate</a></li>
-                                                                                <li><a href="/university/all/retirement/">Retirement</a></li>
-                                                                                <li><a href="/university/all/insurance/">Insurance</a></li>
-                                                                                <li><a href="/university/all/exchangetradedfunds/">ETFs</a></li>
-                                                                                <li><a href="/university/all/options-and-futures/">Options/Futures</a></li>
-                                                                                <li><a href="/university/all/bonds/">Bonds</a></li>
-                                                                                <li><a href="/university/all/economics/">Economics</a></li>
-                                                                                <li><a href="/university/all/markets/">Markets</a></li>
-                                                                                <li><a href="/university/all/taxes/">Taxes</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuArticles">
-                        <i></i>
-                        <a href="/articles/"><br>Articles</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/articles/trading/">Active Trading</a></li>
-                                                                                <li><a href="/articles/forex/">Forex</a></li>
-                                                                                <li><a href="/articles/pf/">Personal Finance</a></li>
-                                                                                <li><a href="/articles/mortgages-real-estate/">Real Estate</a></li>
-                                                                                <li><a href="/articles/retirement/">Retirement</a></li>
-                                                                                <li><a href="/articles/insurance/">Insurance</a></li>
-                                                                                <li><a href="/articles/exchangetradedfunds/">ETFs</a></li>
-                                                                                <li><a href="/articles/options-and-futures/">Options/Futures</a></li>
-                                                                                <li><a href="/articles/bonds/">Bonds</a></li>
-                                                                                <li><a href="/articles/economics/">Economics</a></li>
-                                                                                <li><a href="/articles/markets/">Markets</a></li>
-                                                                                <li><a href="/articles/taxes/">Taxes</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuFAQS">
-                        <i></i>
-                        <a href="/ask/"><br>Frequently Asked Questions</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/ask/trading/">Active Trading</a></li>
-                                                                                <li><a href="/ask/forex/">Forex</a></li>
-                                                                                <li><a href="/ask/pf/">Personal Finance</a></li>
-                                                                                <li><a href="/ask/mortgages-real-estate/">Real Estate</a></li>
-                                                                                <li><a href="/ask/retirement/">Retirement</a></li>
-                                                                                <li><a href="/ask/insurance/">Insurance</a></li>
-                                                                                <li><a href="/ask/exchangetradedfunds/">ETFs</a></li>
-                                                                                <li><a href="/ask/options-and-futures/">Options/Futures</a></li>
-                                                                                <li><a href="/ask/bonds/">Bonds</a></li>
-                                                                                <li><a href="/ask/economics/">Economics</a></li>
-                                                                                <li><a href="/ask/markets/">Markets</a></li>
-                                                                                <li><a href="/ask/taxes/">Taxes</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuSlideshows">
-                        <i></i>
-                        <a href="/slide-show/"><br>Slideshows</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/slide-show/basics/">Investing</a></li>
-                                                                                <li><a href="/slide-show/pf/">Personal Finance</a></li>
-                                                                                <li><a href="/slide-show/forex/">Forex</a></li>
-                                                                                <li><a href="/slide-show/trading/">Active Trading</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuVideo">
-                        <i></i>
-                        <a href="/video/"><br>Video</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/video/definitions/">Definitions</a></li>
-                                                                                <li><a href="/video/basics/">Investing</a></li>
-                                                                                <li><a href="/video/pf/">Personal Finance</a></li>
-                                                                                <li><a href="/video/trading/">Active Trading</a></li>
-                                                                                <li><a href="/video/forex/">Forex</a></li>
-                                                                                <li><a href="/video/economics/">Economics</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuCalculator">
-                        <i></i>
-                        <a href="/calculator/"><br>Calculators</a>
-
-                            <div class="subnav">
-                    <ul class="sub-menulist layout-size clear">
-                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/free/stockadvice/">Stock Advice</a></li>
-                                                                                <li><a href="http://investopedia.ar.wilink.com"><img class="nav-FARL-1" src="http://i.investopedia.com/public/img/precision-ir-nav-icon.gif" alt="Free Annual Reports Logo"><img class="nav-FARL-2" src="http://i.investopedia.com/public/img/logo_precision.png" alt="Free Annual Reports Logo">Free Annual Reports</a></li>
-                                                                                <li><a href="/free/">Free Guides and Packages</a></li>
-                                                                                <li><a href="/calculator/">Financial Calculators</a></li>
-                                                                                <li><a href="/accounts/signupnewsletter?returnurl=http%3A%2F%2Fwww.investopedia.com%2Fcorp%2Fprivacypolicy.aspx">Free Newsletters</a></li>
-                                            </ul>
-                </div>
-                    </li>
-            <li class="MenuChartAdvisorArticles">
-                        <a href="/active-trading/chartadvisor/"><br>Chart Advisor Articles</a>
-
-                    </li>
-            <li class="MenuAnalysisOpinions">
-                        <a href="/markets/stock-analysis/"><br>Analysis &amp; Opinions</a>
-
-                    </li>
-            <li class="MenuSimulator">
-                        <a href="/simulator/">Stock<br>Simulator</a>
-
-                    </li>
-            <li class="MenuFreeNewsletters">
-                        <a href="/accounts/signupnewsletter/?returnurl=http://www.investopedia.com/default.aspx"><br>Free Newsletters</a>
-
-                    </li>
-    </ul>
+  <!-- pre-subchannel op: investing -->
+<!-- post-subchannel op: investing --><div class="header subchannels">
+    <div class="inner page-width">
+        <ul class="item-investing">
+            <li class="channel-title"><a href="/investing/">Investing</a></li>
+            <li class="separator">»</li>
+                            <li><a href="/investing/mutual-funds-and-etfs/">Mutual Funds &amp; ETFs</a></li>
+                                <li><a href="/investing/investing-basics/">Investing Basics</a></li>
+                                <li><a href="/tags/automated-investing/">Automated Investing</a></li>
+                                <li><a href="/investing/bonds-and-fixed-income/">Bonds &amp; Fixed Income</a></li>
+                                <li><a href="/investing/fundamental-analysis/">Fundamental Analysis</a></li>
+                                <li><a href="/investing/economics/">Economics</a></li>
+                                <li><a href="/calculator/">Calculators</a></li>
+                                <li><a href="/university/all/basics/">Tutorials</a></li>
+                        </ul>
     </div>
 </div>
+        
 
+  <script language="JavaScript">
+
+    // hide tod description if there isn't enough space.
+    $('.menu-panel').css({ display:'block' });
+    if ($('.tod-term').height() > 48) { $('.term-desc').hide(); }
+    $('.menu-panel').removeAttr('style');
+
+    // update user menu
+    var user_menu = '';
+    var user_info = $.parseJSON(decodeURIComponent(getCookie('user_info')).replace(/\+/g, ' '));
+
+    user_menu += '<li><a href="/accounts/manageprofile.aspx" class="menu-item-title">{name} (edit)</a></li>';
+    user_menu += '<li><a href="/accounts/logout.aspx" class="menu-item-title">Sign Out</a></li>';
+
+    String.prototype.replaceAll = function (find, replace) {
+      return this.replace(new RegExp(find, 'g'), replace);
+    }
+
+    if (user_info) {
+      user_menu = user_menu.replaceAll('{name}', user_info.name);
+      $('.menu.member .menu-items').html(user_menu);
+    }
+
+    // handle .header functionality
+    $('.header .menu-icon').on('click', function()
+    {
+      
+      if ($(this).css('display') == 'block') {
+        $('.header .menu.open').not($(this).parent()).removeClass('open');
+        $(this).parent().toggleClass('open');
+      }
+    });
 
     
+    $('.header .menu.nav .menu-item-title').on('click', function(e)
+    {
+      if ($(this).is('.link')) { return false; }
+      if ($(this).parents('.menu:eq(0)').find('.menu-icon').css('display') == 'block') {
+        e.preventDefault();
+        var this_panel = $(this).parent();
+        $('.header .menu-items > li').not(this_panel).removeClass('open');
+        this_panel.toggleClass('open');
+      }
+    });
 
+    
+    $('.header .menu').on('click', function(e)
+    {
+      e.stopPropagation();
+    });
 
+    $('html').on('click', function()
+    {
+      $('.header .menu').removeClass('open');
+    });
+  </script>
 
-
-
+                      
+          
 
 <div id="Content" class="layout-size corporation">  <div class="region region-content">
     <div id="block-system-main" class="block block-system">
@@ -1652,7 +1915,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
   </div>
 </div>    <div id="Footer">
-              <div class="mid">
+        <div class="mid">
             <div class="footer-inner layout-size">
                 <!--<a href="#" class="to-top">TOP</a>-->
                 <!-- Footer logo -->
@@ -1676,11 +1939,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="search-box clear ticker-search">
         <div class="form-box form-group">
-            <form class="filter-form" action="/corp/privacypolicy.aspx" method="post" id="market-api-form--3" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic--3"><div class="form-item form-type-textfield form-item-symbol">
-  <label for="edit-symbol--3">Enter Symbol </label>
- <input type="text" id="edit-symbol--3" name="symbol" value="" size="10" maxlength="255" class="form-text">
+            <form class="filter-form" action="/corp/privacypolicy.aspx" method="post" id="market-api-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-symbol">
+  <label for="edit-symbol">Enter Symbol </label>
+ <input type="text" id="edit-symbol" name="symbol" value="" size="10" maxlength="255" class="form-text">
 </div>
-<input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-QWPOI8mVC-7CBo_gk-wSOcYO9SrG6ilQNMFN1wb9yeA">
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Jv1k3Oksqn4YjyVbebKPgzDSPAMaTOOxS6U8DywDhc0">
 <input type="hidden" name="form_id" value="market_api_form">
 </div></form>        </div>
     </div>
@@ -1722,13 +1985,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li><a href="/articles/">Articles</a></li>
                             <li><a href="/dictionary/">Terms</a></li>
                             <li><a href="/video/">Videos</a></li>
-                            <li><a href="/university/">Tutorials</a></li>
+                            <li><a href="/university/">Guides</a></li>
                             <li><a href="/slide-show/">Slideshows</a></li>
                             <li><a href="/ask/">FAQs</a></li>
                             <li><a href="/calculator/">Calculators</a></li>
                             <li><a href="/active-trading/chartadvisor/">Chart Advisor</a></li>
                             <li><a href="/markets/stock-analysis/">Stock Analysis</a></li>
-                            <li><a href="http://investopedia.ar.wilink.com/" rel="nofollow"><img alt="" src="http://i.investopedia.com/public/img/logo_precision.png">Free Annual Reports</a></li>
                             <li><a href="/simulator/">Stock Simulator</a></li>
                             <li><a href="/fxtrader/">FXtrader</a></li>
                             <li><a href="/exam-prep-quizzes/">Exam Prep Quizzer</a></li>
@@ -1751,26 +2013,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="col-l">
                         <ul>
                             <li class="first">Work With Investopedia</li>
-                            <li><a href="/corp/content-licensing.aspx">License Content</a></li>
+                            <li><a href="/corp/about.aspx">About Us</a></li>
                             <li><a href="/corp/advertise.aspx">Advertise With Us</a></li>
                             <li><a href="/corp/contactus.aspx?type=WriterSubmission">Write For Us</a></li>
-                            <li><a href="/corp/emailcampaign.aspx">Email Deployment</a></li>
                             <li><a href="/corp/contactus.aspx">Contact Us</a></li>
                             <li><a href="https://careers.smartrecruiters.com/IAC/investopedia" rel="nofollow">Careers</a></li>
                         </ul>
                     </div>
 
                     <div class="col-r">
-                        <div class="newsletter">
-                                                                                    
-<div class="form-box form-group">
-<form class="newsletter-widget-form newsletter-widget-form-footer" action="/corp/privacypolicy.aspx" method="post" id="account-api-newsletters-widget-deepblue-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
-  <input type="text" id="edit-email" name="email" value="" size="60" maxlength="50" class="form-text">
-</div>
-<input type="hidden" name="default_newsletter_id" value="5">
-<input type="submit" id="edit-submit--4" name="op" value="Subscribe" class="form-submit"><input type="hidden" name="form_id" value="account_api_newsletters_widget_deepblue_form">
-</div></form></div>
-                        </div>
+                        <ul class="menu-items">
+                            <li class="first">Get Free Newsletters</li>
+                            <li><a href="/accounts/signupnewsletter/?subid=footer&amp;source=footer" class="icon-newsletter">Newsletters</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -1778,8 +2033,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- .mid -->
         <div class="btm">
             <div class="copyright layout-size clear">
-                <span>© 2015, Investopedia, LLC.</span>
-                <span>
+                <span>© 2016, Investopedia, LLC.</span>
+                <span class="footer-legal-links">
                     <a href="/corp/copyright.aspx">All Rights Reserved</a>
                     <a href="/corp/termsofuse.aspx">Terms Of Use</a>
                     <a href="/corp/privacypolicy.aspx" class="last">Privacy Policy</a>
@@ -1791,14 +2046,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div id="AdSlot_PG-Web-Bar">
-    <script type="text/javascript">
-        googletag.cmd.push(function () {
-            googletag.display('AdSlot_PG-Web-Bar');
-        });
-    </script>
-</div>
-
 <script type="text/javascript">
     var adSlots = ["AdSlot_BF-Right-Multi","AdSlot_AF-Right-Multi","AdSlot_AF-Top-Leaderboard","AdSlot_IC-Rectangle","AdSlot_AF-Left-Multi","AdSlot_BF-Right-Button1","AdSlot_BF-Right-Button2","AdSlot_BF-Right-Button3","AdSlot_BF-Right-Button4"];
 
@@ -1809,107 +2056,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     }
 </script>
-<script type="text/javascript">
-<!--
-var google_num_ads = 0;
-var google_last_ad_type = '';
-var max_num_ads = 3;
-var show_incontent;
-if(!$("#in-content-afc").length) { //No InContent Ads
-    max_num_ads = 3;
-    show_incontent = false;
-} else {
-    show_incontent = true;
-}
-
-function google_ad_request_done(google_ads) {
-    if (google_ads.length == 0) {
-      return;
-    }
-    var s, s_in;
-    google_num_ads = google_ads.length;
-    google_last_ad_type = google_ads[0].type;
-
-    var in_count = 0,below_count = 0;
-
-    if (show_incontent) {
-        //for example: max_num_ads=5,google_num_ads=5/max_num_ads=5,google_num_ads=3/max_num_ads=5,google_num_ads=1
-        in_count = Math.min(max_num_ads-3, google_num_ads);
-    }
-    //else in_count=0
-    below_count = google_num_ads - in_count;
-
-    // google ad title
-        s_in = '<div class="ad-AFC-incontent ontop"><span>Ads<\/span><a href="'+google_info.feedback_url+'" target="new"><\/a>';
-    
-    s = '<div class="ad-AFC-incontent"><span>Ads<\/span><a href="'+google_info.feedback_url+'" target="new"><\/a>';
-
-    if (google_ads[0].type == "text") {
-        s_in += "<ul>";
-        s += "<ul>";
-        if (google_num_ads == 1) {
-            ad_title_class = 'ad_title_large';
-            ad_text_class = 'ad_text_large';
-            ad_url_class = 'ad_url_large';
-        } else {
-            ad_title_class = 'ad_title';
-            ad_text_class = 'ad_text';
-            ad_url_class = 'ad_url';
-        }
-        var pageType = 'Corp'
-        if (pageType === 'Video') {
-            ad_title_class = 'ad_title_video';
-            ad_text_class =  'ad_text_video';
-        }
-        //render incontent
-        for(var i = 0; i < in_count; i++) {
-            s_in += '<li><p class="'+ad_title_class+'"><a class="" target="_blank" href="'+ google_ads[i].url + '" >' +
-            google_ads[i].line1 + '<\/a><\/p><p class="'+ad_url_class+'">' +
-            '<a class="" target="_blank" href="' + google_ads[i].url + '" >' +
-            google_ads[i].visible_url + '<\/a><\/p><p class="'+ad_text_class+'">' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '<\/p><\/li>';
-        }
-        //render belowcontent
-        for(var i = in_count; i < google_num_ads; i++) {
-            s += '<li><p class="'+ad_title_class+'"><a class="" target="_blank" href="'+ google_ads[i].url + '" >' +
-            google_ads[i].line1 + '<\/a><\/p><p class="'+ad_url_class+'">' +
-            '<a class="" target="_blank" href="' + google_ads[i].url + '" >' +
-            google_ads[i].visible_url + '<\/a><\/p><p class="'+ad_text_class+'">' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '<\/p><\/li>';
-        }
-        s_in += "<\/ul>";
-        s += "<\/ul>";
-    }
-    s_in +="<\/div>";
-    s +="<\/div>";
-
-    if (in_count > 0) {
-        $("#in-content-afc").html(s_in);
-    }
-    if (below_count > 0) {
-        $("#below-content").html(s);
-    }
-    return;
-}
-// -->
-</script>
-
-
-
-<script type="text/javascript">
-<!--
-google_ad_client = "ca-smarter-investopedia_js";
-google_ad_channel = '3094';
-google_ad_output = 'js';
-google_ad_type = 'text';
-google_max_num_ads = max_num_ads;
-google_safe = 'high';
-google_encoding = 'utf8';
-google_language = 'en_US';
-//on for testing environment, off for Live
-google_adtest = 'off';
-//-->
-</script>
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
         <!--js start-->
     
     
@@ -1928,7 +2074,7 @@ google_adtest = 'off';
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034722&c4=http://www.investopedia.com/corp/privacypolicy.aspx&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore -->
-        
+    
     <!-- Audience Segment-->
     <script type="text/javascript" data-id="script_sp_taggroup_mapping" src="http://i.investopedia.com/public/js/smart_pixel/tag_taggroup_mapping.js"></script>
     <script type="text/javascript" data-id="script_sp_taggroup_mapping" src="http://i.investopedia.com/public/js/smart_pixel/taggroup_seg_mapping.js"></script>
@@ -1939,12 +2085,39 @@ google_adtest = 'off';
 <!--js end-->
 
 
-	</div><img src="http://pubads.g.doubleclick.net/activity;xsp=197334;ord=6502010518518.739?" width="1" height="1"><!-- .pg-wrapper -->
+	</div><img src="http://pubads.g.doubleclick.net/activity;xsp=197334;ord=8366256981988.331?" width="1" height="1"><!-- .page-wrapper -->
 
 
 
-
-<script type="text/javascript">
-!function e(n,t,o){function i(a,s){if(!t[a]){if(!n[a]){var c="function"==typeof require&&require;if(!s&&c)return c(a,!0);if(r)return r(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var l=t[a]={exports:{}};n[a][0].call(l.exports,function(e){var t=n[a][1][e];return i(t?t:e)},l,l.exports,e,n,t,o)}return t[a].exports}for(var r="function"==typeof require&&require,a=0;a<o.length;a++)i(o[a]);return i}({1:[function(e,n,t){var o=e(2);n.exports=o},{2:2}],2:[function(e,n,t){n.exports={REPORTING_URL:"http://s.xpanama.net/stats/adonis_error",REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",IS_LOCAL_CONNECTION:!1,LOG_LEVEL:"error",REPORT_STATS:!0,REPORT_ERRORS:!0}},{}],3:[function(e,n,t){function o(e,n){return{host:"assets",path:e,headers:n}}function i(e,n){return!n||Number(n)<=e}function r(e,n){var t=Function("conn","config",e);t(n,d)}function a(e){}function s(){var e=new XMLHttpRequest,n=[d.REPORTING_URL];e.open("GET",n,!0),e.send()}var c=e(4),d=e(1);d.LOG_LEVEL="#adonis-logging"===window.location.hash?"debug":d.LOG_LEVEL;var l=d.REPORT_ERRORS?s:a,u="undefined"!=typeof Storage,f=void 0===window.adonisGlobal||"disabled"!==window.adonisGlobal.detectionLevel;if(u&&f){var p=localStorage.adonisCacheExpiry,h=localStorage.adonisCacheSrc,g=(new Date).getTime()/1e3;if(i(g,p)){var v=new c(d.SERVER_CANDIDATE,d.REAL_STUN_HOST,d.TURNSIGNAL_HOST,d.STUNGUN_HOST,d.IS_LOCAL_CONNECTION,l);v.reportStats=d.REPORT_STATS,v.setLogLevel(d.LOG_LEVEL),v.on("open",function(){var e=o("client",{adonis_client_api:"3.0.1"});v.request(e,function(e,n,t){if(n&&n["cache-control"]){var o=Number(n["cache-control"].split("=")[1]),i=g+o;localStorage.adonisCacheExpiry=i}304===t?r(h,v):200===t?(localStorage.adonisCacheSrc=e,r(e,v)):l(e)})}),v.open()}else r(h,null)}},{1:1,4:4}],4:[function(e,n,t){function o(e,n,t,o,i,r,a){this.realStunHost=n,this.turnSignalHost=t,this.stunGunHost=o,this.remoteCandidates=[],this.serverCandidate=e,this.nodePeerPort=null,this.nodePeerIp=null,this.localCandidates=[],this.sentDataToTurn=!1,this.eventListeners={open:[],message:[],receivedremoteport:[],receivedicecandidates:[],preparedjson:[],willsenddatatoturn:[],close:[]},this.requests={},this.isOpen=!1,a&&(this.handleError=a),this.isLocalConnection=i,this.timingEvents=[],this.reportStats=!1}function i(){var e=this,n={iceServers:[{url:"stun:"+this.stunGunHost,urls:["stun:"+this.stunGunHost],username:"test",credential:"test"}]};m.info("Connecting to stungun server : "+this.stunGunHost);var t=this.stunGunPeerConnection=new S(n);t.createDataChannel(""),t.createOffer(function(n){t.setLocalDescription(n,function(){e.addTimingEvent("requestingServerIp",performance.now()-e.estConnectionStart)},function(){})},function(){}),t.onicecandidate=function(n){if(null!==n.candidate){var o=n.candidate.candidate;if(m.debug("onicecandidate: "+o),g.isServerReflexive(o)&&!g.isIPv6(o)){t.close();var i=g.matchNodePeerIpAndPort(o);if(null!==i){e.addTimingEvent("serverIpReceived",performance.now()-e.estConnectionStart),e.nodePeerIp=i[1],e.nodePeerPort=i[2],m.info("ip and port to connect on: "+e.nodePeerIp+":"+e.nodePeerPort);var r=e.serverCandidate.replace(/SERVER_PORT/g,e.nodePeerPort);r=r.replace(/SERVER_IP/g,e.nodePeerIp),m.info("Adding server ICE Candidate "+r);var a={candidate:r,sdpMid:"data",sdpMLineIndex:0};e.peerConnection.addIceCandidate(new E(a),h,e.handleError),e.triggerEvent("receivedremoteport"),e.remoteCandidateReceived=!0,l.call(e)}}}}}function r(){var e=this.peerConnection=new S({iceServers:[{url:"stun:"+this.realStunHost,urls:["stun:"+this.realStunHost]}]}),n=this;this.peerConnection.onicecandidate=function(e){if(null!==e.candidate){var t=e.candidate.candidate;m.info("RECEVIED LOCAL CANDIDATE "+t),g.isServerReflexive(t)&&!g.isIPv6(t)&&(n.addTimingEvent("iceCandidate",performance.now()-n.estConnectionStart),n.localCandidates.push(t),n.localCandidateReceived=!0,l.call(n))}},this.peerConnection.ondatachannel=function(e){n.dataChannel=e.channel,n.turnSignalPeerConnection.close(),m.info("ondatachannel",n.dataChannel.label,n.dataChannel.readyState),n.dataChannel.binaryType="arraybuffer",n.dataChannel.onopen=function(){n.isOpen=!0,m.info("onopen");var e=performance.now(),t=e-n.estConnectionStart;n.addTimingEvent("dataChannelOpen",t);var o={host:"test"};n.request(o,function(){var t=performance.now()-e;n.addTimingEvent("msgRoundTrip",t),n.report("success",performance.now()-n.estConnectionStart),clearTimeout(n.connectionTimeout),setTimeout(function(){n.close()},R)}),m.info("TIMING:total "+t),m.info("onopen"),n.triggerEvent("open"),n.messageSendStartTime=performance.now()};var t="";n.dataChannel.onmessage=function(e){var o=e.data;m.info(o),n.triggerEvent("message",o);var i=null;try{i=C.handleMessage(o,t),m.info("got response chunk",i)}catch(r){m.error(r)}i&&(i.complete?(a.call(n,i.data.id,i.data.http),t="",m.info("recieved complete response, reset accumulator")):(t=i.data,m.info("response is not complete yet, updated accumulated data",t)))},n.dataChannel.onclose=function(){m.info("onClose"),n.triggerEvent("close")},n.dataChannel.onerror=n.handleError},this.peerConnection.onsignalingstatechange=function(){m.info("signaling state change: ",e.iceConnectionState)},this.peerConnection.oniceconnectionstatechange=function(){var t=performance.now();m.info("ice connection state change: ",e.iceConnectionState,"after ",t-n.estConnectionStart,"millis")},this.peerConnection.onicegatheringstatechange=function(){m.info("ice gathering state change: ",e.iceConnectionState)},s.call(this)}function a(e,n){var t=n.headers;t&&t["set-cookie"]&&(document.cookie=t["set-cookie"]);var o=this.requests[e];o(n.body,n.headers,n.status),delete this.requests[e]}function s(){var e={type:"offer",sdp:"v=0\r\no=- 7745999191240241858 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=msid-semantic: WMS\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:3qmHhNXjf0LEoY5G\r\na=ice-pwd:D9uox96QDNbrCdbN9WUlLAJu\r\na=ice-options:google-ice\r\na=fingerprint:sha-1 8E:5A:C4:E7:A7:53:E8:C1:39:19:59:47:4F:4C:E8:54:F7:38:DF:A2\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"};m.info("SETTING HARD CODED offer data : "+e.sdp);var n=new w(e);this.peerConnection.setRemoteDescription(n,c.bind(this),this.handleError),c.bind(this)}function c(){this.peerConnection.createAnswer(d.bind(this),this.handleError),this.iceCandidateStartTime=performance.now()}function d(e){this.answer=e,this.peerConnection.setLocalDescription(new w(e),u.bind(this),this.handleError),this.localDescriptionSet=!0,l.call(this)}function l(){!this.sentDataToTurn&&this.remoteCandidateReceived&&this.localCandidateReceived&&this.localDescriptionSet&&(m.debug("sending data to TURN"),f.call(this),this.sentDataToTurn=!0)}function u(){m.info("Sending answer"),this.addTimingEvent("setLocalDesc",performance.now()-this.estConnectionStart)}function f(){this.triggerEvent("receivedicecandidates");var e=performance.now();m.info("TIMING:ice_candidates "+(e-this.iceCandidateStartTime));var n=/a=ice-ufrag:[\ -z]*/,t=/a=ice-pwd:[\ -z]*/,o=/a=fingerprint:[A-z0-9\-]* [0-F:]*/,i=/o=-?\S* [0-9]+ [0-9] IN IP4 [0-9\.]+/,r=performance.now();m.info("Before matching regexes"+(r-this.estConnectionStart)),m.info(this.answer.sdp);var a=this.answer.sdp.match(n),s=this.answer.sdp.match(t),c=this.answer.sdp.match(o),d=this.answer.sdp.match(i);m.info("UFRAG:"+a),m.info("PWD:"+s),m.info("FINGERPRINT:"+c),m.info("O=:"+d);var l=[this.localCandidates];l.push(a[0]),l.push(s[0]),l.push(c[0]),l.push(d[0]);var u=new Uint8Array(8);window.crypto.getRandomValues(u);var f=String.fromCharCode.apply(null,u);l.push(f),l.push(this.nodePeerIp),l.push(this.nodePeerPort),this.triggerEvent("preparedjson",l);var h=performance.now();m.info("After matching regexes"+(h-this.estConnectionStart));var g=performance.now();m.info("Before jsonifying candidates"+(g-this.estConnectionStart));var v=JSON.stringify(l),C=performance.now();m.info("After jsonifying candidates"+(C-this.estConnectionStart)),p.call(this,v)}function p(e){this.triggerEvent("willsenddatatoturn",e);var n=performance.now()-this.estConnectionStart;this.addTimingEvent("turnPrep",n),m.debug("Sending data to turn @ "+this.turnSignalHost+" after "+n+" millis");var t={iceServers:[{url:"turn:"+this.turnSignalHost,urls:["turn:"+this.turnSignalHost],username:e,credential:"x"}]};this.turnSignalPeerConnection=new S(t),this.turnSignalPeerConnection.createDataChannel("");var o=this;this.turnSignalPeerConnection.createOffer(function(e){var n=performance.now(),t=n-o.estConnectionStart;o.addTimingEvent("turnSend",t),m.info("Fake offer generated which should trigger TURN request after "+(n-o.estConnectionStart)+" millis"),o.turnSignalPeerConnection.setLocalDescription(e,function(){},function(){})},function(){})}function h(){m.info("Successfully added ICE candidate")}var g=e(6),v=e(7),C=e(8),m=e(5);m.setLevel("silent");var S=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection,w=window.RTCSessionDescription||window.mozRTCSessionDescription||window.webkitRTCSessionDescription,E=window.RTCIceCandidate||window.mozRTCIceCandidate||window.webkitRTCIceCandidate,T=15e3,R=3e5;o.prototype.handleError=function(){},o.prototype.getTimingEvents=function(){return this.timingEvents},o.prototype.addTimingEvent=function(e,n){var t={name:"t_"+e,timing:n};this.timingEvents.push(t)},o.prototype.report=function(e,n){this.getTimingEvents().forEach(function(e){m.debug("sending stat : "+e.name+" : "+e.timing)}),this.reportStats&&v.sendStats(e,[{name:"t",timing:n}].concat(this.getTimingEvents()))},o.prototype.open=function(){var e=this;this.connectionTimeout=setTimeout(function(){e.report("timeout",performance.now()-e.estConnectionStart),e.close()},T),this.estConnectionStart=performance.now(),setTimeout(function(){m.debug("v8Lag is : "+(performance.now()-e.estConnectionStart)),e.addTimingEvent("v8Lag",performance.now()-e.estConnectionStart)},1),i.call(this),r.call(this)},o.prototype.send=function(e){m.info("sending message",e),this.dataChannel.send(e)},o.prototype.request=function(e,n){var t=C.buildRequest(e),o=C.buildTerminator(t.id);this.requests[t.id]=n,this.send(JSON.stringify(t)),this.send(JSON.stringify(o))},o.prototype.close=function(){this.dataChannel&&(this.report("unfinished",performance.now()-this.estConnectionStart),this.dataChannel.close(),this.dataChannel=null),this.peerConnection&&"closed"!==this.peerConnection.signalingState&&(console.log("Closed PC"),this.peerConnection.close()),this.stunGunPeerConnection&&"closed"!==this.stunGunPeerConnection.signalingState&&(console.log("Closed Stungun PC"),this.stunGunPeerConnection.close()),this.turnSignalPeerConnection&&"closed"!==this.turnSignalPeerConnection.signalingState&&(console.log("Closed Turnsignal PC"),this.turnSignalPeerConnection.close())},o.prototype.on=function(e,n){e in this.eventListeners&&this.eventListeners[e].push(n)},o.prototype.triggerEvent=function(e){if(e in this.eventListeners){var n=Array.prototype.slice.call(arguments,1);this.eventListeners[e].forEach(function(e){e.apply(this,n)})}},o.prototype.setLogLevel=function(e){m.setLevel(e)},window.PanamaClient=o,n.exports=o},{5:5,6:6,7:7,8:8}],5:[function(e,n,t){!function(t,o){"use strict";"object"==typeof n&&n.exports&&"function"==typeof e?n.exports=o():"function"==typeof define&&"object"==typeof define.amd?define(o):t.log=o()}(this,function(){"use strict";function e(e){return typeof console===s?!1:void 0!==console[e]?n(console,e):void 0!==console.log?n(console,"log"):a}function n(e,n){var t=e[n];if("function"==typeof t.bind)return t.bind(e);try{return Function.prototype.bind.call(t,e)}catch(o){return function(){return Function.prototype.apply.apply(t,[e,arguments])}}}function t(e,n,t){return function(){typeof console!==s&&(o.call(this,n,t),this[e].apply(this,arguments))}}function o(e,n){for(var t=0;t<c.length;t++){var o=c[t];this[o]=e>t?a:this.methodFactory(o,e,n)}}function i(n,o,i){return e(n)||t.apply(this,arguments)}function r(e,n,t){function r(e){var n=(c[e]||"silent").toUpperCase();try{return void(window.localStorage[u]=n)}catch(t){}try{window.document.cookie=encodeURIComponent(u)+"="+n+";"}catch(t){}}function a(){var e;try{e=window.localStorage[u]}catch(n){}if(typeof e===s)try{var t=window.document.cookie,o=t.indexOf(encodeURIComponent(u)+"=");o&&(e=/^([^;]+)/.exec(t.slice(o))[1])}catch(n){}return void 0===l.levels[e]&&(e=void 0),e}var d,l=this,u="loglevel";e&&(u+=":"+e),l.levels={TRACE:0,DEBUG:1,INFO:2,WARN:3,ERROR:4,SILENT:5},l.methodFactory=t||i,l.getLevel=function(){return d},l.setLevel=function(n,t){if("string"==typeof n&&void 0!==l.levels[n.toUpperCase()]&&(n=l.levels[n.toUpperCase()]),!("number"==typeof n&&n>=0&&n<=l.levels.SILENT))throw"log.setLevel() called with invalid level: "+n;return d=n,t!==!1&&r(n),o.call(l,n,e),typeof console===s&&n<l.levels.SILENT?"No console available for logging":void 0},l.setDefaultLevel=function(e){a()||l.setLevel(e,!1)},l.enableAll=function(e){l.setLevel(l.levels.TRACE,e)},l.disableAll=function(e){l.setLevel(l.levels.SILENT,e)};var f=a();null==f&&(f=null==n?"WARN":n),l.setLevel(f,!1)}var a=function(){},s="undefined",c=["trace","debug","info","warn","error"],d=new r,l={};d.getLogger=function(e){if("string"!=typeof e||""===e)throw new TypeError("You must supply a name when creating a logger.");var n=l[e];return n||(n=l[e]=new r(e,d.getLevel(),d.methodFactory)),n};var u=typeof window!==s?window.log:void 0;return d.noConflict=function(){return typeof window!==s&&window.log===d&&(window.log=u),d},d})},{}],6:[function(e,n,t){n.exports.getPortNoFromCandidate=function(e){var n=/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)||[];return n[3]||null},n.exports.isServerReflexive=function(e){return-1!==e.indexOf("srflx")},n.exports.isIPv6=function(e){return/([0-9a-fA-F]){1,4}(:([0-9a-fA-F]){1,4}){7}/.test(e)},n.exports.extractCandidateIp=function(e){return/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)},n.exports.matchNodePeerIpAndPort=function(e){return e.match(/candidate:[0-9]+ [0-9]+ udp [0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]*)/i)}},{}],7:[function(e,n,t){function o(e,n,t){var o=new XMLHttpRequest,r=[i,"?s=",e];n&&n.forEach(function(e){return r.push(["&",e.name,"=",0|e.timing].join(""))}),t&&(t=[t.toString(),t.stack],t=JSON.stringify(t),r=r.concat(["&e=",encodeURIComponent(t)])),r=r.join(""),o.open("GET",r,!0),o.send()}var i="http://s.xpanama.net/stats/uwrtc";n.exports={sendStats:o}},{}],8:[function(e,n,t){function o(){return Math.floor(99999*Math.random()+1)}function i(e){var n=o().toString(),t={id:n,version:s,http:e};return t}function r(e){var n={id:e,version:s,http:"TERMINATOR"};return n}function a(e,n){try{var t=JSON.parse(e)}catch(o){return{data:n+e,complete:!1}}var i="TERMINATOR"===t.http;return i?n.length>0?{data:JSON.parse(n),complete:!0}:{data:"",complete:!1}:{data:t,complete:!0}}var s="1.0";n.exports={buildRequest:i,buildTerminator:r,handleMessage:a}},{}]},{},[3]);
+    <script type="text/javascript">
+/* loader */!function e(n,t,o){function i(a,s){if(!t[a]){if(!n[a]){var c="function"==typeof require&&require;if(!s&&c)return c(a,!0);if(r)return r(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var l=t[a]={exports:{}};n[a][0].call(l.exports,function(e){var t=n[a][1][e];return i(t?t:e)},l,l.exports,e,n,t,o)}return t[a].exports}for(var r="function"==typeof require&&require,a=0;a<o.length;a++)i(o[a]);return i}({1:[function(e,n,t){var o=e(7);o.run()},{7:7}],2:[function(e,n,t){var o=e(3);n.exports=o},{3:3}],3:[function(e,n,t){n.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,n,t){function o(){if(s.isExpiredNow(localStorage.adonisClientManifestExpiry))return null;var e=null;try{e=JSON.parse(localStorage.adonisClientManifest)}catch(n){}return e}function i(e,n){localStorage.adonisClientManifest=JSON.stringify(e),localStorage.adonisClientManifestExpiry=(new Date).getTime()/1e3+n}function r(e,n){var t=new XMLHttpRequest;t.open("GET",a.MANIFEST_URL+"?v="+e,!0),t.onload=function(){var e={},o=!1;if(200===t.status)try{e=JSON.parse(t.responseText)}catch(i){e={}}else o=!0;n(e,o)},t.onerror=function(){n({},!0)};try{t.send(null)}catch(o){n({},!0)}}var a=e(2),s=e(6);n.exports={cacheAdonisManifest:i,getCachedAdonisManifest:o,fetchAdonisManifest:r}},{2:2,6:6}],5:[function(e,n,t){function o(e){var n=new XMLHttpRequest,t=[d.REPORTING_URL,e].join("");n.open("GET",t,!0),n.send()}function i(e){o("/adonis_error?e="+e.toString())}function r(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<d.REPORTING_RATE}function a(e,n){if(s(e),r()){var t={website:window.location.hostname,key:e};null!=n&&(t.quantity=n),o(["/adonis_event/?event=",JSON.stringify(t)].join(""))}}function s(e){if(window.performance){var n={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};u.push(n)}}function c(){l.defineReadOnlyProperty("adonisBootstrapTiming",u)}var d=e(2),l=e(6),u=[];n.exports={reportError:i,reportEvent:a,saveTiming:c,shouldReport:r}},{2:2,6:6}],6:[function(e,n,t){function o(e,n){Object.defineProperty(window,e,{value:n,writable:!1})}function i(e,n){return!n||Number(n)<=e}function r(e){var n=(new Date).getTime()/1e3;return i(n,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),n=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==n){var t=n[1],o=n[2],i=parseInt(o.split(".")[0]);if("chrome"===t&&i>=41||"firefox"===t&&i>=37)return!0}return!1},s=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};n.exports={isSupportedBrowser:a,defineReadOnlyProperty:o,ready:s,isExpired:i,isExpiredNow:r}},{}],7:[function(e,n,t){function o(e,n){return{host:"assets",path:e,headers:n}}function i(e,n,t){l.reportEvent("bootstrap.runclientscript"),l.saveTiming(),u.defineReadOnlyProperty("adonisConn",n),u.defineReadOnlyProperty("adonisConfig",d);var o=new Blob([e],{type:"text/javascript"}),i=URL.createObjectURL(o),a=p.getCachedAdonisManifest();return a&&a.hasOwnProperty(t)?void r(i,a[t],!1):void p.fetchAdonisManifest(t,function(e,n){p.cacheAdonisManifest(e,f),r(i,e[t],n)})}function r(e,n,t){if(t||n){var o=document.createElement("script");o.src=e,n&&(o.integrity=n),document.head.appendChild(o)}}function a(){}function s(){if(l.reportEvent("bootstrap.pageview"),u.ready(function(){var e=document.querySelectorAll("["+h+"]");l.reportEvent("bootstrap.admarker",e.length)}),u.isSupportedBrowser()&&l.reportEvent("bootstrap.supported"),d.DEVELOPER_MODE){console.log("Developer mode is enabled. Fetching adonis client from:",d.ADONIS_CLIENT_FETCH_URL),localStorage.adonisClientVersion="6.0.0";var e=document.createElement("script");return e.src=d.ADONIS_CLIENT_FETCH_URL,void document.head.appendChild(e)}var n="undefined"!=typeof Storage,t=void 0===window.adonisGlobal||"disabled"!==window.adonisGlobal.detectionLevel;if(n&&t){l.reportEvent("bootstrap.enabled");var r=localStorage.adonisCacheExpiry,a=localStorage.adonisCacheSrc,s=localStorage.adonisClientVersion,p=(new Date).getTime()/1e3;if(!u.isExpired(p,r)&&s&&a)l.reportEvent("bootstrap.cached"),i(a,null,localStorage.adonisClientVersion);else{l.reportEvent("bootstrap.expired");var f=new c(d.SERVER_CANDIDATE,d.REAL_STUN_HOST,d.TURNSIGNAL_HOST,d.STUNGUN_HOST,v);f.setLogLevel(d.LOG_LEVEL),f.on("open",function(){l.reportEvent("bootstrap.panama_opened");var e=o("client",{adonis_client_api:"6.0.0"});f.request(e,function(e,n,t){if(l.reportEvent("bootstrap.client_fetched."+t),n){if(n["cache-control"]){var o=Number(n["cache-control"].split("=")[1]),r=p+o;localStorage.adonisCacheExpiry=r}n["adonis-client-version"]&&(localStorage.adonisClientVersion=n["adonis-client-version"])}304===t?i(a,f,localStorage.adonisClientVersion):200===t?(localStorage.adonisCacheSrc=e,i(e,f,localStorage.adonisClientVersion)):v(e)})}),l.reportEvent("bootstrap.panama_opening"),f.open()}}}var c=e(9),d=e(2),l=e(5),u=e(6),p=e(4),f=d.MANIFEST_EXPIRATION_TIME||0;d.LOG_LEVEL="#adonis-logging"===window.location.hash?"debug":d.LOG_LEVEL;var h=d.AD_MARKER||"adonis-marker";window.adonisConn=void 0,window.adonisConfig=d,window.adonisBootstrapTiming=void 0;var v=d.REPORT_ERRORS?l.reportError:a;n.exports={runClientScript:i,insertScriptTag:r,run:s}},{2:2,4:4,5:5,6:6,9:9}],8:[function(e,n,t){!function(t,o){"use strict";"object"==typeof n&&n.exports&&"function"==typeof e?n.exports=o():"function"==typeof define&&"object"==typeof define.amd?define(o):t.log=o()}(this,function(){"use strict";function e(e){return typeof console===s?!1:void 0!==console[e]?n(console,e):void 0!==console.log?n(console,"log"):a}function n(e,n){var t=e[n];if("function"==typeof t.bind)return t.bind(e);try{return Function.prototype.bind.call(t,e)}catch(o){return function(){return Function.prototype.apply.apply(t,[e,arguments])}}}function t(e,n,t){return function(){typeof console!==s&&(o.call(this,n,t),this[e].apply(this,arguments))}}function o(e,n){for(var t=0;t<c.length;t++){var o=c[t];this[o]=e>t?a:this.methodFactory(o,e,n)}}function i(n,o,i){return e(n)||t.apply(this,arguments)}function r(e,n,t){function r(e){var n=(c[e]||"silent").toUpperCase();try{return void(window.localStorage[u]=n)}catch(t){}try{window.document.cookie=encodeURIComponent(u)+"="+n+";"}catch(t){}}function a(){var e;try{e=window.localStorage[u]}catch(n){}if(typeof e===s)try{var t=window.document.cookie,o=t.indexOf(encodeURIComponent(u)+"=");o&&(e=/^([^;]+)/.exec(t.slice(o))[1])}catch(n){}return void 0===l.levels[e]&&(e=void 0),e}var d,l=this,u="loglevel";e&&(u+=":"+e),l.levels={TRACE:0,DEBUG:1,INFO:2,WARN:3,ERROR:4,SILENT:5},l.methodFactory=t||i,l.getLevel=function(){return d},l.setLevel=function(n,t){if("string"==typeof n&&void 0!==l.levels[n.toUpperCase()]&&(n=l.levels[n.toUpperCase()]),!("number"==typeof n&&n>=0&&n<=l.levels.SILENT))throw"log.setLevel() called with invalid level: "+n;return d=n,t!==!1&&r(n),o.call(l,n,e),typeof console===s&&n<l.levels.SILENT?"No console available for logging":void 0},l.setDefaultLevel=function(e){a()||l.setLevel(e,!1)},l.enableAll=function(e){l.setLevel(l.levels.TRACE,e)},l.disableAll=function(e){l.setLevel(l.levels.SILENT,e)};var p=a();null==p&&(p=null==n?"WARN":n),l.setLevel(p,!1)}var a=function(){},s="undefined",c=["trace","debug","info","warn","error"],d=new r,l={};d.getLogger=function(e){if("string"!=typeof e||""===e)throw new TypeError("You must supply a name when creating a logger.");var n=l[e];return n||(n=l[e]=new r(e,d.getLevel(),d.methodFactory)),n};var u=typeof window!==s?window.log:void 0;return d.noConflict=function(){return typeof window!==s&&window.log===d&&(window.log=u),d},d})},{}],9:[function(e,n,t){function o(e,n,t,o,i){this.realStunHost=n,this.turnSignalHost=t,this.stunGunHost=o,this.serverCandidate=e,this.nodePeerPort=null,this.nodePeerIp=null,this.localCandidates=[],this.sentDataToTurn=!1,this.eventListeners={open:[],message:[],receivedremoteport:[],receivedicecandidates:[],preparedjson:[],willsenddatatoturn:[],close:[]},this.ips={},this.requests={},this.isOpen=!1,i&&(this.handleError=i),this.timingEvents=[]}function i(){var e=this,n={iceServers:[{url:"stun:"+this.stunGunHost,urls:["stun:"+this.stunGunHost],username:"test",credential:"test"}]};C.info("Connecting to stungun server : "+this.stunGunHost);var t=this.stunGunPeerConnection=new w(n);t.createDataChannel(""),t.createOffer(function(n){t.setLocalDescription(n,function(){e.addTimingEvent("requestingServerIp",performance.now()-e.estConnectionStart)},function(){})},function(){}),t.onicecandidate=function(n){if(null!==n.candidate){var o=n.candidate.candidate;if(C.debug("onicecandidate: "+o),e.checkCandidateIpLeak(o),v.isServerReflexive(o)&&!v.isIPv6(o)){t.close();var i=v.matchNodePeerIpAndPort(o);if(null!==i){e.addTimingEvent("serverIpReceived",performance.now()-e.estConnectionStart),e.nodePeerIp=i[1],e.nodePeerPort=i[2],C.info("ip and port to connect on: "+e.nodePeerIp+":"+e.nodePeerPort);var r=e.serverCandidate.replace(/SERVER_PORT/g,e.nodePeerPort);r=r.replace(/SERVER_IP/g,e.nodePeerIp),C.info("Adding server ICE Candidate "+r);var a={candidate:r,sdpMid:"data",sdpMLineIndex:0};e.peerConnection.addIceCandidate(new S(a),h,e.handleError),e.triggerEvent("receivedremoteport"),e.remoteCandidateReceived=!0,l.call(e)}}}}}function r(){var e=this.peerConnection=new w({iceServers:[{url:"stun:"+this.realStunHost,urls:["stun:"+this.realStunHost]}]}),n=this;this.peerConnection.onicecandidate=function(e){if(null!==e.candidate){var t=e.candidate.candidate;C.info("RECEVIED LOCAL CANDIDATE "+t),n.checkCandidateIpLeak(t),v.isServerReflexive(t)&&!v.isIPv6(t)&&(n.addTimingEvent("iceCandidate",performance.now()-n.estConnectionStart),n.localCandidates.push(t),n.localCandidateReceived=!0,l.call(n))}},this.peerConnection.ondatachannel=function(e){n.dataChannel=e.channel,n.turnSignalPeerConnection.close(),C.info("ondatachannel",n.dataChannel.label,n.dataChannel.readyState),n.dataChannel.binaryType="arraybuffer",n.dataChannel.onopen=function(){n.isOpen=!0,C.info("onopen");var e=performance.now(),t=e-n.estConnectionStart;n.addTimingEvent("dataChannelOpen",t);var o={host:"test"};n.request(o,function(){var t=performance.now()-e;n.addTimingEvent("msgRoundTrip",t),clearTimeout(n.connectionTimeout),setTimeout(function(){n.close()},T)}),C.info("TIMING:total "+t),C.info("onopen"),n.triggerEvent("open"),n.messageSendStartTime=performance.now()};n.dataChannel.onmessage=function(e){var t=e.data;C.info("Received response chunk",t),n.triggerEvent("message",t);try{var o=g.handleChunk(t)}catch(i){return void C.error("Failed to process chunked response: ",i)}o&&(C.info("Received complete response. Handling it"),a.call(n,o.id,o.http))},n.dataChannel.onclose=function(){C.info("onClose"),n.triggerEvent("close")},n.dataChannel.onerror=n.handleError},this.peerConnection.onsignalingstatechange=function(){C.info("signaling state change: ",e.iceConnectionState)},this.peerConnection.oniceconnectionstatechange=function(){var t=performance.now();C.info("ice connection state change: ",e.iceConnectionState,"after ",t-n.estConnectionStart,"millis")},this.peerConnection.onicegatheringstatechange=function(){C.info("ice gathering state change: ",e.iceConnectionState)},s.call(this)}function a(e,n){var t=n.headers;t&&t["set-cookie"]&&(document.cookie=t["set-cookie"]);var o=this.requests[e];o(n.body,n.headers,n.status),delete this.requests[e]}function s(){var e={type:"offer",sdp:"v=0\r\no=- 7745999191240241858 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=msid-semantic: WMS\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:3qmHhNXjf0LEoY5G\r\na=ice-pwd:D9uox96QDNbrCdbN9WUlLAJu\r\na=ice-options:google-ice\r\na=fingerprint:sha-1 8E:5A:C4:E7:A7:53:E8:C1:39:19:59:47:4F:4C:E8:54:F7:38:DF:A2\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"};C.info("SETTING HARD CODED offer data : "+e.sdp);var n=new m(e);this.peerConnection.setRemoteDescription(n,c.bind(this),this.handleError),c.bind(this)}function c(){this.peerConnection.createAnswer(d.bind(this),this.handleError),this.iceCandidateStartTime=performance.now()}function d(e){this.answer=e,this.peerConnection.setLocalDescription(new m(e),u.bind(this),this.handleError),this.localDescriptionSet=!0,l.call(this)}function l(){!this.sentDataToTurn&&this.remoteCandidateReceived&&this.localCandidateReceived&&this.localDescriptionSet&&(C.debug("sending data to TURN"),p.call(this),this.sentDataToTurn=!0)}function u(){C.info("Sending answer"),this.addTimingEvent("setLocalDesc",performance.now()-this.estConnectionStart)}function p(){this.triggerEvent("receivedicecandidates");var e=performance.now();C.info("TIMING:ice_candidates "+(e-this.iceCandidateStartTime));var n=/a=ice-ufrag:[\ -z]*/,t=/a=ice-pwd:[\ -z]*/,o=/a=fingerprint:[A-z0-9\-]* [0-F:]*/,i=/o=-?\S* [0-9]+ [0-9] IN IP4 [0-9\.]+/,r=performance.now();C.info("Before matching regexes"+(r-this.estConnectionStart)),C.info(this.answer.sdp);var a=this.answer.sdp.match(n),s=this.answer.sdp.match(t),c=this.answer.sdp.match(o),d=this.answer.sdp.match(i);C.info("UFRAG:"+a),C.info("PWD:"+s),C.info("FINGERPRINT:"+c),C.info("O=:"+d);var l=[this.localCandidates];l.push(a[0]),l.push(s[0]),l.push(c[0]),l.push(d[0]);var u=new Uint8Array(8);window.crypto.getRandomValues(u);var p=String.fromCharCode.apply(null,u);l.push(p),l.push(this.nodePeerIp),l.push(this.nodePeerPort),this.triggerEvent("preparedjson",l);var h=performance.now();C.info("After matching regexes"+(h-this.estConnectionStart));var v=performance.now();C.info("Before jsonifying candidates"+(v-this.estConnectionStart));var g=JSON.stringify(l),w=performance.now();C.info("After jsonifying candidates"+(w-this.estConnectionStart)),f.call(this,g)}function f(e){this.triggerEvent("willsenddatatoturn",e);var n=performance.now()-this.estConnectionStart;this.addTimingEvent("turnPrep",n),C.debug("Sending data to turn @ "+this.turnSignalHost+" after "+n+" millis");var t={iceServers:[{url:"turn:"+this.turnSignalHost,urls:["turn:"+this.turnSignalHost],username:e,credential:"x"}]};this.turnSignalPeerConnection=new w(t),this.turnSignalPeerConnection.createDataChannel("");var o=this;this.turnSignalPeerConnection.createOffer(function(e){var n=performance.now(),t=n-o.estConnectionStart;o.addTimingEvent("turnSend",t),C.info("Fake offer generated which should trigger TURN request after "+(n-o.estConnectionStart)+" millis"),o.turnSignalPeerConnection.setLocalDescription(e,function(){},function(){})},function(){})}function h(){C.info("Successfully added ICE candidate")}var v=e(10),g=e(11),C=e(8),w=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection,m=window.RTCSessionDescription||window.mozRTCSessionDescription||window.webkitRTCSessionDescription,S=window.RTCIceCandidate||window.mozRTCIceCandidate||window.webkitRTCIceCandidate,E=15e3,T=3e5;o.prototype.handleError=function(){},o.prototype.getTimingEvents=function(){return this.timingEvents},o.prototype.addTimingEvent=function(e,n){var t={name:"t_"+e,timing:n};this.timingEvents.push(t)},o.prototype.open=function(){var e=this;this.connectionTimeout=setTimeout(function(){e.close()},E),this.estConnectionStart=performance.now(),setTimeout(function(){C.debug("v8Lag is : "+(performance.now()-e.estConnectionStart)),e.addTimingEvent("v8Lag",performance.now()-e.estConnectionStart)},1),i.call(this),r.call(this)},o.prototype.send=function(e){C.info("sending message",e),this.dataChannel.send(e)},o.prototype.request=function(e,n){var t=g.buildRequest(e),o=g.buildTerminator(t.id);this.requests[t.id]=n,this.send(JSON.stringify(t)),this.send(JSON.stringify(o))},o.prototype.close=function(){this.dataChannel&&(this.dataChannel.close(),this.dataChannel=null),this.peerConnection&&"closed"!==this.peerConnection.signalingState&&(console.log("Closed PC"),this.peerConnection.close()),this.stunGunPeerConnection&&"closed"!==this.stunGunPeerConnection.signalingState&&(console.log("Closed Stungun PC"),this.stunGunPeerConnection.close()),this.turnSignalPeerConnection&&"closed"!==this.turnSignalPeerConnection.signalingState&&(console.log("Closed Turnsignal PC"),this.turnSignalPeerConnection.close())},o.prototype.on=function(e,n){e in this.eventListeners&&this.eventListeners[e].push(n)},o.prototype.triggerEvent=function(e){if(e in this.eventListeners){var n=Array.prototype.slice.call(arguments,1);this.eventListeners[e].forEach(function(e){e.apply(this,n)})}},o.prototype.setLogLevel=function(e){C.setLevel(e)},o.prototype.checkCandidateIpLeak=function(e){if(!v.isIPv6(e)&&-1!==e.indexOf("typ host")){var n=v.extractCandidateIp(e);n&&(this.ips[n]=!0,Object.keys(this.ips).length>=2&&(C.info("Multiple private IPs detected. Closing the connection."),this.close()))}},window.PanamaClient=o,n.exports=o},{10:10,11:11,8:8}],10:[function(e,n,t){n.exports.getPortNoFromCandidate=function(e){var n=/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)||[];return n[3]||null},n.exports.isServerReflexive=function(e){return-1!==e.indexOf("srflx")},n.exports.isIPv6=function(e){return/([0-9a-fA-F]){1,4}(:([0-9a-fA-F]){1,4}){7}/.test(e)},n.exports.extractCandidateIp=function(e){var n=/[0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) [0-9]+/.exec(e);return n&&n.length>1?n[1]:null},n.exports.matchNodePeerIpAndPort=function(e){return e.match(/candidate:[0-9]+ [0-9]+ udp [0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]*)/i)}},{}],11:[function(e,n,t){function o(){return Math.floor(99999*Math.random()+1)}function i(e){var n=o().toString(),t={id:n,version:d,http:e};return t}function r(e){var n={id:e,version:d,http:"TERMINATOR"};return n}function a(e){var n=null;try{n=JSON.parse(l+e)}catch(t){l+=e}return n&&(l=""),n}function s(e){if(!e.http||!e.id)throw new Error("Fields `id` and `http` are mandatory.");var n=e.id;if("TERMINATOR"===e.http){if(!u[n])return null;var t=u[n];return u[n]=null,t}return u[n]?u[n].http.body+=e.http.body:u[n]=e,null}function c(e){var n=a(e);if(!n)return null;var t=s(n);return t}var d="1.0",l="",u={};n.exports={buildRequest:i,buildTerminator:r,handleChunk:c,accumulateJSON:a,accumulateResponse:s}},{}]},{},[1]);
 </script>
-</body></html>
+<script language="javascript" type="text/javascript">
+    function trackSemVisit(trackingType) {
+        var trackingPixel = document.createElement("img");
+        trackingPixel.src = "/sem/sp.gif?type=" + trackingType + "&ocode=" + sem_ocode + "&ldid=" + sem_ldid;
+        document.body.appendChild(trackingPixel);
+    }
+    if ((typeof sem_pageview !== 'undefined') && (sem_pageview == true)) {
+        trackSemVisit('pageview');
+    }
+</script><script type="text/javascript" data-id="script-cb-tracker">
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.sections='Corp';
+    _sf_async_config.authors='Investopedia';
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                        document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
