@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wemabank.com privacy policy that was archived on 2015-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228020157id_/http%3A//www.wemabank.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wemabank.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628231202id_/http%3A//wemabank.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head>
 	
@@ -64,6 +64,8 @@
 	<link href="/css/easy-responsive-tabs.css" rel="stylesheet">
     
 	<link href="/css/jquery-ui.css" rel="stylesheet">
+		
+
 	
 	
     <!-- Custom styles for this template -->
@@ -72,9 +74,15 @@
     <link href="/css/flexnav.css" rel="stylesheet">
     <script src="/scripts/modernizr-2.7.2.js"></script>
 	<script src="/scripts/translate-it.js"></script>
+	
+		
+	<link href="/css/cookieBar.css" rel="stylesheet">
+		
 		<script type="text/javascript">
         TranslateIt.init();
         </script>
+		
+	
 
     
     <link rel="stylesheet" href="/css/inner.css">
@@ -91,8 +99,13 @@
           alert("Your Internet Explorer browser is outdated and may expose you to security risks. Please use an alternate browser or upgrade your browser.");
         </script>
 	
-	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	    
 			
+	
+			
+		
+		
+
 	  <link href="/css/templates_ie8.css" rel="stylesheet">	
  
       	
@@ -151,6 +164,7 @@ function decreaseFontSize() {
  </script>	
 	 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+	 
 <script type="text/javascript">
   $(document).ready(function () {
 
@@ -171,6 +185,38 @@ function decreaseFontSize() {
 
   });
 </script>
+	
+		<!--<script src="/scripts/jquery.cookieBar.min.js"></script>-->
+		
+		<script src="/scripts/jq-cookies.js"></script>
+		<script type="text/javascript">
+		/*(function(){
+			console.log(document.cookie.clearCookie);
+			setTimeout(function(){
+				$(document).ready(function() {
+				  $('.cookie-message').cookieBar();
+				  document.cookie.clearCookie = true;
+				});
+			}, 2000);
+		})();*/
+			
+			
+		</script>
+			
+	<script type="text/javascript">	
+		setTimeout(function(){
+			console.log(Cookies.get('clearCookieMsg'));
+			if(!Cookies.get('clearCookieMsg')){
+				$(".cookie-message").show(100);
+			}
+				$(".cookie-close-btn").click(function(e){
+					Cookies.set('clearCookieMsg', true);
+					$(".cookie-message").hide(1000);
+				});
+			
+		},2000);
+
+	</script>
 	
 <script type="text/javascript" src="http://x.translateth.is/translate-this.js"></script>
 <script type="text/javascript">
@@ -284,7 +330,7 @@ TranslateThis();
             <a href="/e-banking/" class="e-banking">E-Banking</a>                                       
  <ul style="display: none;">
         <li>
-            <a href="/e-banking/card-control/" class="card-control">Card Control</a>                                       
+            <a href="/e-banking/digi-banking/" class="digi-banking">DIGI-BANKING</a>                                       
         </li>
         <li>
             <a href="/e-banking/wemaonline/" class="wemaonline">WemaOnline</a>                                       
@@ -293,10 +339,10 @@ TranslateThis();
             <a href="/e-banking/wemamobile/" class="wemamobile">WemaMobile</a>                                       
         </li>
         <li>
-            <a href="/e-banking/payment-solutions/" class="payment-solutions">Payment Solutions</a>                                       
+            <a href="/e-banking/cards/" class="cards">Cards</a>                                       
         </li>
         <li>
-            <a href="/e-banking/international-transfer-services/" class="international-transfer-services">International Transfer Services</a>                                       
+            <a href="/e-banking/payment-solutions/" class="payment-solutions">Payment Solutions</a>                                       
         </li>
         <li>
             <a href="/e-banking/register-your-card/" class="register-your-card">Register your Card</a>                                       
@@ -558,17 +604,17 @@ width:282px;
 	
   <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
-<tr><th colspan="2">December 23, 2015</th></tr>
+<tr><th colspan="2">June 28, 2016</th></tr>
 <tr>
 <td>SHARE PRICE</td>
-<td>N 0.8900</td>
+<td>N 0.7500</td>
 <td>
-        <img src="/images/up.png" alt="Up" width="11" height="15" rel="11,15">
+       <img src="/images/down.png" alt="Down" width="11" height="15" rel="11,15">
 </td>
 </tr>
 <tr>
 <td>VOLUME TRADED</td>
-<td>354,096</td>
+<td>124,496</td>
 <td>
        <img src="/images/down.png" alt="Down" width="11" height="15" rel="11,15">
 </td>
@@ -584,6 +630,20 @@ width:282px;
 </div>
 	
 			
+						
+	<!-- This is the start of the super important snippet -->
+    	<div class="ui-widget">
+  			<div class="cookie-message ui-widget-header blue" style="overflow: hidden; height: 21.832px; padding: 0px 22.134px 0px 5.208px; margin: 0px; width: 356.446px; opacity: 0.24738;">
+				<p> Wemabank.com uses cookies to enhance your experience. 
+					<a href="http://wemabank.ourdemoserver.com/privacy-policy/"> Find out more about cookies </a>
+				  <button class="cookie-close-btn"> Close </button>
+			    </p>
+				
+  			</div>
+    	</div>
+    <!-- and this is the end.  -->				
+						
+						
     </div>
 						
 						
@@ -592,8 +652,8 @@ width:282px;
         <section class="secondary-nav">
             
 
-<ul class="large-block-grid-6 medium-block-grid-6 small-block-grid-2">
-        <li><a href="/investor-relations/" class="investor-relations" data-options="align:top;is_hover:true" data-dropdown="dd1"><img src="/media/2104/irelations.png" alt="" width="35" height="35"> Investor Relations</a>                                       
+<ul class="large-block-grid-7 medium-block-grid-7 small-block-grid-2 rxq">
+        <li><a href="/investor-relations/" class="investor-relations" data-options="align:top;is_hover:true" data-dropdown="dd1"><img src="/media/2104/irelations.png" alt="" width="28" height="21"> Investor Relations</a>                                       
             <div class="sub-div f-dropdown" id="dd1" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2115/ir-nav-image.jpg" alt="" width="456" height="178">
@@ -642,25 +702,35 @@ width:282px;
  <ul>
 </ul>                                                                    
         </li>
+        <li>
+            <a href="/investor-relations/purple-weekly/" class="purple-weekly">Purple Weekly</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
 </ul>                                                                    
                 </div>
             </div>  
              
         </li>
-        <li><a href="/media-room/" class="media-room" data-options="align:top;is_hover:true" data-dropdown="dd2"><img src="/media/2105/media.png" alt="" width="35" height="35"> Media Room</a>                                       
+        <li><a href="/media-room/" class="media-room" data-options="align:top;is_hover:true" data-dropdown="dd2"><img src="/media/2105/media.png" alt="" width="28" height="21"> Media Room</a>                                       
             <div class="sub-div f-dropdown" id="dd2" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2116/media.jpg" alt="" width="456" height="178">
                     <div class="left small-7">
                     <h4>Wema Bank Media Room</h4>
-                    <p>Browse our media center selection of Help topics to learn how to get the most out of the Wema Media Center. Our media center provid’s latest news releases, fact sheets, multimedia, upcoming events and Director-General speeches and statements.</p>
+                    <p>Browse our media center selection of Help topics to learn how to get the most out of the Wema Media Center. Our media center provides latest news releases, fact sheets, multimedia, upcoming events and Director-General speeches and statements.</p>
                     <a href="/media-room/" class="button">Learn more</a>
                     </div>
                 </div>   
                 <div class="right large-2 columns sub">
  <ul>
         <li>
-            <a href="/media-room/our-brand-new-look/" class="our-brand-new-look">Our Brand New Look</a>                                       
+            <a href="/media-room/wema-bank-pulse-tv-sponsorship/" class="wema-bank-pulse-tv-sponsorship">Wema Bank-Pulse TV Sponsorship</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
+        <li>
+            <a href="/media-room/our-new-look/" class="our-new-look">Our New Look</a>                                       
  <ul>
 </ul>                                                                    
         </li>
@@ -702,17 +772,12 @@ width:282px;
         </li>
 </ul>                                                                    
         </li>
-        <li>
-            <a href="/media-room/video-gallery/" class="video-gallery">Video Gallery</a>                                       
- <ul>
-</ul>                                                                    
-        </li>
 </ul>                                                                    
                 </div>
             </div>  
              
         </li>
-        <li><a href="/careers/" class="careers" data-options="align:top;is_hover:true" data-dropdown="dd3"><img src="/media/2106/careers.png" alt="" width="35" height="35"> Careers</a>                                       
+        <li><a href="/careers/" class="careers" data-options="align:top;is_hover:true" data-dropdown="dd3"><img src="/media/2106/careers.png" alt="" width="28" height="21"> Careers</a>                                       
             <div class="sub-div f-dropdown" id="dd3" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2117/careers.jpg" alt="" width="456" height="178">
@@ -764,7 +829,7 @@ width:282px;
             </div>  
              
         </li>
-        <li><a href="/tools-downloads/" class="tools-n-downloads" data-options="align:top;is_hover:true" data-dropdown="dd4"><img src="/media/2108/tools.png" alt="" width="35" height="35"> Tools &amp; Downloads</a>                                       
+        <li><a href="/tools-downloads/" class="tools-n-downloads" data-options="align:top;is_hover:true" data-dropdown="dd4"><img src="/media/2108/tools.png" alt="" width="28" height="21"> Tools &amp; Downloads</a>                                       
             <div class="sub-div f-dropdown" id="dd4" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2118/downloads.jpg" alt="" width="456" height="178">
@@ -778,6 +843,11 @@ width:282px;
  <ul>
         <li>
             <a href="/tools-downloads/forms/" class="forms">Forms</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
+        <li>
+            <a href="/tools-downloads/security/" class="security">Security</a>                                       
  <ul>
 </ul>                                                                    
         </li>
@@ -799,12 +869,12 @@ width:282px;
 </ul>                                                                    
         </li>
         <li>
-            <a href="/tools-downloads/bank-verification-number-(bvn)/" class="bank-verification-number-(bvn)">Bank Verification Number (BVN)</a>                                       
+            <a href="/tools-downloads/2016-business-outlook/" class="2016-business-outlook">2016 Business Outlook</a>                                       
  <ul>
 </ul>                                                                    
         </li>
         <li>
-            <a href="/tools-downloads/echannel-token-deactivation/" class="echannel-token-deactivation">eChannel Token Deactivation</a>                                       
+            <a href="/tools-downloads/bank-verification-number-(bvn)/" class="bank-verification-number-(bvn)">Bank Verification Number (BVN)</a>                                       
  <ul>
 </ul>                                                                    
         </li>
@@ -813,17 +883,12 @@ width:282px;
  <ul>
 </ul>                                                                    
         </li>
-        <li>
-            <a href="/tools-downloads/limit-settings-on-wemamobile-wema-online/" class="limit-settings-on-wemamobile-n-wema-online">Limit Settings on WemaMobile &amp; Wema Online</a>                                       
- <ul>
-</ul>                                                                    
-        </li>
 </ul>                                                                    
                 </div>
             </div>  
              
         </li>
-        <li><a href="/csr-@-wema/" class="csr-at-wema" data-options="align:top;is_hover:true" data-dropdown="dd5"><img src="/media/2107/csr.png" alt="" width="35" height="35"> CSR @ Wema</a>                                       
+        <li><a href="/csr-@-wema/" class="csr-at-wema" data-options="align:top;is_hover:true" data-dropdown="dd5"><img src="/media/2107/csr.png" alt="" width="28" height="21"> CSR @ Wema</a>                                       
             <div class="sub-div f-dropdown" id="dd5" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2119/csr.jpg" alt="" width="456" height="178">
@@ -850,7 +915,7 @@ width:282px;
             </div>  
              
         </li>
-        <li><a href="/customer-care/" class="customer-care" data-options="align:top;is_hover:true" data-dropdown="dd6"><img src="/media/2109/customer.png" alt="" width="35" height="35"> Customer Care</a>                                       
+        <li><a href="/customer-care/" class="customer-care" data-options="align:top;is_hover:true" data-dropdown="dd6"><img src="/media/2109/customer.png" alt="" width="28" height="21"> Customer Care</a>                                       
             <div class="sub-div f-dropdown" id="dd6" data-dropdown-content="">
                 <div class="sub-content large-10 columns left">
                     <img class="small-4" src="/media/2120/wema-cares.jpg" alt="" width="456" height="178">
@@ -897,12 +962,56 @@ width:282px;
             </div>  
              
         </li>
+        <li><a href="/information-security/" class="information-security" data-options="align:top;is_hover:true" data-dropdown="dd7"><img src="/media/134673/security.png" alt="" width="28" height="21"> Information Security</a>                                       
+            <div class="sub-div f-dropdown" id="dd7" data-dropdown-content="">
+                <div class="sub-content large-10 columns left">
+                    <img class="small-4" src="/media/134674/security-thubnail.png" alt="" width="456" height="178">
+                    <div class="left small-7">
+                    <h4>Online Security</h4>
+                    <div class="WordSection1">
+<p>At Wema Bank the latest online security measure is put in place to safeguard your funds and logon credentials. Find out how we keep you safe when you bank with us.</p>
+</div>
+                    <a href="/information-security/" class="button">Learn more</a>
+                    </div>
+                </div>   
+                <div class="right large-2 columns sub">
+ <ul>
+        <li>
+            <a href="/information-security/our-responsibility/" class="our-responsibility">Our Responsibility</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
+        <li>
+            <a href="/information-security/your-responsibility/" class="your-responsibility">Your Responsibility</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
+        <li>
+            <a href="/information-security/do-you-need-help/" class="do-you-need-help?">Do you need help?</a>                                       
+ <ul>
+</ul>                                                                    
+        </li>
+</ul>                                                                    
+                </div>
+            </div>  
+             
+        </li>
 </ul>                                                                    
 
 
 
 
-
+<script>
+	(function(){
+	$('.rxq').ready(function(){
+		$('.rxq>li:last-child').mouseover(function(e){
+			setTimeout(function(e){
+				$('.rxq>li:last-child').children('.drop-top').css('left', 0);
+			},10)
+		})
+	})
+})();
+</script>
         </section>
         <section class="footer-bottom">
 			
@@ -912,6 +1021,7 @@ width:282px;
                             <li><a href="/privacy-policy/" class="privacy-policy">Privacy Policy</a></li> 
                             <li><a href="/sitemap/" class="sitemap">Sitemap</a></li> 
                             <li><a href="/accessibility/" class="accessibility">Accessibility</a></li> 
+                            <li><a href="/customer-care/whistle-blower/" class="whistle-blower">Whistle Blower</a></li> 
                         
                     </ul>
                 
@@ -954,7 +1064,7 @@ TranslateThis();
                                     </li> 
                             </ul>
                         </div>
-                        <div class="large-8 columns copyright right foot3">© Wema Bank PLC. All Rights Reserved 2015</div>
+                        <div class="large-8 columns copyright right foot3">© Wema Bank PLC. All Rights Reserved 2016</div>
                     </div>
                 </div>
         </section>
