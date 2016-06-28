@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031347id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628221635id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Party Earth
 
@@ -22,7 +22,7 @@ Registration on PartyEarth.com is strictly voluntary. To register on PartyEarth.
 
 **Email Communications**
 
-When you sign up for a Party Earth account, we opt you in to receive emails and communications from Party Earth. You can manage your email preferences and opt out of emails via your user profile or by contacting customer service at service@partyearth.com. Note that you cannot opt out of receiving required administrative or legal notices.
+When you sign up for a Party Earth account, we opt you in to receive emails and communications from Party Earth, its affiliates, and business partners. You can manage your email preferences and opt out of emails via your user profile or by contacting customer service at service@partyearth.com. Note that you cannot opt out of receiving required administrative or legal notices.
 
 **Credit Card Policy**
 
