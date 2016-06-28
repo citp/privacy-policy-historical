@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711053444id_/http%3A//pay-box.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628122518id_/http%3A//pay-box.in/beta/privacy.html) for the most accurate reproduction.*
 
 # Welcome To Paybox
 
