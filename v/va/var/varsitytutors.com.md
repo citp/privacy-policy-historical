@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217034630id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628235758id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,9 +73,32 @@ We may update this privacy policy to reflect changes to our information practice
 If you have any questions or comments about this Privacy Policy, you may contact Varsity Tutors via any of the following methods: 
 
 Varsity Tutors  
-8000 Maryland Avenue  
+101 S. Hanley Rd, Suite 300  
 St. Louis, MO 63105  
 Email: privacy [at] varsitytutors.com  
 
 
-## **98%** of our customers would recommend us to friends and family!
+### Here's what our clients are saying
+
+"Thank you so much for your help, and for leading your tutor to our daughter. He is not only a remarkable tutor, he was an excellent teacher for our student. Maybe more importantly, our daughter is now armed with the confidence that math is..."
+
+"Thank you so much for your help, and for leading your tutor to our daughter. He is not only a remarkable tutor, he was an excellent teacher for our student. Maybe more importantly, our daughter is now armed with the confidence that math is not a hopeless cause, and she really can conquer it. That is a great success story!"
+
+[more]()
+
+**Parent of 12th grade student**   
+Cleveland, OH 
+
+"Thank you very much for the wonderful service that you have provided for Jose. Jose has learned so much from Amy [our tutor]. I was very impressed with her and your program. Thanks again and please let Amy know how wonderful she is. I was..."
+
+"Thank you very much for the wonderful service that you have provided for Jose. Jose has learned so much from Amy [our tutor]. I was very impressed with her and your program. Thanks again and please let Amy know how wonderful she is. I was very impressed."
+
+[more]()
+
+**Parent of high school student**   
+Cleveland, OH 
+
+"After several tutoring sessions with Kirthika [our tutor] right before winter finals, my child was able meet the goal of maintaining an 'A' in Honors Biology and a 'B' in Honors Geometry."
+
+**Parent of high school student**   
+Cleveland, OH 
