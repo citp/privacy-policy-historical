@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestsellers2k.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207025548id_/http%3A//www.bestsellers2k.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsellers2k.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628141241id_/http%3A//www.bestsellers2k.com/privacy-policy) for the most accurate reproduction.*
 
-# Bestsellers2k: Privacy Policy by Country
+# Bestsellers2k: Privacy Policy
 
 **What information do we collect?**
 
@@ -12,8 +12,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+; To personalize your experience (your information helps us to better respond to your individual needs)
 
 ; To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
@@ -35,16 +34,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site privacy policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-<http://www.bestsellers2k.com/contact-us/>
-
-This policy is powered by Free Privacy Policy and Rhino Support [helpdesk software](http://www.rhinosupport.com/).
