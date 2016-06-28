@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownawards.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928062750id_/https%3A//www.crownawards.com/StoreFront/IAFDispatcher%3FiafAction%3DshowOurPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownawards.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628031936id_/https%3A//www.crownawards.com/StoreFront/IAFDispatcher%3FiafAction%3DshowOurPolicies) for the most accurate reproduction.*
 
 # Our Policies
 
@@ -20,7 +20,7 @@ Users who no longer wish to receive our emails may opt-out of receiving these co
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Our site uses cookies to keep track of your shopping cart. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-Third party vendors, including Google and Teracent, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the[ Google advertising opt-out page](http://www.google.com/privacy/ads/). Users may opt out of Teracent's use of cookies by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/). 
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the[ Google advertising opt-out page](http://www.google.com/privacy/ads/). 
 
 ### Security
 
