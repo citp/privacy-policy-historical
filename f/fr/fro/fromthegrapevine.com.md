@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102012id_/http%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629013351id_/http%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | From the Grapevine
 
@@ -41,13 +41,13 @@ The website usage information we collect (e.g., cookies, Internet tags, web beac
 
 From the Grapevine keeps your personally identifiable information confidential. We do not disclose it to third parties or others that do not have a need to know such information, except under certain circumstances. Set forth below are various circumstances under which From the Grapevine may share your personal information:
 
-  *   Certain of our employees and independent contractors have access to your personally identifiable information for the sole purpose of helping us run our business. These employees and contractors have confidentiality and security obligations.
-  *   We may disclose your personally identifiable information in the event that we sell this Website or substantial parts of our business, provided that the buyer agrees to comply with this Statement.
-  *   We may share your information with affiliated companies or strategic alliance partners, provided they comply with this Statement.
-  *   Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "5,000 members of From the Grapevine say that global warming is their top environmental concern").
-  *   If you post any information in public areas of our Website, such as blogs or article-commenting, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our Terms of Use.
-  *   We may also share your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you or others; or as otherwise required by any applicable law or regulation.
-  *   Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
+  * Certain of our employees and independent contractors have access to your personally identifiable information for the sole purpose of helping us run our business. These employees and contractors have confidentiality and security obligations.
+  * We may disclose your personally identifiable information in the event that we sell this Website or substantial parts of our business, provided that the buyer agrees to comply with this Statement.
+  * We may share your information with affiliated companies or strategic alliance partners, provided they comply with this Statement.
+  * Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "5,000 members of From the Grapevine say that global warming is their top environmental concern").
+  * If you post any information in public areas of our Website, such as blogs or article-commenting, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our Terms of Use.
+  * We may also share your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you or others; or as otherwise required by any applicable law or regulation.
+  * Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
 
 
 
@@ -84,7 +84,7 @@ From the Grapevine
 PO Box 6833  
 
 
-Bridgewater, NJ  08807
+Bridgewater, NJ 08807
 
  **Terms of Use**
 
