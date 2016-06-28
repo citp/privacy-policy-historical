@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox13memphis.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193013id_/http%3A//www.fox13memphis.com/station/about-us/privacy-policy/10635288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox13memphis.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629001808id_/http%3A//www.fox13memphis.com/station/about-us/privacy-policy/10635288) for the most accurate reproduction.*
 
-# WHBQ - Privacy Policy - Story
+# Privacy Policy | FOX13
 
 Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC (“CMG”). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television station or a local radio station (each a “CMG Affiliate Site” and, collectively, the “CMG Network of Sites”). Each CMG Affiliate Site has adopted this privacy statement to the extent applicable. “Affiliate” means a company controlling, controlled by or under common control with another company.
 
@@ -89,3 +89,5 @@ This Service is not directed at children under the age of 13, and we won't knowi
 **CHANGES TO THIS PRIVACY STATEMENT**
 
 We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the “Last Updated” date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
+
+© 2016 Cox Media Group.
