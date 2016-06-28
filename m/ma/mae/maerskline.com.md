@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230115238id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628174715id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Maerskline Terms
 
