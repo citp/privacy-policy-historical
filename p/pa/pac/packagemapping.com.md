@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926224245id_/https%3A//www.packagemapping.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628070407id_/https%3A//www.packagemapping.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PackageMapping.com
+# Privacy Policy @ PackageMapping.com
 
 Thank you for reading this Privacy Notice. This notice applies ONLY to information collected or provided when visiting www.PackageMapping.com public web site or using E-mail. This notice covers the following topics:
 
@@ -12,7 +12,7 @@ Thank you for reading this Privacy Notice. This notice applies ONLY to informati
   * Copyright
 
 
-  * [Contact Information](https://packagemapping.com/privacy_notice.htm#Contact)
+  * [Contact Information](http://packagemapping.com/privacy_notice.htm#Contact)
 
 
 
