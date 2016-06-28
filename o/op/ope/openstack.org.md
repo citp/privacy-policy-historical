@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003613id_/http%3A//openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628233124id_/http%3A//openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy » OpenStack Open Source Cloud Computing Software
 
@@ -82,7 +82,7 @@ Should you breach our Website Terms of Use, or if we are under a duty to disclos
 
 OpenStack gives you an opportunity to opt-in and opt-out of receiving communications from OpenStack or opting-out of personal data being disclosed to third parties for a purpose incompatible with the purpose for which it was originally collected (except for meeting applicable legal requirements or permitting third party service providers who perform functions on our behalf as described in Section 4 of this Privacy Policy), including your opting out of receiving future marketing mailings.
 
-We will not use your contact information to correspond with you about our services if you ask us not to. Please send your request to privacy@rackspace.com or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
+We will not use your contact information to correspond with you about our services if you ask us not to. Please send your request to [info@openstack.org](mailto:info@openstack.org) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. Please note that it may take up to ten days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request.
 
 ## 6\. SECURITY OF YOUR INFORMATION
 
@@ -92,14 +92,14 @@ If you use a password on the Website, you are responsible for keeping it confide
 
 ## 7\. RIGHT TO ACCESS YOUR PERSONAL INFORMATION
 
-If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at [privacy@rackspace.com](mailto:privacy@rackspace.com) and we will take steps to correct or delete the information, or restrict its use, as appropriate.
+If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please contact us at[ info@openstack.org](mailto:info@openstack.org) and we will take steps to correct or delete the information, or restrict its use, as appropriate.
 
 ## 8\. INQUIRIES OR COMPLAINTS
 
-If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at privacy@rackspace.com or write us at Compliance Officer, Rackspace US, Inc., 5000 Walzem Road, San Antonio, TX 78218. We will investigate the matter and are committed to resolve any privacy concerns that you may have.
+If you have a question or complaint about this Privacy Policy or our information collection practices, please contact us at [info@openstack.org](mailto:info@openstack.org) or write us at Compliance Officer, OpenStack Foundation, P.O. Box 1903, Austin, TX 78767. We will investigate the matter and are committed to resolve any privacy concerns that you may have.
 
 ## 9\. CHANGES
 
-We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on January 13, 2014
+We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on March 17, 2016.
 
-January 13, 2014
+March 17, 2016
