@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typepad.jp privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230152634id_/http%3A//www.typepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typepad.jp privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628123121id_/http%3A//www.typepad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Typepad
 
@@ -197,11 +197,12 @@ Attention: Legal Department
 
     
 
-Typepad, Inc.  
-180 Townsend Street  
-San Francisco, CA 94107  
-Attention: Legal Department 
+Typepad   
+10 Corporate Dr   
+Burlington, MA 01803   
+Attention: Typepad Copyright Agent   
+
 
 Last updated March 4, 2011
 
-Copyright © 2011 Typepad, Inc. All rights reserved.
+Copyright © 2016 Typepad, Inc. All rights reserved.
