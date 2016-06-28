@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230050931id_/http%3A//time2track.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628092144id_/http%3A//time2track.com/privacy) for the most accurate reproduction.*
 
-# Time2Track | Privacy Policy
+# Privacy Policy | Time2Track
 
 At Time2Track, LLC, we value the privacy of information provided by visitors to our corporate web sites. With that in mind, we have instituted the following policies concerning the collection and use of data.
 
