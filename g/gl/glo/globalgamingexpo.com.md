@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228204525id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628212436id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Global Gaming Expo
+# Privacy Policy - G2E 2016
 
 Reed Exhibitions and Global Gaming Expo respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from Global Gaming Expo.
 
@@ -92,6 +92,10 @@ f_hash  | Feathr  | 2 Years  | Feathr is an analytics and digital marketing solu
 f_id  | Feathr  | 2 Years  | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.   
 f_opt_out  | Feathr  | 5 Years  | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.   
   
+## Children’s Privacy
+
+We do not knowingly collect, use or disclose personal information from children under the age of 13 or target our site or services to children under 13.
+
 ## Policy Changes
 
 RX-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.
