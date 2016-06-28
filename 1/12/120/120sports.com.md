@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210183447id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.*
 
 # 120 Sports | About | 120Sports.com
 
