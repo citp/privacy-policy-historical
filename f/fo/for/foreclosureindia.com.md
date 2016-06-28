@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915120851id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628220337id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
 
-# ForeclosureIndia.com | Privacy Policy
+# Bank Property Auctions India, Legal Services, Privacy policy- Foreclosure India
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the 4Closure website (ForeclosureIndia.com) work and to keep it safe.
 
