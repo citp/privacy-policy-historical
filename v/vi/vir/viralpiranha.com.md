@@ -1,0 +1,92 @@
+> *The following text is extracted and transformed from the viralpiranha.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628061833id_/http%3A//www.viralpiranha.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy - viralpiranha
+
+ViralPiranha.com (“Viral Piranha” or “We”) respects your privacy. This policy describes the types of information we may collect from you or that you may provide when you visit the website ViralPiranha.com (“Viral Piranha Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+
+This policy applies to information we collect: on the Viral Piranha Website; when you interact with our advertising and applications on third­party websites and services, if those applications or advertising include links to this policy; when you post comments on the Viral Piranha Website through social websites, such as, but not limited to, Facebook; when you send e­mail, text or other electronic messages between you and the Viral Piranha Website.
+
+It does not apply to information collected by: us offline or through any other means, including on any other website operated by Viral Piranha or any third party (including our affiliates and subsidiaries); or any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Viral Piranha Website.
+
+Make sure that you read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you must not use the Viral Piranha Website. By accessing or using this Viral Piranha Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Please check the policy periodically for updates, as your continued use of this Viral Piranha Website after we make changes is deemed to be acceptance of those changes.
+
+**Your California Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of the Viral Piranha Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write us at: contact@viralpiranha.com
+
+**Information We Collect About You and How We Collect It**
+
+We collect several types of information from and about users of the Viral Piranha Website, including information: by which you may be personally identified, such as your name and e­mail address, (“personal information”); that is about you but individually does not identify you; and/or about your internet connection, the equipment you use to access the Viral Piranha Website and usage details.
+
+We collect this information: directly from you when you provide it to us; from third parties, for example, our business partners; or automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+
+**Information You Provide to Us**
+
+Information we collect on or through the Viral Piranha Website may include: (i) Information that you provide by filling in forms on the Viral Piranha Website. This includes information provided at the time of registering to use the Viral Piranha Website, subscribing to our email list, posting comments or content, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Viral Piranha Website. (ii) Records and copies of your correspondence (including e­mail addresses), if you contact us.
+
+You also may provide information or comments to be published or displayed (hereinafter, “posted”) on public areas of the Viral Piranha Website, or transmitted to third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk.
+
+**Third­party Use of Cookies and Other Tracking Technologies**
+
+Some content or applications, including advertisements, on the Viral Piranha Website are served by third­parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Viral Piranha Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest­based (behavioral) advertising or other targeted content.
+
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see How We Use and Disclose Your Information.
+
+**Information We Collect through Automatic Data Collection Technologies**  
+We may use automatic data collection technologies, as you navigate through and interact with the Viral Piranha Website, to collect certain information about your equipment, browsing actions and patterns, including: (i) Details of your visits to the Viral Piranha Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Viral Piranha Website. (ii) Information about your computer and internet connection, including your IP address, operating system and browser type.
+
+We also may use these technologies to collect information about your online activities over time and across third­party websites or other online services (behavioral tracking). We do not respond to “Do Not Track” signals or frameworks requesting an alteration to our online tracking of individual users who visit the Viral Piranha Website.
+
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve the Viral Piranha Website and to deliver a better and more personalized service, including by enabling us to: estimate our audience size and usage patterns; store information about your preferences, allowing us to customize the Viral Piranha Website according to your individual interests; speed up your searches; or recognize you when you return to the Viral Piranha Website.
+
+**The technologies we use for this automatic data collection may include:**  
+• Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Viral Piranha Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to the Viral Piranha Website.  
+• Flash Cookies. Certain features of the Viral Piranha Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on the Viral Piranha Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.  
+• Web Beacons. Pages of our the Viral Piranha Website and our e­mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single­pixel gifs) that permit the Viral Piranha, for example, to count users who have visited those pages or opened an e­mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+
+**How We Use And Disclose Your Information**
+
+We only disclose or share your non-public personal information with third parties when we believe doing so is permitted by you and/or authorized by this Privacy Policy. In addition, we may share such information with our parent, subsidiary or affiliate companies without restriction. Any information that we collect or receive about you may be used, shared, or supplemented for the following purposes:
+
+To contact you. We may periodically send promotional materials or notifications related to the Viral Piranha Website to any email address you may have provided to us. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each promotional email or other method of notification.
+
+To provide and monetize the Viral Piranha Website. In order to provide and monetize the Viral Piranha Website, we may use and share with third parties the information we collect from and receive about you in order to provide you with customer support and respond to inquiries; to deliver content or advertising; to perform market research or measure Viral Piranha Website usage; and to analyze traffic counts, your interests and Viral Piranha Website performance. We may also use and share aggregated, anonymous data about the use of the Viral Piranha Website and related activity, and such data is not subject to this Privacy Policy.
+
+To protect our rights and the rights of our users. We may disclose your information in order to: (i) protect or defend our legal rights or property or the legal rights or property of any of our vendors, partners or affiliates, or any of their employees, agents and contractors (including enforcement of agreements); (ii) protect the safety and security of individuals; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law, subpoena or other legal process or requirement.
+
+To provide relevant content and advertising. We may use and share the information you provide to us, and information we collect about your use of the Viral Piranha Website through tracking and other technologies, to deliver relevant advertisements, offers and content when using the Viral Piranha Website. We may work with third party advertising networks and advertisers who help deliver these ads to you. As noted above, these third party advertising networks and advertisers may also use cookies and other technologies to collect and track user data such as demographic information, location, interests, affiliations, website usage, e-commerce, and other online activity to assist them in delivering advertising and content that is more relevant to your interests. They may also supplement data from other sources to help deliver more relevant ads.
+
+To allow third party service providers to assist us. We may share the information we collect from and receive about you with certain third party service providers, such as business partners, vendors, contractors, agents or sponsors, who help us manage the the Viral Piranha Website, or provide Viral Piranha Website content, advertisements and other services. These services may include advertising and marketing; developing or supporting products and features; processing data or statistics; and supplementing or organizing information or data. These outside service providers are required to protect non-public personal information and not use or disclose it for unauthorized purposes.
+
+To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
+
+We do not control third parties’ collection or use of your information to serve interest­based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website http://www.networkadvertising.org/choices/.
+
+**Third Party Content and Data Collection**
+
+We do not control any third party content that may be displayed to you when you use our Viral Piranha Website. We are neither affiliated with nor responsible for the privacy practices of any partners or third parties who advertise or link to any websites, products, services or offers through the Viral Piranha Website, or who otherwise provide third party content. Once you view or click on anadvertisement or link, you should carefully review the applicable privacy policy of such third party service or site. Even if a third party is affiliated with us, we do not control its content or websites, each of which may have a separate privacy policy. We encourage you to read the privacy policies of each site you visit.
+
+**Location of Collected Data**
+
+Your information and data may be transferred to servers located in the United States and other countries around the world. If you are a user located outside of the United States, you understand and consent to having any personal information you provide transferred to, processed, and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above.
+
+**Data Security**
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to the Viral Piranha Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Viral Piranha Website.
+
+**Children Under the Age of 13**
+
+The Viral Piranha Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Viral Piranha Website. We do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the email address in the last paragraph below.
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e­mail to the e­mail address you provided to us or through a notice on the Viral Piranha Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up­to­date active and deliverable e­mail address for you, and for periodically visiting Viral Piranha Website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
+contact@viralpiranha.com
+
+Last updated: March 7, 2016
