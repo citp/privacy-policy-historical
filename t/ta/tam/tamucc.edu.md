@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060313id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628220333id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
 
-# Texas A&M University Corpus Christi - the Island University
+# Privacy Statement - Texas A&M University Corpus Christi
 
 Texas A&M University-Corpus Christi maintains this web site as an information resource and service for the public. In the course of providing you this information, we are able to gather and archive several types of data about visitors to our web site. In respect to your privacy and in accordance with State law, the following outlines how we handle those types of data.
 
@@ -8,7 +8,7 @@ Texas A&M University-Corpus Christi maintains this web site as an information re
 
 The University accumulates data and keeps records to enable staff and faculty to plan educational opportunities to meet the needs of individual students, to better understand students, to counsel more effectively with them and to assist them in placement in graduate education or employment after graduation. Provisions are made for students to review and challenge the accuracy of records when appropriate and upon request. The University also complies with the Family Educational Rights and Privacy Act of 1974 and with the Texas Public Information Act.
 
-Some directory information (e.g., home address, local address, local telephone number, etc.) given to the University is considered public information and will be released by the University upon request, in accordance with existing law. Someone who does not wish this public information to be released must notify the appropriate offices within the University. For more information, see the [Student Records Policy](http://catalog.tamucc.edu/content.php?catoid=2&navoid=11#Student_Records_Policy) in the University Catalog.
+Some directory information (e.g., home address, local address, local telephone number, etc.) given to the University is considered public information and will be released by the University upon request, in accordance with existing law. Someone who does not wish this public information to be released must notify the appropriate offices within the University. For more information, see the [Student Records Policy](http://catalog.tamucc.edu/content.php?catoid=6&navoid=177#Student_Records_Policy) in the University Catalog.
 
 For various management functions including site development, recruitment, and retention tracking, personal information may be used for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless the University is legally required to do so.
 
