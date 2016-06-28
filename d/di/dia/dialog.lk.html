@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dialog.lk privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224203404id_/http%3A//www.dialog.lk/dlg/browse/privacyPolicy.jsp%3Fid%3Drp570e0ac89e4a146d91343cf667c5c3ae) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dialog.lk privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628051303id_/http%3A//www.dialog.lk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 
@@ -21,14 +21,19 @@
 <link rel="stylesheet" href="/dialogdocroot/content/css/nouislider/jquery.nouislider.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/feedback/ratestyle.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/jquery-ui.css">
+<link rel="stylesheet" href="/dialogdocroot/content/css/main.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/main.min.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/main-custom.css">
+<link rel="stylesheet" href="/dialogdocroot/content/css/main-plus.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/main-plus.min.css" media="screen">
+<link rel="stylesheet" href="/dialogdocroot/content/css/main-plus.css" media="screen">
 <link rel="stylesheet" href="/dialogdocroot/content/css/main-plus-custom.css">
 <link rel="stylesheet" href="/dialogdocroot/content/css/print.css" media="print">
 <link rel="stylesheet" href="/dialogdocroot/content/javascript/vendor/mediaelement/build/mediaelementplayer.min.css"> 
-<link rel="stylesheet" href="/dialogdocroot/content/css/dialog.css">
+<link rel="stylesheet" href="/dialogdocroot/content/css/dialog.css" media="screen">
+<link rel="stylesheet" href="/dialogdocroot/content/css/games.css">
 <link rel="shortcut icon" href="/dialogdocroot/content/images/favicon.ico">
+
 <!--  
 Including JQuery library. This was initially in pageStartScript.jsp and moved to here. 
 Because pageStartScript.jsp was currently included at the footer and JQuery functions need be accessed from the body of several pages. 
@@ -46,7 +51,7 @@ Because pageStartScript.jsp was currently included at the footer and JQuery func
 <script type="text/javascript" src="/dialogdocroot/content/javascript/feedback/rating.js"></script>
 <!-- <script type="text/javascript" src="/dialogdocroot/content/javascript/vendor/jquery.nouislider.js"></script> -->
 <!-- <script type="text/javascript" src="/dialogdocroot/content/javascript/myplan.js"></script> -->
-
+<script type="text/javascript" src="/dialogdocroot/content/javascript/ringingtones/ringingtones.js"></script>
 <!-- Facebook Pixel Code [ATGONLINE-870]-->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -322,16 +327,18 @@ var _prum = [['id', '54b796c9abe53d7b5b0a11cd'],
 															<a href="/mobile-devices">Phones &amp; Devices</a>	
 	<ul>								   
 																			<li><a href="/mobile-phones">Phones</a></li>								   
-																			<li><a href="/tablets">Tablets</a></li>	
+																			<li><a href="/tablets">Tablets</a></li>								   
+																			<li><a href="/smarthome">Smart Home Devices</a></li>	
 	</ul>	
 	</li>	
 	<li>	
 															
 															<a href="/mobile-value-added-services">Value Added Services</a>	
-	</li>	
-	<li>	
-															
-															<a href="/app-store">Dialog Apps</a>	
+	<ul>								   
+																			<li><a href="/dlg/browse/ringInTones.jsp">RingIN Tones</a></li>								   
+																			<li><a href="/dlg/browse/dialogGames.jsp">Gaming</a></li>								   
+																			<li><a href="/app-store">Dialog Apps</a></li>	
+	</ul>	
 	</li>	
 	</ul>	
 	</li>
@@ -619,6 +626,9 @@ var _prum = [['id', '54b796c9abe53d7b5b0a11cd'],
 	<li>	
 															
 															<a href="/television-channels">Channels&nbsp;</a>	
+	<ul>								   
+																			<li><a href="/dlg/browse/tvProgrammeGuide.jsp?categoryId=onlinecat3440067">TV Program Guide </a></li>	
+	</ul>	
 	</li>	
 	<li>	
 															
@@ -817,6 +827,10 @@ var _prum = [['id', '54b796c9abe53d7b5b0a11cd'],
 	<li>	
 															
 															<a href="/lesipay">ලේසි Pay</a>	
+	</li>	
+	<li>	
+															
+															<a href="/women">Women</a>	
 	</li>	
 	</ul>	
 	</li>
@@ -1044,7 +1058,8 @@ function showLogin(){
 			<li><a href="/dlg//browse/coverageMapLocateUs.jsp?coverageUrl=Dialog+Service+Points&amp;findServiceCentre=Find+Service+Centre">Service Points</a></li>								   
 			<li><a href="/dlg/browse/coverageMapLocateUs.jsp?coverageUrl=Voice">Coverage Map</a></li>								   
 			<li><a href="/escalation-contact-points">Escalation Contact Points</a></li>								   
-			<li><a href="/dlg/browse/contactUs.jsp?hotline=7776">Contact Support</a></li>	
+			<li><a href="/dlg/browse/contactUs.jsp?hotline=7776">Contact Support</a></li>								   
+			<li><a href="/crowd">Community Connect</a></li>	
 	</ul>	</li>
 
 			
@@ -1087,7 +1102,7 @@ function showLogin(){
 					</div>
 				</nav>
 				<div class="search-action">
-					<form id="searchFormId" name="searchForm" action="?_DARGS=/dlg/includes/header.jsp#" class="main-search" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="7086918977164732378" type="hidden"> </div>
+					<form id="searchFormId" name="searchForm" action="?_DARGS=/dlg/includes/header.jsp#" class="main-search" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5199242209602263974" type="hidden"> </div>
 						<div class="search-keywords" data-placement="bottom" data-toggle="popover" data-content="">
 							<input data-placement="right" id="main-search-keywords" maxlength="80" dojotype="validation:SubmitButton" name="keyWords" value="" data-content="" data-toggle="popover" required="true" type="search" aria-label="Search"><input name="_D:keyWords" value=" " type="hidden">
 							<button id="submit-search" name="submit" type="submit" onclick="submit(document.searchForm);" data-toggle="popover" data-placement="bottom" data-content="">
@@ -1103,9 +1118,9 @@ function showLogin(){
 					<!-- "main-actions"-->
 					<div class="main-actions">
 						<ul>
-							<li>
+							<li class="user-link">
 										<div class="popover-markup">
-											<a href="#" class="btn btn-primary trigger"> Login / Register
+											<a href="#" class="btn btn-primary trigger"><i class="fa fa-user"></i><span>Login / Register</span>
 											</a>
 											<div class="content hide">
 												<h2>
@@ -1196,7 +1211,21 @@ function showLogin(){
 	</fieldset>	</div>	</div>	</li>	<li></li>	<li>
 										<!-- 				not logged	 -->
 										<a class="header-main-link desktop btn btn-success" href="/dlg/browse/reloadPayBillOnline.jsp"> Reload / Pay Bill
-	</a>	</li>
+	</a>	</li>	
+							
+							<li class="cart-link">
+								<a href="/dlg/cart/cart.jsp" class="btn btn-gray"> 
+									<i class="fa fa-shopping-cart"></i>
+									<span class="cart" id="orderTotalCartBlock">
+										
+	
+	<span class="items"></span>
+	
+	<em>	Cart Empty
+	</em>	
+									</span>
+								</a>
+							</li>
 						</ul>
 					</div>
 					<!-- "lang-action"-->
@@ -1204,15 +1233,15 @@ function showLogin(){
 	<div class="lang-action">
 		<ul class="lang-preferences">
 			
-	<li>	<a class="active" href="/dlg/browse/privacyPolicy.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=en_US">
+	<li>	<a class="active" href="/dlg/browse/reportDetails.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=en_US">
 	English	</a>
-	</li>	<li>	<a href="/dlg/browse/privacyPolicy.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=si_LK">
+	</li>	<li>	<a href="/dlg/browse/reportDetails.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=si_LK">
 	සිංහල	</a>
-	</li>	<li>	<a href="/dlg/browse/privacyPolicy.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=ta_LK">
+	</li>	<li>	<a href="/dlg/browse/reportDetails.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae&amp;locale=ta_LK">
 	தமிழ்	</a>
 	</li>	
 	</ul>	</div>
-<form id="logoutFormId" name="logoutForm" action="http://www.dialog.lk/dlg"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="7086918977164732378" type="hidden"> </div>
+<form id="logoutFormId" name="logoutForm" action="https://www.dialog.lk/dlg"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5199242209602263974" type="hidden"> </div>
 						<!-- defines the URL to go to on success (relative to 'action')-->
 						<input name="/lk/dialog/online/userprofiling/DialogProfileFormHandler.logout" value="Logout" type="hidden"><input name="_D:/lk/dialog/online/userprofiling/DialogProfileFormHandler.logout" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/dlg/includes/header.jsp.1" type="hidden"> </div></form>
 				</div>
@@ -1226,7 +1255,7 @@ function showLogin(){
 		$(document)
 				.ready(
 						function() {
-							if ('true' == '') {
+							if ('' == '') {
 								//var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
 								var isSafari = /Safari/
 										.test(navigator.userAgent)
@@ -1836,17 +1865,21 @@ function showLogin(){
 	</center>
 
 	<main class="cd-main-content">
-			
-
-	<div class="breadcrumbs_wrap">
-		<a href="/dlg/index.jsp" class="logo"><img src="/dialogdocroot/content/images/tinylogo.png" alt="Dialog"></a>
+		
+	
+	
+	<div class="breadcrumbs_wrap">	
+		<a href="/index.jsp" class="logo"><img src="/dialogdocroot/content/images/tinylogo.png" alt="Dialog"></a>
 		<div class="container">
-				<ol class="breadcrumb">				
+			<ol class="breadcrumb">				
+				
+				<li><a href="/index.jsp">Home</a></li>
+			
+				
+	<li><a>General</a></li>	
+	<li><a>privacy-policy</a></li>	
 
-					
-		       		<li><a href="/dlg/index.jsp">Home</a></li>	
-		       		<li class="active">Privacy Policy</li>	
-	</ol>	
+				<li class="active">Privacy Policy</li>	</ol>	
 	<ul class="main_share">
 		<li><span class="share-title">SHARE</span></li>
 		<li><a href="#" onclick="handleSocialMediaShare('facebook')"><i class="fa fa-facebook"></i></a></li>
@@ -1897,28 +1930,21 @@ function emailPage()
 
 	</div>	</div>
 
-	
-	<input type="hidden" id="pageTitleOverwriteText" value="Privacy Policy">	
-	
-
-	
-	<div class="page-info">
-		
+			<div class="page-info">
+				
 		<div class="container">
-			<div class="title-info">
-				<h2>Privacy Policy</h2>
+			<div class="title-info">			
+					<h2>Privacy Policy</h2>
 
 	</div>	</div>	</div>
 
-
-<div class="details">
-    <div class="container">
-        <div class="row phone_details">
-            <div class="padding-top-md col-md-12">                            
-													
-							<div class="wrap">
-
-								<p>Dialog Axiata PLC (hereinafter referred to as “Dialog” “us” “we” or “our”) is committed to respecting your privacy and to complying with any applicable data protection and privacy laws. If you do submit personal information by signing up to login to the Dialog website services for example to order products, services etc., you can be assured that we will use your personal information only to support your continuing relationship with Dialog. We are providing this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit Dialog web and WAP sites and when you generally use our products and services. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the terms &amp; conditions of use for Dialog Web and WAP sites and any separate terms &amp; conditions issued with your airtime or other product/service Contract.</p>
+	
+	<div class="main-content">
+		<div class="container">
+			<div class="row">
+			<div class="main col-md-9">
+			<div class="primary"><p>
+			</p><p>Dialog Axiata PLC (hereinafter referred to as “Dialog” “us” “we” or “our”) is committed to respecting your privacy and to complying with any applicable data protection and privacy laws. If you do submit personal information by signing up to login to the Dialog website services for example to order products, services etc., you can be assured that we will use your personal information only to support your continuing relationship with Dialog. We are providing this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit Dialog web and WAP sites and when you generally use our products and services. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the terms &amp; conditions of use for Dialog Web and WAP sites and any separate terms &amp; conditions issued with your airtime or other product/service Contract.</p>
 <p><strong>Personal Information Collection</strong></p>
 <p>We endeavour to collect and use your personal information only with your knowledge and consent and typically when you order and subsequently use products and services, make customer enquiries, register for information or other services, request product information, submit a job application or when you respond to communications from us (such as questionnaires or surveys). The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and credit / debit card information; lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated by you.</p>
 <p><strong>Non-personally identifying Information</strong></p>
@@ -1934,8 +1960,48 @@ function emailPage()
 <p><strong>Access to your Information<br>
 Information Security</strong></p>
 <p>Dialog recognises that you are increasingly concerned about how companies protect personal information from misuse and abuse and about privacy in general. We are constantly reviewing and enhancing our technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and / or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered – this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.</p>
-	</div> </div>	</div>	</div>
-</div>
+			<p></p> 
+			</div>
+			</div>
+			<div class="sub col-md-3">
+			<div class="gray-block info_box">
+					<!-- FeaturedItem as a common segment  -->		
+					
+					<h3>
+						<a href="/lesipay">ලේසි Pay</a>	</h3>	
+			
+			
+			<div class="wrap">
+<!-- 				<figure> -->
+      <div class="img">
+					
+					<img alt="banner" src="/dialogdocroot/content/images/detail-images/lesi-pay.jpg">
+			</div>
+<!-- 				</figure> -->
+				
+	<p>	Own smartphones, Tabs &amp; DTV connections through easy payment schemes.
+	</p>	
+
+				<ul class="gray">
+					
+	</ul>	<p>	
+						<a href="/lesipay" class="know-more"> View More
+						<i class="icon-chevron-circle-right"></i></a>
+					
+	</p>	</div>	
+			</div>
+		
+			</div><!-- /.sub -->
+			</div><!-- /.row -->
+		</div>
+	</div>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$(document).attr('title', 'Privacy Policy');
+    });
+
+</script>
 
 <div class="secondary-info">
 		<div class="container">
@@ -1975,7 +2041,7 @@ Information Security</strong></p>
 	<li><a href="http://www.ideamart.lk/">IdeaMart</a></li>	
 	<li><a href="http://ringintones.dialog.lk/prbt2/">RingIn Tones</a></li>	
 	<li><a href="http://www.starpoints.lk/">Starpoints</a></li>	
-	<li><a href="http://www.wow.lk/">WoW.lk</a></li>	
+	<li><a href="http://www.wow.lk/">wOw.lk</a></li>	
 	<li>	
  <strong> <a href="/partners-and-other-services">View all
                                                                     &nbsp;<span class="fa fa-chevron-circle-right"></span>
@@ -1989,7 +2055,7 @@ Information Security</strong></p>
 	</h2>	<ul>	
  <li> <a href="/dlg/browse/faq.jsp?id=faqPromo000318&amp;type=element">How do I obtain a Dialog Mobile connection?</a>
  </li>	
- <li> <a href="/dlg/browse/faq.jsp?id=onlinepromocon12700005&amp;type=element">How to use M-Cert Re-Registration?</a>
+ <li> <a href="/dlg/browse/faq.jsp?id=onlinepromocon12700005&amp;type=element">How to confirm ownership for my mobile connection?</a>
  </li>	
  <li> <a href="/dlg/browse/faq.jsp?id=onlinefaqpromo12800002&amp;type=element">How do I check my Dialog TV Bill?</a>
  </li>	
@@ -2088,7 +2154,7 @@ Information Security</strong></p>
 					<p>
 						© Dialog Axiata PLC. All Rights Reserved.		</p>	<ul>								   
 			<li><a href="/dlg/browse/termsAndConditions.jsp?id=rpb4deb831863ff58e428067028c98d4b5">Terms &amp; Conditions</a></li>								   
-			<li><a href="/dlg/browse/privacyPolicy.jsp?id=rp570e0ac89e4a146d91343cf667c5c3ae">Privacy Policy</a></li>								   
+			<li><a href="/privacy-policy">Privacy Policy</a></li>								   
 			<li><a href="/dlg/browse/siteMap.jsp?categoryId=onlinedialogRoot">Sitemap</a></li>	
 	</ul>	</div>	</div>	</div><!-- /.row -->	</div><!-- /.container -->	<!-- Footer Section End-->
 </footer>
@@ -2122,10 +2188,10 @@ Information Security</strong></p>
 	<script type="text/javascript" src="/dialogdocroot/content/javascript/vendor/mediaelement/build/mediaelement-and-player.js"></script>
 	<script type="text/javascript" src="/dialogdocroot/content/javascript/vendor/mediaelement/build/mediaelementplayer.js"></script>
 	<script type="text/javascript" src="/dialogdocroot/content/javascript/vendor/mediaelement/src/js/mep-feature-playpause.js"></script>
+	<script type="text/javascript" src="/dialogdocroot/content/javascript/jquery.alphanum.js"></script> 
 
 	
 	<script type="text/javascript" src="https://connect.dialog.lk/DialogConnect/js/control/dialogConnect.js"></script>
-	<!-- <script type="text/javascript" src="http://192.168.2.161:8180/DialogConnect/js/control/dialogConnect.js"></script> -->
 	
 	<script type="text/javascript">
 		
