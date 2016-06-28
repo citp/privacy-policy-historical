@@ -1,91 +1,100 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122071609id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628105634id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South China Morning Post
 
-We respect your privacy.
+_Last updated on: Tuesday, 5 April 2016_
 
-We are fully committed to implementing and complying with the Personal Data (Privacy) Ordinance (“Ordinance”). Every effort is made to ensure that we handle and protect your personal data according to its requirements.
+South China Morning Post Publishers Limited (“SCMPP”) intends to collect and use your personal data as set out in paragraph 3.1 of the Personal Information Collection Statement (“PICS”)  for direct marketing of the services, facilities or products referred in paragraph 3.2 of the PICS but SCMPP will not do so unless we have received your consent.
 
-_**Kinds of Personal Data Held** _
+**PERSONAL INFORMATION COLLECTION STATEMENT**
 
-There are two broad categories of personal data held in South China Morning Post Publishers Limited (“SCMPP”). They are personal data contained in:
+South China Morning Post Publishers Limited (referred to hereinafter as the “ **SCMPP** ”) recognises its responsibilities in relation to the collection, holding, processing, use and/or transfer of personal data under the Personal Data (Privacy) Ordinance (Cap. 486) (“ **PDPO** ”) and all applicable laws and regulations in force from time to time. Personal data will be collected only for lawful and relevant purposes and all practicable steps will be taken to ensure that personal data held by SCMPP is accurate. SCMPP will take all practicable steps to ensure security of the personal data and to avoid unauthorised or accidental access, erasure or other use.
 
-**_Subscription/Free Trial and Forum Records_** , which include records containing information supplied by individuals who explore to subscribe or subscribe to any print or electronic publication of SCMPP and/or who post messages or contents on our online Discussion Forum.
+Please note that if you do not provide us with your personal data, we may not be able to provide the information, products or services you need or process your request.
 
-_**Event Records**_ , which include personal data provided to SCMPP from individuals for participating promotional, entertainment and training activities organized by SCMPP, either on its own or jointly with its business partners.
+1\. **Purpose** : From time to time it is necessary for SCMPP to collect your personal data which may be used, stored, processed, transferred, disclosed or shared by SCMPP for purposes, including:
 
-_**Main Purposes of keeping Personal Data**_
+1.1 offering, providing and marketing to you the products/services of SCMPP, other companies of the SCMPP (“ **our affiliates** ”) or our business partners (see “ **Use and provision of personal data in direct marketing** ” below), and administering, maintaining, managing and operating such products/services;
 
-Personal data held in:
+1.2 processing and evaluating any registration, subscription orders, deliveries, uses, enquiries, feedbacks or requests made by you for products/services offered by SCMPP and our affiliates;
 
-**_Subscription/Free Trial and Forum Records_**
+1.3 processing your subscriptions and related-billing and payment in relation to any products/services offered by SCMPP and our affiliates;
 
-These are kept for the purposes of: (i) administering the subscription and free trials; (ii) responding to and taking follow-up action on existing or potential subscribers’ inquiries; (iii) managing the security and other implementation aspects of our online Discussion Forum; and (iv) improving on such services.  In respect of (iii), please note that we may need to publish part of your email address on the online Discussion Forum based on security and/or implementation concerns.
+1.4 providing subsequent services to you, including but not limited to administering the policies issued; 
 
-Please note that we need to disclose your personal data in the Subscription/Free Trial and Forum Records to:
+1.5 running competitions, prize draws and promotions;
 
-(a) Our delivery agents for delivering the newspapers and/or other products in respect of your subscription or free trial;
+1.6 designing products/services for you;
 
-(b) Credit card companies, financial institutions and debt collection agencies for processing or handling your payment and/or any amounts that you owe us;
+1.7 conducting market research for statistical or other purposes;
 
-(c) Our professional advisors (such as lawyers, accountants and financial advisors) to assist us with attending to such matters as stated in (i), (ii) and (iii) above under the “Subscription/Free Trial and Forum Records” section; and/or
+1.8 matching any data held which relates to you from time to time for any of the purposes listed herein;
 
-(d) To such persons or institutions and for such purposes as required under law or by an order of a court, regulatory authority or governmental body.
+1.9 any purposes in connection with any claims made by or against or otherwise involving you in respect of any products/services provided by SCMPP and/or our affiliates, including investigation of claims;
 
-_**Event records**_
+1.10 making disclosure as required by any applicable law, rules, regulations, codes of practice or guidelines or to assist in law enforcement purposes, investigations by police or other government or regulatory authorities in Hong Kong or elsewhere;
 
-These are kept for: (i) administering the promotional, entertainment and training activities (collectively the “Activities”); (ii) responding to and taking follow-up action on existing or potential attendees’ inquiries; and (iii) improving the Activities.
+1.11 contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites;
 
-_**Data Disclosure and Marketing Usage**_
+1.12 carrying out other services in connection with the operation of SCMPP’s business; and
 
-The personal data disclosure regarding the Subscription/Free Trial and Forum Records stated in points (a) to (d) above will only be made subject to our compliance with the Ordinance.
+1.13 all other incidental and associated purposes relating to any of the above, including seeking professional advices.
 
-If we need to disclose your personal data for purposes other than those stated above, we can only do so subject to obtaining your consent and complying with all relevant provisions under the Ordinance.
+**2\. Transfer of personal data** : Personal data held by SCMPP relating to an individual will be kept confidential but may be provided to the following parties within Hong Kong for the purposes set out in paragraph 1 above except that any transfer of data to another party for sales and marketing purpose will be subject to paragraph 3 below:
 
-We may occasionally use the personal data in the Subscription/Free Trial and Forum Records and Event Records for direct marketing: (i) the publications of South China Morning Post Publishers Limited; and (ii) such specified products and/or services of our business partners, provided that you have explicitly consented to such use and we have complied with all relevant requirements or provisions under the Ordinance.
+2.1 any of the SCMPP’s affiliates;
 
-We only retain your personal data for such period as necessary for such data usage purposes as you have consented to.
+2.2 delivery agents of SCMPP for delivering the newspapers and/or other products in respect of your subscription or free trial;
 
-_**Practices**_
+2.3 any agent, contractor or third party who provides administrative, technology or other services (including direct marketing services) to SCMPP and/or our affiliates in Hong Kong and who has a duty of confidentiality to the same;
 
-We use our best efforts to monitor our compliance with the Ordinance.
+2.4 credit reference agencies or, in the event of default, debt collection agencies;
 
-The following are maintained to ensure compliance with the Ordinance:
+2.5 any actual or proposed assignee, transferee, participant or sub-participant of our rights or business; and
 
-• A Data Protection Log Book to record data access and correction requests.
+2.6 any government department or other appropriate governmental or regulatory authority in Hong Kong or elsewhere.
 
-• A Data Protection Operations Manual to set out the operational procedures and standards for protecting personal data.
+**3\. Use and provision of personal data in direct marketing** : SCMPP intends to use your personal data in direct marketing and SCMPP requires your consent (which includes an indication of no objection) for that purpose. In this connection, please note that:
 
-• Staff training sessions on personal data privacy.
+3.1 use your name, age, date of birth, home address, home telephone number, mobile telephone number and email address held by SCMPP from time to time be used by SCMPP for direct marketing;
 
-• Data Access Request Form for access/correction requests relating to your personal data.
+3.2 conduct direct marketing (including but not limited to providing reward, loyalty or privileges programmes) in relation to the following classes of products and services that SCMPP, our affiliates, our co-branding partners and our business partners may offer:
 
-You have the right to opt-out, at any time, of any marketing materials that you have agreed to receive and/or you have been receiving.
+ a) insurance, banking, provident fund or scheme, IPO, financial services, securities and related products and services;
 
-Data access/correction and/or opt-out requests to us may be addressed to our " _ **Customer Relationship Management Team**_ " at:
+ b) products and services on airlines, hotel and resort, sauna and health club, travel and transportation, tourism board, entertainment, spa and similar relaxation activities.
 
-South China Morning Post Publishers Limited
+ c) products and services on cosmetics, beauty and skin care, biotech, health, medical devices, pharmacy and medicine, wellness and medical.
 
-Morning Post Centre
+ d) products and services on eyewear and optical companies, fashion and apparel, sports equipment, sports event, sporting activities and membership, jewellery and watch, flower shop, stationery and toys, department stores and shopping malls
 
-22 Dai Fat Street
+ e) I.T., electronics goods and electrical appliances, mobile phones and accessories, telecommunications, media and related products and services.
 
-Tai Po Industrial Estate
+ f) food and beverage, restaurants, wine related products and services.
 
-New Territories
+ g) products and services on design, automotive, education, antique and auction, arts and gallery, boat and accessories, children, china government, local and oversea property, China property, furniture and household item, interior design, constructions, consulate, listed company, holding company, industry association, non-governmental organization, energy, exhibitions, general trade and association, government services, personal announcement, pets and accessories, post services, public utilities, professional services, publication, career, security services, shipping and logistics.
 
-Hong Kong
+3.3 the above products and services may be provided by SCMPP and/or:
 
-Email Address: [cs@scmp.com](mailto:cs@scmp.com)
+a) any of our affiliates;
 
-_**Anonymous Browsing**_
+b) the business partners or co-branding partners of SCMPP and/or affiliates providing the products and services set out in paragraph 3.2 above;
 
-Visitors can browse our Website on an anonymous basis. We have not configured our Website to collect any personal information from your computer without your input. This means we will not know your identity and/or personal data about you unless you, as an anonymous visitor, voluntarily and knowingly provide us with such information.
+c) third party reward, loyalty or privileges programme providers supporting SCMPP or any of the above listed entities
 
-_**Use of Cookies**_
+3.4 in addition to marketing the above products and services, SCMPP also intends to provide the data described in paragraph 3.1 above to all or any of the persons described in paragraph 3.3 above for use by them in marketing those products and services, and SCMPP requires your written consent (which includes an indication of no objection) for that purpose;
 
-We use cookies to gather information about SCMP.com users’ browsing activities so as to improve our services – (i) date/time of your last visit; (ii) which articles that you have commented on; and (iii) what content you have posted on SCMP.com.
+3.5 SCMPP may receive money or other property in return for providing the data to the other persons in paragraph 3.4 above and, when requesting your consent or no objection as described in paragraph 3.4 above, SCMPP will inform you if it will receive any money or other property in return for providing the data to the other persons.
 
-While such cookies are capable of collecting information about which articles on SCMP.com that you have read and the number of these articles, such information will stay on the computer or device that you use to browse SCMP.com. We will not have records of the same.
+**If you do not wish SCMPP to use or provide to other persons your personal data for use in direct marketing as described above, you may exercise your opt-out right by notifying SCMPP at any time and without charge. To opt-out, please inform us in writing to the address in the section on “Access and correction of personal data”.**
 
-We do not use cookies to capture your email address or other personally identifying data about you. You can choose not to accept cookies. If you do, you cannot read free articles on SCMP.com as anonymous users/non-subscribers but you can still access all index pages. If you are a SCMP.com subscriber, you can still view the articles even if you do not accept cookies.
+**4\. Access and correction of personal data** : Under the PDPO, you have the right to ascertain whether SCMPP holds your personal data, to obtain a copy of the data, and to correct any data that is inaccurate. You may also request SCMPP to inform you of the type of personal data held by it.
+
+Requests for access and correction or for information regarding policies and practices and kinds of data held by SCMPP should be addressed in writing to our "Customer Relationship management Team" at:
+
+South China Morning Post Publishers Limited  
+Morning Post Centre  
+22 Dai Fat Street, Tai Po Industrial Estate  
+New Territories, Hong Kong
+
+A reasonable fee may be charged to offset SCMPP’s administrative and actual costs incurred in complying with your data access requests.
