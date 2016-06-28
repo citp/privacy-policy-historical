@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916091441id_/http%3A//www.50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628113756id_/http%3A//www.50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# 50 Connect | Privacy policy
+# Privacy policy | 50 Connect
 
 ##  1\. Introduction and General Terms
 
@@ -32,13 +32,13 @@ By entering your details in the fields requested, you enable and its service pro
 
 Please note that sometimes on particular web pages we will require you to provide additional personal information, and sometimes sensitive personal information (e.g. if you're sending in an application to be a contributor on a political party we may need to know your political leanings). When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
 
-Olderisiwiser Limited also uses cookies (see paragraph 12 below for details) and collects Internet Protocol (IP) addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
+Olderiswiser Media Limited also uses cookies (see paragraph 12 below for details) and collects Internet Protocol (IP) addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
 We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of 50connect.co.uk site  
 
 ##  3\. How will Olderiswiser Media Limited use the information they collect about me?
 
-Olderisiwsier Limited will use your personal information for a number of purposes including the following:
+Olderiswiser Media Limited will use your personal information for a number of purposes including the following:
 
   * For "service administration purposes", which means that Olderiswiser Media Limited may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
   * to contact you about a submission you have made to the websites, including any content you provide.
@@ -136,3 +136,5 @@ Olderiswiser Media Limited
 London
 
 W1H 5YQ
+
+This page was last amended 7 December 2015.
