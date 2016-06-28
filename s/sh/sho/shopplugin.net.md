@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919095642id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628041633id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shopp — shopping cart & ecommerce plugin for WordPress
 
@@ -14,7 +14,7 @@ Ingenesis Limited, an Ohio limited liability company, owns and operates this web
 #### Traffic Data
 
   * Your IP address is a numeric address assigned to your computer, assigned by your Internet service provider. We automatically collect your IP address as traffic data so that we can send information back to you when requested. This is not used to identify your personal information.
-  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information. 
+  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information.
   * System information such as your operating system/platform, and the type of web browser you use. This is not attached to personally identifiable information.
 
 
@@ -63,12 +63,11 @@ If, however, we are going to use visitors’ personally identifiable information
 
 If visitors have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[Customer Service Form](https://shopplugin.net/contact)  
-Phone: (888) 977-4662
+[Customer Service Form](https://shopplugin.net/contact)
 
 Ingenesis Limited  
-P.O. Box 2846  
-Springfield, Ohio 45503
+P.O. Box 228  
+Manteca, CA 95336
 
   
 
