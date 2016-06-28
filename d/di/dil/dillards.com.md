@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115815id_/http%3A//www.dillards.com/shop/en/dillards/faqs-notices-policies-us%3Fcm_sp%3Dcustomerservice-_-privacy%2Bpolicy-_-null) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628063734id_/http%3A//www.dillards.com/c/faqs-notices-policies-international%23q%3Dpolicies-notices-question-privacy-policy) for the most accurate reproduction.*
 
-# FAQ - US | Dillards.com
+# FAQ - International | Dillards.com
 
 Dillard's understands that online and mobile privacy is very important to you. We have adopted this Privacy Policy as part of our commitment to your privacy. The terms "we", "us", and "our" refer to Dillard's Inc. and its affiliated companies. 
 
-This Privacy Policy applies to information we obtain via Dillards.com (referred to hereafter as the Site). Please note that the Privacy Policy applies only to your interactions with us through the Site. It does not apply to interactions through our retail stores, or to your use of a Dillard's Card. A separate Privacy Notice, administered by Wells Fargo Bank, N.A., pertains to your Dillard's Credit Card and Dillard's American Express® Card. For that Privacy Notice, [click here](https://retailservices.wellsfargo.com/pdf/dillards/privacy.pdf). When you use your Dillard's Credit Card or Dillard's American Express® Card on the Site, this Privacy Notice fully applies to your usage of the Site. Additionally, when using the Site you may submit product reviews. We currently use a company called PowerReviews for product reviews. Your submission of reviews is governed by a separate privacy policy maintained by PowerReviews. A link to that policy is provided on the screen from which you submit your review, but you can also review it [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html). Also, if you click the [Dillard's Careers](http://careers.dillards.com/) link on the bottom of any Dillards.com page to search for Dillard's jobs, you will be directed to job listings on the Dillard's Career web site (careers.dillards.com). Your submission of information and the collection of information from you through the use of the [Dillard's Career web site](http://careers.dillards.com/) is governed by the privacy policy of Dillards.com.
+This Privacy Policy applies to information we obtain via Dillards.com (referred to hereafter as the Site). Please note that the Privacy Policy applies only to your interactions with us through the Site. It does not apply to interactions through our retail stores, or to your use of a Dillard's Card. A separate Privacy Notice, administered by Wells Fargo Bank, N.A., pertains to your Dillard's Credit Card and Dillard's American Express® Card. For that Privacy Notice, [click here](https://retailservices.wellsfargo.com/pdf/dillards/privacy.pdf). When you use your Dillard's Credit Card or Dillard's American Express® Card on the Site, this Privacy Notice fully applies to your usage of the Site. Additionally, when using the Site you may submit product reviews. We currently use a company called PowerReviews for product reviews. Your submission of reviews is governed by a separate privacy policy maintained by PowerReviews. A link to that policy is provided on the screen from which you submit your review, but you can also review it [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html). Also, if you click the [Dillard's Careers](http://careers.dillards.com/) link on the bottom of any Dillards.com page to search for Dillard's jobs, you will be directed to job listings on the Dillard's Career web site (careers.dillards.com). Your submission of information and the collection of information from you through the use of the [Dillard's Career web site](http://careers.dillards.com/) is governed by the privacy policy of Dillards.com. 
 
 1\. What information We Obtain
 
@@ -26,28 +26,16 @@ A "cookie" is a small data file stored by your web browser on your device. It al
 
 We use Google Analytics to compile information collected via cookies in a manner which is helpful to us in analyzing visitors' use of the Site. Google Analytics also uses this information to place advertisements for our products on other sites that you visit after your use of the Site. These advertisements may be based upon the pages you visited during your use of the Site. You may opt out of Google Analytics' use of your browsing history information in this manner at any time by visiting Google's [Ad Preferences Manager](https://www.google.com/settings/ads/onweb/) You may also choose to install the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/), which if installed will prevent Google Analytics from using information obtained from your use of the Site.
 
-For payment fraud prevention purposes, we use a technology called "Flash Cookies." A Flash Cookie is a data file placed on your device using Adobe Flash technology that may be installed on your computer or downloaded by you to your computer. Flash cookies are not deleted from your browser when you delete cookies through your browser's delete cookies function, and are not disabled by disabling cookies through your browser's disable cookies function. To learn how to manage privacy and storage settings for Flash Cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Additionally, for payment fraud prevention purposes we use a technology called HTML5 local storage technology. HTML 5 web storage is similar to a cookie in that it stores data on your device's web browser for collection of information. HTML5 local storage on your device may not in all cases be deleted or disabled by deleting or disabling cookies through your browser's delete and disable cookies functions.
+For payment fraud prevention purposes, we use a technology called "Flash Cookies." A Flash Cookie is a data file placed on your device using Adobe Flash technology that may be installed on your computer or downloaded by you to your computer. Flash cookies are not deleted from your browser when you delete cookies through your browser's delete cookies function, and are not disabled by disabling cookies through your browser's disable cookies function. To learn how to manage privacy and storage settings for Flash Cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). Additionally, for payment fraud prevention purposes we use a technology called HTML5 local storage technology. HTML5 web storage is similar to a cookie in that it stores data on your device's web browser for collection of information. HTML5 local storage on your device may not in all cases be deleted or disabled by deleting or disabling cookies through your browser's delete and disable cookies functions.
 
 5\. How You Can Opt Out of Promotional Emails
 
 You may access and update your Personal Information and your preferences about receiving promotional emails from Dillard's at any time. To do that:
 
-**For Desktop Users on Dillards.com:**
+**For Desktop/Tablet Users on Dillards.com:**
 
-  1. Click "Login" at the top of the web page
-  2. Enter Email Address, Password, and Security code, then click Login 
-  3. Click My Personal Information
-  4. Uncheck the box for "Send me emails about store specials." Please allow up to ten days for us to process your request.
-
-
-
-**For Mobile/Tablet Users on Dillards.com:**
-
-  1. Select "Login"
-  2. Enter Email Address, Password, and Security code, then select Login 
-  3. Select My Personal Information
-  4. Uncheck the box for "Send me emails about store specials"
-  5. Select "Submit"
+  1. Enter your email address into the email field at the bottom of the page
+  2. Uncheck the box that opts you IN to the promotional emails and click Submit
 
 
 
@@ -79,6 +67,6 @@ If you have questions regarding our Privacy Policy please contact us at:
 
    1-800-643-8274 
 
-   Or email us at: [questions@dillards.com](mailto:questions@dillards.com)
+   Or email us at: [internationalsales@dillards.com](mailto:internationalsales@dillards.com)
 
 Last Revised: April 16, 2015.
