@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113110822id_/http%3A//www.zenfolio.com/z/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628044939id_/http%3A//www.zenfolio.com/us/z/privacy) for the most accurate reproduction.*
 
-# Zenfolio - Privacy Policy
+# Privacy Policy - Zenfolio
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/z/terms) agreement. 
+Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/us/z/terms). 
 
 Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using the Website, you agree to our Privacy Policy as outlined below. 
 
@@ -20,6 +20,80 @@ Like almost all e-commerce web sites, we use "cookies." Cookies are bits of info
 
 Whether you want your web browser to accept cookies or not is up to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to be notified when you receive a new cookie, or how to disable cookies altogether. If you haven't changed your computer's settings, most likely your browser already accepts cookies. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of features and services, we recommend that you leave them turned on. For instance, if you block our cookies, you will not be able to add items to your Cart, proceed to checkout, or use any services that require you to sign in. 
 
+The list below details the cookies used on Zenfolio. We have outlined who sets these cookies and their purpose. 
+
+**Category**
+
+| 
+
+**Party**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+**Functionality**
+
+| 
+
+Zenfolio.com
+
+| 
+
+Zenfolio.com uses these cookies to enable some basic functionalities to provide a basic personalized experience while browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your cart, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.  
+  
+**Strictly necessary**
+
+| 
+
+Zenfolio.com
+
+| 
+
+These cookies are essential as they enable you to move around a website and use its features, such as accessing checkout. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.  
+  
+**Analytical/Performance**
+
+| 
+
+Google Analytics
+
+| 
+
+Google Analytics uses cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+  
+**Analytical/Performance**
+
+| 
+
+Google Website Optimizer
+
+| 
+
+Zenfolio.com works with 3rd party Google Website Optimizer to test and find the optimal content and experience for our users. The cookies used by Google Website Optimizer enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, Google Website Optimizer does not collect specific customer data and is never shared with other third parties.  
+  
+**Targeting**
+
+| 
+
+Various Third Party Service Providers
+
+| 
+
+Zenfolio.com works with various 3rd party providers (such as Quantcast, Facebook, Google, Bing, etc.) to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. Zenfolio.com works with 3rd party agency Quantcast to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+  
+**Targeting**
+
+| 
+
+Various Third Party Service Providers
+
+| 
+
+Cookies are used by 3rd party affiliates enabling Zenfolio.com to meet contractual obligations to make payments to them when they introduce a new customer to Zenfolio.com. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+  
 ## How We Protect Your Information
 
 Zenfolio uses standard industry security practices to protect Your personal information including Secure Socket Layer (SSL) transmission technology for all sensitive information exchanges. This technology encrypts information You send us to avoid it being intercepted before reaching our secure HTTPS servers. 
@@ -44,7 +118,7 @@ Zenfolio will not knowingly collect or use any personal information from childre
 
 ## Data Transfer and Storage
 
-Zenfolio is a California corporation operated from within the United States. Accordingly, information collected by Zenfolio will be stored in the United States. If you are accessing the Website from outside of the United States, you acknowledge and agree that your information will be received by or transferred to servers located within the United States. 
+Zenfolio is a California corporation operated from within the United States. Accordingly, information collected by Zenfolio will be stored in the United States. If you are accessing the Website from outside of the United States, you acknowledge and agree that your information will be received by or transferred to servers located within the United States and processed by Zenfolio and its third party service providers. 
 
 ## Opting Out of Certain Communications
 
@@ -58,4 +132,4 @@ You have a right to access the personal information held about you. You can obta
 
 If we change our Privacy Policy, we will post a new version on our Website, which will become effective when posted. The new policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent with it. 
 
-Updated September 25, 2014 
+Updated January 14, 2016 
