@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129232011id_/http%3A//www.apptivo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628214313id_/http%3A//www.apptivo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apptivo
 
-Effective on November 30, 2010 
+Effective on November 30, 2010
 
 This privacy statement describes how APPTIVO INC. collects and uses the personal information you provide on our Web site: [www.apptivo.com  
 ](https://www.apptivo.com/).It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
@@ -61,7 +61,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if APPTIVO INC. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if APPTIVO INC. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -76,7 +76,7 @@ If you choose to use PayPal to finalize and pay for your order, you will provide
 
 _Third Party E-Commerce Solutions Provider_
 
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
 ### Cookies and Other Tracking Technologies
 
@@ -91,7 +91,7 @@ We use a third party to gather information about how you and others use our Web 
 _Links to Other Web Sites_
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of APPTIVO INC..  
-If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ### Security
 
@@ -101,6 +101,10 @@ We provide two means for you to make a purchase on our site. You can either use 
 
 We will retain your information for as long as your account is active or as needed to provide you services.  
 If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@apptivo.com](mailto:privacy@apptivo.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Usage of 3rd Party Services for Data Sources
+
+Client uses third parties to gather End User’s data from financial institutions. By using our service, you grant our third-party provider the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to terms of our third-party provider’s privacy policy.
 
 ### Additional Policy Information
 
@@ -118,7 +122,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-APPTIVO INC. 
+APPTIVO INC.
 
 983 Corporate Way,
 
