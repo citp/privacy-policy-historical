@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031111439id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629005023id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
 
-# Privacy - Tuffclassified
+# Privacy- Tuffclassified
 
 We can be contacted via e-mail at [Contact Us](http://tuffclassified.com/contact/).[](http://st1.tuffclassified.in/wp-content/uploads/2009/08/PagePicsPrivacy.png)
 
