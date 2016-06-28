@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219083330id_/http%3A//welcome.freemyapps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628072349id_/http%3A//welcome.freemyapps.com/privacy.html) for the most accurate reproduction.*
 
 # FreeMyApps - Terms & Conditions
 
-Last modified: October 7, 2014
+Last modified: June 9, 2016
 
-Fiksu, Inc. ("Fiksu") is a marketing service company focusing on the mobile application marketplace. We are committed to maintaining the privacy of your information when you visit our website, and when we provide products that optimize the mobile marketplace inclusive of ads and app download environments, on behalf of our mobile application provider clients ("Clients"). This Privacy Policy describes how we treat the personal information received about you on this website, [www.fiksu.com](https://www.fiksu.com/) (our "Website"), and when providing marketing services to our application publisher Clients (our "Services").
+GDMService Inc. d/b/a Fiksu ("Fiksu") is a marketing service company focusing on the mobile application marketplace. We are committed to maintaining the privacy of your information when you visit our website, and when we provide products that optimize the mobile marketplace inclusive of ads and app download environments, on behalf of our mobile application provider clients ("Clients"). This Privacy Policy describes how we treat the personal information received about you on this website, [www.fiksu.com](https://www.fiksu.com/) (our "Website"), and when providing marketing services to our application publisher Clients (our "Services").
 
 **Safe Harbor Privacy Principles**
 
@@ -81,9 +81,9 @@ When we make a material change to this Privacy Policy, we will inform you by pos
 
 If you have any questions or concerns regarding this Privacy Policy, please email us at [info@fiksu.com](mailto:info@fiksu.com). We will make every effort to resolve your concerns. Alternatively, you may contact us at the address below:
 
-Fiksu, Inc.  
+GDMService Inc. d/b/a Fiksu  
 Attn: Privacy Officer  
-31 St. James Ave. Suite 1150,  
+31 St. James Ave. Suite 1005,  
 Boston, MA 02116
 
 **Enforcement**
