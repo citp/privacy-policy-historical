@@ -1,41 +1,49 @@
-> *The following text is extracted and transformed from the humanforce.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628043814id_/http%3A//www.timetarget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanforce.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628113109id_/http%3A//www.humanforce.com/privacy) for the most accurate reproduction.*
 
-# Privacy - TIMETARGET
+# Humanforce | Privacy Policy
 
-Find out how we can make your Business Work Better
+This policy (together with our terms of website use [here](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which we **TimeTarget Workforce Management Ltd, Registered in England and Wales 09246413, at Kings Parade, Lower Coombe Street, Croydon, Surrey CR0 1AA** will process any personal data we collect from you, or which you provide to us, in the course of using our site **www.humanforce.com**. For the purpose of the Data Protection Act 1998 we are the data controller. 
 
-### General Website Privacy Policy
+### Your Information
 
-TimeTarget respects the privacy of every individual who visits our Site or responds to our interactive advertisements. This Privacy Policy outlines the information TimeTarget will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit TimeTarget Sites or respond to our advertisements.
+When you use our site, there are a number of ways in which you provide information and other data to us. By using the site, you consent to us processing and collecting this data, on the terms and for the reasons which are explained below.
 
-### Personally Identifiable Information
+### How your information is used
 
-TimeTarget will not collect any personally identifiable information about you (that is: name, address, telephone number or e-mail address) unless you provide it to us voluntarily. If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact us using the “Contact Us” link on this Site. We will use reasonable efforts to delete your information from our existing files. When you do provide us with personally identifiable information, we may use that information in the following ways, unless stated otherwise, we may store and process that information to better understand your needs and how we can improve our products and services, we may use that information to contact you, to protect our rights or property and we may provide that information to third parties.
+We may use your information to:
 
-### Children
+  * send you our newsletters from time to time.
+  * ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * carry out our obligations arising from any contracts entered into between you and us.
+  * allow you to participate in interactive features of our service, when you choose to do so.
+  * notify you about changes to our service.
 
-TimeTarget has no intention of collecting any personally identifiable information (that is: name, address, telephone number or e-mail address) from individuals under thirteen (13) years of age without parental consent. Where appropriate, TimeTarget will specifically instruct children not to submit such information on our Site or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should contact us using the “Contact Us” link on this Site if they would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our existing files.
 
-### Non-Personally Identifiable Information Collected Automatically
 
-In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using, other web sites visited, and the domain name and/or IP address of the website from which you linked to our Site or advertisement. PLEASE NOTE: Under certain circumstances, domain names and/or IP addresses may be linked to personally identifiable information. For example, this information may be stored in databases managed by Internet registrars or registries.
+If you do not want us to use your information for marketing purposes, please tick the relevant box on the form on which you submit your data. You can also contact us directly by emailing [sales@humanforce.com](mailto:sales@humanforce.com)
 
-### Information We May Place Automatically On Your Computer’s Hard Drive
+If you do want to receive information from our carefully selected third parties about goods or services that may be of interest to you, please tick the relevant box on the form on which you submit your data. 
 
-When you view our Site or advertisements, we may store some information on your computer. This information will be in the form of a “cookie” or similar file and will help us in many ways. For example, cookies allow us to tailor the Site or advertisement to better match your interests and preferences. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions.
+Please note that if you click on, or follow, any links from our site to external websites, our privacy policy will no longer apply. Please check the privacy policies of any such external site before submitting any personal data, as we cannot accept any responsibility or liability in relation to them. 
 
-### Basis of Privacy Policy Principles
+### Data Storage
 
-The privacy principles of this policy are based on respect for international standards of privacy protection, such as the Information Privacy Principles set out in section 14 of the Commonwealth Privacy Act 1998, section 6 of the New Zealand Privacy Act 1993, and the Australian Privacy Charter.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.
 
-### Security of Information
+We take your privacy very seriously, and will take all reasonable steps to protect your personal data, but please be aware that any data which you send to our site is sent at your own risk. 
 
-TimeTarget takes reasonable steps to preserve the security of “cookie” and personal information in accordance with this Site’s Terms and Conditions and Privacy Policy. We operate secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, TimeTarget strives to protect such information. TimeTarget cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our systems. Only certain employees have access to the information you provide to us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences.
+The data that we collect from you may be transferred to, processed and/or stored at a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this. We will take all reasonable steps to ensure that your data is treated securely and in accordance with this privacy policy. 
 
-### Acceptance and Changes to Privacy Policy
+### Disclosure of your information
 
-You acknowledge and accept that your use of the Site indicates your acceptance of this Site’s Terms and Conditions and Privacy Policy. This is the current Privacy Policy, and it replaces any other Privacy Policies published on this Site previously. TimeTarget may at any time vary the Privacy Policy and publish an updated version on this Site. You accept that by doing this, TimeTarget has provided you with sufficient notice of the variation.
+We may disclose your personal information to any of our group companies (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985) and also to third parties in the following circumstances: -
 
-### Who to Contact
+  * to any prospective seller or buyer of all (or part of) our business or assets;
+  * If we are required to do so by law, any applicable regulation or to protect the rights, property, or safety of ourselves or others. This may include disclosing to other companies and organisations in connection with fraud protection and credit risk reduction.
 
-If you have submitted personally identifiable information through our Site or interactive advertisements and would like that information deleted from our records, please use the “Contact Us” link on this Site to send us a message including your contact number and e-mail address. We will use reasonable efforts to delete this information from our existing files.
+
+
+### Access to information
+
+You have the right under the Data Protection Act to access the information which we hold about you. If you wish to exercise this right, please send your request to [sales@humanforce.com](mailto:sales@humanforce.com). In order to meet our costs in responding, we will charge you a fee of £10. 
