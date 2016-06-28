@@ -1,129 +1,7 @@
-<!--The following is the downloaded HTML source of the walmart.ca privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221081751id_/http%3A//www.walmart.ca/en/help/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walmart.ca privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628133434id_/http%3A//www.walmart.ca/en/help/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="  js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths pointerevents wf-inactive" lang="en" style=""><!--<![endif]--><head><link href="//a12.wal.co" rel="dns-prefetch"><link href="//maps.google.com" rel="dns-prefetch"><link href="//www.google.com" rel="dns-prefetch"> <meta charset="utf-8"> <script src="//fonts.walmart.com/kvb8fxz.js" async=""></script><script type="text/javascript">
-var catchment = {};
-</script> <script type="text/javascript" src="//www.google.com/jsapi/?sensor=false"></script> <script type="text/javascript">
-		catchment.geo = google.loader.ClientLocation;
-	</script> <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=true&amp;language=en&amp;region=ca&amp;client=gme-walmartcanada"></script> <script type="text/javascript">
-	catchment.cookie = {
-		get: function(name) {
-			return (document.cookie.match('(^|; )' + name + '=([^;]*)') || 0)[2];
-		},
-		set: function(params) {
-			var cookie = params.name + '=' + encodeURI(params.value) + ';';
-			if (params.expires) {
-				params.expires = new Date(new Date().getTime() + parseInt(params.expires, 10) * 1000 * 60 * 60 * 24);
-				cookie += 'expires=' + params.expires.toUTCString() + ';';
-			}
-			cookie += (params.path) ? 'path=' + params.path + ';' : '';
-			cookie += (params.domain) ? 'domain=' + params.domain + ';' : '';
-			cookie += (params.secure) ? 'secure;' : '';
-			cookie += (params.httpOnly) ? 'httpOnly;' : '';
-			document.cookie = cookie;
-		},
-		remove: function(name) {
-			document.cookie = name + "=" + "; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT";
-		}
-	};
-
-	catchment.findPostalCode = function(georesult) {
-		if (!georesult) {
-			return null;
-		}
-		for (var i = georesult.length - 1; i >= 0; i--) {
-			var addressComponents = georesult[i].address_components;
-			for (var a = addressComponents.length - 1; a >= 0; a--) {
-				if (addressComponents[a].types[0] == "postal_code") {
-					return addressComponents[a].short_name.replace(/\s/g, "");
-				}
-			};
-		};
-		return null;
-	};
-
-	catchment.resolve = function(postalCode) {
-		var ajax = new XMLHttpRequest();
-
-		ajax.onreadystatechange = function() {
-			if (ajax.readyState == 4 && ajax.status !== 0) {
-				if (ajax.status == 200) {
-					catchment.compare(JSON.parse(ajax.responseText));
-				} else {
-					console.error("Fail to get catchment value");
-				}
-			}
-		}
-		ajax.open("GET", "/ws/catchment/" + postalCode, true);
-		ajax.send();
-	};
-
-	catchment.compare = function(data) {
-		if (data.result) {
-			if (catchment.deliveryCatchment != data.result.deliveryCenterID || catchment.marketCatchment != data.result.pricingZoneId) {
-				window.location.replace(location.href);
-			}
-		}
-	};
-
-	catchment.resetLocation = function(postalCode) {
-		catchment.cookie.remove("walmart.nearestPostalCode");
-		catchment.cookie.set({
-			name: "walmart.shippingPostalCode",
-			value: postalCode,
-			path: "/"
-		});
-		catchment.resolve(postalCode);
-	};
-
-	catchment.detectLocation = function() {
-		if (catchment.geo && catchment.geo.address.country.toUpperCase() == "CANADA") {
-			catchment.geocoder = new google.maps.Geocoder(),
-			catchment.latLng = new google.maps.LatLng(parseFloat(catchment.geo.latitude), parseFloat(catchment.geo.longitude)),
-			catchment.OK = google.maps.GeocoderStatus.OK;
-
-			catchment.geocoder.geocode({
-				"latLng": catchment.latLng
-			}, function(results, status) {
-				if (status == catchment.OK) {
-					var postalCode = catchment.findPostalCode(results),
-						geo = {
-							"latitude": parseFloat(catchment.geo.latitude),
-							"longitude": parseFloat(catchment.geo.longitude),
-							"postalCode": postalCode
-						};
-
-					try {
-						if (window.sessionStorage) {
-							sessionStorage["geolocation-" + postalCode] = JSON.stringify(geo);
-						}
-					} catch (e) {
-						console.error("could not add to session storage.");
-					}
-					catchment.resetLocation(postalCode);
-				} else {
-					console.error("could not find postal code", results);
-				}
-			});
-		} else {
-			catchment.resetLocation("V5M2G7");
-		}
-	};
-
-	catchment.init = function() {
-		catchment.shippingPostalCode = catchment.cookie.get("walmart.shippingPostalCode");
-		catchment.deliveryCatchment = catchment.cookie.get("deliveryCatchment") || 2000;
-		catchment.marketCatchment = catchment.cookie.get("marketCatchment") || 2001;
-
-		if (!catchment.shippingPostalCode) {
-			catchment.detectLocation();
-		} else {
-			catchment.resolve(catchment.shippingPostalCode);
-		}
-	};
-
-	catchment.init();
-</script> <script>
+<!DOCTYPE html><html class="js svg localstorage placeholder indexeddb indexeddb-deletedatabase csstransitions" lang="en"><!--<![endif]--><head><link href="//b.wal.co" rel="dns-prefetch"><link href="//fonts.googleapis.com" rel="dns-prefetch"><link href="//beacon.walmart.ca" rel="dns-prefetch"> <meta charset="utf-8"> <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css"> <script>
 	(function(){
 		"use strict";
 		window.startTime = Date.now ? Date.now() : +(new Date());
@@ -164,17 +42,17 @@ var catchment = {};
 			}
 		};
 
-		tbHlp.tag("userSegment-10percent");
+		tbHlp.tag("userSegment-50percent");
 		tbHlp.tag("features-ogRess");
 		
 		tbHlp.startTimer("headProcessing");
 		tbHlp.startTimer("visuallyComplete");
 	})()
 </script> <script>tbHlp.startTimer("beaconProcessing");</script>
-<script src="http://a12.wal.co/beacon.js-7b65fcae3f941abdaaae75f0cbf9ff4e716a81bc.js?bh=beacon.walmart.ca" async=""></script>
+<script src="//b.wal.co/beacon.js?bh=beacon.walmart.ca" async=""></script>
 <script>tbHlp.endTimer("beaconProcessing");</script> <script>
 			tbHlp.tag("pageType-static");
-		</script> <script>
+		</script> <script>tbHlp.startTimer("stylesheetProcessing");</script> <link rel="stylesheet" media="all" href="/assets/css/9d847f464b62fa843f545f292afc09b9-global-responsive.min.css"> <!-- **** PageType = |model.session.pagetypes.PageType$@63922687| **** --> <script>tbHlp.endTimer("stylesheetProcessing");</script> <script>
 	
 	window.tmpJqFns = [];
 	window.ensurejQuery = function(fn){
@@ -184,18 +62,7 @@ var catchment = {};
 			window.tmpJqFns.push(fn);
 		}
 	};
-</script> <script>tbHlp.startTimer("atmInit");</script> <script src="//assets.adobedtm.com/85645a8d007acd4083400fa7618caa81f2baf40e/satelliteLib-b06a35b89d88bdcf5b7a9a2ca56e28cb746c2651.js"></script> <script>tbHlp.endTimer("atmInit");</script> <!--[if lt IE 8]><script src="/assets/javascripts/global/lib/eddeaa3411ff77e5e753b3da192c77c0-json2.js"></script><![endif]--> <title>Walmart.ca Help Centre: Privacy Policy | Legal</title> <meta name="title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta name="description" content=""> <meta name="keywords" content=""> <meta name="viewport" content="initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no"> <meta property="og:title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta property="og:url" content=""> <meta property="og:sitename" content="Walmart.ca"> <meta property="og:description" content=""> <meta property="og:local" content="en_CA"> <meta property="og:localalternate" content="fr_CA"> <meta name="twitter:title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta name="twitter:description" content=""> <meta name="twitter:site" content="@WalmartCanada"> <meta name="twitter:creator" content="@WalmartCanada"> <meta name="twitter:domain" content="Walmart.ca"> <meta name="robots" content="noydir,noodp"> <!-- Git SHA: 0b58842 | Break Point: Responsive | Device Dimensions: Not Set --> <link rel="canonical" href=""> <link rel="alternate" hreflang="x-default" href=""> <link rel="alternate" hreflang="en" href=""> <link rel="alternate" hreflang="fr" href=""> <link rel="dns-prefetch" href="//b.wal.co"> <link rel="dns-prefetch" href="//assets.adobedtm.com"> <link rel="dns-prefetch" href="https://beacon.walmart.ca"> <link rel="dns-prefetch" href="//www.google-analytics.com"> <link rel="dns-prefetch" href="//cdn.tt.omtrdc.net"> <link rel="dns-prefetch" href="//fonts.walmart.com"> <link rel="dns-prefetch" href="//i.walmartimages.ca"> <link rel="dns-prefetch" href="//a14.wal.co"> <link rel="dns-prefetch" href="//a10.wal.co"> <link rel="dns-prefetch" href="//a9.wal.co"> <link rel="dns-prefetch" href="//a7.wal.co"> <link rel="dns-prefetch" href="//i5.walmartimages.ca"> <link rel="dns-prefetch" href="//www.googleadservices.com"> <link rel="dns-prefetch" href="//omniture.walmart.ca"> <link rel="dns-prefetch" href="//media.richrelevance.com"> <link rel="dns-prefetch" href="//www.googletagservices.com"> <link rel="dns-prefetch" href="//"> <link rel="dns-prefetch" href="https://static.ordergroove.com"> <link rel="dns-prefetch" href="//ta.walmartimages.ca"> <link rel="dns-prefetch" href="//bazaarvoice.com"> <link rel="dns-prefetch" href="//maps.googleapis.com"> <link rel="dns-prefetch" href="//maps.gstatic.com"> <link rel="dns-prefetch" href="//csi.gstatic.com"> <link rel="dns-prefetch" href="//a.wishabi.com"> <link rel="dns-prefetch" href="//match.xg4ken.com"> <link rel="dns-prefetch" href="https://secure.adnxs.com"> <script>
-			tbHlp.startTimer("typekitInit");
-			(function(d) {
-				var config = {
-					kitId: "kvb8fxz",
-					scriptTimeout: 3000
-				},
-				h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//fonts.walmart.com/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){};
-					tbHlp.endTimer("typekitInit");
-					};s.parentNode.insertBefore(tk,s)
-			})(document);
-		</script> <script>tbHlp.startTimer("stylesheetProcessing");</script> <link rel="stylesheet" media="all" href="/assets/css/1baca706bc6308348165331eb69603ad-global-responsive.min.css"> <script>tbHlp.endTimer("stylesheetProcessing");</script> <script>tbHlp.startTimer("libJsProcessing");</script> <script src="/assets/javascripts/global/lib/cca89f7c17dddf8b2a4be05f708abb90-modernizr-polyfills-require-jquery.js"></script> <script>tbHlp.endTimer("libJsProcessing");</script> <script>
+</script> <script>tbHlp.startTimer("atmInit");</script> <script src="//assets.adobedtm.com/85645a8d007acd4083400fa7618caa81f2baf40e/satelliteLib-b06a35b89d88bdcf5b7a9a2ca56e28cb746c2651.js"></script> <script>tbHlp.endTimer("atmInit");</script> <!--[if lt IE 8]><script src="/assets/javascripts/global/lib/eddeaa3411ff77e5e753b3da192c77c0-json2.js"></script><![endif]--> <title>Walmart.ca Help Centre: Privacy Policy | Legal</title> <meta name="title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta name="description" content="Walmart has specific Privacy Statements for its personal information practices relating to the Pharmacy and VisionCentre operations in our retail stores. These Privacy Statements are available at each Pharmacy and Vision Centre."> <meta name="keywords" content=""> <meta name="viewport" content="initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no"> <meta property="og:title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta property="og:url" content=""> <meta property="og:sitename" content="Walmart.ca"> <meta property="og:description" content="Walmart has specific Privacy Statements for its personal information practices relating to the Pharmacy and VisionCentre operations in our retail stores. These Privacy Statements are available at each Pharmacy and Vision Centre."> <meta property="og:local" content="en_CA"> <meta property="og:localalternate" content="fr_CA"> <meta name="twitter:title" content="Walmart.ca Help Centre: Privacy Policy | Legal"> <meta name="twitter:description" content="Walmart has specific Privacy Statements for its personal information practices relating to the Pharmacy and VisionCentre operations in our retail stores. These Privacy Statements are available at each Pharmacy and Vision Centre."> <meta name="twitter:site" content="@WalmartCanada"> <meta name="twitter:creator" content="@WalmartCanada"> <meta name="twitter:domain" content="Walmart.ca"> <meta name="robots" content="noydir,noodp"> <!-- Git SHA: 083ee15 | Break Point: Responsive | Device Dimensions: Not Set --> <link rel="canonical" href=""> <link rel="alternate" hreflang="x-default" href=""> <link rel="alternate" hreflang="en" href=""> <link rel="alternate" hreflang="fr" href=""> <link rel="preconnect" href="https://www.walmart.ca"> <link rel="preconnect" href="https://b.wal.co"> <link rel="preconnect" href="https://beacon.walmart.ca"> <link rel="dns-prefetch" href="//assets.adobedtm.com"> <link rel="dns-prefetch" href="//www.google-analytics.com"> <link rel="dns-prefetch" href="//cdn.tt.omtrdc.net"> <link rel="dns-prefetch" href="//fonts.walmart.com"> <link rel="dns-prefetch" href="//i.walmartimages.ca"> <link rel="dns-prefetch" href="//a14.wal.co"> <link rel="dns-prefetch" href="//a10.wal.co"> <link rel="dns-prefetch" href="//a9.wal.co"> <link rel="dns-prefetch" href="//a7.wal.co"> <link rel="dns-prefetch" href="//i5.walmartimages.ca"> <link rel="dns-prefetch" href="//www.googleadservices.com"> <link rel="dns-prefetch" href="//omniture.walmart.ca"> <link rel="dns-prefetch" href="//media.richrelevance.com"> <link rel="dns-prefetch" href="//www.googletagservices.com"> <link rel="dns-prefetch" href="//recs.richrelevance.com"> <link rel="dns-prefetch" href="https://static.ordergroove.com"> <link rel="dns-prefetch" href="//ta.walmartimages.ca"> <link rel="dns-prefetch" href="//bazaarvoice.com"> <link rel="dns-prefetch" href="//maps.googleapis.com"> <link rel="dns-prefetch" href="//maps.gstatic.com"> <link rel="dns-prefetch" href="//csi.gstatic.com"> <link rel="dns-prefetch" href="//a.wishabi.com"> <link rel="dns-prefetch" href="//match.xg4ken.com"> <link rel="dns-prefetch" href="https://secure.adnxs.com"> <script>tbHlp.startTimer("libJsProcessing");</script> <script src="/assets/javascripts/global/lib/50b43036fbe95763b5bb9672ffb1011b-modernizr-polyfills-require-jquery.js"></script> <script>tbHlp.endTimer("libJsProcessing");</script> <script>
 			var walmart = {
 				lang: "en"||"en",
 				context: {
@@ -209,14 +76,15 @@ var catchment = {};
 					isIE89: false,
 					richRelevanceUrl: "recs.richrelevance.com",
 					isStage: "false",
-					userSegment: "10-percent",
+					userSegment: "50-percent",
 					features:  ["og","ress"],
 					persistentCookieId: "walmart.id",
 					ogBaseUrl: "https://static.ordergroove.com/af0a84f8847311e3b233bc764e1107f2",
 					ressBreakpoint: "r",
-					imageUrl: "//i5.walmartimages.ca/"
+					imageUrl: "//i5.walmartimages.ca/",
+					isMobileApp: false
 				},
-				assetVersion: "0b58842"
+				assetVersion: "083ee15"
 			};
 		</script> <!--[if lt IE 10]><script>walmart.context.isIE89 = true;</script><![endif]--> <meta name="apple-mobile-web-app-capable" content="no"> <meta name="apple-mobile-web-app-title" content="Shop Walmart"> <meta name="application-name" content="Shop Walmart"> <link rel="apple-touch-icon" sizes="57x57" href="/assets/c7e563a5abba4035e07292589eb96b8f-apple-touch-icon-57x57.png"> <link rel="apple-touch-icon" sizes="60x60" href="/assets/8f612f4414716ff33d33992b35f708ee-apple-touch-icon-60x60.png"> <link rel="apple-touch-icon" sizes="72x72" href="/assets/cb2e28901b89ad19ae8013082f280c4c-apple-touch-icon-72x72.png"> <link rel="apple-touch-icon" sizes="76x76" href="/assets/2e24120dfe8bf62fa539a8f8872c4235-apple-touch-icon-76x76.png"> <link rel="apple-touch-icon" sizes="114x114" href="/assets/97f7667efd76421032f1eb6d617a7fbf-apple-touch-icon-114x114.png"> <link rel="apple-touch-icon" sizes="120x120" href="/assets/c1a8ce3e5efad335a20ecd4b58b459ae-apple-touch-icon-120x120.png"> <link rel="apple-touch-icon" sizes="144x144" href="/assets/fded5ac90ea240ecf736a523fcd2af45-apple-touch-icon-144x144.png"> <link rel="apple-touch-icon" sizes="152x152" href="/assets/625e312774a6d0b4d89ddb7706864088-apple-touch-icon-152x152.png"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/721a2db7224b5ce0c7d5f09397466fac-apple-touch-icon-180x180.png"> <link rel="icon" type="image/png" sizes="192x192" 　href="/assets/377e7e9ec004032c4e04699ae464deac-android-chrome-192x192.png"> <link rel="manifest" href="/assets/9d1a7c78e21cc1c3c71ae9f8a8918b0d-home-screen-manifest-en.json"> <meta name="theme-color" content="#1267A4"> <link rel="shortcut icon" href="/assets/e36284ebd287f3cb35e7182282d4f276-favicon.ico"> <script>window.walmart.template = "cayenne";</script> <script>
 			
@@ -227,10 +95,10 @@ var catchment = {};
 				assetVersion: walmart.assetVersion,
 				paths: {
 					global: './global',
+					checkout: './app/checkout',
+					'scheduled-shopping': './app/scheduled-shopping',
 					app: './app',
-					copy: ["global/localization/global-"+walmart.lang+"_ca"],
-					
-					richRelevance: ["//media.richrelevance.com/rrserver/js/1.0/p13n"]
+					copy: ["global/localization/global-"+walmart.lang+"_ca"]
 				}
 			});
 		</script> <!--[if lt IE 9]><script src="/assets/javascripts/global/lib/f89afed22faac0670dd5a1028e663bf1-css3-mediaqueries.js"></script><![endif]--> <script>
@@ -261,10 +129,11 @@ var catchment = {};
 
 					$(document).ready(function() {
 						var endeca = ~~!!$(".product").not(".richRelevance .product, .hookLogic .product").length,
-							richRelevance = ~~!!$(".recordSpotlight.richRelevance").length,
-							hookLogic = ~~!!$(".recordSpotlight.hookLogic").length;
+							richRelevance = $(".recordSpotlight.richRelevance").length,
+							hookLogic = ~~!!$(".recordSpotlight.hookLogic").length,
+							Pip = $(".product-purchase-cartridge").length;
 
-						priceSections = endeca + richRelevance + hookLogic;
+						priceSections = endeca + richRelevance + hookLogic + Pip;
 					});
 
 					return function(e, ele) {
@@ -283,16 +152,15 @@ var catchment = {};
 			})(jQuery);
 			tbHlp.endTimer("headProcessing");
 			tbHlp.startTimer("bodyProcessing");
-		</script> <script src="//a14.wal.co/capabilities.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="global/models/cart-models" src="/assets/javascripts/./global/models/cart-models.js?v=0b58842"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="common" src="/assets/javascripts/common.js?v=0b58842"></script></head> <body class="en page-type-static og ress"> <div id="global-nav-m" class="mobile-only nav-menu"> <div id="global-nav-m-wrap"> <div id="nav-shop-all-m" class="wgrid-4of4 wgrid-8of8 wgrid-12of12 nav-shop-all-m"> <div id="shop-all-m" class="shop-all-m mobile-hide">Shop All Departments</div> <ul id="nav-1-m" class="mobile-main-nav mobile-hide"> empty/primary-nav </ul> <ul id="nav-1-m-only" class="mobile-main-nav mobile-only"> <li> <h1 id="shop-all-m-only"> <a href="/en/shop-departments" aria-controls="shop-all" aria-selected="false" aria-label="Shop departments"> <span class="nav-icon-m gicon-shop-all"></span> Shop departments </a> </h1> </li> <li> <h1 id="nav-flyers-m-only"> <a href="http://flyers.walmart.ca" aria-controls="flyers" aria-selected="false" aria-label="Flyers"> <span class="nav-icon-m gicon-flyer"></span> Flyers </a> </h1> </li> <li> <h1 id="nav-store-m-only"> <a href="/en/store-finder" aria-controls="store-finder" aria-selected="false" aria-label="Store finder"> <span class="nav-icon-m gicon-walmart-marker"></span> Store finder </a> </h1> </li> <li> <h1 id="nav-account-m-only"> <a href="/my-account" aria-controls="account-signin" aria-selected="false" aria-label="Sign in"> <span class="nav-icon gicon-user"></span> <span class="unknownUserFirstName">Sign in</span> </a> </h1> </li> <li> <h1 id="nav-lists-m-only"> <a href="/en/shopping-list" aria-controls="lists-wrap" aria-selected="false" aria-label="Lists"> <span class="nav-icon gicon-list-heart"></span> Lists </a> </h1> </li> <li> <h1 id="nav-registries-m-only"> <a href="/en/registry" aria-controls="registries" aria-selected="false" aria-label="Registries"> <span class="nav-icon-m gicon-registries"></span> Registries </a> </h1> </li> </ul> </div> </div>
-</div> <div id="wrap"> <header id="global-header" role="banner"> <div id="nav-top"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <ul id="skiplinks"> <li><a href="#skipto-main-wrap" class="visually-hidden" tabindex="1">Skip to main</a></li> <li><a href="#skipto-main-footer" class="visually-hidden" tabindex="1">Skip to footer</a></li> </ul> <nav role="navigation" aria-labelledby="access-support"> <h1 class="visually-hidden" id="access-support">Help,Contact Us,Français</h1> <ul id="support" class="arrow-wht"> <li> <a href="/en/help">Help</a>
-</li> <li> <a href="/en/help/contact-us">Contact Us</a>
-</li> <li><a href="/fr/aide/juridique/politique-de-confidentialite">Français</a></li> </ul> </nav> </div> </div> </div> <div id="nav-btm"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="row"> <div id="logo-wrap" class="wgrid-2of4 wgrid-2of8 wgrid-3of12 marg-l-0"> <a href="/en" tabindex="1" aria-selected="false" aria-label="Homepage"> <!--[if lte IE 8]><img src="/assets/img/header/9361e829b90237d1186954724184b2cc-walmart-logo_en.png" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" /><![endif]--> <!--[if (gt IE 8)|(!IE)]><!--> <img src="http://a7.wal.co/assets/img/header/410afa879b5fe4ab1e6d049744fa9f80-walmart-logo_en.svg-8255da2754d1f35cc79eec5e9d71b4920156b46c" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" class="mobile-hide"> <img src="/assets/img/header/a400a14b812bf21e273ece32d17bb2f6-walmart-logo-no-tag.svg" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" class="mobile-only"> <!--<![endif]--> </a> </div> <div role="complementary" aria-labelledby="access-nav-main"> <h1 id="access-nav-main" class="visually-hidden mobile-hide">Stores, Flyers, Account, Cart</h1> <ul id="nav-main" role="tablist"> <li> <button id="nav-depts-sml" role="tab" aria-controls="shop" aria-selected="false" class="link-button"> <span class="gicon-menu" data-menu-icon=""></span> <div class="title mobile-hide" aria-label="Shop"><span>Shop</span></div> <div class="mobile-only" aria-label="Menu"></div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-store" role="tab" aria-controls="store-locator" aria-selected="false" class="link-button"> <span class="nav-icon gicon-walmart-marker"></span> <div class="title" aria-label="Stores" data-option-title="My Store"> <span>Stores</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> <div id="store-info"> <span id="store-name"></span> <div id="my-store-hours"></div> </div> </li> <li class="mobile-hide"> <button id="nav-flyers" role="tab" aria-controls="flyers" aria-selected="false" class="link-button"> <span class="nav-icon gicon-flyer"></span> <div class="title" aria-label="Flyers"> <span>Flyers</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-account" role="tab" aria-controls="account-signin" aria-selected="false" class="link-button"> <span class="nav-icon gicon-user"></span> <div class="title" aria-label="Account"> <span class="userFirstName">Account</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-search" aria-controls="search-row" aria-selected="false" class="link-button "> <span class="nav-icon gicon-search"></span> <div class="title" aria-label="Search"> <span>Search</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-lists" role="tab" aria-controls="lists-wrap" aria-selected="false" class="link-button"> <span class="nav-icon gicon-list-heart"></span> <div class="title" aria-label="My Lists"> <span>Lists</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-cart" class="link-button" role="tab" aria-controls="mini-cart-wrap" aria-selected="false"> <span class="nav-icon gicon-shopping-cart"> <span class="nav-cart-count" data-bind="fadeVisible: sumItems() > 0, text: sumItems(), visible: sumItems() != 0"></span> </span> <div class="title" aria-label="Cart"> <span>Cart</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-only"> <a id="nav-cart-mobile" href="/cart" role="tab" aria-controls="mini-cart-wrap" aria-selected="false"> <span class="nav-icon gicon-shopping-cart"><span class="nav-cart-count" data-bind="fadeVisible: sumItems() > 0, text: sumItems(), visible: sumItems() != 0"></span></span> <div aria-label="Cart"></div> <span class="shadow-l"></span> <span class="shadow-r"></span> </a> </li> </ul> </div> </div> </div> </div> </div> <div> <div id="store-locator-partial"></div> <div id="flyers-partial"></div> <div id="account-partial"></div> <div id="my-lists-partial"></div> <div id="mini-cart-partial"></div> </div> <div id="search-row" class="nav-menu"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="row"> <nav role="navigation" aria-labelledby="nav-depts" class="wgrid-2of8 wgrid-3of12 marg-l-0 mobile-hide"> <h1> <button id="nav-depts" aria-controls="global-nav"> <span class="gicon-menu" data-menu-icon=""></span> Shop All <span class="tablet-visually-hidden">Departments</span> </button> </h1> </nav> <div id="history" class="wgrid-4of12 desktop-only"> Top categories <ul id="history-items"> <li> <a href="/en/toys/N-110?ICID=Homepage_na_TC_WM_ToysTopCategories_20151111_E_Shopall_Standard">Toys</a>
-</li> <li> <a href="/en/electronics/N-103?ICID=Homepage_na_TC_WM_ElectronicsTopCategories_20151204_E_Shopall_Standard">Electronics</a>
-</li> <li> <a href="/en/video-games/playstation-4/N-2821?ICID=Homepage_na_TC_WM_PS4TopCategories_20151214_E_Shopall_Standard">PS4</a>
-</li> <li> <a href="/en/video-games/microsoft-xbox-one/N-2820?ICID=Homepage_na_TC_WM_XboxOneTopCategories_20151214_E_Shopall_Standard">Xbox One</a>
+		</script> <script async="async" defer="defer" src="//a14.wal.co/capabilities.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="common" src="/assets/javascripts/common.js?v=083ee15"></script></head> <body class="en page-type-static og ress"> <div id="global-nav-m" class="desktop-hide nav-menu"> <div id="global-nav-m-wrap"> <div id="nav-shop-all-m" class="wgrid-4of4 wgrid-8of8 wgrid-12of12 nav-shop-all-m"> <div id="shop-all-m" class="shop-all-m mobile-hide">Shop All Departments</div> <ul id="nav-1-m" class="mobile-main-nav mobile-hide"> empty/primary-nav </ul> <ul id="nav-1-m-only" class="mobile-main-nav mobile-only"> <li> <h1 id="shop-all-m-only"> <a href="/en/shop-departments" aria-controls="shop-all" aria-selected="false" aria-label="Shop departments"> <span class="nav-icon-m gicon-shop-all"></span> Shop departments </a> </h1> </li> <li> <h1 id="nav-flyers-m-only"> <a href="http://flyers.walmart.ca" aria-controls="flyers" aria-selected="false" aria-label="Flyers"> <span class="nav-icon-m gicon-flyer"></span> Flyers </a> </h1> </li> <li> <h1 id="nav-store-m-only"> <a href="/en/store-finder" aria-controls="store-finder" aria-selected="false" aria-label="Store finder"> <span class="nav-icon-m gicon-walmart-marker"></span> Store finder </a> </h1> </li> <li> <h1 id="nav-account-m-only"> <a href="/my-account" aria-controls="account-signin" aria-selected="false" aria-label="Sign in"> <span class="nav-icon gicon-user"></span> <span class="unknownUserFirstName">Sign in</span> </a> </h1> </li> <li> <h1 id="nav-lists-m-only"> <a href="/en/shopping-list" aria-controls="lists-wrap" aria-selected="false" aria-label="Lists"> <span class="nav-icon gicon-list-heart"></span> Lists </a> </h1> </li> <li> <h1 id="nav-registries-m-only"> <a href="/en/registry" aria-controls="registries" aria-selected="false" aria-label="Registries"> <span class="nav-icon-m gicon-registries"></span> Registries </a> </h1> </li> </ul> </div> </div>
+</div> <div id="wrap"> <header id="global-header" role="banner"> <div id="nav-top"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <ul id="skiplinks"> <li><a href="#skipto-main-wrap" class="visually-hidden" tabindex="1">Skip to main</a></li> <li><a href="#skipto-main-footer" class="visually-hidden" tabindex="1">Skip to footer</a></li> </ul> <nav role="navigation" aria-labelledby="access-support"> <h1 class="visually-hidden" id="access-support">Help,Ad Choices,Français</h1> <ul id="support" class="arrow-wht"> <li> <a href="/en/help">Help</a>
+</li> <li> <a href="/en/help/legal/privacy-policy/about-our-ads">Ad Choices</a>
+</li> <li><a href="/fr/aide/juridique/politique-de-confidentialite">Français</a></li> </ul> </nav> </div> </div> </div> <div id="nav-btm"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="row"> <div id="logo-wrap" class="wgrid-2of4 wgrid-2of8 wgrid-3of12 marg-l-0"> <a href="/en" tabindex="1" aria-selected="false" aria-label="Homepage"> <!--[if lte IE 8]><img src="/assets/img/header/9361e829b90237d1186954724184b2cc-walmart-logo_en.png" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" /><![endif]--> <!--[if (gt IE 8)|(!IE)]><!--> <img src="http://a7.wal.co/assets/img/header/410afa879b5fe4ab1e6d049744fa9f80-walmart-logo_en.svg-8255da2754d1f35cc79eec5e9d71b4920156b46c" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" class="mobile-hide"> <img src="http://a7.wal.co/assets/img/header/a400a14b812bf21e273ece32d17bb2f6-walmart-logo-no-tag.svg-ddc1f24429542e5046d123965698a3f515ac2e88" alt="Online Shopping Canada - Walmart.ca" title="Walmart Canada Home. Save Money. Live Better." id="logo" width="164" height="49" class="mobile-only"> <!--<![endif]--> </a> </div> <div role="complementary" aria-labelledby="access-nav-main"> <h1 id="access-nav-main" class="visually-hidden mobile-hide">Stores, Flyers, Account, Cart</h1> <ul id="nav-main" role="tablist"> <li> <button id="nav-depts-sml" role="tab" aria-controls="shop" aria-selected="false" class="link-button"> <span class="gicon-menu" data-menu-icon=""></span> <span id="nav-main-spinner" class="loading-icon hide-svg-spinner"></span> <div class="title mobile-hide" aria-label="Shop"><span>Shop</span></div> <div class="mobile-only" aria-label="Menu"></div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-store" role="tab" aria-controls="store-locator" aria-selected="false" class="link-button"> <span class="nav-icon gicon-walmart-marker"></span> <div class="title" aria-label="Stores" data-option-title="My Store"> <span>Stores</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> <div id="store-info"> <span id="store-name"></span> <div id="my-store-hours"></div> </div> </li> <li class="mobile-hide"> <button id="nav-flyers" role="tab" aria-controls="flyers" aria-selected="false" class="link-button"> <span class="nav-icon gicon-flyer"></span> <div class="title" aria-label="Flyers"> <span>Flyers</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-account" role="tab" aria-controls="account-signin" aria-selected="false" class="link-button"> <span class="nav-icon gicon-user"></span> <div class="title" aria-label="Account"> <span class="userFirstName">Account</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-search" aria-controls="search-row" aria-selected="false" class="link-button "> <span class="nav-icon gicon-search"></span> <div class="title" aria-label="Search"> <span>Search</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-lists" role="tab" aria-controls="lists-wrap" aria-selected="false" class="link-button"> <span class="nav-icon gicon-list-heart"></span> <div class="title" aria-label="My Lists"> <span>Lists</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-hide"> <button id="nav-cart" class="link-button" role="tab" aria-controls="mini-cart-wrap" aria-selected="false"> <span class="nav-icon gicon-shopping-cart"> <span class="nav-cart-count" data-bind="fadeVisible: sumItems() > 0, text: sumItems(), visible: sumItems() != 0"></span> </span> <div class="title" aria-label="Cart"> <span>Cart</span> </div> <span class="shadow-l"></span> <span class="shadow-r"></span> </button> </li> <li class="mobile-only"> <a id="nav-cart-mobile" href="/cart" role="tab" aria-controls="mini-cart-wrap" aria-selected="false"> <span class="nav-icon gicon-shopping-cart"><span class="nav-cart-count" data-bind="fadeVisible: sumItems() > 0, text: sumItems(), visible: sumItems() != 0"></span></span> <div aria-label="Cart"></div> <span class="shadow-l"></span> <span class="shadow-r"></span> </a> </li> </ul> </div> </div> </div> </div> </div> <div> <div id="store-locator-partial"></div> <div id="flyers-partial"></div> <div id="account-partial"></div> <div id="my-lists-partial"></div> <div id="mini-cart-partial"></div> </div> <div id="search-row" class="nav-menu"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="row"> <nav role="navigation" aria-labelledby="nav-depts" class="wgrid-2of8 wgrid-3of12 marg-l-0 mobile-hide"> <h1> <button id="nav-depts" aria-controls="global-nav"> <span class="gicon-menu" data-menu-icon=""></span> <div id="nav-depts-spinner" class="loading-icon hide-svg-spinner"></div> Shop All <span class="tablet-visually-hidden">Departments</span> </button> </h1> </nav> <div id="history" class="wgrid-4of12 desktop-only"> Top categories <ul id="history-items"> <li> <a href="/en/grocery/N-117?ICID=Homepage_na_TC_WM_GroceryTopCategories_20160204_E_LearnMore_Standard">Grocery PickUp</a>
+</li> <li> <a href="/en/n-26704">Amazing Deals</a>
+</li> <li> <a href="/en/outdoor-living/swimming-pools-accessories/N-2406?ICID=Homepage_na_TC_WM_PoolsTopCategories_20160510_E_Shopall_Standard">Pools</a>
+</li> <li> <a href="/en/toys/outdoor-play/swing-sets-climbers-slides/N-2323?ICID=Homepage_na_TC_WM_SwingSetsTopCategories_20160510_E_Shopall_Standard">Swing Sets</a>
 </li> </ul> <div class="fade"></div> </div> <form class="search-form wgrid-6of8 wgrid-5of12" role="search" aria-labelledby="accessibility-global-search"> <h1 class="visually-hidden" id="accessibility-global-search">Search Walmart.ca</h1> <span class="gicon-magnifier mobile-hide"></span><input type="search" name="search-form-input" id="global-search" data-env="ta.walmartimages.ca" class="text-input" placeholder="What product are you looking for?" title="What product are you looking for?" value="" data-provide="typeahead" autocomplete="off" aria-required="true"><div class="clear-search gicon-cross-circle desktop-hide" role="button" aria-selected="false" arial-label="Clear search"></div> <button type="submit" class="btn button-submit button-companion-right mobile-hide" onclick="searchIt(this); return false;" aria-label="Begin search">Search</button> <button type="submit" class="btn-icon button-submit button-companion-right mobile-only" onclick="searchIt(); return false;"> <span aria-label="Begin search" class="gicon-magnifier"></span> </button>
-</form> </div> </div> </div> <div id="global-nav" class="nav-menu" tabindex="-1" aria-expanded="false"> <div class="row"> <ol id="nav-wrap"> empty/primary-nav </ol> </div> </div> </div>
-</header> <span id="asyncLoader" class="hide-svg-spinner"></span> <!-- main content start --> <div id="main-wrap" role="main"> <a name="skipto-main-wrap" tabindex="-1"></a> <script>window.walmart.template = "cayenne";</script> <div id="cayenne-template" class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <nav id="breadcrumb" class="breadCrumb" role="navigation" aria-labelledby="crumbs-heading"> <a name="skipto-breadcrumb" tabindex="-1"></a> <h1 class="visually-hidden" id="crumbs-heading">Current Page</h1> <input class="primary_parent_id" type="hidden" value=""> <input name="collection-id" id="collection-id" type="hidden" value=""> <ul> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="/en" class="staticCrumb home" itemprop="url" content="/en"> <span itemprop="title">Walmart.ca</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <a href="/en/help" data-analytics-type="cat" data-analytics-value="Help Centre" itemprop="url" content="/en/help"> <span itemprop="title">Help Centre</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <a href="/en/help/legal" data-analytics-type="cat" data-analytics-value="Legal" itemprop="url" content="/en/help/legal"> <span itemprop="title">Legal</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <span data-analytics-type="refinement" data-analytics-value="Privacy+Policy" itemprop="title"> Privacy Policy</span> </li> </ul> <div id="ep-crumb"> <div id="back-to-search"></div> <div id="crumb-print"><span class="arrow-rt"></span> <a href="javascript:void(0);">Print</a></div> </div> </nav> <a name="skipto-after-breadcrumb" tabindex="-1"></a> </div> <div class="zone zone1 wgrid-12of12 wgrid-8of8 wgrid-4of4"> </div> <div class="zone zone2 wgrid-2of12 wgrid-2of8 wgrid-4of4"> <span class="rich-text"> <div class="category-tree" id="help-navigation"> <ul class="l-1"> <li> <a class="link" href="/en/help"><span>Help Centre</span><span>-</span> </a> <ul class="l-2">        </ul> </li> </ul>
+</form> </div> </div> </div> <div id="global-nav" class="nav-menu" tabindex="-1" aria-expanded="false"> <div class="row"> <ol id="nav-wrap"> empty/primary-nav </ol> </div> </div> </div> <section id="headerSliverBanner" class="zone"> </section> </header> <span id="asyncLoader" class="hide-svg-spinner"></span> <!-- main content start --> <div id="main-wrap" role="main"> <a name="skipto-main-wrap" tabindex="-1"></a> <script>window.walmart.template = "cayenne";</script> <div id="cayenne-template" class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <nav id="breadcrumb" class="breadCrumb" role="navigation" aria-labelledby="crumbs-heading"> <a name="skipto-breadcrumb" tabindex="-1"></a> <h1 class="visually-hidden" id="crumbs-heading">Current Page</h1> <input class="primary_parent_id" type="hidden" value=""> <input name="collection-id" id="collection-id" type="hidden" value=""> <ul> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="/en" class="staticCrumb home" itemprop="url" content="/en"> <span itemprop="title">Walmart.ca</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <a href="/en/help" data-analytics-type="cat" data-analytics-value="Help Centre" itemprop="url" content="/en/help"> <span itemprop="title">Help Centre</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <a href="/en/help/legal" data-analytics-type="cat" data-analytics-value="Legal" itemprop="url" content="/en/help/legal"> <span itemprop="title">Legal</span> </a> </li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <span class="arrow-rt"></span> <span data-analytics-type="refinement" data-analytics-value="Privacy+Policy" itemprop="title"> Privacy Policy</span> </li> </ul> <div id="ep-crumb"> <div id="back-to-search"></div> <div id="crumb-print"><span class="arrow-rt"></span> <a href="javascript:void(0);">Print</a></div> </div> </nav> <a name="skipto-after-breadcrumb" tabindex="-1"></a> </div> <div class="zone zone1 wgrid-12of12 wgrid-8of8 wgrid-4of4"> </div> <div class="zone zone2 wgrid-2of12 wgrid-2of8 wgrid-4of4"> <span class="rich-text"> <div class="category-tree" id="help-navigation"> <ul class="l-1"> <li> <a class="link" href="/en/help"><span>Help Centre</span><span>-</span> </a> <ul class="l-2">        </ul> </li> </ul>
 </div>
 <script>
 require(["jquery"], function($) {
@@ -338,12 +206,7 @@ $(document).ready(function() {
 <div> * <a href="http://i.walmartimages.ca/img/help/wm_pharmacy_privacy_statement_en.pdf" target="_blank">Wal-Mart Canada Corp. - Pharmacy Privacy Statement</a></div>
 <div> &nbsp;</div>
 <div> * <a href="http://i.walmartimages.ca/img/help/wm_vision_privacy_statement_en.pdf" target="_blank">Wal-Mart Canada Corp. - Vision Centre Privacy Statement</a></div>
-<div> &nbsp;</div> </span> </div> <div class="zone zone4 wgrid-2of12 wgrid-6of8 wgrid-4of4 marg-r-0"> <span class="rich-text"> <style type="text/css">
-.listButtons:before {
-	background: url('')!important;
-}</style>
-<div class="link-list foldable-container"> <div class="accordion-title"> <a href="/en/help/contact-us">Contact Us</a></div> <ul class="arrow-blu mobile-hide"> <li> <a href="/en/help/contact-us">General Inquiries</a><br> <strong><a href="tel:18003280402">1-800-328-0402</a></strong></li> <li> <a href="http://www.walmartcanadafinancialservices.ca/" target="_blank">Walmart Financial Services Canada </a><br> <a href="tel:18883316133">1-888-331-6133</a></li> <li> <a href="http://www.walmartphotocentre.ca/home_splash.aspx" target="_blank">Walmart Photo Centre </a><br> <a href="tel:18887634077">1-888-763-4077</a></li> <li class="listButtons"> <a href="/en/help/contact-us"><button class="button-list full">Send us an email</button></a><br> <a href="/en/store-finder"><button class="button-list full">Contact your store</button></a></li> </ul>
-</div> </span> <div class="link-list"> <div> Most Viewed Topics </div> <ul class="arrow-blu"> <li> <a href="/en/help/order-status/track-your-order">Where's my order?</a>
+<div> &nbsp;</div> </span> </div> <div class="zone zone4 wgrid-2of12 wgrid-6of8 wgrid-4of4 marg-r-0"> <div class="link-list"> <div> Most Viewed Topics </div> <ul class="arrow-blu"> <li> <a href="/en/help/order-status/track-your-order">Where's my order?</a>
 </li> <li> <a href="/en/help/returns/return-policy">How long do I have to return an item?</a>
 </li> <li> <a href="/en/help/checkout/shipping">How much does shipping cost?</a>
 </li> <li> <a href="/en/help/checkout/shipping">How quickly does Walmart deliver?</a>
@@ -355,14 +218,11 @@ $(document).ready(function() {
 </li> <li> <a href="/en/about-walmart/charity-communities">Charity &amp; Communities</a>
 </li> <li> <a href="/en/about-walmart/sustainability">Sustainability</a>
 </li> <li> <a href="/en/about-walmart/store-services">Store Services</a>
-</li> </ul> </div> </div> </div> <div id="mystore-tooltip-template" class="wal-tooltip mystore"> <p><span class="availability"></span>:</p> <a class="store-name"></a> <p class="address"></p> <p class="city"></p> <p class="phone">Phone:<span></span></p> <div class="store-hours"> </div> <a href="#" class="store-link"><span class="arrow-blu">›</span>Store details</a> <span class="arrow-tip top"></span> </div> </div> <!-- main content end --> <div id="promo-footer" class="mobile-hide row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="html-cartridge Link"> <style type="text/css">
-@media (max-width:639px){
-	.zone2>.link-list {display:none!important}
-}
-</style>
+</li> </ul> </div> </div> </div> <div id="mystore-tooltip-template" class="wal-tooltip mystore"> <p><span class="availability"></span>:</p> <a class="store-name"></a> <p class="address"></p> <p class="city"></p> <p class="phone">Phone:<span></span></p> <div class="store-hours"> </div> <a href="#" class="store-link"><span class="arrow-blu">›</span>Store details</a> <span class="arrow-tip top"></span> </div> </div> <!-- main content end --> <div id="promo-footer" class="mobile-hide row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <div class="html-cartridge Link"> <style type="text/css">@media (max-width:639px){.zone2>.link-list {display:none!important}}</style>
 <script>
+console.log('anchor bookmark patch')
 	$(document).ready(function(){
-		walmartRequireHelpers.whenRequireDone(function(){			
+		walmartRequireHelpers.whenRequireDone(function(){
 			$('a[href*="#"], area[href*="#"]').click(function(e){
 				
 				var bookmarkName = $(this).attr('href').replace('#','');
@@ -406,7 +266,7 @@ $(document).ready(function() {
 #collection-purchase #collection_badge{left: 0 !important}
 #collection-purchase .bundle-ad-wrap{position:relative}.PIPBundleInjection h2{margin-bottom:0;padding-top:14px}.PIPBundleInjection article{margin-top:0;overflow:hidden}.PIPBundleInjection .bundleCarousel>article{width:31%;margin-right:3%;float:left}.PIPBundleInjection .bundleCarousel>article:nth-child(3n){margin-right:0}.PIPBundleInjection .viewBundle{display:block;width:100%;margin-top:10px;padding:0}.PIPBundleInjection .row.bundleInfo span{display:block;font-weight:700;letter-spacing:0}.PIPBundleInjection .row.bundleInfo span.bundlePrice{color:#167ac1;text-align:left;font-size:4.5rem;line-height:4rem;font-weight:700;margin-bottom:14px}.PIPBundleInjection .row.bundleInfo span.bundlePrice sup{top:-1rem;font-size:65%}.PIPBundleInjection .bx-pager{display:none}@media(min-width:640px) and (max-width:959px){.PIPBundleInjection .row.bundleInfo span.bundlePrice{font-size:3rem}}.CartBundleInjection{border-top:1px solid #dad9c9}.CartBundleInjection>h2{margin-top:18px;margin-bottom:0}.CartBundleInjection article{margin-top:0}.CartBundleInjection .bundleCarouselInCart .productName{width:auto;padding:0;font-size:1.5rem}.CartBundleInjection .viewBundle{display:block;width:100%;margin-top:10px;padding:0}.CartBundleInjection .row.bundleInfo{line-height:1;padding:8px 0}.CartBundleInjection .row.bundleInfo span{display:block;font-weight:700;letter-spacing:0}.CartBundleInjection .row.bundleInfo span.bundlePrice{color:#167ac1;text-align:left;font-size:4.5rem;line-height:4rem;font-weight:700;margin-bottom:14px}.CartBundleInjection .row.bundleInfo span.bundlePrice sup{top:-1rem;font-size:65%}.CartBundleInjection .bx-pager{display:none}.CartBundleInjection p.bundleBuy_disclaimer{font-size:10px}@media(min-width:640px) and (max-width:959px){.CartBundleInjection .row.bundleInfo span.bundlePrice{font-size:3rem}}
 </style> <script type="text/javascript">
-function getObjects(e,t,i){var n=[];for(var d in e)e.hasOwnProperty(d)&&("object"==typeof e[d]?n=n.concat(getObjects(e[d],t,i)):d==t&&e[d]==i||d==t&&""==i?n.push(e):e[d]==i&&""==t&&-1==n.lastIndexOf(e)&&n.push(e));return n}function checkBundleDate(e,t){var i=new Date,n=new Date(e),d=new Date(t+" 23:59:59");return i>=n&&d>=i}function bundleBuyPipInjection(e,t){var i=e.length,n="",t=walmart.context.locale;if(badgeURL="en"==t?"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png":"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_F.png",badgeHTML='<img style="position: absolute; width: 40%; z-index: 1; top: 10px; right:0" src="'+badgeURL+'">',i>0){n='<div class="PIPBundleInjection" style="display: block;"><div class="row"><h2>'+e[0].bundleCarouselTitle[t]+'</h2><div class="bundleCarousel">';for(var d=0,l=e.length;l>d;d++)n+='<article class="product"><div class="centered-img"><a href="/'+t+"/"+e[d].bundleNodeID+'"><div class="centered-img-wrap">'+badgeHTML+'<img alt="" title="" class="image" src="'+e[d].bundleImageThumb+'"></div></a></div>',n+='<div class="row bundleInfo"><span>Bundle Total:</span><span class="bundlePrice">',n+="en"==t?"<sup>$</sup>"+e[d].bundlePriceTotal:e[d].bundlePriceTotal+"<sup> $</sup>",n+='</span></div><div class="row"><a href="/'+t+"/"+e[d].bundleNodeID+'" class="button-submit viewBundle">View Bundle</a></div></article>';n+="</div></div></div>",$(".pricing-shipping").after(n),slider=$(".bundleCarousel").bxSlider({mode:"horizontal",slideWidth:170,maxSlides:i-1,slideMargin:20,infiniteLoop:!1,hideControlOnEnd:!0,controls:i>=4?!0:!1,pager:!1}),$(window).resize(function(){var e=$(window).width(),t=170;e>=960&&(t=170,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=4?!0:!1})),960>(e>=640)&&(t=($(".PIPBundleInjection").width()-40)/3,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=4?!0:!1})),640>e&&(t=($(".PIPBundleInjection").width()-20)/2,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=3?!0:!1})),$(".bundleCarousel").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%")}),$(window).resize(),$(".bundleCarousel").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%"),console.log("PIP bundle renderred")}else console.log("PIP bundle not found")}function bundleBuyCartInjection(e,t,i){$(".CartBundleInjection").remove();var n="en"==t?"Add to cart":"Ajouter à mon panier",d=e.length;d>0?$(document).ajaxComplete(function(l,a,o){if("/ws/en/cart/item"===o.url||"/ws/fr/cart/item"===o.url){$(".CartBundleInjection").remove();var r="";r+='<div class="CartBundleInjection" style="display: block;"><h2>Add these items to build a bundle</h2><div class="bundleCarouselInCart">';for(var s=0;s<e.length;s++){r+='<article class="product simplified-thumb"><div class="centered-img"><div class="centered-img-wrap"><img alt="" title="" class="image" src="'+e[s].bundleImageThumb+'"></div></div>';for(var c=[],u=0;u<e[s].bundledProduct.length;u++)i!=e[s].bundledProduct[u].productID&&c.push(e[s].bundledProduct[u].productID);r+='<div class="bundleBuy_cta"><h3 style="margin:0">Bundle Total:</h3><span class="bundlePrice price-current">',r+="en"==t?"<sup>$</sup>"+e[s].bundlePriceTotal+"</span>":e[s].bundlePriceTotal+" <sup>$</sup></span>",r+='</div><div class="row bundleInfo">',r+="en"==t?"<sup>$</sup>"+e[s].bundlePriceIfBoughtSeparately:e[s].bundlePriceIfBoughtSeparately+"<sup> $</sup>",r+=' if bought separately</div><div class="row"><button type="button" class="button add-bundle-to-cart-btn" style="display: inline-block; width: 100%;" skuID="'+c.join(",")+'">'+n+'</button><p class="bundleBuy_disclaimer">Discount will be applied at checkout</p></div></article>'}r+="</div></div>",$(".addCart-Lightbox.add-cart-confirmation #rr-wrap").before(r),sliderC=$(".bundleCarouselInCart").bxSlider({mode:"horizontal",slideWidth:173,maxSlides:d-1,slideMargin:20,infiniteLoop:!1,hideControlOnEnd:!0,controls:d>=4?!0:!1,pager:!1}),$(window).resize(function(){var e=$(window).width(),t=173;e>=960&&(t=170,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=4?!0:!1})),960>(e>=640)&&(t=($(".CartBundleInjection").width()-40)/3,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=4?!0:!1})),640>e&&(t=($(".CartBundleInjection").width()-20)/2,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=3?!0:!1})),$(".bundleCarouselInCart").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%")}),$(window).resize(),$(".bundleCarouselInCart").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%"),r="",bindAddBundleToCart()}}):console.log("Cart bundle not found")}function paintBundleBadge(e){var t=walmart.context.locale;badgeURL="en"==t?"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png":"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_F.png";var i=window.location.pathname.split("/"),n=i[i.length-1].toLowerCase();getObjects(e,"bundleNodeID",n)&&$("#collection-purchase #colprod-img").before('<img id="collection_badge" style="position: absolute; width: auto; z-index: 1; top: 0; " src="'+badgeURL+'">');for(var d=0,l=e.length;l>d;d++)for(var a=0,o=e[d].bundledProduct.length;o>a;a++)if(checkBundleDate(e[d].bundleBuyStartDate,e[d].bundleBuyEndDate)){var r=$("#thumb-"+e[d].bundledProduct[a].productID+" a .centered-img-wrap span.badge");r&&r.css("background","url(http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png) right 0 no-repeat").css("background-size","75% auto")}$(window).resize(function(){if($("#colprod-img").length>0){var e=($("#collection-purchase .bundle-ad-wrap").width(),document.getElementById("colprod-img").clientWidth),t=$(window).width();t>=960?($("#collection-purchase #collection_badge").css("left",e-84),$("#collection-purchase #collection_badge").css("right","auto")):($("#collection-purchase #collection_badge").css("right",0),$("#collection-purchase #collection_badge").css("left","auto"))}}),$(window).resize()}function bindAddBundleToCart(){$(".button.add-bundle-to-cart-btn").on("click",function(){var e=$(this).attr("skuID").split(","),t=$(this).text(),i="Add to cart"==t?"/cart":"/panier";$(this).html('<img src="/assets/img/46f3794a9c0837fb955123b46c818172-ajax-loader-white-on-green.gif" style="width:23px; margin:5px auto; float:none">'),$.each(e,function(e,t){$.ajax({type:"POST",url:"/ws/en/cart/item",data:{skuId:t,quantity:1}})}),window.location.href=i})}$(document).ready(function(){$.getJSON("http://i.walmartimages.ca/scripts/bundle-buy/json/bundles-v3-2015-12-08.min.json",function(e){var t="en",i=$("#specGroup > div").not(".hide").attr("data-sku-id"),n=[];if(""!=i){for(var d=0,l=e.length;l>d;d++)for(var a=0;a<e[d].bundledProduct.length;a++){var o=getObjects(e[d].bundledProduct[a],"productID",i);if(o.length>0){checkBundleDate(e[d].bundleBuyStartDate,e[d].bundleBuyEndDate)&&n.push(e[d]);break}}bundleBuyPipInjection(n,t)}paintBundleBadge(e),$(".button.add-to-cart-btn, .button.add-cart").click(function(){var i=$(this).parent(),n=[],d=i.find(".productID").val()?i.find(".productID").val():i.closest(".pricing-shipping").find(".productID").val();if(""==d&&(d=$("#specGroup > div").not(".hide").attr("data-sku-id")),console.log("PID:"+d),d){for(var l=0,a=e.length;a>l;l++)for(var o=0;o<e[l].bundledProduct.length;o++){var r=getObjects(e[l].bundledProduct[o],"productID",d);if(r.length>0){checkBundleDate(e[l].bundleBuyStartDate,e[l].bundleBuyEndDate)&&n.push(e[l]);break}}bundleBuyCartInjection(n,t,d)}})})});
+function getObjects(e,t,i){var n=[];for(var d in e)e.hasOwnProperty(d)&&("object"==typeof e[d]?n=n.concat(getObjects(e[d],t,i)):d==t&&e[d]==i||d==t&&""==i?n.push(e):e[d]==i&&""==t&&-1==n.lastIndexOf(e)&&n.push(e));return n}function checkBundleDate(e,t){var i=new Date,n=new Date(e),d=new Date(t+" 23:59:59");return i>=n&&d>=i}function bundleBuyPipInjection(e,t){var i=e.length,n="",t=walmart.context.locale;if(badgeURL="en"==t?"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png":"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_F.png",badgeHTML='<img style="position: absolute; width: 40%; z-index: 1; top: 10px; right:0" src="'+badgeURL+'">',i>0){n='<div class="PIPBundleInjection" style="display: block;"><div class="row"><h2>'+e[0].bundleCarouselTitle[t]+'</h2><div class="bundleCarousel">';for(var d=0,l=e.length;l>d;d++)n+='<article class="product"><div class="centered-img"><a href="/'+t+"/"+e[d].bundleNodeID+'"><div class="centered-img-wrap">'+badgeHTML+'<img alt="" title="" class="image" src="'+e[d].bundleImageThumb+'"></div></a></div>',n+='<div class="row bundleInfo"><span>Bundle Total:</span><span class="bundlePrice">',n+="en"==t?"<sup>$</sup>"+e[d].bundlePriceTotal:e[d].bundlePriceTotal+"<sup> $</sup>",n+='</span></div><div class="row"><a href="/'+t+"/"+e[d].bundleNodeID+'" class="button-submit viewBundle">View Bundle</a></div></article>';n+="</div></div></div>",$(".pricing-shipping").after(n),slider=$(".bundleCarousel").bxSlider({mode:"horizontal",slideWidth:170,maxSlides:i-1,slideMargin:20,infiniteLoop:!1,hideControlOnEnd:!0,controls:i>=4?!0:!1,pager:!1}),$(window).resize(function(){var e=$(window).width(),t=170;e>=960&&(t=170,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=4?!0:!1})),960>(e>=640)&&(t=($(".PIPBundleInjection").width()-40)/3,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=4?!0:!1})),640>e&&(t=($(".PIPBundleInjection").width()-20)/2,slider.reloadSlider({slideWidth:t,maxSlides:i-1,controls:i>=3?!0:!1})),$(".bundleCarousel").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%")}),$(window).resize(),$(".bundleCarousel").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%"),console.log("PIP bundle renderred")}else console.log("PIP bundle not found")}function bundleBuyCartInjection(e,t,i){$(".CartBundleInjection").remove();var n="en"==t?"Add to cart":"Ajouter à mon panier",d=e.length;d>0?$(document).ajaxComplete(function(l,a,o){if("/ws/en/cart/item"===o.url||"/ws/fr/cart/item"===o.url){$(".CartBundleInjection").remove();var r="";r+='<div class="CartBundleInjection" style="display: block;"><h2>Add these items to build a bundle</h2><div class="bundleCarouselInCart">';for(var s=0;s<e.length;s++){r+='<article class="product simplified-thumb"><div class="centered-img"><div class="centered-img-wrap"><img alt="" title="" class="image" src="'+e[s].bundleImageThumb+'"></div></div>';for(var c=[],u=0;u<e[s].bundledProduct.length;u++)i!=e[s].bundledProduct[u].productID&&c.push(e[s].bundledProduct[u].productID);r+='<div class="bundleBuy_cta"><h3 style="margin:0">Bundle Total:</h3><span class="bundlePrice price-current">',r+="en"==t?"<sup>$</sup>"+e[s].bundlePriceTotal+"</span>":e[s].bundlePriceTotal+" <sup>$</sup></span>",r+='</div><div class="row bundleInfo">',r+="en"==t?"<sup>$</sup>"+e[s].bundlePriceIfBoughtSeparately:e[s].bundlePriceIfBoughtSeparately+"<sup> $</sup>",r+=' if bought separately</div><div class="row"><button type="button" class="button add-bundle-to-cart-btn" style="display: inline-block; width: 100%;" skuID="'+c.join(",")+'">'+n+'</button><p class="bundleBuy_disclaimer">Discount will be applied at checkout</p></div></article>'}r+="</div></div>",$(".addCart-Lightbox.add-cart-confirmation #rr-wrap").before(r),sliderC=$(".bundleCarouselInCart").bxSlider({mode:"horizontal",slideWidth:173,maxSlides:d-1,slideMargin:20,infiniteLoop:!1,hideControlOnEnd:!0,controls:d>=4?!0:!1,pager:!1}),$(window).resize(function(){var e=$(window).width(),t=173;e>=960&&(t=170,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=4?!0:!1})),960>(e>=640)&&(t=($(".CartBundleInjection").width()-40)/3,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=4?!0:!1})),640>e&&(t=($(".CartBundleInjection").width()-20)/2,sliderC.reloadSlider({slideWidth:t,maxSlides:d-1,controls:d>=3?!0:!1})),$(".bundleCarouselInCart").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%")}),$(window).resize(),$(".bundleCarouselInCart").closest(".bx-wrapper").css("visibility","visible","!important").css("max-width","100%"),r="",bindAddBundleToCart()}}):console.log("Cart bundle not found")}function paintBundleBadge(e){var t=walmart.context.locale;badgeURL="en"==t?"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png":"http://i.walmartimages.ca/img/bundles/BundleBuy_icon_F.png";var i=window.location.pathname.split("/"),n=i[i.length-1].toLowerCase();getObjects(e,"bundleNodeID",n)&&$("#collection-purchase #colprod-img").before('<img id="collection_badge" style="position: absolute; width: auto; z-index: 1; top: 0; " src="'+badgeURL+'">');for(var d=0,l=e.length;l>d;d++)for(var a=0,o=e[d].bundledProduct.length;o>a;a++)if(checkBundleDate(e[d].bundleBuyStartDate,e[d].bundleBuyEndDate)){var r=$("#thumb-"+e[d].bundledProduct[a].productID+" a .centered-img-wrap span.badge");r&&r.css("background","url(http://i.walmartimages.ca/img/bundles/BundleBuy_icon_E.png) right 0 no-repeat").css("background-size","75% auto")}$(window).resize(function(){if($("#colprod-img").length>0){var e=($("#collection-purchase .bundle-ad-wrap").width(),document.getElementById("colprod-img").clientWidth),t=$(window).width();t>=960?($("#collection-purchase #collection_badge").css("left",e-84),$("#collection-purchase #collection_badge").css("right","auto")):($("#collection-purchase #collection_badge").css("right",0),$("#collection-purchase #collection_badge").css("left","auto"))}}),$(window).resize()}function bindAddBundleToCart(){$(".button.add-bundle-to-cart-btn").on("click",function(){var e=$(this).attr("skuID").split(","),t=$(this).text(),i="Add to cart"==t?"/cart":"/panier";$(this).html('<img src="/assets/img/46f3794a9c0837fb955123b46c818172-ajax-loader-white-on-green.gif" style="width:23px; margin:5px auto; float:none">'),$.each(e,function(e,t){$.ajax({type:"POST",url:"/ws/en/cart/item",data:{skuId:t,quantity:1}})}),window.location.href=i})}$(document).ready(function(){$.getJSON("http://i.walmartimages.ca/scripts/bundle-buy/json/bundles-v3-2016-03-24.min.json",function(e){var t="en",i=$("#specGroup > div").not(".hide").attr("data-sku-id"),n=[];if(""!=i){for(var d=0,l=e.length;l>d;d++)for(var a=0;a<e[d].bundledProduct.length;a++){var o=getObjects(e[d].bundledProduct[a],"productID",i);if(o.length>0){checkBundleDate(e[d].bundleBuyStartDate,e[d].bundleBuyEndDate)&&n.push(e[d]);break}}bundleBuyPipInjection(n,t)}paintBundleBadge(e),$(".button.add-to-cart-btn, .button.add-cart").click(function(){var i=$(this).parent(),n=[],d=i.find(".productID").val()?i.find(".productID").val():i.closest(".pricing-shipping").find(".productID").val();if(""==d&&(d=$("#specGroup > div").not(".hide").attr("data-sku-id")),console.log("PID:"+d),d){for(var l=0,a=e.length;a>l;l++)for(var o=0;o<e[l].bundledProduct.length;o++){var r=getObjects(e[l].bundledProduct[o],"productID",d);if(r.length>0){checkBundleDate(e[l].bundleBuyStartDate,e[l].bundleBuyEndDate)&&n.push(e[l]);break}}bundleBuyCartInjection(n,t,d)}})})});
 
 
 
@@ -498,7 +358,7 @@ function getObjects(e,t,i){var n=[];for(var d in e)e.hasOwnProperty(d)&&("object
 			});
 
 
-			// for cart page only
+			/* for cart page only
 			if (pageType == "cart"){
 					
 				// for cart page only
@@ -555,69 +415,63 @@ $('.crtInject, #std-threshold-shipping .sts-progress-bar-container').click(funct
 				});
 
 				$.getJSON(ajaxCart);
-			}
+			}*/
 
 		});
 	});
 
 </script>
-</div> <div class="html-cartridge css"> <style type="text/css">
-@media (max-width:639px){
-	.zone2>.media-banner.row {display:none}
-}
-</style>
-</div> <div class="html-cartridge Link"> <style>
-*{outline:0 !important}
-</style>
-</div> <div class="html-cartridge tileGen_v3"> <script>console.log("tile gen")</script>
-<style type="text/css">
-		.tileGen_wrapper{ position: relative;}
-		.tileGen_wrapper .tile{float: left}
-		.tileGen_wrapper .tile img{width: 100%}
-		.tileGen_wrapper .tile div.imgtile_title {height: 42px; padding: 0 20px; text-align: left}
-		.tileGen_wrapper .tile div{display: table; cursor: pointer; background-color: #1267a4; color: #fff; text-align: center; float: left; height: 40px;width: 100%;}
-		.tileGen_wrapper .tile div > span { display: table-cell; width: 100%; font-weight: 700; font-size: 1.4rem; padding: 0 4px; line-height: 1; vertical-align: middle;}
-		.tileGen_wrapper .tile a *:hover { opacity: .8 }
+</div> <div class="html-cartridge tileGen_v5"> <style type="text/css">
+   .tileGen_wrapper{ position: relative;}
+   .tileGen_wrapper .tile{float: left}
+   .tileGen_wrapper .tile img{width: 100%}
+   .tileGen_wrapper .tile div.imgtile_title {height: 40px; padding: 0 20px; text-align: left}
+   .tileGen_wrapper .tile div{display: table; cursor: pointer; background-color: #1267a4; color: #fff; text-align: center; float: left; height: 40px;width: 100%;}
+   .tileGen_wrapper .tile div > span { display: table-cell; width: 100%; font-weight: 500; font-size: 1.2rem; padding: 0 4px; line-height: 1.2; vertical-align: middle;}
+   .tileGen_wrapper .tile a *:hover { opacity: .8 }
 
-		.tileGen_wrapper .tile .tile_list_container {background: #f8f8f8; color: #1367a5; margin-bottom: 0;}
-		.tileGen_wrapper .tile .tile_list_container ul{list-style: none; margin-bottom: 0; width: 100%;padding: 0;}
-		.tileGen_wrapper .tile .tile_list_container ul li { background: url(http://i.walmartimages.ca/img/product-pages/tile-test/L1Tiles/divider.jpg) center bottom no-repeat; padding: 5px 0 5px 20px;  text-align: left;}
-		.tileGen_wrapper .tile .tile_list_container ul a:last-child li{background:none;}
-		.tileGen_wrapper .tile .tile_list_container ul li span.chevron_blue { background: url('data:image/png;base64,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') no-repeat -345px -8px; display: block; float: left; width: 8px; height: 9px; margin: 7px 3px 0 -10px;}
-		.tileGen_wrapper .tile div.imgtile_title span.chevron_white{background: #1367a5 url(http://i.walmartimages.ca/img/product-pages/tile-test/L1Tiles/chevron_white.png) 0 0 no-repeat; display: block; float: left; width: 8px; height: 9px; margin:3px 3px 0 -13px;}
-  
-@media all\0 { 
-.tileGen_wrapper .desktop6.tile{width: 15%; margin: 0 2% 2% 0}
-.tileGen_wrapper .desktop5.tile{width: 18%; margin: 0 2% 2% 0}
-.tileGen_wrapper .desktop4.tile{width: 23%; margin: 0 2% 2% 0}
-.tileGen_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 2% 0}
-} 
+   .tileGen_wrapper .tile .tile_list_container {background: #f8f8f8; color: #1367a5; margin-bottom: 0;}
+   .tileGen_wrapper .tile .tile_list_container ul{list-style: none; margin-bottom: 0; width: 100%;padding: 0;}
+   .tileGen_wrapper .tile .tile_list_container ul li {padding: 5px 0 5px 20px;  text-align: left;}
+   .tileGen_wrapper .tile .tile_list_container ul a:last-child li{background:none;}
+   .tileGen_wrapper .tile .tile_list_container ul li span.chevron_blue { background: url('data:image/png;base64,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') no-repeat -345px -8px; display: block; float: left; width: 8px; height: 9px; margin: 7px 3px 0 -10px;}
+   .tileGen_wrapper .tile div.imgtile_title span.chevron_white{background: transparent url(http://i.walmartimages.ca/img/product-pages/tile-test/L1Tiles/chevron_white.png) 0 0 no-repeat; display: block; float: left; width: 8px; height: 9px; margin:3px 3px 0 -13px;}
 
-		@media (min-width: 960px) {  
-		    .tileGen_wrapper .desktop6.tile{width: 15%; margin: 0 2% 2% 0}
-		    .tileGen_wrapper .desktop6.tile:nth-of-type(6n){margin-right: 0}
-		    .tileGen_wrapper .desktop5.tile{width: 18.4%; margin: 0 2% 2% 0}
-		    .tileGen_wrapper .desktop5.tile:nth-of-type(5n){margin-right: 0}
-		    .tileGen_wrapper .desktop4.tile{width: 23.5%; margin: 0 2% 2% 0}
-		    .tileGen_wrapper .desktop4.tile:nth-of-type(4n){margin-right: 0}
-		    .tileGen_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 2% 0}
-		    .tileGen_wrapper .desktop3.tile:nth-of-type(3n){margin-right: 0}
-		}
-		@media (min-width: 640px) and (max-width: 959px) {
-		    .tileGen_wrapper .tablet4.tile{width: 23.5%; margin: 0 2% 2% 0}
-		    .tileGen_wrapper .tablet4.tile:nth-of-type(4n){margin-right: 0}
-		    .tileGen_wrapper .tablet3.tile{width: 32%;   margin: 0 2% 2% 0}
-		    .tileGen_wrapper .tablet3.tile:nth-of-type(3n){margin-right: 0}
-		    .tileGen_wrapper .tablet2.tile{width:48.7%; margin:0 2.5% 2% 0}
-		    .tileGen_wrapper .tablet2.tile:nth-of-type(2n){margin-right: 0}
-		}
-		@media (max-width: 639px) {
-		    .tileGen_wrapper .mobile3.tile{width: 32%;   margin: 0 2% 2% 0}
-		    .tileGen_wrapper .mobile3.tile:nth-of-type(3n){margin-right: 0}
-		    .tileGen_wrapper .mobile2.tile{width:48.7%; margin:0 2.5% 2% 0}
-		    .tileGen_wrapper .mobile2.tile:nth-of-type(2n){margin-right: 0}
-		}
-	</style> <script type="text/javascript">
+   @media all\0 { 
+   .tileGen_wrapper .desktop6.tile{width: 15%; margin: 0 2% 24px 0}
+   .tileGen_wrapper .desktop5.tile{width: 17.95%; margin: 0 2.5625% 24px 0}
+   .tileGen_wrapper .desktop4.tile{width: 23.176%; margin: 0 2.432% 24px 0}
+   .tileGen_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 24px 0}
+    .tileGen_wrapper .desktop2.tile{width: 46.616%; margin:0 6.768% 24px 0}
+   } 
+
+   @media (min-width: 960px) {  
+       .tileGen_wrapper .desktop6.tile{width: 15%; margin: 0 2% 24px 0}
+       .tileGen_wrapper .desktop6.tile:nth-of-type(6n){margin-right: 0}
+       .tileGen_wrapper .desktop5.tile{width: 17.95%; margin: 0 2.5625% 24px 0}
+       .tileGen_wrapper .desktop5.tile:nth-of-type(5n){margin-right: 0}
+       .tileGen_wrapper .desktop4.tile{width: 23.176%; margin: 0 2.432% 24px 0}
+       .tileGen_wrapper .desktop4.tile:nth-of-type(4n){margin-right: 0}
+       .tileGen_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 24px 0}
+       .tileGen_wrapper .desktop3.tile:nth-of-type(3n){margin-right: 0}
+    .tileGen_wrapper .desktop2.tile{width: 46.616%; margin:0 6.768% 24px 0}
+       .tileGen_wrapper .desktop2.tile:nth-of-type(2n){margin-right: 0}
+   }
+   @media (min-width: 640px) and (max-width: 959px) {
+       .tileGen_wrapper .tablet4.tile{width: 22.578%; margin: 0 3.227% 24px 0}
+       .tileGen_wrapper .tablet4.tile:nth-of-type(4n){margin-right: 0}
+       .tileGen_wrapper .tablet3.tile{width: 32%;   margin: 0 2% 24px 0}
+       .tileGen_wrapper .tablet3.tile:nth-of-type(3n){margin-right: 0}
+       .tileGen_wrapper .tablet2.tile{width: 48.7%; margin:0 2.5% 24px 0}
+       .tileGen_wrapper .tablet2.tile:nth-of-type(2n){margin-right: 0}
+   }
+   @media (max-width: 639px) {
+       .tileGen_wrapper .mobile3.tile{width: 32%;   margin: 0 2% 24px 0}
+       .tileGen_wrapper .mobile3.tile:nth-of-type(3n){margin-right: 0}
+       .tileGen_wrapper .mobile2.tile{width: 48.7%; margin:0 2.5% 24px 0}
+       .tileGen_wrapper .mobile2.tile:nth-of-type(2n){margin-right: 0}
+   }
+</style> <script type="text/javascript">
 
 $(document).ready(function() {
  	$(window).resize(function(){
@@ -656,10 +510,210 @@ $(document).ready(function() {
 	$(window).resize();
  });
 	
+</script> <script>console.log("tile gen v6")</script> <style type="text/css">
+	   .tileGenV2_wrapper{ position: relative; display: block !important;}
+	   .tileGenV2_wrapper .tile{float: left; overflow: hidden;}
+	   .tileGenV2_wrapper .tile img{width: 100%}
+	   .tileGenV2_wrapper .tile article{height: 150px; width: 100%; background-size: auto 100% !important; background-repeat: no-repeat; background-position: center center}
+	   .tileGenV2_wrapper .tile.lifestyle_image article{background-size: cover !important;}
+	   .tileGenV2_wrapper .tile article h3{text-indent: -9999px}
+	   .tileGenV2_wrapper .tile div.imgtile_title {height: 40px; padding: 0 20px; text-align: left}
+	   .tileGenV2_wrapper .tile div{display: table; cursor: pointer; background-color: #1267a4; color: #fff; text-align: center; float: left; height: 40px;width: 100%;}
+	   .tileGenV2_wrapper .tile div > span { display: table-cell; width: 100%; font-weight: 500; font-size: 1.2rem; padding: 0 4px; line-height: 1.2; vertical-align: middle;}
+	   .tileGenV2_wrapper .tile a *:hover { opacity: .8 }
+
+	   .tileGenV2_wrapper .tile .tile_list_container {background: #f8f8f8; color: #1367a5; margin-bottom: 0;}
+	   .tileGenV2_wrapper .tile .tile_list_container ul{list-style: none; margin-bottom: 0; width: 100%;padding: 0;}
+	   .tileGenV2_wrapper .tile .tile_list_container ul li {padding: 5px 0 5px 20px;  text-align: left;}
+	   .tileGenV2_wrapper .tile .tile_list_container ul a:last-child li{background:none;}
+	   .tileGenV2_wrapper .tile .tile_list_container ul li span.chevron_blue { background: url('data:image/png;base64,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') no-repeat -345px -8px; display: block; float: left; width: 8px; height: 9px; margin: 7px 3px 0 -10px;}
+	   .tileGenV2_wrapper .tile div.imgtile_title span.chevron_white{background: transparent url(http://i.walmartimages.ca/img/product-pages/tile-test/L1Tiles/chevron_white.png) 0 0 no-repeat; display: block; float: left; width: 8px; height: 9px; margin:3px 3px 0 -13px;}
+
+	   @media all\0 { 
+	   .tileGenV2_wrapper .desktop6.tile{width: 15%; margin: 0 2% 24px 0}
+	   .tileGenV2_wrapper .desktop5.tile{width: 17.95%; margin: 0 2.5625% 24px 0}
+	   .tileGenV2_wrapper .desktop4.tile{width: 23.078%; margin: 0 2.56266% 24px 0}
+	   .tileGenV2_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 24px 0}
+	   .tileGenV2_wrapper .desktop2.tile{width: 46.616%; margin:0 6.768% 24px 0}
+	   .tileGenV2_wrapper.eightCol .desktop4.tile{width: 22.578%; margin: 0 3.226% 24px 0}
+	   } 
+
+	   @media (min-width: 960px) {  
+	       .tileGenV2_wrapper .desktop6.tile{width: 15%; margin: 0 2% 24px 0}
+	       .tileGenV2_wrapper .desktop6.tile:nth-of-type(6n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .desktop5.tile{width: 17.95%; margin: 0 2.5625% 24px 0}
+	       .tileGenV2_wrapper .desktop5.tile:nth-of-type(5n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .desktop4.tile{width: 23.078%; margin: 0 2.56266% 24px 0}
+	       .tileGenV2_wrapper .desktop4.tile:nth-of-type(4n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .desktop3.tile{width: 32%;   margin: 0 2% 24px 0}
+	       .tileGenV2_wrapper .desktop3.tile:nth-of-type(3n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .desktop2.tile{width: 46.616%; margin:0 6.768% 24px 0}
+	       .tileGenV2_wrapper .desktop2.tile:nth-of-type(2n){margin-right: 0 !important}
+	   		.tileGenV2_wrapper.eightCol .desktop4.tile{width: 22.578%; margin: 0 3.226% 24px 0}
+	   }
+	   @media (min-width: 640px) and (max-width: 959px) {
+	       .tileGenV2_wrapper .tablet4.tile{width: 22.578%; margin: 0 3.227% 24px 0}
+	       .tileGenV2_wrapper .tablet4.tile:nth-of-type(4n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .tablet3.tile{width: 30.476%; margin: 0 4.286% 24px 0}
+	       .tileGenV2_wrapper .tablet3.tile:nth-of-type(3n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .tablet2.tile{width: 47.33%; margin:0 5.34% 24px 0}
+	       .tileGenV2_wrapper .tablet2.tile:nth-of-type(2n){margin-right: 0 !important}
+	   }
+	   @media (max-width: 639px) {
+	       .tileGenV2_wrapper .mobile3.tile{width: 32%;   margin: 0 2% 24px 0}
+	       .tileGenV2_wrapper .mobile3.tile:nth-of-type(3n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .mobile2.tile{width: 47.33%; margin:0 5.34% 24px 0}
+	       .tileGenV2_wrapper .mobile2.tile:nth-of-type(2n){margin-right: 0 !important}
+	       .tileGenV2_wrapper .tile div > span {line-height: 1;}
+	   }
+
+	   @media (min-width: 960px) and (max-width: 1169px){
+	   		.tileGenV2_wrapper .desktop5.tile article{height: 122px;}
+	   		.tileGenV2_wrapper.eightCol .desktop4.tile article{height: 122px;}
+	   }
+	   @media (min-width: 640px) and (max-width: 748px){
+	   		.tileGenV2_wrapper .tablet3.tile article{height: 116px;}
+	   }
+	   @media (max-width: 370px){
+	   		.tileGenV2_wrapper .mobile2.tile article{height: 130px;}
+	   }
+	</style> <style type="text/css">
+  .tileGenV2_wrapper .toggle-button {width:100%; margin-top: 12px; padding-top: 7px;padding-bottom: 7px; background: none;border: 1px solid #CCC; font-size: 14px; color: #1267a4; border-radius: 4px; font-weight: 500; margin-bottom: 30px;}
+  .tileGenV2_wrapper .toggle-button span.chevron_blue { background: url('data:image/png;base64,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') no-repeat -345px -8px; display: inline-block; float: none; width: 8px; height: 9px; margin: 7px 3px 0 -10px;}
+  @media (min-width: 960px){
+    .tileGenV2_wrapper .toggle-button{display: none;}
+  }
+  @media (min-width: 640px) and (max-width: 959px) {
+    .tileGenV2_wrapper .tile.collapsed-t{display: none}
+    .tileGenV2_wrapper .tile.collapsed-t.open-visible{display: block;}
+  }
+  @media (max-width: 639px){
+    .tileGenV2_wrapper .tile.collapsed-m{display: none}
+    .tileGenV2_wrapper .tile.collapsed-m.open-visible{display: block;}
+  }
+</style> <script type="text/javascript">
+
+$(document).ready(function() {
+
+ 	$(window).resize(function(){
+		$('.tileGenV2_wrapper').each(function(){
+			var maxHeight = 1; 
+			var $$ = $(this),
+				$tile = $$.find('.tile');
+			var $tileLists = $$.find('.tile_list_container');
+
+			$tileLists.removeAttr('style');
+
+			if( $tileLists.length > 0) {
+				$tileLists.each(function(){
+					if(maxHeight <= $(this).height()) {
+						maxHeight = $(this).height();
+						if($$.find('.tile_list_container.tallest').length == 0) {
+							$(this).addClass('tallest');
+						} else {
+							$tileLists.removeClass('tallest');
+							$(this).addClass('tallest');
+						}
+					}
+
+				})
+
+			
+				$tileLists.each(function(){
+					if(!$(this).hasClass('tallest')){
+						$(this).css('min-height', maxHeight+'px');
+					}
+				})
+			}
+		})
+	})
+
+	$(window).resize();
+
+  var lang = walmart.context.locale;
+
+  collapsibleTileFn = {
+
+    default_button_text: {"view_more": {"en": "View More","fr": "Voir plus"},"view_less": {"en": "View Less","fr": "Voir moins"}},
+
+    default_visible_tile: {"t":3, "m": 2},
+
+    button_template: '<button class="toggle-button btn btn-inverse" type="button" data-attr="view-more"><span class="chevron_blue"></span>%BUTTON_TEXT_MASK%</button>',
+
+    init: function() {
+      var self = this;
+
+      $('.tileGenV2_wrapper[data-collapse="1"]').each(function() {
+        var $this = $(this);
+        var button_text = collapsibleTileFn.default_button_text;
+        var visible_tile = collapsibleTileFn.default_visible_tile;
+        var tile_count = $this.find('.tile').length;
+        var id = $this.attr('id');
+
+        // Construct toggle button if not found
+        if($this.find('.toggle-button').length == 0 ) {
+          // over write default button text if found in attribute
+          if($this.attr("data-button-text")) {
+            button_text = $.extend({}, collapsibleTileFn.default_button_text, $.parseJSON($this.attr("data-button-text")));
+          }
+          $this.append(collapsibleTileFn.button_template.replace(/%.*%/g, button_text.view_more[lang]));
+        }
+
+        // over write default visible tile configuration
+        if($this.attr("data-visible-tile")) 
+          visible_tile = $.extend({}, collapsibleTileFn.visible_tile, $.parseJSON($this.attr("data-visible-tile")));
+
+        
+        // assign class to tiles need to collapse based on visible_tile configuration 
+        $(window).resize(function(){
+          var windowWidth = $(window).innerWidth();
+          if (visible_tile.t <= tile_count && visible_tile.m <= tile_count) {
+            if(windowWidth <= 639) {
+              $this.find('.tile').slice(visible_tile.m, tile_count).addClass('collapsed-m');
+            } else if(windowWidth <= 959) {
+              $this.find('.tile').slice(visible_tile.t, tile_count).addClass('collapsed-t');
+            } else {
+              $this.find('.tile').removeClass('collapsed-t').removeClass('collapsed-m');
+            }
+          }
+        });
+
+        $(window).resize();
+
+        collapsibleTileFn.bindButton(id, button_text);
+      })
+    },
+
+    bindButton: function(id, button_text) { 
+
+      $('#'+ id +' .toggle-button').on('click', function() {
+        var $this = $(this), 
+          $wrapper = $this.parent('.tileGenV2_wrapper'),
+          buttonStatus = $this.attr('data-attr');
+
+        
+        if( buttonStatus == 'view-more' ) {
+          $this.parent().find('.tile').addClass('open-visible');
+          $this.attr('data-attr','view-less').html('<span class="chevron_blue"></span>' + button_text.view_less[lang] );
+        } else {
+          $this.parent().find('.tile.open-visible').removeClass('open-visible');
+          $this.attr('data-attr','view-more').html('<span class="chevron_blue"></span>' + button_text.view_more[lang] );
+          $(window).scrollTop($this.parent().offset().top - 20);
+        }
+      })
+    }
+  }
+
+  collapsibleTileFn.init();
+ });
+	
 </script>
 </div> <div class="html-cartridge casd31_my_account"> <script>
 function setPulldown(){try{document.querySelectorAll("#account-partial .quick-create-account-form")[0].appendChild(document.createElement("span")).setAttribute("id","casd31_pulldown"),document.querySelector("#casd31_pulldown").style.position="relative",document.querySelector("#casd31_pulldown").style.display="inline-block",document.querySelector("#casd31_pulldown").style.marginBottom="1rem",document.querySelector("#casd31_pulldown").parentNode.insertBefore(document.querySelector("#casd31_pulldown"),document.querySelectorAll(".quick-create-account-form fieldset")[0]),document.querySelector("#casd31_pulldown").innerHTML=tooltip}catch(e){}}console.log("CASD-31 - My Account added Features");var tp_label="en"==walmart.context.locale?"Have you checked out as a guest before?":"Êtes-vous déjà passé à la caisse à titre d'invité?",tp_block="en"==walmart.context.locale?"When creating an account, make sure to use the same email address from your guest checkout. Once your account is created, you will be able to make returns and view or modify the orders you placed as guest.":"Lorsque vous créez un compte, assurez-vous d'utiliser la même adresse de courriel que lorsque vous êtes passé à la caisse à titre d'invité. Une fois que votre compte sera créé, vous pourrez effectuer des retours et consulter ou modifier les commandes que vous avez passées comme invité.",tooltip='<b style="border-bottom: 1px dotted #5f7279; cursor: pointer;">'+tp_label+'</b><span class="wal-tooltip" style="display: none; right: 0; bottom: 10px; cursor:pointer"><b></b><span>'+tp_block+'</span><span class="button-text-like gicon-cross" title="Close" style="position: absolute; top: 0; right: 0; margin-right: .5rem;"></span><span class="arrow-tip"></span></span>';if($("#nav-account").click(function(){setTimeout(setPulldown,700)}),$("#global-header #account-partial").on("click","#casd31_pulldown",function(){$("#casd31_pulldown .wal-tooltip").toggle("fast")}),"my-account"==walmart.context.pageType){try{var logoutText="en"==walmart.context.locale?"Sign Out":"Fermer la session";document.querySelector("ul.nav-list.marg-b-1unit").appendChild(document.createElement("li")).setAttribute("id","casd31_signout"),document.querySelector("#casd31_signout").innerHTML='<a href="/ws/secure/en/sign-out">'+logoutText+"</a>"}catch(e){}if(null!=document.querySelector("#orderId")){var myAct_text="en"==walmart.context.locale?"<b>Good to know:</b><br>It takes Walmart.ca 15 minutes to process a return and to make the update in your account. If you plan on returning more than one item, please wait 15 minutes after creating your first return request to submit another return request.":"<b>Bon à savoir :</b>La durée du processus de retour et de mise à jour de votre compte est de 15 minutes dans Walmart.ca. Si vous souhaitez retourner plusieurs articles, veuillez attendre 15 minutes entre chaque demande de retour.<br>";try{document.querySelector(".order-info-message").appendChild(document.createElement("p")).setAttribute("id","casd31_myAccount"),document.querySelector("#casd31_myAccount").innerHTML=myAct_text}catch(e){}}try{document.querySelector("#sign-in-page-form-wrap .quick-create-account-form").appendChild(document.createElement("span")).setAttribute("id","casd31_page"),document.querySelector("#casd31_page").style.position="relative",document.querySelector("#casd31_page").parentNode.insertBefore(document.querySelector("#casd31_page"),document.querySelector("#sign-in-page-form-wrap .quick-create-account-form fieldset")),document.querySelector("#casd31_page").innerHTML=tooltip,$("#casd31_page").click(function(){$(".wal-tooltip",this).toggle("fast")})}catch(e){}}
 </script>
+</div> <div class="html-cartridge Link"> <style>
+*{outline:0 !important}
+</style>
 </div> <div class="html-cartridge casd52"> <script>
 (function() {
 console.log('CASD-52 - Embedded refresh script');
@@ -719,10 +773,11 @@ console.log('CASD-52 - Embedded refresh script');
 	}
 })();
 </script>
-</div> <div class="html-cartridge CASD45"> <script>
-console.log('CASD-45 - Guest user slot booking');
-require(["jquery","global/models/cart-models"],function(o,t){o(document).ready(function(){o(".persistent-cart-slot").length>0&&null===o.cookie("DYN_USER_ID.ro")&&o.ajax({url:"/ws/en/cart"}).done(function(o){commonCart.cartViewModel.slotComp(new t.SlotComponents(o.slot.slotId,o.slot.slotdate,o.slot.startTime,o.slot.endTime,o.slot.deliveryType,o.slot.location,o.slot.slotExpirationTime,o.slot.price))})})});
-</script>
+</div> <div class="html-cartridge css"> <style type="text/css">
+@media (max-width:639px){
+	.zone2>.media-banner.row {display:none}
+}
+</style>
 </div> <div class="html-cartridge Link"> <style type="text/css">
 #rr-wrap .media-banner { display: none;}
 </style>
@@ -739,22 +794,6 @@ console.log('delete menu caching');
   }
 });
 </script>
-</div> <div class="html-cartridge PATCH"> <script>
-// fix GH and PS4 to remove non-specific lang bundle
-$(document).ready(function() {
-	console.log('fix ps4 bundle')
-	if (walmart.context.productId == "6000195451206" || walmart.context.productId == "6000192929687" || walmart.context.productId == "6000192929687"){
-		$('#wrap').before('<style>.bundleCarousel article:first-child {display:none;}</style>')
-	}
-
-	// english Destiny
-	if (walmart.context.productId == "6000194483992" && walmart.context.pageType == "pip"){
-		var CrrctURL = walmart.context.locale == "en" ? "/"+walmart.context.locale+"/n-26991" : "/"+walmart.context.locale+"/n-26988" ;
-		$('.bundleCarousel article .centered-img a').attr('href', CrrctURL)
-	}
-
-});
-</script>
 </div> <span class="rich-text"> <script>
 require( ["jquery"],function($) {
      $(window).load(function() {
@@ -762,25 +801,16 @@ require( ["jquery"],function($) {
           $('#tippy-top').addClass('tippyTopOpen');
      });
 });
-</script> </span> <div class="html-cartridge Link"> <style type="text/css">
-.category-tree a {padding: .41rem 0 .38rem;}
-</style> <script>
-// for english
-require(["jquery"],function($) {
-	$(document).ready(function() {	
-		
-		var langPos = window.location.search.indexOf("lang=F"); // find lang position
-		var lang = window.location.search.substr((langPos), 6); // traverse and get language preference.
-	
-		if (lang=='lang=F'){
-			$('link').each(function(){		
-				if ($(this).prop('hreflang')=="fr"){
-					window.location.replace($(this).prop('href')+window.location.search);
-				}
-			});	
-		}
-		
-	});
+</script> </span> <div class="html-cartridge Link"> <script>
+ require(["jquery"], function($) {
+ 
+	$(document).ready(function() {
+		$('#nav-flyers').on('click',function(){
+			 if($('#newflyerimg').length < 1){
+				$('.wishabi').after('<div class="wgrid-4of4 wgrid-4of8 wgrid-4of12" id="newflyerimg"><a href="/en/grocery"> <img contentheight="0" contentwidth="0" class="marg-l-0" src="http://i.walmartimages.ca/img/homepage/test/2016/mobile-homepage/CUS_WMS_GHSPickUp_20160428_E.jpg" title="Grocery Pickup" alt="Grocery Pickup" ></a></div>');
+			}
+		});
+    });
 });
 </script>
 </div> <div class="html-cartridge Link"> <style>
@@ -799,45 +829,10 @@ require(["jquery"],function($) {
 })
 </script>
 </div> <div class="html-cartridge Link"> <script></script>
-</div> <div class="html-cartridge shippingDown"> <script>
-require(["jquery"],function($) {
-	$(document).ready(function() {
-
-		if (walmart.context.pageType=="pip"){
-
-			$('.statuses .shipping-alert .edd a, .statuses .shipping-alert .edd button').click(function(){
-
-				$('.statuses').bind("DOMSubtreeModified", function(){
-					console.log('waiting for shipping to appear');
-
-					if ($('.edd-pricing').length == 1){
-						// find if free shipping exists
-
-						var searchText = walmart.context.locale == "en" ? "Free standard shipping" : "Expédition standard sans frais" ;
-						//console.log(searchText);
-
-						if ($('.edd-pricing .msg:contains("'+searchText+'")').length == 1){
-							$('.edd-pricing .msg:contains("'+searchText+'")').parent().remove();
-						}
-
-						console.log('unbinding status')
-						$('.statuses').unbind('DOMSubtreeModified');
-					}
-
-				}); // bind
-
-			});
-		}
-	});
-});
-
-</script>
-<style type="text/css">
-	.free-shipping.gicon-delivery-truck {display:none;}
-</style>
 </div> <div class="html-cartridge Link"> <style>
 nav#guided-navigation{margin-bottom:24px}
 </style>
+</div> <div class="html-cartridge Link"> <style>img[src*="hlserve"]{display:none !important}</style>
 </div> </div> </div> <div id="global-footer"> <div id="main-footer" class="row"> <a name="skipto-main-footer" tabindex="-1"></a> <nav role="navigation" aria-labelledby="access-footer"> <h1 class="visually-hidden" id="access-footer"></h1> <div class="column wgrid-4of4 wgrid-8of8 wgrid-3of12"> <span class="rich-text"> <style type="text/css">
 @media (max-width:939px){
     #CUS_WM_Holiday-Footer{
@@ -846,10 +841,9 @@ nav#guided-navigation{margin-bottom:24px}
 }</style> </span> <div class="link-list"> <div> Can we help? </div> <ul class="arrow-blu"> <li> <a href="/en/help">Help Centre</a>
 </li> <li> <a href="https://www.walmart.ca/order-lookup">Track Your Order</a>
 </li> <li> <a href="/en/help/checkout/shipping">Shipping Options</a>
-</li> <li> <a href="/en/help/returns/return-policy">Return Policy</a>
+</li> <li> <a href="/en/help/returns">Return Centre</a>
 </li> <li> <a href="/en/help/products/pricing">Pricing</a>
 </li> <li> <a href="/en/help/legal/web-accessibility">Web Accessibility</a>
-</li> <li> <a href="/en/help/contact-us">Contact Us</a>
 </li> </ul> </div> <div class="link-list"> <div> Walmart Rewards MasterCard </div> <ul class="arrow-blu"> <li> <a href="http://www.walmart.ca/en/financial-services/walmart-rewards-mastercard">Learn more</a></li> </ul> </div> <span class="rich-text"> <style type="text/css">
 #global-footer .wmCCard {
 	background: url('//i.walmartimages.ca/img/global/footer/wm_creditcard.jpg') no-repeat;
@@ -861,15 +855,16 @@ list-style: none;
 	margin-left: 15px;
 }</style>
 <div class="desktop-only"> <ul> <li class="wmCCard"> <a href="https://www.walmart.ca/en/financial-services/walmart-rewards-mastercard">&nbsp;</a></li> </ul>
-</div> </span> </div> <div class="column wgrid-4of4 wgrid-8of8 wgrid-3of12"> <div class="link-list"> <div> Flyers &amp; More </div> <ul class="arrow-blu"> <li> <a href="http://flyers.walmart.ca/?locale=en">Store Flyer</a></li> <li> <a href="/en/N-11+31">Rollbacks</a>
+</div> </span> </div> <div class="column wgrid-4of4 wgrid-8of8 wgrid-3of12"> <div class="link-list"> <div> Flyers &amp; More </div> <ul class="arrow-blu"> <li> <a href="/flyer">Store Flyer</a></li> <li> <a href="/en/N-11+31">Rollback</a>
 </li> <li> <a href="/en/N-11+32">Clearance</a>
 </li> <li> <a href="/en/N-82002">New Arrivals</a>
 </li> <li> <a href="/en/coupons">Coupons</a>
 </li> <li> <a href="http://www.walmartlivebetter.ca/">Walmart Live Better Magazine</a></li> <li> <a href="/en/shopping-list">Lists</a>
+</li> <li> <a href="/en/grocery">Grocery PickUp</a>
 </li> </ul> </div> <div class="link-list"> <div> Services </div> <ul class="arrow-blu"> <li> <a href="/en/financial-services">Financial Services</a></li> <li> <a href="http://www.walmart.ca/en/financial-services/walmart-rewards-mastercard">Walmart Rewards MasterCard</a>
 </li> <li> <a href="https://www.walmartfinancialservices.ca/WMC_Consumer/Login.do?LAN=en&amp;promoCode=WMCE">Manage Walmart Rewards MasterCard Account</a></li> <li> <a href="http://www.walmart.ca/en/financial-services/money-transfers">Money Transfers</a>
 </li> <li> <a href="http://www.walmart.ca/financial-services/product-protection">Product Protection Plan</a></li> </ul> </div> </div> <div class="column wgrid-4of4 wgrid-8of8 wgrid-3of12"> <div class="link-list"> <div> About Us </div> <ul class="arrow-blu"> <li> <a href="http://www.walmartcanada.ca/about-us">About Walmart</a>
-</li> <li> <a href="http://www.walmartcanada.ca/careers">Careers</a>
+</li> <li> <a href="http://careers.walmart.ca">Careers</a>
 </li> <li> <a href="http://www.walmartcanada.ca/community">Charity &amp; Communities</a>
 </li> <li> <a href="http://www.walmartcanada.ca/article/sustainability">Sustainability</a>
 </li> <li> <a href="/en/about-walmart/store-services">Store Services</a>
@@ -879,7 +874,7 @@ list-style: none;
          padding:12px 0;
     }
 }</style>
-<div class="link-list" id="mailing-address-footer"> <h3> <span style="font-size:18px;">Mailing Address</span></h3> <div> <em>&nbsp; &nbsp; &nbsp;Wal-Mart Canada Corp.</em></div> <div> <em>&nbsp; &nbsp; &nbsp;1940 Argentia Road</em></div> <div> <em>&nbsp; &nbsp; &nbsp;Mississauga, ON &nbsp;L5N 1P9</em></div> <div> <em>&nbsp; &nbsp; &nbsp;Customer Service: <a href="tel:18003280402">1 (800) 328-0402</a></em></div>
+<div class="link-list" id="mailing-address-footer"> <h3> <span style="font-size:18px;">Mailing Address</span></h3> <div> <em>&nbsp; &nbsp; &nbsp;Wal-Mart Canada Corp.</em></div> <div> <em>&nbsp; &nbsp; &nbsp;1940 Argentia Road</em></div> <div> <em>&nbsp; &nbsp; &nbsp;Mississauga, ON &nbsp;L5N 1P9</em></div>
 </div>
 <p> &nbsp;</p> </span> </div> <div class="column wgrid-4of4 wgrid-8of8 wgrid-3of12"> <div class="row"> <div class="html-cartridge Email Sign-Up HTML &amp; CSS"> <style type="text/css">
 .footerEmailText {
@@ -908,9 +903,9 @@ list-style: none;
 </div>
 </div> <span class="rich-text"> <div class="wgrid-4of8 marg-l-0"> <section id="footer-stayintouch"> <h2> Connect with Us</h2> <p> Connect with us on your favourite social networks. We’ll let you know what we’re up to, and you can tell us how we’re doing.</p> <ul> <li> <a href="http://www.facebook.com/walmartcanada" id="facebook-btn" target="_blank">Facebook</a></li> <li> <a href="http://twitter.com/@walmartcanada" id="twitter-btn" target="_blank">Twitter</a></li> <li> <a href="http://pinterest.com/walmartcanada/" id="pinterest-btn" target="_blank">Pinterest</a></li> <li> <a class="last" href="https://plus.google.com/+walmartcanada" id="googleplus-btn" target="_blank">Google Plus</a></li> </ul> </section>
 </div> </span> <div class="html-cartridge mBox_container"> <div style="display:none; background:#f00; width:20px; height:20px"></div>
-</div> </div> </div> </nav> </div> <div id="legal-footer" role="contentinfo" aria-labelledby="access-legal"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <h1 class="visually-hidden" id="access-legal"> Terms of Use, Privacy Policy, Copyright © Walmart 2015 </h1> <ul class="arrow-wht"> <li> <a href="/en/help/legal/terms-of-use">Terms of Use</a>
+</div> </div> </div> </nav> </div> <div id="legal-footer" role="contentinfo" aria-labelledby="access-legal"> <div class="row"> <div class="wgrid-4of4 wgrid-8of8 wgrid-12of12"> <h1 class="visually-hidden" id="access-legal"> Terms of Use, Privacy Policy, Copyright © Walmart 2016 </h1> <ul class="arrow-wht"> <li> <a href="/en/help/legal/terms-of-use">Terms of Use</a>
 </li> <li> <a href="/en/help/legal/privacy-policy">Privacy Policy</a>
-</li> <li> <a href="/en/help/legal">Copyright © Walmart 2015</a>
+</li> <li> <a href="/en/help/legal">Copyright © Walmart 2016</a>
 </li> </ul> </div> </div> </div> </div> <iframe name="et-subscription-ifrm" id="et-subscription-ifrm" class="hide"></iframe> </div> <script type="text/html" id="fancy-price-template">
 	
 		<!-- ko if : $data < 1 -->
@@ -944,9 +939,7 @@ list-style: none;
 	
 </script> <script type="text/html" id="add-to-cart-modal-template">
 	<!--ko if: skuId==$root.lastSkuId()-->
-	<!--ko if: $root.mediaBannerTop -->
-	<div class="cart-modal-banner-top" data-bind="html: $root.mediaBannerTop"></div>
-	<!-- /ko -->
+	<div id="cart-modal-banner-top" data-bind="template: { name:'add-to-cart-media-banner-template', foreach: $root.mediaBannerTop }"></div>
 	<h3 id="ac-title" class="gicon-check-circle">Successfully updated <a href='/cart'>your cart</a>.</h3>
 	<div class="img-wrapper"><img id="ac-img" data-bind="attr: {src: imageUrl, alt: title}" /></div>
 	<ul id="ac-details">
@@ -982,21 +975,33 @@ list-style: none;
 		</li>
 	</ul>
 	<div id="ac-ctas">
-		<a class="button" data-bind="css: {'disabled': $root.allowCheckout()}, attr: {href: ($root.allowCheckout() ? 'javascript: void(0);' : 'https://www.walmart.ca/checkout')}">Check out</a>
+		<a class="button" data-bind="css: {'disabled': $root.disableCheckout()}, attr: {href: ($root.disableCheckout() ? 'javascript: void(0);' : 'https://www.walmart.ca/checkout')}">Check out</a>
 		<a href="JavaScript:void(0);" data-bind="click: $root.closeModal" class="button-list close">Continue shopping</a>
 		<!--// do not remove
 		// '<button type='button' class='button-list add-to-list-btn'>Add to List</button>'+-->
 
 	</div>
 	<div id="std-threshold-shipping" class="sts-a2c" data-bind="visible: $root.showStdThresholdShippingBar(), template: {name: 'std-threshold-shipping-template', data: $root}"></div>
-	<!--ko if: $root.mediaBannerBottom -->
-	<div class="cart-modal-banner-bottom" data-bind="html: $root.mediaBannerBottom"></div>
-	<!-- /ko -->
-	<div id="rr-wrap"><p id="loader"></p></div>
+	<div id="cart-modal-banner-top" data-bind="template: { name:'add-to-cart-media-banner-template', foreach: $root.mediaBannerBottom }"></div>
+<!--
+	todo: need to generalize this to RS instead of RR
+	<div id="rs-wrap"><div class="rs-add-to-cart-loader"></div></div> -->
+	<div id="rr-wrap"><div class="rr-add-to-cart-loader"></div></div>
 	<!--/ko-->
 </script> <script type="text/html" id="analytics-price-template">
-	<span style="display:none;"  data-analytics-type="product-price" class="product-price-analytics" data-bind="attr: { 'data-analytics-value': $data }">
+	<span style="display:none;" data-analytics-type="product-price" class="product-price-analytics" data-analytics-value="">
 	</span>
+</script> <script type="text/html" id="add-to-cart-media-banner-template">
+	<div data-bind="attr: { id: id, class: containerClass}" role="complementary" aria-label="Banner Advertising">
+		<!--ko if: link -->
+		<a data-bind="attr: { href: link }">
+			<img data-bind="attr: { alt: image.altText, title: image.altText, src: image.src, class: image.imgClass, contentWidth: image.width, contentHeight: image.height }" />
+		</a>
+		<!-- /ko -->
+		<!-- ko ifnot: link -->
+		<img data-bind="attr: { alt: image.altText, title: image.altText, src: image.src, class: image.imgClass, contentWidth: image.width, contentHeight: image.height }" />
+		<!-- /ko -->
+	</div>
 </script> <script type="text/html" id="std-threshold-shipping-template">
 	<h2>FREE SHIPPING to home on purchases over $<span data-bind="text: stdThresholdLimit"></span><sup>&dagger;</sup></h2>
 	<div class="sts-progress-bar-container">
@@ -1011,7 +1016,7 @@ list-style: none;
 	</div>
 	<div class="sts-disclaimer"><em><sup>&dagger;</sup>Standard shipping only. Excludes scheduled grocery orders, remote markets and heavy/oversized items.</em></div>
 </script> <script type="text/html" id="price-per-unit-tooltip-template">
-	<a class="popup-opener popup-align-left price-unit-tooltip" data-title-headline="" data-title="This is a unit of measurement to help you compare the value of this item. Please know, this is not the price of the item itself." data-bind="text: $data"></a>
+	<a class="popup-opener popup-align-left price-unit-tooltip" data-title-headline="" data-title="This is a unit of measurement to help you compare the value of this item. Please know, this is not the price of the item itself."></a>
 </script> <script type="text/html" id="map-pricing-tooltip-template">
 	<a href="#" class="popup-opener map-pricing-tooltip" data-title="Walmart is unable to display the product price here. You can view the price after you <strong>add the item to your cart.</strong>" data-title-headline="" role="tooltip" aria-hidden="true">
 		<div class="map-pricing"></div>
@@ -1212,6 +1217,14 @@ list-style: none;
 			Remove this item
 		</button>
 	</div>
+</script> <script type="text/html" id="product-availability-status">
+	<span class="icon-status"></span>
+	<span class="msg"></span>
+	<div class="fade"></div>
+</script> <script type="text/html" id="product-pricing-spacer">
+	<div class="price-was"></div>
+	<div class="price-cover"></div>
+	<div class="price-cover-percent"></div>
 </script> <script>
 	// needs to be on the ready asap + WMTRP-6157
 	function searchIt(btnEl){
@@ -1261,7 +1274,7 @@ list-style: none;
 			};
 		</script> <script>
 					tbHlp.startTimer("rjsCommon");
-				</script> <script src="/assets/javascripts/31608be52d6bf629b85435f964e952b1-common-en.js"></script> <script>
+				</script> <script src="/assets/javascripts/7f5798580384024f7547dc476967ca16-common-en.js"></script> <script>
 					require(["common"], function() {
 						tbHlp.endTimer("rjsCommon");
 					});
@@ -1290,4 +1303,4 @@ list-style: none;
 			try{_satellite.pageBottom();}catch(e){}
 		</script> <script>
 			tbHlp.endTimer("bodyProcessing");
-		</script> <script>!function(e){var a=e.document;BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{};var r={localStorageTestKey:"TorbitLSTest",pageTags:[],pageConversions:[],initHasRun:!1};BOOMR.plugins.pageMeta={init:function(){initHasRun=!0;try{localStorage.setItem(r.localStorageTestKey,r.localStorageTestKey),localStorage.removeItem(r.localStorageTestKey),BOOMR.addVar("ls",1)}catch(n){window.BOOMR&&BOOMR.addVar&&BOOMR.addVar("ls",0)}if("https:"==e.location.protocol?BOOMR.addVar("prt",1):BOOMR.addVar("prt",0),BOOMR.addVar("ref",a.referrer),e.performance&&e.performance.memory)for(m_name in e.performance.memory)e.performance.memory.hasOwnProperty(m_name)&&BOOMR.addVar(m_name,e.performance.memory[m_name]);return BOOMR.addVar("wH",e.innerHeight||a.body.clientHeight||a.documentElement.clientHeight),BOOMR.addVar("tags",r.pageTags.join("|")),this},addTag:function(e){r.pageTags.push(e),r.initHasRun&&BOOMR.addVar("tags",r.pageTags.join("|"))},addConversion:function(e,a){var n=e;a&&(a>0||a.length>0)&&(n=e+"="+a),r.pageConversions.push(n),BOOMR.addVar("conversion",r.pageConversions.join("|"))},is_complete:function(){return!0}}}(window);!function(e){var t=e.document;BOOMR=BOOMR||{},BOOMR.plugins=BOOMR.plugins||{};var n={siteDomain:"https://beacon.walmart.ca/",timers:[],events:[],eventStrs:[],markTime:function(t){e.performance&&e.performance.mark&&e.performance.mark(t)},measureTime:function(t){e.performance&&e.performance.measure&&e.performance.measure(t,"start_"+t,"end_"+t)},sendTimer:function(e){var n;if(!this.timers["start_"+e]||!this.timers["end_"+e])return void console.log("Fail");if(this.events.push({name:e,start:this.timers["start_"+e],duration:this.timers["end_"+e]-this.timers["start_"+e]}),this.eventStrs.push(e+"="+(this.timers["end_"+e]-this.timers["start_"+e])),BOOMR.addVar("events",this.eventStrs.join("|")),t.readyState&&"complete"===t.readyState){var i=this.siteDomain+"customTimers.gif?&u="+encodeURIComponent(t.URL.replace(/#.*/,""))+"&events="+encodeURIComponent(this.eventStrs.join("|"));n=new Image,n.src=i}}};BOOMR.plugins.customEvents={init:function(){return n.siteDomain=e.BOOMR_INIT&&e.BOOMR_INIT.site_domain&&e.BOOMR_INIT.site_domain.length>0?"https://beacon."+e.BOOMR_INIT.site_domain+"/":e.bc&&e.bc.domain?e.bc.domain:"https://beacon.walmart.ca/",this},getTime:function(){return e.performance&&e.performance.now?e.performance.now():(new Date).getTime()},startTimer:function(e){return!e.name||e.name.length<=0?!1:((!e.time||e.time<=0)&&(n.markTime("start_"+e.name),e.time=this.getTime()),n.timers["start_"+e.name]=e.time,!0)},endTimer:function(e){var t=!1;return!e.name||e.name.length<=0?!1:((!e.time||e.time<=0)&&(n.markTime("end_"+e.name),e.time=this.getTime(),t=!0),n.timers["end_"+e.name]=e.time,n.timers["start_"+e.name]&&n.timers["start_"+e.name]>0?(n.sendTimer(e.name),t&&n.measureTime(e.name),!0):(t=!1,!1))},setTimer:function(e){return!e.name||e.name.length<=0?!1:!e.start||e.start<=0||!e.end||e.end<=0?!1:(n.timers["start_"+e.name]=e.start,n.timers["end_"+e.name]=e.end,n.sendTimer(e.name),!0)},is_complete:function(){return!0}}}(window),function(e){try{e._tbq=e._tbq||[],_tbq.push=function(e){if(!(e.length<1)&&e[0])switch(e[0]){case"tag":if(e.length<2)return;BOOMR.plugins.pageMeta.addTag(e[1]);break;case"startTimer":if(e.length<2)return;BOOMR.plugins.customEvents.startTimer(e[1]);break;case"endTimer":if(e.length<2)return;BOOMR.plugins.customEvents.endTimer(e[1])}};for(i in _tbq)_tbq.hasOwnProperty(i)&&"push"!=i&&(_tbq.push(_tbq[i]),delete _tbq[i])}catch(t){}}(window);var _xdebug="0";</script></body></html>
+		</script> </body></html>
