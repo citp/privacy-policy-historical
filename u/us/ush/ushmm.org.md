@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221101511id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628140354id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — United States Holocaust Memorial Museum
 
@@ -6,11 +6,11 @@ The United States Holocaust Memorial Museum (“Museum”) is committed to prote
 
 This privacy policy describes how we handle all user information collected during your visit. Occasionally, changes in the technology, functionality, or content we provide on our website may require us to revise this policy. We encourage our visitors to return to this page periodically to learn about any changes we may have made.
 
-##  Information Collected
+## Information Collected
 
 We collect two types of information about our website visitors: 1) anonymous information that is automatically collected from all visitors to our site, and 2) personally identifiable information that you knowingly and voluntarily submit to us (“personal information”).
 
-##  Anonymous Information
+## Anonymous Information
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. We use this information to help us make our site more useful to visitors — to learn about the number of visitors to our site and the types of technology our visitors use. This information does not identify you personally. We collect the following information:
 
@@ -23,7 +23,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 
 
-##  Personal Information
+## Personal Information
 
 The Museum only collects personal information that you voluntarily provide to us. Personal information we may collect includes your name, postal address, e-mail address, preferences for types of information, or the name, address or e-mail address of a friend to whom you wish us to send information or a gift. A specific type of personal information that may be collected is financial information, as further described below.
 
@@ -62,7 +62,7 @@ Donors who have provided the Museum with an e-mail address or whose postal addre
 
 Our website has pages on which members of the public are invited to comment or provide feedback, such as message boards. Any information (comments, photos, sounds) posted on these pages becomes public information. Please exercise caution when deciding to disclose personal information.
 
-##  Children’s Privacy Policy
+## Children’s Privacy Policy
 
 Some of the Museum’s online programs and applications may offer educational content of interest to children under the age of 13, and the Museum may occasionally receive personally identifiable information from a child in order to respond to a one-time request or communication. We do not use the information for any other purpose and will delete the information as soon as practical. For example, a child may use his or her e-mail address to send us a photograph for a Museum web page for students. We will use the e-mail address to send the child confirmation that we have received the photo and we will then delete the e-mail address.
 
@@ -70,15 +70,15 @@ The Museum may occasionally provide an online interactive program for children u
 
 If the Museum becomes aware that a child has posted personally identifiable information on any of our web pages, we will delete the information as soon as practical.
 
-The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at [ushmm.org/museum/contact/](http://www.ushmm.org/museum/contact/). Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.
+The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at [ushmm.org/information/contact-the-museum](https://www.ushmm.org/information/contact-the-museum). Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.
 
-##  Financial Information
+## Financial Information
 
 Financial information is personally identifiable information you submit that may include the amount of a gift or payment, preferred payment method, a credit card number, debit tracking number, or other information required to complete a financial transaction. The Museum will not disclose financial information except as necessary to fulfill the donation or order request. We collect financial information in a secure manner and discard such information after processing is complete. We employ error-checking procedures to make certain transactions are processed in an accurate, complete, and timely manner. The Museum also obtains independent internal and external audits to ensure the privacy, security, and appropriateness of these transactions.
 
-If you prefer to mail or phone in a donation, please see the contact information on the donation form, or call 866.99USHMM (866.998.7466), or mail your gift to: United States Holocaust Memorial Museum, Donation Processing Center, P.O. Box 7022, Albert Lea, MN 56007-8022.
+If you prefer to mail or phone in a donation, please see the contact information on the donation form, or call 866.99USHMM (866.998.7466), or mail your gift to: United States Holocaust Memorial Museum, Donation Processing Center, P.O. Box 1568, Merrifield, VA 22116-1568.
 
-##  Use of Cookies
+## Use of Cookies
 
 We may collect some information through the use of cookies. Cookies are alphanumeric identifiers that are transferred either to your computer’s hard drive (“long-term” or “persistent” cookies) or temporarily to your computer’s Random Access Memory (“session” cookies). A cookie cannot read data off your computer hard disk nor can it read cookies files created by other websites. We use cookies to make visiting and using our site easier.
 
@@ -90,7 +90,7 @@ As with long-term cookies, no personal information is stored in session cookies.
 
 You may set your browser to refuse long-term and session cookies from any website that you visit. If you so choose, you may still gain access to most of the Museum’s website, but you may not be able to conduct certain types of transactions (such as shopping) or take advantage of some of the interactive elements offered.
 
-##  Third-Party Disclosure
+## Third-Party Disclosure
 
 We may disclose personal information to third-party service providers who are contracted by the Museum to facilitate services, such as completing contribution transactions, responding to your service requests, sending e-newsletters, responding to surveys, or other similar functions. All of our third-party service providers have access to your personal information solely for the purpose of providing services to you on our behalf, and they are contractually prohibited from sharing your personal information with other third parties.
 
@@ -98,15 +98,15 @@ Except for these exceptions and for law enforcement or other purposes specifical
 
 We occasionally exchange or rent contributor postal mailing lists with carefully selected organizations, specifically to help us expand our Membership program in a cost-effective way. Please note that we do not exchange or rent e-mail addresses. If you prefer that we do not exchange or rent your name and postal address, please follow the instructions in the opt-out procedures below.
 
-##  Security
+## Security
 
 The personal information we collect is stored on a secured server. We use industry-standard encryption technologies to prevent your personal and financial information from being seen as it travels over the Internet to our servers. We routinely evaluate our security and the security of our third-party service providers to monitor and upgrade security measures.
 
-##  External Links
+## External Links
 
 This website contains links to the websites of other government agencies, affiliated museums, and private organizations. When you click on the links to any of these other websites, you leave the Museum’s website and will no longer be subject to this Privacy Policy. While we make efforts to choose our links carefully, we cannot take responsibility for the content or privacy policies of linked websites. We encourage you to review the privacy policies on those websites.
 
-##  Opt-Out Options
+## Opt-Out Options
 
 You can opt out of receiving e-mail correspondence or e-newsletters in one of two ways.
 
