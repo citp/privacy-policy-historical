@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliftonbank.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225110743id_/http%3A//www.cliftonsavings.com/site-services/website-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliftonbank.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628071027id_/http%3A//www.cliftonsavings.com/site-services/website-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Community Bank NJ | NJ Banking - Clifton Savings Bank
 
@@ -13,7 +13,7 @@ The Clifton Saving Bank Website Privacy Policy:
 
 
 
-CSBK offers customers the ability to access their accounts via a login portal on our Website. Customers should be aware that the scope of this policy does NOT include those online or mobile banking services. Instead, when you become a CSBK customer, and annually while you remain a CSBK customer, we will provide you with a Clifton Savings Bank Privacy Notice describing our privacy practices as it relates to your relationship with us. It will describe and provide any updates to the collection and sharing of personal information about our customers, as required by law. [Click here for our current Privacy Notice](https://web.archive.org/~/media/Files/C/Clifton-Savings/documents/CSB%20Privacy%20Notice%20%206%202015.pdf).
+CSBK offers customers the ability to access their accounts via a login portal on our Website. Customers should be aware that the scope of this policy does NOT include those online or mobile banking services. Instead, when you become a CSBK customer, and annually while you remain a CSBK customer, we will provide you with a Clifton Savings Bank Privacy Notice describing our privacy practices as it relates to your relationship with us. It will describe and provide any updates to the collection and sharing of personal information about our customers, as required by law. [Click here for our current Privacy Notice](https://web.archive.org/~/media/Files/C/Clifton-Savings/Privacy%20Notice%2006%202016.pdf).
 
 You may interact with our Website in a variety of ways, including portable devices (i.e. mobile phone, tablets). We may offer Website or applications that permit browsing and do not require registration or login credentials. 
 
@@ -44,7 +44,7 @@ We may also use the information you provide to contact you regarding your accoun
 
 **Does CSBK  share the personal information you provide?**
 
-We may share your information with service providers with whom we work to provide services to our customers as part of our daily operations.   When permitted or required by law, we may share information with additional third parties for other purposes including response to legal process. See our [Privacy Notice](https://web.archive.org/~/media/Files/C/Clifton-Savings/documents/CSB%20Privacy%20Notice%20%206%202015.pdf) for additional information on CSBK’s information sharing practices.
+We may share your information with service providers with whom we work to provide services to our customers as part of our daily operations.   When permitted or required by law, we may share information with additional third parties for other purposes including response to legal process. See our [Privacy Notice](https://web.archive.org/~/media/Files/C/Clifton-Savings/Privacy%20Notice%2006%202016.pdf) for additional information on CSBK’s information sharing practices.
 
 ## Does CSBK use cookies or other technologies to collect information?
 
