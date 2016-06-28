@@ -1,122 +1,72 @@
-> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206005604id_/http%3A//www.leadmesh.com/privacy/safe_harbor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628195910id_/http%3A//www.leadmesh.com/new/privacy) for the most accurate reproduction.*
 
-# Safe Harbor Privacy Policy
+# Privacy Policy | Leadmesh | Ping Tree | Ping Post Lead Distribution Platform
 
-Leadmesh, a Division of Sound Advertising Group (SAG), complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  SAG has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+**Leadmesh Privacy Policy**
 
-We have prepared this Privacy Policy to enable you to understand which personal information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party.  
-**  
-Personal Information**  
-On some pages of our clients’ websites, users can register to purchase products or services, receive personalized content and participate in surveys or forums. When you register, you may be asked for some “Personal Information” which may include, but may not be limited to, your full name, postal address, phone number and email address. You may be contacted with information about the company’s products and services.  
-If you purchase products or services, we may also request financial information such as credit card or bank account information. Any financial information collected is used only to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider.  
-**  
-How data is transmitted to Leadmesh**  
-Leadmesh is proprietary hosted software developed by Sound Advertising Group in Seattle, Washington, USA.  This product/service is essentially a portal or conduit that allows companies who provide a variety of offers (auto loans, education inquiries, Payday Loans for example) on the Internet to post the data they collect to potential 3rd party buyers or providers of such services.  Leadmesh facilitates the distribution of collected data.  Leadmesh respects the privacy of the data that is collected, and as a result, we have developed this website privacy policy.  The website privacy applies only to the operation of websites and clients that post data directly in to us for real-time distribution.
+Leadmesh, LLC, 4154 California Ave SW Seattle, WA 98116 (“Leadmesh”), is the responsible entity and has created the following Privacy Policy to describe how Leadmesh uses information it collects when people visit Leadmesh’s website located at www.Leadmesh.com (the “Leadmesh Site”) or sign up to use Leadmesh’s services (the “Services”). Leadmesh may periodically make changes to this Privacy Policy that will be posted on this webpage. If Leadmesh makes any material changes to this Privacy Policy, Leadmesh will provide notice of such changes through a posting on the Leadmesh Site or through another reasonable means of communication.
 
-When a form, survey or application is completed on one of our clients websites the information is posted to Leadmesh automatically.  And, based on pre-set filters and intelligence that are established by or for our clients in advance, that information posts OUT to one or more potential buyers almost instantly.  The systems receiving the information make a determination (based on pre-set criteria and possible validation) of whether or not they find the information credible.  Within seconds, their systems respond back to Leadmesh with an electronic Success or Fail message. 
+**What information does Leadmesh collect?**
 
-A successful response means they will “act” upon the information provided on the web page by agreeing to provide the service to the applicant.   A fail response means something in the application is incorrect or the applicant may not qualify for the particular loan or offer.  For example, in the case of a short term loan, a person finds a website that offers the service.  They complete the application and click “submit.”  The data posts IN to Leadmesh then out to a potential lender/buyer with the “lead.”  If you qualify, their system responds to our system with a unique code (URL) where we provide you (on the original website partner’s behalf) with the opportunity to complete the transaction via an e-signature page.  Once that is complete, the lender wires the funds to your bank account.  If it fails, we try another lender or provide a page that informs the client they didn’t qualify for the loan.  
-**  
-Client adherence to regulations**  
-Prior to accepting any new clients, we provide them with an Agreement to our Terms and Conditions which must be signed by an agent authorized to enter into such agreements.   We place an emphasis on the legality of solicitation of information as it pertains to the CAN-SPAM Act of 2003.  It reads as follows:
+When you use the Leadmesh Site or sign up for the Services, Leadmesh may collect certain contact information from you, including without limitation: first and last name, organization name, city, state and zip code, email address, and phone number (collectively, “Contact Information”). When purchasing Services, you will be required to provide additional information that may include a credit card number or other banking or payment information (“Billing Information”).
 
-**“Partner Data”** shall mean information input into the Software interface by Partner. 
+To improve the navigation experience on the Leadmesh site, Leadmesh also automatically receives and records information on our server logs from your browser, including the pages you request (“Site Information”).
 
-**PARTNER AND AFFILIATE POLICY REQUIREMENTS.**  
-Each party and its Affiliates must meet the minimum basic requirements listed below to qualify to participate using the Leadmesh Service: 
+Certain Site Information is collected through Leadmesh’s use of cookies. Cookies are sets of data which are stored by your web browser and which contain data. In as far as your consent is necessary in this respect, this will only take place if you have granted the required consent.
 
-  * No violations of the federal CAN-SPAM Act of 2003, as amended form time to time (the “CAN-SPAM Act”). 
-  * No racial, ethnic, political, hate-mongering or otherwise objectionable content. 
-  * No Software Pirating (e.g., Warez) or Hacking. 
-  * No use of Leadmesh URLs in emails. 
-  * No activity in violation of applicable Federal law. 
+The same applies to web beacons and other standard collection tools. These tools help provide additional functionality to the Leadmesh Site and help us analyze use of the Leadmesh Site more accurately. We may also use cookies to help track the level of interest in different features of the Leadmesh Site and to compile data that can help us improve our Services. You can choose not to use cookies but then you will not be able to take advantage of certain features of the Leadmesh Site.
 
+In addition to the collection of Site Information, in connection with your use of the Services, Leadmesh may collect information that is created or provided by you for such purposes (collectively, “Service Information”).
 
+The Contact Information, Billing Information, Site Information and Service Information may be referred to below, collectively, as the “Data”. “Personally Identifiable Data” means that data which directly, or used in conjunction with other provided information, enables the identification of a specific individual.
 
-You may contact Leadmesh to arrange for Leadmesh to review questionable campaigns for compliance prior to campaign launch. Campaigns will be deemed acceptable to Leadmesh on a case by case basis. Partner shall comply with the CAN-SPAM Act when sending Leadmesh URLs (code) to Partner’s subscribers or, if Partner’s Affiliates are sending newsletters or mailing list emails, then the Affiliate must comply with the CAN-SPAM Act when sending such newsletters or emails with Leadmesh code in the email. 
+**How is Data used?**
 
-Leadmesh does not permit non-compliance with the CAN-SPAM Act. If Partner’s domain is listed on SpamHaus, and SpamHaus will not remove the Partner’s domain, Leadmesh will take appropriate steps to assist the Partner in finding a resolution. If a resolution cannot be found by the parties, Partner must be removed from Leadmesh’s IP space within 2 weeks from the date that written notice is provided to Partner by Leadmesh. If Partner does not remove itself from Leadmesh’s IP space within such 2-week time period, then Leadmesh reserves the right to terminate the Agreement (and Partner's use of the Site and/or the Services) immediately, without liability to Leadmesh and within 30 days of termination Leadmesh will transfer all Partner Data to Partner. 
+Leadmesh may use the Site Information to monitor the use of the Leadmesh Site and to improve the user experience associated with the Leadmesh Site. Leadmesh uses the Site Information internally and only as described in this Privacy Policy.
 
-You and your Affiliates must be in compliance with the CAN-SPAM Act. Unless otherwise stated in this section 1, Leadmesh reserves the right to ask Partner to cure the violation or it may provide Partner with 14 days notice of termination. 
+If you are not a customer of Leadmesh (i.e., if you have not signed up to receive the Services), Leadmesh will use your Contact Information only for the purpose for which such information was provided. For example, if you have signed up to receive product information from Leadmesh, we will use your Contact Information only to send you that information. You may always opt-out of the receipt of any of those communications. Email opt out instructions are contained in each email.
 
-In addition to the above, we require all of our clients to adhere to a Suppression List and Opt-out notification on all unsolicited emails. 
+Leadmesh uses and stores Service Information only for the purpose of conducting business with you. For example, we will use your Contact Information to provide you with access to the Services you have ordered, as well as support services, technical updates or updates on changes in Leadmesh’s usage policies. Leadmesh may also use your Contact Information to send you company updates and marketing offers and information as long as you have expressly consented to receiving these or in case we have received your Contact Information in the course of a purchase of our Products and Services and we limit such marketing communication to similar Leadmesh products and services. You may opt-out at any time from receiving marketing information from Leadmesh by clicking the link in the respective electronic marketing communication and, as described in the preceding paragraph. You may not opt out from non-marketing communications, including service notifications and other operational updates. To note, Leadmesh’s use of the Service Information is also governed by the agreement you enter into with Leadmesh in connection with the Services (the “Services Agreement”). Please refer to the Services Agreement for specific provisions concerning confidentiality and data protection. In the event of any conflict between this Privacy Policy and the Services Agreement, the Services Agreement will control.
 
-**Additional Information**  
-As a security measure and to ensure that our website and computer network remain available to all customers, SAG and Leadmesh may use software programs to monitor network traffic or to identify unauthorized attempts to upload or change information, or otherwise cause damage. These software programs may also collect information regarding your use of our website and computer network.   
-You may also be asked to disclose Personal Information to us so that we can provide technical support assistance and information to you. For example, we may collect Personal Information from you (such as an e-mail address, system information and problem descriptions) in order to provide online technical support and troubleshooting. If you choose to correspond with us through electronic communication (e.g. email, online chat or instant messaging), we may retain a copy of the electronic communication together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.   
-**  
-Server Hosting Data Collection**  
-As a server hosting service provider, SAG provides access to servers (which are located in the United States) for customers around the globe to store and manage their data and applications. Neither SAG nor Leadmesh owns this specific data and is not a “controller” as outlined in the EU Directive. To the extent that any of our customers or our client’s customers are exposed to customer or user data, SAG and Leadmesh adhere to the Safe Harbor Privacy Principles.  
-**  
-Information Released**  
-SAG and Leadmesh may release some customer Non-Personally Identifiable information, the website’s traffic patterns, and related website usage information to our affiliates and reputable third parties on an aggregated basis. We take measures to select product or service providers that are responsible and afford similar privacy protections to their customers. However, we do not make any representations about the practices and policies of these companies.  
-Leadmesh may share or disclose Personal Information with Agents (“Agents” are persons or companies who act on behalf of or under the instructions of Leadmesh) in connection with administering or delivering Leadmesh products and services. Prior to disclosing Personal Information to its Agents, Leadmesh will either: (a) ensure that the Agent subscribes to the Safe Harbor Privacy Principles, (b) assess whether the Agent is subject to the EU Directive, (c) determine that the Agent complies with another “adequacy” finding or (d) execute a written agreement with the Agent requiring the Agent to provide at least the same level of privacy protection as the Safe Harbor Privacy Principles. Leadmesh will not otherwise disclose your personally information to third parties without first obtaining your consent pursuant to the Opt-In and Opt-Out Provisions below.  
-**  
-SPECIAL CASES OF RELEASE**  
-Both Personal Information and Non-Personally Identifiable information may be transferred to a third party:
+Also, for clarification, this Privacy Policy applies if you are a visitor to the Leadmesh Site or if you purchase the Services. If you use a third party application or service that is integrated with Leadmesh, then such third party’s privacy policy will govern the use, storage and disclosure of your data in connection with such application or service. Leadmesh may receive orders, subpoenas or other legal demands for Personally Identifiable Data that has been collected on behalf of such third party providers through the use of their applications or services. In such cases, Leadmesh refers the party requesting the Personally Identifiable Data to the applicable third party provider. That provider will respond in accordance with its own policies and may disclose your Personally Identifiable Data in response to such subpoena or other demand for information. Please remember that Leadmesh is not responsible for the policies and practices of such third party providers. If you have questions about any such disclosures, you should contact the applicable provider directly. Leadmesh will have no liability in connection with any act or omission of any such provider with respect to your data or information or otherwise.
 
-  1. As required by law, in a matter of public safety or policy, or as compelled by a court of law
-  2. In the event of a change of ownership or assets; and
-  3. To affiliated entities of common control, such as subsidiaries and parent companies. The use of your information by these affiliates of common control will comply with this Privacy Policy.
+Leadmesh takes reasonable precautions such as policy-based access control to protect Data in our possession from loss, misuse, and unauthorized access. Leadmesh follows generally accepted industry standards to protect the Data, both during transmission and once received by Leadmesh. However, no method of transmission over the Internet or method of electronic storage is 100% secure. While Leadmesh strives to protect your Data, Leadmesh does not guarantee its security.
+
+**Does Leadmesh disclose Personally Identifiable Data to third parties?**
+
+Leadmesh does not share or disclose any of your Personally Identifiable Data except as described in this Section.
+
+  * **Agents, consultants and related third parties** : Leadmesh uses third party vendors to perform certain business-related functions. Each third party vendor is required to keep such Personally Identifiable Data confidential and not to use such Personally Identifiable Data for any purpose other than providing services to Leadmesh.
+  * **Affiliates** : Leadmesh may share Personally Identifiable Data with entities that are control, are controlled by or under common control with Leadmesh (each, an “Affiliate”) for the purpose of assisting Leadmesh in providing its Services to you. In that event, any such Affiliate will use Personally Identifiable Data solely as permitted under this Privacy Policy.
+  * **Business transfers** : Leadmesh reserves the right to sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personally Identifiable Data may be part of the transferred assets. You acknowledge that such transfers may occur, and that any acquirer or successor of Leadmesh may continue to use your Personally Identifiable Data as set forth in this policy.
+  * **Legal requirements and other circumstances** : Leadmesh may disclose Personally Identifiable Data if required by law or if it believes in the good faith belief that such action is necessary to: (a) comply with a legal obligation, (b) protect and defend the rights or property of Leadmesh, or (c) to protect the property or safety of users of the Leadmesh Site or Services or any third party. If Leadmesh is required by law to disclose any of your Personally Identifiable Data, then we will use reasonable efforts to provide you with notice of that disclosure requirement, unless we are prohibited from doing so by statute, subpoena or court or administrative order. In addition, if Leadmesh does not believe the disclosure request has been properly issued, then Leadmesh will object to such request.
 
 
 
-**Cookies**  
-SAG websites as well as most of the Leadmesh client websites uses cookies (i.e., small bits of text that our servers place into a file on your computer’s hard drive).   Cookies are used to save your preferences and login information, and provide personalized functionality. Cookies may also store Personal Information (defined below) you have entered so that you do not have to continually reenter the same information. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the website you would be accessing.  
-SAG and Leadmesh may also allow third party advertisers on our website to send cookies, but these advertisers do not have access to read SAG or Leadmesh cookies. Other company’s use of their cookies are subject to their own privacy policies, not this one.  
-**  
-Contacting You Directly**  
-Leadmesh customers may contact you directly through the email address or other information you provide to confirm information or purchases we have successfully received from you. Leadmesh customers may also contact you to respond to your questions, to provide the services you request, to manage your account, and/or to inform you of any service announcements.  
-**  
-Opt-Out Provision**  
-If you don’t want to receive promotional materials from our marketing partners, you may opt out at any time. You may “opt out” by clicking on the box marked “I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM (Name and address of company)” when you register for an account or at any time afterwards by contacting them directly.  If you don’t get a timely response from them, please contact us at [info@leadmesh.com](mailto:.info@leadmesh.com) .  When properly opting-out, our clients should take reasonable efforts to delete a user’s Personal Information from its database. However, please note that it may be impossible to entirely delete a user’s Personal Information because some residual information may reside on backups or records of deletions.  
-Leadmesh customers should always offer you the opportunity to opt out before your Personal Information is:
+**Information about legal requests**
 
-  1. disclosed to a third party that is not an Agent of Leadmesh; or
-  2. used for a purpose that is inconsistent with the purpose(s) for which it was originally collected (as we have explicitly described to you in this Privacy Policy or at the time you provided such information) or as you subsequently authorized.
+Legal requests for information should be sent to legal@Leadmesh.com.
 
+Numbers registered to Leadmesh are often subleased to a reseller of Leadmesh’s service. Leadmesh does not receive or store information that would identify the end user or subscriber for numbers distributed by our resellers.
 
+If Leadmesh cannot identify the presumed end user, then Leadmesh will provide the resellers’ contact information. If Leadmesh is able to identify the presumed end user, then we will first disclose the existence of the request in accordance with the privacy policy.
 
-  
-Additionally, if a user’s Personal Information to be disclosed or used in the above situations is “Sensitive Information” (i.e. Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), Leadmesh customers should first obtain your explicit consent by requiring you to “opt in” prior to such uses or disclosures of Sensitive Information.  
-**  
-Third Party Sites**  
-Leadmesh client’s websites may include links, ad banners, etc. to other websites which may or may not be affiliated with them. Notwithstanding any affiliation, Leadmesh does NOT control and is NOT responsible for the information and/or content you provide to and transactions you engage in with such third party sites. Please be aware that the operators of these other websites may collect and use different information about you that is not consistent with Leadmesh Privacy Policy. For any concerns as to the privacy of your information on these websites, please refer to their respective privacy policies.  
-**  
-Children**  
-In accordance with the Children’s Online Privacy Protection Act (COPPA), Leadmesh does not knowingly collect or solicit any Personal Information from children under the age of thirteen (13).  
-**  
-How We Protect Your Information**  
-SAG has employed the use of electronic security measures to protect against the loss, theft, misuse, alteration, or unauthorized disclosure of your information submitted to our website. These measures include firewalls, use of passwords, anti-virus and detection software.  
-When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (“SSL”) technology. However, please note that electronic communication (e.g. email, online chat or instant messaging) that you may send to us may not be secure unless we advise you in advance that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as financial information, social security numbers or passwords to us through unsecured electronic communication.   
-**  
-Content Placed In Public**  
-Some pages of Leadmesh customers websites may make chat rooms, forums, message boards, news groups or instant messaging available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing Personal Information in these areas. Don’t disclose information in these public forums that might be considered confidential and such as financial information, social security numbers, passwords or email addresses. Users should be aware that when they voluntarily disclose Personal Information on the bulletin boards or in the chat areas, that information and any substantive information disclosed in the communication can be collected and used by third parties. This could result in unsolicited messages from others who post on such sites and are beyond the control of Leadmesh.  
-You represent and warrant that posting content to any public area of Leadmesh clients’ websites will not infringe or violate the rights, including but not limited to intellectual property rights, such as copyrights, patents, trademarks and trade secrets and rights of privacy and publicity of any third party.  
-**  
-Transfer of Data Abroad**  
-If you are visiting the website of a Leadmesh customer from a country other than the countries in which our servers are located (currently the United States), the various communications will necessarily result in the transfer of information across international boundaries. By visiting their website and communicating electronically with them, you consent to the processing and transfer of your data as set out in this Privacy Policy.  
-**  
-Access to Your Personal Information and Correction of Inaccuracies**  
-If you wish to access and/or update the Personal Information that has been collected from you, you may either a) as a registered user, log onto the Leadmesh client website and view or change your information online or b) contact them directly at the address they provide on their site or c) contact us at [info@leadmesh.com](mailto:info@leadmesh.com).  Personal information may reside on our servers for up to seven years and no less than two years.  
-**  
-Modifications to the Privacy Policy**  
-Leadmesh hereby reserves the right to amend, alter, modify, replace or suspend this Privacy Policy, from time to time, in its sole discretion. All such changes to this Privacy Policy will be effective when posted on the Leadmesh website and noted with the most recent date of the amendment to the policy.  
-**  
-Ensuring Compliance with the Privacy Policy**  
-Sound Advertising Group uses a self-assessment approach to ensure compliance with this Privacy Policy and periodically verifies that the Privacy Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Privacy Principles. 
+**How to Submit a Request for Subscriber Information:**
 
-#### Questions
+To ensure a prompt response, please submit requests for subscriber information via email to legal@Leadmesh.com and include any supporting documentation as an attachment to your email.
 
-If you have any questions about this Safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that we may maintain about you, please contact us at the address shown below. In the case of a dispute that can’t be handled through normal means, we agree to use JAMS (Judicial Arbitration and Mediation Services, Inc.) as a third part arbitrator.  Any questions regarding this Safe Harbor Privacy Statement should first be directed to the Leadmesh contact provided. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the local data protection authorities in your EU member state for further information.   
-**  
-Leadmesh, a Division of Sound Advertising Group**  
-Attention: Privacy Office  
-4746 44th Avenue SW Suite 202   
-Seattle, WA  98116 United States  
-Phone: 1-800-753-2343  
-Fax: 1-206-274-1504  
-Email: [info@leadmesh.com](mailto:info@leadmesh.com)   
-**  
-Effective Date of This Privacy Policy**  
-This Privacy Policy is effective as of October 11, 2010.
+Email is our preferred method of receipt.
+
+Requests received by post are subject to additional processing time.
+
+**Disclosure of Request:**
+
+This Privacy Policy requires that we provide notice to the owner a telephone number when we receive a request for information related to the owner and/or the telephone number which notice we will give unless prohibited from doing so by statute, subpoena or court or administrative order
+
+**Information about, correction or deletion of Contact Information**
+
+You can request information about all personal information we have stored about you by contacting us at privacy@Leadmesh.com.
+
+The same applies to your request to have all these personal information deleted.
+
+In the event that you have volunteered Contact Information and/or provided Billing Information, you may correct or amend that information by editing your account profile or email us at privacy@Leadmesh.com.
