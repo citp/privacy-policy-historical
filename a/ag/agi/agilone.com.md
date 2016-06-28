@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113161301id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628134949id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - AgilOne | Predictive Marketing Cloud
+# Privacy Policy - AgilOne | Customer Cloud
 
 ### Privacy Policy
 
