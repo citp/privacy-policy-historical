@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907173301id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628235311id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,31 +8,24 @@
   <meta name="description" content="At Time4Learning, we strongly feel that children’s safety, which is related to privacy, is all-important. We do not disclose any personal information to outside parties.">
   <meta name="keywords" content="Time4Learning privacy policy, privacy policy, online education privacy policy, child privacy policy">
   
-  <!-- Responsive Viewport Setting -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="shortcut icon" href="/edmouse.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="/_css/t4l.css" id="main_style">
+<link rel="stylesheet" href="/_bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/_css/main-subpages.css">
 
-<!-- Added 02/2015 by Juliana Jones -->
-<link href="/_bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="/_css/main-subpages.css" rel="stylesheet">
-<!-- End Added 02/2015 by Juliana Jones -->
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBWLH9"></script><script type="text/javascript" src="/_js/jquery-1.9.0.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBWLH9"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="/_js/jquery-migrate-1.2.1.js"></script>
-<script type="text/javascript" src="/_js/jquery.tooltip.min.js"></script><!-- Tooltip script used for Satisfaction Guarantee -->
-<script type="text/javascript" src="/_js/tooltip.js"></script><!-- New tooltip script -->
+<script type="text/javascript" src="/_js/jquery.tooltip.min.js"></script>
+<script type="text/javascript" src="/_js/tooltip.js"></script>
 <script type="text/javascript" src="/_js/swfobject.js"></script>
 <script type="text/javascript" src="/_js/T4L.js"></script>
-<!--[if IE]><link rel="stylesheet" type="text/css" href="/_css/ie.css" /><![endif]-->
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/_css/ie6.css" /><script type="text/javascript" src="/_js/ie6.js"></script><![endif]-->
-<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
-
-<script type="text/javascript" src="/_js/slider-cookie-check.js"></script> <!--Cookie Check -->
-<script type="text/javascript" src="/_js/promos-sitewide.js"></script> <!-- Promos -->
-<script type="text/javascript" src="/_js/mobile-detection.js"></script>         <!-- Mobile Detection -->
+<script type="text/javascript" src="/_js/slider-cookie-check.js"></script>
+<script type="text/javascript" src="/_js/promos-sitewide.js"></script>
+<script type="text/javascript" src="/_js/mobile-detection.js"></script>
+<script type="text/javascript" src="/_js/header_menu_code.js"></script>
 
 <!-- Optimizely -->
 <script src="//cdn.optimizely.com/js/2911360708.js"></script>
@@ -44,53 +37,38 @@
 <meta property="og:url" content="http://www.time4learning.com">
 <meta property="og:site_name" content="Time4Learning.com">
 <meta property="og:image" content="http://www.time4learning.com/_img/shares/Time4Learning_OnlineEducationPreK-12th.jpg">
-<!--<meta property="og:image" content="http://www.time4learning.com/_img/icons/Time4Learning_Share_Images_02.jpg" />
-<meta property="og:image" content="http://www.time4learning.com/_img/icons/Time4Learning_Share_Images_03.jpg" />
-<link rel="image_src" href="http://www.time4learning.com/_img/icons/Time4Learning_Share_Images_01.jpg"/>-->
 
 <script>
-jQuery.noConflict();
-$j = jQuery;
-$j(document).ready( function() {
+	(function($) {
+		$(document).ready( function() {
+			/* Responsive Table Fix */
+			var $blue01Table = $('table.table-blue-01');
 
-    /* Scroll To Top */
-    $j("#scrolltop").click( function() {
-        $j('html, body').animate({ scrollTop: "0" });
-    });
+			$blue01Table.addClass('table table-condensed');
+			$blue01Table.wrap('<div class="table-responsive"></div>');
+		});
 
-    //slide(element, x1, y1, speed1, x2, y2, speed2, method);
-    //x2, y2, speed2 and method are optional.
-    //Speed options are slow, normal, fast or a number like 200, 600, etc.
-    //Method options are hover, click and auto. Default is hover.
-    //Examples:
-    //slide('#ID', x1, y1, speed1, x2, y2, speed2, 'hover');
-    //slide('#ID', x1, y1, speed1, x2, y2, speed2, 'click');
-    //slide('#ID', x1, y1, speed1, 'click');
-    //slide('#ID', x1, y1, speed1, 'auto');
-    slide('#MemberLogin', 0, -40, 'slow', 0, -40, 'fast', 'click');
-
-    /* Responsive Table Fix */
-    (function() {
-        var blue01Table = $j('table.table-blue-01');
-
-        blue01Table.addClass('table table-condensed');
-        blue01Table.wrap('<div class="table-responsive"></div>');
-
-    })();
-
-
-});
-
-function scrollToSection($section) {
-    // Smoothly scroll to the link clicked.
-   $j('html, body').animate({
-       //scrollTop: $j("#gradesSubjects").offset().top -100
-       scrollTop: $j($section).offset().top -100
-    }, 300, function(){});
-}
+		function scrollToSection($section) {
+			$('html, body').animate({
+				scrollTop: $($section).offset().top - 100
+			}, 300);
+		}
+	})(jQuery);
 </script>
 
-<script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script></head>
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/_css/ie.css" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/_css/ie6.css" />
+	<script type="text/javascript" src="/_js/ie6.js"></script>
+<![endif]-->
+
+<!--[if !IE 7]>
+	<style type="text/css">#wrap {display:table;height:100%}</style>
+<![endif]-->
+</head>
 
 <body>
   <!-- Google Tag Manager Include -->
@@ -116,190 +94,101 @@ function scrollToSection($section) {
       <a id="main_header_logo" href="/index.htm"><img src="/_img/Logo_Time4Learning.png" alt="home education" border="0"></a>
       <h1>Time4Learning Privacy Policy</h1>
 	  <h2>There's Nothing More Important Than Your Child's Safety</h2>
-      <!--GET Header Menu code-->
-<script type="text/javascript" src="/_js/header_menu_code.js"></script>
+      <!-- BEGIN Main Nav -->
+<nav id="header" class="navbar navbar-default navbar-fixed-top full" role="navigation">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-3">
+				<a id="logo" href="/"></a>
+			</div>
+
+			<div id="main-header-nav" class="col-xs-9">
+				<a id="trigger"><span class="lines"></span> MENU</a>
+
+				<div id="navbar" class="collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li class="has-dropdown"><a href="/scope-sequence/index.shtml">Curriculum</a>
+							<ul>
+								<li><a href="/scope-sequence/index.shtml" title="curriculum lesson plans">Lesson Plans</a></li>
+								<li><a href="/homeschool/elementary_k_5.html" title="Elementary">Elementary</a></li>
+								<li><a href="/homeschool/middle_6_8.html" title="Middle School">Middle</a></li>
+								<li><a href="/homeschool/high_school.html" title="High School">High School</a></li>
+								<li><a href="/learning-to-read.shtml" title="Reading Awareness">Reading Awareness</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="/curriculum/how-it-works.html">How It Works</a>
+							<ul>
+								<li><a href="/curriculum/how-it-works.html" title="Tour Video">Tour Video</a></li>
+								<li><a href="/curriculum/demos.html" title="View Demos">View Demos</a></li>
+								<li><a href="/Login/homeschool.shtml" title="How Do I Use Time4Learning">How Do I Use Time4Learning</a></li>
+								<li><a href="/homeschool/how-do-i-homeschool.html" title="How Do I Homeschool">How Do I Homeschool</a></li>
+								<li><a href="/homeschool/charter_schools.shtml" title="Homeschool Charter Schools">Homeschool Charter Schools</a></li>
+								<li><a href="/puffin_academy.html" title="Mobile">Time4Learning on Mobile</a></li>
+								<li><a href="/homeschool/dream-big.html" title="Dream Big">Dream Big</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="/homeschool-resource.shtml">Resources</a>
+							<ul>
+								<li><a href="http://www.time4learning.net/" title="Parent Forum" target="_blank">Parent Forum</a></li>
+								<li><a href="/blog/" title="Blog">Blog</a></li>
+								<li><a href="/homeschool/why-should-i-homeschool.html" title="Why Homeschool">Why Homeschool</a></li>
+								<li><a href="/curriculum/afterschool.html" title="Skill Building">Skill Building</a></li>
+								<li><a href="/homeschool/accidental-homeschooling.shtml" title="Accidental Homeschooling">Accidental Homeschooling</a></li>
+								<li><a href="/homeschool/unschooling.shtml" title="Unschooling">Unschooling</a></li>
+								<li><a href="/learning-special-needs.shtml" title="Special Needs">Special Needs</a></li>
+								<li><a href="/homeschool/homeschooling_in_the_military.htm" title="Military">Military</a></li>
+								<li><a href="/summer/learning-curriculum.html" title="Summer Study">Summer Study</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="/aboutUs.htm">About Us</a>
+							<ul>
+								<li><a href="/curriculum/faq.html" title="FAQ">FAQ</a></li>
+								<li><a href="/aboutUs.htm" title="Who is Time4Learning">Who is Time4Learning</a></li>
+								<li><a href="/homeschool/how-to-homeschool.shtml" title="Hints &amp; Help">Hints &amp; Help</a></li>
+								<li><a href="/curriculum/contact_us.php" title="Contact Us">Contact Us</a></li>
+								<li><a href="/curriculum/awards.html" title="Awards &amp; Certifications">Awards &amp; Certifications</a></li>
+								<li><a href="/home-school-curriculum-reviews.shtml" title="Time4Learning Reviews">Time4Learning Reviews</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+
+				<a id="memberSignUpBtn" class="btn btn-primary btn-md navbar-right hidden-xs" href="/SignUp/parent_information.aspx" role="button">SIGN UP</a>
+
+				<div id="slider" class="hidden-xs">
+					<div id="MemberLogin" style="position: absolute; right: 0px; top: -2px; z-index:100100;">
+						<ul class="member_login toggle" style="margin-top:1px; clear: both;">
+							<li><a class="btn btn-success btn-md navbar-right" href="/Login/SingleLogin/StudentLogin.aspx" role="button" rel="nofollow"><span class="disappear">MEMBER LOGIN</span><span class="appear">LOGIN</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="header-phone hidden-xs">
+					<i class="fa fa-phone"></i>&nbsp;(888) 771-0914
+				</div>
+			</div>
+		</div>
+	</div>
+</nav><!-- END Main Nav -->
 
 <!-- BEGIN Mobile Menu -->
 <div class="mobileMenu">
-    <div class="mobileMenuContent">
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li class="memberLogin"><a href="/Login/SingleLogin/StudentLogin.aspx">Member Login</a></li>
-        <li class="howItWorks"><a href="/curriculum/how-it-works.html" title="how it works">How It Works</a></li>
-        <li class="curriculumOverview"><a href="/education/curriculum_overview.shtml" title="curriculum overview">Curriculum Overview</a></li>
-        <li class="lessonPlans"><a href="/scope-sequence/index.shtml" title="lesson plans">Lesson Plans</a></li>
-        <li class="demos"><a href="/curriculum/demos.html" title="curriculum demos">Try Demos</a></li>
-        <li class="forum"><a href="http://time4learning.net/" rel="external" target="_blank" title="Parent Forum">Parent Forum</a></li>
-        <li class="signUp"><a title="Create an account" href="/SignUp/parent_information.aspx">Sign Up Now!</a></li>
-        <li class="text-center"><a href="tel:8887710914">(888) 771-0914</a></li>
-      </ul>
-    </div>
-    <a class="sidebarclose"><span></span></a>
-</div>
-<!-- END Mobile Menu -->
-<!-- BEGIN Header -->
-<!-- Fixed navbar -->
-<nav id="header" class="navbar navbar-default navbar-fixed-top full" role="navigation">
-    <div class="container">
+	<div class="mobileMenuContent">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li class="memberLogin"><a href="/Login/SingleLogin/StudentLogin.aspx">Member Login</a></li>
+			<li class="howItWorks"><a href="/curriculum/how-it-works.html" title="how it works">How It Works</a></li>
+			<li class="curriculumOverview"><a href="/education/curriculum_overview.shtml" title="curriculum overview">Curriculum Overview</a></li>
+			<li class="lessonPlans"><a href="/scope-sequence/index.shtml" title="lesson plans">Lesson Plans</a></li>
+			<li class="demos"><a href="/curriculum/demos.html" title="curriculum demos">Try Demos</a></li>
+			<li class="forum"><a href="http://time4learning.net/" rel="external" target="_blank" title="Parent Forum">Parent Forum</a></li>
+			<li class="signUp"><a title="Create an account" href="/SignUp/parent_information.aspx">Sign Up Now!</a></li>
+			<li class="text-center"><a href="tel:8887710914">(888) 771-0914</a></li>
+		</ul>
+	</div>
 
-        <div class="row">
-            <div class="col-xs-3">
-                <!-- Time4Learning Logo / Home Button -->
-                <a id="logo" href="/"></a>
-            </div>
-
-            <div class="col-xs-9">
-                <!-- Hamburger Menu Icon -->
-                <a id="trigger"><span class="lines"></span> MENU</a>
-
-                <!-- BEGIN Navbar Collapse -->
-                <div id="navbar" class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav">
-                        <li class="howItWorks"><a class="hvr-underline-from-center" href="/curriculum/how-it-works.html" title="how it works" rel="nofollow">How It Works</a></li>
-                        <li class="lessonPlans"><a class="hvr-underline-from-center" href="/scope-sequence/index.shtml" title="curriculum lesson plans" rel="nofollow">Lesson Plans</a></li>
-                        <li class="demos"><a class="hvr-underline-from-center" href="/curriculum/demos.html" title="curriculum demos" rel="nofollow">Try Demos</a></li>
-                        <li class="forum"><a class="hvr-underline-from-center" href="http://time4learning.net/" target="_blank" title="Parent Forum" rel="nofollow">Parent Forum</a></li>
-                    </ul>
-
-                    <!--BEGIN Member Login Slider -->
-                    <div id="slider">
-
-                        <div id="MemberLogin" style="position: absolute; right: 0px; top: -40px; z-index:100100;">
-
-                            <div style="float:right;">
-                                <div id="lower" class="member_login_sub"><a href="/Login/Member_Login.aspx" rel="nofollow"><strong>Lower Level</strong><br>( Prek - 3rd )</a></div>
-                                <div id="upper" class="member_login_sub"><a href="/login/Member_UpperSchool_Login.aspx" rel="nofollow"><strong>Upper Level</strong><br>( 4th - 8th )</a></div>
-                                <div id="hs" class="member_login_sub"><a href="/login/Member_Login_HighSchool.aspx" rel="nofollow"><strong>High School</strong><br>( 9th - 12th )</a></div>
-                                <div id="parent" class="member_login_sub"><a href="/login/parent.html" rel="nofollow"><strong>Parent Admin</strong><br>Account</a></div>
-                            </div>
-
-                            <ul>
-                                <li><a class="btn btn-success btn-md navbar-right" href="/Login/SingleLogin/StudentLogin.aspx" role="button" rel="nofollow"><span class="disappear">MEMBER LOGIN</span><span class="appear">LOGIN</span></a></li>
-                            </ul>
-                        </div>
-
-                    </div>
-                    <!--END Member Login Slider -->
-                    <!-- Sign Up Button -->
-                    <a id="memberSignUpBtn" class="btn btn-primary btn-md navbar-right" href="/SignUp/parent_information.aspx" role="button" rel="nofollow">SIGN UP</a>
-
-                    <div class="header-phone">
-                        <i class="fa fa-phone"></i>&nbsp;
-                        <span class="hidden-xs">(888) 771-0914</span>
-                        <a class="visible-xs" href="tel:8887710914">(888) 771-0914</a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-
-    </div>
-</nav>
-<!-- END Header -->
-
-<style>
-    #header ul.member_login {
-        width: 115px;
-        float: right;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-        list-style-type: none;
-        padding: 0;
-        margin: 0 11px 0 0;
-    }
-
-        #header ul.member_login li {
-            float: none;
-            padding-left: 0;
-            margin: 0;
-            background: none;
-            margin-right: 0;
-        }
-
-            #header ul.member_login li a {
-                display: block;
-                padding: 5px 10px 0 0;
-                height: 25px;
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 14px;
-                font-weight: bold;
-                color: #000;
-                text-decoration: none;
-                background: url("/_img/tab2_right.png") no-repeat right top;
-            }
-
-                #header ul.member_login li a:hover {
-                    color: #003cb7;
-                }
-
-    #header #MemberLogin .member_login_sub a {
-        line-height: 1.45 !important;
-    }
-
-        #header #MemberLogin .member_login_sub a:link,
-        #header #MemberLogin .member_login_sub a:active,
-        #header #MemberLogin .member_login_sub a:visited {
-            color: #000000;
-            text-decoration: none;
-        }
-
-        #header #MemberLogin .member_login_sub a:hover {
-            color: #000000;
-            text-decoration: underline;
-        }
-
-    #header #MemberLogin #lower,
-    #header #MemberLogin #upper,
-    #header #MemberLogin #hs,
-    #header #MemberLogin #parent {
-        font-size: 12px;
-        float: left;
-        border-right: 1px solid #CCCCCC;
-        padding: 2px 10px 3px;
-        text-align: center;
-    }
-
-    #header #MemberLogin #lower {
-        background: #0eeb78 url("/_img/buttons/login_lower_bg.png") top repeat-x;
-        border-radius: 0 0 0 10px;
-        -moz-border-radius-bottomleft: 10px;
-        -webkit-border-bottom-left-radius: 10px;
-        box-shadow: -1px 0 1px rgba(0, 0, 0, 0.5);
-    }
-
-    #header #MemberLogin #upper {
-        background: #efd33a url("/_img/buttons/login_upper_bg.png") top repeat-x;
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
-    }
-
-    #header #MemberLogin #hs {
-        background: #42abf8 url("/_img/buttons/login_hs_bg.png") top repeat-x;
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
-    }
-
-    #header #MemberLogin #parent {
-        background: #fad163 url("/_img/buttons/login_parent_bg.png") top repeat-x;
-        border-radius: 0 0 10px 0;
-        -moz-border-radius-bottomright: 10px;
-        -webkit-border-bottom-right-radius: 10px;
-        box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
-        border-right: none;
-    }
-
-    #header #slider.opened #MemberLogin {
-        z-index: 100500 !important;
-    }
-
-    #header #MemberLogin .btn {
-        border-top-left-radius: 0;
-        border-top-right-radius: 0;
-        margin-top: -1px;
-        position: relative;
-        height: 35px;
-    }
-</style>
+	<a class="sidebarclose"><span></span></a>
+</div><!-- END Mobile Menu -->
 
     </div>
   
@@ -477,13 +366,11 @@ function scrollToSection($section) {
 	<div id="signUpBar">
 		<div class="container withSeal">
 			<div class="row">
-
 				<div class="getStarted col-xs-7 col-sm-3 col-md-2 col-md-push-2">
 					<h2 style="font-size: 20px;line-height:1.3">Cancel Anytime, <br>No Contracts</h2>
 				</div>
 
 				<div class="pricing col-xs-12 col-sm-6 col-md-5 col-md-push-2">
-
 					<div class="row">
 						<div class="col-xs-6">
 							<div class="grade">PreK - 8th</div>
@@ -496,7 +383,6 @@ function scrollToSection($section) {
 							<div class="per">Monthly<br>Per Student</div>
 						</div>
 					</div>
-
 				</div>
 
 				<div class="hidden-xs col-sm-2 col-md-pull-7">
@@ -508,209 +394,165 @@ function scrollToSection($section) {
 				</div>
 			</div>
 		</div>
-		<div class="clearfix"></div>
 	</div>
 </div>
-<div class="clearfix"></div>
 <!-- END SignUp Bar -->
 
 <!-- BEGIN Footer -->
-	<footer class="footer">
-	  <div class="container">
-
+<footer class="footer">
+	<div class="container">
 		<div class="row">
-
 			<div class="col-sm-12 col-md-7 col-md-push-2">
-			  <h6>Curriculum Overviews</h6>
+				<h6>Curriculum Overviews</h6>
 
 				<div class="row">
-				  <div class="col-xs-6 col-sm-3">
-					  <ul>
-						<li><a href="/preschool-games.shtml" rel="nofollow">Preschool</a></li>
-						<li><a href="/education/kindergarten.shtml" rel="nofollow">Kindergarten</a></li>
-						<li><a href="/education/first_grade.shtml" rel="nofollow">First Grade</a></li>
-					  </ul>
-				  </div>
-				  <div class="col-xs-6 col-sm-3">
-					  <ul>
-						<li><a href="/education/second_grade.shtml" rel="nofollow">Second Grade</a></li>
-						<li><a href="/education/third_grade.shtml" rel="nofollow">Third Grade</a></li>
-						<li><a href="/education/fourth_grade.shtml" rel="nofollow">Fourth Grade</a></li>
-					  </ul>
-				  </div>
-				  <div class="col-xs-6 col-sm-3">
-					  <ul>
-						<li><a href="/education/fifth_grade.shtml" rel="nofollow">Fifth Grade</a></li>
-						<li><a href="/education/sixth_grade.shtml" rel="nofollow">Sixth Grade</a></li>
-						<li><a href="/education/seventh_grade.shtml" rel="nofollow">Seventh Grade</a></li>
-					  </ul>
-				  </div>
-				  <div class="col-xs-6 col-sm-3">
-					  <ul>
-						<li><a href="/education/eighth_grade.shtml" rel="nofollow">Eighth Grade</a></li>
-						<li><a href="/learning-middle-school.shtml" rel="nofollow">Middle School</a></li>
-						<li><a href="/homeschool/high_school.html" rel="nofollow">High School</a></li>
-					  </ul>
-				  </div>
+					<div class="col-xs-6 col-sm-3">
+						<ul>
+							<li><a href="/preschool-games.shtml" rel="nofollow">Preschool</a></li>
+							<li><a href="/education/kindergarten.shtml" rel="nofollow">Kindergarten</a></li>
+							<li><a href="/education/first_grade.shtml" rel="nofollow">First Grade</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-3">
+						<ul>
+							<li><a href="/education/second_grade.shtml" rel="nofollow">Second Grade</a></li>
+							<li><a href="/education/third_grade.shtml" rel="nofollow">Third Grade</a></li>
+							<li><a href="/education/fourth_grade.shtml" rel="nofollow">Fourth Grade</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-3">
+						<ul>
+							<li><a href="/education/fifth_grade.shtml" rel="nofollow">Fifth Grade</a></li>
+							<li><a href="/education/sixth_grade.shtml" rel="nofollow">Sixth Grade</a></li>
+							<li><a href="/education/seventh_grade.shtml" rel="nofollow">Seventh Grade</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-3">
+						<ul>
+							<li><a href="/education/eighth_grade.shtml" rel="nofollow">Eighth Grade</a></li>
+							<li><a href="/learning-middle-school.shtml" rel="nofollow">Middle School</a></li>
+							<li><a href="/homeschool/high_school.html" rel="nofollow">High School</a></li>
+						</ul>
+					</div>
 				</div>
-
-		   </div>
-
+			</div>
 
 			<div class="hidden-xs col-sm-3 col-md-2 col-md-pull-7">
-			  <h6>Time4Learning Uses</h6>
+				<h6>Time4Learning Uses</h6>
+
 				<div class="row">
-				  <div class="col-xs-12">
-					  <ul>
-						<li><a href="/homeschool-curriculum.htm">Homeschool</a></li>
-						<li><a href="/curriculum/afterschool.html">Afterschool</a></li>
-						<li><a href="/summer-school.shtml">Summer Learning</a></li>
-					  </ul>
-				  </div>
+					<div class="col-xs-12">
+						<ul>
+							<li><a href="/homeschool-curriculum.htm">Homeschool</a></li>
+							<li><a href="/curriculum/afterschool.html">Afterschool</a></li>
+							<li><a href="/summer-school.shtml">Summer Learning</a></li>
+						</ul>
+					</div>
 				</div>
 			</div>
-
 
 			<div class="col-xs-12 col-sm-9 col-md-3">
-			  <h6>Learn More</h6>
+				<h6>Learn More</h6>
 
 				<div class="row">
-				  <div class="col-xs-6 col-sm-4 col-md-6">
-					  <ul>
-						<li><a href="http://time4learning.net/" target="_blank" rel="nofollow">Parent Forum</a></li>
-						<li><a href="/curriculum/faq.html" rel="nofollow">Help/FAQs</a></li>
-						<li><a href="/curriculum/contact_us.php" rel="nofollow">Contact Us</a></li>
-					  </ul>
-				  </div>
-				  <div class="col-xs-6 col-sm-4 col-md-6" style="padding-right:0;">
-					  <ul>
-						<li><a href="/siteMap.htm" rel="nofollow">Site Map</a></li>
-						<li><a href="/curriculum/terms.html" rel="nofollow">Terms of Use</a></li>
-						<li><a href="/curriculum/privacy.html" rel="nofollow"><strong>Privacy Policy</strong></a></li>
-					  </ul>
-				  </div>
+					<div class="col-xs-6 col-sm-4 col-md-6">
+						<ul>
+							<li><a href="/blog/" rel="nofollow">Blog</a></li>
+							<li><a href="http://time4learning.net/" target="_blank" rel="nofollow">Parent Forum</a></li>
+							<li><a href="/curriculum/faq.html" rel="nofollow">Help/FAQs</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-4 col-md-6" style="padding-right:0;">
+						<ul>
+							<li><a href="/curriculum/contact_us.php" rel="nofollow">Contact Us</a></li>
+							<li><a href="/siteMap.htm" rel="nofollow">Site Map</a></li>
+							<li><a href="/curriculum/terms.html" rel="nofollow">Terms of Use</a></li>
+						</ul>
+					</div>
 				</div>
-
 			</div>
-
 		</div>
 
 		<!-- Follow Icons -->
-		<div class="divider"><div class="socialFollow">
-			<li class="facebook"><a id="facebook" href="http://www.facebook.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
-			<li class="twitter"><a id="twitter" href="http://twitter.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
-			<li class="googleplus"><a id="googleplus" href="https://plus.google.com/+time4learning" target="_blank" rel="nofollow"></a></li>
-			<li class="linkedin"><a id="linkedin" href="http://www.linkedin.com/company/time4learning-com" target="_blank" rel="nofollow"></a></li>
-			<li class="pinterest"><a id="pinterest" href="http://www.pinterest.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
-			<li class="youtube"><a id="youtube" href="https://www.youtube.com/user/Time4LearningVideos" target="_blank" rel="external"></a></li>
-		</div></div>
+		<div class="divider">
+			<ul class="socialFollow">
+				<li class="facebook"><a id="facebook" href="http://www.facebook.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
+				<li class="twitter"><a id="twitter" href="http://twitter.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
+				<li class="googleplus"><a id="googleplus" href="https://plus.google.com/+time4learning" target="_blank" rel="nofollow"></a></li>
+				<li class="linkedin"><a id="linkedin" href="http://www.linkedin.com/company/time4learning-com" target="_blank" rel="nofollow"></a></li>
+				<li class="pinterest"><a id="pinterest" href="http://www.pinterest.com/Time4Learning" target="_blank" rel="nofollow"></a></li>
+				<li class="youtube"><a id="youtube" href="https://www.youtube.com/user/Time4LearningVideos" target="_blank" rel="external"></a></li>
+			</ul>
+		</div>
 
-		<div class="copyright">Copyright © <script type="text/javascript">var today = new Date; document.write(today.getFullYear())</script>2020 <a href="/">Time4Learning.com</a>. All Rights Reserved. Time4Learning® is a registered trademark of VKidz Inc, dba Time4Learning.</div>
+		<div class="copyright">Copyright © <script type="text/javascript">var today = new Date; document.write(today.getFullYear())</script>2020 <a href="/">Time4Learning.com</a>. All Rights Reserved. Time4Learning® is a registered trademark of VKidz Inc, dba Time4Learning. <a href="/curriculum/privacy.html" rel="nofollow">Privacy Policy</a></div>
 
 	</div>
 
-
-<!--
-	<div id="scrolltop">
-		<a><i class="fa fa-angle-up fa-2x clearfix"></i><span>top</span></a>
-	</div>
--->
-
-  <a class="back-to-top"><i class="fa fa-angle-up fa-2x"></i><span>TOP</span></a>
-
+	<a class="back-to-top"><i class="fa fa-angle-up fa-2x"></i><span>TOP</span></a>
 </footer>
 <!-- END Footer -->
 
-
 <div id="DemoBox"></div>
 
-<!-- Load Waypoints -->
-<script src="/_js/waypoints.min.js" type="text/javascript"></script>
-
-<!-- Stick Footer Sales Bar on Scroll -->
 <script type="text/javascript">
-jQuery.noConflict();
-$j = jQuery;
+	(function($) {
+		function loadPinItImgs() {
+			var pinItExtImgsContainer = document.getElementById('pin-it-ext-imgs');
 
-$j(window).load(function () {
-
-	// Waypoints Code to stick menu on scroll
-	var $triggerDown = $j(".splash-right");
-	var $triggerUp = $j("#signUpBar-container");
-	var $signUpBar = $j("#signUpBar");
-	var $scrolltop = $j("#scrolltop");
-
-	if ( $signUpBar ) {
-		$triggerDown.waypoint(function(event, direction) {
-		   if (direction === 'down') { // do this on the way down
-			  $signUpBar.addClass("fixed").animate({opacity: 1}, 800);
-//			  $scrolltop.addClass("fix").fadeIn("slow");
-		   }
-		   else { // do this on the way back up through the waypoint
-			  $signUpBar.removeClass().animate({opacity: 0}, 200);
-//			  $scrolltop.removeClass().fadeOut("fast");
-		   }
-		}, {
-		   offset: '-40px'
-		});
-
-		$triggerUp.waypoint(function(event, direction) {
-			//alert("WayPoint Reached!");
-		   if (direction === 'down') { // do this on the way down
-			  $signUpBar.removeClass();
-		   }
-		   else { // do this on the way back up through the waypoint
-			  $signUpBar.addClass("fixed").animate({opacity: 1}, 800);
-		   }
-		}, {
-			//offset: 0
-		   // The bottom of the element is in view
-			offset: function() {
-			   return $j.waypoints('viewportHeight') - $j(this).outerHeight() + 50;
+			if (!pinItExtImgsContainer) {
+				return;
 			}
-		});
-	}
 
-  function goToTop() {
-	var offset = 250,
-		backToTop = $j('a.back-to-top');
+			var pinItExtImgs = pinItExtImgsContainer.getElementsByTagName('img');
 
-	$j(window).scroll(function() {
-		if ($j(this).scrollTop() > offset) {
-			backToTop.fadeIn("fast");
-		} else {
-			backToTop.fadeOut("fast");
+			for (var i = 0;i < pinItExtImgs.length; i++) {
+				pinItExtImgs[i].setAttribute('src', pinItExtImgs[i].getAttribute('data-src'));
+				pinItExtImgs[i].removeAttribute('data-src');
+			}
 		}
-	});
 
-	backToTop.click(function(event) {
-		event.preventDefault();
-		$j('html, body').animate({scrollTop: 0}, "slow");
-		return false;
-	});
-  }
-  goToTop();
+		window.onload = loadPinItImgs;
 
-});
+		var backToTop = {
+			init: function(config) {
+				this.btn = config.btn;
+				this.offset = config.offset;
 
+				$(window).on('scroll', this.animateBtn);
+				this.btn.on('click', this.scrollToTop);
+			},
+
+			animateBtn: function() {
+				if ($(this).scrollTop() > backToTop.offset) {
+					backToTop.btn.fadeIn('fast');
+				} else {
+					backToTop.btn.fadeOut('fast');
+				}
+			},
+
+			scrollToTop: function(event) {
+				event.preventDefault();
+
+				$('html, body').animate({
+					scrollTop: 0
+				}, 'slow');
+
+				return false;
+			}
+		};
+
+		backToTop.init({
+			btn: $('a.back-to-top'),
+			offset: 250
+		});
+	})(jQuery);
 </script>
 
-<!-- Pure Chat -->
-<script type="text/javascript" data-cfasync="false">(function () { var done = false;var script = document.createElement("script");script.async = true;script.type = "text/javascript";script.src = "https://app.purechat.com/VisitorWidget/WidgetScript";document.getElementsByTagName("HEAD").item(0).appendChild(script);script.onreadystatechange = script.onload = function (e) {if (!done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {var w = new PCWidget({ c: "529fbc5f-0a68-4d7e-b40e-717ddd9f37be", f: true });done = true;}};})();</script>
-
-<script type="text/javascript">
-  (function($) { // add no-pin to chat widget
-    setTimeout(function() {
-      $('img.collapsed-image').attr('nopin', 'nopin');
-    }, 8000);
-  })(jQuery)
-</script>
-<!-- Original Chat
-<div id="SiteChat" style="position: absolute; left: -2px; bottom: 125px; width:25px; height:79px; z-index:20000; display:block;">
-	<span id='liveadmin'></span>
-	  <script language="javascript" type="text/javascript" src="https://www.time4learning.net/livehelp/client.php?key=LF23FCDB2V22BBCB61M962AA86"></script>
-</div>
--->
 
 
 
