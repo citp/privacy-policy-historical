@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtholyoke.edu privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229155842id_/https%3A//www.mtholyoke.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtholyoke.edu privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628162404id_/https%3A//www.mtholyoke.edu/policies/digital-privacy-statement) for the most accurate reproduction.*
 
 # Digital Privacy Statement | Mount Holyoke College
 
