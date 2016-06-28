@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viral4real.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204221100id_/http%3A//www.viral4real.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viral4real.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628224132id_/http%3A//www.viral4real.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Viral 4 Real
+# Privacy Policy – Viral 4 Real
 
 This Privacy Policy governs the manner in which Viral 4 Real collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.viral4real.com](http://www.viral4real.com/) website (“Site”).
 
@@ -20,18 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Viral 4 Real may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site_
-
-We may need your information display content on the Site correctly.
-
-  * _To improve customer service_
-
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-
-  * _To send periodic emails_
-
-We may use the email address to respond to their inquiries, questions, and/or other requests.
-
+  * _To run and operate our Site_ We may need your information display content on the Site correctly.
+  * _To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To send periodic emails_ We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
 
