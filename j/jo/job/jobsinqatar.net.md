@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsinqatar.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223223524id_/http%3A//jobsinqatar.net/site_page.php%3Fpage%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinqatar.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628144949id_/http%3A//jobsinqatar.net/site_page.php%3Fpage%3D20) for the most accurate reproduction.*
 
 # jobs in qatar doha qatar jobs
 
-This Privacy Policy governs the manner in which Jobs in Qatar collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://jobsinqatar.net](https://web.archive.org/web/20151223223524id_/http%3A///) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jobs in Qatar.
+This Privacy Policy governs the manner in which Jobs in Qatar collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://jobsinqatar.net](https://web.archive.org/web/20160628144949id_/http%3A///) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jobs in Qatar.
 
 **Personal identification information**
 
@@ -43,10 +43,10 @@ Jobs in Qatar has the discretion to update this privacy policy at any time. When
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20151223223524id_/http%3A//page-16-terms-of-use.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20160628144949id_/http%3A//page-16-terms-of-use.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Jobs in Qatar](https://web.archive.org/web/20151223223524id_/http%3A///)  
+[Jobs in Qatar](https://web.archive.org/web/20160628144949id_/http%3A///)  
 info @ jobsinqatar .net
