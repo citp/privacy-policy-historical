@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228234456id_/https%3A//www.minnpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628220746id_/https%3A//www.minnpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MinnPost
 
- It is important to MinnPost.com that visitors to our site understand what information we gather about them, how we use it, and how we work to protect it.  By using our website, and/or signing up for services such as membership or our newsletter, you consent to information practices outlined in our [Terms of Use](https://web.archive.org/web/20151228234456id_/https%3A//www.minnpost.com/terms-of-use) and Privacy Policy. ****
+ It is important to MinnPost.com that visitors to our site understand what information we gather about them, how we use it, and how we work to protect it.  By using our website, and/or signing up for services such as membership or our newsletter, you consent to information practices outlined in our [Terms of Use](https://web.archive.org/web/20160628220746id_/https%3A//www.minnpost.com/terms-of-use) and Privacy Policy. ****
 
 ####  **Information Collection**
 
@@ -13,6 +13,8 @@ We will not release your name, email address or any other personal information t
 If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey or newsletter, your consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to MinnPost.com. Only authorized MinnPost.com employees or consultants are allowed access to personal information about you. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action.
 
 We occasionally have service contractors, third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, including but not limited to credit card processing and website hosting. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to MinnPost.com. In addition, we may always share, disclose, and transfer all information, postings, and any and all other personal and non-personal information we have collected to a successor-entity in the case of the sale of the assets of MinnPost, corporate reorganization, merger, change in control, or other similar transaction.
+
+We use Plaid Technologies, Inc. ("Plaid") to gather End User's data from financial institutions (only if the user chooses to make donations via ACH payment). By using our service, you grant MinnPost and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial instutition. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal). 
 
 Remember that any information you share in public areas, such as the MinnPost.com comments area, becomes public and therefore this Privacy Policy does not apply to any information you choose to make public. We encourage visitors to MinnPost.com to be cautious about what they disclose and that they do not post any personal information that they expect to keep private. Personally Identifiable Information is information that can be used to contact you or determine your specific identity.  If other information is linked to this information, it also becomes Personally Identifiable Information. ****
 
@@ -43,7 +45,7 @@ MinnPost.com employs a number of  security methods designed to prevent unauthor
 
 No data transmission over the Internet or any wireless network can be guaranteed to be secure.  As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk. We are not liable for the illegal acts of any third party.
 
-We do not encrypt normal web sessions, however any transmission to the MinnPost.com website or service of credit card information uses SSL encryption to help protect the data. ****
+We encrypt all web sessions on [MinnPost.com](http://minnpost.com/), including those involving credit card processing, using SSL encryption to help protect the data.
 
 ####  **Links to Other Sites**
 
