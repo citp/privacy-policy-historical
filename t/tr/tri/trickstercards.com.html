@@ -1,76 +1,186 @@
-<!--The following is the downloaded HTML source of the trickstercards.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316061411id_/https%3A//www.trickstercards.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trickstercards.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628153618id_/https%3A//www.trickstercards.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><title>
+<!DOCTYPE html><html><head prefix="og: http://ogp.me/ns#"><title>
 	Trickster Cards Privacy Policy
-</title><link href="../index.css" rel="stylesheet"></head>
-<body>
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+    <link rel="icon" type="image/png" href="/image/icons/favicon.ashx?game=Cards">
+    <meta property="og:title" content="Trickster Cards">
+    <meta property="og:description" content="Play the game you love with friends and family or get matched with other live players at your level. Trickster <%= GameName %> offers customizable rules so you can play <%= GameName %> your way!">
+    <meta property="og:image" content="https://www.trickstercards.com/image/cards-promo-300x300.png">
+    <meta property="og:url" content="https://www.trickstercards.com/">
+    <meta name="msapplication-tap-highlight" content="no">
+    <style>
+        @-ms-viewport { width: device-width; }
+    </style>
+    <link href="/home/index.css?rev=636023232000000000" rel="stylesheet ">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        (function() {
+            //  fix viewport on IE10 mobile
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var style = document.createElement("style");
+                style.textContent = "@-ms-viewport{width:auto!important}";
+                document.getElementsByTagName("head")[0].appendChild(style);
+            }
+        })();
+    </script>
+    <!--[if lt IE 9]>
+    <script src="/Scripts/html5shiv.min.js"></script>
+    <script src="/Scripts/respond.min.js"></script>
+    <![endif]-->
+    
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-75020539-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+
+    document.addEventListener && document.addEventListener("DOMContentLoaded", function () {
+        [].forEach.call(document.querySelectorAll("a[href],.outbound"), function (a) {
+            if (a.getAttribute("target") === "_blank") {
+                a.addEventListener("click", function () {
+                    ga('send', 'event', 'Outbound Link', 'click', a.href);
+                });
+            } else if (a.classList && a.classList.contains("play-now")) {
+                a.addEventListener("click", function (event) {
+                    event.preventDefault();
+                    ga('send', 'event', 'Outbound Link', 'click', a.href, {
+                        hitCallback: function () {
+                            location.href = a.href;
+                        }
+                    });
+                    setTimeout(function () { location.href = a.href }, 500);
+                });
+            } else if (a.click && a.classList && a.classList.contains("outbound")) {
+                a.addEventListener("click", function (event) {
+                    if (!a._hit) {
+                        event.preventDefault();
+                        event.stopImmediatePropagation();
+                        event.preventDefault();
+                        ga('send', 'event', 'Outbound Link', 'click', a.href, {
+                            hitCallback: function() {
+                                a._hit = true;
+                                a.click();
+                            }
+                        });
+                        setTimeout(function() {
+                            a._hit = true;
+                            a.click();
+                        }, 500);
+                    }
+                }, true);
+            }
+        });
+    });
+</script>
+</head>
+<body id="Body" data-brand="Cards">
+    
+
     <header>
         <div class="wrapper">
-            <a href="../../" class="logo-link"><img src="../../image/cards-header-428x200.png" id="logo" alt="Trickster Cards"></a>
+            <a class="logo-link" href="/">
+                <img id="logo" alt="Trickster Cards" src="/image/cards-header-428x200.png"></a>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="button" href="/home/help/">
+                            <span class="fa fa-question-circle"></span>
+                            <h2>Learn</h2>
+                            <div>How to play</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="button play-now" href="/game/">
+                            <span class="fa fa-play-circle"></span>
+                            <h2>Play</h2>
+                            <div>Now on this site</div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </nav>
         </div>
     </header>
-    <section id="tagline">
-        <div class="wrapper">Play cards with anyone, anywhere, on any device!</div>
-    </section>
-    <section id="main-body">
-        <div class="main-body-content">
-            
-    <h1>Privacy Policy
-    </h1>
-    <h2>What does this policy apply to?</h2>
-    <p>
-        This privacy policy of Trickster Cards, Incorporated (“Trickster Cards”)
-        covers how we collect and use information acquired as part of your use of the Trickster Cards apps and websites (collectively “services”)
-        created by us which link to this policy.
-    </p>
-    <p>
-        <em>By installing or using services linking to this policy, you consent to the terms and practices outlined herein.</em>
-    </p>
-    <h2>What information is collected?</h2>
-    <p>
-        We collect anonymous information including crash statistics, error logs,
-        types of hardware and browsers used, locale, and the timestamp of server requests.
-    </p>
-    <p>
-        We also collect personal information such as names, contact information, third party account IDs, and a history of played games
-        when you create and sign in with an account using one of our services.
-    </p>
-    <h2>How is the collected information used?</h2>
-    <p>
-        We use collected information to help improve our services.
-        For example, crash statistics and error logs are used to help identify and fix problems with services.
-        Similarly hardware, browser, locale, and timestamp information is used to improve testing of new features and fixes.
-        Lastly contact information and the history of played games are used to report statistics to users
-        and to facilitate re-connecting them with other users they've played with before.
-    </p>
-    <p>
-        We DO NOT sell or share collected information with third parties.
-    </p>
-    <h2>What about information collected by third parties?</h2>
-    <p>
-        Although we do not share information with third parties,
-        third parties can collect their own information when used to access services provided by us.
-    </p>
-    <p>
-        Please refer to the privacy policies of relevant third parties to understand what data they collect and how it is used.
-    </p>
-    <h2>Will this policy change?</h2>
-    <p>
-        This policy may be updated by us periodically.
-        You are encouraged to check this policy regularly to ensure you are aware of the latest terms.
-        Continued use of services provided by us constitutes an acceptance of these changes.
-    </p>
-    <h2>Questions?</h2>
-    <p>Contact Trickster Cards at <a href="mailto:support@trickstercards.com">support@trickstercards.com</a>.</p>
 
+    
+
+    <section id="games">
+        
+    <div class="wrapper"><a href="/home/spades/">Spades</a><a href="/home/euchre/">Euchre</a><a href="/home/hearts/">Hearts</a><a href="/home/pitch/">Pitch</a><a href="/home/bridge/">Bridge</a></div></section>
+
+    
+    
+        <section id="main">
+            <div class="wrapper">
+                
+    <div class="main-body-content">
+        <h1>Privacy Policy</h1>
+        <h2>What does this policy apply to?</h2>
+        <p>This privacy policy of Trickster Cards, Incorporated (“Trickster Cards”) covers how we collect and use information acquired as part of your use of the
+            Trickster Cards apps and websites (collectively “services”) created by us which link to this policy.</p>
+        <p><em>By installing or using services linking to this policy, you consent to the terms and practices outlined herein.</em></p>
+        <h2>What information is collected?</h2>
+        <p>We collect general information including crash statistics, error logs, types of hardware and browsers used, locale, IP address, and timestamp of server requests.</p>
+        <p>We collect play information including a player name, history of played games, gameplay statistics, and in-game friends.</p>
+        <p>We also collect personal information such as email addresses and third party account IDs if provided.</p>
+        <p>Visits to our web site outside our games are tracked by Google Analytics.</p>
+        <h2>How is the collected information used?</h2>
+        <p>We use collected information to help improve our services. For example, crash statistics and error logs are used to help identify and fix problems with services.
+            Similarly, hardware, browser, locale, and timestamp information is used to improve testing of new features and fixes. IP addresses are used to help identify where different games are popular.</p>
+        <p>Play information such as the history of played games and in-game friends are used to report statistics to users and facilitate re-connecting them with others they’ve played with before.</p>
+        <p>Lastly, personal information such as email addresses and third party account IDs are used to enable users to share their play information across multiple games and devices.</p>
+        <p>Users who submit feedback also have the option of sharing their email address for the purpose of a reply.</p>
+        <h2><a id="aboutCookies"></a>Cookies</h2>
+        <p>In our game and apps, we use a cookie to remember your player ID and settings.</p>
+        <p>We use a cookie outside the United States and Canada to remember if you dismiss the “We use cookies…” banner.</p>
+        <p>On web site pages outside our games, a cookie is used by Google Analytics to remember you between visits.</p>
+        <p>Finally, cookies are used by our advertising provider (Google) when an ad is displayed before a game (see “What about ads?” below).</p>
+        <h2>What about third parties?</h2>
+        <p>We DO NOT sell or share collected information with third parties.</p>
+        <p>However, third parties can collect their own information when used to access services provided by us. Please refer to the privacy policies of relevant third parties
+            (for example, your app store) to understand what data they collect and how it is used.</p>
+        <p>Other users are shown only your player name. In-game friends may also see if you are currently playing. Neither see your contact information.</p>
+        <h2><a id="aboutAds"></a>What about ads?</h2>
+        <p>When you view ads using our services, our advertising provider uses cookies to serve ads based on prior visits. Google’s use of the DoubleClick cookie enables it and its
+            partners to serve ads based on visits to our services and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based
+            advertising by visiting <span><a href="http://www.google.com/ads/preferences/" target="_blank">Google’s Ads Settings</a>.</span><span hidden="">Google’s Ads Settings (http://www.google.com/ads/preferences/).</span></p>
+        <h2>Will this policy change?</h2>
+        <p>This policy may be updated by us periodically. You are encouraged to check this policy regularly to ensure you are aware of the latest terms. Continued use of services
+            provided by us constitutes an acceptance of these changes.</p>
+        <h2>Questions?</h2>
+        <p>Contact Trickster Cards using <a href="/home/feedback.aspx" target="_self" data-title="Send Feedback">
+            our feedback form</a>.</p>
+    </div>
+
+            </div>
+        </section>
+    
+
+    
+    
+
+    <section class="game-links">
+        <div class="wrapper">
+            <ul id="gameLinksList">
+                
+            <li><a href="/home/spades/"><img src="/home/logos/spades-logo-342x160.png" alt="Trickster Spades"></a></li>
+<li><a href="/home/euchre/"><img src="/home/logos/euchre-logo-342x160.png" alt="Trickster Euchre"></a></li>
+<li><a href="/home/hearts/"><img src="/home/logos/hearts-logo-342x160.png" alt="Trickster Hearts"></a></li>
+<li><a href="/home/pitch/"><img src="/home/logos/pitch-logo-342x160.png" alt="Trickster Pitch"></a></li>
+<li><a href="/home/bridge/"><img src="/home/logos/bridge-logo-342x160.png" alt="Trickster Bridge"></a></li>
+</ul>
         </div>
     </section>
+
     <footer>
         <div class="wrapper">
-            <div id="copyright">
-                © 2014-15 Trickster Cards, Incorporated. <span>All rights reserved.</span> &nbsp;|&nbsp; <a href="./">Privacy Policy</a> &nbsp;|&nbsp; <a href="../credits/">Credits</a>
-            </div>
+            © 2014-16 Trickster Cards, Incorporated. <span>All rights reserved.</span> &nbsp;|&nbsp; <a href="/privacy/">Privacy Policy</a>
+            &nbsp;|&nbsp; <a href="/home/credits/">Credits</a> &nbsp;|&nbsp; <a href="/home/feedback.aspx">Contact Us</a>
         </div>
     </footer>
 
