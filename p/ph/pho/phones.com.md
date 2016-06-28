@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phones.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227030206id_/http%3A//www.phones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phones.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628062615id_/http%3A//www.phones.com/privacy) for the most accurate reproduction.*
 
 # Phones.com - Privacy Policy
 
