@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928082929id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628130057id_/http%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incisive Media
 
