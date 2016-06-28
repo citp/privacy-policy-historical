@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201151031id_/http%3A//wtov9.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628104229id_/http%3A//wtov9.com/station/privacy) for the most accurate reproduction.*
 
 # Steubenville Privacy | News, Weather, Sports, Breaking News | WTOV
 
