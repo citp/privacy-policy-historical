@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnonews.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231131218id_/http%3A//bnonews.com/news/index.php/news/id260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnonews.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628233516id_/http%3A//bnonews.com/news/index.php/news/id260) for the most accurate reproduction.*
 
 # Privacy Policy - BNO News
 
@@ -15,11 +15,13 @@ This website uses cookies from Google services, including Google Analytics and G
 
 Like many services, Google Analytics uses first-party cookies to track visitor interactions. Cookies contain information that is transferred to your computer’s hard drive. These cookies are used to store information, such as the time that the current visit occurred, whether the visitor has been to the site before and what site referred the visitor to the web page. 
 
-Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit [this Google page](https://tools.google.com/dlpage/gaoptout).
+Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit [this Google page](https://tools.google.com/%3Cbr%20/%3Edlpage/gaoptout).
 
 BNO News also uses third party advertisements to help support our business. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our website, which will also send these these third party advertisers (such as Google through the Google AdSense program) certain information, including your IP address, your ISP, the browser you used to visit our site, and, in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:   
+http://www.networkadvertising.org/  
+managing/opt_out.asp
 
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
 
@@ -32,6 +34,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 If you have any questions regarding our privacy policy and use of cookies, please contact legal@bnonews.com
-
-  
-
