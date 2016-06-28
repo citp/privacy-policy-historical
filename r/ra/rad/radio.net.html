@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radio.net privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226081252id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radio.net privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628155022id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
@@ -11,8 +11,16 @@
         }
         </style>
 
-        <script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M5D9G2"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">
-            var radio_userAgentType='UNKNOWN';
+        <script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M5D9G2"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+
+            
+
+
+
+    //setup url for fallback station logo
+    window.stationLogo = '/inc/v2/images/avatars/station_avatar.gif';
+
+    var radio_userAgentType='UNKNOWN';
 
             
 
@@ -20,17 +28,59 @@
 
             
 
-           var _prum = [['id', '54e87708abe53dbc4fc772da'],
-           ['mark', 'firstbyte', (new Date()).getTime()]];
-           (function() {
-           var s = document.getElementsByTagName('script')[0]
-           , p = document.createElement('script');
-           p.async = 'async';
-           p.src = '//rum-static.pingdom.net/prum.min.js';
-           s.parentNode.insertBefore(p, s);
-           })();
+                           // a logger that does not require a session id
+                           function PlaylogLogger(){
 
-           
+                               var playerSettings = null;
+
+                               // member
+                               this.sessionID = null;
+                               this.log = function(){};
+
+                               // search for a cookie
+                               var cookieName = 'radio-player-settings';
+                               if (document.cookie.length > 0) {
+                                   var start = document.cookie.indexOf(cookieName + "=");
+                                   if (start != -1) {
+                                       start = start + cookieName.length + 1;
+                                       var end = document.cookie.indexOf(";", start);
+                                       if (end == -1) {
+                                           end = document.cookie.length;
+                                       }
+                                       playerSettings = unescape(document.cookie.substring(start, end));
+                                   }
+                               }
+
+                               // get or create new sessionID
+                               if ( playerSettings == null  || !playerSettings.trim() || !playerSettings.indexOf('|') > 10 ) {
+                                   this.sessionID = Math.random().toString(16).substr(2,7) + "" + Math.random().toString(16).substr(2,7);
+                               } else {
+                                   this.sessionID = playerSettings.split('|')[0];
+                               }
+
+                               var url = 'http://api.radio.net/info/v2/user/log';
+                               //var apiKey = '7508cfe5d9f52c13b3b0d80976fdc0741e249829';
+                               var apiKey = '7508cfe5d9f52c13b3b0d80976fdc0741e249829';
+
+                               this.log = function(event,method) {
+
+                                   var message = url;
+                                   var xmlHttp = new XMLHttpRequest();
+                                   xmlHttp.withCredentials = true;
+                                   message += '?event=' + event;
+                                   message += '&uuid=' + this.sessionID;
+                                   message += '&timestamp=' + Date.now();
+                                   message += '&method=' + method;
+                                   message += '&apikey=' + apiKey;
+                                   message += '&playertype=' + (radio_userAgentType === 'BROWSER' ? 'web_full' : 'web_full_mobile');
+                                   xmlHttp.open( "GET", message, true );
+                                   xmlHttp.send( );
+                                   return xmlHttp.responseText;
+
+                }
+            }
+
+            
             radioEventLog = {log:function(){}};
             
 
@@ -38,10 +88,10 @@
 
 
         </script>
-        <script src="//cdn.optimizely.com/js/3543432145.js"></script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="robots" content="noindex"><title>Privacy Policy</title>
+        <meta name="robots" content="noindex"><link rel="canonical" href="http://www.radio.net/privacypolicy/">
+                <title>Privacy Policy</title>
 
         <meta name="description" content="Privacy Policy">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -53,45 +103,75 @@
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:site_name" content="radio.net">
         <meta property="og:description" content="Privacy Policy">
-        <meta property="og:image" content="http://static.radio.net/inc/v2/images/sprites/icons/retina/logo-radio-pictogramm.png">
+        <meta property="og:image" content="http://static.radio.net/inc/v2/images/app-stores/square_512x512_playstore.png">
         <meta property="og:url" content="http://www.radio.net//privacypolicy">
 
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="Privacy Policy">
         <meta name="twitter:description" content="Privacy Policy">
-        <meta name="twitter:image" content="http://static.radio.net/inc/v2/images/sprites/icons/retina/logo-radio-pictogramm.png">
+        <meta name="twitter:image" content="http://static.radio.net/inc/v2/images/app-stores/square_512x512_playstore.png">
         <meta name="twitter:url" content="http://www.radio.net//privacypolicy">
 
         
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA4BV1RADgAJVVdbBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><!--[if lte IE 9]>
-            <link href="http://static.radio.net/inc/v2/styles/radio_blessed-blessed2.css?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3" rel="stylesheet" type="text/css" />
-            <link href="http://static.radio.net/inc/v2/styles/radio_blessed-blessed1.css?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3" rel="stylesheet" type="text/css" />
-            <link href="http://static.radio.net/inc/v2/styles/radio_blessed.css?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3" rel="stylesheet" type="text/css" />
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA4BV1RADgAJVVdbBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script><!--[if lte IE 9]>
+            <link href="http://static.radio.net/inc/v2/styles/radio_blessed-blessed2.css?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829" rel="stylesheet" type="text/css" />
+            <link href="http://static.radio.net/inc/v2/styles/radio_blessed-blessed1.css?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829" rel="stylesheet" type="text/css" />
+            <link href="http://static.radio.net/inc/v2/styles/radio_blessed.css?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829" rel="stylesheet" type="text/css" />
         <!--<![endif]-->
         <!--[if (gt IE 9)|!(IE)]><!-->
-            <link href="http://static.radio.net/inc/v2/styles/radio.css?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3" rel="stylesheet" type="text/css">
+            <link href="http://static.radio.net/inc/v2/styles/radio.css?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829" rel="stylesheet" type="text/css">
         <!--<![endif]-->
 
-        <link rel="shortcut icon" href="http://static.radio.net/inc/v2/favicon.ico?v=2&amp;_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3">
-        <link rel="apple-touch-icon" href="http://static.radio.net/inc/v2/apple-touch-icon.png?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3">
+        <link rel="shortcut icon" href="http://static.radio.net/inc/v2/favicon.ico?v=2&amp;_=7508cfe5d9f52c13b3b0d80976fdc0741e249829">
+        <link rel="apple-touch-icon" href="http://static.radio.net/inc/v2/apple-touch-icon.png?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829">
 
-        <!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/html5shiv/dist/html5shiv.min.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script><![endif]-->
-        <!--[if lte IE 7]><script src="http://static.radio.net/inc/v2/bower_components/json3/lib/json3.min.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script><![endif]-->
-        <!--[if lte IE 9]><script src="http://static.radio.net/inc/v2/js/vendor/xhr-xdr-adapter.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script><![endif]-->
+        <!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/html5shiv/dist/html5shiv.min.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script><![endif]-->
+        <!--[if lte IE 7]><script src="http://static.radio.net/inc/v2/bower_components/json3/lib/json3.min.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script><![endif]-->
+        <!--[if lte IE 9]><script src="http://static.radio.net/inc/v2/js/vendor/xhr-xdr-adapter.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script><![endif]-->
         <!--[if lte IE 9]><script src="https://api.radio.net/inc/v2/js/vendor/xdomain/xdomain.js" slave="https://api.radio.net/proxy.html" debug="true"></script><![endif]-->
 
         <script type="text/javascript">
-            var radio_adblockActive = true;
-            window.addEventListener("message", receiveMessage, false);
-            function receiveMessage(event) {
-                if (event.data === 'AdBlockInactive') {
-                    radio_adblockActive = false;
-                }
-            }
-        </script>
+var radio_adblockActive = true;
+var radio_blockPreroll = false;
+function getCookie(cname) {
+var name = cname + "=";
+var ca = document.cookie.split(';');
+for(var i = 0; i <ca.length; i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') {
+c = c.substring(1);
+}
+if (c.indexOf(name) == 0) {
+return c.substring(name.length,c.length);
+}
+}
+return "";
+}
+if(getCookie('google_nomod') == 547){
+radio_blockPreroll = true;
+}
+window.addEventListener("message", receiveMessage, false);
+function receiveMessage(event) {
+if (event.data === 'AdBlockInactive') {
+radio_adblockActive = false;
+}
+if(event.data === 'blockPreroll'){
+radio_blockPreroll = true;
+}
+}
 
-
-        <script type="text/javascript">
+var radio_adblockEventLog = new PlaylogLogger();
+if (window.postMessage) {
+var sendAdblockStatus = function () {
+radio_adblockEventLog.log(radio_adblockActive ? 'adBlockActive' : 'adBlockInactive', '');
+};
+if (document.readyState === "complete") {
+sendAdblockStatus();
+}
+window.addEventListener("load", sendAdblockStatus, false);
+}
+</script>
+<script type="text/javascript">
             window.radioEventLog.log('PERFORMANCE','index.header.playerapi.loaded');
         </script>
 
@@ -115,15 +195,103 @@
 
                     
                     omsv_centered=true;
-                    if(typeof rmsi_site=='undefined'){rmsi_site='rmsi.radio.de'};
-                    if(typeof rmsi_zone=='undefined'){rmsi_zone='entertainment'};
+
+
+
+                    
+                            if(typeof rmsi_site=='undefined'){rmsi_site='rmsi.radio.de'};
+                            if(typeof rmsi_zone=='undefined'){rmsi_zone='entertainment'};
+                        
+
+
+                    //adjust oms ads to the right position
+                    var adlWallPaperLeft = (Number(window.innerWidth)/2) + (1024/2);
+                    var oms_sbwp_top = 166;
+
+
             </script>
+        
 
-            <script src="http://static.radio.net/inc/v2/inc/ads/rms_omsvjs14_1.min.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script>
-
+            <script type="text/javascript" src="http://www.video.oms.eu/ada/cloud/omsv_container_151.js" charset="UTF-8"></script>
 
             <script type="text/javascript">
-                try{var ystr="";var y_adj="";for(var id in yl.YpResult.getAll()){c=yl.YpResult.get(id);ystr+=";y_ad="+c.id;if(c.format){y_adj=";y_adj="+c.format;}}ystr+=y_adj+";";WLRCMD=WLRCMD+ystr+segQS+crtg_content;}catch(err){}
+
+
+            
+
+            (function () {
+                'use strict';
+                var mmTime = 0;
+                var mmMoveDiv = setInterval(function () {
+
+                var eyeDivElement = document.getElementById('eyeDiv');
+
+                    if (eyeDivElement) {
+
+                        eyeDivElement.style.zIndex = '1';
+
+                        var refreshAdInterval = setInterval(function(){
+                            //trigger window resize to get some of the L shaped ads to correct position
+                            if (Event.prototype.initEvent){
+                                //for older browsers
+                                var evt = document.createEvent('UIEvents');
+                                evt.initUIEvent('resize', true, false, window, 0);
+                                window.dispatchEvent(evt);
+                            } else {
+                                window.dispatchEvent(new Event('resize'));
+                            }
+
+                            console.log('resize enforce');
+                        },200);
+                        
+                        clearInterval(mmMoveDiv);
+                    } else {
+                        if (mmTime < 10) {
+                            
+                            mmTime += 1;
+                        } else {
+                            
+                            clearInterval(mmMoveDiv);
+                        }
+                    }
+                }, 1000);
+            })();
+
+            
+
+
+            (function () {
+                'use strict';
+                var mmTime = 0;
+                var mmMoveDiv = setInterval(function () {
+                    
+                    var mmLayer = document.getElementsByClassName('adform-adbox')[0];
+                    var mmLayerTop = document.getElementsByClassName('adform-adbox')[2];
+                    if (mmLayer) {
+
+                        var oldResize = window.onresize;
+                        window.onresize = function() {
+                            if (typeof oldResize === 'function') {
+                                oldResize();
+                            }
+                            mmLayer.style.left = (Number(window.innerWidth)/2) + (1024/2) + 'px';
+                            mmLayerTop.style.left = ((Number(window.innerWidth)/2) + (1024/2) - mmLayerTop.clientWidth) + 'px';
+                        };
+
+                        
+                        clearInterval(mmMoveDiv);
+                    } else {
+                        if (mmTime < 10) {
+                            
+                            mmTime += 1;
+                        } else {
+                            
+                            clearInterval(mmMoveDiv);
+                        }
+                    }
+                }, 1000);
+            })();
+
 
                 
                 (function () {
@@ -158,6 +326,7 @@
                                     oldResize();
                                 }
                                 mmLayer.style.left = 0;
+                                mmLayer.style.top = 0;
                             };
 
                             
@@ -197,6 +366,9 @@
                             for(var index in pubadsTargeting) {
                                 googletag.pubads().setTargeting(index, pubadsTargeting[index]);
                             }
+
+                            googletag.pubads().disableInitialLoad();
+                            googletag.pubads().collapseEmptyDivs(true, true);
                             googletag.enableServices();
                         });
 
@@ -390,6 +562,7 @@
                                 if((typeof googletag.adTagsLoaded[id] === 'undefined')) {
                                     googletag.adTagsLoaded[id] = googletag.defineSlot(found.slot, found.sizes, id).addService(googletag.pubads());
                                     googletag.display(id);
+                                    googletag.pubads().refresh([googletag.adTagsLoaded[id]]);
                                 } else {
                                     googletag.pubads().refresh([googletag.adTagsLoaded[id]]);
                                 }
@@ -404,19 +577,17 @@
                             }
                         }
             </script>
-
-            <script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
-
         <script type="application/ld+json">
         {
             "@context" : "http://schema.org",
             "@type" : "Organization",
             "name" : "radio.de GmbH",
             "url" : "http://www.radio.net",
+            "logo" : "http://static.radio.net/inc/img/logo/radio.net_square_icon_150x150.jpg",
             "sameAs" : [
                 "https://www.facebook.com/www.radio.net",
                 "https://twitter.com/www_radio_net",
-                "https://plus.google.com/u/0/b/108705562879123806360/108705562879123806360/posts",
+                "https://plus.google.com/108705562879123806360/posts",
                 "https://www.linkedin.com/company/radio-de-gmbh",
                 "https://www.xing.com/companies/radio.degmbh",
                 "https://www.youtube.com/channel/UC-dohN1qDPouhSHxKQNPwRQ?guided_help_flow=3"
@@ -426,6 +597,7 @@
 
     </head>
     <body data-page-id="privacy" class="radio-us  privacy">
+
 
     <div class="hidden">
                     <div id="gpt_preroll">
@@ -443,88 +615,76 @@
             <div class="container">
                 <div class="row">
                     <div class="top-bar-inner-left col-xs-3">
+
                         <div class="top-bar-logotype">
-                            <a href="http://www.radio.net"><span class="hidden">radio.de</span></a>
+                            <div class="radio-logo">
+                                <a href="http://www.radio.net/"></a>
+                                <div class="radio-logo-in">
+                                    <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-radio-logo-dot"> </use></svg>
+                                    <svg class="icon icon-radio-logo-tenant"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-radio-logo-us"> </use></svg>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+
+
+                        </div>
                     <div class="top-bar-inner-right col-xs-9 text-right">
                         <div class="profile-dropdown-wrapper">
                                 <div ng-controller="profileDropdownController">
-                                    <div id="profile-dropdown" dropdown="">
-                                        <a href="" class="profile-dropdown-login-link" ng-if="userService.state.isLoggedOut" ng-click="!disableLoginLink &amp;&amp; modalService.show('login')" ng-class="{ 'enabled': enableLoginLink }"><span>Log in / Register</span></a>
-                                        <span class="profile-dropdown-toggle ng-cloak animated fadeIn" dropdown-toggle="" ng-if="userService.state.isLoggedIn"><img ng-src="{{ userService.getUser().picture }}" alt=""></span>
+                                    <div id="profile-dropdown" dropdown="" is-open="status.isOpen">
+                                        <a href="" class="profile-dropdown-login-link" ng-if="userService.state.isLoggedOut" ng-click="!disableLoginLink &amp;&amp; modalService.show('login')" ng-class="{ 'enabled': enableLoginLink }">
+                                            <svg class="icon icon-user"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-user"></use></svg>
+                                            <span>Log in / Register</span>
+                                        </a>
+                                        <span class="profile-dropdown-toggle ng-cloak animated fadeIn" ng-click="toggleDropdownState($event)" ng-if="userService.state.isLoggedIn"><img ng-src="{{ userService.getUser().picture }}" alt=""></span>
                                         <ul class="dropdown-menu inverted top-bar-dropdown" role="menu">
                                             <li class="profile-dropdown-username"><span ng-bind="userService.getUser().firstName"></span> <span ng-bind="userService.getUser().name"></span> <span ng-if="! userService.getUser().firstName &amp;&amp; ! userService.getUser().name" ng-bind="userService.getUser().login"></span></li>
                                             <li class="top-bar-dropdown-listing">
-                                                <div class="top-bar-dropdown-listing-headline top-bar-dropdown-listing-favourites">My Favorites</div>
+                                                <div class="top-bar-dropdown-listing-headline top-bar-dropdown-listing-favourites">
+                                                    <svg class="icon icon-heart"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-heart"></use></svg>
+                                                    My Favorites</div>
                                                 <ul class="list-inline">
-                                                    <li ng-if="hasBookmarks" ng-repeat="bookmark in bookmarks"><a ng-click="routeToSubdomain(bookmark.subdomain)"><img ng-src="{{ bookmark.logo44x44 }}" alt=""></a></li>
+                                                    <li ng-if="hasBookmarks" ng-repeat="bookmark in bookmarks"><a ng-click="routeToSubdomain(bookmark.subdomain)"><img ng-src="{{ bookmark.logo44x44 }}" alt="" onerror="this.src=window.stationLogo;"></a></li>
                                                     <li ng-class="{'top-bar-link': hasBookmarks}">
-                                                        <a ng-if="hasBookmarks" href="/favorites/">See all</a>
+                                                        <span ng-if="hasBookmarks" personal-link="/favorites/">See all<svg class="icon icon-arrow-right"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-arrow-right"></use></svg>
+                                                        </span>
                                                         <span ng-if="! hasBookmarks">You don't have any favorites yet.</span>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="top-bar-dropdown-listing">
-                                                <div class="top-bar-dropdown-listing-headline top-bar-dropdown-listing-recently">Recently Played</div>
+                                                <div class="top-bar-dropdown-listing-headline top-bar-dropdown-listing-recently">
+                                                    <svg class="icon icon-clock"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use></svg>
+                                                    Recently Played</div>
                                                 <ul class="list-inline">
-                                                    <li ng-if="hasRecents" ng-repeat="recent in recents"><a ng-click="routeToSubdomain(recent.subdomain)"><img ng-src="{{ recent.logo44x44 ? recent.logo44x44 : templatePrefix + '/images/avatars/station_avatar.gif' }}" alt=""></a></li>
+                                                    <li ng-if="hasRecents" ng-repeat="recent in recents"><a ng-click="routeToSubdomain(recent.subdomain)"><img ng-src="{{ recent.logo44x44 ? recent.logo44x44 : templatePrefix + '/images/avatars/station_avatar.gif' }}" alt="" onerror="this.src=window.stationLogo;"></a></li>
                                                     <li ng-class="{'top-bar-link': hasRecents}">
-                                                        <a ng-if="hasRecents" href="/recents/">See all</a>
+                                                        <span ng-if="hasRecents" personal-link="/recents/">See all<svg class="icon icon-arrow-right"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-arrow-right"></use></svg>
+                                                        </span>
                                                         <span ng-if="! hasRecents">You haven't listened to any stations recently.</span>
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="profile-dropdown-account-link"><a href="/my_radio.jsf/">My Profile</a></li>
-                                            <li class="profile-dropdown-logout-link"><a ng-click="logoutAndClose()">Log out</a></li>
+                                            <li class="profile-dropdown-account-link">
+                                                <span personal-link="/my_radio.jsf/">
+                                                    <svg class="icon icon-user"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-user"></use></svg>
+                                                    My Profile</span>
+                                            </li>
+                                            <li class="profile-dropdown-logout-link">
+                                                <a ng-click="logoutAndClose()">
+                                                    <svg class="icon icon-logout"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-logout"></use></svg>
+                                                    Log out</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
 
                             </div>
                         <div class="country-language-selector-wrapper">
-<div ng-controller="countryLanguageSelectorController">
-<div id="country-language-selector" dropdown="" is-open="status.isOpen">
-<div class="country-language-selector-current" dropdown-toggle=""><span class="icon-flag-us"></span></div>
-<ul class="dropdown-menu inverted top-bar-dropdown top-bar-dropdown-with-links" role="menu">
-<li>
-<a href="http://www.radio.de">
-<span class="icon-flag-de"></span> Germany</a>
-</li>
-<li>
-<a href="http://www.radio.at">
-<span class="icon-flag-at"></span> Austria</a>
-</li>
-<li>
-<a href="http://www.radio.fr">
-<span class="icon-flag-fr"></span> France</a>
-</li>
-<li>
-<a href="http://www.radio.pt">
-<span class="icon-flag-pt"></span> Portugal</a>
-</li>
-<li>
-<a href="http://www.radio.es">
-<span class="icon-flag-es"></span> Spain</a>
-</li>
-<li>
-<a href="http://www.radio.dk">
-<span class="icon-flag-dk"></span> Denmark</a>
-</li>
-<li>
-<a href="http://www.radio.se">
-<span class="icon-flag-se"></span> Sweden</a>
-</li>
-<li>
-<a href="http://www.radio.it">
-<span class="icon-flag-it"></span> Italy</a>
-</li>
-<li>
-<a href="http://www.radio.pl">
-<span class="icon-flag-pl"></span> Poland</a>
-</li>
-</ul>
-</div>
+<div id="country-language-selector">
+<a href="http://www.radio.net/language-select/" class="country-language-selector-current">
+<svg class="flag icon-flag-us"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-flag-us"></use></svg>
+</a>
 </div>
 </div><div class="instant-search-wrapper"></div></div>
                 </div>
@@ -544,77 +704,72 @@
 
 
 <div id="content" role="main">
-<div id="content-wrapper" class="content-bg">
+<div id="content-wrapper" class="content-bg privacy-policy-counting">
 <div class="container">
-<h1>Privacy Policy</h1>
-<p>
-We, radio.de GmbH, Mühlenkamp 59, 22303 Hamburg, Deutschland, enable you to use our audio services in a variety of ways. The following Privacy Terms apply irrespective of whether our services are provided via the www.radio.net portal, another Internet portal, an application available on the Internet, a client device or in any other way. Safeguarding your personal information is a matter of great importance for us. Personal information refers to data describing an individual's personal or material circumstances, including name, address, postal address, email address, telephone number and IP address, but excluding information that cannot be connected to you.<br>
-                As a private enterprise (private law company), we are subject to the provisions of the German Privacy Act (BDSG) and the German Telemedia Act (TMG), with which we are in strict compliance. We have further taken technical and organizational measures to ensure compliance with data protection law.
-By using or registering for our services, you express your agreement, which may be revoked at any time, with our collecting, storing and using your personal information subject to these terms. Please read our Privacy Terms so you will know how we use your personal information after it is compiled. If you have any questions about our Privacy Terms, please contact us by email, at privacy@radio.net.
-            </p>
-
-            <ul>
-                <li><a ng-click="scrollTo('privacypolicy-01')">Scope, nature and purpose of data processing</a></li>
-                <li><a ng-click="scrollTo('privacypolicy-02')">Disclosing personal information to third parties</a></li>
-                <li><a ng-click="scrollTo('privacypolicy-03')">Right of revocation</a></li>
-                <li><a ng-click="scrollTo('privacypolicy-04')">Right to receive information and privacy officer</a></li>
-                <li><a ng-click="scrollTo('privacypolicy-05')">Mobile-Applications</a></li>
-            </ul>
-
-            <h2 id="privacypolicy-01">Scope, nature and purpose of data processing</h2>
-
-            <p>
-            Whenever our services are used, we automatically collect and store information in our server log files that your browser transmits to us when you use our audio service. Such information includes browser type, IP address, your current station inquiries as well as the date and time of each action. This data is stored for statistical purposes and to facilitate user-behavior analyses designed to improve existing services and develop new ones. Accordingly, such data is not used to create a personal profile of you and is deleted or made anonymous in regular intervals. For some of the services we offer, we also store certain information in the form of "cookies" - i.e., small text files stored on your computer. The use of cookies is easy to prevent: You simply deactivate the acceptance of cookies in your browser settings. If you accept cookies, we store data in cookies placed on your hard drive that we access whenever our website is visited using the same computer and browser. This enables us to better understand the behaviors of our users and, consequently, to adapt our contents and services to better suit their needs.<br>
-            When you register with us, we collect the following data: user name, user ID and email address. We require this data in order to enable you, for example, to save a list of favorites and for us to contact you. Moreover, it allows us to prevent double-registrations. We also associate with such data audio content that you frequently select and/or have recently listened to in order to be able to make such content available to you upon demand and customize our website to suit your preferences and interests. If you provide information about your preferences (e.g., favorite musical genres and themes), we will likewise store them, allowing us to make recommendations with each use. In addition, we may ask you for additional personal information during the registration process, such as name, date of birth, age or gender, such information also being used for the purposes outlined above. Whether you provide the requested information is entirely up to you.
-Finally, we use your email address to send you our newsletter if you expressly agree to such use when you registered or at any other time. Our newsletter contains up-to-date and interesting information about radio.
-            </p>
-
-            <a ng-click="scrollToTop()">Back to top</a>
-
-            <h2 id="privacypolicy-02">Disclosing personal information to third parties</h2>
-
-            <p>
-                We do not share your personal information with third parties without your consent. If, when we engage service providers, data is disclosed to service providers, such entities are likewise bound by BDSG and other legal provisions. Otherwise, your personal information will only be provided to authorities entitled to receive such data and to the extent that we are required to do so by applicable law or court order.
-Some of the contents you introduce as part of our audio services, such as playlists, comments and ratings, may be viewed by other users. For this reason, you should check your postings for information that is not intended for the public. If you want to post anonymously, you should select a user name that will not reveal your identity since the user name is published along with any posting.
-If you make use of our audio services as part of a social community, we provide a platform adapted to the needs of the social community to facilitate an exchange about the use of our services with third parties. Depending on the community, this may mean that some of your data (such as your list of favorites or a list of most recently selected content) is accessible to other community members. For details, please consult the general terms of use as well as the privacy terms of the social community you want to use.
-            </p>
-
-            <a ng-click="scrollToTop()">Back to top</a>
-
-            <h2 id="privacypolicy-03">Right of revocation</h2>
-
-            <p>
-            You may revoke your consent to the collection, storage and use of the aforementioned data by us at any time, for any reason, by sending an email to privacy@radio.net. However, please note that without collecting, storing and using your data, we can only offer limited audio services because our service is partly tied to such data (for example, no list of favorites or personal radio station recommendation may be created or stored if the data compiled during your registration is not stored).<br>
-            You have the right to view, edit, correct or delete the personal information collected by us at any time. Under "My Profile," you can delete your user account at any time by clicking on "Delete Account."
-If you want to cancel your newsletter subscription, please send an email to contact@radio.net. In addition, each of our newsletters contains a link allowing you to revoke your consent and cancel the newsletter.
-            </p>
-
-            <a ng-click="scrollToTop()">Back to top</a>
-
-            <h2 id="privacypolicy-04">Right to receive information and privacy officer</h2>
-
-            <p>
-                You are entitled, at any time, to receive - and our privacy officer will be glad to provide - a copy of the personal information that we store on you, its origin and recipients as well as the purpose of its storage. For all other questions, suggestions and comments on the issue of privacy, please contact our privacy officer at privacy@radio.net.
-            </p>
-
-            <a ng-click="scrollToTop()">Back to top</a>
-            
-            <h2 id="privacypolicy-05">Mobile-Applications</h2>
-
-            <p>
-                radio.net offers you location based services. Location services provide data to the App for this purpose. The data enables the App to determine your approximate location (network-based) - provided that location services are available on your device and have been activated. The location services use network location sources such as transmission towers or WLAN. The approximate location will only be determined in order to support the Location Feature of the App. The Location Feature displays regional radio stations of your current environment. At any time, you have the possibility to deactivate the location service on your device.
-            </p>
-            
-            <a ng-click="scrollToTop()">Back to top</a>
-
-        </div>
-
-    </div>
+<h1>Privacy Statement Pursuant to Section 13 of the German Telemedia Act (TMG)</h1>
+<p>By means of this privacy statement we will inform you of the nature, scope and purpose of the collection and use of personal data pursuant to section 13 of the German Telemedia Act when using the website www.radio.net and the services provided on the website.</p>
+<h2 id="privacypolicy-01">Data Controller</h2>
+<p>The Data Controller, as defined by German data protection law, is radio.de GmbH, Mühlenkamp 59, 22303 Hamburg, Germany.</p>
+<h2>Personal Data</h2>
+<p>Personal data are any information concerning the personal or material circumstances of an identified or identifiable individual (the data subject) such as name, address, postal address, e-mail address, phone number and IP-address.</p>
+<h2>Audio Service</h2>
+<p>While you are using our audio service we will automatically save information to our server log files, which is transmitted to us by your browser. This information includes the type of browser, the IP-address, your current radio station request, as well as the date and time of each action. These data are saved exclusively for statistical purposes in order to implement analyses regarding user behaviour for the purposes of improving and developing new services. We do not use this information to create a personal profile.</p>
+<h2>Login/Register</h2>
+<p>Some of our services (e.g. saving of preferred radio stations as favorites) require prior registration and login. &nbsp;In the course of registration we collect and store the following personal data: a user name selected by you, your e-mail address and a password selected by you.</p>
+<p>Alternatively, we offer you the possibility to register by using the data saved in your Facebook or Google account via the functions “LOGIN WITH FACEBOOK” or “LOGIN WITH GOOGLE+”. By using the aforementioned functions you agree to let us access the basic user data saved in your user account, i.e. the data which is publically visible on the social network, as well as to collect, process and use the e-mail address and further data which is necessary for the registration outlined in this privacy statement.</p>
+<h2>My Profile</h2>
+<p>As a registered user you have the possibility of adding further personal information to your profile. Furthermore, we offer you the possibility to create your favorite list of radio stations and songs, which can be retrieved via your profile to quickly access your favorite radio stations. Additionally, we will be able to recommend to you further radio stations related to your list of favorites. You may change or delete this information as well as the list of favorites in your profile at any time. Furthermore, you have the possibility to delete your account completely. Your personal data will then be automatically deleted.</p>
+<h2>Newsletter</h2>
+<p>Subject to the following consent, which must be expressly granted by you, we will use your e-mail address to send you our newsletter: <i>“I wish to receive the radio.net newsletter”</i>. You may unsubscribe from the newsletter at any time by clicking on the respective link in the newsletter. With our newsletter you will regularly receive current and interesting information around the topic of radio. </p>
+<h2>Support Function</h2>
+<p>If you require support when using our services, you may directly request it by clicking on the button “Support”. To answer your question we require your e-mail address. We will use the e-mail address given to us within the framework of this function exclusively for the purpose of answering your questions.</p>
+<h2>Linking Agreement</h2>
+<p>The personal data entered via the Linking Agreement will only be used by us for the implementation of the contractual relationship.</p>
+<h2>radio.net App Download</h2>
+<p>To receive direct links to our app offers in the app store we offer you the opportunity to actively submit your e-mail address on various subpages of radio.net. This exclusively serves the purpose of making access to our apps easier for you. You will only receive this e-mail if you have given us the following consent: “I wish to receive download links via e-mail for the radio.net apps”.</p>
+<h2>Social Plugins</h2>
+<h3>Facebook</h3>
+<p>We use social plugins (“plugins”) for the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook“), on our website. These plugins are usually indicated by the Facebook logo. An overview of the plugins and their appearance can be found here: https://developers.facebook.com/docs/plugins</p>
+<p>When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Facebook servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Facebook will receive information stating that your browser has accessed the relevant page of our website, even if you do not have a Facebook profile or are currently not logged into Facebook. This information (including your IP-address) will be directly transmitted to and stored on one of Facebook’s servers in the USA.</p>
+<p>If you are logged into Facebook, Facebook will be able to directly link your visit on our website to your Facebook profile. If you interact with the plugins, for example by using the “Like”-button or if you leave a comment, this information will also be directly transmitted to and stored on a Facebook server. The information will also be published on your Facebook profile and shown to your Facebook friends.</p>
+<p>The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Facebook’s data protection provisions: http://www.facebook.com/policy.php</p>
+<p>If you do not want Facebook to directly link the data collected via our web presence to your Facebook profile, you will have to log out of Facebook before visiting our website. You can completely prevent Facebook plugins from loading with add-ons for your browser, e.g. by means of the “Facebook Blocker” http://webgraph.com/resources/facebookblocker/).</p>
+<h3>Twitter</h3>
+<p>We use social plugins (“plugins”) for the micro-blogging service Twitter, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (”Twitter“), on our website. These plugins are usually indicated by the Twitter logo, for example in the shape of a blue “Twitter-bird”. An overview of the Twitter plugins and their appearance can be found here: https://twitter.com/about/resources/buttons</p>
+<p>When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Twitter servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Twitter will receive information stating that your browser has accessed the relevant page of our website, even if you do not have a Twitter profile or are currently not logged into Twitter. This information (including your IP-address) will be directly transmitted to and stored on one of Twitter’s servers in the USA.</p>
+<p>If you are logged into Twitter, Twitter will be able to directly link your visit on our website to your Twitter account. If you interact with the plugins, for example by using the “tweet”-button, this information will also be directly transmitted to and stored on a Twitter server. The information will also be published on your Twitter account and shown to your contacts.</p>
+<p>The purpose and scope of the data collection and the further processing and use of the data by Twitter as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Twitter’s data protection provisions: https://twitter.com/privacy</p>
+<p>If you do not want Twitter to directly link the data collected via our website to your Twitter account, you will have to log out of Twitter before visiting our website. You can completely prevent Twitter plugins from loading with add-ons for your browser, e.g. by means of the script-blocker “No Script” (http://noscript.net/).</p>
+<h3>Google+</h3>
+<p>We also use social plugins (“plugins”) for the social network Google+, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google“), on our website. These plugins are usually indicated by buttons with the symbol “+1” on a white or colored background. An overview of the Google plugins and their appearance can be found here: https://developers.google.com/+/plugins</p>
+<p>When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Google servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Google will receive information stating that your browser has accessed the relevant page of our web presence, even if you do not have a Google+ profile or are currently not logged into Google+. This information (including your IP-address) will be directly transmitted to and stored on one of Google’s servers in the USA.</p>
+<p>If you are logged into Google+, Google will be able to directly link your visit on our website to your Google+ profile. If you interact with the plugins, for example by using the “+1”-button, this information will also be directly transmitted to a Google server and saved there. The information will also be published on your Google+ profile and shown to your contacts.</p>
+<p>The purpose and scope of the data collection and the further processing and use of the data by Google as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Google’s data protection provisions: http://www.google.com/intl/de/+/policy/+1button.html</p>
+<p>If you do not want Google to directly link the data collected via our web presence to your Google+ profile, you will have to log out of Google+ before visiting our website. &nbsp;You can completely prevent Google plugins from loading with add-ons for your browser, e.g. by means of the script-blocker “No Script” (http://noscript.net/).</p>
+<h2>Cookies</h2>
+<p>In some areas of our website we collect and store certain information in the form of so-called “cookies”. Cookies are small text files which are stored on your computer. You can easily prevent the use of cookies by deactivating the acceptance of cookies in the settings of your browser. If you choose to accept cookies, we will collect data within the cookies on your hard drive and will retrieve this information during later use of our website when using the same computer and web browser. This facilitates your use of our services and allows us to better understand the behaviour of our users and to be able to offer them contents as well as services designed to meet their expectations.</p>
+<h2>Google Analytics</h2>
+<p>This website uses Google Analytics, a web analysis service of Google Inc. (“Google“). Google Analytics uses so-called “cookies“, text files, which are saved on your computer and which enable an analysis of your use of our website to be made. The information generated by the cookie regarding your use of this website is regularly transmitted to and stored on a Google server in the USA. In case of an activation of the IP-anonymization on this website, your IP-address will be shortened by Google beforehand within the member states of the European Union or in other contracting states according to the Agreement on the European Economic Area. The complete IP-address will only be transmitted to a Google server in the USA and shortened there in exceptional cases. Google will use this information on our behalf to analyze your use of the website, to compile reports on website activities and to provide us with further services connected to the use of the website and to the use of the internet. The IP-address which was transmitted by your browser within the framework of Google Analytics will not be merged with other Google data. </p>
+<p>You can prevent the saving of cookies by setting your browser-software accordingly; however, we would like to point out that if you decide to do so, you may not be able to use all functions of this website to the full extent. Furthermore, you can prevent the collection of data generated by the cookie and related to your use of the website (including your IP-address) as well as the processing of this data by Google by downloading and installing the browser plugin available under the following link: &nbsp;tools.google.com/dlpage/gaoptout.</p>
+<h2>Google Adsense</h2>
+<p>If Google Adsense, a web advertisement service of Google Inc., USA (“Google”), places advertisements (text ads, banners etc.) on this website, your browser may store a cookie sent by Google Inc. or by a third party. The information stored in the cookie can be recorded, collected and analyzed by Google Inc. or by third parties. Additionally, Google Adsense also uses so-called “web beacons” (small invisible images) for the collection of information. By using these web beacons simple actions such as user traffic on the website can be recorded, collected and analyzed. The information generated by the cookie and/or web beacon regarding your use of this website is transmitted and stored to a Google server in the USA. Google uses the obtained information to carry out an evaluation of your user behaviour with regard to the Adsense advertisements. Google may also transfer this information to third parties, provided that this is legally mandatory or that third parties process this data on behalf of Google. Google will not connect your IP-address to other data stored by Google. You can prevent the collection and storage of cookies on your hard drive as well as the display of web beacons. In order to do so you must select “do not accept cookies” in your browser settings (in Internet Explorer go to “Extras / Internet Options / Data Protection / Settings”, in Firefox go to “Extras / Settings / Data Protection / Cookies”).</p>
+<h2>Transfer to Third Parties</h2>
+<p>A transfer of personal data to third parties will only take place as far as we are obliged to transfer the collected data due to an official or court order or if the transfer has been legitimized by applicable legal provisions.</p>
+<h2>Data Security</h2>
+<p>n order to prevent unauthorized access or unauthorized disclosure, to warrant the correctness of data and to ensure the authorized use of data, we have taken appropriate technical and organizational measures in order to secure and protect the data which we collect online. The transmission of data and information on our server is encrypted by means of TLS 1.2. Despite these measures and efforts, electronic communication itself cannot be completely secure. We cannot take responsibility or be held liable for the disclosure of information due to errors and/or unauthorized access during the data transmission of third parties.</p>
+<h2>Your Rights</h2>
+<p>With regard to personal data you have the rights of information, correction and deletion granted by the German Federal Data Protection Act. These rights are to be asserted by sending a letter by mail to the address of radio.net mentioned above or via e-mail to privacy@radio.net.</p>
+<h2>Further Information</h2>
+<p>In case you have any further questions concerning our data protection provisions, please feel free to contact us at any time via e-mail at privacy@radio.net.</p>
+<br> <br>
+<p>Status: February 2016</p>
+</div>
+</div>
 </div><footer>
 <div class="container">
 <ul class="footer-items list-unstyled row">
 <li class="footer-logo col-xs-6 col-sm-3 col-md-2">
-<span class="icon-logo-radio-pictogramm"></span>
+<svg class="icon-logo-radio-pictogramm"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-logo"> </use></svg>
 </li>
 <li class="footer-item col-xs-6 col-sm-3 col-md-2">
 <p class="footer-headline">Company</p>
@@ -659,12 +814,36 @@ If you want to cancel your newsletter subscription, please send an email to cont
 <p class="footer-headline">Social</p>
 <div class="footer-social-links">
 <ul>
-<li><a href="https://www.facebook.com/www.radio.net" title="Follow us on Facebook"><span class="icon-logo-facebook"></span></a></li>
-<li><a href="https://twitter.com/www_radio_net" title="Follow us on Twitter"><span class="icon-logo-twitter"></span></a></li>
-<li class="clear"><a href="https://plus.google.com/u/0/b/108705562879123806360/108705562879123806360/posts" title="Follow us on Google+" rel="publisher"><span class="icon-logo-googleplus"></span></a></li>
-<li><a href="https://www.linkedin.com/company/radio-de-gmbh" title="Visit our LinkedIn profile"><span class="icon-logo-linkedin"></span></a></li>
-<li class="clear"><a href="https://www.xing.com/companies/radio.degmbh" title="Visit our Xing profile"><span class="icon-logo-xing"></span></a></li>
-<li><a href="https://www.youtube.com/channel/UC-dohN1qDPouhSHxKQNPwRQ?guided_help_flow=3" title="Follow us on YouTube"><span class="icon-logo-youtube"></span></a></li>
+<li>
+<a href="https://www.facebook.com/www.radio.net" title="Follow us on Facebook" class="icon-facebook-f" target="_blank">
+<svg class="icon "><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook-f"></use></svg>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/www_radio_net" title="Follow us on Twitter" class="icon-twitter" target="_blank">
+<svg class="icon "><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter"></use></svg>
+</a>
+</li>
+<li class="clear">
+<a href="https://plus.google.com/108705562879123806360/posts" title="Follow us on Google+" rel="publisher" class="icon-googleplus" target="_blank">
+<svg class="icon "><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-googleplus"></use></svg>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/radio-de-gmbh" title="Visit our LinkedIn profile" rel="publisher" class="icon-linkedin" target="_blank">
+<svg class="icon "><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin"></use></svg>
+</a>
+</li>
+<li class="clear">
+<a href="https://www.xing.com/companies/radio.degmbh" title="Visit our Xing profile" rel="publisher" class="icon-xing" target="_blank">
+<svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-xing"></use></svg>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC-dohN1qDPouhSHxKQNPwRQ?guided_help_flow=3" title="Follow us on YouTube" rel="publisher" class="icon-play" target="_blank">
+<svg class="icon "><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-play"></use></svg>
+</a>
+</li>
 </ul>
 </div>
 </li>
@@ -685,12 +864,16 @@ If you want to cancel your newsletter subscription, please send an email to cont
 <li><a href="http://www.radio.it">radio.it</a></li>
 <li><a href="http://www.radio.pl">radio.pl</a></li>
 </ul>
-<p>3.15.12-1 | © 2007-2015 radio.de GmbH</p>
+<p>3.16.6-7 | © 2007-2016 radio.de GmbH</p>
 </li>
 </ul>
 </div>
 </footer><div class="login-modal-wrapper"></div>
 
+<div cookie-disclaimer=""></div>
+
+
+<script src="//static.radio.net/inc/v2/js/ads.js"></script>
 
 <!-- Google Tag Manager -->
 <noscript>
@@ -705,10 +888,10 @@ If you want to cancel your newsletter subscription, please send an email to cont
 <!--[if lt IE 9]>
 <link href="//static.radio.net/inc/v2/bower_components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
 <link href="//static.radio.net/inc/v2/bower_components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
-<script src="//static.radio.net/inc/v2/bower_components/respond/cross-domain/respond.proxy.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script>
+<script src="//static.radio.net/inc/v2/bower_components/respond/cross-domain/respond.proxy.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script>
 <![endif]-->
-<!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/respond/dest/respond.min.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script><![endif]-->
-<!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/es5-shim/es5-shim.min.js?_=66809f132fcbdecefeb3282ccaaa6ae1001cc6e3"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/respond/dest/respond.min.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://static.radio.net/inc/v2/bower_components/es5-shim/es5-shim.min.js?_=7508cfe5d9f52c13b3b0d80976fdc0741e249829"></script><![endif]-->
 
 <script>
 
@@ -728,12 +911,6 @@ If you want to cancel your newsletter subscription, please send an email to cont
                         enabled: false,
                         filter: (window.environment && window.environment.develop) && (window.location.search.indexOf('test_production=') === -1) ? 'debug' : 'info'
                     },
-        
-                    'common/searchService': {
-                        continents: [{"systemEnglish":"Africa","localized":"Africa"},{"systemEnglish":"Antarctica","localized":"Antarctica"},{"systemEnglish":"Asia","localized":"Asia"},{"systemEnglish":"Australia","localized":"Australia"},{"systemEnglish":"Central America","localized":"Central America"},{"systemEnglish":"Europe","localized":"Europe"},{"systemEnglish":"North America","localized":"North America"},{"systemEnglish":"South America","localized":"South America"}],
-                        languages: [{"systemEnglish":"Afrikaans","localized":"Afrikaans"},{"systemEnglish":"Albanian","localized":"Albanian"},{"systemEnglish":"Anang","localized":"Anang"},{"systemEnglish":"Arabic","localized":"Arabic"},{"systemEnglish":"Armenian","localized":"Armenian"},{"systemEnglish":"Azerbaijani","localized":"Azerbaijani"},{"systemEnglish":"Bambara","localized":"Bambara"},{"systemEnglish":"Basque","localized":"Basque"},{"systemEnglish":"Bavarian","localized":"Bavarian"},{"systemEnglish":"Belarusian","localized":"Belarussian"},{"systemEnglish":"Bengali","localized":"Bengali"},{"systemEnglish":"Berber","localized":"Berber"},{"systemEnglish":"Bosnian","localized":"Bosnian"},{"systemEnglish":"Breton","localized":"Breton"},{"systemEnglish":"Bulgarian","localized":"Bulgarian"},{"systemEnglish":"Cantonese","localized":"Cantonese"},{"systemEnglish":"Catalan","localized":"Catalan"},{"systemEnglish":"Chinese","localized":"Chinese"},{"systemEnglish":"Corsican","localized":"Corsican"},{"systemEnglish":"Creole","localized":"Creole"},{"systemEnglish":"Croatian","localized":"Croatian"},{"systemEnglish":"Czech","localized":"Czech"},{"systemEnglish":"Danish","localized":"Danish"},{"systemEnglish":"Dutch","localized":"Dutch"},{"systemEnglish":"English","localized":"English"},{"systemEnglish":"Estonian","localized":"Estonian"},{"systemEnglish":"Faeroese","localized":"Faeroese"},{"systemEnglish":"Filipino","localized":"Filipino"},{"systemEnglish":"Finnish","localized":"Finnish"},{"systemEnglish":"Flemish","localized":"Flemish"},{"systemEnglish":"French","localized":"French"},{"systemEnglish":"Gaelic","localized":"Gaelic"},{"systemEnglish":"Galician","localized":"Galician"},{"systemEnglish":"Georgian","localized":"Georgian"},{"systemEnglish":"German","localized":"German"},{"systemEnglish":"Greek","localized":"Greek"},{"systemEnglish":"Gujarati","localized":"Gujarati"},{"systemEnglish":"Hausa","localized":"Hausa"},{"systemEnglish":"Hebrew","localized":"Hebrew"},{"systemEnglish":"Hindi","localized":"Hindi"},{"systemEnglish":"Indic","localized":"Hindustani "},{"systemEnglish":"Hungarian","localized":"Hungarian"},{"systemEnglish":"Iban","localized":"Iban"},{"systemEnglish":"Icelandic","localized":"Icelandic"},{"systemEnglish":"Indonesian","localized":"Indonesian"},{"systemEnglish":"Irish","localized":"Irish"},{"systemEnglish":"Italian","localized":"Italian"},{"systemEnglish":"Japanese","localized":"Japanese"},{"systemEnglish":"Khmer","localized":"Khmer"},{"systemEnglish":"Korean","localized":"Korean"},{"systemEnglish":"Kurdish","localized":"Kurdish"},{"systemEnglish":"Latvian","localized":"Latvian"},{"systemEnglish":"Lebanese Arabic","localized":"Lebanese Arabic"},{"systemEnglish":"Lingala","localized":"Lingala"},{"systemEnglish":"Lithuanian","localized":"Lithuanian"},{"systemEnglish":"Low German","localized":"Low German"},{"systemEnglish":"Luganda","localized":"Luganda"},{"systemEnglish":"Luxembourgish","localized":"Luxembourgish"},{"systemEnglish":"Macedonian","localized":"Macedonian"},{"systemEnglish":"Malagasy","localized":"Malagasy"},{"systemEnglish":"Malay","localized":"Malay"},{"systemEnglish":"Malayalam","localized":"Malayalam"},{"systemEnglish":"Maltese","localized":"Maltese"},{"systemEnglish":"Minangkabau","localized":"Minangkabau"},{"systemEnglish":"Mongolian","localized":"Mongolian"},{"systemEnglish":"Montenegrin","localized":"Montenegrin"},{"systemEnglish":"Multilingual","localized":"Multilingual"},{"systemEnglish":"Nepalese","localized":"Nepali"},{"systemEnglish":"Norwegian","localized":"Norwegian"},{"systemEnglish":"Occitan","localized":"Occitan"},{"systemEnglish":"Pashto","localized":"Pashto"},{"systemEnglish":"Persian","localized":"Persian"},{"systemEnglish":"Polish","localized":"Polish"},{"systemEnglish":"Portuguese","localized":"Portuguese"},{"systemEnglish":"Quechuan","localized":"Quechua"},{"systemEnglish":"Romanian","localized":"Romanian"},{"systemEnglish":"Romansh","localized":"Romansh"},{"systemEnglish":"Russian","localized":"Russian"},{"systemEnglish":"Sami","localized":"Sami"},{"systemEnglish":"Serbian","localized":"Serbian"},{"systemEnglish":"Silesian","localized":"Silesian"},{"systemEnglish":"Sinhalese","localized":"Sinhalese"},{"systemEnglish":"Slovakian","localized":"Slovakian"},{"systemEnglish":"Slovenian","localized":"Slovenian"},{"systemEnglish":"Sorbian","localized":"Sorbian"},{"systemEnglish":"Spanish","localized":"Spanish"},{"systemEnglish":"Swahili","localized":"Swahili"},{"systemEnglish":"Swedish","localized":"Swedish"},{"systemEnglish":"Swiss German","localized":"Swiss German"},{"systemEnglish":"Syriac","localized":"Syriac"},{"systemEnglish":"Tagalog","localized":"Tagalog"},{"systemEnglish":"Tamil","localized":"Tamil"},{"systemEnglish":"Thai","localized":"Thai"},{"systemEnglish":"Tshiluba","localized":"Tshiluba"},{"systemEnglish":"Turkish","localized":"Turkish"},{"systemEnglish":"Ukrainian","localized":"Ukrainian"},{"systemEnglish":"Urdu","localized":"Urdu"},{"systemEnglish":"Vietnamese","localized":"Vietnamese"},{"systemEnglish":"Welsh","localized":"Welsh"},{"systemEnglish":"Wolof","localized":"Wolof"},{"systemEnglish":"Zulu","localized":"Zulu"}]
-                    },
-            
                     'components/station/stationService': {
                         station: {},
                         nowPlayingPollingInterval: 60000
@@ -741,6 +918,7 @@ If you want to cancel your newsletter subscription, please send an email to cont
                     'components/player/playerService': {
                         playerAPIiframeSrc: 'http://t9xyirxt.cachefly.net/iFramePlayerAPI.html'
                     },
+                    
                     'common/constants': {
                         
                         streamContentFormats: 'MP3',
@@ -788,16 +966,11 @@ If you want to cancel your newsletter subscription, please send an email to cont
                         apiPrefix: 'https://api.radio.net/info/v2',
                         userimagePath: '/images/userimages/',
                         
-                        apiKey: '66809f132fcbdecefeb3282ccaaa6ae1001cc6e3',
+                        apiKey: '7508cfe5d9f52c13b3b0d80976fdc0741e249829',
                         facebookAppId: '359213120897593',
                         googleClientId: '156766714384-idmrh1qkc6kg80sffo5hmi23s0fri3ls.apps.googleusercontent.com',
                         translations: {} ,
                         trackingData: {
-                            oewa         : {
-                                url: 'http://radioat.oewabox.at/cgi-bin/ivw/CP/Service/',
-                                tag: 'Sonstiges/Sonstiges',
-                                defaultTag: 'Sonstiges/Sonstiges'
-                            },
                             module       : 'www',
                             routesToPages: {
                                 'search.jsf': 'search',
@@ -817,12 +990,12 @@ If you want to cancel your newsletter subscription, please send an email to cont
                 }
             };
         </script>
-        <script type="text/javascript" src="http://static.radio.net/inc/v2/js/radio-built-66809f132fcbdecefeb3282ccaaa6ae1001cc6e3.js"></script>
+        <script type="text/javascript" src="http://static.radio.net/inc/v2/js/radio-built-7508cfe5d9f52c13b3b0d80976fdc0741e249829.js"></script>
             <script type="text/javascript">
             window.radioEventLog.log('PERFORMANCE','index.body.radio-built.loaded');
         </script>
 
-        <!-- __IP_SERVER_ADDRESS__ 66809f132fcbdecefeb3282ccaaa6ae1001cc6e31512091121504453.15.12-1 -->
+        <!-- radio-f05 7508cfe5d9f52c13b3b0d80976fdc0741e2498291606270427512383.16.6-7 -->
 <div id="recaptcha_widget_script"></div>
         <div id="recaptcha_widget">
             <div class="form-group">
@@ -838,13 +1011,14 @@ If you want to cancel your newsletter subscription, please send an email to cont
         </div>
 
         <iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[​*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","radio.zendesk.com");/*​]]>*/</script>
-            <script>
-	            zE(function() {
-		             zE.setLocale('en-US'); 
-	              });
-            </script>
-        
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"0c2b26d836","agent":"js-agent.newrelic.com\/nr-768.min.js","beacon":"bam.nr-data.net","applicationTime":106,"applicationID":"6391691","transactionName":"YlRWYktWV0oCWkYLW1sefmVpGElLCk9TAU0bW0dG","queueTime":0}</script>
+                <script>
+                    zE(function() {
+                         zE.setLocale('en-US'); 
+                      });
+                </script>
+                
+			  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"0c2b26d836","agent":"","beacon":"bam.nr-data.net","applicationTime":16,"applicationID":"6391691","transactionName":"YlRWYktWV0oCWkYLW1seYURQGBZJEVBEA1dMQVtaUFRAFgpXVgdMG1tHUA==","queueTime":0}</script>
 
 
 </body></html>
