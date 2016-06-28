@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aadl.org privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230221603id_/http%3A//www.aadl.org/aboutus/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aadl.org privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628213819id_/http%3A//www.aadl.org/aboutus/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,15 +9,15 @@
   <meta property="og:site_name" content="Ann Arbor District Library">
   <meta property="fb:admins" content="2348420">
   <meta property="twitter:account_id" content="13602482">
-  <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_6ed4b1daa51bbbdfe06c495464f8396a.css">
-<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_e1a463dc8385c529d4f92168932742f4.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_e1095da813d6a0959d538675f24d2935.css">
+<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_b4920eab71d62779bf6f37fc7fb3451b.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/aadl/css/ie.css?t" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/aadl/css/ie.css?6" />
 <![endif]-->
 <!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/aadl/css/ie6.css?t" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/aadl/css/ie6.css?6" />
 <![endif]-->
-  <script type="text/javascript" defer="" async="" src="https://www.aadl.org/analytics/piwik.js"></script><script type="text/javascript" src="/files/js/js_5fdae5d1fe90f191d3f438a5734a4aa1.js"></script>
+  <script type="text/javascript" defer="" async="" src="https://www.aadl.org/analytics/piwik.js"></script><script type="text/javascript" src="/files/js/js_31d8ded8d05d43f4b7d23bd0e2480f07.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)files", "default_image": "/sites/default/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 1, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 300, "fade_in_speed": 300, "slide_down_speed": 300, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "Download Original", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 600, "iframe_border": 0, "enable_video": 0 }, "piwik": { "trackMailto": 1 } });
@@ -50,6 +50,20 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file
         $('#showavailable').text(
           text == "Show Me" ? "Don't Show Me" : "Show Me");
     });
+    $('#close-banner').click(function() {
+      var curTime = new Date();
+      curTime = curTime.getTime() + 86400;
+      document.cookie = 'mobileBanner=0; expires=' + curTime;
+      $(this).parents('#mobile-banner').fadeOut();
+    });
+    var cookieInfo = document.cookie.split(';');
+    for (var i = 0; i < cookieInfo.length; i++) {
+      if (cookieInfo[i].trim() == 'mobileBanner=0') {
+        $('#mobile-banner').css('display', 'none');
+        break;
+      }
+    }
+
   });
   </script>
 </head>
@@ -58,7 +72,8 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file
       <div id="skip-link"><a href="#main-menu">Jump to Navigation</a></div>
   
   <div id="page-wrapper"><div id="page">
-    <!-- top menu added by RLJ-->
+
+      <!-- top menu added by RLJ-->
     <div id="topmenu">
       <ul class="links">
             <li><a onclick="top.location='http://ar.aadl.org/node/56'" title="الترجمة العربية | Arabic Translation">العربية</a></li>
@@ -80,7 +95,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file
       
       
       <div id="header-blocks" class="region region-header">
-        <img src="/sites/default/themes/aadl/images/banner/banner4.png">
+        <img src="/sites/default/themes/aadl/images/banner/banner15.png">
               </div> <!-- /#header-blocks -->
 
               <div id="navigation"><div class="section clearfix">
@@ -184,7 +199,7 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
 <li class="leaf menu-mlid-1105"><a href="/aboutus/board" title="">Library Board</a></li>
 <li class="leaf menu-mlid-1106"><a href="http://planning.aadl.org" title="">Strategic Planning</a></li>
 <li class="leaf menu-mlid-1108"><a href="/aboutus/policies" title="">Policies</a></li>
-<li class="leaf menu-mlid-1836"><a href="/aboutus/librarycards" title="">Library Cards</a></li>
+<li class="leaf menu-mlid-1836"><a href="/aboutus/librarycards">Library Cards</a></li>
 <li class="leaf menu-mlid-5477"><a href="/go/bookshop" title="Bookshop Information at faadl.org">Friends Bookshop</a></li>
 <li class="leaf menu-mlid-10484"><a href="http://www.aadl.org/aboutus/annualreport" title="">Annual Reports</a></li>
 <li class="leaf last menu-mlid-16140"><a href="/aboutus/librarynews" title="">Newsletters</a></li>
@@ -202,7 +217,7 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
       <h2 class="title">Featured Events</h2>
   
   <div class="content">
-    <div class="views_view view view-featured-events view-id-featured_events view-display-id-block_1 view-dom-id-e052e9e5e65e83c162ff62f8d2ffd122">
+    <div class="views_view view view-featured-events view-id-featured_events view-display-id-block_1 view-dom-id-2c919ebe1cc434a12e4576db00725383">
   
   
   
@@ -210,10 +225,9 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-field-event-feature-image-fid">        <div class="field-content advancedimage"><a href="/node/318554"><img src="http://www.aadl.org/files/imagecache/210_width/pub_events/Stratus%20Casual-small.jpg" alt="" title="" width="210" height="158" class="imagecache imagecache-210_width imagecache-default imagecache-210_width_default"></a></div>  </div>  
-  <div class="views-field views-field-field-event-feature-title-value">        <span class="field-content"><p><strong>Music in the Moment</strong></p></span>  </div>  
-  <div class="views-field views-field-field-event-feature-text-value">        <div class="field-content"><p>The <a href="http://www.aadl.org/node/318554" title="reference on Stratus Ensemble" target="_blank">Stratus Ensemble</a> will explore the joy of telling stories without words at the Downtown Library on Sunday, January 3 at 2pm. </p>
-<p>Kids will learn about the different ways musicians interpret their music and turn each piece into a different story. They will improvise, clap, and even help make final performance decisions.</p>
+  <div class="views-field views-field-field-event-feature-image-fid">        <div class="field-content advancedimage"><a href="/node/343292"><img src="http://www.aadl.org/files/imagecache/210_width/pub_events/pulp-logo-trivia_3.jpg" alt="" title="" width="210" height="210" class="imagecache imagecache-210_width imagecache-default imagecache-210_width_default"></a></div>  </div>  
+  <div class="views-field views-field-field-event-feature-title-value">        <span class="field-content"><p><strong>PULP Movie Trivia Night: Indiana Jones</strong></p></span>  </div>  
+  <div class="views-field views-field-field-event-feature-text-value">        <div class="field-content"><p><a href="http://www.aadl.org/node/343292" title="reference on Come test your movie knowledge!" target="_blank">Come test your movie knowledge!</a> Join us for Indiana Jones Trivia during the screening of Indiana Jones and the Last Crusade at Top of the Park on Tuesday, June 28 at 10pm! Presented by AADL and the Ann Arbor Summer Festival, this is the last event in Pulp Movie Trivia @ TOP.</p>
 </div>  </div>  </div>
     </div>
   
@@ -243,7 +257,8 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
       <h2 class="title">Navigation</h2>
   
   <div class="content">
-    <ul class="menu"><li class="leaf first last"><a href="/tracker">Recent posts</a></li>
+    <ul class="menu"><li class="collapsed first"><a href="/node/add">Create content</a></li>
+<li class="leaf last"><a href="/tracker">Recent posts</a></li>
 </ul>  </div>
 
   </div></div> <!-- /.section,/.block -->
@@ -332,7 +347,7 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
 <li><a href="/aboutus/mallettscreek">Mallets Creek</a></li>
 <li><a href="/aboutus/pittsfieldbranch">Pittsfield</a></li>
 <li><a href="/aboutus/traverwoodbranch">Traverwood</a></li>
-<li><a href="/aboutus/westbranch">West</a> (Closed for Expansion)</li>
+<li><a href="/westgate">West</a> (Closed for Expansion)</li>
 </ul>
 </div>
 </div>
@@ -362,7 +377,7 @@ Revisions adopted November 21, 2005, June 19, 2006 and February 17, 2014</em></p
   
   <div class="content">
     <div class="hr"><hr align="center"></div>
-Ann Arbor District Library, 2015. All content <a href="http://creativecommons.org/licenses/by-nc/2.0/" title="reference on CC-by-NC" target="_blank">CC-by-NC</a> unless otherwise specified. <br>
+Ann Arbor District Library, 2016. All content <a href="http://creativecommons.org/licenses/by-nc/2.0/" title="reference on CC-by-NC" target="_blank">CC-by-NC</a> unless otherwise specified. <br>
  <a href="/aboutus/policies/website">Terms of Use</a> | <a href="/aboutus/policies/privacy">Privacy Policy</a>  </div>
 
   </div></div> <!-- /.section,/.block -->
@@ -373,7 +388,7 @@ Ann Arbor District Library, 2015. All content <a href="http://creativecommons.or
   </div></div> <!-- /#page, /#page-wrapper -->
 
   
-  <script type="text/javascript" src="/files/js/js_18024fd980818de525f9396d0d98edee.js"></script>
+  <script type="text/javascript" src="/files/js/js_33292a41c336944b8f82e7d374ad4f47.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://www.aadl.org/analytics/" : "http://www.aadl.org/analytics/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["setCookieDomain", ".aadl.org"]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", [ "no-tracking", "colorbox" ]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
