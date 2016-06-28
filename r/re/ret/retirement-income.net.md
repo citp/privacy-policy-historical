@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the retirement-income.net privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917153143id_/http%3A//www.retirement-income.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retirement-income.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020705id_/http%3A//www.retirementincome.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Retirement Income
-
-Got a question about this topic? Just ask it in the comment box below and the editors will answer!
+# Privacy Policy - Retirement Income Blog
 
 Privacy Policy for [http://www.retirement-income.net/ ](http://www.retirement-income.net/)
 
