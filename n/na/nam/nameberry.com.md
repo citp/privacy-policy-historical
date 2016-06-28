@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908073012id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628034109id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nameberry.com
 
 This is the web site of NameBerry LLC.
 
-Our postal address is: 64 Myrtle Ave., Montclair, NJ, 07042
+Our postal address is: 308 N Fullerton Ave., Montclair, NJ, 07042
 
 We can be reached via e-mail at privacy@nameberry.com.
 
