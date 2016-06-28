@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenmamaspad.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108152819id_/http%3A//www.greenmamaspad.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmamaspad.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628155841id_/http%3A//www.greenmamaspad.com/p/policy.html) for the most accurate reproduction.*
 
 # Marianna | Connecticut Mom Blog: Marianna's Policies
 
