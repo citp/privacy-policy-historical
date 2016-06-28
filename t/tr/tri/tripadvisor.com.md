@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231091205id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628135945id_/https%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
@@ -175,7 +175,7 @@ Needham, MA 02494, USA
 
 Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. 
 
-©2015 TripAdvisor LLC. All rights reserved.  
+©2016 TripAdvisor LLC. All rights reserved.  
 
 
 This Privacy Policy is effective as of April 28, 2014 
