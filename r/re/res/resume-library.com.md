@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206020926id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628143130id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Resume-Library.com
 
@@ -32,7 +32,7 @@ Like many websites, we routinely capture your IP address information to determin
 
 An IP address, or 'internet protocol address', is a unique identifying number given to every device connected to the internet. Like a car license plate, an IP address is a special serial number used for identification.
 
-Information may be gathered from your registration form and your use of our website through "cookies". The information gathered may be used by Resume-Library internally, for purposes relating to your use of the website and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. If you do not wish to receive marketing material from Resume-Library or from carefully selected third parties you should tick the appropriate box on the submission form. If you subsequently decide you no longer wish to receive direct marketing/information from Resume-Library or no longer wish us to pass your information to third parties you should notify us using the Contact page of our website or delete your Resume.
+Information may be gathered from your registration form and your use of our website through "cookies". The information gathered may be used by Resume-Library internally, for purposes relating to your use of the website and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. If you subsequently decide you no longer wish to receive direct marketing/information from Resume-Library or no longer wish us to pass your information to third parties you should notify us using the Contact page of our website or delete your Resume.
 
 Resume-Library may set and access cookies on your computer. You can choose whether or not to accept cookies, however, if you do not accept Resume-Library cookies, some of our services may not be available to you. This policy does not apply to companies that Resume-Library does not own or control, or to people that Resume-Library does not employ.
 
