@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousscientists.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225164634id_/http%3A//www.famousscientists.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousscientists.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628221511id_/http%3A//www.famousscientists.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
