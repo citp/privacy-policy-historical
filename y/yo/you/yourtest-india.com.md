@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219164722id_/http%3A//www.yourtest-india.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtest-india.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628121255id_/http%3A//www.yourtest-india.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D10) for the most accurate reproduction.*
 
 # Data Protection
 
