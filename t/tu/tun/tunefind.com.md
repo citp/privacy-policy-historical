@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunefind.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915044902id_/http%3A//www.tunefind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunefind.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629013424id_/http%3A//www.tunefind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TuneFind
 
@@ -11,3 +11,5 @@ When you submit a song appearance, we do not collect any personally identifiable
 Our site helps you find websites where you can purchase music or derivative products. Those websites have their own privacy policies.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In order to do this, our advertising partners may place a cookie (a small text file) on your computer.
+
+You may customize your ad choices via Ad settings (click the icon next to the ad) or consumer opt out services, like the one provided by [NAI](http://www.networkadvertising.org/choices/).
