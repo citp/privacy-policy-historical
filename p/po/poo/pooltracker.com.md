@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115122828id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628181822id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for PoolTracker
 
@@ -63,7 +63,7 @@ By using the Pooltracker.com site, you consent to the collection and use of your
 
 Pooltracker fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to release information about members who we believe are in violation of our content guidelines. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
 
-Pooltracker wants you to be aware that when you click on links that take you to third-party Web sites, you will be subject to the third parties’ privacy policies. While we support the protection of privacy on the Internet, Pooltracker cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any Web site. 
+Pooltracker wants you to be aware that when you click on links that take you to third-party Web sites, you will be subject to the third parties� privacy policies. While we support the protection of privacy on the Internet, Pooltracker cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any Web site. 
 
 We welcome comments and questions. Please contact us at support@Pooltracker.com. 
 
