@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailygrocerycoupon.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126154927id_/http%3A//www.dailygrocerycoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrocerycoupon.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628040226id_/http%3A//www.dailygrocerycoupon.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | DailyGroceryCoupon
+# privacy policy
 
 **DailyGroceryCoupon.com Privacy Policy.   **
 
@@ -11,8 +11,8 @@ This Privacy Policy is intended to provide you, the user, with a clear explanati
 Active Information We Collect  
 The personally identifiable information you choose to share with us is optional. When you register on DailyGroceryCoupon.com as a user, you are voluntarily providing us with personal information. This can include your name, email address, postal address, and other information you may decide to share with us. You may also provide us with information by participating in a contests or sweepstakes, polls, and surveys implemented by DailyGroceryCoupon.com or any of its partner sites, or if you voluntarily send us inquiries or messages. We may use this information to contact you regarding possible changes to our site, new services, limited time offers, newsletters, and other information we think you may find useful.
 
-Passive Information We Collect  
-A ‘cookie’, a small unit of data stored on your computer, is a common feature of web browser software (e.g. Firefox, Safari, Chrome, etc). The “cookie” allows web servers to recognize a particular computer used to access a site. DailyGroceryCoupon utilizes this “cookie” technology to determine how you use our site. Possible passive information we collect during the course of your visit may include your internet service provider, operating system, browser type, date and time of your visit, pages viewed and time spent at our site. We are also able to ascertain information through customer tracking which allows us to make certain that your experience using our site is optimized and successful.
+Passive Information Collected  
+A ‘cookie’, a small unit of data stored on your computer, is a common feature of web browser software (e.g. Firefox, Safari, Chrome, etc). The “cookie” allows web servers to recognize a particular computer used to access a site. DailyGroceryCoupon utilizes this “cookie” technology, along with third parties, to determine how you use the site. Possible passive information collected during the course of your visit may include your internet service provider, operating system, browser type, date and time of your visit, pages viewed and time spent at our site. DailyGroceryCoupon, along with third parites, are also able to ascertain information through customer tracking which allows us to make certain that your experience using our site is optimized and successful. 
 
 Information Released As a Result of Legal Requirement  
 DailyGroceryCoupon.com may be required to disclose information to law enforcement or government agencies for investigation purposes or to resolve legal disputes. To prevent illegal activity and/or potential situations regarding the physical safety of any person, and to protect the safety of our users, personal information may be released to the appropriate agencies.
