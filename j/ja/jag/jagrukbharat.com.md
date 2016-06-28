@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jagrukbharat.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225112351id_/http%3A//jagrukbharat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagrukbharat.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628203134id_/http%3A//jagrukbharat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - JAGRUKBHARAT
+# Privacy Policy - Jagruk Bharat
 
 This policy was prepared by the Foundation for Young Australians and International users ( **we** ,  **us** ** ** or ** ** **our** ).  It explains:
 
