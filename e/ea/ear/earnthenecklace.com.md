@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnthenecklace.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220011750id_/http%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnthenecklace.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628025709id_/http%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The  _EarnTheNecklace.com_  web site requires consideration from the user for 
 
 WARNING: You are denied access to our web site unless you read our Terms of Use and Privacy Policy.
 
-USE & COPYRIGHTS: Contents Copyright © 2015\. You are prohibited from copying, saving, printing, selling, hyperlinking, using our URL, or reproducing, in any manner whatsoever, any of the information on  _EarnTheNecklace.com_. You may not use our web site or information for any illegal use. All of our content is copyrighted.
+USE & COPYRIGHTS: Contents Copyright © 2016\. You are prohibited from copying, saving, printing, selling, hyperlinking, using our URL, or reproducing, in any manner whatsoever, any of the information on  _EarnTheNecklace.com_. You may not use our web site or information for any illegal use. All of our content is copyrighted.
 
 CONTENT DISCLAIMER: Editorial information contained on  _EarnTheNecklace.com_  is not guaranteed as accurate. We make no warranty as to the suitability of content. Persons under the age of 18 are denied access to our web site and services. Any information from users and/or members who we believe are below the age of 18 will be immediately expelled from any and all of our databases.
 
@@ -24,21 +24,21 @@ Your privacy is extremely important to us. All of the personal information you s
 
 We understand the importance of privacy online and have taken the appropriate steps to ensure that the information you provide to us is protected. We will use our absolute best efforts to ensure that the information you provide to _  EarnTheNecklace.com _will only be used for the purposes set forth herein.
 
-Although we use top precautions to keep all personal information secure, we are not legally responsible for any breaches of security that may occur.
+Although we use top precautions to keep all personal information secure, we are not legally responsible for any breaches of security that may occur.
 
-**How Information Is Collected and  Used**
+**How Information Is Collected and Used**
 
 Delivery: Some of your personal information that you provide to us (e.g. your name, address, and/or e-mail address) may be used for delivery purposes. From time to time, we may send you details regarding special offers and exclusive member opportunities. If you would like to opt-out of receiving notice of special offers, exclusive member opportunities, and other messages, e-mail us at [bianca@earnthenecklace.com](mailto:bianca@earnthenecklace.com).
 
 Tracking: Any time you visit  _EarnTheNecklace.com_ , our servers will automatically record information gathered from your browser, like your IP address, browser type, Internet service provider, exit pages, referring pages, date/time stamp, time spent on each page, and number of clicks. We use this information to customize your user experience by personalizing content, appropriately fulfilling your service requests, informing you of updates to the web site and our services that may be of relevance to you, and letting you know about any new offers that you might be interested in. In the future, we may implement newer tracking technologies to monitor visitor activity on  _EarnTheNecklace.com_. The Privacy Policy will be updated to reflect any changes pertaining to how visitor and/or user activity is tracked.
 
-Browser Information: Browser information will also be used by  _EarnTheNecklace.com  _to analyze user trends, efficiently administer the web site, prevent and stop fraudulent behavior, and collect information about our overall demographic. This tracking information may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect  _EarnTheNecklace.com_ , other members, or anyone else who may be at risk.
+Browser Information: Browser information will also be used by  _EarnTheNecklace.com  _to analyze user trends, efficiently administer the web site, prevent and stop fraudulent behavior, and collect information about our overall demographic. This tracking information may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect  _EarnTheNecklace.com_ , other members, or anyone else who may be at risk.
 
 Cookies: To further enhance the user experience and improve member access,  _EarnTheNecklace.com  _uses cookies, which are small text files that a web browser stores on the hard drive of your computer. These cookies are used to recall user preferences and track visits to  _EarnTheNecklace_.com so that we can better understand your behavior on the web site to deliver online services with a more customized user experience. These cookies also track the number of visitors on the site, separating new and repeat visitors, so that we can plan for future development. Our cookies can only be read by our servers, and cannot execute any viruses or code. You are able to set your browser to disable cookies, however, doing this means you won’t be able to log on to your profile or use any of the member services available on  _EarnTheNecklace.com_. We cannot ensure that the web site will function properly without cookies, and you therefore assume full responsibility for reduced functionality should you set your browser to reject these cookies.
 
-Mobile Analytics: As part of our analytics,  _EarnTheNecklace.com  _uses software for mobile analytics as well, which enables us to get a better understanding of how the site functions on mobile devices. This mobile analytics software may track information like how you interact with the site on your mobile device, events that may occur during your mobile session on the site, performance data, and aggregate behavior. The mobile tracking information we collect may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect  _EarnTheNecklace.com_ , other members, or anyone else who may be at risk.
+Mobile Analytics: As part of our analytics,  _EarnTheNecklace.com  _uses software for mobile analytics as well, which enables us to get a better understanding of how the site functions on mobile devices. This mobile analytics software may track information like how you interact with the site on your mobile device, events that may occur during your mobile session on the site, performance data, and aggregate behavior. The mobile tracking information we collect may be shared with our partners, but only as a collective. Information on your individual visits will not be shared externally without your consent, unless we are required to by law, or to protect  _EarnTheNecklace.com_ , other members, or anyone else who may be at risk.
 
-**Disclosing Member Information When Required By  Law**
+**Disclosing Member Information When Required By Law**
 
 ****_EarnTheNecklace.com  _reserves the right to disclose users’ profile information, including both personally identifiable and non-personally identifiable information, when required to do so by law or at the request of a trusted third party. You also acknowledge and consent that we can disclose any information you provide if we, in our sole discretion, believe that this disclosure is (1) in compliance with federal, state, municipal, and/or any other legal regulations, including requests from representatives of law enforcement, or any other legal process (regardless of whether or not disclosure is required by the applicable law); (2) defend or safeguard  _EarnTheNecklace.com_ ’s, or a third party’s, property or legal rights; or (3) protect the health and safety of you or another person.
 
@@ -84,4 +84,4 @@ To contact  _EarnTheNecklace.com_ , e-mail us at [bianca@earnthenecklace.com](
 
 EarnTheNecklace.com  
 1371 SW 8th St., Unit #1  
-Pompano Beach, FL 33069–4524
+Pompano Beach, FL 33069-4524
