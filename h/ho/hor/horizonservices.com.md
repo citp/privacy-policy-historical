@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916022714id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628152450id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Horizon Services Online Privacy Statement
 
