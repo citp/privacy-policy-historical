@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221809id_/https%3A//empxtrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empxtrack.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628194125id_/http%3A//empxtrack.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Empxtrack
 
 #### Privacy Policy
 
-EmpXtrack is a product of [Saigun Technologies Pvt. Ltd](http://www.saigun.com/). Saigun recognizes the need for appropriate protections and management of your personal information that you provide to us. We are committed to the highest standards in protecting and safeguarding your right to privacy while using and interacting with our Web site. Saigun has therefore established this Privacy Policy to assist you to understand how Saigun collects and uses personally identifiable information about our customers collected on our Web sites. By using our Web site or providing any personal information using our Web site, you are agreeing to the collection and use of information in the manner described in this Privacy Policy.
+Empxtrack is a product of [Saigun Technologies Pvt. Ltd](http://www.saigun.com/). Saigun recognizes the need for appropriate protections and management of your personal information that you provide to us. We are committed to the highest standards in protecting and safeguarding your right to privacy while using and interacting with our Web site. Saigun has therefore established this Privacy Policy to assist you to understand how Saigun collects and uses personally identifiable information about our customers collected on our Web sites. By using our Web site or providing any personal information using our Web site, you are agreeing to the collection and use of information in the manner described in this Privacy Policy.
 
 While you can access most areas of our Web site without submitting any personal data, there are certain areas of our site that request specific personal information including name, title, phone number, and e-mail address. Our intent is to allow you as much control as possible over your personal information.
 
