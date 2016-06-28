@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209182949id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628082451id_/http%3A//www.atlantafalcons.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Atlanta Falcons | Privacy Policy
 
-#### Effective Date: January 15, 2015
+#### Effective Date: May 24, 2016
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=14390212-c2c8-48c6-97a5-e4115aceaa6e "TRUSTe online privacy certification")
 
-The Atlanta Falcons (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites: [AtlantaFalcons.com](http://www.atlantafalcons.com/) and [OfficialFalconsGear.com](https://web.archive.org/web/20151209182949id_/http%3A//www.atlantafalcons.com/footer/OfficialFalconsGear.com), our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
+The Atlanta Falcons (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites: [AtlantaFalcons.com](http://www.atlantafalcons.com/) and [OfficialFalconsGear.com](https://web.archive.org/web/20160628082451id_/http%3A//www.atlantafalcons.com/footer/OfficialFalconsGear.com), our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
 Atlanta Falcons has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
@@ -25,6 +25,7 @@ Changes To This Privacy Policy
 Access and Choice  
 Your California Privacy Rights  
 International Users  
+Accessibility  
 Contact Us
 
 **1\. Information Collection**
@@ -165,7 +166,11 @@ Some web browsers may transmit “do-not-track” signals to the websites with w
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
-**12\. Contact Us**
+**12\. Accessibility**
+
+Working with a retained accessibility consultant, the Atlanta Falcons Football Club, LLC will be further implementing over time the relevant portions of the World Wide Web Consortium’s Web Content Accessibility Guidelines 2.0 Level AA (WCAG 2.0 AA) as its web accessibility standard, which will also bring the Services into further conformance with the Section 508 Web Accessibility Standards developed by the United States Access Board (Section 508).
+
+**13\. Contact Us**
 
 If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fans@falcons.nfl.com  ](mailto:fans@falcons.nfl.com)or by regular mail at
 
