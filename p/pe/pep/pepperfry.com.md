@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225060429id_/http%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628133145id_/http%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,12 +85,10 @@ Further, as per Rule 3(4) of the IT Rules, the Grievance Officer shall acknowled
 
 Accordingly, the Grievance Officer for the purpose of Your personal sensitive information as governed by the Privacy Policy is:
 
-Name:   Ms. Sheetal Angchekar
-
-Contact:   [grievance@pepperfry.com](mailto:grievance@pepperfry.com)
+Name:       **Ms. Sheetal Angchekar**
 
 In the event You have any complaints or concerns with respect to the website or our services, please contact our Customer Support Officer:
 
-Name:  Ms. Megha Navarange
+Name:        **Ms. Megha Navarange**
 
-Contact:  022-61576157
+To register your grievance, [click here](http://www.pepperfry.com/write-to-us.html?grvs=1)
