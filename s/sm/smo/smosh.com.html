@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smosh.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230131805id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smosh.com privacy policy that was archived on 2016-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628041028id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
 
@@ -29,8 +29,9 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <meta property="twitter:creator" content="@smosh">
 <meta property="twitter:card" content="summary">
 <meta property="twitter:url" content="http://www.smosh.com/privacy-policy">
+<meta property="fb:pages" content="72947896764">
 
-<!-- Twitter Summary Cards - Mobile App Deep-Linking Meta Tags --> 
+<!-- Twitter Summary Cards - Mobile App Deep-Linking Meta Tags -->
 <meta name="twitter:app:name:iphone" content="Smosh">
 <meta name="twitter:app:id:iphone" content="id679190547">
 <meta name="twitter:app:name:ipad" content="Smosh">
@@ -40,22 +41,27 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <meta name="twitter:app:url:iphone" content="smoshapp://smoshvideo?path=/privacy-policy">
 <meta name="twitter:app:url:ipad" content="smoshapp://smoshvideo?path=/privacy-policy">
 <meta name="twitter:app:url:googleplay" content="smoshapp://smoshvideo?path=/privacy-policy">
-<!-- End: Twitter Summary Cards - Mobile App Deep-Linking Meta Tags --> 
+<!-- End: Twitter Summary Cards - Mobile App Deep-Linking Meta Tags -->
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes">
 
 <link rel="apple-touch-icon" href="/sites/all/themes/smosh/apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/smosh/apple-touch-icon-precomposed.png">
 <link rel="stylesheet" href="http://cdn.smosh.com/sites/default/files/cdn/css/http/css_1L6qijOF0oaJEbOStCIm0x8NIdh2HFLCZt0kw9McPxw.css">
 <link rel="stylesheet" href="http://cdn.smosh.com/sites/default/files/cdn/css/http/css_FD0Vi9LuLpd-gluwycZinMMK0OioMsVuUQBT4f5uoMo.css">
-<link rel="stylesheet" href="http://cdn.smosh.com/sites/default/files/cdn/css/http/css_JvpsVX5aQxuWuruGLK3rcNJigvmh0SyLCAE5byDyWdA.css">
+<link rel="stylesheet" href="http://cdn.smosh.com/sites/default/files/cdn/css/http/css_fUuq8GkQdeRbxT7rUWGpYA7_aJtRXdQ9bZQUoVSZAbo.css">
 <link rel="stylesheet" href="http://cdn.smosh.com/sites/default/files/cdn/css/http/css_2ynCVAgcP0vW5ZwBy6a-2vFjhUMRzXj5Iia_XR04vBU.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KXST7D"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//cdn.optimizely.com/js/2523090427.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KXST7D"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5JMCDZ"></script><script type="text/javascript" src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
+<script async="" src="http://cdn.mediavoice.com/nativeads/script/defymedia/smosh_desktop.js"></script>
+<script src="//cdn.optimizely.com/js/2523090427.js"></script>
 <script type="text/javascript">var pagecat='episode';</script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/modernizr-2.5.3.js?nzsb5i"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/modernizr-2.5.3.js?o98z2x"></script>
 
 
 <!-- BEGIN Google Publisher Tags -->
 <script type="text/javascript">
+var GTM_TIMEOUT = 5000; //Wait 5 seconds
+
+
     function getQueryVariable(variable) {
         var query = window.location.search.substring(1);
         var vars = query.split("&");
@@ -68,15 +74,27 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    (function() {
-        var gads = document.createElement("script");
-        gads.async = true;
-        gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node = document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
+
+    setTimeout(function() {
+ 
+        if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
+        	console.log('Eval GPT');
+
+			(function() {
+			var gads = document.createElement("script");
+			gads.async = true;
+			gads.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+			var node = document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+		} else {
+			// GPT already loaded
+		}
+
+	}, GTM_TIMEOUT);
+
 
     var smoshAdVars = {};
     smoshAdVars.postUrl          = window.location.href;
@@ -84,11 +102,11 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
     smoshAdVars.smoshPitCategory = '';
     smoshAdVars.adSection        = 'noskin';
     smoshAdVars.lbAdSz           = (window.innerWidth <= 725) ? [[320,50]] : [[960,1],[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250]];
-    
+
     if(smoshAdVars.isSmoshPitPost && smoshAdVars.adSection == 'blog') {
-    
+
         smoshAdVars.adSection = 'smosh-pit';
-    
+
     } else if(smoshAdVars.adSection == 'episode' || smoshAdVars.adSection == 'videos') {
 
         if(smoshAdVars.postUrl.indexOf('smosh.com/shutupcartoons') > -1) {
@@ -111,7 +129,7 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
     };
 
     if(smoshAdVars.isSmoshPitPost) {
-      
+
         if(smoshAdVars.postUrl.indexOf('smosh.com/smosh-pit/articles') > -1) {
             smoshAdVars.smoshPitCategory = 'articles';
         } else if(smoshAdVars.postUrl.indexOf('smosh.com/smosh-pit/links') > -1) {
@@ -136,7 +154,7 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
         smoshAdVars.adZone.interstitial += '/' + smoshAdVars.smoshPitCategory;
         smoshAdVars.adZone.footer += '/' + smoshAdVars.smoshPitCategory;
         smoshAdVars.adZone.mobile_rectangle += '/' + smoshAdVars.smoshPitCategory;
-      
+
     }
 
     if(getQueryVariable('swapAdZone')) {
@@ -144,27 +162,89 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
     }
 
     googletag.cmd.push(function() {
+
+        var adDivs = document.querySelectorAll('.js-ad-container'),
+            i;
+
+        // send GA event for all ad containers in the page
+        for ( i = 0 ; i < adDivs.length ; i++ ) {
+            var id = adDivs[i].getAttribute('id');
+            // Send GA event
+            Tracking.sendEvent('Slot Rendered', id, dataLayer[0].Section);
+        }
+
+
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+
+                if(!event.isEmpty) {
+                    // Send event to GA
+                    Tracking.sendEvent('DFP Responded', event.slot.getName().replace('/4678/smosh.dmp/', '') , dataLayer[0].Section);
+                    //console.log('DFP Respons' + event.slot.getName());
+                }
+            });
+
         googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.leaderboard, smoshAdVars.lbAdSz, 'div-gpt-ad-leaderboard').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+
+        // Send event to GA
+        Tracking.sendEvent('DFP Called', smoshAdVars.adZone.leaderboard, dataLayer[0].Section);
+
         stitialAdSlot = googletag.defineOutOfPageSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
 
         if(window.innerWidth <= 725) {
             googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.footer, smoshAdVars.lbAdSz, 'div-gpt-ad-footer').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            // Send event to GA
+            Tracking.sendEvent('DFP Called', smoshAdVars.adZone.footer, dataLayer[0].Section);
+
             googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.mobile_rectangle, [300, 250], 'div-gpt-ad-mobile-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            // Send event to GA
+            Tracking.sendEvent('DFP Called', smoshAdVars.adZone.mobile_rectangle, dataLayer[0].Section, 'div-gpt-ad-mobile-rectangle');
+
             // Video CDPs
             googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.mobile_rectangle, [300, 250], 'div-gpt-ad-btf-rectangle-mobile').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            // Send event to GA
+            Tracking.sendEvent('DFP Called', smoshAdVars.adZone.mobile_rectangle, dataLayer[0].Section, 'div-gpt-ad-btf-rectangle-mobile');
 
         } else {
             googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.rectangle, [300, 250],'div-gpt-ad-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+
+            // Send event to GA
+            Tracking.sendEvent('DFP Called', smoshAdVars.adZone.rectangle, dataLayer[0].Section);
+
             // Video CDPs
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.btf_rectangle, [300, 250],'div-gpt-ad-btf-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());  
+            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.btf_rectangle, [300, 250],'div-gpt-ad-btf-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+
+            // Send event to GA
+            Tracking.sendEvent('DFP Called', smoshAdVars.adZone.btf_rectangle, dataLayer[0].Section);
+
         }
 
         googletag.pubads().setTargeting('page', '123');
+
+		
+ 		//Set targeting for header bidding		
+		if (typeof pbjs_setTargeting === 'function') {
+			console.log('Call pbjs_setTargeting');
+			pbjs_setTargeting();
+		}
+
+		// Do we need this ?
+		//googletag.pubads().enableSingleRequest();
+
         googletag.enableServices();
     });
 
 </script>
 <!-- END Google Publisher Tags -->
+
+<!-- Begin 2nd Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5JMCDZ');
+</script>
+<!-- End 2nd Google Tag Manager -->
 
 
 </head>
@@ -550,19 +630,17 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script type="text/javascript" src="http://www.smosh.com/sites/all/themes/aurora/js/jquery-1.7.2.min.js"><\/script>')</script><script type="text/javascript" src="http://www.smosh.com/sites/all/themes/aurora/js/jquery-1.7.2.min.js"></script>
 <script src="http://cdn.smosh.com/misc/jquery.once.js?v=1.2"></script>
-<script src="http://cdn.smosh.com/misc/drupal.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/misc/states.js?v=7.34"></script>
+<script src="http://cdn.smosh.com/misc/drupal.js?o98z2x"></script>
 <script src="http://cdn.smosh.com/misc/ajax.js?v=7.34"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js?nzsb5i"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js?o98z2x"></script>
 <script src="http://cdn.smosh.com/misc/progress.js?v=7.34"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.easing-1.3.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.heroCarousel-1.3.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_carousel/js/smosh_carousel.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/timeago/jquery.timeago.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/disqus/disqus.js?nzsb5i"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.easing-1.3.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.heroCarousel-1.3.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_carousel/js/smosh_carousel.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/timeago/jquery.timeago.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?o98z2x"></script>
 <script>var dataLayer = [{
 			'Section': '',
 			'Author': 'smoshdrupaladmin',
@@ -572,26 +650,27 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 			'On_Air_Talent': '',
 			'pageview' : window.location.href.replace('http://' + document.domain, '')
 		  }];</script>
-<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_performance/smosh_performance.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/timeago/timeago.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh-quiz.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/loader.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.formalize.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.ba-throttle-debounce.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.cookie.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/mobile.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/msdropdown/jquery.dd.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/image-dropdown.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/social-buttons.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.form.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.validate.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/additional-methods.min.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/game.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.smartbanner.js?nzsb5i"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.fitvids.js?nzsb5i"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smosh","theme_token":"KrvTJPkMx5bnP1AwDXkJf0DD3_grTI8B-pfZVEUALpc","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery.heroCarousel\/jquery.heroCarousel.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"sites\/all\/themes\/smosh\/css\/smosh-quiz.css":1,"sites\/all\/themes\/smosh\/css\/new-style.css":1,"sites\/all\/themes\/smosh\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"smosh_helpers":{"host":"www.smosh.com","usr_host":null,"embed_smosh":"http:\/\/embed.smosh.com"},"smosh_performance":{"disqus_path":"\/ajax\/smosh-disqus\/node\/49973"},"states":{"#edit-key":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}}},"pathToTheme":"sites\/all\/themes\/smosh"});</script>
-	
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/disqus/disqus.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_performance/smosh_performance.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/timeago/timeago.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh-quiz.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/loader.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.formalize.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.ba-throttle-debounce.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.cookie.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/mobile.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/msdropdown/jquery.dd.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/image-dropdown.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/social-buttons.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.form.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.validate.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/additional-methods.min.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/game.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.smartbanner.js?o98z2x"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.fitvids.js?o98z2x"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smosh","theme_token":"G7-zKBOGvELZox-psdMoJ9vcOYHwoV5cGWEy8Rzkg58","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery.heroCarousel\/jquery.heroCarousel.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"sites\/all\/themes\/smosh\/css\/smosh-quiz.css":1,"sites\/all\/themes\/smosh\/css\/new-style.css":1,"sites\/all\/themes\/smosh\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"smosh_helpers":{"host":"www.smosh.com","usr_host":"usr-cdn1.smosh.com","embed_smosh":"http:\/\/embed.smosh.com","brkmd":"http:\/\/s.brkmd.com"},"smosh_performance":{"disqus_path":"\/ajax\/smosh-disqus\/node\/49973"},"pathToTheme":"sites\/all\/themes\/smosh"});</script>
+
 <!-- Quantcast Tag -->
 <noscript>
 <div style="display:none;">
@@ -643,7 +722,7 @@ _comscore.push({ c1: "2", c2: "6034956" , c3: "smosh.com" });
 <script>
     // Basic FitVids
 	if (jQuery("body").hasClass("node-type-blog") ) {
-		jQuery(".field-item").fitVids(); 
+		jQuery(".field-item").fitVids();
 	}
 </script>
 <!-- END: FITVIDSJS -->
@@ -667,7 +746,7 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"></script>
 <!-- End DistroScale JS-->
 
-<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script> 
+<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
 
 <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2010 Nielsen Online -->
@@ -688,9 +767,9 @@ var google_remarketing_only = true;
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
 <!--------------- BEGIN div-gpt-ad-oop ---------------->
-<div id="div-gpt-ad-oop" style="width:0px;height:0px;">
-     <script type="text/javascript">         
-          googletag.cmd.push(function () { googletag.display("div-gpt-ad-oop"); });  
+<div id="div-gpt-ad-oop" style="width:0px;height:0px;" class="js-ad-container">
+     <script type="text/javascript">
+          googletag.cmd.push(function () { googletag.display("div-gpt-ad-oop"); });
      </script>
 </div>
 <!--------------- END div-gpt-ad-oop ---------------->
@@ -703,6 +782,10 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KXST7D');</script>
+
+<!-- 2nd Google Tag Manager (GPT)-->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JMCDZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager -->
 
 <!-- Start Smosh - 1x3 -->
@@ -737,10 +820,5 @@ var __kx_ad_slots = __kx_ad_slots || [];
 })();
 </script>
 <!-- End Smosh - 1x3 -->
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
