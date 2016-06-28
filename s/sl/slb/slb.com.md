@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205202645id_/https%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020041id_/https%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Schlumberger General Web Site Privacy Statement, Schlumberger
-
-[](http://www.slb.com/about/privacy.aspx?p=1)
+# Schlumberger General Web Site Privacy Statement | Schlumberger
 
 Schlumberger has a long-standing commitment to safeguard the privacy of information entrusted to us. The privacy principles and procedures set forth below are intended to tell you how we collect, use, and distribute user information via our primary public web site (www.slb.com). This statement also applies generally to all web sites operated by Schlumberger (and its affiliates). This statement does not cover information collected from sources other than Schlumberger web sites.
 
