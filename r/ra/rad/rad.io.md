@@ -1,46 +1,113 @@
-> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226081252id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628155022id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We, radio.de GmbH, Mühlenkamp 59, 22303 Hamburg, Deutschland, enable you to use our audio services in a variety of ways. The following Privacy Terms apply irrespective of whether our services are provided via the www.radio.net portal, another Internet portal, an application available on the Internet, a client device or in any other way. Safeguarding your personal information is a matter of great importance for us. Personal information refers to data describing an individual's personal or material circumstances, including name, address, postal address, email address, telephone number and IP address, but excluding information that cannot be connected to you.  
-As a private enterprise (private law company), we are subject to the provisions of the German Privacy Act (BDSG) and the German Telemedia Act (TMG), with which we are in strict compliance. We have further taken technical and organizational measures to ensure compliance with data protection law. By using or registering for our services, you express your agreement, which may be revoked at any time, with our collecting, storing and using your personal information subject to these terms. Please read our Privacy Terms so you will know how we use your personal information after it is compiled. If you have any questions about our Privacy Terms, please contact us by email, at privacy@radio.net. 
+By means of this privacy statement we will inform you of the nature, scope and purpose of the collection and use of personal data pursuant to section 13 of the German Telemedia Act when using the website www.radio.net and the services provided on the website.
 
-  * Scope, nature and purpose of data processing
-  * Disclosing personal information to third parties
-  * Right of revocation
-  * Right to receive information and privacy officer
-  * Mobile-Applications
+## Data Controller
 
+The Data Controller, as defined by German data protection law, is radio.de GmbH, Mühlenkamp 59, 22303 Hamburg, Germany.
 
+## Personal Data
 
-## Scope, nature and purpose of data processing
+Personal data are any information concerning the personal or material circumstances of an identified or identifiable individual (the data subject) such as name, address, postal address, e-mail address, phone number and IP-address.
 
-Whenever our services are used, we automatically collect and store information in our server log files that your browser transmits to us when you use our audio service. Such information includes browser type, IP address, your current station inquiries as well as the date and time of each action. This data is stored for statistical purposes and to facilitate user-behavior analyses designed to improve existing services and develop new ones. Accordingly, such data is not used to create a personal profile of you and is deleted or made anonymous in regular intervals. For some of the services we offer, we also store certain information in the form of "cookies" - i.e., small text files stored on your computer. The use of cookies is easy to prevent: You simply deactivate the acceptance of cookies in your browser settings. If you accept cookies, we store data in cookies placed on your hard drive that we access whenever our website is visited using the same computer and browser. This enables us to better understand the behaviors of our users and, consequently, to adapt our contents and services to better suit their needs.  
-When you register with us, we collect the following data: user name, user ID and email address. We require this data in order to enable you, for example, to save a list of favorites and for us to contact you. Moreover, it allows us to prevent double-registrations. We also associate with such data audio content that you frequently select and/or have recently listened to in order to be able to make such content available to you upon demand and customize our website to suit your preferences and interests. If you provide information about your preferences (e.g., favorite musical genres and themes), we will likewise store them, allowing us to make recommendations with each use. In addition, we may ask you for additional personal information during the registration process, such as name, date of birth, age or gender, such information also being used for the purposes outlined above. Whether you provide the requested information is entirely up to you. Finally, we use your email address to send you our newsletter if you expressly agree to such use when you registered or at any other time. Our newsletter contains up-to-date and interesting information about radio. 
+## Audio Service
 
-Back to top
+While you are using our audio service we will automatically save information to our server log files, which is transmitted to us by your browser. This information includes the type of browser, the IP-address, your current radio station request, as well as the date and time of each action. These data are saved exclusively for statistical purposes in order to implement analyses regarding user behaviour for the purposes of improving and developing new services. We do not use this information to create a personal profile.
 
-## Disclosing personal information to third parties
+## Login/Register
 
-We do not share your personal information with third parties without your consent. If, when we engage service providers, data is disclosed to service providers, such entities are likewise bound by BDSG and other legal provisions. Otherwise, your personal information will only be provided to authorities entitled to receive such data and to the extent that we are required to do so by applicable law or court order. Some of the contents you introduce as part of our audio services, such as playlists, comments and ratings, may be viewed by other users. For this reason, you should check your postings for information that is not intended for the public. If you want to post anonymously, you should select a user name that will not reveal your identity since the user name is published along with any posting. If you make use of our audio services as part of a social community, we provide a platform adapted to the needs of the social community to facilitate an exchange about the use of our services with third parties. Depending on the community, this may mean that some of your data (such as your list of favorites or a list of most recently selected content) is accessible to other community members. For details, please consult the general terms of use as well as the privacy terms of the social community you want to use. 
+Some of our services (e.g. saving of preferred radio stations as favorites) require prior registration and login.  In the course of registration we collect and store the following personal data: a user name selected by you, your e-mail address and a password selected by you.
 
-Back to top
+Alternatively, we offer you the possibility to register by using the data saved in your Facebook or Google account via the functions “LOGIN WITH FACEBOOK” or “LOGIN WITH GOOGLE+”. By using the aforementioned functions you agree to let us access the basic user data saved in your user account, i.e. the data which is publically visible on the social network, as well as to collect, process and use the e-mail address and further data which is necessary for the registration outlined in this privacy statement.
 
-## Right of revocation
+## My Profile
 
-You may revoke your consent to the collection, storage and use of the aforementioned data by us at any time, for any reason, by sending an email to privacy@radio.net. However, please note that without collecting, storing and using your data, we can only offer limited audio services because our service is partly tied to such data (for example, no list of favorites or personal radio station recommendation may be created or stored if the data compiled during your registration is not stored).  
-You have the right to view, edit, correct or delete the personal information collected by us at any time. Under "My Profile," you can delete your user account at any time by clicking on "Delete Account." If you want to cancel your newsletter subscription, please send an email to contact@radio.net. In addition, each of our newsletters contains a link allowing you to revoke your consent and cancel the newsletter. 
+As a registered user you have the possibility of adding further personal information to your profile. Furthermore, we offer you the possibility to create your favorite list of radio stations and songs, which can be retrieved via your profile to quickly access your favorite radio stations. Additionally, we will be able to recommend to you further radio stations related to your list of favorites. You may change or delete this information as well as the list of favorites in your profile at any time. Furthermore, you have the possibility to delete your account completely. Your personal data will then be automatically deleted.
 
-Back to top
+## Newsletter
 
-## Right to receive information and privacy officer
+Subject to the following consent, which must be expressly granted by you, we will use your e-mail address to send you our newsletter: _“I wish to receive the radio.net newsletter”_. You may unsubscribe from the newsletter at any time by clicking on the respective link in the newsletter. With our newsletter you will regularly receive current and interesting information around the topic of radio. 
 
-You are entitled, at any time, to receive - and our privacy officer will be glad to provide - a copy of the personal information that we store on you, its origin and recipients as well as the purpose of its storage. For all other questions, suggestions and comments on the issue of privacy, please contact our privacy officer at privacy@radio.net. 
+## Support Function
 
-Back to top
+If you require support when using our services, you may directly request it by clicking on the button “Support”. To answer your question we require your e-mail address. We will use the e-mail address given to us within the framework of this function exclusively for the purpose of answering your questions.
 
-## Mobile-Applications
+## Linking Agreement
 
-radio.net offers you location based services. Location services provide data to the App for this purpose. The data enables the App to determine your approximate location (network-based) - provided that location services are available on your device and have been activated. The location services use network location sources such as transmission towers or WLAN. The approximate location will only be determined in order to support the Location Feature of the App. The Location Feature displays regional radio stations of your current environment. At any time, you have the possibility to deactivate the location service on your device. 
+The personal data entered via the Linking Agreement will only be used by us for the implementation of the contractual relationship.
 
-Back to top
+## radio.net App Download
+
+To receive direct links to our app offers in the app store we offer you the opportunity to actively submit your e-mail address on various subpages of radio.net. This exclusively serves the purpose of making access to our apps easier for you. You will only receive this e-mail if you have given us the following consent: “I wish to receive download links via e-mail for the radio.net apps”.
+
+## Social Plugins
+
+### Facebook
+
+We use social plugins (“plugins”) for the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook“), on our website. These plugins are usually indicated by the Facebook logo. An overview of the plugins and their appearance can be found here: https://developers.facebook.com/docs/plugins
+
+When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Facebook servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Facebook will receive information stating that your browser has accessed the relevant page of our website, even if you do not have a Facebook profile or are currently not logged into Facebook. This information (including your IP-address) will be directly transmitted to and stored on one of Facebook’s servers in the USA.
+
+If you are logged into Facebook, Facebook will be able to directly link your visit on our website to your Facebook profile. If you interact with the plugins, for example by using the “Like”-button or if you leave a comment, this information will also be directly transmitted to and stored on a Facebook server. The information will also be published on your Facebook profile and shown to your Facebook friends.
+
+The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Facebook’s data protection provisions: http://www.facebook.com/policy.php
+
+If you do not want Facebook to directly link the data collected via our web presence to your Facebook profile, you will have to log out of Facebook before visiting our website. You can completely prevent Facebook plugins from loading with add-ons for your browser, e.g. by means of the “Facebook Blocker” http://webgraph.com/resources/facebookblocker/).
+
+### Twitter
+
+We use social plugins (“plugins”) for the micro-blogging service Twitter, operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (”Twitter“), on our website. These plugins are usually indicated by the Twitter logo, for example in the shape of a blue “Twitter-bird”. An overview of the Twitter plugins and their appearance can be found here: https://twitter.com/about/resources/buttons
+
+When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Twitter servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Twitter will receive information stating that your browser has accessed the relevant page of our website, even if you do not have a Twitter profile or are currently not logged into Twitter. This information (including your IP-address) will be directly transmitted to and stored on one of Twitter’s servers in the USA.
+
+If you are logged into Twitter, Twitter will be able to directly link your visit on our website to your Twitter account. If you interact with the plugins, for example by using the “tweet”-button, this information will also be directly transmitted to and stored on a Twitter server. The information will also be published on your Twitter account and shown to your contacts.
+
+The purpose and scope of the data collection and the further processing and use of the data by Twitter as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Twitter’s data protection provisions: https://twitter.com/privacy
+
+If you do not want Twitter to directly link the data collected via our website to your Twitter account, you will have to log out of Twitter before visiting our website. You can completely prevent Twitter plugins from loading with add-ons for your browser, e.g. by means of the script-blocker “No Script” (http://noscript.net/).
+
+### Google+
+
+We also use social plugins (“plugins”) for the social network Google+, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google“), on our website. These plugins are usually indicated by buttons with the symbol “+1” on a white or colored background. An overview of the Google plugins and their appearance can be found here: https://developers.google.com/+/plugins
+
+When you access a page of our website, which contains such a plugin, your browser will establish a direct connection to the Google servers. The content of the plugin will be directly transmitted to your browser and integrated into the webpage. By means of this integration Google will receive information stating that your browser has accessed the relevant page of our web presence, even if you do not have a Google+ profile or are currently not logged into Google+. This information (including your IP-address) will be directly transmitted to and stored on one of Google’s servers in the USA.
+
+If you are logged into Google+, Google will be able to directly link your visit on our website to your Google+ profile. If you interact with the plugins, for example by using the “+1”-button, this information will also be directly transmitted to a Google server and saved there. The information will also be published on your Google+ profile and shown to your contacts.
+
+The purpose and scope of the data collection and the further processing and use of the data by Google as well as your rights concerning this matter and individual settings for the protection of your privacy can be found in Google’s data protection provisions: http://www.google.com/intl/de/+/policy/+1button.html
+
+If you do not want Google to directly link the data collected via our web presence to your Google+ profile, you will have to log out of Google+ before visiting our website.  You can completely prevent Google plugins from loading with add-ons for your browser, e.g. by means of the script-blocker “No Script” (http://noscript.net/).
+
+## Cookies
+
+In some areas of our website we collect and store certain information in the form of so-called “cookies”. Cookies are small text files which are stored on your computer. You can easily prevent the use of cookies by deactivating the acceptance of cookies in the settings of your browser. If you choose to accept cookies, we will collect data within the cookies on your hard drive and will retrieve this information during later use of our website when using the same computer and web browser. This facilitates your use of our services and allows us to better understand the behaviour of our users and to be able to offer them contents as well as services designed to meet their expectations.
+
+## Google Analytics
+
+This website uses Google Analytics, a web analysis service of Google Inc. (“Google“). Google Analytics uses so-called “cookies“, text files, which are saved on your computer and which enable an analysis of your use of our website to be made. The information generated by the cookie regarding your use of this website is regularly transmitted to and stored on a Google server in the USA. In case of an activation of the IP-anonymization on this website, your IP-address will be shortened by Google beforehand within the member states of the European Union or in other contracting states according to the Agreement on the European Economic Area. The complete IP-address will only be transmitted to a Google server in the USA and shortened there in exceptional cases. Google will use this information on our behalf to analyze your use of the website, to compile reports on website activities and to provide us with further services connected to the use of the website and to the use of the internet. The IP-address which was transmitted by your browser within the framework of Google Analytics will not be merged with other Google data. 
+
+You can prevent the saving of cookies by setting your browser-software accordingly; however, we would like to point out that if you decide to do so, you may not be able to use all functions of this website to the full extent. Furthermore, you can prevent the collection of data generated by the cookie and related to your use of the website (including your IP-address) as well as the processing of this data by Google by downloading and installing the browser plugin available under the following link:  tools.google.com/dlpage/gaoptout.
+
+## Google Adsense
+
+If Google Adsense, a web advertisement service of Google Inc., USA (“Google”), places advertisements (text ads, banners etc.) on this website, your browser may store a cookie sent by Google Inc. or by a third party. The information stored in the cookie can be recorded, collected and analyzed by Google Inc. or by third parties. Additionally, Google Adsense also uses so-called “web beacons” (small invisible images) for the collection of information. By using these web beacons simple actions such as user traffic on the website can be recorded, collected and analyzed. The information generated by the cookie and/or web beacon regarding your use of this website is transmitted and stored to a Google server in the USA. Google uses the obtained information to carry out an evaluation of your user behaviour with regard to the Adsense advertisements. Google may also transfer this information to third parties, provided that this is legally mandatory or that third parties process this data on behalf of Google. Google will not connect your IP-address to other data stored by Google. You can prevent the collection and storage of cookies on your hard drive as well as the display of web beacons. In order to do so you must select “do not accept cookies” in your browser settings (in Internet Explorer go to “Extras / Internet Options / Data Protection / Settings”, in Firefox go to “Extras / Settings / Data Protection / Cookies”).
+
+## Transfer to Third Parties
+
+A transfer of personal data to third parties will only take place as far as we are obliged to transfer the collected data due to an official or court order or if the transfer has been legitimized by applicable legal provisions.
+
+## Data Security
+
+n order to prevent unauthorized access or unauthorized disclosure, to warrant the correctness of data and to ensure the authorized use of data, we have taken appropriate technical and organizational measures in order to secure and protect the data which we collect online. The transmission of data and information on our server is encrypted by means of TLS 1.2. Despite these measures and efforts, electronic communication itself cannot be completely secure. We cannot take responsibility or be held liable for the disclosure of information due to errors and/or unauthorized access during the data transmission of third parties.
+
+## Your Rights
+
+With regard to personal data you have the rights of information, correction and deletion granted by the German Federal Data Protection Act. These rights are to be asserted by sending a letter by mail to the address of radio.net mentioned above or via e-mail to privacy@radio.net.
+
+## Further Information
+
+In case you have any further questions concerning our data protection provisions, please feel free to contact us at any time via e-mail at privacy@radio.net.
+
+Status: February 2016
