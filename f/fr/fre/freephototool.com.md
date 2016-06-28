@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freephototool.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103180328id_/http%3A//www.freephototool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephototool.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628124232id_/http%3A//www.freephototool.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Online Photoshop (Free)
+# Privacy Policy | Photoshop like photo tool (Free)
 
   
 
 
-This Privacy Policy governs the manner in which Online Photoshop collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.OnlinePhotoshop.Net](http://www.onlinephotoshop.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Online Photoshop.
+This Privacy Policy governs the manner in which Free Photo TOol collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.FreePhotoTool.com](http://www.freephototool.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Photoshop like photo tool.
 
 **Personal identification information**
 
@@ -21,7 +21,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Online Photoshop may collect and use Users personal information for the following purposes:
+Photoshop like photo tool may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -52,7 +52,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-Online Photoshop has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Photoshop like photo tool has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -61,9 +61,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Online Photoshop](http://www.onlinephotoshop.net/)  
-[http://www.OnlinePhotoshop.Net](http://www.onlinephotoshop.net/)  
+[Free alternative to Photoshop Online](http://www.freephototool.com/)  
+[http://www.FreePhotoTool.com](http://www.freephototool.com/)  
 Office No 35345, Sheikh Jana.  
-info@OnlinePhotoshop.net
+info@FreePhotoTool.com
 
-This document was last updated on August 27, 2014
+This document was last updated on Nov 10, 2015
