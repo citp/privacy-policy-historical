@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229094757id_/http%3A//www.nextag.com/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628161827id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Nextag - Privacy Policy
 
   1. SCOPE AND CHANGES
 
-Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/) and [www.pricemachine.com](http://www.pricemachine.com/) (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=c17093ee-9f8e-402c-a8aa-3ae3828c28c7 "TRUSTe Privacy Certification")
-
-TRUSTe: Nextag has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected for registering or maintaining an account as a Nextag Merchant or Publisher via our Program Portals. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legalnotices@nextag.com](mailto:legalnotices@nextag.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Nextag, Inc. and/or our subsidiaries ("Nextag, " "us" or "we") operate the websites [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/) and [www.pricemachine.com](http://www.pricemachine.com/) (we refer to these websites as the "Websites"). This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online. Some services referenced in this Privacy Statement are not available on some Websites. Portions of this Website Privacy Statement that pertain to such features or services may not be applicable on each of the Websites.
 
 This Privacy Statement applies to all "users", including those who visit the Websites without being registered. This Website Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Website Privacy Statement at any time and at our discretion, as described in this paragraph. If we decide to change our Website Privacy Statement, we will post those changes to this Website Privacy Statement accessible on the homepages of the Websites, and other places we deem appropriate. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via either email or by posting a notice on the Websites within a reasonable timeframe prior to such use taking effect.
 
@@ -165,8 +161,8 @@ If you have any questions about this Website Privacy Statement, the practices of
 
 Privacy Officer  
 Nextag Inc.  
-800 Bridge Parkway\\\  
-Suite 200  
+555 Twin Dolphin Drive\\\  
+Suite 370  
 Redwood City, CA 94065  
 legalnotices@nextag.com
 
