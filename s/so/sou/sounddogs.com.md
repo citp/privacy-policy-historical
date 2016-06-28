@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sounddogs.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127042359id_/https%3A//www.sounddogs.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounddogs.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628065428id_/http%3A//www.sounddogs.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sounddogs.com
 
