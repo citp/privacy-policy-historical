@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228202316id_/http%3A//www.casio.com/support/helpdesk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628231912id_/http%3A//www.casio.com/support/helpdesk/privacy.htm) for the most accurate reproduction.*
 
 # Help Desk - Support - CASIO
 
