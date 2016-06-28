@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122084154id_/http%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628171620id_/http%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
 
 # Data protection regulation/privacy policy | Spinchat.com
 
@@ -9,12 +9,12 @@ Personal data constitute details relating to the personal or business affairs of
 
 Personal data gained during registration shall be used for the agreed purpose of participating in the spinchat.com-Community. The data submitted shall not be forwarded to third parties except where required by law or in cases in which the User has been explicitly informed in advance thereof and has voluntary agreed to the forwarding or use of the data in other contexts.
 
-The user profile voluntarily created by the User can be accessed by all Internet users, in particular via search engines. The User has the possibility to deactivate the function for easier finding by search engines under [Settings](http://www.spinchat.com/prefs/ "http://www.spinchat.com/prefs/"). Furthermore, the User may restrict the accessibility of individual parts of his/her profile to a selected group of people, such as e.g. to his/her friends.
+The user profile voluntarily created by the User can be accessed by all Internet users, in particular via search engines. The User has the possibility to deactivate the function for easier finding by search engines under [Settings](https://web.archive.org/prefs/ "/prefs/"). Furthermore, the User may restrict the accessibility of individual parts of his/her profile to a selected group of people, such as e.g. to his/her friends.
 
  **2\. Revocation**  
 With the exception of his/her gender and birthday, which have to be indicated during registration, the User may amend his/her data submitted at any time.
 
-The User's consent to this Privacy Policy may be revoked at any time by the User by using the function provided by spinchat.com to [delete his/her registration and his/her data entirely](http://www.spinchat.com/account/delete "http://www.spinchat.com/account/delete").
+The User's consent to this Privacy Policy may be revoked at any time by the User by using the function provided by spinchat.com to [delete his/her registration and his/her data entirely](https://web.archive.org/account/delete "/account/delete").
 
 In case of deletion, profile data and photos shall be removed entirely from the website. Content uploaded to public areas by the User, such as board postings, shall be retained, however, - without the other personal and person-related data from the profile. Public postings in which the User has disclosed sensitive/personal data without intention may be removed subsequently however by contacting our Customer Support and indicating the URL to be removed. Messages sent to other users, such as chatmails, guestbook entries or gifts, will be retained, however, for these users.
 
