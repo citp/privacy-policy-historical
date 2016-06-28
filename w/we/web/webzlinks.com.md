@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webzlinks.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113701id_/http%3A//webzlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webzlinks.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628213257id_/http%3A//webzlinks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WEBZLINKS
+# Privacy Policy -
 
 We want you to feel confident that the information we collect, and that you choose to share, will be treated with care.
 
