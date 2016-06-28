@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215184822id_/http%3A//www.endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629010039id_/http%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - End Citizens United
 
-_Updated March 1, 2015_
+_Updated January 8th, 2016_
 
 End Citizens United cares about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we’ve created this policy to explain our privacy practices. This applies to  **www.endcitizensunited.org  **only.
 
@@ -34,7 +34,7 @@ _To Carry Out Your Requests._  We also may be required to disclose personal inf
 
 _To Protect You and Ourselves._  We release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena), to protect our rights or property, or to protect our donors and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
-_To Support Democratic Candidates and Organizations._  We may disclose selected personal information (other than credit card or bank information) to other Democratic campaigns or organizations for their use in campaign activities and other special projects. We require that the information be used only for that specific purpose.
+_To Support Democratic Candidates and Organizations._ We may disclose selected personal information (other than credit card or bank information) to other campaigns and organizations that we believe are like-minded or that we believe you may wish to hear from.
 
 **Cookies**
 
@@ -62,8 +62,10 @@ We may revise or update this policy if our practices change, as we change existi
 
 **How to Contact Us**
 
-If you have any questions, comments or concerns, please contact us by e-mail at [admin@endcitizensunited.org](mailto:admin@endcitizensunited.org), or at the mailing address listed below:
+If you have any questions, comments or concerns, please contact us by e-mail at [admin@endcitizensunited.org](mailto:admin@endcitizensunited.org), or at the mailing address listed below:
 
 End Citizens United  
 PO Box 66005  
 Washington, DC   20035
+
+### Co-sponsor a constitutional amendment to
