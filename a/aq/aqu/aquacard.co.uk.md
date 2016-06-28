@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229004821id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628212342id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -186,9 +186,9 @@ i) Any account you and, if you have one, your financial associate may have or ha
 
 A financial associate is someone with whom you have a personal relationship that creates a joint financial unit in a similar way to a married couple. You will have been living at the same address at the time. It is not intended to include temporary arrangements such as students or rented flat sharers or business relationships.
 
-Credit reference agencies may link together the records of people that are part of a financial unit. They may do this when people are known to be linked, such as being married or have jointly applied for credit or have joint accounts. They may also link people together if they, themselves, state that they are financially linked.
+Credit Reference Agencies may link together the records of people that are part of a financial unit. They may do this when people are known to be linked, such as being married or have jointly applied for credit or have joint accounts. They may also link people together if they, themselves, state that they are financially linked.
 
-b) Search at credit reference agencies for information on: -
+b) Search at Credit Reference Agencies for information on: -
 
 i. Your personal accounts;
 
@@ -198,15 +198,15 @@ iii) very occasionally if there is insufficient information to enable us to assi
 
 iv) if you are a director or partner in a small business we may also check on your business accounts.
 
-c) Search at fraud prevention agencies for information on you and any addresses at which you have lived and on your business (if you have one)
+c) Search at Fraud Prevention Agencies for information on you and any addresses at which you have lived and on your business (if you have one)
 
-**2) What we do with the information you supply to us as part of the application: -**
+**2) What we do with the information you supply to us as part of the application:  **
 
-a) Information that is supplied to us will be sent to the credit reference agencies.
+a) Information that is supplied to us will be sent to the Credit Reference Agencies.
 
 b) If you are making a joint application or tell us that you have a spouse or financial associate, we will: -
 
-i) Search, link and/or record information at credit reference agencies about you both.
+i) Search, link and/or record information at Credit Reference Agencies about you both.
 
 ii) Link any individual identified as your financial associate, in our own records.
 
@@ -214,13 +214,15 @@ iii) Take both your and their information into account in future applications by
 
 iv) Continue this linking until the account closes and one of you notifies us that you are no longer linked.
 
-**So you must be sure that you have their agreement to disclose information about them.**
+  * **So you must be sure that you have their agreement to disclose information about them.**
+
+
 
 c) If you give us false or inaccurate information and we suspect or identify fraud we will record this and may also pass this information to fraud prevention agencies and other organisations involved in crime and fraud prevention.
 
 d) Your data may also be used by us to offer you other products, but only if you have given your permission. That will be on any application that you have completed.
 
-**3) With the information that we obtain we will: -**
+**3) With the information that we obtain we will:  **
 
 a) Assess this application for credit;
 
@@ -234,25 +236,25 @@ We may use scoring methods to assess this application and to verify your identit
 
 Any or all of these processes may be automated.
 
-**4) What we do when you have an account: -**
+**4) What we do when you have an account:  **
 
-a) Where you borrow or may borrow from us, we will give details of your personal and/or business account (if you have one), including names and parties to the account and how you manage it/them to credit reference agencies.
+a) Where you borrow or may borrow from us, we will give details of your personal and/or business account (if you have one), including names and parties to the account and how you manage it/them to Credit Reference Agencies.
 
-b) If you borrow and do not repay in full and on time, we will tell credit reference agencies.
+b) If you borrow and do not repay in full and on time, we will tell Credit Reference Agencies.
 
-c) We may make periodic searches of our own group records and at credit reference agencies to manage your account with us, including whether to make credit available, increase the amount of credit available or to continue or extend existing credit. We may also check at fraud prevention agencies to prevent or detect fraud.
+c) We may make periodic searches of our own group records and at Credit Reference Agencies to manage your account with us, including whether to make credit available, increase the amount of credit available or to continue or extend existing credit. We may also check at Fraud Prevention Agencies to prevent or detect fraud.
 
 ### What Credit Reference and Fraud Prevention Agencies do
 
-**5) When credit reference agencies receive a search from us they will:**
+**5) When Credit Reference Agencies receive a search from us they will:**
 
 a) Place a search “footprint” on your credit file whether or not this application proceeds. If the search was for a credit application the record of that search (but not the name of the organisation that carried it out) may be seen by other organisations when you apply for credit in the future.
 
-b) Link together the records of you and anyone that you have advised is your financial associate including previous and subsequent names of parties to the account. Links between financial associates will remain on your and their files until such time as you or your partner successfully files for a disassociation with the credit reference agencies.
+b) Link together the records of you and anyone that you have advised is your financial associate including previous and subsequent names of parties to the account. Links between financial associates will remain on your and their files until such time as you or your partner successfully files for a disassociation with the Credit Reference Agencies.
 
 Financial associates may “break the link” between them if their circumstances change such that they are no longer a financial unit. They should apply for their credit file from a credit reference agency and file for a “disassociation”.
 
-**6) They will supply to us: -**
+**6) They will supply to us:  **
 
 a) Credit information such as previous applications and the conduct of the accounts in your name and of your associate(s) (if there is a link between you) and/or your business accounts (if you have one).
 
@@ -262,23 +264,23 @@ c) Electoral Register information.
 
 d) Fraud prevention information.
 
-**7) When information is supplied by us, to them, on your account(s): -**
+**7) When information is supplied by us, to them, on your account(s):  **
 
-a) Credit reference agencies will record the details that are supplied on your personal and/or business account (if you have one) including any previous and subsequent names that have been used by the accountholders and how you/they manage it/them.
+a) Credit Reference Agencies will record the details that are supplied on your personal and/or business account (if you have one) including any previous and subsequent names that have been used by the accountholders and how you/they manage it/them.
 
-b) If you borrow and do not repay in full and on time, credit reference agencies will record the outstanding debt.
+b) If you borrow and do not repay in full and on time, Credit Reference Agencies will record the outstanding debt.
 
-c) Records shared with credit reference agencies remain on file for 6 years after they are closed, whether settled by you or defaulted.
+c) Records shared with Credit Reference Agencies remain on file for 6 years after they are closed, whether settled by you or defaulted.
 
-**8) How your data will NOT be used by credit reference agencies: -**
+**8) How your data will NOT be used by Credit Reference Agencies:  **
 
 a) It will not be used to create a blacklist.
 
 b) It will not be used by the credit reference agency to make a decision.
 
-**9) How your data WILL be used by credit reference agencies:**
+**9) How your data WILL be used by Credit Reference Agencies:**
 
-a) The information which we and other organisations provide to the credit reference agencies about you, your financial associates and your business (if you have one) may be supplied by credit reference agencies to other organisations and used by them to:
+a) The information which we and other organisations provide to the Credit Reference Agencies about you, your financial associates and your business (if you have one) may be supplied by Credit Reference Agencies to other organisations and used by them to:
 
 i) Prevent crime, fraud and money laundering by, for example checking details provided on applications for credit and credit related or other facilities;
 
@@ -296,7 +298,7 @@ vii) Undertake statistical analysis and system testing.
 
 **10) How your data may be used by fraud prevention agencies:**
 
-i) The information which we provide to the fraud prevention agencies about you, your financial associates and your business (if you have one) may be supplied by fraud prevention agencies to other organisations and used by them and us to prevent crime, fraud and money laundering by, for example:
+The information which we provide to the fraud prevention agencies about you, your financial associates and your business (if you have one) may be supplied by fraud prevention agencies to other organisations and used by them and us to prevent crime, fraud and money laundering by, for example:
 
 a) checking details provided on applications for credit and credit related or other facilities;
 
@@ -314,7 +316,7 @@ g) Conduct other checks to prevent or detect fraud;
 
 h) We and other organisations may access and use from other countries the information recorded by fraud prevention agencies; and/or
 
-i) Undertake statistical analysis and system testing. 11) Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998. 12) Your data may also be used to offer you other products, but only where permitted by you.
+i) Undertake statistical analysis and system testing. 
 
 **11) Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998.**
 
@@ -330,25 +332,25 @@ You can contact the Credit Reference Agencies currently operating in the UK; the
 
 
 
-Please contact aqua customer services on 0333 220 2691 if you want to receive details of the relevant fraud prevention agencies.
+Please contact aqua customer services on 0333 220 2691 if you want to receive details of the relevant Fraud Prevention Agencies.
 
 ### Questions and Answers
 
-What is a credit reference agency?
+**What is a Credit Reference Agency?**
 
-Credit reference agencies (CRAs) collect and maintain information on consumers’ and businesses’ credit behaviour, on behalf of organisations in the UK.
+Credit Reference Agencies (CRAs) collect and maintain information on consumers’ and businesses’ credit behaviour, on behalf of organisations in the UK.
 
-What is a fraud prevention agency?
+**What is a Fraud Prevention Agency?**
 
 Fraud Prevention Agencies (FPAs) collect, maintain and share, information on known and suspected fraudulent activity. Some CRAs also act as FPAs.
 
-Why do you use them when I have applied to your organisation?
+**Why do you use them when I have applied to your organisation?**
 
 Although you have applied to us (NewDay Ltd) and we will check our own records, we will also contact CRAs to get information on your credit behaviour with other organisations. This will help us make the best possible assessment of your overall situation before we make a decision.
 
-Where do they get the information?
+**Where do they get the information?**
 
-  * publicly available information: -
+  * Publicly available information: 
 
 
 
@@ -358,7 +360,7 @@ Where do they get the information?
 
 \- Bankruptcy (and other similar orders) from the Insolvency Service
 
-  * Fraud information may also come from fraud prevention agencies.
+  * Fraud information may also come from Fraud Prevention Agencies.
   * Credit information comes from information on applications to banks, building societies, credit card companies etc and also from the conduct of those accounts.
 
 
@@ -371,10 +373,10 @@ You will be told when you apply for an account if your application data is to be
 
 We and other organisations want to make the best possible decisions we can, in order to make sure that you, or your business, will be able to repay us. Some organisations may also use the information to check your identity. In this way we can ensure that we all make responsible decisions. At the same time we also want to make decisions quickly and easily and, by using up to date information, provided electronically, we are able to make the most reliable and fair decisions possible.
 
-**Who controls what such agencies are allowed to do with my data?**
+**Who controls what such Agencies are allowed to do with my data?**
 
-All organisations that collect and process personal data are regulated by the Data Protection Act 1998, overseen by the Information Commissioner’s Office. All credit reference agencies are in regular dialogue with the Commissioner. Use of the Electoral Register is controlled under the Representation of the People Act 2000.
+All organisations that collect and process personal data are regulated by the Data Protection Act 1998, overseen by the Information Commissioner’s Office. All Credit Reference Agencies are in regular dialogue with the Commissioner. Use of the Electoral Register is controlled under the Representation of the People Act 2000.
 
-**Can just anyone look at my data held at credit reference agencies?**
+**Can just anyone look at my data held at Credit Reference Agencies?**
 
 No, access to your information is very strictly controlled and only those that are entitled to do so may see it. Usually that will only be with your agreement or (very occasionally) if there is a legal requirement.
