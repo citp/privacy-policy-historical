@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114210427id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cz.tl privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628044133id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Create your Website for Free - 100% for Free
 
@@ -94,10 +94,10 @@ We reserve the right to modify or amend this Privacy Policy with view to the pro
 In compliance with legal requirements we will at any time provide you with information on your personal data stored by us, free of charge and without undue delay. Furthermore, you are free to revoke the approvals granted by confirming this Privacy Policy, at any time and with future effect. If you wish to do so, please feel free to contact us:
 
 webme GmbH  
-Virchowstraße 20B  
+Virchowstrasse 20 b  
 90409 Nuremberg  
 GERMANY
 
 E-Mail: supportown-free-website.com
 
-**Status: 17. August 2012**
+**Status: 26. April 2016**
