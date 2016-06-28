@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playeasygame.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205220234id_/http%3A//www.playeasygame.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playeasygame.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628144445id_/http%3A//www.playeasygame.com/index.php/info/privacypolicy) for the most accurate reproduction.*
 
 # Playeasygame
 
@@ -7,7 +7,7 @@
   
 
 
-## Complete our simple survey now and you could win an Iphone6!
+## Complete our simple survey now and you could win an iPhone 6s!
 
 The Privacy of our gamers is of utmost importance for us. Our company makes all the efforts to protect the privacy of the contestants because we believe that your ‘privacy’ is valuable and worth preserving. Our privacy policy aims at offering a secure and absolutely full-proof online environment where our contestants are clearly informed of why and how their info is collected, stored or used by us. We make sure to maintain 100% transparency in our privacy policy so that gamers can be relaxed that we are engaged in a fair play and are not involved into passing on any of their personal information to a third party.
 
