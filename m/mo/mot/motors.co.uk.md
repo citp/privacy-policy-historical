@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907184502id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628161837id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Motors.co.uk
 
@@ -110,7 +110,7 @@ In your correspondence to us, please set out what it is that you would like to s
 
 The law on cookies changed in May 2011. Under the revised regulations, the requirement is not just to provide clear information about the cookies but also to obtain consent from users or subscribers to store a cookie on their device. It has been designed to protect online privacy by making consumers aware of how personal information about them is collected by websites, and enabling them to choose whether or not they want it to happen. Please read on for more information.
 
-6.1 What is a cookie? A cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device (“your device”).
+**6.1 What is a cookie?** A cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device (“your device”).
 
 A cookie cannot:
 
@@ -125,57 +125,74 @@ You can change your browser settings to refuse cookies or alert you when a cooki
 
 There are two broad classes of cookie: session and permanent.
 
-#####  Session cookies
+**Session cookies**
 
 These are used to keep track of information needed by a user and their browser on their journey through a website. Session cookies have a short lifetime and expire within a few minutes of the user leaving the site. Occasionally we will use 30 Day cookies which are similar to Session cookies but last a bit longer. They remember basic date to help improve the service you receive from us (for example, remembering vehicles that you have viewed in the last 30 days).
 
-#####  Permanent Cookies
+**Permanent Cookies**
 
-These are stored on your computer and are not deleted when the browser is closed. This is so they can retain your preferences for a particular website, allowing those preferences to be used in future browsing sessions. Permanent cookies can be used to analyse users' surfing behaviour within the Site, so that we can improve our services and allows us to prioritise our enhancements to the Site.
+These are stored on your computer and are not deleted when the browser is closed. This is so they can retain your preferences for a particular website, allowing those preferences to be used in future browsing sessions.
 
-6.2 We use cookies to:
+Permanent cookies can be used to analyse users' surfing behaviour within the Site, so that we can improve our services and allows us to prioritise our enhancements to the Site.
+
+**6.2 We use cookies to:**
 
   * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough;
-  * keep you logged in for the duration of your visit, which enables you to complete certain actions on the Site, for example, move from one page to another within the Site, adding cars to a shortlist, using watchlists, viewing catalogues and using Simulcast.
+  * to keep you logged in for the duration of your visit, which enables you to complete certain actions on the Site, for example, move from one page to another within the Site, adding cars to a shortlist, using watchlists and viewing catalogues;
   * store your preferences or your user name and password so that you do not need to input these every time you visit the Site;
   * customise elements of the layout and/or content of the pages of the Site for you;
   * collect statistical information about how you use the Site so that we can improve the Site;
   * gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a "market segment"; and
-  * enable basic web traffic analysis using Google Analytics.
+  * enable basic web traffic analysis using Google Analytics and other web analytics tools.
+  * deliver targeted adverts based on session data collected by cookies
 
 
 
 We also use some cookies from trusted third party sources to enable us to provide you with certain features on the Site, for example our live chat facility which uses cookies to enable the chat software to work.
 
-When you access the Site you will receive a message advising you that if you continue to use the Site, you are consenting to cookies being placed on your device in order to maximise your experience on the Site and allow us to make improvements.
+When you access the Site you will receive a message advising you that if you continue to use the Site, you are consenting to cookies being placed on your device in order to maximise your experience on the Site and allow us to make improvements
 
 Removing some of our cookies may seriously disrupt your use of the Site. You can always come back to this Privacy Policy at any time to find out how to change your preferences. You will find a link to this policy at the bottom of all of our web pages.
 
-Information is collected by reference to the IP address that you are using and includes information about the county and city you are in, together with the name of your internet service provider. The information is sometimes used to place interest-based advertisements on the Site which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk.
+Information is collected by reference to the IP address that you are using and includes information about the county and city you are in, together with the name of your internet service provider. The information is sometimes used to place interest-based advertisements on the Site which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ .
 
 Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. Visiting www.allaboutcookies.org will provide information on settings within your browser as well as other useful information on cookies. Please note however, that by blocking or deleting cookies used on the Site you may not be able to take full advantage of the Site if you do so.
 
-6.3 How do I disable cookies?
+**6.3 How do I disable cookies?**
 
 You can change your browser settings to refuse cookies or alert you when a cookie is being sent at any time.
 
+You can stop your browser from accepting cookies from a particular website. Below are links to browser information for doing this, be mindful that if you use multiple browsers you will have to undertake this process on each browser.
+
+[Google Chrome cookie settings](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666)
+
+[Microsoft Internet Explorer cookie settings](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-10)
+
+[Mozilla Firefox cookie settings](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+
+[Safari cookie settings](https://support.apple.com/kb/PH5042?locale=en_US)
+
+[iPhone and iPad cookie settings](https://support.apple.com/en-gb/HT201265)
+
 Further guidance on how to control and delete cookies can be found at http://www.allaboutcookies.org. Please note that removing some of our cookies may seriously disrupt your use of the Site and some features may not work as intended.
 
-We do use some cookies from trusted third party sources to enable us to provide you with certain features on the Site and have included any relevant third parties on our cookie list so that you can control the cookies they place more easily.
+We do use some cookies from trusted third party sources to enable us to provide you with certain features on the Site and have included any relevant third parties on our cookie list so that you can control the cookies they place more easily:
 
-6.4 List of Cookies
+**6.4.1 List of Cookies**
 
-Below is a list of our current cookies, including relevant third parties.  
+**6.4.2 Essential website performance cookies**
+
+Below is a list of our current cookies, used to improve the experience for users on our website.
 
 Name
 
 | 
 
-Purpose
+Type and Duration
 
 | 
 
-Type and Duration  
+Purpose  
   
 ---|---|---  
   
@@ -183,161 +200,161 @@ motSeaPanUseCar
 
 | 
 
-Enabling searches for used cars to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for used cars to be saved improving user experience on the Site.  
   
 motSeaPanUseVan
 
 | 
 
-Enabling searches for used vans to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for used vans to be saved improving user experience on the Site.  
   
 motSeaPanBas
 
 | 
 
-Remembers users basic data like postcode to enable improved user experience and faster searches.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Remembers users basic data like postcode to enable improved user experience and faster searches.  
   
 motSeaPanCarDea
 
 | 
 
-Enabling searches for car dealers to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for car dealers to be saved improving user experience on the Site.  
   
 motSeaPanVanDea
 
 | 
 
-Enabling searches for van dealers to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for van dealers to be saved improving user experience on the Site.  
   
 motSeaPanNewCar
 
 | 
 
-Enabling searches for new cars to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for new cars to be saved improving user experience on the Site.  
   
 motSeaPanNewVan
 
 | 
 
-Enabling searches for new vans to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for new vans to be saved improving user experience on the Site.  
   
 motSeaPanCarDeaSto
 
 | 
 
-Enabling searches for car dealer stock to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for car dealer stock to be saved improving user experience on the Site.  
   
 motSeaPanVanDeaSto
 
 | 
 
-Enabling searches for van dealer stock to be saved improving user experience on the Site.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Enabling searches for van dealer stock to be saved improving user experience on the Site.  
   
 motbreadcrumbs
 
 | 
 
-Ensuring a user’s journey has the best experience by enabling a breadcrumb of where the users been.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Ensuring a user’s journey has the best experience by enabling a breadcrumb of where the users been.  
   
 motorsVehicleShortList
 
 | 
 
-This gives the user access to the shortlist feature enabling them to access vehicles they want to store for future reference.
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+This gives the user access to the shortlist feature enabling them to access vehicles they want to store for future reference.  
   
 motorsSEO
 
 | 
 
-Once a user enters a page we want to ensure the user has the best experience on the site so we ask them to submit location after 5 detail page views.
+Persistent, 1 Day
 
 | 
 
-Persistent, 1 Day  
+Once a user enters a page we want to ensure the user has the best experience on the site so we ask them to submit location after 5 detail page views.  
   
 motwmwcusdat
 
 | 
 
-Customer details for What's Mine Worth
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Customer details for What's Mine Worth  
   
 motorsWMWVRM
 
 | 
 
-Allows us to carry data back to Private Seller after a valuation
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Allows us to carry data back to Private Seller after a valuation  
   
 motorsWMWMileage
 
 | 
 
-Allows us to carry data back to Private Seller after a valuation
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Allows us to carry data back to Private Seller after a valuation  
   
 motPendingAction
 
 | 
 
-If an event requires a login 
+Persistent, 1 Day
 
 | 
 
-Persistent, 1 Day  
+If an event requires a login   
   
 motNigOwlDat
 
@@ -353,97 +370,123 @@ ASP.NET_SessionId    
 
 | 
 
-Session ID information for .NET which allows a better browsing experience
+Session
 
 | 
 
-Session  
+Session ID information for .NET which allows a better browsing experience  
   
 SessionID
 
 | 
 
-Session ID. Non-personally identifiable for consistent experience
+Session
 
 | 
 
-Session  
+Session ID. Non-personally identifiable for consistent experience  
   
 MSPreferredCulture
 
 | 
 
-For Kentico Locale content management system (New, Reviews, etc)
+Session
 
 | 
 
-Session  
+For Kentico Locale content management system (New, Reviews, etc)  
   
 accfirstname 
 
 | 
 
-Logged in user first name for My Garage functionality
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Logged in user first name for My Garage functionality  
   
 acclastname 
 
 | 
 
-Logged in user last name
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Logged in user last name  
   
 motorsSearchGuid
 
 | 
 
-Search Identifier for better browsing experience
+Persistent, 30 Days
 
 | 
 
-Persistent, 30 Days  
+Search Identifier for better browsing experience  
   
 motorsCookieMsg
 
 | 
 
-We show a cookie message to users explaining that we use them to optimise the Site. This stores if they want this message to be hidden
+100 Days
 
 | 
 
-100 Days  
+We show a cookie message to users explaining that we use them to optimise the Site. This stores if they want this message to be hidden  
+  
+motPerVeh
+
+| 
+
+Persistent,
+
+30 days
+
+| 
+
+Enabling the site to remember the last viewed vheicle  
+  
+superchargerDisplayState |  Persistent, 3 Days |  Records user preference for displaying our Supercharger search results  
+  
+**6.4.3 Anonymous Analytics Cookies**
+
+Our third party analytics software use cookies to understand website behaviour, to enable us to improve our site for users. These are anonymous cookies that tell us how many visits we have had to the site and whether the visitor has accessed the site previously.
+
+Name
+
+| 
+
+Type and Duration
+
+| 
+
+Purpose  
+  
+---|---|---  
   
 Comscore/ .scorecardsearch.com/ UID
 
 | 
 
-This cookie generates statistics which enable us to understand how a visitor the Site interacts with different content including video content
+Persistent, 2 Years
 
 | 
 
-Persistent, 2 Years  
+This cookie generates statistics which enable us to understand how a visitor the Site interacts with different content including video content  
   
 Google Analytics
 
 | 
 
-We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
+Persistent & Session
 
 | 
 
-Persistent & Session (as below):  
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.  
   
 _utma
-
-| 
-
-We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
 
 | 
 
@@ -453,17 +496,9 @@ _utmb
 
 | 
 
-We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
-
-| 
-
 30 Minutes  
   
 _utmc
-
-| 
-
-We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
 
 | 
 
@@ -473,99 +508,97 @@ _utmz
 
 | 
 
-We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
-
-| 
-
 6 Months  
   
-Right Media (Yahoo) Adyieldmanager.com
+GoSquared
 
 | 
 
-Cookies are used to allocate and deliver advertisements available through an advertising exchange marketplace.
+Persistent, 2 Years
 
 | 
 
-Persistent, 2 Years  
+We use the following GoSquared to track visits to our site on a minute by minute basis.  
   
-__qca Quantcast           
+gs_u
 
 | 
 
-Quantcast - For targeted display advertising
-
-| 
-
-Persistent, 2 Years  
+2 Years  
   
-__gads 
+gs_p
 
 | 
 
-Google Adsense - Google Display Advertising
-
-| 
-
-Persistent, 2 Years  
+30 seconds  
   
-openx
+**6.4.4 Advertising Cookies**
 
-| 
+As an advertiser of cars and vans for sale we hope to target relevant users across the internet with ads dependent on the likelihood that users are in the market or interested in these products.
 
-OpenX - Ad targeting and tracking (multiple cookies)
+Cookies allow us to understand the ads you have seen from Motors.co.uk displayed on other sites and how you interacted with the ad. We may also use cookies set by other organizations to more accurately target ads for you.
 
-| 
+We use online advertising networks to achieve this, here is a list of networks and more information on those networks and options to opt out of their cookies:
 
-Persistent, 1 Month  
-  
-burstnet.com
+[Adtech](http://www.adtech.com/en/service/cookies.html)
 
-| 
+[Crimtan](http://crimtan.com/cookie-info/)
 
-BlinkX - Ad targeting and tracking (multiple cookies)
+[Criteo](http://www.criteo.com/privacy/)
 
-| 
+[DoubleClick](https://support.google.com/adsense/answer/2839090?hl=en-GB)
 
-Variable: 1 Day to 1 Year  
-  
-criteo.com                    
+[Facebook](https://www.facebook.com/help/cookies/)
 
-| 
+[Google Adsense](https://support.google.com/adsense/answer/2839090?hl=en-GB)
 
-Criteo - Ad retargeting and tracking (multiple cookies)
+[Google Ad Exchange](https://support.google.com/adsense/answer/2839090?hl=en-GB)
 
-| 
+[Google Analytics and Demographic Reporting](https://support.google.com/adsense/answer/2839090?hl=en-GB)
 
-Variable: 1 Day to 1 Year  
-  
-Doubleclick (Google)
+[Media IQ](http://mediaiqdigital.com/wp-content/uploads/2014/12/privacy-policy-new.pdf)
 
-| 
+[RocketFuel](http://rocketfuel.com/uk/cookie-policy)
 
-Serve advertisements and deliver reports on advertisements served on our Site. The cookie tracks what advertisements the user has seen and how often.
+[Speedshift](http://www.speedshiftmedia.com/user-choices)
 
-| 
+**6.4.5 Third Party Advertising**
 
-Persistent, 2 Years  
-  
-motPerVeh
+The ads that you see on Motors.co.uk are provided by third party organisations delivered through Google DoubleClick for Publishers, and OpenX. Most ads on our site come from advertisers targeting you due to your interest in cars. These ads are managed by Motors.co.uk on behalf of the advertiser. Our partners News UK also sell ad space to advertisers on our behalf. No personally identifiable data is passed to these third parties. OpenX is an ad network that sells inventory across the internet on a programmatic basis.
 
-| 
+Additionally third party advertisers using Google Display network may use cookies that have been placed on your browser to target ads at you on Motors.co.uk served by Google Adsense.
 
-Enabling the site to remember the last viewed vheicle
+Many of the organisations advertising on Motors.co.uk use cookies to track the performance of their ads e.g. impressions and clicks.
 
-| 
+[Google DoubleClick for Publishers](https://support.google.com/dfp_premium/answer/2839090?hl=en)
 
-Persistent,
+[OpenX](http://openx.com/legal/ad-exchange-privacy-principles/)
 
-30 days  
-  
-6.5 What about Hyperlinks? The Site may sometimes contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such third party websites is at your own risk.
+[Captify](http://www.captify.co.uk/opt-out/)
 
-6.6 What about Flash Cookies? A Flash Cookie is a type of cookie which is collected via Adobe Flash Player, and is a piece of software which you probably have on your device to watch videos or podcasts online. We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict or block Flash Cookies using your browser settings, however, information on how to control flash play privacy and security settings is available from the Adobe website at: http://www.adobe.com/products/flashplayer/security
+**6.4.6 Other third party cookies**
 
-6.7 Who do I contact about Cookies? If you have any questions about our use of Cookies, please contact us at [privacy@motors.co.uk](mailto:privacy@motors.co.uk).
+On some pages of our website other third party organisations will drop cookies to improve their service to you. For example on a car detail page Twitter and Facebook might use cookies to enable you to remain logged into your social media accounts. We have no access to the information in these cookies.
+
+**6.4.7 Set 3rd Party Cookie Preference**
+
+Using the links above in 2.4 Advertising Cookies you can set preferences, additionally you can use the [Your Online Choices](http://www.youronlinechoices.com/uk/) or [Network Advertising Initiative](http://www.networkadvertising.org/choices/) website to set your preferences for cookies that may be found on other sites.
+
+**6.4.8 How Google products use cookies**
+
+For a detailed description of how Google use cookies in advertising visit [Google Privacy & Terms](http://www.google.co.uk/policies/technologies/ads/) page. Google have given the option for you to opt out of ads that have been served based on your usage of Google products. For further information on how [Google uses data](http://www.google.com/intl/en/policies/privacy/partners/) or to opt out of ads based on your interests visit [Control your Google ads](https://www.google.com/settings/u/0/ads) page.
+
+**6.5 What about Hyperlinks?**
+
+The Site may sometimes contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such third party websites is at your own risk.
+
+**6.6 What about Flash Cookies?**
+
+A Flash Cookie is a type of cookie which is collected via Adobe Flash Player, and is a piece of software which you probably have on your device to watch videos or podcasts online. We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict or block Flash Cookies using your browser settings, however, information on how to control flash play privacy and security settings is available from the Adobe website at: http://www.adobe.com/products/flashplayer/security
+
+**6.7 Who do I contact about Cookies?**
+
+If you have any questions about our use of Cookies, please contact us at [privacy@motors.co.uk](mailto:privacy@motors.co.uk)
 
 ####  7\. Use of Your Personal Information Submitted to Other Websites
 
@@ -577,4 +610,8 @@ Persistent,
 
 8.1 If we need to change our Policy at some point in the future to reflect our data collection and disclosure practices we'll post the changes at least 30 days before they take effect. Our use of personal information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
-January 2015
+####  9\. SessionCam
+
+9.1 We use the SessionCam recording service, developed by www.servicetick.com. SessionCam may record clicks, mouse movements, page scrolling and any text typed into website forms. The information collected does not include bank details or any sensitive information and is for internal use only. Information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
+
+December 2015
