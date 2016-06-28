@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angeltherapy.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227042936id_/http%3A//www.angeltherapy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angeltherapy.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628201237id_/http%3A//www.angeltherapy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Doreen Virtue | official Angel Therapy Web site
+# Privacy Policy | Doreen Virtue - Official Angel Therapy Website
 
 Angel Therapy® Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: 
 
