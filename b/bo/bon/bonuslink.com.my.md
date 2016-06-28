@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonuslink.com.my privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208092922id_/http%3A//www.bonuslink.com.my/EN/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonuslink.com.my privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020219id_/http%3A//bonuslink.com.my/EN/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# PDPA Compliance :: BonusLink.
+# PDPA Compliance :: BonusLink.....
 
 **_PRIVACY NOTICE PURSUANT TO THE PERSONAL DATA PROTECTION ACT 2010_**
 
