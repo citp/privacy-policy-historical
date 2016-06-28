@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829085148id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628185704id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AskEachOther.com - Addicting Polls
 
@@ -70,4 +70,4 @@ This policy was last modified on 10/2/2010
 http://www.askeachother.com/contact  
 Thanks and Happy Voting!  
 **AskEachOther Team**  
-contact@askeachother.com
+contact@askeachother.com 
