@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replyapp.io privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205212415id_/http%3A//replyapp.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replyapp.io privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628051458id_/http%3A//replyapp.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reply
 
@@ -6,12 +6,11 @@ Putting our users first means exceeding global privacy and data protection stand
 
 We set up our infrastructure and tools in a way that enables our customers to strengthen and leverage their important relationships when it matters the most, without having to worry about privacy concerns.
 
-Our privacy promise:
+Our Privacy Promise:
 
   * No one will access, read, or delete your emails.
-  * When Reply connects to your email server, we pull only the minimum information required for service to function.
-  * We store on our server only emails you sent via Reply and responses you received to that emails, so we can detect replies and you
-  * can have access to them from application.
+  * When Reply connects to your email server, we pull only the minimum amount of information required for our service to function.
+  * Our server only stores emails you have sent via Reply and any responses you received to those emails, so we can detect replies and you can have access to them from the application.
   * You own your data.
   * You choose which data to share with your team members.
 
@@ -19,11 +18,11 @@ Our privacy promise:
 
 Additional questions? Don’t hesitate to send us an [email](mailto:oleg@reachout.io).
 
-Reply (www.replyapp.io) is committed to maintaining the privacy and security of any personal information of the users of the Reply web site. This Privacy Policy defines how Reply protects any personal information that is collected by Reply. For the purpose of this Privacy Policy, “Personal Information” means information about an identifiable individual but does not include aggregated information that cannot be associated with a specific individual.
+Reply (www.replyapp.io) is committed to maintaining the privacy and security of any personal information of the users of the Reply website. This Privacy Policy defines how Reply protects any personal information that is collected by Reply. For the purpose of this Privacy Policy, “Personal Information” means information about an identifiable individual but does not include aggregated information that cannot be associated with a specific individual.
 
-For purposes of this Agreement, “Website” refers to the Company’s service which can be accessed via our website at www.replyapp.io which is further described in our [Terms of Service](https://web.archive.org/terms-of-service). The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of The Website. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/terms-of-service), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+For the purpose of this Agreement, “Website” refers to the Company’s service which can be accessed via our website at www.replyapp.io, which is further described in our [Terms of Service](https://web.archive.org/terms-of-service). The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of The Website. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/terms-of-service), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-## Information we collect
+## Information We Collect
 
 Reply collects your personal information when you register and open an account to help Reply operate the site, to provide the services and to contact you in connection with your use of the services.
 
@@ -33,11 +32,11 @@ Reply also collects Personal Information from you when you place an order includ
 
 ## Analytics
 
-We also collect some information (ourselves or using third party services) that requires using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, to verify users have the authorization needed for the Service to process their requests, and for advertising purposes.
+We also collect some information (via our system or using third party services) that requires using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, to verify users have the authorization needed for the Service to process their requests, and for advertising purposes.
 
-## Information you provide
+## Information You Provide
 
-You may also provide us information that you will post to the Website. Your questions, answers, and other contributions on the Website, and metadata about them (such as when you posted them), are publicly viewable on the Website. This information may be searched by search engines and be republished elsewhere on the Web in accordance with our Terms of Website. This also include email templates that you can explicitly share with other Reply users (via Share with Community functionality). By using the Website, you consent to such public usage.
+You may also provide us information that you will post to the Website. Your questions, answers, and other contributions on the Website, and metadata about them (such as when you posted them), are publicly viewable on the Website. This information may be found by search engines and be republished elsewhere on the Web in accordance with our Terms of Website. This also includes email templates that you can explicitly share with other Reply users (via Share with Community functionality). By using the Website, you consent to such public usage.
 
 ## Use of Cookies
 
@@ -55,8 +54,8 @@ We implement security measures designed to protect your information from unautho
 
 Reply reserves the right to revise, modify or update this Privacy Policy at any time. Your continued use of this site constitutes Your acceptance of any such change.
 
-## Storage of Personal Infomation
+## Storage of Personal Information
 
-If you are located outside the United States, the information that we collect from you may be transferred to, and stored and processed at, a destination in the United States. By submitting information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
+If you are located outside the United States, the information that we collect from you may be transferred to, and stored and processed at, a destination in the United States. By submitting information, you agree to this transfer, storing or processing. We will take all steps necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
 
 Authorization needed for the Service to process their requests, and for advertising purposes.
