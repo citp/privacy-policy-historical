@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914201121id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629003704id_/http%3A//mefeedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy
-
-**It’s worth knowing what we will and won’t do with your information**
+# 
 
 Beachfront Media, LLC, (“MeFeedia”, “we”, or “us’), is committed to protecting your privacy when you use our products and services. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information. MeFeedia is committed to transparency and accountability in our privacy practices. The following statement describes our Privacy Policy as it relates to the collection, use and disclosure of information we receive from users of our video platform services (“Services”). The purpose of this Privacy Policy is to inform you of the following:
 
@@ -43,7 +41,7 @@ Session Cookies to Help Ad Delivery and Accounting. We utilize session ID cookie
 
 User Data Cookies for Ad Targeting. We utilize cookies to store user data that can aid in targeting of advertisements. This data is usually collected by our Customers and used to deliver advertisements that are more relevant to a user’s interests.
 
-Use of Cookies By Others. Also, the Web publisher or advertiser with whom we partner may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their websites. The information they collect is governed by their individual privacy policies, not ours. You are encouraged to read the privacy policies or statements of the other websites that you visit. You can learn more about how cookies and related technologies are used in connection with online advertising and analytics by visiting: <http://www.aboutads.info/how-interest-based-ads-work>.
+Use of Cookies By Others. Also, the Web publisher or advertiser with whom we partner may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their websites. The information they collect is governed by their individual privacy policies, not ours. You are encouraged to read the privacy policies or statements of the other websites that you visit. You can learn more about how cookies and related technologies are used in connection with online advertising and analytics by visiting: <http://www.aboutads.info/how-interest-based-ads-work>. 
 
 **Opt-Out Procedure and Cookie Control**
 
@@ -75,7 +73,7 @@ Apps making use of the advertising ID must check for and respect the user’s ad
 
 Text from Apple’s US privacy policy is below:
 
-Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: http://oo.apple.com. Alternatively, if you are using iOS 6 or above operating system on your mobile device, you may opt-out by electing Limit Ad Tracking (Learn More). If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads.
+Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: http://oo.apple.com. Alternatively, if you are using iOS 6 or above operating system on your mobile device, you may opt-out by electing Limit Ad Tracking (Learn More). If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. Opting out through oo.apple.com applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks. However, if you select Limit Ad Tracking on your mobile device, third party apps are not permitted by contract to use the Advertising Identifier, a non-personal device identifier to serve you targeted ads. 
 
 **Use of Information We Collect**
 
@@ -105,16 +103,16 @@ The amount of time that we retain data we collect on our systems varies in lengt
 
 Personal Information
 
-  * We retain account information obtained from vendors and business partners we work with indefinitely, but reserve the right to delete such information at our convenience.
-  * Any personal information voluntarily provided to us via email communication or through our corporate website is maintained indefinitely until deleted by the corporate email account owner.
+  * We retain account information obtained from vendors and business partners we work with indefinitely, but reserve the right to delete such information at our convenience. 
+  * Any personal information voluntarily provided to us via email communication or through our corporate website is maintained indefinitely until deleted by the corporate email account owner. 
 
 
 
 Non-Personally Identifiable Information
 
-  * We retain click-stream data (such as IP address, date/time of visit, browser type, web pages visited, etc.) for up to twelve (12) months. After twelve (12) months, information may be stored in aggregate for statistical and analysis purposes or is deleted.
-  * We retain behavioral segment data for periods as short as thirty (30) days, but may retain some behavioral segment data for up to twelve (12) months. After twelve (12) months, information may be stored in aggregate for statistical analysis purposes or is deleted.
-  * We retain demographic data for periods as short as thirty (30) days, but may retain some demographic data for periods of twelve (12) months. After twelve (12) months information may be stored in aggregate for statistical analysis purposes or is deleted.
+  * We retain click-stream data (such as IP address, date/time of visit, browser type, web pages visited, etc.) for up to twelve (12) months. After twelve (12) months, information may be stored in aggregate for statistical and analysis purposes or is deleted. 
+  * We retain behavioral segment data for periods as short as thirty (30) days, but may retain some behavioral segment data for up to twelve (12) months. After twelve (12) months, information may be stored in aggregate for statistical analysis purposes or is deleted. 
+  * We retain demographic data for periods as short as thirty (30) days, but may retain some demographic data for periods of twelve (12) months. After twelve (12) months information may be stored in aggregate for statistical analysis purposes or is deleted. 
 
 
 
@@ -143,7 +141,7 @@ Neither this Site nor the Service is directed to children under 13. We do not kn
 
 #### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding MeFeedia’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please email [support@beachfrontmedia.com](mailto:support@beachfrontmedia.com).
+California Civil Code Section 1798.83 permits End Users who are California residents to request certain information regarding MeFeedia’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please email [support@beachfrontmedia.com](mailto:support@beachfrontmedia.com). 
 
 #### Notice for Users Outside of the United States
 
