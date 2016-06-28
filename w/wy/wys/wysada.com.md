@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218053510id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628211727id_/http%3A//wysada.com/en_sa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WYSADA
 
