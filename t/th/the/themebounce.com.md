@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themebounce.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130040354id_/http%3A//www.themebounce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themebounce.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628024627id_/http%3A//www.themebounce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — ThemeBounce
+# Privacy Policy - ThemeBounce
 
 **We are committed to protecting your privacy**  
 We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. The purpose of this Privacy Policy to enable you to understand which personal identifying information (“PII”, “Personal Information”) of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
