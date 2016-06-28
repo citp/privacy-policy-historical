@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229014411id_/http%3A//www.lovesac.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628102337id_/http%3A//www.lovesac.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Effective on May 24, 2010
 
-This privacy statement describes how LoveSac collects and uses the personal information you provide on our Web site: www.lovesac.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Lovesac collects and uses the personal information you provide on our Web site: www.lovesac.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **Collection and Use of Personal Information**
 
@@ -31,7 +31,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at orderstatus@lovesac.com
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at arealperson@lovesac.com
 
 **Information Sharing**
 
@@ -43,7 +43,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if LoveSac is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if Lovesac is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -66,13 +66,13 @@ We use a third party to gather information about how you and others use our Web 
 
 **Links to Other Web Sites**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of LoveSac. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of Lovesac. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at orderstatus@lovesac.com We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at arealperson@lovesac.com We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at orderstatus@lovesac.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at arealperson@lovesac.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Additional Policy Information**
 
@@ -80,7 +80,7 @@ Our Web site includes Widgets, which are interactive mini-programs that run on o
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at orderstatus@lovesac.com .
+To review and update your personal information to ensure it is accurate, contact us at arealperson@lovesac.com .
 
 **Notification of Privacy Statement Changes**
 
@@ -90,8 +90,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-LoveSac  
+Lovesac  
 2 Landmark Square, Suite 300  
 Stamford, CT, United States 06901  
-Email: orderstatus@lovesac.com  
-Phone: (800) 613-3839
+Email: arealperson@lovesac.com  
+Phone: (888) 636-1223
