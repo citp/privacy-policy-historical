@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilerechargetricks.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217042656id_/http%3A//www.mobilerechargetricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilerechargetricks.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629012805id_/http%3A//www.mobilerechargetricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobile Recharge Tricks: Free Recharge Tricks, Offers 2015
+# Privacy Policy | Mobile Recharge Tricks: Free Recharge Tricks, Offers 2016
 
 ## Privacy Policy for www.mobilerechargetricks.com
 
