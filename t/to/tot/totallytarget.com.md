@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallytarget.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208091127id_/http%3A//www.totallytarget.com/wp-content/themes/suffusion/images/kerry/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallytarget.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628234054id_/http%3A//www.totallytarget.com/wp-content/themes/suffusion/images/kerry/privacy.htm) for the most accurate reproduction.*
 
 # 
 
