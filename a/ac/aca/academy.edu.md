@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007015512id_/http%3A//www.iadt.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629132719id_/http%3A//www.sanfordbrown.edu/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Sanford-Brown | Privacy Statement
 
 The Effective Date of this Privacy Policy is January 14, 2014.
 
 This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our Legal Terms and Conditions. Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 231 N. Martingale Road, Schaumburg, IL 60173.
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: [www.iadt.edu](http://www.iadt.edu/).
+PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: [www.sanfordbrown.edu](http://www.sanfordbrown.edu/).
 
-At Career Education Corporation, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: [www.iadt.edu](http://www.iadt.edu/).
+At Career Education Corporation, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: [www.sanfordbrown.edu](http://www.sanfordbrown.edu/).
 
 ### CALIFORNIA RESIDENTS
 
@@ -35,7 +35,7 @@ We log all connections to our web servers. Those log files include your IP addre
 
 "Cookies" are small pieces of information stored in a user's browser that give that user a unique identification. The Sites may insert cookies into your browser that identify you as a previous user of the Sites and contain non-personally identifying information regarding you and your navigation of the Sites. In some instances, these cookies may be used by us or other web sites during your future navigation of the internet to target specific advertisements to you based on your previous use of the Sites. The Sites may also read cookies already stored within your browser to identify non-personal information about you and communicate this information to other advertisers. All cookies are established on a per session basis, and are not permanently stored on your machine. For more information about cookies, please visit [www.AboutCookies.org](http://www.aboutcookies.org/).
 
-U.K. website users can learn more about the iadt.edu site cookies [here](https://web.archive.org/uk-cookies).
+U.K. website users can learn more about the sanfordbrown.edu site cookies [here](https://web.archive.org/uk-cookies).
 
 ### CONTACT OR REGISTRATION FORM
 
@@ -67,7 +67,7 @@ The Sites contain links to other web sites that are not owned or operated by Car
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-This privacy policy describes the types of information we currently collect, and the ways we use and protect that information. From time to time, we may collect different types of information and use that information in different ways - for example, when we add features or services to [www.iadt.edu](http://www.iadt.edu/). In these cases, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we will include announcements on the [www.iadt.edu](http://www.iadt.edu/) home page so that you will know to review the revised policy.
+This privacy policy describes the types of information we currently collect, and the ways we use and protect that information. From time to time, we may collect different types of information and use that information in different ways - for example, when we add features or services to [www.sanfordbrown.edu](http://www.sanfordbrown.edu/). In these cases, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we will include announcements on the [www.sanfordbrown.edu](http://www.sanfordbrown.edu/) home page so that you will know to review the revised policy.
 
 ### CONTACT US
 
