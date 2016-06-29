@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325062414id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630002254id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smashbox Cosmetics
 
@@ -106,7 +106,13 @@ To control which web servers collect this information, we may place tags on our 
 
 
 
-We may use third party web analytics services on this site.   Such third party web analytics service providers may include, but is not limited to, Coremetrics and Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/opt-in-out-option). To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst, Coremetrics and/or Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of these analytics servicesCoremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site:,
+
+  * For Adobe Site Catalyst, please [click here](http://www.adobe.com/privacy/opt-out.html).
+  * For Coremetrics, please [click here](http://www.smashbox.com/opt-in-out-option).
+  * To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+
+
 
   * ####  Targeted Advertising
 
@@ -375,7 +381,7 @@ To remove or delete our apps from your social networking account, follow the ins
 
   * ####  Geo-Location Information
 
-We may ask you for your geo-location via our mobile application. You may choose not to share your geo-location details by adjusting your mobile device’s location services settings. To decline from sharing your geo-location details, follow the instructions on your mobile device on changing the relevant settings; otherwise, please contact your service provider or device manufacturer./p>
+We may ask you for your geo-location via our mobile application. You may choose not to share your geo-location details by adjusting your mobile device’s location services settings. To decline from sharing your geo-location details, follow the instructions on your mobile device on changing the relevant settings; otherwise, please contact your service provider or device manufacturer.
 
   * ####  Withdrawing Consent
 
