@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231215755id_/http%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629082525id_/http%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShopAtHome.com
 
@@ -101,7 +101,7 @@ If you have any questions or concerns about this Privacy Policy, you may contact
   * 5575 DTC Parkway, Suite 300
   * Greenwood Village, CO 80111
   * Email: privacy@shopathome.com
-  * Or via our Customer Service link at <http://www.shopathome.com/contact.aspx>
+  * Or via our Customer Service link at [Belcaro.Discounts.URL.SahUrls.HelpUrl](http://www.shopathome.com/help)
 
 
 
