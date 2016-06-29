@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231012740id_/http%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629112821id_/http%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.*
 
-# Web Privacy Policy | The University of Texas at Austin
+# Web Privacy Policy | Chief Information Officer | The University of Texas at Austin
 
 Required Link  
 Purpose  
@@ -46,7 +46,6 @@ The UT Austin Web consists of hundreds of Web servers. Some servers hosted by UT
 Approved Departmental Privacy Policies at UT Austin:
 
   * [Computer Science Department](http://www.cs.utexas.edu/facilities/policies/web-privacy/)
-  * [Applied Research Laboratories](http://www.arlut.utexas.edu/privacy.html)
 
 
 
@@ -71,9 +70,9 @@ The data is used in aggregate by [IT custodians](http://www.utexas.edu/its/glos
 
 Some pages within the  _utexas.edu_  domain may contain content that is served from external third parties. For example, a  _utexas.edu_  Web site might include a graphic logo or a script from a third party. Specifically, the following code within a  _utexas.edu_  page would represent an example of third party content:
 
-_< img src="<http://www.other-org.com/logo.gif>" alt="Sample" />_
+_< img src="/%3Ca%20href%3D"http://www.other-org.com/logo.gif">http://www.other-org.com/logo.gif" alt="Sample" />_
 
-In this example,  _logo.gif_  would be third party content served from a Web server outside the utexas.edu domain ( _www.other-org.com_  in this case). Third party content in  _utexas.edu_  is not limited to graphics, but this is the most frequent use.
+In this example,  _logo.gif_  would be third party content served from a Web server outside the utexas.edu domain ( _[www.other-org.com](http://www.other-org.com/)_  in this case). Third party content in  _utexas.edu_  is not limited to graphics, but this is the most frequent use.
 
 UT Austin does not transmit any information to these third parties as part of such requests. However, when you visit _utexas.edu_  pages that contain third party content, information such as your IP address, date, browser, and requested page are transmitted from your computer to that third party. UT Austin is not responsible for the privacy practices of these external third parties.
 
@@ -190,4 +189,8 @@ Added section about use of Google Analytics.
 
 | 
 
-New
+New  
+  
+**4/13/2016**
+
+|  Removed Applied Research Labs (ARL) exception. |   
