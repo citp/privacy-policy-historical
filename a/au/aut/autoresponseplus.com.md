@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011650id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629223935id_/http%3A//arpreach.com/privacy) for the most accurate reproduction.*
 
-# arpReach - autoresponder and email marketing software
+# autoresponder and email marketing software - arpReach
 
 ### Your Privacy
 
