@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giftstoindia24x7.com privacy policy that was archived on 2015-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151122123618id_/http%3A//www.giftstoindia24x7.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giftstoindia24x7.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629114412id_/http%3A//www.giftstoindia24x7.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
 <meta charset="utf-8">
@@ -43,181 +43,185 @@
 <script type="text/javascript" src="/js/angular.min.js"></script>
 
 <!--navigation on the left for small screen start-->
-  <script type="text/javascript">
-      var app = angular.module('MyApp', []);
-      app.controller("menuecontroler", function ($scope) {
-          $scope.CatList = null;
-          $scope.load = function () {
-              $.ajax({
-                  type: "POST",
-                  //contentType: "application/json; charset=utf-8",
-                  data: { 'mode': 'menuload', 'r': '' + Math.random() + '' },
-                  url: "/AjaxMenue.ashx",
-                  dataType: "json",
-                  success: function (data) {
-                      $scope.CatList = [data];
-                      $scope.$apply();
-                  },
-                  error: function (err) { }
-              });
+<script type="text/javascript">
+    var app = angular.module('MyApp', []);
+    app.controller("menuecontroler", function ($scope) {
+        $scope.CatList = null;
+        $scope.load = function () {
+            $.ajax({
+                type: "POST",
+                //contentType: "application/json; charset=utf-8",
+                data: { 'mode': 'menuload', 'r': '' + Math.random() + '' },
+                url: "/AjaxMenue.ashx",
+                dataType: "json",
+                success: function (data) {
+                    $scope.CatList = [data];
+                    $scope.$apply();
+                },
+                error: function (err) { }
+            });
 
-          }
-          $scope.load();
+        }
+        $scope.load();
 
-      });
-      app.directive('onFinishRender', function ($timeout) {
-          return {
-              restrict: 'A',
-              link: function (scope, element, attr) {
-                  if (scope.$last === true) {
-                      $timeout(function () {
-                          $('nav#menu-left').mmenu();
-                          scope.$emit('ngRepeatFinished');
-                          $('nav#menu-left').css({ 'display': "" });
-                      });
-                  }
-              }
-          }
-      });
-      app.directive('onFinishRender', function ($timeout) {
-          return {
-              restrict: 'A',
-              link: function (scope, element, attr) {
-                  if (scope.$last === true) {
-                      $timeout(function () {
-                          scope.$emit('ngRepeatFinisheddisplay');
-                          $('#slddiv').css({ 'display': "" });
-                      });
-                  }
-              }
-          }
-      });
+    });
+    app.directive('onFinishRender', function ($timeout) {
+        return {
+            restrict: 'A',
+            link: function (scope, element, attr) {
+                if (scope.$last === true) {
+                    $timeout(function () {
+                        $('nav#menu-left').mmenu();
+                        scope.$emit('ngRepeatFinished');
+                        $('nav#menu-left').css({ 'display': "" });
+                    });
+                }
+            }
+        }
+    });
+    app.directive('onFinishRender', function ($timeout) {
+        return {
+            restrict: 'A',
+            link: function (scope, element, attr) {
+                if (scope.$last === true) {
+                    $timeout(function () {
+                        scope.$emit('ngRepeatFinisheddisplay');
+                        $('#slddiv').css({ 'display': "" });
+                        $("header").before($("header").clone().addClass("small"));
+                        $(window).on("scroll", function () {
+                            $("body").toggleClass("down", ($(window).scrollTop() > 200));
+                        });
+                    });
+                }
+            }
+        }
+    });
 
-      // document.getElementById("ulHeader").style.display = "";
-    </script>
+    // document.getElementById("ulHeader").style.display = "";
+</script>
 <div data-ng-app="MyApp" data-ng-controller="menuecontroler" class="ng-scope">
-<nav id="menu-left" style="display:none;">
-    <!-- ngRepeat: cat in CatList -->
-</nav>
-<!--navigation on the left for small screen end-->
-<!--navigation on the right for small screen start-->
-<nav id="menu-right">
-    <ul class="catList" style="display: none;" id="logshow">
-        <li id="moblilogin" class="login" style="display:;"><a class="nav-expander" href="#" title="Login">Login</a>
-            <!--login for mobile start-->
-            <div>
-                <div class="slider rgtSlider">
-                    <ul class="slide-title">
-                        <li>Login</li>
-                    </ul>
-                    <div id="divFcbkreg1">
-                        <h3 class="catHd"><span>Login</span></h3>
+    <nav id="menu-left" style="display: none;">
+        <!-- ngRepeat: cat in CatList -->
+    </nav>
+    <!--navigation on the left for small screen end-->
+    <!--navigation on the right for small screen start-->
+    <nav id="menu-right">
+        <ul class="catList" style="display: none;" id="logshow">
+            <li id="moblilogin" class="login" style="display:;"><a class="nav-expander" href="#" title="Login">Login</a>
+                <!--login for mobile start-->
+                <div>
+                    <div class="slider rgtSlider">
+                        <ul class="slide-title">
+                            <li>Login</li>
+                        </ul>
+                        <div id="divFcbkreg1">
+                            <h3 class="catHd"><span>Login</span></h3>
+                            <div class="inner-addon">
+                                <input type="text" name="textfield" id="mobslidelogemail" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="User Name"><i class="user"></i>
+                            </div>
+                            <div class="inner-addon">
+                                <input type="password" name="textfield2" id="mobslidelogpasskey" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Password">
+                                <i class="password"></i>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6 col-xs-12 text-center" id="divslidlogsubmit1">
+                                    <input type="submit" name="submit" value="Submit" class="btn btn-default btn-block cartBtn" onclick="javascript: slidelogin1();">
+                                </div>
+                                <div class="col-sm-6 col-xs-12 text-center"><a href="#" title="Forgot Password?" class="forgotpass" onclick="javascript:return showforgotpassword1();">Forgot Password?</a></div>
+                            </div>
+                            <a href="javascript:void(0);" class="btn btn-default btn-block flogin" onclick="javascript:return facebookLogin();">Login with facebook</a>
+                            <h3 class="catHd registerhd">Register</h3>
+                            <a href="/UserRegistration.aspx" title="Register Here" class="btn btn-default btn-block cartBtn">Register Here</a>
+                        </div>
+                        <div style="display: none" id="divforgotpas1">
+                            <h3 class="catHd"><span>Forgot Password</span></h3>
+                            <div class="inner-addon">
+                                <input type="text" name="textfield" id="txtfgpasskey1" value="Email" onfocus="if(this.value=='Email'){this.value='';}" onblur="if(this.value==''){this.value='Email';}" class="col-sm-12 col-xs-12 form-control input-lg username">
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6 col-xs-12 text-center" id="btnfgpasskey1">
+                                    <input class="btn btn-default btn-block cartBtn" type="button" value="GO" onclick="javascript: return sendforgetpass1();">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--login for mobile end-->
+            </li>
+            <li id="moblilogout" class="logout" style="display:none;"><a href="javascript:void(0);" title="Logout" onclick="javascript:return logout1();">Logout</a></li>
+            <li class="currency" style="display: none"><a href="#" title="Currency"><span>Rs.</span>Currency</a>
+                <!--Currency for mobile start-->
+                <div>
+                    <div class="slider rgtSlider">
+                        <ul class="slide-title">
+                            <li>Currency</li>
+                        </ul>
+                        <h3 class="catHd"><span>Currency</span></h3>
+                        <label class="srchdropdn">
+                            <select class="form-control input-lg">
+                                <option value="$ Dollar">$ Dollar</option>
+                            </select>
+                        </label>
+                    </div>
+                </div>
+                <!--Currency for mobile end-->
+            </li>
+            <li id="moblimyaccount" class="myacount" style="display:none;"><a href="http://www.giftstoindia24x7.com/myaccount.aspx" title="My Account">My Account</a></li>
+            <li class="contact"><a href="http://www.giftstoindia24x7.com/onsale.aspx" title="On sale">On Sale</a></li>
+            <li class="blog"><a href="http://www.giftstoindia24x7.com/Article.aspx" title="Blog">Blog</a></li>
+            <li class="offers"><a href="http://www.giftstoindia24x7.com/dealsofthemonth.aspx" title="Offers">Offers</a></li>
+            <li class="newslettersignup"><a href="#" title="Sign up for newsletter">Sign up for newsletter</a>
+                <!--newsletter signup for mobile start-->
+                <div>
+                    <div class="slider rgtSlider">
+                        <ul class="slide-title">
+                            <li>Currency</li>
+                        </ul>
+                        <h3 class="catHd"><span>Newsletter Subscribtion</span></h3>
+                        <p class="newsltrTxt">For exclusive offers and regular updates, please subscribe to our newsletters.</p>
                         <div class="inner-addon">
-                            <input type="text" name="textfield" id="mobslidelogemail" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="User Name"><i class="user"></i>
+                            <input type="text" id="newsdname" name="textfield" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Your Name">
                         </div>
                         <div class="inner-addon">
-                            <input type="password" name="textfield2" id="mobslidelogpasskey" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Password">
-                            <i class="password"></i>
+                            <input type="text" id="newsdemail" name="textfield" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Your Email">
                         </div>
                         <div class="row">
-                            <div class="col-sm-6 col-xs-12 text-center" id="divslidlogsubmit1">
-                                <input type="submit" name="submit" value="Submit" class="btn btn-default btn-block cartBtn" onclick="javascript: slidelogin1();">
+                            <div class="col-sm-6 col-xs-6 text-center" id="newsddiv">
+                                <input type="submit" name="submit" id="suscribesubmit01" value="Submit" class="btn btn-default btn-block cartBtn" onclick="return newslettersubcription2();">
                             </div>
-                            <div class="col-sm-6 col-xs-12 text-center"><a href="#" title="Forgot Password?" class="forgotpass" onclick="javascript:return showforgotpassword1();">Forgot Password?</a></div>
-                        </div>
-                        <a href="javascript:void(0);" class="btn btn-default btn-block flogin" onclick="javascript:return facebookLogin();">Login with facebook</a>
-                        <h3 class="catHd registerhd">Register</h3>
-                        <a href="/UserRegistration.aspx" title="Register Here" class="btn btn-default btn-block cartBtn">Register Here</a>
-                    </div>
-                    <div style="display: none" id="divforgotpas1">
-                        <h3 class="catHd"><span>Forgot Password</span></h3>
-                        <div class="inner-addon">
-                            <input type="text" name="textfield" id="txtfgpasskey1" value="Email" onfocus="if(this.value=='Email'){this.value='';}" onblur="if(this.value==''){this.value='Email';}" class="col-sm-12 col-xs-12 form-control input-lg username">
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-6 col-xs-12 text-center" id="btnfgpasskey1">
-                                <input class="btn btn-default btn-block cartBtn" type="button" value="GO" onclick="javascript: return sendforgetpass1();">
-                            </div>
+                            <div class="col-sm-6 col-xs-6 text-center"><a href="http://www.giftstoindia24x7.com/privacy-policy.aspx" title="Privacy Policy" class="forgotpass">Privacy Policy</a></div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!--login for mobile end-->
-        </li>
-        <li id="moblilogout" class="logout" style="display:none;"><a href="javascript:void(0);" title="Logout" onclick="javascript:return logout1();">Logout</a></li>
-        <li class="currency" style="display: none"><a href="#" title="Currency"><span>Rs.</span>Currency</a>
-            <!--Currency for mobile start-->
-            <div>
-                <div class="slider rgtSlider">
-                    <ul class="slide-title">
-                        <li>Currency</li>
-                    </ul>
-                    <h3 class="catHd"><span>Currency</span></h3>
-                    <label class="srchdropdn">
-                        <select class="form-control input-lg">
-                            <option value="$ Dollar">$ Dollar</option>
-                        </select>
-                    </label>
+                <!--newsletter signup for mobile end-->
+            </li>
+        </ul>
+    </nav>
+    <!--navigation on the right for small screen end-->
+    <header class="page-header">
+        <div class="container clearfix">
+            <div class="row nav-top">
+                <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 logoDiv">
+                    <h1 class="logo"><a href="http://www.giftstoindia24x7.com/">GiftstoIndia 24x7.com</a></h1>
+                    <h2 class="punchline">Delivering smiles across miles</h2>
                 </div>
-            </div>
-            <!--Currency for mobile end-->
-        </li>
-        <li id="moblimyaccount" class="myacount" style="display:none;"><a href="http://www.giftstoindia24x7.com/myaccount.aspx" title="My Account">My Account</a></li>
-        <li class="contact"><a href="http://www.giftstoindia24x7.com/onsale.aspx" title="On sale">On Sale</a></li>
-        <li class="blog"><a href="http://www.giftstoindia24x7.com/Article.aspx" title="Blog">Blog</a></li>
-        <li class="offers"><a href="http://www.giftstoindia24x7.com/dealsofthemonth.aspx" title="Offers">Offers</a></li>
-        <li class="newslettersignup"><a href="#" title="Sign up for newsletter">Sign up for newsletter</a>
-            <!--newsletter signup for mobile start-->
-            <div>
-                <div class="slider rgtSlider">
-                    <ul class="slide-title">
-                        <li>Currency</li>
-                    </ul>
-                    <h3 class="catHd"><span>Newsletter Subscribtion</span></h3>
-                    <p class="newsltrTxt">For exclusive offers and regular updates, please subscribe to our newsletters.</p>
-                    <div class="inner-addon">
-                        <input type="text" id="newsdname" name="textfield" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Your Name">
-                    </div>
-                    <div class="inner-addon">
-                        <input type="text" id="newsdemail" name="textfield" class="col-sm-12 col-xs-12 form-control input-lg username" placeholder="Your Email">
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-6 col-xs-6 text-center" id="newsddiv">
-                            <input type="submit" name="submit" id="suscribesubmit01" value="Submit" class="btn btn-default btn-block cartBtn" onclick="return newslettersubcription2();">
-                        </div>
-                        <div class="col-sm-6 col-xs-6 text-center"><a href="http://www.giftstoindia24x7.com/privacy-policy.aspx" title="Privacy Policy" class="forgotpass">Privacy Policy</a></div>
-                    </div>
+                <div class="col-lg-4 quotation">
+                    <p id="ptag">The manner of giving is worth more than the gift. - Pierre Corneille</p>
                 </div>
-            </div>
-            <!--newsletter signup for mobile end-->
-        </li>
-    </ul>
-</nav>
-<!--navigation on the right for small screen end-->
-<header class="page-header">
-	<div class="container clearfix">    	
-    	<div class="row nav-top">
-        	<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 text-center">
-            	<h1 class="logo"><a href="http://www.giftstoindia24x7.com/">GiftstoIndia 24x7.com</a></h1>
-                <h2 class="punchline">Delivering smiles across miles</h2>
-            </div>
-            <div class="col-lg-4 quotation">
-            	<p id="ptag">The manner of giving is worth more than the gift. - Pierre Corneille</p>
-            </div>
-            <!--top navigation start-->
-            <div class="col-lg-4 col-md-7 col-sm-7 col-xs-3">
-                	<ul class="topnav text-center">
-                    	<li id="ullog" class="nmullog" style="display:none;"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" onclick="javascript:return fbinitcall();"><span id="spnwelcome" class="loginname"></span> <span class="count"></span></a>
-                        	 <div id="fb-root"></div>
+                <!--top navigation start-->
+                <div class="col-lg-4 col-md-7 col-sm-7 col-xs-3 topnavDiv">
+                    <ul class="topnav text-center">
+                        <li id="ullog" class="nmullog" style="display:none;"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" onclick="javascript:return fbinitcall();"><span id="spnwelcome" class="loginname"></span><span class="count"></span></a>
+                            <div id="fb-root"></div>
                         </li>
                         <li><a href="http://www.giftstoindia24x7.com/onsale.aspx" title="On sale">On Sale</a></li>
-                        <li><a href="http://www.giftstoindia24x7.com/Article.aspx" title="Blog">Blog</a></li> 
+                        <li><a href="http://www.giftstoindia24x7.com/Article.aspx" title="Blog">Blog</a></li>
                         <li><a href="http://www.giftstoindia24x7.com/dealsofthemonth.aspx" title="Offers">Offers</a></li>
                     </ul>
                     <div class="srchDiv">
                         <input type="text" name="search" placeholder="Search for" class="form-control" id="TXTSearchProd" onkeyup="fillallsearchbox(this.value);">
                         <input type="button" value="search" class="btn btn-primary srchBtn" id="BTNSearch" onclick="gtisearch();">
-                    <!--<input type="search" name="search" placeholder="Search for" class="form-control"/>
+                        <!--<input type="search" name="search" placeholder="Search for" class="form-control"/>
                     <input type="submit" value="search" class="btn btn-primary srchBtn"/>
                     <div class="srch-result" style="display:none">
                     	<ul>
@@ -241,48 +245,48 @@
                         </ul>
                     </div>-->
                     </div>
-            </div>
-            <!--top navigation end-->
-        </div>
-    </div>  
-    <!--navigation start-->  
- <nav id="slide-nav" class="navbar navbar-default headerNav">
-        <div id="slddiv" class="container" style="display:none;">
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <!-- ngRepeat: cat in CatList -->
-
-        </div>
-    </nav>
-    <!--navigation end-->
-    <div class="nav-bar">
-    	<a class="category" href="#menu-left">
-    	  <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </a>
-        <a href="#menu-right" class="profile-icon">
-        	<span></span>
-        </a>
-      </div>
-       <!--header for small screen start-->
-    <div class="container-fluid clearfix search-bar">
-    	<div class="row">
-        	<div class="col-xs-10 form-group">
-            	<div class="srchfld">
-        <input type="text" name="textfield4" id="SS_txtSearch" class="form-control" placeholder="Search for">
-        <input type="submit" name="submit3" id="SS_btnSearch" value="Search" class="srchBtn" onclick="SS_gtiSearch();">
-        		</div>
-        	</div>
-            <div class="col-xs-2">
-            	<div class="text-center cart"><a id="Mobslidelicrtcnt" class="nav-expander Mobslidelicrtcnt" href="javascript:void(0);" title="Cart"></a></div>
+                </div>
+                <!--top navigation end-->
             </div>
         </div>
-    </div>
+        <!--navigation start-->
+        <nav id="slide-nav" class="navbar navbar-default headerNav">
+            <div id="slddiv" class="container slddiv" style="display: none;">
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <!-- ngRepeat: cat in CatList -->
 
-    <!--header for small screen end-->
-</header>
-<!--header end-->
-    </div>
+            </div>
+        </nav>
+        <!--navigation end-->
+        <div class="nav-bar">
+            <a class="category" href="#menu-left">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <a href="#menu-right" class="profile-icon">
+                <span></span>
+            </a>
+        </div>
+        <!--header for small screen start-->
+        <div class="container-fluid clearfix search-bar">
+            <div class="row">
+                <div class="col-xs-10 form-group">
+                    <div class="srchfld">
+                        <input type="text" name="textfield4" id="SS_txtSearch" class="form-control" placeholder="Search for">
+                        <input type="submit" name="submit3" id="SS_btnSearch" value="Search" class="srchBtn" onclick="SS_gtiSearch();">
+                    </div>
+                </div>
+                <div class="col-xs-2">
+                    <div class="text-center cart"><a id="Mobslidelicrtcnt" class="nav-expander Mobslidelicrtcnt" href="javascript:void(0);" title="Cart"></a></div>
+                </div>
+            </div>
+        </div>
+
+        <!--header for small screen end-->
+    </header>
+    <!--header end-->
+</div>
 <!--header end-->
 <script type="text/javascript">
     //scroll to top start
@@ -545,7 +549,7 @@
 </script>
 <!--side slider end-->
 <!--breadcrumb start-->
-<div class="container clearfix">
+<div class="container clearfix noPad">
 	<div class="pagelinks">
 	<ul class="breadcrumb">
     	<li><a href="http://www.giftstoindia24x7.com/" title="Home"><i class="icon-home"></i></a></li>        
@@ -556,10 +560,10 @@
 </div>
 <!--breadcrumb end-->
 <!--terms & conditions start-->
-  <div class="container clearfix">
+  <div class="container clearfix noPad">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center clearfix pagename">
-        <h3>Privacy Policy</h3>
+        <h3><span>Privacy Policy</span></h3>
       </div>      
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 clearfix terms-conditions"> 
       <ul>
@@ -636,7 +640,7 @@ Kolkata – 700012</p>
  <!--terms & conditions end-->   
  <!--footer start-->
 <footer>
-<div id="divFooter" class="container clearfix footerMarg footerDiv">  
+<div id="divFooter" class="container clearfix footerMarg footerDiv noPad">  
     	<div class="row">
         	<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
             	<div class="deliveringGifts">
@@ -846,7 +850,7 @@ Kolkata – 700012</p>
 	</div>
     <!--Accordion end-->    
 	<div class="footerNav">
-    	<div class="container">
+    	<div class="container noPad">
         	<div class="row">
             	<div class="ftrLinks">                	
                 	<nav class="ftrnavigation center-block clearfix">
@@ -884,14 +888,14 @@ Kolkata – 700012</p>
                             </li>
                         </ul>
                     </nav>                    
-                    <span class="copyright center-block">© Copyright 1999 - 2015 GiftstoIndia24x7.com. Send gifts to India. All rights reserved.</span>
+                    <span class="copyright center-block">© Copyright 1999 - 2016 GiftstoIndia24x7.com. Send gifts to India. All rights reserved.</span>
                     
                 </div>
                 <div class="ftrrgtDiv ftrLinks1">   
                     <div itemscope="" itemtype="http://schema.org/Organization">  
                            <link itemprop="url" href="http://www.giftstoindia24x7.com/">                  	                    	
                         	<ul class="socialmedia">
-                            	<li class="facebook"><a target="_blank" title="Join Us On Facebook" href="http://www.facebook.com/GiftstoIndia?v=app_4949752878" itemprop="sameAs">Join Us On Facebook</a></li>
+                            	<li class="facebook"><a target="_blank" title="Join Us On Facebook" href="http://www.facebook.com/GiftstoIndia/" itemprop="sameAs">Join Us On Facebook</a></li>
                                 <li class="twitter"><a target="_blank" title="Join Us On Twitter" href="http://twitter.com/gifts2india24x7" itemprop="sameAs">Join Us On Twitter</a></li>
                                 <li class="gplus"><a target="_blank" title="Join Us On G+" href="https://plus.google.com/109689472882559117648" itemprop="sameAs">Join Us On G+</a></li>
                                 <li class="pinterest"><a target="_blank" title="Join Us On Pinterest" href="https://www.pinterest.com/gti24x7/" itemprop="sameAs">Join Us On Pinterest</a></li>
@@ -918,7 +922,7 @@ Kolkata – 700012</p>
                           <input id="OpFixedMessage" type="hidden">
                           <input type="hidden" id="hdndbvisId" value="0">
                         	<span class="dropdown-toggle livechtxt"><span class="pull-left"><a href="javascript:void(0);" onclick="showDiv();">LIVE CHAT</a></span>
-                           	<span class="livechtImg"><img id="reliablelivechatlogin" src="/rwd/images/online14.gif" alt=""></span></span> 
+                           	<span class="livechat-on" id="reliablelivechatlogin">Online</span></span> 
                           <div id="dvChatReqstForm" style="display: none;">
                             <div id="dvSubmitForm" class="dropdown-menu">                          	
                             		<p class="livechatmsg"><a href="javascript: void(0);"></a> Welcome to our Real-Time Support Chat. Please enter your name and an optional question to begin.</p>
@@ -1065,7 +1069,7 @@ Kolkata – 700012</p>
     //Array of scripts to load
     var resources3 = [
         "http://www.giftstoindia24x7.com/js/rwdtbcontent_14.js",        
-        "https://livechat.reliabletechnologies.in/JS/JScript_New.js",
+        "http://livechat.reliabletechnologies.in/JS/JScript_New.js",
         "http://www.giftstoindia24x7.com/js/rwdtrackdtls.js",
         "http://www.giftstoindia24x7.com/js/rwdlivechat14.js",
         "http://www.giftstoindia24x7.com/Js/wdget14.js",
