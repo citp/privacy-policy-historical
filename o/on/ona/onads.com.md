@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onads.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018121634id_/http%3A//www.onads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onads.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629180038id_/http%3A//www.onads.com/privacy.html) for the most accurate reproduction.*
 
 # OnAds.com Game Advertising Network
 
