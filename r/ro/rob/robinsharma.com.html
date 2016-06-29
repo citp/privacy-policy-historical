@@ -1,466 +1,450 @@
-<!--The following is the downloaded HTML source of the robinsharma.com privacy policy that was archived on 2010-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100212142635id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the robinsharma.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629205500id_/http%3A//www.robinsharma.com/blog/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Privacy and Security | Robin Sharma | Sharma Leadership International</title>
-	
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<meta http-equiv="expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
-		<meta http-equiv="pragma" content="no-cache">
-		<meta http-equiv="cache-control" content="no-cache">
-		<meta http-equiv="expires" content="0">
-		<meta http-equiv="Pragma" content="no-cache">
-		<meta http-equiv="Expires" content="-1">
-<meta name="description" content="Robin Sharma provides leadership and personal development training that helps organizations and people Lead Without Title.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#"><head profile="http://gmpg.org/xfn/11">
 
-<meta name="keywords" content="Leadership, Personal Development, Keynote Speaker, Leadership Training">
-	</head>
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td>	
-	<!-- 	For dynamic css		-->
-	<link href="http://www.robinsharma.com/css/dragable-boxes-blue.css" rel="stylesheet" type="text/css">
-	<link href="http://www.robinsharma.com/css/main-blue.css" rel="stylesheet" type="text/css">
-	<link href="http://www.robinsharma.com/css/blue.css" rel="stylesheet" title="blue" type="text/css">
-	<link href="http://www.robinsharma.com/css/thickbox.css" rel="stylesheet" media="screen,projection" type="text/css">
-	<!-- 	end here		-->
-
-		<script language="javascript" src="http://www.robinsharma.com/scripts/js/setcookie.js"></script>
-	<script language="javascript1.2" type="text/javascript">
-
-		Set_Cookie( 'style1', 'blue', '', '/', '', '' );
-		Delete_Cookie('style_gallery', '/', '');
-		Set_Cookie( 'style_gallery', 'blue', '', '/', '', '' );
-
-		var imgFol		=	"http://www.robinsharma.com/images/blue/";
-		var seo_domain	=	"http://www.robinsharma.com/";
-		function trim(str)
-		{
-			return str.replace(/^\s*|\s*$/g,"");
-		}
-		function refresh(clr)
-		{
-		    setActiveStyleSheet(clr);
-			call_ajax(clr);
-		}
-		function call_ajax(colr)
-		{
-			browser=navigator.userAgent.toLowerCase();
-			if(browser.indexOf("msie")!=-1)
-			{
-				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}
-			else
-			{
-				xmlhttp=new XMLHttpRequest();
-			}
-			loginurl="http://www.robinsharma.com/ajax.php?color="+colr;
-			xmlhttp.open("GET",loginurl,true);
-			xmlhttp.send(null);
-			xmlhttp.onreadystatechange=function()
-			{
-				if(xmlhttp.readyState==4)
-				{
-					var result=trim(xmlhttp.responseText);
-					//alert('**'+result+'**');
-					if(result!='')
-						window.location.reload();
-					else
-						call_ajax(colr);
-				}
-			}
-		}
-
-		function newsignup2(txtEmail)
-		{
-			browser=navigator.userAgent.toLowerCase();
-			if(browser.indexOf("msie")!=-1)
-			{
-				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}
-			else
-			{
-				xmlhttp=new XMLHttpRequest();
-			}
-			loginurl="http://www.robinsharma.com/newsajax2.php?email="+txtEmail;
-			//alert(loginurl);
-			xmlhttp.open("GET",loginurl,true);
-			xmlhttp.send(null);
-			xmlhttp.onreadystatechange=function()
-			{
-				if(xmlhttp.readyState==4)
-				{
-					var result=trim(xmlhttp.responseText);
-
-					if(result=='success'){
-						alert("Thank you for subscribing.");
-						document.getElementById('newsAjaxr').style.display="";
-						document.getElementById('newsAjax').style.display="none";
-					}
-				}
-			}
-
-		}
-
-	function newsignup1(txtEmail)
-		{
-			browser=navigator.userAgent.toLowerCase();
-			if(browser.indexOf("msie")!=-1)
-			{
-				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}
-			else
-			{
-				xmlhttp=new XMLHttpRequest();
-			}
-			loginurl="http://www.robinsharma.com/newsajax2.php?email="+txtEmail;
-
-			xmlhttp.open("GET",loginurl,true);
-			xmlhttp.send(null);
-			xmlhttp.onreadystatechange=function()
-			{
-				if(xmlhttp.readyState==4)
-				{
-					var result=trim(xmlhttp.responseText);
-					if(result=='success'){
-						alert("Thank You for subscribing to the Robin Sharma Report Newsletter.\nPlease make sure to add  wisdom@robinsharma.com to your email address book to prevent the newsletter from being blocked by a spam filter.");
-						document.getElementById('newsAjaxrf').style.display="";
-						document.getElementById('newsAjaxf').style.display="none";
-
-					}
-				}
-			}
-
-		}
-
-
-	</script>
-	<script type="text/javascript">
-		function go(thatform){
-			if(validateEmail(thatform.txt_email.value))
-			{
-				newsignup2(thatform.txt_email.value);
-				return false;
-			}
-			else
-			{
-				alert("Please Enter Valid Email Address");
-				return false;
-			}
-
-		}
-
-		function go1(thatform){
-			if(validateEmail(thatform.txt_email.value))
-			{
-				newsignup1(thatform.txt_email.value);
-				return false;
-			}
-			else
-			{
-				alert("Please Enter Valid Email Address");
-				return false;
-			}
-
-		}
-
-	</script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/__DOM__.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/linkcounter.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/commonValidator.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/common.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/cat/js/order.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/styleswitcher-blue.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/video_show.js" type="text/javascript"></script>
-	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/jquery-latest.js" type="text/javascript"></script>
-
-	
-	<!-- free google urchin tracker -->
-				<script src="http://www.google-analytics.com/urchin.js " type="text/javascript"></script>
-	
-	
-			<script type="text/javascript">
-				_uacct = "UA-31613-1";
-				urchinTracker();
-			</script>
-
-		<!-- free google urchin tracker -->
-		<script type="text/javascript" language="JavaScript1.2">
-			var $seo_domain_path="http://www.robinsharma.com/";
-
-			function changeLanguage(lang)
-			{
-				var date = new Date();
-				date.setTime(date.getTime()+(24*60*60*1000));
-				var expires = "; expires="+date.toGMTString();
-				document.cookie="language="+lang+expires+"; path=/ ";
-				//alert(document.cookie);
-				document.location=document.location;
-			}
-
-			function show_hide(id)
-			{
-				if(document.getElementById(id)) {
-					if(document.getElementById(id).style.display=="none") {
-						document.getElementById(id).style.display="";
-					}else{
-						document.getElementById(id).style.display="none";
-					}
-				}
-			}
-		</script>
-	
-	<style type="text/css">
-	.header_divider
-	{
-	width:1px;background:#FFFFB5;
-	}
-	</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
 
+<title>Privacy Policy | Robin Sharma's Blog</title>
 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=304944326352435&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://pbjmedia.iljmp.com/improvely.js" async=""></script><script src="http://www.robinsharma.com/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
 
+<script src="http://www.robinsharma.com/js/jquery/jquery.easing.1.3.js" type="text/javascript"></script>
 
-<!-- ClickTale Top part -->
+<script src="http://www.robinsharma.com/js/jquery/lister-jqp.js" type="text/javascript"></script>
+
+<script src="http://www.robinsharma.com/js/cufon-yui.js" type="text/javascript"></script>
+
+<script src="http://www.robinsharma.com/galleria/galleria-1.2.8.min.js"></script>
+
+<script src="http://www.robinsharma.com/js/Century_Gothic_400.font.js" type="text/javascript"></script>
+
+<script src="http://www.robinsharma.com/js/Helvetica_Roman_400.font.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
+
+	Cufon.replace ('.main_blocks h3, .twitter h4, #header h2, .tertiary_nav h3,#sidebar h2, .cta h4', {hover:true, fontFamily: 'Century Gothic'})
+
+	Cufon.replace ('.latest_news h2', {hover:true, fontFamily: 'Helvetica Roman'})
+
 </script>
-<!-- ClickTale end of Top part -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td width="720">
-	</td>
-</tr>
-<!-- header top links:Start -->
-<tr>
-	<td>
-		<div class="headertoplinks">
+
+<link rel="stylesheet" href="http://www.robinsharma.com/styles/screen.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="https://www.robinsharma.com/blog/wp-content/themes/robinsharma/style.css" type="text/css" media="screen">
+
+<link rel="pingback" href="https://www.robinsharma.com/blog/xmlrpc.php">
 
 
 
-				<div class="toplinks">
-					<div style="text-align:left;"><a href="http://www.robinsharma.com/personal-development.htm"><img src="http://www.robinsharma.com/images/blue/personal-success.jpg" border="0"></a></div><br>
+<script type="text/javascript">
 
-					<div class="arial11grey" id="make_home_fav">
-								<script language="javascript">
-								var agt=navigator.userAgent.toLowerCase();
-								var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
-								if(document.all)
-								{
-									var fav_obj=document.getElementById("make_home_fav");
+	$().ready(function() {
 
-									fav_obj.innerHTML+='Make <a href="" class="Fav" onClick="makeHome(this);return false;" >robin<strong>sharma</strong>.com</a> your home page';
-								}
-								</script>
-					</div>
-				</div>
-				<div class="toplinksright">
-					<div class="external_header_images" style="margin-right:20px;"><a target="_blank" href="http://www.twitter.com/_robin_sharma"><img border="0" src="http://www.robinsharma.com/images/blue/../twitter28.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.youtube.com/sharmaleadership"><img border="0" src="http://www.robinsharma.com/images/blue/../youtube4.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.facebook.com/home.php#/pages/Robin-Sharma/105875750039"><img border="0" src="http://www.robinsharma.com/images/blue/../facebook-alt.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a></div>
-					<div class="arial11greenmenu"><a href="http://www.robinsharma.com/scripts/contact_us_leader.php">Contact Us</a> | <a href="#" onclick="javascript:window.open('/scripts/awebersubscribe.php', 'popupwindow', 'scrollbars=yes,width=300,height=200');" style="color:red;"><!-- Subscribe to The Robin Sharma Report Monthly Newsletter -->Subscribe to Newsletter</a> | <a href="http://www.robinsharma.com/leadership_development_seminar_sli-upcoming.htm">Seminar Schedule</a><span style="padding-left:100px;">&nbsp;</span>
-					<a onclick="window.open('/swf/cnn-projectlife.swf','flash_player1','width=510,height=350');return false;" class="getinsidemore" style="cursor:pointer;"><img src="http://www.robinsharma.com/images/blue/cnn.jpg" style="padding-top:0px; padding-right:0px;" align="absbottom"></a></div>
-				</div>
-		</div>
-    </td>
-</tr>
-<tr>
- 	<td>
-		<a href="http://www.robinsharma.com/index.htm" style="cursor:pointer;"><div class="robinlogo" title="Lead Without Title"></div></a>
-		<div class="headeranimation" style="z-index: -1;">
-		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="592" height="123">
-			<param name="movie" value="http://www.robinsharma.com/images/blue/1.swf">
-			<param name="quality" value="high">
-			<param name="menu" value="false">
-			<param name="wmode" value="transparent">
-			<param name="salign" value="/">
-			<embed src="http://www.robinsharma.com/images/blue/1.swf" menu="false" wmode="opaque" salign="" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="592" height="123">
-			
-		</object>
+		$(function(){
 
-		</div>
-	</td>
-</tr>
-<tr>
-		<td>
-		<div class="menuindex">
-			<div class="spaces"><a href="http://www.robinsharma.com/index.htm"><img src="http://www.robinsharma.com/images/home_icon.gif"></a></div>
-			<div class="menusapceleft"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="15" height="46"></div>
-						 <div class="leadershiphome"><a href="http://www.robinsharma.com/leadership.htm" title="Home">Leadership Home</a></div>
-		
+			$('#lister_archive').lister({
 
-			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+				limit: 5,
 
+				anim: true,
 
-							<div class="bookrobin"> <a href="http://www.robinsharma.com/leadership_speaker_sli.htm" title="Personal Development Resources">Book Robin to Speak</a></div>
+				speed: 1000,
+
+				easing: 'easeOutCubic'
+
+			});
+
 			
 
-			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+			$('#lister_categories').lister({
 
+				limit: 10,
 
-							<div class="blog"> <a href="http://www.robinsharma.com/leadership_blog.htm" title="Blogs">Blogs</a></div>
-			
+				anim: true,
 
+				speed: 1000,
 
-			<div class="menudivider">
-			<img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+				easing: 'easeOutCubic'
 
-							<div class="organizationalleadership"><a href="http://www.robinsharma.com/leadership_coaching_sli_9.htm" title="Leadership Coaching">Organizational Leadership</a></div>
-			
-			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+			});
 
-			<div class="store"><a href="https://www.robinsharma.com/shop/" title="The Robin Sharma Store" target="_blank"><img src="http://www.robinsharma.com/images/blue/store_blue.jpg" border="0"></a></div>
+		});
 
-			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+	});
 
-					<div class="gallery"><a href="http://www.robinsharma.com/gallery/index.php" title="The Robin Sharma Gallery">Backstage Gallery</a></div>
-		
-		<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
+</script>
 
 
 
-					<div class="aboutus"><a href="http://www.robinsharma.com/executive_coaching_about_sli.htm" title="About SLI">About Us</a></div>
-				</div>
-	</td>
-</tr>
- <tr>
-	<td height="20">&nbsp;</td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-	<td>
-		<div class="middlepannel">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td valign="top">
-			
-					<!-- left pannel start -->
-					<div class="leftpannel">
-					</div>
-					<!-- left pannel ends -->
-				</td>
-				<td valign="top">
-					<!-- center pannel start -->
-					<div class="centerpannel">
-					<div class="Main">
-						<!-- ARTICLE -->
-						<div class="Block">
-			
-							<div class="Inner">
-								<div class="arial12bold" align="left">Privacy &amp; Security</div><br>
-								<div class="arial12gray" align="left"><p>We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. </p><br><p>For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.</p><br><p>The information we collect is:<br>• used to improve the content of our Web page.<br>• used to notify visitors about updates to our Web site.<br>• never shared with other organizations for commercial purposes.</p><br><p>This site collects cookies.</p><br><p>In order to use this website, visitors and/or members are not required to complete our registration form.</p><p>During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required.)</p><br><p>Registration is not required to enter our site.</p><br><p>We have an order form. We require information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and possibly financial information (such as credit card number, expiration date). If we have trouble processing an order, we use the information to contact the user.</p><br><p>This information is used:<br>• for shipping and billing purposes.<br>• to fill customers orders.</p><br><p>When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.</p><br><p>We publish a newsletter, and we never sell or share our subscribers' email addresses.</p><br><p>We operate online surveys, and we never sell or share our subscribers' email addresses</p><br><p><strong>NOTIFICATION OF CHANGES</strong></p><br><p>If we decide to change our privacy policy, we will post those changes to this privacy statement.</p><br><p><strong>CONFLICT RESOLUTION</strong></p><br><p>We are committed to resolving disputes within 24-48 hours.</p><br><p>If you have any questions, please contact us at:</p>Robin Sharma - Online Store<br>Sharma Leadership International<br>92B Scollard St.<br> 2nd Floor,<br>Toronto, ON,<br>M5R 1G2,<br>Phone: 1-416-962-7900<br><p>eMail: support@robinsharma.com</p></div>
-							</div>
-			
-						</div>
-					</div>
-					
-				</div>
-				<!-- center pannel ends -->	
-				</td>
-				<td align="left" valign="top">
-				<!-- right pannel start -->
-				<div class="rightpannel">
-					<!--<div style="float:left"><embed src="http://widget-9c.slide.com/widgets/slideticker.swf" quality="high" scale="noscale" salign="l" wmode="transparent" flashvars="site=widget-9c.slide.com&channel=8148124&cy=ms&il=1" width="138" height="275" name="flashticker" align="middle"/></div>
-					<div class="spacer3"><img src="http://www.robinsharma.com/images/blue/pixel.gif" height="10"></div>
-					<div style="float:left">
-					<object 
-					classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width=141 height=248>
-						<param name="movie" value="http://www.robinsharma.com/images/blue/leadership_sli.swf">
-						<param name="quality" value="high"/>
-						<param name="menu" value=false />
-						<param name="salign" value= />
-						<embed src="http://www.robinsharma.com/images/blue/leadership_sli.swf"
-						quality="high"
-						pluginspage="https://www.macromedia.com/go/getflashplayer" 
-						type="application/x-shockwave-flash" 
-						width=138
-						height=248
-						menu=false 
-						salign=>
-						</embed>
-					</object></div>-->
-				</div>
-				<!-- right pannel ends -->	
-				</td>
-			</tr>
-			</tbody></table>
-		<!-- middle part end -->
-		</div>
-	</td>
-</tr>
-<tr>
-	<td><!--<script type="text/javascript" src="http://www.robinsharma.com/js/commonValidator.js" ></script>-->
-								
-<table width="1003" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td height="10">
-		<!-- Spacer start -->
-		<div class="spacer3">
-			<!-- AddThis Button BEGIN -->
-			<script type="text/javascript">addthis_pub  = 'robinsharma';</script>
-			<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-			<!-- AddThis Button END -->
-		</div>
-		<!-- Spacer end -->
-	</td>
-</tr>
-<tr>
-	<td>
-			
-<!-- footer start -->
-<div class="footerpannel">
-		<div class="footer">
-		<div class="footermenu">
-			<div class="sharmaleader"><img src="http://www.robinsharma.com/images/blue/sharma-leadership.gif" align="right"></div>
-			<div style="width:255px; float:left;" class="tahoma11boldgrey"><a href="http://www.robinsharma.com/executive_coaching_about_sli.htm" class="tahoma11boldgrey" title="Executive Coaching">About Sharma Leadership International</a></div>
-			<div class="footerdivider">|</div>
-			<div style="width:267px; float:left; padding-left:24px; " class="tahoma11boldgrey"><a class="tahoma11boldgrey" href="https://www.robinsharma.com/children_foundation.htm" title="Children foundation">The Robin Sharma Foundation for Children</a></div>
-			<div class="footerdivider">|</div>
-			<div style="width:260px; float:left; padding-left:14px; " class="tahoma11boldgrey"><!-- <a class="tahoma11boldgrey" href="http://www.robinsharma.com/scripts/sli_coaching_member.php" title="Th Monthly Coach">Monthly Coach Login</a> --><a href="http://www.robinsharma.com/gg_webform.htm" class="tahoma11boldgrey">Gift for Readers of The Greatness Guide</a></div>
-		</div>
-		<div class="footernewcontent">
-			<div class="footernewletter"><table cellspacing="0" cellpadding="0" height="35px" border="0" width="100%"><tbody><tr><td valign="bottom" height="35px"><a href="http://www.robinsharma.com/robin_sharma_help.htm" title="Robin Sharma FAQ's" style="color:#686868;text-decoration:none;">Help</a>  |  <a href="http://www.robinsharma.com/sitemap.htm" title="Robin Sharma" style="color:#686868;text-decoration:none;">Site Map</a>  |  <a title="Robin Sharma" style="color:#686868;text-decoration:none;">Questions? Call:</a> <span class="tahoma11blackbold"><!--1-905-889-7900 -->1-416-962-7900 </span></td></tr></tbody></table></div>
-			<div class="newletterpannel">
-				<div style="float:left; "><img src="http://www.robinsharma.com/images/blue/new-left.jpg"></div>
-				
-				<div class="newspannelcontent">
-					
-				<!-- <script type="text/javascript" src="http://www.robinsharma.com/js/commonValidator.js" ></script> -->
-				<form name="newsletter" action="http://www.robinsharma.com/scripts/newslettersignup.php" method="post" target="newwin">
-					<input type="hidden" name="formfields" value="subject:email:emailflag">
-					<input type="hidden" name="hid_subject" value="newsletter signup">
-						<div id="newsAjaxf" style="float:left; display:">
-						<input type="hidden" name="emailflag" value="false">
-				<a href="#" onclick="javascript:window.open('scripts/awebersubscribe.php', 'popupwindow', 'scrollbars=yes,width=300,height=200');" style="color:red;">Subscribe to The Robin Sharma Report Monthly Newsletter</a>&nbsp;
-						<!-- <input name="txt_email" type="text" value="enter your email id" class="newtextbox" onfocus="this.value='';">&nbsp;<input name="submit" type="image" src="http://www.robinsharma.com/images/blue/go-button.gif" align="top" onclick="return go1(document.newsletter)" value="GO!" title="Go!"> -->&nbsp;
-												</div>
-					<div id="newsAjaxrf" style="float:left; display:none; padding-left:10px; width:428px;" class="prodprice">Thank You for subscribing to the Robin Sharma Report Newsletter.</div>
-									</form>	
-				<form name="sendReport" method="POST" action="http://www.robinsharma.com/scripts/send_report.php" target="EmailReport">
-					<input type="hidden" name="id" value="">			
-					<!-- <a href="#" onClick="javascript:submitForm(document.sendReport,'170',true);return false;" title="Robin's report">Email Robin's Latest Report to a Friend</a> -->
-				</form>
-			</div>
-				<div style="float:left; "><img src="http://www.robinsharma.com/images/blue/new-right.jpg"></div>
-				
-			</div>
-		</div>
-		</div>
+<style type="text/css" media="screen">
+
+
+
+
 	
-		<div class="footercopyright">
-			<div style="width:434px; float:left; " class="copytext">© 2010 Sharma Leadership International. All rights reserved.</div>
-			<div style="width:4px; float:left; " class="copytextnormal">|</div>
-			<div style="width:143px; float:left; " class="copytext"><a href="http://www.robinsharma.com/canada_success_coach_privacy.htm" title="Canada Success Coach">Our Privacy Policy</a></div>
-			<div style="width:4px; float:left; " class="copytextnormal">|</div>
-			<div style="width:348px; float:left; " class="copytext"><a href="#" title="Website design, Development and SEO Company" onclick="addHitForNotasco();" style="cursor:pointer;" onmouseover="javacript:this.style.textDecoration='underline';" onmouseout="javacript:this.style.textDecoration='none';">Site Designed and Developed by SDI.</a></div>
+
+
+
+
+</style>
+
+
+
+
+
+
+<script src="//cdn.optimizely.com/js/2158110241.js"></script>
+<!-- Start Of Social Graph Protocol Meta Data -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Effective Date: January, 2016
+
+The following Privacy Policy governs the online information collection practices of Sharma Leadership International,">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://www.robinsharma.com/blog/privacy-policy/">
+<meta property="og:image" content="http://www.robinsharma.com/blog/wp-content/uploads/2013/10/Robin-Sharma-Official-Site-Leadership-Development-Training-Consulting4.jpg">
+<meta property="og:site_name" content="Robin Sharma&amp;#039;s Blog">
+<meta property="fb:admins" content="1098000840">
+<!-- End Of Social Graph Protocol Meta Data -->
+
+<!-- All in One SEO Pack 2.3.5 by Michael Torbert of Semper Fi Web Design[317,372] -->
+<link rel="canonical" href="https://www.robinsharma.com/blog/privacy-policy/">
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Robin Sharma's Blog » Feed" href="https://www.robinsharma.com/blog/feed/">
+<link rel="alternate" type="application/rss+xml" title="Robin Sharma's Blog » Comments Feed" href="https://www.robinsharma.com/blog/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Robin Sharma's Blog » Privacy Policy Comments Feed" href="https://www.robinsharma.com/blog/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.robinsharma.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.robinsharma.com/blog/wp-includes/js/wp-emoji-release.min.js?ver=4.5.3" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="optimizepress-default-css" href="https://www.robinsharma.com/blog/wp-content/plugins/optimizePressPlugin/lib/assets/default.min.css?ver=2.5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="podpress_frontend_styles-css" href="https://www.robinsharma.com/blog/wp-content/plugins/podpress/style/podpress.css?ver=4.5.3" type="text/css" media="all">
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close',
+	playbutton : 'Play &gt;'
+}
+//]]>
+</script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["bg"] = "E5E5E5";
+	podPressPopupPlayerOpt["text"] = "333333";
+	podPressPopupPlayerOpt["leftbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["lefticon"] = "333333";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["rightbg"] = "B4B4B4";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["righticon"] = "333333";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["loader"] = "009900";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["border"] = "CCCCCC";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podPressPopupPlayerOpt["animation"] = "yes";
+	podPressPopupPlayerOpt["remaining"] = "no";
+	podpressAudioPlayer.setup("https://www.robinsharma.com/blog/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {bg:"E5E5E5", text:"333333", leftbg:"CCCCCC", lefticon:"333333", volslider:"666666", voltrack:"FFFFFF", rightbg:"B4B4B4", rightbghover:"999999", righticon:"333333", righticonhover:"FFFFFF", loader:"009900", track:"FFFFFF", border:"CCCCCC", tracker:"DDDDDD", skip:"666666", slider:"666666", initialvolume:"70", buffer:"5", checkpolicy:"no", animation:"yes", remaining:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "https://www.robinsharma.com/blog/";
+var podPressBackendURL = "https://www.robinsharma.com/blog/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "https://www.robinsharma.com/blog/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = false;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressHTML5 = true;
+var podPressHTML5_showplayersdirectly = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var OptimizePress = {"ajaxurl":"https:\/\/www.robinsharma.com\/blog\/wp-admin\/admin-ajax.php","SN":"optimizepress","version":"2.5.4.2","script_debug":".min","localStorageEnabled":"","wp_admin_page":"","op_live_editor":"","op_page_builder":"","op_create_new_page":"","imgurl":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/images\/","OP_URL":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/","OP_JS":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/js\/","OP_PAGE_BUILDER_URL":"","include_url":"https:\/\/www.robinsharma.com\/blog\/wp-includes\/","op_autosave_interval":"300","op_autosave_enabled":"Y","paths":{"url":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/","img":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/images\/","js":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/js\/","css":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/css\/"},"social":{"twitter":"optimizepress","facebook":"optimizepress","googleplus":"111273444733787349971"},"flowplayerHTML5":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/modules\/blog\/video\/flowplayer\/flowplayer.swf","flowplayerKey":"","flowplayerLogo":"","mediaelementplayer":"https:\/\/www.robinsharma.com\/blog\/wp-content\/plugins\/optimizePressPlugin\/lib\/modules\/blog\/video\/mediaelement\/","pb_unload_alert":"This page is asking you to confirm that you want to leave - data you have entered may not be saved.","pb_save_alert":"Please make sure you are happy with all of your options as some options will not be able to be changed for this page later.","optimizemember":{"enabled":false,"version":"0"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-content/plugins/optimizePressPlugin/lib/js/op-jquery-base-all.min.js?ver=2.5.4.2"></script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-content/plugins/podpress/js/podpress.js?ver=4.5.3"></script>
+<link rel="https://api.w.org/" href="https://www.robinsharma.com/blog/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.robinsharma.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.robinsharma.com/blog/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.5.3">
+<link rel="shortlink" href="https://www.robinsharma.com/blog/?p=5811">
+<link rel="alternate" type="application/json+oembed" href="https://www.robinsharma.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.robinsharma.com%2Fblog%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.robinsharma.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.robinsharma.com%2Fblog%2Fprivacy-policy%2F&amp;format=xml">
+<meta property="fb:app_id" content="304944326352435"><meta property="fb:admins" content="251674215028191,"><script type="text/javascript">
+var im_domain = 'pbjmedia';
+var im_project_id = 12;
+(function(e,t){window._improvely=[];var n=e.getElementsByTagName("script")[0];var r=e.createElement("script");r.type="text/javascript";r.src="https://"+im_domain+".iljmp.com/improvely.js";r.async=true;n.parentNode.insertBefore(r,n);if(typeof t.init=="undefined"){t.init=function(e,t){window._improvely.push(["init",e,t])};t.goal=function(e){window._improvely.push(["goal",e])};t.conversion=function(e){window._improvely.push(["conversion",e])};t.label=function(e){window._improvely.push(["label",e])}}window.improvely=t;t.init(im_domain,im_project_id)})(document,window.improvely||[])
+</script><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.13aba1d9-3731-4884-8e60-df27eaa4dc91'});var st_type='wordpress2.9.2';</script><!-- Open Graph Meta Data by WP-Open-Graph plugin-->
+<meta property="og:site_name" content="Robin Sharma's Blog">
+<meta property="og:locale" content="en_us">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://www.robinsharma.com/blog/privacy-policy/">
+<meta property="og:description" content="Effective Date: January, 2016 The following Privacy Policy governs the online information collection practices of Sharma Leadership International, Inc. (“Robin Sharma” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using RobinSharma.com (the “Site”) or any of our other websites or publications, and the ways in […]">
+<!-- /Open Graph Meta Data -->
+
+        <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="https://www.robinsharma.com/blog/wp-content/plugins/optimizePressPlugin/lib/js/selectivizr-1.0.2-min.js?ver=1.0.2"></script>
+        <![endif]-->
+        <!--[if lt IE 9]>
+            <script src="https://www.robinsharma.com/blog/wp-content/plugins/optimizePressPlugin/lib/js//html5shiv.min.js"></script>
+        <![endif]-->
+    
+
+<script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-31613-1']);
+
+  _gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+
+
+</script>
+
+</head>
+
+<body class="resources">
+
+<script type="text/javascript" src="http://www.adimpact.com/cgi-bin/webapp/dsp.cgi?id=3045251802"></script><noscript><a href="http://www.adimpact.com/">website pop up marketing</a></noscript>
+
+<div id="page">
+
+
+
+
+
+<div id="header" class="resources">
+
+	<a href="http://www.robinsharma.com/index.php"><img src="http://www.robinsharma.com/images/logo.png" alt="" title="" class="logo"></a>
+
+    
+
+    <ul id="navigation">
+
+		<li><a href="http://www.robinsharma.com/store/books">BOOKS</a></li>
+
+		<li><a href="http://www.robinsharma.com/store">STORE</a></li>
+
+		<li><a href="http://www.robinsharma.com/speaking">SPEAKING</a></li>
+
+		<li><a href="http://www.robinsharma.com/events">EVENTS</a></li>
+
+		<li><a href="http://www.robinsharma.com/resources" class="active">FREE TOOLS</a></li>
+
+		<li><a href="http://www.robinsharma.com/about-robin">WHO WE ARE</a></li>
+
+		<li><a href="http://www.robinsharma.com/contact.php">CONTACT</a></li>
+
+		<li class="last"><a href="http://www.robinsharma.com/personal-coaching">COACHING</a></li>
+
+
+
+	</ul><!-- navigation ends -->
+
+
+
+
+
+
+
+</div>
+
+<!-- secondary_nav ends -->
+<style>
+.narrowcolumn1 {
+    margin: 0;
+    padding: 0 15px 20px;
+
+}
+.secondary_nav
+{ display:none; }
+
+</style>
+<div>&nbsp;</div>
+	<div id="content" class="narrowcolumn1" role="main" style="font-size:17px; line-height:24px;">
+				<div class="post" id="post-5811">
+		<h2 style="font-size:24px; text-transform:uppercase;">Privacy Policy</h2>
+			<div class="entry">
+				<p>Effective Date: January, 2016</p>
+<p>The following Privacy Policy governs the online information collection practices of Sharma Leadership International, Inc. (“Robin Sharma” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using RobinSharma.com (the “Site”) or any of our other websites or publications, and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, via telephone, or through the mail).</p>
+<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+<p><b>How We Collect and Use Information</b></p>
+<p>We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site).Robin Sharmaonly contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. Robin Sharmacollects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.</p>
+<p>We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers, contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. To stop receiving our marketing emails, send an e-mail to us at support@RobinSharma.comor follow the opt-out procedures set forth in such marketing emails.</p>
+<p>Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
+<p>Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.</p>
+<p>The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
+<p>We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
+<p>Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.</p>
+<p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.</p>
+<p><b>Google Analytics</b></p>
+<p>We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Remarketing with Google Analytics</li>
+<li>Google Display Network Impression Reporting</li>
+<li>DoubleClick Platform integrations</li>
+<li>Google Analytics Demographics and Interest Reporting</li>
+</ul>
+<p>By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site.&nbsp; Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order.&nbsp; The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.</p>
+<p>You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a>.</p>
+<p><b>Facebook</b></p>
+<p>As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Privacy Policy. You consent to our collection of such information.</p>
+<p>We abide by Facebook’s Data Use Restrictions.</p>
+<ul>
+<li>Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.</li>
+<li>We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.</li>
+<li>We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.</li>
+<li>We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.</li>
+</ul>
+<p><b>Children’s Privacy Statement</b></p>
+<p>This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.</p>
+<ul>
+<li>This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.</li>
+<li>Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.</li>
+<li>We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.</li>
+<li>Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.</li>
+</ul>
+<p><b>How do we store your information?</b></p>
+<p>Your information is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive ourmaterial.</p>
+<p>All of the messaging or emails that are sent to you by us includes an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.</p>
+<p><b>Disclaimer</b></p>
+<p>Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.</p>
+<p>If you have any questions or concerns regarding our privacy policy please direct them to:</p>
+<p>support@robinsharma.com</p>
+<p class="no-break"></p><div style="font-size:15px;font-weight:bold;padding: 20px 0 10px 0;"><a id="ShareButtons">Please share this post:</a></div>
+<span class="st_email_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span><span class="st_sharethis_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span><span class="st_twitter_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span><span class="st_fblike_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span><span class="st_plusone_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span><span class="st_pinterest_hcount" st_title="Privacy Policy" st_url="https://www.robinsharma.com/blog/privacy-policy/" displaytext="share"></span>
+<div style="padding: 30px 0 0 0;"></div><p></p>
+				
+			</div>
 		</div>
+			
+
+	
 	</div>
-	<!-- footer end -->
-	</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
+
+
+
+
+
+<div id="footer">    
+			<div class="footer_list_holder">
+				<p><strong>Explore</strong></p>
+				<ul>
+					<li><a href="http://www.robinsharma.com/books.php">Leadership Books</a></li>
+					<li><a href="http://www.robinsharma.com/speaking.php">Leadership Speaking</a></li>
+					<li><a href="http://www.robinsharma.com/events.php">Leadership Events</a></li>
+					<li><a href="http://www.robinsharma.com/home/company">Company</a></li>
+					<li><a href="http://www.robinsharma.com/home/our-clients">Our Clients</a></li>
+				</ul>
+			</div><!-- footer_list_holder ends -->
+			<div class="footer_list_holder">
+				<p><strong>Store</strong></p>
+				<ul>
+					<li><a href="http://www.robinsharma.com/store/books">Books</a></li>
+					<li><a href="http://www.robinsharma.com/store/audio">Audio</a></li>
+					<li><a href="http://www.robinsharma.com/store/video">Video</a></li>
+										<li><a href="http://www.robinsharma.com/store/robinsharma-tv">robinsharmaTV</a></li>
+				</ul>
+			</div><!-- footer_list_holder ends -->
+			<div class="footer_list_holder">
+				<p><strong>Resources</strong></p>
+				<ul>
+					<li><a href="http://www.robinsharma.com/sitemap.php">Site Map</a></li>
+					<li><a href="http://www.robinsharma.com/home/privacy">Privacy Policy</a></li>
+					<li><a href="http://www.robinsharma.com/contact.php">Contact</a></li>
+				</ul>
+			</div><!-- footer_list_holder ends -->
+			<div class="sharma_foundation">
+				<img src="http://www.robinsharma.com/images/photos/footer_sharma_foundation_thumb.jpg" alt="" width="87" height="87">
+				<h4>The Robin Sharma Foundation for Children</h4>
+				<p><a href="http://www.robinsharma.com/about-robin/giving-back/childrens-foundation">See how you can support the leaders of our future</a></p>
+			</div><!-- sharms foundation ends -->
+      
+			<div id="follow_robin">
+				<p><strong>Follow Robin</strong></p>
+				<a href="http://feeds.feedburner.com/robinsharma/YlRc" rel="external"><img src="http://www.robinsharma.com/images/btns/footer_rss.gif" alt="RSS" width="21" height="22"></a>
+				<a href="http://www.facebook.com/theofficialrobinsharmapage" rel="external"><img src="http://www.robinsharma.com/images/btns/footer_fb.gif" alt="Facebook" width="21" height="22"></a>
+				<a href="http://www.twitter.com/_robin_sharma" rel="external"><img src="http://www.robinsharma.com/images/btns/footer_twitter.gif" alt="Twitter" width="21" height="22"></a>
+				<a href="http://ca.linkedin.com/in/robinsharmaleadership" rel="external"><img src="http://www.robinsharma.com/images/btns/footer_linked_in.gif" alt="Linked In" width="21" height="22"></a>
+				<p class="top_padd"><!-- AddThis Button BEGIN -->
+<script type="text/javascript">addthis_pub  = 'robinsharma';</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</p>
+			</div><!-- follow robin ends -->	
+		</div><!-- footer ends -->
+		<p class="copy">© 2016 Sharma Leadership International Inc. All Rights reserved<br><a href="http://feeds.feedburner.com/robinsharma/YlRc" rel="external">Entries (RSS)</a>
+		and <a href="https://www.robinsharma.com/blog/comments/feed/">Comments (RSS)</a> </p>
+	</div><!-- container ends -->
+<script type="text/javascript"> Cufon.now(); </script>
+
+
+
+
+		<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-includes/js/comment-reply.min.js?ver=4.5.3"></script>
+<script type="text/javascript" src="https://www.robinsharma.com/blog/wp-includes/js/wp-embed.min.js?ver=4.5.3"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=304944326352435&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100539875); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100539875ns.gif" /></p></noscript>
+
 
 </body></html>
