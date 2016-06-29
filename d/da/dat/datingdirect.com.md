@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025134317id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirect.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154420id_/http%3A//www.datingdirect.com/misc/privacy_v.php) for the most accurate reproduction.*
 
 # Single? Meet Other Singles Looking For Love - Free Signup
 
@@ -26,7 +26,7 @@ If you are looking for the information we collect about your computer and or dev
 
 ## 2\. What sort of information do we gather?
 
-Personal information gathered by us can include your name, mailing and/or email address, fixed line and/or mobile telephone numbers, bank information, information about your physical appearance, photographs, voice recording, video, personal values, religion, interests, and your use of the Service.
+Personal information gathered by us can include your name, mailing and/or email address, fixed line and/or mobile telephone numbers, bank information, information about your physical appearance, photographs, voice recording, video, personal values, religion, interests, and your use of the Service. We may also collect and process sensitive personal data regarding member breaches of the Terms and Conditions, including unspent convictions.
 
 Furthermore, certain non-personal information is also gathered, such as the version of the Member's and any other visitor's web browser (Firefox, Chrome, Safari, Netscape, Internet Explorer, etc.), the operating system (WindowsOS, Mac Os, etc.) and the IP address of the computer from which they are visiting.
 
