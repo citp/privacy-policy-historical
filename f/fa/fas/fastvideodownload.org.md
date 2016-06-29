@@ -1,84 +1,17 @@
-> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-###  Information We Collect and Why 
+* * *
 
-Applian Technologies is the sole owner of the information collected on this site. We will not sell, share, or rent this information to anyone.   
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### Cookies 
-
-A cookie is a piece of data stored on the customer’s hard drive containing information about the customer.   We use cookies to track how customers got to our site.  The information is anonymous.  You don’t need to keep cookies on your computer to use our site.
-
-### Download
-
-When you download a piece of software from Applian Technologies, you can optionally share your email address with us so we can keep you informed of our new products.  By entering your email address, you agree to receive email from us about product updates and special deals. When we release a new product or a new version of any of our software titles, we send a message to all of our registered customers and let them know.  If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking here.
-
-### Purchase
-
-We request information from the customer on our order form. Here a customer must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the customer.   
-
-
-The ordering of Applian Technologies is processed by third party companies which are responsible for the use of the information they collect.  Please consult their privacy statements on their respective websites:  
-
-
-**Paypal**  
-[http://www.paypal.com](http://www.paypal.com/)  
-
-
-**RegNow**  
-[http://regnow.com](http://regnow.com/)  
-
-
-All credit card information is requested and transmitted securely by these third party companies. We never store any credit card information in our databases. 
-
-### Surveys
-
-We occasionally ask for anonymous usage information through random surveys.  The surveys allow us to better understand our audience and their interests.  The primary purpose of these surveys is to help us in creating products that are of greater interest to our customer base.
-
-### Newsletter
-
-If a customer wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  If you wish not to receive these messages, you can remove your email address from our list at anytime by using this form: 
-
-### Sharing
-
-Occasionally we will share anonymous demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-### Forum
-
-In order to use the forum, and be part of Applian Technologies online community, the customers have the opportunity to complete the registration form. During registration a customer is required to give his email, and optionally, other contact information. This information is used to contact the customer about the services on our site for which they have expressed interest, and to allow a more intense involvement in Applian Technologies community. It is optional for the customer to provide demographic information, but encouraged so we can provide a more personalized experience on our site and continue to improve the products and services we provide.
-
-### Special Offers 
-
-Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our customers we present the option to not receive these types of communications. If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking [here](http://www.applian.com/remove.php?email=%5b%5bemail%5d%5d).  
-
-
-### Correction/Updating Personal Information
-
-If a customer’s personally identifiable information changes , or if a customer no longer desires our service, we will endeavor to provide a way to correct, update or remove that customer’s personal data provided to us. This can usually be by [contacting customer service](http://applian.com/help/index.php?pid=newticket&user=&department=10).
-
-### Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes on our site so our customers are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
-
-### Security 
-
-This website takes every precaution to protect our customers’ information. When customers submit sensitive information via the website, your information is protected both online and off-line.
-
-### Questions
-
-If you have questions about our usage of your personal information, please contact us.   
-Applian Technologies Inc.  
-20 Vineyard Avenue  
-San Anselmo, CA  94960   
-Attn:  Customer Service
-
-  * **[General Inquiries](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/support.php#GeneralContact)**
-  * **[Technical Support](https://web.archive.org/web/20130625143304id_/http%3A//applian.com/support.php#TechSupport) **
-  * FAX: 415-480-1748 (USA)
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-Note: Applian Technologies recording products are not intended for use in circumventing copy protection mechanisms or for making illegal copies of copyrighted content. Please respect the rights of the content owners when recording. 
-
-**© Copyright 2013 Applian Technologies Inc. - All Rights Reserved**
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
