@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229090903id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630012048id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -6,18 +6,18 @@ Toll Free
 **1-(888)-849-8450  
 1-(407)-964-3007 **
 
-  * [Home](http://bookvip.com/)
-  * [Hot Weekly Deals](http://bookvip.com/weeklydeals)
-  * [All Vacation Deals](http://bookvip.com/vacationspecials)
-  * [All Inclusive Deals](http://bookvip.com/allinclusivedeals)
-  * [About Us](http://bookvip.com/home/aboutus)
-  * [Customer Video Reviews](http://bookvip.com/sitereviews)
+  * [Home](http://www.bookvip.com/)
+  * [Hot Weekly Deals](http://www.bookvip.com/weeklydeals)
+  * [All Vacation Deals](http://www.bookvip.com/vacationspecials)
+  * [All Inclusive Deals](http://www.bookvip.com/allinclusivedeals)
+  * [About Us](http://www.bookvip.com/home/aboutus)
+  * [Customer Video Reviews](http://www.bookvip.com/sitereviews)
 
 
 
-Over 1.2 Million Likes 
+Over 2.3 Million Likes 
 
-1,222,795 Facebook Likes and counting.  
+2,336,314 Facebook Likes and counting.  
 People love our offers, you will too!
 
 **BookVIP.com Privacy Policy**
