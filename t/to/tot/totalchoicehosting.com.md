@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalchoicehosting.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906153556id_/http%3A//www.totalchoicehosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalchoicehosting.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629203318id_/http%3A//www.totalchoicehosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Totalchoice Hosting
 
@@ -34,7 +34,7 @@ We may amend this policy at any time and will always keep it posted on our websi
 
 **Contacting Us:**
 
-You may contact us at any time via our ‘[Contact Us](https://web.archive.org/web/20150906153556id_/http%3A//www.totalchoicehosting.com/contactus.html)’ page or alternatively via US MAIL:
+You may contact us at any time via our ‘[Contact Us](https://web.archive.org/web/20160629203318id_/http%3A//www.totalchoicehosting.com/contactus.html)’ page or alternatively via US MAIL:
 
 TotalChoice Hosting, Inc.  
 PO Box 518  
