@@ -1,79 +1,100 @@
-> *The following text is extracted and transformed from the bannersbroker.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617014127id_/http%3A//bannersbroker.com/main/privacy_policy_int) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannersbroker.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Banners Broker
+# Legal Agreement
 
-### POLICY GUIDELINES
+**GoDaddy Respects Your Privacy**
 
-Protecting your privacy is the main priority at **Banners Broker** International. We are committed to protecting the privacy of your personal information while stored in our electronic facility. Any personal information provided to us, collected by us or stored in our facility is not accessible by anyone but you through the use of your unique user name and password. In the performance of our duty, only a limited number of system administrators have monitored access to the information that you provide while purchasing our product and/or services.  When you solicit our service, we tell you about this policy and obtain your consent before collecting, using or disclosing personal information, except where permitted or allowed by law.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-### BINDING EFFECT
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The Banners Broker Privacy Policy applies to EVERYONE at Banners Broker International, INCLUDING YOU, OUR CUSTOMER. YOU HEREBY SWEAR THAT YOU ARE AT LEAST 18 OF AGE AND CAPABLE TO ENTER INTO A BINDING CONTRACT. YOUR USE OF THIS WEBSITE CONSTITUTES YOUR AGREEMENT TO THIS PRIVACY POLICY AND ANY SUBSEQUENT MODIFICATIONS THERETO. IF YOU DO NOT WISH TO BE BOUND BY THIS PRIVACY POLICY, PLEASE DISCONTINUE YOUR USE OF THE BANNERS BROKER WEBSITE.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION
+**Information Collection and Use**
 
-When you register with Banners Broker International, you supply personal information, this includes your email address that is required to open an account with us. We limit the personal information we collect to what is necessary for the purpose of our business. We obtain information about you for identification purposes. This is done to protect both you and Banners Broker against error and fraud, to monitor traffic to our Website, to understand your usage of our product and services, to contact you and recommend particular products and services that meet your needs, to provide you with ongoing service, to respond to customer inquiries and comments, to maintain a list of Banners Broker International customers and to comply with legal requirements.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-After registering with Banners Broker International, you may cancel your account at any time. Minimum personal information allowing Banners Broker International to track a cancelled customer for the reason of verification or other official reasons, such as and where required by law, will be kept for a period of three years after a cancellation occurring after registration. To cancel a registration you need to follow necessary steps mentioned in our refund/cancellation policy.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Banners Broker International will not use or disclose collected personal information for purposes other than those for which it was collected, except with your express consent or if required by law. By providing personal information to Banners Broker International, you agree and consent to the collection, use and/or disclosure of such information by Banners Broker International for the purposes stated above. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-### TYPES OF PERSONAL INFORMATION WE COLLECT
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We collect necessary identification information, including Names, Address, Birth Date, Occupation and Citizenship. To verify the authenticity of Citizenship, we require at least one government issued ID number. We do collect financial information such as Credit Card information or Bank Account information for the purpose of paying commissions.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-### PROTECTING, MAINTAINING ACCURATE, AND PROVIDING YOU ACCESS TO YOUR INFORMATION 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We safeguard the privacy of your personal information through appropriate security measures. We make sure personal information is as accurate, complete and up-to-date as necessary. At your request, we provide you full access to your personal information. You can inquire about its use and disclosure, you can verify whether it is accurate and complete and modify it if necessary. If doing so personally it will not compromise Banners Broker International’s privacy or security interests. Our Policies and Practices regarding the management of your personal information is made available to you so that you know what steps you can follow if you have concerns or questions about your privacy. There are designated agents in our company who have access to your personal information in conjunction to their professional duties. These individuals are asked to sign strict confidentiality and non-disclosure agreements to ensure their compliance with legal requirements in relation to the handling of affiliate information. We monitor their compliance with applicable privacy legislations.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-### TRANSFERRING OR SHARING YOUR INFORMATION
+**Security**
 
-Banners Broker International does not sell or otherwise transfer personal information to unaffiliated third parties except where you specifically authorize us to do so. Unless prohibited by law, Banners Broker International does however share information with its affiliates, subsidiaries and even third parties providing services on behalf of Banners Broker International, Banners Broker Reseller, the Monetize Group, its affiliates or subsidiaries for the purpose of allowing all the above entities to bring suitable products and services to your attention or upon you request.  You can choose to oppose the sharing of your information within our group and your given consent can be withdrawn any time, unless legal requirements prevent it. From time to time, Banners Broker International, its affiliates, subsidiaries or third parties working on our behalf may offer you products and services - including special promotions - that we believe will be of interest to you through direct mail, telephone, e-mail or other means. If you do not wish to be included in Banners Broker International or Banners Broker International’s future marketing efforts, or if you would like to have your personal information removed from our direct marketing database, please notify Banners Broker International by e-mail at [support@bannersbroker.com](mailto:support@bannersbroker.com)
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-### DISCLOSURE OF GENERAL AND ANONYMOUS INFORMATION
+**Updating Your Information**
 
-Banners Broker International will, at times, conduct market research such as investigations and the statistical analyses of anonymous and aggregated customer information and other service related information, in order to measure interest in the Website or other related factors and parameters. Banners Broker International reserves the right to publish, share, transfer or sell results of such general and anonymous researches and analyses to third parties.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-### PROTECTING YOUR INFORMATION
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Banners Broker International is obligated to protect your personal information by making reasonable security arrangements against such risks as loss, misuse, unauthorized access, alteration, disclosure or disposal/destruction. Several physical, electronic and procedural security measures have been integrated into the day-to-day operating practices of our company to safeguard the personal information you provide us. This includes the use of appropriate technology to process all traffic at this website. We use several layers of robust security methods among which, SSL (Secure Socket Layer) technology, encryption, firewalls and timed log-outs among others to ensure the confidentiality of your personal information. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * SSL (Secure Socket Layer Technology) is the standard tool for protecting and maintaining security over the Internet. Ensure your connection is secure by looking for either a 'closed lock' or an 'unbroken key' icon located at the bottom right hand side of your browser's task bar. 
-  * Encryption scrambles your data into an unreadable format to block unauthorized access by others. 
-  * Timed log-outs are destined to automatically terminate a session after a period of inactivity just in case you forget to log out or leave a computer unattended during an online session. 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-### PASSWORD
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Access to your personal information posted on our Website will be password protected. You are responsible for keeping your password confidential in order to prevent unauthorized access. You agree to promptly notify Banners Broker International of any unauthorized use of your password. You will be liable for any orders placed with or any electronic data provided to Banners Broker International until Banners Broker International is notified of an unauthorized use of your password.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Never disclose your current passwords or answers to online personal. No Banners Broker International employee or agent will ever ask you verbally or through e-mail for this information.
+**Compliance with Laws and Law Enforcement**
 
-However, if for some reason you cannot access your account and ask us to help you, we may ask for some predetermined security words to identify you. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-### LINKS TO THIRD PARTY WEBSITES
+**Third Party Service Providers**
 
-The content of our Website may contain links to third party Websites. This privacy statement applies only to Banners Broker International and The Monetize Group for information collected by these two companies. It does not apply to any third-party Websites you access from our Website, and we are not responsible for the privacy practices of these sites. It is your responsibility to be aware of and comply with such privacy policies. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-### E-MAIL
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Banners Broker International will not monitor, edit, or disclose private communications unless: (i) required to do so by law; (ii) you grant us permission; or (iii) in the good faith belief that such action is necessary to: (a) comply with the law; (b) comply with any legal process that is served on Banners Broker International; or (c) protect and defend the rights or property of Banners Broker International.
+**Supplementation of Information**
 
-### COOKIES
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-A cookie is a computer code that lets Web servers "identify" visitors to the Website. Every time you start a session on the Banners Broker International Website, our server uses a cookie to identify you as the account holder and provides you with appropriate access privileges. Cookies do not store any of the personal information you have provided through the site; they are simply identifiers. Cookies collect information such as your browser type, time and length of your visit. Most browsers automatically accept cookies, but you can choose to refuse cookies, or selectively accept cookies, by adjusting the preferences in your browser. However, if you refuse cookies, some features of our site will not be available to you and some Web pages may not display properly. 
+**Contests/Surveys**
 
-### EFFECTIVE DATE
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-This Privacy Policy is effective as of December 1, 2011. Banners Broker International reserves the right to change this Privacy Policy at any time by notifying you of the existence of a new Privacy Policy. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on the Website, or by any other means by which you obtain notice thereof. Your continued use of the Website after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-### SEVERABILITY
+**Tell-A-Friend**
 
-If any provision of this Policy shall be held to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and such illegal or unenforceable provision shall be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable and deemed to be restated to reflect the original intentions of the drafter of this Privacy Policy as nearly as possible in accordance with applicable law(s). 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-### CONTACTING BANNERS BROKER
+**What Happens to my Personal Information if I Opt Out?**
 
-If you have any questions about this Privacy Policy or the privacy practices of Banners Broker International in respect of this Website, please direct your inquiry directly to Banners Broker International by writing to [support@bannersbroker.com](mailto:support@bannersbroker.com) _._ Banners Broker International will investigate promptly and try everything possible to resolve complaints or disputes related to the use and disclosure of Consumers’ personal information in accordance to this Privacy Policy and all applicable laws.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-This is a living document, which means that when circumstances dictate, this document will be updated. When this is done, the latest version will be updated on the Banners Broker website, and the latest version Date will be updated accordingly. 
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
