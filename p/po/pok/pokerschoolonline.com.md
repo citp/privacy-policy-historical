@@ -1,66 +1,48 @@
-> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125115612id_/http%3A//www.pokerschoolonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629091135id_/https%3A//www.pokerstars.uk/poker/room/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Poker School Online: Learn Poker Strategy, Odds and Tells
+# Online Software Privacy Policy - Privacy Issues
 
-Your privacy on the Internet is very important to Rational Content  Ltd. (referred to herein as "PokerSchoolOnline", "us" or "we") which owns and operates the Internet site found at www.PokerSchoolOnline.Com (the "Site").
+* As part of a User’s Stars Account opening process across the Sites and to allow us to provide our Services to you, we will ask you to provide us with certain personal information, including but not limited to your name, postal address, telephone number, e-mail address and password as well as to certify that you are at least 18 years old or older in jurisdictions in which the minimum age for use of the Service is greater than 18. In compliance with our regulatory requirements and in order for you to access and use our software and/or the Service through any of our websites, you hereby consent and permit us (or third parties acting on our behalf)  to: (i) use location based services to determine your geographic location from your personal computer or Device (as defined in Section 9 below) (which may include but not be limited to your IP address, Wi-Fi connection and cookies data); and (ii) undertake the collection, storage, processing, retrieval and transmission of your personal information (which will include but not be limited to your location data)  and/or such other data or information that may be derived from your Device/computer, to enable the Service/software to be made available to you  as well as to fulfil the purposes set out in this Privacy Policy.  You are not permitted to use our software and/or the Services if you do not wish to be bound by this provision or if you do not wish to grant the consent as detailed above.  We may also use any or all of your personal information to verify your credentials from or with third parties including financial institutions, identification verification agencies and credit reference agencies, for the purposes of us providing the Services to you. In addition, when you use the Service, we store certain personal information, including information on your activity on the Sites and information held on Devices or systems that you use, to allow us to enhance the Services that we provide to you. We, our affiliates and third parties providing services  to you on our behalf will use your personal information for the following purposes:  
 
-We are committed to maintaining the confidentiality of personal information that we collect and receive in order to allow you to enjoy the services of the Site, by safeguarding it utilizing the best-in-class software and hardware architecture, techniques, methods and procedures.
+  * to confirm financial transactions,
+  * to provide the Services to you;
+  * identification and vetting purposes;
+  * statistical analysis and research;
+  * research and development;
+  * marketing, market research and customer profiling;
+  * data analysis;
+  * to comply with licensing and regulatory requirements; and
+  * to analyse your credit and fraud risk.
+  * to confirm your geographic location
 
-  The purpose of this privacy policy is to enable you to understand how we collect, receive, store, use and safeguard information relating to you, and what your rights are in relation to that information.
 
-#### 1\. What information is collected and for what purpose
 
-By registering on the Site you grant PokerSchoolOnline the right to provide to Rational Entertainment Enterprises Limited (referred to herein as "PokerStars"), an affiliate company of PokerSchoolOnline, which owns and operates the Internet site found at www.pokerstars.eu (the "PokerStars Site"), all the personal information about you collected by PokerSchoolOnline. You also grant PokerStars the right to provide to PokerSchoolOnline all the personal information about you collected by PokerStars.
+We may disclose your personal information:
 
-We may use your personal information to occasionally send you events and news information and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
+  * if required to do so by law or by regulatory authority;
+  * if we believe in good faith that such action is necessary: 
+    1. to comply with any law or comply with legal process served on us; 
+    2. to protect and defend our rights or property;
+    3. to any regulatory body or licensing body or authority;
+    4. to third parties for the purposes of settling or making payment in connection with any wager;
+    5. to any payment management or debt collection company engaged by us to handle payment and collection processes to and from Users; 
+    6. to third parties who provide services to us or on our behalf; 
+    7. to any third party that purchases us or our business or any part of us or our business;
+    8. to credit reference agencies as described in the circumstances described below in this Section 2;
+  * with your consent;
+  * for the purposes of disaster recovery; or
+  * as set out in Sections 5 and 6 below.
 
-PokerSchoolOnline may make the following information, in respect of users who registered to the Site ("PokerSchoolOnline Members"), available to other users of the Site (whether registered or not) as the PokerSchoolOnline Member's public profile: the PokerSchoolOnline Member's User ID, the date on which the PokerSchoolOnline Member registered to the Site, the time the PokerSchoolOnline Member last logged into the Site, the country of the PokerSchoolOnline Member's residence, the avatar the PokerSchoolOnline Member chose, the PokerSchoolOnline Member's personal image, the PokerSchoolOnline Member's "message" to the other users, and the PokerSchoolOnline Member's tournament results and level on the PokerStars Site.
 
-#### 2\. Confidentiality
 
-PokerSchoolOnline undertakes substantial efforts to protect the confidentiality of the information it has collected about individual PokerSchoolOnline Members and will not knowingly allow access to this information to anyone outside of PokerSchoolOnline, other than to thePokerSchoolOnline  Member or as described in this Privacy Policy. PokerSchoolOnline has made a substantial investment in its server, database, backup, firewall and encryption technologies, deployed in the form of state-of-the-art security architecture, to protect the information collected by PokerSchoolOnline. 
+We may occasionally send you events and news information or information regarding new services and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
 
-  All PokerSchoolOnline employees are required to comply with the terms of this Privacy Policy. This Privacy Policy provides that employees are obligated to keep PokerSchoolOnline Member information strictly confidential. This obligation continues once an employee has left our Company. 
+Where you fail to reimburse us for any chargebacks, denial or reversal of deposits you make, we may give details of your accounts and how you manage them to Credit Reference Agencies (CRA).  The CRA will record the outstanding debt. This information may be supplied to other organisations and records will remain on the CRA file for 6 years after the date of the chargeback, denial or reversal of payment. The information will be used by the CRA to prevent crime, fraud, money laundering, verifying your identity if you, your partner, other members of your household, your business or financial associates apply for other facilities, monitoring the operation of accounts you may hold, making decisions for credit, credit related or other facilities, trace your whereabouts, recover debts that you owe, statistical analysis and system testing.
 
-You should also do your part in protecting your information. Your PokerSchoolOnline  Member password is confidential and you should not divulge it to anyone or enable others to discover it.
+Your personal information may be processed by us, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the Isle of Man and the European Economic Area.  In this event we will comply with the terms of the Isle of Man’s Data Protection Act 2002 in relation to the transfer of such personal information.
 
-#### 3\. Limits of Confidentiality
+We will only use your name in publicity materials with your consent.
 
-Legally Required Disclosures: Due to the existing legal, regulatory and security environment, PokerSchoolOnline may be required, under certain circumstances, to disclose certain information about PokerSchoolOnline Members. PokerSchoolOnline will use its best reasonable efforts to limit such disclosure to the following: where PokerSchoolOnline believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce PokerSchoolOnline's rights. Further, we may, and you authorize us to, disclose information about you to third party agents of PokerSchoolOnline as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
+The name you register with us must be your own name. In addition, it is very important that you complete your Stars Account details with valid information, since it will be used in the course of validating financial transactions and the other aforementioned purposes. You are required to advise us of any relevant changes to your personal information.
 
-#### 4\. Who receives your information?
-
-In addition to legally required disclosures as explained in Section 3 above, we will disclose the information collected about you to PokerStars, and we may also disclose it to our employees, employees of other companies related to or affiliated with PokerSchoolOnline and to third party service providers who use your personal information to provide services to us in connection with your being a PokerSchoolOnline Member. All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no lower a level than that by which we are bound.
-
-#### 
-
-5\. Your rights in relation to your information
-
-You can write to us at any time to obtain a copy of your information and to have any inaccuracies corrected. Where appropriate, you may have your personal information erased, rectified, amended or completed. In order to contact us regarding your information please e-mail support@pokerschoolonline.com. We may levy a small charge to cover the cost of administration regarding any request made by you in this regard.
-
-#### 6\. Cookies
-
-We may send you a temporary cookie when you visit the Site. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit the Site. We may use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see www.cookiecentral.com/faq if you require any further information about the placing, use or deletion of cookies.
-
-#### 7\. Consent to Privacy Policy
-
-By registering with PokerSchoolOnline or by using the Site without prior registration, you agree to the terms of this PRIVACY POLICY. We may occasionally update this Privacy Policy and encourage you to periodically review it. Your continued use of the PokerSchoolOnline services constitutes your agreement to this Privacy Policy and any updates. Our Terms and Conditions take precedence over any conflicting provision of this Privacy Policy.
-
-#### 8\. Who are we?
-
-PokerSchoolOnline is an offering of
-
-RATIONAL CONTENT LTD.  
-33 Athol Street  
-Douglas  
-Isle of Man  
-IM1 1LB  
-Listed in the register of companies under 119373C 
-
-E-Mail: [support@pokerschoolonline.com](mailto:support@pokerschoolonline.com)
-
-All rights reserved. PokerSchoolOnline is a registered trademark of Rational Content Ltd.
-
-**Important note concerning all links to other websites**
-
-Links to web sites of third parties from PokerSchoolOnline pages are purely as a service to our users. We stress that we have no influence on the layout or content of third party pages. Rational Content Ltd. hereby distances itself from all content on linked pages. This statement is valid for all the links on our website, and for all the content of the pages our links lead to.
+Users are able to change account details by selecting an account option in the downloaded software.
