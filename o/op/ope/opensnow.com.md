@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031510id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174628id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenSnow
 
@@ -21,3 +21,5 @@ As you browse opensnow.com, advertising cookies will be placed on your web brows
 You can also change the preferences or settings in your Web browser to control cookies. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+Additionally you can opt out of tracking within OpenSnow: 
