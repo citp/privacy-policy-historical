@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916041832id_/http%3A//www.expedia.co.uk/p/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171508id_/http%3A//www.expedia.co.uk/p/support/privacy) for the most accurate reproduction.*
 
 # Expedia.co.uk Privacy Policy
 
