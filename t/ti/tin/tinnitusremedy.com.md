@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinnitusremedy.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806014042id_/http%3A//www.tinnitusremedy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinnitusremedy.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629181942id_/http%3A//www.tinnitusremedy.com/privacy.html) for the most accurate reproduction.*
 
 # TinnitusRemedy.com - Privacy Policy
 
