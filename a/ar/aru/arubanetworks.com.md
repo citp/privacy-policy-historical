@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228145515id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629065730id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Aruba, a Hewlett Packard Enterprise company
 
@@ -170,7 +170,7 @@ You can exercise choices regarding our use of your Personal Information:
 
 We need your help to keep your personal information accurate and up-to-date.
 
-You can access, update and correct or delete inaccuracies in your personal information that we collect and maintain by emailing us at [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com).  For more information, see “ ** _Who we are_** ” below.
+You can access, update and correct or delete inaccuracies in your personal information that we collect and maintain by emailing us at [hpe-aruba-webmaster@hpe.com](mailto:hpe-aruba-webmaster@hpe.com).  For more information, see “ ** _Who we are_** ” below.
 
 **Who we are?**
 
@@ -178,7 +178,7 @@ When we determine the purpose for which your information is used, we are respons
 
 The specific Aruba group company that is responsible for your Personal Information is, in simple terms, the company that determines the purposes for which your information will be used.  For instance, if you are resident in Europe this may often be Aruba Networks International Limited.  If, however, you are resident in the United States this may be Aruba Networks, Inc.
 
-If you are unsure which Aruba company is responsible for your personal information, just contact us at [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com) and we will get back to you.
+If you are unsure which Aruba company is responsible for your personal information, just contact us at [hpe-aruba-webmaster@hpe.com](mailto:hpe-aruba-webmaster@hpe.com) and we will get back to you.
 
 **Changes to this Policy**
 
@@ -188,6 +188,6 @@ Updated versions of the Privacy Statement will always be posted on <http://www.a
 
 **Questions**
 
-If you have any questions about this Privacy Statement, please send an email to [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com), or send a letter to Aruba Networks, Inc., 1344 Crossman Ave., Sunnyvale, CA 94089, Attention: General Counsel.
+If you have any questions about this Privacy Statement, please send an email to [hpe-aruba-webmaster@hpe.com](mailto:hpe-aruba-webmaster@hpe.com), or send a letter to Aruba Networks, Inc., 1344 Crossman Ave., Sunnyvale, CA 94089, Attention: General Counsel.
 
 _Statement last updated: October 1, 2013_
