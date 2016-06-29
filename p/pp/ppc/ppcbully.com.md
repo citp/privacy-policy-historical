@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924180253id_/http%3A//www.ppcbully.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcbully.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154349id_/http%3A//www.revenuehits.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last Updated: September 26, 2011
 
-Welcome to [RevenueHits.com](http://www.revenuehits.com/) (the "Site"). This site is owned and operated by MyAdWise Ltd ("MyAdWise" or "We").
+Welcome to [RevenueHits.com](http://www.revenuehits.com/) (the "Site"). This site is owned and operated by Intango Ltd. ("Intango" or "We").
 
 We are committed to maintaining the privacy of its customers. The following discloses the information gathering and dissemination practices.
 
@@ -18,4 +18,4 @@ In addition, our member’s advertisements may contain cookies. While we use coo
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-By registering with MyAdWise Ltd you agree to have your company logo, creative and other non-confidental collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.
+By registering with Intango Ltd you agree to have your company logo, creative and other non-confidential collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.
