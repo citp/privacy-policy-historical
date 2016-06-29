@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231182616id_/https%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164530id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
 
 # Yahoo Privacy Center
 
 Welcome to the Yahoo Privacy Center -- take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
 
-## **WHAT THIS PRIVACY POLICY COVERS**
+## **What This Privacy Policy Covers**
 
-### **Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
+**Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
 
 The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information.
 
-### **How Yahoo Uses Your Personal Information**
+**How Yahoo Uses Your Personal Information**
 
 This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-### **This privacy policy only applies to Yahoo**
+**This privacy policy only applies to Yahoo**
 
-This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](https://policies.yahoo.com/us/en/yahoo/privacy/topics/acquiredcompanies/index.html).
+This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [affiliates page](https://policies.yahoo.com/us/en/yahoo/privacy/topics/affiliates/index.html).
 
-### **Data Transfer**
+**Data Transfer**
 
 Your personal information may be transferred to countries other than your own to process and store data in accordance with our Privacy Policy and to provide you with products and services. Some of these countries may not have the same data protection safeguards as the country where you reside. By using our products and services, you consent to us transferring your data to these countries. We are committed to ensuring your information is protected and apply safeguards in accordance with applicable law.
 
-Although the European Commission Safe Harbor Decision 2000/520/EC has been invalidated, Yahoo! Inc. continues to be a participant in the the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor programs. Yahoo does not rely on Safe Harbor to legitimize exports from the EEA to the US. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor web site](http://www.export.gov/safeharbor/). For more information about Yahoo's participation in the Safe Harbor program, please visit our [Data Transfer](https://policies.yahoo.com/us/en/yahoo/privacy/topics/safeharbor/index.htm) page.
+Although the European Commission Safe Harbor Decision 2000/520/EC has been invalidated, Yahoo! Inc. continues to be a participant in the the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor programs. Yahoo does not rely on Safe Harbor to legitimize exports from the EEA to the US. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor web site](http://www.export.gov/safeharbor/). For more information about Yahoo's participation in the Safe Harbor program, please visit our [Data Transfer](https://policies.yahoo.com/us/en/yahoo/privacy/topics/datatransfer/index.htm) page.
 
-## **INFORMATION COLLECTION AND USE**
+## **Information Collection & Use**
 
-### **General**
+**General**
 
 Yahoo collects personal information when you register with Yahoo, when you use [Yahoo products or services](https://policies.yahoo.com/us/en/yahoo/privacy/index.html), when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter [promotions or sweepstakes](https://policies.yahoo.com/us/en/yahoo/privacy/products/promotions/index.htm). Yahoo may combine information about you that we have with information we obtain from business partners or other companies.
 
@@ -38,11 +38,11 @@ Yahoo automatically receives and records information from your computer and brow
 
 Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-## **CHILDREN**
+**Children**
 
 With parental permission, a child under age 13 might have a Yahoo Family Account. Visit [Children's Privacy & Family Accounts](https://policies.yahoo.com/us/en/yahoo/privacy/products/family/index.html) to learn more about children’s privacy on Yahoo.
 
-## **INFORMATION SHARING AND DISCLOSURE**
+## **Information Sharing & Disclosure**
 
 Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -63,7 +63,7 @@ Yahoo displays targeted advertisements based on personal information. Advertiser
 
 Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](https://policies.yahoo.com/us/en/yahoo/privacy/topics/thirdparties/index.html).
 
-## **COOKIES AND SIMILAR TECHNOLOGIES**
+## **Cookies & Similar Technologies**
 
 Yahoo may set and access Yahoo [cookies](https://policies.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html) on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers. Once you log into Yahoo on your device, Yahoo may recognize your device to provide you with a personalized experience, independent of your device settings. You can control your personalized experience across Yahoo through our [Ad Interest Manager](https://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html). [Learn more](https://policies.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html#device-personalization).
 
@@ -81,7 +81,7 @@ We reserve the right to send you certain communications relating to the Yahoo se
 
 You can delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](https://policies.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) to read about information that might possibly remain in our archived records after your account has been deleted.
 
-## **CONFIDENTIALITY AND SECURITY**
+## **Confidentiality & Security**
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
@@ -89,11 +89,11 @@ We have physical, electronic, and procedural safeguards that comply with federal
 
 To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/topics/security/index.html).
 
-## **CHANGES TO THIS PRIVACY POLICY**
+## **Changes to This Policy**
 
 Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site.
 
-## **QUESTION AND SUGGESTIONS**
+## **Questions & Suggestions**
 
 If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
 
