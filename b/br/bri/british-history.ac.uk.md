@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222075324id_/https%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629220637id_/http%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | British History Online
 
@@ -46,7 +46,7 @@ Doubleclick
 
 __gads
 
-| We use [Google Adsense](http://www.google.com/privacy/ads/) advertising to serve ads when you visit our website. These companies may use non-personally identifiable information about your visits to this and other websites in order to optimise the provision of advertisements about goods and services of interest to you. [BHO subscribers](http://www.british-history.ac.uk/subscribe) do not see advertisements.  
+| We use [Google Adsense](http://www.google.com/privacy/ads/) advertising to serve ads when you visit our website. These companies may use non-personally identifiable information about your visits to this and other websites in order to optimise the provision of advertisements about goods and services of interest to you. [BHO subscribers](https://www.british-history.ac.uk/subscribe) do not see advertisements.  
 Shibboleth | **JSESSIONID, _idp_session, _saml_idp** | If you access BHO Premium content via a Shibboleth Identity Provider, your [IdP will use cookies](http://www.ukfederation.org.uk/content/Documents/PrivacyAndCookiesPolicy) which manage your session.  
   
 You can find out more about cookies, including a list of browser extensions which will automatically control and monitor them, on the Institute of Historical Research's [privacy policy](http://www.history.ac.uk/legal/privacy#cookies).
@@ -86,9 +86,9 @@ Log files allow us to record visitors' use of the site. We analyse log file info
 
 ## Access to your information and contacting us
 
-You can change your registration information at any time. To do this, you should [sign in](http://www.british-history.ac.uk/user) and edit your account.
+You can change your registration information at any time. To do this, you should [sign in](https://www.british-history.ac.uk/user) and edit your account.
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](http://www.british-history.ac.uk/contact-us).
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](https://www.british-history.ac.uk/contact-us).
 
 ## External links
 
