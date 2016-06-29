@@ -1,96 +1,100 @@
-> *The following text is extracted and transformed from the zoomdownloader.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034134id_/http%3A//zoomdownloader.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomdownloader.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Zoom Downlodaer
+# Legal Agreement
 
-**ZOOM DOWNLOADER PRIVACY POLICY**
+**GoDaddy Respects Your Privacy**
 
-**MAY CHANGE FROM TIME TO TIME**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**PLEASE CHECK BACK FREQUENTLY FOR UPDATES**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Effective as of Febuary 29, 2012**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Zoom Downloader has established this Privacy Policy to disclose our information gathering and dissemination practices for the [www.zoomdowloader.com](http://www.zoomdownloader.com/) website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our “Services” include [www.zoomdownloader.com](http://www.zoomdownloader.com/), the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized.  References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
+**Information Collection and Use**
 
-By using our Services, you are consenting to the terms of this Privacy Policy.  If you do not agree to be bound by this Privacy Policy, you should not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third party website or an offering linked to or otherwise accessible from our Services.  Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties.  We encourage you to review the policies of such third parties. Finally, to the extent any of our Services are undertaken in conjunction with or as a co-branded service with a third party, then both our Privacy Policy and such third party’s privacy policy may apply. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**1.              ****Collection of Information**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Zoom Downloader does not, generally, track or maintain personally identifiable information about consumers that use our Services. The only personally-identifiable information collected through the use of our Services is gathered upon your contacting us so that we may respond to your questions or comments.  When you use or interact with our Services, we may collect certain anonymous information that is not sufficient to permit someone to identify you by name, email address, mailing address, telephone number, social security number, driver’s license or other government-issued identification.  The anonymous information we may have access to, obtain, retain and use may include: 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * Information about your use of our Services, such as the frequency with which you use them, how you use and interact with them, when you visit them, and your responses to the offerings and advertisements made available to you through them, among other things; and 
-  * Information of a technical nature that may be gathered or received when you use the Services, including, without limitation, the following: 
-    * The type of browser you are using when using our Services, including your browser’s “user agent” (e.g., Internet Explorer, Safari, and other browsers); 
-    * Your means of connecting to the Internet (e.g., connection speed through broadband or narrowband access); 
-    * Your operating system type, whether Windows 7, Mac OS, and CPU type (for example, Pentium);
-    * Your Internet protocol (IP) address and information about the version of any software comprising a portion of the Services that you use;
-    * Any information that may be gathered regarding your geographic location and the domain name of your Internet service provider (ISP); and/or
-    * Diagnostic information which describes how our Services are operating on your system.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-All of the foregoing information is collectively referred to hereinafter as “Anonymous Information”.  We may also supplement Anonymous Information with additional information from other third parties in some cases.  Additionally, those portions of the Services comprised of software have been configured to communicate to us any information relating to computer errors arising from use of such software, without providing any notice to you of the delivery of such communications. Such communications may include the configuration settings applicable at the time of the error. We use this data to help us clarify and fix performance issues with and to improve the software and the Services. 
+**Security**
 
-**2. Use of Information**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-(a) Anonymous Information is used to (i) operate and improve upon the Services, including all constituent parts of the Services such as the software, the websites and the various offerings, among other things, (ii) research and analyze your use of the Services, and (iii) present you with offers for other products, offerings, programs, features and/or services that may be of interest to you. 
+**Updating Your Information**
 
-We will not share your Anonymous Information with third parties unless: 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  * You have given us your prior consent to disclose such information; 
-  * The third party is our parent, subsidiary, or an affiliated company owned by our parent company. 
-  * We must disclose some or all of your Anonymous Information to authorized officers of the court in order to comply with valid legal process or to act in other urgent situations (as further discussed below); 
-  * Such information is needed by a company that works for us in providing you with our Services, in which case they will only get that portion of your Anonymous Information they need to help us deliver our Services and they will only be allowed to use that portion of your Anonymous Information when we request it and pursuant to our instructions; and 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
-(b) We note above, but it is worth reiterating here, that your Anonymous Information, as well as other information about you as a user of our Services, may be disclosed by us to those authorized officers of the court in response to valid legal process, including without limitation, a valid court order, search warrant or subpoena), as well as in other circumstances if we believe in good faith that there is an emergency that poses a threat to the safety of you or another person or that the Services are being used in the commission of a crime by your or another third party. Furthermore, we may disclose your Anonymous Information to protect our own rights, Services and property or those of our affiliated providers, in addition to providing you with the Services. 
+       iv.      You may fax us at: (480) 505-8844
 
-(c) In the event that ownership of all or a portion of the Services currently provided by Zoom Downloader were to change as a result of a merger, acquisition or transfer to another company, your Anonymous Information may be transferred as well. 
+**Sending Emails**
 
-**3. Web Beacons and Cookies **
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-(a) In providing the Services to you, we may use web beacons and cookies or similar technologies in conjunction with your Anonymous Information to personalize and improve your use of and experience with the Services, including, without limitation, to operate and improve the Service’s offerings; to present, measure and research the effectiveness of our Service’s offerings, advertisements, and communications to you, such as by determining which pages you visit, which ads you click on, communications you respond to, and functionality you use; to store and allow retrieval of information that you have provided to third party services that are integrated with the Services, and configuration preferences; and to customize the content and advertisements provided to you through the Services.  In addition, third party advertisers on our site might also use cookies or web beacons downloaded through our Services to accomplish many similar goals in connection with the effectiveness of their advertising through our Services and in general.  We do not have access to the cookies or web beacons employed by advertisers through our Services and such cookies or web beacons are not governed by this Privacy Policy, but rather by the privacy policy of such advertiser. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-(b) Web beacons or clear GIFs are relatively small pieces of code placed on webpages that can be used for a number of purposes, including counting the users who visit that webpage, or to deliver a cookie to the browser of a user viewing that page.  A cookie is a small text file transferred from Zoom Downloader to your computer that records information about your preferences and use of the Services. We may also use such cookies to help us identify your location by determining your IP address, or to allow us to recall certain Service settings that you have chosen previously.  You can control cookies through your browser's settings. However, if you reject all cookies, you may not be able to take advantage of most our Service offerings. 
+**Compliance with Laws and Law Enforcement**
 
-**4. Username and Password **
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-You are responsible for keeping any password you use for third party services that are integrated with and/or accessed from the Services confidential and secret. As such and for other important security reasons, we urge you to keep any such password secure and safe at all times. By using our Services, you acknowledge that you and you alone are responsible for the security of any username and password. 
+**Third Party Service Providers**
 
-**5. We Are Committed to Security **
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Zoom Downloader stores Anonymous Information in a database on Zoom Downloader computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Zoom Downloader’s control.  Notwithstanding such measures, Zoom Downloader cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**6. General Internet Hazards **
+**Supplementation of Information**
 
-Any time you receive files over the Internet from third parties, regardless of the application used, whether Zoom Downloader, email or other application, you may be subjecting yourself to receiving harmful files or files that are not compatible with your operating system. Prior to accepting any files from any Internet user, including those from an account that appears familiar to you, we highly recommend verifying that the person sending you such files is the person you believe he or she is.  You should be extremely careful about accepting files from users you do not trust, from users you do not know, or from users whose identity you have not been able to confirm. You should also be aware that communications sent over the Internet are not secure unless they are encrypted.  Zoom Downloader does not encrypt your communications through the Services.  Further, your communications made through Zoom Downloader may be routed through different countries which may have different laws, rules, regulations and standards regarding activities on the Internet.  As such, Zoom Downloader cannot accept any responsibility for any unauthorized access to your communications made through the Services or any loss of data. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**7. European Union Members - International Transfer of Data **
+**Contests/Surveys**
 
-Our Services are international in scope.  By using the Services you consent to your Anonymous Information and any personal information that you provide to us being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-**8. Children **
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Our Services are intended for a general audience, and children under the age of thirteen are not permitted to use the Services.  We do not intentionally solicit or collect personal information from anyone under the age of 13.  If you believe that we might have any information from or about a child under age 13, please contact us through our contact form at: http://www.zoomdownloader.com/contact. We strongly recommend that minors between the ages of 13 and 18 ask their parents’ permission before sending information about themselves to anyone over the Internet or receiving any information from persons unknown to them. 
+**Tell-A-Friend**
 
-**9. Changes to this Privacy Policy **
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Zoom Downloader may update this Privacy Policy from time to time in its sole discretion, as reflected in the “Effective as of” date above. As such, you should review this Privacy Policy frequently. 
+**What Happens to my Personal Information if I Opt Out?**
 
-**10. Who We Are **
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Any references made in this Privacy Policy to “us”, “we”, “our” and/or “Zoom Downloader” shall be deemed to have been made to MIVA AK, Inc., as well as any company that controls MIVA AK, Inc., directly or indirectly, and any other subsidiary of that controlling company.
+**Transfer of Data Abroad**
 
-**11. More Information**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org.  In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
+**Changes in Our Practices**
 
-If you have questions about this Privacy Policy, please contact us through our contact form at http://www.zoomdownloader.com/contact or write to us at:
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Zoom Downloader  
-Attn: Legal Department   
-5220 Summerlin Commons Blvd., Suite 501   
-Fort Myers, FL 33907
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
