@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102033227id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629045211id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FTC Disclaimer
+
+"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark" - Michelangelo
 
 This privacy policy sets out how INCOME AT HOME uses and protects any information that you give [to us] when you use our website.
 
