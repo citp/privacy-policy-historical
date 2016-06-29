@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the thevictoriaadvocate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906032115id_/https%3A//www.victoriaadvocate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevictoriaadvocate.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629091656id_/https%3A//www.victoriaadvocate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Victoria Advocate - Victoria, TX
 
-  * [__VA](https://web.archive.org/ "Go to homepage")
-  * [Log In](https://web.archive.org/accounts/login/?next=/privacy/ "Log in")
-  * [Customer Care](https://web.archive.org/your-services/ "Create a new account")
-  * [Newsletters](https://web.archive.org/newsletters/)
+[](https://web.archive.org/ "Go to home page")
 
-  
-
+[](https://web.archive.org/ "Go to home page")
 
 ### Privacy Policy
 
@@ -37,7 +33,7 @@ The **Victoria Advocate** site contains links to other sites. The **Victoria Adv
 
 **OPT OUT PROCEDURES**
 
-You always may opt out of receiving future mailings or other information from the **Victoria Advocate**. If the mailing does not have an e-mail cancellation form, send e-mail to tmartinez@vicad.com detailing the type of information that you no longer desire to receive. 
+You always may opt out of receiving future mailings or other information from the **Victoria Advocate**. If the mailing does not have an e-mail cancellation form, send e-mail to jrubio@vicad.com detailing the type of information that you no longer desire to receive. 
 
 **CHILDREN'S PRIVACY**
 
@@ -62,10 +58,10 @@ The Web site is controlled and operated by the **Victoria Advocate** from its pr
 If you have any questions about this privacy policy, the practices of the **Victoria Advocate** , or your dealings with the **Victoria Advocate** , you may contact us at: 
 
 Victoria Advocate  
-Attn: Thomas R. Martinez  
+Attn: Digital Editor  
 311 E. Constitution St.  
 Victoria, Texas 77902  
-Phone: 361-580-6575  
+Phone: 361-580-6571  
 Fax: 361-574-1225  
 e-mail: [feedback@vicad.com](mailto:%20feedback@vicad.com)
 
