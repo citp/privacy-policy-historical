@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpthemenulled.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018042714id_/http%3A//wpthemenulled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemenulled.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629025006id_/http%3A//wpthemenulled.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wp Theme Nulled - Theme Download - Nulled
+# Privacy Policy - Wp Theme Nulled - Theme Download
+
+## Privacy Policy:
 
 Paul B. Edwards (" **Paul B. Edwards** ") operates wpthemenulled.com and may operate other websites. It is Paul policy to respect your privacy regarding any information we may collect while operating our websites.
 
