@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netbuffs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226021612id_/http%3A//colorado.sportswar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbuffs.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629160456id_/http%3A//colorado.sportswar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NetBuffs.com
+# Privacy Policy - NetBuffs.com
 
 NetBuffs.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers NetBuffs.com’s treatment of personal information that NetBuffs.com gathers when you are on the NetBuffs.com website and when you use NetBuffs.com services. This policy does not apply to the practices of third parties that NetBuffs.com does not own or control, or to individuals that NetBuffs.com does not employ or manage.
 
