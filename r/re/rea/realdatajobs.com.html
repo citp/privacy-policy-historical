@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realdatajobs.com privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227224728id_/http%3A//www.realdatajobs.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realdatajobs.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629161015id_/http%3A//www.realdatajobs.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US"><!--<![endif]--><!--<html xmlns="http://www.w3.org/1999/xhtml">--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,6 +27,122 @@
  <script src="http://www.realdatajobs.com/wp-content/themes/livereals/js/lightboxSE.min.js"></script>
  <link href="http://www.realdatajobs.com/wp-content/themes/livereals/lightboxSE.css" type="text/css" rel="stylesheet">
 
+ <!--  email autocomplete    -->
+ <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+
+<!--<script src="http://code.jquery.com/jquery-1.9.1.js"></script>-->
+
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+<title>Email Autocomplete</title>
+
+<script>
+
+$(function() {
+
+var domains = [
+ /* Default domains included */
+ "aol.com", "att.net", "comcast.net", "facebook.com", "gmail.com", "gmx.com", "googlemail.com",
+ "google.com", "hotmail.com", "hotmail.co.uk", "mac.com", "me.com", "mail.com", "msn.com",
+ "live.com", "sbcglobal.net", "verizon.net", "yahoo.com", "yahoo.co.uk",
+
+ /* Other global domains */
+ "email.com", "games.com" /* AOL */, "gmx.net", "hush.com", "hushmail.com", "icloud.com", "inbox.com",
+ "lavabit.com", "love.com" /* AOL */, "outlook.com", "pobox.com", "rocketmail.com" /* Yahoo */,
+ "safe-mail.net", "wow.com" /* AOL */, "ygm.com" /* AOL */, "ymail.com" /* Yahoo */, "zoho.com", "fastmail.fm",
+ "yandex.com"
+ ];
+
+    function extractLast( val ) {
+
+        if (val.indexOf("@")!=-1){
+
+            var tmp=val.split("@");
+
+            return tmp[tmp.length-1];
+
+        }
+
+        return "";
+
+    }
+
+
+
+    $( ".emailtag" )
+
+        // don't navigate away from the field on tab when selecting an item
+
+        .bind( "keydown", function( event ) {
+
+            if ( event.keyCode === $.ui.keyCode.TAB &&
+
+                    $( this ).data( "autocomplete" ).menu.active ) {
+
+                event.preventDefault();
+
+            }
+
+        })
+
+        .autocomplete({
+
+            minLength: 1,
+
+            source: function( request, response ) {
+
+                        var mail = extractLast(request.term);
+
+                        if(mail.length<1){return;}
+
+                        var matcher = new RegExp( "^" + mail, "i" );
+
+                        response( $.grep( domains, function( item ){
+
+                            return matcher.test( item );
+
+                        }));
+
+             },
+
+            focus: function() {
+
+                // prevent value inserted on focus
+
+                return false;
+
+            },
+
+            select: function( event, ui ) {
+
+                var terms = this.value.split(", ");
+
+                // remove the current input
+
+                var ml=terms[terms.length-1].split("@")[0];
+
+                terms.pop();
+
+                // add the selected item
+
+                terms.push( ml+"@"+ui.item.value );
+
+                // add placeholder to get the comma-and-space at the end
+
+                this.value = terms;
+
+                return false;
+
+            }
+
+        });
+
+});
+
+</script>
+ 
+ 
+  <!--  email autocomplete    -->
  <script type="text/javascript">
 		$(document).ready(function()
 		{
@@ -64,6 +180,7 @@ $(function(){
 .slide-chec-jun > a {
   margin-bottom: 9px;
 }
+
 </style>
 <style>
 
@@ -128,6 +245,24 @@ $(function(){
 	}
 
 	.close:hover { background: #00d9ff; }
+	
+
+.logoimg1 {
+    float: left;
+    padding: 10px 0;
+    width: 8% !important;
+}
+.nav-ele {
+    float: left;
+    padding: 37px 0 0;
+	 margin: 0 0 0 40px !important;
+    width: 62% !important;
+}
+.navi li {
+    color: #333333;
+    display: inline;
+    padding: 0 6px !important;
+}
 	</style>  
 <!--newly-->
  <script type="text/javascript">
@@ -142,10 +277,10 @@ $(function(){
 				var markeridvalue=$('#btnmarkchange').attr('alt');
                                  console.log("");
 if(markeridvalue=="plus"){
-$('#btnmarkchange').removeAttr('alt').attr('alt','minus').removeAttr('src').attr('src','http://www.dev-stagingserver.com/realsnews/wp-content/themes/livereals/images/im1/minus.png');
+$('#btnmarkchange').removeAttr('alt').attr('alt','minus').removeAttr('src').attr('src','http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/minus.png');
 }
 if(markeridvalue=="minus"){
-$('#btnmarkchange').removeAttr('alt').attr('alt','plus').removeAttr('src').attr('src','http://www.dev-stagingserver.com/realsnews/wp-content/themes/livereals/images/im1/plus.png');
+$('#btnmarkchange').removeAttr('alt').attr('alt','plus').removeAttr('src').attr('src','http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/plus.png');
 }
 	  		});  
 	});
@@ -196,13 +331,20 @@ $(document).ready(function() {
 <script src="http://www.realdatajobs.com/wp-content/themes/livereals/js/jquery.zrssfeed.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(document).ready(function () {
-	$('.ftLstfeed').rssfeed('http://www.dev-stagingserver.com/real123/blog/feed/');
+	$('.ftLstfeed').rssfeed('http://www.realdatajobs.com/blog/feed/');
 });
 </script>
-<meta name="description" itemprop="description" content="We at Glow ADS are committed to safeguarding and protecting the personal information that we collect and receive during our normal course of business"><link rel="canonical" href="http://www.realdatajobs.com/privacy-policy/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Feed" href="http://www.realdatajobs.com/feed/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Comments Feed" href="http://www.realdatajobs.com/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Privacy Policy Comments Feed" href="http://www.realdatajobs.com/privacy-policy/feed/"><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.realdatajobs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.realdatajobs.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script><style type="text/css">
+<style type="text/css">li.lgf-item{width:166px;} li.lgi-item{width:166px}</style><style type="text/css">
+			li.lazyest_random, li.lazyest_recent { list-style-type: none; }
+			.lazyest_random_slideshow_item, .lazyest_recent_slideshow_item { position:relative }
+			.lazyest_random_slideshow_item div.lg_thumb, .lazyest_recent_slideshow_item div.lg_thumb { position:absolute; top:0; left:0; z-index:8; }
+			.lazyest_random_slideshow_item div.lg_thumb.active, .lazyest_recent_slideshow_item div.lg_thumb.active { z-index:10; }
+			.lazyest_random_slideshow_item div.lg_thumb.last-active, .lazyest_recent_slideshow_item div.lg_thumb.last-active { z-index:9; }
+			.lazyest_recent_slideshow_item span.args { display: none; }
+		</style><meta name="description" itemprop="description" content="We at Glow ADS are committed to safeguarding and protecting the personal information that we collect and receive during our normal course of business"><link rel="canonical" href="http://www.realdatajobs.com/privacy-policy/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Feed" href="http://www.realdatajobs.com/feed/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Comments Feed" href="http://www.realdatajobs.com/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Real Data Jobs » Privacy Policy Comments Feed" href="http://www.realdatajobs.com/privacy-policy/feed/"><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.realdatajobs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.realdatajobs.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script><style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -215,7 +357,7 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
-</style><link rel="stylesheet" id="yarppWidgetCss-css" href="http://www.realdatajobs.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.3.1" type="text/css" media="all"><link rel="stylesheet" id="um_minified-css" href="http://www.realdatajobs.com/wp-content/plugins/ultimate-member/assets/css/um.min.css?ver=1.3.29" type="text/css" media="all"><link rel="stylesheet" id="wp-pagenavi-css" href="http://www.realdatajobs.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all"><link rel="stylesheet" id="twentythirteen-fonts-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all"><link rel="stylesheet" id="genericons-css" href="http://www.realdatajobs.com/wp-content/themes/livereals/genericons/genericons.css?ver=3.03" type="text/css" media="all"><link rel="stylesheet" id="twentythirteen-style-css" href="http://www.realdatajobs.com/wp-content/themes/livereals/style.css?ver=2013-07-18" type="text/css" media="all"><script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script><script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.realdatajobs.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.realdatajobs.com/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.3.1"><link rel="shortlink" href="http://www.realdatajobs.com/?p=29"><script type="text/javascript">
+</style><link rel="stylesheet" id="yarppWidgetCss-css" href="http://www.realdatajobs.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="simple-social-share-main-css" href="http://www.realdatajobs.com/wp-content/plugins/simple-social-share/css/style.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="tooltipster-css-css" href="http://www.realdatajobs.com/wp-content/plugins/simple-social-share/css/tooltipster.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="wp-lightbox-2.min.css-css" href="http://www.realdatajobs.com/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4" type="text/css" media="all"><link rel="stylesheet" id="twentythirteen-fonts-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all"><link rel="stylesheet" id="genericons-css" href="http://www.realdatajobs.com/wp-content/themes/livereals/genericons/genericons.css?ver=3.03" type="text/css" media="all"><link rel="stylesheet" id="twentythirteen-style-css" href="http://www.realdatajobs.com/wp-content/themes/livereals/style.css?ver=2013-07-18" type="text/css" media="all"><link rel="stylesheet" id="lazyest-style_0-css" href="http://www.realdatajobs.com/wp-content/plugins/lazyest-gallery/themes/lazyest-style.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="lazyest-style_1-css" href="http://www.realdatajobs.com/wp-content/plugins/lazyest-gallery/css/_ajax.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="testimonials_bxslider_css-css" href="http://www.realdatajobs.com/wp-content/plugins/testimonialslider/css/jquery.bxslider.css?ver=4.4.2" type="text/css" media="all"><link rel="stylesheet" id="wp-paginate-css" href="http://www.realdatajobs.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1" type="text/css" media="screen"><script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script><script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script><script type="text/javascript" src="http://www.realdatajobs.com/wp-content/plugins/simple-social-share/js/jquery.tooltipster.js?ver=4.4.2"></script><script type="text/javascript" src="http://www.realdatajobs.com/wp-content/plugins/testimonialslider/js/jquery.bxslider.min.js?ver=4.4.2"></script><link rel="https://api.w.org/" href="http://www.realdatajobs.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.realdatajobs.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.realdatajobs.com/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.4.2"><link rel="shortlink" href="http://www.realdatajobs.com/?p=29"><link rel="alternate" type="application/json+oembed" href="http://www.realdatajobs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.realdatajobs.com%2Fprivacy-policy%2F"><link rel="alternate" type="text/xml+oembed" href="http://www.realdatajobs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.realdatajobs.com%2Fprivacy-policy%2F&amp;format=xml"><script type="text/javascript">
 	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
 	window._wp_rp_wp_ajax_url = "http://www.realdatajobs.com/wp-admin/admin-ajax.php";
 	window._wp_rp_plugin_version = '3.6';
@@ -249,15 +391,13 @@ color: #0c507c;
 ul.related_post li img {
     height: auto;
     margin: 8px 5px;
-}</style><script type="text/javascript">
-		
-		var ultimatemember_image_upload_url = 'http://www.realdatajobs.com/wp-content/plugins/ultimate-member/core/lib/upload/um-image-upload.php';
-		var ultimatemember_file_upload_url = 'http://www.realdatajobs.com/wp-content/plugins/ultimate-member/core/lib/upload/um-file-upload.php';
-		var ultimatemember_ajax_url = 'http://www.realdatajobs.com/wp-admin/admin-ajax.php';
-		
-		</script><style type="text/css">.request_name { display: none !important; }</style></head>
+}</style></head>
 
-<!-- All in One SEO Pack 2.2.7.5 by Michael Torbert of Semper Fi Web Design[551,590] -->
+	  
+
+		
+		
+<!-- All in One SEO Pack 2.2.7.5 by Michael Torbert of Semper Fi Web Design[546,585] -->
 
 
 
@@ -273,9 +413,17 @@ ul.related_post li img {
 
 
 
+
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.realdatajobs.com/wp-content/themes/livereals/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
 <![endif]-->
+
+
+
+
+
+
+
 
 
 
@@ -286,26 +434,27 @@ ul.related_post li img {
 
 
 
-		
-		
-		
-		
-		
-	
-	<body>  
+
+
+<body>  
 <div id="openModal" class="modalDialog">
 	<div>
     	
        <a class="closes" title="Close" href="#close">X</a>
   <div class="contact-form1">
                 <h2>START EARNING FROM TODAY!</h2>
-                  <form method="post" name="form" autocomplete="off" onsubmit="return validate1(this);" accept-charset="utf-8" action="https://app.getresponse.com/add_contact_webform.html?u=0fhR">
-                    <input id="name" class="txt1" type="text" placeholder="Name" name="name">                    
-                    <input id="email" class="txt1" type="text" placeholder="Email ID" name="email">              
+                 <!-- <form method="post" name="form" autocomplete="off" onsubmit="return validate1(this);"  accept-charset="utf-8" action="https://app.getresponse.com/add_contact_webform.html?u=0fhR" method="post"> 
+<form  method="post" action="https://app.getresponse.com/add_contact_webform.html"> -->
+
+<form method="post" action="http://realdatajobs.co.in/form.php?form=2" id="frmSS2" onsubmit="return CheckForm2(this);">
+                   
+<input name="CustomFields[2]" id="CustomFields_2_2" class="txt1" type="text" placeholder="Name">                    
+
+<input id="email" class="txt1 emailtag" type="text" placeholder="Email ID" name="email">               
                     <input class="txt3" type="submit" value="Submit">
-                 <input type="hidden" name="webform_id" value="10505003">
+
                   </form>
-<script type="text/javascript" src="http://app.getresponse.com/view_webform.js?wid=10505003&amp;mg_param1=1&amp;u=0fhR"></script>
+<!-- <script type="text/javascript" src="http://app.getresponse.com/view_webform.js?wid=6645403&mg_param1=1&u=0fhR"></script> -->
                   <p>By proceeding, I agree that Real Data Jobs  or its representatives may 
 contact me by email,at the email address  I provide, including for 
 marketing purposes.                  </p>
@@ -320,10 +469,11 @@ marketing purposes.                  </p>
 <div class="header">
 <div class="header1">
  <div class="logoimg"><a href="http://www.realdatajobs.com/"><img src="http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/logo.png" title="Real Data Jobs" alt="Real Data Jobs"></a> 
- </div>   
+ </div>  
+
  <div class="logoimg1"><a href="http://www.realdatajobs.com"><img src="http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/gura.jpg" title="Real Data Jobs" alt="Real Data Jobs"></a>
  </div>
-<div class="wrapper">
+ <div class="wrapper">
   <header>
     <div class="left">
       <button id="menu" title="Menu"><i class="fa fa-bars fa-2x"></i><h5>Menus</h5></button>
@@ -335,8 +485,8 @@ marketing purposes.                  </p>
   <div class="content">
     <aside>
      
-      
-      <nav class="site-nav"> <a class="active" href="http://www.realdatajobs.com/worknow">  Find Project</a> <a href="http://www.realdatajobs.com/post-your-projects"> Post Project  </a> <a href="http://www.realdatajobs.com/pricing">Pricing  </a> <a href="http://www.realdatajobs.com/affiliates"> Affiliates</a> <a href="http://www.realdatajobs.com/login">   Freelancer Login</a> </nav>
+    <!--<a href="http://www.realdatajobs.com/affiliates"> Affiliates</a> -->  
+      <nav class="site-nav"> <a class="active" href="http://www.realdatajobs.com/worknow">  Find Project</a> <a href="http://www.realdatajobs.com/post-your-projects"> Post Project  </a> <a href="http://www.realdatajobs.com/pricing">Pricing  </a>  <a href="http://www.realdatajobs.com/login">   Freelancer Login</a> </nav>
        
     </aside>
    
@@ -347,17 +497,19 @@ marketing purposes.                  </p>
   
 </div> 
 <div class="nav-ele">
+
+<!-- <li>|</li>  <li><a href="http://www.realdatajobs.com/affiliates">Affiliates</a></li>  -->
  
 	<ul class="navi">
-    
+     <li><a href="http://www.realdatajobs.com/about-us"> About Us</a></li>  
+<li>|</li>    
     <li><a href="http://www.realdatajobs.com/worknow"> Find Project</a></li>  
 <li>|</li> 	
-<li><a href="http://www.realdatajobs.com/post-your-projects">Post Project  </a></li> 
-<li>|</li> 	
+	
 
 <li><a href="http://www.realdatajobs.com/pricing">Pricing  </a></li> 
-<li>|</li> 	
-<li><a href="http://www.realdatajobs.com/affiliates">Affiliates</a></li> 
+	
+
 <li>|</li> 	
     <li><a href="http://www.realdatajobs.com/login"> Freelancer Login</a></li>  
  
@@ -391,7 +543,7 @@ marketing purposes.</p>
 </div>
 
  </div>  
-  <div class="clear"></div> 
+<div class="clear"></div> 
 <style>
 .te1 {
   border: 1px solid #cdd0cd;
@@ -613,7 +765,7 @@ At Glow ADS we shall refrain from sharing your personal information to any third
 
 <div id="new-formblogi">
 <div style="margin:auto;" class="wf-formTpl" id="WFItem5129003">
-    <form method="post" action="https://app.getresponse.com/add_contact_webform.html" accept-charset="utf-8">
+<form method="post" action="http://realdatajobs.co.in/form.php?form=2" id="frmSS2" onsubmit="return CheckForm2(this);">
         <div class="box">
             <div style="height: 30px;  padding:0px !important;display:  block !important;" class="wf-header el" id="WFIheader">
                 <div class="contact-formdf1">                    
@@ -628,12 +780,14 @@ At Glow ADS we shall refrain from sharing your personal information to any third
                 <ul id="wf-sort-id" class="wf-sortable">
                     <li style="display:  block !important;" rel="undefined" class="wf-name">
                         
-                                <input type="text" name="name" class="txt1 wf-input wf-req wf-valid__required" placeholder="Name">
+                                <input name="CustomFields[2]" id="CustomFields_2_2" class="txt1" type="text" placeholder="Name">                    
+
+
                      
                     </li>
                     <li style="display:  block !important;" rel="undefined" class="wf-email">
                       
-                                <input type="text" name="email" class="txt1 wf-input wf-req wf-valid__email" placeholder="Email">
+<input id="email" class="txt1 emailtag" type="text" placeholder="Email ID" name="email">    
                     </li>
                   
                     
@@ -672,7 +826,44 @@ At Glow ADS we shall refrain from sharing your personal information to any third
     
 </div>
 <!-- <script type="text/javascript" src="http://app.getresponse.com/view_webform.js?wid=5129003&mg_param1=1"></script> -->
-<script src="http://app.getresponse.com/view_webform.js?wid=6645403&amp;mg_param1=1&amp;u=0fhR" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+
+			function CheckMultiple2(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm2(f) {
+			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+			if (!email_re.test(f.email.value)) {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+						if (f.format.selectedIndex == -1) {
+							alert("Please choose a format to receive your email campaigns in");
+							f.format.focus();
+							return false;
+						}
+					
+				return true;
+			}
+		
+// ]]>
+</script>
         
 </div>    
 </div>  </div>
@@ -731,12 +922,17 @@ At Glow ADS we shall refrain from sharing your personal information to any third
 </div> 
 
  
+<style>
+.navi-foot li {
+    color: #fff;
+    display: inline;
+    padding: 0 6px !important;
+}
+</style>
 <div class="footer">
 <div class="footer1">
  <ul class="navi-foot">
     
-    <li><a href="http://www.realdatajobs.com/about-us"> About Us </a></li>  
-<li>|</li> 	
 <li><a href="http://www.realdatajobs.com/privacy-policy">Privacy Policy </a></li> 
 <li>|</li> 	
 <li><a href="http://www.realdatajobs.com/terms-conditions">Terms &amp; Conditions  </a></li> 
@@ -749,7 +945,11 @@ At Glow ADS we shall refrain from sharing your personal information to any third
 <li>|</li> 	
 <li><a href="http://www.realdatajobs.com"> Sitemap</a></li> 
 <li>|</li> 	
-<li><a href="http://www.realdatajobs.com">  Useful Links</a></li> 
+<li><a href="http://www.realdatajobs.com/cheques">Cheques</a></li> 
+<li>|</li> 	
+<li><a href="http://www.realdatajobs.com/service-tax">  Service Tax</a></li> 
+<li>|</li> 	
+<li><a href="http://www.realdatajobs.com/certification">  Certification</a></li> 
   
         </ul>
 	<span id="btncopyrightdisplay"><img id="btnmarkchange" class="footer_plus_minus_button" alt="plus" img="" src="http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/plus.png" title="Real Data Jobs"></span>
@@ -851,7 +1051,7 @@ At Glow ADS we shall refrain from sharing your personal information to any third
 	</div>
 		
 	 <div class="copy"><div class="cpy1">
-					<p>©@ 2015 Real Data Jobs  All Rights Reserved</p>
+					<p>Copyright © 2015 Real Data Jobs. All Rights Reserved.</p>
 </div><div class="cpy2"><ul>
 <li><a href="https://www.facebook.com/pages/Real-Data-Jobs/519485698180577?ref=hl" target="_blank"><img src="http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/fb.png"></a></li>
 <li><a href="https://twitter.com/realdatajobs" target="_blank"><img src="http://www.realdatajobs.com/wp-content/themes/livereals/images/im1/twi.png"></a></li>
@@ -866,21 +1066,7 @@ At Glow ADS we shall refrain from sharing your personal information to any third
 <!--</div>
 </div>-->
 
-<div id="um_upload_single" style="display:none">
-	
-</div><div id="um_view_photo" style="display:none">
 
-	<a href="#" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
-	
-	<div class="um-modal-body photo">
-	
-		<div class="um-modal-photo">
-
-		</div>
-
-	</div>
-	
-</div>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 981029977;
@@ -895,19 +1081,31 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981029977/?value=0&guid=ON&script=0"/>
 </div>
 </noscript>
-<script type="text/javascript">
+			<script>
+				jQuery(document).ready(function($) {
+	            $(".hint--top").tooltipster({animation: "grow",});
+	        	});
+			</script>
+			<script type="text/javascript">
 /* <![CDATA[ */
-var um_scripts = {"ajaxurl":"http:\/\/www.realdatajobs.com\/wp-admin\/admin-ajax.php","fileupload":"http:\/\/www.realdatajobs.com\/wp-content\/plugins\/ultimate-member\/core\/lib\/upload\/um-file-upload.php","imageupload":"http:\/\/www.realdatajobs.com\/wp-content\/plugins\/ultimate-member\/core\/lib\/upload\/um-image-upload.php"};
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"","linkTarget":"","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"http:\/\/www.realdatajobs.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/next.gif","jqlb_previous_button_image":"http:\/\/www.realdatajobs.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"http:\/\/www.realdatajobs.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.realdatajobs.com/wp-content/plugins/ultimate-member/assets/js/um.min.js?ver=1.3.29"></script>
+<script type="text/javascript" src="http://www.realdatajobs.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1"></script>
 <script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
 <script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
 <script type="text/javascript" src="http://www.realdatajobs.com/wp-content/themes/livereals/js/functions.js?ver=20150330"></script>
-	
-		<script type="text/javascript">jQuery( '#request' ).val( '' );</script>
-		
-	
+<script type="text/javascript">
+/* <![CDATA[ */
+var lazyest_ajax = {"ajaxurl":"http:\/\/www.realdatajobs.com\/wp-admin\/admin-ajax.php","searchfor":"Searching for comment...","pleasewait":"Please wait while Lazyest Gallery searches for ","pagination":"default"};
+var lazyest_widgets = {"_nonce":"9eb95c5962","ajaxurl":"http:\/\/www.realdatajobs.com\/wp-admin\/admin-ajax.php","slideshow_duration":"5000"};
+var lazyestshow = {"captionqueue":"2000","captionopcty":"2000","slideview":"1000","duration":"5000"};
+var lazyestimg = {"ajaxurl":"http:\/\/www.realdatajobs.com\/wp-admin\/admin-ajax.php?"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.realdatajobs.com/wp-content/plugins/lazyest-gallery/js/lazyest-gallery.js?ver=1.1.20"></script>
+<script type="text/javascript" src="http://www.realdatajobs.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=9169512; 
