@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redshelf.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209005020id_/https%3A//www.redshelf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redshelf.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629203306id_/https%3A//www.redshelf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy RedShelf | Leading Supplier of eTextbooks | Rent or Buy eBooks
 
 **RedShelf and our staff place significant importance on maintaining the privacy of our users, publishers, members, sellers, and others who use RedShelf ("You" or "Users"). By using RedShelf, you expressly provide consent to the practices regarding information and privacy described below.**
 
-This Privacy Policy is incorporated into and is subject to the RedShelf Terms of Use; available [here](https://web.archive.org/terms/). At all times, your use of RedShelf and any personal information you provide to or through RedShelf are subject to this Privacy Policy and the Terms of Use. Terms of Use for "RedShelf" apply to any site or mobile application owned and operated by Virdocs Software, LLC, including, but not limited to:  VirdocsSoftware.com, RedShelf.com, DocBed.com, and eTextbooksU.com. 
+This Privacy Policy is incorporated into and is subject to the RedShelf Terms of Use; available [here](https://web.archive.org/terms/). At all times, your use of RedShelf and any personal information you provide to or through RedShelf are subject to this Privacy Policy and the Terms of Use. Terms of Use for "RedShelf" apply to any site or mobile application owned and operated by RedShelf, Inc. 
 
 **A. INFORMATION COLLECTED BY REDSHELF**
 
@@ -87,6 +87,6 @@ This Privacy Policy is incorporated into and is subject to the RedShelf Terms of
 
 **J. REDSHELF CONTACT INFORMATION**
 
-  * a. PLEASE CONTACT REDSHELF WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY POLICY, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: VIRDOCS SOFTWARE, LLC (dba REDSHELF.COM), 720 N FRANKLIN, SUITE 300, CHICAGO, IL 60657, OR BY EMAIL: ADMIN@REDSHELF.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT. 
+  * a. PLEASE CONTACT REDSHELF WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY POLICY, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: REDSHELF, INC., 215 W SUPERIOR, SUITE 600, CHICAGO, IL 60654, OR BY EMAIL: ADMIN@REDSHELF.COM. WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT. 
 
 
