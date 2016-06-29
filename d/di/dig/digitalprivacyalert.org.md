@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalprivacyalert.org privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030230202id_/http%3A//www.digitalprivacyalert.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalprivacyalert.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629084500id_/http%3A//digitalprivacyalert.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Digital Privacy
 
@@ -15,6 +15,8 @@ We may collect non-personal identification information about Users whenever they
 **Web browser cookies**
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+Additionally, our Site may use cookies to help track the results of our advertising campaigns. This type of cookie is never associated with personal information. 
 
 **How we use collected information**
 
