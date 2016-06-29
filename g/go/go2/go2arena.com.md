@@ -1,122 +1,124 @@
-> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823194317id_/http%3A//www.go2arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183549id_/https%3A//www.g2a.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - G2A - Global Digital Gaming Marketplace
 
-Gate Arena Sp z.o.o. Moniuszki 26/7 31-523 Kraków NIP 6762422501 REGON 121244889 KRS 0000363322 (hereinafter called "Go2Aarena") respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities.   
-In addition to this general online privacy policy, you may receive notice of other terms that apply to particular promotions or services.
+**I. General Information**
 
-  
-**Personally Identifiable Information**
+The personal data provided to G2A.COM by the Users during registration and subsequent use of G2A.COM Sites are processed by 
 
-  
-Go2Arena does not share, disclose or sell any personally-identifiable information (such as your name, address, telephone number or e-mail address) collected online on Go2Arena sites with other unaffiliated companies or organizations for non-Go2Arena marketing purposes. Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding. Go2Arena also does not market to, or knowingly collect personal information from, children under he age of 13 on Company sites.
+G2A.COM LIMITEDwith its registered office in Hong Kong, 36/F, Tower Two, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, incorporated under the number 2088957. which constitutes data administrator. 
 
-  
-**How We Use Information**
+The Site obtains information as follows:
 
-  
-Go2Arena uses the personally-identifiable information we collect online principally to provide you with the service(s) you have ordered and to let you know about other offerings which may be of interest to you. Postal and e-mail address information, for example, enables communication about services offered and ordered, as well as the proper provisioning and billing of those services.   
-We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with Go2Arena services, or with our customers' or others' use of them.
+  * Through voluntary information filling as entered on forms provided by the Site; 
 
-**  
-How We Collect Information**
+  * By storing data resulting from customer visits (so-called "cookies");
 
-  
-Go2Arena collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer's name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted.   
-Go2Arena may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites.
-
-**Security**
-
-  
-We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the Go2Arena's web site you will need to submit a password or some other type of authenticating information.
-
-**Go2Arena Facebook Login Application**
-
-We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.  
-We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.  
-Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for).  
-We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
-
-To customize our service for you, we may collect and store your precise geographic location as part of your user profile. 
-
-This data generally is not shared with others. We may ask for your consent on your first use of the service. 
-
-You can sign into your account to see any personally identifiable information we have stored, such as your name, email, address or phone number. You can also contact us by email to request to see this information. 
-
-We may keep data indefinitely. 
-
-We generally do not share personally identifiable information (such as name, address, email or phone) with other companies. 
-
-We do not allow advertising companies to collect data through our service for ad targeting. 
-
-If you have any questions or concerns about our privacy policies, please contact us:
-
-support@go2arena.com  
-
-Gate Arena Sp z.o.o. Moniuszki 26 lok. 7 31-062 Kraków 
-
-In order to serve you, we may share your personal and anonymous information with other companies, including vendors and contractors. Their use of information is limited to these purposes, and subject to agreements that require them to keep the information confidential. Our vendors provide assurance that they take reasonable steps to safeguard the data they hold on our behalf, although data security cannot be guaranteed.  
-Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user.
-
-We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. 
-
-We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business. 
-
-To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances listed below:
-
-1\. with your express consent,
-
-2\. when we have a good faith belief it is required by law, 
-
-3\. when we have a good faith belief it is necessary to protect our rights or property,
-
-4\. to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. 
-
-Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so. 
-
-  
-This privacy policy was last updated on 13.02.2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
-
-**What is a Cookie?**
-
-Wikipedia.org says: „A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is usually a small piece of data sent from a website and stored in a user's web browser while a user is browsing a website. When the user browses the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user's previous activity. Cookies were designed to be a reliable mechanism for websites to remember the state of the website or activity the user had taken in the past. This can include clicking particular buttons, logging in, or a record of which pages were visited by the user even months or years ago. „
-
-  
-**Types of Cookies in Use**
-
-The following types of cookie are in use within go2arena systems:
-
-1\. Strictly necessary cookies  
-2\. Performance cookies  
-3\. Functionality cookies  
-4\. Targeting / Advertising cookies
+  * By collecting logs from a web server.
 
 
 
 
-These cookies are a mixture of first party cookies, which we set ourselves, and third party cookies, which are set by other websites.
+This Privacy Policy relates both to the processing of personal data on the main Site, address: www.g2a.com, as well as to the processing of personal data in relation to participation in the Goldmine Marketing Programme (definition of the said programme can be found in the Goldmine Terms and Conditions), which are processed by reason of the Users’ use of the site under the address www.g2a.com/goldmine.    **II. Information provided on the forms**
 
-  
-**Cookie Functions**
+  1. The Site collects information provided voluntarily by the User. 
 
-We use cookies across our websites to improve their performance and enhance your user experience. Cookies are used to provide the following functions
+  2. The Site may also store the data regarding connection settings (time of visit, the IP address).
 
-Personalization – For example, a customer’s language preference is remembered.
+  3. Data entered on the form are not made available to third parties unless consent of the User has been expressed and only within the scope permitted by law.
 
-Session management - To ensure that a user’s session is routed to the correct system within the go2arena infrastructure for the duration of their visit.
+  4. The data provided on the form may constitute a set of potential customers, registered by the Site Provider in the register maintained by the Inspector General for Personal Data Protection.
 
-Usage Tracking – Go2arena use Google Analytics solution to provide analysis of a users’ ongoing usage of the website. This facilitates ongoing improvements to the website.
+  5. The data contained on any of the forms are processed in a manner resulting from the function of the particular form, for example in order to process your request, Site or sales activity.
 
-Advertising - Display advertising content depending on location, language, and your past browsing history.  
+  6. The data contained on the forms may be forwarded to parties holding technical responsibilities pursuing certain services - in particular the provision of information about the User on the website, payment operators or other entities with which G2A.COM collaborates.
 
 
-  
-**Managing Cookies**
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. For further information about how to turn off cookie acceptance please refer to the “Help” function in your browser.Please note that disabling cookie support may prevent this website from functioning properly and you may not be able to fully utilise all of its features and services.
 
-  
-**Further Information**
+**III. Information regarding cookie files**
 
-Further information about cookies and their usage can be found at http://www.allaboutcookies.org and http://www.youronlinechoices.com/.  
+  1. The Site uses cookies. 
 
+  2. Cookie files (so-called "cookies") are basically computer data, especially text files, that are stored in the terminal device of a Site User and are intended for the use of the Site web pages of G2A.COM. Cookies typically contain the name of the website from which the files originally came from, time of storage at the terminal device and a unique number. 
+
+  3. The party storing cookies on the terminal device of a User is G2A.COM and the firm has access to the said files. 
+
+  4. Cookies are used for the following purposes:
+
+ \- To create statistics that help us understand how the Users access the Site, which allows G2A.COM to improve the structure of the Site and its content;  
+\- Delineating a user profile in order to display matching materials in regard to advertising networks, in particular the Google Network;  
+\- To run statistics on the Users traffic to reliably conduct settlements with advertising partners;  
+\- Storing user settings and calibrating the Site to better suit the needs and preferences of the Users;  
+\- To recognize Users and the persons recommended by them within the framework of the Goldmine Marketing Programme. 
+
+  5. The Site uses two basic types of cookies, "session" (session cookies) and "fixed" (persistent cookies). "Session" cookies are temporary files that are stored in the terminal device of a User until he or she logs out, leaves the website or disables the software (web browser). "Persistent" cookies are stored in the terminal device of a User for the time specified in the parameters of cookies or until their removal by the User. 
+
+  6. Software designed for browsing the web (browsers) usually implicitly allows storage of cookies in the terminal device of the User. Site Users can change the settings in this regard. The web browser allows you to delete cookies. The Users can also automatically block cookies. For any details, consult the help or documentation of a given browser. 
+
+  7. Restrictions on the use of cookies may affect some of the functionality available at G2A.COM and its Site. 
+
+  8. Cookies provided in the terminal device of a User of the Site can also be used by the co-administrator of the Site, advertisers and partners of G2A.COM. 
+
+  9. Cookies may be used by advertising networks, in particular, the Google Network to display ads specific to a User and in accordance with his or hers preferences while using the Site. To achieve that cookies may store information about the User's navigation path or the time the User remained on the Site. 
+
+  10. With regard to the information about User preferences collected by the Google Display Network, you can view and edit the information derived from cookies with the tool: [https://www.google.com/ads/preferences/ ](https://www.google.com/ads/preferences/).
+
+
+
+
+**IV. Server Logs**
+
+  1. Information about some of the actions of the Users are stored in the logging layer of the server. This data is used only to administer the Site and to provide the most efficient Site hosting services. 
+
+  2. The accessed resources are identified by URLs. In addition, the stored data may include:
+
+ \- date of the query,  
+\- time of response,  
+\- the name of the client station - identification carried out by the HTTP protocol,  
+\- information about errors that have occurred in the implementation of the HTTP transaction,  
+\- URL of the site previously visited by the User (referer link) – in case there has been a redirection to the Site by a refer link,  
+\- information on the User's browser,  
+\- IP address information. 
+
+  3. The figures are disassociated with the individual persons browsing the Site. 
+
+  4. The above data are used only for the purposes of administering the server. 
+
+
+
+
+**V. The purpose of storing personal data**
+
+The personal information you entrust to us, particularly your name, surname, business name and registered seat, residence address, registered office address, email address, tax id number (NIP number), Statistical id number (REGON number), national identity card number, personal identification number, phone number, IP number, are processed:
+
+  * to the extent necessary to create and shape the content, changes, solutions and proper implementation of e-services and the implementation of concluded contracts via the Site; 
+
+  * to carry out orders placed by the Users in regard to the products in the online offer of G2A.COM;  
+
+  * for the purpose of complaints registration, and the potential refund in case of termination of the contract (returning the goods); 
+
+  * if the customer agrees to receive marketing information from G2A.COM, including the transfer of our electronic business information, personal data will be processed in order to provide the User with information about our store, offers and sales, as well as information on products and companies cooperating with us (with our explicit consent and knowledge of the fact);
+
+  * For the purpose of fulfilment of rights and obligations related to the Users’ participation o the Goldmine Marketing Programme.
+
+  * Providing personal data is voluntary however, declining the request to process the data may prevent us from providing the User with the electronic services and may prevent the User from being able to conduct online purchases via the Site.
+
+  * Entrusting us with their personal information, the User has the right to access them, the right to demand updates and to request their removal. Personal data provided by the User can be edited or deleted by the User himself. The User may also contact G2A.COM with a request to remove his account by sending a request to the appropriate e-mail address: support@g2a.com via an e-mail address currently registered in the G2A.COM Site.
+
+
+
+
+**VI. Protecting personal information**  
+
+
+All gathered data, in the manner described above, are stored in the Personal Database belonging to G2A.COM.
+
+The database and IT system, in which it is stored, is subject to special protection through technical and organizational measures which should be fulfilled by devices and systems used for the processing of personal Data.
+
+G2A.COM applies security measures at the highest level specified in this Regulation.G2A.COM ensures, that additionally to the aforementioned technical and organizational security measures, we strictly comply with all regulations and standards for the protection of the Users’ personal data by preventing unauthorized processing of data and accidental loss, deletion or any other form of damage.G2A.COM also ensures that the access to the database is restricted to the persons explicitly authorized by the data administrator.
+
+**VII. Closing provisions**  
+
+
+Due to the continuous development and technical progress, the principles set out in this document are subject to change. Should any such change present itself, the User shall be informed in advance, no later than seven days prior to the introduction, by posting the new content of the document on the G2A.COM website.
