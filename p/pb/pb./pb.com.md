@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117005640id_/http%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pb.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629145208id_/http%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,7 @@ The following topics are presented in this Privacy Statement:
   5. Protecting Personal Information
   6. Transferring Personal Information to Other Countries
   7. Visiting Non-Pitney Bowes Websites
-  8. Safe Harbor
+  8. Cross Border Data Transfer
   9. Country-Specific Requirements
   10. Managing Personal Information
   11. Our Right to Change this Privacy Statement
@@ -79,13 +79,9 @@ This privacy statement applies solely to information collected during your use o
 
 Pitney Bowes is not responsible for the privacy practices or the content of such other non-Pitney Bowes websites.  We encourage you to be aware of the privacy statements of each and every website with which you may interact.
 
-8\. Safe Harbor
+8. Cross Border Data Transfer
 
-Pitney Bowes Inc. and its wholly-owned U.S. subsidiaries that receive personal information from the EU/EEA and Switzerland adhere to the U.S. Safe Harbor privacy principles agreed upon by the United States and the European Union and the United States and Switzerland.
-
-Pitney Bowes Inc. has self-certified its compliance with the U.S. Safe Harbor privacy principles and is a participant of the U.S. - European Union and U.S. - Switzerland Safe Harbor frameworks established by the U.S. Department of Commerce.
-
-[](http://www.export.gov/safeharbor)
+Pitney Bowes Inc. and its wholly-owned U.S. subsidiaries that receive personal information from countries outside of the United States adhere to applicable law and regulations regarding client, partner and employee personal information moving across geographical and jurisdictional borders.  This includes the use of data transfer agreements and model contractual clauses, where available, between our corporate entities, our partners and our clients where required.
 
 9\. Country-Specific Requirements
 
