@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralfrenzy.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141056id_/http%3A//referralfrenzy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralfrenzy.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629192322id_/http%3A//referralfrenzy.com/privacy) for the most accurate reproduction.*
 
 # Referral Frenzy - Privacy
 
