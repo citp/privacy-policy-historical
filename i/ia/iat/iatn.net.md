@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224180240id_/http%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175705id_/https%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iATN
 
@@ -145,8 +145,8 @@ This policy and the [Terms of Use](https://web.archive.org/terms-of-use) will mo
 ### Contact Information
 
 > iATN  
-> 640 W. Lambert Rd.  
-> Brea, CA, USA 92821
+> P. O. Box 1599  
+> Brea, CA, USA 92822
 > 
 >   Phone: (714) 257-1335  
 >  Email: []()
