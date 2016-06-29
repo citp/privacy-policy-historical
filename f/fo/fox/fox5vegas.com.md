@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202062358id_/http%3A//www.fox5vegas.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629193820id_/http%3A//www.fox5vegas.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - FOX5 Vegas - KVVU
 
