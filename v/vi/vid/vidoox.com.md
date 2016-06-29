@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the vidoox.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209152428id_/http%3A//www.vidoox.com/page.php%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidoox.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-Vidoox respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Vidoox will be known only to two parties: you and Vidoox. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
+* * *
 
-### Traffic data
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Each time a visitor comes to Vidoox, our servers \-- like most on the Web -- collect some basic technical information, including, for example, the visitor's domain name (e.g., whether the user is logged on from google.com or yahoo.com), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to vidoox Web site) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the vidoox.com, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you. 
 
-### Other disclosure of personal information
 
-Vidoox will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
-
-### Cookies
-
-Vidoox may set and access Vidoox cookies on your computer.   
-Vidoox lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Vidoox's cookies.   
- 
-
-### Other sites
-
-Vidoox contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
-
-Contact Us
-
-If you have any questions about our privacy policy you can email me at : [vidooxtv@gmail.com](mailto:ardavan@vidoox.com "Linkification: mailto:ardavan@vidoox.com")  
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
