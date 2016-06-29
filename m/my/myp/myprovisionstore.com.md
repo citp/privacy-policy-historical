@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221092522id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629042146id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
 
 # online grocery shopping store grocery shopping online grocery shopping store groceries vegetable cakes flowers fruits grocery groceries my provision store.
 
