@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230214913id_/http%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semanticmastery.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629193437id_/http%3A//semanticmastery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Semantic Mastery
-
-## Semantic Mastery – Privacy Policy
+# Privacy Policy - Semantic Mastery
 
 The following describes the Privacy Policy for the website, www.semanticmastery.com, hereinafter “the website”.
 
@@ -24,7 +22,7 @@ Under our Terms of Service and Conditions of Use, children under 18 are not allo
 
 **Collection of Personal Information**
 
-When visiting the website, the IP address used to access our website may be stored, along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting the website, the IP address used to access our website may be stored, along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
 
 Other information could and may be collected by the website, which is rather typical of most other sites on the web. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data and not personally indentifying information collection, and helps us to ultimately produce a better end-user experience.
 
