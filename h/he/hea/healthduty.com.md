@@ -1,48 +1,100 @@
-> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227170416id_/http%3A//www.healthduty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy « Weight Loss, Fitness, Exercise, and Health — Weight Loss Journa
+# Legal Agreement
 
-## [Privacy Policy ](http://www.healthduty.com/privacy-policy/)
+**GoDaddy Respects Your Privacy**
 
-**Data Collection**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Through our website, we offer convenient online access to our services and communicate with you about important opportunities and events. We will not collect personal information from you when you visit our website unless you provide the information to us voluntarily and knowingly.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  * **Registering for a class or special event:** When you register online for a class or special event, we may ask for your name and contact information. Depending upon the activity, we may also collect payment information (such as standard credit card data) and date of birth.
-  * **Applying to work at the American Red Cross as a volunteer or employee:** When you apply online to be a Red Cross volunteer, we will ask you for your name, contact information and date of birth. We may ask for other data as well, depending on the volunteer activity. When you apply to be a Red Cross employee, we ask for a variety of types of data that are typical for employment applications, and we may ask for your résumé.
-  * **Making an appointment to donate blood:** When you make an online appointment to donate blood, we will ask for your name, contact information, date of birth and blood type.
-  * **Making a financial contribution:** When you make a financial contribution online, we collect your name, contact information and standard credit card data.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**How We Use Cookies**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We send “cookies” to your computer and use other technologies to enhance your online experience. A “cookie” can be either permanent (i.e., it remains on your computer until you delete it) or temporary (i.e., it lasts only until you close your browser). A “cookie” is a small text file that helps us recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and track usage behavior and compile aggregate data that can lead to website improvements. If you do not want information collected through the use of cookies, you can deny or accept the cookie feature using a simple procedure available in most browsers. If you block cookies, however, you may lose some website functionality.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Is My Credit Card Information Secure?**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use a variety of safeguards to protect the security of your credit card transactions. We use technologies and processes such as encryption, access controls, network firewalls, physical security and other measures. These measures make it extremely difficult for anyone to intercept the credit card information you send to us. When we work with other companies to process credit card transactions, those companies also use encryption and other security measures.  
-You can make financial contributions online, by mail, by calling , or by contacting your local Red Cross chapter .
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Is My Personal Information Secure?**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We use the same security measures and industry-standard security protocols for online scheduling of blood donations as we do for credit card transactions.   
-You can also schedule a blood donation by calling 1-800-GIVE-LIFE or contacting your local Red Cross Blood Services Region.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**How We Use Your Information**
+**Security**
 
-The American Red Cross will not sell, trade, or share personal information about our financial donors with anyone else, nor will we send mailings to our financial donors on behalf of other organizations, unless a donor has given us specific permission to do so.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-If you provide the Red Cross with personal information when you visit our website, we may use the information in our programs and activities. We may enter your name into one of our databases so we can contact you to obtain your input, provide information about our programs and events, or request contributions.
+**Updating Your Information**
 
-On occasion, the Red Cross may share information about you with vendors and service providers that assist us with our activities and programs. These vendors and service providers help us with functions such as fulfilling orders, managing data and processing donations. In addition, we make disclosures as required by law.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**We Care About Doing it Right**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-The American Red Cross is committed to accuracy and precision in processing your contribution information. We employ a variety of error-checking procedures, and our systems are subject to independent external and internal audits to ensure the privacy, security and accurate processing of your information.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-If you need to contact us to review your information or make corrections, please use this form .
+      iii.      You may call us at: (480) 505-8800
 
-**Note to Parents on Our Privacy Policy**
+       iv.      You may fax us at: (480) 505-8844
 
-The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through Red Cross training programs and volunteer activities. However, we encourage children to do this only with their parents’ knowledge and supervision. For this reason, the Red Cross follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau.
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
