@@ -1,35 +1,58 @@
-> *The following text is extracted and transformed from the file-upload.cc privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135227id_/http%3A//www.file-upload.cc/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-upload.cc privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629072837id_/http%3A//www.file-upload.cc/privacy.html) for the most accurate reproduction.*
 
-# 
+# File Upload - Free File Hosting - Online Storage; Upload Mp3, Videos, Music , Books , Apps. Backup Files
 
-**Privacy Policy for** **[file upload](http://www.file-upload.cc/)**
+## Personal identification information
 
-At 
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**[file upload](http://www.file-upload.cc/)** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **[file upload](http://www.file-upload.cc/)** and how it is used. 
+## Non-personal identification information
 
-**Log Files**  
-Like most standard Web site servers, 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**[file upload](http://www.file-upload.cc/)** use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user�s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.   
- 
+## Web browser cookies
 
-Has been providing search box on this web site (the "search box") by Google Inc ( "Google"). You acknowledge and agree to apply privacy policy Google (Located on [ http://www.google.ae/privacy.html](http://www.google.ae/privacy.html)) for using the "search box" and using the "search box" Google granted approval to use your personal data in accordance with the Privacy Policy
+Our Site may use cookies to enhance User experience. Users web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Cookies and Web Beacons**
+## How we use collected information
 
- **[file upload](http://www.file-upload.cc/)** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors� browser type or other information that the visitor sends. 
+www.file-upload.cc collects and uses Users personal information for the following purposes:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.  
+\- To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs.
 
-These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on 
+## How we protect your information
 
-**[file upload](http://www.file-upload.cc/)**. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see.   
-**[file upload](http://www.file-upload.cc/)** has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. [ http://www.google.co.uk/privacy.html](http://www.google.co.uk/privacy.html) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+## Sharing your personal information
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[Contact Us](http://www.file-upload.cc/contact.html)**.   
- 
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that websites own terms and policies.
+
+## Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+## Google Adsense
+
+Some of the ads may be served by Google. Googles use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses non personally identifiable information and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+## Compliance with childrens online privacy protection act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+Changes to this privacy policy
+
+www.file-upload.cc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
