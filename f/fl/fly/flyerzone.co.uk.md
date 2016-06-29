@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224071632id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001346id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Printing of flyers, leaflets, business cards and more | Flyerzone
 
@@ -48,7 +48,7 @@ _utmc
 _utmz  
 test_cookie | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Analytics privacy policy](http://www.google.com/analytics/learn/privacy.html)  
   
-##    
+##   
 Flash cookies (or Local Shared Objects)
 
 Flash cookies are stored on your device in much the same way as usual cookies, but they're managed differently by your browser.
@@ -80,7 +80,7 @@ datr
 reg_fb_ref  
 wd | Facebook 'like' button, and comment functionality. | [Facebook privacy policy](http://www.facebook.com/about/privacy)  
   
-##    
+##   
 Flyerzone.co.uk 'share' tools
 
 If you take the opportunity to 'share' flyerzone.co.uk content with friends through social networks - such as Facebook and Twitter - you may be sent cookies from these websites. We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them.
