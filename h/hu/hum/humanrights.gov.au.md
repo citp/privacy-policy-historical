@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227081709id_/http%3A//www.humanrights.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164244id_/http%3A//humanrights.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Australian Human Rights Commission
 
