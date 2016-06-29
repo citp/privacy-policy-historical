@@ -1,54 +1,67 @@
-> *The following text is extracted and transformed from the breakthematrix.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217220627id_/http%3A//www.breakthematrix.com/content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthematrix.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629051903id_/http%3A//libertyupward.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BREAK THE MATRIX
+# Privacy Policy - Liberty Upward
 
-BreakTheMatrix.com takes pride in creating richer, deeper interactive experiences through freedom-oriented information that combines original, independent and user-generated content. This privacy policy applies to the U.S. operations of all services within BreakTheMatrix.com.
+**1\. HOW WE PROTECT YOUR PRIVACY**
 
-Overall privacy statement  
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, BreakTheMatrix.com.
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-1\. What information does BreakTheMatrix.com collect?  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our site require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes, contests and ratings, subscriptions to email newsletters and participation in message boards. We also collect information for the purpose of informing you with information on candidates in your area running for office.  
-We collect personally identifiable information, such as your name, email address, postal address, and phone number when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, employer, username and password.  
-Once you register with BreakTheMatrix.com you are no longer anonymous to us. 
+ **2\. MINORS**
 
-2\. How does BreakTheMatrix.com use the information?  
-We use the information we gather for four general purposes:  
-To enhance the user experience in our site. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;  
-To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in candidate ratings, polls, contests, and message boards;  
-To send you information you agreed to receive about topics we think will be of interest to you.
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-3\. How does BreakTheMatrix.com share the information?  
-Personally identifiable information  
-We will make your personally identifiable information available to other companies or people when:  
-You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.  
-You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms or other forms of public communication and interaction.  
-We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.  
-You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails.  
-You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.  
-When required by law, such as when we respond to subpoenas, court orders, or legal process.  
-We believe that your actions violate applicable laws, BreakTheMatrix.com's Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+ **3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-Aggregate information  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
-Business transfers  
-We are always seeking to improve our business. In accomplishing these objectives, we may buy or sell a company, or our company may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+ **4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-4\. What are my options?  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
-We also give users the following options:  
-Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;  
-Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-5\. How can I review and update my personally identifiable information?  
-You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us on the following page: [www.breakthematrix.com/company](http://www.breakthematrix.com/company "www.breakthematrix.com/company").
+And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-6\. How will I know if the privacy policy is changed?  
-Any modifications to our privacy practices will be reflected first within this area of BreakTheMatrix.com. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
-7\. Privacy of children  
-Our site is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age.
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-Questions, Comments  
-Questions regarding this privacy statement or any other aspects of BreakTheMatrix.com should be sent to our corporate offices via email at [www.breakthematrix.com/company](http://www.breakthematrix.com/company "www.breakthematrix.com/company"). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+ **5\. WHAT WE DO WITH YOUR INFORMATION**
+
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
+
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
+
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+
+ **6\. USER NAMES AND PASSWORDS**
+
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+
+ **7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
+
+ **8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+ **9\. AUTORESPONDERS**
+
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info@libertyupward.com, or sending us mail to the address listed below.
+
+ **10\. POLICY CHANGES**
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to info@libertyupward.com and providing us with information relating to your concern.
+
+ **11\. CALIFORNIA PRIVACY RIGHTS**
+
+If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to info@libertyupward.com
+
+This policy was last updated on 09-10-2015.
