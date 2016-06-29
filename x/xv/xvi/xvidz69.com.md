@@ -1,61 +1,54 @@
-> *The following text is extracted and transformed from the xvidz69.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813150521id_/http%3A//xvidz69.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvidz69.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629053650id_/http%3A//xvidz69.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  XVIDZ69 Privacy Policy 
+XVIDZ69 Privacy Policy
 
-xVidz69.com is an adult site and therefore we treat Privacy very seriously. This document details important information regarding the use and disclosure of User Data collected on xVidz69.com 
+XVIDZ69.com is an adult site and therefore we treat Privacy very seriously. This document details important information regarding the use and disclosure of User Data collected on XVIDZ69.com
 
-This site expressly and strictly limits its membership to adults of 21 years of age and over. All persons under the age of 21 are strictly prohibited from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons under the age of 21. 
+This site expressly and strictly limits its membership to adults of 21 years of age and over. All persons under the age of 21 are strictly prohibited from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons under the age of 21.
 
-Data Collected 
+Data Collected
 
-  * **Personal Information:**
+    Personal Information:
 
+    Non-Registered users can watch videos and read blogs without registering and without any information being collected and processed. The visitor’s IP address will be recorded in the event a comment is posted. A national flag corresponding to the IP address will be displayed next to the user’s comment.  
+    Registered Members: Registration is required for uploading videos, recording favourite, assigning tags and accessing a number of other features. The following personal information is requested at the time of registration: nickname (required), country of residence (optional), gender (optional) and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
+    Subscribers may be asked for credit card details or other payment processing details. This information is neither collected nor processed on XVIDZ69 servers but on third party secure servers owned and operated by financial intermediaries.
 
-  * **Non-Registered users** can watch videos and read blogs without registering and without any information being collected and processed. The visitor’s IP address will be recorded in the event a comment is posted. A national flag corresponding to the IP address will be displayed next to the user’s comment. 
-  * **Registered Members:** Registration is required for uploading videos, recording favourite, assigning tags and accessing a number of other features. The following personal information is requested at the time of registration: nickname (required), country of residence (optional), gender (optional) and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information. 
-  * **Subscribers** may be asked for credit card details or other payment processing details. This information is neither collected nor processed on xVidz69 servers but on third party secure servers owned and operated by financial intermediaries.
+Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online (on discussion boards, in blogs, in messages and chat areas, or on profile pages, etc.) becomes publicly available and can be collected and used by others.
 
+Cookies: When you visit XVIDZ69.com, we may send one or more cookies (see http://en.wikipedia.org/wiki/HTTP_cookie for a description) to your computer that uniquely identifies your browser session. XVIDZ69.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site’s features may not function properly.
 
+Log File Information: When you visit XVIDZ69.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
-**Content Uploaded to the site:** Any personal information or video content that you voluntarily disclose online (on discussion boards, in blogs, in messages and chat areas, or on profile pages, etc.) becomes publicly available and can be collected and used by others.
+Emails: If you contact us, we may keep a record of that correspondence.
 
-**Cookies:** When you visit xVidz69.com, we may send one or more cookies (see [http://en.wikipedia.org/wiki/HTTP_cookie](http://en.wikipedia.org/wiki/HTTP_cookie) for a description) to your computer that uniquely identifies your browser session. XVidz69.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site’s features may not function properly.
+Uses
 
-**Log File Information:** When you visit xVidz69.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+    Your Personally identifiable information submitted to XVIDZ69.com is used to provide to the user the website’s features and special personalised features.  
+    Your chosen nickname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, forum posts, blogs, chat, the messages you send through the XVIDZ69.com private mail, etc. Other Users can contact you through instant messaging, private messages and comments.  
+    Any videos that you submit to XVIDZ69.com may be redistributed through the internet and other media channels, and may be viewed by the general public.  
+    We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.  
+    We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).  
+    We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the XVIDZ69.com user-experience.
 
-**Emails:** If you contact us, we may keep a record of that correspondence. 
+Disclosure of information
 
-Uses 
+    XVIDZ69.com may release data if under a duty to comply with any legal obligation, or in order to enforce or apply our Terms Of Use and other agreements; or to protect the rights, property or safety of XVIDZ69.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Use . It is XVIDZ69.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.  
+    We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  
+    We may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality of XVIDZ69.com.
 
-  * Your Personally identifiable information submitted to xVidz69.com is used to provide to the user the website’s features and special personalised features. 
-  * Your chosen nickname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, forum posts, blogs, chat, the messages you send through the xVidz69.com private mail, etc. Other Users can contact you through instant messaging, private messages and comments. 
-  * Any videos that you submit to xVidz69.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
-  * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the xVidz69.com user-experience. 
+Security
 
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
+Unfortunately, the transmission of information via the Internet is not completely secure. XVIDZ69.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to XVIDZ69.com and you do so at your own risk.
 
-Disclosure of information 
+In the Event of Merger or Sale
 
-  * XVidz69.com may release data if under a duty to comply with any legal obligation, or in order to enforce or apply our Terms Of Use and other agreements; or to protect the rights, property or safety of xVidz69.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Use . It is xVidz69.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
-  * We may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality of xVidz69.com. 
+In the event that XVIDZ69.com is acquired by or merged with a third party, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control.
 
+Your Rights
 
-
-Security 
-
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
-
-Unfortunately, the transmission of information via the Internet is not completely secure. XVidz69.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to xVidz69.com and you do so at your own risk. 
-
-In the Event of Merger or Sale 
-
-In the event that xVidz69.com is acquired by or merged with a third party, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. 
-
-Your Rights 
-
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us through the Contact us section. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us through the Contact us section.
