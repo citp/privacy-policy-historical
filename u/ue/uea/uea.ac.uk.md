@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224124306id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629230933id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
 
 # Legal Statements - UEA
 
@@ -50,8 +50,8 @@ Implied consent can be inferred from continued use of a website where the user h
 You may refuse or control the use of cookies by changing the settings on your browser, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Doing this, however, means you might not be able to access certain features of our site. For more information about cookies, please visit:
 
   * **General information** \- [AllAboutCookies website](http://www.allaboutcookies.org/)
-  * **Detailed information on the different kinds of cookies** \- [ICC UK Cookie Guide ](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
-  * **How to configure your browser to control cookie access** \- [UK ICO Cookie Advice](http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx) (NB just because browser software can block cookies, it does not mean that users who do not set their browsers to block cookies are effectively giving [consent to their use](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2518/How-to-Manage-Cookies-Consent-Remains-Controversial.aspx)).
+  * **Detailed information on the different kinds of cookies** \- [ICC UK Cookie Guide ](http://www.iccwbo.uk/pages/privacy)
+  * **How to configure your browser to control cookie access** \- [UK ICO Cookie Advice](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/) (NB just because browser software can block cookies, it does not mean that users who do not set their browsers to block cookies are effectively giving [consent to their use](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2518/How-to-Manage-Cookies-Consent-Remains-Controversial.aspx)).
 
 
 
@@ -63,7 +63,7 @@ The University of East Anglia is committed to the security of our users' persona
 
 ### **Access to Data**
 
-Should you wish to see any personal data relating to you that may have been collected via this website, please complete a ‘Subject Access Request' form available from [this page](http://portal.uea.ac.uk/information-services/strategy-planning-and-compliance/regulations-and-policies/information-regulations-and-policies/data-protection/requests-for-personal-information), the University's Information Policy and Compliance Manager, University of East Anglia, Norwich, NR4 7TJ (phone 01603 593523/2431, email [dataprotection@uea.ac.uk](mailto:dataprotection@uea.ac.uk)), or from University Reception. Please return the completed form to the University Information Policy and Compliance Manager.
+Should you wish to see any personal data relating to you that may have been collected via this website, please complete a ‘Subject Access Request' form available from [this page](https://portal.uea.ac.uk/information-services/strategy-planning-and-compliance/regulations-and-policies/information-regulations-and-policies/data-protection/requests-for-personal-information), the University's Information Policy and Compliance Manager, University of East Anglia, Norwich, NR4 7TJ (phone 01603 593523/2431, email [dataprotection@uea.ac.uk](mailto:dataprotection@uea.ac.uk)), or from University Reception. Please return the completed form to the University Information Policy and Compliance Manager.
 
 ## **UEA Disclaimer Statement**
 
