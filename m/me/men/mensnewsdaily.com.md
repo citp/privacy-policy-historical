@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121160206id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155923id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MND: Your Daily Dose of Counter-Theory
+# Privacy Policy – MND: Your Daily Dose of Counter-Theory
 
 _NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the federal government and the technology industry to help you guard against Internet fraud, secure your computer and protect your personal information._
 
