@@ -1,67 +1,130 @@
-> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029204510id_/http%3A//musical.ly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629105542id_/http%3A//www.musical.ly/privacy.html) for the most accurate reproduction.*
 
 # musically
 
-PRIVACY POLICY
+**Privacy Policy**
 
-last updated June 2015
+Effective Date: December 12, 2015 
 
-This Privacy Policy describes how we at musical.ly, Inc. and Shanghai WeShare Technology Co. Ltd (collectively, the “Company,” “we,” “our,” “us”), handle your information in connection with your use and operation of[ ](https://www.google.com/url?q=http://www.musical.ly/&sa=D&usg=AFQjCNE7fv4lDmvY9XAZisuqP4jb4oZhmg)[www.musical.ly](https://www.google.com/url?q=http://www.musical.ly/&sa=D&usg=AFQjCNE7fv4lDmvY9XAZisuqP4jb4oZhmg), its related webpages, and/or any and all applications (apps) or other software owned or operated by the Company (collectively, the “Platform”). This Privacy Policy describes the kind of information we gather and how it is used, and how you can review and request changes to any of your personal information. This Privacy Policy applies only to information collected through the Platform and not to information collected offline.
+This Privacy Policy is incorporated by this reference into the End User License Agreement and Terms of Service located at <http://musical.ly/term.html> (“ **EULA** ”). The terms “ **Musical.ly** ,” “ **we** ,” and “ **us** ” include Musical.ly, an exempted company duly incorporated with limited liability and validly existing under the Laws of the Cayman Islands, and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. This Privacy Policy explains how Musical.ly may:
 
-1\. Information You Provide
+  * collect,
+  * use, and
+  * disclose
 
-Some of our services require you to provide personal information, specifically your name, username, password, and email address. We may also collect your photograph, video, Facebook ID and Twitter ID (if you sign up using these services), other third-party login identifications, geographical information (such as through GPS, Bluetooth, or WiFi signals), and any biographical details that you provide. This can include information about the content you provide, such as its location or date of creation. We collect contact information that you upload, sync or import (such as an address book) from a device. We collect information about the people and groups you are connected to and how you interact with them, such as the groups you like to share with and the people you communicate with the most.
 
-If you use the Platform for purchases or financial transactions, we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details.
 
-You may always review and make changes to your personal information by emailing your request to info@musical.ly. Additionally, you can refuse to supply personal information, but doing so may prevent you from engaging in certain Platform activities or features.
+information we obtain through the Service. As used in this Privacy Policy, “ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual. 
 
-2\. Information We Receive About You
+**The Service Collects Your Information**
 
-Like most online service operators, we may collect information about your use of the Platform. The amount and type of information we gather depends on the nature of your interaction with the Platform. The types of information we may collect are your Internet protocol (IP) address, browser type, language preference, time zone setting, device locations, operating system, platform, Platform page(s) viewed, access date and time, time spent on the Platform or a Platform page, and cookie data (see below). We also collect information that other people provide when they use the Platform, including information about you, such as when they share a video of you, send a message to you, or upload, sync or import your contact information.
+We collect information, including Personal Information, when you: 
 
-We may receive information about you and your activities on and off the Platform from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them.
+· register to use the Service; 
 
-3\. Cookies
+· log in with social networking credentials;
 
-A cookie is a string of information that a website or app stores on a visitor’s computer or mobile device, and that the visitor’s browser provides to the website/app each time the visitor returns. We may use cookies to help us authenticate users, track usage of our websites, and remember users access preferences and location (for purposes of provide correct resource URLs). The Platform uses “Permanent cookies,” which are cookies that are stored on the user's computer or mobile device and that are not deleted when the browser is closed. Permanent cookies can retain user preferences for a particular website, allowing those preferences to be used in future browsing sessions. Permanent cookies can be used to identify individual users, and can be used by websites to analyze users’ behavior within the website. These cookies can also be used to provide information about the aggregate number of visitors to a website, the average time spent on a particular page, and generally the performance of the website. They are usually configured to keep track of users for a prolonged period of time, in some cases many years into the future.
+· submit information to us when you use the Service; and
 
-Platform visitors who do not wish to have cookies placed on their computer or mobile device should set their browser to refuse cookies before using the Platform, with the drawback that certain features of the Platform may not function properly without the aid of cookies.
+· communicate with us. 
 
-4\. How We Use Information We Collect
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
-We use the information we collect, including personal information and non-personal information, to: (i) operate, maintain, and improve the Platform, our products, or our services; (ii) deliver products or services that users request or ask for; (iii) provide customer support; (iv) respond to comments and questions or contact users at their request; (v) inform users about promotions, events, and news related to products, services, and features; (vi) show and measure the effectiveness of advertisements; (vii) process and deliver contest entries and rewards; (viii) keep internal records; and (ix) investigate, deter, and protect against fraudulent, unauthorized, or illegal activity. We may store or process your information on servers located outside of your home country; by using the Platform, you consent to the transfer of such information to such servers.
+**Personal Information Collection.** You may browse the public-facing portions of the Service without registering an Account with Musical.ly. If you register an Account with us to use the Service, then you must provide us with certain Personal Information, such as your email address, or you may register using your User credentials to certain social media sites, such as Twitter or Facebook. 
 
-You may opt out of receiving promotional, event, news, and/or marketing communications at any time by emailing your opt-out request to:[info@musical.ly](mailto:info@musical.ly).
+**Social Sign-On.** We may collect Personal Information from a social media website when you use your social media credentials to log into the Service. For example, when you log in with your Twitter or Facebook credentials, we may collect the Personal Information you have made publicly available on those websites, such as your User name and profile picture. We may also obtain other non-public information with your permission.
 
-5\. Information We Share
+**Using the Service.** We collect information that you Post to the Service. For example, when you Post comments, a short biography or UGVs on the Service, we will collect the information you include in these submissions, including any Personal Information. 
 
-We may transfer and disclose your personal information to our vendors, contractors, service providers, and affiliated organizations to support the Platform and our business, as long as they have agreed to abide by the confidentiality obligations in this Privacy Policy. We may also disclose your information, including personal information and non-personal information, in certain other circumstances, as described below.
+**Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Service’s messaging functionality, and we may collect information about your use of our messaging functionality. Please be aware that messages sent to other Users of our Service will be accessible by those other Users and that we are not responsible for the manner in which those Users use or disclose messages.
 
-We may share your personal information with third parties or the public at your request, such as when you choose to share videos with your friends or tag the videos on Instagram. We may use all of the information we have about you to show you relevant advertisements. We do not share information that personally identifies you with advertising, measurement or analytics partners unless you give us permission.
+**Location Information.** We collect information about your location if you grant us permission to do so. If you change your mind and do not want us to collect your location information, then you can choose to hide your location under the “Settings” tab within the App. 
 
-If we believe in good faith that disclosure of your personal information is (i) legally required in response to a subpoena, court order, or other governmental request, and/or (ii) legally required or reasonably necessary to protect our property or rights, including intellectual property, or those of third parties or the public at large, we may disclose the information.
+**Customer Support.** We collect all information that you provide to us, including any Personal Information, when you contact us for customer-support purposes. 
 
-If the Company (or either one of them) is involved in a merger, acquisition, or asset sale, or in the event that the Company (or either one of them) goes out of business or enters bankruptcy, user information may be one of the assets that is transferred or acquired by a third party. By using the Platform, you acknowledge and agree that such transfers may occur, and that any acquirer of the Company (or either one of them) may continue to use your personal information as set forth in this policy.
+**Cookies, Automatic Data Collection, and Related Technologies.** The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. 
 
-6\. Protecting Your Information
+When you visit the Service, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential. We may use third party cookies on our Service as well. For instance, we use Google Analytics to collect and process certain analytics data. Google provides some additional privacy options described at www.google.com/policies/privacy/partners/ regarding Google Analytics cookies. By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
 
-We take reasonable measures to protect against the unauthorized access, use, alteration, or destruction of personal information through encryption, passwords, physical security, etc. However, it remains possible that third parties may unlawfully intercept or access transmissions or private communications and may abuse or misuse your personal information that they collect from the Platform. Although we work hard to protect your privacy, we cannot guarantee that your personal information or private communications will always remain private.
+**How Musical.ly Uses Your Information**
 
-7\. California Online Privacy Protection Act Notice
+We use Personal Information to: 
 
-Under California law, commercial website and online service operators are required to disclose how they respond to web browser “Do Not Track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about their online activities over time and across third party websites, to the extent the operator engages in that collection. At this time, we track our customers’ personal information over time and across third-party websites. However, we do not currently interpret, respond to, or alter our practices when we receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit the Platform or other online websites and services. To find out more about Do Not Track, you may wish to visit[ ](https://www.google.com/url?q=http://www.allaboutdnt.com/&sa=D&usg=AFQjCNEKBGfgvRkCMTGFvYvPRYToAmj8vA)[http://www.allaboutdnt.com](https://www.google.com/url?q=http://www.allaboutdnt.com/&sa=D&usg=AFQjCNEKBGfgvRkCMTGFvYvPRYToAmj8vA).
+· facilitate and improve our Service; and
 
-8\. CALIFORNIA “ERASER LAW” NOTICE
+· communicate with you.
 
-Registered users of the Platform who are California residents and are under 18 years of age may request and obtain removal of postings on the Platform that they themselves posted by emailing us at[ ](https://www.google.com/url?q=http://musical.ly/C:/Users/mwhitaker/AppData/Local/Litera/Temp/info@musical.ly&sa=D&usg=AFQjCNGl8tdO3-XqO6GD87EK02P2dkRsjQ)[info@musical.ly](mailto:info@musical.ly). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content or information in your Posting that you want removed and information reasonably sufficient to permit us to locate the material and, so that we can process your request and contact you if we have questions, include your name and the name and URL (if applicable) of the website, application or other interactive service. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, or may not be able to respond if you do not provide complete information.
+We may use de-identified and aggregated information for any lawful purpose, including for marketing purposes.
 
-Please also note that any requests for removal do not ensure complete or comprehensive removal of the content or information from the Platform. For example, content that you have posted may be republished or reposted by another user or third party.
+**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and Service-related purposes and may provide it to third parties to allow us to provide and improve the Service. 
 
-9\. International Users
+**Communications.** We may send email to the email address you provide to us (a) for customer service related purposes, (b) to provide you with updates or information relating to the Service, including promotions and other opportunities, or (c) for enforcement of the EULA or this Privacy Policy. 
 
-If you access the Platform from a location outside the United States, you may be subject to laws governing personal data collection, use, and disclosure that differ from United States law. For example, The European Union Directive on Data Protection (the “E.U. Directive”) generally prohibits the transfer of personal data to countries outside the European Union that fail to ensure an “adequate level of [privacy] protection.” “Personal data” under the E.U. Directive means any information relating to an identified or identifiable natural person. An “identifiable person” is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Therefore “personal data” includes information that you may transmit to the Platform. We do not currently guarantee compliance with the E.U. Directive or the U.S.-E.U. Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. We have not certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. By using the Platform, you consent to the transfer of your personal information to the United States, and to utilize services and applications whose use are governed by the laws and jurisdiction of the United States, notwithstanding the requirements of any other jurisdiction, including, without limitation, the E.U. Directive.
+**Aggregate Data.** We may de-identify and aggregate information collected through the Service and use it for any lawful purpose.
 
-10\. Privacy Policy Changes
+**Musical.ly May Disclose Your Information**
 
-We may change our Privacy Policy from time to time, and in our sole discretion. The most recent version of our Privacy Policy will always be posted on this page and accessible via our homepage at[ ](https://www.google.com/url?q=http://www.musical.ly/&sa=D&usg=AFQjCNE7fv4lDmvY9XAZisuqP4jb4oZhmg)[www.musical.ly](https://www.google.com/url?q=http://www.musical.ly/&sa=D&usg=AFQjCNE7fv4lDmvY9XAZisuqP4jb4oZhmg). We encourage you to regularly check this page for any changes to our Privacy Policy.
+We may share your information:
+
+· with our third-party service providers;
+
+· to comply with legal obligations;
+
+· to protect and defend our rights and property and the rights, property and safety of our Users; and
+
+· with your permission.
+
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. 
+
+**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the Service. 
+
+**Social Networking and Other Websites.** The Service may allow you to share information, including Personal Information, with social networking websites, such as Twitter, Facebook and Instagram. We do not share your Personal Information with these social networking sites unless you direct the Service to share your Personal Information. The use of your Personal Information by any social networking websites will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+
+**User Content and Information.** User Content you Post to the Service, such as UGVs, comments and your short biography, will be displayed on the Service and viewable by other users. In addition, your profile information, such as any photograph of you and your User name, will also be searchable and accessible by other Users. We are not responsible for the privacy practices of the other Users who will view and use this information, so you should carefully consider whether to Post any User Content on the Service or how you identify yourself on the Service. You should not disclose your home address or the address of your place of business, school or other locations you frequent on a regular basis in any User Content.
+
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. 
+
+**Location Information.** We may share your location information with other Users by tagging your UGVs with your location information. We will not share your exact location with other Users. We will only share a location within a 50 mile radius of your actual location.
+
+**As Required By Law and Similar Disclosures**. We may access, preserve, and disclose your Personal Information or other account information if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our or others’ rights, property, or safety.
+
+**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy or liquidation where the business will not continue as a going concern, receivership, sale of Musical.ly assets, or transition of the Service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of these events will be governed by the provisions of this Privacy Policy in effect at the time the applicable Personal Information was collected.
+
+**Consent.** We may also disclose your Personal Information with your permission.
+
+**Security of Your Information**
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional access, use or disclosure.
+
+**Children’s Privacy**
+
+We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
+
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at privacy@musical.ly. If we learn that we have collected any Personal Information from children under 13, then we will promptly take steps to delete such information and terminate the child’s account.
+
+**international users**
+
+By using the Service, you will transfer data to the United States.
+
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California and the adjudication of any disputes arising in connection with Musical.ly or the Service will be in accordance with the EULA located here http://musical.ly/term.html **.**
+
+**If you are visiting the Service from the European Union or other regions with laws governing data collection and use, then please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information to the Service, you consent to any transfer and processing in accordance with this Privacy Policy.**
+
+**UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION**
+
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, then please send an e-mail to privacy@musical.ly **.**
+
+**CHANGES TO OUR PRIVACY POLICY AND PRACTICES**
+
+We may revise this Privacy Policy, so please review it periodically.
+
+**Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, then bookmark this page and read this Privacy Policy periodically.
+
+**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, then we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law. 
+
+**Contact Information**
+
+Musical.ly Inc.  
+1161 Mission Street, Office #502  
+San Francisco, CA 94103  
+privacy@musical.ly 
