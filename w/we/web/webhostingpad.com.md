@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927123215id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629112933id_/http%3A//webhostingpad.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - WebHostingPad.com
+# Privacy Policy - WebHostingPad
 
-## Privacy Policy 
-
-WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site www.webhostingpad.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use ("TOU") Agreement found at [Terms of Use.](https://web.archive.org/web/20150927123215id_/http%3A//www.webhostingpad.com/terms.html)
+WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site www.webhostingpad.com. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use ("TOU") Agreement found at Terms of Use.
 
 WebHostingPad does NOT trade, rent or sell your personal information to any other organization or third party.
 
@@ -20,4 +18,4 @@ WebHostingPad does not sell products or services for purchase by children. Custo
 
 WebHostingPad reserves the right to change this Policy simply by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site.
 
-If you have questions or concerns regarding this Policy, you should contact us by email at [support@webhostingpad.com](mailto:support@webhostingpad.com)
+If you have questions or concerns regarding this Policy please contact us by email at support@webhostingpad.com
