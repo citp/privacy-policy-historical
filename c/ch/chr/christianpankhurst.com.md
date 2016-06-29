@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228070402id_/http%3A//heartiq.com/node/36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629033655id_/http%3A//heartiq.com/node/36) for the most accurate reproduction.*
 
 # Privacy Policy | Heart IQ Network
 
-Effective Date: January 2015
+Effective Date: January 2016
 
 The following Privacy Policy governs the online information collection practices of Heart IQ Network B.V., d/b/a “Heartiq.com” (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the Heartiq.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
