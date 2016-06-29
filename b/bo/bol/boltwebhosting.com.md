@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107230145id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-Last Updated: January 25, 2011.
+* * *
 
-We store information on visitors to BoltWebHosting.com in a number of ways depending on the type of visitor. Details of this are described below:
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## All Visitors
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-These policies apply to every visitor to our website, regardless of whether they are a customer or not.
 
-We use Google Analytics to track and analyze visitors as they progress throughout our website. This information is never sold to a 3rd party, and the only parties able to access it are Google and our staff. If you have any questions about how this data is collected, stored, and analyzed, then please see the official website by [clicking here](http://www.google.com/analytics/).
 
-We use various standard analytics packages stored on our own servers which inspect access logs. These logs and analytic programs do not store personally identifiable information, and are a standard practice for virtually every web server in the world.
-
-## Customers
-
-We store personal information about our customers, however this is strictly for CRM (customer relationship management) purposes (such as billing, providing support, etc). This information is never sold or given to anybody outside of our company UNLESS they have committed an illegal act or violated our policies (in which case information may be handed over to appropriate government authorities, lawyers, etc).
-
-Detailed billing and financial information is not stored on our servers, as our payment processing is handled via Paypal and various other 3rd party billing services. We do not store credit card numbers or any other critical financial information, as it is collected by Paypal and our other payment processors and stored on their own servers. If you have questions about Paypal’s security and policies, please contact them directly as we do not speak for them in any shape or form.
-
-## Privacy of Data
-
-We do not sell any personal information about our customers to any third party. Additionally, we limit the data that is sent to 3rd party applications (i.e. Google Analytics listed above) as much as possible.
-
-Bolt Web Hosting is on Facebook! Come join us for a chance to win some amazing prizes and be kept updated on our latest announcements.
-
-[](http://www.facebook.com/pages/Bolt-Web-Hosting/212746705422720)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
