@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medibadge.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625230659id_/http%3A//www.medibadge.com/customer-service-W11C322.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medibadge.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629102605id_/http%3A//www.medibadge.com/customer-service-W11C322.aspx%23privacy) for the most accurate reproduction.*
 
 # customer service | Kids Love Stickers from MediBadge
 
@@ -12,7 +12,7 @@ We are pleased to fill and ship your orders, regardless of the size. We require 
 
 Our friendly Customer Service Team is ready to take your order, answer your questions, or assist you in any way. With 5 easy ways to contact us, ordering has never been easier.
 
-**Order Online** \- Simply browse our online catalog, place selected items in your shopping cart and process the order when you're done. If you are shopping with a catalog and know your item numbers, use our handy [Quick Order Form](https://web.archive.org/web/20150625230659id_/http%3A//www.medibadge.com/Quick_Order.cfm)to quickly add several items to your shopping cart.
+**Order Online** \- Simply browse our online catalog, place selected items in your shopping cart and process the order when you're done. If you are shopping with a catalog and know your item numbers, use our handy [Quick Order Form](https://web.archive.org/web/20160629102605id_/http%3A//www.medibadge.com/Quick_Order.cfm)to quickly add several items to your shopping cart.
 
 **Call Toll Free** 1-800-228-0040 for fast service throughout the U.S.A. and Canada. (Monday - Friday, 8am to 6pm, Eastern Standard Time.)
 
@@ -38,7 +38,7 @@ Omaha, NE 68122
 
 **Fast Delivery**
 
-Order M-F by 5:00 p.m. EST and we'll ship your order today! Orders placed after 5:00 p.m. Friday will ship the following Monday. Internet orders placed on Saturday/Sunday are shipped the following Monday. We will contact you with any delays. Please allow 3-5 business days for UPS Ground delivery. **Shipping Fees are based on product purchase total:**
+Order M-F by 5:00 p.m. EST and we'll ship your order today! Orders placed after 5:00 p.m. Friday will ship the following Monday. Internet orders placed on Saturday/Sunday are shipped the following Monday. We will contact you with any delays. Please allow 3-5 business days for standard Ground delivery. **Shipping Fees are based on product purchase total:**
 
 Contiguous U.S.A.:  
 Up to $59.99: $9.95  
@@ -50,7 +50,7 @@ $500.00 and up: 5% of Order
 Canada, GU, VI, and PR:  
 The shipping rates above apply, plus an additional 15% of your Order Subtotal. 
 
-Orders to AK and HI will ship via UPS Ground, and an additional $15.00 will be added to your order.
+Orders to AK and HI will ship via USPS or UPS Ground, and an additional $15.00 will be added to your order.
 
 In a hurry? Next Day and Second Day UPS are available upon your request. Additional charges determined by weight and zone will be added to your invoice. Please place your rush order by phone. Our Customer Service Team will gladly help you!
 
@@ -62,7 +62,7 @@ In certain circumstances we may require a signature for delivery. Orders requiri
 
 **Payment Options**
 
-If your order is being billed to a health care practice, professional corporation or is submitted on a purchase order form we will be happy to bill you. All sales are FOB Omaha, Nebraska and NET 10 days. For individuals, please pre-pay by check, money order, Master Card, Visa, American Express, or Discover Card.
+If your order is being billed to a health care practice, professional corporation or is submitted on a purchase order form we will be happy to bill you. Completion of a credit application may be required. All sales are FOB Omaha, Nebraska and NET 10 days. For individuals, please pre-pay by check, money order, Master Card, Visa, American Express, or Discover Card.
 
 Please note: Prices on our website and in our catalog do not include sales tax, or any brokerage, duty, custom or GST fees.
 
@@ -79,7 +79,13 @@ MediBadge, Inc. reserves the right to accept or reject any orders, and also rese
 
 **Resale Policy**
 
-MediBadge, Inc. products are not intended for resale. Licensed products may not be purchased by resellers. A distributor or reseller is defined as any individual or entity that purchases items from MediBadge, Inc. with the intent to sell. Promotional offers and discounts will not be honored on orders from resellers.
+MediBadge, Inc. products are not intended for resale.
+
+MediBadge products may be purchased solely for the purpose of using as giveaway items and are not intended for resale. Licensed products may not be purchased by resellers. A reseller is defined as any individual or entity that purchases items from MediBadge, Inc. with the intent to sell. Permission is not granted to purchase licensed items to resell on online auction sites or other online retailers or storefronts.
+
+MediBadge licensed stickers are intended for non-commercial use and may not be a) used to decorate other items which will thereafter be sold or b) bundled with other items which will thereafter be sold.
+
+Promotional offers and discounts will not be honored on orders from resellers.
 
 MediBadge, Inc. reserves the right to accept or reject any orders, and also reserves the right to limit discounts, offers and purchase quantities. Promotional offers are subject to change or end with or without notice at any time.
 
