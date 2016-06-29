@@ -1,40 +1,17 @@
-> *The following text is extracted and transformed from the enterprisingschools.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172600id_/http%3A//enterprisingschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisingschools.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Enterprising Schools
+# Legal
 
-**Privacy Statement**
+* * *
 
-This Privacy Policy (“Privacy Policy”) is designed to help you understand generally how Gray Matters Capital (GMC) and its affiliated entities use and disclose information about you in connection with the website on which this Privacy Policy is posted (the “Site”). EnterprisingSchools.com is the trade name for Gray Matters Capital Foundation (GMC) and its affiliated for-profit entities. References to GMC include, where appropriate, its affiliated entities. This privacy policy has also been adopted by Gray Matters Capital, Inc (the “EnterprisingSchools.com”).
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-By using or accessing the Site, you expressly consent to our collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy is effective upon your first use of or access to the Site.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**INFORMATION WE COLLECT**
 
-_Personal Information_. “Personal Information” means information that personally identifies you, such as your name, phone number, mailing address or email address.
 
-_Submitted Information._ GMC and EnterprisingSchools.com may collect Personal Information about you when you submit such information to us through the Site or otherwise (“Submitted Information”). For example, GMC and EnterprisingSchools.com may collect Personal Information such as your email address to send out periodic updates. We may, in the future, include other requests for Personal Information from you to help tailor the Site for you and deliver personalized information to you. You may request changes to or the removal of your Submitted Information by contacting us at [info@graymatterscap.com](mailto:info@graymatterscap.com). If we agree to remove such Submitted Information, you acknowledge and agree that we may continue to retain such Submitted Information in our archives and backup locations, until such archives or backups are destroyed or overwritten. You agree not to submit Personal Information about others without either their or our prior written consent.
-
-_Browsing Information._ When you use the Site, GMC and EnterprisingSchools.com or our servers (which may be hosted by a third party service provider) collect information automatically about your activities while using the Site (“Browsing Information”). Browsing Information may include the web pages you view, the times you view them, the search terms you use, information about the browser you are using as well as your IP address. An IP address is a number that identifies your computer’s location on the Internet and may be automatically assigned to your computer when you use the Internet. GMC and EnterprisingSchools.com may also use “cookies” or other tracking mechanisms in connection with the collection of Browsing Information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. GMC and EnterprisingSchools.com may, in the future, collect other Browsing Information from you to help us tailor the Site for you and deliver personalized information to you. Your Personal Information may be linked to your Browsing Information.
-
-**Use of Information**  
-GMC and EnterprisingSchools.com may use your Submitted Information and Browsing Information to send you emails that you have requested and for general administrative, technical, marketing, human resource, legal and other purposes related to our operations.
-
-**Disclosure of Personal Information**.  
-Except as otherwise noted below, we do not disclose Personal Information to non-affiliated third parties. We may disclose Personal Information to non-affiliated third parties: (i) to fulfill specific requests that you have submitted; (ii) to provide, maintain, enhance, or add to the functionality of the Site; (iii) when required by law or under the good-faith belief that such disclosure is necessary in order to conform to applicable law, comply with subpoenas, court orders or legal process served on GMC and EnterprisingSchools.com; or (iv) to establish or exercise GMC or EnterprisingSchools.com legal rights or defend against legal claims, and to protect the property or interests of GMC and EnterprisingSchools.com, their respective agents and employees, portfolio companies, personal safety, or the public. Under certain circumstances, GMC and EnterprisingSchools.com may be prohibited by law, court order or other legal process from providing notice of the disclosure, and GMC and EnterprisingSchools.com reserve the right to not provide such notice in their sole discretion.
-
-GMC and EnterprisingSchools.com cannot ensure that your Personal Information will not be disclosed to non-affiliated third parties due to reasons beyond its reasonable control.
-
-We may disclose Personal Information to affiliates and we may disclose Browsing Information and/or aggregated information that does not include individual Personal Information to third parties.
-
-GMC and EnterprisingSchools.com will transfer Personal Information and Browsing Information if GMC and/or EnterprisingSchools.com are acquired by or merged with a third party. In this event, GMC and its affiliates will provide notice on the Site prior to such transfer of Personal Information and Browsing Information.
-
-GMC and EnterprisingSchools.com may have operations in a various countries, and you acknowledge and agree that GMC and EnterprisingSchools.com may transfer your Personal Information worldwide, so long as such transfer is otherwise in compliance with this Privacy Policy and applicable laws.
-
-**Updates to Privacy Policy**  
-We may update this Privacy Policy from time to time as the Site changes. If we update this Privacy Policy, we will post the updated Privacy Policy on the Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site.
-
-**Third Party Information, Services and Tools.**  
-The Site contains information, services and tools provided by third parties, whether through embedded modules, links or other technologies. Use of such information, services and tools may be governed by the privacy policies of such third parties and not GMC or EnterprisingSchools.com Please refer to such third parties for their privacy policy to determine how they collect, use and disclose your information.
-
-**Questions**  
-If you have questions about this Privacy Policy, please contact us by email at [info@graymatterscap.com](mailto:info@graymatterscap.com) .
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
