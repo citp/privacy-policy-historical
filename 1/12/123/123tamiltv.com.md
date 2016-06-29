@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 123tamiltv.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610131448id_/http%3A//123tamiltv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123tamiltv.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629133442id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Watch Tamil Movies Online
+# Privacy Policy - Tamil Movies Portal (TamilWire.net)
 
-This Privacy Policy governs the manner in which 123tamiltv.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://123tamiltv.com](http://123tamiltv.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 123tamiltv.com.
+This Privacy Policy governs the manner in which TamilWire collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://tamilwire.net](http://tamilwire.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TamilWire.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-123tamiltv.com may collect and use Users personal information for the following purposes:
+TamilWire may collect and use Users personal information for the following purposes:
 
   * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
@@ -43,17 +43,17 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-123tamiltv.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+TamilWire has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://123tamiltv.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://tamilwire.net/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[123tamiltv.com](http://123tamiltv.com/)  
-[ http://123tamiltv.com](http://123tamiltv.com/)  
-info@tamilwire.com
+[TamilWire](http://tamilwire.net/)  
+[http://tamilwire.net](http://tamilwire.net/)  
+info@tamilwire.net
 
 This document was last updated on September 09, 2013
