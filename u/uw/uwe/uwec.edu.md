@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226022517id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171113id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Wisconsin-Eau Claire
 
