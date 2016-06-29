@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217160841id_/http%3A//www2.membershiptoolkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629055429id_/http%3A//www2.membershiptoolkit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
