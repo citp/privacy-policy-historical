@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the meowsearch.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216182543id_/http%3A//meowsearch.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meowsearch.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Legal
 
-This is the web site of **496 Ltd.**. 
+* * *
 
-Our postal address is:   
-**496 Ltd.**  
-**10685-B Hazelhurst Dr.  
-# 3804  
-Houston, TX 77043**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We can be reached via e-mail at [admin@496ltd.com](mailto:admin@496ltd.com)
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect no information on consumers who browse our Web page.
 
-The information we collect is used to improve the content of our Web page and .
-
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
-
-If you do not want to receive e-mail from us in the future, no action is needed as our company does NOT use any e-mail marketing.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us e-mail at the above address. 
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-return to [MeowSearch](https://web.archive.org/web/20100216182543id_/http%3A//meowsearch.com/index.html "Meow Search")
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
