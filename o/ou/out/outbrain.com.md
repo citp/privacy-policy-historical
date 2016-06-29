@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231110759id_/http%3A//www.outbrain.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629074950id_/http%3A//www.outbrain.com/legal/privacy) for the most accurate reproduction.*
 
-# Outbrain - Privacy Policy
+# Privacy Policy | Outbrain
 
 This privacy and cookie policy (“ **Privacy Policy** “) applies to information collected through the Outbrain Inc. (“ **Outbrain** “) family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URL: **Outbrain.com** (the “ **Site** “) and our platforms: Amplify, Engage, Visual Revenue and Sphere whether accessed via computer, mobile device or other technology (collectively, the “ **Service** “). The Service is offered by Outbrain Inc. and its subsidiaries and affiliated companies (collectively, “ **Outbrain** ,” or “ **we** “, “ **us** “, “ **our** “).
 
@@ -18,7 +18,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
  **Safeharbor**
 
-Outbrain complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Outbrain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view Outbrain’s certification, please visit <http://www.export.gov/safeharbor>.
+To the extent Safe Harbor is in effect, Outbrain complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Prior to its invalidation, Outbrain certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. In addition, Outbrain Inc. has entered into the EU Model Clauses with Outbrain UK Limited. This ensures that to the extent any data is provided to Outbrain UK Limited and transferred to Outbrain Inc., the transfer is in full compliance with EU Data Protection Laws. To learn more about the Safe Harbor program and to view Outbrain’s certification, please visit <http://www.export.gov/safeharbor>.
 
 *  **Information We Collect Automatically**
 
@@ -96,11 +96,9 @@ We may also use third party redirects, which will redirect you through a third p
 
 
 
-You have opted out of outbrain personalization tracking.
+You have Opted In to Outbrain tracking. Outbrain will serve you personalized recommendations
 
-You have opted out of outbrain personalization tracking.
-
-If you have opted out, you should see a message indicating that your opt out was successful.
+You have Opted Out of Outbrain tracking. You will no longer receive personalized recommendations
 
  **Please note, even though you have opted out:**
 
@@ -139,7 +137,7 @@ The Service is operated in the United States. Given that we are an international
 
 *  **Changes**
 
-Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time. If we make any material changes, we will place a prominent notice on the Site prior to the change becoming effective. You should check back here periodically to see if the Privacy Policy has been updated. We will always show the date of the latest modification of the Privacy Policy at the top of the page so you can tell when it was last revised.
+Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time. If we make any material changes, we will place a prominent notice on the Site prior to the change becoming effective. You should check back here periodically to see if the Privacy Policy has been updated. We will always show the date of the latest modification of the Privacy Policy at the bottom of the page so you can tell when it was last revised.
 
 *  **Contact Us**
 
