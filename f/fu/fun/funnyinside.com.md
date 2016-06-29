@@ -1,24 +1,17 @@
-> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227032701id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Policy
+# Legal
 
-  
-**Funnyinside.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
+* * *
 
-**Personal Information**  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.   
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Cookies**  
-Cookies, by themselves, cannot be used to find out the identity of any user. Site name will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies (for example, to track what ads you've seen to avoid you seeing them again), most browsers allow you to reject cookies or to choose which cookies to accept. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Newsletter**  
-We collect optin subscriptions to our humor newsletter, but we will never sell or disclose your e-mail address. If you do not want to receive e-mail from us in the future, you can unsubscribe from our mailing list at any time. 
 
-**Sitemeter**  
-Sitemeter is our third party tracking system to track the usage of our site. For more info you can view their privacy policy. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: 
-
-[ **Click here to get our e-mail address**](http://www.funnyinside.com/email-address.shtml)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
