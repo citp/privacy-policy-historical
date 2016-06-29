@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219011020id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629114154id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/webprivacystatement) for the most accurate reproduction.*
 
-# Muhlenberg College Policies and Procedures
+# Web Privacy Statement - Policies and Procedures | Muhlenberg College
 
-**Muhlenberg College Web Privacy Statement**
+### Muhlenberg College Web Privacy Statement
 
 Muhlenberg College's web sites are configured to preserve the privacy of our users. This Statement describes what information is collected, how it is collected, why it is collected, and how it might be used. The purpose of the Statement is to allow users to decide whether, and how, to make use of the College's web sites.
 
@@ -31,9 +31,10 @@ Much of Muhlenberg's web content includes links to content on web servers belong
 This Statement explains how information collected from users is used by Muhlenberg. Muhlenberg employs best practice in protecting such information. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the College's permission or knowledge (for example, if a web host is "attacked", or is compromised by a virus). For this reason Muhlenberg disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our web sites.
 
 **Contacting us**  
-If you believe that Muhlenberg College's websites are not following stated policy, you may contact us at the following address or phone number.
+If you believe that Muhlenberg College's websites are not following stated policy, you may contact us at the following address or phone number.  
+Our postal address is:
 
-Our postal address is   
-**2400 Chew Street**  
-**Allentown** **, PA, 18104**  
-We can be reached via e-mail at [webmaster@muhlenberg.edu](mailto:webmaster@muhlenberg.edu) or you can reach us by telephone at 484-664-3100
+2400 Chew Street  
+Allentown, PA, 18104
+
+We can be reached via email at [webmaster@muhlenberg.edu](mailto:webmaster@muhlenberg.edu) or you can reach us by telephone at 484-664-3100.
