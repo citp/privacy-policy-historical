@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the noodlenuke.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221213442id_/http%3A//noodlenuke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodlenuke.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174219id_/http%3A//noodlenuke.com/privacy-policy) for the most accurate reproduction.*
 
-# NoodleNuke.com Privacy Policy ‹ NoodleNuke
+# NoodleNuke.com Privacy Policy | NoodleNuke
 
-_Last Updated: January 22, 2015_
+_Last Updated: March 19, 2015_
 
 Generally NOODLENUKE.COM (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).
 
-NOODLENUKE.COM is owned by NOODLENUKE.COM. For NOODLENUKE.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+NOODLENUKE.COM is owned by Picture Wham LLC. For NOODLENUKE.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 **What does this Privacy Policy cover?**
 
