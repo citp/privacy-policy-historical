@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the thenewageparents.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114609id_/http%3A//thenewageparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewageparents.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629135931id_/http%3A//thenewageparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New Age Parents
-
-[](http://crestar.com.sg/index.php/holiday-programmes)
-
-[Home](http://thenewageparents.com/ "Go to Home.") > Inner Left 
 
 This is the Privacy Policy of **New Age Consulting Pte Ltd** and/or our related entities, affiliates and subsidiaries for our websites [New Age Parents](http://thenewageparents.com/) and [New Age Pregnancy](http://newagepregnancy.com/).
 
