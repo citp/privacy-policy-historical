@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221124635id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175238id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Privacy Policy](http://www.politicususa.com/privacy-policy "Permalink to Privacy Policy")
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at politicususa@gmail.com.
 
@@ -41,7 +39,3 @@ Politicususa has no access to or control over these cookies that are used by thi
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Politicususa’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-**_Privacy Policy_** was written by Arias Rowe for PoliticusUSA.
-
-© PoliticusUSA, Sat, Mar 20th, 2010 — All Rights Reserved
