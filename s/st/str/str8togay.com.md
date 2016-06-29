@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the str8togay.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229090029id_/http%3A//www.str8togay.com/terms/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the str8togay.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629090722id_/http%3A//www.str8togay.com/terms/pp) for the most accurate reproduction.*
 
-# Str8 to Gay :: Privacy Policy
+# Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Men.com network ("our", "we", "us" the "site") websites including but not limited to men.com, drillmyhole.com, str8togay.com, and bigdicksatschool.com, thegayoffice.com, jizzorgy.com In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Men.com network ("our", "we", "us" the "site") websites including but not limited to men.com, drillmyhole.com, str8togay.com, and bigdicksatschool.com, thegayoffice.com, jizzorgy.com, supergayhero.com In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
 ## USE
 
