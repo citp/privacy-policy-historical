@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finepix-x100.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222010722id_/http%3A//www.finepix-x100.com/en/whats-new/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finepix-x100.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629203642id_/http%3A//www.finepix-x100.com/en/whats-new/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | FUJIFILM FinePix X100
 
