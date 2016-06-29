@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230003136id_/http%3A//www.morgan.edu/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morgan.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629121414id_/http%3A//www.morgan.edu/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ _**Collection of Information**_
 Some pages/sections of our site may allow you to communicate with us to receive more information and in such cases we may request personal information. The University may use this information to analyze trends, create summary statistics for the purpose of determining technical design specifications, and identify system performance or problem areas. At Morgan State University, we believe that privacy is very important, so we will never sell user information to any third party for any reason. Typically, you will not receive any unsolicited email as a result of supplying this information; however, if you do receive any unwanted email, you may express interest in discontinuing by replying to the email with the word "unsubscribe" in the subject line.
 
 **_Links to External/Third Party Sites_**  
-Some of The University's web pages may contain links to other, third party web sites that are external to "morgan.edu", "morganstatebears.com", and "givetomorgan.com". Please be aware that these outside domains are controlled by third parties and we are not responsible for the information contained on their web sites, nor the privacy practices on these third party web sites. You should review the privacy policies posted before accessing and using these third party web sites.
+Some of The University's web pages may contain links to other, third party web sites that are external to "morgan.edu", "morganstatebears.com", and "givetomorgan.org". Please be aware that these outside domains are controlled by third parties and we are not responsible for the information contained on their web sites, nor the privacy practices on these third party web sites. You should review the privacy policies posted before accessing and using these third party web sites.
 
 **_Cookies_**   
 Cookies are small data files that some web sites write to your hard drive when you visit them, and they record and store your information. A cookie file can contain information such as a user ID that the web site may use to track the pages you've visited, however a cookie can contain personal information that only you would supply personally. A cookie does not contain any sensitive information, such as credit card information, nor can it read data off of your hard drive.
