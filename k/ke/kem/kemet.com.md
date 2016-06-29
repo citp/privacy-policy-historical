@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219154133id_/http%3A//www.kemet.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155512id_/http%3A//www.kemet.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -34,4 +34,4 @@ We periodically remove individual profiles created on our site with extended per
 
 ### Links To Other Sites
 
-This site contains links to other sites; www.kemet.com is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites; www.kemet.com is not responsible for the privacy practices or the content of such Web sites. ​​​​
