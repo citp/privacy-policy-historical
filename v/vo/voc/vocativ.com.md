@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128182955id_/http%3A//www.vocativ.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629185302id_/http%3A//www.vocativ.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy | Vocativ
+# Privacy Policy - Vocativ
 
-**  
-Vocativ**
+**Vocativ**
 
 Privacy Policy
 
@@ -11,7 +10,7 @@ Vocativ, LLC (the “ **Company** ”, “ **we** ”, “ **our** ” or “ **
 
 The Policy describes the ways we collect and use your personal information on Vocativ and the rights and options available to you with respect to your information.
 
-This policy is incorporated by reference to Vocativ’s [Terms of Use](https://web.archive.org/about/terms-use/) (the “ **Terms** “), and constitutes an integral part of them.
+This policy is incorporated by reference to Vocativ’s [Terms of Use](http://www.vocativ.com/terms-use/) (the “ **Terms** “), and constitutes an integral part of them.
 
 **Personal information that you provide**
 
@@ -82,13 +81,13 @@ You also have the option of leaving your Vocativ account profile image blank or 
 
 You control what social network actions to take (if any) via Vocativ. You may disconnect from your social network account through every Vocativ webpage.
 
-### **Accessing your personal information  **
+### **Accessing your personal information   **
 
 You may access your account profile on Vocativ at any time, and review your profile information. If you find that the information in your account is not accurate, complete or updated, then you must correct it. Please keep in mind that false, incorrect, or outdated information may prevent you from registering with Vocativ and impair our ability to provide you with Vocativ.
 
-### **Deleting your account  **
+### **Deleting your account   **
 
-You may request the deletion of your account on Vocativ by contacting our support team at: [support@vocativ.com](mailto:support@vocativ.com). Once we complete processing your request, your Vocativ account and the account information you provided during registration, will be removed from our servers. When processing your request, we may require that you provide us with additional information to verify your identity.
+You may request the deletion of your account on Vocativ by contacting our support team at: [support@vocativ.com](mailto:support@vocativ.com). Once we complete processing your request, your Vocativ account and the account information you provided during registration, will be removed from our servers. When processing your request, we may require that you provide us with additional information to verify your identity.
 
 Be advised that deleting your account on Vocativ will not remove Vocativ comments that you have posted (or your nickname and account profile image, which appear next to the commenting text). These may still be accessible to, and viewed by, all Internet users, as well as Vocativ users.
 
@@ -124,6 +123,6 @@ You agree to be bound by all changes made in this Policy. Your continued use of 
 
 **Contact us**
 
-You may send us requests, responses, questions and complaints through the channels listed at [vocativ.com/contacts/](https://web.archive.org/contacts/). We will make efforts to address your inquiry quickly. ****
+You may send us requests, responses, questions and complaints through the channels listed at [vocativ.com/contacts/](http://www.vocativ.com/contacts/). We will make efforts to address your inquiry quickly. ****
 
 **Updated: October 20, 2013.**
