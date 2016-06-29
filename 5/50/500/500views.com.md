@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500views.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221094446id_/http%3A//500views.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500views.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629141934id_/http%3A//500views.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buy YouTube Views - 500Views
 
