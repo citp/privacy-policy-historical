@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherrycredits.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022124045id_/http%3A//www.cherrycredits.com/sg/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrycredits.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629101306id_/http%3A//www.cherrycredits.com/sg/pages/privacy-policy) for the most accurate reproduction.*
 
 # Cherry Credits
 
@@ -49,7 +49,7 @@ The Web Site may contain links to or references to other web sites that may be a
 
 If you have questions or concerns about Cherry Credits Privacy Policy or your personal data, please contact us via Cherry Messenger. Alternatively, you may email us at [dpo@cherrycredits.com](mailto:dpo@cherrycredits.com). 
 
-3 Fusionopolis Way Symbiosis #11-20   
+3 Fusionopolis Way Symbiosis #11-25   
 Singapore 138633   
 Office Contact: 6747 6676   
 Customer Service Contact: [gardener at cherrycredits dot com](mailto:gardener@cherrycredits.com)
