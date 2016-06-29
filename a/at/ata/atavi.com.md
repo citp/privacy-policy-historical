@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atavi.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217213932id_/http%3A//atavi.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atavi.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629140511id_/http%3A//atavi.com/content/privacy) for the most accurate reproduction.*
 
 # Atavi - bookmark manager
 
