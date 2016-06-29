@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229093731id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629163102id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
