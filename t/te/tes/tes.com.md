@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919183548id_/https%3A//www.tes.com/teaching-resources/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629231542id_/https%3A//www.tes.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Teaching Resources - TES
+# Privacy Policy and Cookies Policy | TES
 
 This is the Privacy Policy that applies to use of websites ("Sites") and services ("Service") which are under the control of TES Global Limited of 26 Red Lion Square, London, WC1R 4HQ (" **TES Global** "). References to "we", "our" and "us" are references to TES Global.
 
@@ -8,7 +8,7 @@ We take your privacy seriously and we are committed to keeping your information 
 
 This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by email at [privacy@tes.com](mailto:privacy@tes.com).
 
-By clicking "I Agree Finish" or "Accept" during registration or by purchasing a product or subscribing to a service or by using this Site and submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://www.tes.co.uk/content/privacy-policy) .
+By clicking "I Agree Finish" or "Accept" during registration or by purchasing a product or subscribing to a service or by using this Site and submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this Privacy Policy.
 
 If you do not accept this privacy policy you should not submit your personal data to us and you may find that you will not be able to make full use of the website and its services.
 
@@ -32,6 +32,7 @@ The TES Global Sites and Services include, and without limitation:
   * tesclassroom.com
   * tesdigital.com
   * tes.co.uk/labs
+  * wikispaces.com
 
 
 
@@ -51,7 +52,7 @@ We may use 'cookies' to identify you and your use of Sites when you visit this a
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you reject all cookies, you will not be able to use products or services that require you to "sign in" and you may not be able to take full advantage of offerings or use on all TES Global Sites.
 
-For further information please see our [Cookie Policy](https://www.tes.co.uk/article.aspx?storyCode=6229959) and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+For further information please see our Cookie Policy below and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 ### **Use of personal information**
 
@@ -95,7 +96,7 @@ In some circumstances it may be necessary for us to use, share or transfer your 
 
 ### **Changes to the Privacy Statement**
 
-From time to time we may be required or, need to, update this Privacy Statement. Where necessary and appropriate we may contact you through the email address that you have provided, to advise of a change. All changes will be accessible from all TES Global Sites through the "[Privacy Policy](https://www.tes.co.uk/content/privacy-policy)" and notification of the last date of change will be placed at the top.
+From time to time we may be required or, need to, update this Privacy Statement. Where necessary and appropriate we may contact you through the email address that you have provided, to advise of a change. All changes will be accessible from all TES Global Sites through the "[Privacy Policy](https://web.archive.org/privacy-policy)" and notification of the last date of change will be placed at the top.
 
 ### **Legal and Contact Information**
 
@@ -762,7 +763,7 @@ Whilst in legal interpretations there are degrees of intrusiveness, TES Global h
 
 ### **Changing your cookie settings**
 
-To enable or disable cookies, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' facility). Alternatively, an external resource is available at [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://www.tes.co.uk/www.allaboutcookies.org) providing specific information about cookies and how to manage them.
+To enable or disable cookies, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' facility). Alternatively, an external resource is available at [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://www.allaboutcookies.org/) providing specific information about cookies and how to manage them.
 
 Please note that if you set your browser to disable cookies, you may not be able to access secure areas of this website, such as any online services that require registration.
 
