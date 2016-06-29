@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040204id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629195410id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy : Thameslink
+# Privacy policy : Thameslink and Great Northern
 
   1. Introduction and consent
   2. Information we may collect from you
