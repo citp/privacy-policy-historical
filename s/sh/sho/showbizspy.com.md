@@ -1,111 +1,72 @@
-> *The following text is extracted and transformed from the showbizspy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114526id_/http%3A//www.showbizspy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showbizspy.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629234241id_/http%3A//www.showbizspy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Showbiz Spy
+# Privacy - Showbiz Spy
 
-Showbiz Spy is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+This privacy statement covers Showbiz Spy:
 
-**1\. What information do we collect?**
+Information Collection
 
-We may collect, store and use the following kinds of personal data:
+Showbiz Spy may collect information from our users at different points on the site. Showbiz Spy is the sole owner of the information collected on ShowbizSpy.com.
 
-(A) Information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;
+Comments and Posts
 
-(B) Information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including name and email address;
+Showbiz Spy users can choose to write comments or posts on the site. To leave a comment, users must submit a valid e-mail address. Showbiz Spy uses this information to screen out users who leave comments that violate our terms and conditions of use. Showbiz Spy does not share user information with any other organization.
 
-(C) Information that you provide to us for the purpose of registering with us (including name and email address):
+Newsletters
 
-(D) Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including name, sex, age and email address);
+Showbiz Spy offers e-mail newsletters. Users who subscribe to the Showbiz Spy newsletter will receive regular email updates about new content and features.
 
-(E) Any other information that you choose to send to us; and
+To sign up to receive regular e-mails, users must submit information including a valid e-mail address. Showbiz Spy does not share contact or personal information with any other organization.
 
-**2\. Cookies**
+This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular e-mails, including new articles added to the site.
 
-We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+Showbiz Spy may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
 
-We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to [recognize your computer when you visit our website, and to personalize our website for you]. [Our advertisers may also send you cookies.]
+Cookies
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites [including this one].
+Showbiz Spy may use cookies. A cookie is a piece of data stored on the user’s computer, tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
 
-We use Google Analytics and Site Meter to analyze the use of this website. Both Google Analytics and Site Meter generate statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Both Google and Site Meter will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html> ; Site Meter's privacy policy is available at: <http://sitemeter.com/?a=privacy>.
+Third-Party Cookies
 
-**3\. Using your personal data**
+We use third-party advertising companies to serve ads and collect information when you visit Showbiz Spy. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Showbiz Spy has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+Log Files
 
-We may use your personal information to:
+Like most websites, our servers use log files. These log files record include Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Showbiz Spy uses this information to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Showbiz Spy may use a tracking utility that uses log files to analyze user movement.
 
-(A) Administer the website;
+Legal Disclaimer
 
-(B) Improve your browsing experience by personalizing the website;
+Though we make every effort to preserve user privacy, Showbiz Spy may need to disclose personal information when required by law, wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
-(C) Enable your use of the services available on the website;
+Business Transitions
 
-(D) Send to you goods purchased via the website, and supply to you services purchased via the website;
+In the event Showbiz Spy goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred.
 
-(E) Send statements and invoices to you, and collect payments from you;
+Links
 
-(F) Send you general (non-marketing) commercial communications;
+Showbiz Spy publishes links to other sites. Please be aware that Showbiz Spy is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Showbiz Spy.
 
-(G) Send you email notifications which you have specifically requested;
+Third-Party Cookies
 
-(H) Send to you [our newsletter and other] marketing communications (relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us;
+Some of our business partners (i.e. advertisers), may use cookies on our site. Showbiz Spy has no access to or control over these cookies once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Showbiz Spy only, and does not cover the use of cookies by any advertisers.
 
-(I) Provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+Third-Party Advertising
 
-(J) Deal with inquiries and complaints made by or about you relating to the website.
+The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to showbizspy.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+Information Collected Through Third-Party Sources
 
-**4\. Other disclosures**
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you: 
+Demographic information (gender, age, HHI, job title, interests, etc.)  
+Advertising information (clicks, interactions, post-impression performance data)  
+Social networking information (Facebook, Twitter, LinkedIn, etc.)  
+Research information (data collected from partners)
 
-(A) To the extent that we are required to do so by law;
+Notification of Changes
 
-(B) In connection with any legal proceedings or prospective legal proceedings;
+Whenever Showbiz Spy changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
-(C) In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and 
+Contact Information
 
-(D) To the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-**5\. International data transfers**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-If you are in the European Union, information which you provide may be transferred to countries (including the United States and Japan), which do not have data protection laws equivalent to those in force in the European Union. You expressly agree to such transfers.
-
-**6\. security of your personal data**
-
-We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted [using SSL technology]. 
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
-
-**7\. Policy amendments**
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
-
-We may also notify you of changes to our privacy policy by email. 
-
-**8\. Your rights**
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00 / $20.00).
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
-
-**9\. Third party websites**
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-**10\. Updating information**
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-**11\. Contact**
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by [email](https://web.archive.org/contact).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/about/).
