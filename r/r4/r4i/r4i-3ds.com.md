@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the r4i-3ds.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601061104id_/http%3A//r4i-3ds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r4i-3ds.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : r4i | r4i 3ds | r4i gold | r4i sdhc | r4 3ds, R4i-3DS
+# Legal
 
-## SHARING INFORMATION
+* * *
 
-What personal information do we collect? When you place an order with us, we ask for the standard personal information in our order form (such as name, address, email, contact phone number, and so forth) in order for us to properly ship your order to you. This information is kept secure in protected systems. If necessary, we may use this information to contact you (via email for example) regarding a pending order, or to answer a question prompted from a customer.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## ORDER PROCESSING
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-From time to time, you may receive promotional information and special offers through e-mail or regular mail from R4i-3DS. However, if you do not want to receive e-mail communications or other promotional communications, you are free to opt out of our mailing list at any time. We do not sell, lease, or rent your email address without your permission. From time to time, we make certain third party offers available through our site. If you accept such offer, we will disclose your contact and billing information to that third party, even if you have previously opted out of our mailing list.
 
-## PROMOTIONAL MARKETING
 
-What other kind of information do we collect? We use a commonly known file called a "cookie" on our site. These are the same cookies used on millions of other websites in order to help you navigate our site. In the case of our site, we use cookies to let your computer remember the contents (products) in your shopping cart and related information. In some cases, we may use a cookie to let us know if you are coming from a site affiliated with us so that we may attend to that site's due commissions. In the case of affiliated sites, only the subtotal sale amount will be divulged to the affiliates for payment purposes. Personally identifiable information will in NO WAY be provided outside of R4i-3DS in these cases.
-
-Like most other websites, we monitor the aggregate (how many people) traffic statistics on our website. This is done in order to provide our customers with better and more efficient service. These general statistics do NOT personally identify our customers and site visitors.
-
-We use affiliate software to track where potential customers are coming from so that the affiliate site may be paid as a result. This software logs computer ID as a security precaution.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
