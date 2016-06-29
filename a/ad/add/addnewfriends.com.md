@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101072314id_/http%3A//www.addnewfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# MySpace Bot, Friend Adder Bot, Friend Blaster Pro - Start growing your MySpace Friends with the #1 MySpace Friend Adder Bot! | Addnewfriends
+# Legal
 
-**Note:** This Privacy Policy may be modified from time to time. Continued access of AddNewFriends.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+* * *
 
-It is the goal of AddNewFriends.com LLC to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-AddNewFriends.com LLC generally collects personally identifying information with your specific knowledge and consent. For instance, when you register for any portion of our services, you are asked to provide information, such as your e-mail address, name or phone number.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-AddNewFriends.com LLC uses this information to provide you with the service you have requested. For example, if you request information about one of our services, we will use the information you provide to contact you with the information you requested. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-AddNewFriends.com LLC will never sell your personal information. We also do not share information with our affiliates.
 
-You may have read about "cookies," nuggets of information that are placed by a Web site in a storage place on your own computer. We use cookies minimally to maintain state while you use our web site.
-
-Our cookies may, but typically do not, contain personally identifiable information.
-
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
-
-If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of AddNewFriends.com may not function as designed.
-
-While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
-
-Use our [contact](https://web.archive.org/contact) page if you have any questions about our privacy policy.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
