@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the box.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916062536id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629225905id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Box Privacy Policy | Box
 
@@ -28,6 +28,7 @@ We may change this Privacy Policy from time to time. If we make any changes, we 
   * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, which may include saving cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve the Box Services and your experience, customize your experience and preferences, allow you to access and use the Box Services without re-entering your member ID and/or password, understand which areas and features of the Box Services are most popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images (also called "gifs") that may be used in the Box Services or in emails that help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies and how to disable them, please see "Your Choices" below.
   * **Third party cookies:** the use of cookies by third parties you may sign-in from into the Box Services and/or third party applications, is not covered by our privacy policy. We do not have access or control over such cookies.
   * **Third Party clear gifs:** Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+  * **Local Shared Objects:** Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
   * **Google AdSense:** We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
   * **Advertising Cookies:** We partner with third parties to manage our advertising on other sites. Our third parties may use technologies such as cookies to gather information about your activities on this site and other sites you visit in order to provide you advertising based upon your browsing activities and interests. 
 
@@ -39,6 +40,7 @@ You may opt out of third party tracking by these cookies by visiting <http://pre
     * App Nexus – <http://appnexus.com/platform-policy>
     * Google AdSense - <http://www.google.com/policies/technologies/ads/>
     * Bizo - <http://www.bizo.com/opt-out/>
+    * Adobe - <http://www.adobe.com/privacy/opt-out.html#4>
 
 
 
@@ -92,15 +94,15 @@ The Box Services offers collaboration features or other integrated tools, which 
 
 [](https://privacy.truste.com/privacy-seal/Box,-Inc-/validation?rid=952e4c76-53c4-40d2-a5f5-b10978285b93 "Validate TRUSTe privacy certification")
 
-Box has received TRUSTe's Privacy Seal which means that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with its requirements regarding transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe certification only covers information collected on our site [www.box.com](https://www.box.com/) and does not cover any information collected through our mobile applications. In addition, Box’s privacy practices, as described in this policy, comply with the APEC Cross Border Privacy Rules System. To learn more, please visit <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
+Box has received TRUSTe's Privacy Seal which means that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with its requirements regarding transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe certification only covers information collected on our site [www.box.com](https://www.box.com/) and Box mobile application. The TRUSTe certification does not cover any information collected through any other application or medium. In addition, Box’s privacy practices, as described in this policy, comply with the APEC Cross Border Privacy Rules System. To learn more, please visit <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
 
 ### Safe Harbor
 
 [](http://www.export.gov/safeharbor/)
 
-Box complies with the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland. Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Box’s certification, please visit <http://www.export.gov/safeharbor/>.
+To help our customers continue to validate transfers of personal data under the EU data protection laws Box adheres to alternative methods for meeting the ‘adequate protection’ requirements of Article 25 of the EU Data Protection Directive (95/46/EC), such as standard contract clauses or Binding Corporate Rules (“BCRs”). To the extent that Safe Harbor is in effect, Box complies with the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland. Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Box’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-If you have any questions about this Privacy Policy, you should first contact us at [support@box.com](mailto:support@box.com). If you do not receive a response or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: <https://feedback-form.truste.com/watchdog/request> TRUSTe will serve as a liaison with Box to resolve your concerns.
+If you have any questions about this Privacy Policy, you should first contact us at support@box.com. If you do not receive a response or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: <https://feedback-form.truste.com/watchdog/request>. TRUSTe will serve as a liaison with Box to resolve your concerns.
 
 ### Security
 
