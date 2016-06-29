@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090751id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629161941id_/https%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Copyright Clearance Center
+# Privacy Policy - Copyright Clearance Center
 
 [](http://privacy.truste.com/privacy-seal/Copyright-Clearance-Center/validation?rid=a670a051-838d-4688-8877-e91e43bbe22d "TRUSTe online privacy certification")
 
