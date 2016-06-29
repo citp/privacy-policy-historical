@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073623id_/http%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629195930id_/http%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and terms | Free-Strip-Games.com
 
@@ -48,6 +48,14 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+##  Comments and posts
+
+We have the right to delete any comments posted on our website. Any illegal or offensive comment will be immediately deleted and its author banned from our forums.
+
+##  Account
+
+It is strictly forbidden to post one's credentials on a third-party website or on our website. Doing so will result in a permanent ban from our website.
+
 ##  Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -60,7 +68,7 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-This policy was last modified on 2014-01-29.
+This policy was last modified on 2016-01-27.
 
 ##  Contacting us
 
