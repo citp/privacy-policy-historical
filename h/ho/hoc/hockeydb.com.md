@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112307id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190144id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Hockeydb.com
 
