@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellmenow.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026071426id_/http%3A//tellmenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellmenow.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629105757id_/http%3A//www.tellmenow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TellMeNow.com | News, Politics, Entertainment, Life, Humor, Community
+# Privacy Policy | TellMeNow.com | News, Politics, Entertainment, Life, Inspire, Viral and Videos
 
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites.
 
