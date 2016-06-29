@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073709id_/https%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629231542id_/https%3A//www.tes.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies Policy | tesconnect
+# Privacy Policy and Cookies Policy | TES
 
 This is the Privacy Policy that applies to use of websites ("Sites") and services ("Service") which are under the control of TES Global Limited of 26 Red Lion Square, London, WC1R 4HQ (" **TES Global** "). References to "we", "our" and "us" are references to TES Global.
 
 We take your privacy seriously and we are committed to keeping your information private. We have notified the Information Commissioner's Office that we will process your personal data in accordance with the UK Data Protection Act 1998.
 
-This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by email at [privacy@tes.co.uk](mailto:privacy@tes.co.uk)
+This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by email at [privacy@tes.com](mailto:privacy@tes.com).
 
-By clicking "I Agree Finish" or "Accept" during registration or by purchasing a product or subscribing to a service or by using this Site and submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://www.tes.co.uk/content/privacy-policy) .
+By clicking "I Agree Finish" or "Accept" during registration or by purchasing a product or subscribing to a service or by using this Site and submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this Privacy Policy.
 
 If you do not accept this privacy policy you should not submit your personal data to us and you may find that you will not be able to make full use of the website and its services.
 
@@ -16,7 +16,7 @@ If you do not accept this privacy policy you should not submit your personal dat
 
 The TES Global Sites and Services include, and without limitation:
 
-  * tes.co.uk
+  * tes.com
   * tesconnect.com
   * tsleducation.com
   * teshirewire.com
@@ -32,6 +32,7 @@ The TES Global Sites and Services include, and without limitation:
   * tesclassroom.com
   * tesdigital.com
   * tes.co.uk/labs
+  * wikispaces.com
 
 
 
@@ -51,7 +52,7 @@ We may use 'cookies' to identify you and your use of Sites when you visit this a
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you reject all cookies, you will not be able to use products or services that require you to "sign in" and you may not be able to take full advantage of offerings or use on all TES Global Sites.
 
-For further information please see our [Cookie Policy](https://www.tes.co.uk/article.aspx?storyCode=6229959) and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+For further information please see our Cookie Policy below and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 ### **Use of personal information**
 
@@ -59,7 +60,7 @@ Contact and other details you supply as part of the registration process will be
 
 We may also use  _ **your personal**_  information to personalise aspects of our services, to carry out market research surveys, to contact you about opportunities that we believe may be relevant to you and to provide you with updates about developments on the sites and information about the products and services we offer.  _ **Information may also be used for marketing and strategic development purposes**_ , for example to identify trends usage. It is your responsibility to ensure that any information submitted as part of the registration process, to your user account or as part of an application to a job posting is accurate and up to date.
 
-If you have elected to receive information about our products or services or the products or services offered jointly with or on behalf of other organisations and/or "alerts" from us via email (by creating an alert in the Jobs by Email service) and would like at any time to unsubscribe from this service, please email us at [info@tes.co.uk](mailto:info@tes.co.uk) [or click on the " **unsubscribe** " link at the bottom of an email].
+If you have elected to receive information about our products or services or the products or services offered jointly with or on behalf of other organisations and/or "alerts" from us via email (by creating an alert in the Jobs by Email service) and would like at any time to unsubscribe from this service, please email us at [info@tes.com](mailto:info@tes.com) [or click on the " **unsubscribe** " link at the bottom of an email].
 
 ### **Disclosures**
 
@@ -95,7 +96,7 @@ In some circumstances it may be necessary for us to use, share or transfer your 
 
 ### **Changes to the Privacy Statement**
 
-From time to time we may be required or, need to, update this Privacy Statement. Where necessary and appropriate we may contact you through the email address that you have provided, to advise of a change. All changes will be accessible from all TES Global Sites through the "[Privacy Policy](https://www.tes.co.uk/content/privacy-policy)" and notification of the last date of change will be placed at the top.
+From time to time we may be required or, need to, update this Privacy Statement. Where necessary and appropriate we may contact you through the email address that you have provided, to advise of a change. All changes will be accessible from all TES Global Sites through the "[Privacy Policy](https://web.archive.org/privacy-policy)" and notification of the last date of change will be placed at the top.
 
 ### **Legal and Contact Information**
 
@@ -198,9 +199,9 @@ ASP.NET_SessionId
 
 | 
 
-tes.co.uk  
-community.tes.co.uk  
-account.tes.co.uk
+tes.com  
+community.tes.com  
+account.tes.com
 
 | 
 
@@ -214,7 +215,7 @@ CSAnonymous
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -228,7 +229,7 @@ CommunityServer-UserCookie2101
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -242,7 +243,7 @@ CommunityServer-LastVisitUpdated2101
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -256,7 +257,7 @@ ui:colour
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -270,7 +271,7 @@ CommunityServer-AutoLoginCookie
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -284,7 +285,7 @@ Cookies used to store the user';s preference for whether or not to be logged on 
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -298,7 +299,7 @@ tsl-comp
 
 | 
 
-.tes.co.uk
+.tes.com
 
 | 
 
@@ -312,11 +313,11 @@ TesApplication
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
-Cookie written when a user is authenticated on the tes.co.uk website. As this cookie is defined as intrusive, the unique values in the cookie are encrypted.
+Cookie written when a user is authenticated on the tes.com website. As this cookie is defined as intrusive, the unique values in the cookie are encrypted.
 
 | 
 
@@ -326,7 +327,7 @@ TES_Compliance
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -340,11 +341,11 @@ TSLCookie
 
 | 
 
-.tes.co.uk
+.tes.com
 
 | 
 
-SSO (Single Sign On) cookie that authenticates users on all sites within the .tes.co.uk subdomain. As this cookie is defined as intrusive, the unique values in the cookie are encrypted.
+SSO (Single Sign On) cookie that authenticates users on all sites within the .tes.com subdomain. As this cookie is defined as intrusive, the unique values in the cookie are encrypted.
 
 | 
 
@@ -354,7 +355,7 @@ SSO (Single Sign On) cookie that authenticates users on all sites within the .te
 
 | 
 
-.tes.co.uk
+.tes.com
 
 | 
 
@@ -368,7 +369,7 @@ Written when a user is in the resource details page and used to check for user r
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -382,7 +383,7 @@ CommunityServer-UserCookie9999
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -396,7 +397,7 @@ CommunityServer-LastVisitUpdated-9999
 
 | 
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -436,9 +437,9 @@ _utma
 
 | 
 
-tes.co.uk
+tes.com
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -461,9 +462,9 @@ _utmb
 
 | 
 
-tes.co.uk
+tes.com
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -486,9 +487,9 @@ _utmc
 
 | 
 
-tes.co.uk
+tes.com
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -511,9 +512,9 @@ _utmz
 
 | 
 
-tes.co.uk
+tes.com
 
-community.tes.co.uk
+community.tes.com
 
 | 
 
@@ -536,7 +537,7 @@ s_sq
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -555,7 +556,7 @@ undefined_s
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -574,7 +575,7 @@ s_evar33
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -593,7 +594,7 @@ s_evar32
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -612,7 +613,7 @@ s_evar31
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -631,7 +632,7 @@ s_invisit
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -650,7 +651,7 @@ s_vnum
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -669,7 +670,7 @@ s_cc
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -688,7 +689,7 @@ ev5
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -707,7 +708,7 @@ ev6
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -726,7 +727,7 @@ ev7
 
 | 
 
-tes.co.uk
+tes.com
 
 | 
 
@@ -744,7 +745,7 @@ IMRID
 
 | 
 
-.tes.co.uk
+.tes.com
 
 | 
 
@@ -762,7 +763,7 @@ Whilst in legal interpretations there are degrees of intrusiveness, TES Global h
 
 ### **Changing your cookie settings**
 
-To enable or disable cookies, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' facility). Alternatively, an external resource is available at [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://www.tes.co.uk/www.allaboutcookies.org) providing specific information about cookies and how to manage them.
+To enable or disable cookies, follow the instructions provided by your browser (usually located within the 'Help', 'Tools' or 'Edit' facility). Alternatively, an external resource is available at [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://www.allaboutcookies.org/) providing specific information about cookies and how to manage them.
 
 Please note that if you set your browser to disable cookies, you may not be able to access secure areas of this website, such as any online services that require registration.
 
