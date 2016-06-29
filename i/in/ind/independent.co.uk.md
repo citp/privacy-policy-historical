@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231193917id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629204608id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
 
 # Privacy Policy | Service | The Independent
 
@@ -17,8 +17,8 @@ Knowing something about our users is necessary to ensure that our service is con
 [User Policies](http://www.independent.co.uk/service/user-policies-a6184151.html)  
 [Cookie Policy](http://www.independent.co.uk/service/cookie-policy-a6184186.html)  
 [Code of Conduct](http://www.independent.co.uk/service/code-of-conduct-a6184241.html)  
-[Complaint Form](http://www.independent.co.uk/service/complaint-form-a6184246.html)  
-[Contact Us](http://www.independent.co.uk/service/contact-us-6251886.html)  
+[Complaint Form](https://independentnews.zendesk.com/hc/en-us/requests/new)  
+[Contact Us](http://www.independent.co.uk/service/contact-us-759589.html)  
 [External Contributors Policy](http://www.independent.co.uk/service/external-contributors-policy-7905982.html)  
 [Community Guidelines](http://www.independent.co.uk/service/community-guidelines-9487166.html)  
 [Competition Ts & Cs](http://www.independent.co.uk/service/competition-ts-cs-5895529.html)  
@@ -126,7 +126,7 @@ You should be aware that by using the Website and those of our partners or any W
 
 You may not wish us to share personal details about you with third parties outside Independent.co.uk, or to use your information in the other ways we have described in this privacy policy.
 
-You can email _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_ at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy.
+You can visit our [customer service portal](https://independentnews.zendesk.com/) at any time to let us know of any objections you may have as to how we use or disclose your data in the ways set out in this privacy policy.
 
 **Message boards, blogs and other public forums**
 
@@ -142,7 +142,7 @@ The Website may, from time to time, contain links to and from the Websites of ad
 
 **Further information**
 
-If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at _[customerservices@independent.co.uk](mailto:customerservices@independent.co.uk)_.
+If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please visit the [customer service portal](https://independentnews.zendesk.com/).
 
   * More about: 
   * [user policies](https://web.archive.org/topic/user-policies)
