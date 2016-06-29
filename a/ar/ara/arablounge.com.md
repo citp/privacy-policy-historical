@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220190907id_/http%3A//arablounge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171636id_/http%3A//arablounge.com/privacy) for the most accurate reproduction.*
 
 # ArabLounge.com
 
