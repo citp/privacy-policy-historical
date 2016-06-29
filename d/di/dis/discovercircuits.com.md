@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192522id_/http%3A//www.discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629134015id_/http%3A//www.discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.discovercircuits.com (updated 10/24/14)
 
