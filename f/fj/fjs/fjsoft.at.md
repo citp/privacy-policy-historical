@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fjsoft.at privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325031336id_/http%3A//www.fjsoft.at/en/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjsoft.at privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629121307id_/http%3A//www.fjsoft.at/en/privacy_policy.php) for the most accurate reproduction.*
 
 # FJ Software Development
 
@@ -38,8 +38,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 [fj.wechselberger@gmx.at](mailto:fj.wechselberger@gmx.at)
 
 Franz Josef Wechselberger  
-Dorf 140/2  
-6292 Finkenberg  
+Unterberg 150/1   
+6278 Hainzenberg   
 Austria 
-
-The Privacy Policy of InstallMonetizer (a recommendation platform used by the installer of MyPhoneExplorer) can be found [**_here_**](http://www.fjsoft.at/en/privacy_policy_im.php)
