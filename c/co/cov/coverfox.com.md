@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404144132id_/https%3A//www.coverfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183842id_/https%3A//www.coverfox.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Coverfox.com
 
 This Privacy Policy governs the manner in which Coverfox collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coverfox.com website ('Site'). This privacy policy applies to the Site and all products and services offered by Coverfox. 
 
