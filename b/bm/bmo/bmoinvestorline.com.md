@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/our-privacy-code) for the most accurate reproduction.*
 
 # Our Privacy Code | BMO Financial Group
 
@@ -8,15 +8,15 @@ Rev: March 2014
 BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the Personal Information you have entrusted to us. It is important for you to understand what Personal Information we will collect, how we will use it, and who may see it.
 
 **Scope**  
-This Privacy Code applies to the operations of [BMO Financial Group](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions) in Canada, regardless of how you choose to do business with us – in our branch or office, at an automated banking machine, online, or by telephone.
+This Privacy Code applies to the operations of [BMO Financial Group](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions) in Canada, regardless of how you choose to do business with us – in our branch or office, at an automated banking machine, online, or by telephone.
 
 This Privacy Code outlines our commitment to you and incorporates the following 10 key privacy principles:
 
-We have strict policies and procedures governing how we deal with your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"). Each and every one of our employees is responsible for respecting and protecting the Personal Information to which the employee has access.
+We have strict policies and procedures governing how we deal with your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"). Each and every one of our employees is responsible for respecting and protecting the Personal Information to which the employee has access.
 
 Our Chief Privacy Officer oversees privacy governance including policy, dispute resolution, education, communications activities and reporting to our Board of Directors on privacy matters. Please see Contact Us for information on how to reach our Chief Privacy Officer. 
 
-When we collect your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"), we may use or disclose it to:
+When we collect your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"), we may use or disclose it to:
 
   * verify your identity; 
   * provide and manage products and services you have requested;
@@ -34,9 +34,9 @@ When we collect your [Personal Information](https://web.archive.org/web/20151222
 
 If a new purpose for using your Personal Information develops, we will identify that purpose.
 
-When you apply for a new product or service, we obtain your consent to collect, use or disclose your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") for the purposes set out in Principle 2, Identifying Purpose.
+When you apply for a new product or service, we obtain your consent to collect, use or disclose your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") for the purposes set out in Principle 2, Identifying Purpose.
 
-If you prefer not to receive our [Direct Marketing](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Direct Marketing") communications and/or not have your Personal Information shared among the members of BMO Financial Group for the purpose of marketing, you can have your name deleted from our Direct Marketing and/or shared information lists. If you want to change your privacy preferences, see Contact Us.
+If you prefer not to receive our [Direct Marketing](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Direct Marketing") communications and/or not have your Personal Information shared among the members of BMO Financial Group for the purpose of marketing, you can have your name deleted from our Direct Marketing and/or shared information lists. If you want to change your privacy preferences, see Contact Us.
 
 Please note that you cannot withdraw your consent to the collection, use and disclosure of your Personal Information if: 
 
@@ -47,7 +47,7 @@ Please note that you cannot withdraw your consent to the collection, use and dis
 
 Withdrawing your consent in certain situations may also mean that we may not be able to provide you with the products or services you request.
 
-We only collect the [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") that we determine we need for the purposes set out in Principle 2, Identifying Purpose.
+We only collect the [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") that we determine we need for the purposes set out in Principle 2, Identifying Purpose.
 
 For example, we may collect:
 
@@ -69,7 +69,7 @@ We may monitor or record our incoming or outgoing telephone calls with you to en
 
 We may use video surveillance in and around our branches, ABMs and other locations for the safety of our customers and employees, and to protect against theft, property damage and fraud.
 
-We will only use or disclose your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") for the purpose(s) it was collected and as otherwise identified in this Privacy Code. Personal Information may be released to third parties including legal or regulatory authorities in cases of suspected criminal activity or contravention of law, for the detection and prevention of fraud, or when required to satisfy the legal or regulatory requirements of governments, regulatory authorities or other self-regulatory organizations, or to comply with a court order or for the protection of our assets (for example, collection of overdue accounts). 
+We will only use or disclose your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") for the purpose(s) it was collected and as otherwise identified in this Privacy Code. Personal Information may be released to third parties including legal or regulatory authorities in cases of suspected criminal activity or contravention of law, for the detection and prevention of fraud, or when required to satisfy the legal or regulatory requirements of governments, regulatory authorities or other self-regulatory organizations, or to comply with a court order or for the protection of our assets (for example, collection of overdue accounts). 
 
 We may share your Personal Information within BMO Financial Group, including locations outside of Canada where we do business, for legal and regulatory purposes, to manage credit risk and other business risks, to perform analytics, to ensure we have correct or up to date information about you (such as your current address or date of birth) and to better manage your relationship with us.
 
@@ -81,11 +81,11 @@ Over time, we may buy new businesses or sell some of our businesses. Accordingly
 
 We may use affiliates or other companies to provide services on our behalf such as data processing, account administration, analytics and marketing. Such companies will be given only the Personal Information needed to perform those services and we do not authorize them to use or disclose Personal Information for their own marketing or other purposes. We have contracts in place holding these companies to the same standards of confidentiality by which we are governed. In some cases, these other companies may be located outside of Canada (such as in the United States) and may be required to disclose information to courts, government authorities, regulators or law enforcement in accordance with applicable law in that country. 
 
-We have policies in place that govern the retention of your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") so it will be kept only for as long as reasonably necessary to fulfill its intended purpose or to satisfy legal requirements.
+We have policies in place that govern the retention of your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") so it will be kept only for as long as reasonably necessary to fulfill its intended purpose or to satisfy legal requirements.
 
-We are committed to maintaining the accuracy of your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") and ensuring that it is complete and up-to-date. If you discover inaccuracies in our records, or your Personal Information changes, please notify the branch or office where you do business immediately so that we can make the necessary changes. Failure to notify us of changes to your Personal Information may negatively impact the way we communicate or provide sevices to you. Where appropriate, we will advise others of any material amendments to your Personal Information that we may have released to them. If we do not agree to make the amendments that you request, you may challenge our decision as described in Contact Us.
+We are committed to maintaining the accuracy of your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") and ensuring that it is complete and up-to-date. If you discover inaccuracies in our records, or your Personal Information changes, please notify the branch or office where you do business immediately so that we can make the necessary changes. Failure to notify us of changes to your Personal Information may negatively impact the way we communicate or provide sevices to you. Where appropriate, we will advise others of any material amendments to your Personal Information that we may have released to them. If we do not agree to make the amendments that you request, you may challenge our decision as described in Contact Us.
 
-We use physical, electronic and procedural safeguards to protect against unauthorized use, access, modification, destruction, disclosure, loss or theft of your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") in our custody or control.
+We use physical, electronic and procedural safeguards to protect against unauthorized use, access, modification, destruction, disclosure, loss or theft of your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") in our custody or control.
 
 We have agreements and controls in place with credit bureaus, credit insurers, other lenders and third party service providers requiring that any information we provide to them must be safeguarded and used only for the purpose of providing the service we have requested the company to perform.
 
@@ -96,20 +96,20 @@ This Privacy Code at [(bmo.com/privacy](https://www.bmo.com/privacy)) is always 
 
 Please see Contact Us to answer any questions you may have about our Privacy Code.
 
-Requests to review or verify your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"), or to find out to whom we have disclosed it, must be made to us in writing. The branch or office where you do business can assist you with the request. We will need specific information from you to enable us to search for, and provide you with, the Personal Information we hold about you. We may charge you a token fee depending on the nature of your request and we will advise you of any fee prior to proceeding with your request. If we are unable to provide some of the Personal Information we hold about you, we will tell you why. To request to review or verify your Personal Information, see Contact Us.
+Requests to review or verify your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information"), or to find out to whom we have disclosed it, must be made to us in writing. The branch or office where you do business can assist you with the request. We will need specific information from you to enable us to search for, and provide you with, the Personal Information we hold about you. We may charge you a token fee depending on the nature of your request and we will advise you of any fee prior to proceeding with your request. If we are unable to provide some of the Personal Information we hold about you, we will tell you why. To request to review or verify your Personal Information, see Contact Us.
 
   
 
 
 **Scope of BMO Online and Mobile Privacy Policy**
 
-This Online and Mobile Privacy Policy supplements the [BMO Privacy Code](https://web.archive.org/home/about/banking/privacy-security/our-privacy-code) and specifically addresses the way in which we will collect, use, disclose and manage [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") in connection with our Canadian websites, mobile offerings and other electronic services. It should be read in conjunction with the Legal Terms of Use.
+This Online and Mobile Privacy Policy supplements the [BMO Privacy Code](https://web.archive.org/home/about/banking/privacy-security/our-privacy-code) and specifically addresses the way in which we will collect, use, disclose and manage [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") in connection with our Canadian websites, mobile offerings and other electronic services. It should be read in conjunction with the Legal Terms of Use.
 
 **Your Consent**
 
 Each time you use our online, mobile and electronic services, you are indicating your acknowledgement and consent to the collection, use and disclosure of your Personal Information as set forth in this policy, which we may revise periodically without notice. We will let you know of any changes by posting the revised policy with a new effective date. If you do not accept the terms outlined in this policy, please do not use our online, mobile and electronic services.
 
-**Collection of[Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information")**
+**Collection of[Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information")**
 
 We may collect personal information when you use our websites, mobile offerings and other electronic services. For example, we may collect:
 
@@ -188,7 +188,7 @@ To learn more about our security controls, visit [bmo.com/security](https://www.
 
 **Third Party Links**
 
-Our websites may contain links to other sites that we do not own or operate. Also, links to our websites may be featured on third party websites on which we advertise. We will not provide any of your [Personal Information](https://web.archive.org/web/20151222163946id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of, or referral to, the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information.
+Our websites may contain links to other sites that we do not own or operate. Also, links to our websites may be featured on third party websites on which we advertise. We will not provide any of your [Personal Information](https://web.archive.org/web/20160629153955id_/https%3A//www.bmo.com/home/about/banking/privacy-security/definitions "Personal Information") to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of, or referral to, the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information.
 
 **Contact Us**
 
