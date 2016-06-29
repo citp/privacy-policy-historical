@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204203519id_/http%3A//www.venda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venda.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210416id_/http%3A//www.venda.com/privacy.html) for the most accurate reproduction.*
 
 # Venda
 
-In this Website Privacy Policy ("statement"), Venda, NetSuite Inc. and each of its other affiliates (the "NetSuite group of companies"), provide information about how we collect, use, disclose, and transfer personal information from you, an individual person and website visitor, through NetSuite's publicly accessible websites (any of our websites such as [www.netsuite.com](http://www.netsuite.com/) or [www.venda.com](http://www.venda.com/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site").
+In this Website Privacy Policy ("statement"), Venda, NetSuite Inc. and each of its other affiliates (the "NetSuite group of companies"), provide information about how we collect, use, disclose, and transfer personal information from you, an individual person and website visitor, through NetSuite's publicly accessible websites (any of our websites such as [www.netsuite.com](http://www.netsuite.com/) or [www.venda.com](https://web.archive.org/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site").
 
 ## Scope
 
