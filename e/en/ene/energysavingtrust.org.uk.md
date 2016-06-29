@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912013529id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629182856id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Energy Saving Trust
 
@@ -10,7 +10,7 @@ We are a leading and trusted organisation helping people save energy every day.�
 
 Energy Saving Trust manages Home Energy Scotland on behalf of the Scottish Government and the Energy Saving Advice Centre on behalf of DECC.
 
-Energy Saving Trust **does not** make cold calls (we do not sell insulation or solar panels etc). If you are receiving cold calls from an organisation, the Information Commissioner’s Office has some useful advice [here](https://ico.org.uk/for-the-public/nuisance-calls/) and if you haven’t already it may be worth considering registering with the [Telephone Preference Service](http://www.tpsonline.org.uk/tps/index.html).
+Energy Saving Trust **does not** make cold calls (we do not sell insulation or solar panels etc). If you are receiving cold calls from an organisation, the [Information Commissioner’s Office](http://ico.org.uk/for-the-public/nuisance-calls/) has some useful advice and, if you haven’t already, it may be worth considering registering with the [Telephone Preference Service](http://www.tpsonline.org.uk/tps/index.html).
 
 **2\. When we collect data from you**
 
@@ -103,7 +103,7 @@ Energy Saving Trust has implemented the following Google Analytics Advertising f
 
 **Display Network Impression Reporting –** EST can use this to understand the impact of adverts displayed on other sites. We will be able to see when someone views an advert elsewhere and then later visits EST’s website.
 
-**Demographics and Interest Reporting** – this allows us to obtain anonymous information about the users of our website. For example, we will be able to see how many visitors we had to our site in a particular age range. For more information about how Google obtains this information please [see here](https://support.google.com/adwords/answer/2580383).
+**Demographics and Interest Reporting** – this allows us to obtain anonymous information about the users of our website. For example, we will be able to see how many visitors we had to our site in a particular age range. Find out more about [how Google obtains this information](http://support.google.com/adwords/answer/2580383).
 
 **9\. Targeting**
 
