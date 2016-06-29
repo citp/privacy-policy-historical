@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204080033id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155333id_/http%3A//www.dooney.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,7 +107,7 @@ You may notify us at any time if you do not wish us to continue to share your in
 P.O. Box 841  
 1 Regent Street, Norwalk, CT 06855
 
-CustServ@Dooney.com  
+Service@Dooney.com  
 (800) 347-5000
 
 ** For those Web Site users located outside the United States, we advise you that your information may be stored and accessible by individuals who are located within the United States. The European Commission and/or other geopolitical regions have determined the United States may not subscribe the same legislative standards for data protection that may be applicable in your place of residence. By providing us with your Personal Information, you are consenting to our use of it in accordance with Dooney’s privacy policy, including the transfer of your information across international boundaries to jurisdictions anywhere in the world as permitted by local law.
