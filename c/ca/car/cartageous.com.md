@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cartageous.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222141545id_/http%3A//cartageous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartageous.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629163022id_/http%3A//cartageous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
-**JTJ Manning Group Inc.**
+**Blender Networks Inc.**
 
 **Cartageous.com Privacy Policy**
 
@@ -10,7 +10,7 @@
 
 **Our Policy:**
 
-Welcome to this website of JTJ Manning Group Inc. (the “Company” or “we”). The Company operates the website located at [http://www.cartageous.com](http://www.%20cartageous.com/) (the “Site) and has created the Site to provide certain services and information to our users (“you”). This Privacy Policy sets for the Company’s policy with respect to information, including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors and users of the services.
+Welcome to this website of Blender Networks Inc. (the “Company” or “we”). The Company operates the website located at  _[http://www.cartageous.com](http://www.cartageous.com/)_  (the “Site) and has created the Site to provide certain services and information to our users (“you”). This Privacy Policy sets for the Company’s policy with respect to information, including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors and users of the services.
 
 **Information We Collect:**
 
@@ -40,10 +40,10 @@ If the Company intends on using any Personal Data in any manner that is not cons
 
 The Company’s core business is to sell information as leads when such information is provided to us for this purpose. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-  * **Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
-  * **Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
-  * **Agents, Consultants and Related Third Parties:** The Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, shipping and fulfillment, and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
-  * **Legal Requirements:** The Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation; (ii) protect and defend the rights or property of the Company; (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public; or (iv) protect against legal liability.
+  * **Business Transfers:**  As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+  * **Related Companies:**  We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+  * **Agents, Consultants and Related Third Parties:**  The Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, shipping and fulfillment, and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+  * **Legal Requirements:**  The Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation; (ii) protect and defend the rights or property of the Company; (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public; or (iv) protect against legal liability.
 
 
 
@@ -51,17 +51,13 @@ The Company’s core business is to sell information as leads when such informat
 
 This Privacy Policy applies only to the Site. The Site may contain links to other websites not operated or controlled by the Company (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Site do not imply that the Company endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-**Search:**
-
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy> and the search provider’s privacy policy, as applicable.
-
 **Security:**
 
 The Company takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
 
 **Other Terms and Conditions:**
 
-Your access to and use of the Site is subject to the Terms of Use, located at [https://www.cartageous.com/termsandconditions](https://www.keekx.com/termsandconditions) .
+Your access to and use of the Site is subject to the Terms of Use, located at http://cartageous.com/terms-of-use.
 
 **Changes to the Company’s Privacy Policy:**
 
@@ -71,4 +67,4 @@ The Site and our business may change from time to time. As a result, at times it
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site or Services.
 
-Please also feel free to contact us at privacy@cartageous.com if you have any questions about the Company’s Privacy Policy or the information practices of the Site.
+Please also feel free to contact us at [hello@blendernetworks.com](mailto:hello@blendernetworks.com) if you have any questions about the Company’s Privacy Policy or the information practices of the Site.
