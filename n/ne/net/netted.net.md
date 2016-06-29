@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228200253id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154713id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netted
 
@@ -10,7 +10,7 @@ Note: This statement applies solely to information collected at or through the W
 
 ## Information Collection and Usage
 
-In compliance with our mission statement to glamorize your Internet and e-mail experience, Recognition Media LLC collects personal information through the Web Site at several points. For instance, to subscribe to Netted, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Recognition Media LLC does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+Recognition Media LLC collects personal information through the Web Site at several points. For instance, to subscribe to Netted, we require your e-mail address and zip code. Rest-assured, Recognition Media LLC does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent.
 
 When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
@@ -22,7 +22,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 ## How to Unsubscribe
 
-You can unsubscribe from receiving Recognition Media LLC emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Recognition Media LLC email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Recognition Media LLC homepage and following the instructions.
+You can unsubscribe from receiving Recognition Media LLC emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Recognition Media LLC email and following the instructions.
 
 ## Third Party Advertising
 
