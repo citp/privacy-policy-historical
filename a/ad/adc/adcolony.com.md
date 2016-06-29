@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127042743id_/http%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629215551id_/http%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdColony
 
@@ -105,7 +105,7 @@ Los Angeles, CA 90049
 
 In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, AdColony commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact AdColony at [privacy@adcolony.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@adcolony.com).
 
-AdColony has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at AdColony, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://privacy.adcolony.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
+AdColony has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at AdColony, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
 
 **COUNCIL OF BETTER BUSINESS BUREAUS, INC.  
 **BBB EU Safe Harbor  
