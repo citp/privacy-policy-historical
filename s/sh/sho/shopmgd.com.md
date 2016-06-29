@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shopmgd.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809093723id_/http%3A//www.shopmgd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmgd.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629152628id_/http%3A//www.malabargoldanddiamonds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Malabar Gold & Diamonds
 
-We know that you trust Shopmgd.com. This is the reason we have set high standards for our secured transactions and adherence to the customer information privacy. Please note that our privacy policy will be subject to changes at any point in time without any prior notice.
+We know that you trust malabargoldanddiamonds.com. This is the reason we have set high standards for our secured transactions and adherence to the customer information privacy. Please note that our privacy policy will be subject to changes at any point in time without any prior notice.
 
 ### WE REQUEST YOU TO REFER THE BELOW TERMS OF OUR PRIVACY POLICY
 
 ##### PERSONAL INFORMATION THAT ARE COLLECTED
 
-We usually collect personal information like name, email id, contact number and such other details during the process of setting up an account with Shopmgd.com. When browsing a few sections of site without you being a registered member, you will not be able to place an order. We use your contact details so that we can intimate you about the timely offers, which are based on the previous orders and also depends on your interest.
+We usually collect personal information like name, email id, contact number and such other details during the process of setting up an account with malabargoldanddiamonds.com. When browsing a few sections of site without you being a registered member, you will not be able to place an order. We use your contact details so that we can intimate you about the timely offers, which are based on the previous orders and also depends on your interest.
 
 ##### USE OF INFORMATION
 
@@ -20,6 +20,4 @@ Our site is featured with strict security measures and due to this, we help in p
 
 ##### CHOICE/OPT-OUT
 
-Shopmgd.com provides to all the users with a chance of opting out of promotional and marketing related services from us on behalf of our partners, after you set up an account.
-
-© 2015 Malabar Gold & Diamonds. All Rights Reserved. 
+malabargoldanddiamonds.com provides to all the users with a chance of opting out of promotional and marketing related services from us on behalf of our partners, after you set up an account.
