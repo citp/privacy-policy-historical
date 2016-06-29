@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220330id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629184419id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy - VIVA GLAM MAGAZINE
+# Privacy – VIVA GLAM MAGAZINE
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using the VGM website, you consent to the data practices described in this statement.
 
