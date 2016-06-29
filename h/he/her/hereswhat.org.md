@@ -1,95 +1,100 @@
-> *The following text is extracted and transformed from the hereswhat.org privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716003726id_/http%3A//www.hereswhat.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hereswhat.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-**PRIVACY POLICY** ** ** This Website is operated by World Global Media LLC ("we/our/us"). “Website” means the website located at www.hereswhat.org, any subsequent URL which may replace this website, and all associated websites, URLs and micro sites. "You/your" means you as a user of the Website. “User” means all users of this Website. We offer this Website, including all information, tools and services available from this Website, to you conditioned upon your acceptance of all the terms, conditions, policies and notices stated here.   WE TAKE PRECAUTIONS WITH USER INFORMATION AND PERSONAL DATA. We value our Users and respect your privacy. We collect information about you through the Website in an effort to improve your online experience and to communicate with you about our services and promotions. Neither your name nor anything personal about you is sold or shared with any non-affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with businesses with whom we work to help the Website function. This Privacy Policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. This Privacy Policy also describes the choices you can make about how we collect and use certain of that information.   By accessing this Website, you acknowledge this Website Privacy Policy and agree to be bound by the terms hereof and the Terms of Use set forth on the Website. If there is anything you do not understand please email any inquiry to sales@worldglobalmedia.com. If at any time you do not agree to this Privacy Policy, please do not use this Website.   We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Website. Amendments to this Privacy Policy will be posted at this URL and will be effective when posted. It is your responsibility to review any such changes or updates and check the Website from time to time to be sure you understand all terms and conditions, agreements and policies of the Website and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website following the posting of any amendment, modification or change shall constitute your acceptance thereof. ** **
+**GoDaddy Respects Your Privacy**
 
-  1. **Types of Personal Information Collected**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-** ** We may ask you for certain kinds of personal information (“Personal Information”) to provide the services you request. This information includes: Email – If you provide us with your email address, you will be given the option to be added to our mail list. Whether or not you select this option, your Personal Information will never be shared with or sold to third parties. Subscriptions to the email list can be cancelled at any time. To be removed from our email list, please email us at sales@worldglobalmedia.com and include your name and email address in the message, or click the “unsubscribe” button found at the bottom of the emails we send you. Participation in Promotions/Sweepstakes or Surveys- If you participate in one of our promotions or sweepstakes or user surveys, we may ask for additional information, such as your age, interests or hobbies.  
+**Information Collection and Use**
 
-  2. **Use of Your Personal Information**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  We use the Personal Information we collect for various purposes, including: \-           to communicate with you about our business, including products, services, and promotions, that might be of interest to you   -           to improve your overall Website experience  
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  3. **Sharing Personal Information With Third Parties**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-** ** 3.1       We do not share, sell or trade your Personal Information with any third parties, except with your consent or as described herein. We do not contribute to or participate in cooperative databases, which give other companies access to such Personal Information.   3.2       We may disclose your Personal Information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Website, to limit our legal liability and protect our rights or to protect the rights, property or safety of Users of this Website or the public.   3.3       We may also disclose your Personal Information to outside individuals and/or companies that help us bring you the products and services we offer and to create, operate, and maintain our Website. For example, we may work with third parties to: (a) manage a database of Website user information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service; and (g) provide other services designed to assist us in developing and running our Website and maximizing our business potential. We require that these outside companies agree to keep all Personal Information shared with them confidential and to use the Personal Information only to perform their obligations to us.   3.4       In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred.  
+**Security**
 
-  4. **Non-Personally Identifiable Information**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-** ** 4.1       Through your use of this Website, we may also collect certain non-personally identifiable information from you (“NPII”). NPII is not associated with you as an individual. It is measured anonymously and only in the aggregate.   4.2       The Website may use cookies. A cookie is a small piece of information sent by a website that is saved on your hard drive by your computer's browser. Cookies help us remember you when you return to the Website. Cookies also hold information to personalize and enhance your experience and to gather website statistical data, such as which pages are visited, the Internet provider's domain name and the addresses of the sites you visited immediately before coming to and immediately after leaving the Website. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths taken by users of the Website as they move from page to page) to enable us to better serve our users by revealing which portions of the Website are the most popular. Cookies contain absolutely no Personal Information. You may disable cookies on your browser. Please review your browser's instructions for doing so.   4.2       We may also use "pixel tags" (sometimes called "web beacons" or "clear gifs"), which are tiny graphic images, on the Website. Pixel tags help us analyze Users’ online behavior and measure the effectiveness of the Website and our advertising and marketing. We may also use other analytical tools to evaluate site performance through the use of aggregated data, which contain no Personal Information. We work with service providers that help us track, collect, and analyze this information. 4.3       Cookies, pixel tags and/or other analytical tools that we may use on the Website may collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to the Website. We do not otherwise track any information about your use of other websites. 4.4       Cookies, pixel tags, and/or other analytical tools in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. 4.5       We may also work with businesses that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to the Website and your interaction with our advertising and other communications, but no Personal Information is shared with them.   4.6       We may combine the NPII collected through cookies, pixel tags and other analytical tools with other information we may have collected from you. This information may be used to improve our Website, to personalize your online experience, to help us deliver information to you, to determine the effectiveness of advertising, and for other internal business purposes.  
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  5. **Your Security**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-** ** 5.1       We strive to keep your Personal Information private and safe. We take commercially reasonable physical, electronic and administrative steps to maintain the security of Personal Information collected, including limiting the number of people who have physical access to database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. 5.2       Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100% secure. While we will use every reasonable means to ensure the security of information you transmit through the Website or otherwise to us, we cannot guarantee that such information will not be intercepted by third parties. We will, however, prosecute any unauthorized or fraudulent transactions to the fullest extent permitted by law.  
+**Sending Emails**
 
-  6. **Links to Other Websites**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-** ** 6.1       While visiting the Website, you may link to websites operated by third parties or you may have come to the Website using a link found in another website. This does not mean that we endorse these websites or the goods or services they provide. We do not make any representations or warranties about any website that may be linked to the Website. Such other websites are independent from us, and we have no control over, or responsibility for, their information, products or activities. 6.2       In addition, our privacy practices may differ from those of these other websites. If you provide Personal Information at one of those websites, you are subject to the privacy policy of the operator of that website, not our Privacy Policy. Please make sure you understand the other website's privacy policy before providing Personal Information.  
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  7. **Opt-Out**
+**Third Party Service Providers**
 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-** ** You will receive emails from us only if you have asked to receive them. If you do not want to receive e-mails from us you may click on the “unsubscribe” link at the bottom of any email communication sent by us. Please allow us 10 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.  
+**Supplementation of Information**
 
-  8. **"Spoofing" And "Phishing"**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-** ** A common Internet scam is known as "spoofing" or "phishing." This occurs when you receive an email from what appears to be a legitimate source requesting Personal Information from you. Please be aware that we will not send you any emails requesting you to verify any Personal Information. If you ever receive an email that appears to be from us requesting such information from you, DO NOT respond to it, and DO NOT click on any links appearing in the email. Instead, please forward the email to us at sales@worldglobalmedia.com, as we will investigate instances of possible Internet fraud.  
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-  9. **Children and Privacy**
+**Tell-A-Friend**
 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
-** ** The Website is not meant for children, and we will not knowingly collect any Personal Information from children under the age of 13 without verified parental consent. We will remove from our files any Personal Information of anyone we discover to be under 13 years old. We are concerned about the safety of children when they use the Internet, and we understand that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Website.  
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  10. **Your California Privacy Rights**
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
+**Changes in Our Practices**
 
-** ** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: sales@worldglobalmedia.com. Please allow 30 days for a response. [We do not currently share any Personal Information with any third parties or corporate affiliates for direct marketing purposes]  
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-  11. **How We Respond to Do No Track Signals**
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
+**Contacting Our Site**
 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-11.1     Company does not currently track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track signals. 11.2     Company does not authorize the collection of Personal Information on the Website by third parties. 
+* * *
 
-  12. **Disclosure for Legal Purposes**
-
-
-
-** ** You hereby authorize us to disclose any of your Personal Information pursuant to judicial and administrative proceedings and to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose Personal Information if we believe the disclosure is necessary or appropriate in the event of an investigation of improper or illegal conduct in connection with the Website, such as fraud, misrepresentation, intellectual property infringement, or other activity that may put us at risk for liability.  
-
-  13. **Non-Confidential Information**
-
-
-
-** ** We do not want you to send to us any confidential or proprietary information through email or otherwise. Any information, materials, suggestions, ideas or comments sent to us will be considered non-confidential, and by submitting the same to us, you are giving us the absolute right to use, modify, reproduce, transmit, display and distribute the information for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission.  
-
-  14. **Assignment**
-
-
-
-** ** We may freely assign this Privacy Policy or any of our rights and/or obligations hereunder.  
-
-  15. **Contact**
-
-
-
-** ** If you have any questions about your privacy or security at the Website, please send an email to sales@worldglobalmedia.com and include your name and email address in the message. If you do not receive a response from us to any emails you send to us within 7 business days, please send us another email as your original email may not have been received.     DATE LAST MODIFIED: may 14, 2015      
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
