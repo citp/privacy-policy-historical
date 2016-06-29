@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtasanandreas.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073534id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtasanandreas.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629160206id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
 
 # GTANet.com - Now With Added Vitamins! : Cookies and Privacy Policy
 
@@ -32,9 +32,9 @@ We also use third party advertisements on our web sites to support our site. Som
 
 Google, as a third party vendor, uses cookies to serve ads on this website. The DoubleClick DART cookie is used by Google in the ads served on publisher web sites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google's use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
+We also may use DART cookies for ad serving through Google�s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (�interest based targeting�).
 
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses �non personally identifiable information�. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
 You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.google.com/policies/privacy/>
 
