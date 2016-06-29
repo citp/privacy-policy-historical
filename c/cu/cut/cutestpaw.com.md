@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cutestpaw.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215004708id_/http%3A//www.cutestpaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutestpaw.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629162435id_/http%3A//www.cutestpaw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms Of Use
+# Privacy Policy & Terms Of Use - Cutest Paw
 
 The privacy of our visitors to  **CutestPaw.com**  is important to us. At  ** **CutestPaw**** **.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit  ** **CutestPaw**** **.com** , and how we safeguard your information. We never sell your personal information to third parties.
 
