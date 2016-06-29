@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229041445id_/http%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629200156id_/http%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AchooAllergy.com
 
@@ -116,10 +116,10 @@ We reserve the right to modify this privacy policy at any time, so please review
 **Company Address**
 
 AchooAllergy.com  
-3411 Pierce Drive  
-Atlanta, GA 30341  
+1620-D Satellite Blvd.  
+Duluth, GA 30097  
 1-800-339-7123  
-info@achooallergy.com
+cs@achooallergy.com
 
 **Privacy Policy Last Updated on: 11/06/2015**
 
