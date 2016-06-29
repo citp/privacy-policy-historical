@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606135006id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629060233id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Inc.com
 
@@ -12,7 +12,7 @@ Mansueto Ventures LLC owns and operates the Inc.com website, the inctechnology.c
 
 **Collection of Personal Information**
 
-We provide various informative, educational, and entertaining features as part of the Website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For Website activities that request personal information, you agree to provide accurate and current information about yourself. We may conduct contests, sweepstakes and/or special events (including applications for the annual Inc. 500|5000 List) through the Website. To participate in these events, you must meet the designated criteria for participation, and minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event.
+We provide various informative, educational, and entertaining features as part of the Website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For Website activities that request personal information, you agree to provide accurate and current information about yourself. We may conduct contests, sweepstakes and/or special events (including applications for the annual Inc. 5000 List) through the Website. To participate in these events, you must meet the designated criteria for participation, and minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event.
 
 We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws.
 
@@ -106,10 +106,10 @@ Mansueto Ventures respects the privacy of your child and we want to share with y
 
 If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen (13) years of age, except in the following circumstances allowed by law:
 
-  * To provide notice and get consent from a parent or guardian; 
-  * To respond to a one-time request from a child, after which we will immediately delete the child's information; 
-  * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again; 
-  * To protect the safety of a child who is participating on this site; and 
-  * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law. 
+  * To provide notice and get consent from a parent or guardian;
+  * To respond to a one-time request from a child, after which we will immediately delete the child's information;
+  * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again;
+  * To protect the safety of a child who is participating on this site; and
+  * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
 
 
