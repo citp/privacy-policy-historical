@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutsnare.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031152003id_/http%3A//tutsnare.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsnare.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175257id_/http%3A//tutsnare.com/privacy-terms) for the most accurate reproduction.*
 
 # privacy
 
