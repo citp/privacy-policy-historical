@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the revserv.me privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708142120id_/http%3A//revserv.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revserv.me privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-**Privacy Policy**
+* * *
 
-Your right to privacy is very important to us. When you choose to provide us with information about yourself, we recognize that you trust us to act in a responsible manner. It is our belief that this information should only be used to help us provide you with better products and services. We are making changes so that our policy statement will be clearer and more informative to users. Future modifications to this policy will be posted at this same location. At times our privacy statement might change, but the usage of the information we collect and the policies regarding the sharing of that information will not. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Our objective at revserv.me is to be your design resource of choice by providing you with the information and services that are most relevant to you. To achieve this goal, we need to collect information to understand what differentiates you from each of our other unique users. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Registration 
 
-You may provide us with certain information such as your name, e-mail address, phone number, and postal addresses when registering for certain services such as e-newsletters and contests/promotions. This information is used for purposes such as personalization and verification. 
 
-Uses of Information 
-
-Any information you provide to revserv.me over this website is intended for revserv.me's use only. revserv.me maintains the website and uses industry standard security features to restrict access to the data. revserv.me uses this information to send you information such as product updates and special offers. revserv.me will not disclose any information about any individual user to entities outside those of partners except to comply with applicable law or valid legal process. 
-
-Sharing of Information 
-
-revserv.me does not sell user information that it has collected over this website. revserv.me's use of the information submitted by you may change although the sharing of information will not. 
-
-Opt-out 
-
-At any time you may request to be removed from our mailing database and we will honor such requests. You may [contact us](https://web.archive.org/contact.html) for this request. Note: If possible, please include a copy of the communication you received to help facilitate a timely and accurate removal. We welcome any questions or comments you have. 
-
-It is very important to us that your experience using revserv.me is positive. We respect your rights. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
