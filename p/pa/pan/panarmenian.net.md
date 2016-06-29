@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229163925id_/http%3A//panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164627id_/http%3A//www.panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
 
 # Armenian News - PanARMENIAN.Net
 
@@ -34,35 +34,34 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **PAN Editorial**  
 News tips and information:  
 media@pan.am  
-(+374) 10 553623  
-(+374) 94 553623  
+(+374) 60 612252  
 (+374) 91 551749
 
   
 **PAN Photo agency**  
 photo@pan.am  
-(+374) 10 571890
+(+374) 60 612253
 
   
 **Management**  
 (+374) 91 551749  
-(+374) 10 551749
+(+374) 60 612252
 
   
 **Public Relations and Marketing**  
 pr@pan.am  
-(+374) 10 551749
+(+374) 60 612252
 
   
 **Advertisement and Sales**  
 ad@pan.am  
-(+374) 10 551749
+(+374) 60 612252
 
  Address
 
 PanARMENIAN Network, PAN Media LLC
 
-5, Aleq Manukian str. (House of Radio)  
-0025, Yerevan, Armenia  
+9 Alek Manukyan st., room II-201  
+0070, Yerevan, Armenia  
   
 ---|---
