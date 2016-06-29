@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221040553id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keele.ac.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174020id_/http%3A//www.keele.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - Keele University
 
@@ -110,3 +110,5 @@ For more information on how to control your cookie settings and browser settings
 A useful tool that will enable you to control many third party tracking cookies can be found at the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Browser settings can be configured to control cookie's. See [AllAboutCookies.org](http://www.allaboutcookies.org/manage-cookies/).
+
+Keele University are working with third parties to collect user data for conversion tracking and serving ads targeted to users’ interests. None of the technologies used are able to collect personally identifiable information (PII) and in most cases the data collected is stored securely on a provider’s server permitting no direct access. Use can opt out of interest-based advertising through methods detailed at [www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices).
