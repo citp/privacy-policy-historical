@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918014209id_/http%3A//uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171153id_/https%3A//uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
 # UIDAI - Privacy Policy
-
-##  Privacy Policy 
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
