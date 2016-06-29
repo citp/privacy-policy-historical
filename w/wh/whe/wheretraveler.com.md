@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheretraveler.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212115542id_/http%3A//www.wheretraveler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheretraveler.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629091541id_/http%3A//www.wheretraveler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WhereTraveler
 
@@ -41,6 +41,6 @@ For any questions or comments, you may contact us:
   * By E-mail: [site.feedback@wheretraveler.com](mailto:site.feedback@wheretraveler.com)
   * By Phone: 800-680-4035
   * By Fax: 706-836-3596
-  * By Mail: 699 Broad St., Suite 500, Augusta, GA 30901
+  * By Mail: 643 Broad St., Augusta, GA 30901
 
 
