@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the getgemstones.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528071746id_/http%3A//www.getgemstones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getgemstones.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629143710id_/http%3A//www.getgemstones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - gemstones online sale store Wholesale & Retail
+# Privacy Policy online gemstone shopping
 
-**Privacy Policy**
-
-This Privacy Policy governs the manner in which “ **Stylo Exports** ” collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.getgemstones.com](http://www.getgemstones.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by  **Stylo Exports**
+This [Privacy Policy](http://www.getgemstones.com/privacy-policy/) governs the manner in which “ ** _Stylo Exports_** ” collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.getgemstones.com](http://www.getgemstones.com/) website (“Site”). This [privacy policy](http://www.getgemstones.com/privacy-policy/) applies to the Site and all products and services offered by   ** _Stylo Exports_**
 
 **Personal identification information**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order fill out a form respond to a survey subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number,
 
-Users may, however, visit our Site anonymously.
-
-We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **  Non-personal identification information**
 
@@ -24,27 +20,37 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-**Stylo Exports** . collects and uses Users personal information for the following purposes:
+**_Stylo Exports_**  . collects and uses Users personal information for the following purposes:
 
-To improve customer service
+  * To improve customer service
+
+
 
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
-To personalize user experience
+  * To personalize user experience
+
+
 
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-To improve our Site
+  * To improve our Site
+
+
 
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-To administer a content, promotion, survey or other Site feature
+  * To administer a content, promotion, survey or other Site feature
+
+
 
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
-To send periodic emails
+  * To send periodic emails
 
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. www.getgemstones.com
+
+
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact us](http://www.getgemstones.com/contact-us/) via our Site. www.getgemstones.com
 
 **  How we protect your information**
 
@@ -60,9 +66,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-**Changes to this privacy policy**
+**Changes to this[privacy policy](http://www.getgemstones.com/privacy-policy/)**
 
-Stylo Exports. has the discretion to update this privacy policy at any time. When we do, post a notification on the main page of our Site, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Stylo Exports. has the discretion to update this [privacy policy](http://www.getgemstones.com/privacy-policy/) at any time. When we do, post a notification on the main page of our Site, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this [privacy policy](http://www.getgemstones.com/privacy-policy/) periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -70,18 +76,12 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this [Privacy Policy](http://www.getgemstones.com/privacy-policy/), the practices of this site, or your dealings with this site, please [contact us](http://www.getgemstones.com/contact-us/) at:
 
-**Stylo Exports**
-
-**www.getgemstones.com**
-
-**3 rd floor, stylo readymades**
-
-**Main road , thagarapuvalasa**
-
-**Visakhapatnam , Andhra Pradesh**
-
-**India , Pin : 531162**
-
-**Cell: +91 9866066045**
+Stylo Exports  
+www.getgemstones.com  
+3rd floor, stylo readymades  
+Main road , thagarapuvalasa  
+Visakhapatnam , Andhra Pradesh  
+[India](http://www.getgemstones.com/product-tag/india/) , Pin : 531162  
+Cell: +919866066045
