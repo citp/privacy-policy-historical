@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the republic.co.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314025811id_/http%3A//www.usc.co.uk/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republic.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629202051id_/http%3A//www.usc.co.uk/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# USC > CustomerServices > Other Information > Security and Privacy
+# Security and Privacy | USC
 
 We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
