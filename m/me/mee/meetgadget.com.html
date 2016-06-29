@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the meetgadget.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207024107id_/http%3A//www.meetgadget.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meetgadget.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630000915id_/http%3A//www.meetgadget.com/static/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://phonearena.com/tests/header-bidding/pbjs/prebid.js"></script>
 <title>Meet Gadget Privacy </title><meta http-equiv="content-language" content="en">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="MeetGadget's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MeetGadget.">
@@ -26,7 +26,8 @@
 <!--[if IE]><link rel="stylesheet" type="text/css" href="css/IE.css" /><![endif]-->
 
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/min/?g=jquery,ui,plugins&amp;b=js&amp;f=main.js,users.js&amp;1027"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/min/?g=jquery,ui,plugins&amp;b=js&amp;f=main.js,users.js&amp;1027"></script>
+
 
 
 
@@ -39,9 +40,6 @@ $(document).ready(function(){
 
 </script>
 
-        <script type="text/javascript">
-            
-        </script>
 
 <script type="text/javascript">
 
@@ -56,35 +54,337 @@ $(document).ready(function(){
   })();
 
 </script>
+
+    <script>
+        var PREBID_TIMEOUT = 1500;
+
+        var START_TIME = new Date().getTime();
+        console.log('start time : '+START_TIME);
+
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        /* pbjs.initAdserver will be called either when all bids are back, or
+         when the timeout is reached.
+         */
+        function initAdserver() {
+            if (pbjs.initAdserverSet) return;
+
+            console.log(new Date().getTime() - START_TIME, 'initAdserver');
+
+            //load GPT library here
+            (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+            })();
+            pbjs.initAdserverSet = true;
+        };
+
+        console.log(new Date().getTime() - START_TIME, 'settimeout');
+        // Load GPT when timeout is reached.
+        setTimeout(initAdserver, PREBID_TIMEOUT);
+
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+
+        // Load the Prebid Javascript Library Async. We recommend loading it immediately after
+        // the initAdserver() and setTimeout functions.
+        (function() {
+            var d = document, pbs = d.createElement("script"), pro = d.location.protocal;
+            pbs.type = "text/javascript";
+            pbs.src = 'http://phonearena.com/tests/header-bidding/pbjs/prebid.js';
+            var target = document.getElementsByTagName("head")[0];
+            target.insertBefore(pbs, target.firstChild);
+        })();
+
+
+        pbjs.que.push(function()
+        {
+            console.log(new Date().getTime() - START_TIME, 'Start pbj');
+            /* 1. Register bidder tag Ids
+
+             Registers the bidder tags for your ad units. Once the prebid.js
+             library loads, it reads the pbjs.adUnits object and sends out
+             bid requests. Find the complete reference on bidders at
+             http://prebid.org/bidders.html.
+
+             code:  Your GPT slotâ€™s ad unit path. If they donâ€™t match, prebid.js
+             would not be able to set targeting correctly
+             sizes: All sizes your ad unit accepts. They should match with GPT.
+
+             */
+            var adUnits = [
+                { code: '/150486432/1.meetgadget.com_desktop_300x250',
+                    sizes: [300, 250],
+                    bids: [
+                        // 1 ad unit can be targeted by multiple bids.
+                        {
+                            bidder: 'bidder-3',
+                            params: {
+                                publisherId: 38381,
+                                adSlot: '0.phonearena.com_header-bid_300x250@300x250'
+                            }
+                        },{
+                            bidder: 'bidder-5',
+                            params: {
+                                network: '9436.1',// <String> network id
+                                sizeId: 170,// <Integer> size id
+                                placement: 3670977,// <Integer> placement id
+                                adContainerId: 'div-gpt-ad-1455869547715-1',// <String> optional; div for placement
+                                alias: '300x250atf'// <String> slot alias
+                            }
+                        },{
+                            bidder: 'bidder-47',
+                            params: {
+                                tagid: '316921'
+                            }
+                        },{
+                            bidder: 'bidder-54',
+                            params: {
+                                placementId: '6188618'
+                            }
+                        },
+                        //{
+                        //	bidder: 'bidder-15',
+                        //	params: {
+                        //		cf: '300X250',
+                        //		cp: 558473,
+                        //		ct: 299126
+                        //	}
+                        //}
+
+                    ]
+                },
+                {code: '/150486432/1.meetgadget.com_desktop_160x600',
+                    sizes: [160, 600],
+                    bids: [
+                        {
+                            bidder: 'bidder-3',
+                            params: {
+                                publisherId: 38381,
+                                adSlot: '0.phonearena.com_header-bid_160x600@160x600'
+                            }
+                        },{
+                            bidder: 'bidder-5',
+                            params: {
+                                network: '9436.1',
+                                sizeId: 154,
+                                placement: 3770610,
+                                adContainerId: 'div-gpt-ad-1455869547715-0',
+                                alias: '160x600'
+                            }
+                        },{
+                            bidder: 'bidder-47',
+                            params: {
+                                tagid: '320487'
+                            }
+                        },{
+                            bidder: 'bidder-54',
+                            params:{
+                                placementId: '6188617'
+                            }
+                        },
+                        //{
+                        //	bidder: 'bidder-15',
+                        //	params: {
+                        //		cf: '160X600',
+                        //		cp: 558473,
+                        //		ct: 299123
+                        //	}
+                        //}
+                    ]
+                },
+                {code: '/150486432/1.meetgadget.com_desktop_728x90',
+                    sizes: [728, 90],
+                    bids: [
+                        {
+                            bidder: 'bidder-3',
+                            params: {
+                                publisherId: 38381,
+                                adSlot: '0.phonearena.com_header-bid_728x90@728x90'
+                            }
+                        },{
+                            bidder: 'bidder-5',
+                            params: {
+                                network: '9436.1',
+                                sizeId: 225,
+                                placement: 3670978,
+                                adContainerId: 'div-gpt-ad-1455869547715-2',
+                                alias: '728x90atf'
+                            }
+                        },{
+                            bidder: 'bidder-47',
+                            params: {
+                                tagid: '320488'
+                            }
+                        },{
+                            bidder: 'bidder-54',
+                            params: {
+                                placementId: '6188605'
+                            }
+                        },
+                        //{
+                        //	bidder: 'bidder-15',
+                        //	params: {
+                        //		cf: '728X90',
+                        //		cp: 558473,
+                        //		ct: 299127
+                        //	}
+                        //}
+                    ]
+                }
+            ];
+
+            //add the adUnits
+            pbjs.addAdUnits(adUnits);
+
+            //register a callback handler
+            pbjs.addCallback('adUnitBidsBack', function(adUnitCode){
+                console.log(new Date().getTime() - START_TIME, 'ad unit bids back for : ' + adUnitCode);
+            });
+
+            /* Request bids for the added ad units. If adUnits or adUnitCodes are
+             not specified, the function will request bids for all added ad units.
+             */
+            pbjs.requestBids({
+
+                /* The bidsBack function will be called when either timeout is
+                 reached, or when all bids come back, whichever happens sooner.
+                 */
+                bidsBackHandler: function(bidResponses) {
+                    console.log(new Date().getTime() - START_TIME, 'bidsBackHandler: ');
+                    console.log(bidResponses);
+
+                    initAdserver();
+                },
+
+                /* You can specify specific `adUnitCodes` to only request bids
+                 for certain ad units.
+                 adUnitCodes: ['code1', 'code2']
+                 */
+
+                /* You can also make one off bid requests for the given `adUnits`.
+                 adUnits: [adUnit2, adUnit1]
+                 */
+
+                /* The bidsBackHandler will be executed either when all bids are
+                 back, or when the timeout is reached.
+                 timeout: 1000
+                 */
+            });
+
+            /* 2. Configure Ad Server Targeting
+
+             The below section defines what key value targeting will be sent to GPT.
+             For each bidderâ€™s bid, Prebid.js will set the below 4 keys (hb_bidder,
+             hb_adid, hb_pb, hb_size) with their corresponding values.
+
+             Bidders all have different recommended ad server line item targeting and
+             creative setup. To remove the headache for you, Prebid.js has a default
+             recommended query string targeting setting for all bidders.
+
+             If youâ€™d like to customize the key value pairs, you can overwrite the settings
+             as the below example shows. Let your ad ops team know about the change, so they
+             can update the line item targeting accordingly.
+
+             */
+            pbjs.bidderSettings = {
+                standard: {
+                    adserverTargeting: [{
+                        key: "hb_bidder",
+                        val: function(bidResponse) {
+                            return bidResponse.bidderCode;
+                        }
+                    }, {
+                        key: "hb_adid",
+                        val: function(bidResponse) {
+                            return bidResponse.adId;
+                        }
+                    }, {
+                        key: "hb_pb",
+                        val: function(bidResponse) {
+                            return bidResponse.pbMg;
+                        }
+                    }
+                    ]
+                }
+            };
+        });
+
+    </script>
+
+    <script>
+
+        googletag.cmd.push(function() {
+            console.log(new Date().getTime() - START_TIME, 'first google push');
+
+            var medRec = googletag.defineSlot('/150486432/1.meetgadget.com_desktop_300x250', [300, 250], 'div-gpt-ad-1455869547715-1').addService(googletag.pubads());
+            var skyscraper = googletag.defineSlot('/150486432/1.meetgadget.com_desktop_160x600', [160, 600], 'div-gpt-ad-1455869547715-0').addService(googletag.pubads());
+            var leaderboard = googletag.defineSlot('/150486432/1.meetgadget.com_desktop_728x90', [728, 90], 'div-gpt-ad-1455869547715-2').addService(googletag.pubads());
+
+            pbjs.que.push(function() {
+                /* Set query string targeting on all GPT ad units. The logic for deciding query strings is described in the section Configure AdServer Targeting. Note that this function has to be called after all ad units on page are defined.
+                 */
+                console.log(new Date().getTime() - START_TIME, 'Set targeting');
+
+                console.log(pbjs);
+                pbjs.setTargetingForGPTAsync();
+
+                console.log('Are all bids available? : ' + pbjs.allBidsAvailable());
+
+                console.log('Targeting params:')
+                console.log(pbjs.getAdserverTargeting());
+
+                console.log('Dumping all bid objects to console:');
+                console.log(pbjs.getBidResponses());
+            });
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+
+        });
+    </script>
+
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
-   
-   <div id="compareBar"></div> 
+
+<div id="compareBar"></div>
 
 
 <div id="fb-root"></div>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '266701854686', // App ID
-      channelUrl : 'http://www.meetgadget.com/channel.html', // Channel File
-      status     : true, // check login status
-      cookie     : true, // enable cookies to allow the server to access the session
-      oauth      : true, // enable OAuth 2.0
-      xfbml      : true  // parse XFBML
-    });
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '266701854686', // App ID
+            channelUrl: 'http://www.meetgadget.com/channel.html', // Channel File
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            oauth: true, // enable OAuth 2.0
+            xfbml: true  // parse XFBML
+        });
 
-    // Additional initialization code here
-  };
+        // Additional initialization code here
+    };
 
-  // Load the SDK Asynchronously
-  (function(d){
-     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all.js";
-     d.getElementsByTagName('head')[0].appendChild(js);
-   }(document));
+    // Load the SDK Asynchronously
+    (function (d) {
+        var js, id = 'facebook-jssdk';
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement('script');
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
 </script>
 
 
@@ -93,26 +393,23 @@ $(document).ready(function(){
 
 
 
-    
-    
-     
-   <div _class="">   
-        
-        <div class="header">
 
-            <div class="heading clearfix">
-                
-                <div class="logo"><a href="/"><img width="192" height="46" src="/images/logo_mg.gif" alt="Meetgadget"></a></div>
-                                                                                                       
-                
+<div _class="">
 
-        <!--.breadcrumb-->
-          
-                 
-                
-                
-                <div class="browse" id="browseMenu">
-                    <span class="browseIcon icn" onclick="browsemenu_toggle();"></span>
+    <div class="header">
+
+        <div class="heading clearfix">
+
+            <div class="logo"><a href="/"><img width="192" height="46" src="/images/logo_mg.gif" alt="Meetgadget"></a>
+            </div>
+
+
+            <!--.breadcrumb-->
+
+            
+
+            <div class="browse" id="browseMenu">
+                <span class="browseIcon icn" onclick="browsemenu_toggle();"></span>
 <a href="javascript:;" class="browseTitle" onclick="browsemenu_toggle();">Browse Gadgets</a>
 
 <div class="popupBrowse">
@@ -124,31 +421,31 @@ $(document).ready(function(){
         <div class="row">
                           <a href="http://www.meetgadget.com/gadget/category/Cell+Phones" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=56&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Cell Phones <strong>(6504)</strong></span></a>
+                            <span class="title">Cell Phones <strong>(6844)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Tablets" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=104&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Tablets <strong>(696)</strong></span></a>
+                            <span class="title">Tablets <strong>(740)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Notebooks" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=54&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Notebooks <strong>(8690)</strong></span></a>
+                            <span class="title">Notebooks <strong>(9312)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Desktop+Computers" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=55&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Desktop Computers <strong>(3462)</strong></span></a>
+                            <span class="title">Desktop Computers <strong>(3662)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Cameras" class="item last">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=24&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Cameras <strong>(2541)</strong></span></a>
+                            <span class="title">Cameras <strong>(2574)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Camcorders" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=23&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Camcorders <strong>(1118)</strong></span></a>
+                            <span class="title">Camcorders <strong>(1192)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/TVs" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=41&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">TVs <strong>(5165)</strong></span></a>
+                            <span class="title">TVs <strong>(5226)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Monitors" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=39&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Monitors <strong>(3740)</strong></span></a>
+                            <span class="title">Monitors <strong>(4086)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Projectors" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=46&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Projectors <strong>(3456)</strong></span></a>
+                            <span class="title">Projectors <strong>(3542)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Mouse+Devices" class="item last">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=44&amp;img=icon.png&amp;v=&amp;name=" alt="">
                             <span class="title">Mouse Devices <strong>(1082)</strong></span></a>
@@ -160,22 +457,22 @@ $(document).ready(function(){
                             <span class="title">Digital Media Players <strong>(143)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/AV+Receivers" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=66&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">AV Receivers <strong>(1069)</strong></span></a>
+                            <span class="title">AV Receivers <strong>(1130)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Separate+Speakers" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=86&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Separate Speakers <strong>(3879)</strong></span></a>
+                            <span class="title">Separate Speakers <strong>(4183)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Home+Theater+%26+PC+Speakers" class="item last">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=88&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Home Theater &amp; PC Speakers <strong>(1997)</strong></span></a>
+                            <span class="title">Home Theater &amp; PC Speakers <strong>(1998)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Headphones" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=40&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Headphones <strong>(3714)</strong></span></a>
+                            <span class="title">Headphones <strong>(3794)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Amplifiers" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=99&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Amplifiers <strong>(2078)</strong></span></a>
+                            <span class="title">Amplifiers <strong>(2150)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Portable+Media+Players" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=57&amp;img=icon.png&amp;v=&amp;name=" alt="">
-                            <span class="title">Portable Media Players <strong>(475)</strong></span></a>
+                            <span class="title">Portable Media Players <strong>(483)</strong></span></a>
                                         <a href="http://www.meetgadget.com/gadget/category/Ebook+Readers" class="item ">
                             <img width="45" height="45" src="http://www.meetgadget.com/image.php?t=category&amp;id=81&amp;img=icon.png&amp;v=&amp;name=" alt="">
                             <span class="title">Ebook Readers <strong>(188)</strong></span></a>
@@ -191,35 +488,47 @@ $(document).ready(function(){
         <!--.butts-->
     </div>
     <!--.wrapp-->
-</div><!--.popupBrowse-->                     
-                </div>
-                <!--.browse-->  
-                
-                <div class="mainMenu">
+</div><!--.popupBrowse-->
+            </div>
+            <!--.browse-->
+
+            <div class="mainMenu">
                 <form class="searchform" id="searchform1" action="/search" method="GET" onsubmit="return false;">
-                    <input autocomplete="off" type="text" class="searchbox" value="" name="query" id="searchbox"><div class="searchbox-loading" style="display: none; position:absolute; top: 25px; width: 180px; text-align:right;"><img src="/images/loading.gif"></div>
+                    <input autocomplete="off" type="text" class="searchbox" value="" name="query" id="searchbox">
+                    <div class="searchbox-loading" style="display: none; position:absolute; top: 25px; width: 180px; text-align:right;"><img src="/images/loading.gif"></div>
                     <div class="searchResults box resultscontainer" id="resultscontainer" style="display:none;"></div>
                 </form>
                 <ul class="menu menu2">
-                    <li class="cat "><a href="/gadget/">Gadgets</a></li>
+                    <li class="cat "><a href="/gadget/">Gadgets</a>
+                    </li>
                     <li class="cat "><a href="/discussions/">Q&amp;A</a></li>
-                    <li class="cat "><a href="/reviews/">Reviews</a></li>
+                    <li class="cat "><a href="/reviews/">Reviews</a>
+                    </li>
                 </ul>
                 <!--.menu-->
-                </div>
+            </div>
             <!--.mainMenu-->
-                                           
-          </div>
-          <!--.heading-->
-          
-                                     <div class="breadcrumb"><a href="/">Home</a><span class="sep">›</span><span>Privacy</span></div>
-                        <div class="clear"></div>
-    </div>    
-   
-        <!--.header-->    
-        
-        <!--SEARCH&COMPARE ZONE-->
-        <section class="bglighrgrey">
+
+        </div>
+        <!--.heading-->
+
+                            <div class="breadcrumb"><a href="/">Home</a><span class="sep">›</span><span>Privacy</span></div>
+                <div class="clear"></div>
+    </div><!--.header-->
+
+    <div class="ad tmt10 tmb10 wrapp">
+
+        <!-- /150486432/1.meetgadget.com_desktop_728x90 -->
+        <div id="div-gpt-ad-1455869547715-2" style="height:90px; width:728px; margin: auto">
+            <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455869547715-2'); });
+            </script>
+        </div>
+
+    </div>
+
+    <!--SEARCH&COMPARE ZONE-->
+    <section class="bglighrgrey">
         <div class="wrapdiv comparefield">
 <span>Compare Gadgets</span> 
                 <div class="search">
@@ -261,16 +570,15 @@ $(document).ready(function(){
                  <a href="javascript:;" class="searchButt" id="hbtn_compare">Compare</a>
                 <div class="clear"></div>
                 <!--.search--> </div>
-        </section>
-        <!--SEARCH&COMPARE ZONE-->
-                           
-                        
-        
-		<div class="content">
-                     
-            <div class="wrapp box tmb10 tmt15">
-        	    <!--<div class="main home">-->
-        	    <div class="main">
+    </section>
+    <!--SEARCH&COMPARE ZONE-->
+
+    
+    <div class="content">
+
+        <div class="wrapp box tmb10 tmt15">
+            <!--<div class="main home">-->
+            <div class="main">
     <div class="title">
         <h1>PRIVACY POLICY</h1>
     </div>
@@ -427,15 +735,22 @@ $(document).ready(function(){
 
             
   
-        	    <!--</div>-->
-                
-                        	    <div class="sidebar">
-                
-                
-                
-                                        
-                                        
-                    <!--NEW POPULAR COMAPRISONS WIDGET-->
+            <!--</div>-->
+
+                            <div class="sidebar">
+
+
+                    
+                    
+                                            <div class="ad box">
+                            <!-- /150486432/1.meetgadget.com_desktop_300x250 -->
+                            <div id="div-gpt-ad-1455869547715-1" style="height:250px; width:300px;">
+                                <script type="text/javascript">
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455869547715-1'); });
+                                </script>
+                            </div>
+                        </div>
+                        <!--NEW POPULAR COMAPRISONS WIDGET-->
 <div class="widget">
     <div class="wrapp">
         <h2>POPULAR COMPARISONS</h2>
@@ -446,8 +761,8 @@ $(document).ready(function(){
          <img src="/images/vs-big.png" alt="vs" class="versus">
          <span class="htitle bottom">Apple iPhone 6s</span></a>
          <span class="holder"><img src="/images/vs-big.png" alt="vs" class="versus">
-                <span><img src="http://www.meetgadget.com/image.php?t=product&amp;id=72712&amp;img=1c28a27ca71a598e2389b85e5769edd0.jpg&amp;v=200&amp;name=Samsung+Galaxy+S6" class="titleimg"></span>
-                <span><img src="http://www.meetgadget.com/image.php?t=product&amp;id=74328&amp;img=50e291f9e2b0f7d1f277b38a29c4fc00.jpg&amp;v=200&amp;name=Apple+iPhone+6s" class="titleimg"></span>
+                <span><img src="http://www.meetgadget.com/image.php?t=product&amp;id=72712&amp;img=51d3844293a73f969e0bfefe06608369.jpg&amp;v=200&amp;name=Samsung+Galaxy+S6" class="titleimg"></span>
+                <span><img src="http://www.meetgadget.com/image.php?t=product&amp;id=74328&amp;img=aaecf47241c64ce28acba1040a2090b8.jpg&amp;v=200&amp;name=Apple+iPhone+6s" class="titleimg"></span>
          </span>
                 <h3><a href="http://www.meetgadget.com/gadget/compare/Samsung+Galaxy+S6%2CApple+iPhone+6s/gadgets/72712%2C74328">Samsung Galaxy S6 <span>vs</span> Apple iPhone 6s</a></h3>
          </div>
@@ -498,17 +813,23 @@ $(document).ready(function(){
 <!--NEW POPULAR COMAPRISONS WIDGET-->
                 
 
+                        <div class="ad box">
+                            <!-- /150486432/1.meetgadget.com_desktop_160x600 -->
+                            <div id="div-gpt-ad-1455869547715-0" style="height:600px; width:160px;">
+                            <script type="text/javascript">
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455869547715-0'); });
+                            </script>
+                            </div>
+                        </div>
                     
-                      
-                    
-                                        
-                                                            
-                      
+
                     
                     
-                          
-                    <div id="widget_recent_new_gadgets">
                         
+                        
+
+                        <div id="widget_recent_new_gadgets">
+                            
 <div class="widget newgadgetsWidget">
     <div class="wrapp">
         <h2>Recent gadgets</h2>    
@@ -517,72 +838,72 @@ $(document).ready(function(){
 
         <ul class="grid block-content">
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76235/Dell+XPS+15+9550" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76235"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76235&amp;img=342f8279c3fa8153dd84f798e9b36a2f.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Dell XPS 15 9550</span>
+                <a href="http://www.meetgadget.com/gadget/78616/Acer+Aspire+S7-393" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78616"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78616&amp;img=b3e606cfc1beb9cc6f64e8102ce5898e.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S7-393</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76237/Samsung+Galaxy+A5+%282016%29" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76237"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76237&amp;img=8497045415512cf1908185d3b091106b.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Samsung Galaxy A5 (2016)</span>
+                <a href="http://www.meetgadget.com/gadget/78617/Acer+Chromebook+11+CB3-131" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78617"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78617&amp;img=51f586a4f57a682261b24eac19301de1.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Chromebook 11 CB3-131</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76234/LG+G+Pad+II+8.0" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76234"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76234&amp;img=d1f70691051bf4882bff9c2069575489.jpg&amp;v=118&amp;name=">
-                <span class="stitle">LG G Pad II 8.0</span>
+                <a href="http://www.meetgadget.com/gadget/78614/Acer+Aspire+S5-371-75ML" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78614"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78614&amp;img=78dd889d57c7d97ae177b139eeac1b01.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S5-371-75ML</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76233/Canon+Pixma+MG5721" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76233"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76233&amp;img=a092a11350bb8e21cca44c6ef448fb8a.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Canon Pixma MG5721</span>
+                <a href="http://www.meetgadget.com/gadget/78611/Acer+Aspire+S5-371T-76UX" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78611"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78611&amp;img=78432de5797e0c826da784913d5c43ff.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S5-371T-76UX</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76240/Sennheiser+GAME+ONE" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76240"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76240&amp;img=975c6ba5ce36483731bc09344934ff83.png&amp;v=118&amp;name=">
-                <span class="stitle">Sennheiser GAME ONE</span>
+                <a href="http://www.meetgadget.com/gadget/78615/Acer+Aspire+S5-371-3164" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78615"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78615&amp;img=33406159f27747ae88d04c6697f52b20.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S5-371-3164</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76239/Sennheiser+GAME+ZERO" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76239"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76239&amp;img=72721aeaf4e0b4df7e942818719adb0e.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Sennheiser GAME ZERO</span>
+                <a href="http://www.meetgadget.com/gadget/78619/Acer+Chromebook+11+CB3-111" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78619"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78619&amp;img=7827ecb6968498077feeee2d44debf16.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Chromebook 11 CB3-111</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76236/Samsung+Galaxy+A7+%282016%29" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76236"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76236&amp;img=8eb93268eda83edcf44317f3ea49730f.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Samsung Galaxy A7 (2016)</span>
+                <a href="http://www.meetgadget.com/gadget/78618/Acer+Chromebook+13+CB5-311" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78618"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78618&amp;img=c645b13a2eab8d66521362963083a482.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Chromebook 13 CB5-311</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76238/Samsung+Galaxy+A3+%282016%29" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76238"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76238&amp;img=6195969e4443609a411079a447eebc19.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Samsung Galaxy A3 (2016)</span>
+                <a href="http://www.meetgadget.com/gadget/78612/Acer+Aspire+S5-371T-76CY" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78612"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78612&amp;img=9581c912a685ea194987d381fdaf5f8e.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S5-371T-76CY</span>
                 </a>
             </li>                         
             
        
             
                             <li>
-                <a href="http://www.meetgadget.com/gadget/76232/Canon+Pixma+MG5722" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76232"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=76232&amp;img=d11cd5052f5b067f3c97517128cfebef.jpg&amp;v=118&amp;name=">
-                <span class="stitle">Canon Pixma MG5722</span>
+                <a href="http://www.meetgadget.com/gadget/78613/Acer+Aspire+S5-371T-57WW" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78613"><img alt="" src="http://www.meetgadget.com/image.php?t=product&amp;id=78613&amp;img=3f8762ba719d33d28f23feccea8d961d.png&amp;v=118&amp;name=">
+                <span class="stitle">Acer Aspire S5-371T-57WW</span>
                 </a>
             </li>                         
             
@@ -601,10 +922,10 @@ $(document).ready(function(){
     
 </script>
 
-                    </div> 
+                        </div>
 
-                    <div id="widget_recent_top_rated_gadgets">
-                        
+                        <div id="widget_recent_top_rated_gadgets">
+                            
 <div class="widget topratedgadgetsWidget">
     <div class="wrapp">
         <h2>Highly rated gadgets</h2>    
@@ -613,83 +934,83 @@ $(document).ready(function(){
 
         <ul class="grid block-content">
                             <li>
+                        <span class="pts icn">9.0</span>
+                        <a href="http://www.meetgadget.com/gadget/78060/LG+OLED55C6V" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78060">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78060&amp;img=245daa2a3a9163acd2903bb8b5082695.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">LG OLED55C6V</span>
+                            <span class="stars icn"><span style="width: 90%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
                         <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76224/Samsung+UE32J6300" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76224">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76224&amp;img=6f7496a0a03e1d339c6ecab956c19faa.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Samsung UE32J6300</span>
+                        <a href="http://www.meetgadget.com/gadget/78423/Dell+S5840cdn" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78423">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78423&amp;img=bf5d25aa8fab23e7cb3e9406f00de716.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Dell S5840cdn</span>
+                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
+                        <span class="pts icn">8.2</span>
+                        <a href="http://www.meetgadget.com/gadget/77986/Acer+Chromebook+14+CB3-431-C5FM" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="77986">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=77986&amp;img=613243e75aa00a7c7779509b4e769109.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Acer Chromebook 14 CB3-431-C5FM</span>
+                            <span class="stars icn"><span style="width: 82%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
+                        <span class="pts icn">8.0</span>
+                        <a href="http://www.meetgadget.com/gadget/78424/Dell+S5830dn" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78424">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78424&amp;img=94b731cf6d571ec864df67d0c6e10f44.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Dell S5830dn</span>
+                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
+                        <span class="pts icn">9.0</span>
+                        <a href="http://www.meetgadget.com/gadget/76337/Sony+BRAVIA+KD-75XD9405" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76337">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76337&amp;img=1550ccb11d3200a83fcc5c80c2afe369.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Sony BRAVIA KD-75XD9405</span>
+                            <span class="stars icn"><span style="width: 90%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
+                        <span class="pts icn">8.4</span>
+                        <a href="http://www.meetgadget.com/gadget/78131/Bose+QuietComfort+35" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78131">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78131&amp;img=3deb437ed51404bfbb8a0d0944c4dd04.png&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Bose QuietComfort 35</span>
+                            <span class="stars icn"><span style="width: 84%;" class="starsRate"></span></span>                
+            </a></li>
+            
+              
+                            <li>
+                        <span class="pts icn">8.0</span>
+                        <a href="http://www.meetgadget.com/gadget/78204/HP+Elite+x2+1012+G1" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78204">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78204&amp;img=c40fccd867da34f23ca61c53c1adb69c.png&amp;v=118&amp;name=" alt="">
+                <span class="stitle">HP Elite x2 1012 G1</span>
                             <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
             </a></li>
             
               
                             <li>
                         <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76227/Dell+H825cdw" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76227">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76227&amp;img=4c45cdd13c828ac463c9794405c719d5.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Dell H825cdw</span>
+                        <a href="http://www.meetgadget.com/gadget/78238/Toshiba+Portege+Z20t-C2112" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78238">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78238&amp;img=0efcdd7b1aaa1865130e9d9ed2c4c0a6.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">Toshiba Portege Z20t-C2112</span>
                             <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
             </a></li>
             
               
                             <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/74474/Epson+WorkForce+Pro+WF-8090" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="74474">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=74474&amp;img=351cecea02ce5a478629fc3dc68894bd.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Epson WorkForce Pro WF-8090</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76225/HP+Z25n" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76225">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76225&amp;img=83c43fb0b2e65a1500ffa74aac837761.png&amp;v=118&amp;name=" alt="">
-                <span class="stitle">HP Z25n</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76233/Canon+Pixma+MG5721" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76233">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76233&amp;img=a092a11350bb8e21cca44c6ef448fb8a.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Canon Pixma MG5721</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76232/Canon+Pixma+MG5722" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76232">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76232&amp;img=d11cd5052f5b067f3c97517128cfebef.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Canon Pixma MG5722</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/76222/Dell+Inspiron+15-7559" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="76222">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=76222&amp;img=7a6cd160cb5d5a5f1dd86a79c81a69f0.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Dell Inspiron 15-7559</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/75349/Sony+BRAVIA+KD-55X8505C" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="75349">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=75349&amp;img=b51982bd56d4e21809c119f63d4b31a1.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Sony BRAVIA KD-55X8505C</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
-            </a></li>
-            
-              
-                            <li>
-                        <span class="pts icn">8.0</span>
-                        <a href="http://www.meetgadget.com/gadget/75455/Philips+40PUT6400" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="75455">
-                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=75455&amp;img=aba3c033e4ea60fc951b5c36edaf28aa.jpg&amp;v=118&amp;name=" alt="">
-                <span class="stitle">Philips 40PUT6400</span>
-                            <span class="stars icn"><span style="width: 80%;" class="starsRate"></span></span>                
+                        <span class="pts icn">9.0</span>
+                        <a href="http://www.meetgadget.com/gadget/78422/LG+65UH950T" class="followtooltip" title=" " data-sub_obj_type="1" data-obj_id="78422">
+                <img width="118" height="118" src="http://www.meetgadget.com/image.php?t=product&amp;id=78422&amp;img=0f55c0d2ce612e3247ce11b675051497.jpg&amp;v=118&amp;name=" alt="">
+                <span class="stitle">LG 65UH950T</span>
+                            <span class="stars icn"><span style="width: 90%;" class="starsRate"></span></span>                
             </a></li>
             
               
@@ -705,11 +1026,11 @@ $(document).ready(function(){
     
 </script>
 
-                    </div> 
-                    
-                    
-                    <div id="widget_latest_userreviews">
+                        </div>
+
                         
+                        <div id="widget_latest_userreviews">
+                            
 <div class="widget latestReviews">
     <div class="wrapp">
         <h2>Latest user reviews</h2>    
@@ -782,21 +1103,19 @@ $(document).ready(function(){
     });
 </script>
 
-                    </div>
+                        </div>
+
+                        
+                        
                     
-			          
-                    
-                     
-                    
-                                        
                     <div id="debug"></div>
-        	    </div>
-        	    <!--.sidebar--> 
-                            </div>
-       </div>
-       <!--.content-->
-       
-       
+                </div>
+                <!--.sidebar-->
+                    </div>
+    </div>
+    <!--.content-->
+
+    
             </div>
     <!--.wrapper-->
 
@@ -813,7 +1132,7 @@ $(document).ready(function(){
                 <!--.social-->                
             </div>
             <!--.branding-->
-            <p class="copy">Copyright © 2010-15 Meet Gadget. All rights reserved.</p>
+            <p class="copy">Copyright © 2010-16 Meet Gadget. All rights reserved.</p>
         </div>
         <!--.w300-->
         <div class="w660">
