@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reckon.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411150253id_/http%3A//www.reckon.com.au/aboutus/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reckon.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630005807id_/http%3A//www.reckon.com.au/aboutus/policies.aspx) for the most accurate reproduction.*
 
 # Policies | Reckon
 
@@ -12,7 +12,7 @@ On this page you will find a number of important Reckon policies.
 
 Reckon is one of Australia’s leading accounting software developers creating business software for accountants and accounting software for businesses. Reckon provides technical support and training services to the end-users of its products and services, which include desktop, hosted and cloud solutions (“the products”).
 
-Reckon is committed to maintaining the privacy and security of your personal information and complying with the obligations under the Privacy Act 1988 (Cth) and the applicable Privacy Principles, currently known as the National Privacy Principles which will be replaced by the Australian Privacy Principles on 12 March 2014 ( “the Privacy Principles”). 
+Reckon is committed to maintaining the privacy and security of your personal information and complying with the obligations under the Privacy Act 1988 (Cth) and the applicable Privacy Principles, known as the Australian Privacy Principles on 12 March 2014 ( “the Privacy Principles”). 
 
 This Privacy Policy applies to each of the companies in Reckon Group, being Reckon Limited and its subsidiaries in Australia and overseas such as Advanced Professional Solutions Pty Ltd (“APS”) in Australia and New Zealand , Reckon Docs Pty Ltd, Reckon Billback Pty Ltd and Reckon Sync Technology Pty Ltd, and Reckon New Zealand Pty Ltd.
 
@@ -329,9 +329,7 @@ As a company incorporated in Australia and listed on the Australian Stock Exchan
 
 It is the usual practice for registers of listed companies to be managed by third parties. CS manages the members' register on behalf of Reckon, which includes personal information relating to name and address details, security-holding balances, tax file numbers, bank account details and e-mail addresses. CS has its own Privacy Statement as to how it deals with personal information, and Reckon shareholders are directed to the Computershare website [www.computershare.com/au](http://www.computershare.com/au) for further information.
 
-The trading and dealing activities of the Reckon E*Trade service are performed by ETRADE Australia Securities Limited (;E*TRADE). Pursuant to the agreement that Reckon has with E*TRADE, and as authorised by the customer when agreeing to the trading rules, E*TRADE can provide to Reckon, at Reckon's request, personal information relating to the customer. E*TRADE has its own Privacy Statement and Privacy Policy, and Reckon E*TRADE users are directed to the Reckon E*TRADE section of the Reckon website [(http://estore.reckon.com.au/75/34/ETRADE/more](http://estore.reckon.com.au/75/34/ETRADE/more)) for further information.
-
-Some third party service providers may also store information they have collected on our behalf on their own servers, please also refer to _"Third Party Service Providers”._
+The trading and dealing activities of the Reckon ANZ Share Investing service are performed by Share Investing Limited (ABN 93 078 174 973, AFSL No. 238277). Pursuant to the agreement that Reckon has with Share Investing Limited, and as authorised by the customer when agreeing to the trading rules, ANZ Share Investing can provide to Reckon, at Reckon's request, personal information relating to the customer. ANZ Share Investing has its own Privacy Statement and Privacy Policy, and Reckon ANZ Share Investing users are directed to the Reckon ANZ Share Investing section of the Reckon website (<http://estore.reckon.com.au/74/34/ANZ-Share-Investing/more>) for further information.
 
 ### Third Party Websites
 
@@ -518,9 +516,9 @@ Passwords, Access Numbers and Account Numbers
 
 On registration as a user with Reckon for a particular product you may be provided with a confidential password, access number and/or account number. It is your responsibility to keep these confidential and to notify Reckon as soon as you are aware that any of these have been accessed by unauthorised persons. If you give any of these access tools to other persons it is your responsibility for any charges or other liability that may arise from those persons having access.
 
-### Reckon E*TRADE
+### Reckon ANZ Share Investing
 
-The Reckon E*TRADE service is provided solely by ETRADE AUSTRALIA SECURITIES LIMITED (E*TRADE Australia) ACN 078 174 973, AFSL No. 238277, of Level 1, 10 Bridge Street, Sydney NSW 2000a participant of the Australian Stock Exchange Limited Group, under an agreement between E*TRADE Australia and Reckon Investment Centre Limited ("RIC"). When referring you to E*TRADE Australia, a portion of the brokerage fees paid by you to E*TRADE Australia will be rebated to RIC as a commission. RIC may receive between 12% to 18% of the brokerage payable to E*TRADE Australia plus a trailing commission. To the extent permitted by the Australian Consumer law: (a) neither RIC or Reckon and its related bodies corporate have any legal liability to you in respect of the Reckon E*TRADE service and the activities and service of E*TRADE Australia and its related bodies corporate; and (b) E*TRADE Australia and its related bodies corporate have no legal liability to you in respect of the activities and services of RIC or Reckon and its related bodies corporate.
+The Reckon ANZ Share Investing service is provided solely by Share Investing Limited (ABN 93 078 174 973, AFSL No. 238277), of 242 Pitt Street, Sydney NSW 2000, an ASX and Chi-X Australia Participant, under an agreement between Share Investing and Reckon Investment Centre Limited ("RIC"). When referring you to ANZ Share Investing, a portion of the brokerage fees paid by you to ANZ Share Investing will be rebated to RIC as a commission. RIC may receive between 12% to 18% of the brokerage payable to ANZ Share Investing plus a trailing commission. To the extent permitted by the Australian Consumer law: (a) neither RIC or Reckon and its related bodies corporate have any legal liability to you in respect of the Reckon ANZ Share Investing service and the activities and service of Share Investing Limited and its related bodies corporate; and (b) Share Investing Limited and its related bodies corporate have no legal liability to you in respect of the activities and services of RIC or Reckon and its related bodies corporate.
 
 ### Traffic flow
 
@@ -763,3 +761,23 @@ You agree that the terms of this Agreement are to be governed by the laws applic
 ### Enforceabilty
 
 If for any reason any provision of this Agreement is rendered void or unenforceable at law, then this Agreement is to be read as if that particular term or provision had not been included.
+
+## Reckon Accounts Hosted and Reckon One Services – Data Location, Security and Availability 
+
+###  Data Centre 
+
+Reckon Accounts Hosted and Reckon One data is located in datacentres operated by Amazon Web Services (AWS). AWS datacentres comply with many recognised international and national standards including PCI DSS Level 1, ISO 27001 and ISO 9001. Please visit the [AWS compliance ](https://aws.amazon.com/compliance/) page for further information.
+
+###  Data Storage Location 
+
+All Reckon Accounts Hosted and Reckon One servers are specifically located within Australia in the AWS Asia Pacific (Sydney) Region. The data stored in this region does not get transmitted to; or stored in any other AWS region. Inside the Sydney Region, we use multiple physical datacentres, these are referred to as availability zones. We have business continuity and disaster recovery mechanisms in place that allow for one of these availability zones to fail. 
+
+For New Zealand clients, the New Zealand Inland Revenue Department has granted Reckon approval to hold records in Australia. . 
+
+###  Backups 
+
+We provide tools and facilities for Reckon Accounts Hosted customers to perform their own file level backups. While Reckon maintains disaster recovery backups for Reckon Accounts Hosted and Reckon One solutions, Reckon Accounts Hosted customers who fail to maintain their own backups risk losing their financial records. 
+
+###  Encryption 
+
+All Data is encrypted in transit to and from the Reckon Accounts Hosted and Reckon One Servers using Secure Sockets Layer (SSL) certification provided by the industry leading certificate issuer Thawte. 
