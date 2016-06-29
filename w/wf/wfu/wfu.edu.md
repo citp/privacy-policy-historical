@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219005331id_/http%3A//www.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfu.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629194408id_/http%3A//www.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Forest University
 
-This policy discloses the privacy practices applicable to visitors to for wfu.edu, the website for Wake Forest University. As used in this policy, the terms “Wake Forest, “the University,” “we,” “our,” and “us” refer to Wake Forest University, a North Carolina nonprofit corporation. “You” and “your” refer to the individual accessing the web pages owned and controlled by the University. 
+This policy discloses the privacy practices applicable to visitors to wfu.edu, the website for Wake Forest University. As used in this policy, the terms “Wake Forest, “the University,” “we,” “our,” and “us” refer to Wake Forest University, a North Carolina nonprofit corporation. “You” and “your” refer to the individual accessing the web pages owned and controlled by the University.
 
 You may also find within the Wake Forest domain -- signified by the address "wfu.edu" or within the range of domains assigned to the Wake Forest -- websites over which the University has no editorial responsibility or control. Such sites include but are not limited to the Web pages of individual faculty members, staff members or students and the Web pages of student organizations and other organizations not formally a part of the University. Although the University encourages compliance with all University policies and practices at such websites, the University serves only as a neutral provider of Internet-related services to them. The University recommends that you seek information from the persons responsible for those sites directly to ensure that you know under what policies and practices they operate. Information gathered by these sites could be both automatic (upon access of the website) or voluntary (provided by the user). 
 
@@ -23,7 +23,7 @@ Your information is also collected on an opt-in basis when you submit informatio
 
 We use your IP address to help diagnose problems with our servers, and to administer our website by identifying (1) which parts of our site are most heavily used, and (2) which portion of our audience comes from within the Wake Forest network. We do not link IP addresses to anything personally identifiable. This means that user sessions will be tracked, but the users will remain anonymous.
 
-We may use an email address you provide may be used to send you information, or respond to inquiries, and/or other requests or questions. 
+We may use an email address you provide to send you information, or respond to inquiries, and/or other requests or questions. 
 
 We will not sell your information to third-parties, but may provide it to certain entities in circumstances in which we believe that doing so is necessary or appropriate, such as to: satisfy any applicable law, regulation, legal process or governmental request; detect, prevent or otherwise address fraud, security or technical issues; or protect the rights, property or safety of us, our users or others. 
 
@@ -38,7 +38,7 @@ Non-personal information collected by us is shared with companies we partner wit
 
 
 
-By using the wfu.edu, you are consenting to the processing of the data about your visit by these companies in the manner and for the purposes that we describe.
+By using the wfu.edu website and associated sites, you are consenting to the processing of the data about your visit by these companies in the manner and for the purposes that we describe.
 
 ### Cookies
 
@@ -56,7 +56,7 @@ We may provide hyperlinks to third-party websites as a convenience to users of w
 
 ### Email subscriptions
 
-Many organizations and departments represented within wfu.edu allow you to subscribe to their content via email. If you no longer wish to receive this email, follow the "unsubscribe" instructions located near the bottom of each email. You may chose to remove yourself from a specific email, or all emails to which you’re subscribed.
+Many organizations and departments represented within wfu.edu allow you to subscribe to their content via email. If you no longer wish to receive this email, follow the "unsubscribe" instructions located near the bottom of each email. You may choose to remove yourself from a specific email, or all emails to which you’re subscribed.
 
 If you send us email messages, you should be aware that information disclosed in email may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in email.
 
@@ -87,7 +87,7 @@ We will not share, sell, rent, swap or authorize any third party to use your ema
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information we gather about you, we have taken commercially reasonable steps to protect the information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-Users should also consult Wake Forest's Policy on Responsible and Ethical Use of Computing Resources (<http://groups.wfu.edu/CIT/ethical_use_policy.html>). To the extent of any conflict between the terms of this policy and the Computing Resources Policy, the Computing Resources Policy will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
+Users should also consult Wake Forest's Policy on Responsible and Ethical Use of Computing Resources (<http://groups.wfu.edu/CIT/ethical_use_policy.html>). To the extent of any conflict between the terms of this privacy policy and the Policy on Ethical Use of Computing Resources, the Policy on Ethical Use of Computing Resources will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
 
 ### Changes to this policy
 
