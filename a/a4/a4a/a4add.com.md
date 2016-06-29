@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a4add.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228193928id_/http%3A//www.a4add.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4add.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629140056id_/http%3A//www.a4add.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Create website & yellowpage listing with reselling business option
+# Privacy Policy with a4add.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.a4add.com/contact-us) us by email at <http://www.a4add.com/contact-us>.
 
