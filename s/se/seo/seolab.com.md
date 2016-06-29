@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolab.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230092618id_/https%3A//support.softnik.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolab.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175257id_/https%3A//support.softnik.com/about/privacy.php) for the most accurate reproduction.*
 
 # Softnik Technologies: Privacy Policy
 
