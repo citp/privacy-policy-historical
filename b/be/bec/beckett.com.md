@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027073828id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629095808id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ Beckett does internal research on our user's demographics, interests, and behavi
 
 #### **Our Disclosure of Your Information.**
 
-We do not share information about individual users with any third party, except in the case of some contests and sweepstakesâ€”and then, only with a user's express consent. Beckett does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly.
+We do not share information about individual users with any third party, except in the case of some contests and sweepstakes—and then, only with a user's express consent. Beckett does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly.
 
 Throughout the site, you are identified by your User ID. Your User ID can be used to identify your activities throughout our sites.
 
