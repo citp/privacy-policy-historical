@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the valuemytweets.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemytweets.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# What is your Twitter Buzz worth? | Privacy Policy
+# Legal
 
-  
+* * *
+
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-**Our Privacy Policy**
 
-**Information that is gathered from visitors**  
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required, the visitor's email and a username will be stored on the server. 
-
-**How the Information is used**  
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising. E-mail addresses will not be sold, rented or leased to 3rd parties. E-mail may be sent to inform you of news of our services or offers by us or our affiliates. 
-
-**Visitor Options**  
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive. You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website. 
-
-**Cookies**  
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 3rd party advertising companies may also use cookies for tracking purposes. 
-
-**Google Ads**  
-Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
-
-If you have any questions please feel free to [Contact Us](https://web.archive.org/helpdesk).
-
-[Home](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/index.php) \- [About](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/about.php) \- [Contact](https://web.archive.org/helpdesk) \- [FAQ](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/faq.php) \- [Privacy Policy](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/privacy.php) \- [Remove my account](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/remove.php)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
