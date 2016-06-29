@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061614id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629191250id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
-# SpanishDict | Privacidad
+# SpanishDict | Privacy
 
-  * [Inicio](http://www.spanishdict.com/) >
-  * [Companía](http://www.spanishdict.com/company) >
-  * Política de privacidad
+  * [Home](http://www.spanishdict.com/) >
+  * [Company](http://www.spanishdict.com/company) >
+  * Privacy Policy
 
 
 
-Last Updated 10/24/2013
+Last Updated 5/12/2016
 
 SpanishDict is created by Curiosity Media, Inc. At Curiosity Media, Inc. ("The Company", "Company", "we", "us" or "our"), we know your privacy is important to you and we are fully committed to your privacy. 
 
@@ -30,7 +30,7 @@ Information Collected Automatically:
 
 We may receive and store certain types of information whenever you interact with our Site or services. The Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, the page you requested, data submitted, and content accessed.
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. When users are registered for the site, this information is connection to their account information. We use this information to understand how people interact with the Service and to improve it.
+Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. We may track users' interactions with the page. When users are registered for the site, this information is connected to their account information. We use this information to understand how people interact with the Service and to improve it.
 
 Remarketing:
 
