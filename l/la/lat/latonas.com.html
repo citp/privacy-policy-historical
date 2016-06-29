@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2015-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913023215id_/https%3A//latonas.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629135507id_/https%3A//latonas.com/privacy) for the most accurate reproduction.-->
 
 <html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta charset="utf-8">
@@ -37,7 +37,7 @@
         <meta name="msapplication-TileImage" content="/assets2/img/ico/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
 
-        <link rel="canonical" href="https://latonas.com////privacy">
+        <link rel="canonical" href="https://latonas.com///privacy/">
         <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="/assets2/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="/assets2/css/font-awesome-ie7.min.css">
@@ -223,8 +223,7 @@
                                         <ul class="nav navbar-nav navbar-right" style="clear:both;">
                                             <li><a href="https://latonas.com/websites-for-sale">Buy a website</a></li>
                                             <li><a href="https://latonas.com/sell-a-website">Sell a website</a></li>
-                                            <li><a href="https://latonas.com/open-house">Open house                                                         <sub><span class="badge" style="background-color: red;">1</span></sub>
-                                                    </a></li>
+                                            <li><a href="https://latonas.com/open-house">Open house</a></li>
                                             <li><a href="https://latonas.com/tools">Webmaster Tools</a></li>
                                             <li><a href="https://latonas.com/contact">Contact</a></li>
                                         </ul>
@@ -269,7 +268,7 @@
                 $('#form_create').submit(function () {
                     //$('#form_create #submit').addClass('busy');
                     $('#form_create input[name="url"]').val(window.location.pathname);
-                    $.post($('#form_create').attr('action'), $('#form_create').formParams(), function (d) {
+                    $.post("https://latonas.com/account/create", $('#form_create').formParams(), function (d) {
                         $('#form_create #submit').removeClass('busy');
                         if (typeof(d) != 'undefined' && d) {
                             if (d['ret'] == 1) {//Success
@@ -329,8 +328,11 @@
                 $('#form_login').submit(function (e) {
                     e.preventDefault();
                     var form_login = $('#form_login');
-                    var url = form_login.attr('action');
-                    var params = form_login.formParams();
+                    var url = "https://latonas.com/account/login";
+                    var params = {
+                        email: $('#form_login').find('#email_login').val(),
+                        password: String($('#form_login').find('#password_login').val())
+                    };
                     //$('#form_login #submit').addClass('busy');
                     $.post(url, params, function (d) {
                         //$('#form_login #submit').removeClass('busy');
@@ -391,7 +393,7 @@
                 });
                 $('#form_forgot').submit(function () {
 //                    $('#form_forgot #submit').addClass('busy');
-                    $.post($('#form_forgot').attr('action'), $('#form_forgot').formParams(), function (d) {
+                    $.post("https://latonas.com/account/forgot", $('#form_forgot').formParams(), function (d) {
 //                        $('#form_forgot #submit').removeClass('busy');
                         if (typeof(d) != 'undefined' && d) {
                             if (d['ret'] == 1) {//Success
@@ -487,7 +489,7 @@
                                 </div>
 
                                 <div id="left_login">
-                                    <form id="form_login" class="form-horizontal" method="post" action="https://latonas.com/account/login">
+                                    <form id="form_login" class="form-horizontal">
                                         <h3 class="title-text underline">
                                             Sign In:
                                         </h3>
@@ -515,7 +517,7 @@
                                     </form>
                                 </div>
                                 <div id="left_forgot" style="display: none;">
-                                    <form class="form-horizontal" id="form_forgot" method="post" action="https://latonas.com/account/forgot">
+                                    <form class="form-horizontal" id="form_forgot">
                                         <h3 class="title-text underline">
                                             Password Recovery:
                                         </h3>
@@ -564,7 +566,7 @@
                                 </div>
                                 <div id="login_signup">
                                     <h3 class="title-text underline">Create An Account:</h3>
-                                    <form class="form-horizontal" id="form_create" method="post" action="https://latonas.com/account/create" autocomplete="off">
+                                    <form class="form-horizontal" id="form_create" autocomplete="off">
                                         <input type="hidden" name="url" value="">
                                         <div class="form-group">
                                             <label class="control-label col-md-3">Email Address:</label>
