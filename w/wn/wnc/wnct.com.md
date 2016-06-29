@@ -1,139 +1,85 @@
-> *The following text is extracted and transformed from the wnct.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613033311id_/http%3A//www.wnct.com/now/story/0%2C1597%2C53940-325%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnct.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629024124id_/http%3A//wnct.com/privacy-policy) for the most accurate reproduction.*
 
-# CBS.com--CBS.com Privacy Statement
+# Privacy Policy | WNCT
 
-**(CBS)**  CBS.com takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information. 
+**Media General, Inc.**  
+**Effective Date** : February 18, 2016  
+**Related** : [Terms of Use](https://web.archive.org/terms-of-use)
 
-We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy.shtm) that parents can read. 
+Media General, Inc., together with its Affiliates (collectively, “we,” “us,” or “our”), offers this website (the “Site”) and all related mobile or desktop applications (the “Applications,” and, together with the Site, the “Properties”), including without limitation all content, materials, information, software, products and services available on the Properties, to you, the user, conditioned upon your acceptance of this Privacy Policy. This Privacy Policy sets forth our online information collection practices. Specifically, it outlines the types of information that we gather from and about you while you are using the Properties and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us or that we may collect offline or through other means (for example, at a live event, via telephone, or through the mail).
 
-Questions regarding this statement should be directed to the cbs.com privacy coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
+Please read this Privacy Policy carefully. By visiting or using the Site or the Applications, you agree to and accept the terms of this Privacy Policy and our Terms of Use, which are incorporated herein by reference. If you do not agree to the terms of this Privacy Policy, you must immediately discontinue your use of the Properties.
 
-**Privacy Coordinator  
-CBS New Media (555/13)   
-524 West 57th Street   
-New York, New York 10019**
+We reserve the right to change this Privacy Policy at any time. If we make changes to the Privacy Policy, we will post the changes on the Properties and update the Effective Date to reflect the date of the changes. You should periodically review this page to ensure that you understand the terms of the Privacy Policy currently in effect. Your use of the Properties after we post any such changes constitutes your acceptance of the modified terms of the Privacy Policy.
 
- **Kinds of Information**
+#### HOW WE COLLECT INFORMATION
 
-There are two kinds of information Web sites can obtain about you: 
+We may collect and store certain information about you that you voluntarily submit to us when you use the Properties. For example, we may collect information about you when you contact us using forms available through the Properties, sign up to receive communications from us, post information or content in publicly-accessible areas of the Properties, or enter a contest available through the Properties. For purposes of this Privacy Policy, information that can be used to identify or locate you, including without limitation your name, phone number, mailing address, email address, and geolocation data, is called “Personal Information.” Personal Information does not include de-identified or anonymized statistical or aggregated data about users or any information that you post in publicly-accessible areas of the Properties (such as message boards, blogs, or chat rooms) or otherwise publicly disclose on the Properties. Please keep in mind that whenever you voluntarily make any information available in publicly-accessible areas of the Properties, the content that you post can be seen, collected and used by other third parties. You acknowledge and agree that we are not responsible for any third-party use of such information.
 
-Aggregate Information: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites´ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
+We may also automatically collect and store certain information as you navigate the Properties. When you use the Site, we may use a standard feature found in browser software called “cookies.” Cookies are small files that your web browser places on your hard drive for record-keeping purposes. If you object to the use of cookies, please consult your browser’s documentation for instructions on how to disable or delete them or contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com). You should be advised, however, that cookies are required for certain functions of the Properties and if you disable or delete them, you may not be able to access or use certain functions.
 
-Personally Identifiable Information: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online, sign up with an Internet Service Provider (ISP) or subscribe to an email newsletter. Other times, Web sites collect this information to help target advertising and marketing. 
+The Properties also may use web beacons (single-pixel graphic files also known as “clear GIFs”) to recognize users, access cookies, or to count users who visit the Properties or open HTML-formatted email messages. You may stop the use of some web beacons by turning off your browser’s cookies.
 
-We at CBS.com collect certain Aggregate Information – such as your IP address (a number that´s automatically assigned to your computer whenever you´re surfing the Web), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
+When you use the Applications, we may use Identifiers for Advertisers (IFA) or Google Advertising Identifiers (AID) to collect information about your device and location and to serve advertisements to you. For example, we may collect information about the type of device you use to access the Applications (including without limitation the device make, model, manufacturer, operating system/platform, and language) as well as your location when you use the device. If you object to this practice, please consult your device’s documentation for information on how to disable collection of IFA and AID information.
 
-**Cookies**
+#### HOW WE USE AND SHARE INFORMATION
 
-CBS.com uses [cookies](https://web.archive.org/now/story/0,1597,31142-325,00.shtml) to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, and contests to limit multiple responses and registrations. 
+We use the Personal Information and other information we collect from and about you while you are using the Properties in a variety of ways, including without limitation to:
 
-CBS.com will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. CBS.com does not use information transferred through cookies for any promotional or marketing purposes. 
-
-You may occasionally get cookies from our advertisers and our vendors. CBS.com does not control these cookies, and these cookies are not subject to the CBS.com privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
-
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
-
-**Surveys**
-
-Sometimes CBS.com posts optional surveys in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
-
-To send you information about CBS and this Web site   
-To give to our content partners, who may send you promotional material   
-To give to our advertisers, who may send you information about their products and services 
-
-The choice is yours – you do not have to answer surveys. If you choose to answer the survey, we will always tell you on the survey form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. 
-
-**Contests and Sweepstakes**
-
-From time to time CBS.com runs contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
-
-  
-
-  * To notify you if you are a winner
-  
-
-  * To send you information about CBS and this Web site
-  
-
-  * To give to content partners, who may send you promotional email
-  
-
-  * To give to advertisers, who may send you emails about their products and services
+  * Perform normal business operations such as billing, collecting and accounting;
+  * Process and deliver products and services that you request;
+  * Respond to communications from you;
+  * Collect information about your computer’s connection to the Internet;
+  * Improve the Properties and the delivery of the Properties to you;
+  * Measure traffic to the Properties and estimate the number of unique users of our Properties;
+  * Track user trends and patterns;
+  * Personalize the Properties for you, customize features that appear on the Properties, and serve advertisements to you;
+  * Assist with fraud detection efforts and debugging;
+  * Identify the type of device you use and its capabilities or your location;
+  * Prevent you from having to re-enter your preferences on certain areas of the Properties where you may have entered preference information before;
+  * Contact you regarding the Properties, products or services offered through the Properties, or special offers, contests or promotions; and
+  * Track and collect general usage information regarding users of the Properties.
 
 
 
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with any third party unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. 
+We may provide information about you, including without limitation Personal Information, to third parties such as service providers, contractors, and advertisers, for a variety of purposes, including online behavioral advertising or multi-site advertising. We reserve the right to use, and to disclose to others, all information (including without limitation your Personal Information) collected from and about you while you are using the Properties in any way and for any purpose, including without limitation to enable us or a third party to provide you with information about products and services. We reserve the right to release any information in our possession, including without limitation Personal Information, when such release is necessary or appropriate to comply with law or legal process, to protect the rights, property or safety of users of the Properties or the public, or when we otherwise believe, in our sole discretion, that such release is appropriate.
 
-If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the site unless you give us your permission. 
+Please also note that as our business grows, we may buy or sell various assets. In the event that we sell some or all of our assets, or one or more of our Properties are acquired by another company, information about our users may be among the transferred assets. In the event of such a transfer, we cannot guarantee that this Privacy Policy will continue to govern your information.
 
-**Opt Out**
+We do not generally keep email correspondence, except for those emails that relate to our on-air programs or operations. As required by the Federal Communications Commission (“FCC”), if any part of your email correspondence relates to station programming or operations, we must place such correspondence in the station’s FCC Public Inspection File. Therefore, you acknowledge and agree that any Personal Information contained in certain emails, including Personal Information knowingly received from a child under the age of thirteen, may be disclosed to the general public. We therefore caution you that you should not put any confidential Personal Information in any email correspondence to us that pertains to station programming or operations. You understand and agree that we are not responsible for Personal Information that is disclosed in emails that are made available to the general public in compliance with FCC regulations.
 
-We've mentioned this phrase - opt out - several times already. Here is how it works at CBS.com: 
+#### COLLECTION AND USE OF INFORMATION BY THIRD PARTIES
 
-We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information. It's that simple. 
+We may use third parties to help us administer and operate the Properties and to provide us with internal support. For example, we may use third parties to help us with calendaring events on the Properties and administering contests on the Properties (the “Third Party Partners”). We may share your Personal Information and other information about you with our Third Party Partners in our sole discretion. To the extent the Third Party Partners place advertisements, links, cookies, or other technologies on our Properties, however, these items are not under our control and they are governed by the privacy policies and terms of use of our Third Party Partners. If you have questions about the practices or policies of our Third Party Partners, you should visit that party’s website and review its policies.
 
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
+Some of our third-party advertisers and ad servers that place and present advertising on the Properties also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.
 
-**Feedback and Email**
+Third-party ad providers who display advertisements on our Properties may choose to utilize the Ad Choices icon. You can click on the icon to exercise certain choices with respect to interest-based advertising. To learn more about exercising choice with respect to interest-based advertising, you may also visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-On every page at CBS.com, there is a link to a “feedback” email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type, and referring URL to better diagnosis technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. 
+#### THIRD-PARTY LINKS AND PLATFORMS
 
-**CBS-TV Affiliates**
+The Properties may include links to other web sites not owned or operated by us. Links to third-party websites do not indicate our endorsement or sponsorship of the information, products, or services available on such websites. When you access another website, you become subject to the privacy policy and terms of use governing that website. You should therefore carefully review the privacy policy and terms of use governing any such third-party website.
 
-CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
+You may be able to use certain social media platforms (e.g., Twitter) via our Properties. Any such social media platform’s terms of use and privacy policies may also govern your activity when you partake in this activity. We recommend that you familiarize yourself with the rules governing a social media platform before using it via our Properties.
 
-Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content CBS.com produces in New York. And some affiliates sell ads or run contests that will appear on their branded sites only. 
+#### CHILDREN’S PRIVACY
 
-Now that we've explained that, here comes the disclaimer: CBS.com is not responsible for content or contests posted by our affiliates, nor for the use of any information that an affiliate may collect. 
+The Properties are not directed to children under the age of thirteen and we do not knowingly collect through the Properties personal information, as defined by the Children’s Online Privacy Protection Act of 1998, from children under the age of thirteen. Children under the age of thirteen are not allowed to submit any personal information to us, enter any contests, sweepstakes, or promotions made available through the Properties, or post in any publicly-viewable area of the Properties (e.g., message boards, chat rooms, etc.). If we become aware that we have received personal information from a user under the age of thirteen, we will delete such personal information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personal information from children under the age of thirteen.
 
-We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
+The provisions of this Privacy Policy relating to the collection and retention of personal information from a child under the age of thirteen do not apply where such information was submitted as correspondence relating to station programming and operations.
 
-**Links To Other Sites**
+#### HOW TO VIEW, MODIFY OR DELETE YOUR INFORMATION
 
-When you visit CBS.com, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave CBS.com. This includes links to sites operated by advertisers, sponsors and partners that may use CBS's logo as part of an agreement with CBS. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to the CBS.com privacy policy and CBS.com is not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
+If you have subscribed to our email newsletters, you may unsubscribe by clicking on the “unsubscribe” link at the bottom of any email that you receive from us. Otherwise, if you wish to change your subscriber information, modify your subscriptions, or view, modify, or delete any Personal Information that you have submitted to us, please contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com). Please be advised that you are responsible for notifying us in the event your mobile phone number changes or is deactivated.
 
-**CBS Store**
+#### INFORMATION RETENTION
 
-The CBS Store uses an online, faxable order form for users to buy CBS products. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders when necessary. However, neither CBS.com nor the CBS Store shares this information with third parties. 
+Unless you contact us to request the deletion of your Personal Information, we will retain such information for as long as it is necessary to fulfill a legitimate business purpose or as required by law.
 
-**Deleting or Modifying Your Information**
+#### SECURITY
 
-If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices: 
+We employ certain physical, administrative, and technical measures in an attempt to protect your Personal Information. Although we do attempt to keep your Personal Information secure, we cannot guarantee the security of your Personal Information. You use the Properties at your own risk and your communications with us are subject to all of the risks associated with the Internet, including without limitation unauthorized access and use.
 
-Email to [privacy@cbs.com](mailto:privacy@cbs.com). 
+#### QUESTIONS REGARDING PRIVACY
 
-Regular mail to: 
-
-Privacy Coordinator   
-CBS New Media (555/13)   
-524 West 57th Street   
-New York, New York 10019 
-
-Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above [remember, we tell you that when we ask the questions] and we've already passed it on, we cannot delete or change the information. 
-
-**Security of Private Information**
-
-We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS.com, to protect your information from theft, misuse and alteration. 
-
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. 
-
-**Contacting CBS.com**
-
-If you have any questions about this privacy policy statement or the privacy practices of CBS.com, please contact the Privacy Coordinator. 
-
-Email to [privacy@cbs.com](mailto:privacy@cbs.com). 
-
-Regular mail to: 
-
-**Privacy Coordinator  
-CBS New Media (555/13)   
-524 West 57th Street   
-New York, New York 10019**
-
- **The Bottom Line**
-
-Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
-
-We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.” 
-
-So head back to the [CBS.com home page](https://web.archive.org/now/section/0,1636,100-325,00.shtml) and mouse around in confidence. 
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you may contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com).
