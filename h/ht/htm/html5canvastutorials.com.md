@@ -1,27 +1,26 @@
-> *The following text is extracted and transformed from the html5canvastutorials.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608212444id_/http%3A//www.html5canvastutorials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5canvastutorials.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174138id_/http%3A//www.html5canvastutorials.com/html5canvastutorials-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# HTML5CanvasTutorials Privacy Policy
 
-At Html5CanvasTutorials.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by Html5CanvasTutorials.com and how it is used.
+## Your privacy is critically important to us.
 
-## Log Files
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-Like many other Web sites, Html5CanvasTutorials.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-## Cookies and Web Beacons
 
-Html5CanvasTutorials.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+## Website Visitors
 
-## DoubleClick DART Cookie
+Like most website operators, HTML5 Canvas Tutorials collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. HTML5 Canvas Tutorials purpose in collecting non-personally identifying information is to better understand how HTML5 Canvas Tutorials visitors use its website. HTML5 Canvas Tutorials also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. 
 
-Google, as a third party vendor, uses cookies to serve ads on Html5CanvasTutorials.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to Html5CanvasTutorials.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+## Cookies
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and BuySellAds.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HTML5 Canvas Tutorials uses cookies to help HTML5 Canvas Tutorials identify and track visitors, their usage of HTML5 Canvas Tutorials website, and their website access preferences. HTML5 Canvas Tutorials visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HTML5 Canvas Tutorials's websites, with the drawback that certain features of HTML5 Canvas Tutorials websites may not function properly without the aid of cookies. HTML5 Canvas Tutorials works with 3rd party advertisers,who will gather non-personally identifiable information/data and/or track users via cookies. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Html5CanvasTutorials.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+## Privacy Policy Changes
 
-Html5CanvasTutorials.com has no access to or control over these cookies that are used by third-party advertisers.
+Although most changes are likely to be minor, HTML5 Canvas Tutorials may change its Privacy Policy from time to time, and in HTML5 Canvas Tutorials sole discretion. HTML5 Canvas Tutorials encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Html5CanvasTutorials.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+## Third Party Advertising
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. 
