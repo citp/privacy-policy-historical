@@ -1,109 +1,79 @@
-> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230050856id_/http%3A//public.hudl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudl.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629182428id_/http%3A//public.hudl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hudl
 
-This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by Agile Sports Technologies, Inc. (“Agile Sports,” “we,” “our” or “us”) or other interactive features that are accessible or downloadable through the web sites owned or controlled by Agile Sports and that post a link to this Privacy Policy (collectively, the “Web Sites”). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
+Your privacy is important to Agile Sports Technologies, Inc. dba Hudl (“ **Hudl** ”). This Privacy Policy covers how we may collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
-We may receive and store certain types of web site usage information whenever you visit or interact with the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. We also may collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a “Device Identifier”). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
+### 1\. COLLECTION AND USE OF PERSONAL INFORMATION
 
-We may also collect the email addresses of those who communicate with us via email, aggregate information on what pages members access or visit, and information volunteered by the member (such as survey information and/or site registrations). The information we collect is used to improve the content of our website pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+Personal information is data that can be used to uniquely identify or contact a single person. We may use personal information to provide our products and services, as well as for purposes such as auditing, data analysis, and research to improve Hudl’s products, services, and customer communications. You may be asked to provide personal information when in contact with Hudl. Hudl and its partners may share personal information and use it as described in this Privacy Policy. Such information may be combined with other information to provide and improve products, services, content, and advertising. By providing us with personal information about yourself through any means, you consent to the collection, use, disclosure and transfer of that information, and to us sending you marketing communications related to our products and services. If you do not provide us with requested personal information we may not be able to provide you with some or all of Hudl’s products and services.
+
+### 2\. PERSONAL INFORMATION WE COLLECT
+
+When you visit our websites, download or install a software application, create a registered user account, purchase a product, register a product, complete a survey or download a software update, we may collect information, including: name, mailing address, phone number, email address, athlete profile information (as described in Section 5 below), contact preferences, credit card information and payment history. 
+
+We may also collect such information when you contact us in person (for example, at clinics, conferences, workshops, seminars and other events), via telephone, facsimile or email. When you send us an email, that address will be recorded automatically for purposes of replying to your email. Otherwise, we will use the email address you provide on request for regular communications with you. By providing your email address, you are subscribing to our newsletter and product updates, which may include information about new features and new services. You may unsubscribe from this content by following the steps detailed in the email footer.
+
+We may receive and store certain types of website usage information when you visit our websites. Website usage information helps us determine how visitors arrive, what type of content is most popular and which visitors are interested in particular content and advertising. We may collect the page visited, the time, the source of the request, the type of browser making the request, the preceding page view and other information about your engagement. We may also collect your IP address and your Device Identifier. A Device Identifier is a number automatically assigned to the computer, cell phone or tablet used to access the Internet. We may associate your Device Identifier with the personal information you provide. 
+
+Certain of our websites can be used anonymously. We do not collect personally identifiable information about you if you only browse such sites. However, if you choose to access our websites anonymously, we may not be able to provide you with particular products or services. We do collect personal information if you provide any such personal information, register as a user, provide details at an event, complete a survey or supply personal details through any other form of correspondence. Hudl uses this information to provide products and services, as well as for billing, identification, authentication, products and services improvement, contact and research purposes. 
+
+_Information Collected for Software Analytics_
+
+In order to improve our software and user experience, we may collect and store certain information about you and your use of our software. This information may include: date; time; computer identity; operating system; language; region; log preferences; registration key; license level; license code; license code status; code registration date; last validation date; ethernet address; IP address; mac address; licensed software name and version; OS version; and any other information about user actions required to improve, support and maintain our software.
+
+### 3\. COOKIES
+
+A cookie is a small amount of data which often includes an anonymous unique identifier that is sent to your browser from a website and stored on your computer’s hard drive. We use cookies to record current session information, but do not use permanent cookies. 
+
+### 4\. WEB BEACONS
+
+Our website contains electronic images (generally, single-pixel .gif images) called “web beacons.” Web beacons allow Hudl and third parties to monitor and collect information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Hudl uses web beacons to count web browsers, visits and page views. It also uses beacons to monitor traffic and conversion patterns, to personalize your experience, including advertising and content, and to determine whether or not messages were opened, links were clicked or notifications/offers were acted upon.
+
+### 5\. ATHLETE PROFILE PAGES
+
+These pages may contain: name, home and email addresses, phone number, school (name, city and state), graduation year, GPA, ACT/SAT scores, transcript parent/guardian information (name, relation, e-mail and phone), age, birth date, photograph, height, weight, jersey number, twitter handle, sports position, performance scores (40-yd-dash, agility shuffle, powerball, vertical jump), speed and strength information, sports awards and sports videos featuring the athlete. This information can be accessed by the athlete, coaches, team administrators and verified recruiters. The public will have limited access, excluding: phone number, age, birth date, graduation year, home and email addresses, GPA, ACT/SAT scores and transcript parent/guardian information (name, relation, e-mail and phone) and sports awards.
+
+### 6\. DATA STORAGE
+
+Hudl uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to run the Hudl website, and such third party vendors may collect and store your data on behalf of Hudl. Hudl owns the code, databases and all rights to therein. Hudl incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Hudl cannot ensure or warrant the security of any information you transmit to Agile Sports via its websites and or products, and you do so at your own risk. The websites are general audience websites. 
+
+### 7\. DISCLOSURE TO THIRD PARTIES
+
+Personal information is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
   * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-
-  * We transfer information about you if Agile Sports is acquired by or merged with another company. In this event, Agile Sports will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-  * We share information with our partners, licensees, agents, representatives, distributors, independent contractors and/or any authorized third party.
+  * If Hudl is acquired by or merged with another company. If this happens we will notify you before information is transferred.
+  * We share information with our partners, licensees, agents, representatives, distributors, independent contractors and/or authorized third party. 
 
 
 
+### 8\. HOSTED SERVICE PARTNERS AND THEIR PRIVACY OPTIONS
 
-## 1\. Information Gathering and Usage.
+Our network advertising partners include Facebook, Google, Twitter, and their advertising networks. Facebook and Google use cookies, web beacons, and similar technologies to collect information and use that information to provide measurement services and target ads. You can opt-out of Facebook collection [here](http://www.aboutads.info/choices). You can opt out of Google analytics [here](https://tools.google.com/dlpage/gaoptout). You can adjust other Google privacy setting [here](https://www.google.com/settings/u/0/ads/authenticated). Twitter uses conversion tracking and tailored audiences products for advertisements. You can modify your Twitter privacy settings [here](https://support.twitter.com/articles/20170405#choices).
 
-When you register for Agile Sports we ask for information such as your name, email address, zip code and date of birth. Agile Sports uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact and research.
+### 9\. CHILDREN
 
-Selecting “Remember Me” option is not recommended for public computers.
+We do not knowingly collect personal information from children under 13 and we will delete any information later determined to have been collected from a user younger than 13. 
 
-## 2\. Cookies and Web Beacons.
+### 10\. ONLINE TRAINING
 
-### Cookies
+Online Training Sessions are governed by the privacy policy of a separate company, Citrix. You can find their privacy policy [here](https://web.archive.org/web/20160629182428id_/http%3A//public.hudl.com/www.citrix.com/about/legal/citrix-online-privacy-policy-en.html). 
 
-A cookie is a small amount of data which often includes an anonymous unique identifier that is sent to your browser from a website’s computers and stored on your computer’s hard drive.
+### 11\. TRACKING
 
-Cookies are required to use the Agile Sports website. We use cookies to record current session information, but do not use permanent cookies. You are required to login to your Agile Sports member account after a certain period of time has elapsed to protect you against others accidentally accessing your account.
+This website does not respond to do not track settings in browsers. 
 
-### Web Beacons
+### 12\. OUR COMPANYWIDE COMMITMENT TO YOUR PRIVACY
 
-The Web Sites and any communications sent by the Web Sites may contain electronic images (generally, single-pixel “.gif” images) called “web beacons.” These web beacons allow Agile Sports and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Agile Sports’ use of web beacons on its Web Sites, include, without limitation, the following:
+Hudl is committed to the protection of your personal information. To make sure your personal information is secure, we communicate our privacy and security guidelines to Hudl employees and strictly enforce privacy safeguards within the company. Please read this policy before visiting our websites, accessing our services, or providing any personal information to Hudl. If you wish not to have your information used and disclosed as provided in this policy please do not provide such information, or contact [support@hudl.com](mailto:support@hudl.com) for further assistance. In doing so, please understand that your access to information, services and other benefits may be substantially limited. 
 
-  * counting unique users (actually, unique web browsers), visits and page views.
+### 13\. CHANGES
 
-  * monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons 
+Hudl may periodically update this policy. By using the websites and products, you acknowledge your agreement to the terms of this Privacy Policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your membership account or by placing a prominent notice on our website.
 
-  * may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.
+### 14\. PRIVACY QUESTIONS
 
-  * personalizing your experience when you visit the Web Sites, including the advertising and content you see.
+If you have any questions or concerns about Hudl’s Privacy Policy or data processing, please contact Hudl at: [legal@hudl.com](mailto:legal@hudl.com)
 
-  * determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
-
-
-
-
-## 3\. Data Storage.
-
-Agile Sports uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to run the website. Agile Sports owns the code, databases and all rights to therein. Agile Sports incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Agile Sports cannot ensure or warrant the security of any information you transmit to Agile Sports via its Web Sites, and you do so at your own risk. The Web Sites are general audience web sites. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Sites and we will delete any information later determined to be from a user younger than thirteen (13).
-
-## 4\. Disclosure.
-
-Agile Sports may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; to protect the legal rights, interests, or safety of the Web Sites, our users or others; or when your actions violate the Agile Sports’ Terms of Service. Such disclosures may be carried out without notice to you.
-
-## 5\. Use of Third Party Network Advertising Features.
-
-Our network advertising partners currently include Facebook, Google, Twitter, and their respective extended advertising networks, but we reserve the right to partner with other third party ad networks in the future. Below you will find vendor-specific information detailing: (1) the product features we have currently implemented; (2) how our advertising partners use cookies and other identifiers; and (3) how you can opt-out of these features. By using the Web Sites, you consent to the collection and processing of data about you by third party network advertising partners in the manner and for the purposes described below.
-
-### Facebook - Terms For Conversion Tracking, Custom Audiences From Your Website, and Custom Audiences From Your Mobile App
-
-Facebook provides certain features and tools (e.g., pixels, SDKs and APIs) that you we have added to the Web Sites to allow us to send data about actions that people take on the Web Sites or mobile app (“Event Data”) to Facebook to track conversions (“Conversion Tracking”), to create custom audiences of people who have visited the Web Sites (“Custom Audiences from the Web Sites”), or to create custom audiences of people who have visited our mobile app (“Custom Audience from the Mobile App”). By accessing the Web Sites you agree to the following:
-
-A. Facebook will use the Event Data received to provide us with insights about the effectiveness of our ads and the use of our website/app or to create our custom audience (as applicable, depending on the specific features we choose to use), and in accordance with Facebook’s Data Policy (<https://www.facebook.com/about/privacy/>). Event Data will also enable us to better target ads and to optimize our systems. In connection with such targeting and optimization, Facebook will: (i) use Event Data collected from the Web Sites or mobile app for ads optimization only after such Event Data has been aggregated with other data collected from other advertisers or otherwise collected on Facebook and (ii) not allow other advertisers or third parties to target advertising solely on the basis of Event Data collected from our website or mobile app.
-
-B. Event Data will not be disclosed to other advertisers or to third parties, unless Facebook has our permission or is required to do so by law. Facebook will maintain the confidentiality and security of Event Data, including by maintaining technical and physical safeguards that are designed to (a) protect the security and integrity of data while it is within Facebook’s systems and (b) guard against the accidental or unauthorized access, use, alteration or disclosure of data within Facebook’s systems.
-
-C. You agree that you have received sufficiently prominent notice and hereby consent to the following:
-
-(1) With respect to the Web Sites’ use of Conversion Tracking or Custom you understand that: (a) third parties may use cookies, web beacons, and similar technologies to collect or receive information from the Web Sites and elsewhere on the internet and use that information to provide measurement services and target ads; (b) you can opt-out of the collection and use of information for ad targeting; and (c) you can access a mechanism for exercising such choice at the following link: [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-D. We agree not to transfer or disclose any personally identifiable information to Facebook or combine any information obtained in connection with these terms with personally identifiable information. We further agree that we will not share with Facebook information that we know or reasonably should know is from or about children under the age of 13 or that includes health, financial, or other categories of sensitive information.
-
-E. We agree that Facebook may include notice in or around our advertisements explaining that the ad is targeted, and we agree that we will not modify, obscure, or otherwise interfere with these notices, including any technical components that enable users to access additional information or choice mechanisms.
-
-F. Facebook may modify, suspend or terminate access to, or discontinue at any time the availability of Conversion Tracking, Custom Audiences from our Website, or Custom Audiences from our mobile app. We may discontinue our use of the features at any time. We may delete our custom audience from the Facebook system at any time through our account tools.
-
-G. If we are using any of these features on behalf of a third party, we also represent and warrant that we have the authority as agent to such party to use such features on their behalf and bind such party to these terms.
-
-These Terms govern our use of Conversion Tracking and Custom Audiences from the Web Sites. These features are part of “Facebook” under Facebook’s Statement of Rights and Responsibilities (<https://www.facebook.com/legal/terms>, the “SRR”), and our use of these features is deemed part of our use of, and actions on, “Facebook.” These Terms do not replace any terms applicable to our purchase of advertising inventory from Facebook, and such terms will continue to apply to our ad campaigns for which we are using Conversion Tracking or Custom Audiences. In the event of any conflict between these Terms and such terms or the SRR, these Terms will govern solely with respect to our use of Conversion Tracking and Custom Audiences, and solely to the extent of the conflict. Facebook reserves the right to monitor or audit our compliance with these terms and to update these terms from time to time, and our continued use of these features constitutes acceptance of those changes.
-
-The Web Sites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the Web Sites analyze how users use the Sites. The information generated by cookies about your use of the Web Sites (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Web Sites, compiling reports on activity for site operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the Web Sites. By using the Web Sites, you consent to the processing of data about you by Google in the manner and for the purposes set out above.   The Google Analytics tracking code implemented on the Web Sites supports Display Advertising. Google Analytics for Display Advertising is used on this website in form of Remarketing. Third-party vendors, including Google use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on your past visits to the Web Sites. You can opt out of Google Analytics for Display Advertising and customize Google Display ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb).
-
-The following Google Analytics features are used on this website: \- Remarketing with Google Analytics \- Google Display Network Impression Reporting \- Google Analytics Demographics and Interest Reporting \- Other types of interest-based advertising, including integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers
-
-These features may target past visitors across the internet or visitors with specific interest profiles based on their internet usage. We don’t collect personally identifiable information through our cookies, remarketing lists, or any other anonymous identifiers. [At any time, you may decline the collection and storage of your data in the future.](https://tools.google.com/dlpage/gaoptout?hl=en)
-
-You may prevent these cookies from being saved by selecting the appropriate settings on your browser. However, please note that if you do this you may not be able to use the full functionality of the Web Sites. You can prevent the data generated by the cookie about your use of the Web Sites (including your IP address) from being collected and processed by Google by clicking the following link to download and install the Google Analytics Opt-out Browser Add-on: [https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout)
-
-### Twitter - Use of Conversion Tracking and Tailored Audiences Products
-
-The Web Sites make use of Twitter’s conversion tracking and tailored audiences products.  These products collect user data through the Web Sites for purposes of conversion tracking and serving ads targeted to your interests. Twitter prohibits the creation of tailored audiences or conversion events based on any sensitive information, including: alleged or actual commission of a crime; health; negative financial status or condition; political affiliation or beliefs; race or ethnic origin; religious or philosophical affiliation or beliefs; sex life; and trade union membership.   You may opt-out of interest-based advertising through the Do Not Track functionality in your web browser or through such other methods that Twitter may specify from time to time [here](https://support.twitter.com/articles/20170405).  
-
-When you have Do Not Track enabled in your browser, Twitter does not match your account to browser-related information to tailor ads for you. Follow the link for more information about [how to enable Do Not Track](https://support.twitter.com/articles/20169453).
-
-## 6\. Third Party Content And Links to other Web Sites.
-
-When you are on the Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you “click” on a banner advertisement, the “click” may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites’ logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site’s privacy policy before providing any personal information.
-
-## 7\. Changes.
-
-Agile Sports may periodically update this policy. By using the Web Sites, you acknowledge your agreement to the terms of this Privacy Policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your Agile Sports membership account or by placing a prominent notice on our site.
-
-## 8\. Questions.
-
-Any questions about this Privacy Policy should be addressed to [legal@agilesports.com](mailto:legal@agilesports.com).
+Effective Date: April 1, 2016
