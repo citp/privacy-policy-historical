@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaiverna.co.in privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404223548id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaiverna.co.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164130id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | HYUNDAI MOTOR INDIA - NEW THINKING. NEW POSSIBILITIES.
 
