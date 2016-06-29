@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116070940id_/http%3A//www.cqc.org.uk/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164350id_/http%3A//www.cqc.org.uk/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
@@ -55,9 +55,9 @@ If we can, we will contact you first to tell you how we plan to share your infor
 
 Our code of practice details how we obtain, handle and use your personal information.
 
-[Code of practice PDF | 468.69 KB](http://www.cqc.org.uk/sites/default/files/documents/20121105_code_of_practice_on_cpi.pdf)
+[Code of practice PDF | 468.69 KB](https://www.cqc.org.uk/sites/default/files/documents/20121105_code_of_practice_on_cpi.pdf)
 
-[Code of practice (Easy to read) PDF | 1.33 MB](http://www.cqc.org.uk/sites/default/files/documents/isl337_10_easyread_cqc_codes_of_practice_draft2_12jan11.pdf)
+[Code of practice (Easy to read) PDF | 1.33 MB](https://www.cqc.org.uk/sites/default/files/documents/isl337_10_easyread_cqc_codes_of_practice_draft2_12jan11.pdf)
 
 ## Looking at care records
 
@@ -67,13 +67,13 @@ If you don’t want us to look at your records, please tell the manager of the o
 
 This guidance explains what our powers to look at records are, and how we use them.
 
-[Guidance on accessing medical and care records using powers under the Health and Social Care Act 2008 PDF | 104.81 KB](http://www.cqc.org.uk/sites/default/files/accessing_medical_and_care_records_900092.pdf)
+[Guidance on accessing medical and care records using powers under the Health and Social Care Act 2008 PDF | 104.81 KB](https://www.cqc.org.uk/sites/default/files/accessing_medical_and_care_records_900092.pdf)
 
 ## Personal information
 
 We do not hold personal information about the majority of people who use care services, but we sometimes take copies of some information, and in rare cases, we may need to share that information with other public bodies.
 
-If you think that we may hold your personal information and you want to make a request to see it, please visit [Freedom of information](http://www.cqc.org.uk/content/freedom-information) for more details. We may ask you for proof of identity and to pay a small fee before responding to your request.
+If you think that we may hold your personal information and you want to make a request to see it, please visit [Freedom of information](https://www.cqc.org.uk/content/freedom-information) for more details. We may ask you for proof of identity and to pay a small fee before responding to your request.
 
 ## Data and statistics
 
