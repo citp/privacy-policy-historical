@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226142324id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629114822id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | THE OFFICIAL BEAUTYCOUNTER SITE
+# Privacy Policy | Beautycounter
 
 BeautyCounter is committed to maintaining the privacy of all visitors to our website, BeautyCounter.com (the “Site”), as described in this Privacy Statement.
 
