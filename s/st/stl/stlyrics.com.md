@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054507id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630011443id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | ST Lyrics
 
-  1. [⌂](https://web.archive.org/)
+  1. [](https://web.archive.org/)
   2. Soundtrack lyrics source #1. Privacy
 
   
@@ -24,7 +24,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](http://www.allposters.com/help/guarantee.asp#privacy). Adtegrity.com [privacy policy](http://www.adtegrity.com/privacy.asp).
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](). Adtegrity.com [privacy policy](http://www.adtegrity.com/).
 
   
 
