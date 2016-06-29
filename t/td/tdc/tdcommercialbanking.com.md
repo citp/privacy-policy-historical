@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228140354id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629173750id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
 
 # TD Online Privacy Policy Highlights | TD Bank Group
 
@@ -6,7 +6,7 @@ Skip to content
 
 ## Highlights
 
-This notice provides highlights of our [full Privacy Code](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp) and applies to personal information collected, used and disclosed by [TD Bank Group](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp#m) (TDBG). Personal Information  
+This notice provides highlights of our [full Privacy Code](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp) and applies to personal information collected, used and disclosed by [TD Bank Group](https://web.archive.org/privacy-and-security/privacy-and-security/our-privacy-commitments/td-privacy-code/privacy.jsp#m) (TDBG).  Personal Information  
 ---  
   
   * At the time you begin a relationship with us and during the course of our relationship, we may collect information about you.
@@ -41,7 +41,7 @@ Important Information
 
   
   
- ***Email disclaimer:** For your protection, do not send confidential or personal information (e.g. Access Card number, account numbers, etc.) via email, as it is NOT a secure method of communication. If your request is urgent or requires disclosure of confidential or personal information for resolution, please call us.
+***Email disclaimer:** For your protection, do not send confidential or personal information (e.g. Access Card number, account numbers, etc.) via email, as it is NOT a secure method of communication. If your request is urgent or requires disclosure of confidential or personal information for resolution, please call us.
 
 ## How to Contact Us
 
