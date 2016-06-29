@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916163449id_/http%3A//www.zoomin.com/us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629224630id_/http%3A//www.zoomin.com/us/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,12 @@ When you visit the site you may provide the Publisher with two types of informat
 
   * Similar to other commercial web sites, the Site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and server logs to collect information about how the Site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our Site, and the web sites visited just before and just after the Site. The Publishers, its advertisers, advertisement serving companies and Affiliated Parties may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions Users have seen and how Users responded to them. 
   * We may also use aggregate data obtained from your photos meta information to provide appropriate access to helpful resources relevant to your camera.
+
+
+
+**App Use Information.**
+
+  * From time to time, we run exciting offers for our customers. In order for you to get full benefit of these offers, we will need to auto register you, using your Google Play Store email adress, if you do not already have a ZoomIn account. This is a requirement to mitigate any possible fraud, and to ensure you have a fun, hassle-free experience with ZoomIn's products and services. 
 
 
 
