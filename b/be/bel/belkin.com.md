@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122333id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154715id_/http%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,8 +85,6 @@ For certain WeMo and Linksys Smart Wi-Fi products, Belkin may provide the opport
 Any third parties with whom we share your Personal Information are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. We will take all reasonable steps to make sure these third parties comply with the same privacy principles that govern our collection of your personal information.
 
 When making purchases on the Belkin website stores, Belkin uses a payment processor to verify your payment card information. Your payment card information is passed through to the payment processor and is not collected or stored by Belkin. The payment processor is authorized to use this information only to authenticate your purchase and for no other purpose.
-
-Our European website stores are operated by a third-party service provider, Trojan Electronics Ltd. ("Trojan"). Trojan processes your Personal Information solely for the purpose of fulfilling orders placed on our Belkin website stores in Europe, and in accordance with European data protection law.
 
 ### Marketing
 
