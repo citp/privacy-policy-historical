@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909135527id_/http%3A//www.keystonerv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629031911id_/http%3A//www.keystonerv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Keystone RV
 
 _Effective December 22, 2011_
 
@@ -27,7 +27,9 @@ We may share information about you with our suppliers for the exclusive purpose 
 
 If you wish to be removed from any postal, email, phone or other lists, please let us know by phone or postal mail, or by emailing us at: [remove-me@keystonerv.com](mailto:remove-me@keystonerv.com&subject=Please%20remove%20me%20from%20your%20mailing%20list.). Please provide us with your exact name, address, and phone number. If you own a Keystone product we will need your vehicle identification number (VIN). We will be sure your name is removed from the appropriate list.
 
- **Keystone will not share information about you or your recreational vehicle with any third party for their independent use without your permission.**
+This website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
+
+**Keystone will not share information about you or your recreational vehicle with any third party for their independent use without your permission.**
 
 Keystone RV websites may contain links to third party websites, including websites owned or maintained by authorized Keystone RV dealers. The linked websites are not under the control of Keystone RV and Keystone is not responsible for the contents of any linked website or any link contained in a linked website. Keystone RV is providing these links only as a convenience and the inclusion of a link does not imply endorsement of the linked website by Keystone.  
  ****  
