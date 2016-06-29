@@ -1,67 +1,153 @@
-> *The following text is extracted and transformed from the relayrides.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907083945id_/https%3A//relayrides.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayrides.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629153935id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
-Last revised: April 11, 2014
+### Privacy policy
 
-RelayRides provides an online marketplace for car rentals. This Privacy Policy describes RelayRides’ commitments to you with respect to RelayRides’ use of information collected in connection with the RelayRides marketplace.
+Last revised: April 19, 2016
 
-While RelayRides may revise this Privacy Policy from time to time, we will always abide by the terms of the Privacy Policy in place when we collected your information. Please note, if we make any material changes to our Privacy Policy, we will provide you with notice concerning the changes either on this page or through some other reasonable method.
+Turo Inc. (formerly RelayRides, Inc., dba Turo (hereinafter, “Turo”, “we”, or “us”)) cares about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy covers your access or use of our websites or applications (“Platform”), when communicating with us or other Turo users on any device (collectively “Services”), or when you otherwise provide us with Personal Information. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-### Information We Collect through the Marketplace
+We may change this Privacy Policy. Please take a look at the “Last revised” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
-As used in this Privacy Policy, the term “personal information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or other account number). Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when that information is linked to other personal information that identifies the individual. Personal information does not include “aggregate” information, which is data we collect about the use of the RelayRides marketplace or about a group or category of products, services or users, if all personal information has been removed.
+As used in this Privacy Policy, the term “Personal Information” means information that specifically identifies an individual such as a name, address, telephone number, email address, social media account, or other account identifier. Personal Information may also include demographic information such as date of birth, gender, geographic area, and preferences, when that information is linked to other Personal Information that identifies the individual or that allows that individual to be identified. Personal Information does not include “aggregate” information, which is data we collect about the use of the Turo Services or about a group or category of products, services, or users, if all personally identifiable information has been removed or disassociated from the individual.
 
-When you offer your car for rent through the RelayRides marketplace, we will ask you for certain personal information including your name, contact information and information about your car. We may also require additional financial information from you to facilitate payment to you and to process any filings required by applicable tax authorities. When you rent a car through the RelayRides marketplace, we will ask you for your name, contact information, payment information and information concerning your driver’s license and driver’s record. We will maintain records for a reasonable period concerning your registration with and use of the RelayRides marketplace, including any correspondence you have with us.
+We, either directly or through third party companies and individuals we engage to provide services to us, collect, process, or retain Personal Information from you and any devices you may use when you use our Services. The Personal Information we collect may include the following:
 
-We automatically collect certain information through the use of “cookies” or clear gifs. Cookies are small data files that are stored on a user’s hard drive at the request of a Web site to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. Clear gifs (also know as web bugs or web beacons) are small, invisible graphic images that may be used on the site or in emails relating to the site to collect certain information and monitor user activity on the site. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the site may not function properly.
+  
 
-We reserve the right to review and store the communications you make through the site, including your postings on site pages and your communications to other members using the marketplace’s messaging capabilities. We may use those communications for internal purposes, including to better understand how members use the marketplace, as well as for security purposes. Notwithstanding the foregoing, we are not obligated or required to review any communications and make no commitment to do so or to take any specific action with respect to those communications.
 
-RelayRides also logs each visit to each web page on the site. The log may contain information such as the browser type you used, your Internet Protocol address, and the date and time of day of the visit. We may also log your cookie’s identification number and the URL of the last site you visited. This log information is important for security, audit, quality improvement, as well as for monitoring the health of our marketplace.
+###### Personal Information you give us (either manually or automatically) when you access our Services:
 
-If your car or a car you rent through the marketplace includes an in-car device, RelayRides will log and retain information recorded by the in-car device, such as location, mileage and other aspects of your use of the car during a rental period. If the in-car device is operated by a third party service, e.g. OnStar, that service may record information about your use of the car. The third party service will be solely responsible to you for its use of such information.
+Identifying information such as your name, addresses, telephone numbers, and email addresses when you register for an account with us;
 
-### Use of Information and Information Verification
+Information you provide during a transaction, or other transaction based content that you generate, or that is connected to your account as a result of a transaction you are involved in, such as listing a car or renting a car from one of our users, adding items to your Favorites, creating reviews, or uploading Trip Photos;
 
-RelayRides will use your personal information solely for its internal business purposes in connection with the provision of the RelayRides marketplace. That includes use of your information: to facilitate our administration and operation of the marketplace; to understand better how our users engage with the marketplace; to verify your account information; to process your requests and transactions; to provide you with information or services you request; and to inform you about other promotions or products or services we think will be of interest to you.
+Financial information (such as payment card numbers) in connection with a potential or actual transaction, which is stored by a third party payment services provider; and
 
-RelayRides will use third party services to verify the personal information you provide to us and to obtain additional related information and corrections where applicable. You hereby authorize RelayRides to request, receive, use and store such information for a reasonable period of time. In addition, you agree that personal information provided by you may be linked together or merged with other personal information so that we may better understanding of your account information and your use of the marketplace. In any case, this Privacy Policy governs any information we maintain about you and your use of the marketplace.
+Bank account information provided by vehicle owners in the US to receive payments, which is stored by a third-party digital payments company.
 
-### Disclosure of Information
+In some instances, when you use our Services, we may ask you to provide us a photograph and/or other demographic information, such as a scanned copy of driver’s license, passport, or credit/debit card, last four digits of your Social Security number, social insurance number, social media account information, driver’s/motor vehicle record, insurance information, and other forms of identification. Where we request that you withhold certain information when providing us with personally identifiable information (such as obscuring or redacting all but the last four digits of your payment card number), please do so.
 
-RelayRides does not sell, trade, or rent your personal information to others. We will not share the personal information we collect from you through the marketplace with third parties except as described in this Privacy Policy.
+We also collect information about your interaction with our Services, your marketing preferences, and your communications with us. This information may include device ID or unique identifier, device type, ID for advertising, and/or unique device token. We collect computer and connection information such as statistics on your page views, browser type, date and time of the visit, traffic to and from our Platform, referral URL, ad data, your IP address, and your browsing history on our Service. Log information is important for security, audit, quality improvement, as well as for monitoring the safety of our Services. When you download and use our mobile application, our service providers, and we may track and collect app usage data, such as the date and time the app on your device accesses our servers and what information and files have been downloaded to the Turo app based on your device ID.
 
-RelayRides enables car owners to offer and rent their vehicles to other individuals. If you agree to a rental transaction through the RelayRides marketplace, RelayRides may provide your personal information to the other party in that transaction as reasonably necessary to facilitate the rental. For example, RelayRides may provide your mobile phone number to facilitate communication or your photograph to facilitate identification.
+If you opt in to use our Location Sharing feature (which allows travelers and owners to share information with one another about their location), we will collect geo-location data, including location information from your mobile device, and information about the location and movement of your vehicle or the vehicle you are renting during a rental period based upon the movement of your mobile device. If you opt in to using location-based searching, we will collect geo-location data, including location information from your mobile device, for this purpose. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device’s settings menu.
 
-In addition to information verification providers described above, we may share personal information with vendors and service providers who are engaged by or working with us in connection with the operation of our site and marketplace and who need access to such information to carry out their work for us. In some cases, the service provider may be directly collecting the information from you on our behalf. RelayRides will endeavor to choose service providers that are well established and who have agreed to protect the confidentiality of any personal information the service provider receives. RelayRides is not responsible for the act or omissions of its service providers.
+If you communicate with customer service via telephone, we may record your telephone call for quality assurance, documentation, recordkeeping, and/or training purposes. If you do not wish to have your telephone call recorded, please do not communicate with us via telephone and instead communicate with customer support via support.turo.com.
 
-If RelayRides offers or promotes services in conjunction with another company, and you request those services (or additional information about them), you consent to our sharing your personal information with those parties. In those cases, we will only share the information reasonably needed to provide you with the applicable service. We may also share personal information with third parties when you give us your consent to do so. Information that is shared with third parties as described in this paragraph is subject to the privacy policies of those parties, which may differ from this Privacy Policy. RelayRides is not responsible for the acts or omissions of those third parties. We encourage you to become familiar with their practices before disclosing information directly to them.
+If your car, or a car you rent through the Services, includes an in-car device operated by a third party service or installed by the owner, that owner or service may record information about your use of the car. The owner and third party service will be solely responsible to you for its use of such information. If you are the owner of a vehicle that includes such an in-car device, you must inform any traveler with whom you share your car about the device.
 
-RelayRides may compile aggregate information about the use of the marketplace. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our marketplace. RelayRides may also share aggregate demographic information with advertisers and partners. This policy in no way restricts or limits our collection and use of aggregate information.
+When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). We use these technologies to recognize you as a customer; customize our Services, for content and marketing; to measure promotional effectiveness; to help ensure that your account security is not compromised; to mitigate risk and prevent fraud; and to promote trust and safety across our Services. For more detailed information on our use of these technologies, please see our policy on [Cookies, Web Beacons, and Similar Technologies](https://support.turo.com/hc/articles/213251437)
 
-RelayRides may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of RelayRides, our users, our employees or the public. That includes actions we may take to protect RelayRides or our users from fraudulent, abusive, inappropriate or unlawful use of our site or marketplace. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of RelayRides.
+We may also collect any other Personal Information you choose to provide us, or that we are permitted or required to collect by law.
 
-You understand that when you use the site, information you post in your profile or in any other area of the site will be available to other users and in some cases may be publicly available.
+###### Personal Information we collect from other sources:
 
-### Security
+We may also obtain information about you from third parties such as credit bureaus and identity verification services. You may choose to log in to our Services through social media sites (e.g., Facebook or Google). When you do so, Personal Information from your social media account may be shared with Turo. The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Turo account and authorizing Turo to have access to this information, you agree that Turo may collect, store, and use this information in accordance with this Privacy Policy.
 
-We have endeavored to put into place reasonable security measures in an effort to protect personal information while it is under our control. We are not responsible for any unauthorized disclosure of personal or other information caused by any third party. Your account information is accessible online through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.
+Our primary purpose in collecting personal information is to provide our users with a secure, smooth, efficient, and customized experience. For example, we may use your Personal Information to:
 
-### Updating your information or opt-out of emails
+  * provide Turo Services and customer support; 
+  * process transactions and send notices about your transactions; 
+  * verify your identity, including during account creation and password reset processes; 
+  * resolve disputes, collect fees, and troubleshoot problems; 
+  * manage risk, or to detect, prevent, and/or remediate fraud or other potentially prohibited or illegal activities; 
+  * detect, prevent, or remediate violations of policies or our [Terms of Service](https://web.archive.org/policies/terms); 
+  * improve the Services, including by customizing your user experience; 
+  * measure the performance of the Services and improve our content and layout; 
+  * manage and protect our information technology infrastructure; 
+  * foster a trusted and safer environment on our Services, such as detection and prevention of actual and potential fraud and other harmful activity, conducting investigations and risk assessments, enforcing our Terms and Policies, verifying any identification documents provided by you, and conducting checks agains databases and information sources (such as but not limited to public government databases) for fraud detection and prevention, risk assessment and harm prevention purposes. In this regard, we may do any or all of the foregoing with or without further notifying you; 
+  * provide targeted marketing, provide service update notices, and deliver promotional offers based on your communication preferences; 
+  * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorized by our [Terms of Service](https://web.archive.org/policies/terms); 
+  * perform creditworthiness and solvency checks, compare information for accuracy, and verify it with third parties; 
+  * endeavor to verify your identity, through the use of a background check or otherwise; 
+  * send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you; 
+  * enable you to communicate with other Turo users, including but not limited to by sending them messages or other information during the booking process; 
+  * administer referral programs, rewards, surveys, contests, or other promotional activities or sponsored events; 
+  * comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements; 
+  * carry out any other purpose which is disclosed to you and to which you consent; and 
+  * carry out any other purpose permitted or required by law. 
 
-If you wish to opt-out of marketing and promotional emails, please contact us at [support@relayrides.com](mailto:support@relayrides.com). You may not opt-out of receiving service-related emails. If you would like to update your contact information, please use your Account Page. If you have any trouble using the Account Page, please contact RelayRides’ customer service at [support@relayrides.com](mailto:support@relayrides.com).
 
-### Contact
 
-RelayRides welcomes your questions and comments about privacy, and what we do. Please feel free to e-mail us at [support@relayrides.com](https://web.archive.org/web/20150907083945id_/https%3A//relayrides.com/policies/support@relayrides.com).
+We, either directly or through third party companies and individuals we engage to provide services to us, may contact you via electronic means, telephone, or postal mail to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, or as otherwise necessary to service your account. Additionally, we may contact you to offer coupons, discounts, and promotions, and inform you about Turo Services. Finally, we may contact you as necessary to enforce our policies, applicable law, or any agreement we may have with you. When contacting you via phone, to reach you as efficiently as possible we may use, and subject to the applicable law, you consent to receive, autodialed or prerecorded calls and text messages as described in our [Terms of Service](https://web.archive.org/policies/terms). Where applicable and required by law, you may decline to receive certain communications.
 
-If you need to reach us by mail, please write to:
+We retain your Personal Information as long as it is necessary and relevant for our operations. In addition, we may retain Personal Information from closed accounts to comply with applicable laws, detect or prevent fraud, collect any fees owed, resolve disputes, assist with or process claims, troubleshoot problems, assist with any investigation, comply with audits and investigation, to enforce our [Terms of Service](https://web.archive.org/policies/terms), and take other actions reasonably necessary, permitted, or required by applicable law.
 
-RelayRides, Inc.  
-116 Natoma Street  
+We may use third-party advertising companies to serve advertisements regarding our Services when you access and use the Services and other websites, based on information relating to your access to and use of the Services and other websites. To do so, these companies may place or recognize a unique Cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>.
+
+You have a choice about how we use your Personal Information to communicate with you, to send you marketing information, and how we provide you with a customized experience.
+
+  
+
+
+###### Communication preferences
+
+You can control the methods by which we may contact you about your account, your rental activities, promotions, and announcements in the Notifications section within your Turo account.
+
+###### Marketing
+
+At this time, we do not respond to browser ‘Do-Not-Track’ signals.
+
+You have a choice about how we use your Personal Information to communicate with you, to send you marketing information, and how we provide you with a customized experience.
+
+When you sign in to our Services, including through a social network login such as Facebook or Google, you will stay logged on/signed in until you explicitly sign out of your account. If you are using a public or shared computer you should sign out and/or clear your Cookies when you are done using our Platform in order to protect your account and your Personal Information. If you do not sign out, you or any other user of the computer/browser you signed in on will be able to view and access your account, including your social media accounts.
+
+You can access, review, correct, update, and edit certain Personal Information that has been previously provided to us by you at any time by logging in to your account and reviewing your account settings and profile. You can also access or request a correction of your Personal Information, by contacting us at [support.turo.com](http://support.turo.com/). For your protection, we may need to verify your identity before implementing your request. If you wish to close your account, please contact us at support.turo.com. Please note that we may need to retain certain information for record keeping, trust and safety, dispute resolution, payment, or other business purposes. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+Your public listing page will always include some basic information, such as your user ID/name associated with your account, your public profile photo, and for owners, the city where your car is located, your listing description, your calendar availability, and your responsiveness in replying to inquiries and reviews/feedback from others users of our Services. Your public listing page may also include aggregated demand information (such as number of page views over a period of time). Our Services may also display an owner’s vehicle’s approximate geographic pick-up location on a map.
+
+Our Services allow your public profile and public listing pages to be included in search engines, in which case your public profile and public Listing pages may be indexed by search engines and may be published as search results.
+
+Turo enables car owners to offer and rent their vehicles to other individuals. If you agree to a rental transaction through the Services, we may provide your Personal Information to the other party in that transaction as reasonably necessary to facilitate the transaction. For example, Turo may provide your mobile phone number and/or driver’s license information to facilitate communication or your photograph to facilitate identification. We will provide the address of the vehicle and/or the proposed delivery location. We may also share user-uploaded “Trip Photos” with captions with the other party involved in the rental transaction if that feature is selected. Turo users engaged in a rental transaction with you may send you text message (such as to confirm pickup or delivery location). [Standard telephone minute and text and data charges may apply](https://support.turo.com/hc/articles/210134398).
+
+We may share Personal Information with vendors and service providers who are engaged by, or working with, us in connection with the operation of our Services and customer support functions and who need access to such information to carry out their work for us. In some cases, the service provider may be directly collecting the information from you on our behalf. For car owners who choose to use our photography program, your contact information will be shared with the photographer assigned to shoot your vehicle.
+
+Turo may compile aggregate information about the use of the Services. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Services. Turo may also share aggregate demographic information with advertisers and partners. This policy in no way restricts or limits our collection and use of aggregate information that does not identify any individual.
+
+We may disclose your Personal Information to other members of the Turo corporate family or to third parties, including our insurance and claims providers, as we believe to be necessary or appropriate: under applicable law, including laws outside your country of residence to provide insurance and claims services; to comply with legal process; to respond to requests from public and government authorities including public and government authorities outside your country of residence; to enforce our [Terms of Service](https://web.archive.org/policies/terms) and related Policies; to protect our operations or those of any of our affiliates or users; to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and to allow us to pursue available remedies or limit the damages that we or our users may sustain.
+
+If we merge with or are acquired by another company, we may share information with them in accordance with our privacy standards and applicable law.
+
+We have endeavored to put into place reasonable security measures in an effort to protect Personal Information against unauthorized access, destruction, or alteration while it is under our control. However, no method of transmission over the Internet, and no method of storing information, can be 100% secure. So, we cannot guarantee the absolute security of your transmissions to us and of your Personal Information that we store.
+
+Personal Information may be accessed by persons within our organization, or our third party service providers, who require such access to carry out the purposes indicated in this Privacy Policy, or such other purposes as may be permitted or required by applicable law. Personal Information we collect is managed from our corporate offices at 667 Mission Street, 4th Floor, San Francisco, CA 94105.
+
+We are not responsible for any unauthorized disclosure of personal or other information caused by any third party. Your account information is accessible online through the use of a password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Services by any person using your password or your account. Please advise us immediately if you believe your password has been misused. We are not responsible for your failure to comply with this clause, or for any delay in shutting down your account after you have reported a breach of security to us.
+
+The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to the laws in those jurisdictions.
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information unless specifically requested (e.g., Social Security numbers, social insurance numbers, passports, information related to racial or ethnic origin, political opinions, religion, trade union membership or other beliefs, health, biometrics, or genetic characteristics) on or through the Services or otherwise to us.
+
+This section describes some additional important privacy information related to your use of our Services.
+
+  
+
+
+###### How you should use the information you receive on Turo
+
+You may use the Personal Information that you have access to only for Turo transaction-related purposes, or for other services offered through Turo (such as complaints, claims reporting, dispute resolution, and user-to-user communications). Using Personal Information of other users that you have access to for any other purpose constitutes a violation of our [Terms of Service](https://web.archive.org/policies/terms). You are solely responsible for your use of any Personal Information you find on our Services, including without limitation, for complying with all applicable laws when using such information.
+
+######  Unwanted or threatening email 
+
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send them text messages for commercial purposes, send spam, or invite/engage in off-Turo transactions to avoid paying Turo’s fees in whole or in part.
+
+###### Children’s privacy
+
+Our websites are general audience websites, and our Services are not intended for anyone under the age of 21. We do not knowingly collect Personal Information from users under the age of 21. If a child has already provided us with Personal Information, his or her parent or guardian may contact us for the purpose of deleting this information.
+
+###### Third party privacy practices
+
+This Privacy Policy addresses only the use and disclosure of Personal Information collected by Turo. This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply.
+
+We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner and any third parties you deal with or whose sites you visit before entering into a transaction and choosing to share your information.
+
+Turo welcomes your questions and comments about privacy, and what we do. Please feel free to contact us at [support.turo.com](http://support.turo.com/). If you need to reach us by mail in regards to privacy questions, please write to our General Counsel:
+
+Turo  
+667 Mission Street  
+4th Floor  
 San Francisco, CA 94105  
-United States  
-Attn: Privacy
+Attn: Legal Department-Privacy 
 
-Thanks for using RelayRides!
+Thanks for using Turo!
