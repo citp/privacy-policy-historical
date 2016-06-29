@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpjobs.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023072002id_/http%3A//www.cpjobs.com/hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpjobs.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629091947id_/http%3A//www.cpjobs.com/hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | cpjobs.com
 
-Welcome to the cpjobs.com Web site, owned and operated by the SCMP Group Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as " **SCMP** ", " **we** ", " **our** " or " **us** "). Our products and services are offered through web pages at or linked to the uniform resource locator <http://www.cpjobs.com/hk/>, (and other Web sites that we establish from time to time (" **cpjobs.com Web site** ") and are made available subject to the terms and conditions set out in this statement. This statement (" **Privacy Policy** ") describes the privacy practices we have adopted with respect to personal data in operating the cpjobs.com Web site.
+Welcome to the cpjobs.com Web site, owned and operated by the South China Morning Post Publishers Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as " **SCMP** ", " **we** ", " **our** " or " **us** "). Our products and services are offered through web pages at or linked to the uniform resource locator <http://www.cpjobs.com/hk/>, (and other Web sites that we establish from time to time (" **cpjobs.com Web site** ") and are made available subject to the terms and conditions set out in this statement. This statement (" **Privacy Policy** ") describes the privacy practices we have adopted with respect to personal data in operating the cpjobs.com Web site.
 
 " **Personal data** " means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.
 
@@ -89,9 +89,9 @@ You should also note that the privacy protection as set out in this Privacy Poli
 
 Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.
 
-Sharing Information with SCMP and the Group
+Sharing Information with South China Morning Post Publishers Limited
 
-Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, SCMP (the "Group"), for the purposes of direct marketing or the provision of customized information regarding the Group's network of Internet and other products and services.
+Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, South China Morning Post Publishers the Gro, for the purposes of direct marketing or the provision of customized information regarding the South China Morning Post Publishers Limited's network of Internet and other products and services.
 
 What Do We Do with the Information We Gather?
 
