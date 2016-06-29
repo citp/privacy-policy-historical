@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112190813id_/http%3A//www.onekindesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629092653id_/http%3A//onekindesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Onekindesign.com
 
-1 Kindesign has created this privacy policy to help protect your privacy. Your privacy is extremely important to us, so while we want to provide you with the information you are looking for, we still want to maintain your privacy. To further protect your privacy, this notice will help to explain in detail about our online information practices and the choices you can make about the way your personal information is collected and used.
+One Kindesign has created this privacy policy to help protect your privacy. Your privacy is extremely important to us, so while we want to provide you with the information you are looking for, we still want to maintain your privacy. To further protect your privacy, this notice will help to explain in detail about our online information practices and the choices you can make about the way your personal information is collected and used.
 
 ## Information We Collect
 
-Here on 1 Kindesign we present to you the opportunity to enter contests, vote in polls, post comments and subscribe to our daily newsletter. When you participate in any of these things, we will ask you for personally identifiable information, which can include your name and e-mail address.
+Here on One Kindesign we present to you the opportunity to enter contests, vote in polls, post comments and subscribe to our daily newsletter. When you participate in any of these things, we will ask you for personally identifiable information, which can include your name and e-mail address.
 
 We also may collect certain non-personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Mozilla, Firefox), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., AT&T, Cox). We may additionally collect your IP address (Internet Protocol address), which shows the location of where you are accessing the internet from, such as your work, home or school.
 
@@ -26,14 +26,14 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 To enhance your online experience we use “cookies.” Cookies are text files that are placed in your computer’s browser to store all of your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-Here on 1 Kindesign, cookies are used to help better understand Internet usage and to improve our content, offerings and advertisements. We may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These “web beacons” may be used to deliver cookies that conform to our cookie policy.
+Here on One Kindesign, cookies are used to help better understand Internet usage and to improve our content, offerings and advertisements. We may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These “web beacons” may be used to deliver cookies that conform to our cookie policy.
 
 ## Changes to this Policy
 
-1 Kindesign may change this Privacy Policy at any time. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.
+One Kindesign may change this Privacy Policy at any time. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.
 
 ## Contact Details
 
-If you have any questions or concerns regarding this privacy policy, please send us an email on our [contact form](http://www.onekindesign.com/contact/).
+If you have any questions or concerns regarding this privacy policy, please send us an email on our [contact form](http://onekindesign.com/contact/).
 
 Last Updated September 8, 2015
