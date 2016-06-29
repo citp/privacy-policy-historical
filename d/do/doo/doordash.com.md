@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926111722id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629205005id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
 
 # DoorDash Food Delivery | Privacy Policy
 
@@ -45,6 +45,6 @@ San Francisco, CA 94105
 
 Email Address: support@doordash.com
 
-Telephone Number: +1 (650) 681-9470
+Telephone Number: +1 (844) 285-0248
 
 Effective as of August 04, 2013
