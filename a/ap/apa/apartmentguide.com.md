@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225171139id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629022242id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
 
-[Click here to learn more about how we handle do-not-track signals and user tracking.](https://web.archive.org/web/20151225171139id_/http%3A//www.apartmentguide.com/legal/www.apartmentguide.com/legal/privacy/do-not-track/)
+[Click here to learn more about how we handle do-not-track signals and user tracking.](https://web.archive.org/legal/privacy/do-not-track/)
 
 ApartmentGuide.com is a technology platform owned and operated by Consumer Source Holdings LLC, a subsidiary of RentPath, LLC ("RentPath"). The rental advertisements and related services accessed on ApartmentGuide.com or through its tools, applications or services ("ApartmentGuide.com") are procured and provided by RentPath and its subsidiaries and affiliates (collectively, "Apartment Guide" or "we", "our" or "us"). 
 
