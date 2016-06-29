@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229153333id_/http%3A//www.dealerrater.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154042id_/http%3A//www.dealerrater.com/info/privacy) for the most accurate reproduction.*
 
 # Car Dealer Reviews, Dealership Ratings, Cars For Sale - DealerRater.com
 
-Last updated April 2015
+Last updated February 2016
 
 DealerRater was founded in 2002 as the first car dealer review website worldwide. Our Site is part of the DealerRater network and is operated by DR Media Holdings, LLC ("DealerRater"). 
 
@@ -19,16 +19,19 @@ DealerRater will not sell your Personal Information to third parties. In an effo
 
 We may share, disclose, or provide your Personal Information to third parties: (i) when required to combat fraud or to protect our interests; (ii) to enforce the Privacy Policy or the applicable Terms of Use, Terms of Service, or API license grant; (iii) when required to do so by law or in response to legal process or lawful requests, including from law enforcement or government agencies; (iv) within and among our affiliates and subsidiaries; or (v) as part of a merger, sale of a business, sale of assets, or dissolution. 
 
+We may use how you browse and shop in order to show you ads for DealerRater or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by DealerRater. 
+
+We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Currently, our Site does not recognize if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. You can opt-out of receiving interest-based ads from us by [Contact Us](https://web.archive.org/company/contact-us/) and provide your full name and applicable account information, along with your request for opting out. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop. 
+
+In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, dealers, organizations or individuals outside of DealerRater when we have your consent to do so. 
+
 Dealership Accounts  
-Accounts belonging to dealerships may privately contact reviewers through our site on items related to a consumer review. When dealers make such contact, email addresses are not provided to either party without prior consent. DealerRater facilitates the interaction through the DealerRater platform. 
-
-How You Can Access or Correct Your Personal Information  
-You can generally access, review and update your Personal Information by logging in to your My Account page here and making the necessary changes. If you have any difficulty doing so or have other questions about the Personal Information we hold about you, please contact us at [support@dealerrater.com](mailto:support@dealerrater.com). 
-
-To protect your privacy, we and our authorized employees and agents will take reasonable steps to verify your identity before granting you access to or making corrections to your Personal Information. 
+Accounts belonging to dealerships may privately contact reviewers through our site on items related to a consumer review. When dealers make such contact, email addresses are not provided to either party without prior consent. DealerRater facilitates the interaction through the DealerRater platform. How You Can Access or Correct Your Personal Information You can generally access, review and update your Personal Information by logging in to your My Account page here and making the necessary changes. If you have any difficulty doing so or have other questions about the Personal Information we hold about you, please contact us at [support@dealerrater.com](mailto:support@dealerrater.com). To protect your privacy, we and our authorized employees and agents will take reasonable steps to verify your identity before granting you access to or making corrections to your Personal Information. 
 
 Cookies  
 DealerRater uses "cookies" and other technologies to collect data that enables us to better understand and improve the usability, performance and effectiveness of the Site. Cookies are files sent to your browser and stored on your computer. If you do not want DealerRater to send cookies to your browser, you can set your browser options to reject cookies or notify you when a web site tries to put a cookie into your browser software. Rejecting cookies may affect your ability to use some features of the Site. 
+
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies”, which are text files placed on your computer, to help the Site analyze how users use the site. You can find out more about how Google uses data when you visit our Site by visiting “How Google uses data when you use our partners' sites or apps”, (located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)). We may also use Google Analytics Advertising Features to provide you with interest-based advertising based on your online activity. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). To learn more about interest-based advertisements and your opt-out rights and options, visit the [Digital Advertising Alliance](http://www.aboutads.info/) and the [Network Advertising Initiative](http://www.networkadvertising.org/) websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop. 
 
 DealerRater gathers general information about visits to the Site. DealerRater uses this information to understand traffic on the Site, provide you with technical support, improve the Site, and provide the best online experience possible for our Users. 
 
