@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopwittmore.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230054522id_/http%3A//shopwittmore.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwittmore.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629212304id_/http%3A//shopwittmore.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# WITTMORE — Privacy Policy
+# Privacy Policy – WITTMORE
 
 This Site utilizes a 128-bit Secure Socket Layer (SSL) encrypted checkout to protect personal data. We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
