@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229162631id_/http%3A//imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629201239id_/http%3A//imarketslive.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
 
-# - Privacy Policy - iMarketsLive
+# International Markets Live - Privacy Policy - iMarketsLive
 
 **1.** International Markets Live, Inc. is the only operator collecting or maintaining personal information through the www.imarketslive.com website.
 
@@ -37,4 +37,5 @@ Fax: 888-702-6441
 Suite 2000  
 New York, NY 10111  
 United States  
-Email: info@imarketslive.com
+Email: info@imarketslive.com  
+Phone: 1-877-772-2602
