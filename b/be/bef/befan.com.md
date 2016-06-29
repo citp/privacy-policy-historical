@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befan.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024060638id_/http%3A//www.befan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befan.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630002727id_/http%3A//befan.com/privacy.html) for the most accurate reproduction.*
 
 # befan.com - Privacy Policy
 
