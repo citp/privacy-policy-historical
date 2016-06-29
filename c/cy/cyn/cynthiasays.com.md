@@ -1,216 +1,98 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408070022id_/http%3A//www.hisoftware.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629204316id_/https%3A//www.cryptzone.com/legal) for the most accurate reproduction.*
 
-# HiSoftware: Privacy Statement
+# Privacy Policy/Legal
 
-## HiSoftware Global Website Data, Website Transaction and Personal Privacy Statement
+## Privacy Policy / Terms of Service and License Agreement / Support and Maintenance Agreement
 
-HiSoftware Inc. practice a strong privacy policy and enforces it with any partners. This statement discloses the privacy practices for the HiSoftware.com, hisoftware.biz, hisoftware.info, AccessibilityWatch.com, taggen.com, ContentQuality.Com and CynthiaSays.com. When you visit a website that is part of the HiSoftware network of sites, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and How you can correct any inaccuracies in the information.
+  * ****Privacy Policy
+  * ****[Hosting Services General Terms and Conditions](https://web.archive.org/legal/hosting-services-general-terms-and-conditions)
+  * [Software License and Support General Terms and Conditions](https://web.archive.org/legal/software-license-and-support-general-terms-and-conditions)
+  * [Support and Maintenance Terms and Conditions  
+](https://web.archive.org/legal/cryptzone-support-and-maintenance-terms-and-conditions)
 
-HiSoftware Inc. (referred to as HiSoftware) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices at our HiSoftware.com and network websites.
 
-### 
 
-#### **I. Personally-Identifiable Information (PII)**
+## Privacy Policy
 
-Personally-identifiable information collected with your consent may include, for example, name, mailing address, e-mail address, telephone number, date of birth, user id and password (if you have one), information that you may supply in connection with applying for an account with us, information about orders you place, any responses you choose to provide to survey questions, or any inquires you may make through our website. We do not share, sell, rent or trade PII with third parties for their promotional purposes.
+### 1\. Introduction
 
-**Using your personal data**
+This statement sets out the information gathering and dissemination practices of Cryptzone North America Inc. (Cryptzone). We will continue to update it as we improve our services and range of products. It relates to both our on-line and off-line practices. 
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
+### 2\. Collection of Personal Data Online
 
-> (a) improve your browsing experience by personalizing the website;  
->  (b) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;  
->  (c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology.  
->  (d) provide other companies with statistical information about our users \- but this information will not be used to identify any individual user.
+To become a member and subscribe to any of our email services or to be able to access some of the product information services or download software we require that you register with us. The registration process includes the collection of certain information, such as email address, geographical location, first and last name, position in company, company name and address, telephone and fax number. This information will allow us to manage our website, send you the information that you require, contact you following the download of evaluation software to discuss a purchase and allow us to monitor and enforce certain contractual clauses between ourselves and the users of our software, especially in relation to the provision of support and/or maintenance services and the license to use our software. 
 
-In accordance with COPPA, HiSoftware.com does not, at any time, knowingly collect information from customers or channel partners of children under the age of 13, in addition we do not market our products to children under the age of 13.
+All personal information is stored on servers located in the United States, Sweden and the United Kingdom. 
 
-#### **II. Cookies**
+**Purchase of Software or Services**
 
-“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. This website uses first and third party cookies (session and persistent), however personally identifiable information is not collected through the use of cookies, except as described in the “Personally Identifiable Website Activity Monitoring” section below. Cookies are used to determine whether a visitor is unique or whether a visitor has viewed our site before. This site uses session cookies and persistent cookies for website traffic analysis. Cookies are also used in sections of this site which require user log-in to authenticate and validate users and to determine whether a user’s session is active or has timed-out. While most browsers are set to accept cookies by default, you can set yours to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser. 
+During the conclusion of any transaction we will collect certain information, such as email address, geographical location, first and last name, position in company, company name and address, telephone and fax number. We will use this information to fulfill the order with you, both in terms of software and the provision of any services, as well as making such people aware of other products or services and improvements to the products or services that you originally purchased. We will retain such information for as long as is necessary in relation to managing and fulfilling any contracts between you and us. 
 
-#### **III. Personally Identifiable Website Activity Monitoring**
+**Support and Maintenance Services**
 
-In the case of visitors to our website, who either (i) submit inquiries to us via web forms or (ii) have been directed to our website after clicking on a link in marketing e-mail from us, we may use software to connect such information submitted to us (such as e-mail addresses and contact information) with the IP address and cookie on the computer that has submitted the information to us (see "Cookies” above for a further description of cookies).
+In order to fulfil our contractual commitments with our distributors/resellers and end users we will collect certain information such as email address, geographical location, first and last name, position in company, company name and address, telephone and fax number and summaries of discussions regarding product issues. This will allow us to contact the appropriate individual in response to an issue raised. We may also make such people aware of other products or services and improvements to the products or services that you originally purchased. 
 
-Once a visitor has submitted a web form to us or clicked on a particular link in a marketing e-mail from us, we may maintain a personally-identifiable record of certain information about their visits to our website, such as the pages viewed on our website, the time of the visit, the order of pages accessed and the amount of time spent on each page. We may combine this information with other information about you or your company. We use this information to better tailor the marketing of our products and services to you; we do not sell or share personally-identifiable Website activity information to third parties.
+### 3\. Your Online Activities
 
-If you would prefer that we not link your personally identifiable information with data from your visits to our website, disable cookies in your Web browser. If you disable cookies,you would need to do so from each computer that you use to access our site.
+If you visit any of our web-sites we keep track of IP host addresses solely for security purposes. All IP host addresses for which no security issues are identified are disposed of in a timely manner. We also keep track of daily page views to monitor traffic volume so that we can plan for future growth. 
 
-#### **IV. Non-personally identifiable information**
+### 4\. Our Use of Cookies
 
-This site also collects non-personally identifiable information. For example, as you browse this website we may collect information about your visit, but not about you personally. Via web server logs, for example, we may monitor statistics such as: the number of people that visit our site, which page(s) are visited on our site, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and which browsers people use to visit our site (e.g., Netscape Navigator, Microsoft Internet Explorer, etc.). Our website uses outsourcing programs to assist us in analyzing this data to better tailor our site.
+Cookies are small amounts of data that are sent to your browser from our web server and stored on your computer's hard disk. This website uses first and third party cookies (session and persistent), however personally identifiable information is not collected through the use of cookies, except as described in the "Collection of Information – What Information We Collect and How" section below. Cookies are used to determine whether a visitor is unique or whether a visitor has viewed our site before. This will allow you to use our system without having to repeatedly type in your registration information. This site uses session cookies and persistent cookies for website traffic analysis. Cookies are also used in sections of this site which require user log-in to authenticate and validate users and to determine whether a user's session is active or has timed-out. While most browsers are set to accept cookies by default, you can set yours to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser.   
 
-**(1) What information do we collect?**
 
-We may collect, store and use the following kinds of data:
+### 5\. Collection of Information – What Information We Collect and How
 
-> (a) information about your visits to and use of this website;  
->  (b) information about any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;  
->  (c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications.
+In the case of visitors to our website, who either (i) submit inquiries to us via web forms or (ii) have been directed to our website after clicking on a link in marketing e-mail from us, we may use software to connect such information submitted to us (such as e-mail addresses and contact information) with the IP address and cookie on the computer that has submitted the information to us (see "Cookies" above for a further description of cookies). 
 
-**(2) Information about website visits.**
+Once a visitor has submitted a web form to us or clicked on a particular link in a marketing e-mail from us, we may maintain a personally-identifiable record of certain information about their visits to our website, such as the pages viewed on our website, the time of the visit, the order of pages accessed and the amount of time spent on each page. We may combine this information with other information about you or your company. We use this information to better tailor the marketing of our products and services to you; we do not sell or share personally-identifiable Website activity information to third parties. 
 
-We may collect information about you computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
+If you would prefer that we not link your personally identifiable information with data from your visits to our website, disable cookies in your Web browser. If you disable cookies,you would need to do so from each computer that you use to access our site. 
 
-We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+The information collected by our website may include: 
 
-We may send a cookie which may be stored on by your browser on your computer's hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website's usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
+  * Any personal details you enter and submit through a form on the site; such as name, address, email address, etc.
+  * Your IP address, referrer, web pages that you visit and any other data normally stored in website logs.
+  * Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. If you set your browser to reject cookies, you might not be able to use some parts of cryptzone.com.
+  * Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code.
+  * Third-Party Cookies – the use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, and service providers may use session ID cookies [to make it easier for you to navigate our site, etc.]
+  * Our site includes links to other websites whose privacy practices may differ from those of [www.cryptzone.com.](http://www.cryptzone.com/) If you submit personal information to any of those sites, your information is subject to their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+  * Co-branding – Some pages may have the look and feel of being on [www.cryptzone.com,](http://www.cryptzone.com/) however the information collected on these pages may not be covered under our privacy statement. All information collected on [www.abc.com](http://www.abc.com/) is owned and controlled by that company's privacy statement.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookie by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
-**(3) Information about your browser software's user agent string.**
 
-When you visit a web page, your browser sends the user agent string to the server hosting the site that you are visiting. This string indicates which browser you are using, its version number, and details about your system, such as operating system and version. The web server can then use this information to provide content that is tailored for your specific browser. The user agent string is anonymous data that is not indicative of and cannot be traced to an individual without the cooperation of their Internet Service Provider. HiSoftware only collects this non-personal data to accelerate resolution of specific support inquiries. HiSoftware may also use aggregate data about user’s preferred browsers to inform future product development efforts.
+### 6\. Third Parties
 
-Back to Top
+Except as described elsewhere, or when the law requires it, we do not provide any personal information we have collected to third parties or other users. We may share information with our subsidiaries, affiliates, business associates, partners, but they are not permitted to use the information outside the confines of our specific relationship. If you give your consent, our business associates may provide you with details of any new products or services they offer. 
 
-* * *
+We may disclose aggregate data (e.g. "45% of our users are small businesses") and survey results to partners and other third parties for the purpose of supporting our business activities. We may disclose personal, business or trading details should we need to pursue an action against a user who violates any of our terms and conditions, copyright rights or other proprietary rights and intellectual property rights. 
 
-### 
+To be able to fulfill our contractual obligations to you we may need to transmit personal information to countries inside the European Union or to countries outside the European Union that are deemed to have appropriate data protection legislation. The handling and processing of all personal information shall be in compliance with the relevant data processing legislation in such countries. 
 
-**Was HiSoftware affected by the Heartbleed Bug?**
+To be able to fulfill our contractual obligations to you we may need to transmit personal information to countries outside the European Union that are deemed to have inappropriate data protection legislation including the United States of America. The handling and processing of all personal information shall be in compliance with the relevant data processing legislation in such countries and/or in compliance with the data processing legislation in the country from which the information is transmitted. 
 
-  * [Heartbleed OpenSSL and HiSoftware Products Statement](http://blog.hisoftware.com/2014/corporate/heartbleed-openssl-and-hisoftware-products)
+From time to time we may purchase contact lists for marketing purposes from third parties. We use reasonable efforts to ensure that such third parties have complied with the relevant data protection legislation in relation to such lists. 
 
+We may disclose personal information within Cryptzone, but solely for the purposes of fulfilling contractual requirements, maintaining the business and to allow an individual company to contact individuals in relation to the provision of software or services that are sold or marketed by that company. 
 
+### 7\. Security
 
+Our web site has security measures in place to protect the loss, misuse and alteration of the information under our control. These security measures include backing up of data and encrypting usernames and passwords. Despite these measures "perfect security" on the Internet does not exist. 
 
-**What does HiSoftware do?**
+To assist us in managing the company's security, the security of our on-line services and computer systems we scan the content of incoming and outgoing emails, using our proprietary software, for inappropriate content. 
 
-  * HiSoftware Inc. develops enterprise software, most notably, HiSoftware Compliance Sheriff and others.
+### 8\. Removal of Personal Information
 
-  * HiSoftware Inc. specializes in technology-based software solutions and professional services.
+In the event that you wish your personal information to be removed from our web-based databases then please write to us at [info@cryptzone.com](mailto:info@cryptzone.com). 
 
+In the event that you wish your personal information to be removed from any other of our databases then please write to: 
 
+**Cryptzone North America Inc.  
+130 Turner Street, Suite 610   
+Waltham, MA 02453 USA **
 
+### 9\. Notification of Changes 
 
-Back to Top
+Any changes to our information usage practices that affect your Personally Identifiable Information will be posted on this page. Please bookmark and check this page for Cryptzone's current privacy practices. 
 
-* * *
-
-**Does HiSoftware ask for personal information?**
-
-  * Our site uses an various forms for customers to request information, products, and services and register for Webinars and events. We collect visitor's contact information (like their email address) Contact information from the sites forms is used to send trials, information about our company, and promotional material from HiSoftware to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the “How do I remove myself from any mailing lists?” below. Financial information that is collected is used to bill the user for products and services.
-
-  * HiSoftware will at no time provide address information or e-mail information to partners. We keep private all data and partner information will be mailed out by HiSoftware and you can opt out of this at any time. No Partner will e-mail you directly.
-
-
-
-
-Back to Top
-
-* * *
-
-**Will HiSoftware disclose any of my personal information?**
-
-  * Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. Additionally any emails we send contain an Opt-out option.
-
-
-
-
-Back to Top
-
-* * *
-
-**Does HiSoftware use "Cookies" and "IP Addresses"?**
-
-  * Yes, please see the “Cookies” and “Information about website visits” sections above for more information.
-
-  * HiSoftware also Logs Browser Types and Date and Time of visitors to better serve our customers.
-
-  * Cookies can be refused everywhere. 
-
-
-
-
-Back to Top
-
-* * *
-
-**How do I remove myself from any mailing lists?**
-
-If you do not wish to receive marketing communications from us, you may express your preference to not be so contacted by sending a letter, calling or e-mailing the HiSoftware at the contact information below informing us of your preference.
-
-> 1\. You can send email to [privacy@hisoftware.com](mailto:privacy@hisoftware.com) with “REMOVE” in the subject line
-> 
-> 2\. You can send mail to the following postal address:  
->  HiSoftware Inc.  
->  One Tara Boulevard, Suite 104   
->  Nashua, NH 03062 USA
-> 
-> 3\. You can call the following telephone number: +1.603.578.1870
-
-Back to Top
-
-* * *
-
-**How do I change my personal information?**
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-> 1\. Email [privacy@hisoftware.com](mailto:privacy@hisoftware.com) with the changes and “Update Profile” in the subject line
-> 
-> 2\. Send mail to the following postal address:
-> 
-> Attn. Privacy Officer  
->  HiSoftware Inc.  
->  One Tara Boulevard, Suite 104   
->  Nashua, NH 03062 USA
-> 
-> 3\. Call the following telephone number: +1.603.578.1870
-
-Back to Top
-
-* * *
-
-**How do I contact HiSoftware?**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-> Attn. Privacy Officer  
->  HiSoftware Inc.  
->  One Tara Boulevard, Suite 104   
->  Nashua, NH 03062 USA  
->  [privacy@hisoftware.com](mailto:privacy@hisoftware.com)
-
-Back to Top
-
-* * *
-
-**What else should I know about my privacy?**
-
-Please be aware that this site contains some links to other external sites on the internet which are owned and operated by third parties. If and when you click on a link to an external site, you will leave www.hisoftware.com. HiSoftware has no control of and is not responsible for the availability of, or the content located on or through, any external site. Your linking to any other site is at your sole risk. 
-
-Please keep in mind that HiSoftware prides itself on the security measures we have implemented within our systems, data transmission processes, and authentication procedures. However, regardless of our desire and ability to protect your personal information HiSoftware cannot ensure or fully warrant the security of any information you transmit to us online. You must be aware of this and do so at your own risk. HiSoftware takes industry standard precautions to keep your personal information protected and will continue to seek and appropriately adopt new technologies as they are made available with this regard.
-
-HiSoftware, reminds you that you must always be careful and responsible whenever you're online.
-
-Back to Top
-
-* * *
-
-**Notification of Changes**
-
-Any changes to our information usage practices that affect your Personally Identifiable Information will be posted on this page. Please bookmark and check this page for HiSoftware’s current privacy practices. 
-
-Updated May 17, 2011
-
-Back to Top
-
-* * *
-
-**For more information on Privacy:**
-
-  * [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online.
-
-  * [Electronic Privacy Information Center](http://epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
-
-  * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news.
-
-  * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission.
-
-
-
-
-Back to top
+Updated February 25, 2015 
