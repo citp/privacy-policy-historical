@@ -1,11 +1,22 @@
-<!--The following is the downloaded HTML source of the lindtusa.com privacy policy that was archived on 2015-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151006215445id_/http%3A//www.lindtusa.com/shop/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lindtusa.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629201053id_/http%3A//www.lindtusa.com/shop/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en"><head>
 		
 	<!-- BEGIN CommonJSToInclude.jspf -->
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPXFLN"></script><script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/AuroraStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<!--[if lte IE 9]>
+  <script src="/wcsstore/AuroraStorefrontAssetStore/javascript/Common/matchMedia.js"></script>
+  <script src="/wcsstore/AuroraStorefrontAssetStore/javascript/Common/matchMedia.addListener.js"></script>
+<![endif]-->
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPXFLN"></script><script type="text/javascript" src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/javascript/Common/enquire.min.js"></script>
+
+
+
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/AuroraStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
 <script type="text/javascript" charset="UTF-8" src="http://cdn.lindtusa.com/wcsstore/dojo18/dojo/dojodesktop.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/AuroraStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
 
 
@@ -15,78 +26,78 @@
 <link rel="shortcut icon" href="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/favicon.ico" mce_href="/wcsstore/AuroraStorefrontAssetStore/images/favicon.ico">
 
 <script type="text/javascript">
-	// Convert the WCParam object which contains request properties into javascript object
-	var WCParamJS = {
-		"storeId":'10151',
-		"catalogId":'10002',
-		"langId":'',
-		"pageView":'',
-		"orderBy":'',
-		"orderByContent":'',
-		"searchTerm":''
-	};
-	var absoluteURL = "http://www.lindtusa.com/webapp/wcs/stores/servlet/";
-	var imageDirectoryPath = "/wcsstore/AuroraStorefrontAssetStore/";
-	var styleDirectoryPath = "images/colors/color1/";
-	var supportPaymentTypePromotions = false;
-	
-	var subsFulfillmentFrequencyAttrName = "fulfillmentFrequency";
-	var subsPaymentFrequencyAttrName = "paymentFrequency";
-	var subsTimePeriodAttrName = "timePeriod";
-	
-	var storeNLS = null;
-	
-	//Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
-	//Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
-	//             workaround the issue, all AJAX requests must be done using absolute URLs rather than relative.
-	//Returns: The absolute URL to use for prefixing any Ajax URL call.
-	function getAbsoluteURL() {
-		if (absoluteURL != "") {
-			var currentURL = document.URL;
-			var currentProtocol = "";
-		
-			if (currentURL.indexOf("://") != -1) {
-				currentProtocol = currentURL.substring(0, currentURL.indexOf("://"));
-			}
-			
-			var savedProtocol = "";
-			if (absoluteURL.indexOf("://") != -1) {
-				savedProtocol = absoluteURL.substring(0, absoluteURL.indexOf("://"));
-			}
-			
-			if (currentProtocol != savedProtocol) {
-				absoluteURL = currentProtocol + absoluteURL.substring(absoluteURL.indexOf("://"));
-			}
-		}
-		
-		return absoluteURL;
-	}
-	//Summary: Returns the path pointing to the shared image directory.
-	//Description: In order to get the image directory path in any javascript file, this function can be used.
-	//Returns: The path to reference images.
-	function getImageDirectoryPath() {
-		return imageDirectoryPath;
-	}
-	//Summary: Returns the path pointing to the directory containing color-dependant image files.
-	//Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
-	//Returns: The path to reference color-dependant image files.
-	function getStyleDirectoryPath() {
-		return styleDirectoryPath;
-	}
+  // Convert the WCParam object which contains request properties into javascript object
+  var WCParamJS = {
+    "storeId":'10151',
+    "catalogId":'10002',
+    "langId":'',
+    "pageView":'',
+    "orderBy":'',
+    "orderByContent":'',
+    "searchTerm":''
+  };
+  var absoluteURL = "http://www.lindtusa.com/webapp/wcs/stores/servlet/";
+  var imageDirectoryPath = "/wcsstore/AuroraStorefrontAssetStore/";
+  var styleDirectoryPath = "images/colors/color1/";
+  var supportPaymentTypePromotions = false;
+
+  var subsFulfillmentFrequencyAttrName = "fulfillmentFrequency";
+  var subsPaymentFrequencyAttrName = "paymentFrequency";
+  var subsTimePeriodAttrName = "timePeriod";
+
+  var storeNLS = null;
+
+  //Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
+  //Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
+  //             workaround the issue, all AJAX requests must be done using absolute URLs rather than relative.
+  //Returns: The absolute URL to use for prefixing any Ajax URL call.
+  function getAbsoluteURL() {
+    if (absoluteURL != "") {
+      var currentURL = document.URL;
+      var currentProtocol = "";
+
+      if (currentURL.indexOf("://") != -1) {
+        currentProtocol = currentURL.substring(0, currentURL.indexOf("://"));
+      }
+
+      var savedProtocol = "";
+      if (absoluteURL.indexOf("://") != -1) {
+        savedProtocol = absoluteURL.substring(0, absoluteURL.indexOf("://"));
+      }
+
+      if (currentProtocol != savedProtocol) {
+        absoluteURL = currentProtocol + absoluteURL.substring(absoluteURL.indexOf("://"));
+      }
+    }
+
+    return absoluteURL;
+  }
+  //Summary: Returns the path pointing to the shared image directory.
+  //Description: In order to get the image directory path in any javascript file, this function can be used.
+  //Returns: The path to reference images.
+  function getImageDirectoryPath() {
+    return imageDirectoryPath;
+  }
+  //Summary: Returns the path pointing to the directory containing color-dependant image files.
+  //Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
+  //Returns: The path to reference color-dependant image files.
+  function getStyleDirectoryPath() {
+    return styleDirectoryPath;
+  }
 </script>
 
 <script type="text/javascript" src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/javascript/MessageHelper.js"></script>
 <script type="text/javascript" src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/javascript/StoreCommonUtilities.js"></script>
 <script>
-	dojo.require("wc.service.common");
-	dojo.require("dojo.number");
+  dojo.require("wc.service.common");
+  dojo.require("dojo.number");
 </script>
 
 <script type="text/javascript">
  //Set the default NLS to use in the store.
  if(storeNLS == null) {
-	 dojo.requireLocalization("storetext", "StoreText");
-	 storeNLS = dojo.i18n.getLocalization("storetext","StoreText");
+   dojo.requireLocalization("storetext", "StoreText");
+   storeNLS = dojo.i18n.getLocalization("storetext","StoreText");
  }
 </script>
 
@@ -96,11 +107,11 @@
 
 <script type="text/javascript" src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/javascript/LindtJavaScriptLibrary.js"></script>
 
-	<script src="//cdn.optimizely.com/js/1894680840.js"></script>
+  <script src="//cdn.optimizely.com/js/1894680840.js"></script>
 
-	<script type="text/javascript">
-	 var optimizelyCollection = 1;
-	</script>
+  <script type="text/javascript">
+   var optimizelyCollection = 1;
+  </script>
 <!-- END CommonJSToInclude.jspf -->
 	
 	<link rel="stylesheet" href="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/css/common1_1.css" type="text/css">
@@ -202,7 +213,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="content">
 							<div class="header">
 								<span>Product Comparison</span>
-								<a id="ComparePopupClose" class="close" href="javascript:void(0);" onclick="javascript:dijit.byId('widget_product_comparison_popup').hide();" title="CLOSE"></a>
+								<a id="ComparePopupClose" class="close" href="javascript:void(0);" onclick="javascript:dijit.byId('widget_product_comparison_popup').hide();" title="CLOSE"><span style="display: none;">CLOSE</span></a>
 								<div class="clear_float"></div>
 							</div>
 							<div class="body">
@@ -282,7 +293,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								
 								<div class="signupEmailContainer">
 								    <div class="labelEmail">Email Address:</div>
-									<input type="text" placeholder="Email" id="signupEmailSubscription" name="signupEmailSubscription" value="" onblur="javascript:convertToLowerCase(this);">
+									<input type="text" placeholder="Email" id="signupEmailSubscription" name="signupEmailSubscription" value="" onblur="javascript:convertToLowerCase(this);" title="Email Address">
 									<div class="sign_up" id="sign_up">
 										<a id="AjaxSignUpForOffers" href="JavaScript:setCurrentId('AjaxSignUpForOffers');SignupForOfferJS.processSignUp(this.signupEmailSubscription.value);" class="button_blue_noArrow" tabindex="0">
 		                                    <div class="left_border"></div>
@@ -314,16 +325,390 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
 	var isGuest = true;
 	
+	    
+
+	
 	// LNDT-1018	
 	dojo.addOnLoad(function() {
-		var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
-		if (iOS){
-			dojo.query('#topNavigationMenu li .subNav').style({display:'none'}); 
+		addSubheadingListeners();
+		preventMainLinksOpenSection();
+		checkSubMenus();
+		mobileSignInSection();
+		
+		function isTouchDevice(){
+    		return true == ("ontouchstart" in window || window.DocumentTouch && document instanceof DocumentTouch);
 		}
+		if(!isTouchDevice()) {
+			var elem = document.getElementById("WC_QuickInfo_Link_close_for_touch_only");
+			if (elem != null) {
+			elem.style.display="none";
+			}
+		}	
+		
 	});
+	
+	window.onresize=function(){
+		addSubheadingListeners();
+		preventMainLinksOpenSection();
+		checkSubMenus();
+	};
+	
+
+	
+	
+	function updateMobileMiniCart(){
+		var orderQtyHTML = document.getElementById('order-qty-mini-cart').innerHTML;
+		var mobileOrderQty = document.getElementById('mobile-item-count');
+		mobileOrderQty.innerHTML = orderQtyHTML;
+	}
+	
+	function mobileSignInSection () {
+
+		var signInRegItem = document.getElementById('signInRegItem');
+		var welcomeItem = document.getElementById('welcomeItem');
+		var accountItem = document.getElementById('accountItem');
+		var logoutItem = document.getElementById('logoutItem');
+		updateMobileMiniCart();
+		
+		
+		if (isGuest){
+		
+			var SignInLink = document.getElementById('SignInLink');
+			var SignInLinkHref = SignInLink.href;
+			document.getElementById('signInMobile').href = SignInLinkHref;
+			
+			welcomeItem.style.display = 'none';
+			accountItem.style.display = 'none';
+			logoutItem.style.display = 'none';
+		} else {
+			var MyAccountLink = document.getElementById('MyAccountLink');
+			var MyAccountLinkHref = MyAccountLink.href;
+			var SignOutLink = document.getElementById('SignOutLink');
+			var SignOutLinkHref = SignOutLink.href;
+			
+			var nameMobile = document.getElementById('name-mobile');
+			var headerUserName = document.getElementById('headerUserName');
+			var headerUserNameHtml = headerUserName.innerHTML;
+			
+			nameMobile.innerHTML = headerUserNameHtml;
+			
+			document.getElementById('myAccountMobile').href = MyAccountLinkHref;
+			document.getElementById('logoutMobile').href = SignOutLinkHref;
+			
+			signInRegItem.style.display = 'none';
+		}
+	}
+	
+	function preventMainLinksOpenSection () {
+		var windowWidth = window.innerWidth;
+		if (windowWidth < 992 ) {
+			var mainBtns = document.querySelectorAll(".mainbutton");
+			for (var i = 0; i < mainBtns.length; i++) {
+	   			mainBtns[i].addEventListener("click", preventOpenHideMainSection, false);
+	   		}
+	   		
+	   		var footerHeadings = document.querySelectorAll(".footerHeading");
+			for (var i = 0; i < footerHeadings.length; i++) {
+	   			footerHeadings[i].addEventListener("click", toggleFooterSections, false);
+	   		}
+	   		
+	   		var filterHeadings = document.querySelectorAll(".filter-heading-section");
+	   		for (var i = 0; i < filterHeadings.length; i++) {
+	   			filterHeadings[i].addEventListener("click", toggleFilterSections, false);
+	   		}
+		} else if (windowWidth > 992 ) {
+			var mainBtns = document.querySelectorAll(".mainbutton");
+			for (var i = 0; i < mainBtns.length; i++) {
+	   			mainBtns[i].removeEventListener("click", preventOpenHideMainSection, false);
+	   		}
+		}
+	}
+	
+	function toggleFilterSections () {
+		var iconClassDown = 'icon-icon_arrow-dn';
+		var iconClassUp = 'icon-icon_arrow-up';
+		var childIcon = this.querySelector('i');
+		var sectionToggleClass = 'closed';
+		
+		var headerId = this.id;
+
+		var headerIdSplit = headerId.split("_");
+		
+		var sectionToggle = document.getElementById("section_list_"+headerIdSplit[2]);
+
+		
+		var hasClassFlag = hasClass(sectionToggle,sectionToggleClass);
+		
+		if (hasClassFlag) {
+			removeClass(sectionToggle,sectionToggleClass);
+			removeClass(this,sectionToggleClass);
+			
+			removeClass(childIcon, iconClassDown);
+			addClass(childIcon, iconClassUp );
+		} else {
+			addClass(sectionToggle,sectionToggleClass);
+			addClass(this,sectionToggleClass);
+			addClass(childIcon,iconClassDown );
+			removeClass(childIcon, iconClassUp );
+		}
+	}
+	
+	function toggleFooterSections () {
+	
+		var iconClassDown = 'icon-icon_arrow-dn';
+		var iconClassUp = 'icon-icon_arrow-up';
+		var childIcon = this.querySelector('i');
+		
+		var ulClassName = 'open';
+		var parentNodeOfButton = this.parentNode;
+		
+		if (parentNodeOfButton.id == 'footerEmailSubscription') {
+			var ulChild = parentNodeOfButton.querySelector('.signupContainer');
+		} else {
+			var ulChild = parentNodeOfButton.querySelector('ul');
+		}
+		
+		var hasClassFlag = hasClass(ulChild,ulClassName);
+		
+		if (hasClassFlag) {
+			removeClass(ulChild,ulClassName);
+			removeClass(parentNodeOfButton,ulClassName);
+			
+			removeClass(childIcon, iconClassUp);
+			addClass(childIcon, iconClassDown );
+		} else {
+			addClass(ulChild,ulClassName);
+			addClass(parentNodeOfButton,ulClassName);
+			
+			addClass(childIcon,iconClassUp );
+			removeClass(childIcon, iconClassDown );
+		}
+	}
+	
+	function checkSubMenus() {
+		var windowWidth = window.innerWidth;
+		var className = 'sectionOpen';
+		var subNavClass = 'mainSectionOpen';
+		var subMenus = document.querySelectorAll(".submenu");
+		var subNavs = document.querySelectorAll(".subNav");
+		
+		if (windowWidth > 992) {
+			for (var i = 0; i < subMenus.length; i++) {
+	   			removeClass(subMenus[i],className);
+	   		}
+	   		for (var i = 0; i < subNavs.length; i++) {
+	   			removeClass(subNavs[i],subNavClass);
+	   		}
+		} else if (windowWidth < 992 ) {
+	   		for (var i = 0; i < subMenus.length; i++) {
+	   			addClass(subMenus[i],className);
+	   		}
+	   		
+		}
+	}
+	
+	function preventOpenHideMainSection (event) {
+		event.preventDefault();
+		
+		var iconClassDown = 'icon-icon_arrow-dn';
+		var iconClassUp = 'icon-icon_arrow-up';
+		var childIcon = this.querySelector('i');
+		
+		var onClass = "on";
+		var className = 'mainSectionOpen';
+		var parentNodeOfButton = this.parentNode;
+		var subnavOfButton = parentNodeOfButton.querySelector('.subNav');
+		var hasClassFlag = hasClass(subnavOfButton,className);
+		
+		var windowWidth = window.innerWidth;
+		
+		bodyTagOverflowPosition("hidden","fixed");
+		
+		if (hasClassFlag) {
+			removeClass(subnavOfButton,className);
+			removeClass(this,onClass);
+			
+			if (windowWidth < 601 ) {
+				removeClass(childIcon, iconClassUp);
+				addClass(childIcon, iconClassDown );
+			}
+			if (windowWidth > 600 ) {
+				toggleOverlay();
+			}
+			
+		} else {
+			addClass(subnavOfButton,className);
+			addClass(this,onClass);
+			if (windowWidth > 600 ) {
+				toggleOverlay();
+			}
+			if (windowWidth < 601 ) {
+				addClass(childIcon,iconClassUp );
+				removeClass(childIcon, iconClassDown );
+			}
+			
+		}
+	}
+	
+	
+	
+	function hasClass(ele,cls) {
+	  return !!ele.className.match(new RegExp('(\\s|^)'+cls+'(\\s|$)'));
+	}
+	
+	function addClass(ele,cls) {
+	  if (!hasClass(ele,cls)) ele.className += " "+cls;
+	}
+	
+	function removeClass(ele,cls) {
+	  if (hasClass(ele,cls)) {
+	    var reg = new RegExp('(\\s|^)'+cls+'(\\s|$)');
+	    ele.className=ele.className.replace(reg,' ');
+	  }
+	}
+	
+	var toggleNavSections = function() {
+		var className = 'mainSectionOpen';
+
+		if (this.id == "close-chocolate-section") {
+			var parentNodeOfButton = this.parentNode;
+			var parentParentNodeOfButton = parentNodeOfButton.parentNode;
+			var hasClassFlag = hasClass(parentParentNodeOfButton,className);
+			var parentClose = parentParentNodeOfButton;
+		} else {
+			var parentNodeOfButton = this.parentNode;
+			var parentParentNodeOfButton = parentNodeOfButton.parentNode;
+			var parentParentParentNodeOfButton = parentParentNodeOfButton.parentNode;
+			var hasClassFlag = hasClass(parentParentParentNodeOfButton,className);
+			var parentClose = parentParentParentNodeOfButton;
+		}
+
+		if (hasClassFlag) {
+			removeClass(parentClose,className);
+			toggleOverlay();
+		} else {
+			addClass(parentClose,className);
+			toggleOverlay();
+		}
+		bodyTagOverflowPosition("auto","relative");
+
+	};
+	
+	function toggleOverlay () {
+		var mobileOverlayClass = 'open';
+		var mobileOverlayContainer = document.getElementById("mobile-overlay");
+		var mobileOverlayClassFlag = hasClass(mobileOverlayContainer,mobileOverlayClass);
+		
+		if (mobileOverlayClassFlag) {
+			removeClass(mobileOverlayContainer,mobileOverlayClass);
+		} else {
+			addClass(mobileOverlayContainer,mobileOverlayClass);
+		}
+	}
+	
+	
+	function toggleSearch() {
+		var mobileSearchClass = 'searchOpen';
+		var mobileSearchContainer = document.getElementById('mobileSearchContainer');
+		var mobileSearchNav = document.getElementById('main-top-navigation');
+		
+		var searchContainerClassFlag = hasClass(mobileSearchContainer,mobileSearchClass);
+		
+		if (searchContainerClassFlag) {
+			removeClass(mobileSearchContainer,mobileSearchClass);
+			removeClass(mobileSearchNav,mobileSearchClass);
+		} else {
+			addClass(mobileSearchContainer,mobileSearchClass);
+			addClass(mobileSearchNav,mobileSearchClass);
+		}
+	}
+	
+	function addSubheadingListeners () {
+		var windowWidth = window.innerWidth;
+		
+		if (windowWidth < 992 ) {
+			var subheadings = document.querySelectorAll(".subheading");
+	   		for (var i = 0; i < subheadings.length; i++) {
+	   			subheadings[i].addEventListener("click", showHideSubheading);
+	   		}
+   		}
+	}
+	
+	function showHideSubheading () {
+		var className = 'sectionOpen';
+		var iconClassDown = 'icon-icon_arrow-dn';
+		var iconClassUp = 'icon-icon_arrow-up';
+		var childIcon = this.querySelector('i');
+		var hasClassFlag = hasClass(this.parentNode,className);
+		
+		if (hasClassFlag) {
+			removeClass(this.parentNode,className);
+			removeClass(childIcon, iconClassUp);
+			addClass(childIcon, iconClassDown);
+		} else {
+			addClass(this.parentNode,className);
+			addClass(childIcon, iconClassUp);
+			removeClass(childIcon, iconClassDown);
+		}
+	}
+	
+	
+	function toggleMobileNav() {
+		var mobileNavClass = 'mobile-open';
+		var mobileNavContainer = document.getElementById('mobile-main-container');
+		
+		var mobileNavContainerClassFlag = hasClass(mobileNavContainer,mobileNavClass);
+		
+		if (mobileNavContainerClassFlag) {
+			removeClass(mobileNavContainer,mobileNavClass);
+			toggleOverlay();
+			bodyTagOverflowPosition("auto","relative");
+		} else {
+			addClass(mobileNavContainer,mobileNavClass);
+			toggleOverlay();
+			bodyTagOverflowPosition("hidden","fixed");
+		}
+	}
+	
+			function toggleLeftNavCat() {
+			
+				var nav = document.getElementsByClassName("left_nav_flyout");
+				if(hasClass(nav[0],"left-nav-open")) {
+					removeClass(nav[0] , "left-nav-open");
+					addClass(nav[0], "closed-for-mobile");
+					toggleOverlay();
+					bodyTagOverflowPosition("auto","relative");
+				} else {
+					removeClass(nav[0] , "closed-for-mobile");
+					addClass(nav[0], "left-nav-open");
+					toggleOverlay();
+					bodyTagOverflowPosition("hidden","fixed");
+				}
+			}
+			function toggleLeftNavFilter() {
+			
+				var nav = document.getElementsByClassName("filter_holder_flyout");
+				if(hasClass(nav[0],"left-nav-open")) {
+					removeClass(nav[0] , "left-nav-open");
+					addClass(nav[0], "closed-for-mobile");
+					toggleOverlay();
+					bodyTagOverflowPosition("auto","relative");
+				} else {
+					removeClass(nav[0] , "closed-for-mobile");
+					addClass(nav[0], "left-nav-open");
+					toggleOverlay();
+					bodyTagOverflowPosition("hidden","fixed");
+				}
+			}
+		
+	function bodyTagOverflowPosition(overflowValue,positionValue) {
+		document.body.style.overflow = overflowValue;
+		document.body.style.position = positionValue;
+	}
+	
 </script>
 
-
+<div id="mobile-overlay" class="navOverlay" onclick="javascript:closeOpenModals();"></div>
 <div class="header_wrapper" role="banner">
 	<!--For border customization -->
 	<div class="header_top">
@@ -333,7 +718,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 	<!-- Main Header Area -->
 	<div class="header_left_shadow">
-		<div class="header_right_shadow">				
+		<div class="header_right_shadow">	
+		<div id="mobile_masthead_espot">
+			<!-- BEGIN ContentRecommendation.jsp --><!-- END ContentRecommendation.jsp -->									
+		</div>				
 			<div class="header">
 				<!-- Start Header Content --><!-- Start Masthead -->
 				<div id="masthead">
@@ -348,8 +736,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="widget_height" tabindex="0">
 		
 							<a id="WC_ContentAreaESpot_links_7_1" href="http://www.lindtusa.com/webapp/wcs/stores/servlet/ClickInfo?evtype=CpgnClick&amp;mpe_id=13351&amp;intv_id=13651&amp;storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;URL=http%3a%2f%2fwww.lindtusa.com%2f">
-						<div style="margin:0px 0px 0px 0px; padding:0; border:0; float:left;">
-<img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/LindtWebSiteLogo_US.jpg" style="border:0px" alt="Lindt Chocolate USA">
+						<div style="margin:0; padding:0; border:0; float:left;">
+<img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/LindtWebSiteLogo_US.jpg" style="border:0;" alt="Lindt Chocolate USA">
 </div>
 
 							</a>
@@ -359,13 +747,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- END ContentRecommendation.jsp -->
 							</div>
 						</div>
-						<!-- End Masthead Logo Widget --><!-- Masthead Links Widget -->
+						<!-- End Masthead Logo Widget -->
+						
+						<div class="mobile-department left-side-icons">
+							<a id="shop-explore-mobile" href="#" onclick="javascript:toggleMobileNav();"><i class="icon-icon_menu"><span style="display: none;">Toggle Mobile Navigation</span></i></a>
+							<a id="toggle-search" href="#" onclick="javascript:toggleSearch();"><i class="icon-icon_search"><span style="display: none;">Toggle Search</span></i></a>
+						</div>
+						<div class="mobile-department right-side-icons">
+							<a id="mobile-locator" href="http://www.lindtusa.com/shop/store-locator"><i class="icon-icon_locator"><span style="display: none;">Store Locator</span></i></a>
+							<a id="mobile-cart-link" href="https://www.lindtusa.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView"><i class="icon-icon_cart"><span style="display: none;">Shopping Cart</span></i><span id="mobile-item-count"></span></a>
+						</div>
+						
+						<!-- Masthead Links Widget -->
 						<div class="widget_masthead_links_position" role="navigation">
 							<div id="widget_masthead_links">
 								<div>
 									<div id="masthead_espot">
 										<!-- BEGIN ContentRecommendation.jsp --><!-- END ContentRecommendation.jsp -->									
-									</div>																		
+									</div>	
+																										
 									<div class="masthead_links">
 										<div class="content">
 											<span class="masthead_links_container">
@@ -376,7 +776,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<!-- change added advice and articles link --><!--<span id="advice" class="masthead_links_item"> <a href="#">Advice &amp; Articles</a> </span>-->
 											  	
 												
-													<span class="masthead_links_item storeLocator"><a id="StoreLocatorLink" href="http://www.lindtusa.com/shop/store-locator">Store Locator</a></span>
+													<span class="masthead_links_item storeLocator"><a id="StoreLocatorLink" href="http://www.lindtusa.com/shop/store-locator">Store Locator<i class="icon-icon_locator"></i></a></span>
 												
 												
 												
@@ -388,7 +788,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<div class="content">
 											<span class="masthead_links_container">
 												<!--change added "subscribe to email offers" -->
-												<span class="signforoffer_link"><a href="javascript:SignupForOfferJS.showSignupPopupDialogBox();">Sign up for offers</a></span>
+												<span class="signforoffer_link"><a href="javascript:SignupForOfferJS.showSignupPopupDialogBox();" title="Sign up for offers">Sign up for offers</a></span>
 											</span>
 										</div>
 									</div>												
@@ -421,135 +821,153 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     shoppingActionsJS.setHaveTaxCharge('false');
 </script>
 
-<div id="minicartOverlay"></div>
+<div id="minicartOverlay" onclick="javascript:hideQuickCart();"></div>
 <div id="widget_minishopcart" role="button" tabindex="0" onclick="javascript:showMiniShopCartDropDown('widget_minishopcart','quick_cart_container','orderItemsList');" onkeypress="javascript:showMiniShopCartDropDownEvent(event,'widget_minishopcart','quick_cart_container','orderItemsList');" onmouseover="javascript:showMiniShopCartDropDown('widget_minishopcart','quick_cart_container','orderItemsListAutoClose');">
-	<div id="miniShopCartLeftCorner" class="left_border"></div>
-	<div id="miniShopCartBody" class="content">
-		<!--<div class="info">
-			<div class="subtotal">Subtotal: <span id="minishopcart_subtotal">$0.00</span></div>
-			<div class="cart">Cart: 
-				<span id="minishopcart_total">
-					0 item(s)
-				</span>
-			</div>
-		</div>-->
-		
-		<div class="info">
-			<!-- change content replaced -->
-			<div class="subtotal">Shopping Cart</div>
-			<!-- change content replaced -->
-			<div class="cart">0&nbsp;items: $0.00 </div>
-		</div>
-		
-		<div class="cart_icon"></div>
-		<div class="arrow"></div>
-	</div>
-	<div id="miniShopCartRightCorner" class="right_border"></div>
-	<div class="clear_float"></div>												
+  <div id="miniShopCartLeftCorner" class="left_border"></div>
+  <div id="miniShopCartBody" class="content">
+    <!--<div class="info">
+      <div class="subtotal">Subtotal: <span id="minishopcart_subtotal">$0.00</span></div>
+      <div class="cart">Cart:
+        <span id="minishopcart_total">
+          0 item(s)
+        </span>
+      </div>
+    </div>-->
+
+    <div class="info">
+      <!-- change content replaced -->
+      <div class="subtotal">Shopping Cart</div>
+      <!-- change content replaced -->
+
+      <div class="cart">
+        <div class="mini-cart-items-number">
+          <span class="mini-cart-number" id="order-qty-mini-cart">0</span>
+          <span class="mini-cart-items-text">&nbsp;items</span>
+        </div>
+        <div class="mini-cart-total-price">
+          $0.00
+        </div>
+      </div>
+
+    </div>
+
+    
+    <i class="icon-icon_cart"></i>
+    <div class="arrow"></div>
+  </div>
+  <div id="miniShopCartRightCorner" class="right_border"></div>
+  <div class="clear_float"></div>
 </div>
 
 <div id="placeHolder"></div>
 
 <div id="quick_cart_container">
-	<span class="spanacce" id="quick_cart_container_ACCE_Label">Shopping Cart Popup</span>
-	<div id="quick_cart">
-		<div id="MiniShopCartProductsList" style="display:none;">
-			<div id="widget_minishopcart_popup">
-				<div class="top">
-					<div class="left_border"></div>
-					<div class="middle_tile"></div>
-					<div class="right_border"></div>
-				</div>
-				<div class="middle">
-					<div class="left_border">
-						<div class="right_border">
-							<div class="content">
-							
-							<!--<a id="MiniShopCartCloseButton_1" href="javascript:void(0);" onclick="javascript:dijit.byId('quick_cart_container').hide();" class="close_control">
-								<div class="icon"></div>
-								<span class="close">Close</span>
-							</a>-->
-									
-											<div class="empty">Your cart is empty</div>
-										<!-- <div class="notification">Items in your cart:</div>
-									
-											<div class="empty">Your cart is empty</div>
-										-->
-									
-								<div class="go_to_cart">
-									
-									<a id="GotoCartButton1" href="http://www.lindtusa.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" class="button_blue" tabindex="0">
-										<div class="left_border"></div>
-										<div class="button_text">Checkout</div>
-										<div class="right_border"></div>
-									</a>
-								</div>
-								
-								
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="bottom">
-					<div class="left_border"></div>
-					<div class="middle_tile"></div>
-					<div class="right_border"></div>
-				</div>
-			</div>
-		</div>
+  <span class="spanacce" id="quick_cart_container_ACCE_Label">Shopping Cart Popup</span>
+  <div id="quick_cart">
+    <div id="MiniShopCartProductsList" style="display:none;">
+      <div id="widget_minishopcart_popup">
+        <div class="top">
+          <div class="left_border"></div>
+          <div class="middle_tile"></div>
+          <div class="right_border"></div>
+        </div>
+        <div class="middle">
+          <div class="left_border">
+            <div class="right_border">
+              <div class="content">
 
-		<div id="MiniShopCartProductAdded" style="display:none" role="dialog" dojotype="dijit.Dialog">
-			<div id="widget_minishopcart_popup_1">
-				<div class="top">
-					<div class="left_border"></div>
-					<div class="middle_tile"></div>
-					<div class="right_border"></div>
-				</div>
-				<div class="middle">
-					<div class="left_border">
-						<div class="right_border">
-							<div class="content">
-								<a id="MiniShopCartCloseButton_2" href="javascript:hideQuickCart();" class="close_control close-button background-b-w">
-									<div class="icon"></div>
-									
-									<span class="close" title="Close">X</span>
-								</a>
-								<div class="notify">This item has been successfully added:</div>
-								<div class="products added">
-									
-								</div>
-								
-								<div class="go_to_cart continue_shopping">
-									<a id="ContinueShoppingButton" href="javascript:hideQuickCart();" class="button_secondary marginTop15" tabindex="0">
-										<div class="left_border1"></div>
-										<div class="button_text">Continue Shopping</div> 
-										<div class="right_border1"></div>
-									</a>
-								</div>
-								
-								<div class="go_to_cart">
-									
-									<a id="GotoCartButton2" href="http://www.lindtusa.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" class="button_primary" tabindex="0">
-										<div class="left_border"></div>
-										<!-- <div class="button_text">Go to Cart</div> -->
-										<div class="button_text">Checkout</div> 
-										<div class="right_border"></div>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="bottom">
-					<div class="left_border"></div>
-					<div class="middle_tile"></div>
-					<div class="right_border"></div>
-				</div>
-			</div>
-		</div>
-	</div>
+              <!--<a id="MiniShopCartCloseButton_1" href="javascript:void(0);" onclick="javascript:dijit.byId('quick_cart_container').hide();" class="close_control">
+                <div class="icon"></div>
+                <span class="close">Close</span>
+              </a>-->
+                  
+                      <div class="empty">Your cart is empty
+                        <a id="WC_QuickInfo_Link_close" href="javascript:void(0);" onclick="javascript:hideQuickCart();" class="close-button desktop_only" title="Close button">
+                          <span class="close" title="Close"><i class="icon-icon_close-x"><span style="display: none;">Close</span></i></span>
+                        </a>
+                          <i class="icon-icon_close-x mobile_only" onclick="javascript:hideQuickCart();"></i>
+                      </div>
+
+
+                    <!-- <div class="notification">Items in your cart:</div>
+                  
+                      <div class="empty">Your cart is empty</div>
+                    -->
+
+                <div class="go_to_cart">
+                  
+                  <a id="GotoCartButton1" href="https://www.lindtusa.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" class="button_blue" tabindex="0">
+                    <div class="left_border"></div>
+                    <div class="button_text">Checkout</div>
+                    <div class="right_border"></div>
+                  </a>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="bottom">
+          <div class="left_border"></div>
+          <div class="middle_tile"></div>
+          <div class="right_border"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="MiniShopCartProductAdded" style="display:none" role="dialog" dojotype="dijit.Dialog">
+      <div id="widget_minishopcart_popup_1">
+        <div class="top">
+          <div class="left_border"></div>
+          <div class="middle_tile"></div>
+          <div class="right_border"></div>
+        </div>
+        <div class="middle">
+          <div class="left_border">
+            <div class="right_border">
+              <div class="content">
+                <a id="MiniShopCartCloseButton_2" href="javascript:hideQuickCart();" class="close_control close-button background-b-w">
+                  <div class="icon"></div>
+                  
+                  <span class="close" title="Close"><i class="icon-icon_close-x"><span style="display: none;">Close</span></i></span>
+                </a>
+                <div class="notify">This item has been successfully added:</div>
+                <div class="products added">
+                  
+                </div>
+                
+                <div class="go_to_cart continue_shopping">
+                  <a id="ContinueShoppingButton" href="javascript:hideQuickCart();" class="button_secondary marginTop15" tabindex="0">
+                    <div class="left_border1"></div>
+                    <div class="button_text">Continue Shopping</div>
+                    <div class="right_border1"></div>
+                  </a>
+                </div>
+
+                <div class="go_to_cart">
+                  
+                  <a id="GotoCartButton2" href="https://www.lindtusa.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" class="button_primary" tabindex="0">
+                    <div class="left_border"></div>
+                    <!-- <div class="button_text">Go to Cart</div> -->
+                    <div class="button_text">Checkout</div>
+                    <div class="right_border"></div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="bottom">
+          <div class="left_border"></div>
+          <div class="middle_tile"></div>
+          <div class="right_border"></div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-											
+
 
 </div>
 
@@ -559,190 +977,279 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<!-- End MiniShopCart Widget -->
 
 					</div>
-					<!-- PNX-905 starts here --><!-- PNX-905 ends here -->
 					
-					<div class="navigation">
 					
+					<div class="navigation" id="main-top-navigation">
 						
-							<div class="header_navigation_espot_container">		
+						
+							<div class="header_navigation_espot_container" id="mobile-main-container">	
 								<!-- BEGIN ContentRecommendation.jsp -->
 
 
 	<div class="widget_height" tabindex="0">
-		
-<ul id="topNavigationMenu">
-                <!-- Shop our Chocolates dropdown starts here -->
-                <li class="dropdown">
-                                <a class="mainbutton shopOurChocolatesBtn" href="/shop/chocolates"><span>Shop our Chocolates</span></a>
-                                <div class="subNav shopOurChocolates">
-                                                <div class="dropDownBdr topBoderChocolates"></div>
-                                                <!-- Category block start -->
-                                                <div class="bgWhite padTop12">
-                                                                <div class="subNavSection">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">Category</li>
-                                                                                                <li><a href="/shop/lindor-truffles">LINDOR Truffles</a></li>
-                                                                                                <li><a href="/shop/create-your-own">Create Your Own</a></li>
-                                                                                                <li><a href="/shop/bars-12053--1">Chocolate Bars</a></li>
-												<li><a href="/shop/chocolate-specialties">Chocolate Specialties</a></li>
-												<li><a href="/shop/boxed-chocolate-12055--1">Boxed Chocolate</a></li>
-												<li><a href="/shop/baking">Baking</a></li>
-                                                                                                <li><a href="/shop/gift-baskets-and-towers">Gift Baskets &amp; Towers</a></li>
-                                                                                                <li><a href="/shop/gift-cards/gift-card">Gift Cards</a></li>
-                                                                                </ul>
-                                                                </div>
-                                                </div>
-                                                <!-- Category block ends -->
+		<!-- begin content for espot ES_Global_Cat_Nav -->
 
-                                <div class="bgCreame padTop12">
-                                                <!-- By Taste, Seasonal Gifts and Featured block starts -->
-                                                <div class="overflowH marB22">
-                                                                <div class="wid33">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">Seasonal Gifts</li>
-												<li><a href="/shop/halloween-chocolates">Halloween and Fall</a></li>
-                                                                                </ul>
-                                                                </div>
+<div class="widget_height" tabindex="0">
+  <ul id="topNavigationMenu">
+    <!-- Shop our Chocolates dropdown starts here   -->
+    <li class="dropdown">
+      <div class="department" id="department-head-mobile">
+	<div class="name_wrapper">
+	  <div class="name">
+	    <a href="#" onclick="javascript:toggleMobileNav();">Shop &amp; Explore <i class="icon-icon_close-x"></i></a>
+	  </div>
+	</div>
+      </div>	
+    </li>
+    <li class="dropdown">
+      <a class="mainbutton shopOurChocolatesBtn" href="/shop/chocolates"><span>Shop our Chocolates</span><i class="icon-icon_arrow-dn"></i></a>
+      <div class="subNav shopOurChocolates">
+        <div class="mobile-section-heading"><a onclick="javascript:toggleNavSections.call(this);" id="close-chocolate-section" href="#">Shop our Chocolates <i class="icon-icon_close-x"></i></a>
+	  <a class="submenu-link-top" href="/shop/chocolates">Shop all chocolates &gt;</a>
+	</div>
+        <div class="dropDownBdr topBoderChocolates"></div>
+        <!-- Category block start -->
+        <div class="bgWhite padTop12">
+          <div class="subNavSection">
+            <ul class="submenu">
+              <li class="subheading">Category<i class="icon-icon_arrow-up"></i></li>
+              <li><a href="/shop/chocolate-truffles">LINDOR Truffles</a></li>
+              <li><a href="/shop/lindor-truffles-custom-mix">LINDOR Truffles Custom Mix</a></li>
+              <li><a href="/shop/bars-12053--1">Chocolate Bars</a></li>
+	      <li><a href="/shop/hello-12080--1">HELLO</a></li>
+	      <li><a href="/shop/boxed-chocolate-12055--1">Boxed Chocolate</a></li>
+	      <li><a href="/shop/chocolate-specialties">Chocolate Specialties</a></li>
+	      <li><a href="/shop/baking">Baking</a></li>
+	      <li><a href="/shop/occasions">Occasions Gifting</a></li>
+	      <li><a href="/shop/destinations-collection">Destinations Collection</a></li>
+              <li><a href="/shop/kosher-chocolate">Kosher Chocolate</a></li>
+	      <li><a href="/shop/gift-baskets-and-towers">Gift Baskets &amp; Towers</a></li>
+	      <li><a href="/shop/business-gifts">Business Gifts</a></li>
+	      <li><a href="/shop/lindt-favorites">Lindt Favorites</a></li>
+            </ul>
+          </div>
+        </div>
 
-                                                                <div class="wid33">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">By Taste</li>
-                                                                                                <li><span class="icon milk"></span><a href="/shop/milk-chocolate">Milk Chocolate</a></li>
-                                                                                                <li><span class="icon dark"></span><a href="/shop/dark-chocolate">Dark Chocolate</a></li>
-                                                                                                <li><span class="icon white"></span><a href="/shop/white-chocolate">White Chocolate</a></li>
-                                                                                </ul>
-                                                                </div>
-                                                                                                                                
-                                                                <div class="wid33">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">Featured</li>
-                                                                                                <li><a href="/shop/new-arrivals">New Recipes</a></li>
-                                                                                                <li><a href="/shop/best-sellers">Lindt Favorites</a></li>
-                                                                                                <li><a href="/shop/destinations-collection">Destinations Collection</a></li>
-                                                                                                <li><a href="/shop/kosher-chocolate">Kosher Chocolate</a></li>
-<!--                                                                                                <li class="sale"><a href="/shop/sale">Sale - Save up to 40%</a></li> -->
-                                                                                </ul>
-                                                                </div>
-                                                </div>
-                                                <!-- By Taste, Seasonal Gifts and Featured block starts -->
-                                                
-                                                <!-- Create Your Own, Bulk and Volume and By Brand block starts -->
-                                                <div class="overflowH">
-                                                                <div class="wid33">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">&nbsp;</li>
-                                                                                </ul>
-                                                                </div>
+        <!-- Category block ends -->
+	
+        <div class="bgCreame padTop12">
+          <!-- By Taste, Seasonal Gifts and Featured block starts -->
+          <div class="overflowH marB22">
+            <div class="wid33">
+              <ul class="submenu">
+                <li class="subheading">What's New<i class="icon-icon_arrow-up"></i></li>
+<!--
+		<li style="color:#a6822e;"><a href="#">Seasonal Gifts</a></li>
+		<li><a href="/shop/spring-gifts">Spring Gifting</a></li>
+-->
+		<li><a href="/shop/new-recipes">New Recipes</a></li>
+		<li><a href="/shop/sales-and-special-offers">Sales and Special Offers</a></li>
+              </ul>
+            </div>
+	    
+            <div class="wid33">
+              <ul class="submenu">
+                <li class="subheading">By Brand<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/chocolate-truffles">LINDOR</a></li>
+		<li><a href="/shop/excellence-12078--1">EXCELLENCE</a></li>
+		<li><a href="/shop/hello-12080--1">HELLO</a></li> <!-- prod: /shop/hello-12080--1 -->
+              </ul>
+            </div>
+            
+            <div class="wid33">
+              <ul class="submenu">
+                <li class="subheading">Bulk &amp; Volume<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/bulk-truffles">By the Case: Truffles &amp; Bars</a></li>
+		<li><a href="/shop/hospitality-reception">Hospitality &amp; Reception</a></li>
+		<li><a href="/shop/food-service">Food Service</a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- By Taste, Seasonal Gifts and Featured block starts -->
+          
+          <!-- Create Your Own, Bulk and Volume and By Brand block starts -->
+          <div class="overflowH">
+            <div class="wid33 spacer-section-mobile">
+              <ul class="submenu">
+                <li class="subheading">By Taste<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/milk-chocolate">Milk</a></li> <!-- <span class="icon milk"></span> -->
+		<li><a href="/shop/dark-chocolate">Dark</a></li> <!-- <span class="icon dark"></span> -->
+		<li><a href="/shop/white-chocolate">White</a></li> <!-- <span class="icon white"></span> -->
+              </ul>
+            </div>
 
-                                                                <div class="wid33">
-                                                                                <ul class="submenu bytaste">
-                                                                                                <li class="subheading">Create Your Own</li>
-                                                                                                <li><a href="/shop/create-your-own">LINDOR Truffle Bags</a></li>
-                                                                                </ul>
-                                                                </div>
-                                                                
-                                                                <div class="wid33">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">Bulk &amp; Volume:</li>                                                                             
-                                                                                                <li><a href="/shop/bulk-truffles">Truffles &amp; Bars</a></li>                                 
-                                                                                                <li><a href="/shop/food-service">Food Service</a></li>            
-                                                                                                <li><a href="/shop/hospitality-reception">Hospitality &amp; Reception</a></li>           
-                                                                                </ul>
-                                                                </div>
-                                                </div>
-                                                <!-- Create Your Own, Bulk and Volume and By Brand block ends -->
-                                                </div>
-                                </div>
-                </li>                                       
-                <!-- Shop our Chocolates dropdown ends here -->
+<!--
+	    
+            <div class="wid33">
+              <ul class="submenu bytaste">
+                <li class="subheading">By Price<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/chocolates-tier-1">Up to $50</a></li>
+		<li><a href="/shop/chocolates-tier-2">$51 to $100</a></li>
+		<li><a href="/shop/chocolates-tier-3">Over $100</a></li>
+              </ul>
+            </div>
+
+-->
+            
+<!--
+            <div class="wid33">
+              <ul class="submenu">
+                <li class="subheading">Gift Cards<i class="icon-icon_arrow-up"></i></li>                                                                             
+		<li><a href="/shop/gift-card">Gift Card</a></li>
+              </ul>
+            </div>
+-->
+
+          </div>
+        </div>
+      </div>
+    </li>                                       
+    <!-- Shop our Chocolates dropdown ends here -->
+    
 
 
-                <!-- Shop Gifts dropdown starts here -->
-                <li class="dropdown">
-                <a class="mainbutton shopGiftsBtn" href="/shop/gifts"><span>Shop Gifts</span></a>                              
-                <div class="subNav shopGifts padBtm15">
-                                <div class="dropDownBdr topBoderGifts"></div>
-                                <div class="wid40 padTop12 giftSection">
-                                                <ul class="submenu">
-                                                                <li class="subheading">Category</li>
-                                                                <li><a href="/shop/halloween-chocolates">Halloween and Fall</a></li>
-                                                                <li><a href="/shop/gift-baskets-and-towers">Gift Baskets &amp; Towers</a></li>
-                                                                <li><a href="/shop/gift-card">Gift Cards</a></li>           
-                                                                <li><a href="/shop/lindor-truffle-gifts">LINDOR Truffle Gifts</a></li>
-                                                                <li><a href="/shop/boxed-chocolate-12055--1">Boxed Chocolate</a></li>
-                                                                <li><a href="/shop/business-gifts">Business Gifts</a></li>
-                                                                <li><a href="/shop/occasions">Occasions Gifting</a></li>
-                                                                <li><a href="/shop/all-gifts">Shop all &gt;</a></li>      
+    <!-- Shop Gifts dropdown starts here -->
+    <li class="dropdown">
+      <a class="mainbutton shopGiftsBtn" href="/shop/gifts"><span>Shop Gifts</span><i class="icon-icon_arrow-dn"></i></a>                              
+      <div class="subNav shopGifts padBtm15">
+        <div class="dropDownBdr topBoderGifts"></div>
+        <div class="wid40 padTop12 giftSection">
+          <div class="mobile-section-heading"><a onclick="javascript:toggleNavSections.call(this);" href="#">Shop Gifts  <i class="icon-icon_close-x"></i></a>
+	    <a class="submenu-link-top" href="/shop/gifts">Shop all gifts &gt;</a>
+	  </div>
+          <ul class="submenu">
+            <li class="subheading">Category<i class="icon-icon_arrow-up"></i></li>
+            <li><a href="/shop/lindor-truffle-gifts">LINDOR Truffle Gifts</a></li>
+            <li><a href="/shop/lindor-truffles-custom-mix">LINDOR Truffles Custom Mix</a></li>
+<!--
+	    <li><a href="/shop/spring-gifts">Spring Gifting</a></li>
+-->
+            <li><a href="/shop/gift-baskets-and-towers">Gift Baskets &amp; Towers</a></li>
+            <li><a href="/shop/boxed-chocolate-12055--1">Boxed Chocolate</a></li>
+            <li><a href="/shop/occasions">Occasions Gifting</a></li>
+            <li><a href="/shop/destinations-collection">Destinations Collection</a></li>
+            <li><a href="/shop/lindt-favorites">Lindt Favorites</a></li>
+            <li><a href="/shop/gift-card">Gift Cards</a></li>
+	    <li>&nbsp;</li>
+	  </ul>
 
-                                                </ul>
-                                </div>
+	  <ul class="submenu">
+            <li class="subheading">Gifts by Price<i class="icon-icon_arrow-up"></i></li>
+	    <li><a href="/shop/collection-gifts-tier-1">$50 and under</a></li>
+	    <li><a href="/shop/collection-gifts-tier-2">$51 to $100</a></li>
+	    <li><a href="/shop/collection-gifts-tier-3">Over $100</a></li>
+          </ul>
+        </div>
+	
+        <div class="wid60 padTop12">
+          <div class="overflowH marB">
+            <div class="wid50 by Price">
+              <ul class="submenu">
+                <li class="subheading">Business Gifting<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/business-gifts">Business Gifts</a></li>
+<!--
+		<li><a href="/shop/gift-baskets-and-towers">Gift Baskets &amp; Towers</a></li>
+-->
+		<li><a href="/shop/business-gift-services">Concierge Services</a></li>
+		<li><a href="/shop/customization">Customization</a></li>
+		<li><a href="/shop/volume-discounts">Volume Discounts</a></li>
+		<li><a href="/shop/hospitality-reception">Hospitality &amp; Reception</a></li>
+		<li><a href="/shop/bulk-truffles">By the Case: Truffles &amp; Bars</a></li>
+			<li>&nbsp;</li>
+		<li>&nbsp;</li>
+		<li>&nbsp;</li>
+              </ul>
 
-                                <div class="wid60 padTop12">
-                                                <div class="overflowH marB">
-                                                                <div class="wid50 by Price">
-                                                                                <ul class="submenu">
-                                                                                    <li class="subheading">Business Gifts Program</li>
-                                                                                                <li><a href="/shop/business-gift-services">Business Gift Services</a></li>
-                                                                                                <li><a href="/shop/customization">Customization</a></li>      
-                                                                                                <li><a href="/shop/volume-discounts">Volume Discounts</a></li>
-                                                                                </ul>
+              <ul class="submenu">
+                <li class="subheading">Business Gifts by Price<i class="icon-icon_arrow-up"></i></li>
+		<li><a href="/shop/business-gifts-tier-1">$50 and under</a></li>
+		<li><a href="/shop/business-gifts-tier-2--1">$51 to $100</a></li>
+		<li><a href="/shop/business-gifts-tier-3">Over $100</a></li>
+              </ul>	      
+            </div>
 
-                                                                </div>
-                                                                
-                                                                <div class="wid50 byPrice">
-                                                                                <ul class="submenu">
-                                                                                                <li class="subheading">By Price:</li>
-                                                                                                <li><a href="/shop/gifts-priced-up-to-50">Up to $50</a></li>
-                                                                                                <li><a href="/shop/gifts-priced-51-to-100">$51 to $100</a></li>
-                                                                                                <li><a href="/shop/gifts-priced-over-100">Over $100</a></li>
-                                                                                </ul>
 
-                                                                </div>
-                                                </div>
-                                                
-                                                <div class="overflowH">
-						  <img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/NavContactUs.jpg" border="0">
-                                                </div>
-                                </div>
-                </div>
-                </li>       
-                <!-- Shop Gifts dropdown ends here -->
+            
+            <div class="wid50 byPrice">
+              <ul class="submenu">
+                <li class="subheading">Questions?<i class="icon-icon_arrow-up"></i></li>
+                <li><a style="color:#000;" href="tel:+1 877 695 4638">Call +1 877 MY LINDT</a></li>
+              </ul>
+            </div>
 
-                <!-- World of Lindt dropdown starts here -->                                                                                                                      
-                <li class="dropdown">
-<!--        <a class="mainbutton worldofLindtBtn" href="/shop/world-of-lindt"><span>World of Lindt</span></a> -->
-                <a class="mainbutton worldofLindtBtn"><span>World of Lindt</span></a>
-                <div class="subNav worldofLindt worldofLindtSection">
-                                <div class="dropDownBdr topBoderworldofLindt"></div>
-                                <div class="worldofLindtSection padTop12">
-                                                <ul class="submenu">
-                                                                <li class="subheading">Lindt Lovers Rewards Club</li>
-                                                                <li><a href="/shop/LindtLoyaltyRegistrationView">Sign up</a></li>
-                                                                <li><a href="/shop/LoyaltyCardCheckBalanceView">Check Balance</a></li>
-                                                </ul>
-                                
-                                                <ul class="submenu padTop12">
-                                                                <li class="subheading">Our Brands</li>       
-                                                                <li><a href="/lindor">LINDOR</a></li>
-                                                                <li><a href="/shop/lindt-excellence">EXCELLENCE</a></li>
-                                                                <li><a href="http://www.lindtusa.com/lindtgoldbunny">GOLD BUNNY</a></li>
-                                                                <li><a href="/shop/hello-12080--1">HELLO</a></li>
-						</ul>
 
-                                                <ul class="submenu padTop12">
-                                                                <li class="subheading">Explore</li>       
-                                                                <li><a href="/shop/story-of-lindt">Story of Lindt</a></li>
-                                                                <li><a href="/shop/master-chocolatiers">Master Chocolatiers</a></li>
-                                                                <li><a href="/shop/store-events">Events</a></li>
-                                                                <li><a href="/shop/CareersView">Careers</a></li>
-                                                                <li><a href="http://www.lindtusa.com/blog">Lindt Chocolate Blog</a></li>
-						</ul>
-                                </div>
-                </div>
+          </div>
 
-                </li>       
-                <!-- World of Lindt dropdown ends here -->
-                </ul>
+<!--
+          
+          <div class="overflowH">
+	    <img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/NavContactUs.jpg" border="0">
+          </div>
+
+-->
+
+        </div>
+      </div>
+    </li>       
+    <!-- Shop Gifts dropdown ends here -->
+
+
+
+
+    <!-- World of Lindt dropdown starts here -->                                                                                                                      
+    <li class="dropdown">
+      <!--        <a class="mainbutton worldofLindtBtn" href="/shop/world-of-lindt"><span>World of Lindt</span></a> -->
+      <a class="mainbutton worldofLindtBtn"><span>World of Lindt</span><i class="icon-icon_arrow-dn"></i></a>
+      <div class="subNav worldofLindt worldofLindtSection">
+        <div class="dropDownBdr topBoderworldofLindt"></div>
+        <div class="worldofLindtSection padTop12">
+          <div class="mobile-section-heading"><a onclick="javascript:toggleNavSections.call(this);" href="#">World of Lindt  <i class="icon-icon_close-x"></i></a></div>
+          <ul class="submenu">
+            <li class="subheading">Lindt Lovers' Rewards Club<i class="icon-icon_arrow-up"></i></li>
+            <li><a href="/shop/LindtLoyaltyRegistrationView">Sign up</a></li>
+            <li><a href="/shop/LoyaltyCardCheckBalanceView">Check Balance</a></li>
+          </ul>
+          
+          <ul class="submenu padTop12">
+            <li class="subheading">Our Brands<i class="icon-icon_arrow-up"></i></li>       
+            <li><a href="http://www.lindtusa.com/lindor">LINDOR</a></li>
+            <li><a href="http://www.lindtusa.com/blog/excellence">EXCELLENCE</a></li>
+            <li><a href="http://www.lindtusa.com/lindtgoldbunny">GOLD BUNNY</a></li>
+            <li><a href="http://www.lindtusa.com/lindthello">HELLO</a></li>
+	  </ul>
+	  
+          <ul class="submenu padTop12">
+            <li class="subheading">Explore<i class="icon-icon_arrow-up"></i></li>       
+            <li><a href="/shop/the-lindt-difference">The Lindt Difference</a></li>
+            <li><a href="/shop/story-of-lindt">Story of Lindt</a></li>
+            <li><a href="/shop/master-chocolatiers">Master Chocolatiers</a></li>
+            <li><a href="/shop/store-events">Stores &amp; Events</a></li>
+            <li><a href="/shop/CareersView">Careers</a></li>
+            <li><a href="http://www.lindtusa.com/blog">Lindt Chocolate Blog</a></li>
+	  </ul>
+        </div>
+      </div>
+      
+    </li>       
+    <!-- World of Lindt dropdown ends here -->
+    <li class="dropdown" id="signInSectionNav">
+      <a class="mainbutton"><span>Sign In / Register</span><i class="icon-icon_arrow-dn"></i></a>
+      <div class="subNav registerSignUpSection">
+	<div class="registerSignUpSection">
+          <ul class="submenu">
+            <li id="signInRegItem"><a id="signInMobile" href="">Sign In / Register</a></li>
+            <li id="welcomeItem"><span id="name-mobile"></span></li>
+            <li id="accountItem"><a id="myAccountMobile" href="">My Account</a></li>
+            <li id="logoutItem"><a id="logoutMobile" href="">Sign Out</a></li>
+          </ul>
+	</div>
+      </div>
+      
+    </li>
+  </ul>
+</div>
+
+<!-- end content for espot ES_Global_Cat_Nav -->
 
 
 	</div>
@@ -783,133 +1290,138 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     /* ]]> */</script>
 
 
-<form name="CatalogSearchForm" action="http://www.lindtusa.com/shop/SearchDisplay?" method="get" id="CatalogSearchForm">
-	
-	<!-- Search Widget -->
-	<div class="widget_search_position" role="search">
-		<div id="widget_search">
-			<div class="left_border"></div>
-			<div class="content">
-	
-				<label for="SimpleSearchForm_SearchTerm" class="nodisplay">Search</label>
-				<input type="text" class="search_input gray_color" name="searchTerm" id="SimpleSearchForm_SearchTerm" autocomplete="off" maxlength="65" tabindex="0" onkeypress="return SearchJS._onKeyPress(event);" value="Search">
+<form name="CatalogSearchForm" action="http://www.lindtusa.com/shop/SearchDisplay" method="get" id="CatalogSearchForm" title="Catalog Search Form">
 
-				<!-- div role="button" aria-labelledby="searchDepartmentList_ACCE_Label" onclick="$('searchDepartmentList').style.display='block'" onfocus="$('searchDepartmentList').style.display='block'; dojo.byId('searchDepartmentList_0').focus();" tabindex="0" class="all_departments">
-					<span id="searchDepartmentLabel">All Departments</span>
-				</div-->
-				<input id="search_categoryId" type="hidden" name="categoryId" value="">
-				<span class="spanacce" id="searchDepartmentList_ACCE_Label">Search in</span>
-				<div class="widget_search_departments_dropdown_position" role="menu" aria-labelledby="searchDepartmentList_ACCE_Label" onblur="clearTimeout(SearchJS.searchDepartmentHoverTimeout);SearchJS.searchDepartmentHoverTimeout=setTimeout('SearchJS.hideSearchDepartmentList()',300)" onmouseout="clearTimeout(SearchJS.searchDepartmentHoverTimeout);SearchJS.searchDepartmentHoverTimeout=setTimeout('SearchJS.hideSearchDepartmentList()',300)" onmouseover="clearTimeout(SearchJS.searchDepartmentHoverTimeout);" id="searchDepartmentList">
-					<div class="widget_search_departments_dropdown">
-						<div class="top">
-							<div class="left_border"></div>
-							<div class="middle"></div>
-							<div class="right_border"></div>
-						</div>
+  <!-- Search Widget -->
+  <div class="widget_search_position" id="mobileSearchContainer" role="search">
+    <div id="widget_search">
+      <div class="left_border"></div>
+      <div class="content">
 
-						<div class="clear_float"></div>
-						<div class="content_left_border">
-							<div class="content_right_border">
-								<ul id="searchDepartmentList_root">
-									<li><a href="#" id="searchDepartmentList_0" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 0, 3, '', this);" onmousedown="SearchJS.searchDepartmentSelect('', this)" onmouseover="this.className='enabled'" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseout="this.className='disabled'">All Departments</a></li>
-									
-										<li><a href="#" id="searchDepartmentList_1" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 1, 3, '27551', this);" onmousedown="SearchJS.searchDepartmentSelect('27551', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Offline</a></li>
-									
-										<li><a href="#" id="searchDepartmentList_2" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 2, 3, '12051', this);" onmousedown="SearchJS.searchDepartmentSelect('12051', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Chocolates</a></li>
-									
-										<li><a href="#" id="searchDepartmentList_3" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 3, 3, '12081', this);" onmousedown="SearchJS.searchDepartmentSelect('12081', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Gifts</a></li>
-									
-								</ul>
-							</div>
-						</div>
-						<div class="clear_float"></div>
+        <label for="SimpleSearchForm_SearchTerm" class="nodisplay">Search</label>
+        <input type="text" class="search_input gray_color" name="searchTerm" id="SimpleSearchForm_SearchTerm" autocomplete="off" maxlength="65" tabindex="0" onkeypress="return SearchJS._onKeyPress(event);" placeholder="Search" title="Search Term">
 
-						<div class="bottom">																
-							<div class="left_border"></div>
-							<div class="middle"></div>
-							<div class="right_border"></div>
-						</div>
 
-						<div class="clear_float"></div>	
-					</div>
-				</div>
-				
-				<!--<input id="search_submit" class="search_submit" type="submit" onmouseout="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onmouseover="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" onblur="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onfocus="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" alt="Search" src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png"  value="Search" /> -->
-				<div class="seach_submitContainer"><input id="search_submit" class="search_submit" alt="Search" value="Search" type="submit"></div>
-				
+        <input id="search_categoryId" type="hidden" name="categoryId" value="">
+        <span class="spanacce" id="searchDepartmentList_ACCE_Label">Search in</span>
+        <div class="widget_search_departments_dropdown_position" role="menu" aria-labelledby="searchDepartmentList_ACCE_Label" onblur="clearTimeout(SearchJS.searchDepartmentHoverTimeout);SearchJS.searchDepartmentHoverTimeout=setTimeout('SearchJS.hideSearchDepartmentList()',300)" onmouseout="clearTimeout(SearchJS.searchDepartmentHoverTimeout);SearchJS.searchDepartmentHoverTimeout=setTimeout('SearchJS.hideSearchDepartmentList()',300)" onmouseover="clearTimeout(SearchJS.searchDepartmentHoverTimeout);" id="searchDepartmentList">
+          <div class="widget_search_departments_dropdown">
+            <div class="top">
+              <div class="left_border"></div>
+              <div class="middle"></div>
+              <div class="right_border"></div>
+            </div>
 
-			</div> <!-- content -->
-			<div class="right_border"></div>
-			<div class="clear_float"></div>
-		</div> <!-- widget_search -->
-	</div> <!-- widget_search_position --><!-- Start SearchDropdownWidget -->
-	<div id="autoSuggest_Result_div" style="display:none;">
+            <div class="clear_float"></div>
+            <div class="content_left_border">
+              <div class="content_right_border">
+                <ul id="searchDepartmentList_root">
+                  <li><a href="#" id="searchDepartmentList_0" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 0, 3, '', this);" onmousedown="SearchJS.searchDepartmentSelect('', this)" onmouseover="this.className='enabled'" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseout="this.className='disabled'">All Departments</a></li>
+                  
+                    <li><a href="#" id="searchDepartmentList_1" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 1, 3, '27551', this);" onmousedown="SearchJS.searchDepartmentSelect('27551', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Offline</a></li>
+                  
+                    <li><a href="#" id="searchDepartmentList_2" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 2, 3, '12051', this);" onmousedown="SearchJS.searchDepartmentSelect('12051', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Chocolates</a></li>
+                  
+                    <li><a href="#" id="searchDepartmentList_3" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 3, 3, '12081', this);" onmousedown="SearchJS.searchDepartmentSelect('12081', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Gifts</a></li>
+                  
+                </ul>
+              </div>
+            </div>
+            <div class="clear_float"></div>
 
-		<div id="widget_search_dropdown" class="widget_search_dropdown_position">
-			<div class="widget_search_dropdown">
-		
-				<!-- Top Border Styling -->
-				<div class="top">
-					<div class="left_border"></div>
-					<div class="middle"></div>
-					<div class="right_border"></div>
-				</div>
-				<div class="clear_float"></div>
-				
-				<!-- Main Content Area -->
-				<div class="content_left_border">
-					<div class="content_right_border">
-		
-						<div id="AutoSuggestDiv" class="content" role="region" aria-required="true" aria-labelledby="AutoSuggestDiv" onmouseover="SearchJS.autoSuggestHover = true;" onmouseout="SearchJS.autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();">
-							
-								<span id="autoSuggestDynamic_Result_div_ACCE_Label" class="spanacce">Suggested keywords menu</span>  
-								<div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDisplay_Widget" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label">
-									
-								</div>
-		
-								<div id="autoSuggestStatic_1"></div>
-								<div id="autoSuggestStatic_2"></div>
-								<div id="autoSuggestStatic_3"></div>
-								<div id="autoSuggestHistory"></div>
-								<div class="heading allResults"> <a href="#" id="viewAllResults"><div>View all results</div></a> </div>
-		
-						<!-- End content Section -->
-						</div>
-		
-					<!-- End content_right_border -->
-					</div>
-				<!-- End content_left_border -->
-				</div>
-				
-				<!-- Bottom Border Styling -->
-				<div class="bottom">
-					<div class="left_border"></div>
-					<div class="middle"></div>
-					<div class="right_border"></div>
-				</div>
-				
-			</div>
-		</div>
-	<!-- End SearchDropdownWidget -->
-	</div>
-	
-	<!-- Refresh area to retrieve cached suggestions -->
-	<span id="autoSuggestCachedSuggestions_div_ACCE_Label" class="spanacce">Suggested site content and search history menu</span>
-	<div dojotype="wc.widget.RefreshArea" widgetid="AutoSuggestCachedSuggestions" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" style="display:none;" aria-labelledby="autoSuggestCachedSuggestions_div_ACCE_Label">
-	</div>
+            <div class="bottom">
+              <div class="left_border"></div>
+              <div class="middle"></div>
+              <div class="right_border"></div>
+            </div>
 
-	
-	<input type="hidden" name="storeId" value="10151">
-	<input type="hidden" name="catalogId" value="10002">
-	<input type="hidden" name="langId" value="-1">
-	<input type="hidden" name="pageSize" value="52">
-	<input type="hidden" name="beginIndex" value="0">
-	<input type="hidden" name="sType" value="SimpleSearch">
-	<input type="hidden" name="resultCatEntryType" value="2">
-	<input type="hidden" name="showResultsPage" value="true">
-	<input type="hidden" name="searchSource" value="Q">
-	<input type="hidden" name="pageView" value="">
-	<span id="searchTextHolder" class="nodisplay">Search</span>
+            <div class="clear_float"></div>
+          </div>
+        </div>
+
+        <!--<input id="search_submit" class="search_submit" type="submit" onmouseout="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onmouseover="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" onblur="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onfocus="javascript: this.src='/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" alt="Search" src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png"  value="Search" /> -->
+        <div class="seach_submitContainer">
+        <i class="icon-icon_search"></i>
+          <input id="search_submit" class="search_submit" alt="Search" value="Search" type="submit" title="Search Submit">
+        </div>
+
+        <div class="seach_submitContainer_mobile">
+          <button id="search_submit_mobile" class="search_submit icon-icon_search" alt="Search" type="submit" title="Search Submit"><span class="nodisplay">Search</span></button>
+        </div>
+
+
+      </div> <!-- content -->
+      <div class="right_border"></div>
+      <div class="clear_float"></div>
+    </div> <!-- widget_search -->
+  </div> <!-- widget_search_position --><!-- Start SearchDropdownWidget -->
+  <div id="autoSuggest_Result_div" style="display:none;">
+
+    <div id="widget_search_dropdown" class="widget_search_dropdown_position">
+      <div class="widget_search_dropdown">
+
+        <!-- Top Border Styling -->
+        <div class="top">
+          <div class="left_border"></div>
+          <div class="middle"></div>
+          <div class="right_border"></div>
+        </div>
+        <div class="clear_float"></div>
+
+        <!-- Main Content Area -->
+        <div class="content_left_border">
+          <div class="content_right_border">
+
+            <div id="AutoSuggestDiv" class="content" role="region" aria-required="true" aria-labelledby="AutoSuggestDiv" onmouseover="SearchJS.autoSuggestHover = true;" onmouseout="SearchJS.autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();">
+
+                <span id="autoSuggestDynamic_Result_div_ACCE_Label" class="spanacce">Suggested keywords menu</span>
+                <div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDisplay_Widget" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" aria-labelledby="autoSuggestDynamic_Result_div_ACCE_Label">
+                  
+                </div>
+
+                <div id="autoSuggestStatic_1"></div>
+                <div id="autoSuggestStatic_2"></div>
+                <div id="autoSuggestStatic_3"></div>
+                <div id="autoSuggestHistory"></div>
+                <div class="heading allResults"> <a href="#" id="viewAllResults"><div>View all results</div></a> </div>
+
+            <!-- End content Section -->
+            </div>
+
+          <!-- End content_right_border -->
+          </div>
+        <!-- End content_left_border -->
+        </div>
+
+        <!-- Bottom Border Styling -->
+        <div class="bottom">
+          <div class="left_border"></div>
+          <div class="middle"></div>
+          <div class="right_border"></div>
+        </div>
+
+      </div>
+    </div>
+  <!-- End SearchDropdownWidget -->
+  </div>
+
+  <!-- Refresh area to retrieve cached suggestions -->
+  <span id="autoSuggestCachedSuggestions_div_ACCE_Label" class="spanacce">Suggested site content and search history menu</span>
+  <div dojotype="wc.widget.RefreshArea" widgetid="AutoSuggestCachedSuggestions" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="region" aria-live="polite" aria-atomic="true" aria-relevant="all" style="display:none;" aria-labelledby="autoSuggestCachedSuggestions_div_ACCE_Label">
+  </div>
+
+  
+  <input type="hidden" name="storeId" value="10151">
+  <input type="hidden" name="catalogId" value="10002">
+  <input type="hidden" name="langId" value="-1">
+  <input type="hidden" name="pageSize" value="52">
+  <input type="hidden" name="beginIndex" value="0">
+  <input type="hidden" name="sType" value="SimpleSearch">
+  <input type="hidden" name="resultCatEntryType" value="2">
+  <input type="hidden" name="showResultsPage" value="true">
+  <input type="hidden" name="searchSource" value="Q">
+  <input type="hidden" name="pageView" value="">
+  <span id="searchTextHolder" class="nodisplay">Search</span>
 
 </form><!-- End Search Widget --><!-- END Search.jsp -->
 						</div>
@@ -932,6 +1444,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </div>
 <script type="text/javascript">
+/*
 	window.mobilecheck = function() {
 	  var check = false;
 	  (function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
@@ -952,6 +1465,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        }, false);
 	    }
 	}
+*/
+
 </script>
 <div id="productIdQuickInfo" style="display:none"></div>
 <!-- END Header.jsp -->
@@ -977,35 +1492,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<div class="widget_height" tabindex="0">
 		
-<!-- B3G2 -->
-
-<div style="width:467px; height:45px; vertical-align:middle; float:left; display:inline-block;">
-<table style="border-collapse:collapse; width:467px; height:45px; background-color:#ad8d52;">
-<tbody><tr>
-<td style="vertical-align:middle; text-align:center; font-family:OptimaLTPro-Roman, sans-serif; font-size:20px; color:white;">
-<a href="/shop/SearchDisplay?searchTerm=75-pc&amp;categoryId=&amp;storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;pageSize=52&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=" title="Buy 3, Get 2 FREE LINDOR Truffles 75-pc bags" style="vertical-align:middle; text-align:center; font-family:OptimaLTPro-Roman, sans-serif; font-size:20px; color:white; text-decoration:none;">
-LINDOR 75-pc: BUY 3, GET 2 FREE (add 5 to cart)
+<a href="/shop/sales-and-special-offers" title="All Sales and Special Offers" class="top-banner top-width-50">
+ALL SALES and SPECIAL OFFERS
 </a>
-</td>
-</tr>
-</tbody></table>
-</div>
 
-
-<!-- 2for45 -->
-
-<div style="width:467px; height:45px; vertical-align:middle; float:right; display:inline-block;">
-<table style="border-collapse:collapse; width:467px; height:45px; background-color:#ad8d52;">
-<tbody><tr>
-<td style="vertical-align:middle; text-align:center; font-family:OptimaLTPro-Roman, sans-serif; font-size:20px; color:white; text-decoration:none;">
-<a href="/shop/SearchDisplay?searchTerm=75-pc&amp;categoryId=&amp;storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;pageSize=52&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=" title="Buy any 2 LINDOR Truffles 75-pc bags for $45" style="font-family:OptimaLTPro-Roman, sans-serif; font-size:20px; color:white; text-decoration:none;">
-LINDOR 75-pc: BUY 2 FOR $45
+<a href="/shop/sales-and-special-offers#fs60" title="Free Cold-pack Ground Shipping on orders $60+" class="top-banner top-width-50 second" style="text-decoration:none;">
+FREE COLD-PACK SHIPPING $60+ Code: FREESHIP60<br>
 </a>
-</td>
-</tr>
-</tbody></table>
-</div>
 
+
+
+<style>
+a.top-banner {float:left;padding:5px 2%;background:#ad8d52;color:#FFF;font-family:'OptimaLTPro-Roman', sans-serif; font-size:14px;text-decoration:none;text-align: center;line-height:16px;}
+a.top-banner.top-width-50 {width:45.75%;}
+a.top-banner.top-width-50.second {margin-left: .5%;}
+a.top-banner.full-width {width:96%;}
+a.top-banner.next-row {margin-top: .5%;}
+
+@media only screen and (max-width: 767px) {
+}
+
+@media only screen and (max-width: 600px) {
+
+}
+
+</style>
+
+<!--
+max width 600: div.widget_hero_image_container img {display:none;}
+-->
 	</div>
 	
 <!-- END ContentRecommendation.jsp -->
@@ -1027,50 +1542,110 @@ LINDOR 75-pc: BUY 2 FOR $45
 
 	<div class="widget_height" tabindex="0">
 		<!--<span class="lindtMainTitle">Privacy Policy</span><br/>-->
-<img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/SideChoc_PrivacyPolicy.jpg"><br>
-<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Last Modified: November 2, 2014</span><br><br>
+<img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/SideChoc_PrivacyPolicy.jpg" alt="Privacy Policy Header image of chocolate">
+<br>
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Last Modified: November 2, 2014</span>
+<br>
+<br>
 <span class="lindtBodyText">This is the official privacy policy (the "Privacy Policy") of Lindt &amp; Sprüngli (USA) Inc. ("Lindt"), makers of fine chocolates.
 We at Lindt respect your concerns about privacy. Accordingly, we have adopted the following Privacy Policy which describes the information we collect about you from this, and other websites operated by Lindt &amp; Sprüngli (USA) Inc. (the "website"), as well as why and how we use it. We also explain the choices you can make about how we collect and use your information.
 By using this website, you agree with the terms of this Privacy Policy. Whenever you submit information via our website (collectively, the "website"), you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 As we continue to develop our website and take advantage of technologies to improve the services we provide, our Privacy Policy will periodically change and evolve. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.</span>
-<br><br><br>
-<span class="lindtH1">Information Collected</span><br><br>
-<span class="lindtH2">Personal Information</span><br><br>
+<br>
+<br>
+<br>
+<span class="lindtH1">Information Collected</span>
+<br>
+<br>
+<span class="lindtH2">Personal Information</span>
+<br>
+<br>
 <span class="lindtBodyText">We will not collect any personal information about you (such as your name, mailing address, telephone number, email address, credit card information, age/year of birth (hereafter, "Personal Information") through our website unless you provide it to us voluntarily. You are not required to register or otherwise "sign in" to browse and enjoy our site.<br><br>
-We collect Personal Information from you when you voluntarily request our services, such as when you establish or update an account, enter a contest, sweepstakes or promotion, participate in a survey, quiz or poll, shop online, check the status of an order or review your order history, join our mailing list or our social networking sites, purchase and send gift cards, or subscribe to our newsletters.</span><br><br><br>
-<span class="lindtH2">Non-Personal Information</span><br><br>
+We collect Personal Information from you when you voluntarily request our services, such as when you establish or update an account, enter a contest, sweepstakes or promotion, participate in a survey, quiz or poll, shop online, check the status of an order or review your order history, join our mailing list or our social networking sites, purchase and send gift cards, or subscribe to our newsletters.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Non-Personal Information</span>
+<br>
+<br>
 <span class="lindtBodyText">We may also gather "non-personal" information from our visitors. Such "non-personal information" may include user demographics or navigational information such as the length of time a visitor spends on our website, the pages that were visited, the length of time spent on each page, and the links that are clicked. Non-personal information may also include technical information such as your IP address. We reserve the right to use or disclose non-personal information but only subject to the terms and limitations set forth in this Privacy Policy.<br><br>
 We may also collect information from third-party sources, including from social media and other websites that may display authorized Lindt branding. When you send us a message on Twitter, post a comment on our Facebook page, or on our interactive blog, we may collect that information as described in this Privacy Policy.<br><br>
-Submissions that you make to public areas of the website, such as (but not limited to) comments on our interactive blog, will be deemed public, and will not be deemed Personal Information. We do not control, and are not responsible for, the actions of other users of our website with respect to any information you choose to post in any public areas. We encourage you to refrain from providing or sharing personal information about yourself in blog comment threads, and other areas where your submissions may be available to the public. We cannot prevent such information from being used in a manner that may violate this Privacy Policy.</span><br><br><br>
-<span class="lindtH2">Use of Information We Collect</span><br><br>
+Submissions that you make to public areas of the website, such as (but not limited to) comments on our interactive blog, will be deemed public, and will not be deemed Personal Information. We do not control, and are not responsible for, the actions of other users of our website with respect to any information you choose to post in any public areas. We encourage you to refrain from providing or sharing personal information about yourself in blog comment threads, and other areas where your submissions may be available to the public. We cannot prevent such information from being used in a manner that may violate this Privacy Policy.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Use of Information We Collect</span>
+<br>
+<br>
 <span class="lindtBodyText">We use the Personal Information we collect from you primarily to provide to you a service that you have voluntarily requested. If you choose to make a purchase, you will be asked to provide contact information (such as your name and address) and financial information (such as your credit card number and expiration date). This information is used for billing purposes and to process your order. When you enter a sweepstakes or contest online, we may collect your name, mailing address, email address, age/year of birth and telephone number. This information is used for prize qualification, fulfillment and verification of eligibility. When you submit a question to our customer service, we use your email address or telephone number to respond to your inquiry.<br><br>
 We may also use the Personal Information that we collect to send you notifications, updates, catalogs, and advertisements (hereafter "Communications") via email or regular mail of special offers, services, products and promotions that may be of interest to you. Like all services provided through our website, the choice to receive our Communications is optional and you may change your preference at any time by choosing to unsubscribe or opt-out of receiving them.<br><br>
-We use aggregated non-personal information about our visitors to understand our website's demographics, such as the number of visitors accessing a certain location and the geographic distribution of our visitors. This information allows us to see what areas are most visited and enables us to improve the overall quality of our visitors' online experience by delivering more of the preferred areas and features that our visitors enjoy. We may also use the personal or non-personal information that we collect to analyze how our site is being used, and for marketing and promotional efforts, including direct marketing so that we can display and/or send you information about products or services that may be of interest to you.</span><br><br><br>
-<span class="lindtH1">Information Sharing with Third-Parties</span><br><br>
-<span class="lindtH2">Service Providers and Advertisers</span><br><br>
+We use aggregated non-personal information about our visitors to understand our website's demographics, such as the number of visitors accessing a certain location and the geographic distribution of our visitors. This information allows us to see what areas are most visited and enables us to improve the overall quality of our visitors' online experience by delivering more of the preferred areas and features that our visitors enjoy. We may also use the personal or non-personal information that we collect to analyze how our site is being used, and for marketing and promotional efforts, including direct marketing so that we can display and/or send you information about products or services that may be of interest to you.</span>
+<br>
+<br>
+<br>
+<span class="lindtH1">Information Sharing with Third-Parties</span>
+<br>
+<br>
+<span class="lindtH2">Service Providers and Advertisers</span>
+<br>
+<br>
 <span class="lindtBodyText">To respect our visitors' privacy, we will not sell or rent the Personal Information you provide to us online to any third party. We may share the aggregate non-personal information that we collect with third parties, including service providers and advertisers. This aggregate information does not include your Personal Information.<br><br>
 We sometimes engage unaffiliated businesses to assist us in providing certain services. We may use third parties to provide marketing and promotional assistance, such as in connection with sweepstakes, contests, promotions or surveys (collectively, "Promotions"), to provide e-mail services, deliver advertisements, or facilitate sales and our online services, such as payment processors. We authorize these third parties to use your Personal Information solely in connection with the specific service that we have authorized the third party to provide on our behalf. We do not authorize them to use your Personal Information for any other reason. Our third-party service providers are bound by confidentiality obligations.<br><br>
 When we conduct Promotions, or contract with unaffiliated companies to do so, visitors or customers who choose to participate may be asked to provide Personal Information. Lindt and the other participating companies may use this information for such purposes as notifying and verifying prize winners and fulfilling certain promotional obligations. Information from these activities may also be used to explore future promotional opportunities or fulfill contractual obligations. At the point of registration, you may be given the option of opting-in to receive Communications. You may choose not to participate in Promotions if you do not wish to receive Communications from us or share your information with us and the other companies sponsoring Promotions. Even if you have chosen not to receive Communications from us prior to your participation in a Promotion, you may still receive information from us in connection with such activity if you register for or participate in the Promotion, but you may subsequently opt-out of receiving such Communications.<br><br>
-We may also allow reputable third parties, including advertisers, to collect information about your online activities through cookies and other technologies so that these third parties can provide services to us. These selected companies may use information about your activities on our site to provide advertisements about our products and services on this and other websites that you may visit. To prevent third parties from collecting and using this information, we would encourage you to disable all third-party cookies in your browser.</span><br><br><br>
-<span class="lindtH2">Disclosures Required By Law</span><br><br>
-<span class="lindtBodyText">We may disclose your Personal Information to third parties if we believe disclosure is appropriate to comply with law, or to protect the rights, property or safety of Lindt, our associates, employees or our clients. This may include assistance in fraud protection, investigation, credit or debt collection.</span><br><br><br>
-<span class="lindtH2">Lindt's Business Transactions</span><br><br>
-<span class="lindtBodyText">As we continue to grow and expand, we may engage in certain business transactions such as the assignment, purchase, sale, or merging of our company with other businesses. Personal Information and non-personal information that we and other participating businesses have collected would likely be transferred in such a commercial transaction. In connection with the sale, assignment, or other transfer of our business, we will attempt to ensure that any such buyer or assignee agrees to treat it in accordance with this Privacy Policy.</span><br><br><br>
-<span class="lindtH2">Children</span><br><br>
-<span class="lindtBodyText">Our website is not designed for use by children under the age of thirteen. We do not knowingly collect any Personal Information from children under the age of thirteen, and we do not knowingly distribute such information to third parties. If we learn that we have collected Personal Information from a child under thirteen, we will take immediate steps to delete the information.</span><br><br><br>
-<span class="lindtH2">Access to Personal Information</span><br><br>
-<span class="lindtBodyText">Our goal is to provide our customers with the best service possible. To do this, we need to make sure that our information is accurate, current, and reliable for its intended use. In order to provide you with the best service possible, we actively attempt to ensure that all contact information is accurate and up-to-date. If your personal information changes or if you no longer wish to receive our Communications, you may correct, amend, or delete your information at any time. If you are a registered user of the website, you can access, correct, update or remove your information in our databases any time by logging into <a href="http://www.lindtusa.com/shop/AjaxLogonForm?catalogId=10002&amp;myAcctMain=1&amp;langId=&amp;storeId=10151">My Account</a>, by contacting our <a href="http://www.lindtusa.com/shop/LindtContactUsView">Customer Service Department</a>, or by calling 1-877-MY-LINDT (1-877-695-4638).</span><br><br><br>
-<span class="lindtH2">Cookies and Other Technologies</span><br><br>
+We may also allow reputable third parties, including advertisers, to collect information about your online activities through cookies and other technologies so that these third parties can provide services to us. These selected companies may use information about your activities on our site to provide advertisements about our products and services on this and other websites that you may visit. To prevent third parties from collecting and using this information, we would encourage you to disable all third-party cookies in your browser.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Disclosures Required By Law</span>
+<br>
+<br>
+<span class="lindtBodyText">We may disclose your Personal Information to third parties if we believe disclosure is appropriate to comply with law, or to protect the rights, property or safety of Lindt, our associates, employees or our clients. This may include assistance in fraud protection, investigation, credit or debt collection.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Lindt's Business Transactions</span>
+<br>
+<br>
+<span class="lindtBodyText">As we continue to grow and expand, we may engage in certain business transactions such as the assignment, purchase, sale, or merging of our company with other businesses. Personal Information and non-personal information that we and other participating businesses have collected would likely be transferred in such a commercial transaction. In connection with the sale, assignment, or other transfer of our business, we will attempt to ensure that any such buyer or assignee agrees to treat it in accordance with this Privacy Policy.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Children</span>
+<br>
+<br>
+<span class="lindtBodyText">Our website is not designed for use by children under the age of thirteen. We do not knowingly collect any Personal Information from children under the age of thirteen, and we do not knowingly distribute such information to third parties. If we learn that we have collected Personal Information from a child under thirteen, we will take immediate steps to delete the information.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Access to Personal Information</span>
+<br>
+<br>
+<span class="lindtBodyText">Our goal is to provide our customers with the best service possible. To do this, we need to make sure that our information is accurate, current, and reliable for its intended use. In order to provide you with the best service possible, we actively attempt to ensure that all contact information is accurate and up-to-date. If your personal information changes or if you no longer wish to receive our Communications, you may correct, amend, or delete your information at any time. If you are a registered user of the website, you can access, correct, update or remove your information in our databases any time by logging into <a href="http://www.lindtusa.com/shop/AjaxLogonForm?catalogId=10002&amp;myAcctMain=1&amp;langId=&amp;storeId=10151">My Account</a>, by contacting our <a href="http://www.lindtusa.com/shop/LindtContactUsView">Customer Service Department</a>, or by calling 1-877-MY-LINDT (1-877-695-4638).</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Cookies and Other Technologies</span>
+<br>
+<br>
 <span class="lindtBodyText">We use cookies to give our visitors a more personalized shopping experience and to help our visitors navigate our site more efficiently. A cookie is a piece of data stored on a user's hard drive containing non-personally identifiable information about the user. Cookies can make your web experience more enjoyable by storing passwords, preferences, and personalizing pages. Cookies can also help you be more efficient. For example, cookies allow you to add merchandise to your shopping cart and proceed to our online Checkout area. If you elect to leave our site without making a purchase, cookies can enable the item(s) you added to your shopping cart to remain there until you return to make a purchase or otherwise visit our website. You can adjust your browser settings to refuse all cookies or to inform you when a cookie is being placed on your hard drive.<br><br>
 We may use tracking pixels (also known as "pixel tags" and "web beacons"), or other similar technologies to measure and improve the effectiveness of our online services.<br><br>
-We allow some of our business partners to place their logo and a link on our web site if we think their business may be of interest to you. Please be aware that even though we try to choose partners who adhere to similar privacy standards and practices, we cannot control their use of cookies in relation to these links, nor can we control their use of Personal Information that you may submit to these third parties. We are not responsible for the data tracking, privacy practices or the content of such other websites. If you provide any Personal Information through any such third party website, such information will be controlled by the privacy policy of that third party. We recommend that you read the privacy policies of all the sites you visit through links from our website.</span><br><br><br>
-<span class="lindtH2">Security</span><br><br>
+We allow some of our business partners to place their logo and a link on our web site if we think their business may be of interest to you. Please be aware that even though we try to choose partners who adhere to similar privacy standards and practices, we cannot control their use of cookies in relation to these links, nor can we control their use of Personal Information that you may submit to these third parties. We are not responsible for the data tracking, privacy practices or the content of such other websites. If you provide any Personal Information through any such third party website, such information will be controlled by the privacy policy of that third party. We recommend that you read the privacy policies of all the sites you visit through links from our website.</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Security</span>
+<br>
+<br>
 <span class="lindtBodyText">The security of your Personal Information is important to us. Whether you purchase a product, send a gift, or request our Communications, you do so under encryption/security policies and technological safeguards that are consistent with industry standards. Please remember, however, that some risk always exists in transmitting information electronically over the Internet, and we cannot guarantee that information you supply will not be intercepted prior to our collection.<br><br>
-We restrict access to Personal Information to our employees, contractors and agents who need to know that information to perform a specific job, and to operate, improve, and fulfill our services. Questions regarding our Privacy Policy can be answered at any time by contacting <a href="http://www.lindtusa.com/shop/LindtContactUsView">Customer Service</a> or by calling 1-877-MY-LINDT (1-877-695-4638).</span><br><br><br>
-<span class="lindtH2">Privacy Policy Updates</span><br><br>
+We restrict access to Personal Information to our employees, contractors and agents who need to know that information to perform a specific job, and to operate, improve, and fulfill our services. Questions regarding our Privacy Policy can be answered at any time by contacting <a href="http://www.lindtusa.com/shop/LindtContactUsView">Customer Service</a> or by calling 1-877-MY-LINDT (1-877-695-4638).</span>
+<br>
+<br>
+<br>
+<span class="lindtH2">Privacy Policy Updates</span>
+<br>
+<br>
 <span class="lindtBodyText">Lindt may update this Privacy Policy from time to time. When we make changes, we will post them here. If we make material changes, we will place a notice on our website or we may send a notice to the email address you provided to us. You may wish to periodically refer back to our Privacy Policy to ensure that you are aware of our current policy.<br><br>
 Effective as of November 2, 2014</span>
-
 	</div>
 	
 <!-- END ContentRecommendation.jsp -->
@@ -1120,9 +1695,13 @@ Effective as of November 2, 2014</span>
 
 	<div class="widget_height" tabindex="0">
 		
+<!-- begin espot ES_FooterLeft -->
+
+<div class="widget_height" tabindex="0">
+		
 <div class="fullWidthRaw marginB20">
 	<div class="columnLeft">
-	  <span style="font-family: OptimaLTPro-Roman, sans-serif; font-size: 16px; color: white; line-height: 1.15;">Shop</span>
+<h2 class="footerHeading"><span>Shop</span><i class="icon-icon_arrow-dn"></i></h2>
 		<ul>
 			<li><a href="/shop/chocolates">Shop Our Chocolates</a></li>
 			<li><a href="/shop/gifts">Shop Gifts</a></li>
@@ -1131,8 +1710,9 @@ Effective as of November 2, 2014</span>
 		</ul>
 	</div>
 	<div class="columnRight">
-	  <span style="font-family: OptimaLTPro-Roman, sans-serif; font-size: 16px; color: white; line-height: 1.15;">World of Lindt</span>
+	  <h2 class="footerHeading"><span>World of Lindt</span><i class="icon-icon_arrow-dn"></i></h2>
 		<ul>
+			<li><a href="/shop/the-lindt-difference">The Lindt Difference</a></li>
 			<li><a href="/shop/story-of-lindt">Story of Lindt</a></li>
 			<li><a href="/shop/master-chocolatiers">Master Chocolatiers</a></li>
 			<li><a href="http://www.lindtusa.com/blog">Lindt Chocolate Blog</a></li>
@@ -1144,23 +1724,24 @@ Effective as of November 2, 2014</span>
 
 <div class="fullWidthRaw">
 	<div class="columnLeft">
-	  <span style="font-family: OptimaLTPro-Roman, sans-serif; font-size: 16px; color: white; line-height: 1.15;">Company</span>
+	  <h2 class="footerHeading"><span>Company</span><i class="icon-icon_arrow-dn"></i></h2>
 		<ul>
 			<li><a href="/shop/CareersView">Careers</a></li>
 <!--			<li><a href="#">Media</a></li> -->
-			<li><a href="/shop/store-events">Events</a></li>
+			<li><a href="/shop/store-events">Stores &amp; Events</a></li>
 <!--			<li><a href="#">Sustainability</a></li> -->
 			<li><a href="http://www.lindt.ch/swf/ger/investors/">Investor Relations</a></li>
 			<li><a href="http://www.lindt.com/noswf/eng/company/social-responsibility/">Corporate Sustainability</a></li>
-			<li><a href="/shop/privacy-policy" target="_blank">Privacy Policy</a></li>
+			<li><a href="/wcsstore/AuroraPlus/Attachment/static/california-transparency-in-supply-chains-act.pdf">California Transparency Act</a></li>
+			<li><a href="/shop/privacy-policy">Privacy Policy</a></li>
 			<li><a href="/shop/terms-and-conditions">Terms and Conditions</a></li>
 			<li><a href="/shop/donations-sponsorships">Donations and Sponsorships</a></li>
-			<li><a href="/shop/announcements">Martin Place Siege</a></li>
+<!--			<li><a href="/shop/announcements">Martin Place Siege</a></li> -->
 		</ul>
 	</div>
 	
 	<div class="columnRight">
-	  <span style="font-family: OptimaLTPro-Roman, sans-serif; font-size: 16px; color: white; line-height: 1.15;">Customer Service</span>
+<h2 class="footerHeading"><span>Customer Service</span><i class="icon-icon_arrow-dn"></i></h2>
 		<ul>
 			<li><a href="/shop/LindtContactUsView">Contact Us</a></li>
 			<li><a href="/shop/TrackOrderStatus?orderStatusStyle=strong&amp;catalogId=10002&amp;langId=-1&amp;storeId=10151">Track Your Order</a></li>
@@ -1168,7 +1749,7 @@ Effective as of November 2, 2014</span>
 			<li><a href="/shop/lindt-frequently-asked-questions">FAQ</a></li>
 			<li><a href="/shop/returns-and-guarantees">Returns and Guarantees</a></li>
 			<li><a href="/shop/GiftCardCheckBalanceView">Gift Card Balance</a></li>
-			<li><a href="/shop/LoyaltyCardCheckBalanceView">Loyalty Club Balance</a></li>
+			<li><a href="/shop/LoyaltyCardCheckBalanceView">Rewards Club Balance</a></li>
 			<li><a href="/shop/CatalogRequestView">Catalog Signup</a></li>
 			<li><a href="/shop/site-map">Site Map</a></li>
 		</ul>
@@ -1176,55 +1757,60 @@ Effective as of November 2, 2014</span>
 </div>
 <a name="footer">
 
-	</a></div><a name="footer">
+	</a></div>
+
+<!-- end espot ES_FooterLeft -->
+
+
+	</div>
 	
 <!-- END ContentRecommendation.jsp -->
-                     </a></div><a name="footer">
+                     </div>
                                
                     <!-- FooterRight_Contentt -->
   
-	                </a><div id="footerRight_Content"><a name="footer">
+	                <div id="footerRight_Content">
 	                    <div class="fullWidthRaw marginB20" id="footerSignUp">
-	                   		 <form name="footerEmailSubscription" id="footerEmailSubscription">
+	                   		 <form name="footerEmailSubscription" id="footerEmailSubscription" title="Email Subscription Form">
 			                    <div id="showFooterSignupSuccessMsg" class="errorInSignup" style="display:none;">Thank you for signing up!</div>
 	                            <div id="showFooterSignupFailureMsg" class="successMsgSignup" style="display:none;">Signup error - please try again.</div>
-								<h2><span style="font-family: OptimaLTPro-Roman, sans-serif; font-size: 16px; color: #fff; line-height: 1.15;">Sale, new product, exclusive offers and events.</span></h2>
+								<h2 class="footerHeading"><span>Sale, new product, exclusive offers and events.</span><i class="icon-icon_arrow-dn"></i></h2>
 								<div class="signupContainer">
-									<input type="text" placeholder="Email" id="footerSignupEmailSubscription" name="footerSignupEmailSubscription" value="" onblur="javascript:convertToLowerCase(this);">
-									<button id="FooterAjaxSignUpForOffers" name="FooterAjaxSignUpForOffers" type="button" class="lindt_button" onclick="JavaScript:setCurrentId('FooterAjaxSignUpForOffers');SignupForOfferJS.setSignUpFromSection(true);SignupForOfferJS.processSignUp(document.getElementById('footerSignupEmailSubscription').value);">Submit</button>
+									<input type="text" placeholder="Email" id="footerSignupEmailSubscription" name="footerSignupEmailSubscription" value="" onblur="javascript:convertToLowerCase(this);" title="Email Address">
+									<button id="FooterAjaxSignUpForOffers" name="FooterAjaxSignUpForOffers" type="button" class="lindt_button" onclick="JavaScript:setCurrentId('FooterAjaxSignUpForOffers');SignupForOfferJS.setSignUpFromSection(true);SignupForOfferJS.processSignUp(document.getElementById('footerSignupEmailSubscription').value);" title="Submit">Submit</button>
 								</div>
 							</form>
 						</div>
                         <!-- BEGIN ContentRecommendation.jsp -->
 
 
-	</a><div class="widget_height" tabindex="0"><a name="footer">
-		</a><div class="fullWidthRaw"><a name="footer">
-	</a><div class="columnSm"><a name="footer">
+	<div class="widget_height" tabindex="0">
+		<div class="fullWidthRaw">
+	<div class="columnSm">
 		<span style="font-family:OptimaLTPro-Roman, sans-serif; font-size:16px; color:white;">Connect with Lindt</span>
-		</a><ul class="footerIcons"><a name="footer">
-			</a><li><a name="footer"></a><a href="http://www.facebook.com/LindtChocolate#!/LindtChocolate?v=wall" target="_blank"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/fb-icon.png" alt="Lindt on Facebook"></a></li>
+		<ul class="footerIcons">
+			<li><a href="http://www.facebook.com/LindtChocolate#!/LindtChocolate?v=wall" target="_blank"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/fb-icon.png" alt="Lindt on Facebook"></a></li>
 			<li><a href="http://twitter.com/Lindt_Chocolate" target="_blank"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/tw-icon.png" alt="Lindt on Twitter"></a></li>
 			<li><a href="http://pinterest.com/lindtchocolate/" target="_blank"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/p-icon.png" alt="Lindt on Pinterest"></a></li>
 			<li><a href="http://instagram.com/lindt_chocolate" target="_blank"><img src="http://cdn.lindtusa.com/wcsstore/AuroraPlus/Attachment/Other/ig-icon.png" alt="Lindt on Instagram"></a></li>
 <!--			<li><a href="http://instagram.com/lindt_chocolate" target="_blank"><img src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/ig-icon.png" alt="Lindt on Instagram"/></a></li> -->
 
 		</ul>
-<br><br><span style="font-family:OptimaLTPro-Roman, sans-serif; font-size:16px; color:white;">Call Us Anytime<br><br>1-877-MY-LINDT<br>(1-877-695-4638)</span>
+<br><br><span style="font-family:OptimaLTPro-Roman, sans-serif; font-size:16px; color:white;">Call Us Anytime<br><br>+1 877 MY LINDT<br>(+1 877 695 4638)</span>
 	</div>
 	
 	<div class="columnLrg">
 		<span style="font-family:OptimaLTPro-Roman, sans-serif; font-size:16px; color:white;">Payment we accept</span>
 		<ul id="paymentIcons" class="footerIcons">
-			<li><a href="#"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/visa-icon.png" alt=""></a></li>
-			<li><a href="#"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/mastercard-icon.png" alt=""></a></li>
-			<li><a href="#"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/amex-icon.png" alt=""></a></li>
-			<li><a href="#"><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/discover-icon.png" alt=""></a></li>
-<!--			<li class="lastIcon"><a href="#"><img src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/paypal-icon.png" alt=""/></a></li> -->
+			<li><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/visa-icon.png" alt="Visa"></li>
+			<li><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/mastercard-icon.png" alt="MasterCard"></li>
+			<li><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/amex-icon.png" alt="American Express"></li>
+			<li><img src="http://cdn.lindtusa.com/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/discover-icon.png" alt="Discover"></li>
+<!--			<li class="lastIcon"><img src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/paypal-icon.png" alt="PayPal" /></li> -->
 		</ul>
-<!--		<div class="nortonIcon"><a href="#"><img src="/wcsstore/AuroraStorefrontAssetStore/images/colors/color1/footer/norton.png" alt=""/></a></div> -->
 	</div>
 </div>
+
 	</div>
 	
 <!-- END ContentRecommendation.jsp -->
