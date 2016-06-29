@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ckan.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906083033id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckan.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629132306id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Open Knowledge: Privacy policy
 
-Open Knowledge websites collect no more data about you than most other websites. This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://web.archive.org/contact/).
+Open Knowledge International websites collect no more data about you than most other websites. This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://web.archive.org/contact/).
 
 As a general rule, we use information we have collected about you for the purposes you supplied it — for example if you have ordered goods or services from us, then we will use it to help us supply those goods or services. We also use information we have collected from all our sites to help us understand how those sites are used in order to improve them or to design new services we might offer.
 
@@ -48,7 +48,7 @@ Any time you visit a page on the internet, you send quite a bit of information t
 
 The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse.
 
-We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the Open Knowledge’s goals.
+We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting Open Knowledge International’s goals.
 
 Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
 
