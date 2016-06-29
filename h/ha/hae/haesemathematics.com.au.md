@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haesemathematics.com.au privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324102627id_/https%3A//www.haesemathematics.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haesemathematics.com.au privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629064056id_/https%3A//www.haesemathematics.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Haese Mathematics
 
@@ -64,4 +64,4 @@ Subscribers or members of our website will generally be able to access, update a
 
 We request that you keep your information as current as possible so that we may continue to improve our service to you.
 
-We will make attempts to ensure that the personal individual information it holds is accurate and up to date. If it holds information about an individual that is not accurate or up to date, an individual may ask that it be corrected.
+We will make attempts to ensure that the personal individual information held by us is accurate and up to date. If information we have about an individual is not accurate or up to date, they may ask that it be corrected.
