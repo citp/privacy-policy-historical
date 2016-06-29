@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotchbrand.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229172053id_/http%3A//www.3m.com/3M/en_US/company-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotchbrand.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630013509id_/http%3A//www.3m.com/3M/en_US/company-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3M United States
 
