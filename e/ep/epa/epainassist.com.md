@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epainassist.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127061828id_/http%3A//www.epainassist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epainassist.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629072015id_/http%3A//www.epainassist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,3 +36,5 @@ When you sign up for a newsletter from epainassist.com you are also given the op
 By using epainassist.com, you hereby consent to collection and use of data by epainassist.com as mentioned above. We hold the right for modification of the privacy policy at anytime. In case of any change in the privacy policy at epainassist.com, you will be duly notified about the change so that the user is always aware of the changes being made in the policies at epainassist.com.
 
 Please mail any doubts or questions regarding the above at [info@epainassist.com](mailto:info@epainassist.com)
+
+_ _  Note: Information provided is not a substitute for physician, hospital or any form of medical care. Examination and Investigation is necessary for correct diagnosis.
