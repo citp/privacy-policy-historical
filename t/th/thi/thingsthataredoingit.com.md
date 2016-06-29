@@ -1,42 +1,100 @@
-> *The following text is extracted and transformed from the thingsthataredoingit.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129003528id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsthataredoingit.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Notice – Cheezburger Company Blog
+# Legal Agreement
 
-Last Updated: October 19, 2010
+**GoDaddy Respects Your Privacy**
 
-The following privacy notice applies to this website, the sites listed at www.cheezburger.com/sites, and any sites which are operated by Cheezburger, Inc. (collectively, the “Websites”).  We may change or update this policy from time to time, and we will notify you of any changes by changing the “last updated” notice set forth above. Accordingly, you should frequently visit this web page. Any updated policy shall be effective immediately after it is posted.  
-****
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Personal Information**  
-1\.     Activity. We may ask for some personal information, including your e-mail address, for certain activities on the Websites, such as for uploading pictures and posting comments.  
-2\.     Usage Information. We may record information about your usage, such as when you use the Websites, the channels, groups, and favorites you subscribe to, the contacts you communicate with, and the frequency and size of data transfers, as well as information you display or click on in the Websites (including UI elements, settings, and other information). We may use clear GIFs (a.k.a. “Web Beacons”) in HTML-based emails sent to our users to track which emails are opened by recipients.  
-We may use third party service providers to help us collect and analyze usage information.  For example, we use the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in the Websites. ClickTale does not collect personally identifiable information that you do not voluntarily enter in the Websites. ClickTale does not track your browsing habits across Websites which do not use ClickTale services. For more information see   Privacy Policy for Information Collected by the ClickTale Web Analytics Service.  We are using the information collected by the ClickTale service to help identify ways we can improve and monetize our Websites.  
-You can choose to disable the ClickTale service at http://www.clicktale.net/disable.html.  
-3\.     Content Uploaded to Site. Any personal information or picture content that you voluntarily disclose online (on discussion boards, in messages and chat areas, etc.) becomes publicly available and you acknowledge that third parties may access, collect and use such content.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Uses**  
-1\.     Personalized Features.  If you submit personally identifiable information to us through the Websites, we may use your personal information to operate, maintain, and provide to you the features and functionality of the Websites, as well as provide special personalized features to you.  
-2.     Other Users.  Certain information may be displayed to other users when you upload pictures or send messages through the Websites and other users can contact you through messages and comments. Any pictures that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.  
-3\.     Use of Email for Administrative Purposes.  We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as for customer service purposes).  
-4\.     Usage Trends; Optimization and Functionality.  We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Websites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Cookies; IP Logs**  
-We use cookies (or similar tracking technologies), clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Websites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+**Information Collection and Use**
 
-**Your Choices; Opt-out**  
-1\.     Submission of Personal Information.  You may, of course, decline to submit personally identifiable information through the Websites, in which case you can still view pictures and explore the Websites, but we may not be able to provide certain services to you. You may also change certain personally identifiable information you submit to us by logging into your account.  
-2\.     Cookies.  You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies in the browser settings if you prefer. If you choose to decline cookies, you may not be able to sign in or use other Website features or services that depend on cookies. If you choose to accept cookies, your browser may allow you to delete cookies that you have accepted at a later date.  
-3\.     Third Party Networks.  We may allow third-party advertising companies and networks to serve cookies on the Website and to serve ads to you when you visit the Websites. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. If you would like to prevent certain third parties from collecting and using such information (i.e., opt-out), or would like more information about these practices and to understand your choices regarding use of this information by these companies, you may visit http://www.networkadvertising.org/managing/opt_out.asp.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Third Party Services**  
-Certain services offered through the Websites are subject to third party privacy policies.  Facebook’s “Like” button is an example of this (and is subject to Facebook’s privacy policies).
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Additional Disclosure Policies**  
-We may share the information we collect from you to third parties in the following circumstances:  
-1\.     Compliance with Laws. We may disclose information we collect (including personally identifiable Information) when we believe it is required to comply with the law, such as in response to a subpoena or court order.  We may provide you with advance notice at our discretion; however, nothing in this policy entitles you to such notice.  
-2\.     Safety and Protecting Our Interests.  We may disclose information we collect in order to prevent damage to our property (tangible and intangible), for safety reasons, or in the course of collecting amounts owed to us.  
-3\.     Business Transfers. We may use your information in the context of a merger, acquisition, business reorganization, debt financing or sale of company assets, or in the event of an insolvency, bankruptcy or receivership. In these transactions, the information which we collect may be freely transferred to third parties as one of our business assets (i.e., we do not have any obligation to notify you of any such transfer).  
-4.    Business Transactions.  We may share your information to our partners, contractors, and service providers as necessary to provide services to you or to otherwise improve our services.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Contact Us**  
-If you have any questions about this notice, email us at contactus@cheezburger.com or write to Cheezburger Inc, Attn: Privacy, 200 W. Thomas St, Suite 200; Seattle, WA 98119.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
