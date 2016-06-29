@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greateranglia.co.uk privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709153339id_/https%3A//www.abelliogreateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greateranglia.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630003559id_/http%3A//www.abelliogreateranglia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Abellio Greater Anglia
 
@@ -163,3 +163,15 @@ We use the information we obtain from our cookies for the following:
 Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies. If this is done it is important not to exclude the benign and useful session cookies. Choose an option that rejects all third-party cookies.
 
 Please note that this may impact on the usability of ours and other websites.
+
+## Smartcard
+
+For some bookings we allow your ticket to be delivered to your Smartcard. 
+
+If you are using an existing Smartcard you must ensure that you correctly enter your Smartcard reference number - we cannot amend this after payment has occurred. 
+
+You must carry your Smartcard with you when you travel. 
+
+You must ensure that you validate your Smartcard at the start and end of your journey by using either the stand alone validators or ticket barriers as applicable. 
+
+Some train companies apply additional restrictions to the use of Smartcards - you must note any additional restrictions notified during the booking process. 
