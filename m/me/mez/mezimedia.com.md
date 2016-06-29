@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229074242id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629162556id_/http%3A//www.conversantmedia.com/node/132) for the most accurate reproduction.*
 
 # Privacy Policy | Conversant
 
-Last Modified: September 9, 2015
+Last Modified: May 4, 2016
 
  **INTRODUCTION:**
 
@@ -189,9 +189,9 @@ Top
 
  **SELF-** **REGULATION & VOLUNTARY COMPLIANCE**
 
-Our industry has a rigorous voluntary self-regulatory regime, and we are active members of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI), [Interactive Advertising Bureau](http://www.iab.net/) (IAB), and [Digital Advertising Alliance](http://www.aboutads.info/) (DAA) who promulgate codes of conduct to which their members must adhere. These codes impose requirements on participating companies such as transparency and choice around the use of data for IBA, and require regular audits of member privacy practices.
+Our industry has a rigorous voluntary self-regulatory regime, and we are active members of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI), [Interactive Advertising Bureau](http://www.iab.net/) (IAB), [Digital Advertising Alliance](http://www.aboutads.info/) (DAA) and [Digital Advertising Alliance of Canada](http://youradchoices.ca/) (DAAC) who promulgate codes of conduct to which their members must adhere. These codes impose requirements on participating companies such as transparency and choice around the use of data for IBA, and require regular audits of member privacy practices.
 
-Conversant is an active member of these and other groups, and where Conversant engages in activities regulated by these programs, we comply fully with both the [NAI Code of Conduct](http://www.networkadvertising.org/2013_Principles.pdf), and the [DAA Self-Regulatory Principles.](http://www.aboutads.info/principles)
+Conversant is an active member of these and other groups, and where Conversant engages in activities regulated by these programs, we comply fully with the [NAI Code of Conduct](http://www.networkadvertising.org/sites/default/files/NAI_Code15encr.pdf), the [DAA Self-Regulatory Principles](http://www.aboutads.info/principles), and the [DAAC Self-Regulatory Principles](http://youradchoices.ca/the-principles/).
 
 Top
 
