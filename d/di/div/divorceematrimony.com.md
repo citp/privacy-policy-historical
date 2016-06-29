@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divorceematrimony.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909232210id_/http%3A//www.divorceematrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorceematrimony.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629094329id_/http%3A//www.divorceematrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Divorcee Matrimony, Matrimony, Indian Matrimony
 
