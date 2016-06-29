@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the expedino.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082630id_/http%3A//expedino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedino.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Expedino.Com
+# Legal
 
-## Privacy Policy
+* * *
 
-Privacy Policy for _expedino.com_  
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Cookies**  
-While browsing _expedino.com_ , a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of _expedino.com_ will function as expected without cookies enabled.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Collection of Personal Information**  
-when visiting _expedino.com_ , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track user’s movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Third-Party Advertisers**  
-In order to cover the costs of providing Imagesci.com as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by _expedino.com_ privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-**Google Adsense:**  
-We present you the following information about Google and the DoubleClick DART cookie:  
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
-For any problems or questions don’t hesitate to [**Contact Us**](https://web.archive.org/contact/ "Contact Us").
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
