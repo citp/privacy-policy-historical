@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205005558id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629023017id_/http%3A//www.century21.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CENTURY 21
 
@@ -6,7 +6,7 @@
 
 ##  PRIVACY STATEMENT
 
-**Last modified May 27, 2015**
+**Last modified December 21, 2015**
 
 ##  Introduction
 
@@ -64,7 +64,7 @@ If you want to prevent a third-party ad server from sending and reading cookies 
 
 ##  3\. Use of Information
 
-We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches; (B) to receive, if you choose, to receive periodic industry updates; (C) to answer your questions or complaints; (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; and (F) inquiries about franchising opportunities. and (G) for analytical purposes to help us improve the Site and for our business generally. We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products.
+We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches; (B) to receive, if you choose, to receive periodic industry updates; (C) to answer your questions or complaints; (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend; and (F) inquiries about franchising opportunities. and (G) for analytical purposes to help us improve the Site and for our business generally. We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products. We may allow others to provide audient measurement and analytics services for us, to serve advertisements on our behalf, and to track and report on the performance of those advertisements.  These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you use the Site, as well as when you visit other online sites and services, and such services will be covered by the privacy policy of the respective third parties. We use Google Analytics and other such tracking mechanisms to collect information about the use of the Site.  More information on Google Analytics – including how you can control the information sent to Google – can be found here:  [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)
 
 ##  4\. Sharing Your Information
 
@@ -97,7 +97,7 @@ This Site is not directed to children under the age of 13 ("Children"), and we d
 
 ##  8\. California Privacy Rights
 
-Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties. To request the above information please contact us by writing to customer service at:
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities]during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties. To request the above information please contact us by writing to customer service at:
 
 Century 21 Real Estate LLC  
 International Headquarters  
