@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techfresh.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908142550id_/http%3A//www.techfresh.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfresh.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629082142id_/http%3A//www.techfresh.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TechFresh, Consumer Electronics Guide
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **jerm@techfresh.net**
 
