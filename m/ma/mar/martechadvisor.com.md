@@ -1,39 +1,44 @@
-> *The following text is extracted and transformed from the martechadvisor.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211124428id_/http%3A//www.martechadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martechadvisor.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629071753id_/http%3A//www.martechadvisor.com/privacy-policy) for the most accurate reproduction.*
 
-# MarTech Advisor
+# Privacy Policy | MarTech Advisor
 
-### What information do we collect?
+_**PRIVACY POLICY**_
 
-We collect information from you when you subscribe to our newsletter. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+By visiting this Website, you agree to be bound by the terms and conditions of this Privacy Policy (“ **Policy** ”). If you do not agree, please do not use or access our Website. Further, this Policy is subject to change at any time without notice. Kindly review this Policy from time to time to make yourself aware of any changes hereto.
 
-### What do we use your information for?
+By the use of the Website, you expressly consent to our use and disclosure of your personal information and other information in accordance with this Policy. This Policy is incorporated into and subject to the terms stated in the End User Agreement and Terms of Use (“ **Terms** ”).
 
-Any of the information we collect from you may be used in one of the following ways:
+  1. **PERSONALLY IDENTIFIABLE INFORMATION AND OTHER INFORMATION**
+    1. When you use our Website, we collect, receive and store your personal information and other information which is provided by you from time to time.
+    2. You can generally browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Further, you may also provide information when participating in a marketing campaign, survey or product reviews, comparisons, ideas or comments, or the like that are offered/provided in the Website. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular part or feature on the Website.
+    3. We, either directly or through third parties engaged by us, may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour. This information is compiled and analysed on an aggregated basis.
+    4. We also use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that stores certain information that can be read back later. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain parts or features on the Website and you may be required to re-enter your password more frequently during a session. Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
+    5. If you choose to post messages on our message boards, surveys posted, product review/comparison questionnaires, marketing related materials, chat rooms or other message areas or leave feedback, we will collect that information you provide to us and are entitled to use the same in accordance with the Terms.
+    6. We collect personally identifiable information (email address, name, phone number, etc.) from you when you set up an account with us. While you can browse some sections of our Website without being a registered member, certain activities do require registration. We do use your contact information to send you materials that may be of your interest.
+  2. **USE OF YOUR INFORMATION AND OTHER INFORMATION**
+    1. We use the personal information and other information we collect about/from you for the following general purposes: for registration and to manage your account, including to facilitate your access to and use of our Website; to communicate with you in general, including to provide information about us and invitations/contests from us; to enable us to publish your reviews, forum posts, and other content; to respond to your questions and comments; to measure interest in and improve our products, services, and the Website; to notify you about special offers and products or services available from us or our partners, or from the providers of products and services listed on our Website, that may be of interest to you; to otherwise customize your experience with us; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce the Terms; and as otherwise notified to you at the time of collection.
+    2. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses.
+    3. In our efforts to continually improve our products and services and the Website, we collect and analyse demographic and profile data about our users' activity on the Website.
+    4. We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
+    5. We may ask you from time to time to complete optional online surveys and/or product reviews. These surveys/product reviews may ask you for contact information and demographic information (like pin code, age, or income level), and to provide information sought therein and/or responses to queries stated therein.
+  3. **SHARING OF PERSONAL INFORMATION AND OTHER INFORMATION**
+    1. We may share personal information and other information with our other corporate entities and affiliates. These entities and affiliates may market to you as a result of such sharing unless you explicitly opt-out.
+    2. We may disclose personal information and other information provided by you to third parties. Disclosure and sharing of information may include to business partners (whose privacy practices we do not have control over or responsible/liable for) in conjunction with whom we offer our products and services and third-party vendors who provide services or functions on our behalf. We may also disclose and share aggregated and non-personally identifiable information which has been developed using the information provided by you with our business partners, clients and the public. Further, we may authorize third-party vendors to collect and analyse information on our behalf, including as necessary to operate features of our Website, it being clarified that such third-party vendors would be mandated to use the information only for the purposes and in the manner permitted as per these Terms.
+    3. The aforesaid disclosures may be required for us to provide you to offer and/or develop our products and services, comply with our legal obligations, to enforce the Terms, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related. We do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent.
+    4. We may disclose personal information and other information provided by you if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, summons, court orders, or other legal process. We may disclose personal information or other information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or the Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+    5. We and our affiliates may share / sell some or all of your personal and other information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this Policy with respect to your personal information and other information.
+  4. **SECURITY PRECAUTIONS**
+    1. Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+  5. **LINKS**
+    1. Our Website links to other websites that may collect personally identifiable information about you. We are not responsible for the privacy practices or the content of those linked websites.
+  6. **CONSENT**
+    1. By using the Website and/or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Policy, including but not limited to your consent for sharing your information as per this Policy.
+  7. **GRIEVANCE**
+    1. The name and contact details of the Grievance Officer, as required in terms of the Information Technology Act, 2000 and rules/regulations made thereunder, are stated below: 
+      * Name: Ankush Gupta, Editor-in-Chief
+      * Address: DemandShore Solutions Private Limited, Cerebrum IT Park, Tower No. B-3, 4th Floor, Kalyani Nagar, Pune – 411014, Maharashtra, India
+      * Phone: +91-20-67290400
+      * Email: ankush(dot)gupta(at)martechadvisor(dot)com
+      * Time: Weekdays (10:00 AM to 6:00 PM Indian Standard Time)
 
-  * To improve our website- (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
 
-
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-### Do we use cookies?
-
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-### Do we disclose any information to outside parties?
-
-In the event you register to download a white paper, case study, industry research or register to attend an (online or in-person) event, your contact information will be shared with the direct sponsors of that content, if applicable.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Your Consent
-
-By using our site, you consent to our privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page.
