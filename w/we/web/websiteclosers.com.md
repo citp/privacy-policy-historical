@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteclosers.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216171700id_/http%3A//www.websiteclosers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteclosers.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629130756id_/http%3A//www.websiteclosers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -49,58 +49,3 @@ If you do not consent to the collection, use or disclosure of your personal info
 
 **Security**  
 Unfortunately, no data transmission over the Internet can be considered 100% secure, so please keep this in mind when transmitting data to us. Company retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
-
-**Results**
-
-We connect our Sale Side Clients with the right Buyers to ensure a quick sale and to maximize clients’ profits. When selling your business you have 2 ...
-
-[+](http://www.websiteclosers.com/closed-deals/)
-
-  
-
-
-**Strategies**
-
-After two decades in the ecommerce broker business, we are able to use our extensive experience to devise multiple strategies to the assets being ...
-
-[+](http://www.websiteclosers.com/strategies/)
-
-  
-
-
-**Services**
-
-WebsiteClosers.com is comprised of a knowledgeable and ...
-
-[+](http://www.websiteclosers.com/services/)
-
-  
-
-
-**Deal Financing**
-
-Every business acquisition is different, which means the methods used to acquire each and every business, might have its own set of factors to make ...
-
-[+](http://www.websiteclosers.com/deal-financing/)
-
-  
-
-
-## Seller Consultation
-
-We offer a FREE Seller Consultation, so it costs you nothing upfront to learn what we can do for you. We encourage you to give us a call, talk to our team, and we will prove that we have the experience, skills and drive to sell your business using our professional sales strategies.
-
-  * 14Dec
-
-## [Increase Your Social Media Traffic](http://www.websiteclosers.com/increase-your-social-media-traffic/)
-
-Social media is relatively new, of course, and you want to make the most of it with your blog content and twitter ...
-
-  * 4Dec
-
-## [Increase Your Website Value by Increasing the Power of Personal Connections](http://www.websiteclosers.com/increase-your-website-value-by-increasing-the-power-of-personal-connections/)
-
-Sure, the internet is worldwide, which means you’ll never, ever, meet all of your customers. But what about the ...
-
-  * 
-
