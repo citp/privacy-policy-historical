@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205233125id_/http%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorscoverage.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629214032id_/http%3A//www.visitorscoverage.com/privacy) for the most accurate reproduction.*
 
-# VisitorsCoverage - Privacy statement and privacy policy
+# VisitorsCoverage Inc. - Privacy statement and privacy policy
 
 **COLLECTION AND TRACKING OF PERSONAL INFORMATION**
 
@@ -37,9 +37,9 @@ We allow users of our Web site to send articles or links by email to other parti
 
 We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request (e.g., subpoenas), to conduct investigations of consumer complaints or possible breaches of law, to protect the integrity of our site and our property, to protect the safety of our visitors or others, to fulfill your requests, or to cooperate in any legal investigation.
 
-Personally identifiable information, including associated usage information, may be provided to a third party if there is a transfer of the assets or ownership of VisitorsCoverage or if VisitorsCoverage files for bankruptcy.
+Personally identifiable information, including associated usage information, may be provided to a third party if there is a transfer of the assets or ownership of VisitorsCoverage® Inc. or if VisitorsCoverage® Inc. files for bankruptcy.
 
-You should be aware that if you voluntarily disclose information online (whether through VisitorsCoverage's services or any other services available online), personal or otherwise, that information could be collected and used by others. For example, if you use chat forums, bulletin boards, and you post your e-mail or id, you may receive unsolicited messages form others. VisitorsCoverage has no control over this use of your personal information.
+You should be aware that if you voluntarily disclose information online (whether through VisitorsCoverage® Inc.'s services or any other services available online), personal or otherwise, that information could be collected and used by others. For example, if you use chat forums, bulletin boards, and you post your e-mail or id, you may receive unsolicited messages form others. VisitorsCoverage® Inc. has no control over this use of your personal information.
 
 **USE OF COOKIES**
 
@@ -51,7 +51,7 @@ Some of the banner ads displayed in our Web sites are provided by outside compan
 
 Some of the pages and section uses frames, external interfaces and external links wherever necessary to effectively present the information for your convenience, so you can get the necessary information and apply for a specific insurance plan online, without leaving the VisitorsCoverage.com.
 
-This privacy policy does not apply to information users consent to give to third parties not affiliated with VisitorsCoverage. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this privacy policy. VisitorsCoverage is not responsible for information given to other parties. Any data submitted by you to be provided to an insurance carrier will be governed by that insurance company's data privacy policy.
+This privacy policy does not apply to information users consent to give to third parties not affiliated with VisitorsCoverage® Inc.. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this privacy policy. VisitorsCoverage® Inc. is not responsible for information given to other parties. Any data submitted by you to be provided to an insurance carrier will be governed by that insurance company's data privacy policy.
 
 **USE OF WEB BEACONS**
 
@@ -63,11 +63,11 @@ We implement a variety of security measures to maintain the safety of personally
 
 We offer the use of a secure server for VisitorsCoverage.com. All personally identifiable information supplied by you to us via VisitorsCoverage.com is transmitted via Secure Socket Layer (SSL) or similarly secure technology. We allow personally identifiable information to be accessed only by persons with specified rights to do so.
 
-Due to the open nature of communication through the Internet, we cannot guarantee that communications between you and VisitorsCoverage, or between VisitorsCoverage and the insurance carriers to which you ask us to submit your information, will be free from unauthorized access by third parties, nor that third parties will not be able to circumvent the safeguards we have put in place. We cannot absolutely guarantee the security of any information that is disclosed or transmitted online.
+Due to the open nature of communication through the Internet, we cannot guarantee that communications between you and VisitorsCoverage® Inc., or between VisitorsCoverage® Inc. and the insurance carriers to which you ask us to submit your information, will be free from unauthorized access by third parties, nor that third parties will not be able to circumvent the safeguards we have put in place. We cannot absolutely guarantee the security of any information that is disclosed or transmitted online.
 
 **CONTROLLING YOUR PERSONAL INFORMATION**
 
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to VisitorsCoverage by contacting VisitorsCoverage service using our [contact us form](http://www.visitorscoverage.com/contact-us/).
+A user may, at any time, change, correct, modify or delete any personal information they may have provided to VisitorsCoverage® Inc. by contacting VisitorsCoverage® Inc. service using our [contact us form](http://www.visitorscoverage.com/contact-us/).
 
 **FINALLY**
 
