@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220181727id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629080912id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home
 
 ### RealPage, Inc. Corporate Privacy Policy
 
-Last updated July 16, 2015
+Last updated January 13, 2016
 
 RealPage, Inc. (“RealPage”) is committed to providing our product and service users with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of user information by the RealPage family of companies, products, and services. By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy.
 
@@ -14,8 +14,7 @@ RealPage may collect various types of information, both personal and anonymous, 
 
 Personal information is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you.
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.  
 Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties.
 
 **Information Disclosure**
@@ -46,8 +45,7 @@ Most internet browsers provide controls that allow users to manage or disable th
 
 Certain RealPage websites may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this policy. RealPage cannot be responsible for the information handling practices of independent parties and encourages you to review their practices prior to information disclosure.
 
-**Social Media Integration**
-
+**Social Media Integration**  
 RealPage websites, products, and services may include the option of integration through third party social networking sites and related social media plug-ins or applications. When you integrate or link our websites, products, and services with your social media applications (e.g., Facebook, LinkedIn, MySpace, Google+, etc.), you authorize RealPage to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, comments, etc.) to deliver the content or as part of the operation of the integrated application. We may also obtain non-personally identifiable information (e.g., content viewed, advertising viewed, etc.) from your interaction with our integrated content.
 
 By choosing to integrate RealPage websites, product, and services with social media applications, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an integrated application, it may be publicly viewed by other members of these sites and RealPage cannot prevent further use of the information by independent third parties. For more information about how social networking sites handle your personal information and available privacy settings, please refer to their privacy policies and terms of use.
@@ -70,9 +68,13 @@ RealPage does not target children under the age of 13 for the collection of info
 
 In the event your personal information is determined to be outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”).
 
+**California Privacy Rights – “Shine The Light” Requests**
+
+California Civil Code Section § 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Your options for making such a request are listed below under “Contact Us.”
+
 **Privacy Policy Changes**
 
-As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions. 
+As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions.
 
 **Contact Us**
 
