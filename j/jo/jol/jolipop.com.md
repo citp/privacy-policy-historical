@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolipop.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109152521id_/http%3A//www.jolipop.com/privacy-policy-jolipop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolipop.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629141302id_/http%3A//www.jolipop.com/privacy-policy-jolipop) for the most accurate reproduction.*
 
 # Privacy Policy | Jolipop
 
