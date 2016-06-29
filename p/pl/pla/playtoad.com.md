@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the playtoad.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108175717id_/http%3A//playtoad.boonty.com/howitworks.php%3FintMode%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtoad.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Download games with PlayToad
+# Legal
 
-## Privacy promise
+* * *
 
-All the personal information you submit to PlayToad and to Nexway, its partner under the games heading, (subscription to the newsletter, purchase, etc.) will remain confidential. PlayToad and Nexway undertake not to divulge this information without your prior consent. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-All the information relating to personal data will be handled with the utmost confidentiality in accordance with the law on IT and Liberty dated 6th January, 1978 and as recommended by the French “CNIL” (National Commission for IT and Liberty), customers have the right to access, oppose and correct their personal information at any time, which they can exercise either by sending a letter by registered mail to the publishers of the site, or by sending an email to the following address (no spaces): rq_info @ boonty.com (please note that this email cannot answer tech support queries). 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-You can unsubscribe at any time to stop receiving information or promotional offers by clicking [here](https://web.archive.org/web/20140108175717id_/http%3A//playtoad.boonty.com/howitworks.php?intMode=3). 
 
-When you browse the site, only your IP address and/or your domain name will be collected. This data contains no personal information and we only use this information to improve the service to our customers and to fulfil your expectations of our service at all times. 
 
-When you download and use a game you accept, de facto, the General Conditions of Use, which you can view [here](https://web.archive.org/web/20140108175717id_/http%3A//playtoad.boonty.com/howitworks.php?intMode=9). 
-
-For any other questions, please do not hesitate to contact us via [our contact header](https://web.archive.org/web/20140108175717id_/http%3A//playtoad.boonty.com/contact.php). 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
