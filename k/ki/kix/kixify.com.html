@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the kixify.com privacy policy that was archived on 2015-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127005827id_/http%3A//www.kixify.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kixify.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629190828id_/http%3A//www.kixify.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4PVlJaGwQGUVRbAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Privacy | Kixify Marketplace</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <!--<meta name="apple-itunes-app" content="app-id=1095571204, app-argument=https://itunes.apple.com/us/app/kixify-buy-sell-sneakers/id1095571204?mt=8" />-->
+        <script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.kixify.com">
@@ -14,22 +16,15 @@
 <link rel="dns-prefetch" href="//3.kixify.com">
 <link rel="dns-prefetch" href="//4.kixify.com">
 <link rel="dns-prefetch" href="//5.kixify.com">
-<link rel="shortcut icon" href="http://5.kixify.com/sites/default/files/cargoh_favicon.png" type="image/x-icon">
 <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
-<meta property="og:site_name" content="Kixify.com">
-<meta property="fb:app_id" content="153714688114505">
 <link rel="logo" href="http://www.kixify.com/sites/all/themes/cargoh/images/logo.png" type="image/svg">
-<meta property="og:title" content="Privacy">
 <meta name="description" content="KIXIFY PRIVACY POLICY Effective October 16, 2013 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used when you access Kixify’s website or mobile app (the “Website”).">
 <meta name="dcterms.description" content="KIXIFY PRIVACY POLICY Effective October 16, 2013 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used when you access Kixify’s website or mobile app (the “Website”).">
-<meta property="og:description" content="KIXIFY PRIVACY POLICY Effective October 16, 2013 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used when you access Kixify’s website or mobile app (the “Website”).">
 <meta name="keywords" content="kixify,puma,nike,supra,vans,air jordan,adidias,converse,retro,air,fly,buy,sell,size">
 <meta name="dcterms.date" content="2014-03-09T00:00:00Z">
 <meta name="dcterms.creator" content="kixifyadmin">
 <meta name="copyright" content="2013 Kixify.com">
-<meta property="og:type" content="website">
 <link rel="canonical" href="http://www.kixify.com/privacy">
-<meta property="og:url" content="http://www.kixify.com/privacy">
 <meta name="revisit-after" content="5 days">
 <meta name="dcterms.description" content="@kixify">
 <meta name="dcterms.description" content="@kixify">
@@ -41,9 +36,8 @@
 <meta name="twitter:creator" content="@Kixify">
 <meta name="twitter:domain" content="http://www.kixify.com">
 
-<script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/9a19c3b9352bba72e3d42a8c0129f255.js" async="async"></script>
         <!-- CSS aggregated by CDN module. -->
-<link type="text/css" rel="stylesheet" media="all" href="http://4.kixify.com/sites/default/files/css/cdn_css_http_6581e77866644b1fc54df2393c552714.css">
+<link type="text/css" rel="stylesheet" media="all" href="http://cdn.kixify.com/sites/default/files/css/cdn_css_http_a4fec505869fcbfc352c2177ddcff8ec.css">
 <!-- CSS aggregated by CDN module. -->
         <link rel="apple-touch-icon" href="/touch/touch-icon-iphone-60x60.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/touch/touch-icon-ipad-76x76.png">
@@ -52,12 +46,40 @@
         <!--[if IE]>-->
          <!--<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>-->
         <!--<![endif]-->
-        <script type="text/javascript" src="http://1.kixify.com/sites/default/files/js/js_f3d8776aa3e8824fb71b2b2e513624e0.js"></script>
+        <script type="text/javascript" src="http://1.kixify.com/sites/default/files/js/js_b555d45f329860696b4c246489e11386.js"></script>
 <script type="text/javascript" defer="defer">
 <!--//--><![CDATA[//><!--
  var $jq = jQuery.noConflict(true); window.jq = $jq
 //--><!]]>
 </script>
+        <script type="text/javascript">
+            (function (b, r, a, n, c, h, _, s, d, k) {
+                if (!b[n] || !b[n]._q) {
+                    for (; s < _.length; )
+                        c(h, _[s++]);
+                    d = r.createElement(a);
+                    d.async = 1;
+                    d.src = "https://cdn.branch.io/branch-latest.min.js";
+                    k = r.getElementsByTagName(a)[0];
+                    k.parentNode.insertBefore(d, k);
+                    b[n] = h
+                }
+            })(window, document, "script", "branch", function (b, r) {
+                b[r] = function () {
+                    b._q.push([r, arguments])
+                }
+            }, {_q: [], _v: 1}, "addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setIdentity track validateCode".split(" "), 0);
+            branch.init('key_live_ohn1VqruxE0dCzAlIR4WCancDwkI0Akc');
+            branch.banner({
+                icon: 'http://a4.mzstatic.com/us/r30/Purple49/v4/95/10/2e/95102e88-673f-7ffa-3bfc-147b7f4f3a7a/icon175x175.png', //'http://icons.iconarchive.com/icons/wineass/ios7-redesign/512/Appstore-icon.png',
+                title: 'Kixify - Buy & Sell Sneakers',
+                description: 'The World’s Largest Sneaker Marketplace.',
+                position: 'top',
+                showDesktop: false
+            }, {});
+        </script>
+
+        <script src="//d21gpk1vhmjuf5.cloudfront.net/jquery-unbxdautosuggest.js"></script>
         <script type="text/javascript">
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
@@ -70,231 +92,124 @@
                 a.src = g;
                 m.parentNode.insertBefore(a, m)
             })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
             ga('create', 'UA-959820-10', 'auto');
             ga('send', 'pageview');
         </script>
-        <!-- Facebook Conversion Code for Kixify Sale Conversion -->
-        <script>(function () {
-                var _fbq = window._fbq || (window._fbq = []);
-                if (!_fbq.loaded) {
-                    var fbds = document.createElement('script');
-                    fbds.async = true;
-                    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                    var s = document.getElementsByTagName('script')[0];
-                    s.parentNode.insertBefore(fbds, s);
-                    _fbq.loaded = true;
-                }
-            })();
+        <!-- Facebook Pixel Code -->
+        <script type="text/javascript">
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq)
+                    return;
+                n = f.fbq = function () {
+                    n.callMethod ?
+                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                };
+                if (!f._fbq)
+                    f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = '2.0';
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s)
+            }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '175033056228782');
+            fbq('track', "PageView");
         </script>
-        <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6030509528686&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+        <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10002058'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=175033056228782&ev=PageView&noscript=1" /></noscript>
+        <!-- End Facebook Pixel Code -->
+    <script type="text/javascript" async="" src="//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js"></script><link type="text/css" rel="stylesheet" href="//d21gpk1vhmjuf5.cloudfront.net/jquery-unbxdautosuggest.css"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+                    
     <body class="page not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy">
-        <div id="page-wrapper" class="container">
+        <div id="page-wrapper">
             <header>
-                                
-                <div class="row hidden-xs">
-                    <div class="col-xs-12 col-sm-3 col-md-4 clear-padding-right">
-                        <div id="site-name">
+                <nav class="navbar navbar-fixed-top" id="kixify-nav-accordion">
+                    <div class="navbar-inner">
+                        <div class="col-xs-3 col-sm-4 col-md-4 clear-padding-left">
+                            <a href="#menu" class="navbar-toggle pull-left" id="icon-main-menu">
+                                <i class="fa fa-bars fa-2x"></i>
+                            </a>                        
+                            <div id="search-box">
+                                <form action="/search" accept-charset="UTF-8" method="get" id="search-form" class="form-horizontal search-form" role="form">
+<div><div class="row clear-margin">
+    <div class="col-xs-12 col-sm-12 col-md-12 clear-padding">
+        <div class="input-group">
+            <span id="prepend-filter-btn" class="input-group-btn"><span id="mobile-filter-btn" class="btn btn-default btn-small"><i class="fa fa-cogs fa-2x"></i></span></span><div class="form-group form-item form-item-textfield form-item-inline" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="30" value="" unbxdattr="sq" placeholder="I'm looking for..." class="form-control form-text">
+</div>
+            <span class="input-group-btn">
+                <button type="submit" name="op" id="edit-submit-1" unbxdattr="sq_bt" class="btn btn-default form-submit"><i class="fa fa-search fa-2x"></i></button>
+            </span>
+        </div>
+    </div>
+        <div class="form-group form-item form-item-item form-item-indent" id="edit-keys-wrapper">
+<div class="col-xs-12 col-sm-8 col-md-8"> 
+</div></div>
+    <div class="clearfix"></div>
+</div>
+
+</div></form>
+                            </div>    
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="col-xs-6 col-sm-3 col-md-4 clear-padding" style="text-align:center"> 
                             <a href="/" title="Home" rel="home" class="logo">
-                                <img src="/sites/all/themes/cargoh/images/logo.png" class="img-responsive " alt="Buy &amp; Sell Sneakers">
+                                <img src="/sites/all/themes/cargoh/images/logo.png" height="35px" vertical-align="middle">
                             </a>
                         </div>
+                        <div class="col-xs-3 col-sm-5 col-md-4 clear-padding">
+                            <button type="button" class="navbar-toggle visible-xs icons-nav remove-margin" id="icon-user-cart">
+                                <span class="sr-only">Toggle navigation</span>
+                                <a href="/cart"><i class="fa fa-shopping-cart fa-2x  with-badge"></i></a>                            </button>
+                                                            <button type="button" class="navbar-toggle visible-xs icons-nav" id="icon-account-menu">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <a href="/user/register"><i class="fa fa-user fa-2x"></i></a>                                </button>  
+                                                        <ul id="user-navigation" class="account-links hidden-xs">
+                                <li class="nav-divider visible-xs"></li>
+    <li class="hide-mobile"><a href="/user/register"><i class="fa fa-sign-in fa-2x" data-placement="bottom" title="Login/Register"></i></a></li>
+    <li class="visible-xs"><a href="/user/register"><i class="fa fa-sign-in"></i>&nbsp;&nbsp;Login</a></li>
+    <li class="nav-divider visible-xs"></li>
+    <li class="visible-xs"><a href="/user/register"><i class="fa fa-sign-in"></i>&nbsp;&nbsp;Signup</a></li>
+                            </ul>
+                        </div>
                         <div class="clearfix"></div>
                     </div>
-                    <div class="col-xs-12 col-sm-9 col-md-8">
-                        <div class="hidden-xs">
-                            <ul class="nav navbar-nav nav-collapse navbar-right nav-pills account-links">
-            <li><a href="/user/register">login</a></li>
-        <li class="hidden-xs acc-divider">|</li>
-        <li class="nav-divider visible-xs"></li>
-        <li><a href="/user/register">signup</a></li>
-                <li class="hidden-xs acc-divider">|</li>
-        <li class="hidden-xs"><a href="/cart" class="cart-link"><span class="cart-wrapper"><span class="cart">  <span class="price hidden-xs"><i class="fa fa-shopping-cart fa-large"></i> <span class="numItems">no items</span></span>  <span class="visible-xs numItems"></span></span></span></a></li>
-        </ul> 
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="row" id="search-cart">
-                            <div class="container">
-                                <div class="col-xs-12 col-sm-12 col-md-12">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-10 col-md-8 clear-padding pull-right">
-                                            <div id="search-box" class="pull-right">
-                                                <form action="/search/apachesolr_search" accept-charset="UTF-8" method="post" id="cargoh-helper-search-form" class="form-horizontal " role="form">
-<div><div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12">
-        <div class="input-group">
-            <div class="form-group form-item form-item-textfield form-item-inline" id="edit-keys-wrapper">
- <input type="text" maxlength="128" name="keys" id="edit-keys" size="40" value="" placeholder="Search for items and stores" class="form-control form-text">
-</div>
-            <span class="input-group-btn">
-                <button type="submit" name="op" id="edit-submit-1" class="btn btn-default form-submit"><i class="fa fa-search"></i></button>
-            </span>
-        </div>
-    </div>
-    <input type="hidden" name="apachesolr_search[get]" id="edit-apachesolr-search[get]" value="[]">
-<input type="hidden" name="form_build_id" id="form-A2PaC0KJPndFz6XGwmBZJf8qRG3GlAGjUcgW5Hm7iwE" value="form-A2PaC0KJPndFz6XGwmBZJf8qRG3GlAGjUcgW5Hm7iwE">
-<input type="hidden" name="form_id" id="edit-cargoh-helper-search-form" value="cargoh_helper_search_form">
-</div>
-</div></form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>    
-                        </div>
-                    </div>
-                </div>
-                <div class="row clear-margin">
-                    <nav class="navbar navbar-inverse navbar-fixed-top-mobile accordion-group" id="kixify-nav-accordion" role="navigation">
-                        <div class="navbar-header navbar-header-fixed">
-                            <div class="col-xs-4 visible-xs remove-padding">
-                                <button type="button" class="navbar-toggle pull-left first" data-toggle="collapse" data-parent="#kixify-nav-accordion" data-target=".navbar-ex1-collapse" id="icon-main-menu">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                                <button type="button" class="navbar-toggle  pull-left icons-nav remove-margin" data-toggle="collapse" data-target=".navbar-search-collapse" data-parent="#kixify-nav-accordion" id="icon-nav-search">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <i class="fa fa-search fa-large"></i>
-                                </button>
-                            </div>
-                            <div class="col-xs-4 visible-xs remove-padding">
-                                <div class="container remove-padding">
-                                    <div id="site-name-small">
-                                        <a href="/" title="Home" rel="home" class="logo">
-                                            <img src="/sites/all/themes/cargoh/images/mobile-logo.png" alt="Buy &amp; Sell Sneakers">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>                              
-                            <div class="col-xs-4 visible-xs remove-padding">
-                                <button type="button" class="navbar-toggle  pull-right icons-nav" data-toggle="collapse" data-parent="#kixify-nav-accordion" data-target=".navbar-account-collapse" id="icon-account-menu">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <i class="fa fa-user fa-large"></i>
-                                </button>  
-                                <button type="button" class="navbar-toggle  pull-right icons-nav remove-margin" id="icon-user-cart">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <a href="/cart"><i class="fa fa-shopping-cart fa-large"></i></a><a href="/cart" class="cart-link"><span class="cart-wrapper"><span class="cart">  <span class="price hidden-xs"><i class="fa fa-shopping-cart fa-large"></i> <span class="numItems">no items</span></span>  <span class="visible-xs numItems"></span></span></span></a>                                </button>
-                            </div>
-                        </div>
-                        <div class="navbar-collapse navbar-ex1-collapse collapse " id="main-nav-menu">
-                                                                                        <ul class="nav navbar-nav" id="main-navigation"><li class="menu-11703 menu-path-front first  odd "><a href="/" title="">Home</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-44613 menuparent dropdown menu-path-browse-all-popular even "><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/browse/all/popular" title="">Buy</a><ul class="dropdown-menu"><li class="menu-91436 menu-path-taxonomy-term-1226 first  odd "><a href="/category/adidas">Adidas</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91441 menuparent dropdown menu-path-taxonomy-term-1223 even "><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/air-jordan">Air Jordan</a><ul class="dropdown-menu"><li class="menu-91446 menu-path-taxonomy-term-1281 first  odd "><a href="/category/air-jordan/air-jordan-1">Air Jordan 1</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91451 menu-path-taxonomy-term-1282 even "><a href="/category/air-jordan/air-jordan-2">Air Jordan 2</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91456 menu-path-taxonomy-term-1283 odd "><a href="/category/air-jordan/air-jordan-3">Air Jordan 3</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91461 menu-path-taxonomy-term-1284 even "><a href="/category/air-jordan/air-jordan-4">Air Jordan 4</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91466 menu-path-taxonomy-term-1285 odd "><a href="/category/air-jordan/air-jordan-5">Air Jordan 5</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91471 menu-path-taxonomy-term-1286 even "><a href="/category/air-jordan/air-jordan-6">Air Jordan 6</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91476 menu-path-taxonomy-term-1287 odd "><a href="/category/air-jordan/air-jordan-7">Air Jordan 7</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91481 menu-path-taxonomy-term-1288 even "><a href="/category/air-jordan/air-jordan-8">Air Jordan 8</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91486 menu-path-taxonomy-term-1289 odd "><a href="/category/air-jordan/air-jordan-9">Air Jordan 9</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91491 menu-path-taxonomy-term-1290 even "><a href="/category/air-jordan/air-jordan-10">Air Jordan 10</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91496 menu-path-taxonomy-term-1291 odd "><a href="/category/air-jordan/air-jordan-11">Air Jordan 11</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91501 menu-path-taxonomy-term-1292 even "><a href="/category/air-jordan/air-jordan-12">Air Jordan 12</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91506 menu-path-taxonomy-term-1293 odd "><a href="/category/air-jordan/air-jordan-13">Air Jordan 13</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91511 menu-path-taxonomy-term-1294 even "><a href="/category/air-jordan/air-jordan-14">Air Jordan 14</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91516 menu-path-taxonomy-term-1295 odd "><a href="/category/air-jordan/air-jordan-15">Air Jordan 15</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91521 menu-path-taxonomy-term-1296 even "><a href="/category/air-jordan/air-jordan-16">Air Jordan 16</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91526 menu-path-taxonomy-term-1297 odd "><a href="/category/air-jordan/air-jordan-17">Air Jordan 17</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91531 menu-path-taxonomy-term-1298 even "><a href="/category/air-jordan/air-jordan-18">Air Jordan 18</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91536 menu-path-taxonomy-term-1299 odd "><a href="/category/air-jordan/air-jordan-19">Air Jordan 19</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91541 menu-path-taxonomy-term-1300 even "><a href="/category/air-jordan/air-jordan-20">Air Jordan 20</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91546 menu-path-taxonomy-term-1301 odd "><a href="/category/air-jordan/air-jordan-21">Air Jordan 21</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91551 menu-path-taxonomy-term-1302 even "><a href="/category/air-jordan/air-jordan-22">Air Jordan 22</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91556 menu-path-taxonomy-term-1305 odd "><a href="/category/air-jordan/air-jordan-23">Air Jordan 23</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91561 menu-path-taxonomy-term-1304 even  last "><a href="/category/air-jordan/other-jordans">Other Jordans</a></li>
-</ul>
-</li>
-<li class="nav-divider visible-xs"></li><li class="menu-91566 menu-path-taxonomy-term-1225 odd "><a href="/category/asics">Asics</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91571 menu-path-taxonomy-term-1227 even "><a href="/category/converse">Converse</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91576 menu-path-taxonomy-term-2566 odd "><a href="/category/ewing-athletics">Ewing Athletics</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91581 menu-path-taxonomy-term-2546 even "><a href="/category/fila">Fila</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91586 menu-path-taxonomy-term-2541 odd "><a href="/category/li-ning">Li Ning</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91591 menu-path-taxonomy-term-1229 even "><a href="/category/new-balance">New Balance</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91596 menuparent dropdown menu-path-taxonomy-term-1230 odd "><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/nike">Nike</a><ul class="dropdown-menu"><li class="menu-91601 menu-path-taxonomy-term-1312 first  odd "><a href="/category/nike/nike-acg">Nike ACG</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91606 menuparent dropdown menu-path-taxonomy-term-1307 even "><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/nike/nike-basketball">Nike Basketball</a><ul class="dropdown-menu"><li class="menu-91611 menu-path-taxonomy-term-1314 first  odd "><a href="/category/nike/nike-basketball/nike-kd">Nike KD</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91616 menu-path-taxonomy-term-1316 even "><a href="/category/nike/nike-basketball/nike-kobe">Nike Kobe</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91621 menu-path-taxonomy-term-1315 odd "><a href="/category/nike/nike-basketball/nike-lebron">Nike Lebron</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91626 menu-path-taxonomy-term-1318 even  last "><a href="/category/nike/nike-basketball/other-nike-basketball">Other Nike Basketball</a></li>
-</ul>
-</li>
-<li class="nav-divider visible-xs"></li><li class="menu-91631 menu-path-taxonomy-term-1317 odd "><a href="/category/nike/nike-foamposite">Nike Foamposite</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91636 menu-path-taxonomy-term-1306 even "><a href="/category/nike/nike-running">Nike Running</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91641 menu-path-taxonomy-term-1309 odd "><a href="/category/nike/nike-sb">Nike SB</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91646 menu-path-taxonomy-term-1310 even "><a href="/category/nike/nike-sportswear">Nike Sportswear</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91651 menu-path-taxonomy-term-1308 odd "><a href="/category/nike/nike-training">Nike Training</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91656 menu-path-taxonomy-term-1311 even  last "><a href="/category/nike/other-nikes">Other Nikes</a></li>
-</ul>
-</li>
-<li class="nav-divider visible-xs"></li><li class="menu-91661 menu-path-taxonomy-term-1232 even "><a href="/category/puma">Puma</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91666 menu-path-taxonomy-term-2576 odd "><a href="/category/radii">Radii</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91671 menu-path-taxonomy-term-1233 even "><a href="/category/reebok">Reebok</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91676 menu-path-taxonomy-term-2551 odd "><a href="/category/saucony">Saucony</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91681 menu-path-taxonomy-term-2561 even "><a href="/category/sperry">Sperry</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91686 menu-path-taxonomy-term-1234 odd "><a href="/category/supra">Supra</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91691 menu-path-taxonomy-term-2556 even "><a href="/category/timberland">Timberland</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91696 menu-path-taxonomy-term-2571 odd "><a href="/category/toms">Toms</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91701 menu-path-taxonomy-term-1235 even "><a href="/category/vans">Vans</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-243181 menu-path-taxonomy-term-11286 odd "><a href="/category/under-armour">Under Armour</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91706 menu-path-taxonomy-term-1231 even  last "><a href="/category/other-brands">Other Brands</a></li>
-</ul>
-</li>
-<li class="nav-divider visible-xs"></li><li class="menu-53181 menu-path-node-12742 odd "><a href="/sell" title="">Sell</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-91086 menu-path-release-dates-upcoming even "><a href="/release-dates/upcoming" title="">Release Dates</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-15691 menu-path-node-11223 odd "><a href="/about" title="">About</a></li>
-<li class="nav-divider visible-xs"></li><li class="menu-13493 menu-path-node-29859 even  last "><a href="/faq" title="FAQ">FAQ</a></li>
-</ul>                                                        </div>
-                        <div class="visible-xs">
-                            <div class="navbar-collapse navbar-account-collapse collapse" id="acount-nav-menu">
-                                <ul class="nav navbar-nav nav-collapse navbar-right nav-pills account-links">
-            <li><a href="/user/register">login</a></li>
-        <li class="hidden-xs acc-divider">|</li>
-        <li class="nav-divider visible-xs"></li>
-        <li><a href="/user/register">signup</a></li>
-                <li class="hidden-xs acc-divider">|</li>
-        <li class="hidden-xs"><a href="/cart" class="cart-link"><span class="cart-wrapper"><span class="cart">  <span class="price hidden-xs"><i class="fa fa-shopping-cart fa-large"></i> <span class="numItems">no items</span></span>  <span class="visible-xs numItems"></span></span></span></a></li>
-        </ul>                            </div>
-                        </div>
-                        <div class="visible-xs">
-                            <div class="navbar-collapse navbar-search-collapse collapse" id="acount-nav-search">
-                                <div class="col-xs-12">
-                                    <div class="container">
-                                        <form action="/search/apachesolr_search" accept-charset="UTF-8" method="post" id="cargoh-helper-search-form" class="form-horizontal " role="form">
-<div><div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12">
-        <div class="input-group">
-            <div class="form-group form-item form-item-textfield form-item-inline" id="edit-keys-wrapper">
- <input type="text" maxlength="128" name="keys" id="edit-keys" size="40" value="" placeholder="Search for items and stores" class="form-control form-text">
-</div>
-            <span class="input-group-btn">
-                <button type="submit" name="op" id="edit-submit-1" class="btn btn-default form-submit"><i class="fa fa-search"></i></button>
-            </span>
-        </div>
-    </div>
-    <input type="hidden" name="apachesolr_search[get]" id="edit-apachesolr-search[get]" value="[]">
-<input type="hidden" name="form_build_id" id="form-A2PaC0KJPndFz6XGwmBZJf8qRG3GlAGjUcgW5Hm7iwE" value="form-A2PaC0KJPndFz6XGwmBZJf8qRG3GlAGjUcgW5Hm7iwE">
-<input type="hidden" name="form_id" id="edit-cargoh-helper-search-form" value="cargoh_helper_search_form">
-</div>
-</div></form>
-                                    </div>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
+                                    </nav>                
+                <div class="clearfix"></div>
             </header>         
-            <div id="page" class="row">
+            <div id="page" class="container">
+                <div id="acount-nav-search" class="visible-xs remove-margin remove-padding">
+                    <form action="/search" accept-charset="UTF-8" method="get" id="search-form" class="form-horizontal search-form" role="form">
+<div><div class="row clear-margin">
+    <div class="col-xs-12 col-sm-12 col-md-12 clear-padding">
+        <div class="input-group">
+            <span id="prepend-filter-btn" class="input-group-btn"><span id="mobile-filter-btn" class="btn btn-default btn-small"><i class="fa fa-cogs fa-2x"></i></span></span><div class="form-group form-item form-item-textfield form-item-inline" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="30" value="" unbxdattr="sq" placeholder="I'm looking for..." class="form-control form-text">
+</div>
+            <span class="input-group-btn">
+                <button type="submit" name="op" id="edit-submit-1" unbxdattr="sq_bt" class="btn btn-default form-submit"><i class="fa fa-search fa-2x"></i></button>
+            </span>
+        </div>
+    </div>
+        <div class="form-group form-item form-item-item form-item-indent" id="edit-keys-wrapper">
+<div class="col-xs-12 col-sm-8 col-md-8"> 
+</div></div>
+    <div class="clearfix"></div>
+</div>
+
+</div></form>
+                    <div class="clearfix"></div>
+                </div>
                 <div id="main-wrapper">
                                         
                                                     <div class="col-xs-12 col-sm-12 col-md-12 remove-padding" id="content-container-wrapper">
-                                                                                                <a id="main-content"></a>
-                                                                                                
-                                                                <div id="content-center-wrapper"><div id="node-57753" class="node node-type-page build-mode-full clearfix">
+                                
+                                                                <a id="main-content"></a>
+                                                                                                                                <div id="content-center-wrapper"><div id="node-57753" class="node node-type-page build-mode-full clearfix">
   
   
   
@@ -343,72 +258,143 @@
   <ul class="links inline"><li class="0 first last"></li>
 </ul></div> <!-- /.node -->
 </div>
-                                                            </div>
-                                                    </div>
-                    </div>                    
-                    <div class="clearfix"></div>
-                </div> <!-- /#main, /#main-wrapper -->
-                <div class="clearfix"></div>
-            
-            <div class="clearfix"></div>
-         <!-- /#page, /#page-wrapper -->
-        <div class="navbar navbar-inverse" id="footer-navigation">
-            <div id="footer" class="container  navbar-inner">
-                <div class="row clear-margin">
-                    <div class="col-xs-3 col-sm-6 col-md-6 clear-padding">
-                            <div id="block-boxes-footer_social_links" class="block block-boxes first region-odd odd region-count-1 count-1">
-                <div class="content">
-            <div id="boxes-box-footer_social_links" class="boxes-box"><div class="boxes-box-content"><ul class="footer-social-links nav navbar-nav nav-pills nav-collapse">
-<li><a href="http://facebook.com/kixify" class="facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i> </a></li>
-<li><a href="http://twitter.com/kixify" class="twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i> </a></li>
-<li><a href="http://instagram.com/kixify" class="pinterest" target="_blank"><i class="fa fa-instagram fa-2x"></i>  </a></li>
+                                                                                            </div>
+                                                        <div class="clearfix"></div>
+                        </div> <!-- /#main, /#main-wrapper -->
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="navbar" id="footer-navigation">
+                        <div id="footer" class="container  navbar-inner">
+                            <div class="col-xs-6 col-sm-6 col-md-6 footer-devider footer-devider-left">
+                                <div class="footer-message pull-left navbar-text clear-margin mobile-block"><a href="/about">ABOUT</a><span class="hide-mobile">&nbsp;/&nbsp;</span><a href="/faq">FAQ</a><span class="hide-mobile">&nbsp;/&nbsp;</span><a href="/terms-use">TERMS</a><span class="hide-mobile">&nbsp;/&nbsp;</span><a href="/privacy" class="active">PRIVACY</a><span class="hide-mobile">&nbsp;/&nbsp;</span><a href="/contact-us">CONTACT</a></div>
+                            </div>
+                            <div class="col-xs-6 col-sm-6 col-md-6 footer-devider footer-devider-right">
+                                <div class="footer-message pull-left navbar-text clear-margin mobile-block">
+                                    <a href="/release-dates/upcoming">RELEASE DATES</a><span class="hide-mobile">&nbsp;/&nbsp;</span><a href="/sell">SELL</a><span class="hide-mobile">&nbsp;/&nbsp;</span><span>FOLLOW US&nbsp;&nbsp;</span>                                </div>
+                                <ul class="footer-social-links nav navbar-nav nav-pills nav-collapse">
+                                    <li><a href="http://facebook.com/kixify" class="facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i>&nbsp;</a></li>
+                                    <li><a href="http://twitter.com/kixify" class="twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i>&nbsp;</a></li>
+                                    <li><a href="http://instagram.com/kixify" class="pinterest" target="_blank"><i class="fa fa-instagram fa-2x"></i>&nbsp;</a></li>
+                                </ul>
+                                <div class="footer-message navbar-text pull-left mobile-block">
+                                    <span>©&nbsp;2016&nbsp;Kixify.com</span>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>                
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div> <!-- /#page, /#page-wrapper -->
+                <nav id="menu">
+                    <ul><li><a href="/browse/all/newest">Newest</a></li><li><a href="/browse/all/popular">Popular</a></li><li><a><b>Brands</b></a></li><li><a href="/category/adidas">Adidas</a></li>
+<li><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/air-jordan">Air Jordan</a><ul><li><a href="/category/air-jordan/air-jordan-1">Air Jordan 1</a></li>
+<li><a href="/category/air-jordan/air-jordan-2">Air Jordan 2</a></li>
+<li><a href="/category/air-jordan/air-jordan-3">Air Jordan 3</a></li>
+<li><a href="/category/air-jordan/air-jordan-4">Air Jordan 4</a></li>
+<li><a href="/category/air-jordan/air-jordan-5">Air Jordan 5</a></li>
+<li><a href="/category/air-jordan/air-jordan-6">Air Jordan 6</a></li>
+<li><a href="/category/air-jordan/air-jordan-7">Air Jordan 7</a></li>
+<li><a href="/category/air-jordan/air-jordan-8">Air Jordan 8</a></li>
+<li><a href="/category/air-jordan/air-jordan-9">Air Jordan 9</a></li>
+<li><a href="/category/air-jordan/air-jordan-10">Air Jordan 10</a></li>
+<li><a href="/category/air-jordan/air-jordan-11">Air Jordan 11</a></li>
+<li><a href="/category/air-jordan/air-jordan-12">Air Jordan 12</a></li>
+<li><a href="/category/air-jordan/air-jordan-13">Air Jordan 13</a></li>
+<li><a href="/category/air-jordan/air-jordan-14">Air Jordan 14</a></li>
+<li><a href="/category/air-jordan/air-jordan-15">Air Jordan 15</a></li>
+<li><a href="/category/air-jordan/air-jordan-16">Air Jordan 16</a></li>
+<li><a href="/category/air-jordan/air-jordan-17">Air Jordan 17</a></li>
+<li><a href="/category/air-jordan/air-jordan-18">Air Jordan 18</a></li>
+<li><a href="/category/air-jordan/air-jordan-19">Air Jordan 19</a></li>
+<li><a href="/category/air-jordan/air-jordan-20">Air Jordan 20</a></li>
+<li><a href="/category/air-jordan/air-jordan-21">Air Jordan 21</a></li>
+<li><a href="/category/air-jordan/air-jordan-22">Air Jordan 22</a></li>
+<li><a href="/category/air-jordan/air-jordan-23">Air Jordan 23</a></li>
+<li><a href="/category/air-jordan/other-jordans">Other Jordans</a></li>
 </ul>
-</div></div>        </div>
-                <div class="clearfix"></div>
-    </div> <!-- /.block -->
+</li>
+<li><a href="/category/asics">Asics</a></li>
+<li><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/nike">Nike</a><ul><li><a href="/category/nike/nike-acg">Nike ACG</a></li>
+<li><i class="fa fa-caret-right fa-large visible-xs"></i><a href="/category/nike/nike-basketball">Nike Basketball</a><ul><li><a href="/category/nike/nike-basketball/nike-kd">Nike KD</a></li>
+<li><a href="/category/nike/nike-basketball/nike-kobe">Nike Kobe</a></li>
+<li><a href="/category/nike/nike-basketball/nike-lebron">Nike Lebron</a></li>
+<li><a href="/category/nike/nike-basketball/other-nike-basketball">Other Nike Basketball</a></li>
+</ul>
+</li>
+<li><a href="/category/nike/nike-foamposite">Nike Foamposite</a></li>
+<li><a href="/category/nike/nike-running">Nike Running</a></li>
+<li><a href="/category/nike/nike-sb">Nike SB</a></li>
+<li><a href="/category/nike/nike-sportswear">Nike Sportswear</a></li>
+<li><a href="/category/nike/nike-training">Nike Training</a></li>
+<li><a href="/category/nike/other-nikes">Other Nikes</a></li>
+</ul>
+</li>
+<li><a href="/category/new-balance">New Balance</a></li>
+<li><a href="/category/reebok">Reebok</a></li>
+<li><a href="/category/vans">Vans</a></li>
+<li><a href="/category/converse">Converse</a></li>
+<li><a href="/category/ewing-athletics">Ewing Athletics</a></li>
+<li><a href="/category/fila">Fila</a></li>
+<li><a href="/category/li-ning">Li Ning</a></li>
+<li><a href="/category/puma">Puma</a></li>
+<li><a href="/category/radii">Radii</a></li>
+<li><a href="/category/saucony">Saucony</a></li>
+<li><a href="/category/sperry">Sperry</a></li>
+<li><a href="/category/supra">Supra</a></li>
+<li><a href="/category/timberland">Timberland</a></li>
+<li><a href="/category/toms">Toms</a></li>
+<li><a href="/category/under-armour">Under Armour</a></li>
+<li><a href="/category/other-brands">Other Brands</a></li>
+</ul>                </nav>
+                                <div class="modal fade" id="kixifyModal" role="dialog" aria-labelledby="kixifyModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                <h4 class="modal-title" id="kixifyModalLabel">Transaction Result</h4>
+                            </div>
+                            <div class="modal-body"><p>No transaction</p></div>
+                        </div>
                     </div>
-                    <div class="col-xs-9 col-sm-6 col-md-6 clear-padding">
-                        <div id="footer-message" class="pull-right navbar-text clear-margin"><a href="/terms-use">Terms</a> / <a href="/privacy" class="active">Privacy</a> / <a href="/contact-us">Contact</a> /&nbsp;©&nbsp;2015&nbsp;Kixify.com</div>
-                    </div>
-                    <div class="clearfix"></div>
                 </div>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-                <div class="modal fade" id="kixifyModal" role="dialog" aria-labelledby="kixifyModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                        <h4 class="modal-title" id="kixifyModalLabel">Transaction Result</h4>
-                    </div>
-                    <div class="modal-body"><p>No transaction</p></div>
+                <div class="modal fade" id="kixifyShipping" role="dialog" aria-labelledby="kixifyShippingLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                <h4 class="modal-title" id="kixifyShippingLabel">Shipping Info</h4>
+                                <div id="transit-info"></div>
+                            </div>
+                            <div class="modal-body"><p>No transaction</p></div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+                            </div>                    
+                        </div>
+                    </div>    
                 </div>
-            </div>
-        </div>
-        <div class="modal fade" id="kixifyShipping" role="dialog" aria-labelledby="kixifyShippingLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                        <h4 class="modal-title" id="kixifyShippingLabel">Shipping Info</h4>
-                        <div id="transit-info"></div>
-                    </div>
-                    <div class="modal-body"><p>No transaction</p></div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
-                    </div>                    
-                </div>
-            </div>    
-        </div>
-        <div id="kixifyLoader"></div>        
-        <script type="text/javascript" src="http://5.kixify.com/sites/default/files/js/js_38669190a8fd0cd02f6fd0a3f0429a55.js"></script>
+                <div id="kixifyLoader"></div>        
+                <script type="text/javascript" src="http://5.kixify.com/sites/default/files/js/js_f1b8e8b745c8e05361fdf3b26ff79df5.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"nice_menus_options":{"delay":"100","speed":0.001},"fbconnect":{"user_pictures":"allow","language_code":"en_US","app_id":"153714688114505","debug":1,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/en_US\/all.js'","loginout_mode":"manual","invite_name":"Kixify","fast_reg_mode":1,"fast_reg_autoname":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"CToolsUrlIsAjaxTrusted":{"\/privacy":true,"\/privacy?destination=node%2F57753":true},"popups":{"originalCSS":{"\/sites\/all\/modules\/custom\/kixify_package_tracking\/css\/kixify-package-tracking.css":1,"\/modules\/node\/node.css":1,"\/modules\/system\/defaults.css":1,"\/modules\/system\/system.css":1,"\/modules\/system\/system-menus.css":1,"\/modules\/user\/user.css":1,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":1,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/sites\/all\/modules\/contrib\/date\/date.css":1,"\/sites\/all\/libraries\/jquery.ui\/themes\/base\/jquery-ui.css":1,"\/sites\/all\/libraries\/jquery.ui\/themes\/base\/ui.datepicker.css":1,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":1,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":1,"\/sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/shipping\/uc_quote\/uc_quote.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_attribute\/uc_attribute.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_file\/uc_file.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_order\/uc_order.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_product\/uc_product.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_roles\/uc_roles.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_store\/uc_store.css":1,"\/sites\/all\/modules\/custom\/kixify_deals\/kixify_deals.css":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/inttelinput\/css\/intlTelInput.css":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/css\/phone_verify.css":1,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":1,"\/sites\/all\/modules\/contrib\/views\/css\/views.css":1,"\/sites\/all\/modules\/contrib\/fbconnect\/fbconnect.css":1,"\/sites\/all\/modules\/contrib\/taxonomy_super_select\/taxonomy_super_select.css":1,"\/sites\/all\/themes\/cargoh\/css\/tabs.css":1,"\/sites\/all\/themes\/cargoh\/css\/block-editing.css":1,"\/sites\/all\/themes\/cargoh\/css\/bootstrap.min.css":1,"\/sites\/all\/themes\/cargoh\/css\/font-awesome.min.css":1,"\/sites\/all\/themes\/cargoh\/css\/kixify-overide.css":1},"originalJS":{"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_file\/uc_file.js":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_roles\/uc_roles.js":1,"\/sites\/all\/modules\/custom\/cargoh_navigation\/cargoh_navigation.js":1,"\/sites\/all\/modules\/custom\/kixify_deals\/kixify_deals.js":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/inttelinput\/js\/intlTelInput.js":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/js\/phone_verify.js":1,"\/sites\/all\/modules\/contrib\/fbconnect\/fbconnect.js":1,"\/sites\/all\/themes\/cargoh\/js\/detectmobilebrowser.js":1,"\/sites\/all\/themes\/cargoh\/js\/bootstrap.min.js":1,"\/sites\/all\/themes\/cargoh\/js\/cargoh.js":1,"\/sites\/all\/themes\/cargoh\/js\/bootstrap.comp.js":1}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","nice_menus_options":{"delay":"100","speed":0.001},"unbxd_site_key":"kixify_com-u1461762715083","unbxd_api_key":"5aba3ba448e4352c832974f561dcefe3","fbconnect":{"user_pictures":"allow","language_code":"en_US","app_id":"153714688114505","debug":1,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/en_US\/all.js'","loginout_mode":"manual","invite_name":"Kixify","fast_reg_mode":1,"fast_reg_autoname":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"CToolsUrlIsAjaxTrusted":{"\/privacy":true,"\/privacy?destination=node%2F57753":true},"popups":{"originalCSS":{"\/sites\/all\/modules\/custom\/kixify_package_tracking\/css\/kixify-package-tracking.css":1,"\/modules\/node\/node.css":1,"\/modules\/system\/defaults.css":1,"\/modules\/system\/system.css":1,"\/modules\/system\/system-menus.css":1,"\/modules\/user\/user.css":1,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":1,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"\/sites\/all\/modules\/contrib\/date\/date.css":1,"\/sites\/all\/libraries\/jquery.ui\/themes\/base\/jquery-ui.css":1,"\/sites\/all\/libraries\/jquery.ui\/themes\/base\/ui.datepicker.css":1,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":1,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":1,"\/sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/shipping\/uc_quote\/uc_quote.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_attribute\/uc_attribute.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_file\/uc_file.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_order\/uc_order.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_product\/uc_product.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_roles\/uc_roles.css":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_store\/uc_store.css":1,"\/sites\/all\/modules\/custom\/kixify_deals\/kixify_deals.css":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/inttelinput\/css\/intlTelInput.css":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/css\/phone_verify.css":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/owl.carousel\/assets\/owl.carousel.css":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/unbxdsearch_search.css":1,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":1,"\/sites\/all\/modules\/contrib\/views\/css\/views.css":1,"\/sites\/all\/modules\/contrib\/fbconnect\/fbconnect.css":1,"\/sites\/all\/modules\/contrib\/taxonomy_super_select\/taxonomy_super_select.css":1,"\/sites\/all\/themes\/cargoh\/css\/tabs.css":1,"\/sites\/all\/themes\/cargoh\/css\/block-editing.css":1,"\/sites\/all\/themes\/cargoh\/css\/bootstrap.min.css":1,"\/sites\/all\/themes\/cargoh\/line-awesome\/css\/line-awesome-font-awesome.min.css":1,"\/sites\/all\/themes\/cargoh\/menu\/css\/jquery.mmenu.all.css":1,"\/sites\/all\/themes\/cargoh\/css\/kixify-overide.css":1},"originalJS":{"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_file\/uc_file.js":1,"\/sites\/all\/modules\/contrib\/ubercart\/uc_roles\/uc_roles.js":1,"\/sites\/all\/modules\/custom\/kixify_deals\/kixify_deals.js":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/inttelinput\/js\/intlTelInput.js":1,"\/sites\/all\/modules\/custom\/phone_verify\/assets\/js\/phone_verify.js":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/owl.carousel\/owl.carousel.min.js":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/unbxdsearch.recommendations.js":1,"\/sites\/all\/modules\/contrib\/fbconnect\/fbconnect.js":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/unbxdsearch_search.js":1,"\/sites\/all\/modules\/custom\/unbxdsearch\/unbxdsearch_search.autocomplete.js":1,"\/sites\/all\/themes\/cargoh\/js\/detectmobilebrowser.js":1,"\/sites\/all\/themes\/cargoh\/js\/bootstrap.min.js":1,"\/sites\/all\/themes\/cargoh\/menu\/js\/jquery.mmenu.all.min.js":1,"\/sites\/all\/themes\/cargoh\/js\/cargoh.js":1,"\/sites\/all\/themes\/cargoh\/js\/bootstrap.comp.js":1,"\/sites\/all\/themes\/cargoh\/js\/jquery.cookie.js":1}}});
 //--><!]]>
 </script>
-              <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var UnbxdSiteName = "kixify_com-u1461762715083";var UnbxdApiKey = "5aba3ba448e4352c832974f561dcefe3";
+(function() {
+  var ubx = document.createElement('script'); ubx.type = 'text/javascript'; ubx.async = true;
+  ubx.src = '//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ubx);
+  
+  var ubx = document.createElement('link'); ubx.type = 'text/css'; ubx.rel='stylesheet';
+  ubx.href = '//d21gpk1vhmjuf5.cloudfront.net/jquery-unbxdautosuggest.css';
+  (document.getElementsByTagName('head')[0]).appendChild(ubx);
+  })();
+//--><!]]>
+</script>
+                      <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
       <script type="text/javascript">
         window.fbAsyncInit = function() {
           FB.init({
@@ -433,69 +419,71 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","jcarousel":{"ajaxPath":"\/jcaro
       </script>
 <div style="display: none"><form action="/privacy?destination=node%2F57753" accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form" class="form-horizontal " role="form">
 <div><input type="submit" name="op" id="edit-connect" value="Connect" class="btn btn-default form-submit">
-<input type="hidden" name="form_build_id" id="form-Czf734YYCn0RJh8Jb67mgBAWKao3DygUCQqTbIgpt7Q" value="form-Czf734YYCn0RJh8Jb67mgBAWKao3DygUCQqTbIgpt7Q">
+<input type="hidden" name="form_build_id" id="form-YuuqgTCzo86srEwE7pbVKpUq6Z9c3xmAN34KxSLxiKg" value="form-YuuqgTCzo86srEwE7pbVKpUq6Z9c3xmAN34KxSLxiKg">
 <input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form">
 
 </div></form>
-</div>
-        <!-- Start of StatCounter Code for Drupal -->
-        <script type="text/javascript">
-            var sc_project = 9124410;
-            var sc_invisible = 1;
-            var sc_security = "d9ae2922";
-            var scJsHost = (("https:" == document.location.protocol) ?
-                    "https://secure." : "http://www.");
-            document.write("<sc" + "ript type='text/javascript' src='" +
-                    scJsHost +
-                    "statcounter.com/counter/counter.js'></" + "script>");
-        </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>        
-        <noscript><div class="statcounter"><a title="drupal
-                                              statistics" href="http://statcounter.com/drupal/">
-                    <img class="statcounter"
-                         src="http://c.statcounter.com/9124410/0/d9ae2922/1/"
-                         alt="drupal statistics"></a></div></noscript>
-        <!-- End of StatCounter Code for Drupal -->
-        <!-- Google Code for Remarketing Tag -->
-        <!-- 
-        Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
-        -->
+</div><script type="text/javascript" src="http://2.kixify.com/sites/default/files/js/js_6d940329c89796007dbe924f4f8605dc.js"></script>
 
-        <script type="text/javascript">
-            /* <![CDATA[ */
-            var google_conversion_id = 985671206;
-            var google_custom_params = window.google_tag_params;
-            var google_remarketing_only = true;
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+                <!-- Start of StatCounter Code for Drupal -->
+                <script type="text/javascript">
+                    var sc_project = 9124410;
+                    var sc_invisible = 1;
+                    var sc_security = "d9ae2922";
+                    var scJsHost = (("https:" == document.location.protocol) ?
+                            "https://secure." : "http://www.");
+                    document.write("<sc" + "ript type='text/javascript' src='" +
+                            scJsHost +
+                            "statcounter.com/counter/counter.js'></" + "script>");
+                </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>        
+                <noscript>
+                    <div class="statcounter">
+                        <a title="drupal statistics" href="http://statcounter.com/drupal/">
+                            <img class="statcounter" src="http://c.statcounter.com/9124410/0/d9ae2922/1/" alt="drupal statistics" />
+                        </a>
+                    </div>
+                </noscript>
+                <!-- End of StatCounter Code for Drupal -->
+                <!-- Google Code for Remarketing Tag -->
+                <!-- 
+                Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+                -->
 
-        <noscript>
-            <div style="display:inline;">
-                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985671206/?value=0&amp;guid=ON&amp;script=0">
-            </div>
-        </noscript>
-        <div class="clearfix"></div>
-        <script type="text/javascript">
-            adroll_adv_id = "663EXPCYPNFPNJJLEL364C";
-            adroll_pix_id = "VNXTT3X5V5DHLG74QM73RK";
-            
-            (function () {
-                var oldonload = window.onload;
-                window.onload = function () {
-                    __adroll_loaded = true;
-                    var scr = document.createElement("script");
-                    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                    scr.setAttribute('async', 'true');
-                    scr.type = "text/javascript";
-                    scr.src = host + "/j/roundtrip.js";
-                    ((document.getElementsByTagName('head') || [null])[0] ||
-                            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                    if (oldonload) {
-                        oldonload()
-                    }
-                };
-            }());
-        </script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7a20b5a6e0","applicationID":"7655965","transactionName":"NARTMRZWDBFVUBYLWw1OcAYQXg0MG10NBlE8EVACAWgUC1FE","queueTime":0,"applicationTime":295,"atts":"GENQR15MHx8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+                <script type="text/javascript">
+                    /* <![CDATA[ */
+                    var google_conversion_id = 985671206;
+                    var google_custom_params = window.google_tag_params;
+                    var google_remarketing_only = true;
+                    /* ]]> */
+                </script>
+                <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+                <noscript>
+                    <div style="display:inline;">
+                        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985671206/?value=0&amp;guid=ON&amp;script=0">
+                    </div>
+                </noscript>
+                <div class="clearfix"></div>
+                <script type="text/javascript">
+                    adroll_adv_id = "663EXPCYPNFPNJJLEL364C";
+                    adroll_pix_id = "VNXTT3X5V5DHLG74QM73RK";
 
+                    (function () {
+                        var oldonload = window.onload;
+                        window.onload = function () {
+                            __adroll_loaded = true;
+                            var scr = document.createElement("script");
+                            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                            scr.setAttribute('async', 'true');
+                            scr.type = "text/javascript";
+                            scr.src = host + "/j/roundtrip.js";
+                            ((document.getElementsByTagName('head') || [null])[0] ||
+                                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                            if (oldonload) {
+                                oldonload()
+                            }
+                        };
+                    }());
+                </script>
+                
+                
 </body></html>
