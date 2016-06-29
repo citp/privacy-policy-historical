@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the textinchurch.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221005710id_/http%3A//textinchurch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textinchurch.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629074907id_/http%3A//textinchurch.com/privacy-policy) for the most accurate reproduction.*
 
-# Church Management System | Our Family| Text In Church
+# Privacy Policy - Text In Church | Church Text Messaging & Automation
 
 Last updated: November 04, 2014
 
-Text In Church LLC ("us", "we", or "our") operates the http://www.textinchurch.com website (the "Service").
+Text In Church LLC (“us”, “we”, or “our”) operates the http://www.textinchurch.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -14,15 +14,15 @@ We will not use or share your information with anyone except as described in thi
 
 **Information Collection And Use**
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address ("Personal Information").
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address (“Personal Information”).
 
 We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
 **Log Data**
 
-We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
 **Cookies**
 
@@ -36,9 +36,7 @@ If you do not accept cookies, you may not be able to use some features of our Se
 
 Text In Church LLC uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-  * **AdRoll**
-
-AdRoll remarketing service is provided by Semantic Sugar, Inc.
+  * **AdRoll** AdRoll remarketing service is provided by Semantic Sugar, Inc. 
 
 You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.
 
@@ -49,7 +47,7 @@ For more information on the privacy practices of AdRoll, please visit the [AdRol
 
 **Do Not Track Disclosure**
 
-We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
 You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
@@ -87,13 +85,13 @@ Your consent to this Privacy Policy followed by your submission of such informat
 
 **Links To Other Sites**
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-**Children's Privacy**
+**Children’s Privacy**
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers.
 
