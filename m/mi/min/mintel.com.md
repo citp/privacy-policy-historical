@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224944id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629220025id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Mintel Group Ltd | Mintel.com
-
-[](http://www.mintel.com/ "Mintel Logo")
 
 **Introduction**  
 This policy covers Mintel Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
@@ -30,9 +28,18 @@ For a more thorough discussion of how cookies are used on Mintel sites, includin
 
 As an authorised user of an organisation subscribing to Mintel’s services we may use your personal information and the other information we collect to ensure you have access to all of the services you are entitled to, communicate with you about our services, offer you assistance and to help you comply with our terms of use.
 
-Some Mintel sites use the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type into the site. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel does not track your browsing habits across web sites that do not use ClickTale analytics. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx).
+The Inspectlet service records user sessions for play back so that we can assess user journeys on our site. This includes mouse movements and clicks on our pages alongside some identifying information about our visitors, their location and website activity.
 
-We are using the information collected by ClickTale service to further improve the usability of our web sites. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+“If You reside outside the United States, You understand that Your Personal Information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in Your country”.  
+Inspectlet sets the following cookies: __insp_norec_sess; __insp_targlpt ; __insp_targlpu; __insp_ref; __insp_nv; __insp_wid; __insp_slim
+
+NB: By default we do not allow Inspectlet to record personal information inputted into our forms. 
+
+To read more details about the Inspectlet service, how we protect your information and how to opt out of participation please see:
+
+1\. [Inspectlet Privacy policy](https://www.inspectlet.com/legal#privacy "Inspectlet privacy policy")  
+2\. [Inspectlet Managing Personal data](https://www.inspectlet.com/docs#handling_sensitive_data "Inspectlet privacy policy")  
+3\. [Inspectlet Opt-out.](https://www.inspectlet.com/optout "Inspectlet privacy policy")
 
 We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.
 
