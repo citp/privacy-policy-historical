@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kixify.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127005827id_/http%3A//www.kixify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kixify.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190828id_/http%3A//www.kixify.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kixify Marketplace
 
