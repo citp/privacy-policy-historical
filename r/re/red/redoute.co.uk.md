@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502200529id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629122622id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# La Redoute, French Style Made Easy: | La Redoute
+# | La Redoute
 
   
 
 
 ##  Introduction
 
-The La Redoute brand is an international retail brand based in France. Merchandise is offered for sale in the UK (including Northern Ireland), Channel Isles, Isle of Man and BFPO Germany by Redcats (Brands) Limited which is part of the Redcats Group. La Redoute is a trading name of Redcats (Brands) Limited. Redcats (Brands) Limited also currently trades as Castaluna and looks to launch new brands to expand the range of products available to customers. This information should help you to understand relevant parts of this Policy including those relating to sharing of your details, e.g. for marketing purposes.
+The La Redoute brand is an international retail brand based in France. Merchandise is offered for sale in the UK (including Northern Ireland), Channel Isles, Isle of Man and BFPO Germany by LRUK (Retail) Limited which is part of the La Redoute Group. La Redoute is a trading name of LRUK (Retail) Limited. LRUK (Retail) Limited may look to launch new brands to expand the range of products available to customers. This information should help you to understand relevant parts of this Policy including those relating to sharing of your details, e.g. for marketing purposes.
 
-Where we use the words “we” or “us” in this Policy we are referring to Redcats (Brands) Limited.
+Where we use the words “we” or “us” in this Policy we are referring to LRUK (Retail) Limited.
 
   * Your confidentiality and privacy
   * Information we might need from you
@@ -49,13 +49,13 @@ We may also use the information you provide to perform a credit search. Before p
 
  
 
-If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies which were formerly members of Redcats Group and were sister companies of Redcats (Brands) Limited, e.g. Vertbaudet and Daxon.
+If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies which were formerly members of La Redoute Group and were sister companies of LRUK (Retail) Limited, e.g. Vertbaudet and Daxon.
 
   If we enter into a credit agreement with you, we will supply details of that agreement to the credit reference agencies as well as ongoing details of your account and how you manage it. If you do not repay on time or in full we will tell the credit reference agencies who will record details of the debt. All of that information will be seen by other organisations carrying out later searches and may be used by them to make decisions about whether or not to lend to you or those individuals who are financially linked or associated with you. The information may also be used for debt tracing and the prevention of money laundering.
 
   We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this.
 
-  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 0844 842 2222. Our lines are open from 8am-9pm, Monday to Friday and Saturday 8am to 5:30pm. Calls cost 5p per minute plus a connection charge from BT landlines of less than 6p. Mobile/other providers’ charges may vary.
+  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 033 0303 0199. Our lines are open from 8am-9pm, Monday to Friday and Saturday 8am to 5:30pm.
 
 _  
 Marketing_
@@ -64,16 +64,16 @@ We will send you our seasonal catalogue whilst you have an active account with u
 
   We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed “How to unsubscribe from marketing”.
 
-  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute or as other brands we operate, e.g. Daxon.
-  * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other La Redoute Group members.
-  * We may share your details with other members of the La Redoute Group and those members may contact you by mail, telephone, email or any other reasonable method.
-  * We may share your detail with our former sister companies, Vertbaudet and Daxon.
+  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute or as other brands we operate from time to time.
+  * We may share your details with other members of La Redoute Group...
+  * We may share your details with our former sister companies, Vertbaudet and Daxon.
+  * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so.
 
 
 
 **How to unsubscribe from marketing**
 
-  If you decide at any time that you do not wish to be contacted for marketing purposes by La Redoute or you decide that you do not wish La Redoute to share information for marketing purposes with other brands we operate from time to time, with other members of the La Redoute Group , with Vertbaudet and Daxon, you can unsubscribe easily by following the instructions below.
+  You can unsubscribe easily by following the instructions below.
 
   **Marketing from La Redoute, our other brands or other La Redoute Group members**
 
@@ -88,7 +88,7 @@ You will also have the opportunity to unsubscribe via each marketing email sent 
 
   Note: If you unsubscribe from mail from a brand, you may no longer receive a catalogue from that brand, e.g. unsubscribing from mail from La Redoute may mean you no longer receive a La Redoute catalogue.
 
-  **Marketing from Vertbaudet or Daxon**
+  **Marketing from carefully selected third parties**
 
   Please write to us, telephone our Customer Care Team or email us with “no third party marketing” as the subject heading and your name and customer reference number in the message box. Please state as follows:- 
 
@@ -106,7 +106,7 @@ To provide you with specially tailored information from our website and to track
 
 This information helps us to improve the overall level of service we provide to you. Most web browsers automatically accept cookies. You do not have to accept cookies and can set up your web browser to automatically notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. Please remember that, if you disable cookies, this will affect our ability to deliver a service through our website that is more tailored to you.
 
-You can obtain further information about cookies from [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note, however, that those sites are operated by third parties and are not owned or operated by Redcats Group and the Redcats Group has no control over content.  
+You can obtain further information about cookies from [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note, however, that those sites are operated by third parties and are not owned or operated by La Redoute Group and the La Redoute Group has no control over content.  
  
 
 ##  How we keep this information secure
@@ -135,4 +135,4 @@ We are required by the Data Protection Act 1998 to follow strict security proced
 
         **Changes to our privacy policy**
 
-  We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on June 2014.
+  We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on October 2015.
