@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ewg.org privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201080441id_/http%3A//www.ewg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewg.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629143832id_/http%3A//www.ewg.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EWG
 
-Updated May 2015.  This policy updates and overrides any preexisting policies found on any EWG web properties.
+Updated March 2016.  This policy updates and overrides any preexisting policies found on any EWG web properties.
 
-The Environmental Working Group will automatically add you to our database of supporters when you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign. If you do not wish to be on this list, you may unsubscribe at any time, and we will make that option easily and readily available. **EWG will never sell your e-mail address or other contact information.**
+The Environmental Working Group will automatically add you to our database of supporters when you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign or promotion. If you do not wish to be on this list, you may unsubscribe at any time, and we will make that option easily and readily available. **EWG will never sell your e-mail address or other contact information.**
 
 ##  Information Collected
 
@@ -26,7 +26,7 @@ Individuals can use Google’s Ads Settings to opt-out of Google Analytics for D
 
 ####  SUBSCRIBER INFORMATION AND “CONTACT US” FORMS
 
-Information submitted by users via the “Contact Us” page listed next to the mailing address at the bottom of our website comes to EWG in the form of an email. EWG will store your email address in its database of supporters if: (1) you elect to receive our email updates when you use our web-based form to contact us, or (2) if you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign. EWG does not collect any information other than what the supporter provides on our forms. If you would like to review your personal information collected, make corrections, and/or request that your information not be shared with third parties, please contact us at (202) 667-6982. Requests are usually processed within several working days. 
+Information submitted by users via the “Contact Us” page listed next to the mailing address at the bottom of our website comes to EWG in the form of an email. EWG will store your email address in its database of supporters if: (1) you elect to receive our email updates when you use our web-based form to contact us, or (2) if you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign or promotion. EWG does not collect any information other than what the supporter provides on our forms. If you would like to review your personal information collected, make corrections, and/or request that your information not be shared with third parties, please contact us at (202) 667-6982. Requests are usually processed within several working days. 
 
 ####  DOES EWG COLLECT INFORMATION FROM CHILDREN? 
 
