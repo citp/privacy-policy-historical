@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gci.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218141531id_/https%3A//www.gci.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gci.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629103419id_/https%3A//www.gci.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grace Communion International
 
