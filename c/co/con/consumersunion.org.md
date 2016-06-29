@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215114053id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629023146id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
 
 # Advocacy Privacy Policy | Consumers Union
 
@@ -16,7 +16,7 @@ This Privacy Policy describes the types of information we collect about you, how
 
 ### 1\. SCOPE
 
-This Consumers Union Privacy Policy applies to information provided or collected in connection with CU’s consumer advocacy programs and campaigns, resource tools, and their associated websites that link to this Privacy Policy, which web sites include the ConsumersUnion.org web site, Consumers Union advocacy campaign web sites and CU’s Health Care Value Hub web site (each, a “Site” and collectively, the “Sites”).
+This Consumers Union Privacy Policy applies to information provided or collected in connection with CU’s consumer advocacy programs and campaigns, resource tools, and their associated websites that link to this Privacy Policy, which web sites include the ConsumersUnion.org web site, Consumers Union advocacy campaign web sites and CU’s Healthcare Value Hub web site (each, a “Site” and collectively, the “Sites”).
 
 A separate privacy policy applies to the Consumer Reports family of print, wireless and online information products and services, and is available on the ConsumerReports.org web site.
 
@@ -108,7 +108,7 @@ This Privacy Policy does not cover the practices of third parties, including tho
 
 Consumers Union believes in providing you with the ability to access and edit the personal information that you have provided to us in your profile. To update your information you have provided if you took action on one of our advocacy campaigns through our ConsumersUnion.org website, follow the links at the bottom of our newsletter, or access your profile and update your contact information and user preferences by following the instructions [here.](https://secure.consumersunion.org/site/ConsProfileUser)
 
-To update your contact information used with the Health Care Value Hub Site, you can send an email request to hubinfo at cu.consumer.org.
+To update your contact information used with the Healthcare Value Hub Site, you can send an email request to hubinfo at cu.consumer.org.
 
 ### 8\. CHOICE/OPT OUT
 
@@ -187,7 +187,7 @@ If you have any questions or concerns about the Consumers Union Privacy Policy o
 
 If you feel that we have not followed our Consumers Union Privacy Policy please let us know by sending an email to actions@cu.consumer.org or calling us at 512-477-4431. Additionally, you may contact your state or local consumer protection office, the Better Business Bureau, or The Federal Trade Commission by phone at (202) 326-2222 and online at www.ftc.gov.
 
-If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20151215114053id_/http%3A//consumersunion.org/about/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20%3Ca%20href=) to review the Consumer Reports privacy policy.
+If you are a subscriber to Consumer Reports or any of our other publications, [click here](http://consumersunion.org/about/advocacy-privacy-policy) to review the Consumer Reports privacy policy.
 
 ### 13\. CHANGES TO THIS PRIVACY POLICY
 
