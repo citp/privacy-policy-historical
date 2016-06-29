@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228145749id_/http%3A//www.barneys.com/aboutbarneys%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629082526id_/http%3A//www.barneys.com/aboutbarneys%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Protecting your online order information on Barneys.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL. 
 
-Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9.00am - 9.00pm, and Saturday - Sunday 11:30am - 8.00pm, ET. 
+Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9 AM - 9 PM, and Saturday - Sunday, 10:30 AM - 7 PM, ET. 
 
 ###### Privacy Policy
 
@@ -44,6 +44,6 @@ The Children's Online Privacy Protection Act imposes certain requirements on web
 
 Registering with Barneys.com will make your online shopping faster and easier. We can store your shipping addresses and billing information so that you don’t have to enter them each time you shop. You will also be able to save your shopping basket, check your order status, and review your order history. Your registered information will be securely stored with us, and you can add, delete, or change your registered information at any time using your password.
 
-###### e-mails
+###### E-MAILS
 
 We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. 
