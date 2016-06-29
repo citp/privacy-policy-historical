@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instacamsites.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114135244id_/http%3A//instacamsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacamsites.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630013229id_/http%3A//instacamsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # InstaCamSites Privacy Policy
 
