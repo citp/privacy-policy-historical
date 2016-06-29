@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the users.livejournal.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629234600id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the users.livejournal.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629071537id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
@@ -6,22 +6,10 @@ LiveJournal Inc. takes your privacy seriously. We are committed to making best e
 
 **Safe Harbor Principles:** LiveJournal is a social media platform that hosts user-generated content. LiveJournal does not control, condone, endorse, or assume responsibility for any of the content posted by our users. LiveJournal complies with the <http://www.export.gov/safeharbor/> U.S. Department of Commerce’s Safe Harbor Program, and is committed to resolving complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact LiveJournal at:
 
-  * Live Journal, Inc.
-  * 580 Market Street, Suite 500
-  * San Francisco, CA 94104
-  * Attn: Safe Harbor Compliance Unit
-
-
-
-**Council of Better Business Bureaus, Inc.:** LiveJournal is further committed to referring any unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveJournal, you may contact:
-
-  * Council of Better Business Bureaus, Inc.
-  * BBB EU Safe Harbor
-  * 4200 Wilson Boulevard, Suite 800
-  * Arlington, VA 22203
-  * Phone:  703-276-0100
-  * Web: [http://www.bbb.org/us/](https://web.archive.org/web/20120629234600id_/http%3A//www.livejournal.com/legal/www.us.bbb.org)
-  * Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+  * LiveJournal, Inc.
+  * 430 Main Street
+  * San Francisco
+  * CA 94105
 
 
 
@@ -57,7 +45,7 @@ You must be at least 13 years of age to use the Service. Users who are found to 
 
 ## Information You Share
 
-**LiveJournal:** Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.
+**LiveJournal:** Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy and/or applicable law, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.
 
 **No Resale of Identifiable Personal Information:** We will not share or resell your identifiable personal information to third parties for direct marketing purposes. LiveJournal may display relevant ads based on non-identifiable personal information, such as browser type, region detected on the basis of information located in the Network field of the Internet Address, and your use of, and interaction with, any part of the Service.
 
@@ -104,4 +92,4 @@ You must be at least 13 years of age to use the Service. Users who are found to 
 
 If you have a question about this policy or have an outstanding issue regarding privacy on LiveJournal, you can submit a customer support request at <http://www.livejournal.com/support/submit.bml>. If you have a pressing issue that requires prompt assistance, please email us directly at [privacy@livejournal.com](mailto:privacy@livejournal.com). Please note that we will respond as quickly as possible, but it may take a few days for us to respond to your request.
 
-_Effective Date: December 12, 2010_
+_Effective Date: December 16, 2014_
