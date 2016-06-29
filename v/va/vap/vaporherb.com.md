@@ -1,41 +1,17 @@
-> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917040826id_/http%3A//www.vaporherb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Vaporizer Vaporizers Medical Marijuana Vaporizer Pen Phantom Vaporizer Cannabis Vaperizer
+# Legal
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+* * *
 
-VaporHerb.com
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Our Commitment To Your Privacy
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Your privacy is important to us. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
-What Information Is Collected:
 
-As part of the order process, the following information is collected from shoppers:
-
-Name Shipping/Billing Address Email address Phone number Credit/Debit Card Information
-
-How That Information Is Used:
-
-VaporHerb.com the information we collect is used to fill orders, to contact buyers if they have questions, or to send email with special offers.
-
-Our Commitment To The Security of Your Data
-
-Your data will not be sold to anyone for any purpose. That is our commitment to you.
-
-Contact Us
-
-vaporherb@yahoo.com
-
-Seller holds the right to withdraw an item or product without notice. Terms & Conditions and Shipping Information
-
-Please read the following Terms & Conditions before purchasing or entering this site.
-
-Anyone accessing the site for any reason must comply with and/or agree to the following:
-
-\- You must be at least 18 years old and have the legal rights, to possess the material displayed, in your community. - You must be fully aware of the laws in your community and solely responsible for any actions. - VaporHerb.com and all parties involved with this website in NO WAY accept responsibility for the use of products advertised on this website. - This site is for an ADULT Audience Only. - I certify I am over 18 or 21, , and wish to view smoking accessories, smoking products, tobacco products, herbs, aromatherapy, spice, potpourri, x-rated porn video such as movies containing sex, sexually explicit magazines and toys. - I warrant that it is legal to view such content in my locale and country. - I will not permit any minor, or any person who would find this personally offensive, to view this material. - I hold that free people have the right to decide for themselves what they will read and view without interference from any governmental organization. - I certify that I am not a city, county, state or official federal law enforcement officer, foreign official, or inspector for the U.S. Postal Service, ordering merchandise as evidence for the prosecution of or harassment of any individual or organization. - All actors performing in the x-rated films for sale on this web site are 18 years of age or older. - All products advertised on this website are not intended for illegal use. Certain products advertised herein may not be legal in all states that this website is available in. We hereby ask all visitors to this website to check their States laws before ordering certain products advertised on this website. GARAVA does not want to induce anyone to act in conflict with his or her States laws. - All orders are subject to acceptance. The management reserves the right to withhold and/or cancel any order at any time, without notice or reason. - We reserve the right to use alternative methods to contact you regarding order confirmation. Please provide proper telephone number where business is based. -Shipping cost is estimated -Signature is required with add $2.50 to the total unless with business license -End users need to fax or E-mail ID card -California sales tax and California and Arizona tobacco tax will be add to the total -Customers are responsible for all local and state tobacco and sales taxes
-
-BUYING TERMS
-
-\- VaporHerb.com is located in California, USA and will follow the regulations of the USA about the law. In some states it is forbidden to import, stock and supply some products. It is necessary for you to be aware of your own states laws and regulations. - We cannot be held responsible for the misuse of these products. - All of the products and accessories are for tobacco use only. Any use of these products other than their intended use makes the user solely responsible, at their own risk, cost and other consequences. - We expressly point out that all those who purchase our products are responsible for their actions in the future. - This site and our products are not intended for persons under 18 years old. Sales to minors are forbidden. - Keep all products out of reach of children - If you have any questions or concerns, please feel free to contact us at VaporHerb@yahoo.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
