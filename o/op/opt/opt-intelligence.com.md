@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703003343id_/http%3A//www.opt-intelligence.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629095422id_/http%3A//opt-intelligence.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Opt-Intelligence
 
@@ -20,7 +20,7 @@ The Services allow you, as a visitor or a registrant on a Publisher Client’s d
 
 When you visit or register on the digital property of a Publisher Client, the Publisher Client may transfer, subject to its own privacy policy, your personal information and certain non-personal information to Opt-Intelligence. Additionally, if you select an Offer, we may invite you to provide more information by typing directly into a form provided in the offer unit.
 
-By selecting an Advertiser Client’s Offer, you authorize Opt-Intelligence to pass any information we have about you, including your personal information, to that Advertiser Client. If you do not opt in to any Offers presented, your personal information transferred to Opt-Intelligence, if any, will be deleted from the Opt-Intelligence servers in accordance with our then current policies and procedures with no further action by you. We strongly encourage you to review the privacy policies of each applicable Advertiser Client before selecting Offers. Opt-Intelligence does not control the use of your personal information by Advertiser Clients.
+By selecting/opting-in an Advertiser Client’s Offer, you authorize Opt-Intelligence to pass the information that you have submitted as part of that opt-in process, including your personal information, to that Advertiser Client. If you do not opt in to any Offers presented, your information transferred to Opt-Intelligence, if any, will be deleted from the Opt-Intelligence servers in accordance with our then current policies and procedures with no further action by you. We strongly encourage you to review the privacy policies of each applicable Advertiser Client before selecting Offers. Opt-Intelligence does not control the use of your personal information by Advertiser Clients.
 
 From time to time, as you opt in to certain Offers via an offer placement or offer page, Opt-Intelligence may request additional personal information from you so that you may participate in optional surveys, contests or other promotional programs. You may choose to provide the additional information to Opt-Intelligence. The additional information may be shared with third parties.
 
@@ -45,6 +45,10 @@ When an Advertiser Client chooses to target its Offer based on the location of i
 ## Opt-Intelligence Collects and Uses Non-Personal, Traffic or Click-Stream Data and Pixel Tags
 
 Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information by Opt-Intelligence. Opt-Intelligence may share the non-personal, traffic or click-stream information it collects with certain third parties, but only in anonymous form. For example, we may tell an Advertiser Client that a certain number of people viewed its offer. Opt-Intelligence collects non-personal information about the Publisher Client’s digital property from which you were presented an offer placement or offer page and may share that information with both Advertiser Clients and Publisher Clients. In addition, Opt-Intelligence uses non-personal, traffic or click-stream information to better design and market the Services and to better target Offers to users of digital properties. Opt-Intelligence uses pixel tags (also called clear gifs) to note some of the Advertiser Client websites you visit in relation to the Offers you select. The information collected by Opt-Intelligence through the use of these pixel tags is not personally identifiable.
+
+## Cookies
+
+We may employ both first-party and third-party cookies. Cookies are bits of information that are placed by a website in a storage place on your computer. If you do not want cookies, your Web browser likely includes an option that allows you to not accept and/or to delete them.
 
 ## Security of Data Stored by Opt-Intelligence
 
