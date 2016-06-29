@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027065038id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629153118id_/http%3A//www.portlandmercury.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Portland Mercury
+# Privacy Policy - Portland Mercury
 
 When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase merchandise, a classified ad or sign up for a Portland Mercury Personals membership, we may also ask for your payment information (processed through industry leader VeriSign), your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information. 
 
