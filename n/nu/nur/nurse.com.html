@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206030659id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629225647id_/http%3A//www.nurse.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -19,7 +19,7 @@
 		<meta name="keywords" content="privacy policy nurse.com, privacy practice, nursing jobs, nurse continuing education, nurse jobs, nurse ces, nurse careers, nursing employment, nursing careers, nurse ceu, nursing website, website for nurses, nursing news, nursing articles, nursing spectrum home page, nurseweek homepage, nurse.com - the magazine">
 	
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script language="javascript">
 //function adds mouseover events to form buttons
 function addButtonEvents(){
 return true;
@@ -98,10 +98,16 @@ return true;
 
     
 
-<link rel="Stylesheet" href="//www.nurse.com/areas/jobs/Content/Jobs/Styles/TypeAhead.css" type="text/css">
-<link rel="Stylesheet" href="//www.nurse.com/css/main.css" type="text/css">
-<link rel="Stylesheet" href="//www.nurse.com/css/header.css" type="text/css">
-<link rel="Stylesheet" href="//www.nurse.com/css/footer.css" type="text/css">
+   <!-- Site-wide stylesheets -->
+    <link type="text/css" rel="stylesheet" href="/css/main.css" media="screen" id="main-stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/header.css" media="screen" id="header-stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/footer.css" media="screen" id="footer-stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/login-style.css" media="screen">
+
+    <!--stylesheets for login--->
+    <link type="text/css" rel="stylesheet" href="/css/jquery-ui.css" media="screen" id="header-stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/sso.css" media="screen" id="footer-stylesheet">
+
 <!--<link rel="Stylesheet" href='//www.nurse.com/css/login-style.css' type="text/css" />-->
 <!--[if IE 9]>
      <link type="text/css" rel="stylesheet" href="//www.nurse.com/css/ie9fix.css" media="screen" />
@@ -139,7 +145,8 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
         document.cookie.indexOf("fbComplete=") == -1 &&
         document.location.pathname.toLowerCase().substring(0, 9) != '/facebook' &&
         document.location.pathname.toLowerCase().substring(0, 7) != '/signin' &&
-        document.location.pathname.toLowerCase().substring(0, 14) != '/finduser.html') {
+        document.location.pathname.toLowerCase().substring(0, 14) != '/finduser.html' && 
+        document.location.pathname.toLowerCase().substring(0, 13) != '/socialsignup') {
 
         var uid = response.authResponse.userID;
         var accessToken = response.authResponse.accessToken;
@@ -211,7 +218,25 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
         ref.parentNode.insertBefore(js, ref);
     } (document));
 </script>
+  
+      <!-- Facebook Pixel Code -->
+    <script type="text/javascript">
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
 
+        fbq('init', '440069159523561');
+        fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=440069159523561&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
 
     
   
@@ -228,7 +253,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
   <div id="container-login">
     <!-- Login Starts Here -->
       <div id="loginContainer">
-          <span id="uniheader-main-membership-buttons"><a href="https://www.nurse.com/signup/" id="registerButton"><span>REGISTER</span></a><a href="https://www.nurse.com/signup/" id="loginButton"><span>SIGN IN</span><em></em></a></span>
+          <span id="uniheader-main-membership-buttons"><a href="https://www.nurse.com/signup/?noPop=1" id="registerButton"><span>REGISTER</span></a><a href="https://www.nurse.com/signup/" class="sso-login-btn" id="loginButton"><span>SIGN IN</span><em></em></a></span>
           <span id="uniheader-main-facebook-profile-picture"></span>
           <div class="user-hello" id="user-hello">
               <fb:login-button data-show-faces="false" data-size="large" data-scope="email,user_birthday,user_about_me,user_location,user_activities,user_education_history,user_interests,user_work_history" data-max-rows="1" data-auto-logout-link="false"></fb:login-button>
@@ -310,7 +335,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
             <img src="//www.nurse.com/images/buttons/top-bar-terminator-right.png" width="2" height="51">
           </div>
 
-            <span id="uniheader-mini-membership-buttons"><a id="uniheader-signup" class="social-icon-top ic-signup" href="https://www.nurse.com/signup/"></a><a id="uniheader-signin" class="social-icon-top ic-signin"></a></span>
+            <span id="uniheader-mini-membership-buttons"><a id="uniheader-signup" class="social-icon-top ic-signup" href="https://www.nurse.com/signup?noPop=1"><div class="ic-account-text">REGISTER</div></a><a id="uniheader-signin" class="social-icon-top ic-signin sso-login-btn"><div class="ic-account-text">SIGN IN</div></a></span>
             <span class="social-icon-top fb-img-miniheader" id="uniheader-mini-facebook-profile-picture" style="display:none;"></span>
 
 
@@ -468,12 +493,10 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
 
 	<div id="navi">
         <div class="top-bannerad">
-	        <script type="text/javascript">
-	           <!--
-	            OAS_AD('728x90_1');
-	           //-->
-	        </script>
-        </div>
+          
+         
+          
+          </div>
 
         <div class="search-container">
 
@@ -752,12 +775,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
         </li>
         <li>
           <a href="http://www.gannetthg.com/careers/">Work for us</a>
-        </li>
-        <li>
-          <a href="http://www.nurse.com/news/writersGuide.html">
-            Write for us
-          </a>
-        </li>
+        </li> 
         <li>
           <a href="http://www.nurse.com/contact/">
             FAQ
@@ -911,7 +929,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
           </a>
         </li>
         <li>
-          <a href="http://news.nurse.com/category/awards/gem-awards/">GEM Awards</a>
+          <a href="http://gem.nurse.com">GEM Awards</a>
         </li>        
       </ul>
 
@@ -936,7 +954,7 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
 
       <div class="copyright">
         
-          © 2015 OnCourse Learning Corporation
+          © 2016 OnCourse Learning Corporation
         </div>
 
     </div>
@@ -998,6 +1016,10 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
   <script type="text/javascript" src="//www.nurse.com/js/jquery-scroller-v1.src.js"></script>
 	<script type="text/javascript" src="//www.nurse.com/js/general.js"></script>
 
+	
+	
+
+
 
 	<script>
 		var loggedIn = 0;
@@ -1018,94 +1040,33 @@ if(location.href.toLowerCase().indexOf('noredirect=1')!=-1){var exdate=new Date(
 		
 		if (loggedIn) {
 			
-			document.getElementById('uniheader-main-membership-buttons').innerHTML='<a href="https://www.nurse.com/logout.html" id="registerButton"><span>LOG OUT</span></a><a href="https://www.nurse.com/profiles/edit/" id="theAccountButton"><span>PROfile</span><em></em></a>';
+			document.getElementById('uniheader-main-membership-buttons').innerHTML = '<a href="https://www.nurse.com/SAML/SAMLSignout.aspx" id="registerButton"><span>LOG OUT</span></a><a href="https://ce.nurse.com/unlimitedce/UCEMembership.aspx" id="theAccountButton"><span>ACCOUNT</span><em></em></a>'; 
 			
-			document.getElementById('uniheader-mini-membership-buttons').innerHTML='<a id="uniheader-logout" class="social-icon-top ic-logout" href="https://www.nurse.com/logout.html"></a><a id="uniheader-account" class="social-icon-top ic-account" href="https://www.nurse.com/profiles/edit/"></a>';
+			document.getElementById('uniheader-mini-membership-buttons').innerHTML = '<a id="uniheader-logout" class="social-icon-top ic-logout" href="https://www.nurse.com/SAML/SAMLSignout.aspx"><div class="ic-account-text">LOG OUT</div></a><a id="uniheader-account" class="social-icon-top ic-account" href="https://ce.nurse.com/unlimitedce/UCEMembership.aspx"><div class="ic-account-text">ACCOUNT</div></a>';
 		}
 		else {
+			 
+			document.getElementById('uniheader-main-membership-buttons').innerHTML = '<a href="https://www.nurse.com/signup/?noPop=1" id="registerButton"><span>REGISTER</span></a><a href="https://www.nurse.com/signup/" class="sso-login-btn" id="loginButton"><span>SIGN IN</span><em></em></a>'; 
 			
-			document.getElementById('uniheader-main-membership-buttons').innerHTML='<a href="https://www.nurse.com/signup/" id="registerButton"><span>REGISTER</span></a><a href="https://www.nurse.com/signup/" id="loginButton"><span>SIGN IN</span><em></em></a>'; 
-			
-			document.getElementById('uniheader-mini-membership-buttons').innerHTML='<a id="uniheader-signup" class="social-icon-top ic-signup" href="https://www.nurse.com/signup/"></a><a id="uniheader-signin" class="social-icon-top ic-signin" id="headerLoginButton"></a>';
+			document.getElementById('uniheader-mini-membership-buttons').innerHTML = '<a id="uniheader-signup" class="social-icon-top ic-signup" href="https://www.nurse.com/signup?noPop=1"><div class="ic-account-text">REGISTER</div></a><a id="uniheader-signin" class="social-icon-top ic-signin sso-login-btn" id="headerLoginButton" ><div class="ic-account-text">SIGN IN</div></a>';
 		}
-    
 		
 	</script>
 
-<!-- Begin SiteCatalyst include -->
+	
+	
+	
+	<script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script> 
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.9.2.min.js" type="text/javascript"></script>
+    <script src="/js/jquery.placeholder-enhanced.min.js" type="text/javascript"></script>
+    <script src="/js/jquery.colorbox.js" type="text/javascript"></script>
+    <script src="/Scripts/nurseUtil.js" type="text/javascript"></script>
+    <script src="/Scripts/SSO/SSO.js" type="text/javascript"></script>
+	
+	
 
-<script language="javascript" type="text/javascript" src="http://content.gannettonline.com/global/scripts/revsci.js"></script>
-<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J06575" charset="ISO-8859-1"></script>
-<script type="text/javascript" language="JavaScript">
-<!--
-s_account="gpaper153,gntbcstglobal";
-//-->
-</script>
-
-
-
-<!-- SiteCatalyst code version: H.20.3.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="https://www.todayinpt.com/scripts/siteCatalystH-20-3.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=document.title;
-s.server="http://www.nurse.com";  
-s.channel="";
-s.pageType="Nurse.Com";
-//s.pageValue="";
-s.prop1="news.nurse.com";
-s.prop2="/privacy/index.html";
-s.prop3="";
-s.prop4="";
-s.prop5="";
-s.prop6="news";
-s.prop7="health";
-s.prop23=document.location;
-s.prop25="nurse:nurse.com";
-s.prop50="Newspaper";
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="https://102.112.2O7.net/b/ss/gpaper153/1/H.20.3--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
-
-<!-- End SiteCatalyst include --> 
-	<script language="JavaScript" type="text/JavaScript">
-		function PPCcheck() {
-			var iimg = '<img src="http://app.vericlix.com/iframe-production.asp?refinfo=' + escape(document.URL) + '&dref=' + escape(document.referrer) + '" border=0 width=1 height=1>';
-			document.writeln(iimg);
-			}
-			var myString=document.URL;
-			x=(myString.indexOf("vcn"));
-			y=(myString.indexOf("vcad"));
-			if (x != '-1' || y != '-1') {
-			PPCcheck();
-		}
-	</script>
-	<noscript>
-		<a href="http://www.vericlix.com"><img src="http://app.vericlix.com/images/vct.gif?cid=1570" border="0"></a>
-	</noscript>
 
 
 <!-- Google Code for Main -->
