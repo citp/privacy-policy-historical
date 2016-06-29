@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701055757id_/https%3A//www.msdsonline.com/files/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629122402id_/https%3A//www.msdsonline.com/files/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -136,5 +136,5 @@ Acknowledgement
 YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND CONSENT TO THE
 PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND AGREE TO BE BOUND BY
 THE TERMS OF USE REFERENCED HEREIN.
-Last updated July 27, 2011, MSDSonline Inc., All rights reserved.
+Last updated December 2, 2015, MSDSonline Inc., All rights reserved.
 MSDSonline Inc.                              3                        Website Privacy Policy
