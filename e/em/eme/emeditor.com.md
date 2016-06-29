@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113559id_/https%3A//www.emeditor.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630000640id_/https%3A//www.emeditor.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EmEditor (text editor)
+# Privacy Policy – EmEditor (Text Editor)
 
 ## Emurasoft Privacy Policy Notice
 
