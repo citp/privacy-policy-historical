@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222163448id_/http%3A//www.uua.org/directory/data/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183705id_/http%3A//www.uua.org/directory/data/privacy-security-policy) for the most accurate reproduction.*
 
 # UUA Privacy and Data Security Policy | UUA.org
+
+Main Content
+
+## Participation on UUA.org
+
+If you create an account on UUA.org, we store information about you in the UUA.org website database. This section addresses what is stored and who has access. 
+
+  * We store the username, email address, and name of people who create accounts. 
+  * We also store all comments posted on UUA.org pages, posts and comments in UUA.org discussion forums, and direct messages sent to other UUA.org users.
+  *  The public can see comments on pages and discussion forum posts and comments unless they are posted in a private section of the site. UUA staff members responsible for maintaining the UUA.org website software can also see all comments and posts in private sections and direct messages sent via UUA.org.
+  * The UUA.org website database, which contains comments, discussion posts, and direct messages sent on the website as well as all other website comment, is stored on a professionally managed web server.
+  * The UUA may occasionally share the names and email addresses of UUA.org accountholders as described in points 6 and 7 below.
+
+
+
+## The UUA's Constituent Database
 
 This policy addresses the collection, use, and safeguarding of data about individuals in the Unitarian Universalist Association's (UUA's) electronic database. It's of particular interest to members, leaders, and staff of Unitarian Universalist (UU) congregations, as well as to employees and contractors working for the UUA or a District.
 
