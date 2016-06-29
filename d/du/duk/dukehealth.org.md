@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919173239id_/https%3A//www.dukemedicine.org/patients-and-visitors/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629180312id_/https%3A//www.dukehealth.org/patients-and-visitors/notice-of-privacy-practices) for the most accurate reproduction.*
 
-# Notice of privacy practices | Duke Medicine
+# Notice of privacy practices | Duke Health
 
 The following categories describe different ways that we may use and disclose health information. For each category of uses or disclosures, we will explain what we mean and try to give some examples. Not every use or disclosure in a category will be listed. However, all of the ways we are permitted to use and disclose information will fall within at least one of the categories.
 
