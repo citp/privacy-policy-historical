@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801063232id_/http%3A//www.carlist.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629205526id_/http%3A//www.carlist.my/privacy) for the most accurate reproduction.*
 
-# Policy Privacy - Carlist.my
+# Privacy policy - Carlist.my
+
+* * *
 
 Welcome to The iCar Asia Network
 
 We – iCar Asia Network respect the privacy of visitors to our all websites which can be found on our company website – [www.iCarAsia.com](http://www.icarasia.com/) and the iCar Asia vehicle search engine wherever distributed on the internet (the ‘ **iCar Asia Network** ’). Please read this Privacy Statement carefully so that you understand what information we collect through our website and what we do with that information.
 
-This Privacy Policy forms part of the User Agreement that can be found for using Carlist.my (‘ **the Site** ’) at [Terms of Service](http://www.carlist.my/tos). By using and visiting the Site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter.
+This Privacy Policy forms part of the User Agreement that can be found for using Carlist.my (‘ **the Site** ’) at [Terms of Service](http://www.carlist.my/terms-and-conditions-of-use). By using and visiting the Site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter.
 
 About the iCar Asia Network
 
@@ -27,7 +29,7 @@ Words defined in the Site’s Terms and Conditions of Use have the same meaning 
 
 Personal Data Protection
 
-Protection of personal data of iCar Asia’s Users matters and iCar Asia has a well-defined policy. Please refer to iCar Asia’s personal data protection notice located at [Personal Data Protection Notice](http://www.carlist.my/tos) which forms part of this Agreement, to understand how iCar Asia uses and protects the personal data of its Users.
+Protection of personal data of iCar Asia’s Users matters and iCar Asia has a well-defined policy. Please refer to iCar Asia’s personal data protection notice located at [Personal Data Protection Notice](http://www.carlist.my/personal-data-protection-notice) which forms part of this Agreement, to understand how iCar Asia uses and protects the personal data of its Users.
 
 The Information we gather
 
@@ -172,7 +174,7 @@ Individuals and/or organisations to which we may disclose personal information i
   * the public if you advertise with Carlist or use publicly available Communications Services
   * Individuals and organisations that advertise with Carlist if you submit an enquiry with Carlist. If you do not want Carlist to disclose your personal information to these individuals and organisations, please do not submit enquires. 
 
-Depending on your enquiry these may include: 
+Depending on your enquiry these may include:
 
     * private advertisers
     * licensed car dealers
@@ -228,5 +230,13 @@ The Site uses its best endeavours to store all Personal Information on servers w
 Contact Information
 
 If you have any questions or comments regarding this Privacy Policy, please contact us. Our details are as follows.
+
+**Tel :** 1300-30-4227
+
+**Fax :** 603-2776-6010
+
+**Email :** [enquiries@carlist.my](mailto:enquiries@carlist.my)
+
+[Send your feedback](http://www.carlist.my/help#contact)
 
 Version 2 (July 2013)
