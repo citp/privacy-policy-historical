@@ -1,118 +1,143 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011152009id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629045306id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Terms and Conditions : PBS
+# Privacy Policy | PBS About
 
-PBS is committed to protecting the private information of our web site visitors.  From the pbs.org homepage to more than 150,000 pages of content produced by our affiliates, the "pbs.org" domain remains a safe haven.  The PBS.org web site adheres to a strict policy for ensuring the privacy of personally identifiable information and preserving the integrity of this online medium.  Here we explain the type of information collected from PBS.org, how that information may be used, how you can access or modify that information, and how that information is protected.   
+**Effective Date: November 12, 2015 (Update)**
 
-**I.   WHICH SITES ARE COVERED BY THIS POLICY?**  
-This Privacy Policy applies to PBS.org (“Site”).  Please note that our Site may contain links to sponsor organizations and PBS Member Stations.  We are not responsible for the privacy practices of those web sites.  We encourage you to review the privacy policy of any organization before submitting your personal information to them.
+As a not-for-profit institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS’s [mission](http://www.pbs.org/about/corporate-information/mission/).
 
-**II.   WHAT INFORMATION DO WE GATHER?**  
-PBS collects two types of information from visitors to the Site:  (A) Personally Identifiable Information, and (B) Non-personally Identifiable Information (information such as IP Addresses and cookies, which allow for a better use of the Site). Uses of this information are discussed in Section III.
+This Privacy Policy describes how we use, share, and protect information that we collect from you online through pbs.org and any other non-commercial websites or online services that PBS operates and that link to this Privacy Policy (collectively, the “Services”).  This Privacy Policy applies only to the Services. Please read it carefully. 
 
-**A.   Personally Identifiable Information**  
-PBS will not collect personally identifiable information from you, other than what you supply to us on a voluntary basis upon request.  Personally identifiable information includes, but is not limited to, name, address, e-mail address, telephone number, and credit card information.
+ ** _Collection of Information_**
 
-_Registration for our website_ : ** **  
-Our Site may at times require a free registration, which enables full access to the information and resources offered on our Site.  A unique email address must be supplied to register.
+You may be prompted to provide some or all of the following types of information in order to register, access various content or features, submit photos and other content, directly contact us with questions or feedback, or access other features of the Services:
 
-_Paid Products and Services_ :  
-While the majority of our Site is free, we may charge fees for select products and services.  To enable the purchase of these and other products, we collect your telephone number, e-mail address, billing address and credit card information.
+  * Contact information, such as name or e-mail address;
 
-_Support of Member Stations and other public broadcasting entities_ :  
-On certain pages within the Site, PBS may offer visitors the opportunity to make a donation in support of public broadcasting entities, programs and series, or to order products, subscriptions or other services offered by PBS Member Stations.  If a visitor chooses to make a donation or order such other products or services, PBS will collect and store your telephone number, e-mail address, billing address and credit card information. 
+  * User name and password;
 
-_Forums, Feedback and Content Submissions_ : _             _  
-On some pages of the Site, you can submit content to be published, make community postings, comments, suggestions, and vote.  We may collect name, address, and e-mail addresses in connection with these activities.
+  * Geolocation information;
 
-_Your submission of others’ Personally Identifiable Information_ :  
-On some pages of the Site, you can submit information about other people.  For example, you may submit a person’s name and email address to send an article.  Additionally, you may purchase a gift online and submit the person’s name, address and telephone number for delivery.  This information will only be used for the stated purpose.
+  * Other demographic information, such as city, state, and zip code;
 
-_Contests, Sweepstakes and Special Offers_ :  
-On occasion, we may collect personal information from users in connection with optional (i.e., you opt-in to participate in these offers) sweepstakes, contests or special offers.  Such information will be used as indicated at the time of collection.
+  * Communications preferences;
 
-_Listservs and E-mail Newsletters:_  
-On occasion, we may collect personal information from users in connection with optional (i.e. you opt-in to subscribe to these services) listservs and e-mail newsletters. Such information will be used as indicated at the time of collection.
+  * Search queries;
 
-**B.**    **Non-personally Identifiable Information**  
-In addition to information that you provide to us, we may also collect and store certain non-personally identifiable information automatically when using the Site.  This information helps us improve the experience you and other visitors have with the Site.
+  * Comments and other information posted through interactive online features; and
 
-For example, we may collect your IP address, browser information and reference site domain, as well as related information such as the date on which you visit the Site.   This information does not identify you personally and is only used in the aggregate.  
-
-As is common practice among web sites, we use “cookies” and similar technologies.  Cookies are text files which store your preferences.  No personal information is ever stored in a PBS cookie, even if you have entered your name or email address on other parts of the Site. 
-
-You can generally prevent cookies from being used by changing the settings in your web browser, but please be aware that by doing so you may be unable to fully utilize the Site. 
-
-**III.   HOW DO WE USE INFORMATION GATHERED ON THE SITE?**  
-Except as expressly set forth in our policies, we will not willfully disclose your personally identifiable information to any third party without first receiving your permission.  We will never sell, rent, or swap your personally identifiable information with non-affiliated third parties for their own purposes.
-
-In terms of our own use of information, we may use your personally identifiable information for the activities described in the previous sections, and for internal purposes and marketing, promotional and fundraising purposes in support of public broadcasting. 
-
-We will typically explain the extent of use at the time you are asked to provide personal information.  If you do not want this information to be collected or used by us for these purposes, you can simply “opt out.”  Under certain circumstances, opting out may prevent your participation in activities for which personal information is needed, as in contests.
-
-In certain cases, we contract with other companies to provide services on our behalf. These service providers may maintain customer databases which may hold Site users’ e-mail addresses, including:
-
-  * viewers, listeners and members;
-  * Site visitors who have provided them to PBS by registering at our Site or signing up for a newsletter or listserv;
-  * audience members who e-mail questions about membership or programs;
-  * donors who submit online contributions; or
-  * online buyers who make a purchase.
+  * Correspondence you send to us.
 
 
 
-We (which includes our service providers) will use these addresses to respond to the general purposes for which we collected the information, to provide services and to operate the Site, including to respond to inquiries, to process credit card payments and billing, shipping, e-mail distribution, list processing and analysis, promotions management, to send information about PBS programs, Site, services, membership or to correspond about a purchase or product offers. For example, shoppbs.org uses a third party fulfillment agent to manage orders, credit card processing, order fulfillment and shipping, and related tasks.   
 
-Our service providers have access to your personally identifiable information as necessary to provide certain services on our behalf. They are required to maintain the privacy of all such information in their possession or control and can only use the information on our behalf for the purpose that we have contracted them, for example processing your order or sending you a series newsletter. They are not authorized to use your information for any other purpose. 
+We also may collect certain information automatically when you use the Services, including:
 
-Similarly, personally identifiable information provided in connection with a donation intended for a program, series or Member Station, or for purposes of ordering products, subscriptions or other services offered by the PBS Member Stations, will be shared by PBS or by such PBS Member Stations with third parties who perform services to process the donation or the applicable order. Also, in transmitting your donation or order to the local Member Station PBS may share your personally identifiable information with the Member Station for order or donation processing. 
+  * Your browser type and operating system;
 
-  At times, we make customer mailing lists available to carefully screened companies whose products or services might interest individuals who have shopped on the Site.  **If you prefer that we not share your information in this way, please[contact us](https://web.archive.org/about/contact/).**
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area (e.g., your zip code);
 
-We, or our service providers, may release personal identification information if we believe in good faith that the law or legal process requires it, we have received a valid administrative request from a law enforcement agency, or such release is necessary to protect anyone’s rights, property or safety.
+  * Sites you visited before and after visiting the Services;
 
-On certain pages, we offer visitors the opportunity to provide comments or other user-generated content on blogs and articles.  Any information that you disclose when posting a message to these areas, along with the screen name or ID used, becomes public.  In addition, the information that you disclose in these areas may be used by us for promotional and marketing purposes.  We are not responsible for any personally identifiable information that you choose to disclose in these public areas. 
+  * Pages you view and links you click on within the Services;
 
-**We reserve the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit card problems, other transactional e-mails and notifications about major changes to our Site. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.**
+  * Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law;
 
-**We offer several e-mail newsletters and listservs. If you no longer wish to receive a specific newsletter, you may opt out by following the "unsubscribe" instructions located near the bottom of each newsletter.**
+  * Information collected through cookies, web beacons, and other technologies;
 
-We use non-personally identifiable information, such as IP addresses or demographic information (zip codes for example) to tailor our Site to the interests/locations of our users and to measure traffic within our Site. 
+  * Information about your interactions with video content, such as the type of content viewed, and information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
 
-PBS uses the content from the cookies to deliver relevant local resources, remember browser preferences, and improve our visitors’ experiences on the Site.  PBS does not sell information collected by cookies nor use the information for commerce-related purposes.  In addition, PBS will not filter content based on your preferences without permission. 
-
-PBS uses cookies at the following times:
-
-  * A cookie may automatically localize pbs.org to the PBS station nearest you.  You can choose to have your computer remember a different station or no station at all at any time.
-  * If you watch a video clip or listen to an audio clip on pbs.org, a cookie may remember which media player and type of clip you prefer to use on your computer.  You can change your video and audio preferences at any time, or choose a player each time you view of listen to a clip. 
-  * A cookie will tell us which pages you visit and the amount of time between each page visit.  The cookie does not remember any information about you or your computer; it just helps us at PBS monitor Site usage and traffic; for example, it allows us to measure the number of repeat visitors to pbs.org in a given month. This data is only used in the aggregate.
+  * Standard server log information.
 
 
 
-Additionally, cookies may be used on pay sites to (1) identify the terms of any special offers you may have obtained, such as price discount or free trial period AND/OR (2) automatically sign you in so that you do not have to enter a username and password each time you visit.
 
-**IV.   HOW CAN I ACCESS OR CORRECT INFORMATION?**  
-Access to personally identifiable information that is collected from our Site may be accessible for a limited period of time from the point of collection, such as where a user provides an e-mail address in order to receive an e-mail newsletter or a reminder about an upcoming program or event. In other cases, personally identifiable information may be maintained, edited and deleted at the user’s discretion at any time after the information has been submitted to PBS.  For example, if you created a password-protected account within our Site, you may be able to access that account to review the information you provided and make corrections and updates as necessary.   However this feature is not available throughout our Site where the user is not asked to create an account.  Therefore, if at any time, you prefer not to receive e-mail from a service that you subscribed to without creating a personal account, simply get out by following the unsubscribe options at the bottom of each e-mail.
+We may collect information about you from third-party sources.  For example, we may receive information about you from third-party social media services when you choose to interact or connect with them through the Services.
 
-**_You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information.   For verification purposes please include your first name, last name, e-mail address and the password you use for said service._**
+Additionally, if you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, these third-party services may be able to collect information about you, including information about your activity on the Services, and they may notify your connections on the third-party services about your use of the Services, in accordance with their own privacy policies.
 
-**_PBS.org_**  
- ** _2100 Crystal Drive_**  
- ** _Arlington, VA 22202_**  
- ** _Email us by completing our  feedback form_**  
- **www.pbs.org**
+ ** _Public Areas_**
 
-**V.   HOW IS MY INFORMATION PROTECTED?**  
-PBS is committed to ensuring the security of the data provided to us by Site users.  To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to protect the information we collect online.
+Some of the Services may allow you to enter text and information in open fields, such as comment sections and message boards. If you choose to participate in these public areas of the Services, please be aware that any information submitted through these areas can be read, collected, or used by other users. Please use caution in disclosing personal information in these areas. Although we may, in some instances, moderate public forums to keep their content appropriate for the forum’s intended audience, we are not responsible for the information you submit in these open forums and public areas or for other users’ actions with respect to that information.
 
-**VI.   DO YOU HAVE ADDITIONAL CHILDREN’S GUIDELINES?**  
-PBS.org is a general audience Site and does not knowingly collect or store personally identifiable information about children under the age of 13. 
+ ** _Use of Information_**
 
-Any of our sites that are directed to children under the age of 13 ( _e.g._ , PBSKids site) comply with COPPA (Children’s Online Privacy Protection Act) standards, which are in addition to PBS.org policies.  For complete guidelines on children’s information collection, please visit the PBS KIDS PRIVACY POLICY. 
+We generally use the information that we collect about you to:
 
-**VII.   ACCEPTANCE OF PBS.ORG PRIVACY POLICY TERMS AND CONDITIONS**  
-By using this Site, you signify your agreement to the terms and condition of this pbs.org Privacy Policy. If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes.  Your continued use of pbs.org following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please [contact us](https://web.archive.org/about/contact/).
+  * Fulfill your requests for services and information;
 
-**VIII.  TERMS OF USE**  
-Please also make sure to read pbs.org’s TERMS OF USE to understand the additional terms and conditions which apply to your use of our Site. 
+  * Enable you to participate in interactive features, such as comment boxes and forums;
 
-The Privacy Policy posted on this Site was updated on or about May 11, 2009.
+  * Display content, sponsor information, and information about other PBS products and services that you may be interested in;
+
+  * Customize the content displayed when you use the Services;
+
+  * Analyze use of the Services to understand and improve our service offerings, such as determining which pages are most popular, which browsers are most used, how long users spend on the Services, and which websites they come from;
+
+  * Otherwise support the internal operations of the Services;
+
+  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](http://www.pbs.org/about/terms-conditions/website-terms-use/); and
+
+  * For any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
+
+
+
+
+We may aggregate your information with information about other users so that it no longer identifies and cannot reasonably be used to identify an individual person.
+
+ ** _Disclosure of Information_**
+
+We may share information that is collected from you in the following circumstances:
+
+  *  _PBS Member Stations_.  In some circumstances, our Services are designed to support PBS’s member stations and we may share information we collect from you with your local station(s). For example, if you use our Services to make a donation to a member station, or to sign up for services that are offered by a member station, we may share your information with that station.  We also may share your information with your local station(s) so that they can contact you (including by e-mail and mailings) with information about products and services that might interest you.
+
+  *  _Authorized third-party service providers_.  We may share information with our third-party service providers to help us fulfill requests and perform various functions necessary to fully provide and improve the Services, including usage analytics, data processing, e-mail marketing, and account management. 
+
+  *  _Business transfers_. We may share information in connection with a substantial business transaction, such as the sale of the Services, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+
+  *  _Legal purposes_. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, property, safety, and security of PBS, our member stations, users, or the public. 
+
+  *  _With your consent_. We otherwise may share your information with your consent.
+
+
+
+
+We may share aggregated or anonymized information with third parties, including to help us develop content and services that we hope you will find of interest or to help these third parties develop their own products and service offerings.
+
+ ** _Use of Cookies, Web Beacons, and Other Technologies_**
+
+We may use cookies, web beacons, local shared objects, and other similar technologies to collect information about your use of the Services.  Cookies are small bits of information that are stored by a computer’s web browser.  Web beacons are very small images or small pieces of data embedded in images, also known as "pixel tags," “GIFs,” or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from a computer or device.  Local shared objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. 
+
+We use these technologies, for example, to help us recognize your browser as a previous user and save and remember any preferences that may have been set; to help us customize the content shown while you use the Services; to provide you with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers; and to help measure and research the effectiveness of our Services, interactive online content, features, and other communications.
+
+We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services.  These third parties may collect information about a user’s online activities over time and across sites and services to, for example, help us with traffic measurement, research, and analytics and serve you more relevant advertising.
+
+You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable some technologies including local shared objects.  For example, local shared objects may be controlled through the instructions on Adobe’s Setting Manager page.  If you choose to refuse, disable, or delete these technologies, some of the functionality of our Services may no longer be available to you.  
+
+Some web browsers may transmit "do-not-track" signals to websites the user visits, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted.  Consequently, we currently do not take action in response to these signals.
+
+ **By using the Services, you consent to our use of cookies and similar technologies.**
+
+ ** _Protection of Information_**
+
+We have adopted reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure.  We want you to feel confident using the Services but we cannot ensure or warrant the security of any information you transmit to us.
+
+ ** _Third-Party Services, Content, and External Links_**
+
+You may access third-party content through the Services and navigate to third-party sites and services from links on the Services.  Whether the third-party content appears within our Services (such as in an embedded video player), or you leave our Services to view the content on another website, the third party is in control of and independently produces, maintains, and monitors the content and third-party sites.  When you watch third-party content that is made available through the Services or navigate to such third-party sites, you become subject to the third party’s terms of use and privacy policies. You should review the privacy policies of these third-party sites for their policies and practices regarding the collection and use of your information as their policies may differ from ours.  We do not accept any responsibility or liability for the privacy practices of third parties.
+
+ ** _California Residents_**
+
+Residents of the State of California may request a list of all third parties to whom we have disclosed certain information during the preceding year for the third parties' direct marketing purposes.  If you are a California resident and want such a list, please send an e-mail to the address listed below.  For all requests, you must put the statement "Your California Privacy Rights" in the subject matter of your request and include the name of the website or online service with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code.
+
+ ** _International Users_**
+
+Information collected through the Services may be stored and processed in the United States or any other country in which we or our service providers maintain facilities.  We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.  By using the Services and providing us with information directly or indirectly, you consent to the transfer of information to the U.S. or to any other country in which our service providers maintain facilities for processing by us in accordance with this Privacy Policy. 
+
+ ** _Changes To This Privacy Policy_**
+
+We may revise this Privacy Policy, for example, to reflect changes in the law, our practices, or the features of the Services.  These changes will be effective immediately upon posting.  As a result, you should periodically review the Privacy Policy so that you are up to date on our most current policies and practices.  By using the Services, you agree to the terms and conditions of this Privacy Policy, and, by continuing to use the Services after changes have been made, you agree to the changes.   
+
+ ** _Still Have Questions?_**
+
+If you have any questions or concerns regarding this policy, please contact us at [audienceservices@pbs.org](mailto:audienceservices@pbs.org).
