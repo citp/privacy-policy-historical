@@ -1,53 +1,17 @@
-> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101026id_/http%3A//www.aandesigners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-  
+* * *
 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-AAN Designers is committed to protecting your privacy, which is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. You can tour through most of our site without giving us any information that personally identifies you, reveals personal information or allows us to contact you, but sometimes we do need information to respond to your requests. This privacy statement explains the data we collect from you and its use. Please read the complete privacy statement.
-
-Please note that by visiting and using **www.aandesigners.com** , you are accepting the practices described in this Privacy Policy.
-
-##### What Information is AAN Designers gathering about its visitors and how is it being used?
-
-Every computer connected to the Internet is provided with a domain name (e.g. yahoo.com) and an IP Address (e.g. 156.162.13.113). When a visitor requests a page from within the **www.aandesigners.com** website, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you. In fact, very little information is automatically gathered and logged. This information may include: 
-
-  1. The IP address of the site that may have referred you to **www.aandesigners.com**
-  2. Your IP address 
-  3. Operating system that you may be using (e.g. Windows 98) 
-  4. Version and Make of Browser (e.g. Internet Explorer 5.0) 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-There is nothing special about the information described, and the practice of collecting this data has been generally standardized by virtually every Web Server on the Internet today.
-
-There are two major purposes for this information. _AAN Designers_ has found it advantageous to observe visitor traffic in its aggregate, so that we can ensure maximum compatibility for the various Browsers and Operating Systems that visit our site. Also,generating greater amounts of visitor traffic, as any business should attest, is very desirable. By analyzing visitation patterns, and referring URLs, we can strategically increase our exposure on the Internet.
-
-##### What about Cookies?
-
-Cookies are files holding small pieces of data that are transferred to your computer's hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The _AAN Designers_ website may utilizes cookies as a means of providing personalization features to our visitors. For example, we may utilize cookies to remember settings (site theme colors, music preferences, what services may interest you, etc.) that you may have made at our website.
-
-You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser's help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept cookies, your experience at **www.aandesigners.com** and other websites may be diminished and some features may not work as intended.
-
-##### What other information does **www.aandesigners.com** request?
-
-We may also request your e-mail address, name, company, position, location, web address, services you may be interested in and your comments for the purposes of conducting a survey, or by your request to have someone contact you for additional information. We maintain a strict "No Spam" policy that means we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.  
-In addition, _AAN Designers_ will not send you e-mail that you have not agreed to receive. If you wish to have specific communications with a member of the _AAN Designers_ staff, you will be required to provide specific information that will be routed to the appropriate contact within _AAN Designers_.
-
-##### Will _AAN Designers_ disclose the information collected to Third Parties?
-
-_AAN Designers_ will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to 1.) conform to the edicts of the law or comply with a legal process served on _AAN Designers_ 2.) Protect and defend the rights or property of _AAN Designers_ , or visitors of **www.aandesigners.com**. 3.) Identify persons who may be violating the law, the legal notice, or the rights of third parties. 4.) Cooperate with the investigations of purported unlawful activities.
-
- _AAN Designers_ may disclose information to its partners to better expedite the service(s) you may request from _AAN Designers_ (e.g. If you provide information in our comments section of our form that explains what type of voice over talent you would need for a presentation then we may allow our audio production partner review that information). _AAN Designers_ uses reasonable precautions to keep the information disclosed to us secure. We are not responsible for any breach of security or for any actions of any third parties that receive the information. _AAN Designers_ also provides 'links' to a wide variety of other web sites on the Internet. We are not responsible for their Privacy Policies or how those web sites manage information about their users. We strongly recommend you to check with those web sites to determine their privacy policy. This privacy statement applies solely to information collected on **www.aandesigners.com**.
-
-##### Children's Data
-
-While no part of the **www.aandesigners.com** Web site is targeted towards children, we are committed to comply with any applicable laws and/or requirements. No information from anyone, including children is transferred to third parties. While no child should be making a submission to **www.aandesigners.com** , if any are discovered the information will be deleted immediately.
-
-Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it.
-
-This is not a contract.   
-Copyright © 2005 AAN Designers. All rights reserved.
-
-Revision: Jul 1, 2005 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
