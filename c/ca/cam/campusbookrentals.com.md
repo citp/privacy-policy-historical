@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920191008id_/http%3A//www.campusbookrentals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629160017id_/http%3A//www.campusbookrentals.com/privacy) for the most accurate reproduction.*
 
 # Rent a Text Book | Textbook Privacy Policy | Campus Book Rentals
 
