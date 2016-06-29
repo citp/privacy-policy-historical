@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shivtr.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030180054id_/http%3A//shivtr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shivtr.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629073109id_/http%3A//shivtr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Shivtr
 
@@ -29,6 +29,10 @@ Certain visitors to Shivtr’s websites choose to interact with Shivtr in ways t
 
 Shivtr may collect statistics about the behavior of visitors to its websites. For instance, Shivtr may monitor the most popular sites on Shivtr.com or use spam screened by the Akismet service to help identify spam. Shivtr may display this information publicly or provide it to others. However, Shivtr does not disclose personally-identifying information other than as described below.
 
+### Google Analytics
+
+Shivtr uses a tool called “Google Analytics” to collect information such as how often users visit this site, what pages they visit and when they do so, and what other sites they used prior to coming to this site. We use the information from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). If you do not want to participate in Google Analytics, you may also download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
+
 ### Protection of Certain Personally-Identifying Information
 
 Shivtr discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Shivtr’s behalf or to provide services available at Shivtr’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Shivtr’s websites, you consent to the transfer of such information to them. Shivtr will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Shivtr discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Shivtr believes in good faith that disclosure is reasonably necessary to protect the property or rights of Shivtr, third parties or the public at large. If you are a registered user of a Shivtr website and have supplied your email address, Shivtr may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Shivtr and our products. We primarily use our product blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Shivtr takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
@@ -53,6 +57,7 @@ Although most changes are likely to be minor, Shivtr may change its Privacy Poli
 
 #### Change log
 
+  * Feb 5, 2016: Added the "Google Analytics" section
   * November 5, 2013: Privacy Policy updated to be clearer.
   * June 24, 2011: Company renamed from “MMO Guildsites” to “Shivtr”.
 
