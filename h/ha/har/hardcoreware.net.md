@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216182226id_/http%3A//www.hardcoreware.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154730id_/http%3A//www.hardcoreware.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,8 @@ We also use cookies to allow users browsers to remember their settings when choo
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 [Google Adsense](http://www.google.com/privacy_ads.html) \- [Opt Out](http://www.google.com/ads/preferences/)  
-[Kontera](http://kontera.com/about/privacy-policy) \- [Opt Out](http://www.kontera.com/ad-choices)  
-[Exponential](http://exponential.com/en-gb/our-company/privacy/) \- [Opt Out](http://exponential.com/success/)
+Kontera \- [Opt Out](http://www.kontera.com/ad-choices)  
+[Exponential](http://exponential.com/en-gb/our-company/privacy/) \- Opt Out
 
 You can opt out of several interest based advertisers at once using [this site](http://www.aboutads.info/) or [this one](http://www.networkadvertising.org/choices/).
 
