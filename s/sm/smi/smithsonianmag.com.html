@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smithsonianmag.com privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227193532id_/http%3A//www.smithsonianmag.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smithsonianmag.com privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629101802id_/http%3A//www.smithsonianmag.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
     
@@ -109,6 +109,9 @@
   //  STATIC_URL
   window.$smith = window.$smith ? window.$smith : {};
   window.$smith.STATIC_URL = 'http://static.media.smithsonianmag.com/';
+  
+  window.$smith.LOGO_URL = 'http://static.media.smithsonianmag.com/img/logo.svg';
+  
 </script>
 
 
@@ -129,10 +132,18 @@
     <script>
     googletag.cmd.push(function () {
         googletag.defineOutOfPageSlot(GPT.path, 'div-gpt-ad-chuckweasley-outofpage')
-            .addService(googletag.pubads())
             .setTargeting('pos', 'top')
-            .setTargeting('slug', GPT.slug)
+            .setTargeting('site', GPT.SITE)
             .setTargeting('cat', GPT.cats)
+            .setTargeting('tag', GPT.tag)
+            .setTargeting('type', GPT.type)
+            .setTargeting('special', GPT.specials)
+            .setTargeting('slug', GPT.slug)
+            .setTargeting('contenttype', GPT.contenttype)
+            .setTargeting('contest', GPT.contest)
+            .setTargeting('camera', GPT.camera)
+            .setTargeting('awards', GPT.awards)
+            .addService(googletag.pubads());
             //googletag.enableServices();
     })
     </script>
@@ -150,12 +161,6 @@
 
 <!-- Font Awesome -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-
-<!-- START OF Chartbeat -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<!-- END OF Chartbeat -->
-
 
 <!-- BEGIN Quantcast Tag -->
 <script type="text/javascript">
@@ -192,8 +197,6 @@ function tagLinkEvent (name) {
 dataLayer.push({'event': name});
 }
 </script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6LKQZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -203,14 +206,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
     
-<script type="text/javascript" async="" src="http://s.dpmsrv.com/dpm_16b06bd9b738835e2d134fe8d596e9ab0086a985.min.js"></script></head>
-<body class=" flat-page">
+<script type="text/javascript">MVTESTS = {"tests": {}, "tracking_url": "/track-event/"};</script><script type="text/javascript" src="http://static.media.smithsonianmag.com/js/ab_testing/ABalytics.js"></script><script type="text/javascript" src="http://static.media.smithsonianmag.com/js/ab_testing/runVariates.js"></script><script type="text/javascript" async="" src="http://s.dpmsrv.com/dpm_16b06bd9b738835e2d134fe8d596e9ab0086a985.min.js"></script></head>
+                    
+                    
+                    
+<body class="wwwsmithsonianmagcom flat-page">
 
 
 
 <a name="top"></a>
 
-<nav class="jump-nav" role="list">
+<nav class="jump-nav">
     <h2>Accessibility Navigation</h2>
     <a href="#Primary-Navigation">Primary Navigation</a>
     <a href="#Page-Content">Content</a>
@@ -218,16 +224,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="header-wrapper wrapper">
     <header class="site-header">
-        <a class="toggle" href="#left"><i class="icon icon-large icon-reorder"> </i></a>
-        <a class="share" href="#share"><i class="icon icon-large icon-share"> </i></a>
+        <a class="toggle" href="#left"><i class="icon icon-large icon-reorder"><span class="outofsight">Toggle</span></i></a>
+        <a class="share" href="#share"><i class="icon icon-large icon-share"><span class="outofsight">Share</span></i></a>
         <!--===== MOBILE SEARCH =====-->
-        <i class="fa fa-search mobile-search-icon"></i>
-        <i class="fa fa-times mobile-search-close"></i>
+        <i class="fa fa-search mobile-search-icon"><span class="outofsight">Search</span></i>
+        <i class="fa fa-times mobile-search-close"><span class="outofsight">Search Close</span></i>
         <div id="mobile-search">
             <form method="GET" action="." data-suggest-url="/search/suggest/" class="search-form with-suggest">
                 
-                    <input class="tt-hint" type="text" autocomplete="off" spellcheck="off" disabled="" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255);">
-                    <input placeholder="Search" id="id_q" name="q" type="text" class="tt-query" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;">
+                    <label for="id_q"><span class="outofsight">Search</span>
+                        <input placeholder="Search" id="id_q" name="q" type="text" class="tt-query" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;">
+                    </label>
                     
                     
                     
@@ -237,11 +244,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--===== END MOBILE SEARCH =====-->
 
         <!-- Used for mobile navigation -->
-        <a href="/" class="logo"></a>
+        <a href="/" class="logo"><span class="outofsight">Smithsonian</span></a>
         
-        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=mobile-header-subscribe&amp;ipromo=|perm|sub|text|text|mobile-header||red|button" class="magazine-mobile-subscribe">
-            <button type="submit" class="btn btn-primary magazine-mobile-signup-form-subscribe-button">Subscribe</button>
-        </a>
+            <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=mobile-header&amp;ipromo=|perm|sub||mobile-header||red|button|auto-default" class="magazine-mobile-subscribe">
+                <div class="btn btn-primary magazine-mobile-signup-form-subscribe-button">Subscribe</div>
+            </a>
         
 
         <div class="aux-nav">
@@ -249,52 +256,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
 <nav class="social-nav">
     <a href="https://www.facebook.com/smithsonianmagazine" rel="facebook">
-        <i class="icon icon-large icon-facebook" title="Facebook"> </i>
+        <i class="icon icon-large icon-facebook" title="Facebook"><span class="outofsight">Facebook</span></i>
     </a>
     <a href="http://instagram.com/smithsonianmagazine" rel="instagram">
-        <i class="fa fa-instagram" title="Instagram"> </i>
+        <i class="fa fa-instagram" title="Instagram"><span class="outofsight">Instagram</span></i>
     </a>
     <a href="http://www.pinterest.com/smithsonianmag/" rel="pinterest">
-        <i class="fa fa-pinterest" title="Pinterest"> </i>
+        <i class="fa fa-pinterest" title="Pinterest"><span class="outofsight">Pinterest</span></i>
     </a>
     <a href="https://twitter.com/#!/SmithsonianMag" rel="twitter">
-        <i class="icon icon-large icon-twitter" title="Twitter"> </i>
+        <i class="icon icon-large icon-twitter" title="Twitter"><span class="outofsight">Twitter</span></i>
     </a>
     <a href="https://plus.google.com/116602523162239426012?prsrc=3" rel="googleplus">
-        <i class="icon icon-large icon-google-plus" title="Google+"> </i>
+        <i class="icon icon-large icon-google-plus" title="Google+"><span class="outofsight">Google+</span></i>
     </a>
     <a href="/newsletters/subscribe/" rel="newsletter">
-        <i class="fa fa-envelope" title="newsletter"></i>
+        <i class="fa fa-envelope" title="newsletter"><span class="outofsight">Newsletter</span></i>
     </a>
 </nav>
 
 
             <form method="get" action="/search/" id="Search-Box" class="search-box">
                 <fieldset>
+                    <legend class="outofsight">Search</legend>
                     <button type="submit">Search</button>
-                    <input placeholder="search" id="nav-search" class="tt-query">
-                    <a class="search-trigger" onclick="navSearchURL()">
-                        <i class="icon icon-large icon-search" title="Start a Search"> </i>
+                    <label for="nav-search"><span class="outofsight">Search</span></label>
+                        <input placeholder="search" id="nav-search" class="tt-query">
+                    <a class="search-trigger" href="javascript:;" onclick="navSearchURL()">
+                        <i class="icon icon-large icon-search" title="Start a Search"><span class="outofsight">Search</span></i>
                     </a>
                 </fieldset>
             </form>
 
-            <div class="nav-subscribe-box">
-                <div class="nav-subscribe-list">
-                    <div class="nav-subscribe-option">
-                        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=header-2&amp;ipromo=|perm|sub||header|m|red|80x105|auto-default" class="omz-header-right-subscribe">SUBSCRIBE</a>
-                    </div>
-                    <div class="nav-subscribe-option">
-                        <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=OrderPages/sm/sj/1103/renewal_pto.jsp&amp;MSRSMAG=SJ&amp;MSCCMPLX=RWALL&amp;inetz=header-2&amp;ipromo=|perm|ren||header|m|black|80x105|" class="omz-header-right-renew">RENEW</a>
-                    </div>
-                    <div class="nav-subscribe-option">
-                        <a href="https://subscribe.smithsonianmag.com/gift.php?idx=246&amp;inetz=header-2&amp;ipromo=|perm|gift||header|m|black|80x105|" class="omz-header-right-gift">GIVE A GIFT</a>
-                    </div>
-                </div>
-                <div class="nav-current-issue">
-                    <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=header-2&amp;ipromo=|perm|sub||header|m|cover|80x105|auto-default" class="omz-header-right-subscribe-image"><img src="http://thumbs.media.smithsonianmag.com//filer/76/5d/765d7fb3-b29d-4dfe-b580-a8cd8ac0c0ca/dec15coverminijpg.jpeg__192x256_q85.jpg" alt="December 2015 magazine cover" id="subscribe-dropdown-cover-art" class="cover" style="border-left: 1px solid #000; border-right: 1px solid #000;"></a>
-                </div>
-            </div>
+
+            
+<div class="nav-subscribe-box">
+    <div class="nav-subscribe-list">
+        <div class="nav-subscribe-option">
+            <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=header-2&amp;ipromo=|perm|sub||header|m|red|80x105|auto-default" class="omz-header-right-subscribe">SUBSCRIBE</a>
+        </div>
+        <div class="nav-subscribe-option">
+            <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=OrderPages/sm/sj/1103/renewal_pto.jsp&amp;MSRSMAG=SJ&amp;MSCCMPLX=RWALL&amp;inetz=header-redtext&amp;ipromo=|perm|ren|renew|header|m|red|280x32|" class="omz-header-right-renew">RENEW</a>
+        </div>
+        <div class="nav-subscribe-option">
+            <a href="https://subscribe.smithsonianmag.com/gift.php?idx=246&amp;inetz=header-redtext&amp;ipromo=|perm|gift|84-pct|header|m|red|280x32|" class="omz-header-right-gift">GIVE A GIFT</a>
+        </div>
+    </div>
+    <div class="nav-current-issue">
+        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=header-2&amp;ipromo=|perm|sub||header|m|cover|80x105|auto-default" class="omz-header-right-subscribe-image"><img src="http://thumbs.media.smithsonianmag.com//filer/67/cf/67cf5f7b-6478-4829-b339-193342fa2737/jun16_covermini.jpg__192x256_q85.jpg" alt="June 2016 magazine cover" id="subscribe-dropdown-cover-art" class="cover" style="border-left: 1px solid #000; border-right: 1px solid #000;"></a>
+    </div>
+</div>
+
+
 
         </div>
 
@@ -303,15 +316,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--===== MAIN NAV MENU =====-->
     <div class="nav-wrapper-bg">
         <div class="nav-wrapper">
-            <nav class="primary-nav nav" id="Primary-Navigation" role="navigation">
-                <span class="nav-btn-item subscribe-nav-link">
+            <nav class="primary-nav nav" id="Primary-Navigation">
+                <div class="nav-btn-item subscribe-nav-link">
                     <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=www-page-top-nav-L&amp;ipromo=|perm|sub||text||red||auto-default" class="nav-btn-item subscribe external-nav-link omz-sticky-subscribe" id="subscribe-trigger">Subscribe</a>
                     <div class="subscribe-menu">
                         
 
 <div class="current-issue">
     <h6 class="headline">Current Issue</h6>
-        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|sub||dropdown|m|cover|325x215|auto-default" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/76/5d/765d7fb3-b29d-4dfe-b580-a8cd8ac0c0ca/dec15coverminijpg.jpeg__192x256_q85.jpg" alt="December 2015 magazine cover" id="www-header-dropdown-art" class="cover"></a>
+        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|sub||dropdown|m|cover|325x215|auto-default" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/67/cf/67cf5f7b-6478-4829-b339-193342fa2737/jun16_covermini.jpg__192x256_q85.jpg" alt="June 2016 magazine cover" id="www-header-dropdown-art" class="cover"></a>
 </div>
 
 <section class="offer-options">
@@ -333,7 +346,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </section>
 
                     </div>
-                </span>
+                </div>
 
                 
 
@@ -343,13 +356,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/smart-news/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/smart-news/" class="nav-btn has-nav">
         SmartNews
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -359,71 +372,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/smartnews/history-archaeology/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smartnews/history-archaeology/" class="nav-btn">
         History
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smartnews/science/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smartnews/science/" class="nav-btn">
         Science
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smartnews/ideas-innovations/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smartnews/ideas-innovations/" class="nav-btn">
         Innovation
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smartnews/arts-culture/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/smartnews/arts-culture/" class="nav-btn">
         Arts &amp; Culture
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/smartnews/travel/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/smartnews/travel/" class="nav-btn">
         Travel
     </a>
 
     
-</span>
-
-<span class="nav-btn-item last">
-    <a href="/videos/smartnews/" class="nav-btn ">
-        Video
-    </a>
-
-    
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/smart-news/two-sparkling-meteor-showers-bookend-new-year-180957583/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/ab/f8/abf89699-e43e-4a20-a232-f4dce6cf973f/42-63788675.jpg__220x130_q85_crop_upscale.jpg" alt="Watch Two Meteor Showers Bookend the New Year" class="thumbnail">
+                <a href="/smart-news/cats-are-adorable-physicists-180959435/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/54/9a/549a0964-efb5-412f-95cf-2922cb489cf0/177630884_6131cd91b1_b.jpg__220x130_q85_crop_upscale.jpg" alt="Cats Are Adorable Physicists" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/smart-news/two-sparkling-meteor-showers-bookend-new-year-180957583/"><span class="featured">Featured:</span> Watch Two Meteor Showers Bookend the New Year</a>
+                    <a href="/smart-news/cats-are-adorable-physicists-180959435/"><span class="featured">Featured:</span> Cats Are Adorable Physicists</a>
                 </h6>
                 
                 
@@ -432,15 +435,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/history/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/history/" class="nav-btn has-nav">
         History
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -450,63 +453,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/history/archaeology/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/history/archaeology/" class="nav-btn">
         Archaeology
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/history/us-history/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/history/us-history/" class="nav-btn">
         U.S. History
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/history/world-history/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/history/world-history/" class="nav-btn">
         World History
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/category/history/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/videos/category/history/" class="nav-btn">
         Video
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/history/newsletter-history/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/history/newsletter-history/" class="nav-btn">
         Newsletter
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/arts-culture/lin-manuel-miranda-ingenuity-awards-180957234/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/8e/c0/8ec08eaf-9388-4e47-9a8d-e825c9296275/dec2015_i06_historylinmanuelmiranda-web-resize-v2.jpg__220x130_q85_crop_upscale.jpg" alt="The Genius Behind &quot;Hamilton&quot;" class="thumbnail">
+                <a href="/history/when-british-wanted-camouflage-their-warships-they-made-them-dazzle-180958657/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/74/85/74852b88-6ff2-42d0-9add-caff6075cb8c/hms_kildangan_iwm_q_043387.jpg__220x130_q85_crop_upscale.jpg" alt="Why Do These Ships Look Insane?" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/arts-culture/lin-manuel-miranda-ingenuity-awards-180957234/"><span class="featured">Featured:</span> The Genius Behind "Hamilton"</a>
+                    <a href="/history/when-british-wanted-camouflage-their-warships-they-made-them-dazzle-180958657/"><span class="featured">Featured:</span> Why Do These Ships Look Insane?</a>
                 </h6>
                 
                 
@@ -515,15 +516,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/science-nature/" class="nav-btn has-nav">
         Science
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -533,87 +534,85 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/science-nature/age-humans/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/age-humans/" class="nav-btn">
         Age of Humans
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/human-behavior/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/human-behavior/" class="nav-btn">
         Human Behavior
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/mind-body/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/mind-body/" class="nav-btn">
         Mind &amp; Body
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/our-planet/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/our-planet/" class="nav-btn">
         Our Planet
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/space/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/space/" class="nav-btn">
         Space
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/science-nature/wildlife/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/science-nature/wildlife/" class="nav-btn">
         Wildlife
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/category/science/" class="nav-btn ">
-        Video
+<div class="nav-btn-item last">
+    <a href="/science-nature/journey-to-the-center-of-earth/" class="nav-btn">
+        Journey to the Center of Earth
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/science-nature/newsletter-science/" class="nav-btn ">
-        Newsletter
+<div class="nav-btn-item last">
+    <a href="/science-nature/life-cosmos/" class="nav-btn">
+        Life in the Cosmos
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/science-nature/genetic-tweaks-are-revealing-dinosaur-traits-living-chickens-180957271/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/8a/b7/8ab7d423-4e80-4728-ac13-f5fefc3d0bd9/42-20490665.jpg__220x130_q85_crop_upscale.jpg" alt="Unlocking the Dino Traits in Chickens" class="thumbnail">
+                <a href="/science-nature/life-cosmos-special-report-1-180958759/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/0b/de/0bdee1e3-b6c7-4e6f-9225-b11abf27c22c/4864714198_a581043b00_b.jpg__220x130_q85_crop_upscale.jpg" alt="Life in the Cosmos" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/science-nature/genetic-tweaks-are-revealing-dinosaur-traits-living-chickens-180957271/"><span class="featured">Featured:</span> Unlocking the Dino Traits in Chickens</a>
+                    <a href="/science-nature/life-cosmos-special-report-1-180958759/"><span class="featured">Featured:</span> Life in the Cosmos</a>
                 </h6>
                 
                 
@@ -622,15 +621,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/innovation/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/innovation/" class="nav-btn has-nav">
         Innovation
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -640,87 +639,85 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/innovation/innovative-spirit/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/innovation/innovative-spirit/" class="nav-btn">
         The Innovative Spirit
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/innovation/education/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/innovation/education/" class="nav-btn">
         Education
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/innovation/energy/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/innovation/energy/" class="nav-btn">
         Energy
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/innovation/health-medicine/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/innovation/health-medicine/" class="nav-btn">
         Health &amp; Medicine
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/innovation/technology/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/innovation/technology/" class="nav-btn">
         Technology
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/videos/category/innovation/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/videos/category/innovation/" class="nav-btn">
         Video
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/innovation/future-is-here/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/innovation/future-is-here/" class="nav-btn">
         Future Is Here Festival
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/innovation/newsletter-innovation/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/innovation/newsletter-innovation/" class="nav-btn">
         Newsletter
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/innovation/boston-biotech-company-engineering-new-smells-180957404/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/33/99/3399a2c5-e822-4ff8-9040-29c20bf44987/ginkgo-organism-design-184277f1.jpg__220x130_q85_crop_upscale.jpg" alt="A Boston Biotech Company Is Engineering New Smells" class="thumbnail">
+                <a href="/innovation/hosting-event-dont-toss-leftover-food-donate-it-180958882/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/e6/44/e6441a68-8183-4ee1-9330-700214e777ca/leftover_food.jpg__220x130_q85_crop_subject_location-1791,2212_upscale.jpg" alt="Don't Toss Leftover Food, Donate It" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/innovation/boston-biotech-company-engineering-new-smells-180957404/"><span class="featured">Featured:</span> A Boston Biotech Company Is Engineering New Smells</a>
+                    <a href="/innovation/hosting-event-dont-toss-leftover-food-donate-it-180958882/"><span class="featured">Featured:</span> Don't Toss Leftover Food, Donate It</a>
                 </h6>
                 
                 
@@ -729,15 +726,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/arts-culture/" class="nav-btn has-nav">
         Arts &amp; Culture
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -747,79 +744,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/art/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/arts-culture/art/" class="nav-btn">
         Art
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/books/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/arts-culture/books/" class="nav-btn">
         Books
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/design/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/arts-culture/design/" class="nav-btn">
         Design
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/food/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/arts-culture/food/" class="nav-btn">
         Food
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/arts-culture/music-film/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/arts-culture/music-film/" class="nav-btn">
         Music &amp; Film
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/category/arts-culture/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/videos/category/arts-culture/" class="nav-btn">
         Video
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/arts-culture/newsletter-arts-culture/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/arts-culture/newsletter-arts-culture/" class="nav-btn">
         Newsletter
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/innovation/dec15_fea_performing-arts-hader-and-armisen-180957235/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/23/d8/23d80688-47d6-4069-a51a-11c878bf390c/dec2015_n01_docnowperformaingarts-web-resize.jpg__220x130_q85_crop_subject_location-546,219_upscale.jpg" alt="Bill Hader and Fred Armisen: American Geniuses" class="thumbnail">
+                <a href="/smithsonian-institution/every-three-years-artists-compete-on-view-national-portrait-gallery-winners-180958490/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/85/c0/85c0f7fa-28e5-4553-a7d5-684c454f6049/exhpc300rweb.jpg__220x130_q85_crop_subject_location-684,336_upscale.jpg" alt="Presenting the Winners of the Portrait Competition" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/innovation/dec15_fea_performing-arts-hader-and-armisen-180957235/"><span class="featured">Featured:</span> Bill Hader and Fred Armisen: American Geniuses</a>
+                    <a href="/smithsonian-institution/every-three-years-artists-compete-on-view-national-portrait-gallery-winners-180958490/"><span class="featured">Featured:</span> Presenting the Winners of the Portrait Competition</a>
                 </h6>
                 
                 
@@ -828,15 +823,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/travel/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/travel/" class="nav-btn has-nav">
         Travel
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -846,79 +841,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/travel/cultural-travel-austria/" class="nav-btn ">
-        Cultural Travel: Austria
-    </a>
-
-    
-</span>
-
-<span class="nav-btn-item">
-    <a href="/travel/smithsonian-journeys-travel-quarterly-copy/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/travel/smithsonian-journeys-travel-quarterly-copy/" class="nav-btn">
         Smithsonian Journeys Travel Quarterly
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/travel/new-life-list/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/travel/new-life-list/" class="nav-btn">
         The 21st Century Life List
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/travel/americas-best-small-towns/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/travel/americas-best-small-towns/" class="nav-btn">
         America's Best Small Towns
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/travel/urban-explorations/" class="nav-btn ">
-        Urban Explorations
-    </a>
-
-    
-</span>
-
-<span class="nav-btn-item last">
-    <a href="/journeys/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/journeys/" class="nav-btn">
         Travel With Us
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/travel/newsletter-travel/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/travel/newsletter-travel/" class="nav-btn">
         Newsletter
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/travel/krampus-could-come-you-holiday-season-180957438/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/ef/09/ef094ed8-3dfe-45f3-a52a-721dde457d93/42-79160112.jpg__220x130_q85_crop_subject_location-994,662_upscale.jpg" alt="Krampus: The True Bad Santa" class="thumbnail">
+                <a href="/travel/20-best-small-towns-visit-2016-180958799/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/83/87/8387d92a-9e0e-42da-815f-8809112f26ff/istock_000017426695_full.jpg__220x130_q85_crop_upscale.jpg" alt="The 20 Best Small Towns to Visit in 2016" class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/travel/krampus-could-come-you-holiday-season-180957438/"><span class="featured">Featured:</span> Krampus: The True Bad Santa</a>
+                    <a href="/travel/20-best-small-towns-visit-2016-180958799/"><span class="featured">Featured:</span> The 20 Best Small Towns to Visit in 2016</a>
                 </h6>
                 
                 
@@ -927,15 +904,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/" class="nav-btn has-nav">
         At the Smithsonian
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -945,87 +922,85 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/plan-your-visit-smithsonian/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/plan-your-visit-smithsonian/" class="nav-btn">
         Plan Your Visit to Smithsonian
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/events-exhibitions/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/events-exhibitions/" class="nav-btn">
         Events &amp; Exhibitions
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/new-research/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/new-research/" class="nav-btn">
         New Research
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/objects-collection/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/objects-collection/" class="nav-btn">
         From the Collections
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/smithsonian-institution/curators-corner/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/smithsonian-institution/curators-corner/" class="nav-btn">
         Curators' Corner
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/videos/category/at-the-smithsonian/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/videos/category/at-the-smithsonian/" class="nav-btn">
         Video
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/smithsonian-institution/lodging/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/smithsonian-institution/lodging/" class="nav-btn">
         Lodging
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/smithsonian-institution/newsletter-smithsonian-institution/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/smithsonian-institution/newsletter-smithsonian-institution/" class="nav-btn">
         Newsletter
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
             
             <div class="featured-item">
                 
-                <a href="/smithsonian-institution/photos-videos-national-zoo-panda-cub-180957579/">
-                    <img src="http://thumbs.media.smithsonianmag.com//filer/9c/29/9c29c85e-6a16-490a-8b9c-0ff16f62f8cf/8bmccabe_beibeipandadsc_5290.jpg__220x130_q85_crop_upscale.jpg" alt="Bei Bei Visits with the Vet" class="thumbnail">
+                <a href="/smithsonian-institution/that-revolutionary-May-day-1976-when-california-wines-bested-france-finest-180958971/">
+                    <img src="http://thumbs.media.smithsonianmag.com//filer/47/e8/47e813af-8318-48c3-a7b5-967411289a54/winecollage_1024.jpg__220x130_q85_crop_upscale.jpg" alt="When California Wines Bested France's Finest  " class="thumbnail">
                 </a>
                 
                 
                 <h6 class="headline">
-                    <a href="/smithsonian-institution/photos-videos-national-zoo-panda-cub-180957579/"><span class="featured">Featured:</span> Bei Bei Visits with the Vet</a>
+                    <a href="/smithsonian-institution/that-revolutionary-May-day-1976-when-california-wines-bested-france-finest-180958971/"><span class="featured">Featured:</span> When California Wines Bested France's Finest  </a>
                 </h6>
                 
                 
@@ -1034,15 +1009,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/photos/" class="nav-btn  has-nav">
+<div class="nav-btn-item">
+    <a href="/photos/" class="nav-btn has-nav">
         Photos
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -1052,64 +1027,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/photocontest/" class="nav-btn ">
-        2015 Photo Contest: Now Open
+<div class="nav-btn-item">
+    <a href="/photocontest/" class="nav-btn">
+        Submit to Our 2016 Photo Contest
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/photocontest/archive/2014/" class="nav-btn ">
-        2014 Photo Contest Winners
+<div class="nav-btn-item">
+    <a href="/photocontest/archive/2015/" class="nav-btn">
+        2015 Photo Contest Winners
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/photocontest/photo-of-the-day/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/photocontest/photo-of-the-day/" class="nav-btn">
         Photo of the Day
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/tumblr/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/tumblr/" class="nav-btn">
         Tumblr
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/instagram/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/instagram/" class="nav-btn">
         Instagram
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/" class="nav-btn  has-nav">
+<div class="nav-btn-item last">
+    <a href="/videos/" class="nav-btn has-nav">
         Videos
     </a>
 
     
-        <div class="sub-menu ">
+        <div class="sub-menu">
             <div class="nav">
                 
 
@@ -1119,59 +1092,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/videos/category/ask-smithsonian/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/videos/category/ask-smithsonian/" class="nav-btn">
         Ask Smithsonian
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/videos/contest/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/videos/contest/" class="nav-btn">
         Video Contest
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/videos/category/smithsonian-channel/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/videos/category/smithsonian-channel/" class="nav-btn">
         Smithsonian Channel
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/category/future-is-here/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/videos/category/future-is-here/" class="nav-btn">
         Future Is Here
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/videos/category/smithsonian-ingenuity-awards/" class="nav-btn ">
+<div class="nav-btn-item last">
+    <a href="/videos/category/smithsonian-ingenuity-awards/" class="nav-btn">
         Ingenuity Awards
     </a>
 
     
-</span>
+</div>
 
 
 
-
-                
             </div>
 
             
         </div>
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/games/" class="nav-btn  has-nav">
+<div class="nav-btn-item last">
+    <a href="/games/" class="nav-btn has-nav">
         Games
     </a>
 
@@ -1186,81 +1157,79 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<span class="nav-btn-item">
-    <a href="/games/universal-crossword-puzzle-180940711/" class="nav-btn ">
-        Universal Crossword
-    </a>
-
-    
-</span>
-
-<span class="nav-btn-item">
-    <a href="/games/daily-sudoku-180940712/" class="nav-btn ">
+<div class="nav-btn-item">
+    <a href="/games/daily-sudoku-180940712/" class="nav-btn">
         Daily Sudoku
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/games/pardon-my-words-180940713/" class="nav-btn ">
-        Pardon My Words
+<div class="nav-btn-item">
+    <a href="/games/universal-crossword-puzzle-180940711/" class="nav-btn">
+        Universal Crossword
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/games/crossword-cubed-180940714/" class="nav-btn ">
-        Crossword Cubed
+<div class="nav-btn-item">
+    <a href="/games/daily-word-search-180958328/" class="nav-btn">
+        Daily Word Search
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item">
-    <a href="/games/hidato-180940715/" class="nav-btn ">
-        Hidato
+<div class="nav-btn-item">
+    <a href="/games/jumble-180958308/" class="nav-btn">
+        Jumble
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/games/hitori-180940716/" class="nav-btn ">
-        Hitori
+<div class="nav-btn-item">
+    <a href="/games/mah-jong-quest-180958325/" class="nav-btn">
+        Mah Jong Quest
     </a>
 
     
-</span>
+</div>
 
-<span class="nav-btn-item last">
-    <a href="/games/trivia/" class="nav-btn ">
-        Trivia
+<div class="nav-btn-item last">
+    <a href="/games/ken-ken-180958307/" class="nav-btn">
+        KenKen
     </a>
 
     
-</span>
+</div>
+
+<div class="nav-btn-item last">
+    <a href="/games/backgammon-180958344/" class="nav-btn">
+        Backgammon
+    </a>
+
+    
+</div>
 
 
 
-
-                
             </div>
 
             
         </div>
     
-</span>
+</div>
 
 
 
 
-                <span class="nav-btn-item shop-nav-link">
+                <div class="nav-btn-item shop-nav-link">
                     
                     <a href="/store/" class="nav-btn-item shop external-nav-link" id="shop-trigger">Shop</a>
                     
-                </span>
+                </div>
             </nav>
         </div>
     </div>
@@ -1325,21 +1294,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <div class="more nav-btn-item">
                     <a class="nav-btn more">
-                        <i class="icon-plus"> </i>
+                        <i class="icon-plus"><span class="outofsight">+</span></i>
                     </a>
 
                     <div class="sub-menu">
                         
                         <a class="nav-btn flip" href="/smithsonian-institution/">At the Smithsonian</a>
-                        <a href="/issue/december-2015/" class="nav-btn">Magazine</a>
+                        <a href="/issue/june-2016/" class="nav-btn">Magazine</a>
                         <a href="/photos/" class="nav-btn">Photos</a>
                         <a href="/videos/" class="nav-btn">Videos</a>
                         <a href="/games/" class="nav-btn">Games</a>
-                        
-
-                        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=sticky-top-nav&amp;ipromo=|perm|sub||text||red||auto-default" class="nav-btn-item subscribe external-nav-link omz-scroll-subscribe" id="sticky-subscribe-nav-link">Subscribe</a>
-                        
-                        <a href="/store/" class="nav-btn-item shop external-nav-link">Shop</a>
                         
                     </div>
                 </div>
@@ -1354,17 +1318,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  
                 <a href="http://www.smithsonianmag.com/search/">
                     <div class="scroll-nav-search">
-                        <i class="fa fa-search"></i>
+                        <i class="fa fa-search"><span class="outofsight">Search</span></i>
                     </div>
                 </a>
                 <div class="scroll-nav-social-item">
                     <a href="https://www.facebook.com/smithsonianmagazine" rel="facebook">
-                        <i class="icon icon-large icon-facebook" title="Facebook"> </i>
+                        <i class="icon icon-large icon-facebook" title="Facebook"><span class="outofsight">Facebook</span></i>
                     </a>
                 </div>
                 <div class="scroll-nav-social-item">
                     <a href="https://twitter.com/#!/SmithsonianMag" rel="twitter">
-                        <i class="icon icon-large icon-twitter" title="Twitter"> </i>
+                        <i class="icon icon-large icon-twitter" title="Twitter"><span class="outofsight">Twitter</span></i>
                     </a>
                 </div>
                 
@@ -1385,35 +1349,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
 
-<div class="sub-header-shop" id="shop"></div>
-<!-- <div class="subscribe-menu">
-    
-
-<div class="current-issue">
-    <h6 class="headline">Current Issue</h6>
-        <a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|sub||dropdown|m|cover|325x215|auto-default" class="omz-thumb-subscribe" id="www-top-rollover-thumb"><img src="http://thumbs.media.smithsonianmag.com//filer/76/5d/765d7fb3-b29d-4dfe-b580-a8cd8ac0c0ca/dec15coverminijpg.jpeg__192x256_q85.jpg" alt="December 2015 magazine cover" id="www-header-dropdown-art" class="cover"/></a>
-</div>
-
-<section class="offer-options">
-    <h5 class="headline">Subscribe</h5>
-    <p class="deal-info">Save 84% off the newsstand price!</p>
-
-    <ul class="subscribe-options">
-        
-            <li><a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|sub||dropdown|m|red|325x215|auto-default" class="omz-dropdown-subscribe" id="www-top-rollover-new">Subscribe</a></li>
-        
-        
-            <li><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=OrderPages/sm/sj/1103/renewal_pto.jsp&amp;MSRSMAG=SJ&amp;MSCCMPLX=RWALL&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|ren||dropdown|m|red|325x215|" class="omz-dropdown-renew" id="www-top-rollover-renew">Renew</a></li>
-        
-        
-            <li><a href="https://subscribe.smithsonianmag.com/gift.php?idx=246&amp;inetz=www-page-top-dropdown-L&amp;ipromo=|perm|gift||dropdown|m|red|325x215|" class="omz-dropdown-gift" id="www-top-rollover-gift">Give a Gift</a></li>
-        
-        
-    </ul>
-</section>
-
-</div> -->
-
 <div class="header-ad-wrapper">
     <div id="ATF_728x90_970x250_970x90" class="cbv-ad" style="">
     <div id="div-gpt-ad-chuckweasley-1" class="ad-slot" data-ad-settings="desktopMain"></div>
@@ -1427,7 +1362,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="side-nav">
     <nav class="side-primary-nav nav">
-		<a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=mobile-menu-subscribe&amp;ipromo=|perm|sub||mobile-menu||grey||auto-default" rel="nofollow" target="_blank" class="nav-btn" title="Subscribe">Subscribe</a>
+		<a href="https://subscribe.smithsonianmag.com/sub.php?idx=245&amp;inetz=mobile-menu-subscribe&amp;ipromo=|perm|sub||mobile-menu||red||auto-default" rel="nofollow" target="_blank" id="mobile-subscribe-side-menu" class="nav-btn" title="Subscribe" style="background: #ff0202;">Subscribe</a>
 
         
         <a href="/store/" class="nav-btn">Shop</a>
@@ -1458,10 +1393,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-        <a href="/issue/december-2015/" class="nav-btn">Magazine</a>
-        <a href="http://reg.email.smithsonian.com/regp?aid=725681731&amp;n=1&amp;SOURCE_ID=MOL" class="nav-btn" rel="newsletter">
-            Newsletters
-        </a>
+        <a href="/issue/june-2016/" class="nav-btn">Magazine</a>
+        <a href="http://reg.email.smithsonian.com/regp?aid=725681731&amp;n=1&amp;SOURCE_ID=MOL" class="nav-btn" rel="newsletter">Newsletters</a>
 
     </nav>
 
@@ -1573,33 +1506,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="magazine-signup">
     <div class="issue-promo">
-        <h6 class="headline">Current Issue | <time class="issue-date">December 2015</time></h6>
+        <h6 class="headline">Current Issue | <time class="issue-date">June 2016</time></h6>
 
 		
-			<a href="/issue/december-2015/" class="more"><img src="http://thumbs.media.smithsonianmag.com//filer/76/5d/765d7fb3-b29d-4dfe-b580-a8cd8ac0c0ca/dec15coverminijpg.jpeg__192x256_q85.jpg" alt="December 2015 magazine cover" class="cover"></a>
+			<a href="/issue/june-2016/" class="more"><img src="http://thumbs.media.smithsonianmag.com//filer/67/cf/67cf5f7b-6478-4829-b339-193342fa2737/jun16_covermini.jpg__192x256_q85.jpg" alt="June 2016 magazine cover" class="cover"></a>
 		
 
         <div class="stories">
             <ul class="article-list">
                 
-                    <li><a href="/innovation/dec15_fea_performing-arts-hader-and-armisen-180957235/">Why Bill Hader and Fred Armisen Are Parodying Documentaries in Their Latest, Ingenious Project</a></li>
+                    <li><a href="/innovation/kill-all-mosquitos-180959069/">Kill All the Mosquitoes?!</a></li>
                 
-                    <li><a href="/innovation/alan-stern-ingenuity-awards-pluto-180957236/">How Alan Stern Brought Pluto to Earth</a></li>
+                    <li><a href="/history/most-treacherous-battle-world-war-i-italian-mountains-180959076/">The Most Treacherous Battle of World War I Took Place in the Italian Mountains</a></li>
                 
-                    <li><a href="/innovation/francoise-mouly-ingenuity-awards-comic-book-editor-180957232/">The New Yorker Editor Who Became a Comic Book Hero</a></li>
+                    <li><a href="/smithsonian-institution/powerful-stokely-carmichael-potrait-never-made-cover-time-magazine-180959073/">This Powerful Stokely Carmichael Portrait Never Made It to the Cover of Time Magazine</a></li>
                 
             </ul>
 
-            <a href="/issue/december-2015/" class="more">View Table of Contents</a>
+            <a href="/issue/june-2016/" class="more">View Table of Contents</a>
         </div>
     </div>
 
-    <form action="https://subscribe.smithsonianmag.com/sub.php" method="get" class="magazine-signup-form">
+    <form action="https://subscribe.smithsonianmag.com/sub.php?inetz=www-page-subscription-form" method="get" class="magazine-signup-form">
         <input type="hidden" name="idx" value="245">
         <h6 class="headline">Subscribe</h6>
         <p class="deal-info">Save 84% off the newsstand price!</p>
 
         <fieldset class="field-group name-fields">
+          <legend class="outofsight">First &amp; Last Name</legend>
             <div class="field">
                 <label for="Subscribe-First-Name" class="visuallyhidden">First Name</label>
                 <input type="text" name="sf[fstName]" id="Subscribe-First-Name" placeholder="First Name">
@@ -1622,6 +1556,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
         <fieldset class="field-group secondary-address-fields">
+          <legend class="outofsight">City / State</legend>
             <div class="field">
                 <label for="Subscribe-City" class="visuallyhidden">City</label>
                 <input type="text" name="sf[city]" id="Subscribe-City" placeholder="City">
@@ -1702,10 +1637,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </fieldset>
 
-        <div class="field">
-            <label for="Subscribe-Email" class="visuallyhidden">Enter your email address</label>
-            <input type="email" name="sf[email]" id="Subscribe-Email" placeholder="Email address">
-        </div>
+        <fieldset class="field-group">
+          <legend class="outofsight">Email Address</legend>
+          <div class="field">
+              <label for="Subscribe-Email" class="visuallyhidden">Enter your email address</label>
+              <input type="email" name="sf[email]" id="Subscribe-Email" placeholder="Email address">
+          </div>
+        </fieldset>
 
         <p class="actions">
             <button type="submit" class="btn btn-primary magazine-signup-form-subscribe-button">Subscribe</button>
@@ -1730,12 +1668,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </ul>
 
     <h6 class="cta-headline">Sign-Up Now</h6>
-    <div class="field">
-        <label for="Newsletter-Email" class="visuallyhidden">Enter your email address</label>
-        <input type="email" name="email" id="Newsletter-Email" placeholder="Email address" required="">
-        
-    </div>
-    <p class="actions">
+
+    <fieldset class="field-group" style="border: 0; margin: 0; padding: 0;">
+        <legend class="outofsight">Email Address</legend>
+        <div class="field">
+            <label for="Newsletter-Email" class="visuallyhidden">Enter your email address</label>
+            <input type="email" name="email" id="Newsletter-Email" placeholder="Email address" required="">
+            
+        </div>
+    </fieldset>
+
+    <p class="actions" style="margin-top: 0;">
         <button type="submit" class="btn-secondary">Sign up</button>
     </p>
 </form>
@@ -1746,7 +1689,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="sub-footer-wrapper">
     <footer class="sub-footer">
-        <span class="logo-wrap"><a href="/" class="logo"></a></span>
+        <span class="logo-wrap"><a href="/" class="logo"><span class="outofsight">Smithsonian</span></a></span>
 
         <nav class="primary-nav nav">
             
@@ -1884,11 +1827,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Base code for smithsonain
 -->
 
+
 <!-- BEGIN: ForeSee Survey code -->
 <script type="text/javascript">cpp_value ="SI-MAG";</script>
 <script type="text/javascript" src="http://www.si.edu/fsrscripts/triggerParams.js"></script>
 <script type="text/javascript" src="http://www.si.edu/fsrscripts/stdLauncher.js"></script>
 <!-- END: ForeSee Survey code -->
+
 
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
@@ -1896,10 +1841,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Tag Builder Version: 3.3  -->
 <!-- Created: 3/16/2012 5:14:39 PM -->
 <script src="http://static.media.smithsonianmag.com/js/lib/smithmag-webtrends.js" type="text/javascript"></script>
-<!-- ----------------------------------------------------------------------------------- -->
 <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
 <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- ----------------------------------------------------------------------------------- -->
 <script type="text/javascript">
 //<![CDATA[
 var _tag=new WebTrends();
@@ -1967,15 +1910,6 @@ var google_remarketing_only = true;
 <!-- End Google Remarketing Code -->
 
 
- <!-- START OF Chartbeat -->
- <script type="text/javascript">
- var sf_async_config={uid:40371,domain:"smithsonianmag.com",useCanonical:true};
- (function(){ function loadChartbeat() { window.sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
- </script>
- <!-- END OF Chartbeat -->
-
-
-
 
 
 
@@ -1990,4 +1924,4 @@ var google_remarketing_only = true;
     <!-- END TABOOLA CODE -->
 
 
-<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
