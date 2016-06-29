@@ -1,43 +1,17 @@
-> *The following text is extracted and transformed from the ultraxone.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115131621id_/http%3A//ultraxone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraxone.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# UltraXOne - Anti Spam Policy
+# Legal
 
-## Privacy Policy
+* * *
 
-What we collect and how we use it.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-UltraXOne(http://www.ultraxone.com) may ask you to provide personally identifiable information, such as your name, address, email address, telephone number.  
-We will not rent, sell or lease this personally identifiable information to other companies or individuals.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-This information may be gathered when you visit the Site to:  
-Provide feedback in an online survey;  
-Request product or service information;  
-And / or make purchases.  
-When you provide such information to us, we may use it to:  
-Deliver requested goods, services or information;  
-Provide notices regarding goods or services that you may purchase or be interested in;  
-Improve the content and general administration of the Site.  
-In connection with a job application or inquiry, whether advertised on this Site or otherwise, you may provide us with a resume or curriculum vitae.  
-We may use this information for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
 
-Cookies.  
-We might use small text files called cookies to improve the overall Site experience.  
-Cookies generally do not permit us to personally identify you.  
-The use of cookies is now standard operating procedure for most websites.  
-You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it.  
-You can also set your browser to turn off cookies. If you do so, however, some websites may not work properly.
 
-Links to Third Party Sites.  
-This Site may be linked to other web sites on the internet which are not under the control of or maintained by UltraXOne.  
-Such links do not constitute an endorsement by this Site of those other websites, the content displayed therein, or the persons or entities associated therewith.  
-UltraXOne is not responsible for the privacy practices or the content of external websites.
-
-Collection of Information by Third-Party Sites and Sponsors.  
-UltraXOne sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. UltraXOne has no control over the third-party's use of this information.
-
-Security.  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-Policy Changes.  
-UltraXOne reserves the right to change this Privacy Policy. Any changes will be made available within this externally posted Privacy Policy.  
-We encourage you to review this Privacy Policy regularly for any changes as your continued use of the Site will be subject to the then-current privacy policy.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
