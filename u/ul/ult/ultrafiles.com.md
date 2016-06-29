@@ -1,51 +1,17 @@
-> *The following text is extracted and transformed from the ultrafiles.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502022358id_/http%3A//ultrafiles.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrafiles.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# UltraFiles, free file hosting
+# Legal
 
-## PRIVACY POLICY
+* * *
 
-### Privacy policy
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-This Privacy Policy together with Ultrafiles’ Terms and Conditions, and other conditions (Abuse Policy, DMCA) of use which are part of Ultrafiles.com governs your use of the Ultrafiles website (http://www.Ultrafiles.com) and are collectively referred to as the "Agreement". 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-(Ultrafiles shall refer to the website Ultrafiles.com, its service and the company). 
 
-This document is a binding integral part of the contract for our users. Ultrafiles is bound to keep this integral part of the contract legally effective regarding all upload and download activities of all customers. Exceptions are applicable only if explicitly mentioned in this document or in communications. Ultrafiles may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services indicates your acceptance of the Agreement. 
 
-The following Privacy Policy relates to our policies and procedures regarding the collection, use and disclosure of personal information we receive from users ofwww.Ultrafiles.com (the "Site") This Privacy Policy applies only to information that you provide to us through this Site. 
-
-When a password is used to help protect your account and/or personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer be sure to log out before leaving a site or service to protect access to your information from other users. You are solely responsible for the safeguarding of your password. 
-
-### Information
-
-In the course of using Ultrafiles, you may provide us with personal information. This refers to information about you that can be used to contact or identify you (based solely on the information you provided in your account). Personal Information that we collect may include, but is not limited to, your name, location, billing information (only if applicable and does not include credit card information), email address and postal addresses (if applicable). Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Site. 
-
-For your safety and protection, your payment information is not stored on our servers. Our payment providers keep this information encrypted and secure on your behalf according to their applicable policies. 
-
-### Use
-
-Ultrafiles uses IP addresses to measure usage, analyze trends and administer the website. We also use information we obtain by technical means for the above purposes and in order to monitor and analyze use of Ultrafiles and our services, for Ultrafiles’ technical administration, to increase our Site’s functionality, effectiveness, user-friendliness and to better service your needs and requests. 
-
-The email address you provide to the Site will only be used to send you information and updates pertaining to the service requested. 
-
-We will not rent, sell or share your e-mail or information with third parties with the exception of third party companies we may contract to facilitate our services, including but not limited to data storage, maintenance services, database management processing, etc. 
-
-Content/Data uploaded to Ultrafiles is not considered personally identifiable information subject to this Privacy Policy. 
-
-Ultrafiles may use cookies to store the preferences of users. You may reject or delete the cookie. Cookies can also be used to help Ultrafiles enhance your experience on our website. 
-
-### Disclosure of information
-
-Ultrafiles cooperates with governments and law enforcement agencies/officials as well as private parties to enforce and complies with laws and regulations. As such, we shall disclose any information to a government, law enforcement officials or private parties as we, in our sole and unfettered discretion, believe is necessary or appropriate in response to claims and legal processes (including but not limited to subpoenas), to protect the property and rights of Ultrafiles or a third party if applicable and to protect the safety of the public or any person, or to prevent or stop any activity we may consider or can pose a risk to be illegal, inappropriate or legally actionable. 
-
-Please note that we may disclose your personal information or any other information when required by law or in the good-faith belief that such actions are necessary to conform with applicable laws and/or comply with a legal process served on us. 
-
-### General
-
-Ultrafiles uses its best efforts in safeguarding information and uses reasonable measures designed to protect said information from unauthorized access. 
-
-Ultrafiles is not responsible for the privacy policies and practices of third-party websites and companies and shall not be held responsible for their actions. 
-
-Ultrafiles is not responsible if you disclose personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed. 
-
-If you have any questions about this Privacy Policy or for further information, please contact us at privacy@ultrafiles.com 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
