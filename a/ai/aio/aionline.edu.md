@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411070302id_/http%3A//www.artinstitutes.edu/ai-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629142255id_/http%3A//www.artinstitutes.edu/ai-privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -77,12 +77,12 @@ Third parties, including our service providers or marketing partners may collect
 Some Internet browsers have begun to offer what often is referred to as "do not track" mechanisms for browser users to automatically signal privacy preferences to websites that they visit. Internet browsers have only begun to include these features relatively recently and there is not yet a consensus about what steps a website should take when it receives a do-not-track signal from a site visitor's browser or what information collection or use restrictions should be applied when a do-not-track signal is received. As a result, our site(s) do not currently respond to do-not-track-signals. We are continuing to monitor do not track developments and may revisit the issue in the future. In the meantime, you can exercise other choices available to you, including limiting the placement of browser cookies on your device using your browser's cookie control features and other choices described in this Policy.
 
 [Internet Explorer](http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-10)  
-[Safari](http://support.apple.com/kb/PH11920)  
+[Safari](http://support.apple.com/kb/PH17191)  
 [Safari Mobile](http://support.apple.com/kb/HT1677) (iPhones and iPads)  
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads).
+You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads/anonymous).
 
 **How is my information used?**
 
