@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905064744id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2016-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629071236id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS9VRT"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59PDSH"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3314:0';
-CONVIO.pageSessionID = '29B748E6D7969ADF91D9F9D2CB066E8D.app357b';
+CONVIO.pageSessionID = '0DCD54B7ABABA7CDC3971677209FD815.app325b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1441435664863"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1467184355890"></script>
 <script type="text/javascript">
 
 
@@ -75,8 +75,7 @@ deleteCookie("CONVIO.referrer");
 
 	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.hsi.org/system/rss/channel.jsp?feedID=249759104">
 
-
-	<script src="http://www.hsi.org/assets/js/jquery.js" type="text/javascript"></script>
+        <script src="http://www.hsi.org/assets/js/jquery.js" type="text/javascript"></script>
 	<script src="http://www.hsi.org/assets/js/jquery-cycle.js" type="text/javascript"></script>
 	<script src="http://www.hsi.org/assets/js/global.js" type="text/javascript"></script>
         <!--CMK06282013: Adding Lunametrics analytics code-->
@@ -90,6 +89,75 @@ deleteCookie("CONVIO.referrer");
 		<link rel="stylesheet" type="text/css" href="http://www.hsi.org/assets/css/ie7.css" />
 	<![endif]-->	
 
+
+<!--Include Newsroom head code-->
+
+
+
+
+
+
+  
+
+<!--BEGIN Newsroom Code (CMK09152015)-->
+<link rel="stylesheet" href="http://www.hsi.org/assets/css/newsroom/jquery-fancybox.css" type="text/css" media="screen">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="http://www.hsi.org/assets/js/newsroom/fancybox-2-1-5.js"></script>
+<script src="http://www.hsi.org/assets/js/newsroom/jquery-fletcher.js?x=060220161110"></script>
+<script>    
+//We want our own version of jQuery to use for the Newsroom, because we can't be sure what version will be available on a particular page-->
+var jQuery_newsroom = jQuery.noConflict(true); //return references to jQuery and $ to their previous values
+
+(function($) {
+    $(function() {
+        //Find A tags with class "newsroom-link" and fletcherize 'em (enable them to launch the newsroom) 
+        $('a.newsroom-link').fletcherize();
+        
+        //Bind fancybox trigger to those newsroom links
+        $(".fancybox-newsroom").fancybox({
+            openEffect : 'none',
+            closeEffect : 'none',
+            type: 'iframe',
+            autoSize : false,
+            beforeLoad : function() {         
+                this.width  = parseInt(this.element.data('fancybox-width'));  
+                this.height = parseInt(this.element.data('fancybox-height'));
+            },
+            afterLoad : function() {
+                setParentUrl(this);                    
+            },
+            helpers : {
+                title : {
+                    type : 'outside'
+                },
+                overlay: {
+                    locked: true
+                }
+            },    
+            keys : {
+                close: null
+            },
+            iframe: {
+              preload: true 
+           }               
+        }); 
+    });
+
+    function setParentUrl(element) {
+        var receiver = element.content[0].contentWindow;
+        try {
+            receiver.postMessage(window.location.href, 'http://newsroom.humanesociety.org');
+            console.log("Message posted to " + element.content[0]);            
+        } catch(e) {
+            console.log("Failed to post message to " + element.content[0]);
+        }
+    }    
+})(jQuery_newsroom); //Pass jQuery_newsroom in to document.ready so we can use $ inside.
+</script>
+<!--END Newsroom Code-->
+
+<!--End Newsroom head code--> 
 
 <script type="text/javascript">
 //CMK11052012: Script that adds "wmode=transparent" to all YouTube sources, 
@@ -239,15 +307,26 @@ j(document).ready(function() {
    
 
 
+<!--Include for GTM code-->
+
+
+
+
+
+
+  
+
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS9VRT"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-59PDSH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TS9VRT');</script>
+})(window,document,'script','dataLayer','GTM-59PDSH');</script>
 <!-- End Google Tag Manager -->
+
+<!--End Include for GTM code-->
 	
 <ul id="accessibility">
 	<li><a href="#site-nav">Skip to nav</a></li>
@@ -373,7 +452,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="mini" id="languagepick">
 <h2>Choose a Language</h2>
-<p><a class="current" href="http://www.hsi.org/" title="English">English</a> | <a href="http://www.hsi.org/portuguese/" title="Portugese">Português</a><br><a href="http://www.hsi.org/spanish/" title="Spanish">Español</a> | <a href="http://www.hsi.org/french/francais.html" title="French">Français</a><br><a href="http://www.hsi.org/chinese_trad/chinese_traditional.html" title="Traditional Chinese"><img src="http://www.hsi.org/assets/images/chinese_traditional.gif"></a> | <a href="http://www.hsi.org/chinese/chinese_simplified.html" title="Simplified Chinese"><img src="http://www.hsi.org/assets/images/chinese_simplified.gif"></a><br><a href="http://www.hsi.org/japanese/helping-animals/be-cruelty-free/be-cruelty-free-japan.html" title="Japanese"><img src="http://www.hsi.org/assets/images/japanese.gif"></a></p>
+<p><a class="current" href="http://www.hsi.org/" title="English">English</a> | <a href="http://www.hsi.org/portuguese/" title="Portugese">Português</a><br><a href="http://www.hsi.org/spanish/" title="Spanish">Español</a> | <a href="http://www.hsi.org/french/francais.html" title="French">Français</a><br><a href="http://www.hsi.org/chinese_trad/chinese_traditional.html" title="Traditional Chinese"><img src="http://www.hsi.org/assets/images/chinese_traditional.gif"></a> | <a href="http://www.hsi.org/chinese/chinese_simplified.html" title="Simplified Chinese"><img src="http://www.hsi.org/assets/images/chinese_simplified.gif"></a><br><a href="http://www.hsi.org/japanese/helping-animals/be-cruelty-free/be-cruelty-free-japan.html" title="Japanese"><img src="http://www.hsi.org/assets/images/japanese.gif"> | </a><a href="http://www.hsi.org/korean/korean.html" title="Korean"><img src="http://www.hsi.org/assets/images/korean.gif"></a></p>
 </div>
 
 
@@ -443,71 +522,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
 
 <style>
-    #top_resources {position:absolute;top:12px;right:250px; padding-left:3px; width: 239px;}
-    #top_resources label{position:relative; right:60px; padding-left:2px;width:120px}
-    #top_resources select {left:75px}
-    .hsi #top_resources label {width:120px}
-       
-    #top_donate{right:560px}
-    .hsi #top_donate{right:560px}
-    
-    #top_search label {
-        background:none; right:90px; border-right:1px solid #848686;
-        width: 131px; border-left: 1px solid #848686; height:11px;
+    #top_resources label {
+        position: relative;
+        right: 66px;
+        padding-left: 2px;
+        width: 120px
     }
-     
-    #top_search input {right:126px; margin:0} 
-    #site-search button {position:absolute; right:101px}
+    #top_resources select {
+        left: 75px
+    }
+       
     
-    #top_band .social_media {position:absolute; right:10px; top:10px;}
-    #top_band .social_media img {padding-right:2px;}
 </style>
 
 <div style="background: url('http://www.hsi.org/assets/images/page-head/page-head-logo-background.png') top left no-repeat;height:186px; width:237px;z-index:10!important;left:11px ;position: absolute;">
-<div style="height:162px; width:150px;z-index:11!important; left:49px !important; position: relative;top:25px;">
-
-
-  
-  
-      
-      <a href="http://www.hsi.org/" title="hsi">
-      
-   
-<img src="http://www.hsi.org/assets/images/logos/hsi_global.png"></a></div>
+    <div style="height:162px; width:150px;z-index:11!important; left:49px !important; position: relative;top:25px;">
+        
+        
+            
+            
+                
+                <a href="http://www.hsi.org/" title="hsi"> 
+            
+        
+        <img src="http://www.hsi.org/assets/images/logos/hsi_global.png"></a></div>
 </div>
-
 <div id="top_band">
-
-<div class="social_media"><!-- start social media  -->
-
-<a href="https://www.facebook.com/hsiglobal" target="_blank"><img src="http://www.humanesociety.org/assets/images/logos_odd_sizes/facebook.png"></a>
-
-<a href="https://twitter.com/HSIGlobal" target="_blank"><img src="http://www.humanesociety.org/assets/images/logos_odd_sizes/twitter.png"></a>
-<a href="http://www.youtube.com/HSI" target="_blank"><img src="http://www.hsi.org/assets/images/global/youtube.png"></a>
-
-</div><!-- end social media  -->
-
-  <div id="top_search">
-<!-- <form name="site-search" action="http://www.hsi.org/search/search.jsp" method="get">
-      <p>
-        <label for="top_search_input">Search</label>
-        <input id="top_search_input" class="text" type="text" name="query" value="" />
-        <button type="submit">Go</button> 
-      </p>
-    </form> --> 
-
-<form id="site-search" action="http://www.hsi.org/search-results.html" method="GET">
-      <label class="visuallyhidden" for="top_search_input">Search</label>
-      <input name="q" id="top_search_input" type="text" value="Search" autocomplete="off" onfocus="if(this.value=='Search') {this.value=''}" onblur="if(this.value==''){this.value='Search'}" placeholder="Search">
-      <button type="submit">Go</button>
-</form>
-
-  </div>
-  <div id="top_resources">
-      <form name="resource-menu">
-           <label for="top_resources_select">HSI Worldwide</label>
-           <select onchange="openDir( this.form )" size="1" name="fieldname">
-               <option>Select a Country/Region</option>
+    <div id="top_search">
+        <form id="site-search" action="http://www.hsi.org/search-results.html" method="GET">
+            <input name="q" id="top_search_input" type="text" value="Search" autocomplete="off" onfocus="if(this.value=='Search') {this.value=''}" onblur="if(this.value==''){this.value='Search'}" placeholder="Search">
+            <button type="submit">Go</button>
+        </form>
+    </div>
+    <div id="top_resources">
+        <form name="resource-menu">
+            <label for="top_resources_select">HSI Worldwide</label>
+            <select onchange="openDir( this.form )" size="1" name="fieldname">
+                <option>Select a Country/Region</option>
                 
 
 
@@ -524,38 +575,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
           <option value="/world/india/">HSI/India</option>
           <option value="/world/latin_america/">HSI/Latin America</option>
+<option value="/world/mexico/">HSI/Mexico</option>
           <option value="/world/united_kingdom/">HSI/United Kingdom</option>
           <option value="http://www.humanesociety.org/" target="_blank">Humane Society of the U.S.</option>
 <option value="#"> </option>
 <option value="#">MAJOR PROGRAMS</option>
-           <option value="/world/bhutan/">Bhutan</option>
+           
            <option value="/world/brazil/">Brazil</option>
            <option value="/world/china/">China</option>
 
 
-           <option value="/world/haiti/">Haiti</option>
-           <option value="/world/mexico/">Mexico</option>
+           
+           
+           <option value="/world/southkorea/">South Korea</option>
 
 
-           </select>
-        <!-- <button type="submit">Go</button> -->     
-    </form>
-</div>
-
-<!-- 
-http://www.hsi.org/includes/header-global.html
+            </select>
+        </form>
+    </div>
+    
+    <!-- 
+http://www.hsi.org/includes/headers/header-global.html
 /
--->
-
-<!-- 6/28/11 adding donate link for country   EZ: modified 03/16/15 adding India and Latin America-->
-
-
-
-<div id="top_donate"><a href="https://donate.hsi.org/ea-action/action?ea.client.id=104&amp;ea.campaign.id=17381&amp;ea.tracking.id=web_top">Donate</a></div>
-
-
+--> 
+    
+    <!-- 6/28/11 adding donate link for country   EZ: modified 03/16/15 adding India and Latin America-->
+    
+    
+    
+        <div id="top_donate"><a href="https://donate.hsi.org/ea-action/action?ea.client.id=104&amp;ea.campaign.id=17381&amp;ea.tracking.id=web_top">Donate</a></div>
+    
 </div>
-<!-- end donate link for country --> <!--/#top_band -->
+<!-- end donate link for country --> <!--/#top_band --> 
 
 
 
@@ -1255,7 +1306,7 @@ CONVIO.user.isAnonymous = true;
         <ul class="link-list">
             <li><a href="http://www.hsi.org/">Home</a></li>
             <li><a href="http://www.hsi.org/privacy-policy.html">Privacy Policy</a></li>
-            <li><a href="http://www.hsi.org/forms/contact.html">Contact Us</a></li>
+            <li><a href="mailto:info@hsi.org">Contact Us</a></li>
             <li><a href="http://www.hsi.org/news/media_contacts/">Media Contacts</a></li>            
             <li><a href="http://www.hsi.org/news/news/">News</a></li>
     	</ul>
@@ -1269,7 +1320,8 @@ CONVIO.user.isAnonymous = true;
                     <li class="rss"><a href="http://www.hsi.org/system/rss/channel.jsp?feedID=249759104" target="_blank"><span>RSS Subscribe</span></a></li>
                     <li class="facebook"><a href="https://www.facebook.com/hsiglobal" target="_blank"><span>Facebook</span></a></li>
                     <li class="twitter"><a href="http://twitter.com/hsiglobal" target="_blank"><span>Twitter</span></a></li>
-                    <li class="youtube"><a href="http://www.youtube.com/user/hsi" target="_blank"><span>YouTube</span></a></li>
+                    <li class="youtube"><a href="http://www.youtube.com/user/hsus" target="_blank"><span>YouTube</span></a></li>
+                    <li class="instagram"><a href="https://www.instagram.com/hsiglobal/" target="_blank"><span>Instagram</span></a></li>                    
                 </ul>
             </div>
             <div class="connected-panel-middle">
@@ -1555,15 +1607,19 @@ CONVIO.user.isAnonymous = true;
                             
                             <li><a href="http://www.hsi.org/world/haiti/">Haiti</a></li>
                             <li><a href="http://www.hsi.org/world/mexico/">Mexico</a></li>
+                            <li><a href="http://www.hsi.org/world/southkorea/">South Korea</a></li>
+
                         </ul>
                     </div>
                 </div>
             </div>      	
             <div class="legal-seals">
                 <div class="legal">
-                    <p class="copyright">© 2015 Humane Society International</p>
+                    <p class="copyright">© 2016 Humane Society International</p>
                     <p class="fineline-statement">For information, questions or to donate: From North America, call 866-614-4371. From elsewhere, please use <a href="http://www.hsi.org/forms/contact.html">this form</a>.</p>
-                    <p class="tax-statement">Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464. Donations made from the UK: HSI UK is registered in England and Wales as charity number 1098925, company number 4610194. Donations made in Canada: donations to HSI Canada are not tax-deductible. Non-profit organizations in Canada that lobby to change government policy are generally denied charitable status.</p>        
+                    <p class="tax-statement">Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464. Donations made from the UK: HSI UK is registered in England and Wales as charity number 1098925, company number 4610194. Donations made from the Netherlands: HSI UK is regarded as an <a href="http://www.hsi.org/world/united_kingdom/hsi_uk_dutch_anbi_status.html" target="_blank">ANBI Charity</a> under Dutch Fiscal Number 8241.63.072. Donations made in Canada: donations to HSI Canada are not tax-deductible. Non-profit organizations in Canada that lobby to change government policy are generally denied charitable status.</p><p class="tax-statement">EU Direct Bank Transfer: To support our work in the EU with a donation via direct bank transfer, please use this banking information and insert 'DONATION-FIRST.NAME-SURNAME' in the subject line: 
+KBC Bank NV - IBAN: BE23 7340 4167 9491 - BIC: KREDBEBB.
+</p>        
                 </div>
                 <div class="seals-approval"></div> 
             </div>
@@ -1589,113 +1645,13 @@ CONVIO.user.isAnonymous = true;
 
   
 
-<!-- START 2014 ONE-CLICK WINDOWSHADE -->
-
-<!-- Combo-handled YUI CSS files: -->
-<link href="http://yui.yahooapis.com/combo?2.6.0/build/container/assets/skins/sam/container.css" rel="stylesheet" type="text/css">
-
-<!-- Combo-handled YUI JS files: -->
-<script src="http://yui.yahooapis.com/combo?2.6.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.6.0/build/container/container-min.js&amp;2.6.0/build/cookie/cookie-min.js" type="text/javascript"></script>
-
-<style type="text/css">
-
-#splashbox_c {
-    z-index:1000;
-}
-
-.catch-all {
-    width: 550px;
-    height:500px;
-    position:absolute;
-    left:205px;
-    top:30px;
-    display:block;
-}
-
-.splash { 
-position:relative;
-background-image:url("http://www.hsi.org/assets/images/windowshade/dog-meat-mm-2015/ws-dogmeat-mm15-jasper.jpg"); 
-background-repeat:no-repeat;
-width: 735px; 
-height:498px; 
-}
-
-.splash img {border:0;}
-.splash-close-text {position:absolute; top:-10px; left:714px;}
-.splash-form-submit {position:absolute; top:380px; left:30px;}
-.splash-form-submit img { border: 0; }
-.mask {
-    -moz-opacity: 0.8;
-    opacity:.80;
-    filter: alpha(opacity=80);
-    background-color:#2f2f2f;
-}
-</style>
-<div style="display:none;">
-<div class="splash" id="splashbox">
-
-
-    <div class="splash-close-text"><a href="#" onclick="NoThankYou();return false;"><img alt="" src="http://www.hsi.org/assets/images/windowshade/close.png"></a></div>
-        <div class="splash-form-submit"><a href="https://donate.hsi.org/ea-action/action?ea.client.id=104&amp;ea.campaign.id=28590&amp;ea.tracking.id=windowshade" onclick="Donate();return false;"><img alt="" src="http://www.hsi.org/assets/images/windowshade/dog-meat-mm-2015/button-give-now.png"></a></div>
-</div>
-</div>
-
-<script type="text/javascript">
-    function setCookie(c_name,value,expiredays)
-    {
-        var exdate=new Date();
-        exdate.setDate(exdate.getDate()+expiredays);
-        document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString() + ";path=/;");
-    }
-
-    function NoThankYou()
-    {
-        HideDialog();
-    }
-
-    function Donate()
-    {
-        HideDialog();
-        location.href = url;
-    }
-
-    function HideDialog()
-    {
-        setCookie("yulin_donate_2015","true",1);
-        dialog.hide();
-    }
-
-    // Show window shade logic
-    var jul31_2015 = 1437757803;
-    var timeStamp = (new Date().getTime())/1000;
-
-    if (timeStamp < jul31_2015) {
-        if (document.cookie.indexOf("yulin_donate_2015") == -1) {
-            var dialog;
-            YAHOO.util.Event.addListener(window, "load", function() {
-                dialog = new YAHOO.widget.Dialog("splashbox", {
-                    fixedcenter: true,
-                    visible: false,
-                    modal: true,
-                    close: false,
-                    constraintoviewport: true
-                });
-                dialog.render(document.body);
-                dialog.show();
-            });
-        }
-        else {
-            document.getElementById("splashbox").style.display = "none";
-        }
-    }
-</script>
-<!-- END 2014 ONE-CLICK WINDOWSHADE -->
+<!-- Item 740750398 has expired or is not published.-->
 </div>
 
 
 
 
 
-<!-- 10.12.0.40:8901 -->
+<!-- 10.12.0.43:8901 -->
 
 </body></html>
