@@ -1,122 +1,100 @@
-> *The following text is extracted and transformed from the voiparty.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203010457id_/http%3A//voiparty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiparty.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# vipiam - Switch & Save - Earn Call Termination Revenue
+# Legal Agreement
 
-Welcome and Thank You for visiting us at Vipiam.com or the Personal Wedsite of your authorized Vipiam Independent Member ("IM"). The Founders and Management Team of Vipiam believe in leadership by example and creating a friends and family environment, which consist of the people we care about the most. Vipiam has a strong emphasis on integrity and the success of its distributors. Additionally it is our Policy to maintain your personal information confidential. Your Privacy is very important to us and we are committed to protecting and safeguarding it. 
+**GoDaddy Respects Your Privacy**
 
-**You may _"Contact Us"_ at: **(239) 945-VOIP (8647) Fax: (239) 471-0738
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-### E-mail Addresses
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Customer Service:** [customer_service@vipiam.com](mailto:customer_service@Vipiam.com?subject=Replying%20From%20Privacy%20Statement)  
-**Technical Support:** [support@vipiam.com](mailto:support@Vipiam.com?subject=Replying%20From%20Privacy%20Statement)
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-### Headquarters Address:
+**Information Collection and Use**
 
-4423 Del Prado Blvd South  
-Cape Coral, Florida 33904
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Vipiam's purpose of providing you with this Privacy Policy is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Vipiam does not collect personal information about individuals who visit our site except when the information is specifically provided on a voluntary basis.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**The information we collect on our Site generally falls into the following two categories:** Personally Identifiable Information or Aggregate Information
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  1. ### Personally Identifiable Information
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**This refers to information that lets us know who you are or things specifically about you.**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-#### Prospecting Visitors
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-You may browse our Site without revealing any Personally Identifiable Information. If you want to register or place an order and do not have a sponsoring IM, you may voluntarily provide Personally Identifiable Information (such as name, address, email address, a telephone number) to be shared with an authorized IM near you or a Corporate Sales Representative for the purpose of contacting you, including via email, to assist with registration and ordering. In such event, we might maintain a record of your contact, including such Personally Identifiable Information, in a file specific to you. We use this information to provide better service in the event that you contact us again.
+**Security**
 
-#### Registration
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-When you register to become an IM and start your own I-commerce business powered by Vipiam, or when you register to shop online as a Customer, enjoying full access to the many products and services available on our Site, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored. You are assigned a VIP/Member Number and select your own password � both are needed to enter the Site and to access your Contact Information.
+**Updating Your Information**
 
-#### Placing Orders
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-When you place an order for products or services or a calling plan, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-#### Credit Card Information Storage
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Credit card information collected at registration or for shopping cart orders/wholesale calling plans is used only to process payment for that specific transaction and, generally, is not retained.
+      iii.      You may call us at: (480) 505-8800
 
-#### Promotions, Training & Surveys
+       iv.      You may fax us at: (480) 505-8844
 
-From time to time you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials.
+**Sending Emails**
 
-  2. ### Aggregate Information
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") of the website that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement. 
+**Compliance with Laws and Law Enforcement**
 
-#### Sharing Your Information
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Except as disclosed in this Privacy Policy, we do not sell trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission. Any Personally Identifiable Information you provide to us will be stored in our databases.
+**Third Party Service Providers**
 
-    1. #### IMs
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-A business powered by Vipiam, will provide you with advice and information from your own personal business advisory team � a support network consisting of your sponsoring IM and upline organization. To allow such communication, we may share limited contact information with your sponsoring IM and upline organization. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-    2. #### Customers
+**Supplementation of Information**
 
-In order to assure the highest level of personal service, we may share Personally Identifiable Information about you (excluding credit card information and order details) with your servicing IMs, who are committed to making sure you're pleased with the products you purchase and that you receive a favorable experience. Your servicing IMs have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-    3. #### General
+**Contests/Surveys**
 
-We may share Personally Identifiable Information with other Vipiam-related entities and/or trusted business partners with whom we collaborate, as well as those that provide services to our Site. When we engage non-affiliated third-party agents or contractors, we require them also to observe the intent of this Privacy Policy.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Policies and Procedures or to protect the rights, property, and safety of others and ourselves.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-In the event that Vipiam or its related entities merge with or be acquired by another business entity, or its respective assets be acquired, you should expect that we would share some or all of your Personally Identifiable Information to companies assuming the role of serving you and other users of our Site. 
+**Tell-A-Friend**
 
-Your permission is always secured first. We will not use or share the Personally Identifiable Information collected on our Site in ways unrelated to the purpose for which you provided the information, including those described above, without providing you an option whether to permit any such unrelated uses. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
+**Transfer of Data Abroad**
 
-### Maintaining Your Information
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information you have provided to us, you may edit your information online after completing registration, or contact us as described in the "Contact Us" section above. 
+**Changes in Our Practices**
 
-### Protecting Your Information
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-It is your responsibility to safeguard the password you use to access our Site, and to promptly advise Vipiam or your IM if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your VIP/Member Number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password. 
+**Contacting Our Site**
 
-### The use of Cookies on This Site
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-A "cookie" is a small data file transferred to your computer's hard drive that allows a website to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes, and dislikes. Cookies also enable an Internet retailer like Vipiam to keep track of a consumer's electronic "shopping cart" before completing a purchase. Overall, cookies are safe, as they only identify your computer to customize your web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
+* * *
 
-Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer, Firefox, or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely. If you turn off cookies completely, there may be some website features that will not be available to you, and some web pages may not display properly.
-
-To support the personalized features of our Site (such as your country and language codes, electronic shopping cart, and other ordering and browsing functions), we must send a cookie to your computer's hard drive and/or use cookie-based authentication to identify you as a registered Site user. We do not, however, use so-called "surveillance" cookies that track your activity elsewhere on the web. 
-
-### Use of Active-X and JAVA Applets on This Site
-
-Active-X programs and JAVA applets are executable programs that can be transferred to your computer's hard drive to cause your computer to perform functions in connection with your visit to a website. Our Site does transfer Active-X programs or Java Applets to your computer's hard drive. 
-
-### Use of Third-party Media
-
-The Vipiam Site may run limited third-party ads only for those Merchant and Services Partners with whom we link. We will additionally use third-party media and research companies to place ads for us on other parties' websites. 
-
-### Links to Other Websites
-
-Links to third-party websites may be provided solely for your information and convenience, or to provide additional shopping for various other goods and services. If you use these links, you will leave our Site. This Privacy Policy does not cover the information practices of those websites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
-
-We maintain contractual agreements with all of our Merchant and Services Partners, which require them to observe the intent of this Privacy Policy. When you enter a Partner Store from our Site, we provide them only with your identification number for purposes of introducing you. In return, the Partner Store shares with us any purchases you make from their websites in order for us to assign proper credit to you and to your servicing IM. 
-
-### Children's Privacy Protection
-
-As stated in our Policies and Procedures minors must be of the age of majority in his or her state of residence in order to participate or become an IM. We take special care to protect the privacy needs of children and encourage parents or guardians to be an active participant in their child's online activities. Our Site does not target and is not intended for children, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our Site, we will eliminate that data. 
-
-### Changes to the Privacy Policies
-
-Any updates or changes to the terms of this Privacy Policy will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Policy has changed. By using our Site, you acknowledge acceptance of this Privacy Policy in effect at the time of use. 
-
-**_Updated and effective January 1, 2011._**
-
-_Copyright �2011 Vipiam, Inc._ All rights reserved. 
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
