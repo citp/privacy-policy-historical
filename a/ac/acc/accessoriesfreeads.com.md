@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229062302id_/http%3A//www.accessoriesfreeads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630014006id_/http%3A//www.accessoriesfreeads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Cyprus - Free Classified Ads - Free Ads - Post Free Classifiedads - Free Buy and Sell - Classified Buy & Sell - Free Advertising - Marketing UK Ad
+# Free Classified Ads - Free Ads - Post Free Classifiedads - Free Buy and Sell - Classified Buy & Sell - Free Advertising - Marketing UK Ad
 
   
 1\. Introduction
