@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driveridentifier.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014609id_/http%3A//www.driveridentifier.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveridentifier.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155930id_/http%3A//www.driveridentifier.com/privacy.php) for the most accurate reproduction.*
 
-# Driver Identifier - The largest driver collection for all laptops & desktops.
+# DriverIdentifier - The most simple & easy driver updating tool.
 
 This Privacy Policy explains our information practices for the DriverIdentifier.com website which is owned and controlled by DriverIdentifier. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information.
 
