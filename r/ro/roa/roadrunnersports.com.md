@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102448id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629232811id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
@@ -22,7 +22,6 @@ Road Runner Sports uses the most advanced and highest level of online security a
 
 We are enrolled in Trustwave's TrustKeeper® remote compliance program to validate compliance with the Payment Card Industry (PCI) Data Security Standard supported by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard International, Visa International and Visa USA. The Trusted CommerceSM service seal you see displayed on our site indicates that Road Runner Sports protects credit card and order information in accordance with payment card industry best practices.
 
-  
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Your credit card number cannot be read by a third party while in transit and will remain private and completely protected.
 
 Under the "Fair Credit Billing Act," federal law limits your responsibility for unauthorized charges up to $50.00. This means that your bank cannot hold you liable for more than $50.00 of fraudulent charges. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
