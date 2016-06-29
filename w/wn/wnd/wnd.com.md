@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073555id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629204438id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ To unsubscribe from any of our email lists, please follow the procedures at the 
 WND contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy policies of these linked sites, because their privacy practices may differ from ours. This privacy statement applies only to information collected by this Web site.
 
 **Social Media Features**  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. WND may also generate leads from Facebook, the terms of service governing this procedure can be found here: https://www.facebook.com/ads/leadgen/tos 
 
 **Who can I ask if I have any additional questions?**  
 If you have questions or concerns regarding this statement, you should first  
