@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ebbwebdesign.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703024203id_/http%3A//www.ebbwebdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebbwebdesign.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629235040id_/http%3A//www.ebbwebdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EBB Web Design
 
 ##  Privacy Policy 
 
-Last Updated January 12, 2014
+Last Updated January 22, 2015
 
-Thank you for visiting Empowered Brand Builders, Inc. / DBA: E.B.B. Interactive / DBA: EBB Web Design – MyBrandBuilderPro (“EBB/MBBP”): website design, web development, PPC services, video production, SEO services, software development, online micro-franchises, digital marketing training, and e-commerce Internet website (“Site”) located at the URLs www.empoweredbrandbuilders.com, www.ebbwebdesign.com and www.mybrandbuilderpro.com. This Privacy Policy details certain policies implemented throughout EBB/MBBP governing EBB/MBBP’s use of Personally Identifiable Information provided to EBB/MBBP Classroom via this Site. 
+Thank you for visiting Empowered Brand Builders, Inc. / DBA: EBB Web Design, Inc. / DBA: EBB Web Solutions. Inc. : website design, website development, and complete digital marketing services, located at the URLs www.ebbwebsolutions.com, www.ebbwebdesign.com. 
 
 Your privacy is very important to us especially when conducting business. This Privacy Policy was created to demonstrate our firm commitment to your privacy and security. 
 
 ## Privacy Policy Updates
 
-Due to the Internet’s rapidly evolving nature, EBB/MBBP may need to update this Privacy Policy from time to time. If so, EBB/MBBP will post its updated Privacy Policy on our Site located at www.mybrandbuilderpro.com so you are always aware of what Personally Identifiable Information we may collect and how we may use this information. EBB/MBBP encourages you to review this PrivacyPolicy regularly for any changes. Your continued use of this Site constitutes your acknowledgement and acceptance of the then-current Privacy Policy. 
+Due to the Internet’s rapidly evolving nature, EBB may need to update this Privacy Policy from time to time. If so, EBB will post its updated Privacy Policy on our Site located at www.ebbwebdesign.com so you are always aware of what Personally Identifiable Information we may collect and how we may use this information. EBB encourages you to review this PrivacyPolicy regularly for any changes. Your continued use of this Site constitutes your acknowledgement and acceptance of the then-current Privacy Policy. 
 
 ## Personally Identifiable Information
 
@@ -26,7 +26,7 @@ In addition to our direct collection of information, our third party service pro
 
 If you are a member of our Site and post to any of the Site’s community forums, other registered users of this Site may view your username and social media links along with your email, but they will not be able to see your detailed information such as address and phone number. We may use your Personally Identifiable Information to send you advertisements and other promotional information regarding our products and services or the products and services of our third party marketing partners and other communications related to the Site. 
 
-We will not sell your Personally Identifiable Information to any other company or organization except that we may transfer your Personally Identifiable Information to a successor entity upon amerger, consolidation or other corporate reorganization in which EBB/MBBP participates or to a purchaser of all or substantially all of EBB/MBBP’s assets to which this Site relates. 
+We will not sell your Personally Identifiable Information to any other company or organization except that we may transfer your Personally Identifiable Information to a successor entity upon a merger, consolidation or other corporate reorganization in which EBB participates or to a purchaser of all or substantially all of EBB assets to which this Site relates. 
 
 ## Cookies 
 
@@ -38,11 +38,11 @@ EBB/MBBP uses login information including but not limited to browser type and IP
 
 ## Advertisements
 
-Advertisements that appear on this Site are delivered to users by EBB/MBBP and are typically for complimentary marketing products and services. Some of these products and services may be offered to visitors and members as an affiliate program. In order to provide visitors and members with these services, the partner may need to collect and maintain personally identifiable information. In these cases you will be notified by the partner and have the opportunity to decide if you want to use that particular product or service prior to any such data being collected. 
+Advertisements that appear on this Site are delivered to users by EBB and are typically for complimentary marketing products and services. Some of these products and services may be offered to visitors and members as an affiliate program. In order to provide visitors and members with these services, the partner may need to collect and maintain personally identifiable information. In these cases you will be notified by the partner and have the opportunity to decide if you want to use that particular product or service prior to any such data being collected. 
 
 ## Links to Third Party Sites
 
-The Site may provide links to other Web sites or resources over which EBB/MBBP does not have control (“External Web Sites”). Such links do not constitute an endorsement by EBB/MBBP of those External Web Sites. You acknowledge that EBB/MBBP is providing these links to you only as a convenience, and further agree that EBB/MBBP is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. 
+The Site may provide links to other Web sites or resources over which EBB does not have control (“External Web Sites”). Such links do not constitute an endorsement by EBB of those External Web Sites. You acknowledge that EBB is providing these links to you only as a convenience, and further agree that EBB is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. 
 
 ## Voluntary Member Surveys
 
@@ -54,7 +54,7 @@ The Site is not directed at minors. You must be eighteen (18) years or age or ol
 
 ## Response to Email Inquiries
 
-In the case where a visitor or member sends an email inquiry to EBB/MBBP, we do not use the return email address for any purpose other than to respond to the request and will not share the return email address with any third party. 
+In the case where a visitor or member sends an email inquiry to EBB, we do not use the return email address for any purpose other than to respond to the request and will not share the return email address with any third party. 
 
 ## Disclosure 
 
@@ -64,13 +64,13 @@ We will also disclose your Personally Identifiable Information if we reasonably 
 
 ## Security 
 
-We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction. EBB/MBBP may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information. While we make every effort to protect the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third party hackers from illegally obtaining this information. 
+We may employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction. EBB may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information. While we make every effort to protect the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third party hackers from illegally obtaining this information. 
 
 ## Correction/Updating Personally Identifiable Information
 
-EBB/MBBP provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us. This process is done in the My Profiles section of the Site. You may access your account and review, correct and delete your Personally Identifiable Information at any time. 
+EBB provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us. This process is done in the My Profiles section of the Site. You may access your account and review, correct and delete your Personally Identifiable Information at any time. 
 
 You may also contact us by email at: admin@ebbwebdesign.com if you have any questions regarding this Privacy Policy or how to delete your Personally Identifiable Information. 
 
-Copyright 2013 Empowered Brand Builders, Inc. – DBA: E.B.B. Interactive & EBB Web Design | www.EBBwebdesign.com | www.ebbwebdesign.com  
+Copyright 2016 Empowered Brand Builders, Inc. – DBA: EBB Web Design, Inc. | DBA: EBB Web Solutions, Inc.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
