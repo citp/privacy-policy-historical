@@ -1,39 +1,17 @@
-> *The following text is extracted and transformed from the getabundance.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225202927id_/http%3A//www.getabundance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getabundance.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-**PRIVACY POLICY**  
-**  
-**(Last Revised: 02-21-2012)****  
-Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
+* * *
 
-**Information We Collect**  
-In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We may use your personal information, transfer your personal information, and/or sell your personal information for any legal purpose, including, without limitation: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s); and (5) to bring retail opportunities and promotional offers to you by email, direct mail, telemarketing, and/or online banner advertising. When your information is provided to third parties, these third parties may include providers of direct marketing services and applications. We or these third parties may supplement the information we collect online with outside records to enhance our ability to serve you, to tailor our content to you, and/or to offer you targeted advertising and other opportunities to purchase products and services that we believe may be of interest to you. ****  
-We will NEVER share your credit card information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive free information on products and services that may be of interest to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. By submitting your email address on this web site, you agree to receive email from us and our third party advertisers. We, and our third party advertisers, may maintain separate email lists for different purposes. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.  
-In addition, you agree that by submitting your email address on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We and our third party advertisers retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Third Party Actions** **  
-** We do not control and are not liable for the actions of our third party marketers or advertisers. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
-
-**Cookies**  
-We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. 
-
-**IP Addresses** **  
-** We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
-
-**Third Party Web Sites**  
-This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
-
-**Commitment to Data Security**  
-All information collected from you is stored in a technically and physically secure environment. We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
-
-**Contacting Us**  
-If you need to contact us, call us at (480) 858-0008, or send us a letter at:   
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-**Piranha Marketing Inc.**  
-4440 S. Rural Rd., Bldg. F  
-Tempe AZ 85282  
-(480) 858-0008
 
-We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
