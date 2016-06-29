@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the petflow.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905130045id_/https%3A//www.petflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petflow.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171337id_/https%3A//www.petflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Petflow.com
 
 * Privacy Policy. 
 
-The information we collect through our Site helps us provide you with information specific to your needs and interests. Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Petflow Inc and “you” and “your” and other similar references mean a specific user of the Site. Your access to and use of the Site is subject to the [Terms of Service](https://www.petflow.com/terms). All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the [Terms of Service](https://www.petflow.com/terms). By visiting the Site, you accept the practices described in this Privacy Policy. 
+The information we collect through our Site helps us provide you with information specific to your needs and interests. Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Petflow Inc and “you” and “your” and other similar references mean a specific user of the Site. Your access to and use of the Site is subject to the [Terms of Service](https://web.archive.org/terms-of-service). All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the [Terms of Service](https://web.archive.org/terms-of-service). By visiting the Site, you accept the practices described in this Privacy Policy. 
 
 * How Does Petflow Gather and Use Information? 
 
@@ -52,12 +52,12 @@ We may at our sole discretion edit this Privacy Policy. Notice of all changes to
 
 * How to Contact Us. 
 
-If you have questions or suggestions regarding this Privacy Policy or our privacy practices please visit our support page at [www.petflow.com/support](https://www.petflow.com/support).
+If you have questions or suggestions regarding this Privacy Policy or our privacy practices please visit our support page at [](https://web.archive.org/support).
 
 Or mail us at:  
 
 
-Petflow  
+PetFlow  
 989 6th Avenue, Floor 12  
 New York, NY 10018  
 
