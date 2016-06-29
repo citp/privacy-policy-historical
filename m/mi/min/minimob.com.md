@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the minimob.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212150501id_/http%3A//www.minimob.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimob.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001542id_/http%3A//www.minimob.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Generic - Spectral by HTML5 UP
 
-Last Updated: September 2015
+Last Updated: September 2016
 
 This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Minimob (CY) LTD and its subsidiaries and affiliates ("Minimob"). This Policy applies to Minimob's website, located at [www.minimob.com](http://www.minimob.com/) ("Site") as well as Minimob's mobile advertising platform, technology, features, products and services ("Service"). 
 
