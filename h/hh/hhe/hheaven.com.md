@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228083954id_/http%3A//www.hheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175752id_/http%3A//www.hheaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## PRIVACY STATEMENT
+## PRIVACY POLICY / Terms of Use
 
 H.Heaven Auto Repair thanks you for accessing or using this web site (the "Site"). H.Heaven Auto Repair wants to assure you that H.Heaven Auto Repair respects your privacy. H.Heaven Auto Repair knows that trust is the key to any successful business relationship. The following Privacy Policy describes H.Heaven's commitment to protect your personal information. Use of this Site constitutes your consent to the collection and use of the information as described below in this Privacy Policy. If H.Heaven Auto Repair changes this Privacy Policy, H.Heaven Auto Repair will update this page of the Site so that you will be aware of any changes to this policy. H.Heaven Auto Repair encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. This Privacy Policy explains how H.Heaven Auto Repair collects, uses and discloses your personal information. This Privacy Policy also explains the steps H.Heaven Auto Repair has taken to ensure that your personal information is secure. Finally, this Privacy Policy explains your choices regarding the collection, use and disclosure of your personal information.
 
