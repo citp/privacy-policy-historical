@@ -1,86 +1,167 @@
-> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071633id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629180130id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Rheem Manufacturing Company Online Privacy Policy
 
-Thank you for visiting the Web site of Rheem Manufacturing Company (“Rheem”).  This Privacy Policy contains information about Rheem’s commitment to your privacy.
+Last modified: 04/2016
 
-**_Note_ :** This Privacy Policy applies only to Web sites operated or controlled by Rheem, and not to Rheem’s offline practices.  This Privacy Policy does not apply to the Web sites of other companies, individuals, or organizations to which we may provide hyperlinks or that Rheem may be affiliated with but are not directly under Rheem’s operation or control.  These Web sites may have different policies relating to your privacy and the information they collect about you.  Visitors should consult the privacy policies of such Web sites, as Rheem has no control over information that is submitted to, or collected by, third parties.
+**_Introduction_**
 
-**What information does Rheem collect from visitors to its Web sites?   How does Rheem use that information?**
+Rheem (" **Company** " or " **We** ") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-Our Web site collects two kinds of information from you: (1) personal information that you submit to us; and (2) non-personal information, such as the pages you visited on our Web site and your IP address. 
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.rheem.com (our " **Website** ") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-  1. **Personally Identifiable Information**
+This policy applies to information we collect:
 
-We collect and use personally identifiable information about you when you submit feedback, questions, or requests for information about Rheem’s products and services, apply for a job or make a purchase.  This may include your name, mailing address, telephone number, fax number, e-mail address and other information in order to respond to your inquiries and manage transactions with you.  Rheem may collect and store the information you choose to provide us to send you information about Rheem and our affiliates, including information about our products and services, from time to time.  We may also use information about you for internal marketing analysis to better understand our customers and the marketplace.
-
-  2. **Non-Personally Identifiable Information**
-
-We collect and use non-personally identifiable information about you in the following ways:
-
-    * **Cookies**
-
-A cookie is a piece of data placed on your hard drive when you visit our site.  Cookies help us track traffic to our Web site, helping us identify what parts of our Web site interest visitors most.  In order to give you customized content, we may link cookie information with personally identifiable information but such information expires at the end of each visit to the site.  You may set your browser to inform you when cookies are being set before a cookie is stored, not accept cookies at all, and erase all cookies from your hard drive. If you choose to reject or erase cookies, your ability to navigate this Web site may be limited or even prevented.
+  * On this Website.
+  * In email, text, and other electronic messages between you and this Website.
+  * Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-    * **Referrers, IP Addresses, and Environmental Variables**
+It does not apply to information collected by:
 
-Rheem may also collect information through “referrers,” IP addresses, and various environmental variables.  A “referrer” is information your web browser passes along to the Rheem web server that references the URL of the Web site from which you came.  An “IP Address” is a number used by computers on a network to identify your computer so that data can be transmitted to you.  An “environmental variable” may include, among other things, the domain from which you access the Internet, the time you accessed our Web site, the type of web browser and operating system or platform used, the Internet address or the Web site you left to visit our Web site, the pages you visit while at our site, and the Internet address of the Web site you then visit.  Rheem may collect IP Address information in order to administer our Web site and to gather broad demographic information.
-
-  2. **Information Sharing**
-
-We may share personal information that we collect through our Web site with carefully selected third parties, including our affiliates, dealers, distributors, partners and sponsors whose products or services we believe may be of interest to you.  If you do not want us to share information about you in this manner, please see the section below titled, “What other choices do I have concerning information collected from me?” 
+  * us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or 
+  * any third party, including through any application or content (including advertising) that may link to or be accessible from the Website
 
 
 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see _Changes to Our Privacy Policy_ ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-Rheem may also share personally and non-personally identifiable information about you with third parties that help manage our Web site or provide data processing, order fulfillment, or shipping services, or that provide other services on our behalf.
+**_Children Under the Age of 13_**
 
-As **Rheem** continues to develop its business, we may enter into transactions to sell our assets or to buy or sell subsidiaries or business units. As part of these transactions, personal information covered by this Privacy Policy may be one of the transferred assets.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. 
 
-Finally, Rheem reserves the right to disclose personal and non-personal information about you if Rheem reasonably believes it is required to do so by law, including court order, to protect Rheem or the rights of others, or to reduce the risk of credit or other kind of fraud.
+**_Information We Collect About You and How We Collect It_**
 
-  4. **Third Party Links**
+We collect several types of information from and about users of our Website, including information:
 
-This Web site may contain hyperlinks to other Web sites.  Additionally, third parties may from time to time provide hyperlinks to our Web site.  PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY THIRD PARTY WEB SITE.  We encourage our users to read the privacy policies of the Web sites that they visit. 
-
-
-
-
-## How can I change what promotional communications I receive?
-
-  * If you would like to opt-out of receiving promotional e-mail messages from us, please send an e-mail to [corporate.office@rheem.com](mailto:corporate.office@rheem.com).  Please include your name and e-mail address in the body of the e-mail and reference “Remove” on the subject line. Please note that it may take a reasonable period of time for us to process opt out requests.
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ");
+  * that is about you but individually does not identify you, such as zip codes, and general location data; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
 
 
-**What other choices do I have concerning information collected through the Web sites?**
+We collect this information:
 
-  * If you do not want to us to share information with third parties as described under the heading, “Information Sharing,” please send an e-mail to [corporate.office@rheem.com](mailto:corporate.office@rheem.com).
-
-
-  * **California Residents:**   If you reside in California and have provided personally identifiable information to us, you may request information about our disclosure of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at the following address: Rheem manufacturing, 1100 Abernathy Road, Suite 1400, Atlanta, Georgia 30328. We will provide a list, within thirty (30) days, of the categories of personal information disclosed during the preceding calendar year, and the names and addresses of the third parties that received the information.
-
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
 
-**How can I update personal information previously provided to Rheem?**
 
-If you would like to change or modify information you have previously provided to Rheem through our Web sites, please send an e-mail to [corporate.office@rheem.com](mailto:corporate.office@rheem.com).  Please note that we may not be able to make certain changes for legal reasons or to preserve accurate records of transactions.
+Information You Provide to Us. The information we collect on or through our Website may include:
 
-### How does Rheem secure personal information collected through its Web sites?
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering warranty information, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Your search queries on the Website.
 
-We employ reasonable security measures to protect against the loss, misuse, or alteration of personal information we collect through our Web sites.
 
-#### Children under the age of 13.
 
-Our Web site is not targeted to children under the age of thirteen, and we do not knowingly ask for, collect, or use personally identifiable information from any child under the age of thirteen.  If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will promptly delete the information from our records.
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, " **User Contributions** "). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-### How can I learn about changes to this Privacy Policy?
+Information We Collect Through Automatic Data Collection Technologies. As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-If we decide to change this Privacy Policy, we will highlight the changes for a reasonable period of time.
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-**Where can I go with questions?**
 
-If you have any questions about this Privacy Policy or our information practices, please contact us at: [corporate.office@rheem.com](mailto:corporate.office@rheem.com).
 
-Effective Date: 4/1/2009
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
+
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
+  * **Web Beacons.** Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+
+**_Third-Party Use of Cookies and Other Tracking Technologies._**
+
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
+
+**_How We Use Your Information_**
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website. In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+**_Disclosure of Your Information_**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Rheem's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Rheem about our Website users is among the assets transferred.
+  * To fulfill the purpose for which you provide it. 
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use www.rheem.com/about/websiteterms and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Rheem, our customers, or others. 
+
+
+
+**_Choices About How We Use and Disclose Your Information_**
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from the Company.** If you do not wish to have your email address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. 
+
+
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (" **NAI** ") on the NAI's website.
+
+**_Your California Privacy Rights_**
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [corporate.office@rheem.com](mailto:corporate.office@rheem.com).
+
+**_Data Security_**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology. 
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+
+**_Changes to Our Privacy Policy_**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+
+**_Contact Information_**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [corporate.office@rheem.com](mailto:corporate.office@rheem.com)
