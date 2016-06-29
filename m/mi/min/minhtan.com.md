@@ -1,24 +1,17 @@
-> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216142057id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy - Minh Tan Online store - Music, Video And More...
+# Legal
 
-MinhTan.com is committed to protecting your privacy.  
-This privacy statement discloses what information we gather about you when you visit the MinhTan.com Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.  
- 
+* * *
 
-**Collection of your Personal Information:**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-The personal information we collect may include your name, title, company or organization name, e-mail, phone. We may collect certain information about your visit, such as type of browser you use; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site. This information is used to help improve the Site and administer the Site.  
- 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Use of your Personal Information:**
 
-The personal information collected on this Site will be used to provide the services you have requested.  
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, we may send you information about other MinhTan.com products and services.  
- 
 
-**Questions:**
-
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](mailto:Support@minhtan.com) form.
-
-We may occasionally modify this privacy statement. All such changes will be reflected on this web page.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
