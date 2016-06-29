@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155021id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629142823id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
 
 # Extended Stay America - Privacy Policy
 
 [privacy overview](https://web.archive.org/privacy/default.html "privacy overview")   |   [terms & conditions](https://web.archive.org/privacy/terms-and-conditions.html "terms & conditions")
 
-We are committed to protecting our guests’ privacy at Extended Stay America ®, Extended Stay Canada ®, and Crossland Economy Studios®. We understand that you may have questions about how our website collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern our website.
+We are committed to protecting our guests’ privacy at Extended Stay America® and Extended Stay Canada®. We understand that you may have questions about how our website collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern our website.
 
 [Click Here](http://www.extendedstayamerica.com/privacy/terms-and-conditions.html) for our Terms of Use.
 
