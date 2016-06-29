@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133030id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629083558id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ditch The Carbs
 
-This privacy policy sets out how Ditch The Carbs uses and protects any information that you give while using www.ditchthecarbs.com
+This privacy policy sets out how Ditch The Carbs uses and protects any information that you give while using www.ditchthecarbs.com. Ditch The Carbs believes very strongly in keeping your personal information confidential. The following policy describes what information we collect and how it is used and shared.
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -28,13 +28,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
 **How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 Like many other websites, we use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -44,7 +38,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 **Links to other websites**
 
@@ -58,16 +52,6 @@ You can unsubscribe from our subscriber service at any time using the “Unsubsc
 
 **Opt Out**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include but are not limited to ….  
-Google Adsense  
-Sovrn  
-Gourmet Ads  
-Amazon
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
-Google, as a third party vendor, uses cookies to serve ads on www.ditchthecarbs.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.ditchthecarbs.com and other sites on the internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%C2%A0)
-
 Ditch The Carbs uses Google analytics demographics and interest reporting. Visitors can opt out of Google analytics for display advertising and customise Google display network ads using Google’s [Ad Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjPZFV7wfc4PJnZqUO_Vf2bldKc77jrpWN4z8RGIUXCHTRyyO3LJ3VWcU462trScgO5dGG7liIkxxR-Oao95qzh0F6xmpcOEnB7iVtK40bYQ9c4mvbnrErkGHdr0_nxUFAtQJqcDwMZ_NzHGpBhZt5h-z8l3eShp5qS4yChUKA9wzizRu0) page. Users can completely block Google analytics tracking using [Googles analytics opt out browser add on](https://tools.google.com/dlpage/gaoptout/).
 
 You should consult the respective privacy policies of these third party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. www.ditchthecarbs.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
@@ -75,3 +59,10 @@ You should consult the respective privacy policies of these third party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+
+**Information Collected**  
+Ditch The Carbs collects as little information as possible from users looking to post comments. We will typically collect a name (either real or alias), personal website, and e-mail address.
+
+### FREE eBook - 15 Low Carb Healthy Treats
+
+Subscribe now to receive your FREE copy of _**Low Carb Healthy Treats**_ eBook.
