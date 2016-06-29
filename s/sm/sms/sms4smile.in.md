@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915002707id_/http%3A//sms4smile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy in English
+# Legal
 
-The privacy of our visitors to SMS4Smile.in is important to us.
+* * *
 
-At SMS4Smile.in, we recognize that privacy of your personal information is important. Here is information on that types of personal information we receive and collect when you use and visit SMS4Smile.in, and how we safeguard your information.  We never sell your personal information to third parties.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We do not sell, trade, rent or make available, your personal information to others.  
-This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our Terms of Use page.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**What information do we collect?  **  
-When you complete a form on our website, we may ask you for your name, e-mail address, postal address and your telephone number(s). This is so we can contact you easily if required.
 
-**How do we use your information?  
-**We use the information collected from you to help in any issues you may have relating to this website. We may use your personal information to communicate with you, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content.
 
-**Cookies  **  
-Cookies are small text files that a web site transfers to a site visitor’s hard disk or browser for added functionality, or for tracking web site usage. We do not use cookies to gather personal information such as a person’s name or e-mail address. In order to measure the effectiveness of our on-line presence, Mobile Heart may use cookies to identify repeat visitors to our site and to determine the path visitors take on our site.
-
-Use of cookies is an industry standard and many web sites use them. If you do not wish to receive cookies, or want to be notified of when they are placed, you can set your web browser to do so, if your browser so permits.
-
-**Advertisers  **  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-
-**Security  **  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use state of the technology to track intruders and maintain our site active and protected.
-
-**Children’s Privacy**  
-Some Portions of the Web site may be used by children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our web site.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
