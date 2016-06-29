@@ -1,43 +1,117 @@
-> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927164745id_/https%3A//www.mollom.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001153id_/https%3A//www.mollom.com/website-privacy-policy) for the most accurate reproduction.*
 
-# Website privacy policy | Mollom
+# Privacy Policy | Acquia
 
-This document explains your rights and obligations on the mollom.com website. We have tried to make it as short and readable as possible, but please read it carefully because you are bound by its content when using this website.
+Thank you for visiting Acquia, Inc.’s (“Acquia”) Internet web site located at the URL: [http://acquia.com](http://acquia.com/) (“Site”). This Privacy Policy details certain policies implemented throughout Acquia governing Acquia’s use of personally identifiable information about users of our Site and users of our services and/or software that is available for download on this Site.
 
-This document covers only the part of our website that deals with the commercial and technical information about our company and our services, such as [our blog](https://web.archive.org/blog). This document does **not** cover the use of our web service or the [software you can download from this website](https://web.archive.org/download).
+Acquia complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Acquia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Acquia’s certification, please visit <http://www.export.gov/safeharbor/>
 
-## Disclaimer
+### Privacy Policy Updates
 
-The mollom.com website contains a lot of information. We created some of it ourselves, while our visitors have created other parts of it. Although we carefully draft the information we publish and we try to correct any mistakes as soon as possible, you should be aware that you use any of the information on this website at your own risk. You should be _even more careful_ when using the visitor-contributed information like the comments of [our blog posts](https://web.archive.org/blog). This means that – to the furthest extent permissible by law – we are not "contractually" or "extracontractually" responsible, in any way, for any harm this website (or any external website we link to) might cause you … unless, of course, we publish information that is intentionally fraudulent or harmful information – consider this unlikely!
+Due to the Internet’s rapidly evolving nature, Acquia may need to update this Privacy Policy from time to time. If so, Acquia will post our updated Privacy Policy on our Site located at [http://acquia.com/about-us/legal/privacy-policy](https://web.archive.org/about-us/legal/privacy-policy) and post notice of the change so it is visible when users log-on for the first time after the change is posted so that you are always aware of what personally identifiable information we may collect and how we may use this information. . If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Acquia encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
-## Participation
+### Information Collection and Use
 
-When you participate in comment discussions attached to blog posts, you are responsible for what you post. Although we will not screen all contributed content, we reserve the right to remove anything we deem inappropriate, without any possibility of recourse or redress on your part.
+You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or request information, participate in chat or message boards, or complete a profile or registration form. Furthermore, we require you to complete a registration form to access certain restricted areas of the Site, to use certain services and when you download any software. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, e-mail address, address, phone number, password, screen name, credit card information and other contact information that you voluntarily transmit with your on-line and in-person communications to us and personally identifiable information that you elect to include in your chart and message board postings. 
 
-Be aware that some users will rely on the content of your posts. You – and not Mollom BVBA – are responsible for your posts, and you hereby fully indemnify us from any claim we might receive from third parties harmed by your content.
+If you use a forum on his Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-## Privacy
+We receive permission to post testimonials that include personally identifiable information prior to posting.
 
-We take privacy seriously. When you visit our website, our servers collect some technical information about you (web browser type, IP address) and also track which pages you visit on our site, for a period of up to 24 months. As long as you are not logged in, this information is fairly anonymous and we will use it only to create anonymous statistics (which we may sell to third parties). We may also provide the information collected about you if, in cases of fraud or other criminal activities, we are subpoenaed to do so by competent legal authorities.
+### Orders
 
-If you post to our blogs, you need to become a registered user and you will, of course, leave some additional traces of your identity: contact details, log in, etc. However, unless we are legally forced to do so, we will not combine our server logs to create detailed tracking of your behavior or sessions on our website.
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
 
-This website uses several cookies. They store technical information that allows us to better interact with your browser and to identify you on subsequent visits to our site.
+We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-This website also uses Google Analytics to collect non-identifying and aggregate information to improve our website. 
+In addition, we may collect information about the performance, security, software configuration and availability of customer web sites in an automated fashion as part of the Acquia Hosting services if you have opted-in to allow us to collect such information by agreeing to host a website with Acquia.
 
-## About us
+We use your personally identifiable information to register you to use our services or download software or other content, contact you to deliver certain goods, services or information that you have requested, provide you with notices regarding goods or services you have purchased, provide you with notices regarding goods or services that you may want to purchase in the future, verify your authority to enter our Site and improve the content and general administration of the Site and our services.
 
-Mollom.com is operated by
+If you install and use the “Acquia agent” and “Acquia site information” modules within the Acquia Drupal software and connect your installation of Acquia Drupal to our Acquia Network service, these modules will report to us, and we will collect, your IP address, operating system type and version, web server type and version, php version, database type and version, version of the services, modifications to the Drupal code, information regarding the availability of your website (e.g. if your website is live or down), website user statistics such as the number of nodes, number of users and number of comments. The foregoing information will be linked to your personally identifiable information and user accounts and we may use the foregoing information to better provide technical support to you and our customers and to improve our services.
 
-Mollom BVBA  
-Lage Kaart 71  
-2930 Brasschaat  
-Belgium  
-VAT number: BE 0899 193 661
+If you install and use the Mollom spam blocking module within Acquia Drupal and connect your installation of Acquia Drupal to Mollom service delivered through the Acquia Network service, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and your site visitors and content submitted by your site visitors for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
 
-If you have any questions, or if you want to exercise your legal right to access or correct your personal data, please contact us using our [contact form](https://web.archive.org/contact).
+If you submit information to our web site, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
 
-## Legal domicile
+If you install and use the Acquia Search module and connect your Drupal site to the Acquia Network service, in addition to the information we may collect, analyze and store when you use the Acquia Agent or Acquia site information modules, the Acquia Search module may collect, analyze and store the content of your site in an index. This index will be stored and updated on our servers to enable Acquia Search to work with your site. A copy of this index may be retained for up to 14 days as a backup in the event there is a problem with the index. Additionally, information about the size of your index, the search queries performed on your index, performance of Acquia Search for your queries, and other operational information is stored indefinitely in order to enable Acquia to monitor performance over time, manage the Search Service, and to provide you with information about the Search activity on your site.
 
-Our company is located in Antwerp, Belgium. We will handle your personal data in accordance with the strict requirements of Belgian data protection and privacy laws. Any claim, lawsuit, discussion, or similar concerning this document or your use of this website is under the jurisdiction of Belgian law and will be addressed in court in Antwerp, Belgium.
+If you choose to contact us by e-mail, we will not disclose your contact information contained in the e-mail, but we may use your contact information to send you a response to your message. Notwithstanding the foregoing, we may publicly disclose the content and/or subject matter of your message, therefore, you should not send us any ideas, suggestions or content that you consider proprietary or confidential. All e-mail content (except your contact information) will be treated on a non-proprietary and non-confidential basis and may be used by us for any purpose.
+
+### Communications from the Site
+
+#### Special Offers and Updates
+
+We will occasionally send you information on products, services, special deals, promotions.  
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
+
+#### Newsletters
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+
+#### Service-related Announcements
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+
+* * *
+
+### Customer Service
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+
+### Choice/Opt-out
+
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. 
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or you may contact us at [+1 617-588-9600](https://web.archive.org/about-us/contact) or by mail at 53 State Street Boston, MA 021093 to opt-out.
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+### Employment Opportunities
+
+We provide you with a means for submitting your resume or other personal information through the Site for consideration for employment opportunities at Acquia. Personal information received through resume submissions will be kept confidential. We may contact you for additional information to supplement your resume, and we may use your personal information within Acquia, or keep it on file for future use, as we make our hiring decisions.
+
+### Children's Privacy
+
+Acquia recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for children under the age of 13. Acquia does not target its services or this Site to children under 13. Acquia does not knowingly collect personally identifiable information from children under the age of 13.
+
+### Cookies and GIFs
+
+We use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you (except as provided below). We may also use clear GIFs (a.k.a. “Web beacons”) in HTML-based emails sent to our users to track which emails are opened by recipients.
+
+Additionally, when using the Site, we and any of our third party service providers may use cookies and other tracking mechanisms to track your user activity on the Site and identify the organization or entity from which you are using the Site. If you register with the Site, we, and our third party service providers, will be able to associate all of your user activity with your personally identifiable registration information. We will use such user activity information to improve the Site, to provide context for our sales and support staff when interacting with you and customers, to initiate automated email marketing campaigns triggered by your activity on the Site and for other internal business analysis.
+
+### Aggregate Information
+
+The Site may track information that will be maintained, used and disclosed in aggregate form only and which will not contain your personally identifiable information, for example, without limitation, the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, External Web Sites (defined below) linked to and IP addresses. We may analyze this data for trends and statistics in the aggregate, and we may use such aggregate information to administer the Site, track users’ movement, and gather broad demographic information for aggregate use.
+
+### Disclosure
+
+We will not sell your personally identifiable information to any company or organization, except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Acquia participates or to a purchaser or acquirer of all or substantially all of Acquia’s assets to which this Site relates. We may provide your personally identifiable information and the data generated by cookies and the aggregate information to parent, subsidiary or affiliate entities within Acquia’s corporate family, partner entities that are not within Acquia’s corporate family and vendors and service agencies that we may engage to assist us in providing our services to you. For example, we may provide your personally identifiable information to a credit card processing company to process your payment. Such third party entities may be obligated to protect your personally identifiable information consistent with the terms of this Privacy Policy and not for their promotional purposes and/or required to enter into written confidentiality agreements or to be certified by the U.S. Safe Harbor or agree in writing to adhere to its principles. We will also disclose your personally identifiable information (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an ongoing investigation of a governmental authority, (b) to enforce the Acquia Terms of Use agreement or to protect our rights or (c) to protect the safety of users of our Site and our services.
+
+The Site may provide links to other Web sites or resources over which Acquia does not have control (“External Web Sites”). Such links do not constitute an endorsement by Acquia of those External Web Sites. You acknowledge that Acquia is providing these links to you only as a convenience, and further agree that Acquia is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+
+### Security
+
+We employ procedural and technological measures that are reasonably designed to help protect your personally identifiable information including sensitive data such as your credit card information from loss, unauthorized access, disclosure, alteration or destruction. Acquia may use encryption, secure socket layer, firewall, password protection and other physical security measures to help prevent unauthorized access to your personally identifiable information including sensitive data. Acquia may also place internal restrictions on who in the company may access data to help prevent unauthorized access to your personally identifiable information.
+
+### Updating and Deleting Personally Identifiable Information
+
+Acquia provides you with the ability to review and update the contact information that you provide to us and account information retained by Acquia related to your previous purchase, download or payment activities. If you wish to review and/or update any of the foregoing information, you may access your account and review and update your personally identifiable information or you may contact us at the e-mail, phone or mailing address listed below.
+
+Acquia will also delete the personally identifiable information that you have provided to us: (a) upon your request or (b) upon termination of your Acquia account; provided, however, Acquia will retain a copy in its files of all personally identifiable information, if required for legal reasons.
+
+If you wish to review, correct or request the deletion of any information you have provided to us, contact us:  
+By mail: 53 State Street Boston, MA 021093
+
+We will respond to your request for access within 30 days. 
+
+### Questions
+
+If you have any questions regarding this Privacy Policy please contact us by mail: 53 State Street Boston, MA 021093
+
+### Users Outside of the United States of America
+
+Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with one or both of the Sites as a visitor from outside the United States, by using either Site, you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
