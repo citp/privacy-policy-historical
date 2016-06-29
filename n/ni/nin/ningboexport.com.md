@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821070339id_/http%3A//www.ningboexport.com/static/law.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningboexport.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630000947id_/http%3A//ningboexport.com/static/law.php) for the most accurate reproduction.*
 
 # Ningbo Import and Export Commodity Fair Online - Suppliers, Manufacturers, Exporters & Importers
 
