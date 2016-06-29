@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221004748id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629175104id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - ZIGMOS
 
-#### [](http://www.zigmos.com/wp-content/uploads/revslider/vertical_fullwidth/fullslide8.jpg?a09fc3)
+#### [](http://www.zigmos.com/wp-content/uploads/revslider/vertical_fullwidth/fullslide8.jpg?cea02d)
 
 #### We Respect Your Privacy.
 
@@ -104,5 +104,5 @@ contact@zigmos.com.com
 
 #### Contacting us:
 
-If there are any questions regarding this privacy policy you may contact us using the information below: [contact@zigmos.com](http://www.zigmos.com/contact/)  
+If there are any questions regarding this privacy policy you may contact us using the information below: [contact@zigmos.com](http://www.zigmos.com/support/)  
 Last Edited on 2014-11-30
