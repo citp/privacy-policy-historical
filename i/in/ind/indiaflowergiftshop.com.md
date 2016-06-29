@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010132157id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629111436id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
