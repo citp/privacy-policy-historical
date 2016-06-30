@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the statebankrewardz.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103180920id_/http%3A//statebankrewardz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statebankrewardz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630065003id_/http%3A//statebankrewardz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StateBankRewardz | Your Privacy is Important to us at India's Most Rewarding Loyalty Program for State Bank Group Debit Card Customers
+
+[ ](http://www.sbi.co.in/)
+
+[ ](http://statebankrewardz.com/default.aspx)
+
+Dear Customer, for verification purposes, State Bank Rewardz will send a One Time Password (OTP) to your mobile number and email ID that is registered with your Bank. If you have not updated your contact information, please visit your Home Branch. **New Feature :** Going forward, all your points accumulated from various banking channels will be merged under your Bank Customer ID (CIF). To know your CIF, please refer to your State Bank Passbook or visit your home branch. 
 
 _Privacy Statement_
 
