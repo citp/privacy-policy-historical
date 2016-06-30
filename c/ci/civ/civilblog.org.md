@@ -1,33 +1,24 @@
-> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225232543id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190542id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CivilBlog.Org
 
-At CivilBlog.Org the  **privacy**  of our visitors is extremely important. This  _Privacy_  Policy outlines the types of personal information that is received and collected and how it is used.
+The following Privacy Statement discloses the information gathering and dissemination practices for CivilBlog (http://civilblog.org).
 
-This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
+Our site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
-## **_1\. Log Files_**
+We may use an outside ad company to display ads on our Site. These ads may contain cookies and are collected by our ad company, and we do not have access to this information.
 
-We use log files like many other websites. The information in the log files include:  
-* Internet Protocol addresses (IP)  
-* Types of browser  
-* Internet Service Provider (ISP)  
-* Date and time stamp  
-* Referring and exit pages  
-* Number of clicks  
-All of this information is not linked to anything that is personally identifiable.
+We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
 
-## _2\. Cookies **& 3rd Party Advertisements**_
+In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
 
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, CivilBlog.Org has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.  
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
+By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. These companies may use some information (such as your domain type, your IP address, about your visits to this and other Websites) in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-## _3\. Other_
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from CivilBlog.Org. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
-
-If you require any more information or have any questions about our privacy policy  please feel free to contact us by email at civilblog.org@gmail.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: civilblog.org@gmail.com
