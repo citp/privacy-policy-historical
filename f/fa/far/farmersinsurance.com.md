@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersinsurance.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219053143id_/http%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersinsurance.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134704id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Farmers Insurance
 
@@ -128,7 +128,7 @@ A cookie is a message sent to your browser from a Web server that is stored on y
 
 We do not currently support Do Not Track signals but may in the future.
 
-When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites.
+When you visit our website, other parties may collect personally identifiable information about your online activities over time and across different websites.  Notwithstanding any other provision, we may work with a third party partner who may collect information from you, such as your IP address and information about your browser or operating system, and may place or recognize a unique cookie on your browser for the purpose of enabling interest-based content or advertising to you. The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form.  The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form. To opt-out of these data provider cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 ####   
 Right to Preserve and Disclose
