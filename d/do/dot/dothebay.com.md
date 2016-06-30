@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102111605id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155258id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
 
-# DotheBay | What to do in The Bay Area
+# DoTheBay | What to do in The Bay Area
 
 Last revised: May 6, 2014
 
@@ -15,7 +15,7 @@ Your privacy is critically important to us. We have a few fundamental principles
 
 This is our privacy policy which incorporates these principles. This policy applies to all of our operations and activities on this website.
 
-We (DotheBay) operate this website (DotheBay), using the Local Platform provided to us under a subscription agreement by DoStuff Media, LLC (DoStuff). It is our policy to respect your privacy regarding any information we may collect while operating our website.
+We (DoTheBay) operate this website (DoTheBay), using the Local Platform provided to us under a subscription agreement by DoStuff Media, LLC (DoStuff). It is our policy to respect your privacy regarding any information we may collect while operating our website.
 
 ## We Are Part of the DoStuff Network
 
