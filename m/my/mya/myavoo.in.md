@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myavoo.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608235828id_/http%3A//www.myavoo.in/privacy-p27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myavoo.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630145627id_/http%3A//www.myavoo.in/privacy-p27) for the most accurate reproduction.*
 
 # Privacy Policy - Myavoo Indian free Classifieds site, Free Job posting website in Indian, free advertising
 
