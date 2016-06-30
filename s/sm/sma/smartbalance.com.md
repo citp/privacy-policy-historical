@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101184253id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630064237id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
 
-# Smart Balance
+# Privacy Policy | Smart Balance
 
 **PLEASE READ THIS PRIVACY POLICY  
 CAREFULLY BEFORE USING THIS SITE**
@@ -95,12 +95,10 @@ Boulder Brands
 Suite 260  
 Paramus, NJ 07652
 
-Email address: [consumermail@boulderbrands.com](mailto:consumermail@boulderbrands.com)
+Email address: [webmaster@smartbalance.com](mailto:webmaster@smartbalance.com)
 
 Phone: (201) 421-3970
 
 Or contact us by fax: (201) 568-6374
 
 Please contact us if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases.
-
-[](http://www.smartbalance.com/slow-cooker-classic-recipes)
