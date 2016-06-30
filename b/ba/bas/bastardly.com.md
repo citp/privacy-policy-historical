@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bastardly.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219004219id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bastardly.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630164045id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoeJackson
+# Privacy Policy – MoeJackson
 
 **MoeJackson.com Privacy Policy**  
 This statement covers the site MoeJackson.com. Please read this statement carefully before proceeding to access MoeJackson.com. Your use of MoeJackson.com indicates your agreement to abide by the Terms in effect. The Website is owned and operated by Butter Media LLC. If you have any questions or suggestions regarding our privacy policy, [please contact us](mailto:contact@moejackson.com).
