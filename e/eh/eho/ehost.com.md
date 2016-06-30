@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919003855id_/https%3A//www.ehost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630192250id_/https%3A//www.ehost.com/privacy) for the most accurate reproduction.*
 
-# Vita privata - eHost
+# Privacy - eHost
 
 #### 1\. Who We Are
 
@@ -70,15 +70,15 @@ We may also disclose aggregate, anonymous data based on information collected fr
 
 #### 5\. Your Options
 
-  1. **Correcting/Updating Personal Information.** If your information changes or is incorrect, you may update or correct such information through our billing system at [https://www.ehost.com/billing](https://web.archive.org/billing "ehost Billing") or by emailing us at [privacy@ehost.com](mailto:privacy@ehost.com "Email privacy@ehost.com").
+  1. **Correcting/Updating Personal Information.** If your information changes or is incorrect, you may update or correct such information through our billing system at [my.ehost.com/billing](http://my.ehost.com/billing) or by emailing us at [privacy@ehosts.com](mailto:privacy@ehosts.com "Email privacy@ehosts.com").
 
   2. **Data Retention.** We will retain your information for as long as needed to provide you with the Services or as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
   3. **Opt Out.** By default, you will receive invoices, any system updates, eHost newsletters and other mailings. You are able to opt out of newsletters and mailings by using the unsubscribe link in any promotional email or as otherwise provided in the communication. Please note that customers may not opt out of receiving important system notifications or emails about their accounts. 
 
-  4. **Public Forums.** Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request the removal of your personal information from our community forums or testimonials, contact us at [privacy@ehost.com](mailto:privacy@ehost.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so. 
+  4. **Public Forums.** Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request the removal of your personal information from our community forums or testimonials, contact us at [privacy@ehosts.com](mailto:privacy@ehosts.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so. 
 
-  5. **Data Security.** eHost uses technical security measures to prevent the loss, misuse, altering or unauthorized disclosure of information under our control. Such security measures include but are not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. All sensitive information is collected on a secure server. When we ask customers to provide financial information (such as credit card numbers) that data is protected using Secure Sockets Layer ("SSL") technology. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Services, you can contact us at [legal@ehost.com](mailto:legal@ehost.com).
+  5. **Data Security.** eHost uses technical security measures to prevent the loss, misuse, altering or unauthorized disclosure of information under our control. Such security measures include but are not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. All sensitive information is collected on a secure server. When we ask customers to provide financial information (such as credit card numbers) that data is protected using Secure Sockets Layer ("SSL") technology. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Services, you can contact us at [legal@ehosts.com](mailto:legal@ehost.com).
 
 
 
@@ -93,7 +93,7 @@ We reserve the right to revise, amend, or modify this Privacy Policy at any time
 
 #### 8\. Contacting us
 
-eHost encourages individuals to contact us with any questions concerning this Privacy Policy and the processing of personal information by contacting eHost via email at privacyeHost .com or at the address below. 
+eHost encourages individuals to contact us with any questions concerning this Privacy Policy and the processing of personal information by contacting eHost via email at privacy@eHosts .com or at the address below. 
 
 eHost   
 5005 Mitchelldale, Suite #100   
