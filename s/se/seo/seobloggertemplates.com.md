@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seobloggertemplates.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907155612id_/http%3A//www.seobloggertemplates.com/p/privacy-policy-of-seo-blogger-templates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobloggertemplates.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630111708id_/http%3A//www.seobloggertemplates.com/p/privacy-policy-of-seo-blogger-templates.html) for the most accurate reproduction.*
 
-# SEO Blogger Templates: Privacy Policy of SEO Blogger Templates
+# {2016} Free Premium SEO Blogger Templates | Blogspot Themes: Privacy Policy of SEO Blogger Templates
 
 [](http://2.bp.blogspot.com/-h1yTUmP982Y/VXQbVa9RGwI/AAAAAAAAAA4/ISk--rNxEfw/s1600/1368287119_Terms-rev.png)
 
