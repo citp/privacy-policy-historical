@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bet.co.za privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029063800id_/https%3A//www.bet.co.za/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.co.za privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155841id_/https%3A//www.bet.co.za/Privacy_Policy) for the most accurate reproduction.*
 
-# BET.co.za :: BET.CO.ZA PRIVACY POLICY - BET.co.za - Simple Sports Betting South Africa - Live Betting Odds, Fast Payouts - Place Your Bet and Get Great Odds - Fast Payouts
+# BET.CO.ZA PRIVACY POLICY - BET.co.za - Simple Sports Betting South Africa - Live Betting Odds, Fast Payouts - Place Your Bet and Get Great Odds - Fast Payouts - Bet.co.za
 
 1. The content of this privacy policy is to be read in conjunction with the terms and conditions of use of BET.co.za that are hereby incorporated into this privacy policy by reference.
 
