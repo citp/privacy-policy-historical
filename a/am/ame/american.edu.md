@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104224218id_/http%3A//www.american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630025654id_/http%3A//www.american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
 
 # American University's Web Copyright Policy
 
