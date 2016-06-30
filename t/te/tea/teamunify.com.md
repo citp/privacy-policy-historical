@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216173832id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630221112id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,21 +116,7 @@ The TeamUnify Website is intended for adults only. By accessing, browsing, or us
 
 ## Information from Children under Age Thirteen – SWIM TEAM WEBSITEs
 
-We recognize that children under age thirteen (13) may want to register for accounts through and use the Swim Team Websites. Before we allow a child under age thirteen (13) to register for an account through a Swim Team Website or to otherwise provide us Personal Information through use of a Swim Team Website, we first obtain consent from the child's parent or guardian for the child to use the applicable Swim Team Website and provide us Personal Information through the use of the Swim Team Website.
-
-When a child under age thirteen (13) tries to register for an account on a Swim Team Website or otherwise provide us Personal Information through a Swim Team Website, we collect the child's e-mail address (or that of a parent or guardian) solely for the purpose of contacting the parent or guardian to request consent. We send the child and/or parent or guardian an email directed to the parent or guardian and provide the parent or guardian forty-eight (48) hours to respond with his or her consent to allow the child to register for an account on the Swim Team Website or otherwise provide us Personal Information through use of the Swim Team Website. If the parent or guardian refuses to allow the child to register for an account on the Swim Team Website or otherwise provide us Personal Information through the Swim Team Website, or if the parent or guardian does not provide consent within forty-eight (48) hours of when we requested consent, we delete the child's email address (as well as the parent or guardian email address) from our database and do not allow the child to register for an account or otherwise provide us Personal Information through use of the Swim Team Website.
-
-Before allowing a child under age thirteen (13) to use any feature of a Swim Team Website that might result in public disclosure of the child's Personal Information, comments, or content to the public, we require a high level of verification to confirm that the parent or guardian has given permission for the child to participate in such features and activities. For example, we may require the parent or guardian to return by postal mail, fax, or email a signed consent form.
-
-When we know we are going to collect Personal Information from a child under age thirteen (13) in order to allow the child to use a certain feature of the Swim Team Website, we take the following steps to protect the child's privacy:
-
-  * We notify the child's parent or guardian about our information practices with regarding to children, including the types of Personal Information we may collect from children, how we collect that information, the uses to which we may put that information, and whether and with whom we may share that information;
-  * In accordance with applicable law, we obtain consent from the child's parent or guardian for the collection and use of Personal Information from the child, and/or for sending information about our products and services to the child directly (see discussion of our procedure for obtaining consent directly above);
-  * We limit our collection of Personal Information from the child to no more than is reasonably necessary to allow the child to use the particular feature(s) of the Swim Team Website that the child wants to use; 
-  * We provide the child's parent or guardian the option to consent to our collection and use of the child's Personal Information, without consenting to our disclosure of that information to third parties; and
-  * Providing the child's parent or guardian access, or the ability to request access, to the Personal Information we have collected from the child and the child's account, as well as the ability to request that the child's Personal Information be changed or deleted. The child's parent or guardian may also provide us notice that the parent or guardian refuses to allow any further collection or use of the child's Personal Information at any time, and that the child's account be deleted.
-
-
+TeamUnify is committed to protecting the privacy of children and does not solicit or intend to collect information from children online under the age of thirteen on its websites. The collection of information of children under 13 is only intended to be used when a parent or guardian signs up an athlete for our services. If you believe your child's information has been collected without your consent or that of their legal guardian please email privacy@teamunify.com and that information will be reviewed and immediately removed if it is in violation of our policy.
 
 ## Security
 
