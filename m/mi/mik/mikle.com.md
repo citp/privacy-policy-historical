@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikle.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229141223id_/http%3A//feed.mikle.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikle.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630104748id_/https%3A//feed.mikle.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FeedWind Support
 
@@ -131,4 +131,4 @@ USA
 
 Last Edited on 2015-06-20 
 
-Posted by [](http://plus.google.com/114893661656971511851?rel=author) [](https://www.linkwithin.com/)
+Posted by [](http://plus.google.com/114893661656971511851?rel=author)
