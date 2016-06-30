@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123649id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630030845id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
 
 # Translation Service - Confidentiality - Translated
 
   * Privacy Statement
   * Automatically Collected Information
+  * Newsletters & emails
   * Supplier and Collaborator Privacy
   * Right to Change or Delete Information
   * Navigation data and cookies
@@ -30,6 +31,14 @@ Translated has written this privacy statement to demonstrate its complete respec
 
 We use your IP address (the one that unequivocally identifies the host at that particular time) and cookies to identify you while you make purchases on our site.  
 Translated uses a form to acquire information related to an order. In addition to the full name of the person placing the order, information for billing and future contacts is also registered. Translated is not given information related to credit cards - they are instead directly managed on Banca Sella's secure credit card processing server. 
+
+## Newsletter & emails
+
+We send you emails for a variety of reasons. These may include confirmations of orders or registrations. Our communication may also include information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at [http://www.translated.net](http://www.translated.net/) or by writing to [info@translated.net](mailto:info@translated.net). 
+
+Any emails we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. Furthermore, in the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use this data to enable us to send newsletter contents that matches your profile. 
+
+If you wish to object to this use of your data, you can do so by unsubscribing to our newsletters. We also use service providers from the USA to send our emails. We make sure that the statutory conditions for the cross-border use of personal details are fulfilled. 
 
 ## Supplier and Collaborator Privacy
 
