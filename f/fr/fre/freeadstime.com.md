@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadstime.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511145349id_/http%3A//www.freeadstime.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadstime.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630063917id_/http%3A//www.freeadstime.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Ads
 
@@ -8,12 +8,13 @@
 
 When accessing our Website, FreeAdsTime.org will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
-If you visit our site to read or download information on our pages, we collect and store only the following information about you:
+If you visit our site to read or download information on our pages, we collect and store the following information about you:
 
 1\. The name of the domain from which you access the Internet  
 2\. The date and time you access our site  
 3\. The Internet address of the website you used to link directly to our site.  
-4\. Visited pages
+4\. Visited pages  
+5\. Your IP address
 
 If you use Facebook to login, FreeAdsTime.org's Facebook App may collect the following info from your Facebook account as well:
 
@@ -41,14 +42,14 @@ FreeaAsTime.org uses cookies to store information about visitors preferences, re
 
 DoubleClick DART Cookie
 
-.:: Google, as a third party vendor, uses cookies to serve ads on FreeAdsTime.org.  
+.:: Google, as a third-party vendor, uses cookies to serve ads on FreeAdsTime.org.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to this classifieds and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.net/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense  
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on this classifieds send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on this classifieds send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
 
 
 FreeAdsTime.org has no access to or control over these cookies that are used by third-party advertisers.
