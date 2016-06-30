@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aftermarket.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911194512id_/http%3A//www.igloo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftermarket.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630074852id_/http%3A//www.igloo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | We respect your privacy | Igloo.com
+# Buy & Sell Domains on Igloo.com
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=884c1902-02da-438a-9cc5-d2b397d6c01c "TRUSTe Privacy Certification")
 
