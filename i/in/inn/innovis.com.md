@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the innovis.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910155155id_/https%3A//www.innovis.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovis.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630062035id_/https%3A//www.innovis.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Last Updated: June 30, 2015
-
-## Policy Update
-
-Innovis Data Solutions, Inc. has updated its privacy policy. The updated privacy policy takes effect on June 30, 2015. Individuals or organizations accessing the Innovis website after June 30, 2015 will be covered by this updated policy. 
-
-To view our prior privacy policy [click here](https://web.archive.org/home/priorPrivacy)
 
 ## Scope of this Policy
 
