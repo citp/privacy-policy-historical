@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achieve3000.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229094515id_/http%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achieve3000.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630143920id_/http%3A//www.achieve3000.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Achieve3000
 
@@ -26,7 +26,7 @@ Achieve3000 sometimes posts materials from Students on its Website and on-line S
 
 Achieve3000 makes reasonable efforts to secure Service Data against unauthorized access. These efforts include employment of physical, administrative, and technical safeguards based on currently available technology and practices to promote the integrity and security of the Services and Service Data.
 
-In certain of our Service materials we include links to other websites. This Privacy Policy does not apply to such external links, and we make no representations concerning the privacy policies followed by linked websites. We urge parents and teachers to learn more about protecting children on the Internet by visiting the following sites: [U.S. Dept. of Education’s Internet Safety](http://www.ed.gov/edblogs/technology/) and [SafeKids.com](http://www.safekids.com/).
+In certain of our Service materials we include links to other websites. This Privacy Policy does not apply to such external links, and we make no representations concerning the privacy policies followed by linked websites. We urge parents and teachers to learn more about protecting children on the Internet by visiting the following site: [SafeKids.com](http://www.safekids.com/).
 
 In the event that Achieve3000 is acquired by or merged with a third-party entity, we may transfer or assign Service Data as part of such merger, acquisition, sale, or other change of control, unless otherwise prohibited by applicable law.
 
