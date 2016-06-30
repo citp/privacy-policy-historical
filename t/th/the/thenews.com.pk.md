@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172202id_/http%3A//www.thenews.com.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630195841id_/http%3A//www.thenews.com.pk/privay-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The News International: Latest News Breaking, Pakistan News
 
 This is the web site of **Jang Group of Newspapers** publishing Internet Editions of Daily Jang (World's largest Urdu language newspaper and The News International (Pakistan's most widely read English daily).
 
@@ -8,7 +8,7 @@ Our postal address is
 **Printing House, I.I. Chundrigar Road,  
 Karachi, Pakistan 74200 **
 
-For any queries [click here](http://www.thenews.com.pk/comments/Default.aspx?camefrom=karachi) or you can reach us by telephone at 92-21-2626706  
+For any queries you can reach us by telephone at **92-21-2626706**  
 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
