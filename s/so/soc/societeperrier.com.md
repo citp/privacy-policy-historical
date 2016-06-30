@@ -1,155 +1,172 @@
-> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912074551id_/http%3A//societeperrier.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630223456id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Privacy Policy - Global Global
+# Data Policy
 
-Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the “Service”). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-Thank you for visiting this Nestlé Waters North America Inc. (also referred to as “we,’ “us,” and “our”) website. We know that you care how information about you is used and shared, and we want to keep your trust that we will do so carefully and sensibly. This Privacy Policy describes our information practices. By visiting our site, you are accepting the practices described in this Privacy Policy. We encourage you to read this Privacy Policy before you submit any personal information on this website.  
-What information about customers do we gather?
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-## Personal information
+###  What kinds of information do we collect? 
 
-To simply browse our website, we do not ask you to provide any personal information. However, if you wish to participate in many of the features and services offered on our website, we may ask you to provide certain personally identifiable and/or demographic information. Personally identifiable information, as used in this Privacy Policy, refers to any information that can be used to personally identify you or contact you. This may include, for example, your name, postal address, e-mail address, and telephone number, as well as demographic information that is linked to personally identifiable information. Demographic information, as used in this Privacy Policy, refers to information that describes personal characteristics but could not, on its own, be used to personally identify you or contact you. Demographic information may include your date of birth, age, gender, habits, or preferences.
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-Personally identifiable information and/or demographic information are only collected when you voluntarily provide it to us through one of the online forms available on this website, which may be most commonly encountered when:
+Things you do and information you provide.
 
-purchasing products or services from this website;  
-registering or signing up for membership on this website;  
-posting comments on message boards and other interactive discussion forms;  
-responding to surveys;  
-participating in sweepstakes, contests, and other promotions;  
-registering for newsletters or other communications from us; or  
-any other interaction that requires the submission of personal information.  
-If demographic information is collected for an activity or service that also requires personally identifiable information, we may combine the demographic information with your personally identifiable information. Combining this data allows us to customize the notices we send you and the content we provide you according to your interests and preferences.
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
-## Non-personal information
+Things others do and information they provide.
 
-## Cookies
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
-We use cookies to improve the use and functionality of our website. A cookie is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient way for us to personalize or enhance your experience on our website and to make your next visit more enjoyable. For example, cookies may allow us to remember the content you previously viewed on our website or your log-in information. Cookies may also be used to remember items you have previously placed in your shopping cart when making purchases. We do not use cookies to collect personally identifiable information, however we may link information contained in a cookie to personally identifiable information collected from you by other means (e.g., website registration).  
-You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you do so, you may not be able to register on our website or use other features that require registration or the collection of information.
+Your networks and connections.
 
-## IP Addresses
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-We may keep track of Internet Protocol (IP) addresses to, among other things: (i) troubleshoot technical concerns; (ii) maintain website safety and security; (iii) restrict access to our website to certain users, and (iv) better understand how our website is utilized. An IP address is a number used by computers on the network to identify your computer every time you log on to the Internet.
+Information about payments.
 
-## Log Files
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-We, or a vendor on our behalf, may collect information in the form of logs, files that record website activity and gather statistics about web users’ browsing habits. These entries are generated anonymously and help us gather, among other things: (i) a user’s browser type and operating system; (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they have viewed on our site and for how long); and (iii) other similar navigational data. We may also use information captured in log files for our internal marketing and demographic studies, so we can constantly improve and customize the online services we provide you. Log files are used internally only and are not associated with any particular user.
+Device information.
 
-## Web Beacons
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-We may use web beacons on our website or include them in e-mail messages we send you. Web beacons are small strings of programming code that provide a method of delivering a graphic image on a web page or e-mail message for the purposes of transferring data back to us. Web beacons may be used to allow us, or our advertising delivery partners, to communicate with cookies stored on your computer. The information collected via web beacons may also include some of the information described in the IP Address section above, as well as information about how a user responds to an e-mail campaign (such as, the time the e-mail is opened, where does the user link to from the e-mail, etc.). We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising and e-mail auditing and reporting, and content personalization.
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-## How do we use the information we collect?
 
-Generally, all information collected is used for the purpose for which the information was collected or as otherwise identified at the point of collection or in this Privacy Policy. For example, if you register or open an account on this website, the information you provide may be used to offer you the benefits and privileges that typically come along with registration. This may include purchasing products and/or services, access to and use of exclusive or personalized content or activities (such as message boards), participation in special events and promotions (contests, sweepstakes, coupons, etc.), and the ability to receive any communications or marketing material you select at the time of registration or that automatically come with registration. Similarly, if you contact us via an online contact form, your information may be used to respond to your inquiry or comment, and in some instances, post the answers to your question in anonymous form on the website. Any credit card information you provide us is used to fulfill and process your online purchases.
 
-When providing information on our website, you may also be given the option (through a check box or otherwise) to have your information used for an activity or service different from the primary activity or service that you are requesting. For example, if you are signing up for a contest or other promotion, you may also be able to sign up for newsletters or alerts from this website or our partners. If you choose to receive these additional services, we will use your information to provide them to you.
+Information from websites and apps that use our Services.
 
-From time to time, we may be approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personally identifiable information to send out notices on their behalf. We see this as a value-added service helping you find useful products or services. Our goal is to limit the notices and communications to those that we think you would appreciate receiving. Please note that all such mailings come strictly from us and your personally identifiable information is not shared with these other companies.
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
 
-We may also use your personal and/or demographic information for our internal marketing and demographic studies, so we can constantly improve, personalize, and customize the products and services we provide you and to better meet your needs. This may include occasionally combining, updating, or otherwise enhancing the personally identifiable information collected through this website with data we receive from outside records or third parties.
+Information from third-party partners.
 
-The following provides additional information about certain features of our website.
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
 
-## Newsletters and E-mail
+Facebook companies.
 
-If you provide us your e-mail address and/or mailing address, the contact information you provide may be used to send you newsletters, product or service literature, or other communications that you request.
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
 
-In addition, you may receive communications introducing you to other Nestlé brands or websites.
+###  How do we use this information? 
 
-We may also use your e-mail address to send you transactional or administrative communications (e.g., confirmation e-mail when you make an online purchase or sign up for, or unsubscribe from, a service or activity), as well as certain service-related announcements. Collectively, these types of communications are referred to in this Privacy Policy as “Administrative Communications.”
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
 
-## Sweepstakes, Contests, and Promotions
+Provide, improve and develop Services.
 
-To enter an online sweepstakes, contest, or promotion (collectively “Promotions”), you may be required to first register on this website. The information collected as part of a Promotion is used to determine your eligibility, notify you whether you are a winner, and/or fulfill and deliver prizes. We may use third party service providers to operate sweepstakes. In these instances, we may share the information collected for the Promotion with that third party, so that it may perform tasks necessary to provide the sweepstakes. If you are a winner, certain information about you (such as your name and picture) may be posted to the website. For more information about Promotions, please see the official rules or details posted with a specific Promotion.
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
 
-## Surveys
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
 
-There are two types of surveys that may be conducted on this website. One is where purely demographic or survey information (such as age, gender, household information, and other interests, etc.) is requested and the information is not linked to any personally identifiable information about you. In other cases (such as during website registration), we may collect the same information and combine it with your personally identifiable information.
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
 
-## Message Boards and other interactive features
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
 
-Visitors may post reviews, comments, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of “Spam”. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. We reserve the right (but do not have the obligation) to remove or edit such content, but do not regularly review posted content.
+Communicate with you.
 
-We encourage you to be wary of giving out personally identifiable information or images about yourself in public areas such as on a message board or other online community feature. Such information can be collected and used by people you do not know. As such, we cannot guarantee the security and privacy of, and are not responsible for, any information you post in these areas. Your use of these features is at your own risk. Please note that if you choose to post a picture or message through one of these features, we may post, along with the picture or message, certain non-personally identifiable information about you, such as your username and/or city and state of residence.
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-If you do post content or submit material, you grant us and our affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant us and our affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Nestlé Waters North America Inc. or its affiliates for all claims resulting from content you supply. Nestlé Waters North America Inc. has the right but not the obligation to monitor and edit or remove any activity or content. Nestlé Waters North America Inc. takes no responsibility and assumes no liability for any content posted by you or any third party.
+Show and measure ads and services.
 
-This website may also provide one-time use interactive features, such as e-cards and tell-a-friend messages. Personally identifiable information requested for an e-card, tell-a-friend message, or other referral feature, or other one-time use features (typically, e-mail addresses and names) will be used on a one-time basis (e.g., to send the communication) and will not be further retained by Nestlé Waters North America Inc.
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
-## Purchasing Products and Services Online
+Promote safety and security.
 
-This website may allow you to purchase Nestlé products or services through an online store operated by Nestlé Waters North America Inc. or a vendor on our behalf, as well as provide links to unaffiliated third party sites that sell Nestlé products. If you are purchasing a product or service through a Nestlé Waters North America Inc. website, you will be asked to provide your credit card information, including credit card number and billing and shipping addresses, as well as other basic contact information (e.g., telephone number and e-mail address). This information is used to fulfill your purchase and confirm your order.
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
 
-If the online store you are visiting is operated by an unaffiliated third party, we may provide you a direct link to the third party store for your convenience. Please note, however, that these sites are not operated by Nestlé Waters North America Inc. and are not covered by this Privacy Policy. We encourage you to read the privacy policy of the online store you are visiting before sharing any personally identifiable information or sensitive information such as your credit card number.
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/policies/cookies/) to learn more. 
 
-## Who is collecting your information and is it shared with anyone?
+###  How is this information shared? 
 
-The information that you disclose on this website is collected by Nestlé Waters North America Inc. or by a vendor acting on its behalf; and is used in accordance with the practices set forth above. The following provides more specific information about how and to whom we may disclose your information.
+Sharing On Our Services
 
-## Agents and Contractors
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
 
-We may use outside companies, agents, or contractors (collectively “vendors”) to provide support for the internal operations of our websites and to assist us with administering e-commerce services or various other programs and promotions available on our website. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payment and providing customer service. In the course of doing so, these vendors may come into contact with your personal information. However, we only give them access to (or allow them to collect on our behalf) the information they need in order to perform the specific tasks they have been hired to do. They may not use it for other purposes.
+People you share and communicate with.
 
-## Third Party Ad Networks
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
 
-This site may utilize third party web beacons to help manage online advertising. These web beacons are provided by our advertising delivery partners. These pixels enable our partners to recognize a unique cookie on your computer, which in turn enables us to learn which advertisements bring users to our website as well as provide you with targeted advertisements. The information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information regarding third party web beacons and cookies or to opt out of targeted advertisements delivered by our advertising delivery partners, go to http://www.networkadvertising.org/managing/opt_out.asp.
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
 
-## Partners, Affiliates and Joint Promotions
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
 
-From time to time, we may run a joint or co-sponsored program or promotion on our websites with another company, organization, affiliate or other reputable third party; and, as part of this event, collect and process personally identifiable information. You can tell when another company or business is involved in our promotions or your transactions and we may share customer information related to those transactions with that company or business. Periodically, we may run a promotion on our website that features the products or services of another company and may give you the opportunity to opt in to receive information directly from that third party company.
+People that see content others share about you.
 
-When operating any promotion involving another company, we may provide a separate link to that company’s website. If you do not want your information to be collected by or shared with a company other than Nestlé Waters North America Inc., you can always choose not to opt in or participate in these events at the time the information is collected/ requested. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any of these businesses or individuals or the content of their websites. We do not assume any responsibility or liability for the actions, products, content of all these and any other third parties. We encourage you to carefully review their privacy policies and other conditions of use.
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
 
-## Legal and Business Transfers
+Apps, websites and third-party integrations on or using our Services.
 
-We may also disclose personally identifiable information if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, to respond to any claims, or to protect the safety or rights of Nestlé Waters North America Inc., its customers, or the public.
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
 
-As we continue to develop our business, we might sell or buy stores or assets. In such transactions, personally identifiable information generally is one of the transferred business assets. Also, in the event of a merger or acquisition of all or part of Nestlé Waters North America Inc. or Nestlé by another company, or in the event that Nestlé Waters North America Inc. or Nestlé were to sell or dispose of all or a part of the Nestlé business, the acquirer would have access to the information maintained by that Nestlé business, which could include personally identifiable information, subject to applicable law. Similarly, personally identifiable information may be transferred as part of a corporate reorganization, insolvency proceeding, or other similar event, if permitted by and done in accordance with applicable law.
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
 
-## Aggregate Information
+Sharing within Facebook companies.
 
-We may share aggregated demographic or survey information with third parties, but this information is in anonymous form and does not contain any personally identifiable information. The aggregate information that we share may include anonymous information that is captured through the use of cookies and other similar tracking technology, as discussed in the Non-personal information section above.
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
 
-## What safeguards do we use to protect your personal information?
+New owner.
 
-Nestlé Waters North America Inc. takes commercially reasonable effects to protect the confidentiality and security of the personal information collected from our website visitors. These efforts may include, but are not necessarily limited to: (i) storing your personal information in secure operating environments; (ii) using industry standard SSL encryption to protect the security of certain sensitive personal information (such as credit card information) during transmission to our websites; and (iii) verifying the identities of registered website users before they can access the personal information we maintain about them.
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
 
-If you use this site to access your online account, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
+Sharing With Third-Party Partners and Customers
 
-## What choices do I have?
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
 
-The following outlines the choices you have with respect to the collection and use of your personal information by Nestlé Waters North America Inc.
+Here are the types of third parties we can share information with about you: 
 
-You always have the option not to share any of your personal information with us. However, if you choose this option, you will be limited in the activities and features we can provide you.
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
 
-If you do not want to receive newsletters, announcements, or other communications and/or services from this website, please opt out from these communications or services at the time of registration or when the information is collected. If you have opted in and, at a later time, wish to opt out, you may update your profile on the website and amend your preferences or contact us a the address below.
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
 
-Along with e-mail marketing communication sent to you, we will provide you the opportunity to discontinue receiving future marketing communications (i.e., unsubscribe). Simply follow the unsubscribe instructions provided in the e-mail.
+Please review your [advertising preferences](https://web.archive.org/help/562973647153813/) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
 
-You can always review or update any personal information that we may have collected about you for our general website registration by visiting the appropriate update profile sections of the website.
+Vendors, service providers and other partners.
 
-If any of the mechanisms set forth above is not available or you wish to make a different request, please contact as at:  
-Nestlé Waters North America Inc.  
-900 Long Ridge Road, Building 2  
-Stamford, CT 06902
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
 
-Please note that regardless of your opt out selections, we reserve the right to continue sending you Administrative Communications if you have previously provided your information in connection with any one of our online features, activities, or services.
+###  How can I manage or delete information about me? 
 
-In addition, please note that if you participated in a promotion or program that involved a third party company and, as part of that promotion, you agreed to receive future communications directly from that third party, you will need to contact the third party (not Nestlé Waters North America Inc.) directly to opt out from such communications. This process may be outlined in the third party’s privacy policy.
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
 
-## Children
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
 
-This website is a general audience website. We do not sell products for purchase by children or knowingly collect personally identifiable information from any person under the age of 13. Children under the age of 13 should always get their parent’s or guardian’s consent before providing information to anyone via the Internet. If you are under the age of 13, you should not register or provide any information on our Web site. We do not sell products for purchase by children. If you are under 18, you may use this site only with involvement of a parent or guardian.
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
 
-## Terms and Conditions, Notices, and Revisions
+###  How do we respond to legal requests or prevent harm? 
 
-If you choose to visit our site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Connecticut, as set forth in our Terms and Conditions. If you have any concern about privacy on our site, please send us a thorough description to the address below and we will try to resolve it.
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
 
-The Nestlé Waters North America Inc.  
-900 Long Ridge Road, Building 2  
-Stamford, Connecticut 06902
+###  How our global services operate 
 
-We reserve the right to make changes to this Privacy Policy. Any changes will be posted in this Privacy Policy. We encourage you to review this Privacy Policy whenever you come back to this website to make sure you are aware of any changes and how your information may be used. Your continued use of this website signifies your acceptance of these changes.
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=iAQHPmQ-Y&s=1). 
+
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=aAQGvAnmd&s=1). 
+
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
+
+###  How will we notify you of changes to this policy? 
+
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
+
+###  How to contact Facebook with questions 
+
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: January 30, 2015 
