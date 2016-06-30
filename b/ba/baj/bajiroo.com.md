@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajiroo.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210104342id_/http%3A//www.bajiroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajiroo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630124122id_/http%3A//www.bajiroo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Bajiroo.com
 
