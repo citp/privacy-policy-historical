@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192935id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630220616id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
 ## Home & Summary
 
-Last updated: 21 December 2015
+Last Updated: 21 December 2015
 
 In this privacy policy:
 
