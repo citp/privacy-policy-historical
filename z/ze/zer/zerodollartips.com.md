@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090205id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630160755id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Dollar Tips
 
