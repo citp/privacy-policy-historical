@@ -1,99 +1,182 @@
-> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815230130id_/http%3A//groundctrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630114053id_/http%3A//fyffest.com/fyfprivacypolicy) for the most accurate reproduction.*
 
-# Wonderful Union: A fan engagement company
+# FYF Fest 2016
 
-## ground(ctrl) Privacy Policy 2014
+**PRIVACY POLICY**  
+_Effective [03.28.2016]_
 
-Updated July 14th, 2014. [Previous Versions.](https://web.archive.org/terms-of-use-archive)
+**Overview**  
+Welcome to the website or mobile application of FYF Fest. This website or mobile application is owned and operated by Goldenvoice, LLC (the “ **Company** ,” “ **us** ,” “ **our** ,” or “ **we** ”), a subsidiary of Anschutz Entertainment Group (“ **AEG** ”). This privacy policy (the “ **Policy** ”) contains details regarding our practices and your choices relating to how we collect, use and disclose personal and other information about our guests, visitors and users.
 
-This policy is effective as of July 14th, 2014, and reflects only non-material changes and clarifications from the previous version. Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.
+You may provide information to us when you visit one of our websites, including any website where this Policy is posted, and any subdomains or mobile versions (collectively, the “ **Site** ”), use one of our mobile applications (the “ **Mobile App** ”), or interact with our other on-site or web-enabled technologies, such as on premise WiFi, Bluetooth beacons and interactive kiosks. We may refer to the Mobile App, Site, and these related web-enabled technologies, electronic and/or digital products or services collectively as our “ **Digital Services**.”
 
-### Privacy Policy 
+This policy is incorporated into the Terms of Use governing your use of any of our Digital Services. Any capitalized terms not defined in this Privacy Policy will have the definitions provided in our Terms of Use. **Through your use of any of our Digital Services, you consent to the practices described in this Policy.**
 
-This Privacy Policy, effective July 14th, 2014, is designed to help you, the user, understand how ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member”. We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
+Please note: This Policy does not apply to information collected by third parties, for example, when you purchase a ticket from a third party ticketing provider through links on our Digital Services, visit a third party website, or interact with online advertisements. Please take a moment to review the privacy policies of third-party sites before you disclose information to them, as we cannot be held responsible for their actions with regard to your information.
 
-By accessing and/or using this web site, you are (1) becoming a member of the ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+  * **What information do we collect and how do we use it?**
+  * **Third party sites and services**
+  * **With whom may we share your information?**
+  * **What choices do I have about the collection, use, and disclosure of my personal or other information?**
+  * **How can I access or update my Personal Information?**
+  * **What security precautions do you take to protect my Personal Information?**
+  * **Guidelines for minors**
+  * **Limitation of liability**
+  * **Changes to our Privacy Policy**
+  * **International users**
+  * **Contact us**
 
-We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
-
-### About ground(ctrl)™
-
-ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
-
-To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
-
-### Children’s Online Privacy Protection Act Of 1998
-
-This privacy policy is provided in conformity with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
-
-If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email address:
-
-ground(ctrl)  
-120 K Street Suite 300  
-Sacramento, CA 95814  
-Phone: 1 (877) GND-CTRL  
-Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
+  
 
 
-### Correcting, Updating or Removing Your Information
+###  What information do we collect and how do we use it?
 
-At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. Our customers support staff can assist them as well. 
+We may collect personal and other information about you when you use any of the Digital Services, as described below. “ **Personal Information** ” is information which can be used to distinguish or trace an individual's identity, such as their name, mailing address, email address, etc. whether used alone, or when combined with other personal or identifying information which is linked or linkable to a specific individual.
 
-### How We Use the Information
+We typically collect Personal Information and other data from you, and use that information in the following ways and as otherwise set forth in this Policy or otherwise communicated to you from time to time (subject to your consent when required by applicable laws). Please note, any information collected under this Policy may be associated with other information about you, whether by us or a third party service provider. For example, we may from time to time obtain data from third parties such as business partners or other companies and append it to existing user data to add more detail to the information we have about you.
 
-We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
+**When you register on the Digital Services**
 
-When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+Users may be able to register on our Digital Services to receive updates on an event or festival, bands or other acts, sponsors, and similar features available to registered users. Please note, it may also be possible to register with or other websites and services through links on our Site, and in such cases, this Policy does not apply. If you register on our Site, we collect Personal Information such as your name, email, address and any other Personal Information required on the registration form. We primarily use this information to manage and correspond with you about your account, send you information and newsletters related to our festivals, programs, and/or other events promoted by the Company, and for other matters described in this Privacy Policy.
 
-Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+**If you sign up for newsletters, emails and other offers.**
 
-### Sharing Your Information with Third Parties
+We may offer newsletters and other communications that provide information about concerts and events, our Digital Services, our company, our partners and sponsors, or other information we think would be of interest to you. By providing your email address and any other Personal Information required by the online form, you consent to receive these communications from us. We may also offer you the ability to sign up for third party emails. We use this information primarily to administer and manage our newsletter subscriptions and to provide you with additional communications, offers or newsletters we believe will interest you, or that you have consented to receive. Your Personal Information will also be added to our database for other uses in accordance with this Privacy Policy.
 
-This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+**If you contact us through the Digital Services.**
 
-  1. Enforce the network’s Terms and Conditions of Use Agreement;
-  2. Protect the network’s rights;
-  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
-  4. Protect the safety of it’s members; or
-  5. Enhance each member’s promotional and informational-sharing experience.
+You may contact us with questions about our programs, events, sponsors, ticketing, or other matters. Any information you provide through our Digital Services will be used in the context of resolving your request or answering your inquiry, or to provide additional information related to that inquiry. We may also place you on our marketing list for information related to your inquiry or which we otherwise believe would be of interest to you, and we may otherwise use your information as described in this Privacy Policy.
 
+**When you make a purchase.**
 
+Some of our Digital Services may enable you to buy tickets or make other purchases. Some purchases on our Digital Services or on our premises are handled directly by the Company and others are managed and processed by a third party service provider. We or third party service providers may collect Personal Information when you make purchases through our Digital Services, by telephone, or at our events and venues. For example, we or our third party service providers may collect your name, email address, phone number, mailing address, payment account information, security codes, other Personal Information that may be required to process your transaction, and other information depending on the purpose for which the Personal Information was provided. If you are purchasing tickets through third parties on our Digital Services, some or all of your purchase may be processed by a third party, tickets may be issued and managed by that third party, and your Personal Information will be subject to the policies of that third party.
 
-The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
+We or the third party service provider use purchase information in order to administer, manage and correspond with you about your purchase, and may also add your Personal Information to either of our databases in order to inform you of upcoming events, offers or other information that may be of interest to you. We or a third party service provider may also collect and store your purchase information and associate it with other Personal Information held about you in order to personalize the services and relevant offers.
 
-Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
+**If you use our Mobile App.**
 
-ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+Many of the Company’s venues or events have Mobile Apps associated with them. If you download and use our Mobile App, we or third party service providers may collect information through that Mobile App, including the Personal Information and other registration, login, or payment information you choose to provide; information about your device (such as your IP address, OS, device model, your device’s proprietary advertising identifier;) and information relating to how you use the Mobile App (such as the content you view, ads you click, and purchases you make.) When you consent to our Mobile App’s use of location services, or otherwise depending on the settings on your mobile device, we or third party service providers may collect the precise location information provided by your device, including data provided by your GPS, WiFi, or otherwise obtained when the Mobile App or your device interacts with a beacon at our locations or events, and/or at selected third-party locations.
 
-### Third-Party Advertising
+We collect the information primarily to facilitate the functionality of our Mobile App and deliver valuable, entertaining content to you. For example, we collect your registration and payment information so we can show you content that interests you and to process transactions on your behalf. We may collect your device’s location in order to show you offers or features available near you at our venues or events , to deliver more relevant information and ads, and to better understand how users interact with our venues or events . We may combine data we collect through our Mobile App with other information we hold about you so that we can personalize or improve the relevance and quality of the services we provide you.
 
-Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
+**If you enter a contest, sweepstakes or other promotion.**
 
-### Comments, Blogs, Messages, and Links
+We may operate contests, sweepstakes or other promotions (each, a “ **Promotion** ”) through our Digital Services, which may require registration on our Digital Services or through our social media channels in order to enter. Your Personal Information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry may also result in your being added to our marketing lists as well as those of third parties (sponsors or otherwise) associated with the Promotion. If you win a Promotion, your acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your Personal Information on our Digital Services or elsewhere, such as on a winner’s page. In some instances, a third-party advertiser or sponsor may operate or host a Promotion on the Digital Services together with the Company and collect your information. In cases where we are not the sponsor, operator or host of the Promotion, we may have no control over the information collected and accordingly encourage you to review the official rules of the Promotion as well as the advertiser’s or sponsor’s privacy policy applicable to the Promotion before participating.
 
-Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
+**When you post comments or other content on our Digital Services.**
 
-This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
+Our Digital Services may enable users to post comments or other content online. We typically collect your name, email address, and website when you post content on our Digital Services. We may use this information in connection with your postings, or to contact you about a post you have made. Please be aware that your name, website and any other information you provide in a comment box or similar field on our Digital Services, including any additional Personal Information, may be made public as soon as you post it on our Digital Services. We do not screen comments or other postings for personal or inappropriate information.
 
-### Security
+If you post a comment or content to social media that references our official accounts, your comment or content may appear on our Digital Services. We may receive certain Personal Information or other data if and to the extent provided to us by the social media platform. See those those third party providers for more information.
 
-Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer support and technical staff.
+**When you complete a Survey.**
 
-Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
+We may occasionally feature surveys on our Digital Services, which may collect certain Personal Information from you. For example, we or third parties may collect your name and email address, as well as other information related to your experience at one of our events, festivals or venues. By completing the survey, you consent to the collection by us or a third party of any Personal Information and other data you provide, and use of that Personal Information and data to administer, respond to, analyze or otherwise complete the survey process or as otherwise described in this Privacy Policy.
 
-### Disclaimer of Liability for Unauthorized Viewing of Personal Information
+**When you apply to be a vendor, volunteer or employee**
 
-You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+We may allow you to use our Digital Services to apply to be a vendor, volunteer, or employee at one of our venues, events or festivals. If you choose to apply, we will collect the Personal Information and other information required to process your application; typically, your name, address, telephone number, email address, and certain additional information relevant to the position or placement (such as your work history, information about your products/services, etc.). A third party service provider may collect this information on our behalf and share it with us, so please be aware of any additional policies that may apply to the information you provide in the application. We will use this information as necessary to process your application, contact your regarding this or other future application/vendor/work opportunities, and other related matters.
 
-### Changes in the Privacy Policy’s Terms of Use, Notices, and Revisions
+**Cookies, tracking, and interest-based advertising.**
 
-### Contacting This Web Site
+Our Digital Services may use cookies, web beacons, pixel tags, and similar digital tracking technologies. Cookies are small data files that are transferred to your hard drive when you visit a website if your browser settings permit the acceptance of cookies. Cookies may enable us to recognize your computer, store your preferences and settings, enhance your user experience by delivering content specific to your interests, perform searches and analytics and assist with security administrative functions.. Similar technologies, such as web beacons or pixel tags function through the use of small files, such as a GIF or PNG, which are opened on a page, ad, or in an email. The request for these files from a server reveals certain information, such as your browser type, IP address, and other information. Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier embedded in websites, online ads and/or email, and that are designed to provide usage information such as ad impressions or clicks, measure popularity of the Digital Services and associated advertising, and to access user cookies. We may also use these automated technologies to collect and analyze other non-personal information related to the devices you use to access the Digital Services, such as IP addresses, browser types, browser language, unique device identifiers and other information about your computer(s) and/or mobile device(s). Some tracking technologies on our Digital Services may be provided by a third party (which may be collecting information on its own behalf, or may be providing such information to us). Please note: some cookies/other technologies may track your activities not only on our Digital Services, but on third party sites you visit after you leave our Digital Services, and some services may aggregate this information collected from many sites into a single profile. To learn more about cookies and similar tracking technologies, and how they can affect your privacy, visit [allaboutcookies.org](http://allaboutcookies.org/).
 
-If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
+Our Digital Services may use cookies or other technologies provided by website analytics services such as Google Analytics to help us better understand how our Digital Services are used. By tracking how and when you use our Digital Services, these technologies help us determine which features and content on our Digital Services are most important to our visitors. If you do not want information collected through the use of cookies, you can turn off cookies using your browser’s settings menu; however, this may eliminate our ability to provide a personalized or user-friendly experience. To learn more about, or to opt-out of Google’s analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html), the [Google Privacy Policy](http://www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-ground(ctrl)  
-120 K Street Suite 300  
-Sacramento, CA 95814  
-Phone: 1 (877) GND-CTRL  
-Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
+Data about your activities online may be collected either by us, our affiliates, or third parties, for use in providing advertising tailored to your individual interests. We may use third parties such as network advertisers and ad exchanges to serve advertisements across the internet and may use third party analytics service providers to evaluate and provide us and/or third parties with information about the use of these ads on third party websites and viewing of ads and of our content. You may or may not be offered a choice as to whether or not to have your information collected for that purpose. The information collected may include information about your visits to our Digital Services, such as the pages you have viewed. These third-party tracking technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the effectiveness of the advertisements that have been delivered to you. This collection and ad targeting takes place both on our Digital Services and on third-party websites or services that participate in the ad network, such as websites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and we disclaim all liability in connection therewith. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Digital Services. To learn more about how to opt out of Google’s use of cookies, visit Google’s Ads Settings, [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCiMsTp6hu2gwIWAph1FkupERVvz6U76wP-bPuXf-PU7jkGobIl9xnvmhGPWftIUqRO5jfqD7HmRfYDu-YQNYDT-kpUlM-6waE6L-s0tr4sqZOIvCkHqRJCn0zn3pZ9U7hBlkI7Ue6nMD6EtyapCYzG4ZRIutukmhqmav5FuNJZ7pFD2C08). To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, [here](https://www.google.com/settings/ads?hl=en&sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt). To opt out from Facebook Custom Audience Pixel visit their customer support page [here](https://www.facebook.com/help/247395082112892). To learn more about how to opt out of Twitter’s use of audience pixels, visit the Twitter help page [here](https://support.twitter.com/articles/20170407).
 
+If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices> or the Network Advertising Initiative at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). Please note, most modern browsers include a “do not track” feature that may help protect your privacy. However, because there is not yet a defined response to do-not-track requests, our Site does not respond to your browser’s do-not-track request.
+
+**Automatic collection when you access our Digital Services**
+
+Our Digital Services automatically collect certain information from you when you use them. For example, some of our Digital Services use cookies and other similar tracking technologies to provide essential features and improve your experience when using our Digital Services (see below for more information). Additionally, through our Digital Services, our servers or networks may collect your device’s IP address and other device or network information, such as your screen resolution, OS version, browser version, and certain identifiers. We use this information to help ensure that our content is displayed properly, so that we can understand how, where and which devices access our Digital Services, and to improve the quality and delivery of our Digital Services.
+
+We may log click-stream or similar data for purposes of system administration, to improve our Digital Services, to report aggregate information to our advertisers, and other uses related to the Digital Services. Click-stream data is information collected when you request pages from our Digital Services, and may include information such as the page served, the time, the source and type of browser making the request, the most recent page view, what you clicked on in order to arrive at our Site, and other non-Personal Information. This data helps us analyze how visitors arrive at our Digital Services, what type of content is most popular, what type of visitors are interested in particular kinds of events, content, advertising, and the like. We may associate click-stream, shopping cart, ticket purchase (whether complete or incomplete) and other similar data with other information we hold about you so that we can personalize or improve the relevance and quality of the services or information provided.
+
+**When you access our wifi on-premise network**
+
+As part of our effort to provide an unparalleled customer experience, we may provide on-premise wifi for use by our guests. This wifi network is provided on our behalf by a third party service provider, which may request your email address in order to access the wifi service. When you use the wifi network, our service provider may collect information included in http headers and other common routing, device and network information such as your: MAC address; IP address; the model/version of your device and associated hardware and software (including your browser, OS, and other applications); URL requests sent over HTTP; the domains you access; mobile app servers with which you connect; as well as other unique identifiers used to determine whether you are a unique or return user, and other information about your use of the wifi network. The service provider may share with us a list of such information in raw or aggregate form. We and our service provider may use this information to: understand the usage dynamics of the service; to improve the quality of service and for other network/performance management functions; and to determine which sites and applications are most used by our guests. Further, we may use any such information as part of our marketing and promotional activities, including by linking such information to other information we may hold about you.
+
+Our wifi network is public and unencrypted. Use of this network is AT YOUR OWN RISK, as described further in the [Wifi Access Terms of Use](https://web.archive.org/fyfpublicwifi). ANY WIFI NETWORK THAT DOES NOT LINK TO THIS POLICY IS NOT OWNED AND OPERATED BY US OR OUR SERVICE PROVIDER, AND THIS POLICY DOES NOT APPLY TO THOSE NETWORKS. ALWAYS USE CAUTION WHEN CONNECTING TO PUBLIC WIFI NETWORKS.
+
+Please note, we do not collect the contents of the communications you send or relating to activity within the applications you use. You may be able to limit the information you make available through the use of encryption, for example, by connecting through a VPN or over HTTPS. By using our wireless network, you consent to our collection of the information described in this section. If you do not consent, you may not use our on-premise wifi network.
+
+**Location tracking.**
+
+We may collect data from physical proximity beacons, RFID bracelets, or similar tracking technologies located in or near our venues or events, or (through partnerships with local businesses or entities) in other locations visited by users of our Digital Services. Proximity beacons emit radio signals and detect when a device enters a specific area. RFID bracelets (such as those worn by attendees at our festivals) each have a unique electromagnetic tag that can be read by a scanner. Through our use of RFID or beacon technologies, we may collect data about your location and other contextual data when you are near a beacon or when your RFID bracelet is scanned. Further, if your device preferences allow us or our Mobile App access to location services, we may collect information about the precise location of your device in or near our festivals, programs, and/or other events, including data from each of our or our partners' beacons, wifi access points, or other location services with which you interact. This information may be collected when you are using one of our Mobile Apps and, periodically, in the background.
+
+We typically use this information to send you relevant, targeted advertisements or offers (for example, a discount on food purchases near our event;) to analyze and improve our guests’ experience at our events; and to determine which events and services guests visit. We and any third parties enabling these features may store location data and combine it with other information we hold about you, including your customer profile. You may disable your mobile device’s communication with location services or proximity beacons by disabling the appropriate network interface (such as wifi or Bluetooth,) modifying your preferences for location services through your OS, or as otherwise described below.
+
+**Other sources of Personal Information or data.**
+
+If we receive Personal Information or data from you through our Digital Services other than as described in this Privacy Policy, it will still be used and managed in accordance with this Privacy Policy, unless otherwise stated at the time you provide the information.
+
+### Third party sites and services
+
+As described above, our Digital Services include features, functionality, or offers (such as ticket purchases, promotions, surveys, etc.) provided by third parties, and may also contain links to third party advertisers and others. When you make purchases through third parties, we do not receive or store your payment account information, as the purchase and payment transaction is processed by the third party. However we may sometimes receive your email, or the last 4 digits of your credit card (for confirmation purposes), or other information provided during a purchase from the company through which your transaction was processed. We may also receive information from other third parties collecting information on our Digital Services, such as a third party promotion in which you choose to register. Any third party websites or services to which our Digital Services link may use cookies, independently collect data or solicit Personal Information, and you should carefully review the privacy policies of these third parties before providing them any Personal Information. This Policy does not apply to any information you submit to third-party websites or services, including, without limitation, any sites to which our Digital Services may redirect you for purchasing tickets, or other sites that may be connected to our Digital Services by hypertext link or otherwise.  
+ 
+
+### With whom may we share your information?
+
+Information we collect may be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We reserve the right to share your Personal Information with any of our current or future affiliated entities, subsidiaries, and parent companies. We may also share your Personal Information and other information with trusted third parties for marketing, advertising, or other commercial purposes, and we may occasionally allow third parties to access certain Digital Services for marketing purposes. In addition, if you purchase a ticket on our Digital Services or through links we provide, your Personal Information may be shared with trusted third parties in accordance with this Policy.
+
+Please note, if you use any social media plugin, API, or other similar feature, use an event hashtag or similar link, or otherwise interact with us or our Digital Services via social media, anything you post may be made available on our Digital Services or to the general public. We may share, rebroadcast, or redisplay that information or other information derived from your social media interactions to the extent permitted by the terms of use governing the relevant social media service.
+
+We may, without your consent, share Personal Information and other data with service providers who provide certain services on our behalf, or in the other circumstances noted below. For example, we may share certain Personal Information we collect with third parties such as providers of data hosting or processing services, payment processors, or other service providers. We also reserve the right to share any information we possess or data derived from it with service providers or others if such information has been reasonably de-identified.
+
+In the event that we go through a business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, customer data, including Personal Information, will, in most instances, be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+
+In limited circumstances, we may, without your consent, access and disclose your Personal Information, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose Personal Information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
+
+### What choices do I have about the collection, use, and disclosure of my personal or other information?
+
+It is possible for you to use some of our Digital Services without providing any Personal Information, but you may not be able to access certain features or view certain content. You may, to the extent such information is shared, opt out of having your information provided to third parties for marketing or other commercial purposes, and opt out of additional marketing or promotional communications from us. Please note, if you do not wish for us to provide certain information to one or more of our service providers, we may be unable to complete a transaction you request.
+
+You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You can instruct us not to provide your personal information to these third parties by sending an email to privacypolicy@aeglive.com with “REMOVE THIRD PARTIES” in the subject line. If you receive a communication from a third party and you do not wish to receive future communications from that party, you should also tell them to remove you from their marketing list. You may control or limit information we collect using proximity beacons or other location services and networks by changing your preferences in your device’s location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Digital Services. However, please note that use of RFID bracelets or other devices may be required in order to attend or participate in certain events.
+
+Please note, if you do not wish for us to provide certain information to one or more of our commercial service providers, we may be unable to complete a transaction you request. You can unsubscribe from all email newsletters or similar communications by clicking on the unsubscribe link in every email. You may opt out of all information sharing with third parties for marketing purposes (if any) by contacting us at the address or email below.
+
+### How can I access or update my Personal Information?
+
+You may access or update any Personal Information we hold about you by sending a letter or email using the contact information listed below. We will respond to reasonable requests for access or revision and will provide access to the extent required or allowed by law. However, we may decide not to grant access or make revisions where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in any given case, or when the rights of others would be violated by granting the access.
+
+To obtain a list of the Personal Information that the Company holds about you, or for residents of California (as required by California law) any Personal Information the Company has disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to: Goldenvoice, LLC Attn: Marketing Department, 425 W. 11th Street, Los Angeles, California 90015.
+
+### What security precautions do you take to protect my Personal Information?
+
+We have implemented reasonable security measures to safeguard the Personal Information you provide us. However, please keep in mind that we cannot be liable for the actions of third parties to whom we may transfer your Personal Information in accordance with this Policy, or third parties to whom you directly provide your Personal Information (such as when you purchase a ticket from a third party through links on our Digital Services). Furthermore, please remember that “perfect security” does not exist on the Internet, and accordingly we cannot provide any guarantee that your Personal Information or any other information you provide us will remain secure.  
+ 
+
+### Guidelines for minors
+
+Our Digital Services are neither directed at nor intended for use by minors. Further, we do not knowingly collect Personal Information from minors. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Digital Services unless you are 18 years old or older or under the supervision of your parent or guardian.  
+ 
+
+### Limitation of liability
+
+By providing us with any Personal Information you expressly and unconditionally release and hold harmless the Company, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the “ **Releasees** ”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected Personal Information. In addition, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your Personal Information by any third parties who receive your Personal Information. We make no representations or warranty regarding any third-party’s use, collection or disclosure of your Personal Information.  
+ 
+
+### Changes to our Privacy Policy
+
+By using any of our Digital Services, you consent to the terms of this Policy. We may change this Policy from time to time. Any changes will be posted on this page (including the effective date for any revised policy). Accordingly, we recommend that you consult this page frequently so that you are aware of our latest Policy. Your continued use of our Digital Services constitutes your acceptance of any revised Policy.  
+ 
+
+### International users
+
+If you are accessing our Digital Services from outside of the United States, any information provided will be transferred to us or our service providers in the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. You consent to such transfer through your continued use of our Digital Services.  
+ 
+
+### Contact us
+
+If you have any questions about this Policy, our privacy practices, or your dealings with our Digital Services, please contact:
+
+AEG Live  
+Marketing Department  
+425 W. 11th St.  
+Los Angeles, CA 90015  
+[privacypolicy@aeglive.com](mailto:privacypolicy@aeglive.com)
+
+**Notice for California Users.**
+
+Under California Civil Code Section 1789.3, California the Site users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
