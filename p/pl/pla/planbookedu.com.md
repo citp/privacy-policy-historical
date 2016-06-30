@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016150241id_/http%3A//www.planbookedu.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630201703id_/http%3A//www.planbookedu.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PlanbookEdu.com
 
