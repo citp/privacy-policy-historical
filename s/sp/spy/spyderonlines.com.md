@@ -1,33 +1,52 @@
-> *The following text is extracted and transformed from the spyderonlines.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223171205id_/http%3A//www.spyderonlines.com/privacy-policy-ezp-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyderonlines.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630095049id_/http%3A//www.spyderonlines.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Spyder Ski Wear,Spyder Ski Jackets, Spyder Jackets, Spyder Jackets Sale, Free Shipping, www.spyderonlines.com
+# Privacy Policy
 
-Agent Policy
+The owners and operators of http://www.spyderonlines.com/ take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-Nowadays,you can enjoy our professional guide forward retailing business online here.For long-term business with you in future,our company has refreshed brand-new agent policy,including both services of products line and gudience on extended marketing.Below details are shown:  
-1, For based convience in business,you are able to get a grown-up retailing site here spending only $300 to be our agent abroad.There are completely fully series of retailing products here,from which you can start you business once you purchase site here.With our professional direction,you would win earlier when enlarging retailing marketing home and abroads.Further,you will largely enjoy our free offering both of new hot selling produts updating and gudience on extended marketing;  
-2, For intime synchronous updating and accurate stock of products on sale,it is a kind suggestion that all the products shown on agent website here should be provided by our company here. Any new updating will be timely emailed or via call to notice you. Meanwhile,also you are greatly welcome to feedback us any new products in potential marketing,enforcing our business cooperation also.And we will in time reply you after studying marketing here.  
-3,Based at powerfull supportable system of manpower and technic-hardware,our retailing business including agent are updating smoothly by long-term cooperation both with manufacturing factory and also international air shipping company home and abroad.Hence,you can enjoy secure free  **shipping** on all orders in our company,DROPSHIPPING worldwidely.   
-4,After getting our agent qualification,you can fix your own marketing price in your business,while our qualified agent can largely enjoy more discount off our retailing price here.Following common business rule -"The more you buy,the more you will save,the more profit you will make!",we will help you to request our factory VIP members for you enjoy factory bargain wholesale.  
-5,Agent could enrich payment terms on your retailing site at your willing foundation to enlarge more business,and any new request updating on payment,please **[contact us](http://www.spyderonlines.com/contact_us.html)** here,our powerful technique will enable your requested payment to enforce your business further;Besides,due too large business financing venture,great risk and certain limit on our domestic payment in our business,it is our company policy that we only enable 3 payment terms including Western Union,MoneyGram and Wire Bank Transfer on our agent marketing.   
-6, It is our sincere and hard promise that we confidently promise in time orders processing.After orders fund arriving,all orders must be shipped out within 2days,via mail/directly call together with all list of tracking numbers here.Effectively,you all are able to track all the orders in time on line.Please allow 7-9days as orders delivery time;  
-7, For policy on shipping & returns or others info,please check our correlative define pages or our sales rep. on line for help.Besides,we will study and update essentially when agent feedback any.Welcome Feedback Now! 
+ **User Accounts**
 
-**SECURITY**  
-Our website uses industry standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. This encryption technology protects your name, address, and credit card number during data transport.We proudly displays the Verified Secure Seal - Our website has been scanned using the ControlScan Verified Secure vulnerability scanner for over 11000 vulnerabilities. This site is tested weekly and on demand to pass the FBI/SANS Internet Security Test. Our website is:
+Membership is an optional part of the http://www.spyderonlines.com/ web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments.
 
-  * 99.9% FREE from Hacker crime.   
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
 
-  * Tested for thousands of vulnerabilities including the FBI/SANS TOP 20.   
+ **Personally Identified Data**
 
-  * Notified immediately of any new vulnerabilities that may arise.   
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
 
-  * Safe from identity theft and credit card fraud.   
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-  * In compliance with the Gramm Leach-Bliley, Children's Privacy, HIPAA, and Sarbanes Oxley Acts. 
+ **Server Logs**
+
+Like most web sites, http://www.spyderonlines.com/ logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+
+ **Cookies**
+
+While browsing http://www.spyderonlines.com/, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of http://www.spyderonlines.com/ will function as expected without cookies enabled.
+
+ **Third-Party Advertisers**
+
+In order to cover the costs of providing hdwallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by http://www.spyderonlines.com/’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+
+ _Google Adsense:_
+
+We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
-Site Policy 
+ **Sharing/Selling of Data**
 
-We are committed to protecting your privacy. The information you provide to us is not given or sold to any outside party except for the shipping company delivering your order. We only share your shipping address and phone number with the shipping company. The information we collect from you is used only to process and ship your order. Your email address is used only to provide you with an order confirmation and tracking number. Your phone number is used to contact you in case of a problem with the fulfillment or delivery of your order. If you have any questions, concerns, or comments about our privacy policy we would like to know so we can address them. Please [**contact us**](http://www.spyderonlines.com/contact_us.html) here.
+http://www.spyderonlines.com/ does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
+
+ **Account Cancellation**
+
+Upon request, your http://www.spyderonlines.com/ account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
+
+ **Data Retention**
+
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.  
+For any problems or questions don’t hesitate to contact us.
