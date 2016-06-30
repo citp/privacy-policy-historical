@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319203756id_/https%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152054id_/https%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -11,6 +11,8 @@ Information You Provide to Us: When you register to use the Services, communicat
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
 ### Use and Disclosure of Your Personal Information
+
+Your information collected through the Service may be stored and processed in the United States or any other country in which Imagine Easy Solutions, LLC, or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
 We may use and disclose your Personal Information only as follows:
 
@@ -62,6 +64,10 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+### Google Analytics
+
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. 
+
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to support@citethisforme.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [support@imagineeasy.com](mailto:support@imagineeasy.com) for further clarification.
