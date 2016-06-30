@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the templeofthesun.com.au privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505004615id_/http%3A//templeofthesun.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templeofthesun.com.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630235445id_/http%3A//templeofthesun.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 This Privacy Policy governs the manner in which Temple of the Sun collects, uses, maintains and discloses information collected from users (each, a "User") of the templeofthesun.com.au website ("Site"). This privacy policy applies to the Site and all products and services offered by Temple of the Sun.
 
