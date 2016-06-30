@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcellars.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217174809id_/http%3A//www.brightcellars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcellars.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630085501id_/http%3A//www.brightcellars.com/privacy) for the most accurate reproduction.*
 
 # Bright Cellars: the monthly wine club with the best wine for you
 
