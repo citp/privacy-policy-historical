@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218001255id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630021411id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
