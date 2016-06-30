@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807032718id_/http%3A//www.katespade.co.uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630073719id_/http%3A//www.katespade.co.uk/uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -27,10 +27,12 @@
 
 ### Need Help ?
 
-If you have any questions or need help please contact us at [customer_care  
-@katespade.eu](mailto:Customer%20Care%20Kate%20Spade%20New%20York%20%3Ccustomer_care@katespade.co.uk%3E)
-
-or give us a call at [ 0800 240 4320 ](tel:0800 240 4320)lines open 8am-8pm monday-friday 10am-6pm saturday, closed sunday. calls made to 0800 240 4320that are not made from a UK landline may be subject to a charge.
+or give us a call at  
+[0800 240 4320](tel:0800 240 4320)  
+8am - 8pm monday to friday,  
+10am - 6pm saturday,  
+lines closed sunday.  
+calls made to 0800 240 4320 may be subject to a charge.
 
 last updated june 3, 2014
 
@@ -38,7 +40,7 @@ this privacy policy applies to your use of the website located at www.katespade.
 
 we reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this privacy policy, in whole or in part, at any time. when we amend this privacy policy, we will revise the "last updated" date located at the top of this privacy policy. for changes to this privacy policy that we consider to be material, we will place a notice on www.katespade.co.uk by revising the link on the home page to read substantially as "updated privacy policy" for a reasonable amount of time. if you provide information to us or access or use the site in any way after this privacy policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes. the most current version of this privacy policy will be available on the site and will supersede all previous versions of this privacy policy.
 
-if you have any questions regarding this privacy policy, you should contact our customer service department by email at [customer_care@katespade.eu](mailto:customer_care@katespade.eu).
+if you have any questions regarding this privacy policy, you should contact our customer service department by email at [customer_care@katespade.co.uk](mailto:customer_care@katespade.co.uk).
 
 as explained in more detail below, we may allow ad exchanges, web analytics vendors, social networking platforms and other third-parties to collect certain data and anonymous information when you visit our Site. These companies may use anonymous information (e.g., search and click stream information, browser type, time and date, the identity or type of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. by way of example, these companies may use a cookie or web beacon to collect this information. our site does not recognize browser "do not track" signals, and please understand that we can't always control third party cookies stored on your machine from visiting our Site, but you may visit the relevant third party's website directly to manage cookies stored on your machine by them, and several of our service providers who utilize these cookies or beacons on our site enable you to opt out of this behavioural advertising. to learn more about how to opt out of the behavioural advertising conducted by these providers you can visit <http://www.youronlinechoices.com/uk>
 
@@ -86,7 +88,7 @@ corporate change: in addition, we reserve the right to disclose, share and/or ot
 
 ## what steps are taken to keep personal information secure?
 
-we use a security protocol that is common in the industry for encrypting sensitive information and personal information that we collect. if If you place an order through this site, you will be asked to set up an account and provide an email address and password. you must provide an appropriate email address and password in order to access account information. in In order to help protect your personal information further, you should be careful about providing your password to others. if you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our customer service department by email at [customer_care@katespade.eu](mailto:customer_care@katespade.eu)
+we use a security protocol that is common in the industry for encrypting sensitive information and personal information that we collect. if If you place an order through this site, you will be asked to set up an account and provide an email address and password. you must provide an appropriate email address and password in order to access account information. in In order to help protect your personal information further, you should be careful about providing your password to others. if you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our customer service department by email at [customer_care@katespade.co.uk](mailto:customer_care@katespade.co.uk)
 
 we strive to ensure the security of your pd on our systems, including limiting access to the pd contained on our servers. whenever you give company sensitive or confidential information, that information is transmitted through a secure connection with your web browser. unfortunately, no security measures are perfect or impenetrable and no data transmission over the internet can be guaranteed to be 100% secure. company cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. we cannot and do not ensure or warrant the security of any information you transmit to company and you do so at your own risk.
 
@@ -132,7 +134,7 @@ you can access, correct and update certain personal information that you have pr
 
 ## your choices/unsubscribe
 
-you will have an opportunity to unsubscribe from receiving promotional material from this Site by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. additionally you may email us at [customer_care@katespade.eu](mailto:customer_care@katespade.eu) or write to us at kate spade new york, attn: customer service, 1-3 langley court, london, wc2e 9jy. because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. we appreciate your patience and understanding in giving us time to carry out your request.
+you will have an opportunity to unsubscribe from receiving promotional material from this Site by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. additionally you may email us at [customer_care@katespade.co.uk](mailto:customer_care@katespade.co.uk) or write to us at kate spade new york, attn: customer service, 1-3 langley court, london, wc2e 9jy. because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. we appreciate your patience and understanding in giving us time to carry out your request.
 
 even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. in In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
