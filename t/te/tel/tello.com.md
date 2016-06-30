@@ -1,88 +1,83 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621080404id_/https%3A//passtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630201224id_/http%3A//www.tello.com/privacy) for the most accurate reproduction.*
 
-# Urban Airship Wallet Studio
+# Tello US | Privacy Policy & Statement | You are safe with us
 
-## Our commitment to your privacy
+## Tello Privacy Policy 
 
-Urban Airship, Inc., a Delaware corporation (“Urban Airship”), respects your individual privacy. Our privacy policy documents our adherence to industry standards for the protection of your personal information.
+At Tello we care about the privacy of our visitors and we are committed to protecting your private data at all times. We will not collect any of your personal information that you do not volunteer to make available or consent to for further action. We do not sell, share, or rent this personal information to others in any way that we have not mentioned in this statement. 
 
-### Scope of the Privacy Policy
+## Collection of Information
 
-This Privacy Policy covers Urban Airship’s treatment of personally identifiable information that may be collected while you are on the Urban Airship site, when you order its products or that is shared with Urban Airship by its business partners. This policy does not apply to (i) Urban Airship’s treatment of personally identifiable information that may be collected while you use Urban Airship’s products or services, which such treatment shall be subject to and governed solely by the terms of Urban Airship’s then-current Service Agreement, available at [www.urbanairship.com/legal](http://www.urbanairship.com/legal/), or (ii) the practices of companies not owned or controlled by Urban Airship or to people whom Urban Airship does not employ or manage, nor does it address non-personally identifiable information. The policy specifically addresses the following areas:
+We collect personally identifiable information, like names, postal addresses, phone numbers, email addresses, credit card number, etc, when voluntarily submitted by our visitors. This information is used only to fulfill your specific request or process your order, unless you give us permission to use it in another manner, for example to add you to one of our contact lists.
 
-  * What personally identifiable information is collected by Urban Airship or by any third party through our site; 
-  * How Urban Airship uses this information;
-  * With whom Urban Airship may share this information;
-  * What choices are available to you as a user of the site with respect to collection, use and distribution of the information; 
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under our control; and 
-  * How you can correct any inaccuracies in the information.
+Once registered with Tello, you authorize us to use the information you provide to customize your interaction with our website.
+
+## Security
+
+We use reasonable precautions to keep the personal information you disclose both in your browsing and your purchases and to never release this information to third parties. Your personally identifiable information is kept secure. Only authorized employees have access to this information. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at customerservice@tello.com. 
+
+If you make an order on this website, we will need to use, but not store, certain of the information provided by you in order to process your order. This will include details related to your payment. We do not store private transaction details such as credit card information.
+
+We may use some data collected to investigate, prevent or take action regarding illegal activities and violations of our [Terms and Conditions](https://web.archive.org/terms).
+
+## Offers and Promotions
+
+We will use the data you provide us to notify you of offers or products that may be of interest to you, but at no time will we provide your data to third parties for their own direct marketing activities.  
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at customerservice@tello.com.
+
+## Analytics/Log Files
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We link this automatically-collected data to personally identifiable information, for example IP addresses are tied to personally identifiable information in the remote situations of fraud investigation. 
+
+## Behavioral Targeting/Re-Targeting
+
+We partner with third party ad networks to either display advertising on our web site or to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+## User Access and Choice
+
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on our member information page or by emailing our Customer Support at customerservice@tello.com. We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Cookies
+
+Like many other websites, Tello uses cookies to identify members and gather information related to the number of visitors and understanding how visitors use the website. Cookies can also help customize the website for our visitors and improve your experience by displaying goods and services that might interest you. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, [Ads Preferences Manager](https://www.google.com/ads/preferences/) or [Consumer Opt-Out](http://www.networkadvertising.org/choices/) tool. However, this can affect your interaction with our website, as well as other websites.
+
+Our partners, affiliates and service providers use cookies in order to make it easier for you to navigate our site. The use of cookies by our partners, affiliates and company service providers is not covered by our privacy policy. We do not have access or control over these cookies.
+
+## Third Parties
+
+Also, in our efforts to match our products with the people interested in them, we use advertising services belonging to third party vendors, such as Google. Your visit on our website is likely to be a result of this third party service provided to us (AdWords, DoubleClick, etc), as well as a source to be exposed to future ads based on your past visits and interests. To opt out the use of cookies you should visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). Also to set up your advertising preferences please visit [AdRoll](http://www.adroll.com/about/privacy#optpolicy).
+
+Our presence across the Internet is the outcome of this matching of users' preference and products available. In order to reach the right audience, the external companies we collaborate with (like Google or Quantcast) may use certain information to establish consumers' habits: visits to a website, goods and services to determine or predict our visitors' characteristics, behavior, or preferences.
+
+Anonymous data collected from visits to our websites is matched by external companies to larger pools of data (from more websites) to deliver ads to people with similar browsing pattern to our visitors. Thus, consumers receive more relevant ads and advertisers benefit from more effective advertising.  
+Such data collected DOES NOT INCLUDE our visitor's name, address, email address, telephone number. More information on how Google stores such data in the user's browser (using a "cookie") can be found [here](http://support.google.com/ads/bin/answer.py?hl=en&answer=2662749).
+
+Our Site includes links to other web sites whose privacy practices may differ from those of Tello. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+Our web site also includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. Tello will never share with third parties aggregate statistics about our customers, traffic patterns, and related site information. Tello may use third party companies to provide delivery of email newsletters and other messages over email. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may also disclose your personal information:
+
+  * as required by law, such as to comply with a subpoena, or similar legal process;
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud;
+  * if Tello is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
+  * to any other third party with your prior consent to do so.
 
 
 
-### Information Collection and Use
+## Obtaining Your Consent
 
-Urban Airship is the sole owner of the information collected on this site. Urban Airship may collect information from you at two different stages. First, we collect anonymous, aggregate information from all visitors to the site. This information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of our site. Second, Urban Airship collects personally identifiable information when you create a Urban Airship account and when you order Urban Airship products or utilize certain services. Online account creation may require you to submit the following personal information: name, address, company information, email address, and phone number. For purposes of billing, you may need to provide your credit card type, number, expiration date and billing address for the card. Certain personally identifiable information is required if you subscribe to a Urban Airship newsletter, or sign up to participate in a promotion, sweepstake or survey through the site. Urban Airship may also receive personally identifiable information from our business partners.
+By using our website, you give Tello permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register with Tello, you authorize Tello to use the information you provide in order to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. Tello may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
-### Personal Information of Children Under 13
+## Questions?
 
-Urban Airship complies with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512). This site is not directed to children and does not knowingly collect any personally identifiable information form children under 13 years of age.
+If you wish to change any information you have made available when registering, or have questions about our Privacy Policy, you can contact us at: [customerservice@tello.com](mailto:customerservice%40tello.com)
 
-### Your Disclosures to Third Parties
-
-To the extent you include personal data in your submissions (such as your email address, phone number or photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions. Please also note that the personal messages you send or receive using any website personal messaging feature, if available, are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts the contents of such a message.
-
-### Use of Your Personal Information
-
-Our primary goal in collecting information from you is to provide you with a smooth, efficient and customized experience while using our site and to allow us to provide products and services to you. Urban Airship will never give your information to, or share your information with, any third party not affiliated with or owned by Urban Airship, except as permitted by law. Urban Airship will send personally identifiable information about you to other companies or people when:
-
-  * We have your consent to share the information;
-  * We need to share your information to provide the products or services you have requested;
-  * We need to send the information to companies who work on behalf of Urban Airship to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); or 
-  * We respond to subpoenas, court orders, or legal process or find that your actions on our web site violate the Urban Airship Terms of Use or any of our usage guidelines for specific products or services. 
-
-
-
-### Profile
-
-We store information that we collect through cookies and log files to create a profile of our customers. A profile is stored information detailing how individual customers use the site. Collected information in a profile is tied to the customer’s personally identifiable information. However, your profile is used solely for internal purposes, to help us improve the experience of our customers. We do not share your profile with any third parties.
-
-### Cookies
-
-A cookie is a small text file stored on the customer’s hard drive for an extended period of time. The cookies can be removed by following Internet browser help file directions. Allowing a Urban Airship cookie to remain on your computer makes it easier for you to log in to and use the site.
-
-### Log files
-
-Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP) referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer’s movement in the aggregate and gather broad demographic information for aggregate use. IP addresses, etc are not linked to personally identifiable information.
-
-### Disclosure of Personal Information As Required By Law
-
-We will disclose personal information when required by law, or if we have good-faith belief that such action is necessary to (a) comply with current judicial proceedings, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
-
-### Business Transitions
-
-In the event that Urban Airship goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, our customers’ personal information may be part of the assets transferred. Customers will be notified via prominent notice on our site prior to a change of ownership or control of their personal information. If, as a result of the business transaction, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be given a choice consistent with our Notification of Changes section.
-
-### Links
-
-This site may contain links to and portions of other sites. Urban Airship is not responsible for the privacy practices or content of these other sites. When you leave our site or view a portion of a third party’s site through our site, we encourage you to read the privacy statements of each such site. This privacy statement applies solely to information collected by Urban Airship.
-
-### Security
-
-Wherever your personal information may be held within Urban Airship or on its behalf, we intend to take commercially reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information. We use encryption to protect sensitive information online. The servers that store your personally identifiable information are housed in a secure environment. Finally, we also make an effort to protect your information off-line.  
-When registering for access to a secure area of the site, we may ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer.
-
-### Correcting, Updating, Deleting and Deactivating Personal Information
-
-If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information.
-
-### Notification of Changes
-
-Urban Airship may edit this policy from time to time. If we make any substantial changes, we will prominently post a notice on the main page and other pages to alert you of the change.
-
-### Your California Privacy Rights
-
-California Civil Code Section 1798.83 permits customers who are California residents to request that Urban Airship not share their personal data with third parties for such parties’ direct marketing purposes. To make such a request, send an e-mail with “California Privacy” in the subject line to [support@urbanairship.com](mailto:support@urbanairship.com) or write to us at the address listed below.
-
-### Contact Information
-
-If you have any questions about our privacy policy, please contact us at: Webmaster, Urban Airship, Inc., 334 NW 11th Ave Portland, OR 97209. [support@urbanairship.com](mailto:support@urbanairship.com).
+Tello  
+1040 Crown Pointe Pkwy  
+Atlanta, GA, 30338  
+United States
