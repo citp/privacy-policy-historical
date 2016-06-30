@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114146id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630123954id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -27,7 +27,7 @@ When someone visits our websites we collect standard internet log information an
 
 ### Submitting personal information
 
-While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.qmul.ac.uk/102302.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
+While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.arcs.qmul.ac.uk/docs/policyzone/102302.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
 
 ## Use of cookies by Queen Mary
 
@@ -40,11 +40,11 @@ Please see the table below for details of the cookies we use at Queen Mary and t
  **Cookie**|  **Name**|  **Purpose**|  **Expires  
 ** (you may control these through your browser settings)|  **More information**  
 ---|---|---|---|---  
-Google Analytics| _utma| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| 2 days| [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+Google Analytics| _utma| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| 2 days| [Click here for an overview of privacy at Google](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)  
  | _utmb| 30 minutes  
  | _utmc | On closing browser  
  |  _utmz| 6 months  
-QM Cookie notice display| QMhasVisited| Signifies you have responded to our website's "A note on cookies" cookie notification. If you remove this cookie, the notification will display again.| 1000 days|    
+QM Cookie notice display| QMhasVisited| Signifies you have responded to our website's cookie notification banner. If you remove this cookie, the notification will display again.| 1000 days|    
   
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
