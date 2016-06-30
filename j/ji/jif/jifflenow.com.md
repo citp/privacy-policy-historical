@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jifflenow.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316085330id_/https%3A//www.jifflenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jifflenow.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125817id_/https%3A//www.jifflenow.com/privacy) for the most accurate reproduction.*
 
-# Simplifying meeting scheduling at B2B events I Jifflenow
+# Simplify B2B meetings at Events with Jifflenow’s Enterprise Scheduling Software
 
 iPolipo, Inc. dba Jifflenow (“Jifflenow”) values the privacy of our clients, their employees, their customers, and others (individually or collectively, “User” or “Users“) that use Jifflenow to manage meetings at B2B events such as trade shows, user forums, and that otherwise use www.Jifflenow.com and its associated websites, products, and services (collectively, the “Service“). This Privacy Policy details Jifflenow’s information-handling practices with respect to information you provide to us or that we learn from your use of the Service and tells you how we may collect, use, and in some instances share this information.
 
