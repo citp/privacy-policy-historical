@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119013847id_/http%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630135841id_/http%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | publicrecordsnow.com
 
@@ -93,16 +93,6 @@ We value your privacy and, upon request, can block your records from being shown
 
   * [www.peoplefinders.com/manage](http://www.peoplefinders.com/manage)
 
-
-
-It is also very helpful to include a print out of the records that you wish to have suppressed.
-
-Please send this letter to:  
-Opt-Out/PublicRecordsNow.com  
-Po box 110850  
-Naples. Fl 34108 
-
-This information will be kept confidential and is used to ensure complete suppression of your records.
 
 * ### No Rights of Third Parties
 
