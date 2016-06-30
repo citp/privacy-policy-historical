@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032550id_/http%3A//www.esko.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630194822id_/http%3A//www.esko.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Esko Privacy Policy - Esko
 
@@ -42,11 +42,6 @@ Esko may offer contests in which we request certain personal information. At a m
 **Log files**
 
 Like most standard website servers, we use log files to automatically log information such as IP addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We log this information to analyze trends, administer our website, track user movement in the aggregate, and gather broad demographic information for aggregate use. We do not use this information to identify you. For areas of our website that require registration, we log the user's email address and specific information concerning the user's activity on our website. This information may be tied to the user's other personal information and, if so, it is used to support the user's professional relationship with Esko and our products.
-
-We may periodically use the Click Tale web analytics service on our website to help us research website issues and to help us improve our visitors' experience on our website.  When enabled, Click Tale records mouse clicks, mouse movements, scrolling activity as well as any text you type on the pages on which it is enabled.  
-This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services.  
-You can choose to disable the Service at [Disable Clicktale](http://www.clicktale.net/disable.html).  
-For more information on the information that is Collected by the ClickTale Web Analytics Service, see Click Tales privacy policy: <http://www.clicktale.com/privacy-policy>
 
 **Information sharing**
 
