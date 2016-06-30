@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031020706id_/http%3A//www.adecco.com/en-US/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630114438id_/http%3A//www.adecco.com/en-US/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Adecco Group - Better work, better life
 
-Adecco S.A., Route de Bonmont 31, 1275 Chéserex, Switzerland ("Adecco", "we" or "us") is committed to protecting and respecting your privacy.
+Adecco Group AG, Sägereistrasse 10, 8152 Glattbrugg, Switzerland ("Adecco", "we" or "us") is committed to protecting and respecting your privacy.
 
 This Policy (together with other documents referred to herein) describes what personal data we collect from you and how we process your personal data.
 
