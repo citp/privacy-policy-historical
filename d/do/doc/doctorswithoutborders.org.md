@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221090708id_/http%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630215608id_/http%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | MSF USA
 
-_Effective Date: May 22, 2008_
+_Effective Date: May 2016_
 
 Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. ("Doctors Without Borders") is strongly committed to protecting the privacy of our donors, website visitors and other individuals who communicate with Doctors Without Borders. We wish to help you better understand the information we gather, how we handle it, whether we disclose it to anyone, and your options regarding our use of, and your ability to correct, this information. The following Privacy Policy applies when you make a donation to Doctors Without Borders, either online or otherwise, as well as when you visit our sites, doctorswithoutborders.org and refugeecamp.org, or otherwise share your personal information with Doctors Without Borders as discussed below. By visiting our web sites, you are accepting this Privacy Policy. We will also provide hard copies of our Privacy Policy upon request.
 
@@ -34,13 +34,15 @@ When you send personal information to us by submitting an online form on our sit
 
 Doctors Without Borders does not collect any personally identifying information from you when you visit our sites unless you choose to provide such information to us.
 
-You can browse the Doctors Without Borders sites without telling us who you are or revealing any information about yourself. The information we gather during normal browsing comes from two sources: standard server logs collect information such as the IP (Internet Protocol) address, domain name, browser type, operating system, and information such as the site that referred you to us, the files you downloaded, the pages you visited, and the dates/times of those visits.
+You can browse the Doctors Without Borders sites without telling us who you are or revealing any information about yourself. The information we gather during normal browsing comes from two sources: standard server logs collect information such as the IP (Internet Protocol) address, domain name, browser type, operating system, mobile related information if you access our website using your mobile device, and information such as the site that referred you to us, the files you downloaded, the pages you visited, and the dates/times of those visits.
 
 Additionally, if you have come into the site from one of our newsletters or from a site that has requested a link to us, we will ask your browser to accept a cookie that carries a general marketing source code with you as you browse through the site, in order to help us match referring sites to donations made. This cookie does not capture or hold any personally identifying information about you, and is deleted when you end your session by leaving our site or closing your browser.
 
 ## Cookies
 
 When you visit our website, we might store some information on your computer in the form of a “cookie” (i.e. a small piece of text that stores information on your browser in your computer’s hard drive) or similar file. We use conversion tracking cookies as part of campaigns in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site. Similarly, we also use cookies for ”retargeting” in our internet advertising campaigns so that third party vendors, including Google, can show you advertising about Doctors Without Borders as you browse the internet. Retargeting is a marketing tool that identifies you as a previous visitor to the Doctors Without Borders website and targets you for specific outreach messages, encouraging you to revisit our website or consider donating. The cookies will only be used to obtain non-personal information (you will be anonymous). If you prefer, you can usually set your browser to refuse cookies, or to notify you when you receive a new cookie. You can also opt out of receiving cookies on the Doctors Without Borders website for Google advertising by visiting the Google advertising opt-out page (<http://www.google.com/privacy/ads/#toc-edit>).
+
+Our website includes social media features, such as the Facebook Like button, and widgets, such as the Share This button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policies of the companies providing them.
 
 ## External Links
 
