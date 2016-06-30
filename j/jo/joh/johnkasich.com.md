@@ -1,45 +1,72 @@
-> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112230731id_/http%3A//www.kasichforohio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnkasich.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630081245id_/https%3A//www.johnkasich.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Kasich for America
 
-This is the web site of Kasich – Taylor for Ohio.
+This Privacy Policy governs the manner in which we, Kasich for America, collects, uses, maintains and discloses personal information collected from users (each, a “User”) of the websites www.JohnKasich.com and all other websites owned and operated by Kasich for America (collectively, the “Site”). This Privacy Policy applies to the Site and all products and services offered by Kasich for America by or through the Site.
 
-Our postal address is:
+**_Personal identification information_**
 
-340 East Gay St.  | Columbus, OH 43215
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, subscribe to a newsletter or blog, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, mobile number, credit card information, employer, and occupation. Users may, however, visit our Site without submitting such personal information. We will collect personal identification information from Users only to the extent such information is voluntarily submitted to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We can be reached via e-mail at [info@KasichforOhio.com](mailto:info@KasichforOhio.com).
+**_Non-personal identification information_**
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users’ means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, and payment information (e.g., credit card number and billing address).
+**_Web browser cookies_**
 
-The information we collect is used to improve the content of our Web pages, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, and by us to contact consumers for marketing purposes.
+Our Site may use “cookies” to enhance User experience. A User’s web browser places cookies on the User’s hard drive for record-keeping purposes and sometimes to track information about that User. A User may choose to set their web browser to refuse cookies, or to alert the User when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, and to record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+**_How we use collected information_**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
+Kasich for America collects and uses Users’ personal information for the following purposes:
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address.
+**To personalize User experience**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by writing to us at the above address.
+**To improve our Site**
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
+We continually strive to improve our Site offerings based on the information and feedback we receive from you.
 
-Google, acting as a third party vendor, uses DART cookies to provide advertisements which may interest you based on your visits to our site and other sites on the internet. This company may use information (not including your name, address, email address, or telephone number) about your visits to serve these ads to you on other websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+**To process transactions and provide services**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.
+We may use the information Users provide about themselves when placing an order to respond to or provide services or products that were ordered. We do not share this information with outside parties except to the extent necessary to process payments, respond or provide the service or products.
 
-Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
+**To send periodic emails or texts**
 
-Consumers can access this information by writing to us at the above address.
+If User decides to opt-in to, or not opt-out from, our mailing list, they will receive emails or texts that may include news, updates, requests for donations, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails or texts, we include unsubscribe instructions at the bottom of each email or the User may contact us via our Site.
 
-Upon request, we offer visitors the ability to have inaccuracies corrected in contact information and financial information.
+**Other uses**
 
-Consumers can have this information corrected by calling us at the above telephone number, or by writing to us at the above address.
+We will share Users’ personal information as required by law or in order to support investigations or reports; prevent or take action regarding illegal or disruptive activities; in response to violations of our rules governing the use of the Site; to protect the safety of any person or property; to protect our rights or property; and for other reasons in our reasonable discretion. We may also share Users’ personal information with third party service providers who are helping us operate the Site or provide our services and products to you.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
+**_How we protect your information_**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
+We adopt, and we use service providers who have adopted, appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchanged between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+**_Sharing your personal information_**
+
+We may disclose or otherwise sell, trade, or rent Users’ personal identification information to third parties in our reasonable discretion. Some examples include, but are not limited to, specific campaigns, specific candidates or the national Republican Party. We may also share generic aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, affiliates and advertisers.
+
+**_Third party websites_**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be inaccurate and constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interacting with any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+**_Changes to this privacy policy_**
+
+Kasich for America has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email if we have your email address. We encourage Users to frequently check this page for any changes to stay informed about how we are handling the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this privacy policy. If you do not agree to this policy, you are not permitted to use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**_Contacting us_**
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, including a request to opt-out of our use of your personal information, please contact us at:
+
+Kasich for America  
+620 E Broad Street, Ste 2016  
+Columbus, OH 43215 | info@johnkasich.com
+
+Effective Date: July 21, 2015
