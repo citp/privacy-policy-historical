@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steveharveytv.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230195902id_/http%3A//www.nbcuni.com/privacy/full-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steveharveytv.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630182208id_/http%3A//www.nbcuni.com/privacy/full-privacy-policy) for the most accurate reproduction.*
 
 # Full Privacy Policy | NBCUniversal
 
 ## Full Privacy Policy
 
-Last updated: 21 December 2015
+Last Updated: 21 December 2015
 
 This Privacy Policy describes the privacy practices of NBCUniversal Media LLC including our affiliate companies (“NBCUniversal”, “we”, “our” or “us”).  You can find information about NBCUniversal, including our affiliates, [here](https://web.archive.org/contact-us).
 
