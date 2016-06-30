@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231113id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630024043id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
 
 # Vidsage.com | Vidsage.com Privacy Policy
 
@@ -38,5 +38,5 @@ Whenever Vidsage.com changes our privacy policy, we will post those changes to t
   **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at Admin **at** Vidsage.com. 
 
-|  [< Prev](http://www.vidsage.com/vidsage-privacy-policy/1-latest-news/59-vidsagecom-disclaimer-copyright-information.html) |    |  [Next >](http://www.vidsage.com/vidsage-privacy-policy/1-latest-news/48-vidsage-online-radio.html)  
+|  [< Prev](http://www.vidsage.com/vidsage-disclaimer-copyright-information.html) |    |  [Next >](http://www.vidsage.com/the-news/48-vidsage-online-radio.html)  
 ---|---|---
