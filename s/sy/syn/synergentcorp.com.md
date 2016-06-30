@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the synergentcorp.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031111514id_/http%3A//www.synergentcorp.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synergentcorp.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630052514id_/http%3A//www.synergentcorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Synergent :: Privacy Policy
+# Synergent :: Legal
 
 Here at Synergent, we respect your privacy.  By using this website www.synergentcorp.com (the “Site”), you agree to be bound by this Privacy Policy and you consent to our data use and collection practices described below.  If you have any questions or comments about this Privacy Policy, please contact [Debra Trautman](mailto:dtrautman@synergentcorp.com).
 
@@ -42,4 +42,8 @@ For your convenience, this website contains links to third party sites, includin
 
 **9. **Effective Date****
 
-This Privacy Policy was updated on 1/7/14.  ****
+This Privacy Policy was updated on 1/7/14. 
+
+## **Disclosures**
+
+This web site and the information it contains are presented as a service to credit unions. While we have attempted to ensure that the information presented is accurate, errors may nonetheless occur. We assume no responsibility for any person's reliance on the information presented on this web site for any purpose.
