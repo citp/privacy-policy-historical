@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.gc.ca privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231140416id_/http%3A//news.gc.ca/web/prvc-en.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.gc.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630140425id_/http%3A//news.gc.ca/web/prvc-en.do) for the most accurate reproduction.*
 
 # Privacy - Canada News Centre
 
@@ -90,4 +90,4 @@ Any questions, comments, concerns or complaints you may have regarding the admin
 If you are not satisfied with ESDC’s response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
 
 Date modified:
-     2015-12-31 
+     2016-06-30 
