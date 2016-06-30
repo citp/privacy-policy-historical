@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231122323id_/https%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630080750id_/https%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Legal | Hillary for America
 
@@ -6,9 +6,9 @@ HILLARY FOR AMERICA
 PRIVACY POLICY  
 
 
- **Last Updated: April 12, 2015**
+ **Last Updated: February 11, 2016**
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Hillary for America ("HFA").  This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the "Sites").
+This Privacy Policy explains how information about you is collected, used and disclosed by Hillary for America ("HFA") and its affiliated organizations, including the Hillary Victory Fund.  This Privacy Policy applies to information we collect when you use the websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the "Sites").
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -19,7 +19,7 @@ We may change this Privacy Policy from time to time.  If we make changes, we wi
 
 We collect information you provide directly to us.  For example, we collect information when you fill out a form, send us an email, sign up to receive email or text message updates, request information, sign a petition, sign up as a volunteer, create an account, participate in a contest or promotion, make a donation or purchase, communicate with us via third party social media sites, , or otherwise communicate with us.  The types of information we collect may include your name, email address, social media handles, user names, postal address, phone number, mobile number, credit card information, location, and other contact or identifying information you choose to provide.
 
-In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors.  For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per election cycle. 
+In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors.  For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per election cycle.  
 
  **Information We Collect Automatically When You Use the Sites**  
 
@@ -31,7 +31,7 @@ When you access or use our Sites, we automatically collect information about you
 
   *  **Device Information:** We may collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, device identifiers and mobile network information.  
 
-  *  **Information Collected by Cookies and Other Tracking Technologies:**  We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as "tracking pixels").  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see "Your Choices" below.  
+  *  **Information Collected by Cookies and Other Tracking Technologies:**  We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as "tracking pixels" or "clear GIFs").  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see "Your Choices" below.  
 
 
 
@@ -81,8 +81,8 @@ We may share information about you as follows or as otherwise described in this 
 
   * With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf;  
 
-  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;    
-
+  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;
+  * With other participants in a joint fundraising committee;
   * To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in an election cycle (for additional information, visit the FEC website at http://www.fec.gov);  
 
   * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;  
@@ -113,9 +113,11 @@ The Sites may offer social sharing features and other integrated tools (such as 
 #### Advertising and Analytics Services Provided by Others  
 
 
-We may allow third parties to use cookies or other technologies or otherwise collect information about you in order to provide analytics services and to serve ads on the Sites or on other sites based on your visits to the Sites and other sites across the Internet and across various mobile applications.  These entities may collect or receive information about your use of the Sites and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by HFA and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.  
+We may allow third parties to use cookies, web beacons, or other technologies or otherwise collect information about you in order to provide analytics and advertising services, including serving ads on the Sites or on other sites based on your visits to the Sites and other sites across the Internet and across various mobile applications.  These entities may collect or receive information about your use of the Sites and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by HFA and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.  
 
 For example, we may use Remarketing with Google Analytics or other remarketing tools to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet.  Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Sites.  For information on how you can opt out of Google's use of cookies for interest-based ads please visit Google's [Ads Settings](https://www.google.com/settings/ads). Other advertising vendors we may use include, without limitation, Yahoo!, MSN, Facebook, Twitter.
+
+Another third party that may collect information by placing cookies and web beacons on your computer is IBM, who provides HFA with a cloud-based digital marketing platform.  For information on IBM’s data collection and use practices please see <http://www.ibm.com/software/marketingsolutions/privacy/index.html>
 
 For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).  
 
