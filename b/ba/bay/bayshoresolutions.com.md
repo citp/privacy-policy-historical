@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030230659id_/http%3A//www.bayshoresolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190327id_/https%3A//www.bayshoresolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bayshore Solutions | Bayshore Solutions
+# Privacy Policy | Bayshore Solutions
 
 This privacy policy sets out how Bayshore Solutions uses and protects any information that you give Bayshore Solutions when you use this website.
 
