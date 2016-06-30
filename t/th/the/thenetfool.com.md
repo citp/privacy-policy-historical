@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenetfool.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525084931id_/http%3A//www.fool.com/help/index.htm%3Fdisplay%3Dnewuser03) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenetfool.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190548id_/http%3A//www.fool.com/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -45,6 +45,7 @@ Besides cookies, we may also use tiny electronic images (called "single-pixel GI
   * To conduct research on behalf of some partners on their websites, and for auditing purposes.
   * To determine aggregate information about users, including demographic and usage information.
   * To determine which email messages were opened (and when), as well as acted upon when we send HTML-formatted email messages (messages resembling Web pages that include graphics).
+  * To help us and our partners market to you.
 
 
 
@@ -52,11 +53,13 @@ Our Web beacons do not collect personally identifiable information.  You can di
 
 Advertising networks that serve ads on our site may also use single-pixel GIFs in their advertisements. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.
 
+We have partnered with Google (through their Remarketing and Ad Words programs) and other ad networks for additional analytics on how our users use our site and others around the internet. As a result, you may see ads from those partner networks on our site, and ads from us on other sites, based on our cookies and the cookies of our partners.
+
 We have engaged third-party companies to process information about our users on our behalf, to help us improve our sites and find new members. These companies will combine our anonymized data about how you visit our websites with information that they have collected from outside our sites and provide it to us (and only us) so that we can optimize your experience on fool.com across devices and based on your interests. We will not provide the third-party service providers with your name, address, email address, or telephone number.
 
 If you would like more information about the information we are receiving and your choices with respect to that data, please:
 
-  1. visit the [DAA opt-out program](http://www.aboutads.info/choices/) the [Evidon opt-out program](http://choices.ghosteryenterprise.com/global-opt-out.html) to learn how to opt out of having your information collected in browsers for ad serving purposes;
+  1. visit the [DAA opt-out program](http://www.aboutads.info/choices/), the [Evidon opt-out program](http://choices.ghosteryenterprise.com/global-opt-out.html), and the [Google Analytics opt-out program](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out") to learn how to opt out of having your information collected in browsers for ad serving purposes;
   2. download the Evidon Ad Control application, available for iOS and Android, to learn how to opt out of having your information collected in mobile apps; and
   3. visit the [Network Advertising Initiative’s opt out page](http://www.networkadvertising.org/choices/).
 
@@ -127,10 +130,6 @@ To cancel any of your free email subscriptions, do so at your [Account Settings]
 
 Our sites are not directed at children under the age of 13. We operate our sites in compliance with the Children's Online Privacy Protection Act and will not knowingly collect or use personally identifiable information from anyone under 13.
 
-### Does The Motley Fool Participate in the Safe Harbor Program?
-
-The Motley Fool complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Motley Fool has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
-
 ### What Else Should You Know About Your Privacy?
 
 When you post information on discussion boards, in chat rooms, and in such features as your Personal Profile or your Foolish Interview, that information, along with your screen name, is visible to the public. Please remember that whenever you disclose personal information publicly that information can be collected and used by others. In short, if you post personal information online where people can see it, people will know that information and you may receive unsolicited messages from other parties in return. If you do not want strangers to have your email address, you should not post your email address on a discussion board. Similarly, if you do not want people to know that you are President Barack Obama and you use our "Living Below Your Means" discussion board for help in balancing the federal budget, then you should not post that information, Mister President.
@@ -147,7 +146,7 @@ Many of our advertisers or partners, such as brokerages, merchants, or data prov
 
 We may change this Privacy Statement at any time, but we will give notice of any material change (or any notices that we are required to give you) on our websites and/or in email messages prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy.
 
-Last Updated: December 1st, 2014  
+Last Updated: August 21st, 2015  
 Mailing address:  
 The Motley Fool  
 2000 Duke Street, Fourth Floor  
