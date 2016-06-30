@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actweb-sport.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915001822id_/http%3A//actweb-sport.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actweb-sport.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630073512id_/http%3A//actweb-sport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActWeb Sport
 
@@ -195,25 +195,28 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.  
 
 
- **Contacting Us**
-
   
 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-actweb-sport.com
+Actweb Sport LTD
+
+Full Name of Administrator:James Andersion
 
 Rhodes
 
+Greece, GR 85100
+
 Greece
 
-Afantou
+Phone: +30-2241059600
 
-Dodecanese
+Email: info (at) actweb-sport.com
 
-85103
+Personal Email: jamesandersion67 (at) gmail.com
 
-info (at) actweb-sport.com
+36.2642507,28, 1666509,15 You can find us also on our Google Plus here :[ ](https://plus.google.com/u/0/102493782792497009171?prsrc=3)
 
-Last Edited on 2015-03-29
+Last Edited on 2015-10-29
+  *[GR]: Greece
