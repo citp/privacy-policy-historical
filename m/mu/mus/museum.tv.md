@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229020608id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-        360 North State Street, Chicago, IL 60654-5411  P. 312-245-8200      Museum of Broadcast Communications (MBC) © 2015 All rights reserved.©  
+        360 North State Street, Chicago, IL 60654-5411  P. 312-245-8200      Museum of Broadcast Communications (MBC) © 2016 All rights reserved.©  
 
  Museum of Broadcast Communications was made possible thanks to a generous grant by:
 
-                                                      I [Terms Of Use](https://web.archive.org/web/20151229020608id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20151229020608id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
+                                                      I [Terms Of Use](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
 
 ## Your privacy is very important to The Museum of Broadcast Communications 
 
