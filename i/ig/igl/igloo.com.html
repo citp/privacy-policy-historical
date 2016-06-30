@@ -1,21 +1,14 @@
-<!--The following is the downloaded HTML source of the igloo.com privacy policy that was archived on 2015-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911194512id_/http%3A//www.igloo.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igloo.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630074852id_/http%3A//www.igloo.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><style>
-#recaptcha_widget_div{
-	background-color:white;
-}
-</style>
-
-
-
-  
-   <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-       
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <!-- Description: This section's using for rendering Javascript & StyleSheet -->
     <!-- GLOBAL VARIANTS -->
-    <!-- Modify date: Apr 10th,2015 | By : Huy Truong -->
-    <!-- ******************************************** -->
-    <script type="text/javascript">
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/slick.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/slick-theme.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/font-awesome-4.3.0/css/font-awesome.min.css">
+  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
         var IS_PREVIEW = false;
         var IS_LOGGED_IN = false;
         var LOGIN_URL = '/login';
@@ -27,91 +20,17 @@
     </script><script src="https://aftermarket.api.oneall.com/socialize/library.js" type="text/javascript"></script>
 
     <!-- META TAGS - DESCRIBING -->
-    <!-- Modify date: Apr 10th,2015 | By : Huy Truong -->
-    <!-- ******************************************** -->
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-
-	<meta content="Buy Domains &amp; Sell Domains on Igloo.com" name="title">
-
-	<meta content="Find Your Cool with Igloo Domain Advisors. The premier marketplace to buy or list premium domains. Igloo.com offers the information and tools necessary to meet your domain needs effectively and efficiently. Our advanced features, expert staff, and a superior, intuitive interface will help you find the right buyer or the perfect domain." name="description">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta content="Buy Domains &amp; Sell Domains on Igloo.com" name="title">
+    <meta content="Find Your Cool with Igloo Domain Advisors. The premier marketplace to buy or list premium domains. Igloo.com offers the information and tools necessary to meet your domain needs effectively and efficiently. Our advanced features, expert staff, and a superior, intuitive interface will help you find the right buyer or the perfect domain." name="description">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="google-site-verification" content="6XZsjgltQnQk_tsRewXUQDj7Fgc8tg2BgGGkG-EY92M">
     <meta name="msvalidate.01" content="D28D6389D3E466A86E4CA00828B8DC41">
-    <meta property="og:image" content="http://www.igloo.com/images/iglooLogo.jpeg">
-    <meta property="og:description" content="Find Your Cool with Igloo Domain Advisors. The premier marketplace to buy or list premium domains. Igloo.com offers the information and tools necessary to meet your domain needs effectively and efficiently. Our advanced features, expert staff, and a superior, intuitive interface will help you find the right buyer or the perfect domain.">
-    <meta name="alexaVerifyID" content="*Yi-JGDD5_LayRptllVtKMU5QD8A*">
-    <title>Privacy Policy | We respect your privacy | Igloo.com</title>
+     <meta property="og:image" content="http://www.igloo.com/images/iglooLogo.jpeg">
+     <meta property="og:description" content="Find Your Cool with Igloo Domain Advisors. The premier marketplace to buy or list premium domains. Igloo.com offers the information and tools necessary to meet your domain needs effectively and efficiently. Our advanced features, expert staff, and a superior, intuitive interface will help you find the right buyer or the perfect domain.">
+   <meta name="alexaVerifyID" content="*Yi-JGDD5_LayRptllVtKMU5QD8A*">
+    <title>Buy &amp; Sell Domains on Igloo.com</title>
 
     <!-- CHECKING ENVIRONMENTS -->
-    <!-- Modify date: Apr 10th,2015 | By : Huy Truong -->
-    <!-- ******************************************** -->
-    <script type="text/javascript" src="/js/formjs.js"></script>
- <script type="text/javascript">
-$(document).ready(function(){
-	$('#messageSubmit').click(function() {
-				$('#contactForm1').ajaxSubmit({
-					target:   '#output1',
-					dataType: 'json',
-					success:  function(response, statusText, xhr, $form) {
-						if (response.status == false) {
-							$("#message").html(response.response);
-							$("#divMessage").show();
-							$("#sendMore").hide();
-                                                        Recaptcha.reload();
-						} 
-						else{
-							$("#divMessage").show();
-                        				$("#divForm").hide();
-                                                        $("#sendMore").show();
-							$("#message").html(response.response);
-							$("#recaptcha_response_field").val('');
-							$("#contact_subject").val('');
-							$("#contact_email").val('');
-							$("#contact_message").val('');
-							Recaptcha.reload();
-							//$("#recaptcha_reload").click();
-						}
-					}
-				});
-				return false; // <-- important!
-				
-			});
-$('#subscribeSubmit').click(function() {
-		if(validateEmail($("#emailSubscribe").val())){
-		$('#subscribeForm').ajaxSubmit({
-			target:   '#output1',
-			dataType: 'json',
-			success:  function(response, statusText, xhr, $form) {
-				$("#form-subscribe").css("display","none");
-				$("#form-message").html(response.response);
-			}
-		});
-		return false; // <-- important!
-		
-	}
-		else{
-			$("#errorSubscribe").html("The email you entered is not valid.");
-			}
-	});
-		});
-
-		function validateEmail(email) {
-		    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-		    return re.test(email);
-		}
- </script>
-
-    <script type="text/javascript">
-		var RecaptchaOptions = {
-			theme : 'clean'
-		};
-		$(document).ready(function(){
-			$("#sendMore").click(function(){
-			$("#divMessage").hide();
-			$("#divForm").show();
-		});
-		});
-	</script>
     <script type="text/javascript"> 
           var _gaq = _gaq || [];
             function analyticsPush(eventType, category, action, label, value) {
@@ -127,7 +46,7 @@ $('#subscribeSubmit').click(function() {
             analyticsPush('_setCampContentKey', 'utm_content');
             analyticsPush('_setCampTermKey', 'utm_keyword');
             analyticsPush('_setCampNameKey', 'utm_campaign');
-            analyticsPush('_setDomainName', 'aftermarket.com');
+            analyticsPush('_setDomainName', 'igloo.com');
             
                             analyticsPush('_trackPageview');
                     
@@ -143,223 +62,403 @@ $('#subscribeSubmit').click(function() {
     
     <meta name="google-translate-customization" content="cfdb73ae0c1ecf1-0967a53c3615af50-g675326357066a191-13">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/slick.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/slick-theme.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/font-awesome-4.3.0/css/font-awesome.min.css">
-  </head>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+   <script type="text/javascript" src="/js/formjs.js"></script>
+  <script type="text/javascript">
+$(document).ready(function(){
+        $('#messageSubmit').click(function() {
+                                $('#contactForm1').ajaxSubmit({
+                                        target:   '#output1',
+                                        dataType: 'json',
+                                        success:  function(response, statusText, xhr, $form) {
+                                                if (response.status == false) {
+                                                        $("#message").html(response.response);
+                                                        $("#divMessage").show();
+                                                        $("#sendMore").hide();
+                                                        Recaptcha.reload();
+                                                }
+                                                else{
+                                                        $("#divMessage").show();
+                                                        $("#divForm").hide();
+                                                        $("#sendMore").show();
+                                                        $("#message").html(response.response);
+                                                        $("#recaptcha_response_field").val('');
+                                                        $("#contact_subject").val('');
+                                                        $("#contact_email").val('');
+                                                        $("#contact_message").val('');
+                                                        Recaptcha.reload();
+                                                        //$("#recaptcha_reload").click();
+                                                }
+                                        }
+                                });
+                                return false; // <-- important!
+
+                        });
+
+                $('#subscribeSubmit').click(function() {
+                if(validateEmail($("#emailSubscribe").val())){
+                $('#subscribeForm').ajaxSubmit({
+                        target:   '#output1',
+                        dataType: 'json',
+                        success:  function(response, statusText, xhr, $form) {
+                                $("#form-subscribe").css("display","none");
+                                $("#form-message").html(response.response);
+                        }
+                });
+                return false; // <-- important!
+
+        }
+                else{
+                        $("#errorSubscribe").html("The email you entered is not valid.");
+                        }
+        });
+                });
+
+                function validateEmail(email) {
+                    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+                    return re.test(email);
+                }
+
+ </script>
+    <script type="text/javascript">
+                var RecaptchaOptions = {
+                        theme : 'clean'
+                };
+                $(document).ready(function(){
+                        $("#sendMore").click(function(){
+                        $("#divMessage").hide();
+                        $("#divForm").show();
+                });
+                });
+    </script>
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+    <style>
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    .asterisk { color: red;}
+    #recaptcha_widget_div{
+            background-color:white;
+    }
+    .modal.in .modal-dialog{
+    	z-index: 9999;
+    }
+</style> 
+        
+    </head>
  <body id="page_legal_privacy-policy">
 
-    <div class="container-fluid iglooo-body">
- 
-        <!--Top navigator - including social media & button-->
-            <nav class="navbar navbar-default top-nav"> 
 
-                <div class="container-fluid">
-                    <div class="left-nav">
-                        <div class="head-world-phone"><a href="skype:18004778207?call"><span>(US/Canada)</span> <span><i class="fa fa-skype"></i> 1 800 477 8207</span> <span class="hidden-sm hidden-md">Free</span></a></div>
-                        <div class="head-local-phone"><a href="skype:+15086899569?call"><span>(Worldwide)</span> <span><i class="fa fa-skype"></i> +1 508 689 9569 </span></a></div>
-                        <div class="head-social-media">
-                            <a href="https://www.facebook.com/igloocom" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="https://twitter.com/igloo_com" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="https://plus.google.com/100335465762073519155" target="_blank"><i class="fa fa-google-plus"></i></a>
-                            <a href="https://www.linkedin.com/company/3150874" target="_blank"><i class="fa fa-linkedin"></i></a>
-                            <a href="http://igloocom.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a>
-                            <a href="https://www.pinterest.com/igloodomainadv/" target="_blank"><i class="fa fa-pinterest"></i></a>
-                            <a href="https://instagram.com/igloocom/" target="_blank"><i class="fa fa-instagram"></i></a>    </div>
-                    </div>
-                    <div class="right-nav">
+
+<div class="igloo-wrapper">
+
+        <div class="featured-listing container-fluid" style="display: none;">
+        <div class="featured-inside">
+                           <a href="/domain/palace.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              palace.com</div>
+          </a>
+                          <a href="/domain/client.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              client.com</div>
+          </a>
+                          <a href="/domain/lr.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              lr.com</div>
+          </a>
+                          <a href="/domain/fund.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              fund.com</div>
+          </a>
+                          <a href="/domain/trick.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              trick.com</div>
+          </a>
+                          <a href="/domain/dss.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              dss.com</div>
+          </a>
+                          <a href="/domain/crossing.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              crossing.com</div>
+          </a>
+                          <a href="/domain/commercialproperty.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              commercialproperty.com</div>
+          </a>
+                          <a href="/domain/tvd.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              tvd.com</div>
+          </a>
+                          <a href="/domain/rat.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              rat.com</div>
+          </a>
+                          <a href="/domain/connect.me">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              connect.me</div>
+          </a>
+                          <a href="/domain/apk.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              apk.com</div>
+          </a>
+                          <a href="/domain/vancouverbc.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              vancouverbc.com</div>
+          </a>
+                          <a href="/domain/od.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              od.com</div>
+          </a>
+                          <a href="/domain/stem.org">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              stem.org</div>
+          </a>
+                          <a href="/domain/development.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              development.com</div>
+          </a>
+                          <a href="/domain/fares.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              fares.com</div>
+          </a>
+                          <a href="/domain/temps.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              temps.com</div>
+          </a>
+                          <a href="/domain/2016presidentialelection.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              2016presidentialelection.com</div>
+          </a>
+                          <a href="/domain/tortillas.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              tortillas.com</div>
+          </a>
+                          <a href="/domain/refrigerators.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              refrigerators.com</div>
+          </a>
+                          <a href="/domain/proball.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              proball.com</div>
+          </a>
+                          <a href="/domain/healthandwellness.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              healthandwellness.com</div>
+          </a>
+                          <a href="/domain/wxs.com">
+          	<div>
+              <span class="ig-bullet">
+          			<span class="ig-bullet"><img src="/images/ig-icon-small.png"></span> 
+              </span> 
+              wxs.com</div>
+          </a>
+                  
+    </div>
+    	
+</div>                              
+                              
+
+
+    
+    <div class="igloo-head container-fluid">
+        <div class="container head-inside">
+            <div class="row">
+                <div class="col-md-2 logo">
+                    <a href="http://www.igloo.com/">
+                    <img src="/images/logo.png">
+                    </a>
+                </div>
+                <div class="col-md-10 horizontal-menu">
+                    <div class="subscribe-section">
                         <ul>
-                            <li><a href="#myModal2" data-toggle="modal" data-target="#myModal2">Subscribe to Igloo Insider<i class="fa fa-envelope-o"></i></a></li>
+                            <li><script type="text/javascript">
+	$(document).ready(function(){
+		$(".igloo-popover").click(function(){
+			$.ajax({
+	              url: '/brokerDomains/markedRead',
+	              method: 'post',
+	              success: function(data) {
+	      			$(".notification-button").addClass("width38px");
+					$(".notification-number").addClass("non-display");
+	               }
+	        });
+		});
+	});
+</script>
+</li>
+                            <li>
+                                <a class="subscribe-btn" href="#" data-toggle="modal" data-target="#subscribe-modal">
+                                    Subscribe to Igloo Insider
+                                </a>
+                            </li>
                         </ul>
                     </div>
-                </div>
-            </nav>
-              
-            <!--Banner & Horizontal menu section -->
-            <div class="container-fluid banner-container small">
-                <div class="horizontal-menu affix-top" data-spy="affix" data-offset-top="120" id="nav" style="background-image:url('/images/bg.png');">
-                    <div class="menu-left"><a href="/"><img class="logo" src="/images/logo.png"></a></div>
-
-                    <div class="menu-right">
-                        <div class="top-authenticated">
-      
+                    <div class="login-section">
+                        <ul>
+                            <!--  <li><a href="#myModal2" data-toggle="modal" data-target="#myModal2">Subscribe to Igloo Insider<i class="fa fa-envelope-o"></i></a></li>-->
+                            <li class="phone">(US/Canada)  <a href="skype:18004778207?call">1 800 477 8207</a> Free</li>
+                            <li class="phone">(Worldwide)  <a href="skype:+15086899569?call">+1 508 689 9569</a></li>
+                            <li class="top-sign-up">
                                 <!--TITLE: this section's using for user who authenlicated -->
-                                <!-- Last modify date: Apr 8th,2015 | By : Huy Truong -->
-                                
-                        </div>
-                            <!-- // this Partial contains all drop down menu logic and functinoality -->
-                            <!-- // Hide menu when user is not logged in and viewing a listing page -->
-                                                    
-                                                                    
-<!--  
-<script type="text/javascript">
-  /* Build the nav menu with the mbMenu plugin */
-  $(function(){
-    $(".main-menu").buildMenu({
-      menuWidth:200,
-      openOnRight:false,
-      menuSelector: ".menuContainer",
-      iconPath:"http://www.igloo.com/images/menu_icons/",
-      hasImages:true,
-      fadeInTime:100,
-      fadeOutTime:300,
-      adjustLeft:2,
-      minZindex:"auto",
-      adjustTop:10,
-      menuTop:-1,
-      opacity:1.0,
-      shadow:false,
-      shadowColor:"#ccc",
-      hoverIntent:0,
-      openOnClick:false,
-      closeOnMouseOut: false,
-      closeAfter:50,
-      submenuHoverIntent:0
-    });
-  });
-</script>
--->
-<!-- Main Menu -->
-<div class="main-menu right">
-  <!--listing menu content-->
-  <ul class="menu-content">
+                                                                    <a href="/login">Create An Account!</a>
+                                                            </li>
+                        </ul>
+                    </div>
+                    <div class="menu">
+                        <ul>
+                            
       <!--TITLE: this section's using for SEO - google search optimize -->
       <!-- Last modify date: Apr 8th,2015 | By : Huy Truong -->
       <!-- // not authorized, no messages, display "Sign in / Register -->
-            <!--megamenu: standardzation -->
-      <li class="rootVoice" menu="menu_login">
-        <div class="dropdown aftermarket-dd">
-              <a href="/login" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sign in / Register</a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                  <form action="https://www.igloo.com/login" method="post" class="login-register">
-                    <ul class="menu_login_table">
-                        <li>Username:</li>
-                        <li><input autocomplete="off" class="form-control" type="text" name="ajax_signin[username]" id="ajax_signin_username"></li>
-                        <li>Password:</li>
-                        <li><input type="password" name="ajax_signin[password]" class="form-control"></li>
-                        <li class="menu_login_submit_container clear">
-                            <input type="submit" value="Log In" class="button">
-                            <ul>
-                              <li><a href="http://www.igloo.com/forgot-username">Forgot Username</a></li>
-                              <li><a href="http://www.igloo.com/reset-password">Forgot Password</a></li>
-<li><a href="/legal/privacy-policy" target="_blank">Privacy Policy</a>
-</li>
-                            </ul>
-                        </li>
-                        <li>
-		<!-- The plugin will be embedded into this div //-->
-		<div id="social_login_container_nav"></div>
-		<script type="text/javascript">oneall.api.plugins.social_login.build("social_login_container_nav", {
-					'providers' :  ['facebook', 'google', 'yahoo', 'linkedin'], 
-					'callback_uri': 'https://www.igloo.com/login/oneallCallbackHandler'
-				});</script></li>
-                        <li><h3>Not a member yet?</h3></li>
-                        <li><input class="button-action primary" type="button" value="Register Now" onclick="document.location='http://www.igloo.com/login'"></li>
-                    </ul>
-                    <input type="hidden" name="ajax_signin[referrer]" value="http://www.igloo.com/legal/privacy-policy" id="ajax_signin_referrer">                    <!-- //echo $form['_csrf_token'] -->
-                    <input type="hidden" name="type" value="login">
-                  </form>
-              </ul>
-        </div>
-      </li>
-      <li class="rootVoice" menu="menu_buy_domains">
-        <div class="dropdown aftermarket-dd">
-              <a href="/buy-domains" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Buy Domains</a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
                 <li>
-                  <a href="/buy-domains" img="menu_icon_start_buying.png">Start Buying</a>
-                </li>
-              </ul>
-        </div>
-      </li>
-         <li class="rootVoice" menu="menu_sell_domains">
-          <div class="dropdown aftermarket-dd">
-                <a href="/sell-domains" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sell Domains</a>
-                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                  <li>
-                      <a href="/sell-domains" img="menu_icon_start_selling.png">Start Selling</a>
-                  </li>
+              <div class="ig-dd dropdown">
+                <a id="dLabel" href="/buy-domains" class="ig-menu-btn" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  BUY DOMAINS
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dLabel">
+                  <li><a href="/buy-domains">Start Buying</a></li>
                 </ul>
-          </div>
-       </li>
-       <!-- We don't support domain parking anymore -->
-       <!--
-      <td class="rootVoice" menu="menu_park_domains"> 
-      <span class="menu-text"><a href="/park-domains">Park Domains</a></span>
-      </td>
-      -->
+              </div>
+          </li>
 
+          <li>
+              <div class="ig-dd dropdown">
+                <a id="dLabel" href="/sell-domains" class="ig-menu-btn" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  SELL DOMAINS
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dLabel">
+                  <li><a href="/sell-domains" img="menu_icon_start_selling.png">Start Selling</a></li>
+                </ul>
+              </div>
+          </li>
        <!--TITLE: this section's using for SEO - google search optimize -->
       <!-- Last modify date: Apr 8th,2015 | By : Huy Truong -->
       <!-- // not authorized, no messages, display "Sign in / Register -->
        
-      <!--
+
       <li>
-        <div class="dropdown aftermarket-dd">
-          <a href="#" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Domain Service
-          </a>
-          <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-            <li><a href="#">Acquisitions</a></li>
-              <li><a href="#">Sales</a></li>
-              <li><a href="#">Consulting</a></li>
-              <li><a href="#">Appraisals</a></li>
-              <li><a href="#">Marketplace</a></li>
-              <li><a href="#">Escrow</a></li>
-          </ul>
-        </div>
-      </li>
-      -->
-      <li>
-          <div class="dropdown aftermarket-dd">
-              <a href="/about" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                About
-              </a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+          <div class="ig-dd dropdown">
+            <a id="dLabel" href="/about" class="ig-menu-btn" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              ABOUT
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dLabel">
                   <li><a title="About Igloo.com" href="/about">About Igloo.com</a></li>
                   <li><a title="Meet Our Team" href="/ourteam">Meet Our Team</a></li>
+                  <li><a title="Brand Stories" href="/brandstories">Brand Stories</a></li>
+                  <li><a title="Our Partners" href="/partners">Our Partners</a></li>
                   <li><a title="Frequently Asked Questions" href="/support/faq">FAQ</a></li>
-                   <li><a title="Legal" href="/legal/terms-of-service">Legal</a></li>
-     <!--               <li><a title="Resources" href="/resources">Resources</a></li>
-    -->
-     <!--               <li><a target="_blank" title="Careers" href="http://thoughtconvergence.com/careers" rel="nofollow">Careers</a></li>
-           -->
-              </ul>
+                  <li><a title="Legal" href="/legal/terms-of-service">Legal</a></li>
+            </ul>
           </div>
       </li>
-      <!-- <li><div class="aftermarket-dd"><a title="News" href="/blog">Blog</a></div></li> -->
-      <li><div class="aftermarket-dd"><a title="Contact Us" href="/contact">Contact Us</a></div></li>     
-  </ul>
-</div>    
+      <li>
+          <div class="ig-dd dropdown">
+            <a id="dLabel" href="/press" class="ig-menu-btn" type="button" aria-haspopup="true" aria-expanded="false">
+              INSIDE IGLOO
+            </a>
+          </div>
+      </li>
+      <li>
+          <div class="ig-dd dropdown">
+            <a id="dLabel" href="/contact" class="ig-menu-btn" type="button" aria-haspopup="true" aria-expanded="false">
+              CONTACT US
+            </a>
+          </div>
+      </li>   
+	        <li class="log-in">
+           <a class="login-btn" href="/login">
+                                LOG IN
+           </a>                            
+      </li>
+	                              
+                        </ul>
 
-<!-- Park Domains --> 
-<!-- we don't support park domain any longer            
-<div id="menu_park_domains" class="mbmenu">
-        <a href="/park-domains" img="menu_icon_parking_overview.png">Start Parking</a>
-    <a href="/affiliate-program" img="menu_icon_affiliate.png">Affiliate Program</a>
-    </div>
--->
-                                                                                                                                            </div>
+                    </div>
                 </div>
-                <div class="title-container">
-                                      <h1>Legal</h1>
-                                </div>
-                
             </div>
-          
+        </div>
+    </div>
+
+    <div class="igloo-sub-banner container-fluid">
+        <div class="sub-page-title">
+                              <h1>Legal</h1>
+                    </div>
+    </div>
 
 
-            <div>
-
-                <!-- Description: This section's rendering PAGE CONTENT , routing on routing file-->
-                <!-- Modify date: Apr 10th,2015 | By : Huy Truong    -->
-                <!-- *********************************************** -->
-                <div id="content">
-                                 
-                                 
-                    <div class="content">
-                      
+    <div class="clear-fix"></div>
+    <!-- Description: This section's rendering PAGE CONTENT , routing on routing file-->
+        
+    
 <div class="container page-main-content">
    <div class="row">
        
@@ -561,165 +660,150 @@ $('#subscribeSubmit').click(function() {
 </div>
 </div>
 			
-                    </div>
+
+
+    <div class="igloo-footer container-fluid" style="padding-bottom:0px">
+        <div class="container">
+            <div class="left col-md-8">
+                <div class="call-us">
+                    <ul>
+                        <li class="callus-title">Call us</li>
+                        <li class="phone">
+                            (US/Canada)
+                            <a href="skype:18004778207?call">1 800 477 8207 Free</a>
+                        </li>
+                        <li class="phone">
+                            (Worldwide)
+                            <a href="skype:+15086899569?call">+1 508 689 9569</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sub-menu">
+                    <ul class="menu-list">
+                        <li class="menu-col">
+                            <ul class="sub-list">
+                                <li class="submenu-title"><a href="/login"> Sign in / Register</a></li>
+                                <li></li>
+                            </ul>
+                        </li>
+                        <li class="menu-col">
+                            <ul class="sub-list">
+                                <li class="submenu-title"><a href="/buy-domains">Buy Domains</a></li>
+                                <li><a href="/buy-domains">Start Buying</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-col">
+                            <ul class="sub-list">
+                                <li class="submenu-title"><a href="/sell-domains">Sell Domains</a></li>
+                                <li><a href="/sell-domains">Start Selling</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-col">
+                            <ul class="sub-list">
+                                <li class="submenu-title"><a href="/about">About</a></li>
+                                <li><a href="/about">About Igloo.com</a></li>
+                                <li><a href="/ourteam">Meet Our Team</a></li>
+                                <li><a href="/support/faq">FAQ</a></li>
+                                <li><a href="/legal/terms-of-service">Legal</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
                 </div>
             </div>
-
-            <footer class="container-fluid new-footer-containter">
-
-<div class="container footer-container main-content">
-
-<div class="row company-info-wrapper">
-
-<div class="company-info">
-
-<ul>
-
-<li class="company-info-sub">CALL IGLOO.COM</li>
-
-<!--<li><div class="separation-line border-sub-color"></div></li>-->
-
-<li class="company-info-phone">
-
-<div class="company-info-phone-number-1">(US/Canada)</div>
-
-<div class="company-info-phone-number-2"><a href="skype:18004778207?call"><span><i class="fa fa-skype"></i>1 800 477 8207</span></a> <span style="color:gray;">Free</span></div>
-
-</li>
-
-<li class="company-info-phone">
-
-<div class="company-info-phone-number-1">(Worldwide)</div>
-
-<div class="company-info-phone-number-2"><a href="skype:+15086899569?call"><span><i class="fa fa-skype"></i> +1 508 689 9569</span></a></div>
-
-</li>
-
-</ul>
-
-</div>
-
-<div class="separation-div"></div>
-
-<div class="company-submenu">
-
-<div class="row">
-
-<ul class="ul-submenu">
-
-<!-- for each Submenu column -->
-
-<li class="li-column">
-<ul class="submenu-col">
-
-<li class="title"> <a href="/login"> Sign in / Register</a></li>
-<li>
-		<!-- The plugin will be embedded into this div //-->
-		<div id="social_login_container_nav1"></div>
-		<script type="text/javascript">oneall.api.plugins.social_login.build("social_login_container_nav1", {
-					'providers' :  ['facebook', 'google', 'yahoo', 'linkedin'], 
-					'callback_uri': 'https://www.igloo.com/login/oneallCallbackHandler'
-				});</script></li>
-</ul>
-
-</li>
-
-<!-- for each Submenu column -->
-
-<li class="li-column">
-
-<ul class="submenu-col">
-
-<li class="title"> <a href="/buy-domains">Buy Domains</a></li>
-
-<li><a href="/buy-domains">Start Buying</a></li>
-
-</ul>
-
-</li>
-
-<!-- for each Submenu column -->
-
-<li class="li-column">
-
-<ul class="submenu-col">
-
-<li class="title"> <a href="/sell-domains">Sell Domains</a></li>
-
-<li><a href="/sell-domains">Start Selling</a></li>
-
-</ul>
-
-</li>
-
-<!-- for each Submenu column -->
-
-<li class="li-column">
-
-<ul class="submenu-col">
-
-<li class="title"> <a href="/about">About</a></li>
-
-<li><a href="/about">About Igloo.com</a></li>
-<li><a href="/ourteam">Meet Our Team</a></li>
-
-<li><a href="/support/faq">FAQ</a></li>
-
-<li><a href="/legal/terms-of-service">Legal</a></li>
-
-</ul>
-
-</li>
-
-</ul>
-
-</div>
-
-</div>
-
-
-</div>
-
-<div class="row company-twit-wrapper">
-
-<a class="twitter-timeline" href="https://twitter.com/igloo_com" height="300px" data-theme="dark" data-widget-id="601704498546024448">Tweets by @igloo_com</a>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<div class="clear-fix"></div>
-
-</div>
-
-</div>
-
-<div class="copyright-container" style="text-align:left;">
-
-<!-- <div class="row"> -->
-
-<div class="footer-main-content" style="text-align:right;">
-<ul style="padding:0px;">
-
-<li class="copyright-left" style="padding-top: 10px; width: 50.5%;text-align:left;">Copyright © 2008-2015 Igloo.com, Limited</li>
-
-<li class="copyright-right" style="width:49%;"><a title="Privacy Policy" target="blank" href="/legal/privacy-policy">Privacy Policy</a><a href="//privacy.truste.com/privacy-seal/validation?rid=884c1902-02da-438a-9cc5-d2b397d6c01c" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none;padding:10px;" src="//privacy-policy.truste.com/privacy-seal/seal?rid=884c1902-02da-438a-9cc5-d2b397d6c01c" alt="TRUSTe Privacy Certification"></a></li>
-
-</ul>
-
-</div>
-
-<!-- </div> -->
-
-</div>
-
-</footer>
+            <div class="right col-md-4">
+                <a class="twitter-timeline" href="https://twitter.com/igloo_com" height="300px" data-theme="dark" data-widget-id="601704498546024448">Tweets by @igloo_com</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <div class="clear-fix"></div>
+            </div>
         </div>
+        <div class="igloo-copyright container">
+            <ul class="copyright-ul">
+                <li class="copyright-li"> <a title="Privacy Policy" target="_blank" href="/legal/privacy-policy">Privacy Policy</a></li>
+                <li class="copyright-li"><span class="r-text">Copyright © 2008-2015 Igloo.com, Limited</span></li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="sticky-bar">
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/igloocom" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="https://twitter.com/igloo_com" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="https://plus.google.com/100335465762073519155" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/company/3150874" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="http://igloocom.tumblr.com/" target="_blank"><i class="fa fa-tumblr fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="https://www.pinterest.com/igloodomainadv/" target="_blank"><i class="fa fa-pinterest fa-lg"></i></a>
+        </li>
+        <li>
+            <a href="https://instagram.com/igloocom/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
+        </li>
+    </ul>
+</div>
+
+
+
+<script>
+    $(document).ready(function(){
+      $('.featured-inside').slick({
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 3000,
+          infinite: true,
+        centerMode: true,
+        variableWidth: true
+      });
+      $(".featured-listing").show();
+      $('.partner').slick({
+          slidesToShow: 5,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 2000,
+      });
+
+    });
+
+
+
+    $('.ig-dd').hover(function() {
+      $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+    }, function() {
+      $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+    });
+
+
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+
+    $('body').on('click', function (e) {
+        $('[data-toggle="popover"]').each(function () {
+            //the 'is' for buttons that trigger popups
+            //the 'has' for icons within a button that triggers a popup
+            if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                $(this).popover('hide');
+            }
+        });
+    });
+
+</script>
+
         <!--send a message button - bottom conor-->
-        <!--  <div class="send-message">
-            <button class="btn button-default send-message-btn" data-toggle="modal" data-target="#myModal1">SEND FEEDBACK</button>
-        </div> -->
-        <!-- Modal -->
-      <!--    <div class="modal fade aftermarket-modal" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
+        <div class="modal fade aftermarket-modal" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+            <div class="modal-dialog modal-sm" style="z-index:9999">
                 <div class="modal-content">
                     <div class="modal-header">
                         <h1 class="modal-title text-center" id="exampleModalLabel">Send Questions</h1>
@@ -740,43 +824,120 @@ $('#subscribeSubmit').click(function() {
                     </div>
                     <div class="modal-footer">
                         <a href="#" type="button" class="butt-signin butt-full">Send message&nbsp;<i class="fa fa-envelope-o"></i></a>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                     </div>
                 </div>
             </div>
-        </div>-->
+        </div>
 
-
-        <div class="modal fade aftermarket-modal" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
+        <div class="modal fade aftermarket-modal" id="subscribe-modal" tabindex="-1" role="dialog" aria-labelledby="subscribe-modal" aria-hidden="true">
+            <div class="modal-dialog modal-sm" style="z-index:9999">
                 <div class="modal-content" style="background-color:white;border:10px solid #333">
                    <div class="modal-header">
                         <h1 class="modal-title text-center">SUBSCRIBE TO IGLOO INSIDER</h1>
                     </div>
-                    <div id="form-subscribe">
-                    <form id="subscribeForm" method="post" action="/subscribeAjax" style="background-color:white;">
-                    <div class="modal-body" style="padding-bottom:0px;">
-                        <p>Get all the lastest domains delivered direct to your inbox</p>
-                        <div class="form-group"><input id="emailSubscribe" type="text" name="email" class="form-control" placeholder="Enter you email address"></div>
+                    <!-- Begin MailChimp Signup Form -->
+                    <div id="mc_embed_signup">
+                    <form action="//igloo.us12.list-manage.com/subscribe/post?u=027aadd54e5024b32d429b1b1&amp;id=8b51a58305" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                        <div id="mc_embed_signup_scroll">
+                        <div class="modal-body" style="padding:0px;">
+                            <p>Get all the lastest domains delivered direct to your inbox</p>
+                        </div>
+                    <div class="mc-field-group">
+                        <label for="mce-EMAIL">&nbsp; <span class="asterisk" style="color:red;">*</span>
+                    </label>
+                        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email Address">
                     </div>
-                    <div class="modal-footer" style="border:0px;padding-bottom: 0px">
-                        <input type="button" id="subscribeSubmit" class="butt-signin butt-full" value="Send the lastest domains">
-                        
-                    	<p id="errorSubscribe" style="color:red;"></p>
+                    <div class="mc-field-group">
+                        <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="First Name">
                     </div>
+                    <div class="mc-field-group">
+                        <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" placeholder="Last Name">
+                    </div>
+                        <div id="mce-responses" class="clear" style="margin:0;padding:0;width: 95%;text-align:justify;">
+                            <div class="response" id="mce-error-response" style="display:none;width:100%;color:red;margin: 0px;"></div>
+                            <div class="response" id="mce-success-response" style="display:none;width:100%;margin: 0px;"></div>
+                        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_027aadd54e5024b32d429b1b1_8b51a58305" tabindex="-1" value=""></div>
+                         <div class="modal-footer" style="border:0px;padding-bottom: 0px;padding-left: 0px;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="butt-signin butt-full" style="width:100%;margin:0;"></div>
+                        </div>
                     </form>
                     </div>
-<p id="form-message" style="text-align:center;">
-                    </p>
+                    <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+                    <script type="text/javascript">
+                    (function($) {
+                        window.fnames = new Array(); 
+                        window.ftypes = new Array();
+                        fnames[0]='EMAIL';
+                        ftypes[0]='email';
+                        fnames[1]='FNAME';
+                        ftypes[1]='text';
+                        fnames[2]='LNAME';
+                        ftypes[2]='text';
+                    }(jQuery));var $mcj = jQuery.noConflict(true);
+                    </script>
+                    <p id="form-message" style="text-align:center;"></p>
 
-<div class="modal-footer" style="padding: 0px 25px 50px;">        
-<a href="/legal/privacy-policy" target="blank" style="float:left;">Privacy Policy </a> &nbsp;&nbsp; <a href="//privacy.truste.com/privacy-seal/validation?rid=884c1902-02da-438a-9cc5-d2b397d6c01c" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none;height:35px;float:left;padding-left:10px;" src="//privacy-policy.truste.com/privacy-seal/seal?rid=884c1902-02da-438a-9cc5-d2b397d6c01c" alt="TRUSTe Privacy Certification"></a>   
-       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-</div>
+                        <div class="modal-footer" style="padding: 0px 25px 50px;">
+                            <a href="/legal/privacy-policy" target="_blank" style="float:left">Privacy Policy</a> 
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        </div>
                   </div>
             </div>
         </div>
-        <script type="text/javascript" src="/js/optimized.js?1436381338"></script>
+    
+
+
+<!--////////
+//////////// FLOAT "RETURN TO INQUIRY" BUTTON : This section renders for Float Button 
+////////////  -->
+<link href="../css/floatReturnInquiry.css" rel="stylesheet" type="text/css">
+
+<nav class="float-nav closed">
+  <ul>
+    <li><a href="/domain/siea.org">Return To The Listing For </a></li>
+    <li><a class="domain-name" href="/domain/siea.org">siea.org</a></li>
+  </ul>
+  <a class="toggle" href="#"><img src="../images/return-inq.png"></a> 
+</nav>
+<script>
+    $(".float-nav ul a").click(function(){
+    window.location.href=$(this).attr("href");
+    });
+    var floatNav = $('.float-nav'),
+        mainContent = $('.main-content');
+    floatNav.on('mouseenter', function(e) {
+        $(this).removeClass('closed');
+        e.stopPropagation();
+        e.preventDefault();
+      });
+    floatNav.on('mouseleave', function(e) {
+        $(this).addClass('closed');
+        e.stopPropagation();
+        e.preventDefault();
+      });
+    floatNav.on('click', function(e) {
+      $(this).toggleClass('closed');
+      e.stopPropagation();
+      e.preventDefault();
+    });
+    mainContent.on('click', function() {
+      if (!floatNav.hasClass('closed')) floatNav.addClass('closed');
+    });
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36251023-1']);
+        _gaq.push(['_setDomainName', 'jqueryscript.net']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<!-- //// end RETURN TO INQUIRY BTN -->
+
 <script type="text/javascript" src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="/js/slick/slick.js"></script>
@@ -785,40 +946,44 @@ $('#subscribeSubmit').click(function() {
 <script type="text/javascript" src="/js/jquery.scrollTo-1.4.2-min.js"></script>
 <script type="text/javascript" src="/js/jquery.dataTables-1.7.5.js"></script>
 <script type="text/javascript" src="/js/jquery.equalheights.js"></script>
-        
-        <!-- Bootstrap core JavaScript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
-      
+<script type="text/javascript">
+$(document).ready(function(){
+$('.your-class').slick({
+slidesToShow: 3,
+slidesToScroll: 1,
+autoplay: true,
+autoplaySpeed: 2000,
+});
+$('.aftermarket-dd').hover(
+function() {
+$(this).find('.dropdown-menu').first().stop(true, true).slideDown(50);
+},
+function() {
+$(this).find('.dropdown-menu').first().stop(true, true).slideUp(200)
+});
+});
+</script>
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+        document.write(unescape("%3Cscript src='//www.snapengage.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="//www.snapengage.com/snapabug.js" type="text/javascript"></script>   
+<script type="text/javascript">
+            SnapABug.addButton("e6995925-e64e-4a7e-99a1-0bae782c17bf","3","","30", true);
+$(document).ready(function(){
+        $("#SnapABug_W").css('top','');
+        $("#SnapABug_W").css('left','');
+        $("#SnapABug_W").css('width','');
+                $("#SnapABug_W").css('height','');
+        $("#SnapABug_W").css("display","none");
+        $("#SnapABug_W").css('z-index','');
+        $("#SnapABug_O").css('width','');
+                $("#SnapABug_O").css('height','');
+                $("#SnapABug_O").css('z-index','');
 
-
-
-
-    
-
-
-        <!-- Bootstrap core JavaScript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
-    
-
-        <script type="text/javascript">
-        $(document).ready(function(){
-        $('.your-class').slick({
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 2000,
-        });
-        $('.aftermarket-dd').hover(
-        function() {
-        $(this).find('.dropdown-menu').first().stop(true, true).slideDown(50);
-        },
-        function() {
-        $(this).find('.dropdown-menu').first().stop(true, true).slideUp(200)
-        });
-        });
-        </script>
+    });
+</script>
+ <!-- end SnapEngage code -->
   
+
 
 </body></html>
