@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229052053id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630065517id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ Rakuten Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for re
 
 
 
-**(e) Cookies**
+**(e)Cookies**
 
   * Cookies are alphanumeric identifiers that We transfer to Your computer's hard drive through Your Web browser to enable Our systems to recognize Your browser and tell Us how and when pages in Our website are visited and by how many people. Kobo cookies do not collect personal information, and We do not combine information collected through cookies with other personal information to tell Us who You are or what Your screen name or e-mail address is.
   * The "help" portion of the toolbar on the majority of browsers will direct You on how to prevent Your browser from accepting new cookies, how to command the browser to tell You when You receive a new cookie, or how to fully disable cookies. We recommend that You leave the cookies activated because cookies may allow You to make use of some Kobo Service features.
