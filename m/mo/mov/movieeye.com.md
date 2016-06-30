@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230215848id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630184342id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity ::
 
@@ -71,27 +71,31 @@ West Hollywood, CA 90069-4507
 
 Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place including state-of-the-art encryption to ensure that our transaction process is safe and that our customers’ information is secure.
 
-## 5-Minute Celebrity Contacts Database Demo:
+## **[7-Day Free Trial on All Accounts!](https://contactanycelebrity.com/cac/checkout)**
 
-## **[Activate Your FREE 7-Day Trial!](http://contactanycelebrity.com/join)**
+Annual (VIP) Subscription
+
+$197
+
+year
 
 Free 7-Day Full Trial 
 
-Celebrity Contacts Database 
+Celebrity Contacts Database Access: 
+
+59,200+ Celebrities & Public Figures 
+
+14,000+ Representatives 
+
+(Agent, Manager, Publicist & Attorney) 
+
+7,300+ Entertainment Companies 
 
 USPS-Verified Mailing Addresses 
 
 Representation Email Addresses 
 
 Unlimited Celebrity Searches 
-
-59,200+ Celebrities & Public Figures 
-
-14,000+ Representatives 
-
-Agent, Manager, Publicist & Attorney 
-
-7,300+ Entertainment Companies 
 
 Private Online Database 
 
@@ -129,29 +133,29 @@ Priority VIP Service
 
 Best Rate - No Monthly Charges
 
-Monthly (Basic)
+Monthly (Basic) Subscription
 
-$29.97
+$47
 
 month
 
 Free 7-Day Full Trial 
 
-Celebrity Contacts Database 
+Celebrity Contacts Database Access: 
+
+59,200+ Celebrities & Public Figures 
+
+14,000+ Representatives 
+
+(Agent, Manager, Publicist & Attorney) 
+
+7,300+ Entertainment Companies 
 
 USPS-Verified Mailing Addresses 
 
 Representation Email Addresses 
 
 Unlimited Celebrity Searches 
-
-59,200+ Celebrities & Public Figures 
-
-14,000+ Representatives 
-
-Agent, Manager, Publicist & Attorney 
-
-7,300+ Entertainment Companies 
 
 Private Online Database 
 
@@ -187,4 +191,8 @@ Basic Support
 
 Cancel Anytime
 
-#### [Contact 59,000+ Celebrities & Public Figures Now!](http://contactanycelebrity.com/join)
+#### [Contact 59,200+ Celebrities & Public Figures Now!](https://contactanycelebrity.com/cac/checkout)
+
+## 5-Minute Database Demo:
+
+## **[Activate Your FREE 7-Day Trial!](https://contactanycelebrity.com/cac/checkout)**
