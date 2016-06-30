@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fashionmia.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226143207id_/http%3A//www.fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionmia.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630182413id_/http%3A//www.fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Privacy Policy - Be more stylish with Fashionmia.com</title><meta name="p:domain_verify" content="4958ef0d7d07233dee63a5807c90ef3c"><meta name="google-site-verification" content="GTPZcG6KUVE9xXMt9H35JCQkbwSm6YsIg2pcU8SkDa4"><link href="/Public/assets/css/main.css?ver=20151224" rel="stylesheet" type="text/css"><link href="/Public/Css/base-base-new.css?ver=20151216" rel="stylesheet" type="text/css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/Public/Js/lib.js"></script><script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Privacy Policy - Be more stylish with Fashionmia.com</title><meta name="p:domain_verify" content="4958ef0d7d07233dee63a5807c90ef3c"><meta name="google-site-verification" content="1J7znzo76yRyO3c9MqUoZWvJDhZDMFYBxXM5h-DCnDI"><meta name="trustpilot-one-time-domain-verification-id" content="aFWOrWZY8MlVA5yTJYiqTOpwXXC4vheC9jHvpPrM"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="stylesheet" href="/pc_release/styles/global.css?v=fa774390dc"><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//pixeltrack.clientgear.com/mkq.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/pc_release/scripts/lib.js?v=c3dda9edc0"></script><script src="/Public/assets/js/lang/en-EN.js?t=20160603"></script><script>
 window.fbAsyncInit = function() {
     FB.init({
         appId: '1378629852383523',
@@ -30,9 +30,9 @@ function fbloginCallback(response){
         var ht = "<div class='load-bg' style='z-index:9999;display:none;background:rgba(0,0,0,0.6);width:100%;height:100%;position:absolute;top:0px;left:0px;'>"
                + "<div class='load-content-box' style='position:absolute;top:120px;left:"+leftV+"px;text-align:center;background:rgba(138,138,138,0.8);padding:8px;'><div class='load-content' style='width:430px;background:#fff;padding:60px 60px;'>"
                + "<a href='javascript:;' onclick='hideload()' class='load-close' style='text-decoration:none;color:#fff;background:#666;display:inline-block;position:absolute;top:15px;right:15px;width:20px;height:20px;line-height:20px;'>X</a>"
-               + "<img src='/Public/Images/loadingAnimation.gif' alt=''>"
-               + "<h3 style='color:#333;margin-top:25px;font-size:15px;'>Signing into FashionMia, sit back and relax....</h3>"
-               + "<span style='color:#bbb;font-size:13px;'>We are signing you in using your Facebook account</span>"
+               + '<img src="/Public/Images/loadingAnimation.gif">'
+               + "<h3 style='color:#333;margin-top:25px;font-size:15px;'>"+Lang_Singing_To_Fashionmia_Sit_Back+"</h3>"
+               + "<span style='color:#bbb;font-size:13px;'>"+Lang_We_Are_Singing_You_In_Using_Facebook_Twitter+"</span>"
                + "</div></div></div>";
         $('body').append(ht);
         $('.load-bg').show();
@@ -56,7 +56,7 @@ function fbloginCallback(response){
                         window.location.reload();
                     } else {
                         $('.load-bg').hide();
-                        alert('User authoriz failed! Please try again later!');
+                        alert("User authoriz failed! Please try again later!");
                     }
                 }, "text");
             }
@@ -79,7 +79,42 @@ function authUser(){
 
     fbq('init', '1617278741823910');
     fbq('track', 'PageView');
-</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1617278741823910&ev=PageView&noscript=1" /></noscript><!-- Enhanced ecommerce S --><script>
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1617278741823910&ev=PageView&noscript=1" /></noscript><script>
+    var affiliateJump = {
+        init: function(){
+            var affiliate = this.getQueryString("opaffiliate");
+
+            if(affiliate && affiliate == "cj" && this.isMobile()){
+                window.location.href = "http://m.fashionmia.com/"+ location.pathname + location. search;
+            }
+        },
+        getQueryString: function(name){
+            var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;            
+        },
+        isMobile: function(){
+            var flag = 1;
+            var os = new Array("Android", "iPhone", "Windows Phone", "iPod", "BlackBerry", "MeeGo", "SymbianOS");
+            var info = navigator.userAgent;
+            var len = os.length;
+            for (var i = 0; i < len; i++) {
+                if (info.indexOf(os[i]) > 0) {
+                    flag = 0;
+                }
+            }
+            return !flag;           
+        }
+    };
+    affiliateJump.init();
+</script><!--**
+ * 
+ * GA代码（包括增强统计）
+ * 
+*--><script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -91,16 +126,32 @@ ga('require', 'displayfeatures');
 
 ga('send', 'pageview');
 ga('enhancedTracker.send', 'pageview');
-</script><!-- Enhanced ecommerce E --><script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 964752631;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964752631/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="module/header" src="/Public/assets/js/module/header.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="module/footer" src="/Public/assets/js/module/footer.js"></script></head><body class="1"><div class="ab-header"><div class="ab-top" style=""><p class="ab-site-sign l"><a href="/customer/register.html">Register now and get 5% Off for 1st Order</a></p><div class="ab-site-right pr r"><div class="ab-top-login pr20 pr l"><!-- ��¼ǰ --><a class="ab-top-btnFacebook dib mr10 ab-bg" href="javascript:;" onclick="authUser()"></a><a href="/customer/login.html">Login</a>
-                or
-                <a href="/customer/register.html">Sign Up</a></div><div class="ab-top-shoppingcart pr r" id="J-miniCart"><a class="ab-cartBtn ab-bg" href="/shoppingcart.html">My Bag (<span class="buy-cart-item">0</span>)</a><div class="ab-top-cartInfo pa hidden"><p class="ab-cart-text">Your bag is empty</p><span class="minicart-arrow bg"></span></div></div></div></div><div class="ab-logo fix"><a href="/" class="l"><img src="/Public/Images/logo.jpg?ver=20151226" alt="Fashionmia.com" width="325" height="90"></a><div class="ab-search-box l"><div class="ab-search-inner pr"><input id="keywords_search" type="text" name="qs_keyword" value="Search SKU or Item Name" onblur="if(!value) value=defaultValue" onfocus="if(this.value==defaultValue) this.value=''" class="ab-search"><input type="button" class="ab-searchBtn ab-bg pa" onclick="onSubmitSearch();"><span class="ab-tip-plane ab-bg pa"></span></div><div class="ab-hot-search mt5 fix"><span class="l">Hot Search:</span><ul class="l"><li>Blazers</li><li>long sleeve T-shirts</li><li>Stylish Dresses</li><li>Trench Coats</li></ul></div></div></div><style>
-.special-offer:after{content:'';background:url('/Public/assets/images/sprite.png') no-repeat -455px -4px;display:inline-block;position:relative;top:2px;right:-2px;width:22px;height:13px;}
+</script><!--**
+ * 
+ * Criteo 追踪代码
+ * 
+*--><!--**
+ * 
+ * Google Code for mcc_conversion Conversion Page
+ * 
+*--><!-- YM-FB --><script type="text/javascript">
+    var uid=false;
+        !function(w,o,s,r,p,k,e){if(w.mkq){return}p=w.mkq=function(){p.invokeFunc?p.invokeFunc.apply(p,arguments):p.qu.push(arguments)};if(!w._mkq){w._mkq=p}p.push=p;p.qu=[];k=o.createElement(s);k.async=!0;k.src=r;e=o.getElementsByTagName(s)[0];e.parentNode.insertBefore(k,e)}(window,document,"script","//pixeltrack.clientgear.com/mkq.min.js");
+    uid? mkq('init', '142353236120006',uid):mkq('init', '142353236120006');
+    mkq('track', "PageView");
+    </script><!--**
+ * 
+ * Google 动态再营销
+ * 
+*--><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><div class="J-iosBanner" style="width:1000px;margin:0 auto;display:none;"><a href="http://m.onelink.me/58265c74" id="openApp" style="display:inline-block;"><img src="/Public/Images/app_route.png" alt="Fashionmia App" width="100%"></a></div><div class="ab-header"><div xc_local="locale-style"></div><div class="ab-top"><p class="ab-site-sign l pr"><a class="pa" href="/customer/register.html" rel="nofollow">Order now and get 5% off 1st order</a></p><div class="ab-site-right pr r"><div class="ab-top-login pr10 pr l"><a class="ab-top-btnFacebook dib mr10 ab-bg" href="javascript:;" rel="nofollow" onclick="authUser()"></a><a class="mr5" rel="nofollow" href="/customer/login.html">Login</a>|<a rel="nofollow" class="ml5" href="/customer/register.html">Sign Up</a><div class="mr15 l" xc_local="country_change"><a style="text-decoration: underline;" href="http://fr.fashionmia.com">Français</a></div></div><div class="top-select-box hidden l"><span>English</span><i class="arrow-icon ab-bg"></i><div class="top-select-show pa"><ul><li tref="EUR"><a href="http://fr.fashionmia.com">Français</a></li></ul></div></div><div id="J-currency" class="top-select-box hidden l" xc_local="currency_change">
+                Currency:<span class="pl5 currency-text">US$</span><i class="arrow-icon ab-bg"></i><div class="top-select-show currency-list pa"><ul><li tref="USD"><a href="javascript:;"><i class="lang-currency usd"></i> USD</a></li><li tref="EUR"><a href="javascript:;"><i class="lang-currency eur"></i> EUR</a></li></ul></div></div><div class="ab-top-shoppingcart pr r" id="J-miniCart"><a class="ab-cartBtn ab-bg" href="/shoppingcart.html" rel="nofollow"><span>My Shopping bag</span> (<span class="buy-cart-item">0</span>)</a><div class="ab-top-cartInfo pa hidden"></div></div></div></div><div class="ab-logo fix"><a href="/" class="l"><img src="/Public/Images/logo.jpg" alt="Fashionmia.com" width="325" height="90"></a><div class="ab-search-box r"><div class="fix"><div class="free-shipping-info r"><span class="ab-tip-plane ab-bg ml10 l"></span><p xc_local="sign-freeshipping" class="l">FREE SHIPPING <br><span>on orders over<span data-price="79" class="ml5">$79</span></span></p></div><div class="pr r"><input id="keywords_search" type="text" name="qs_keyword" value="" placeholder="Search by keyword or item#" class="ab-search"><input type="button" class="ab-searchBtn ab-bg pa" onclick="onSubmitSearch();"><p class="hidden search-error" style="color:red;font-size: .5rem;" id="J-searchError">Please specify a search term.</p></div></div><div class="ab-hot-search mt5 fix"><span class="l">Hot Search:</span><ul class="l"><li data-text="Stylish Dresses">Stylish Dresses</li><li data-text="Summer T-shirts">Summer T-shirts</li><li data-text="Maxi Dresses">Maxi Dresses</li><li data-text="Bodycon Dresses">Bodycon Dresses</li></ul></div></div></div><style>
+.special-offer{display: inline-block;position: relative;background: #FF0065;color: #fff;font-size: 12px;font-weight: 300;padding: 1px 3px;border-radius: 3px;margin-left: 3px;}
+.nored:hover{color:#333 !important;}
+.topsbug-fr{width:460px;left:0px;}
+.dressbug-fr{width: 498px;}
+.bottomsbug-fr{width: 310px;left: 0px;}
+.plusbug-fr{width:650px;right:-51px;}
+.ab-menu .ab-menu-item > a{padding: 0 22px;}
 </style><script>
     $(function() {
         $.ajax({
@@ -110,13 +161,29 @@ var google_remarketing_only = true;
             success:function(result){
                 $('.ab-menu-item .l li a').removeClass('special-offer');
                 var allresult = result['data'];
-                for (var path in allresult) {
-                    $("a[data-path='"+path+"']").addClass('special-offer');
+                var menus = $("#J-SiteNav .ab-menu-item li a");
+                if(allresult){
+                    var results_arr, curId, _link, _id;
+                    $.each(allresult, function(i, v){
+                        results_arr = i.split("/"),
+                        curId = results_arr[results_arr.length-1];
+
+                       for(var i = 0; i < menus.length; i++){
+                            if(menus.eq(i).attr("href").indexOf("-") > 0){
+                                _link = menus.eq(i).attr("href").split("-"),
+                                _id = _link[_link.length-1].replace("/","");
+                                if(curId == _id){
+                                 menus.eq(i).append("<span class='special-offer'>"+Lang_sale+"</span>");
+                                }
+                            }
+                       }
+                    });
                 }
             }
         });
     });
-</script><div class="ab-menu" id="J-SiteNav"><ul><li class="ab-menu-item ab-menu-first"><a href="/" title="Fashionmia.com Homepage">Home</a></li><li class="ab-menu-item"><a href="/Sale/New-In-LandingPage" title="Go To NEW IN">New In</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="width:475px;"><ul class="l"><li><a href="javascript:;"><h4>What's New</h4></a></li><li><a href="/Sale/New-In/2015-12-25">2015-12-25</a></li><li><a href="/Sale/New-In/2015-12-24">2015-12-24</a></li><li><a href="/Sale/New-In/2015-12-23">2015-12-23</a></li><li><a href="/Sale/New-In/2015-12-22">2015-12-22</a></li><li><a href="/Sale/New-In/2015-12-21">2015-12-21</a></li><li><a href="/Sale/New-In/2015-12-20">2015-12-20</a></li><li><a href="/Sale/New-In/2015-12-19">2015-12-19</a></li></ul><ul class="l"><li><a href="javascript:;"><h4>Trending</h4></a></li><li><a href="/dresses-53/Most-Viewed/?pattern=lace">Elegant Lace</a></li><li><a href="/dresses-53/Most-Viewed/?pattern=floral+printed">Floral Print</a></li><li><a href="/skater-dresses-66/Most-Viewed/?color=black">Little Black Dress</a></li></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-paillette-deluxe-v-neck-party-dress-125243.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C4568ECB34/7be02f659031b74090c0807ac6949c94.jpg" alt=""></a><p><span class="del">US$ 239.75</span><br><span class="ab-red">US$ 47.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/hot_deal.html" title="Top Sellers">Top Sellers</a></li><li class="ab-menu-item"><a href="/dresses-53/" data-path="0/1/53" title="Go To Dresses">Dresses</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="width:448px;"><ul class="l"><li><h4><a data-path="0/1/53/70" title="Go To Bodycon Dress" href="/bodycon-dress-70/" class="special-offer">Bodycon Dresses</a></h4></li><li><h4><a data-path="0/1/53/65" title="Go To Maxi Dresses" href="/maxi-dresses-65/" class="special-offer">Maxi Dresses</a></h4></li><li><h4><a data-path="0/1/53/66" title="Go To Skater Dresses" href="/skater-dresses-66/" class="special-offer">Skater Dresses</a></h4></li><li><h4><a data-path="0/1/53/135" title="Go To Shift Dresses" href="/shift-dresses-135/">Shift Dresses</a></h4></li><li><h4><a data-path="0/1/53/67" title="Go To Party Dress" href="/party-dress-67/">Party Dresses</a></h4></li><li><h4><a data-path="0/1/53/125" title="Go To Knitted Dresses" href="/knitted-dress-125/">Knitted Dresses</a></h4></li></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/lace-brilliant-square-neck-bodycon-dress-124509.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/DC7E46D2D692/cba25068ae17147edfb14b721fc3ae84.jpg" alt=""></a><p><span class="del">US$ 64.75</span><br><span class="ab-red">US$ 12.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/stylish-plain-modern-square-neck-skater-dress-124131.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C47CA0E740/dad7e8baa32c8ffe9b6d1a6a01a5d8f1.jpg" alt=""></a><p><span class="del">US$ 99.75</span><br><span class="ab-red">US$ 19.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/outerwear-88/" data-path="0/1/88" title="GO TO Outerwear">Outerwear</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="width:445px;"><ul class="l"><li><h4><a data-path="0/1/88/89" href="/blazers-89/" title="Go To Blazers">Blazers</a></h4></li><li><h4><a data-path="0/1/88/90" href="/jackets-90/" title="Go To Jackets">Jackets</a></h4></li><li><h4><a data-path="0/1/88/91" href="/trench-coats-91/" title="Go To Trench Coats">Trench Coats</a></h4></li><li><h4><a data-path="0/1/88/93" href="/overcoats-93/" title="Go To Overcoats">Overcoats</a></h4></li><li><h4><a data-path="0/1/88/140" href="/waistcoat-140/" title="Go To Waistcoat">waistcoat</a></h4></li></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/breasted-with-pockets-dramatic-overcoats-124982.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C40541D1D7/a1afa15a98b80bd7820bbc29a8b4dc1d.jpg" alt=""></a><p><span class="del">US$ 659.00</span><br><span class="ab-red">US$ 31.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-with-pockets-charming-lapel-overcoats-124821.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C49CDE87E4/3db8d3302684dd9a3f103b21c90d122a.jpg" alt=""></a><p><span class="del">US$ 146.33</span><br><span class="ab-red">US$ 21.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/tops-60/" data-path="0/1/60" title="Go To Tops">Tops</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="left:-102px;width:600px;"><div class="l"><ul class="mb10" style="width: 180px;"><li><h4><a data-path="0/1/60/83" title="Go To T-shirts" href="/t-shirts-83/">T-shirts</a></h4></li><li><a data-path="0/1/60/83/131" title="Go To Short sleeve T-shirts" href="/short-sleeve-t-shirts-131/">Short sleeve T-shirts</a></li><li><a data-path="0/1/60/83/132" title="Go To Long sleeve T-shirts" href="/long-sleeve-t-shirts-132/">Long sleeve T-shirts</a></li><li><a data-path="0/1/60/83/133" title="Go To sleeveless T-shirts" href="/sleeveless-t-shirts-133/">Sleeveless T-shirts</a></li></ul><ul><li><h4><a data-path="0/1/60/94" title="Go To Sweaters" href="/sweaters-94/">Sweaters</a></h4></li><li><a data-path="0/1/60/94/95" title="Go To Pullover" href="/pullover-95/">Pullover</a></li><li><a data-path="0/1/60/94/96" title="Go To Cardigan" href="/cardigan-96/">Cardigan</a></li></ul></div><div class="l"><ul class="mb10" style="width: 140px;"><li><h4><a data-path="0/1/60/85" title="Go To Blouses" href="/blouses-85/">Blouses</a></h4></li></ul><ul style="width: 140px;"><li><h4><a data-path="0/1/60/86" title="Go To Hoodies" href="/hoodies-86/">Hoodies</a></h4></li></ul><ul style="width: 140px;"><li><h4><a data-path="0/1/88/101" title="Go To sweatshirts" href="/sweatshirts-101/">Sweatshirts</a></h4></li></ul></div><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-chic-off-shoulder-long-sleeve-t-shirts-124366.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/DC7E9C3F8EFD/17d379abcb532d731eba6ed38f97bbc1.jpg" alt=""></a><p><span class="del">US$ 54.75</span><br><span class="ab-red">US$ 10.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/printed-hooded-cardigan-124758.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C4EE9D8012/c11b190345bf53ed26aa093186ed5374.jpg" alt=""></a><p><span class="del">US$ 69.83</span><br><span class="ab-red">US$ 20.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/bottoms-129/" data-path="0/1/129" title="GO TO Bottoms">Bottoms</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="width:475px;left:-105px;"><ul class="l"><li><h4><a data-path="0/1/129/58" href="/pants-58/" title="GO TO Pants">Pants</a></h4></li><!--<li><a href="/shorts-76/" title="GO TO Shorts">Shorts</a></li>--><li><a data-path="0/1/129/58/73" href="/jeans-73/" title="GO TO Jeans">Jeans</a></li><li><a data-path="0/1/129/58/74" href="/casual-pants-74/" title="GO TO Casual Pants">Casual Pants</a></li><li><a data-path="0/1/129/58/72" href="/leggings-72/" title="GO TO Leggings">Leggings</a><!--<li><a href="/leather-pants-75/" title="GO TO Leather Pants">Leather Pants</a></li>--></li></ul><ul class="l"><li><h4><a data-path="0/1/129/62" href="/skirts-62/" title="GO TO SKIRTS" class="special-offer">Skirt</a></h4></li><li><a data-path="0/1/129/62/79" href="/midi-skirts-79/" title="GO TO Midi Skirts">Midi Skirts</a></li><li><a data-path="0/1/129/62/81" href="/maxi-skirts-81/" title="GO TO Maxi Skirts">Maxi Skirts</a></li><li><a data-path="0/1/129/62/78" href="/mini-skirts-78/" title="GO TO Mini Skirts">Mini Skirts</a></li><h5><a data-path="0/1/129/58/77" href="/jumpsuits-77/" title="GO TO Jumpsuits" class="special-offer">Jumpsuits</a></h5></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/comfortable-printed-most-popular-leggings-123926.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/DC7EF7731808/e554f124e3dbcddbe613d1966df857bd.jpg" alt=""></a><p><span class="del">US$ 44.75</span><br><span class="ab-red">US$ 8.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="javascript:;" title="GO TO Accessories">Accessories</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden"><ul class="l"><li><h4><a data-path="0/1/130/103" title="GO TO Lingerie" href="/lingerie-103/">Lingerie</a></h4></li><!--<li><a href="/teddies-104/" title="GO TO Teddies">Teddies</a></li>--><li><a data-path="0/1/130/103/106" href="/corsets-106/" title="GO TO Corsets">Corsets</a></li><li><a data-path="0/1/130/103/109" href="/babydolls-109/" title="GO TO Babydolls">Babydolls</a></li><li><a data-path="0/1/130/103/122" href="/plus-size-lingerie-122/" title="GO TO Plus Size Lingerie">Plus Size Lingerie</a></li></ul><ul class="l"><li><h4><a data-path="0/1/51/112" href="/cosplay-112/" title="GO TO Cosplay">Cosplay</a></h4></li><li><h4><a data-path="0/1/130/123" href="/bag-123/" title="GO TO Bag">Bag</a></h4></li><!--<li><a href="/corsets-106/" title="GO TO Corsets">Corsets</a></li>--><!--<li><h4><a href="/tracksuits-98/" title="GO TO TRACKSUITS">Tracksuits</a></h4></li><li><h4><a title="GO TO BAGS" href="/bags-123/">Bags</a></h4></li><li><h4><a title="GO TO Swimwear" href="/swimwear-110/">Swimwear</a></h4></li>--></ul></div></li><li class="ab-menu-item"><a href="/plus-size-114/" data-path="0/1/114" title="Go To  Plus Size">Plus Size</a><span class="ab-menu-arrow ab-bg pa"></span><!-- 20151204 --><span class="ab-summer-hot ab-bg pa"></span><div class="ab-menu-container hidden" style="width:650px;left:-435px;"><ul class="l" style="width:210px;"><li><h4><a data-path="0/1/114/121" href="/plus-size-dresses-121/" title="GO TO  Plus Size Dresses">Plus Size Dresses</a></h4></li><li><a data-path="0/1/114/121/136" title="Go To Plus Size Bodycon Dresses" href="/plus-size-bodycon-dress-136/">Plus Size Bodycon Dresses</a></li><li><a data-path="0/1/114/121/137" title="Go To Plus Size Shift Dresses" href="/plus-size-shift-dresses-137/">Plus Size Shift Dresses</a></li><li><a data-path="0/1/114/121/138" title="Go To Plus Size Flared Dresses" href="/plus-size-flared-dresses-138/">Plus Size Flared Dresses</a></li><li><a data-path="0/1/114/121/139" title="Go To Plus Size Midi &amp; Maxi Dresses" href="/plus-size-midi-maxi-dresses-139/">Plus Size Midi &amp; Maxi Dresses</a></li></ul><ul class="l"><h4><a data-path="0/1/114/118" href="/plus-size-tops-118/" title="GO TO Plus Size Tops">Plus Size Tops</a></h4></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/assorted-colors-bowknot-asymmetrical-hems-elegant-round-neck-plus-size-maxi-dress-124417.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/4CC31F821630/18964946ea351ab1442f2e5381912929.jpg" alt=""></a><p><span class="del">US$ 189.50</span><br><span class="ab-red">US$ 18.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/assorted-colors-asymmetrical-hems-excellent-round-neck-plus-size-t-shirts-124815.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C4FD7368A4/a2e4a0bbd9ecb4e5b0107fbc69c9f09d.jpg" alt=""></a><p><span class="del">US$ 179.00</span><br><span class="ab-red">US$ 8.95</span></p></div></div></div></li></ul></div></div><div class="all_box w bc"><div class="dis_info"><a href="http://www.fashionmia.com/activity/boxing_day_sale"><img src="http://pic.fashionmia.com//Images/banner/fashionmia/index_one.jpg?ver=1451116823"></a><ul class="time_ul"><li class="_days">00</li><li class="_hours">00</li><li class="_minutes">00</li><li class="_seconds">00</li></ul></div><input type="hidden" id="start_time" value="178073"><script type="text/javascript">
+</script><div class="ab-menu" id="J-SiteNav"><ul><li class="ab-menu-item ab-menu-first"><a style="padding-left:0;" href="/" title="Fashionmia.com Homepage">Home</a></li><li class="ab-menu-item"><a href="/Sale/New-In-LandingPage">New In</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="width:610px;left:-19px;"><ul class="l" style="width:115px;"><li><a href="/Sale/New-In-LandingPage"><h4>What's New</h4></a></li><li><a href="/Sale/New-In/2016-06-29">2016-06-29</a></li><li><a href="/Sale/New-In/2016-06-28">2016-06-28</a></li><li><a href="/Sale/New-In/2016-06-27">2016-06-27</a></li><li><a href="/Sale/New-In/2016-06-26">2016-06-26</a></li><li><a href="/Sale/New-In/2016-06-25">2016-06-25</a></li><li><a href="/Sale/New-In/2016-06-24">2016-06-24</a></li><li><a href="/Sale/New-In/2016-06-23">2016-06-23</a></li></ul><ul class="l"><li><a href="javascript:void(0);" style="cursor:default;" class="nored"><h4>Women's New In</h4></a></li><li><a href="/Navi/NewInsSale?gid=1&amp;id=1">New In Dresses</a></li><li><a href="/Navi/NewInsSale?gid=1&amp;id=2">New In Tops</a></li><li><a href="/Navi/NewInsSale?gid=1&amp;id=3">New In Bottoms</a></li></ul><ul class="l"><li><a href="javascript:void(0);" style="cursor:default;" class="nored"><h4>Newest Collection</h4></a></li><li><a href="/Navi/NewInsSale?gid=2&amp;id=1">Maxi Dresses Trends</a></li><li><a href="/Catalog/s?qs_keyword=Hollow+out+T-shirt&amp;isnew=1">Hollow Out T-Shirts</a></li></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-charming-round-neck-maxi-dress-151079.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FB4A442DE9/b7a87be46c6015d62f5a3eb77606cb73.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;9.95</b><span class="special-price">US$ 9.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/hot_deal.html" title="Top Sellers">Top Sellers</a></li><li class="ab-menu-item"><a style="color:#D73263;" href="/flash-sale.html" title="FLASH SALE">FLASH SALE</a></li><li class="ab-menu-item"><a href="/dresses-53/" title="Dresses">Dresses</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container dressbug-fr hidden"><div class="l"><ul style="width:210px"><li><h4><a title="Bodycon Dresses" href="/bodycon-dress-70/">Bodycon Dresses</a></h4></li><li><h4><a title="Maxi Dresses" href="/maxi-dresses-65/">Maxi Dresses</a></h4></li><li><h4><a title="Skater Dresses" href="/skater-dresses-66/">Skater Dresses</a></h4></li><li><h4><a title="Shift Dresses" href="/shift-dresses-135/">Shift Dresses</a></h4></li><!--<li><h4><a title="Knitted Dresses" href="/knitted-dress-125/">Knitted Dresses</a></h4></li>--></ul><!--                        <ul style="width:210px"><li><h4><a title="Special Occasion Dresses" href="/special-occasion-dresses-67/">Special Occasion Dresses</a></h4></li><li><a title="Prom Dresses" href="/prom-dresses-163/">Prom Dresses</a></li><li><a title="Cocktail Dresses" href="/cocktail-dresses-164/">Cocktail Dresses</a></li></ul>--></div><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/gradient-chic-round-neck-maxi-dress-150834.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FBD9E0659A/dedbf4ee3e3070c86e6f17bbab9cdad6.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;10.95</b><span class="special-price">US$ 10.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/fancy-printed-crew-neck-bodycon-dress-143215.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/E9C48F453BB2/40be53a48f68158318454c7d0c3133b0.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;9.95</b><span class="special-price">US$ 9.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/tops-60/" title="Tops">Tops</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container topsbug-fr hidden"><!--                    <div class="l"><ul class="mb20"><li><h4><a title="Beachwear" href="/beachwear-158/">Beachwear</a></h4></li><li><a title="Cover ups" href="/cover-ups-159/">Cover ups</a></li><li><a title="Swimwear" href="/swimwear-110/">Swimwear</a></li></ul><ul class="mb20" style="width: 140px;height: 63px;"><li><h4><a title="Activewear" href="/activewear-153/">Activewear</a></h4></li><li><a title="Active tops" href="/active-tops-154/">Active tops</a></li><li><a title="Sports bra" href="/sports-bra-155/">Sports bra</a></li></ul><ul style="width: 180px;"><li><h4><a title="Hoodies & Sweatshirts" href="/hoodies-sweatshirts-167/">Hoodies & Sweatshirts</a></h4></li><li><a title="Hoodies" href="/hoodies-86/">Hoodies</a></li><li><a title="Sweatshirts" href="/sweatshirts-101/">Sweatshirts</a></li></ul></div>--><div class="l"><ul style="width: 180px;"><li><h4><a title="T-shirts &amp; Blouses" href="/t-shirts-blouses-168/">T-shirts &amp; Blouses</a></h4></li><li><a title="Graphic T-Shirts" href="/hot-trends/graphic-t-shirts-1">Graphic T-Shirts</a></li><li><a title="Hollow Out T-Shirts" href="/hot-trends/hollow-out-t-shirts-2">Hollow Out T-Shirts</a></li><li class="pb5"><a title="Basic T-Shirts" href="/hot-trends/basic-t-shirts-3">Basic T-Shirts</a></li><li><a title="White Blouses" href="/hot-trends/white-blouses-11/">White Blouses</a></li><li><a title="Blouses for work" href="/hot-trends/blouses-for-work-9/">Blouses for work</a></li><li><a title="Lace Blouses" href="/hot-trends/lace-blouses-8/">Lace Blouses</a></li></ul><ul class="pt5"><li><a title="Crop tops" href="/crop-tops-165/">Crop tops</a></li></ul></div><!--                    <div class="l"><ul class="mb20" style="width: 180px;height:135px;"><li><h4><a href="/outerwear-88/" title="Outerwear" >Outerwear</a></h4></li><li><a href="/blazers-89/" title="Blazers">Blazers</a></li><li><a href="/jackets-90/" title="Jackets">Jackets</a></li><li><a href="/trench-coats-91/" title="Trench Coats">Trench Coats</a></li><li><a href="/overcoats-93/" title="Overcoats">Overcoats</a></li><li><a href="/waistcoat-140/" title="waistcoat">waistcoat</a></li></ul><ul class="mb10"><li><h4><a title="Knitwear" href="/knitwear-94/">Knitwear</a></h4></li><li><a title="Cardigans" href="/cardigans-96/">Cardigans</a></li><li><a title="Sweaters" href="/sweaters-95/">Sweaters</a></li></ul></div>--><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-paillette-dip-hem-designed-round-neck-long-sleeve-t-shirts-151337.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FB5703EF65/55fac5eef5d76c74999feeb0eb600b3e.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;8.95</b><span class="special-price">US$ 8.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/hollow-out-lace-patchwork-plain-charming-off-shoulder-blouses-150881.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FBFE644A59/7cf83a3f7411d033483026b6fb073492.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;8.95</b><span class="special-price">US$ 8.95</span></p></div></div></div></li><li class="ab-menu-item"><a href="/bottoms-129/" title="Bottoms">Bottoms</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden bottomsbug-fr"><div class="l"><ul><li><h4><a href="/pants-58/" title="Pants">Pants</a></h4></li><li><h4><a href="/skirts-62/" title="Skirt">Skirt</a></h4></li><li><h4><a href="/jumpsuits-77/" title="Jumpsuits">Jumpsuits</a></h4></li><!--<li><a href="/shorts-76/" title="GO TO Shorts">Shorts</a></li>--><!--                            <li><a href="/jeans-73/" title="Jeans">Jeans</a></li><li><a href="/casual-pants-74/" title="Casual Pants">Casual Pants</a></li><li><a href="/leggings-72/" title="Leggings">Leggings</a></li><li><a href="/shorts-76/" title="Shorts">Shorts</a></li>--><!--<li><a href="/leather-pants-75/" title="GO TO Leather Pants">Leather Pants</a></li>--></ul></div><!--                    <div class="l"><ul class="mb10"><li><h4><a href="/skirts-62/" title="Skirt">Skirt</a></h4></li><li><a href="/midi-skirts-79/" title="Midi Skirts">Midi Skirts</a></li><li><a href="/maxi-skirts-81/" title="Maxi Skirts">Maxi Skirts</a></li><li><a href="/mini-skirts-78/" title="Mini Skirts">Mini Skirts</a></li></ul><ul><li><h4><a href="/jumpsuits-77/" title="Jumpsuits">Jumpsuits</a></h4></li><li><h4><a href="/rompers-166/" title="Rompers">Rompers</a></h4></li><li><h4><a href="/suits-co-ords-148/" title="Suits&Co-Ords">Suits&Co-Ords</a></h4></li></ul></div>--><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/printed-delightful-rompers-151549.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FBD1A1FBBD/5c440eeb35bb4657727f13d7b75fed64.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;9.95</b><span class="special-price">US$ 9.95</span></p></div></div></div></li><!--            <li class="ab-menu-item"><a href="/accessories-130/" title="Accessories">Accessories</a><span class="ab-menu-arrow ab-bg pa"></span><div class="ab-menu-container hidden" style="left: -93px;"><ul class="l"><li><h4><a href="/lingerie-103/" title="Lingerie">Lingerie</a></h4></li><li><a href="/teddies-104/" title="GO TO Teddies">Teddies</a></li><li><a href="/corsets-106/" title="Corsets">Corsets</a></li><li><a href="/babydolls-109/" title="Babydolls">Babydolls</a></li><li><a href="/plus-size-lingerie-122/" title="Plus Size Lingerie">Plus Size Lingerie</a></li></ul><ul class="l"><li><h4><a href="/cosplay-112/" title="GO TO Cosplay">Cosplay</a></h4></li><li><h4><a href="/bag-123/" title="Bag">Bag</a></h4></li><li><a href="/corsets-106/" title="GO TO Corsets">Corsets</a></li><li><h4><a href="/tracksuits-98/" title="GO TO TRACKSUITS">Tracksuits</a></h4></li><li><h4><a title="GO TO BAGS" href="/bags-123/">Bags</a></h4></li><li><h4><a title="GO TO Swimwear" href="/swimwear-110/">Swimwear</a></h4></li></ul></div></li>--><!--            <li class="ab-menu-item"><a href="/plus-size-114/" title="Plus Size">Plus Size</a><span class="ab-menu-arrow ab-bg pa"></span>                 20151204 
+                 <span class="ab-summer-hot ab-bg pa"></span><div class="ab-menu-container hidden plusbug-fr"><ul class="l" style="width:210px;"><li><h4><a title="Plus Size Dresses" href="/plus-size-dresses-121/">Plus Size Dresses</a></h4></li><li><a title="Plus Size Bodycon Dresses" href="/plus-size-bodycon-dress-136/">Plus Size Bodycon Dresses</a></li><li><a title="Plus Size Shift Dresses" href="/plus-size-shift-dresses-137/">Plus Size Shift Dresses</a></li><li><a title="Plus Size Flared Dresses" href="/plus-size-flared-dresses-138/">Plus Size Flared Dresses</a></li><li><a title="Plus Size Midi & Maxi Dresses" href="/plus-size-midi-maxi-dresses-139/">Plus Size Midi & Maxi Dresses</a></li></ul><ul class="l"><li><h4><a href="/plus-size-tops-118/" title="Plus Size Tops">Plus Size Tops</a></h4></li></ul><div class="ab-menuImg l"><div class="ab-menuImg-item ml10 l"><a href="/Products/bohemian-floral-printed-batwing-tassel-delightful-collarless-plus-size-tops-150170.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FB3DDEC451/7c357def5288ea346a61612328d3b133.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;10.95</b><span class="special-price">US$ 10.95</span></p></div><div class="ab-menuImg-item ml10 l"><a href="/Products/plain-batwing-plus-size-shift-dress-150071.html"><img src="http://pic.fashionmia.com/catalog/products/thumbnail/images/24FB716AC3B7/b637a8aeeaf2a9df18f9997ce1060f51.jpg" alt=""></a><p><b class="cache-special-price hidden">US$&nbsp;8.95</b><span class="special-price">US$ 8.95</span></p></div></div></div></li>--><li class="ab-menu-item"><a href="/clearance.html" title="CLEARANCE">CLEARANCE</a></li></ul></div></div><div class="all_box w bc"><div class="dis_info"><a href="/activity/end_june"><img src="http://pic.fashionmia.com/Images/active/fashionmia/6.29counting.jpg?ver=1467278651"></a><ul class="time_ul"><li class="_days">00</li><li class="_hours">00</li><li class="_minutes">00</li><li class="_seconds">00</li></ul></div><input type="hidden" id="start_time" value="48947"><script type="text/javascript">
     $(function(){
         $(".menu_list").hover(
             function(){
@@ -127,7 +194,7 @@ var google_remarketing_only = true;
             }
         );
     });
-</script><div class="breadcrumbs bc"><ul><li><a href="/" title="Home"><span class="home">Home</span></a></li><li>» Privacy Policy</li></ul></div><div class="Help_box mb30 bc"><div class="sideBar_left T fl"><h1 class="browse_help g fl">Help Center</h1><div class="sideBar_left_box fl"><h3 class="left_title_two fl">SITE INFO</h3><ul class="left_title_three"><li><a href="/terms-amp-conditions-i-16.html" target="_self">Terms &amp; Conditions</a></li><li><a href="/privacy-policy-i-14.html" target="_self">Privacy Policy</a></li></ul></div><div class="sideBar_left_box fl"><h3 class="left_title_two fl">ORDER RELATED</h3><ul class="left_title_three"><li><a href="/size-chart-i-40.html" target="_self">Size Chart</a></li><li><a href="/payment-methods-i-12.html" target="_self">Payment Methods</a></li><li><a href="/estimated-delivery-time-i-17.html" target="_self">Estimated Delivery Time​​​</a></li><li><a href="/return-amp-exchange-i-15.html" target="_self">Return &amp; Exchange</a></li><li><a href="/customs-amp-import-tax-i-13.html" target="_self">Customs &amp; Import Tax</a></li></ul></div><div class="sideBar_left_box fl"><h3 class="left_title_two fl">HELP CENTER</h3><ul class="left_title_three"><li><a href="/about-us-i-11.html" target="_self">About Us</a></li><li><a href="/LeaveMessage.html" target="_self">Contact Us</a></li><li><a href="/OrderTracking.html" target="_self" rel="nofollow">Order Tracking</a></li><li><a href="/FAQ.html" rel="nofollow">FAQ</a></li><li><a href="/customer/VIP_Program.html" rel="nofollow">VIP Program</a></li></ul></div><div class="browse_help1 fl"></div></div><div class="sideBar_right g"><h2 class="sideBar_right_title_ g fl">Privacy Policy</h2><!--div class="add9"><a href="/shirts-blouses-46/"><img alt="" src="/Public/banner/information_top_big_2012_7_7.jpg" width="800" height="257" /></a></div--><div class="sideBar_right_title1 T">This privacy statement discloses the privacy practices for <b>www.fashionmia.com</b>.
+</script><div class="breadcrumbs bc"><ul class="fix"><li><a href="/" title="Home"><span class="home">Home</span></a></li><li>» Privacy Policy</li></ul></div><div class="Help_box mb30 bc"><div class="sideBar_left T fl"><h1 class="browse_help g fl">Help Center</h1><div class="sideBar_left_box fl"><h3 class="left_title_two fl">SITE INFO</h3><ul class="left_title_three"><li><a href="/legal-window-i-81.html" target="_self">Legal Window</a></li><li><a href="/terms-amp-conditions-i-16.html" target="_self">Terms &amp; Conditions</a></li><li><a href="/privacy-policy-i-14.html" target="_self">Privacy Policy</a></li><li><a href="" target="_self">About Us</a></li></ul></div><div class="sideBar_left_box fl"><h3 class="left_title_two fl">ORDER RELATED</h3><ul class="left_title_three"><li><a href="/size-chart-i-40.html" target="_self">Size Chart</a></li><li><a href="/payment-methods-i-12.html" target="_self">Payment Methods</a></li><li><a href="/estimated-delivery-time-i-17.html" target="_self">Estimated Delivery Time​​​</a></li><li><a href="/return-amp-exchange-i-15.html" target="_self">Return &amp; Exchange</a></li><li><a href="/customs-amp-import-tax-i-13.html" target="_self">Customs &amp; Import Tax</a></li></ul></div><div class="sideBar_left_box fl"><h3 class="left_title_two fl">HELP CENTER</h3><ul class="left_title_three"><li><a href="/about-us-i-11.html" target="_self">About Us</a></li><li><a href="/submit_ticket" target="_self">Contact Us</a></li><li><a href="/OrderTracking.html" target="_self" rel="nofollow">Order Tracking</a></li><li><a href="/FAQ.html" rel="nofollow">FAQ</a></li><li><a href="/customer/VIP_Program.html" rel="nofollow">VIP Program</a></li></ul></div><div class="browse_help1 fl"></div></div><div class="sideBar_right g"><h2 class="sideBar_right_title_ g fl">Privacy Policy</h2><!--div class="add9"><a href="/shirts-blouses-46/"><img alt="" src="/Public/banner/information_top_big_2012_7_7.jpg" width="800" height="257" /></a></div--><div class="sideBar_right_title1 T">This privacy statement discloses the privacy practices for <b>www.fashionmia.com</b>.
  We are committed to protecting your privacy and encourage you to 
 periodically review this page to be informed of how we protect the 
 information you disclose to us.<br>
@@ -234,6 +301,142 @@ site. Use of the site following such changes constitutes your acceptance
  of the revised policy then in effect. We encourage you to periodically 
 review our privacy policy to ensure familiarity with our most current 
 version.<br>
-<br></div><div class="sideBar_right_title2 fl"></div></div><div class="cb"></div></div><div style="clear: both;"></div><div class="ab-footer pt30"><div class="ab-footContainer fix"><div class="ab-bot-facebook l"><iframe name="f253da39c" width="280px" height="300px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="https://www.facebook.com/v2.5/plugins/page.php?adapt_container_width=true&amp;app_id=113869198637480&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FwjDNIDNrTQG.js%3Fversion%3D41%23cb%3Df2479ce528%26domain%3Ddevelopers.facebook.com%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff286900ba8%26relation%3Dparent.parent&amp;container_width=588&amp;height=300&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Ffashionmiacom%2F&amp;locale=zh_CN&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;small_header=true&amp;width=280" style="border: none; visibility: visible; width: 280px; height: 154px;" class=""></iframe></div><div class="ab-footList ml20 l"><h4 class="mb5">SITE INFO</h4><ul><li><a href="/terms-amp-conditions-i-16.html" rel="nofollow">Terms &amp; Conditions</a></li><li><a href="/privacy-policy-i-14.html" rel="nofollow">Privacy Policy</a></li><li><a href="/Affiliate.html">Affiliate Program</a></li><li><a href="/Blogger-index.html">Fashion Blogger Program</a></li><li><a href="/sitemap.html" target="_blank">Sitemap</a></li></ul></div><div class="ab-footList ml20 l"><h4 class="mb5">ORDER RELATED</h4><ul><li><a href="/size-chart-i-40.html" rel="nofollow">Size Chart</a></li><li><a href="/payment-methods-i-12.html" rel="nofollow">Payment Methods</a></li><li><a href="/estimated-delivery-time-i-17.html" rel="nofollow">Estimated Delivery Time​​​</a></li><li><a href="/return-amp-exchange-i-15.html" rel="nofollow">Return &amp; Exchange</a></li><li><a href="/customs-amp-import-tax-i-13.html" rel="nofollow">Customs &amp; Import Tax</a></li></ul></div><div class="ab-footList ml20 l"><h4 class="mb5">HELP CENTER</h4><ul><li><a href="/about-us-i-11.html" rel="nofollow">About Us</a></li><li><a href="/contact.html" rel="nofollow">Contact Us</a></li><li><a href="/FAQ.html" rel="nofollow">FAQ</a></li><li><a href="/customer/VIP_Program.html" rel="nofollow">VIP Program</a></li><li><a href="/OrderTracking.html" rel="nofollow">Order Tracking</a></li><li><a href="/customer/My_dispute.html" rel="nofollow">Open a Dispute</a></li></ul></div><div class="ml15 r"><h4>LIKE BEING FIRST?</h4><p>Then get our can't-miss style news.</p><form action="https://edm.orderplus.com/form.php?form=3" method="post" class="ab-sletter-form" onsubmit="return isemail(this, 'Please enter your email address.');"><input type="text" name="email" placeholder="Your Email Address" onfocus="if(this.value==defaultValue) this.value=''" onblur="if(!value) value=defaultValue" maxlength="90"><button type="submit">JOIN</button><input type="hidden" name="__hash__" value="f62cfcbfc8b764ea4a34da379aa4ad25_c00c0c2961577433a23c386b56bb1c73"></form></div></div><p class="tc"><img src="/Public/assets/images/friendlink.png" width="618"></p><p class="pb20 ab-grey tc">© 2015 fashionmia.com All rights reserved</p></div><script>
-	require(["module/header", "module/footer"]);
-</script><script src="/Public/Js/common.js?ver=20151102"></script></div><div title="Back to top" class="bg back-top">Back to top</div></body></html>
+<br></div><div class="sideBar_right_title2 fl"></div></div><div class="cb"></div></div><div class="clear"></div><div class="ab-footer pt30" xc_local="footer"><div class="ab-footContainer fix"><div class="ab-bot-facebook l"><iframe name="f253da39c" width="280px" height="300px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="https://www.facebook.com/v2.5/plugins/page.php?adapt_container_width=true&amp;app_id=113869198637480&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FwjDNIDNrTQG.js%3Fversion%3D41%23cb%3Df2479ce528%26domain%3Ddevelopers.facebook.com%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff286900ba8%26relation%3Dparent.parent&amp;container_width=588&amp;height=300&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Ffashionmiacom%2F&amp;locale=zh_CN&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;small_header=true&amp;width=280" style="border: none; visibility: visible; width: 280px; height: 154px;" class=""></iframe></div><div class="ab-footList ml15 l"><h4>SITE INFO</h4><ul><li><a href="/about-us-i-11.html" rel="nofollow">About Us</a></li><li><a href="/terms-amp-conditions-i-16.html" rel="nofollow">Terms &amp; Conditions</a></li><li><a href="/privacy-policy-i-14.html" rel="nofollow">Privacy Policy</a></li><li><a href="/Affiliate.html" rel="nofollow">Affiliate Program</a></li><li><a href="/Blogger-index.html" rel="nofollow">Fashion Blogger Program</a></li><li><a href="/sitemap.html" target="_blank">Sitemap</a></li><li><a href="/Tag/" target="_blank">Hot Tag</a></li><li><a href="http://article.fashionmia.com/fashion-guide/" target="_blank">Fashion Guide</a></li></ul></div><div class="ab-footList ml15 l"><h4 class="mb5">ORDER RELATED</h4><ul><li><a href="/size-chart-i-40.html" rel="nofollow">Size Chart</a></li><li><a href="/payment-methods-i-12.html" rel="nofollow">Payment Methods</a></li><li><a href="/estimated-delivery-time-i-17.html" rel="nofollow">Estimated Delivery Time</a></li><li><a href="/return-amp-exchange-i-15.html" rel="nofollow">Return &amp; Exchange</a></li><li><a href="/customs-amp-import-tax-i-13.html" rel="nofollow">Customs &amp; Import Tax</a></li></ul></div><div class="ab-footList ml15 l"><h4 class="mb5">CUSTOMER SERVICE</h4><ul><li><a href="/OrderTracking.html" rel="nofollow">Order Tracking</a></li><li><a href="/FAQ.html" rel="nofollow">FAQ</a></li><li><a href="/contact.html" rel="nofollow">Customer Care</a></li><li><a href="/customer/My_dispute.html" rel="nofollow">Open Dispute</a></li><li><a href="/customer/VIP_Program.html" rel="nofollow">VIP Program</a></li><li><a href="/legal-window-i-81.html" rel="nofollow">Legal Window</a></li></ul></div><div class="ml15 r" style="margin-left:4px;"><h4>LIKE BEING FIRST?</h4><p>Then get our can't-miss style news.</p><form action="/cheetahmail.html" method="post" class="ab-sletter-form"><input type="text" name="email" placeholder="Your Email Address" maxlength="90"><button type="button" id="submit">JOIN</button><p style="color:red;display:none;" class="info"></p><input type="hidden" name="__hash__" value="f62cfcbfc8b764ea4a34da379aa4ad25_2ab3dde52dc73786cfc3d0bf3c1618a9"></form><a href="http://m.onelink.me/b2e9daaf" class="dib" target="_blank" rel="nofollow"><img src="http://www.fashionmia.com/Public/Images/alogo/appstroe.png?ver=20160505" alt="Fashionmia App" style="width:144px;height:45px;margin-top:12px;"></a></div></div><p class="tc"><img src="/Public/assets/images/friendlink.png?t=20160504" width="618"></p><p class="pb20 ab-grey tc">© 2016 fashionmia.com All rights reserved</p></div><script src="/pc_release/scripts/global.js?v=a9716e1d65"></script><script>
+	try {
+		if(typeof UE_CONFIG !== "undefined" && UE_CONFIG.page_type == "index_Page"){
+			$('#J-HomeSlider').bjqs({
+	            width : 1000,
+	            height : 440,
+	        })
+
+	        $("#J-homeTab").find("img.lazy").lazyload({
+				skip_invisible: !1, // 加载隐藏图片
+				threshold: 200, // 提前加载
+				effect: "fadeIn"
+			});
+
+	        if(!(/iphone|ipod|android.*mobile|windows.*phone|blackberry.*mobile/i.test(window.navigator.userAgent.toLowerCase()))){
+				$("#J-homeTab").find(".ab-pic").each(function() {
+				    var self = $(this);
+				    hoverStatus(self, self.find(".ab-img-layer"), !0);
+				});
+			}
+		}
+	} catch(e) {
+	}
+
+	try{
+		if(!(/iphone|ipod|android.*mobile|windows.*phone|blackberry.*mobile/i.test(window.navigator.userAgent.toLowerCase()))){
+			if($(".list_pro_img").length || $(".pc-img").length || $(".pt-pro-item").length){
+				$(".list_pro_img, .pc-img, .pt-pro-item").hover(function(){
+					var favoriteBox = $(this).find(".list-favorite-box");
+					if(favoriteBox.length){
+						favoriteBox.show();
+					}
+				}, function(){
+					var favoriteBox = $(this).find(".list-favorite-box");
+					favoriteBox.hide();
+				})
+			}
+		}
+		// add to favorite
+		$(".J-addtofav").on("click", function(){
+		    var self = $(this),
+		    	dataInfo = {
+		    		url: self.attr("data-src"),
+		    		rebackPage: window.location.href,
+		    		top: self.find("i").offset().top,
+		    		left: self.find("i").offset().left,
+		    		width: self.find("i").width(),
+		    		height: self.find("i").height(),
+		    		position: self.find("i").css("background-position")
+		    	}
+
+		    return UtilTool.checkLogin(UtilTool.addTofavorite, dataInfo), self.find("i").addClass("redHeart");
+		})
+	}catch(e){}	
+	// App route
+	try {
+		if(navigator.userAgent.match('iPhone')){
+                $(".J-iosBanner").show();
+        }
+
+	} catch(e) {console.log("app route.js error!");}
+</script><div class="ip_to_america hidden"><div class="post_ipto_america" style="z-index:1015"></div><div id="uspopup"><div class="uspop"><div class="flagamerica"><img src="/Public/assets/images/logo.png" width="240"></div><div class="uspopclose">×</div><div class="uspop_t">Vous visualisez notre site depuis la France.</div><p style="margin: 10px 0 25px 78px;">Voulez-vous:</p><p class="link_country"><a href="http://fr.fashionmia.com"><span><img src="/Public/assets/images/img_fr.jpg" alt="" width="30"></span>
+	        	Aller sur notre site français</a></p><p class="country_line"><span>Or</span></p><p class="link_country"><a href="javascript:;" class="link-stayhere"><span><img src="/Public/assets/images/img_us.jpg" alt="" width="30"></span>
+	        	Continue to our English website</a></p></div></div></div><script>
+	try {
+		var countryCode = '';
+
+		if(countryCode == "FR" && location.host.indexOf("fr") < 0){
+			var jump_to_fr = UtilTool.getCookie("jump_to_fr");
+			
+			if(jump_to_fr = "undefined" && jump_to_fr != "0"){
+				$(".ip_to_america").show();
+			}
+
+			$(".uspopclose, .link-stayhere").on("click", function(){
+				UtilTool.addCookie("jump_to_fr", "0", 24*15);
+				$(".ip_to_america").hide();
+			})
+		}
+	} catch(e) {
+		console.log(e);
+	}
+</script><!--**
+ * 
+ * Adroll Tracking
+ * 
+*--><script type="text/javascript">    adroll_adv_id = "YDIR5HJ4WRBFPCOT4ADURB";
+    adroll_pix_id = "HXGNYQ6LPFFQTAWYCV7HJQ";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script><!--**
+ * 
+ * Admitad tracking
+ * 
+*--><!-- UET Conversion Tracking --><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5163502"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5163502&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><script>
+    jQuery(document).ready(function($) {
+        // var alls = $(".ab-site-sign a");
+        // var i=0;
+        // setInterval(function(){
+        //     var j = i%2;
+        //     alls.eq(j).show("slow").siblings('a').hide("slow");
+        //     i++;
+        // },5000);
+
+        //订阅
+        jQuery('#submit').click(function(){
+            var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+            var email_value = jQuery.trim(jQuery('.ab-sletter-form input[name="email"]').val());
+            if(!email_re.test(email_value)){
+
+                alert(Lang_Please_enter_your_email_address);
+                jQuery('.ab-sletter-form input[name="email"]').focus();
+                return false;
+            }
+
+            var url = jQuery('.ab-sletter-form').attr('action');
+            jQuery.post(url,{email:email_value},function(data){
+                if(data){
+                    jQuery('.ab-sletter-form .info').text(Lang_Thanks_for_signing_up).show();
+                }
+            })
+        })
+    });
+</script><!-- ShareASale追踪代码 --><script src="https://www.dwin1.com/7171.js" type="text/javascript" defer="defer"></script></div></body></html>
