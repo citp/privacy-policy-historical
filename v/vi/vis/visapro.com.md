@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231110615id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630080221id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddThis
 
@@ -108,7 +108,7 @@ AddThis processes information in a way that is compatible with and relevant for 
 
 #### Access
 
-AddThis will allow an individual access to their Personal Information to the extent it is available and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. If you have provided Personal Information when registering for our Site, you may access and modify that information at any time by visiting your account settings (http://addthis.com/settings). If you'd like us to update, correct, delete, or deactivate any other Personal Information that you have provided to us, please send your request to us at euprivacy@addthis.com and we will process your request within a reasonable period of time after receipt. 
+AddThis will allow an individual access to their Personal Information to the extent it is available and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. If you have provided Personal Information when registering for our Site, you may access and modify that information at any time by visiting your [account settings](https://web.archive.org/dashboard#account-settings). If you'd like us to update, correct, delete, or deactivate any other Personal Information that you have provided to us, please send your request to us at euprivacy@addthis.com and we will process your request within a reasonable period of time after receipt. 
 
 #### Children
 
