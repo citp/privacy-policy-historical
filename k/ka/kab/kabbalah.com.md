@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabbalah.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607193407id_/http%3A//kabbalah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630172648id_/http%3A//kabbalah.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Kabbalah Centre
 
@@ -6,7 +6,7 @@
 
 Kabbalah Centre International, Inc. (the “Centre”) is committed to protecting our users’ information and to making our users aware of our online practices regarding the privacy of your information.
 
-By accessing our Web site maintained at [www.kabbalah.com](http://www.kabbalah.com/ "www.kabbalah.com") (the “Site”), you expressly consent and agree to the terms and conditions of this privacy policy, including our use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree, then please do not use or access our Site.
+By accessing our Web site maintained at [www.kabbalah.com](http://www.kabbalah.com/) (the “Site”), you expressly consent and agree to the terms and conditions of this privacy policy, including our use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree, then please do not use or access our Site.
 
 **Information Collected**
 
