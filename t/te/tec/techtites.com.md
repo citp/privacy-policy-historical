@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techtites.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065732id_/http%3A//techtites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtites.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630044902id_/http%3A//techtites.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techtites
+# Privacy Policy — Techtites
 
 We at Techtites.com take your privacy seriously.
 
