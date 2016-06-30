@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430112844id_/http%3A//www.oocl.com/eng/privacyandsecurity%3Fsite%3Dusa%26lang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125349id_/http%3A//www.oocl.com/eng/privacyandsecurity%3Fsite%3Dusa%26lang%3Deng) for the most accurate reproduction.*
 
 # OOCL - Privacy & Security
 
-Last Updated: 6 March 2009
+Last Updated: 26 March 2012
 
 **PRIVACY AND SECURITY STATEMENT**
 
@@ -109,7 +109,7 @@ Such advertising networks web sites may contain their own privacy statements.  
   * Affiliates of OOCL, who use the personally identifiable information for the same purposes as OOCL. 
   * Your representatives (e.g. your authorised representatives or legal advisers). 
   * Third parties with whom OOCL is jointly offering or co-branding products, including business alliances of OOCL, for purposes of making such joint product offerings and marketing them to you, unless you have indicated, in accordance with Section 8 (b) of this Privacy and Security Statement, that you do not wish to receive this information. 
-  * Service Providers
+  * Service Providers 
   * Credit-reporting and fraud-checking agencies. 
   * Our professional advisers, including our accountants, auditors and lawyers. 
   * Government and regulatory authorities and other organisations, as required or authorised by law. 
@@ -118,7 +118,7 @@ Such advertising networks web sites may contain their own privacy statements.  
     * managing our corporate risk and funding functions. 
   * Telecommunication and information service providers. 
   * Third party licensors. 
-  * System Administrator.
+  * System Administrator. 
 
 
 
@@ -126,7 +126,6 @@ Such advertising networks web sites may contain their own privacy statements.  
 
 (f)  Except as otherwise expressly discussed herein, this Privacy and Security Statement only addresses the use and disclosure in the first instance of information we collect from you.  Personally identifiable information about you provided by another party will for the purposes of this Privacy and Security Statement be deemed to be personally identifiable information collected from such other party, not you, whether such other party originally received the information from you or another source. 
 
-  
 7\. How we handle E-mails
 
 We will preserve the content of any e-mail that you send us. Any personally identifiable information contained in your e-mail, including your e-mail address, will be used or disclosed in ways set out in this Privacy and Security Statement. Your e-mail message content may be monitored by OOCL's employees or by System Administrator for trouble shooting and maintenance purposes or where e-mail abuse is suspected.
@@ -175,15 +174,11 @@ We will preserve the content of any e-mail that you send us. Any personally iden
 
 Should you have any questions about this Privacy and Security Statement, the practice of the OOCL Web Site, or your dealings with the OOCL Web Site, you can contact:
 
-Customer Care
-
-Corporate Marketing Department (ECommerce Section)  
+Corporate Customer Service Department  
 Orient Overseas Container Line Ltd.
 
-Address: 31st Floor, Harbour Centre,  
-25 Harbour Road,  
-Wanchai,  
+Address: 30nd Floor, Harbour Centre,  
+25 Harbour Road, Wanchai,  
 Hong Kong   
-Telephone: (852) 28333829   
-Telefax: (852) 25318233   
+Telephone: (852) 2833 3888  
 Email: [support@oocl.com](mailto:support@oocl.com)
