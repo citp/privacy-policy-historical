@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319005849id_/https%3A//bermanhosting.com//privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bermanhosting.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630040117id_/https%3A//bermanhosting.com//privacy.php) for the most accurate reproduction.*
 
-# BermanHosting.com - Privacy Policy
+# Privacy Policy
 
 ## In an effort to protect our clients' and site visitors privacy and rights, BermanHosting.com has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
