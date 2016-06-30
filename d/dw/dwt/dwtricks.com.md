@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218142308id_/http%3A//www.dwtricks.com/p/any-of-information-we-collect-you-may.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630174334id_/http%3A//dwtricks.com/any-of-information-we-collect-you-may) for the most accurate reproduction.*
 
-# PRIVACY POLICY | 3G Tricks December 2014, Free recharge, Coupons, How to, Android hack, Tech4U - DWTricks.com
-
-##  PRIVACY POLICY 
+# PRIVACY POLICY -
 
 Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
-(your information helps us to better respond to yourindividual needs)
+(your information helps us to better respond to your individual needs)
 
 ; To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
@@ -24,7 +22,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on ourwebsite. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site.  welcome any feedback about these sites. 
+Occasionally, at our discretion, we may include or offer third party products or services on ourwebsite. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site.  welcome any feedback about these sites.
 
 **Childrens  Online Privacy Protection ActCompliance**
 
@@ -40,7 +38,7 @@ This online privacy policy applies only to information collected through our we
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.dwtricks.blogspot.com](http://www.dwtricks.blogspot.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.dwtricks.com](http://www.dwtricks.com/)
 
 **Your Consent**
 
