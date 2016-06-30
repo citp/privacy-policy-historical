@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rightthisminute.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226163338id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rightthisminute.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630131652id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -26,7 +26,7 @@
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <meta name="google-play-app" content="app-id=com.rtm.activity, app-argument=http://www.rightthisminute.com/privacy-policy?type=page&amp;id=8">
 <meta name="apple-itunes-app" content="app-id=548411743, app-argument=http://www.rightthisminute.com/privacy-policy?type=page&amp;id=8">
-<link rel="apple-touch-icon" href="http://www.rightthisminute.com/sites/all/themes/rtm/apple-touch-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="https://www.rightthisminute.com/sites/all/themes/rtm/apple-touch-icon.png" type="image/png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Privacy Policy &nbsp; &nbsp; PLEASE READ THIS USER AGREEMENT BEFORE USING THIS SERVICE. BY CONTINUING TO USE RIGHTTHISMINUTE.COM, YOU AGREE TO ABIDE BY THE CONDITIONS OF THIS USER AGREEMENT. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS USER AGREEMENT, PLEASE DO NOT USE THIS SERVICE. &nbsp; Personal Information">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
@@ -36,13 +36,12 @@
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Privacy Policy &nbsp; &nbsp; PLEASE READ THIS USER AGREEMENT BEFORE USING THIS SERVICE. BY CONTINUING TO USE RIGHTTHISMINUTE.COM, YOU AGREE TO ABIDE BY THE CONDITIONS OF THIS USER AGREEMENT. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS USER AGREEMENT, PLEASE DO NOT USE THIS SERVICE. &nbsp; Personal Information">
 <meta property="og:updated_time" content="2014-10-03T10:44:21-07:00">
-<meta property="og:image" content="http://www.rightthisminute.com/sites/default/files/styles/video_promo/public/default_images/rtmlogo.jpg">
+<meta property="og:image" content="https://www.rightthisminute.com/sites/default/files/styles/video_promo/public/default_images/rtmlogo.jpg">
 <meta property="article:published_time" content="2011-09-10T14:52:08-07:00">
 <meta property="article:modified_time" content="2014-10-03T10:44:21-07:00">
   <title>Privacy Policy | RTM - RightThisMinute</title>
-  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700,900|Oswald">
-<link type="text/css" rel="stylesheet" href="http://www.rightthisminute.com/sites/default/files/css/css_B7mTLytxBlIdhpg8Piajfikb-jq_2uXNI5Ic6KhBN0M.css">
-<link type="text/css" rel="stylesheet" href="http://www.rightthisminute.com/sites/default/files/css/css_4W1LcMnz2Tau_iOKrI3ZHXklGqVurM58lswVhqTW8vo.css">
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,900|Oswald">
+<link type="text/css" rel="stylesheet" href="https://www.rightthisminute.com/sites/default/files/css/css_UuryJqVHh9iL6yTCSeJIlKWBx9MFJxZKMAKt3CAj6pI.css">
 
   <script>
 ;(function() {
@@ -53,61 +52,13 @@
 
   RTM.getServerTime = (function ()
   { // Credit: http://stackoverflow.com/a/6285949/134014
-    var base_time  = 1451147618000      , start_time = (new Date()).getTime()
+    var base_time  = 1467292612000      , start_time = (new Date()).getTime()
 
     return function() {
       return base_time + ((new Date()).getTime() - start_time)
     }
   })()
 })()
-
-function onYouTubeIframeAPIReady()
-{ // Defined here, before all other scripts to be sure it's ready when the
-  // YouTube iframe API loads.
-  onYouTubeIframeAPIReady.hasRun = true
-  for (var fx = 0; fx < onYouTubeIframeAPIReady.funcs.length; fx++)
-    onYouTubeIframeAPIReady.funcs[fx]()
-}
-onYouTubeIframeAPIReady.hasRun = false
-onYouTubeIframeAPIReady.funcs  = []
-onYouTubeIframeAPIReady.run    = function (func)
-{
-  if (onYouTubeIframeAPIReady.hasRun)
-    func()
-  else
-    onYouTubeIframeAPIReady.funcs.push(func)
-}
-
-/**
- * Adds the Ooyala player options that enable Videology ads to work.
- *
- * The need for this is centered around passing back the referer URL. Normally,
- * the Ooyala player figures out the current page's URL and then sends it to
- * the ad provider, DFP in this case. DFP then sends that same URL to Videology.
- * But, because of how Videology is setup, they require that the URL be
- * double-encoded. But DFP decodes the referer URL from the Ooyala player once
- * before sending it along which means Videology only gets a single-encoded
- * URL.
- */
-RTM.applyVideologyAdTo = function(options)
-{
-  // Videology uses a white-list and wont deliver an ad unless it comes from
-  // www.rightthisminute.com.
-  var ref_url = window.location.href.replace(window.location.hostname
-                                            ,'www.rightthisminute.com')
-  for (var x = 3; x > 0; x--)
-    ref_url = encodeURIComponent(ref_url)
-  options['google-ima-ads-manager'] =
-    {adTagUrl:
-       'http://pubads.g.doubleclick.net/gampad/ads'
-      +'?sz=640x480&iu=/85282139/RTM_PreRoll_Videology&impl=s&gdfp_req=1'
-      +'&env=vp&output=xml_vast2&unviewed_position_start=1'
-      +'&url=[referrer_url]&description_url=[description_url]'
-      +'&correlator=[timestamp]'
-    ,additionalAdTagParameters: {cust_params: 'enc_ref_url='+ref_url}}
-
-  return options
-}
 </script>
 
     <script>
@@ -130,7 +81,7 @@ RTM.applyVideologyAdTo = function(options)
 
       <div id="name-and-slogan">
         <a href="/" title="Home" rel="home">
-          <img id="logo" src="http://www.rightthisminute.com/sites/all/themes/rtm/logo.svg" alt="RightThisMinute - The Viral Videos Show">
+          <img id="logo" src="https://www.rightthisminute.com/sites/all/themes/rtm/logo.svg" alt="RightThisMinute - The Viral Videos Show">
           <h1 id="site-name">RightThisMinute</h1>
                     <div id="site-slogan">The Viral Videos Show</div>
                   </a>
@@ -147,9 +98,10 @@ RTM.applyVideologyAdTo = function(options)
       </a>
 
       <nav class="header">
-        <ul class="menu"><li class="first leaf"><a href="/complete-rules">iPad Giveaway Rules</a></li>
-<li class="collapsed"><a href="/about">About RTM</a></li>
-<li class="last leaf"><a href="/about/stations">Air Times</a></li>
+        <ul class="menu"><li class="first leaf"><a href="/complete-rules">Giveaway Rules</a></li>
+<li class="leaf"><a href="/about/stations">Air Times</a></li>
+<li class="leaf mobile-only"><a href="https://www.rightthisminute.com/submit/video">Upload Your Video</a></li>
+<li class="last leaf"><a href="/user/login" class="facebook-login">Log In</a></li>
 </ul>      </nav>
 
       <nav class="misc">
@@ -213,8 +165,10 @@ RTM.applyVideologyAdTo = function(options)
   <div class="content">
     <ul class="menu"><li class="first leaf on-mobile"><a href="/" class="on-mobile">Home</a></li>
 <li class="leaf on-mobile"><a href="/tv" class="on-mobile">TV Show</a></li>
-<li class="leaf on-mobile"><a href="/newest" class="on-mobile">Newest</a></li>
+<li class="leaf DISABLEDon-mobile"><a href="/newest" class="DISABLEDon-mobile">Newest</a></li>
 <li class="leaf"><a href="/slideshows">Slideshows</a></li>
+<li class="leaf on-mobile"><a href="/win" class="on-mobile">Win iPad</a></li>
+<li class="leaf"><a href="http://rightthisminute.qbstores.com">RTM Shop</a></li>
 <li class="last expanded"><span class="nolink">More</span><ul class="menu"><li class="first leaf"><a href="/tags/interview">Exclusive Interviews</a></li>
 <li class="leaf"><a href="/videos/funny">Funny</a></li>
 <li class="leaf"><a href="/videos/feel-good">Feel Good</a></li>
@@ -237,7 +191,7 @@ RTM.applyVideologyAdTo = function(options)
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." placeholder="Find Videos" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-zW58qZafAvYr-oM95LQyq313a9GHqJcda3sdxBW_5zM">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-4xqZJ17bsOjMXA5wNyVNFlNIuYdmuclqKeobZf25qc0">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>  </div>
@@ -251,7 +205,7 @@ RTM.applyVideologyAdTo = function(options)
 
       <section id="content">
         <a id="main-content"></a>
-                                                          <div class="region region-content">
+                <h1 class="title" id="page-title">Privacy Policy</h1>                                          <div class="region region-content">
     <div id="block-system-main" class="block block-system">
 
     
@@ -323,22 +277,22 @@ RTM.applyVideologyAdTo = function(options)
     <h2>Newest</h2>
   
   <div class="content">
-    <div class="view view-waterfall view-id-waterfall view-display-id-section_1 view-dom-id-50f4360c7ed289fd6e71547723862a99">
+    <div class="view view-waterfall view-id-waterfall view-display-id-section_1 view-dom-id-d5099d80d73d411dad61e7fce670f38e">
         
   
   
       <div class="view-content">
         <article class="views-row views-row-1 views-row-odd views-row-first">
     
-<a class="thumbnail" href="/slideshow/watch-all-todays-show-122615">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=ibpbciVg 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=9P4jC3V4 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=vZ1vxopK 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=d4G5k6vI 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=CeIBbHm9 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=6kk92yTj 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/slideshow/rightthisminute-thumbnail-2015_7.jpg?itok=VkBciunz 480w, http://www.rightthisminute.com/sites/default/files/slideshow/rightthisminute-thumbnail-2015_7.jpg 512w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Watch All of Today's Show: 12/26/15">    <!-- /.thumbnail -->
+<a class="thumbnail" href="/slideshow/watch-all-todays-show-063016">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/slideshow/rtm-slideshows-video_82.jpg?itok=rwDqPS9I 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/slideshow/rtm-slideshows-video_82.jpg?itok=R4cJhHbK 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/slideshow/rtm-slideshows-video_82.jpg?itok=T6Er7aHw 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/slideshow/rtm-slideshows-video_82.jpg?itok=YuEXjuS5 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/slideshow/rtm-slideshows-video_82.jpg?itok=Dc_Q1iCp 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/slideshow/rtm-slideshows-video_82.jpg?itok=vw6sqrur 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/slideshow/rtm-slideshows-video_82.jpg?itok=l_e4t3VE 480w, https://www.rightthisminute.com/sites/default/files/slideshow/rtm-slideshows-video_82.jpg 512w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Watch All Of Today's Show: 06/30/16">    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/slideshow/watch-all-todays-show-122615"><span>Watch All of Today's Show: 12/26/15</span></a></h3>
+  <h3>    <a href="/slideshow/watch-all-todays-show-063016"><span>Watch All Of Today's Show: 06/30/16</span></a></h3>
 
   <section class="description">
-        <a class="button view" href="/slideshow/watch-all-todays-show-122615">View Now</a>
+        <a class="button view" href="/slideshow/watch-all-todays-show-063016">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -346,15 +300,15 @@ RTM.applyVideologyAdTo = function(options)
   </article>
   <article class="views-row views-row-2 views-row-even">
     
-<a class="thumbnail" href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=XvugjS2S 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=QG_8Otg1 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=eiUL-m0i 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=8z7b6i_R 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=A53LQZUm 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=AX6v1uKn 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=92_2Okvy 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=91AG5Bhh 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=e3DEVTE_ 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=nQ3V2j0I 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=5ftddP5Q 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="'Twas a Night in Litchfield' by the Cast of 'Orange is the New Black'">    <!-- /.thumbnail -->
+<a class="thumbnail" href="/video/rtmtv-crane-fail-forklift-win">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/crane-video_0.jpg?itok=vs4zGIDx 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/crane-video_0.jpg?itok=Ug0yf9BA 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/crane-video_0.jpg?itok=CrMNxWiU 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/crane-video_0.jpg?itok=sfsp8tlO 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/crane-video_0.jpg?itok=r3cqBaxF 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/crane-video_0.jpg?itok=fKI6gsWb 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/crane-video_0.jpg?itok=V7_W5LKl 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/crane-video_0.jpg?itok=kMYBQTru 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/crane-video_0.jpg?itok=RCS8O31l 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/crane-video_0.jpg?itok=4qNkTrCf 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/crane-video_0.jpg?itok=gzN6DYUu 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Unbelievable Crane Fail &amp; Forklift Win">    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas"><span>'Twas a Night in Litchfield' by the Cast of 'Orange is the New Black'</span></a></h3>
+  <h3>    <a href="/video/rtmtv-crane-fail-forklift-win"><span>Unbelievable Crane Fail &amp; Forklift Win</span></a></h3>
 
   <section class="description">
-    Just because you're behind bars doesn't mean you don't get into the Christmas spirit. Just take the ladies from "Orange is the New Black." Watch their riveting rendition of Twas the Night Before Christmas: Prison Edition.&nbsp;    <a class="button view" href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas">View Now</a>
+    These two construction site videos could not have more different outcomes. A large crane in Guatemala was removing the top of a water tank from this structure when things went very wrong. The crane started to topple over and the whole truck flipped over. The crane crushed several cars and destroying the roof of a nearby building. Thankfully, no one was injured and the driver was able to escape just in time.    <a class="button view" href="/video/rtmtv-crane-fail-forklift-win">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -362,15 +316,16 @@ RTM.applyVideologyAdTo = function(options)
   </article>
   <article class="views-row views-row-3 views-row-odd">
     
-<a class="thumbnail" href="/video/cut-kids-photo-with-santa-funny">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=FNQ8KuIi 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=_6GoAPzG 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=PUe4L340 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=RufKv18t 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Cd02JOst 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=erBgM4pQ 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=sQx5oV2A 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Amry0p1w 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=8CPtpiX6 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=f1P1zjBb 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=mLtXjC4u 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Emotional Kids Getting Their Picture With Santa is Priceless">    <!-- /.thumbnail -->
+<a class="thumbnail" href="/video/rtmtv-funny-fails-beach">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/funny-fails-beach-video.jpg?itok=umeLmAD0 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/funny-fails-beach-video.jpg?itok=su2UpR5p 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/funny-fails-beach-video.jpg?itok=N7Z8gvR6 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/funny-fails-beach-video.jpg?itok=qZaezV2C 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/funny-fails-beach-video.jpg?itok=rehhUMvx 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/funny-fails-beach-video.jpg?itok=jvady8nL 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/funny-fails-beach-video.jpg?itok=0UJVGpgP 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/funny-fails-beach-video.jpg?itok=abM1LurR 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/funny-fails-beach-video.jpg?itok=V5Clrkyk 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/funny-fails-beach-video.jpg?itok=8aSJfX3q 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/funny-fails-beach-video.jpg?itok=-u46xoUq 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Funny Fails From The Beach">    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/cut-kids-photo-with-santa-funny"><span>Emotional Kids Getting Their Picture With Santa is Priceless</span></a></h3>
+  <h3>    <a href="/video/rtmtv-funny-fails-beach"><span>Funny Fails From The Beach</span></a></h3>
 
   <section class="description">
-    When children get their photo with Santa Claus, it could go one of many ways. They could be pretty indifferent, super happy, or really upset. <a href="http://cut.com/" target="_blank">The awesome folks at Cut</a> put together this video, which has a little bit of everything in it.    <a class="button view" href="/video/cut-kids-photo-with-santa-funny">View Now</a>
+    People around the world are fascinated with the ocean, but these three tourists weren't expecting the huge waves that crashed on the beaches they were visiting. This <a href="https://www.jukinmedia.com/licensing/view/933919" target="_blank">poor fellow</a> was walking on the rocky beach when a wave totally engulfed him.&nbsp;
+Then, check out this tiny little girl who got knocked over by a wave that probably seemed giant to her.    <a class="button view" href="/video/rtmtv-funny-fails-beach">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -378,118 +333,16 @@ RTM.applyVideologyAdTo = function(options)
   </article>
   <article class="views-row views-row-4 views-row-even views-row-last">
     
-<a class="thumbnail" href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=Te6bETj- 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=3LasL2lx 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=pzrexbgK 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=pky4GnDx 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=_HI_mJX2 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=aesrGhvp 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=Z8z_cy2d 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=FadUbeGy 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=_BFwSlE5 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=qMoHIf0w 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=DyTiRp7y 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="You Know When a Smell Triggers a Special Memory? There's a Word for That">    <!-- /.thumbnail -->
+<a class="thumbnail" href="/video/rtmtv-biker-hits-car-scary-crash">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/biker-accident-video_0.jpg?itok=LZUhknMi 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/biker-accident-video_0.jpg?itok=ctGrk-cp 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/biker-accident-video_0.jpg?itok=x0EnvoSX 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/biker-accident-video_0.jpg?itok=q3LpVme6 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/biker-accident-video_0.jpg?itok=DWLXBOtD 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/biker-accident-video_0.jpg?itok=Ja3lXe-n 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/biker-accident-video_0.jpg?itok=Ado7qRui 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/biker-accident-video_0.jpg?itok=bT9wL6Jx 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/biker-accident-video_0.jpg?itok=yWxUahnW 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/biker-accident-video_0.jpg?itok=1rjtCzLS 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/biker-accident-video_0.jpg?itok=6CA9GZKw 960w" sizes="(min-width: 48em) 265px, (min-width: 30em) 166px, 100vw" alt="Biker Sent Flying After Motorcycle Hits Station Wagon">    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories"><span>You Know When a Smell Triggers a Special Memory? There's a Word for That</span></a></h3>
+  <h3>    <a href="/video/rtmtv-biker-hits-car-scary-crash"><span>Biker Sent Flying After Motorcycle Hits Station Wagon</span></a></h3>
 
   <section class="description">
-    You learn something new everyday. You know when you go back home and visit Grandma and the smell of her house as she bakes Christmas cookies takes you back to when you were a kid? There's a word for that, and it's called "Nostralgia." It's actually combing "nostrils" and "nostalgia." These are particularly stirred up during the holidays. What triggers "nostralgia" for <em>you</em>?
-via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" target="_blank">HelloGiggles</a></em>
-&nbsp;    <a class="button view" href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories">View Now</a>
-  </section>
-<!-- /.details -->
-</div>
-
-  </article>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-views-waterfall-section-2" class="block block-views">
-
-    <h2>Holiday</h2>
-  
-  <div class="content">
-    <div class="view view-waterfall view-id-waterfall view-display-id-section_2 view-dom-id-763a0bfb02ef174e0a7d63398071f8c6">
-        
-  
-  
-      <div class="view-content">
-        <article class="views-row views-row-1 views-row-odd views-row-first">
     
-<a class="thumbnail" href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=8z7b6i_R 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=A53LQZUm 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=AX6v1uKn 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=92_2Okvy 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=91AG5Bhh 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=e3DEVTE_ 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=nQ3V2j0I 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas-video.jpg?itok=5ftddP5Q 960w" sizes="(min-width: 60.9375em) 634px, (min-width: 48em) 96vw, (min-width: 30em) 98vw, 100vw" alt="'Twas a Night in Litchfield' by the Cast of 'Orange is the New Black'">    <!-- /.thumbnail -->
-</a>
-
-<div class="details">
-  <h3>    <a href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas"><span>'Twas a Night in Litchfield' by the Cast of 'Orange is the New Black'</span></a></h3>
-
-  <section class="description">
-    Just because you're behind bars doesn't mean you don't get into the Christmas spirit. Just take the ladies from "Orange is the New Black." Watch their riveting rendition of Twas the Night Before Christmas: Prison Edition.&nbsp;    <a class="button view" href="/video/twas-a-night-in-litchfield-orange-is-the-new-black-netflix-christmas">View Now</a>
-  </section>
-<!-- /.details -->
-</div>
-
-  </article>
-  <article class="views-row views-row-2 views-row-even">
-    
-<a class="thumbnail" href="/video/cut-kids-photo-with-santa-funny">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=FNQ8KuIi 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=_6GoAPzG 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=PUe4L340 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=RufKv18t 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Cd02JOst 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=erBgM4pQ 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=sQx5oV2A 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Amry0p1w 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=8CPtpiX6 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=f1P1zjBb 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=mLtXjC4u 960w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="Emotional Kids Getting Their Picture With Santa is Priceless">    <!-- /.thumbnail -->
-</a>
-
-<div class="details">
-  <h3>    <a href="/video/cut-kids-photo-with-santa-funny"><span>Emotional Kids Getting Their Picture With Santa is Priceless</span></a></h3>
-
-  <section class="description">
-    When children get their photo with Santa Claus, it could go one of many ways. They could be pretty indifferent, super happy, or really upset. <a href="http://cut.com/" target="_blank">The awesome folks at Cut</a> put together this video, which has a little bit of everything in it.    <a class="button view" href="/video/cut-kids-photo-with-santa-funny">View Now</a>
-  </section>
-<!-- /.details -->
-</div>
-
-  </article>
-  <article class="views-row views-row-3 views-row-odd">
-    
-<a class="thumbnail" href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=Te6bETj- 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=3LasL2lx 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=pzrexbgK 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=pky4GnDx 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=_HI_mJX2 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=aesrGhvp 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=Z8z_cy2d 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=FadUbeGy 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=_BFwSlE5 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=qMoHIf0w 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories-video.jpg?itok=DyTiRp7y 960w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="You Know When a Smell Triggers a Special Memory? There's a Word for That">    <!-- /.thumbnail -->
-</a>
-
-<div class="details">
-  <h3>    <a href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories"><span>You Know When a Smell Triggers a Special Memory? There's a Word for That</span></a></h3>
-
-  <section class="description">
-    You learn something new everyday. You know when you go back home and visit Grandma and the smell of her house as she bakes Christmas cookies takes you back to when you were a kid? There's a word for that, and it's called "Nostralgia." It's actually combing "nostrils" and "nostalgia." These are particularly stirred up during the holidays. What triggers "nostralgia" for <em>you</em>?
-via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" target="_blank">HelloGiggles</a></em>
-&nbsp;    <a class="button view" href="/video/word-of-the-day-nostralgia-nostril-nostalgia-hello-giggles-slang-smell-memories">View Now</a>
-  </section>
-<!-- /.details -->
-</div>
-
-  </article>
-  <article class="views-row views-row-4 views-row-even">
-    
-<a class="thumbnail" href="/video/brothers-puppy-christmas-surprise">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/unnamed_1.jpg?itok=3pZuhf5s 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/unnamed_1.jpg?itok=uRb_MOje 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/unnamed_1.jpg?itok=2FbzaSHy 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/unnamed_1.jpg?itok=RwAXQUDr 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/unnamed_1.jpg?itok=KFoxDxQe 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/unnamed_1.jpg?itok=Mx0_GL_4 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/unnamed_1.jpg?itok=QZpS-mGt 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/unnamed_1.jpg?itok=xAs3xQD2 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/unnamed_1.jpg?itok=4mjIOp4p 576w, http://www.rightthisminute.com/sites/default/files/videos/images/unnamed_1.jpg 640w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="This Proves That Puppies are the Greatest Christmas Present Ever">    <!-- /.thumbnail -->
-</a>
-
-<div class="details">
-  <h3>    <a href="/video/brothers-puppy-christmas-surprise"><span>This Proves That Puppies are the Greatest Christmas Present Ever</span></a></h3>
-
-  <section class="description">
-    You know it’s the best Christmas ever when you’re so overwhelmed with excitement that you can’t help but ball uncontrollably.&nbsp;    <a class="button view" href="/video/brothers-puppy-christmas-surprise">View Now</a>
-  </section>
-<!-- /.details -->
-</div>
-
-  </article>
-  <article class="views-row views-row-5 views-row-odd views-row-last">
-    
-<a class="thumbnail" href="/video/santas-taste-testing-reindeer-christmas-nightmare">
-    <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=b2AoeDDY 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=rudFbHez 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=KR4pzaD8 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=Wg8-iL2e 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=-fxKlTEl 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=RHWkHY0q 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=RTkj9CFE 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=ASy3Vv7T 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=M4aDHtZM 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/christmas-santa-reindeer-buzzfeed-video.jpg?itok=VarrtD-g 768w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="Santas Taste Testing Reindeer is a Christmas Nightmare">    <!-- /.thumbnail -->
-</a>
-
-<div class="details">
-  <h3>    <a href="/video/santas-taste-testing-reindeer-christmas-nightmare"><span>Santas Taste Testing Reindeer is a Christmas Nightmare</span></a></h3>
-
-  <section class="description">
-    There are things that just shouldn't happen during the Christmas season. Like you shouldn't get too hammered at the office Christmas party or you shouldn't listen to your girlfriend when she says she doesn't want anything. More importantly, Santa shouldn't be eating reindeer! This is just wrong in so many ways. <a href="https://www.youtube.com/user/buzzfeedblue" target="_blank">BuzzFeed</a>... what have you done!? Poor Rudolph!    <a class="button view" href="/video/santas-taste-testing-reindeer-christmas-nightmare">View Now</a>
+	Crashes are a reminder to all drivers to drive safe and slow down. This motorcycle driver was ejected from his bike when he slammed into a station wagon. Another motorcyclist captured this footage on his helmet camera. Fortunately, none of the drivers sustained serious injuries.&nbsp;    <a class="button view" href="/video/rtmtv-biker-hits-car-scary-crash">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -506,28 +359,28 @@ via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" targe
 </div>
 <div id="block-views-waterfall-section-3" class="block block-views">
 
-    <h2>Funny</h2>
+    <h2>RTM Favorites</h2>
   
   <div class="content">
-    <div class="view view-waterfall view-id-waterfall view-display-id-section_3 view-dom-id-f882bc696ffba63ba57cf4f248e3cc8f">
+    <div class="view view-waterfall view-id-waterfall view-display-id-section_3 view-dom-id-55cba61f2ea1c165576cf3a089ea88b1">
         
   
   
       <div class="view-content">
         <article class="views-row views-row-1 views-row-odd views-row-first">
     
-<a class="thumbnail" href="/video/cut-kids-photo-with-santa-funny">
+<a class="thumbnail" href="/video/pregnancy-does-strange-and-beautiful-things-human-body">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=emY8E9dM 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=G_Git-5u 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=_6GoAPzG 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=PUe4L340 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=RufKv18t 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Cd02JOst 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=erBgM4pQ 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=sQx5oV2A 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=Amry0p1w 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=8CPtpiX6 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=f1P1zjBb 768w, http://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/video-cut-kids-photo-with-santa-funny.jpg?itok=mLtXjC4u 960w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 98vw, 100vw" alt="Emotional Kids Getting Their Picture With Santa is Priceless">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/pregnancy-does-video.jpg?itok=PUNhh5Ek 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/pregnancy-does-video.jpg?itok=k5Y-HEgo 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/pregnancy-does-video.jpg?itok=o8z57N7U 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/pregnancy-does-video.jpg?itok=LfGYS78l 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/pregnancy-does-video.jpg?itok=47l-5s1r 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/pregnancy-does-video.jpg?itok=JYssgJw1 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/pregnancy-does-video.jpg?itok=GRKIWlaX 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/pregnancy-does-video.jpg?itok=iqHzJwj1 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/pregnancy-does-video.jpg?itok=6abpXWky 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/pregnancy-does-video.jpg?itok=x7kBCPrW 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/pregnancy-does-video.jpg?itok=rHk1p2FL 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/pregnancy-does-video.jpg?itok=qP6TKy1C 960w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 98vw, 100vw" alt="Ah, the Strange and Beautiful Things Pregnancy Does to Your Body...">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/cut-kids-photo-with-santa-funny"><span>Emotional Kids Getting Their Picture With Santa is Priceless</span></a></h3>
+  <h3>    <a href="/video/pregnancy-does-strange-and-beautiful-things-human-body"><span>Ah, the Strange and Beautiful Things Pregnancy Does to Your Body...</span></a></h3>
 
   <section class="description">
-    When children get their photo with Santa Claus, it could go one of many ways. They could be pretty indifferent, super happy, or really upset. <a href="http://cut.com/" target="_blank">The awesome folks at Cut</a> put together this video, which has a little bit of everything in it.    <a class="button view" href="/video/cut-kids-photo-with-santa-funny">View Now</a>
+    Growing a human inside of another human is a delicate process. Organs get moved around, skin gets spread thin - oh, and this happens. The woman in this video is experiencing a pregnancy hernia. Pregnancy hernias are fairly common, and just a small thread in the beautiful tapestry we call the miracle of life.    <a class="button view" href="/video/pregnancy-does-strange-and-beautiful-things-human-body">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -535,18 +388,19 @@ via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" targe
   </article>
   <article class="views-row views-row-2 views-row-even">
     
-<a class="thumbnail" href="/video/rtmtv-cranky-christmas-caroler-cant-croon-chorus">
+<a class="thumbnail" href="/post/licking-guy-strikes-right-minutes-headquarters">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/frustrated-carols-video.jpg?itok=2Dvr2b_c 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/frustrated-carols-video.jpg?itok=BvSYCBOD 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/frustrated-carols-video.jpg?itok=AxV22BKb 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/frustrated-carols-video.jpg?itok=NT6_pN1B 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/frustrated-carols-video.jpg?itok=8UhTqFbt 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/frustrated-carols-video.jpg?itok=CtBlJHUE 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/frustrated-carols-video.jpg?itok=JBjj2IoY 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/frustrated-carols-video.jpg?itok=BTquyoUR 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/frustrated-carols-video.jpg?itok=8-di6gZS 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/frustrated-carols-video.jpg?itok=csPbJTmA 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/frustrated-carols-video.jpg?itok=QjpY3ez7 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/frustrated-carols-video.jpg?itok=ezQn-pC_ 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Cranky Christmas Caroler Can't Croon Cheeful Chorus">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=HHLu_dKe 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=dCX7PgyN 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=UZDq6BZt 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=LJaJfb0- 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=lGvUwJXt 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=VOzb41_3 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=CkopY-XQ 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=tlQb5509 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=IVnD3HOG 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=eCrctCoW 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=JF13cDIE 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/posts/thumbails/licking-guy-rtm-video.jpg?itok=6mi-JPwv 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Licking Guy Strikes The RightThisMinute Headquarters">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-cranky-christmas-caroler-cant-croon-chorus"><span>Cranky Christmas Caroler Can't Croon Cheeful Chorus</span></a></h3>
+  <h3>    <a href="/post/licking-guy-strikes-right-minutes-headquarters"><span>Licking Guy Strikes The RightThisMinute Headquarters</span></a></h3>
 
   <section class="description">
-    Watch as Andrew Hales of the&nbsp;<a class="yt-uix-sessionlink g-hovercard      spf-link " data-sessionlink="itct=CDIQ4TkiEwixrZSmu_PJAhWTL34KHVVIDwco-B0" data-ytid="UCQlVOYJyQp64rA12ac0mv6g" href="https://www.youtube.com/channel/UCQlVOYJyQp64rA12ac0mv6g">LAHWF</a>&nbsp;YouTube channel pretends to belt out some horrible&nbsp;Christmas carols.&nbsp;    <a class="button view" href="/video/rtmtv-cranky-christmas-caroler-cant-croon-chorus">View Now</a>
+    You might remember the strange salivating superhero known as The Licking Guy. Recently he licked surfaces of the YouTube headquarters, a solid fuel space rocket, a retired military helicopter, and a moving train. Well, his famous tongue has finally made it into the RightThisMinute studios.
+    <a class="button view" href="/post/licking-guy-strikes-right-minutes-headquarters">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -554,18 +408,18 @@ via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" targe
   </article>
   <article class="views-row views-row-3 views-row-odd">
     
-<a class="thumbnail" href="/video/rtmtv-trust-fall-youre-doing-it-wrong">
+<a class="thumbnail" href="/video/mysterious-cloud-hovers-around-parking-lot">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/trust-fall-video.jpg?itok=109z3uU5 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/trust-fall-video.jpg?itok=qy7X4ee_ 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/trust-fall-video.jpg?itok=oAB17XRW 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/trust-fall-video.jpg?itok=ogROuJDF 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/trust-fall-video.jpg?itok=3szlOZTh 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/trust-fall-video.jpg?itok=nweggJ7y 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/trust-fall-video.jpg?itok=H6IIUT5l 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/trust-fall-video.jpg?itok=6sVqYL_U 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/trust-fall-video.jpg?itok=fAG4Vq1o 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/trust-fall-video.jpg?itok=2NHUZuky 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/trust-fall-video.jpg?itok=MFDN2lNL 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/trust-fall-video.jpg?itok=WcT8KzMp 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Trust Fall: You're Doing It Wrong">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/mysterious-cloud-video.jpg?itok=iBIZbtse 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/mysterious-cloud-video.jpg?itok=I-lD10_p 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/mysterious-cloud-video.jpg?itok=stfauaRM 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/mysterious-cloud-video.jpg?itok=bwXsKmz8 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/mysterious-cloud-video.jpg?itok=yhGRiB_v 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/mysterious-cloud-video.jpg?itok=Wysa5Fr4 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/mysterious-cloud-video.jpg?itok=nGrWw_4D 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/mysterious-cloud-video.jpg?itok=zr-qz5r7 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/mysterious-cloud-video.jpg?itok=9af6_Glf 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/mysterious-cloud-video.jpg?itok=RjiZKjW6 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/mysterious-cloud-video.jpg?itok=mjfgJlZy 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/mysterious-cloud-video.jpg?itok=VxBHnkD4 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Mysterious Cloud Hovers Around Parking Lot">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-trust-fall-youre-doing-it-wrong"><span>Trust Fall: You're Doing It Wrong</span></a></h3>
+  <h3>    <a href="/video/mysterious-cloud-hovers-around-parking-lot"><span>Mysterious Cloud Hovers Around Parking Lot</span></a></h3>
 
   <section class="description">
-    You won't stop laughing when you see how trusting this poor daughter is that her dad will catch her during a trust fall. She closes her eyes and falls forward instead of backwards into her dad's arms.&nbsp;    <a class="button view" href="/video/rtmtv-trust-fall-youre-doing-it-wrong">View Now</a>
+    Is it a drone? A spiderweb? A ghost, perhaps?! It's uncertain what exactly the white could is that was hovering around a parking lot in an undisclosed location, but it certainly had spectators in a tizzy. &nbsp;    <a class="button view" href="/video/mysterious-cloud-hovers-around-parking-lot">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -573,19 +427,18 @@ via <em><a href="https://www.youtube.com/channel/UCyW-Owx53Zfd2dGlC0PS9JA" targe
   </article>
   <article class="views-row views-row-4 views-row-even">
     
-<a class="thumbnail" href="/video/rmtv-christmas-presents-rolling-magic-prank-rich-ferguson">
+<a class="thumbnail" href="/video/rtmtv-grandmother-dementia-gets-teddy-bear-you-wont-believe-what-happens-next">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=X_7E-PAm 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=9awGYusN 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=qalVOI5n 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=u8-9RW4g 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=eRGfzWhd 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=zf48Ojx_ 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=nzbxdl6Q 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=aw9brcmH 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=GtWak2uX 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=K3z4ReZD 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=XGn4wA_p 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/christmas-presents-rolling-magic-prank-rich-ferguson-video.jpg?itok=YrzOk35v 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Run! A Large Stack of Anthropomorphic Presents is Headed Your Way!">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/dementia-memory-video.jpg?itok=7CSlUSJ0 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/dementia-memory-video.jpg?itok=FhdiblSX 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/dementia-memory-video.jpg?itok=s4dJX8xu 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/dementia-memory-video.jpg?itok=3e6TNjqZ 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/dementia-memory-video.jpg?itok=HWXaBo7y 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/dementia-memory-video.jpg?itok=R7k4H4Gt 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/dementia-memory-video.jpg?itok=pd7cJyLh 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/dementia-memory-video.jpg?itok=2SVqoyHd 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/dementia-memory-video.jpg?itok=ah95DLC9 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/dementia-memory-video.jpg?itok=o2V-swv2 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/dementia-memory-video.jpg?itok=iB188OzD 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/dementia-memory-video.jpg?itok=fcT6sR-g 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Grandmother With Dementia Gets A Teddy Bear, But You Won't Believe What Happens Next">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rmtv-christmas-presents-rolling-magic-prank-rich-ferguson"><span>Run! A Large Stack of Anthropomorphic Presents is Headed Your Way!</span></a></h3>
+  <h3>    <a href="/video/rtmtv-grandmother-dementia-gets-teddy-bear-you-wont-believe-what-happens-next"><span>Grandmother With Dementia Gets A Teddy Bear, But You Won't Believe What Happens Next</span></a></h3>
 
   <section class="description">
-    What could be scarier than a six-foot pile of presents charging your way? A lot of things, actually, but for some reason, people seem terrified of fast paced gifts. Rich Ferguson put someone on a hoverboard, wrapped them up in presents and sent them to roam about the city. People generally like gifts, but it turns out they're not so fond of gifts making a beeline towards them.
-Oh, and Rich is giving away the hoverboard from the video. If you want to try and win, click <a href="https://www.youtube.com/watch?v=7dmqFdaKLJU" target="_blank">here</a> and comment on video.    <a class="button view" href="/video/rmtv-christmas-presents-rolling-magic-prank-rich-ferguson">View Now</a>
+    Jean Walters is an 83-year-old woman with dementia in England. She was given a teddy bear by her granddaughter Abbie Webb&nbsp;as a gift. The teddy bear played a recording of her late husband Dennis saying, "You're the best girl in the world for me." The husband used to write that to her in letters while serving in the Army. The granddaughter decided to get the teddy bear made after a previous recording of her grandfather's voice stopped playing. The grandmother's reaction to hearing the sweet sound of her beloved late husband's voice will bring a smile to your face.    <a class="button view" href="/video/rtmtv-grandmother-dementia-gets-teddy-bear-you-wont-believe-what-happens-next">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -593,18 +446,18 @@ Oh, and Rich is giving away the hoverboard from the video. If you want to try an
   </article>
   <article class="views-row views-row-5 views-row-odd">
     
-<a class="thumbnail" href="/video/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music">
+<a class="thumbnail" href="/post/nicks-car-shift-buick-cascada">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=zIPjHEak 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=KngKX5Sy 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=FSsDIjV7 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=dsj0dqDr 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=byhRrrSP 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=Mbf1dTYO 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=UcgcJGcp 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=8CIyzyb7 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=EfMN4qRo 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=ue1RsTHs 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=mn_uEZKp 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music-video.jpg?itok=HD4D99x1 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Waldo (the Woman) Gets Hard In This 'Where's Waldo' Rap Music Video">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=a8l241v7 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=MNsn4d4L 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=sTd_wnU- 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=qaQHqawM 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=_Q30JYyx 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=QGvr83U1 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=2Dz-whde 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=EATUyF7S 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=cIMNfdcv 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=whcrB0MY 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=q73W8J98 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/posts/thumbails/nick-calderone-buick-cascada-video.jpg?itok=i7aoHklR 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Nick's Car Shift: Buick Cascada">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music"><span>Waldo (the Woman) Gets Hard In This 'Where's Waldo' Rap Music Video</span></a></h3>
+  <h3>    <a href="/post/nicks-car-shift-buick-cascada"><span>Nick's Car Shift: Buick Cascada</span></a></h3>
 
   <section class="description">
-    Because haven't we always wanted a rap music video about "Where's Waldo?" You can thank <a href="https://www.youtube.com/channel/UCIxg3DzZe2g5KFjNvsV_MjQ" target="_blank">Emily Parsons</a> and Nate Skeen for this one.&nbsp;    <a class="button view" href="/video/wheres-waldo-rap-music-video-emily-parsons-nate-skeen-books-funny-music">View Now</a>
+    There are few things I enjoy more than a good road trip. I love hopping in the car and exploring the area around me especially on a beautiful, sunny, summer day. Recently, I had the opportunity to explore in someone else's car. One of Buick's newest offerings — <a href="http://www.buick.com/cascada-luxury-convertible.html?ppc=GOOGLE_700000001297100_71700000014072026_58700001156354807_p10289978367&amp;gclid=CLHKjIzfls0CFZWOfgodTdYFyg&amp;gclsrc=ds" target="_blank">the Cascada</a>.    <a class="button view" href="/post/nicks-car-shift-buick-cascada">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -612,19 +465,119 @@ Oh, and Rich is giving away the hoverboard from the video. If you want to try an
   </article>
   <article class="views-row views-row-6 views-row-even views-row-last">
     
-<a class="thumbnail" href="/video/facebook-worst-around-holidays-especially-real-life">
+<a class="thumbnail" href="/post/dr-pimple-popper-about-squeeze-her-way-your-heart">
     <picture>
-  <source srcset="http://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/videos/images/facebook-holiday-video.jpg?itok=-7gOUohk 208w, http://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/videos/images/facebook-holiday-video.jpg?itok=15U5y5WX 416w" sizes="204px" media="(min-width: 60.9375em)">
-  <img srcset="http://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/facebook-holiday-video.jpg?itok=e4VuZr7y 176w, http://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/facebook-holiday-video.jpg?itok=wjB-_mww 240w, http://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/facebook-holiday-video.jpg?itok=65bASuxW 272w, http://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/facebook-holiday-video.jpg?itok=D3J7NaYz 336w, http://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/facebook-holiday-video.jpg?itok=-2WYglEi 368w, http://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/facebook-holiday-video.jpg?itok=ouv1wKvX 384w, http://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/facebook-holiday-video.jpg?itok=y2nwmzOh 480w, http://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/facebook-holiday-video.jpg?itok=1GSdvDKa 512w, http://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/facebook-holiday-video.jpg?itok=dzRMD8rx 576w, http://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/facebook-holiday-video.jpg?itok=yu4eN3XC 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Facebook is the Worst Around the Holidays... Especially in Real Life">
+  <source srcset="https://www.rightthisminute.com/sites/default/files/styles/16_10_208w/public/posts/thumbails/dr-pimple-video.jpg?itok=1mbCfcEB 208w, https://www.rightthisminute.com/sites/default/files/styles/16_10_416w/public/posts/thumbails/dr-pimple-video.jpg?itok=LLXpKBZY 416w" sizes="204px" media="(min-width: 60.9375em)">
+  <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/posts/thumbails/dr-pimple-video.jpg?itok=AbuR1Lf1 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/posts/thumbails/dr-pimple-video.jpg?itok=r_lFNEjm 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/posts/thumbails/dr-pimple-video.jpg?itok=KF9cmTf6 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/posts/thumbails/dr-pimple-video.jpg?itok=1WVW4cKM 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/posts/thumbails/dr-pimple-video.jpg?itok=XNpl5tl6 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/posts/thumbails/dr-pimple-video.jpg?itok=jGwnKcLp 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/posts/thumbails/dr-pimple-video.jpg?itok=FPZpbMmb 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/posts/thumbails/dr-pimple-video.jpg?itok=W3VOmSb7 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/posts/thumbails/dr-pimple-video.jpg?itok=dNJa0G4z 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/posts/thumbails/dr-pimple-video.jpg?itok=JJaqPi7I 768w" sizes="(min-width: 48em) 31vw, (min-width: 30em) 48vw, 49vw" alt="Dr. Pimple Popper is About to Squeeze Her Way Into Your Heart">
 </picture>    <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/facebook-worst-around-holidays-especially-real-life"><span>Facebook is the Worst Around the Holidays... Especially in Real Life</span></a></h3>
+  <h3>    <a href="/post/dr-pimple-popper-about-squeeze-her-way-your-heart"><span>Dr. Pimple Popper is About to Squeeze Her Way Into Your Heart</span></a></h3>
 
   <section class="description">
-    It's the Christmas season! So let the lights twinkle, the snow fall, the eggnog flow and the annoying Facebook shenanigans begin.
-via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Horton</a>    <a class="button view" href="/video/facebook-worst-around-holidays-especially-real-life">View Now</a>
+    Doctor Sandra Lee, or<a href="https://www.youtube.com/watch?v=OKus5MjHc5k" target="_blank"> Dr. Pimple Popper,</a> as she's known on the internet, has punched cysts, extracted whiteheads, and treated rhinopehyma countless times, but that doesn't make her recent excised lipoma any less enthralling. There's something about watching her expertly handle patient's dermatology needs that is oddly satisfying. Keep up with the good Doctor on <a href="https://www.instagram.com/drpimplepopper/?hl=en" target="_blank">Instagram</a>.    <a class="button view" href="/post/dr-pimple-popper-about-squeeze-her-way-your-heart">View Now</a>
+  </section>
+<!-- /.details -->
+</div>
+
+  </article>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-waterfall-section-2" class="block block-views">
+
+    <h2>Celebrity</h2>
+  
+  <div class="content">
+    <div class="view view-waterfall view-id-waterfall view-display-id-section_2 view-dom-id-302ce3566740a01dbdaa5e9e1344860b">
+        
+  
+  
+      <div class="view-content">
+        <article class="views-row views-row-1 views-row-odd views-row-first">
+    
+<a class="thumbnail" href="/video/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=HfToCL2O 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=AkS8K-0T 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=GRzI2WIK 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=gTUZPdVW 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=HS-_nvZX 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=zBBkR7J- 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=WJKoesvC 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=2uXmcWdq 960w, https://www.rightthisminute.com/sites/default/files/styles/16_9_1152w/public/videos/images/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion-video.jpg?itok=LOL3ZokR 1152w" sizes="(min-width: 60.9375em) 634px, (min-width: 48em) 96vw, (min-width: 30em) 98vw, 100vw" alt="Ashley Graham Shows Off Her New Lingerie Line 'Provacative'">    <!-- /.thumbnail -->
+</a>
+
+<div class="details">
+  <h3>    <a href="/video/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion"><span>Ashley Graham Shows Off Her New Lingerie Line 'Provacative'</span></a></h3>
+
+  <section class="description">
+    Ashley Graham made history by becoming the first-ever plus-sized model on the cover of Sports Illustrated's Swimsuit Edition. Now she's debuting her sexy new lingerie line "Provacative." Watch her show off some of the sexiest pieces from the collection.    <a class="button view" href="/video/ashley-graham-shows-off-her-provocative-lingerie-line-cosmopolitan-fashion">View Now</a>
+  </section>
+<!-- /.details -->
+</div>
+
+  </article>
+  <article class="views-row views-row-2 views-row-even">
+    
+<a class="thumbnail" href="/video/anna-kendrick-gets-really-honest-about-what-were-all-thinking">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=QgbrhVGR 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=HnutfAlq 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=gYAOZW1i 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=k5lWXBOt 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=jXhbBo3- 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=UhTo_cc9 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=KA967V4I 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=MxPcREAA 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=vklFvM-2 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/screen_shot_2016-06-24_at_12.34.35_pm.jpg?itok=wxlPt3l_ 768w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="Anna Kendrick Gets Really Honest About What We're All Thinking">    <!-- /.thumbnail -->
+</a>
+
+<div class="details">
+  <h3>    <a href="/video/anna-kendrick-gets-really-honest-about-what-were-all-thinking"><span>Anna Kendrick Gets Really Honest About What We're All Thinking</span></a></h3>
+
+  <section class="description">
+    How do I become best friends with Anna Kendrick?&nbsp;    <a class="button view" href="/video/anna-kendrick-gets-really-honest-about-what-were-all-thinking">View Now</a>
+  </section>
+<!-- /.details -->
+</div>
+
+  </article>
+  <article class="views-row views-row-3 views-row-odd">
+    
+<a class="thumbnail" href="/video/harry-potter-actors-sorted-hogwarts-house-online-quiz">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=wKtDLRCi 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=Ndu_eRaG 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=S5B8ANm8 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=K4BMvi3L 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=sT0vPihF 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=qxEnQuKb 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=ce8UDMCz 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=Wclqfj22 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=QkJLJesk 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/rupert-grin-hogwarts-sorting-quiz-pottermore-video.jpg?itok=8LHJAKwe 768w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="'Harry Potter' Actors Sorted into Hogwarts House by Online Quiz">    <!-- /.thumbnail -->
+</a>
+
+<div class="details">
+  <h3>    <a href="/video/harry-potter-actors-sorted-hogwarts-house-online-quiz"><span>'Harry Potter' Actors Sorted into Hogwarts House by Online Quiz</span></a></h3>
+
+  <section class="description">
+    If you're a huge Potterhead, then you're going to love this!    <a class="button view" href="/video/harry-potter-actors-sorted-hogwarts-house-online-quiz">View Now</a>
+  </section>
+<!-- /.details -->
+</div>
+
+  </article>
+  <article class="views-row views-row-4 views-row-even">
+    
+<a class="thumbnail" href="/post/james-corden-vogue-questions">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=wFT8S7E8 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=4HHubWog 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=gUM6P4g_ 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=dQ48r8BX 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=FWgVF4mQ 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=mkVXoYQ0 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=d6aH5dGU 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=K19-in3q 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=T_kvX2e4 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/posts/thumbails/vogue-questions-james-corden-video.jpg?itok=0rYyJr_t 768w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="You'll Never Guess James Corden's Dream 'Carpool Karaoke' Guest">    <!-- /.thumbnail -->
+</a>
+
+<div class="details">
+  <h3>    <a href="/post/james-corden-vogue-questions"><span>You'll Never Guess James Corden's Dream 'Carpool Karaoke' Guest</span></a></h3>
+
+  <section class="description">
+    OK, so it's not that hard to guess. We apologize for the clickbaity headline. That's so unlike us...
+Anyway,&nbsp;there <em>are</em> things you might not know about The Late Late Show host. But now you'll know everything from his go-to cocktail to his biggest fear and first kiss. <a href="https://www.youtube.com/user/Americanvogue" target="_blank">Vogue</a> sat down with followed James Corden around his CBS home to ask him exactly 73 questions.
+    <a class="button view" href="/post/james-corden-vogue-questions">View Now</a>
+  </section>
+<!-- /.details -->
+</div>
+
+  </article>
+  <article class="views-row views-row-5 views-row-odd views-row-last">
+    
+<a class="thumbnail" href="/video/coffey-anderson-country-music-star-wedding-crasher">
+    <img srcset="https://www.rightthisminute.com/sites/default/files/styles/16_9_176w/public/videos/images/coffey-anderson-video.jpg?itok=TfoGxRVH 176w, https://www.rightthisminute.com/sites/default/files/styles/16_9_240w/public/videos/images/coffey-anderson-video.jpg?itok=uSgpdmcn 240w, https://www.rightthisminute.com/sites/default/files/styles/16_9_272w/public/videos/images/coffey-anderson-video.jpg?itok=DkE-p8qz 272w, https://www.rightthisminute.com/sites/default/files/styles/16_9_336w/public/videos/images/coffey-anderson-video.jpg?itok=vIPCuZEs 336w, https://www.rightthisminute.com/sites/default/files/styles/featured_item_medium/public/videos/images/coffey-anderson-video.jpg?itok=8RXXqAAh 368w, https://www.rightthisminute.com/sites/default/files/styles/16_9_384w/public/videos/images/coffey-anderson-video.jpg?itok=HX7iqZOv 384w, https://www.rightthisminute.com/sites/default/files/styles/16_9_480w/public/videos/images/coffey-anderson-video.jpg?itok=DOPe0VHA 480w, https://www.rightthisminute.com/sites/default/files/styles/video_featured/public/videos/images/coffey-anderson-video.jpg?itok=p5FtJtiK 512w, https://www.rightthisminute.com/sites/default/files/styles/16_9_576w/public/videos/images/coffey-anderson-video.jpg?itok=Gvj8HMHb 576w, https://www.rightthisminute.com/sites/default/files/styles/16_9_768w/public/videos/images/coffey-anderson-video.jpg?itok=STopL4Qo 768w, https://www.rightthisminute.com/sites/default/files/styles/16_9_960w/public/videos/images/coffey-anderson-video.jpg?itok=UHQYI9LE 960w" sizes="(min-width: 60.9375em) 313px, (min-width: 48em) 47vw, (min-width: 30em) 48vw, 49vw" alt="Coffey Anderson: Country Music Star, Wedding Crasher">    <!-- /.thumbnail -->
+</a>
+
+<div class="details">
+  <h3>    <a href="/video/coffey-anderson-country-music-star-wedding-crasher"><span>Coffey Anderson: Country Music Star, Wedding Crasher</span></a></h3>
+
+  <section class="description">
+    Not content with performing on American Idol, and pumping out 11 albums in eight years, Coffey Anderson is adding <a href="https://www.youtube.com/watch?v=d0ajYL-52yQ" target="_blank">Wedding Crasher </a>to his already impressive resume. Anderson was invited to a couple's wedding in South Carolina, a fact that was completely unknown to the bride and groom. The newlyweds were set to dance to Anderson's song during the reception, but instead of dancing to a recording, they got to enjoy a live version of the song.    <a class="button view" href="/video/coffey-anderson-country-music-star-wedding-crasher">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -644,22 +597,22 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
     <h2>Animals</h2>
   
   <div class="content">
-    <div class="view view-waterfall view-id-waterfall view-display-id-section_4 view-dom-id-2086e9b88773aff0c5a2204fe35d1cc9">
+    <div class="view view-waterfall view-id-waterfall view-display-id-section_4 view-dom-id-a9e2b327191d0fb1ee1f132d514507c9">
         
   
   
       <div class="view-content">
         <article class="views-row views-row-1 views-row-odd views-row-first">
     
-<a class="thumbnail" href="/video/rtmtv-dog-rescue-water-hovercraft-buck-ice-lasso">
+<a class="thumbnail" href="/video/cute-cat-climbs-tiny-box">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-dog-rescue-water-hovercraft-buck-ice-lasso"><span>Water and Ice Trap a Dog and Buck</span></a></h3>
+  <h3>    <a href="/video/cute-cat-climbs-tiny-box"><span>Cute Cat Climbs Into Tiny Box </span></a></h3>
 
   <section class="description">
-    These are some wet rescues. A dog Russia got stuck far out in a body of water, and needed some help from local humans to get out. Then a majestic buck got stuck in a slippery situation when it couldn't get itself out of a partially frozen river, and local assistance had to come lasso it to safety.    <a class="button view" href="/video/rtmtv-dog-rescue-water-hovercraft-buck-ice-lasso">View Now</a>
+    Franky the cat is determined to fit inside of this tiny box. No matter how impossible it seems the cat keeps trying.&nbsp;    <a class="button view" href="/video/cute-cat-climbs-tiny-box">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -667,15 +620,15 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-2 views-row-even">
     
-<a class="thumbnail" href="/video/christmas-african-pygmy-hedgehog-babies">
+<a class="thumbnail" href="/video/rtmtv-hiker-helps-reunite-little-lamb-its-mommy">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/christmas-african-pygmy-hedgehog-babies"><span>These Hedgehog Babies Are Looking Pretty Sharp This Christmas</span></a></h3>
+  <h3>    <a href="/video/rtmtv-hiker-helps-reunite-little-lamb-its-mommy"><span>Hiker Helps Reunite Little Lamb With Its Mommy </span></a></h3>
 
   <section class="description">
-    Santa is bringing us African Pygmy Hedgehog babies this year! We must have been really good.    <a class="button view" href="/video/christmas-african-pygmy-hedgehog-babies">View Now</a>
+    Nothing is more heartbreaking than hearing the sound of a lost animal crying out for its family. Ricky Lightfoot happened upon a little lamb while hiking in England. The lamb was distressed&nbsp;but did not appear to be injured. The hiker helped the lamb climb back uphill and eventually the little lamb reunited with its flock.    <a class="button view" href="/video/rtmtv-hiker-helps-reunite-little-lamb-its-mommy">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -683,15 +636,15 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-3 views-row-odd">
     
-<a class="thumbnail" href="/video/rtmtv-drone-roasts-christmas-turkey">
+<a class="thumbnail" href="/video/rtmtv-adorable-real-life-toucan-sam-loves-his-fruit-loops">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-drone-roasts-christmas-turkey"><span>Drone Roasts a Christmas Turkey</span></a></h3>
+  <h3>    <a href="/video/rtmtv-adorable-real-life-toucan-sam-loves-his-fruit-loops"><span>This Adorable Real-Life Toucan Sam Loooooves His Fruit Loops</span></a></h3>
 
   <section class="description">
-    Watch as this drone incinerates the Christmas turkey.&nbsp;    <a class="button view" href="/video/rtmtv-drone-roasts-christmas-turkey">View Now</a>
+    He's not related to Toucan Sam and can't appreciate the humor, but this rescued baby toucan can't get enough of his bird-friendly jungle "fruit loops".    <a class="button view" href="/video/rtmtv-adorable-real-life-toucan-sam-loves-his-fruit-loops">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -699,15 +652,16 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-4 views-row-even">
     
-<a class="thumbnail" href="/video/rtmtv-christmas-roof-aarons-animals">
+<a class="thumbnail" href="/video/rtmtv-disabled-dog-receives-second-chance-life">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-christmas-roof-aarons-animals"><span>Up On The Roof With Aaron's Animals</span></a></h3>
+  <h3>    <a href="/video/rtmtv-disabled-dog-receives-second-chance-life"><span>Disabled Dog Receives Second Chance At Life </span></a></h3>
 
   <section class="description">
-    Aaron is up on the roof with his cats jamming to some Christmas tunes when one cat pulls the lights and he gets electrocuted.&nbsp;    <a class="button view" href="/video/rtmtv-christmas-roof-aarons-animals">View Now</a>
+    
+	Sometimes all it takes is a second opinion to give an animal a chance to live. <a href="https://www.youtube.com/watch?v=IpnVwP0d4Rs" target="_blank">Wanda the Cocker Spaniel puppy</a> was born with badly deformed front legs. Veterinarians&nbsp;recommend that she be euthanized, but she received a special surgery instead. The surgeon inserted pins in her joints to help her walk for the first time. After only one week of recovery, the adorable puppy can now walk and play. So Cute!    <a class="button view" href="/video/rtmtv-disabled-dog-receives-second-chance-life">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -715,15 +669,17 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-5 views-row-odd">
     
-<a class="thumbnail" href="/video/boston-dynamics-robot-spot-christmas-reindeer">
+<a class="thumbnail" href="/video/rtmtv-thanks-japan">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/boston-dynamics-robot-spot-christmas-reindeer"><span>If Santa's Reindeer Were Robots, They'd be These</span></a></h3>
+  <h3>    <a href="/video/rtmtv-thanks-japan"><span>Just When You Thought Scorpions Were Only For Stepping On</span></a></h3>
 
   <section class="description">
-    Boston Dynamics created an awesome and <a href="http://www.rightthisminute.com/video/meet-spot-super-creepy-and-awesome-robot" target="_blank">bizarre-looking robot named Spot</a> that is changing the face of mobile robotics. And now they're changing the way Santa is getting around this Christmas!    <a class="button view" href="/video/boston-dynamics-robot-spot-christmas-reindeer">View Now</a>
+    We've all heard how some insects are popular delicacies around the world. Raw, fried, dipped in chocolate, you know! Scorpion is where many people would draw the line, we suspect. Especially if the stinging nuisance is still alive. And grumpy.
+None of these inhibitions held back this group of Japanese YouTubers, who wanted to get to know scorpions on a more personal level.&nbsp;(OUCH!)
+    <a class="button view" href="/video/rtmtv-thanks-japan">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -731,15 +687,18 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-6 views-row-even">
     
-<a class="thumbnail" href="/video/rtmtv-girlfriend-surprised-puppy-christmas">
+<a class="thumbnail" href="/video/rtmtv-dog-having-really-bad-day">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-girlfriend-surprised-puppy-christmas"><span>Girlfriend Surprised With Puppy For Christmas</span></a></h3>
+  <h3>    <a href="/video/rtmtv-dog-having-really-bad-day"><span>This Pup Is Having A Really Bad Day </span></a></h3>
 
   <section class="description">
-    This boyfriend wrapped a dog bone inside of what seemed like a million gift boxes and tons of wrapping paper. He filmed his girlfriend opening the gift and then told her that her dog was downstairs. You have to see his girlfriend's reaction when she falls in love at first sight with her puppy Christmas present.&nbsp;    <a class="button view" href="/video/rtmtv-girlfriend-surprised-puppy-christmas">View Now</a>
+    Some days are okay. Others you're trapped in a toilet.
+This seriously happened for one poor Chinese pup, whose owner called police after she found her pet dog trapped under her squat toilet in the city of Mengzi in Yunnan Province. Thankfully, firefighters were quickly on the scene and rescued the soggy and stinky dog. A little less dignified perhaps, but safe.
+A band of kayakers on the River Usk in Wales similarly caught on video the clever rescue of a young sheep who'd mistakenly thought it could swim before it gamely jumped in the water.
+    <a class="button view" href="/video/rtmtv-dog-having-really-bad-day">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -747,15 +706,17 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-7 views-row-odd">
     
-<a class="thumbnail" href="/video/rtmtv-scuba-dive-turtle-rescue-baby-deer-rescue">
+<a class="thumbnail" href="/video/rtmtv-funny-animals-ball-python-bulldog-hedgehog">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/video/rtmtv-scuba-dive-turtle-rescue-baby-deer-rescue"><span>Scuba Dive Turtle Rescue, Baby Deer Rescue</span></a></h3>
+  <h3>    <a href="/video/rtmtv-funny-animals-ball-python-bulldog-hedgehog"><span>Funny Animals: Ball Python, Bulldog, Hedgehog</span></a></h3>
 
   <section class="description">
-    Scuba divers rescued a turtle caught in a mooring rope under the sea in Kauai, Hawaii. Then watch this kind man rescue a baby deer from a fracking pond.    <a class="button view" href="/video/rtmtv-scuba-dive-turtle-rescue-baby-deer-rescue">View Now</a>
+    Animals videos are one of the internet's greatest sources of comedic content. These three videos are perfect examples of that. First, this ball python tried to slither away but it was on a fleece blanket and couldn't get very far.&nbsp;
+Then, enjoy this hilarious footage of Desmo the bulldog playing with water in slow motion.
+A <em>RightThisMinute&nbsp;</em>former intern, Peyton, just got a hedgehog and she shot this footage of her adorable pet playing in the grass for the first time.    <a class="button view" href="/video/rtmtv-funny-animals-ball-python-bulldog-hedgehog">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -763,16 +724,15 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </article>
   <article class="views-row views-row-8 views-row-even views-row-last">
     
-<a class="thumbnail" href="/post/toddler-teaches-dad-pet-pooch-big-sister-baby-sister-play-pretend">
+<a class="thumbnail" href="/video/rtmtv-baby-crocodiles-are-cutest-thing-you-will-see-all-day">
         <!-- /.thumbnail -->
 </a>
 
 <div class="details">
-  <h3>    <a href="/post/toddler-teaches-dad-pet-pooch-big-sister-baby-sister-play-pretend"><span>Toddler Teaches Dad To Pet Pooch, Big Sister &amp; Baby Sister Play Pretend</span></a></h3>
+  <h3>    <a href="/video/rtmtv-baby-crocodiles-are-cutest-thing-you-will-see-all-day"><span>Baby Crocodiles Are The Cutest Thing You Will See All Day</span></a></h3>
 
   <section class="description">
-    This adorable toddler taught his dad the proper method for petting their dog. Then watch as this big sister teaches her baby sister to talk like an animal.&nbsp;
-    <a class="button view" href="/post/toddler-teaches-dad-pet-pooch-big-sister-baby-sister-play-pretend">View Now</a>
+    Everybody loves babies even when they are baby crocodiles. A West African dwarf crocodile has hatched a clutch of baby crocodiles at the <a href="https://www.youtube.com/watch?v=SPGxz_JHGys" target="_blank">Zoological Society of London</a>. The family is living in the temperature controlled Butterfly House. The mother crocodile has not had babies since the 1990's and the London Zoo is very excited to welcome the four new little ones.&nbsp;    <a class="button view" href="/video/rtmtv-baby-crocodiles-are-cutest-thing-you-will-see-all-day">View Now</a>
   </section>
 <!-- /.details -->
 </div>
@@ -800,17 +760,7 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
 
     
   <div class="content">
-    <p>© 2015 RightThisMinute</p>  </div>
-</div>
-<div id="block-menu-menu-footer-menu" class="block block-menu">
-
-    <h2>Footer menu</h2>
-  
-  <div class="content">
-    <ul class="menu"><li class="first leaf"><a href="/contact">Contact RTM</a></li>
-<li class="leaf"><a href="/terms">Terms of Use</a></li>
-<li class="last leaf"><a href="/privacy-policy" class="active">Privacy Policy</a></li>
-</ul>  </div>
+    <p>© 2016 RightThisMinute</p>  </div>
 </div>
 <div id="block-block-43" class="block block-block">
 
@@ -862,6 +812,18 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
         </ul>
   </div>
 </div>
+<div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    <h2>Footer menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/about">About</a></li>
+<li class="leaf"><a href="/contact">Contact</a></li>
+<li class="leaf"><a href="/about/jobs">Jobs</a></li>
+<li class="leaf"><a href="/terms">Terms of Use</a></li>
+<li class="last leaf"><a href="/privacy-policy" class="active">Privacy Policy</a></li>
+</ul>  </div>
+</div>
   </div>
     </footer>
 
@@ -871,7 +833,15 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   <nav id="full-menu">
     <h1>Full Menu</h1>
       <div class="region region-full-menu">
-    <div id="block-menu-block-2" class="block block-menu-block">
+    <div id="block-menu-menu-staff" class="block block-menu">
+
+    <h2>Staff</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/hosts">RTM Hosts</a></li>
+</ul>  </div>
+</div>
+<div id="block-menu-block-2" class="block block-menu-block">
 
     <h2>Browse</h2>
   
@@ -879,8 +849,10 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
     <div class="menu-block-wrapper menu-block-2 menu-name-menu-primary parent-mlid-0 menu-level-1">
   <ul class="menu"><li class="first leaf menu-mlid-1247"><a href="/" class="on-mobile">Home</a></li>
 <li class="leaf menu-mlid-1248"><a href="/tv" class="on-mobile">TV Show</a></li>
-<li class="leaf menu-mlid-1249"><a href="/newest" class="on-mobile">Newest</a></li>
+<li class="leaf menu-mlid-1249"><a href="/newest" class="DISABLEDon-mobile">Newest</a></li>
 <li class="leaf menu-mlid-2073"><a href="/slideshows">Slideshows</a></li>
+<li class="leaf menu-mlid-1463"><a href="/win" class="on-mobile">Win iPad</a></li>
+<li class="leaf menu-mlid-2270"><a href="http://rightthisminute.qbstores.com">RTM Shop</a></li>
 <li class="last expanded menu-mlid-2102"><span class="nolink">More</span><ul class="menu"><li class="first leaf menu-mlid-2207"><a href="/tags/interview">Exclusive Interviews</a></li>
 <li class="leaf menu-mlid-2103"><a href="/videos/funny">Funny</a></li>
 <li class="leaf menu-mlid-2104"><a href="/videos/feel-good">Feel Good</a></li>
@@ -894,22 +866,15 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
 </ul></div>
   </div>
 </div>
-<div id="block-menu-menu-staff" class="block block-menu">
-
-    <h2>Staff</h2>
-  
-  <div class="content">
-    <ul class="menu"><li class="first last leaf"><a href="/hosts">RTM Hosts</a></li>
-</ul>  </div>
-</div>
 <div id="block-system-main-menu" class="block block-system block-menu">
 
     <h2>Main menu</h2>
   
   <div class="content">
-    <ul class="menu"><li class="first leaf"><a href="/complete-rules">iPad Giveaway Rules</a></li>
-<li class="collapsed"><a href="/about">About RTM</a></li>
-<li class="last leaf"><a href="/about/stations">Air Times</a></li>
+    <ul class="menu"><li class="first leaf"><a href="/complete-rules">Giveaway Rules</a></li>
+<li class="leaf"><a href="/about/stations">Air Times</a></li>
+<li class="leaf mobile-only"><a href="https://www.rightthisminute.com/submit/video">Upload Your Video</a></li>
+<li class="last leaf"><a href="/user/login" class="facebook-login">Log In</a></li>
 </ul>  </div>
 </div>
 <div id="block-menu-menu-apps" class="block block-menu">
@@ -937,12 +902,9 @@ via <a href="https://www.youtube.com/user/jasonhorton" target="_blank">Jason Hor
   </nav>
 <!-- /#page-wrapper -->
 </div>
-  <script type="text/javascript" src="http://www.rightthisminute.com/sites/default/files/js/js_V0Dk2EBB7gwdg0ITFxlMStYuHVBOHbnp5cijkCLOQvY.js"></script>
-<script type="text/javascript" src="https://player.ooyala.com/v3/4edb263864844d83bdacf3571751af9d?tweaks=android-enable-hls"></script>
-<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
-<script type="text/javascript" src="http://www.rightthisminute.com/sites/default/files/js/js_OW41UPfeWzpeFpqcBDewH-NAEVkc4ea6-bLmdE1OUX4.js"></script>
-<script type="text/javascript" src="http://www.rightthisminute.com/sites/default/files/js/js_TEUMVi5yhcVSloiQhYIQFEaW5KcQ3W6zdccyfl-MTas.js"></script>
-<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rtm","theme_token":"dra7Jv0Cki0NXBQdljX6VZ1W2Z06XWiaWdN55xom5EU"},"fb":{"client_id":"147421705354575","ajax_event_url":"http:\/\/www.rightthisminute.com\/fb\/ajax","fb_reloading":false,"status":"unknown"},"fb_app_147421705354575":{"namespace":"rightthisminute","name":"RightThisMinute.com","client_id":"147421705354575","access_token":0,"scope":[],"client_auth_url":"https:\/\/www.facebook.com\/dialog\/oauth?client_id=147421705354575\u0026redirect_uri=http%3A\/\/www.rightthisminute.com\/privacy-policy%3Fclient_id%3D147421705354575\u0026response_type=token"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"rtm":{"ooyala":{"cookie":{"name":"RTM_Ooyala__device_id"}},"theme":{"breakpoints":[{"name":"tiny","query":"(min-width: 20em)"},{"name":"small","query":"(min-width: 30em)"},{"name":"medium","query":"(min-width: 48em)"},{"name":"large","query":"(min-width: 60.9375em)"}]}}});</script>
+  <script type="text/javascript" src="https://www.rightthisminute.com/sites/default/files/js/js_V0Dk2EBB7gwdg0ITFxlMStYuHVBOHbnp5cijkCLOQvY.js"></script>
+<script type="text/javascript" src="https://www.rightthisminute.com/sites/default/files/js/js_v_iep30PBfoJFK3LemicBqJFgvvce2i5PP1hyy3wXiY.js"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rtm","theme_token":"z0DwPEuxc4gPY_OBQ4BOrOdZNa_lw-OL6RuoHPajQYw"},"rtm":{"request":{"ip":"174.129.237.157"},"player":{"embed_code_template":"\u003Ciframe src=\u0022https:\/\/www.rightthisminute.com\/story\/%d\/video\/embed\u0022 width=\u0022560\u0022 height=\u0022315\u0022 frameborder=\u00220\u0022 scrolling=\u0022no\u0022 allowfullscreen\u003E\u003C\/iframe\u003E"},"ooyala":{"cookie":{"name":"RTM_Ooyala__device_id"}},"theme":{"breakpoints":[{"name":"tiny","query":"(min-width: 20em)"},{"name":"small","query":"(min-width: 30em)"},{"name":"medium","query":"(min-width: 48em)"},{"name":"large","query":"(min-width: 60.9375em)"}]}},"urlIsAjaxTrusted":{"\/privacy-policy":true}});</script>
 
 
 </body></html>
