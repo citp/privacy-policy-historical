@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714020106id_/http%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630112452id_/http%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
 
-# FITTEAM GLOBAL PRIVACY POLICY - FITTEAM GLOBAL
+# FITTEAM GLOBAL PRIVACY POLICY
 
    
  **Our Commitment to Privacy**
@@ -100,6 +100,6 @@ We take special care to protect the privacy needs of children and encourage pare
 
 **Changes to This Statement**
 
-Any updates or changes to the terms of this Privacy Statement will be posted on our Site at http://www.fitteam.com and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
+Any updates or changes to the terms of this Privacy Statement will be posted on our Site at http://www.fitteam.com.php56-1.ord1-1.websitetestlink.com and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
 
 YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
