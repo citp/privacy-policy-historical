@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crashplan.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashplan.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630205739id_/http%3A//www.code42.com/privacy) for the most accurate reproduction.*
 
 # None
 
-**Last Revised: June 19, 2015**
+**Last Revised: February 12, 2016**
 
-This privacy statement applies to: [http://www.crashplan.com](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/www.crashplan.com), [http://www.shareplan.com](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/www.shareplan.com), and [www.code42.com](https://web.archive.org/) owned and operated by Code 42 Software, Inc. ("Code42", "We", "Us", or "Our"). This privacy statement describes how Code42 collects and uses the personal data you provide on our websites. It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
+This privacy statement applies to: [http://www.crashplan.com](https://web.archive.org/web/20160630205739id_/http%3A//www.code42.com/www.crashplan.com), [http://www.shareplan.com](https://web.archive.org/web/20160630205739id_/http%3A//www.code42.com/www.shareplan.com), and [www.code42.com](https://web.archive.org/) owned and operated by Code 42 Software, Inc. ("Code42", "We", "Us", or "Our"). This privacy statement describes how Code42 collects and uses the personal data you provide on our websites. It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
 
 ## 2\. We self-certify adherence to
 
@@ -66,7 +66,7 @@ Code42 will not sell, share, rent or trade your personal data with third parties
 
 ## 11\. Data Security and Integrity
 
-Code42 has global hosting centers that store and process personal data in various locations in the United States. US hosting centers include facilities in Minneapolis and Atlanta. Code42 takes reasonable precautions to protect personal data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. Code42 also makes reasonable efforts to keep personal data reliable for its intended use, accurate, current, and complete.
+Code42 has global hosting centers that store and process personal data in various locations in the United States. US hosting centers include facilities in Minneapolis, MN, Atlanta, GA and Quincy, WA. Code42 takes reasonable precautions to protect personal data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. Code42 also makes reasonable efforts to keep personal data reliable for its intended use, accurate, current, and complete.
 
 The security of your personal data is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
 
@@ -76,7 +76,7 @@ If you have any questions about security on our Web site, you can email us at [p
 
 ## 12\. Cookies and other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts may be present on our website and used by Code42 and our business and marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Cookies and similar technologies may be present on our website and used by Code42 and our business and marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for our shopping cart, to remember users' settings (e.g. language preference), and for authentication. Users may be able to control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -101,7 +101,7 @@ As is true most web sites, we gather certain information automatically and store
 
 #### Local Storage Objects
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ## 13\. User Forums
 
@@ -121,7 +121,7 @@ Information collected by our voluntary third-party surveys is used to market, va
 
 ## 16\. Single Sign-On
 
-You can log in to our [http://helpdesk.code42.com/](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/helpdesk.code42.com) site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our [http://helpdesk.code42.com/](https://web.archive.org/web/20160630205739id_/http%3A//www.code42.com/helpdesk.code42.com) site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ## 17\. Support
 
@@ -150,7 +150,7 @@ Minneapolis, MN 55414
 
 ## 22\. TRUSTe
 
-Code42 has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers the Web sites [www.code42.com](https://web.archive.org/), [http://www.crashplan.com](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/www.crashplan.com) and [http://www.shareplan.com](https://web.archive.org/web/20151231072512id_/https%3A//www.code42.com/www.shareplan.com). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@code42.com](mailto:privacy@code42.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Code42 has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal data. In order to view our relationship with TRUSTe, please visit the validation page available by clicking the TRUSTe Seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers the Web sites [www.code42.com](https://web.archive.org/) and [http://www.crashplan.com](https://web.archive.org/web/20160630205739id_/http%3A//www.code42.com/www.crashplan.com). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@code42.com](mailto:privacy@code42.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## 23\. Dispute Resolution
 
