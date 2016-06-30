@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175532id_/http%3A//www.mwsu.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630221914id_/http%3A//www.mwsu.edu/legal/privacy-policy) for the most accurate reproduction.*
 
-# MSU » Privacy Policy
+# Privacy Policy » Midwestern State University
 
 Midwestern State University (MSU) maintains this Web site (www.mwsu.edu) as a public service. This policy describes the university’s privacy practices regarding information collected from visitors to the site. It contains information about what information is collected and how that information is used. Please note that all information collected or maintained by MSU is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code).
 
 If you have questions or comments about the agency’s privacy policy, please send e-mail to Janus Buss, Director -- Public Information or call the MSU Office of Public Information at 940-397-4353.
 
-#### Information Collected
+###  **Information Collected**
 
-##### Server Logs/Log Analysis Tools
+#####  **Server Logs/Log Analysis Tools**
 
 MSU utilizes server logs and log analysis tools to create summary statistics about the use of the Web site. The summary statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:
 
@@ -30,21 +30,21 @@ For site management functions, information is collected for analysis and statist
 
 For site security purposes and to ensure that the site remains available to all users, the Department uses software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes. Unauthorized attempts to upload information or change information on this site are strictly prohibited and may be punishable under the Texas Penal Code Chapters 33 (Computer Crimes) or 33A (Telecommunications Crimes).
 
-##### Cookies
+#####  **Cookies**
 
 A cookie is an extremely small text file that resides on the user’s hard drive, created at the request of the Web server to track specific information.
 
  _Pages on the MSU Web site do not use cookies._
 
-##### E-mail
+#####  **E-mail**
 
 Personally identifiable information contained in a question or comment sent to MSU in an e-mail message or in an online form submitted to MSU will only be used by MSU to respond to the request and to analyze trends. MSU may redirect the message to another government agency or person who is in a better position to answer the question.
 
-##### Web-based forms
+#####  **Web-based forms**
 
 MSU uses Web-based forms. Personally identifiable information collected from these forms has a specified use (e.g., registration, survey response, etc.) and the information is used by MSU only for that purpose.
 
-#### Use/Release of Information
+###  **Use/Release of Information**
 
 All information collected from the MSU Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, is subject to the Texas Public Information Act.
 
