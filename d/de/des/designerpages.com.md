@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909004140id_/https%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630085629id_/https%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
 
 # Designer Pages: Privacy Policy
 
-Designer Pages Online LLC ("We," "Our," or "the Company") respects the privacy of your personal information and provides the following explanation of how We treat personal information that We collect and receive when you use Our website and services, including any of Our mobile apps, such as the Showrooms app (the "Site" or the "Services"). The type and amount of information We collect about you varies according to how you use Our Services
+Designer Pages Data, Inc. ("We," "Our," or "the Company") respects the privacy of your personal information and provides the following explanation of how We treat personal information that We collect and receive when you use Our website and services, including any of Our mobile apps, such as the Showrooms app (the "Site" or the "Services"). The type and amount of information We collect about you varies according to how you use Our Services
 
 Personal information is information about you that is personally identifiable and that is not otherwise publicly available, such as your address, email address, and phone number. We may collect personal information when you register with Our Site, when you use certain products and Services, when you visit Our Site or the websites of certain third parties, and when you enter promotions or sweepstakes. For example:
 
