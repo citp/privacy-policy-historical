@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231080501id_/http%3A//www.wolterskluwercdi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630103542id_/http%3A//www.wolterskluwercdi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Clinical Drug Information
 
