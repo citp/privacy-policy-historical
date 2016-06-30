@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912125135id_/https%3A//pix4d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630044033id_/https%3A//www.pix4d.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Pix4D
-
-**Pix4D Privacy Policy**
+# Privacy Policy - Pix4D
 
 **1\. Information Collection: The Personally Identifiable Information We Collect**  
-Pix4D provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Pix4D.com (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at http://www.pix4D.com/privacy.html
+Pix4D provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Pix4D.com (this “Site”). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at https://www.pix4d.com/privacy.html
 
 **2\. How We Use Personal Information**  
 In the course of using this Site, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use of and activities at our Site that may be connected with you (“Personal Information”). Personal Information that we collect may include, but is not limited to, your name, phone number, email address and home and business postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Site.
