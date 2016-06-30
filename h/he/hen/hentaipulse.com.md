@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaipulse.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170632id_/http%3A//hentaipulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaipulse.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630192029id_/http%3A//hentaipulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Subbed Hentai Online
 
