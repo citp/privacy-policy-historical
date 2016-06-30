@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013436id_/http%3A//www.svb.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630113424id_/http%3A//www.svb.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Silicon Valley Bank - Online Privacy Policy
 
-### Who we are
+### Who We Are
 
 SVB Financial Group provides diversified financial services to emerging, growth and established technology companies and the life science, cleantech, venture capital, private equity and premium wine markets. SVB Financial Group's businesses and divisions include Silicon Valley Bank, SVB Capital, SVB Analytics, SVB Private Bank a division of Silicon Valley Bank, SVB Wealth Advisory, Inc. ("SVB Wealth Advisory") and other affiliated organizations. 
 
@@ -22,7 +22,7 @@ By using this Site or interacting with SVB you consent to this Notice, including
   
 
 
-### What information do we collect from you?
+### What Information Do We Collect From You?
 
 The types of personal information we collect depend on the services you request. You may be a client, prospective client, job seeker, or someone wanting to learn more about SVB. The personal information collected would depend on the situation and could include, but is not limited to, your name, address, government identification information, phone number, email address, account balances, transaction histories, assets, and credit history. 
 
@@ -45,7 +45,7 @@ SVB does not currently use cookies for online advertising either on our own Site
   
 
 
-### How do we use your information?
+### How Do We Use Your Information?
 
 We use your personal information to provide you with our services and to perform everyday business operations (such as opening an account or processing your transactions), to help us evaluate, improve and develop these services, to perform data analytics, to maintain your account, comply with legal obligations including those aimed at preventing money laundering, for risk control, anti-fraud and information security, to allow you to change web pages during your visit without having to re-enter your password, to store your preferences and other information and to track activity on our website, to improve the running of this site and to improve customer experience and the running of our business and, with your consent, marketing our other services to you.
 
@@ -54,7 +54,7 @@ We may also use data that we collect on an aggregate or anonymous basis (such th
   
 
 
-### With whom will your information be shared?
+### With Whom Will Your Information Be Shared?
 
 Your personal information is shared with our affiliated businesses for the purposes of providing our services to you. In some cases we may share your information to respond to court orders and legal investigations or report to credit bureaus. 
 
@@ -69,42 +69,42 @@ Should these marketing practices change, we will seek your consent before sharin
   
 
 
-### You may request to see and make changes to your personal data
+### You May Request to See and Make Changes to Your Personal Data
 
 You can sign into your SVB online account to see and edit personally identifiable information we have stored, such as your name, email, address or phone number. You can also contact us using the methods listed at the end of this Notice to request to see additional personal information we may have collected that pertains to you. 
 
   
 
 
-### We keep personal data until you delete it
+### We Keep Personal Data Until You Delete It
 
 We remove personal information (such as your name, address, email address or phone number) and other information associated with your SVB online account promptly after you cancel your SVB online accounts. Financial transaction histories may be kept longer as warranted by law or regulation. We may retain other data indefinitely or otherwise, at all times in accordance with applicable law.
 
   
 
 
-### We take steps to protect personal information
+### We Take Steps to Protect Personal Information
 
 We take reasonable steps to secure your personal information against unauthorized access, modification or disclosure. These may include encryption of data from pages where payments are made or other sensitive data is transmitted. Keep in mind, however, that no security or encryption method can ensure complete protection from hackers or human error.
 
   
 
 
-### Links to non-SVB Financial Group sites
+### Links to Non-SVB Financial Group Sites
 
 We are not responsible for information collection practices of non-SVB Financial Group links you click on from our websites. These third parties may have very different privacy policies and we encourage you to review their practices before providing them with any personally identifiable information.
 
   
 
 
-### Special situations may require disclosure of your data
+### Special Situations May Require Disclosure of Your Data
 
 We also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) Where permitted by applicable law, when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor in a merger or acquisition. We will attempt to notify you in any such case, to the extent permitted by law to do so.
 
   
 
 
-### Children's privacy
+### Children's Privacy
 
 From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.
 
@@ -113,13 +113,13 @@ For more information about the Children's Online Privacy Protection Act (COPPA),
   
 
 
-### You may ask privacy questions
+### You May Ask Privacy Questions
 
 If you have any questions or concerns about our privacy policies, please contact us:
 
 **By email** : [privacy@svb.com](mailto:privacy@svb.com)
 
-**For US Clients:**  
+**For U.S. Clients:**  
 
 **By phone** :   
 +1 (408) 654-7400 (U.S.) 
@@ -140,14 +140,15 @@ Santa Clara, CA 95054
 **By postal mail** :   
 Data Protection Officer   
 Silicon Valley Bank   
-41 Lothbury,   
-London   
-EC2R 7HF  
+Alphabeta    
+14-18 Finsbury Square  
+London   
+EC2A 1BR  
   
 ---|---|---  
   
-### We update our privacy policies periodically
+### We Update Our Privacy Policies Periodically
 
 This privacy policy was last updated on October 11, 2015. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we may also send a notice to you by email, push notification or text.
 
-Privacy Office approval 9.29.15 
+Privacy Office approval 12.29.15 
