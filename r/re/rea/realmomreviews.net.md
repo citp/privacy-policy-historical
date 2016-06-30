@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmomreviews.net privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211034540id_/http%3A//www.realmomreviews.net/blog-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomreviews.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630130631id_/http%3A//www.realmomreviews.net/privacy-policy) for the most accurate reproduction.*
 
 # Real Mom Reviews Privacy Policy
 
