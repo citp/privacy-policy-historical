@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226092455id_/http%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630163017id_/http%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
 
-# Genius | Annotate the World
+# Genius | Song Lyrics & Knowledge
 
 Genius ("Genius," "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how information about you or associated with you ("personal information") is collected, used and disclosed by Genius Media Group, Inc. and its affiliates, which own and operate Genius services ("Genius," "we" or "us"). This Policy applies to the online services offered by Genius at [genius.com](https://web.archive.org/) (the "Website" or "Our Service"). For more information about our service, please visit our [About Genius](https://web.archive.org/static/about) page.
 
