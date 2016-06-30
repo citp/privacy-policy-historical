@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the follo.in privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130020720id_/http%3A//www.follo.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follo.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630212932id_/http%3A//www.follo.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - follo.in
 
-Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [www.follo.in](https://web.archive.org/web/20151130020720id_/http%3A//www.follo.in/www.follo.in)
+Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [www.follo.in](https://web.archive.org/web/20160630212932id_/http%3A//www.follo.in/www.follo.in)
 
 TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
@@ -42,14 +42,14 @@ All information gathered on TIL is securely stored within the TIL controlled dat
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [mobilecs@timesinternet.in](mailto:mobilecs@timesinternet.in) to Mr. Sumit Chugh ("Grievance Officer") 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [connect@follo.in](mailto:connect@follo.in) to Jyoti Kumar ("Grievance Officer") 
 
 **Grievance Redressal**  
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
 
-Mr. Sumit Chugh (Grievance Officer)  
+Jyoti Kumar (Grievance Officer)  
 Times Internet Limited  
-[www.follo.in](https://web.archive.org/web/20151130020720id_/http%3A//www.follo.in/www.follo.in)  
+[www.follo.in](https://web.archive.org/web/20160630212932id_/http%3A//www.follo.in/www.follo.in)  
 Times Internet Limited  
 Times Centre, FC - 6, First Floor, Sector 16-A,  
 Film City, Noida - 201301, Uttar Pradesh, India  
