@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221738id_/http%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630184143id_/http%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DashBid
 
