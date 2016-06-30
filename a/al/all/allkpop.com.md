@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230123226id_/http%3A//www.allkpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkpop.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152148id_/http%3A//www.allkpop.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy | allkpop
 
 This statement covers the site allkpop.com (allkpop). Please read this statement carefully before proceeding to access allkpop. Your use of allkpop indicates your agreement to abide by the Terms in effect. The Website is owned and operated by 6Theory Media LLC (6Theory for short). You can view our Terms of Service (TOS) [here](http://www.allkpop.com/tos). If you have any questions or suggestions regarding our privacy policy, please contact us.
 
@@ -31,6 +31,3 @@ A cookie is a string of information that a website stores on a visitor’s compu
 #### Privacy Policy Changes
 
 Although most changes are likely to be minor, allkpop may change its Privacy Policy from time to time, and at allkpop’s sole discretion. allkpop encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-  
-
