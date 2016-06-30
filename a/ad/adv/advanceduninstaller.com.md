@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advanceduninstaller.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113034736id_/http%3A//www.advanceduninstaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceduninstaller.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630140656id_/http%3A//www.advanceduninstaller.com/privacy-policy) for the most accurate reproduction.*
 
-# Advanced Uninstaller PRO
+# Privacy - Advanced Uninstaller PRO
 
 ##  Your consent
 
