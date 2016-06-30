@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tambayantv.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222063142id_/http%3A//www.tambayantv.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tambayantv.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630153251id_/http%3A//www.tambayantv.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TAMBAYANTV - Pinoy Tv l Lambingan Tv
-
-Check out the hottest deals on the latest gadgets below. 
+# Privacy Policy | TAMBAYANTV
 
 This Privacy Policy governs the manner in which Tambayantv! collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.tambayantv.org/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Tambayantv!.
 
@@ -61,9 +59,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Tambayantv!
 
 http://www.tambayantv.org/
-
-87 Melbourne  
-Makita Guissler, IL 60137  
-tambayantv [@] tambayantv.org
-
-Check out the hottest deals on the latest gadgets below. 
