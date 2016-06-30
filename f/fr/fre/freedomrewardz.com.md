@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520015748id_/http%3A//www.freedomrewardz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630065003id_/http%3A//statebankrewardz.com/Privacy.aspx) for the most accurate reproduction.*
 
-# FreedomRewardz | Your Privacy is Important to us at India's Most Rewarding Loyalty Program for State Bank Group Debit Card Customers
+# StateBankRewardz | Your Privacy is Important to us at India's Most Rewarding Loyalty Program for State Bank Group Debit Card Customers
+
+[ ](http://www.sbi.co.in/)
+
+[ ](http://statebankrewardz.com/default.aspx)
+
+Dear Customer, for verification purposes, State Bank Rewardz will send a One Time Password (OTP) to your mobile number and email ID that is registered with your Bank. If you have not updated your contact information, please visit your Home Branch. **New Feature :** Going forward, all your points accumulated from various banking channels will be merged under your Bank Customer ID (CIF). To know your CIF, please refer to your State Bank Passbook or visit your home branch. 
 
 _Privacy Statement_
 
@@ -16,9 +22,9 @@ Retention: We will retain your information only so long as it is needed for busi
 
 Choice: When we contact you for marketing purposes, we will let you know how to remove your name from future marketing efforts.
 
-Access: We will provide easy ways for you to access the information we have collected about you. To update the information retained about you please send an e-mail message to update@FreedomRewardz.com or visit your profile page after logging into your FreedomRewardz Online Account.
+Access: We will provide easy ways for you to access the information we have collected about you. To update the information retained about you please send an e-mail message to update@StateBankRewardz.com or visit your profile page after logging into your StateBankRewardz Online Account.
 
-Accuracy: We will promptly correct inaccuracies in your personal information that we discover or that you bring to our attention. To correct inaccuracies in your personal information, please send an e-mail message to update@FreedomRewardz.com or visit your profile page after logging into your FreedomRewardz Online Account, and edit/ update your information.
+Accuracy: We will promptly correct inaccuracies in your personal information that we discover or that you bring to our attention. To correct inaccuracies in your personal information, please send an e-mail message to update@StateBankRewardz.com or visit your profile page after logging into your StateBankRewardz Online Account, and edit/ update your information.
 
 Security: : We will follow generally accepted industry standards to protect your personal information during transmission and storage. We operate secure data networks protected by firewalls and passwords. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
@@ -28,6 +34,6 @@ International Transfer: If we send your information to one of our facilities in 
 
 Enforcement: We will regularly review how we are meeting these privacy principles and provide you a means to settle complaints about our privacy practices.
 
-To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: The Qube, A-703,MV Road, Marol, Off Andheri-Kurla Road, Andheri (E) Mumbai,Pin Code – 400059 India or email us at accessinfo@FreedomRewardz.com   
+To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: The Qube, A-703,MV Road, Marol, Off Andheri-Kurla Road, Andheri (E) Mumbai,Pin Code – 400059 India or email us at accessinfo@StateBankRewardz.com   
 or call us at 60008500.  
 Thank you. 
