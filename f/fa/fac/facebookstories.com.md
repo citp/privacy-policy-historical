@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebookstories.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231131647id_/https%3A//www.facebook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookstories.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630223540id_/https%3A//www.facebook.com/about/privacy) for the most accurate reproduction.*
 
 # Data Policy
 
@@ -68,13 +68,13 @@ We use your information to send you marketing communications, communicate with y
 
 Show and measure ads and services.
 
-We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/about/ads/#568137493302217) how information about you is used to personalize the ads you see. 
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
 Promote safety and security.
 
 We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
 
-We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/help/cookies/update) to learn more. 
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/policies/cookies/) to learn more. 
 
 ###  How is this information shared? 
 
@@ -118,7 +118,7 @@ Advertising, Measurement and Analytics Services (Non-Personally Identifiable Inf
 
 We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
 
-Please review your [advertising preferences](https://web.archive.org/about/ads) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
+Please review your [advertising preferences](https://web.archive.org/help/562973647153813/) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
 
 Vendors, service providers and other partners.
 
@@ -138,9 +138,9 @@ We may access, preserve and share your information in response to a legal reques
 
 ###  How our global services operate 
 
-Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=CAQHP92ig&s=1). 
+Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=lAQEivjmo&s=1). 
 
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=MAQFbderP&s=1). 
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=JAQEjgz9p&s=1). 
 
 Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
 
