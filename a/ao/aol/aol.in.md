@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231142637id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630025005id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
 # AOL Privacy
 
