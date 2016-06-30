@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907050815id_/http%3A//www.boohoo.com/usa/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630115725id_/http%3A//www.boohoo.com/usa/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
@@ -120,5 +120,3 @@ We reserve the right to change this policy at any time. If we change our privacy
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 49/51, Dale Street, Manchester, England, M1 2HF.
-
-[](http://www.boohoo.com/partners/pwr/product-reviews/c/index.html)
