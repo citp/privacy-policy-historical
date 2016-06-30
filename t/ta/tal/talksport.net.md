@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the talksport.net privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224090058id_/http%3A//talksport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630220341id_/http%3A//talksport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | talkSPORT
 
-UTV Media plc and each of its group companies ("we”) are committed to protecting and respecting your privacy.
+talkSPORT Ltd and each of its group companies ("we”) are committed to protecting and respecting your privacy.
 
 This policy (the ‘Privacy Policy’) (together with our Website Terms and Conditions of Use, a copy of which can be found at <http://talksport.com/privacy> together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 This Privacy Policy also contains our policies on cookies. NOTE this policy only applies to this Website and not to the companies, individuals, organisations or other websites to which there are links.
 
-For the purpose of the Data Protection Act 1998 (the ‘Act’), the data controller is UTV Media plc, Ormeau Road, Belfast, BT7 1EB. UTV Media plc is the data controller for various UTV group companies. Please note that the personal information collected from each UTV website, including this Website, will be stored separately.
+For the purpose of the Data Protection Act 1998 (the ‘Act’), the data controller is talkSPORT Ltd, Ormeau Road, Belfast, BT7 1EB. talkSPORT Ltd is the data controller for various talkSPORT Ltd group companies. Please note that the personal information collected from each talkSPORT Ltd website, including this Website, will be stored separately.
 
 Your use of this Website signifies your consent to us collecting and using personal information about you as specified below in accordance with this Privacy Policy. Should we choose to change our Privacy Policy for any reason, the changes will be posted on this Website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
 
@@ -16,7 +16,7 @@ Information Collected
 
 We may collect and process the following data about you:
 
-• Information that you provide by filling in forms on our site [http://talksport.com](http://talksport.com/) (the Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by UTV Media plc or any of its group companies, and when you report a problem with the Website.  
+• Information that you provide by filling in forms on our site [http://talksport.com](http://talksport.com/) (the Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by talkSPORT Ltd or any of its group companies, and when you report a problem with the Website.  
 • If you contact us, we may keep a record of that correspondence.  
 • We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
 • Details of transactions you carry out through the Website and of the fulfilment of your orders.  
@@ -78,8 +78,8 @@ We may disclose your personal information to any member of our group, which mean
 We may disclose your personal information to third parties:
 
 • In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
-• If UTV Media plc or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. This may also be the case in the event of an acquisition of the relevant UTV group company or substantially all of its assets.  
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms and Conditions of Use (a copy of which can be found elsewhere on this Website) and other agreements; or to protect the rights, property, or safety of UTV Media plc, its group companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+• If talkSPORT Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. This may also be the case in the event of an acquisition of the relevant talkSPORT Ltd group company or substantially all of its assets.  
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms and Conditions of Use (a copy of which can be found elsewhere on this Website) and other agreements; or to protect the rights, property, or safety of talkSPORT Ltd, its group companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 Your Rights  
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by completing the 'contact us' section appearing on this Website. 
