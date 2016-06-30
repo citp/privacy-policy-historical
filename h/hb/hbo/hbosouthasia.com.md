@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230002928id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630021756id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of HBO Southasia - English Movie Timings.
 
@@ -8,13 +8,13 @@ By interacting with us, submitting information to us, or requesting/signing up f
 
 This Policy supplements but does not supersede nor replace any other consents you may have previously provided to HBO South Asia in respect of your Personal Data, and your consents herein are additional to any rights which we may have at law to collect, use or disclose your Personal Data.
 
-Personal Data
+### Personal Data
 
-In this Policy, “Personal Data” refers to any personally identifiable data, whether true, or not, about an individual who can be identified (a) from such data, or (b) from such data and/or other information to which we have or are likely to have access, including data in our records which may be updated from time to time.
+In this Policy, Personal Data refers to any personally identifiable data, whether true, or not, about an individual who can be identified (a) from such data, or (b) from such data and/or other information to which we have or are likely to have access, including data in our records which may be updated from time to time.
 
 Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, identification/passport number, mailing address, email address, telephone number(s), network data, age, information about your interests in and use of various products, programs and/or services and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
 
-Collection of Personal Data
+### Collection of Personal Data
 
 At our site, we collect Personal Data in the following ways:
 
@@ -34,7 +34,7 @@ If you provide us with any Personal Data relating to a third party (e.g. informa
 
 You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products, programs and/or services you have requested.
 
-Use and Disclosure of Personal Data
+### Use and Disclosure of Personal Data
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs and/or services, to respond to your inquiries about our offerings, and to offer you other products, programs and/or services that we believe may be of interest to you, and/or in relation to any marketing and/or promotional activities with respect to our products, programs and/or services.
 
@@ -52,23 +52,23 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 Finally, we will not use or transfer Personal Data provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-Collection of Information by Third-Party Sites and Sponsors
+### Collection of Information by Third-Party Sites and Sponsors
 
 Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
 Our site sometimes may offer content (e.g. contests or promotions) that is sponsored by or co- branded with identified third parties. By virtue of these relationships, the third parties may obtain Personal Data that visitors voluntarily submit to participate in the site activity. HBO South Asia has no control over these parties' use of this information.
 
-Cookies
+### Cookies
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with Personal Data, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites.
 
-Our Commitment to Security
+### Our Commitment to Security
 
 We have put in place appropriate procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-How to Contact Us – Withdrawal of Consent, Access and Correction of your Personal Data
+### How to Contact Us – Withdrawal of Consent, Access and Correction of your Personal Data
 
 If you: 
 
@@ -94,15 +94,12 @@ Please note that if your Personal Data has been provided to us by a third party 
 
 If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, HBO South Asia may not be in a position to continue to provide our products, programs and/ or services to you.
 
-Governing Law
+### Governing Law
 
 This Policy and your use of this website shall be governed in all respects by the applicable local laws.
 
-Updates to Policy
+### Updates to Policy
 
 HBO South Asia reserves the right, at its discretion, to update, change, modify, add, or remove portions of this Policy at any time, in accordance with future developments, industry trends and/or any changes in legal or regulatory requirements. You should check our website http://www.hboasia.com periodically for any updates/changes. Your continued use of our site following the posting of updates/changes to this Policy will mean that you accept the same.
 
-Home Box Office, HBO Defined & HBO HITS are service marks of Home Box Office, Inc. Used with permission.  
-Copyright and all intellectual property rights in and to the images used and referred to herein vest in each of their respective owners.  
-Used with permission.©2014 HBO India. All rights reserved.  
-
+HBO & Home Box Office are service marks of Home Box Office, Inc. Used with permission. 
