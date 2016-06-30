@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214081433id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630173537id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,7 +32,7 @@ We have implemented Google Analytics Demographics and Interest Reporting.
 Using the Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.   
 We plan only to use such data collected by Google Analytics Demographics and Interest Reporting for internal reports and market research. 
 
-All personally identifiable information collected from the Site is the property of Shmoop University, Inc. and will not be shared with any other entity without your expressed consent, other than as described in "Exceptions to Sharing Personally Identifiable Information" below. 
+All personally identifiable information collected from the Site will not be shared with any other entity without your expressed consent, other than as described in "Exceptions to Sharing Personally Identifiable Information" below. 
 
 #### Registration 
 
@@ -102,7 +102,7 @@ In the event we collect (or allow others to collect) such information from child
 
 In addition to those instances where a child's personal information is posted publicly (after receiving a higher level of parental consent), we also may share or disclose personal information collected from children in a limited number of instances, including the following:
 
-  * We may share information with our service providers if necessary for them to perform a business, professional, or technology support function for us.
+  * We may share information with our service providers if it is necessary for them to perform a technology support function for us, or for other legitimate educational purposes.
   * We may disclose personal information if permitted or required by law, for example, in response to a court order or a subpoena. To the extent permitted by applicable law, we also may disclose personal information collected from children (i) in response to a law enforcement or public agency's (including schools or children services) request; (ii) if we believe disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our Site; (iii) to protect the security or integrity of our Site, services and other technology, as well as the technology of our service providers; or (iv) enable us to take precautions against liability.
 
 
@@ -192,7 +192,7 @@ As required by law or to comply with a judicial proceeding, court order, or lega
 
 Some advertisements appearing on our Site are delivered by Google Inc. ("Google"), our advertising partner. Google uses cookies and clear GIF images on this site, which allow it to recognize a user's cookie when a user visits this Site. The information that Google collects and shares through this technology is not personally identifiable. For more information about our third party advertisers, or to learn more about the choices available to you regarding this anonymous information please visit [Google's Privacy Policy](http://www.google.com/privacypolicy.html).
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. While this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to associate this aggregated data with your personal data. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies such as Google DFP to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. While this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to associate this aggregated data with your personal data. However, Shmoop only does business with reputable advertising providers like Google who take personal privacy issues very seriously. Please refer to Google’s documentation for more information on their policies: <https://www.google.com/policies/technologies/ads/>. Or, if you would like more information about this general advertising practice and to learn what you can do to avoid having this information used by advertising companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Your information may also be disclosed to third parties in unforeseeable situations or situations that are not preventable even when commercially reasonably protections are employed, such as in the case that Shmoop or the Site is subject to a hacking or other attack.
 
@@ -222,7 +222,7 @@ Shmoop gathers, aggregates, processes, stores, discloses, and disposes of person
 
 ### Retention of Your Information
 
-We retain information for active Shmoop accounts as long as it is necessary and relevant for our operations. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, and take other actions permitted by law. The information we retain about you will be handled in accordance with this Privacy Policy.
+We retain information for active Shmoop accounts as long as it is necessary and relevant for our operations, which is usually up to 90 days, unless otherwise specified in an individual agreement. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, and take other actions permitted by law. The information we retain about you will be handled in accordance with this Privacy Policy.
 
 ### Notice of Privacy Rights to California Residents
 
