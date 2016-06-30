@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215170741id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630045126id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
 
 # Legal | Sage North America | U.S.
 
@@ -10,7 +10,7 @@ Materials are protected by copyright, trademark, and other intellectual property
 
 #### Copyright notice
 
-© 2015 Sage Software, Inc. All Rights Reserved.
+© 2016 Sage Software, Inc. All Rights Reserved.
 
 #### Trademark notice
 
