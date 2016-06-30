@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viddyoze.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007004041id_/http%3A//viddyoze.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddyoze.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630040126id_/http%3A//viddyoze.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Viddyoze
 
@@ -51,4 +51,4 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-© 2015 Viddyoze - All Rights Reserved
+© 2016 Viddyoze - All Rights Reserved
