@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621224142id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630052814id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Science Photo Library
 
@@ -47,9 +47,9 @@ We may need to disclose information about you if we were required to do so by la
 
 Unsubscribe 
 
-If you would rather not receive marketing communications from us, you can click on the appropriate box on the registration form. Or if you change your mind at a later date, you can edit [Your Details](https://web.archive.org/user/details) and choose to opt out from communication sent to you by email and/or mail by ticking the appropriate box. 
+When you register on our website, you are immediately enrolled into our marketing communication. You can unsubscribe from specific emails by clicking on the link at the bottom of the email "Your email preferences". On Your Email Preferences page you can choose which emails to receive. If you leave all the boxes empty, you will get unsubscribed from all marketing emails. You will, however, continue to receive transactional communications from us relating to invoices, order confirmations, if applicable. 
 
-Alternatively, you can unsubscribe from specific emails by clicking on the link at the bottom of the email "Please click here to manage your email subscription". On Your Email Preferences page you can choose which emails to receive. If you leave all the boxes empty, you will get unsubscribed from all marketing emails. 
+You can unsubscribe from specific emails by clicking on the link at the bottom of the email "Please click here to manage your email subscription". On Your Email Preferences page you can choose which emails to receive. If you leave all the boxes empty, you will get unsubscribed from all marketing emails. 
 
 You will, however, continue to receive transactional communications from us relating to invoices, order confirmations, if applicable. 
 
