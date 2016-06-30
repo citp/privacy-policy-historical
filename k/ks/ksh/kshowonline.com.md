@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083222id_/http%3A//www.kshowonline.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshowonline.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630120007id_/http%3A//www.kshowonline.com/%23privacy) for the most accurate reproduction.*
 
-# KShowOnline.Com
+# KShowOnline.com
 
-X
-
-## Privacy Policy
+#### Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kshowonlinedotcom@gmail.com. 
 
@@ -29,9 +27,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-X
-
-## Terms of Use 
+#### Terms of Use 
 
 Your use of this site signifies that you understand and agree to the Terms of Use governing this site. The Terms of Use may be modified at any time and without notice. We encourage you to check back every so often to ensure you are up to date with the Terms of Use. 
 
