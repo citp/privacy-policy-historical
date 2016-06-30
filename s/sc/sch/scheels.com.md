@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906001141id_/http%3A//www.scheels.com/shop/en/scheels-catalog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630144926id_/http%3A//www.scheels.com/shop/scheels-catalog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scheels
 
@@ -12,11 +12,14 @@ Becoming registered at scheels.com enables you to receive monthly product update
 Collection of information by third-party sites and sponsors  
 Scheels will not buy, sell, trade, or share information with any other company or individual unless one of the following exceptions applies: 
 
-Third-party subcontractors: Scheels may use outside companies to provide services such as sending emails. These companies are trusted by Scheels, and have agreed under contract to abide by the ethical standards set by Scheels. These companies, by law, cannot use your information in any way beyond what is necessary to carry out those services for Scheels. 
+Third-party subcontractors  
+Scheels may use outside companies to provide services such as sending emails. These companies are trusted by Scheels, and have agreed under contract to abide by the ethical standards set by Scheels. These companies, by law, cannot use your information in any way beyond what is necessary to carry out those services for Scheels. 
 
-Credit Card Companies: In order to process your online order, Scheels allows our bank to use your credit card information. Also, part of the process includes giving the information to your credit card company (Visa, MasterCard International) in order to verify your credit card. 
+Credit Card Companies  
+In order to process your online order, Scheels allows our bank to use your credit card information. Also, part of the process includes giving the information to your credit card company (Visa, MasterCard International) in order to verify your credit card. 
 
-Legal: Scheels complies with all valid legal processes including warrants, court orders, and subpoenas seeking personal information. 
+Legal  
+Scheels complies with all valid legal processes including warrants, court orders, and subpoenas seeking personal information. 
 
 What are cookies? Securing your information   
 Cookies are text files we place in your computer's browser to store your preferences. Cookies do not tell us your personal information unless you provide the information by creating an account, or entering a contest. Cookies allow us to monitor the site usage, and easily make changes catered to your preferences. You can reset your browser to refuse all cookies; however, some website features or services may not function properly without cookies. Our website also uses Secure Sockets Layering (SSL) to encrypt your personal credit information as it travels over the internet. SSL is the industry standard for secure online transactions. The use of SSL makes giving your credit card information online as safe as placing an order over the phone. Your security is important to us, and scheels.com NEVER accepts information given via phone or email. 
