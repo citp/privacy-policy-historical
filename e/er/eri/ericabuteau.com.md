@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericabuteau.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521142430id_/http%3A//ericabuteau.com/about/disclosure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericabuteau.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701011438id_/http%3A//ericabuteau.com/about/disclosure/privacy) for the most accurate reproduction.*
 
 # Privacy - ButeauFull Chaos
 
