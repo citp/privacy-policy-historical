@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809114348id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134236id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : BuyV2Cigs
 
