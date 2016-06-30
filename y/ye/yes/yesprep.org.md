@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesprep.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220120804id_/http%3A//www.yesprep.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesprep.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630030847id_/http%3A//www.yesprep.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YES Prep Public Schools
 
