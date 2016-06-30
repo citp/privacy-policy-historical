@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thesqeez.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227074855id_/http%3A//thesqeez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesqeez.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630160831id_/http%3A//thesqeez.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheSqeez - squeeze the web
+# Privacy Policy
 
-**Privacy Policy for http://thesqeez.com/,  owned by:**
+**Privacy Policy for http://thesqeez.com**
 
-**Geotarget Media Ltd.  **  
-1 ½ Miles Northern Highway  
-Belize City, Belize
+ **
+
+Owned by Geotarget Media Ltd.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@thesqeez.com
 
@@ -35,4 +35,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-###  Wait! You must see these incredible stories:
+**
