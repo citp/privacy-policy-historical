@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaggy.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220142720id_/http%3A//www.emaggy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaggy.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630095149id_/http%3A//www.emaggy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Calgary, Edmonton, Montreal, Vancouver, Toronto, Ottawa, Winnipeg, AB
 
