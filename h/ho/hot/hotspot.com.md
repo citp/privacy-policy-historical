@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231234621id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspot.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630141411id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -48,48 +48,8 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
 
 
-Contents   
+[show]Contents   
 ---  
-  
-## Contents
-
-  * 1 Introduction
-    * 1.1 Welcome!
-      * 1.1.1 Definitions
-      * 1.1.2 What This Privacy Policy Does & Doesn't Cover
-  * 2 Use of info
-    * 2.1 Types of Information We Receive From You, How We Get It, & How We Use It
-      * 2.1.1 Your Public Contributions
-      * 2.1.2 Account Information & Registration
-      * 2.1.3 Information Related to Your Use of the Wikimedia Sites
-        * 2.1.3.1 Information We Receive Automatically
-        * 2.1.3.2 Information We Collect
-        * 2.1.3.3 Emails
-        * 2.1.3.4 Surveys & Feedback
-        * 2.1.3.5 Location Information
-          * 2.1.3.5.1 GPS & Other Location Technologies
-          * 2.1.3.5.2 Metadata
-          * 2.1.3.5.3 IP Addresses
-  * 3 Sharing
-    * 3.1 When May We Share Your Information?
-      * 3.1.1 With Your Permission
-      * 3.1.2 For Legal Reasons
-      * 3.1.3 If the Organization is Transferred (Really Unlikely!)
-      * 3.1.4 To Protect You, Ourselves & Others
-      * 3.1.5 To Our Service Providers
-      * 3.1.6 To Understand & Experiment
-      * 3.1.7 Because You Made It Public
-  * 4 Protection
-    * 4.1 How Do We Protect Your Data?
-    * 4.2 How Long Do We Keep Your Data?
-  * 5 Important info
-    * 5.1 Where is the Foundation & What Does That Mean for Me?
-    * 5.2 Our Response to Do Not Track (DNT) signals
-    * 5.3 Changes to This Privacy Policy
-    * 5.4 Contact Us
-    * 5.5 Thank You!
-
-  
   
 ## [](https://web.archive.org/wiki/File:WMF_open_door.png) Introduction
 
@@ -138,58 +98,19 @@ We recognize that only a minority of you are familiar with technical terms like 
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the Wikimedia Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below. 
 
+[show]
+
 Examples of What This Privacy Policy Covers  
   
 ---  
   
-For the sake of clarity, this Privacy Policy covers, regardless of language: 
-
-  * All of our major sites (found at [list of major projects](https://meta.wikimedia.org/wiki/Projects "m:Projects")), such as Wikipedia, including user pages, discussion pages, and noticeboards. 
-  * Our blogs and APIs (unless we have provided a separate policy for those services). 
-  * Our mobile sites and applications, which can be found on our official list. 
-  * Emails, SMS, and notifications from us or sent to us from you.
-
-  
-  
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://store.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:")). To understand more about what this Privacy Policy does not cover, please see below. 
+
+[show]
 
 More on what this Privacy Policy doesn’t cover  
   
 ---  
-  
-This section is part of the Privacy Policy and is meant to explain in detail which situations are not covered by our Privacy Policy. 
-
-Wikimedia Sites with alternative policies
-     Some Wikimedia Foundation websites have alternative privacy policies or provisions that differ from this Privacy Policy. These websites include: 
-
-  * **Wikimedia Shop** (covered by [the shop's policy](https://store.wikimedia.org/pages/privacy-policy)); and
-  * **donate.wikimedia.org** , including the donation process, such as clicking on a donation banner (covered by [the Donor Privacy Policy](https://web.archive.org/wiki/Special:MyLanguage/Donor_policy "Special:MyLanguage/Donor policy")).
-
-
-     These websites, and others like them, will provide a link to their privacy policy (if it stands alone) or to an explanation of any differing provisions (if the site's policy is based on this Privacy Policy).
-
-Community members
-     The Wikimedia Sites are collaborative labors of love that are constantly maintained and updated by a global community of volunteers. As a result, some volunteers have access to certain nonpublic information, and use of that information may not be governed by this Privacy Policy. Examples include: 
-
-  * **Administrative volunteers** , such as [CheckUsers](https://meta.wikimedia.org/wiki/Special:MyLanguage/CheckUser "m:Special:MyLanguage/CheckUser") or [Stewards](https://meta.wikimedia.org/wiki/Special:MyLanguage/Stewards "m:Special:MyLanguage/Stewards"). These are volunteers who enforce Wikimedia Site policies and ensure the safety of the Wikimedia Sites. When these administrators access nonpublic information, they are required to comply with our [Access to Nonpublic Information Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/Access_to_nonpublic_information_policy "m:Special:MyLanguage/Access to nonpublic information policy"), as well as other, tool-specific policies.
-  * **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as [Labs wmflabs.org](https://www.mediawiki.org/wiki/Wikimedia_Labs). When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
-  * **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include: 
-    * posting to Foundation-hosted email lists;
-    * requesting support from volunteers through our [online ticketing system](https://meta.wikimedia.org/wiki/Special:MyLanguage/OTRS "m:Special:MyLanguage/OTRS") (email sent to info[at]wikimedia.org goes to this system);
-    * emailing other users through the Wikimedia Sites (for example, by using the "Email this user" feature); and
-    * chatting on [IRC](https://meta.wikimedia.org/wiki/Special:MyLanguage/IRC "m:Special:MyLanguage/IRC") (such as on the #wikipedia channel).
-
-
-
-Third parties
-     This Privacy Policy only covers the way the WMF collects and handles information. Third parties who might receive information when you use the Wikimedia Sites may include: 
-
-  * **Service providers** whom we may use to help provide our services to you. For example, our actions regarding your information on [our blog](https://blog.wikimedia.org/) are covered by this Privacy Policy, but if our blog were hosted by [WordPress](https://wordpress.com/), WordPress may also collect information sent automatically by your browser or through cookies that they set. If you are curious about any third-party provider's privacy practices, you should refer directly to their privacy policy.
-  * **Websites run by other organizations** , like websites linked to from the "References" sections of Wikipedia, or run by Wikimedia chapters or other [movement organizations](https://web.archive.org/wiki/Resolution:Recognizing_Models_of_Affiliations "Resolution:Recognizing Models of Affiliations"). These organizations may receive information from you if you visit their websites after using one of the Wikimedia Sites. They are governed by their own privacy policies.
-  * **Mobile applications provided by other organizations or individuals**. These organizations or individuals may receive information from you if you use those applications to access the Wikimedia Sites or Wikimedia Site content. They are governed by their own privacy policies.
-  * **Third-party data-collecting tools** that are placed on Wikimedia Sites by volunteers or other third parties. Sometimes, volunteers may place a data-collecting tool, such as a script, gadget, tracking pixel, or share button, on a Wikimedia Site without our knowledge. This Policy does not cover how third parties handle the information they receive as a result of such a tool. If you come across such a third-party tool, and you believe it violates this Policy, you can remove the tool yourself, or report it to privacy[at]wikimedia.org so we can investigate.
-
-  
   
 Where community policies govern information, such as the [CheckUser policy](https://meta.wikimedia.org/wiki/CheckUser_policy "m:CheckUser policy"), the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy. 
 
@@ -335,7 +256,7 @@ We, or users with certain administrative rights, may disclose information that i
 
 We, or particular users with certain administrative rights as described below, may need to share your personal information if it is reasonably believed to be necessary to enforce or investigate potential violations of our [Terms of Use](https://web.archive.org/wiki/Terms_of_Use "Terms of Use"), this Privacy Policy, or any Foundation or user community-based policies. We may also need to access and share information to investigate and defend ourselves against legal threats or actions. 
 
-Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups that have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our [Access to Nonpublic Information Policy](https://web.archive.org/wiki/Access_to_nonpublic_information_policy "Access to nonpublic information policy"). These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation. 
+Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our [Access to Nonpublic Information Policy](https://web.archive.org/wiki/Access_to_nonpublic_information_policy "Access to nonpublic information policy"). These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation. 
 
 We hope that this never comes up, but we may disclose your personal information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your personal information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our [FAQ](https://web.archive.org/wiki/Privacy_policy/FAQ#investigateuseFAQ "Privacy policy/FAQ") for more information.) 
 
