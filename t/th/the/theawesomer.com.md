@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206132043id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630222303id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -16,7 +16,11 @@ In the event of a sponsored contest, giveaway, or other similar post, we may col
 
 **OTHER DISCLOSURE OF INFORMATION.  **We may disclose personally identifiable information in order to respond to a subpoena, court order or other such request. We may also provide such personally identifiable information in response to a law enforcement agency’s request or as otherwise required by law. Your personally identifiable information may be provided to a party if we file for bankruptcy, or there is a transfer of the assets or ownership of the Company in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
 
-**ADVERTISING.  **Third party companies that place advertising on our website may collect information about you when you view or click on their advertising through the use of cookies and web beacons or similar technology to collect information in the course of advertising being served on the website. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect.
+**ADVERTISING.  **
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
+Third party companies that place advertising on our website may collect information about you when you view or click on their advertising through the use of cookies and web beacons or similar technology to collect information in the course of advertising being served on the website. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect.
 
 Our advertising partners include, but are not limited to:
 
