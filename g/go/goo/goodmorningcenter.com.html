@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goodmorningcenter.com privacy policy that was archived on 2015-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205192614id_/http%3A//goodmorningcenter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodmorningcenter.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630233040id_/http%3A//goodmorningcenter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -7,12 +7,8 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://goodmorningcenter.com/xmlrpc.php">
 <link href="http://goodmorningcenter.com/wp-content/themes/fruithealth/style.css" rel="stylesheet" type="text/css" media="screen">
-<style type="text/css">
-					.no-break br {
-						display: none !important;
-					}
-			</style>
-<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://goodmorningcenter.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -26,9 +22,105 @@
 <link rel="alternate" type="application/rss+xml" title="Good Morning Center » Comments Feed" href="http://goodmorningcenter.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Good Morning Center » Privacy Policy Comments Feed" href="http://goodmorningcenter.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/goodmorningcenter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://goodmorningcenter.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/goodmorningcenter.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.9","twemoji":"http:\/\/goodmorningcenter.com\/wp-includes\/js\/twemoji.js?ver=4.2.9"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://goodmorningcenter.com/wp-includes/js/twemoji.js?ver=4.2.9" type="text/javascript"></script><script src="http://goodmorningcenter.com/wp-includes/js/wp-emoji.js?ver=4.2.9" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -43,29 +135,29 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="cfblbcss-css" href="http://goodmorningcenter.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="cfblbcss-css" href="http://goodmorningcenter.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.css?ver=4.2.9" type="text/css" media="all">
 <link rel="stylesheet" id="cookielawinfo-style-css" href="http://goodmorningcenter.com/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3" type="text/css" media="all">
-<link rel="stylesheet" id="arevico_scsfbcss-css" href="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/scs/scs.css?ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="arevico_scsfbcss-css" href="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/featherlight/featherlight.min.css?ver=4.2.9" type="text/css" media="all">
 <link rel="stylesheet" id="custom-multipage-post-plugin-styles-css" href="http://goodmorningcenter.com/wp-content/plugins/custom-multipage-post/css/public.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="superfish-css" href="http://goodmorningcenter.com/wp-content/themes/fruithealth/lib/scripts/superfish-menu/superfish.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="normalize-css" href="http://goodmorningcenter.com/wp-content/themes/fruithealth/lib/scripts/normalize.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=4.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="default_body_gwf-css" href="http://fonts.googleapis.com/css?family=Lato&amp;ver=4.2.5" type="text/css" media="all">
+<link rel="stylesheet" id="default_body_gwf-css" href="http://fonts.googleapis.com/css?family=Lato&amp;ver=4.2.9" type="text/css" media="all">
 <script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script><script>jQueryWP = jQuery;</script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.js?ver=4.2.9"></script>
 <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3"></script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/scs/scs.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/featherlight/featherlight.min.js?ver=4.2.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var lb_l_ret = {"width":"400","height":"255","delay":"29000","coc":"0","fb_id":"521194471262808","cooc":"0","install_date":"","display_on_page":"1","display_on_post":"1","display_on_homepage":"1","display_on_archive":"1","show_once":"1"};
+var lb_l_ret = {"width":"400","height":"255","delay":"35000","coc":"0","fb_id":"521194471262808","cooc":"0","display_on_page":"1","display_on_post":"1","display_on_homepage":"1","display_on_archive":"1","show_once":"2","min":"0","performance":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/js/launch.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/launch/launch.min.js?ver=4.2.9"></script>
 <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/custom-multipage-post/js/public.js?ver=1.0.0"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://goodmorningcenter.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://goodmorningcenter.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.5">
+<meta name="generator" content="WordPress 4.2.9">
 <link rel="shortlink" href="http://goodmorningcenter.com/?p=85">
 <!-- This site is powered by Scrolling Social Sharebar - http://techxt.com/scrolling-social-sharebar-plugin/ -->
 <style type="text/css">
@@ -136,7 +228,7 @@ body.custom-background { background-image: url('http://goodmorningcenter.com/wp-
 
 <body id="custom" class="page page-id-85 page-template-default custom-background unknown">
 
-<div id="wrapper">
+<div id="wrapper" style="display: block; visibility: visible;">
 
 <header id="main-header" class="clearfix" role="banner">
 
@@ -197,7 +289,7 @@ body.custom-background { background-image: url('http://goodmorningcenter.com/wp-
 <table class="tssbar" align="center" width="60" cellspacing="1" border="0">
 <tbody><tr>
 <td align="center">
-<div style="height:64px;width:48px;margin:0pt auto;" class="sharebarbtn sbarfblike"><iframe src="http://www.facebook.com/plugins/like.php?app_id=126788060742161&amp;href=http%3A%2F%2Fgoodmorningcenter.com%2Fprivacy-policy%2F&amp;send=false&amp;layout=box_count&amp;width=48&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=64" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:48px; height:64px;" allowtransparency="true"></iframe></div>
+<div style="height:64px;width:50px;margin:0pt auto;" class="sharebarbtn sbarfblike"><iframe src="http://www.facebook.com/plugins/like.php?app_id=126788060742161&amp;href=http%3A%2F%2Fgoodmorningcenter.com%2Fprivacy-policy%2F&amp;send=false&amp;layout=box_count&amp;width=50&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=64" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:64px;" allowtransparency="true"></iframe></div>
 </td>
 </tr>
 <tr>
@@ -290,12 +382,12 @@ goodmorningcenter1@gmail.com</p>
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
 </p>		<p class="antispam-group antispam-group-q" style="clear: both;">
 			<label>Current ye@r <span class="required">*</span></label>
-			<input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2015">
-			<input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="3.5">
+			<input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2016">
+			<input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="4.2" autocomplete="off">
 		</p>
 		<p class="antispam-group antispam-group-e" style="display: none;">
 			<label>Leave this field empty</label>
-			<input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="">
+			<input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="" autocomplete="off">
 		</p>
 					</form>
 							</div><!-- #respond -->
@@ -328,6 +420,8 @@ goodmorningcenter1@gmail.com</p>
 </li>
 	<li class="cat-item cat-item-18"><a href="http://goodmorningcenter.com/category/healthy-food/fruit/">Fruit</a>
 </li>
+	<li class="cat-item cat-item-200"><a href="http://goodmorningcenter.com/category/funny-video/">Funny video</a>
+</li>
 	<li class="cat-item cat-item-1"><a href="http://goodmorningcenter.com/category/general/">General</a>
 </li>
 	<li class="cat-item cat-item-197"><a href="http://goodmorningcenter.com/category/health-2/">Health</a>
@@ -353,22 +447,28 @@ goodmorningcenter1@gmail.com</p>
 		</ul>
 </aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle"><i class="fa fa-plus-square"></i>Recent Posts</h3>		<ul>
 					<li>
-				<a href="http://goodmorningcenter.com/put-a-little-of-this-mixture-under-the-tongue-at-bedtime-for-a-healthy-sleep/">Put A Little Of This Mixture Under The Tongue At Bedtime For A Healthy Sleep</a>
+				<a href="http://goodmorningcenter.com/7-foods-to-prevent-acute-inflammation-naturally/">7 Foods To Prevent Acute Inflammation Naturally</a>
 						</li>
 					<li>
-				<a href="http://goodmorningcenter.com/this-amazing-5000-year-old-recipe-will-cure-your-high-blood-pressure-lung-disease-impotence-rheumatism-and-gastritis/">This Amazing 5,000 -year Old Recipe Will Cure Your High Blood Pressure, Lung Disease, Impotence, Rheumatism and Gastritis</a>
+				<a href="http://goodmorningcenter.com/how-to-tighten-your-skin-naturally/">How To Tighten Your Skin Naturally</a>
 						</li>
 					<li>
-				<a href="http://goodmorningcenter.com/mix-banana-and-water-and-heal-childrens-cough-bronchitis-disappear-immediately/">MIX BANANA AND WATER AND HEAL CHILDREN’S COUGH: BRONCHITIS DISAPPEAR IMMEDIATELY!</a>
+				<a href="http://goodmorningcenter.com/for-smokers-and-ex-smokers-this-drink-will-cleanse-your-lungs/">For Smokers And Ex- Smokers: This Drink Will Cleanse Your Lungs</a>
 						</li>
 					<li>
-				<a href="http://goodmorningcenter.com/honey-wraps-treat-strong-cough-in-one-night/">Honey Wraps – Treat Strong Cough In One Night!</a>
+				<a href="http://goodmorningcenter.com/make-oil-from-cinnamon-and-use-all-its-beneficial-health-advantages/">Make Oil From Cinnamon And Use All Its Beneficial Health Advantages</a>
 						</li>
 					<li>
-				<a href="http://goodmorningcenter.com/amazing-trick-to-whiten-dark-lips-naturally/">Amazing Trick to Whiten Dark Lips NATURALLY!</a>
+				<a href="http://goodmorningcenter.com/5-powerful-antibiotics-that-do-not-require-a-prescription/">5 Powerful Antibiotics That Do Not Require a Prescription</a>
 						</li>
 				</ul>
 		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widgettitle"><i class="fa fa-plus-square"></i>Archives</h3>		<ul>
+	<li><a href="http://goodmorningcenter.com/2016/06/">June 2016</a></li>
+	<li><a href="http://goodmorningcenter.com/2016/05/">May 2016</a></li>
+	<li><a href="http://goodmorningcenter.com/2016/04/">April 2016</a></li>
+	<li><a href="http://goodmorningcenter.com/2016/03/">March 2016</a></li>
+	<li><a href="http://goodmorningcenter.com/2016/02/">February 2016</a></li>
+	<li><a href="http://goodmorningcenter.com/2016/01/">January 2016</a></li>
 	<li><a href="http://goodmorningcenter.com/2015/12/">December 2015</a></li>
 	<li><a href="http://goodmorningcenter.com/2015/11/">November 2015</a></li>
 	<li><a href="http://goodmorningcenter.com/2015/10/">October 2015</a></li>
@@ -394,10 +494,74 @@ goodmorningcenter1@gmail.com</p>
 <div id="footer-left">
 	</div><!-- FOOTER LEFT END -->
 <div id="footer-right">
-Copyright © 2015. Good Morning Center</div><!-- FOOTER RIGHT END -->
+Copyright © 2016. Good Morning Center</div><!-- FOOTER RIGHT END -->
 </footer><!-- MAIN FOOTER END -->
 
-<div id=""><div><a alt="goodmorningcenter.com" href="http://goodmorningcenter.com">goodmorningcenter.com</a></div></div>
+<style>
+.srb-clearfix {
+	list-style: none !important;
+	text-align:center;
+
+    margin: 0px !important;
+    padding: 0px !important;
+
+}
+.srb-menu-wrap {
+	
+}
+.srb-menu {
+}
+.srb-menu li {
+	 padding-left:0;
+    list-style:none;
+}
+.srb-menu a {
+    color:#919191;
+	color:blue !important;
+}
+.srb-menu li:hover > a, .srb-menu .current-item > a {
+    text-decoration:none;
+    color:#be5b70;
+}
+.srb-menu > ul > li {
+    font-size:11px;
+}
+.srb-menu > ul > li > a {
+}
+.srb-menu > ul > li:hover > a, .srb-menu > ul > .current-item > a {
+}
+.srb-menu li:hover .srb-sub-menu {
+    opacity:1;
+}
+.srb-sub-menu {
+    padding:5px 0px;
+    opacity:0;
+}
+.srb-sub-menu li {
+    font-size:10px;
+}</style>
+<script id="srb-FindMe" type="text/javascript"> 
+function srb_unh(c)
+{
+
+	c.style.display="block";
+
+	c.style.visibility="visible";
+	}
+var c = document.getElementById("srb-FindMe").parentNode;
+srb_unh(c);
+</script>
+ <div class="srb-menu-wrap">
+    <nav class="srb-menu">
+        <ul class="srb-clearfix">
+             <li>
+                <a target="_new" href="http://goodmorningcenter.com">goodmorningcenter.com</a>
+					
+            </li>
+            
+        </ul>
+    </nav>
+</div>
 </div><!-- WRAPPER END -->
 
 <div id="cookie-law-info-bar"><span>We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.<a href="#" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button">Accept</a> <a href="http://goodmorningcenter.com/privacy-policy/" id="CONSTANT_OPEN_URL" target="_blank" class="cli-plugin-main-link">Read More</a></span></div>		
@@ -411,33 +575,20 @@ Copyright © 2015. Good Morning Center</div><!-- FOOTER RIGHT END -->
 			//]]>
 		</script>
 		
-		    <!-- Start of StatCounter Code -->
-    <script>
-    <!-- 
-        var sc_project=10015074; 
-        var sc_security="bdb28ce3"; 
-      var sc_invisible=1;
-        var scJsHost = (("https:" == document.location.protocol) ?
-        "https://secure." : "http://www.");
-    //-->
-document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");
-</script><script src="https://secure.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="web analytics" href="http://statcounter.com/"><img class="statcounter" src="http://c.statcounter.com/10015074/0/bdb28ce3/1/" alt="web analytics" /></a></div></noscript>   
-    <!-- End of StatCounter Code -->
-<a id="inline" href="#arvlbdata" style="display: none;overflow:hidden;">Show</a>
-
-<div style="display:none">
+		<div style="display:none">
   <div id="arvlbdata" style="overflow:visible;width:400px;height:250px;">
-      <div allowtransparency="true" style="overflow:hidden;width:400px;height:250px;" class="fb-page" data-href="https://facebook.com/521194471262808" data-width="400" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true" data-show-posts="false">
+      <div allowtransparency="true" style="overflow:hidden;width:400px;height:250px;" class="fb-page" data-href="https://www.facebook.com/521194471262808" data-width="400" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true" data-show-posts="false">
     </div>
 
+
 </div>
+
 </div>
-      <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/anti-spam/js/anti-spam-3.5.js"></script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script>
+      <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/plugins/anti-spam/js/anti-spam-4.2.js"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/hoverIntent.js?ver=1.8.1"></script>
 <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/themes/fruithealth/lib/scripts/modernizr.js?ver=2.6.2"></script>
 <script type="text/javascript" src="http://goodmorningcenter.com/wp-content/themes/fruithealth/lib/scripts/superfish-menu/superfish.js?ver=1.7.4"></script>
-<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/comment-reply.min.js?ver=4.2.5"></script>
+<script type="text/javascript" src="http://goodmorningcenter.com/wp-includes/js/comment-reply.js?ver=4.2.9"></script>
 
 <script>
 	jQuery(document).ready(function() {
