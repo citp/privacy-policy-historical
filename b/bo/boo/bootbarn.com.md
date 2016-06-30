@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031132038id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152843id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# BootBarn - BootBarn.com Privacy Policy
+# BootBarn.com Privacy Policy | Boot Barn
 
 We value the trust you place in BootBarn.com, and we want you to be aware of the safeguards we have in place to respect your privacy. The below policy tells you about the information we gather about you and how we use it. If you have any questions or concerns about our privacy policy, please contact us at custserv@bootbarn.com.
 
