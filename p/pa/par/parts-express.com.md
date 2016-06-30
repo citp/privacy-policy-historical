@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109184834id_/http%3A//www.parts-express.com/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630073216id_/http%3A//www.parts-express.com/security) for the most accurate reproduction.*
 
 # Parts Express.com - Security / Privacy Policy
+
+## Your Privacy and Security Matter to Parts Express
 
 At Parts Express, we are committed to protecting your privacy and handling every transaction with the utmost security measures in effect. We use the information you supply to process orders and to provide you with the best possible shopping experience. Please read on for more detail about our privacy/security policies.
 
@@ -34,11 +36,8 @@ Our site uses cookies to store information between visits to our site. Cookies a
 
 In Summary
 
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Parts Express possible and to enhance your overall online experience. We do not sell, trade or rent your personal information to others. We pledge to all our customers to work diligently to protect the information gathered and to seek to use the latest web technologies to provide a safe private shopping experience. 
+We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Parts Express possible and to enhance your overall online experience. We do not sell, trade or rent your personal information to others. We pledge to all our customers to work diligently to protect the information gathered and to seek to use the latest web technologies to provide a safe private shopping experience.
 
 Tell Us What You Think
 
-Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@parts-express.com](mailto:privacy@parts-express.com?subject=Tell%20Us%20What%20You%20Think%20-).
-
-  
-
+Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@parts-express.com](mailto:privacy@parts-express.com).
