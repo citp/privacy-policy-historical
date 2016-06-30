@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnn.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231222833id_/http%3A//www.cnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630220825id_/http%3A//www.cnn.com/privacy) for the most accurate reproduction.*
 
 # CNN Privacy Statement - CNN.com
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting this website, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
 
-**I. The Information We Collect**
+ **I. The Information We Collect**
 
 We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the "Information".
 
