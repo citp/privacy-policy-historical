@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222625id_/http%3A//www.valuecommerce.co.jp/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630133605id_/http%3A//www.valuecommerce.co.jp/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ValueCommerce Co., Ltd.
 
@@ -21,7 +21,7 @@ Regarding the protection of personal information that may allow the identificati
 
 
 Established: November 1, 2011  
-Latest revision: June 29, 2015  
+Latest revision: June 16, 2016  
 ValueCommerce Co., Ltd.  
 Jin Kagawa, Representative Director,  
 President and CEO
@@ -281,7 +281,23 @@ Personal information subject to disclosure will mean personal information held w
 
 Please contact the inquiry section for matters concerning the protection of personal information for requests concerning Disclosure, etc. Please note in advance that we will confirm the identification of the individual.
 
-#### 4\. Inquiry section
+#### 4\. User web-browsing behavior information
+
+The Company provides Behavioral Targeting Advertisements, based on the information that is collected and stored in relation to the web-browsing behavior of customers (or end-users) visiting an advertiser’s website (or web application) that uses ADPRESSO.
+
+##### ・Information of user behavior history, which is collected 
+
+Included are records on the web page viewing of an advertiser’s website (or web application), click history for advertisements distributed by ADPRESSO, ads displaying history, and product purchase history. This information cannot lead to the identification of specific individuals. The information collected online is retained for up to two years.
+
+##### ・Purpose of use
+
+To provide Behavioral Targeting Advertisements (including services to personalize advertising for content viewed by customers based on the personal attributes of customers, such as hobbies and interests) to advertiser companies that use ADPRESSO.
+
+##### ・Disabling Behavioral Targeting Advertisements
+
+If customers do not wish to see ads from Behavioral Targeting Advertisements, they can suspend the displays that the Company provides by disabling the advertising displays.
+
+#### 5\. Inquiry section
 
 Personal Information Protection Administrator,  
 ValueCommerce Co., Ltd.  
