@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justsystems.com privacy policy that was archived on 2015-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151031043220id_/http%3A//xmetal.com/content-privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justsystems.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630023511id_/http%3A//xmetal.com/content-privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -115,7 +115,28 @@
 		openEffect	: 'none',
 		closeEffect	: 'none'
 	});
-	$(".fancybox").fancybox();
+        
+        $('.fancybox').fancybox();
+        
+	$("a.fancybox-youtube").click(function() {
+            $.fancybox({
+                'padding'       : 0,
+                'autoScale'     : false,
+                'transitionIn'  : 'none',
+                'transitionOut' : 'none',
+                'title'         : this.title,
+                'width'         : 853,
+                'height'        : 480,
+                'href'          : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                'type'          : 'swf',
+                'swf'           : {
+                    'wmode'             : 'transparent',
+                    'allowfullscreen'   : 'true'
+            }
+        });
+
+    return false;
+});
 });
 	<!--
 		function validateForm(frm) {
@@ -199,107 +220,77 @@
     }, 1);
   })();
 </script>-->
-	
-   <div class="container">
-   		<div id="header" class="clearfix">
-        	<div id="logo">
-			<a href="/"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/logo_Xmetal_03.png" alt="XMetal" border="0"></a>
-            </div><!--#logo-->
+<div class="container">
+       
+    <div id="header" class="clearfix">
+        <div id="logo">
+            <a href="/"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/logo_Xmetal_03.png" alt="XMetal" border="0"></a>
+        </div><!--#logo-->
 
-    <div id="sub-nav">	
+        <div id="sub-nav">	
 
-			<div id="JustSystems-logo">
-			<a href="/"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/JustSystems-header-logo.gif" alt="Just Systems" border="0"></a>
-           		</div>
+            <div id="JustSystems-logo">
+                <a href="/"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/JustSystems-header-logo.gif" alt="Just Systems" border="0"></a>
+            </div>
 
-			<div class="menu-top-container"><ul id="menu-top" class="menu"><li id="menu-item-2157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
+			<span class="nav-first"><a target="_blank" href="http://www.justsystems.com/jp/?view=biz&amp;w=home"><img width="63" height="9" border="0" style="vertical-align: middle;" alt="" src="http://xmetal.com/wp-content/themes/JustSystems/images/js_top_japan_symbols.gif"></a></span>	
+			
+            <div class="menu-top-container"><ul id="menu-top" class="menu"><li id="menu-item-2157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
 <li id="menu-item-2156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2156"><a href="http://xmetal.com/content-support-community-forums/">Community Forums</a></li>
 </ul></div>	
 
-                <div class="social">
+            	
 
-                    <span class="nav-first"><a target="_blank" href="http://www.justsystems.com/jp/?view=biz&amp;w=home"><img width="63" height="9" border="0" style="vertical-align: middle; margin-right: 5px;" alt="" src="http://xmetal.com/wp-content/themes/JustSystems/images/js_top_japan_symbols.gif"></a></span>
-                    <a href="http://www.twitter.com/JustSystems" target="_blank"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/twitter.gif" alt="" border="0" style="vertical-align: middle; margin-right: 5px;"></a>
-                    <a href="http://www.linkedin.com/company/justsystems" target="_blank"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/linkedin.gif" alt="" border="0" style="vertical-align: middle; margin-right: 5px;"></a>
-                    <!--<a href="http://www.facebook.com/JustSystems" target="_blank"><img src="/images/facebook.gif" alt="" border="0" style="vertical-align: middle; margin-right: 5px;"></a>-->
-
-                </div>	
-			
-          
-  	</div><!--#sub-nav-->
+        </div><!--#sub-nav-->
     </div><!--#header-->
-    					<div id="main-nav" class="clearfix">
-                        	<span class="rleft"></span><span id="menu-u">
-				<div class="menu-header"><ul id="menu-main" class="menu"><li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2078"><a href="http://xmetal.com/content-xmetal/">Products</a>
+   
+    <div id="main-nav" class="clearfix">                       	
+        <div class="menu-header"><ul id="menu-main" class="menu"><li id="menu-item-2078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2078"><a href="http://xmetal.com/content-xmetal/">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-2117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2117"><a href="http://xmetal.com/content-xmetal-author/">XMetaL Author</a></li>
 	<li id="menu-item-2118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2118"><a href="http://xmetal.com/content-xmetal-xmax/">XMetaL XMAX</a></li>
 	<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2119"><a href="http://xmetal.com/content-xmetal-developer/">XMetaL Developer</a></li>
 </ul>
 </li>
-<li id="menu-item-2081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2081"><a href="http://xmetal.com/content-solutions/">Solutions</a>
+<li id="menu-item-2083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2083"><a href="http://xmetal.com/content-about/">About Us</a>
 <ul class="sub-menu">
-	<li id="menu-item-2123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2123"><a href="http://xmetal.com/content-solutions-business/">Business Solutions</a></li>
-	<li id="menu-item-2124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2124"><a href="http://xmetal.com/content-solutions-industry/">Industry Solutions</a></li>
-	<li id="menu-item-2125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2125"><a href="http://xmetal.com/content-solutions-technology/">Technology Solutions</a></li>
-</ul>
+	<li id="menu-item-2146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2146"><a href="http://xmetal.com/content-about-customers/">Customers</a></li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2080"><a href="http://xmetal.com/content-partners/">Partners</a></li>
+	<li id="menu-item-2869" class="menu-news menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2869"><a href="http://xmetal.com/events/">News &amp; Events</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2143"><a href="http://xmetal.com/events/">Event Calendar</a></li>
+		<li id="menu-item-2144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="http://xmetal.com/webinars/">Webinars</a></li>
+	</ul>
 </li>
-<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2080"><a href="http://xmetal.com/content-partners/">Partners</a>
-<ul class="sub-menu">
-	<li id="menu-item-2126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2126"><a href="http://xmetal.com/content-partners-alliances/">Alliances</a></li>
-	<li id="menu-item-2130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2130"><a href="http://xmetal.com/partners-solution/">Solution Partners</a></li>
-	<li id="menu-item-2129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2129"><a href="http://xmetal.com/partners-service/">Service Partners</a></li>
-	<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="http://xmetal.com/content-partners-become/">Become a Partner</a></li>
-</ul>
+	<li id="menu-item-2079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2079"><a href="http://xmetal.com/content-services/">Services</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2131"><a href="http://xmetal.com/content-services-tech-sol-engineering/">Engineering Services</a></li>
+		<li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2132"><a href="http://xmetal.com/content-services-training/">Training Services</a></li>
+	</ul>
 </li>
-<li id="menu-item-2079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2079"><a href="http://xmetal.com/content-services/">Services</a>
-<ul class="sub-menu">
-	<li id="menu-item-2131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2131"><a href="http://xmetal.com/content-services-tech-sol-engineering/">Engineering Services</a></li>
-	<li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2132"><a href="http://xmetal.com/content-services-training/">Training Services</a></li>
+	<li id="menu-item-2148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
 </ul>
 </li>
 <li id="menu-item-2085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2085"><a href="http://xmetal.com/support/">Support</a>
 <ul class="sub-menu">
 	<li id="menu-item-2138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2138"><a href="http://xmetal.com/policies-packages/">Policies &amp; Packages</a></li>
-	<li id="menu-item-2139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2139"><a href="http://xmetal.com/content-support-downloads/">Software Downloads</a></li>
+	<li id="menu-item-2780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2780"><a href="http://js.xmetal.com/downloadxmetal.html">Software Downloads</a></li>
 	<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140"><a href="http://xmetal.com/content-support-technical-info/">Technical Information</a></li>
 	<li id="menu-item-2141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141"><a href="http://xmetal.com/content-support-community-forums/">Community Forums</a></li>
 	<li id="menu-item-2159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2159"><a href="http://xmetal.com/contact-support/">Contact Support</a></li>
 	<li id="menu-item-2220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2220"><a href="http://xmetal.com/support/content-support-licensing-options/">Licensing Options</a></li>
-	<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219"><a href="http://xmetal.com/faq/">FAQ</a></li>
-</ul>
-</li>
-<li id="menu-item-2082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2082"><a href="http://xmetal.com/news-events/">News &amp; Events</a>
-<ul class="sub-menu">
-	<li id="menu-item-2143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2143"><a href="http://xmetal.com/events/">Event Calendar</a></li>
-	<li id="menu-item-2144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="http://xmetal.com/webinars/">Webinars</a></li>
-</ul>
-</li>
-<li id="menu-item-2083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2083"><a href="http://xmetal.com/content-about/">About</a>
-<ul class="sub-menu">
-	<li id="menu-item-2146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2146"><a href="http://xmetal.com/content-about-customers/">Customers</a></li>
-	<li id="menu-item-2148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
-</ul>
-</li>
-<li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2084"><a href="http://xmetal.com/content-kncenter/">Knowledge Center</a>
-<ul class="sub-menu">
 	<li id="menu-item-2149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="http://xmetal.com/whitepapers/">Whitepapers</a></li>
-	<li id="menu-item-2150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="http://xmetal.com/content-about-customers/">Case Studies</a></li>
-	<li id="menu-item-2151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2151"><a href="http://xmetal.com/content-demos/">Product Demos</a></li>
-	<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152"><a href="http://xmetal.com/content-support-downloads/">Trial Software Downloads</a></li>
-	<li id="menu-item-2153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2153"><a href="http://xmetal.com/webinars/">Webinars</a></li>
-	<li id="menu-item-2154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2154"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
 </ul>
 </li>
 </ul></div> 
-				</span><span class="rright"></span>
-                    </div><!--#main-nav-->
- 					<div id="content" class="clearfix">	
+    </div><!--#main-nav-->
+    
+    <div id="content" class="clearfix">	
                 <div class="breadcrumbs">
 					            	</div><!--.breadcrumbs-->
 				<div id="content-right">
             		<div id="banner">
-                									<img src="http://xmetal.com/wp-content/themes/JustSystems/images/js_h_about.jpg" width="573" height="97" alt="About">
+                									<img src="http://xmetal.com/wp-content/themes/JustSystems/images/banner_About.jpg" alt="About">
 							                	</div><!--#banner-->
                		<div id="page-post">
 									    					
@@ -374,38 +365,27 @@
 				<div id="sidebar-left">
     
 <div class="sidebar-about page-sidebar">
-	<h3>About</h3>
+	<h3>About Us</h3>
 	 <div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-2122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2122"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-about-customers/">Customers</a></li>
+<li id="menu-item-2736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2736"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-partners/">Partners</a></li>
+<li id="menu-item-2741" class="menu-news menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2741"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/news-events/">News &amp; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-2742" class="menu-calendar menu-item menu-item-type-post_type menu-item-object-page menu-item-2742"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/events/">Event Calendar</a></li>
+	<li id="menu-item-2743" class="menu-webinars menu-item menu-item-type-post_type menu-item-object-page menu-item-2743"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/webinars/">Webinars</a></li>
+</ul>
+</li>
+<li id="menu-item-2749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2749"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2748"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-services-tech-sol-engineering/">Engineering Services</a></li>
+	<li id="menu-item-2750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2750"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-services-training/">Training Services</a></li>
+</ul>
+</li>
 <li id="menu-item-2121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2121"><img src="/images/js2_lnav_arrow_off.gif"><a href="http://xmetal.com/content-about-contact-us/">Contact XMetaL</a></li>
 </ul></div>	
 		</div>
     
 </div><!-- end sidebar-left -->     
 </div><!-- close div#content started in header.php -->
-<table border="0" cellspacing="0" cellpadding="0" id="footer-links">
-	<tbody><tr valign="top">
-	  <td style="width: 190px; font-size: 10px; border-right: 1px solid #ededed;"><b>Products</b><br>
-<a class="footerLink" href="/content-xmetal-author">XML Authoring</a><br>
-<a class="footerLink" href="/content-xmetal-documentum">XML Content Management</a><br>
-<a class="footerLink" href="/content-xmetal-author">XML Publishing</a></td>
-		<td style="width: 190px; font-size: 10px; border-right: 1px solid #ededed; padding-left: 10px;"><b>Solutions</b><br>
-<a class="footerLink" href="/content-xmetal-documentum">Content Management</a><br>
-<a class="footerLink" href="/content-solutions-business">Business Process Management</a><br>
-<a class="footerLink" href="/content-solutions-global-content">Localization Management</a><br>
-<a class="footerLink" href="/content-solutions-authoring">Enterprise Publishing</a></td>
-		<td style="width: 190px; font-size: 10px; border-right: 1px solid #ededed; padding-left: 10px;"><b>Services</b><br>
-<a class="footerLink" href="/content-services">DITA Planning </a><br>
-<a class="footerLink" href="/content-services-training">DITA Training</a><br>
-<a class="footerLink" href="/content-solutions-global-content">Translation</a></td>
-		<td style="width: 190px; font-size: 10px; padding-left: 10px;"><b>Resources</b><br>
-<a class="footerLink" href="/news">XML News</a><br>
-<a class="footerLink" href="/events">XML Events</a><br>
-<a class="footerLink" href="/whitepapers">XML Whitepapers</a><br>
-<a class="footerLink" href="/content-about-customers">XML Case Studies</a><br>
-<a class="footerLink" href="/content-services-training">XML Training</a></td>
-	</tr>
-</tbody></table>
-
 
 <div class="footer-contact">
     <a href="/content-about-contact-us/">
@@ -417,10 +397,32 @@
     </a>   
 </div><!-- end footer-contact -->
 
-		<div class="footer">
-			<p class="footer" style="margin: 0px 0px 5px 0px;"><a href="/content-xmetal" class="footerLink">Products</a> | <a href="/content-solutions" class="footerLink">Solutions</a> | <a href="/content-partners" class="footerLink">Partners</a> | <a href="/content-services" class="footerLink">Services</a> | <a href="/content-support" class="footerLink">Support</a> | <a href="/news-events" class="footerLink">News &amp; Events</a> | <a href="/content-about" class="footerLink">About</a> | <a href="/faq" class="footerLink">FAQ</a></p>
-© Copyright 2015. JustSystems Corp. All rights reserved.<span style="padding-left: 15px;">&nbsp;</span>XMetaL: 1-866-793-1542<span style="padding-left: 15px;">&nbsp;</span> <a href="/content-terms-of-use" class="footerLink">Terms of Use</a> | <a href="/content-privacy-statement" class="footerLink">Privacy Statement</a> | <a href="/content-site-map" class="footerLink">Site Map</a>		
-		</div>
+<ul id="btm-cta">
+    <li><a href="/content-xmetal/" title="Products"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/cta-products.png" alt="Products"><h2 class="fa fa-products">Products</h2></a></li>
+    <li><a href="http://js.xmetal.com/downloadxmetal.html" title="Downloads"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/cta-downloads.png" alt="Downloads"><h2 class="fa fa-downloads">Downloads</h2></a></li>
+    <li><a href="/support/" title="Support"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/cta-support.png" alt="Support"><h2 class="fa fa-support">Support</h2></a></li>
+</ul><!-- end btm-cta -->
+
+<div class="footer">
+
+    <div class="menu-header"><ul id="menu-footer-menu" class="menu"><li id="menu-item-2729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2729"><a href="http://xmetal.com/content-xmetal/">Products</a></li>
+<li id="menu-item-2730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2730"><a href="http://xmetal.com/content-about/">About XMetal</a></li>
+<li id="menu-item-2731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2731"><a href="http://xmetal.com/support/">Support</a></li>
+<li id="menu-item-2732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2732"><a href="http://xmetal.com/content-terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-2733" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1174 current_page_item menu-item-2733"><a href="http://xmetal.com/content-privacy-statement/">Privacy Statement</a></li>
+<li id="menu-item-2734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2734"><a href="http://xmetal.com/content-site-map/">Site Map</a></li>
+</ul></div> 
+
+    <p class="copyright">© Copyright 2016. JustSystems Corp. All rights reserved.</p>
+
+    <ul class="social">
+        <li><a href="http://www.twitter.com/JustSystems" target="_blank"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/twitter.gif" alt="Twitter"></a></li>
+        <li><a href="http://www.linkedin.com/company/justsystems" target="_blank"><img src="http://xmetal.com/wp-content/themes/JustSystems/images/linkedin.gif" alt="LinkedIn"></a></li>
+    </ul>	
+
+</div><!-- end footer -->
+
+
   </div><!--#container-->
    
 
