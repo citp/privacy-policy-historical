@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216061154id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630043513id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -49,8 +49,9 @@ Changes to this Policy. We may change or revise this Privacy Policy from time to
 If you have any questions about this Privacy Policy, please contact us at support_at_outdoorproject.com or:
 
 The Outdoor Project LLC  
-P.O. Box 28373  
-Portland, OR 97228 
+412 NW Couch Street  
+Suite 202  
+Portland, OR 97209 
 
 This Privacy Policy was last updated: April 30, 2013   
 This Privacy Policy is effective as of: April 30, 2013
