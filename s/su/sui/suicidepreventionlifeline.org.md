@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613090631id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091522id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -53,10 +53,10 @@ For site security purposes and to ensure that this service remains available to 
 
 ### Questions About Our Privacy Policy
 
-If you have any questions about the National Suicide Prevention Lifeline privacy policy, please feel free to visit our [contact form](https://web.archive.org/Contact).
+If you have any questions about the National Suicide Prevention Lifeline privacy policy, please feel free to visit our [contact form](https://web.archive.org/About/Contact).
 
 The Information Center provides information about mental health for users of mental health services and their families, policymakers, providers, the media, and the public. Our staff members are skilled at listening and responding to questions from the public and professionals. They quickly direct callers to Federal, State, and local organizations dedicated to treating and preventing mental illness. The Information Center also has information on Federal grants, conferences, and other events.
 
 ### Use of Our Material/Information
 
-All text materials on this Web site are in the public domain. The National Suicide Prevention Lifeline encourages copying or any other utilization of the text. Some of the graphic materials on this site are in the public domain and other graphics may be used with permission, but that permission does not necessarily extend to all. If you have any permission questions, please visit our [contact form](https://web.archive.org/Contact).
+All text materials on this Web site are in the public domain. The National Suicide Prevention Lifeline encourages copying or any other utilization of the text. Some of the graphic materials on this site are in the public domain and other graphics may be used with permission, but that permission does not necessarily extend to all. If you have any permission questions, please visit our [contact form](https://web.archive.org/About/Contact).
