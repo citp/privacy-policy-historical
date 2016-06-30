@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinerealestatetips.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093313id_/http%3A//onlinerealestatetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinerealestatetips.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630034928id_/http%3A//onlinerealestatetips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Real Estate Tips and Advice
+# Privacy Policy | Real Estate Tips And Advice
 
 This website takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
