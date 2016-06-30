@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnassaraf.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220195014id_/http%3A//johnassaraf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnassaraf.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630110107id_/http%3A//johnassaraf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - johnassaraf.com
 
@@ -89,13 +89,13 @@ The John Assaraf Website will use commercially reasonable efforts to protect use
 
 8\. Access to Personal Information
 
-The John Assaraf Website will afford you a reasonable opportunity to review the personal information in your file only, upon request to the operations manager at [info@praxisnow.com](mailto:info@praxisnow.com) or by writing to:
+The John Assaraf Website will afford you a reasonable opportunity to review the personal information in your file only, upon request to the operations manager at [customerservice@myneurogym.com](mailto:customerservice@myneurogym.com) or by writing to:
 
-Praxis Now, LLC  
-PO Box 5020 PMB 1101  
+NeuroGym, LLC  
+PO BOX 5005, #138  
 Rancho Santa Fe, CA 92067
 
 If the John Assaraf Website is not able to provide access to some aspect of a user’s personal information, it will provide reasons for denying access such as: that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably  
 be expected to threaten the life or security of another individual.
 
-Users have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting us at [info@praxisnow.com](mailto:info@praxisnow.com). We will promptly correct such personal information.
+Users have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting us at [customerservice@myneurogym.com](mailto:customerservice@myneurogym.com). We will promptly correct such personal information.
