@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223043033id_/https%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630141929id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Piriform - Privacy Policy
 
-This Privacy Policy informs you how we collect and use the information you provide in doing business with us including use of www.piriform.com and its services. We know how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner.
+This Privacy Policy informs you how we collect and use the information you provide in doing business with us including use of www.piriform.com, our products and its services. We know how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner.
 
 ## What Information Do We Collect?
 
-Some information about you we collect passively - information that your computer and your browser send automatically while you browse our site. Other information we actively solicit, such as your email address when you subscribe to our newsletter or sign up to the purchase or trial of our products.
+Some information about you we collect passively - information that your computer and your browser send automatically while you browse our site and use our products. Other information we actively solicit, such as your email address when you subscribe to our newsletter or sign up to the purchase or trial of our products.
 
 We collect the following types of information from site visitors:
 
-  1. Site usage information
+  1. Site and product usage
   2. Feedback
   3. Forum registration
   4. Newsletter registration
@@ -37,11 +37,14 @@ We will use this information:
 
 
 
+**Product Use Information**   
+Some of our products allow us to gather information about your computer (including your IP address) and about what features you use in our software. This is common for many software products, including games, AntiVirus and office tools. This information is always completely anonymous and only ever used to better understand how people use our software and how we can improve our products.
+
 ## Feedback
 
 We encourage you to provide us with feedback in the form of emails or forum posts.
 
-When you email us or use the Contact Form, we maintain the anonymity and privacy of your message. We keep these messages on file for a period of one month, and then delete them permanently.
+When you email us or use the Contact Form, we maintain the anonymity and privacy of your message. 
 
 Forum posts are generally visible to all site visitors and may be archived or deleted as necessary.
 
@@ -99,8 +102,8 @@ We aim to meet high standards and our policies and procedures are, therefore, co
 
 If you want to find out more about the information we collect, you can contact us at:
 
-Mail: The Data Protection Officer, Piriform Ltd, 1 Constantinou Skokou Street, Capital Chambers, 5th floor, 1061, Nicosia, Cyprus
+Mail: The Data Protection Officer, Piriform Software Ltd, One Euston Square, 40 Melton Street, NW1 2FD
 
 Telephone: 1-800-816-9004
 
-Email: [info@piriform.com](mailto:info@piriform.com)
+Email: 
