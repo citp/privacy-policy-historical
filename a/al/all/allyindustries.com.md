@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the allyindustries.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114052019id_/http%3A//www.allyindustries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyindustries.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630235018id_/http%3A//www.21stcenturyhome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllyIndustries
+# Privacy Policy – 21stCenturyHome
 
-This Privacy Policy is in application to AllyIndustries. This would impart how AllyIndustries collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on AllyIndustries and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with AllyIndustries, you may receive and be under the coverage of AllyIndustries, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
+This Privacy Policy is in application to 21stCenturyHome. This would impart how 21stCenturyHome collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on 21stCenturyHome and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with 21stCenturyHome, you may receive and be under the coverage of 21stCenturyHome, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
 **Information Gathering**
 
-When you visit AllyIndustries, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
+When you visit 21stCenturyHome, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
 **Cookies**
 
-These are pieces of information stored on the computer upon use. AllyIndustries or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
+These are pieces of information stored on the computer upon use. 21stCenturyHome or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-In visiting AllyIndustries, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
+In visiting 21stCenturyHome, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
 **IP Addresses**
 
@@ -20,7 +20,7 @@ The IP address is a number assigned to the Internet accessing network or compute
 
 **Advertising**
 
-The site advertises on pages within the site as well as other websites not affiliated with AllyIndustries. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in AllyIndustries and responses to promotions and advertisements on the sites where we advertise.
+The site advertises on pages within the site as well as other websites not affiliated with 21stCenturyHome. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in 21stCenturyHome and responses to promotions and advertisements on the sites where we advertise.
 
 **Online Surveys**
 
@@ -28,15 +28,15 @@ Time to time, you can be asked to do online surveys. You do not have the require
 
 **Planning Tools**
 
-AllyIndustries gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
+21stCenturyHome gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
 **Using and Sharing Information**
 
-There would be times that AllyIndustries could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
+There would be times that 21stCenturyHome could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
 
 **Social Media Connection**
 
-AllyIndustries provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+21stCenturyHome provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
 **Accuracy of Information**
 
@@ -44,7 +44,7 @@ Keeping account information accurate and updated is essential. If the account in
 
 **Linking to Other Sites**
 
-We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by AllyIndustries, you should go over the privacy policies and other terms, as they could diverge from other sites. AllyIndustries will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by 21stCenturyHome, you should go over the privacy policies and other terms, as they could diverge from other sites. 21stCenturyHome will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
 **Children’s Privacy**
 
@@ -52,7 +52,7 @@ Most of our publications and web sites are intended for adults. Some web sites a
 
 **Change in Company’s Ownership**
 
-If by chance another company obtains the assets in the business of AllyIndustries, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+If by chance another company obtains the assets in the business of 21stCenturyHome, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
 **Service Customization**
 
