@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizizz.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926085719id_/http%3A//quizizz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizizz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630225234id_/http%3A//quizizz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Quizizz
 
@@ -47,9 +47,8 @@ Name of Third Party Partner| What info is shared with or collected by this partn
 ---|---|---|---  
 Amazon Web Services| Traffic data| Provider of servers and network infrastructure for basic service delivery| [AWS Privacy Policy](http://aws.amazon.com/privacy/)  
 Google Inc. (Analytics)| Anonymous usage data (e.g., what pages on our site people visit.)| Analytics| [Google Analytics Privacy Policy](http://www.google.com/intl/en/analytics/privacyoverview.html)  
-Calq.io| Anonymous usage data (e.g., what pages on our site people visit.)| Analytics| [calq.io Data Policy](https://calq.io/terms)  
-Uservoice| Website Feedback and contact information.| User Feedback| [Uservoice Data Policy](https://www.uservoice.com/tos/)  
-LiveChat Inc| Online chat support conversations.| Live Chat Support| [LiveChat Inc Privacy Policy](http://www.livechatinc.com/privacy-policy/)  
+CleverTap| Anonymous usage data (e.g., what pages on our site people visit.)| Analytics| [CleverTap Privacy Policy](https://clevertap.com/privacy-policy/)  
+Zendesk| Website Feedback and contact information.| User Feedback| [ZenDesk Data Policy](https://www.zendesk.com/company/privacy/)  
   
 ### Parental Rights
 
@@ -89,9 +88,9 @@ We will retain your information for as long as your account is active or as need
 
 If you have questions or wish to send us comments about this Privacy Policy, please send an email to[ contact@quizizz.com](mailto:contact@quizizz.com), or write us at:
 
-WizenWorld Learning Pvt. Ltd.  
-8369 NW 66 ST #A2343  
-MIAMI, FL 33166
+Quizizz Inc.  
+2600 El Camino Real #403,  
+Palo Alto, CA 94306
 
 ### Privacy Policy Changes
 
