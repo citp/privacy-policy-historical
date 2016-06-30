@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229042815id_/http%3A//company.wizards.com/policies/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630111636id_/http%3A//company.wizards.com/policies/web/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | company.wizards.com
+
+[ ](http://www.esrb.org/confirm/wizards-confirmation.aspx)
 
 [](http://media.wizards.com/2015/web_privacy/Wizards_Privacy_Policy_EN.pdf)|            |  **Download a PDF copy of the Wizards of the Coast Privacy Policy**  
 ---|---|---  
