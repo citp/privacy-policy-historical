@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gymboree.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064409id_/http%3A//www.gymboree.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymboree.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630160134id_/http%3A//www.gymboree.com/shop/privacy-policy) for the most accurate reproduction.*
 
-# Gymboree.com - Customer Service
+# Privacy and Security | Gymboree
 
 ## Our Commitment to Privacy
 
-The Gymboree Corporation's brands, including Gymboree, Gymboree Play & Music, Gymboree Outlet, Janie and Jack, Janie and Jack Outlet, Crazy 8 and Crazy 8 Outlet (collectively, "Gymboree" or "we," "us" or Ÿour÷), values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services, sweepstakes, contests, and promotions. Please carefully review this policy to learn about how we collect, use, protect, and share any personal information you provide us and your choices for managing your personal information. This policy is subject to our website Terms of Use.
+The Gymboree Corporation's brands, including Gymboree, Gymboree Play & Music, Gymboree Outlet, Janie and Jack, Janie and Jack Outlet, Crazy 8 and Crazy 8 Outlet (collectively, "Gymboree" or "we," "us" or "our"), values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services, sweepstakes, contests, and promotions. Please carefully review this policy to learn about how we collect, use, protect, and share any personal information you provide us and your choices for managing your personal information. This policy is subject to our website Terms of Use.
 
 ## What This Policy Covers
 
@@ -16,7 +16,7 @@ Please be aware that our Sites may contain links to other websites hosted by thi
 
 ## Your Privacy Rights: Opting Out Of Marketing And Transfers; Accessing, Updating And Deleting Information
 
-We want to communicate with you only if you want to hear from us. If you wish to opt out of receiving our marketing efforts or our sharing information with third parties for their marketing efforts, you may do so, at any time, clicking Ÿunsubscribe÷ in any email you receive from us and following the instructions on the screen. 
+We want to communicate with you only if you want to hear from us. If you wish to opt out of receiving our marketing efforts or our sharing information with third parties for their marketing efforts, you may do so, at any time, clicking "unsubscribe" in any email you receive from us and following the instructions on the screen. 
 
 You may also opt out of receiving our marketing efforts or our sharing information with third parties by contacting us at:
 
@@ -63,7 +63,7 @@ We may also use overseas facilities to process, store or back up electronic info
 
 We may also share your personal information and other information with entities controlling, controlled by, or under common control with Gymboree. In the event that some or all of our business assets are sold or transferred, we would transfer your information to the buyer or transferee and for due diligence purposes to its professional advisors under an obligation of confidentiality. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize browser ŸDo Not Track÷ signals, but several of our service providers who utilize these cookies or web beacons on our Sites enable you to opt out of this advertising practice. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the ŸYour Privacy Rights÷ section of this Privacy Policy. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize browser "Do Not Track" signals, but several of our service providers who utilize these cookies or web beacons on our Sites enable you to opt out of this advertising practice. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Your Privacy Rights" section of this Privacy Policy. 
 
 Please note that, from time to time, personal information collected from you may be processed and stored by us or our service providers in jurisdictions in which disclosure may be compelled by governments, law enforcement agencies and regulatory bodies of those jurisdictions as required or permitted by the laws and courts of those jurisdictions. Depending on the laws of the applicable jurisdiction, we may not be allowed to provide notice to you of such required disclosure. 
 
