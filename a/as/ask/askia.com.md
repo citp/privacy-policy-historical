@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810152303id_/http%3A//www.askia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630195714id_/http%3A//www.askia.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - Software for surveys
 
@@ -18,7 +18,7 @@ We use the information you provide about yourself when placing an issue only to 
 
 You can register with our websites if you would like to contact us, submit issues, retrieve software updates or documentation. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We have thus registered our User Area to [Comodo CA Ltd](https://ssl.comodo.com/wildcard-ssl-certificates.php).
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We have thus registered our Help centre to [Comodo CA Ltd](https://ssl.comodo.com/wildcard-ssl-certificates.php).
 
 You can access all your personally identifiable information that we collect online and maintain by [accessing your account page](https://support.askia.com/). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
