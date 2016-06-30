@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110172822id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630114145id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
 
 # GSK Privacy Statement
 
