@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwt.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906163131id_/https%3A//www2.wwt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwt.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630164453id_/https%3A//www2.wwt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWT
 
@@ -20,7 +20,7 @@ Please note that if your internet browser is configured to not accept cookies, w
 
 2.2 How We Use This Information
 
-Your personally identifiable information may be shared with and stored on a database controlled by third parties that have been hired by us to provide limited services on our behalf. Agents or contractors of World Wide Techology who have access to your personally identifiable information are required to use their best efforts to keep the information confidential and are prohibited from using this information for any purpose not previously disclosed to you.
+Your personally identifiable information may be shared with and stored on a database controlled by third parties that have been hired by us to provide limited services on our behalf. Agents or contractors of World Wide Technology who have access to your personally identifiable information are required to use their best efforts to keep the information confidential and are prohibited from using this information for any purpose not previously disclosed to you.
 
 We use personally identifiable and non-personally identifiable information for site administration and for the purpose of performing the services for which such data was collected.
 
