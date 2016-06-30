@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228145553id_/http%3A//www.catster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630101001id_/http%3A//www.catster.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Catster
 
-Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by i-5 Publishing, LLC, a privately held company based in Irvine, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
+Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by Lumina Media, a privately held company based in Irvine, California, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
 
 By using Catster.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
 
@@ -46,17 +46,11 @@ We use industry standard security measures to protect your information so that i
 
 **Contacting Us**
 
-You can always contact us at any time by email at catsters@catster.com .
-
-Our mailing address is:  
-Catster  
-i-5 Publishing, LLC  
-2017 Mission Street, 2nd Floor  
-San Francisco, CA 94110
+You can always contact us at any time by email at catsters@catster.com. Please email us for our mailing address.
 
 **Unsubscribing**
 
-You can easily unsubscribe at any time. In any email you recieve from www.catster.com there will be an “unsubscribe” or “Opt-out” link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catster.com.
+You can easily unsubscribe at any time. In any email you receive from www.catster.com there will be an “unsubscribe” or “Opt-out” link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catster.com.
 
 Additionaly, members can always adjust their email preference, including unsubscribing, by going to <http://www.catster.com/account/account_email_pref.php>.
 
