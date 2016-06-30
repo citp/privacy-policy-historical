@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedbackfive.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124219id_/http%3A//www.feedbackfive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedbackfive.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190802id_/http%3A//www.feedbackfive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FeedbackFive
 
@@ -65,3 +65,5 @@ Telephone: (800) 757-6840
 
 —  
 Material Modifications Since June 12, 2014: none.
+
+Amazon, the Amazon logo, Fulfillment by Amazon, FBA, Seller Central, and any other Amazon owned company names, products, and/or logos are property and the trademarks of Amazon.com, Inc. or its affiliates. eComEngine is not directly affiliated with Amazon.com, Inc. 
