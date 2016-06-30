@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217153427id_/https%3A//www.mormon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630132619id_/https%3A//www.mormon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mormon.org
 
@@ -86,4 +86,4 @@ _14\. Future Changes to Privacy Policy_. We regularly review this Privacy Policy
 
 **Effective Date**
 
-This version of the Privacy Policy became effective on March 18, 2014.
+This version of the Privacy Policy became effective on March 18, 2014. a
