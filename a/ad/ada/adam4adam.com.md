@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228215000id_/http%3A//www.adam4adam.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630180923id_/http%3A//www.adam4adam.com/pages/privacy) for the most accurate reproduction.*
 
-# Adam4Adam - Free online dating & hookup, gay, chat, cam
+# Gay Dating & Hookup – Free Online Gay Dating Site – Adam4Adam
 
 The Adam4Adam Privacy Policy may be found below. Your use of the Adam4Adam Site and services constitutes your acceptance of the terms and conditions of the Adam4Adam Privacy Policy, of our recently updated [User Agreement](http://www.adam4adam.com/pages/user-agreement) and of the Adam4Adam [Community Guidelines](http://www.adam4adam.com/pages/guidelines). You are responsible for reviewing and becoming familiar with all of these terms. Adam4Adam Privacy Policy 
 
@@ -64,7 +64,7 @@ Our site provides users the opportunity upon registration to opt out of receivin
 
 Adam4Adam gives users the following options for removing their information from our database: 
 
-  1. Towards the bottom of the MY ACCOUNT page click on the [Delete Account](http://www.adam4adam.com/profile/my-account?action=delete_account) link and follow the instruction provided. 
+  1. Towards the bottom of the MY ACCOUNT page click on the [Delete Account](http://www.adam4adam.com/profile/my-account/#delete_account) link and follow the instruction provided. 
   2. You can send e-mail to support@Adam4Adam.com. Please be sure to include your name, username, and e-mail address. 
 
 
