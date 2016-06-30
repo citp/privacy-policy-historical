@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231612id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155419id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
 |  |    | 
 
-|  Privacy Policy  Updated: March 2014  
+|  Privacy Policy  Updated: January 2016  
 ---  
 Legacy.com, Inc. provides various features tools that allow users to access obituaries, express condolences and share remembrances of friends and loved ones. Legacy.com, Inc. offers these features and tools at www.legacy.com and other websites and applications (“App”) powered by Legacy.com (collectively, the “Services”). Please read the following privacy policy ("Privacy Policy") carefully before using the Services.   
   
@@ -28,7 +28,7 @@ Legacy.com, Inc. provides various features tools that allow users to access obit
 
 10\. OPT-OUT PROCEDURES
 
-11\. ADVERTISING AND LINKS
+11\. THIRD PARTY ADVERTISING AND AD DELIVERY
 
 12\. CHANGES TO THIS PRIVACY POLICY
 
@@ -155,10 +155,10 @@ You may opt out of receiving future mailings or other information from Legacy.co
 Top
 
   * This Service contains links to other sites that may be of interest to our visitors. This Privacy Policy applies only to Legacy.com and not to other companies’ or organizations’ Web sites to which we link. We are not responsible for the content or the privacy practices employed by other sites.
-  * Legacy.com works with third parties, including, but not limited to Adtech US, Inc. and Turn Inc. (collectively, the "Ad Delivery Parties:"), for the purpose of advertisement delivery on the Services including online behavioral advertising (“OBA”) and multi-site advertising. Information collected about a consumer’s visits to the Services, including, but not limited to, certain information from your Web browser, your IP address and your email, may be used by third parties, including the Ad Delivery Parties, in order to provide advertisements about goods and services of interest to you. These Ad Delivery Parties retain data collected and used for these activities only as long as necessary to fulfill a legitimate Legacy.com business need, or as required by law. 
-    * The Ad Delivery Parties may also set cookies to assist with advertisement delivery services. For more information about Adtech US, Inc. cookies, please visit http://www.adtechus.com/privacy/. 
-    * If you would like to obtain more information about the practices of some of these Ad Delivery Parties, or if you would like to make choices about their use of your information, please click here: http://www.networkadvertising.org/choices/ 
-    * The Ad Delivery Parties adhere to the Network Advertising Initiative’s Self-Regulatory Code of conduct. For more information please visit http://www.networkadvertising.org/about-nai
+  * Legacy.com works with third parties, including, but not limited to DoubleClick and ADTECH US, Inc. (collectively, the "Ad Delivery Parties:"), for the purpose of advertisement delivery on the Services including online behavioral advertising (“OBA”) and multi-site advertising. Information collected about a consumer’s visits to the Services, including, but not limited to, certain information from your Web browser, your IP address and your email, may be used by third parties, including the Ad Delivery Parties, in order to provide advertisements about goods and services of interest to you. These Ad Delivery Parties retain data collected and used for these activities only as long as necessary to fulfill a legitimate Legacy.com business need, or as required by law.
+    * The Ad Delivery Parties may also set cookies and Audience Management tags to assist with advertisement delivery services. For more information about Doubleclick, please visit <http://www.google.com/intl/en/policies/privacy/>. For more information about ADTECH US, Inc., please visit <http://privacy.aol.com/>
+    * If you would like to obtain more information about the practices of some of these Ad Delivery Parties, or if you would like to make choices about their use of your information, please click here: <http://www.networkadvertising.org/choices/>
+    * The Ad Delivery Parties adhere to the Network Advertising Initiative’s Self-Regulatory Code of conduct. For more information please visit <http://www.networkadvertising.org/about-nai>
   * Legacy.com shall obtain your prior express consent (opt-in) before using any of your “sensitive consumer information” as that term is defined in the NAI Principles.
   * Legacy.com may also share your social media identification and account information with the corresponding social media service to allow the service to provide you with advertisements about goods and services of interest to you.
   * Please keep in mind that if you click on an advertisement on the Services and link to a third party’s website, then Legacy.com’s Privacy Policy will not apply to any Personally Identifiable Information collected on that third party’s website and you must read the privacy policy posted on that site to see how your Personally Identifiable Information will be handled.
