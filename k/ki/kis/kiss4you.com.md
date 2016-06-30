@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiss4you.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215210509id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiss4you.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630224558id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,10 +126,6 @@ AnastasiaDate.com has VeriSign and McAfee secure certificates demonstrating that
 Please note that whenever you submit any information to us in connection with any AnastasiaDate.com related services, you consent to AnastasiaDate’s processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
 
 If you have any questions, comments or complaints about AnastasiaDate’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
-
-**+1 (800) 356-3130**  
-**+1 (800) 234-0036**  
-
 
 ### Acceptance of Privacy Statement
 
