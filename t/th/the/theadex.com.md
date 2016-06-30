@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123181909id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630132219id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
 
 # The ADEX - Privacy Statement
 
 We are very serious about data protection and are deeply committed to shielding Internet users’ privacy, to promoting their trust in Internet and Internet advertising. Data protection is an elemental component of professional data management and is systematically anchored in our technology. It goes without saying that our technology fully complies with data protection regulations in Germany and throughout Europe. In addition, we have pledged to adhere to applicable industry guidelines, including those, for example, collected by the Interactive Advertising Bureau.
+
+**The ADEX adheres to the Principles of the iab Europe/ EDAA OBA Framework.**
 
 We continuously examine possibilities to protect online users’ privacy while, at the same time, striving to provide appropriate advertising and customized online experiences as contracted by our clients.
 
