@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshers9.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040444id_/http%3A//www.freshers9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshers9.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630095012id_/http%3A//www.freshers9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Govt Jobs or sarkari naukri Employment News Updates
 
