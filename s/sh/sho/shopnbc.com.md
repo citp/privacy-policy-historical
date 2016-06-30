@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopnbc.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115232744id_/http%3A//www.evine.com/p/help/evine-live/privacy/%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopnbc.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630183620id_/http%3A//www.evine.com/p/help/evine-live/privacy/%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
 
 # EVINE Live | Shop. Share. Smile. | Shop at Home Online
 
