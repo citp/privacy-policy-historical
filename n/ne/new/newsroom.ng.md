@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224071940id_/http%3A//www.newsroom.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630102807id_/http%3A//www.newsroom.ng/privacy) for the most accurate reproduction.*
 
-# Newsroom - Privacy
+# Privacy | Newsroom
 
 ## **Privacy Policy**
 
@@ -122,7 +122,7 @@ In the future, we may sell, buy, merge or partner with other companies or busine
 
 **Third Parties**
 
-If you are a print subscriber to Newsroom Nigeria and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address and certain other information, such as when you first subscribed to Newsroom Nigeria (but not your email address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out by emailing us at ([theatre@newsroom.ng](mailto:theatre@newsroom.ng)), or write to us at 32, Community Road, Off Allen Avenue, Ikeja, Lagos. (By Appointment Only). If you are a current print subscriber, please remember to include your account number and phone number in the body of your email or letter, and if you choose to opt-out via email, please include “Opt-out” in the subject line.
+If you are a print subscriber to Newsroom Nigeria and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address and certain other information, such as when you first subscribed to Newsroom Nigeria (but not your email address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out by emailing us at ([contact@thenet.ng](mailto:contact@thenet.ng)), or write to us at 32, Community Road, Off Allen Avenue, Ikeja, Lagos. (By Appointment Only). If you are a current print subscriber, please remember to include your account number and phone number in the body of your email or letter, and if you choose to opt-out via email, please include “Opt-out” in the subject line.
 
 We may share information about attendees to our live events with sponsors or other third parties. If so, we will notify you when you provide us the information.
 
@@ -134,7 +134,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 **WHAT IS OUR EMAIL POLICY?**
 
-The Newsroom Nigeria complies with the federal **CAN-SPAM Act of 2003**. We will not send you marketing messages if you have opted out. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact ([theatre@newsroom.ng](mailto:theatre@newsroom.ng))
+The Newsroom Nigeria complies with the federal **CAN-SPAM Act of 2003**. We will not send you marketing messages if you have opted out. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact ([contact@thenet.ng](mailto:contact@thenet.ng))
 
 **Account and Service-Related Email.** Newsroom Nigeria reserves the right to send you email relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional emails and notifications about major changes to the Newsroom Nigeria Services and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.
 
@@ -152,13 +152,13 @@ The Newsroom Nigeria complies with the federal **CAN-SPAM Act of 2003**. We will
 
 **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
-The Newsroom Nigeria Home Delivery Web Account. You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for Update Account. Should you require assistance, please call 0800xxxxxxx.
+The Newsroom Nigeria Home Delivery Web Account. You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for Update Account. Should you require assistance, please call +2348105087076.
 
 **Manage Your[Newsroom.ng](http://newsroom.ng/) Account in the My Account Area.** You may review and update your [newsroom.ng](http://newsroom.ng/) membership or account information and access your transaction history in the My Account area.
 
 There are a number of things you can do in the My Account area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process. The Email Preferences tab is the place to go to sign up for our email newsletters and manage your delivery options. To gain access to the areas of the My Account area containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can reset your password here. If you need further assistance, please [click here and leave a message](http://newsroom.ng/contact/).
 
-**Manage Your Newsroom Nigeria Account.** Manage and update your account by logging in at [www.newsrom.ng](http://www.newsroom.ng/). Simply click on the “My Account” section at the top right corner of the navigational bar and proceed to “Edit Profile”. You may securely update your information, email address and password registered to the account. Should you require assistance, please call us at 0800xxxxxxxx.
+**Manage Your Newsroom Nigeria Account.** Manage and update your account by logging in at [www.newsrom.ng](http://www.newsroom.ng/). Simply click on the “My Account” section at the top right corner of the navigational bar and proceed to “Edit Profile”. You may securely update your information, email address and password registered to the account. Should you require assistance, please call us at+2348105087076.
 
 **HOW DO I OPT-OUT FROM RECEIVING EMAILS?**
 
@@ -166,13 +166,13 @@ There are a number of things you can do in the My Account area to ensure your pe
 
 If, at any time, you prefer not to receive email marketing information from us, simply follow the unsubscribe options at the bottom of each email, or:
 
-1\. Click here and leave a message to remove your email address from any future promotional email campaigns originated by TheNewsroom Nigeria Home Delivery Department and its third party affiliates.
+1\. Click here and leave a message to remove your email address from any future promotional email campaigns originated by The Newsroom Nigeria Home Delivery Department and its third party affiliates.
 
-If you experience difficulty with the unsubscribe process, feel free to contact us at [theatre@newsroom.ng](mailto:theatre@newsroom.ng) and provide your email address along with the name of the newsletter from which you would like to unsubscribe.
+If you experience difficulty with the unsubscribe process, feel free to contact us at [contact@thenet.ng](mailto:contact@thenet.ng) and provide your email address along with the name of the newsletter from which you would like to unsubscribe.
 
 **Mail or Telephone Promotions**
 
-If, at any time, you prefer not to receive mail or telephone solicitations originated by The Newsroom Nigeria Home Delivery Department, or if you prefer that we do not share this information with third parties for marketing purposes, please email us [theatre@newsroom.ng](mailto:theatre@newsroom.ng). If you are a current newspaper subscriber, please remember to include your username and phone number in the body of your email or letter, and if you choose to opt-out via email, please put “Opt-out” in the subject line.
+If, at any time, you prefer not to receive mail or telephone solicitations originated by The Newsroom Nigeria Home Delivery Department, or if you prefer that we do not share this information with third parties for marketing purposes, please email us [contact@thenet.ng](mailto:contact@thenet.ng). If you are a current newspaper subscriber, please remember to include your username and phone number in the body of your email or letter, and if you choose to opt-out via email, please put “Opt-out” in the subject line.
 
 **IS MY INFORMATION PROTECTED?**
 
@@ -193,3 +193,5 @@ We may disclose personal information if we are required to do so by law or we ha
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the
 
 change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via email.
+
+#K7MrB3# thinking she's gotten past dealing with her Use stripes correctly. Stripes can be your figure flattering best friend, or your worst fashion enemy. The trick is knowing when and how to use them. Get your materials. You will need a watch face. You can use one from any old watch, as long as it's still working. Grosgrain Fabulous also has a fantastic tutorial for re sizing sweaters. I have already re sized quite a few of my boxy sweaters to a more fitting (and flattering) size. Resizing is as simple as this: turn your sweater inside out; put it on; pin the excess; take it off; sew along the pins.. The fabric used in the manufacturer of swim suits was also reduced causing the disappearance of the little skirt flap so popular on one piece suits. Fabric reduction was responsible for bare midriffs and the introduction of the 2 piece swim suit. Many women wore flat heeled shoes for safety and comfort in the workplace. Whichever you prefer, be sure there are smaller pockets for your wallet, keys, phone and pens. Women should also have a purse or clutch for dates or parties. Sunglasses, stylish belts and a variety of jewelry, from small and simple to big and bright, will transform any outfit. Sift powdered sugar and cinnamon together and sprinkle pastries before serving at room temperature. If not serving the same day, stack the pastries in airtight plastic containers and freeze for up to 2 weeks. To serve, reheat to freshen in a 325 degree preheated oven for about 7 to 12 minutes or until warm, cool slightly, and decorate with powdered sugar and cinnamon.. In short, I am hooked. I have found exactly what I want and need, with lower prices to boot. I never would have believed it. Is most of your height in your torso or legs? for me it in my torso, meaning that i need to be very careful about what shirts i pick. 34" waist + 34" inseam seams to work fine for me. Shirt wise . Wholesale fashion accessories might include items like handbags, bracelets, wallets for men, necklaces and pendants, as well as earrings. These can be found in different designs and fashions, and are all manufactured from different materials. As a business owner, you have to be able to determine what consumers ask for most, so that as soon as you are certain, you are able to buy it in wholesale.. The Review!Media Blasters has a pretty good selection of mixes here with four audio tracks, two of which are relatively unnecessary if DVD players are built properly. The Japanese and English language mixes are presented in both a 5.1 mix and a 2.0 mix to ensure the best overall playback. The stereo mixes are done in a standard minimal 192kbps encoding while the 5.1 mixes get the full 448kbps. [ebaysinmobile ](http://www.ebaysinmobile.com/) [rosegallink ](http://www.rosegallink.com/) [amazonpressroom ](http://www.amazonpressroom.com/) [chsecreditcards ](http://www.chsecreditcards.com/) [xvideos-v ](http://www.xvideos-v.com/) [1prh ](http://www.1prh.com/) [rodnstyle ](http://www.rodnstyle.com/) [momswhothinka ](http://momswhothinka.com/) [eamus ](http://www.eamus.be/) [faesprint ](http://www.faesprint.com/) [ausclassificationchat ](https://web.archive.org/web/20160630102807id_/http://www.newsroom.ng/privacy/http//ausclassificationchat.com/) [latestcardailynews ](http://www.latestcardailynews.com/) [craftbeerhounds ](http://www.craftbeerhounds.com/) [inthelooses](http://www.inthelooses.com/)
