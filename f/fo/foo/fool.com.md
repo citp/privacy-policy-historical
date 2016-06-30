@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084240id_/http%3A//www.fool.com/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190548id_/http%3A//www.fool.com/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -129,10 +129,6 @@ To cancel any of your free email subscriptions, do so at your [Account Settings]
 ### How Do We Respect Children's Privacy?
 
 Our sites are not directed at children under the age of 13. We operate our sites in compliance with the Children's Online Privacy Protection Act and will not knowingly collect or use personally identifiable information from anyone under 13.
-
-### Does The Motley Fool Participate in the Safe Harbor Program?
-
-The Motley Fool complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Motley Fool has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
 ### What Else Should You Know About Your Privacy?
 
