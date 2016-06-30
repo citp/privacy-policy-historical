@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141640id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630111108id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Thinkspain - Privacy Policy
 
   
 TWC is committed to maintaining your personal details confidential, and has taken the appropriate technical, security and administrative measures to avoid unauthorised access, removal or modification of these details in accordance with the data protection law 15/1999 of December 13 of Spain. 
 
-Where the personal details collected are for a third party (eg. An enquiry about a Property, Job vacancy application), TWC will only provide the third party with the information as provided by you and with the sole objective of enabling the advertiser to contact the enquirer. Your information will not be stored by TWC for the purposes of our contacting you.
+Where the personal details collected are for a third party (eg. An enquiry about a Property, Job vacancy application), TWC will only provide the third party with the information as provided by you and with the sole objective of enabling the advertiser to contact the enquirer.
 
 We may use the information we collect relating to ThinkSpain (eg. E-newsletter subscriptions, Advertising applications), but not the information that is destined only to third-parties, to occasionally send you information we believe may be of interest. If you do not wish to receive such information, write to thinkSPAIN.com, Thomas Alva Edison 7, 46980 Paterna, Valencia, Spain or send an e-mail to [unsubscribe@thinkspain.com](mailto:unsubscribe@thinkspain.com), specifying the e-mail address where you no longer wish to receive such information.
 
