@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626120622id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155330id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MarketWatch
 
