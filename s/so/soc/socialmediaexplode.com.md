@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediaexplode.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231165433id_/http%3A//socialmediaexplode.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediaexplode.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630184022id_/http%3A//socialmediaexplode.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Get Free Facebook Likes, Twitter Followers, Youtube Views, StumbleUpon Followers, Linkedin Shares, Re-Tweets, And Google Plus Ones
 
