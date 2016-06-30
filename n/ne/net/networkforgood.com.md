@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210141824id_/http%3A//www.networkforgood.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630050219id_/http%3A//www.networkforgood.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Network for Good
 
@@ -35,7 +35,7 @@ Special note on charities: Each charity has its own policies regarding privacy o
 What information is being shared by Network for Good with the recipient charity?  
 When you make a donation via a charity website that subscribes and links to a DonateNow page hosted by Network for Good, your full contact information will be shared with that charity. When you make a donation via this website, other Network for Good products or a partner website that uses Network for Good donation processing services you may be asked what information you wish to be shared with the recipient charity(ies).You may have a choice of: full contact information, name and email address only, or no personal information (anonymous). Network for Good respects donor privacy and only shares information with donor consent. For example, when a donor has asked to remain anonymous, no information is shared with the charity – we simply confirm that a donation has been made.
 
-How can I confirm what donor information was shared by Network for Good with the recipient charity or request corrections? If you want to confirm information shared with a recipient charity or change your personal information, please contact our [Customer Support Team](http://www.networkforgood.com/contact-us/), and a Support Specialist will be happy to help you. If you are looking to get in touch directly with a charity, you can find contact information in our partner [GuideStar’s](http://www.guidestar.org/) database.
+How can I confirm what donor information was shared by Network for Good with the recipient charity or request corrections? If you want to confirm information shared with a recipient charity or change your personal information, please contact our [Customer Support Team](http://www.networkforgood.com/contact-us/), and a Support Specialist will be happy to help you. If you are looking to get in touch directly with a charity, you can find contact information in our partner [GuideStar’s](http://www.guidestar.org/Home.aspx) database.
 
 #### Privacy & Security for Nonprofits, Customers and Potential Customers
 
