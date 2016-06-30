@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830031055id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630050220id_/http%3A//www.gmoregistry.com/en/privacy) for the most accurate reproduction.*
 
-# 
+# GMO Registry, Inc.｜Privacy Policy
 
 GMO Registry, Inc. (hereafter GMO Registry) recognizes the importance of protecting personal information in the operation of its Internet domain name registry businesses and the entire company adheres strictly to the Policy regarding the Handling of Personal Information laid out below.
 
@@ -192,4 +192,4 @@ Address: Cerulean Tower, 26-1 Sakuragaoka-cho,
 Shibuya-ku, Tokyo (150-8512) Japan  
 Phone: 03-5456-1601  
 Business hour: 9:00AM-6:00PM JST  
-Contact form: <http://www.gmo-registry.com/en/contact/>
+Contact form: <http://www.gmoregistry.com/en/contact/>
