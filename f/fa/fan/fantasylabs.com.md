@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasylabs.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223101438id_/http%3A//www.fantasylabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasylabs.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630185638id_/http%3A//www.fantasylabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Fantasy Labs
+# Privacy | FantasyLabs
 
 Your privacy is important to Fantasy Labs, Inc (“Fantasy Labs”).  This Privacy Policy describes the information practices for the Fantasy Labs Sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement also applies to your other interactions with Fantasy Labs, such as when you purchase products or services, sign up for a newsletter or provide information to Fantasy Labs at a trade show or other event.
 
