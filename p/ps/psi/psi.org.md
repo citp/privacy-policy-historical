@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207181951id_/http%3A//www.psi.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630205352id_/http%3A//www.psi.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : PSI
 
@@ -14,13 +14,11 @@ You will also notice in your web site address bar that the domain name starts wi
 
 **Internet Protocol Address:**
 
-We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server,
-
-administer our Site, analyze trends, track users’ movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users’ movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
 
 **What personal information do you collect and how do you use it?**
 
-PSI.org only collects personal information that website visitors choose to share with us when they sign up to receive emails, make charitable contributions, or apply for jobs. PSI does not sell contact lists or personal information to third parties.
+PSI.org only collects personal information that website visitors choose to share with us when they sign up to receive emails, make charitable contributions, or apply for jobs. PSI does not sell, rent or share contact lists or personal information with third parties from online or offline donors. 
 
 You may update your information at any time to personalize your online communication preferences, including opting out of all emails. If you have other preferences or have questions about our communications practices, please contact us and we will be happy to respond.
 
