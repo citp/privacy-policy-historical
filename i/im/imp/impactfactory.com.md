@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006023702id_/http%3A//www.impactfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630175047id_/http%3A//www.impactfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Impact Factory Training and Development - Privacy Policy
 
@@ -46,4 +46,4 @@ We do not hold any sensitive information on our site. Financial transactions are
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above addresses or phone number.
 
-All Early Bird Discounts Need to be paid in full on the same day as booking. (This discount is NOT available if you wish to pay by Invoice)
+All Early Bird and Late Booking Discounts Need to be paid in full on the same day as booking. (This discount is NOT available if you wish to pay by Invoice)
