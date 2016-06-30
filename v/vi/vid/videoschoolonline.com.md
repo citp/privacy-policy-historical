@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the videoschoolonline.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230642id_/http%3A//www.videoschoolonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoschoolonline.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091731id_/http%3A//www.videoschoolonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & FTC Disclaimer - Video School Online
-
-­
 
   1. **Product disclosure:  **VideoSchoolOnline.com is an affiliate for certain products listed on this website, and may earn commissions based on some sales referred.
   2. **Introduction:**  VideoSchoolOnline.com (this website) is owned and operated by Video School Online Inc. (we, us, our). We respect the privacy of our website users (you, your). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.
