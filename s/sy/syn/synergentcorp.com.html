@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the synergentcorp.com privacy policy that was archived on 2015-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151031111514id_/http%3A//www.synergentcorp.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the synergentcorp.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630052514id_/http%3A//www.synergentcorp.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>Synergent :: Privacy Policy</title>
+<title>Synergent :: Legal</title>
 <meta name="description" content="">
 <meta name="generator" content="concrete5 - 5.6.3.3">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -22,14 +22,15 @@ var CCM_REL = "";
 <link rel="stylesheet" type="text/css" href="/concrete/css/ccm.base.css">
 <script type="text/javascript" src="/concrete/js/jquery.js"></script>
 <script type="text/javascript" src="/concrete/js/ccm.base.js"></script>
-<link rel="stylesheet" type="text/css" href="/concrete/blocks/search/view.css">
-<link rel="stylesheet" type="text/css" href="/blocks/mega_slider/css/mega_slider.css">
-<script type="text/javascript" src="/blocks/mega_slider/js/megaSlider.js"></script>
 <link rel="stylesheet" type="text/css" href="/blocks/email_a_friend/view.css">
 <script type="text/javascript" src="/blocks/email_a_friend/view.js"></script>
 <script type="text/javascript" src="/blocks/email_a_friend/prettyPhoto/js/jquery.prettyPhoto.js" charset="utf-8"></script>
 <link rel="stylesheet" href="/blocks/email_a_friend/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
 <link rel="stylesheet" type="text/css" href="/blocks/print_page/view.css">
+<link rel="stylesheet" type="text/css" href="/concrete/blocks/page_list/view.css">
+<link rel="stylesheet" type="text/css" href="/concrete/blocks/search/view.css">
+<link rel="stylesheet" type="text/css" href="/blocks/mega_slider/css/mega_slider.css">
+<script type="text/javascript" src="/blocks/mega_slider/js/megaSlider.js"></script>
     <meta charset="utf-8">
     
     <!-- Mobile Specific Metas
@@ -48,7 +49,13 @@ var CCM_REL = "";
     <![endif]-->
     
     <link rel="stylesheet" type="text/css" media="print" href="/themes/synergent_2013/css/print.css">
-    
+    <script src="/themes/synergent_2013/js/jquery.lightbox_me.js"></script>
+    <link rel="stylesheet" href="/themes/synergent_2013/js/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+<script type="text/javascript" src="/themes/synergent_2013/js/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+ <script type="text/javascript" src="/themes/synergent_2013/js/fancybox/jquery.fancybox-media.js?v=2.1.5"></script>
+
+ <script type="text/javascript" src="//fast.fonts.net/jsapi/5a3a1864-6bd4-4d6d-b72e-935c06daab68.js"></script>
+
         
     <!-- JavaScript
 	================================================== -->
@@ -71,8 +78,10 @@ var CCM_REL = "";
         };
 
        $("#horizontal-mainnav  ul > li, #auxiliary-nav > ul > li").hoverIntent(navConfig);
-        $("#responsive-menu-button").click(function(){
-            var menu = $("#responsive-menu-table");
+        
+		$("#responsive-menu-button").click(function(){
+            $(this).toggleClass('closed');
+			var menu = $("#responsive-menu");
 
             if (menu.is(':hidden')) {
                 menu.slideDown('200');
@@ -81,26 +90,40 @@ var CCM_REL = "";
             }
         });
         
-        $('#lightbox').click(function(e) {
+			jQuery('#responsive-menu > ul > li > a.has-submenu').click(function(e){
+			e.preventDefault();
+			$(this).next('.subnav').slideToggle('medium');
+			var submenu = $(this).next('.subnav');
+			$(this).toggleClass('close');
+        }); 
+		
+		$('#lightbox').click(function(e) {
+			e.preventDefault();
             $(this).lightbox_me({
-                centered: true
-            });
-            e.preventDefault();
+				centered: true
+			});
         });
+        
+		$(document).ready(function() {
+			$('.fancybox-media').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+				helpers : {
+					media : {}
+				}
+			});
+});
+
+	
     });
     
     function expandMenu() {
         $(this).find("ul").slideDown("fast");
-        if($(this).children("a").hasClass('bullet')) {
-            $(this).css("background-color","#c5a233").children("a:first").addClass("bullet-white");
-        } else {
-            $(this).css("background-color","#c5a233")
-        }
+
     }
 
     function contractMenu() {
         $(this).find("ul").slideUp();
-        $(this).css("background-color","transparent").children("a:first").removeClass("bullet-white");
     }
     </script>
         <script>
@@ -114,213 +137,125 @@ var CCM_REL = "";
  
 </script>
 
+<script>
+/*jQuery(document).ready(function() {
+
+	$(".youtubeBlock").click(function() {
+		$.fancybox({
+			'padding'		: 0,
+			'autoScale'		: false,
+			'transitionIn'	: 'none',
+			'transitionOut'	: 'none',
+			'title'			: this.title,
+			'width'			: 640,
+			'height'		: 385,
+			'href'			: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+			'type'			: 'swf',
+			'swf'			: {
+			'wmode'				: 'transparent',
+			'allowfullscreen'	: 'true', 
+			'autoPlay' 		: 1
+			}
+		});
+
+		return false;
+	});
+});*/
+</script>
+
+
 </head>
 
 <body style="display: block;">
     <header>
-        <div class="container">
-            <div class="content">
-                <div class="full">
-                    <div class="col12 last">
+        <div class="container clearfix">
+            <div class="content">                                                                                                                                                                                                                                                                                                      
+                 <!-- <div class="full">
+                    <div class="col12 last"> -->
                        <!-- <div id="mega-slider-outer-wrapper"> -->
-                            <div id="mega-slider-wrapper">
-    <div id="mega-slider">
-        <div id="mega-slider-content">
-            <table style="height: 511px; background-image: url('/index.php/download_file/view_inline/15/'); ; width: 1060px;" border="0">
-<tbody>
-<tr>
-<td style="width: 25%; padding: 15px;" align="left" valign="top">
-<p><strong><span style="color: #1da3ed; font-size: small;">TECHNOLOGY SERVICES</span></strong></p>
-<p><span style="color: #ffffff; font-size: small;">Partnering with Symitar’s industry leading Episys®.</span></p>
-<p><span style="color: #ffffff; font-size: small;">Leading edge core processing with an outsource solution.</span></p>
-<p><strong><span style="color: #1da3ed; font-size: small;"><br></span></strong></p>
-</td>
-<td style="width: 26%; padding: 15px;" align="left" valign="top">
-<p><span style="font-size: small; color: #172e5a;"><strong>CARD SERVICES </strong></span></p>
-<p><span style="color: #ffffff; font-size: small;">Comprehensive ATM/Debit Card processing.</span></p>
-<p><span style="color: #ffffff; font-size: small;">Combining personalized service with backend operations.</span></p>
-<p><span style="font-size: small; color: #172e5a;"><strong><br></strong></span></p>
-</td>
-<td style="width: 25%; padding: 15px;" align="left" valign="top">
-<p><span style="color: #81d824;"><strong><span style="font-size: small;">CHECK PROCESSING AND SUPPORT SERVICES</span></strong> </span></p>
-<p><span style="color: #ffffff; font-size: small;">Focusing on the best solutions for cost and time savings.</span></p>
-<p><span style="color: #ffffff; font-size: small;">The latest in Electronic Check Collection.</span></p>
-<p><span style="color: #81d824;"><br></span></p>
-</td>
-<td style="width: 25%; padding: 15px;" align="left" valign="top">
-<p><span style="font-size: small; color: #ffc201;"><strong>DIRECT MARKETING SERVICES</strong> </span></p>
-<p><span style="color: #ffffff; font-size: small;">Increasing bottom line results. </span></p>
-<p><span style="color: #ffffff; font-size: small;">Targeted marketing with member data.</span></p>
-<p><span style="font-size: small; color: #ffc201;"><br></span></p>
-</td>
-</tr>
-<tr>
-<td id="links-holder" style="height: 50%; width: 25%;" colspan="4">
-<div class="slide-link-wrapper"><a id="slide-link-1" class="slide-down-link" title="Technology Services" href="/technology-services/">&nbsp;</a>&nbsp;</div>
-<div class="slide-link-wrapper"><a id="slide-link-2" class="slide-down-link" title="Card Services" href="/card-services">&nbsp;</a></div>
-<div class="slide-link-wrapper"><a id="slide-link-3" class="slide-down-link" title="Check Processing" href="/check-processing">&nbsp;</a></div>
-<div class="slide-link-wrapper"><a id="slide-link-4" class="slide-down-link" title="Direct Marketing" href="/direct-marketing">&nbsp;</a></div>
-</td>
-</tr>
-</tbody>
-</table>    
-        </div>
-    </div>
-    <div id="mega-slider-handle">
-        <div id="mega-slider-handle-content">
-            <p><span style="font-size: small;">We are a single organization composed of different service divisions, all located <strong>UNDER ONE ROOF</strong> in a state-of-the-art facility in Westbrook, Maine.</span></p>            <span id="mega-handle-text">EXPAND</span>
-            <span id="mega-handle-text-open" style="display: none; font-size:75%;">COLLAPSE</span>
-        </div>
-    </div>    
-</div>
-
-
-<script type="text/javascript">
-   
-   $('#mega-slider-handle').click(function(){
-	   $('#mega-slider').toggle('slow');
-	   $('#mega-handle-text-open').toggle('fast');
-	   $('#mega-handle-text').toggle('fast');
-	   
-   });
-   
-   
-   
-    <!--//<![CDATA[
-    
-  /*  $(document).ready(function () {
-        var $w = $("#mega-slider-wrapper"),
-        $s = $("#mega-slider"),
-        $t = $("#mega-slider-handle");
-        
-        //Add the handle onClick event.
-        megaSlider(200,'EXPAND','CLOSE');
-        //Size the mega slider elements appropriately.
-        if('<php echo $scale; ?>' == 'px') {
-            $w.width("1060px");
-            $s.width("1060px");
-            $t.width("1060px");
-        } else {
-            $w.width("1060px");
-            $s.width("100%");
-            $t.width("100%");
-        }
-        //Append the mega slider if needed, display the handle.
-        var $append = '1';
-        if($append)
-            appendMegaSlider($("#mega-slider-wrapper"),'body');    
-        
-        //Preload any background images.
-        $("#mega-slider-content").children().each(function() {
-            var $bg = $(this).css("background-image");
-            if ($bg != 'none') {
-                var $url = $bg.replace(/"/g,"").replace(/url\(|\)$/ig, "");
-                $('<img/>')[0].src = $url;
-            }
-        });
-        
-        $w.show();
-        
-    });
-    
-    function megaSlider($speed,$handle_closed, $handle_open) {
-        $("#mega-slider-handle").click(function() {
-            var $s = $("#mega-slider"),
-            $t = $("#mega-handle-text");
-            
-            if($s.is(":hidden")) {
-                $s.slideDown($speed);
-                $t.text($handle_open);
-            } else {
-                $s.slideUp($speed);
-                $t.text($handle_closed);
-            }
-        }); 
-    }
-    
-    function appendMegaSlider($ele,$parent) {
-        if($parent == 'body')
-            $parent = document.body;
-        $ele.appendTo($parent);
-    }
-    
-	*/
-    
-    //]]>-->
-</script>
-                        <!-- </div> -->
-                    </div>
-                </div>
+                                                    <!-- </div> -->
+                    <!-- </div>
+                </div> -->
+                
 
                 <div id="logo-wrapper" class="col7">
                     <a href="/"><img src="/themes/synergent_2013/images/synergent-logo.png"></a>
                 </div>
                 
-                <div id="auxiliary-nav" class="col5 last">
-                    <h4 class="right">
-<div id="HTMLBlock339" class="HTMLBlock">
-<a href="/product-updates-registry">Sign Up for @Synergent Updates</a></div></h4>                       <ul><li style="background-color: transparent;"><a href="/" target="_self" class="bullet bullet-navy nav-selected nav-path-selected">Home</a></li><li><a href="/about-us/" target="_self" class="bullet bullet-orange ">About Us</a></li><li><a href="/contact-us/" target="_self" class="bullet bullet-blue ">Contact Us</a></li><li><a href="http://synergentcorp.com/about-us/career-opportunities/" target="_self" class="bullet bullet-green ">Careers</a></li></ul>
-					   
-                 
+                <div id="auxiliary-nav" class="col5 last ">
+                    				
+
+					 					 <h3>Receive Product &amp; Service Updates,</h3>   
+					 <p>or <a href="/why-synergent/contact-us/">contact us</a> for a demo!</p>
+                     <form enctype="multipart/form-data" id="miniSurveyView2492" class="miniSurveyView" method="post" action="/index.php?cID=1&amp;bID=2492&amp;arHandle=Header+Snippet&amp;ccm_token=1461790327:8843cfffebead64affdf0184f48375ac&amp;btask=passthru&amp;method=submit_form#1461789781">
+
+					 <input name="qsID" type="hidden" value="1461789781">
+					 <input name="Question30" id="Question30" type="email" placeholder="EMAIL ADDRESS" value="">
+					<input class="formBlockSubmitButton ccm-input-button" name="Submit" type="submit" value="GO">
+					</form> 					
+					                     <!--
+	                <h4 class="right">
+					 	<div id="HTMLBlock961" class="HTMLBlock">
+					 		<a href="/product-updates-registry">Sign Up for @Synergent Updates, PROTips and Tools</a>
+					 	</div>
+					</h4> -->
                                     </div>
                 
-                
+  <!-- MOBILE NAV -->              
                 <div id="responsive-nav-wrapper" class="col12 last">
-                    <span id="responsive-menu-button">MENU</span>
-                    <div id="responsive-menu-table">
-                        <table><tbody><tr><td><a href="/" target="_self" class="">Home</a></td><td><a href="/technology-services/" target="_self" class="">Technology Services</a></td></tr><tr><td><a href="/card-services/" target="_self" class="">Card Services</a></td><td><a href="/check-processing/" target="_self" class="">Check Processing</a></td></tr><tr><td><a href="/direct-marketing/" target="_self" class="">Direct Marketing</a></td><td><a href="/events/" target="_self" class="">Learning Center</a></td></tr><tr><td><a href="/knowledge/" target="_self" class="">Knowledge Base</a></td><td><a href="/synergies-blog/" target="_self" class="">Synergies Blog</a></td></tr><tr><td><a href="/about-us/" target="_self" class="">About Us</a></td><td><a href="/contact-us/" target="_self" class="">Contact Us</a></td></tr><tr><td><a href="/privacy-policy/" target="_self" class="nav-selected nav-path-selected">Privacy Policy</a></td><td><a href="/disclosures/" target="_self" class="">Disclosures</a></td></tr><tr><td><a href="/event/" target="_self" class="">Event</a></td><td><a href="http://synergentcorp.com/about-us/career-opportunities/" target="_self" class="">Careers</a></td></tr><tr><td class="responsive-menu-note" colspan="2"><a href="/product-updates-registry">Sign Up for Product Updates</a></td></tr></tbody></table>
-                    <!--    <table><tbody><tr><td><a href="/" target="_self" class="nav-selected nav-path-selected">Home</a></td><td><a href="/technology-services/" target="_self" class="">Technology Services</a></td></tr><tr><td><a href="/card-services/" target="_self" class="">Card Services</a></td><td><a href="/check-processing/" target="_self" class="">Check Processing</a></td></tr><tr><td><a href="/direct-marketing/" target="_self" class="">Direct Marketing</a></td><td><a href="/events/" target="_self" class="">Learning Center</a></td></tr><tr><td><a href="/knowledge/" target="_self" class="">Knowledge Base</a></td><td><a href="/synergies-blog/" target="_self" class="">Synergies Blog</a></td></tr><tr><td><a href="/about-us/" target="_self" class="">About Us</a></td><td><a href="/contact-us/" target="_self" class="">Contact Us</a></td></tr><tr><td><a href="/privacy-policy/" target="_self" class="">Privacy Policy</a></td><td><a href="/disclosures/" target="_self" class="">Disclosures</a></td></tr><tr><td><a href="/event/" target="_self" class="">Event</a></td><td><a href="http://synergentcorp.com/about-us/career-opportunities/" target="_self" class="">Careers</a></td></tr><tr><td class="responsive-menu-note" colspan="2"><a href="/product-updates-registry">Sign Up for Product Updates</a></td></tr></tbody>
-						</table> -->
-					
+                    <span id="responsive-menu-button" class="closed">MENU</span>
+                    <div id="responsive-menu">
+                    <ul>
+                        <li class="resp-menu-item1 menu-level-1 sub-depth--1"><a href="/card-services/" target="_self" class="has-submenu">Payment Services</a><ul class="subnav"><li class="parent-li"><a href="/card-services/" target="_self">Payment Services</a></li><li class="resp-menu-item2 menu-level-2 sub-depth-0"><a href="/card-services/visa-debit-atm-card-processing/" target="_self">ATM/Debit Card Processing</a></li><li class="resp-menu-item3 menu-level-2 sub-depth-0"><a href="/card-services/share-draft-processing/" target="_self">Share Draft Processing</a></li><li class="resp-menu-item4 menu-level-2 sub-depth-0"><a href="/card-services/emv-readiness/" target="_self">Tokenization and EMV</a></li><li class="resp-menu-item5 menu-level-2 sub-depth-1"><a href="/card-services/visa-credit-card-processing/" target="_self">Shared Branching</a></li></ul></li><li class="resp-menu-item6 menu-level-1 sub-depth--1"><a href="/technology-services/" target="_self" class="has-submenu">Technology Services</a><ul class="subnav"><li class="parent-li"><a href="/technology-services/" target="_self">Technology Services</a></li><li class="resp-menu-item7 menu-level-2 sub-depth-0"><a href="/technology-services/core-online-solutions/" target="_self">Episys Core Processing</a></li><li class="resp-menu-item8 menu-level-2 sub-depth-0"><a href="/technology-services/integrated-services/" target="_self">Integrated Services</a></li><li class="resp-menu-item9 menu-level-2 sub-depth-1"><a href="/technology-services/partners/" target="_self">Partners</a></li></ul></li><li class="resp-menu-item10 menu-level-1 sub-depth--1"><a href="/direct-marketing/" target="_self" class="has-submenu">Direct Marketing Services</a><ul class="subnav"><li class="parent-li"><a href="/direct-marketing/" target="_self">Direct Marketing Services</a></li><li class="resp-menu-item11 menu-level-2 sub-depth-0"><a href="/direct-marketing/target-data-mining-campaigns/" target="_self">Data Mining &amp; Targeted Marketing</a></li><li class="resp-menu-item12 menu-level-2 sub-depth-0"><a href="/direct-marketing/onboarding/" target="_self">Onboarding Campaigns</a></li><li class="resp-menu-item13 menu-level-2 sub-depth-1"><a href="/direct-marketing/e-marketing/" target="_self">E-Marketing</a></li></ul></li><li class="resp-menu-item14 menu-level-1 sub-depth--1"><a href="/learning-center/" target="_self">Learning Center</a><ul class="subnav"><li class="parent-li"><a href="/learning-center/" target="_self">Learning Center</a></li><li class="resp-menu-item15 menu-level-2 sub-depth-0"><a href="/learning-center/events/" target="_self">Upcoming Sessions</a></li><li class="resp-menu-item16 menu-level-2 sub-depth-0"><a href="/learning-center/technology-workshop-2016-landing-page/" target="_self">Annual Technology Workshop</a></li><li class="resp-menu-item17 menu-level-2 sub-depth-1"><a href="/learning-center/2016-technology-workshop/" target="_self">2016 Technology Workshop</a></li></ul></li><li class="resp-menu-item18 menu-level-1 sub-depth--1"><a href="/why-synergent/" target="_self" class="has-submenu">Why Synergent</a><ul class="subnav"><li class="parent-li"><a href="/why-synergent/" target="_self">Why Synergent</a></li><li class="resp-menu-item19 menu-level-2 sub-depth-0"><a href="/why-synergent/about-us/" target="_self">About Us</a></li><li class="resp-menu-item20 menu-level-2 sub-depth-0"><a href="/why-synergent/contact-us/" target="_self">Contact Us</a></li><li class="resp-menu-item21 menu-level-2 sub-depth-0"><a href="/why-synergent/career-opportunities/" target="_self">Career Opportunities</a></li><li class="resp-menu-item22 menu-level-2 sub-depth--1"><a href="/why-synergent/resources/" target="_self">Resources</a><ul class="subnav"><li class="resp-menu-item23 menu-level-3 sub-depth-0"><a href="/why-synergent/resources/pro/" target="_self">Video Library</a></li><li class="resp-menu-item24 menu-level-3 sub-depth-0"><a href="/why-synergent/resources/white-papers/" target="_self">Case Studies &amp; White Papers</a></li><li class="resp-menu-item25 menu-level-3 sub-depth--1"><a href="/why-synergent/resources/synergies-blog/" target="_self">Synergies Blog</a><ul class="subnav"><li class="resp-menu-item27 menu-level-3 sub-depth-2"><a href="/why-synergent/resources/synergent-news/" target="_self">Synergent News</a></li></ul></li></ul></li>
+                    </ul>
+                    	</li><li class="menu-half-width border-rt"><a href="/" target="_self">Home</a></li>
+                        <li class="menu-half-width"><a href="/why-synergent/contact-us/" target="_self">Contact Us</a></li>
+                        <li class="menu-half-width border-rt"><a href="/legal/" target="_self">Legal</a></li>
+                        <li class="menu-half-width "><a href="/why-synergent/about-us/career-opportunities/" target="_self">Careers</a></li>
+ 
+</ul> 
 
-					</div>​
-                </div>
+<div class="responsive-menu-note"><a href="/product-updates-registry">Sign Up for Product Updates</a></div>
+
+
+	</div>​
+</div>
+<!-- END MOBILE NAV -->
 
                 <div id="horizontal-mainnav">
                     <div id="horizontal-mainnav-wrapper" class="col12 last">
 	                                    
                     <ul>
-                                                        <li><a href="/technology-services/" target="_self" class="bullet bullet-navy ">Technology Services</a><ul><li><a href="/technology-services/core-online-solutions/" target="_self" class="bullet  ">Core Online Solutions</a></li><li><a href="/technology-services/integrated-services/" target="_self" class="bullet  ">Integrated Services</a></li><li><a href="/technology-services/partners/" target="_self" class="bullet  ">Partners</a></li><li><a href="/technology-services/financal-tools/" target="_self" class="bullet  ">"Financial Tools" Video Gallery</a></li><li><a href="/technology-services/new-business-continuity-program-development/" target="_self" class="bullet  ">NEW Business Continuity Program Development</a></li><li><a href="/technology-services/technology-workshop-2015/" target="_self" class="bullet  ">Technology Workshop 2015</a></li></ul></li><li><a href="/card-services/" target="_self" class="bullet bullet-orange ">Card Services</a><ul><li><a href="/card-services/visa-debit-atm-card-processing/" target="_self" class="bullet  ">Debit Card Processing</a></li><li><a href="/card-services/visa-credit-card-processing/" target="_self" class="bullet  ">Credit Card Processing</a></li><li><a href="/card-services/custom-trai/" target="_self" class="bullet  ">Custom Training</a></li><li><a href="/card-services/emv-readiness/" target="_self" class="bullet  ">EMV Readiness</a></li></ul></li><li><a href="/check-processing/" target="_self" class="bullet bullet-blue ">Check Processing</a><ul><li><a href="/check-processing/electronic-check-collection/" target="_self" class="bullet  ">eCheck Collection</a></li><li><a href="/check-processing/share-draft-processing/" target="_self" class="bullet  ">Share Draft Processing</a></li></ul></li><li><a href="/direct-marketing/" target="_self" class="bullet bullet-green ">Direct Marketing</a><ul><li><a href="/direct-marketing/newsletters/" target="_self" class="bullet  ">Newsletters</a></li><li><a href="/direct-marketing/target-data-mining-campaigns/" target="_self" class="bullet  ">Data Mining</a></li><li><a href="/direct-marketing/onboarding/" target="_self" class="bullet  ">Onboarding</a></li><li><a href="/direct-marketing/e-marketing/" target="_self" class="bullet  ">E-Marketing</a></li></ul></li>                            <li>|</li>
-                                                                                    <li><a href="/events/" target="_self" class="">Learning Center</a><ul><li><a href="/events/about-our-training/" target="_self" class="">Our Training Philosophy</a></li><li><a href="/events/about-our-trainers/" target="_self" class="">About Our Trainers</a></li><li><a href="/events/training-methodology/" target="_self" class="">Training Methodology</a></li><li><a href="/events/conferences-and-workshops/" target="_self" class="">Conferences and Workshops</a></li></ul></li><li><a href="/knowledge/" target="_self" class="">Knowledge Base</a><ul><li><a href="/knowledge/white-papers/" target="_self" class="">White Papers/Studies</a></li><li><a href="/knowledge/synergent-news/" target="_self" class="">Synergent News</a></li><li><a href="/knowledge/testimonials/" target="_self" class="">Testimonials</a></li><li><a href="/knowledge/strategic-resource-offer/" target="_self" class="">Strategic Resource Offer</a></li><li><a href="/knowledge/pro/" target="_self" class="">PROTips Videocasts</a></li><li><a href="/knowledge/coresuccess/" target="_self" class="">Core Foundation</a></li></ul></li><li><a href="/synergies-blog/" target="_self" class="">Synergies Blog</a></li>                        </ul>
+                                                        <li class="main-nav menu-id-1"><a href="/card-services/" target="_self" class="bullet ">Payment Services</a><ul><li class="main-nav menu-id-2"><a href="/card-services/visa-debit-atm-card-processing/" target="_self">ATM/Debit Card Processing</a></li><li class="main-nav menu-id-3"><a href="/card-services/share-draft-processing/" target="_self">Share Draft Processing</a></li><li class="main-nav menu-id-4"><a href="/card-services/emv-readiness/" target="_self">Tokenization and EMV</a></li><li class="main-nav menu-id-5"><a href="/card-services/visa-credit-card-processing/" target="_self">Shared Branching</a></li></ul></li><li class="main-nav menu-id-6"><a href="/technology-services/" target="_self" class="bullet ">Technology Services</a><ul><li class="main-nav menu-id-7"><a href="/technology-services/core-online-solutions/" target="_self">Episys Core Processing</a></li><li class="main-nav menu-id-8"><a href="/technology-services/integrated-services/" target="_self">Integrated Services</a></li><li class="main-nav menu-id-9"><a href="/technology-services/partners/" target="_self">Partners</a></li></ul></li><li class="main-nav menu-id-10"><a href="/direct-marketing/" target="_self" class="bullet ">Direct Marketing Services</a><ul><li class="main-nav menu-id-11"><a href="/direct-marketing/target-data-mining-campaigns/" target="_self">Data Mining &amp; Targeted Marketing</a></li><li class="main-nav menu-id-12"><a href="/direct-marketing/onboarding/" target="_self">Onboarding Campaigns</a></li><li class="main-nav menu-id-13"><a href="/direct-marketing/e-marketing/" target="_self">E-Marketing</a></li></ul></li>                                                                                    <li class="utility-nav"><a id="maine-ut-14" href="/learning-center/" target="_self" class="">Learning Center</a><ul class="subnav"><li class="utility-nav"><a id="maine-ut-15" href="/learning-center/events/" target="_self" class="">Upcoming Sessions</a></li><li class="utility-nav"><a id="maine-ut-16" href="/learning-center/technology-workshop-2016-landing-page/" target="_self" class="">Annual Technology Workshop</a></li><li class="utility-nav"><a id="maine-ut-17" href="/learning-center/2016-technology-workshop/" target="_self" class="">2016 Technology Workshop</a></li></ul></li><li class="utility-nav"><a id="maine-ut-18" href="/why-synergent/" target="_self" class="">Why Synergent</a><ul class="subnav"><li class="utility-nav"><a id="maine-ut-19" href="/why-synergent/about-us/" target="_self" class="">About Us</a></li><li class="utility-nav"><a id="maine-ut-20" href="/why-synergent/contact-us/" target="_self" class="">Contact Us</a></li><li class="utility-nav"><a id="maine-ut-21" href="/why-synergent/career-opportunities/" target="_self" class="">Career Opportunities</a></li><li class="utility-nav"><a id="maine-ut-22" href="/why-synergent/resources/" target="_self" class="">Resources</a></li></ul></li>                        </ul>
 					
-<!--				 <ul>
-
-                                                        <li style="background-color: transparent;"><a href="/technology-services/" target="_self" class="bullet bullet-navy">Technology Services</a><ul style="display: none;"><li><a href="/technology-services/core-online-solutions/" target="_self" class="bullet  ">Core Online Solutions</a></li><li><a href="/technology-services/integrated-services/" target="_self" class="bullet  ">Integrated Services</a></li><li><a href="/technology-services/partners/" target="_self" class="bullet  ">Partners</a></li><li><a href="/technology-services/financal-tools/" target="_self" class="bullet  ">"Financial Tools" Video Gallery</a></li><li><a href="/technology-services/new-business-continuity-program-development/" target="_self" class="bullet  ">NEW Business Continuity Program Development</a></li></ul></li><li><a href="/card-services/" target="_self" class="bullet bullet-orange ">Card Services</a><ul><li><a href="/card-services/visa-debit-atm-card-processing/" target="_self" class="bullet  ">Debit Card Processing</a></li><li><a href="/card-services/visa-credit-card-processing/" target="_self" class="bullet  ">Credit Card Processing</a></li><li><a href="/card-services/custom-trai/" target="_self" class="bullet  ">Custom Training</a></li><li><a href="/card-services/emv-readiness/" target="_self" class="bullet  ">EMV Readiness</a></li></ul></li><li><a href="/check-processing/" target="_self" class="bullet bullet-blue ">Check Processing</a><ul><li><a href="/check-processing/electronic-check-collection/" target="_self" class="bullet  ">eCheck Collection</a></li><li><a href="/check-processing/share-draft-processing/" target="_self" class="bullet  ">Share Draft Processing</a></li></ul></li><li><a href="/direct-marketing/" target="_self" class="bullet bullet-green ">Direct Marketing</a><ul><li><a href="/direct-marketing/newsletters/" target="_self" class="bullet  ">Newsletters</a></li><li><a href="/direct-marketing/target-data-mining-campaigns/" target="_self" class="bullet  ">Data Mining</a></li><li><a href="/direct-marketing/onboarding/" target="_self" class="bullet  ">Onboarding</a></li><li><a href="/direct-marketing/e-marketing/" target="_self" class="bullet  ">E-Marketing</a></li></ul></li>                            <li>|</li>
-
-                                                                                    <li><a href="/events/" target="_self" class="">Learning Center</a><ul><li><a href="/events/about-our-training/" target="_self" class="">Our Training Philosophy</a></li><li><a href="/events/about-our-trainers/" target="_self" class="">About Our Trainers</a></li><li><a href="/events/training-methodology/" target="_self" class="">Training Methodology</a></li><li><a href="/events/conferences-and-workshops/" target="_self" class="">Conferences and Workshops</a></li></ul></li><li><a href="/knowledge/" target="_self" class="">Knowledge Base</a><ul><li><a href="/knowledge/white-papers/" target="_self" class="">White Papers/Studies</a></li><li><a href="/knowledge/synergent-news/" target="_self" class="">Synergent News</a></li><li><a href="/knowledge/testimonials/" target="_self" class="">Testimonials</a></li><li><a href="/knowledge/strategic-resource-offer/" target="_self" class="">Strategic Resource Offer</a></li><li><a href="/knowledge/pro/" target="_self" class="">PROTips Videocasts</a></li><li><a href="/knowledge/coresuccess/" target="_self" class="">Core Foundation</a></li></ul></li><li><a href="/synergies-blog/" target="_self" class="">Synergies Blog</a></li>                        </ul> -->
                     </div>
                 </div>
             </div><!-- End Header Content -->
         </div><!-- End Header Container -->
     </header>
     
-    <div class="container"><!-- Begin Main Container -->
-        <div class="content"><!-- Begin Main Content -->
+    <div class="container clearfix"><!-- Begin Main Container -->
+        <div id="main-content-wrapper" class="content clearfix"><!-- Begin Main Content -->
         <div id="masthead-wrapper" class="col12">
             <div id="masthead">
-                                <h1>Privacy Policy</h1>
-                            </div>
+                                <img border="0" class="ccm-image-block" alt="" src="/files/4014/6134/3179/int_bg.png" width="1086" height="120">                 <h1>Legal</h1>
+            </div>
         </div>
 
         <div id="interior-content">
-            <div id="vertical-nav" class="col2">
-                <ul></ul>            </div>
-            <div id="main-content" class="col7">
-                <div id="main-content-header">
-                    <h2 class="main-content-title"></h2>
-                    <div id="interior-breadcrumbs">
-                        <a href="/" target="_self">Home</a> :: Privacy Policy                    </div>
-                    <div id="responsive-sub-nav">
-                        
-<ul class="nav-header">
-
-
-</ul>
-
-<div class="ccm-spacer">&nbsp;</div>
+        <div class="col3">
+            <div id="vertical-nav">
+               <h2><a href="http://www.synergentcorp.com/privacy-policy/">Legal</a></h2><ul></ul>                
+                <!-- SOCIAL -->
+                <div id="vert-nav-social">
+                <div id="social-buttons">
+                	<a class="sb" href="https://www.youtube.com/user/SynergentCorp" target="_blank"><img src="/themes/synergent_2013/images/youtube.png" width="25" height="25" alt="YouTube"></a>
+                    <a class="sb" href="https://www.linkedin.com/company/synergent" target="_blank"><img src="/themes/synergent_2013/images/linkedin.png" width="25" height="25" alt="LinkedIn"></a>
                     </div>
-                    <div id="page-utilities">
-                        <div class="page-utility-item">
+                </div>
+            </div>
+            <div id="page-utilities">
+	            <div class="page-utility-item">
 <link rel="stylesheet" href="/blocks/email_a_friend/prettyPhoto/css/prettyPhoto.css">
 <script>
 //Check if prettyPhoto is already installed. If not, we'll import it from this block.'
@@ -332,12 +267,12 @@ if(typeof $.fn.prettyPhoto !== "function") {
 <a id="email-a-friend-link" href="#email-a-friend-wrapper" rel="prettyPhoto-144"><img src="/blocks/email_a_friend/images/icon.png" alt="" id="email-a-friend-icon">Email a friend</a>
 
 <div id="email-a-friend-wrapper" class="messagepop pop">
-    <form method="post" id="email-a-friend-block" action="/index.php?cID=156&amp;bID=144&amp;arHandle=Page+Utilities&amp;ccm_token=1446275334:f2c993f8e3e896b81aee3517e4be9362&amp;btask=passthru&amp;method=send_email">
+    <form method="post" id="email-a-friend-block" action="/index.php?cID=156&amp;bID=144&amp;arHandle=Page+Utilities&amp;ccm_token=1467264314:2c26310019d813b7edd5f3948bd1631e&amp;btask=passthru&amp;method=send_email">
         <h2>Email a Friend</h2>
         <p id="email-a-friend-error"></p>
         <p class="email-a-friend-hint">Complete the form below to email a link to this page to a friend.</p>
         
-        <input type="hidden" name="page_url" id="page_url" value="www.synergentcorp.com/privacy-policy/" class="ccm-input-hidden">
+        <input type="hidden" name="page_url" id="page_url" value="www.synergentcorp.com/privacy-policy" class="ccm-input-hidden">
         <label for="email_address" class="control-label">Enter your friend's email address</label>        <input id="email_address" type="text" name="email_address" value="" class="ccm-input-text">        <!--pre>
             <i>Here's a page that you might like. Click <a href='Javascript:void(0);'>here</a> to view.</i>
         </pre-->
@@ -398,10 +333,22 @@ function validateEmail(email) {
     });
     
     //]]>-->
-</script></div>                    </div>
+</script></div>	        </div>
+            
+         </div>   
+            <div id="main-content" class="col6">
+                <div id="main-content-header">
+                 <!--   <div id="responsive-sub-nav">
+                                            </div> -->                   
+                    <div id="interior-breadcrumbs">
+                        <a href="/" target="_self">Home</a> :: Legal                    </div>
+                    
+
                 </div>
+
                 <br class="clear-main-content">
-                                <p>Here at Synergent, we respect your privacy.&nbsp; By using this website www.synergentcorp.com (the “Site”), you agree to be bound by this Privacy Policy and you consent to our data use and collection practices described below.&nbsp; If you have any questions or comments about this Privacy Policy, please contact <a href="mailto:dtrautman@synergentcorp.com">Debra Trautman</a>.</p>
+                <!--  -->
+                <p>Here at Synergent, we respect your privacy.&nbsp; By using this website www.synergentcorp.com (the “Site”), you agree to be bound by this Privacy Policy and you consent to our data use and collection practices described below.&nbsp; If you have any questions or comments about this Privacy Policy, please contact <a href="mailto:dtrautman@synergentcorp.com">Debra Trautman</a>.</p>
 <p><strong>1. Information You Provide to Us</strong></p>
 <p>We may collect and store your personal information when you visit this Site, register an account with us, save your information with us online, contact us with a question or concern, or participate in a survey, campaign, contest or promotion.&nbsp; For the purposes of this Privacy Policy, your personal information may include your name, address, phone number, email address, account user ID and password, gender and other identifying information you provide to us. &nbsp;Submitting personal information is voluntary, but you may not be able to take advantage of all of our services and features if you do not provide us will all of the requested information.&nbsp;</p>
 <p><strong>2. General Information Areas</strong></p>
@@ -421,59 +368,120 @@ function validateEmail(email) {
 <p><strong>8. Links to Third-Party Sites</strong></p>
 <p>For your convenience, this website contains links to third party sites, including social media sites.&nbsp; By clicking or otherwise following a link to any site other than this Site, you become subject to the privacy policy of that site. &nbsp;Except for information posted by us, we do not endorse the views expressed or the facts presented on any third party site and do not endorse any commercial products that may be advertised on any third party site.&nbsp; All social media sites and applications, including Facebook, Youtube, Twitter and LinkedIn, referenced on this Site are controlled and administered by a third party and have different privacy policies from this Site.&nbsp; We disclaim any liability for any loss or damage resulting from your use of any third party sites.&nbsp; If you visit another site, we encourage you to read that particular site’s privacy policy. &nbsp;&nbsp;</p>
 <p><strong>9. <strong>Effective Date</strong></strong></p>
-<p>This Privacy Policy was updated on 1/7/14.&nbsp; <strong></strong></p>
-<p><strong>&nbsp;</strong></p>
+<p>This Privacy Policy was updated on 1/7/14.&nbsp;</p>
+<h2><strong>Disclosures</strong></h2>
+<p>This web site and the information it contains are presented as a service to credit unions. While we have attempted to ensure that the information presented is accurate, errors may nonetheless occur. We assume no responsibility for any person's reliance on the information presented on this web site for any purpose.</p>
 <p>&nbsp;</p>            </div>
             <div id="associated-content" class="col3 last">
-                            </div>
+				<div id="blog-spotlight">
+        <h4>From the Blog</h4>
+	    
+        <div class="lead-in">
+                        <p><a href="/why-synergent/resources/synergies-blog/3-security-tips-synergents-iso/">3 Security Tips From Synergent’s ISO</a></p>
+            <!-- <div class="lead-in-details">
+                                <p> June 22, 2016 </p>
+            </div> -->
+        </div>
+    
+	    
+        <div class="lead-in">
+                        <p><a href="/why-synergent/resources/synergies-blog/right-stuff-balancing-print-and-digital/">The Right Stuff - Balancing Print and Digital</a></p>
+            <!-- <div class="lead-in-details">
+                                <p> June 9, 2016 </p>
+            </div> -->
+        </div>
+    
+	    
+        <div class="lead-in">
+                        <p><a href="/why-synergent/resources/synergies-blog/moving-forward-together-toward-tomorrow/">Moving Forward Together, Toward Tomorrow</a></p>
+            <!-- <div class="lead-in-details">
+                                    <p>Posted in: <a href='/search-results/?akID[21][atSelectOptionID][]=5'>Credit Union News</a>, <a href='/search-results/?akID[21][atSelectOptionID][]=7'>Marketing</a>, <a href='/search-results/?akID[21][atSelectOptionID][]=8'>Service</a>, <a href='/search-results/?akID[21][atSelectOptionID][]=6'>Technology</a></p>
+                                <p> May 26, 2016 </p>
+            </div> -->
+        </div>
+    
+	    
+   <div class="blog-link"><a href="/why-synergent/synergies-blog/">See All Blog Posts</a><span>&gt;&gt;</span></div>
+</div>
+            </div>
         </div><!-- End Interior Content Wrapper -->
 
         </div><!-- End Main Content -->
     </div><!-- End Main Container -->    
+    
+                <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 948401782;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/948401782/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
-    <footer class="clear">
+
+<script>
+	
+	$(".collapsable-content").hide();
+	
+	$("a.collapsable-link").click(function(event){
+		event.preventDefault();
+		//$("a.collapsable-link").show();
+		$(".collapsable-content").hide();
+		
+		$(this).parent().next(".collapsable-content").slideToggle();
+		$(this).next(".collapsable-content").slideToggle();
+	});
+	
+	
+</script>
+    
+    
+     <footer class="clear">
         <div class="container" id="footer">
             <div class="content">
-                <div class="col7">
-                    <p><span>SYNERGENT offers solutions and services exclusively to credit unions. Our delivery is designed to increase operational EFFICIENCY, CAPITALIZE on credit union growth opportunities, ease regulatory compliance, and enable the electronic services your&nbsp;<br>members are demanding.</span></p>                    <script type="text/javascript">
-//<![CDATA[
-$(document).ready(function(){
-    $('.search-input').focus(function () {
-        if ($(this).val() == $(this).attr("title"))
-            $(this).val("");
-    }).blur(function () {
-        if ($(this).val() == "")
-            $(this).val($(this).attr("title"));
-    });
-});
-//]]>
-</script>
-
-
-
-<form action="/index.php/search-results/" method="get" class="ccm-search-block-form">
-
-		<input name="search_paths[]" type="hidden" value="">
-		
-	<!--input name="query" type="text" class="search-input" value="" class="ccm-search-block-text" /-->
-        <input name="query" type="text" class="search-input" value="Search" title="Search">
-	
-	<input type="image" src="/themes/synergent_2013/images/button-search.gif">
-
-
-</form>                    <hr>
-                    <a href="https://www.youtube.com/user/SynergentCorp"><img border="0" class="ccm-image-block" alt="" src="/files/cache/01ece0a364b98243204f16d77f3135ef_f89.png" width="45" height="45"></a><a href="http://www.linkedin.com/company/712110?goback=.fcs_GLHD_synergent_false_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=ncsrch_hits"><img border="0" class="ccm-image-block" alt="" src="/files/cache/1f97762937def5f6a6586ddd2423154e_f92.png" width="45" height="45"></a><a href="http://www.bestplacestoworkme.com/"><img border="0" class="ccm-image-block" alt="" src="/files/cache/52f9783a1dfe014cb818276ba1050036_f361.jpg" width="80" height="123"></a>                </div>
-                <div class="responsive-footer col2">
-                    <h4>Sections</h4><ul><li><a href="/" target="_self" class="">Home</a></li><li><a href="/about-us/" target="_self" class="">About Us</a></li><li><a href="/contact-us/" target="_self" class="">Contact Us</a></li><li><a href="/privacy-policy/" target="_self" class="nav-selected nav-path-selected">Privacy Policy</a></li><li><a href="/disclosures/" target="_self" class="">Disclosures</a></li></ul>                </div>
-                <div class="responsive-footer col3 last">
-                    <h4>CONTACT</h4>
-<p>Corporate Headquarters<br>2 Ledgeview Drive&nbsp;<br>Westbrook, ME 04092</p>
-<p>(207) 773-5671&nbsp;<br>800-341-0180&nbsp;<br>In Maine 800-442-6715&nbsp;</p>
-<p>MAILING ADDRESS<br>P.O. Box 1236&nbsp;<br>Portland, ME 04104&nbsp;</p>                </div>
-            </div><!-- End Footer Content -->
-        </div><!--End Footer Container -->
-    </footer>
-    
+	            
+	            <div class="responsive-footer col2 first">
+		            <a href="https://cutrac.synergentcorp.com/" target="_blank">
+			            <img src="/themes/synergent_2013/images/Synergent_CUTRAC.png" alt="Synergent Cutrac Logo">
+			        </a>
+	            </div>
+	            
+	            <div id="footer-middle" class="responsive-footer col7">
+	            	<p>2 Ledgeview Drive, Westbrook, Maine 04092  <span>|</span> <span>(207) 773-5671  |  800-341-0180  |  In Maine 800-442-6715</span></p>
+	            	<p class="border-bottom">Mailing Address:  P.O. Box 1236, Portland, Maine 04104</p>
+	            	<p><a href="/legal/">Legal</a>  |  <a href="/why-synergent/contact-us/">Contact Us</a>  |  <a href="/index.php?cID=155">Careers</a> | <a href="https://support.synergentcorp.com/" target="_blank">Remote Support</a></p>
+	            	<ul>
+		            	<li>
+		            		<a href="http://www.linkedin.com/company/712110" target="_blank">
+				            	<img src="/themes/synergent_2013/images/footer_LinkedIn.png" alt="LinkedIn">
+				            </a> 
+						</li>
+		            	<li>
+		            		<a href="https://www.youtube.com/user/SynergentCorp" target="_blank">
+			            		<img src="/themes/synergent_2013/images/footer_YouTube.png" alt="YouTube">
+			            	</a>
+						</li>
+	            	</ul>
+	            </div>
+	            <div class="responsive-footer col2 last">
+		            <a href="http://www.bestplacestoworkinme.com/" target="_blank">
+			            <img src="/files/8714/0934/0183/BPTWLogo2014_SMALL.jpg" alt="BPTWLogo2014_SMALL.jpg" width="80" height="123">
+			        </a>
+	            </div>
+	            
+            </div>
+        </div>
+     </footer>
    
 
 <!-- End Document
