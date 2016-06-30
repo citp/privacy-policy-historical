@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geekycamel.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128103710id_/http%3A//www.geekycamel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekycamel.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630122557id_/http%3A//www.geekycamel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Camel
 
-This privacy policy details the procedures and policies of Geeky Camel (“we”, “or” or “us”) in regards to the collection, usage and disclosure of your information on GeekyCamel.org (the “website”). This privacy policy also details the services, content and features we offer, known as “our services”. The privacy of the users of the website (“you” or “them”) is extremely important to us, which is why we continuously update our privacy policy to keep them safe. We reserve the right to change our privacy policy without given notice.
+This privacy policy details the procedures and policies of Geeky Camel (“we”, “or” or “us”) in regards to the collection, usage and disclosure of your information on GeekyCamel.com (the “website”). This privacy policy also details the services, content and features we offer, known as “our services”. The privacy of the users of the website (“you” or “them”) is extremely important to us, which is why we continuously update our privacy policy to keep them safe. We reserve the right to change our privacy policy without given notice.
 
 Privacy policy last updated: 02/27/2015
 
