@@ -1,27 +1,30 @@
-<!--The following is the downloaded HTML source of the planetfitness.com privacy policy that was archived on 2015-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151023230437id_/https%3A//www.planetfitness.com/online-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetfitness.com privacy policy that was archived on 2016-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630092512id_/https%3A//www.planetfitness.com/online-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-        <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JqLlqI9i"></script><script type="text/javascript" async="" src="http://www.planetfitness.com/sites/default/files/googleanalytics/ga.js?nwowdh"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQFUVBSGwYJVlVRAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JqLlqI9i"></script><script src="//www.googletagmanager.com/gtm.js?id=GTM-5NV5VS" type="text/javascript" async=""></script><script type="text/javascript" async="" src="http://www.planetfitness.com/sites/default/files/googleanalytics/ga.js?o9jsqb"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQFUVBSGwYJVlVRAgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <link rel="alternate" href="http://www.planetfitness.com/online-privacy-policy" hreflang="en-us">
+ <link rel="alternate" href="http://es.planetfitness.com/online-privacy-policy" hreflang="es-us">
+<link rel="alternate" href="http://www.planetfitness.ca/online-privacy-policy" hreflang="en-ca">
 <link rel="shortcut icon" href="http://www.planetfitness.com/sites/all/themes/planetfitness/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="shortlink" href="http://www.planetfitness.com/node/9126">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
 <meta name="description" content="The Planet Fitness privacy policy explains the manner in which we may collect, use and disclose personal information which website visitors provide us.">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.planetfitness.com/online-privacy-policy">
-    <title>Online Privacy Policy | Planet Fitness</title>
-    <meta name="viewport" content="width=device-width">
-		<meta name="twitter:card" content="photo">
-		<meta name="twitter:site" content="@PlanetFitness">
-		<meta name="twitter:title" content="Planet Fitness: proud home of the Judgement Free Zone">
-		<meta name="twitter:image:src" content="http://www.planetfitness.com/sites/all/themes/planetfitness/img/PFTwitter_Card.jpg">
-    <script src="http://www.planetfitness.com/sites/all/themes/planetfitness/js/vendor/modernizr-2.6.2.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<title>Online Privacy Policy | Planet Fitness</title>
+<meta name="viewport" content="width=device-width">
+<meta name="twitter:card" content="photo">
+<meta name="twitter:site" content="@PlanetFitness">
+<meta name="twitter:title" content="Planet Fitness: proud home of the Judgement Free Zone">
+<meta name="twitter:image:src" content="http://www.planetfitness.com/sites/all/themes/planetfitness/img/PFTwitter_Card.jpg">
+<script src="http://www.planetfitness.com/sites/all/themes/planetfitness/js/vendor/modernizr-2.6.2.min.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css__r408iefJFDp7tkJY64xde0BtyLdHU1-GytpTja6H4w.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css_pZql0AElr2DDVO3dGuztXx1LKVDBNMsLteJHSelpjtA.css" media="all">
-    <script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.planetfitness.com/sites/default/files/css/css_CIDtRpdZLTs64Uc-CPF6X8wMU2X8k-5Z_YSFDyvUqd4.css" media="all">
+<script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
 <script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_IXTtScXePRPv__Eg7kCM1pxwC3UsbBqS04RlR-z6bNg.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -42,54 +45,56 @@ if (stLight !== undefined) { stLight.options({"publisher":"dr-b955d4a-bcfb-c438-
 <script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_rv_BKYv7yieH0IgHddhWHDC-bWGan8yiJbusyOpr0mw.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27725796-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.planetfitness.com/sites/default/files/googleanalytics/ga.js?nwowdh";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27725796-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.planetfitness.com/sites/default/files/googleanalytics/ga.js?o9jsqb";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_K4NGvS-mkwZNvJAZzmWCMcnvFMaY0kC0OoTOcElL5I4.js"></script>
+<script type="text/javascript" src="http://www.planetfitness.com/sites/default/files/js/js_pJX1cl8EXqOYkbWJZbGEBUAn5ZG4mjj0y1Vm2Iss-4Q.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"planetfitness","theme_token":"NHenZBC-he0qY2bcuN_bzXmU7-fYYBCnCBTlTlUq52Y","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/pf\/js\/pf_geo.js":1,"0":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/themes\/planetfitness\/js\/vendor\/jquery.cycle.all.js":1,"sites\/all\/themes\/planetfitness\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/planetfitness\/css\/normalize.css":1,"sites\/all\/themes\/planetfitness\/css\/main.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"pf":{"pfglobal":{"drupal_path":"\/node\/9126","country":"US"},"pfmap":{"club_locator_path":"\/local-clubs"}},"theme":{"theme_url":"sites\/all\/themes\/planetfitness","base_url":"http:\/\/www.planetfitness.com"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"planetfitness","theme_token":"FmCaNc7Gvudsc2L6zuIaRVv7ZMjP7PwPzRBzwy4vV9U","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/pf\/js\/pf_geo.js":1,"0":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/themes\/planetfitness\/js\/vendor\/jquery.cycle.all.js":1,"sites\/all\/themes\/planetfitness\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/planetfitness\/css\/normalize.css":1,"sites\/all\/themes\/planetfitness\/css\/main.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"pf":{"pfglobal":{"drupal_path":"\/node\/9126","country":"US"},"pfmap":{"club_locator_path":"\/local-clubs"}},"theme":{"theme_url":"sites\/all\/themes\/planetfitness","base_url":"http:\/\/www.planetfitness.com"}});
 //--><!]]>
 </script>
-    <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:700,400" rel="stylesheet" type="text/css">
-    <!-- Smartling Language Switcher: JS --><script type="text/javascript">var smtId = "9a51e9071";var smtDefaultStyles = true; /* set to false to use your own css */var smtRedirect = true;var smtProt = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + smtProt + "cdn01.smartling.com/ls/"+ smtId +".js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://cdn01.smartling.com/ls/9a51e9071.js" type="text/javascript"></script>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:700,400" rel="stylesheet" type="text/css">
+ <script type="text/javascript">var smtId = "9a51e9071";var smtDefaultStyles = true; /* set to false to use your own css */var smtRedirect = true;var smtProt = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + smtProt + "cdn01.smartling.com/ls/"+ smtId +".js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://cdn01.smartling.com/ls/9a51e9071.js" type="text/javascript"></script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-9126 node-type-page country-US">
-    <!--[if lt IE 7]>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NV5VS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5NV5VS');</script>
+ 
+<!--[if lt IE 7]>
         <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
-
-          <div id="background-wrapper">
-  <div id="page-wrapper"><div id="page">
-
-    <div id="header" class="SL_swap"><div class="section clearfix">
-      <div id="social-wrapper">
-        <a class="social-icons facebook" href="https://www.facebook.com/planetfitness" target="_blank">Facebook</a>
-        <a class="social-icons instagram" href="http://instagram.com/planetfitness" target="_blank" onclick="Krux('ns:planetfitness')('admEvent','JzueNkf2', {}); ">Instagram</a>
-        <a class="social-icons twitter" href="https://twitter.com/PlanetFitness" target="_blank">Twitter</a>
-        <a class="social-icons youtube" href="http://www.youtube.com/user/planetfitnessnh#p/a/u/0/E-703bkSlJI" target="_blank" onclick="Krux('ns:planetfitness')('admEvent','Jzuee4_R', {});">YouTube</a>
-      </div>
-      <div id="utility-nav">
-        <a id="franchise-link" href="http://www.planetfitness.com/franchising">Own a Franchise</a>
-        <a id="membership-link" href="/member-login-transfer">Member Login</a>
-        <!--<a id="live-chat-link" href="#">Live Chat Now</a>-->
-      </div>
-      <!--Smartling Language Switcher: HTML --><div id="smt-lang-selector"></div>
-
-              <a href="/" title="Home" rel="home" id="logo">
-          <img src="http://www.planetfitness.com/sites/all/themes/planetfitness/logo.png" alt="Home">
-        </a>
-      
-      <p class="header-tagline">Welcome to Planet Fitness. Home of the Judgement Free Zone®</p>
-
-      
-        <div class="region region-header">
-    <div id="block-block-41" class="block block-block">
-
-    
-  <div class="content">
-    <!-- BEGIN Krux Control Tag for "PlanetFitness.com" -->
-<!-- Source: /snippet/controltag?confid=JqLlqI9i&site=PlanetFitness.com&edit=1 -->
+<div id="background-wrapper">
+<div id="page-wrapper"><div id="page">
+<div id="header" class="SL_swap"><div class="section clearfix">
+<div id="social-wrapper">
+<a class="social-icons facebook" href="https://www.facebook.com/planetfitness" target="_blank">Facebook</a>
+<a class="social-icons instagram" href="http://instagram.com/planetfitness" target="_blank" onclick="Krux('ns:planetfitness')('admEvent','JzueNkf2', {}); ">Instagram</a>
+<a class="social-icons twitter" href="https://twitter.com/PlanetFitness" target="_blank">Twitter</a>
+<a class="social-icons youtube" href="http://www.youtube.com/user/planetfitnessnh#p/a/u/0/E-703bkSlJI" target="_blank" onclick="Krux('ns:planetfitness')('admEvent','Jzuee4_R', {});">YouTube</a>
+</div>
+<div id="utility-nav">
+<a id="franchise-link" href="http://www.planetfitness.com/franchising">Own a Franchise</a>
+<ul id="member-nav">
+<span id="toggle"></span>
+<a id="services-link" href="http://www.planetfitness.com/login">Account Services</a>
+<a id="login-link" href="http://www.planetfitness.com/login">Member Login</a>
+<a id="transfer-link" href="http://www.planetfitness.com/transfer">Transfer</a>
+ 
+</ul>
+ 
+</div>
+ <div id="smt-lang-selector"></div>
+<a href="/" title="Home" rel="home" id="logo">
+<img src="http://www.planetfitness.com/sites/all/themes/planetfitness/logo.png" alt="Home">
+</a>
+<p class="header-tagline">Welcome to Planet Fitness. Home of the Judgement Free Zone®</p>
+<div class="region region-header">
+<div id="block-block-41" class="block block-block">
+<div class="content">
+ 
+ 
 <script class="kxct" data-id="JqLlqI9i" data-timing="async" data-version="1.9" type="text/javascript">
   window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
   (function(){
@@ -102,7 +107,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   }());
   
 </script>
-<!-- END Krux Controltag -->
+ 
 <script type="text/javascript">
 // Conversion Name: Planet Fitness Session
 // INSTRUCTIONS 
@@ -123,35 +128,33 @@ ebRand = ebRand * 1000000;
 //<![CDATA[ 
 document.write('<scr'+'ipt src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=622473&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
 //]]>
-</script><script src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=622473&amp;rnd=439887.7429342778"></script>
+</script><script src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=622473&amp;rnd=517683.71002594125"></script>
 <noscript>
 <img width="1" height="1" style="border:0" src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=622473&amp;ns=1"/>
-</noscript>  </div>
+</noscript> </div>
 </div>
 <div id="block-system-main-menu" class="block block-system block-menu">
-
-    
-  <div class="content">
-    <ul class="menu"><li class="first leaf"><a href="/local-clubs" style="font-size:15px; padding:0 7px;">Join Now</a></li>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/local-clubs" style="font-size:15px; padding:0 7px;">Join Now</a></li>
 <li class="leaf"><a href="/membership-types" style="font-size:15px; padding:0 7px;"><span class="hide-mobile">Membership Types</span><span class="show-mobile">Memberships</span></a></li>
-<li class="leaf"><a href="https://www.pfblackcard.com" style="font-size:15px; padding:0 7px;" target="_blank">membership perks</a></li>
+<li class="leaf"><a href="https://www.pfblackcard.com" style="font-size:15px; padding:0 7px;" target="_blank"><span class="hide-mobile">Membership Perks</span><span class="show-mobile">Perks</span></a></li>
 <li class="leaf"><a href="http://www.pfstore.com/ " style="font-size:15px; padding:0 7px;" target="_blank">PF Store</a></li>
 <li class="last expanded"><a href="/About-Planet-Fitness-Gym" style="font-size:15px; padding:0 7px;">About</a><ul class="menu"><li class="first leaf"><a href="/contact-us">Contact Us</a></li>
 <li class="leaf"><a href="/testimonials" id="about-link-02" class="about-dropdown">Testimonials</a></li>
 <li class="leaf"><a href="/news/recent" id="about-link-01" class="about-dropdown">Newsroom</a></li>
 <li class="leaf"><a href="/mission-statement">Mission Statement</a></li>
 <li class="leaf"><a href="/careers" id="about-link-03" class="about-dropdown">Careers</a></li>
-<li class="last leaf"><a href="http://investor.planetfitness.com/">Investor Relations</a></li>
+<li class="leaf"><a href="http://investor.planetfitness.com/">Investor Relations</a></li>
+<li class="leaf"><a href="/pepf">PE@PF</a></li>
+<li class="last leaf"><a href="http://givingback.planetfitness.com">Giving Back</a></li>
 </ul></li>
-</ul>  </div>
+</ul> </div>
 </div>
 <div id="block-block-21" class="block block-block">
-
-    
-  <div class="content">
-    <!-- EXPORTED TAGS -->
-<!------- Tags for Planet Fitness OneTag------->
-<!-- One Tag Conditional Container: Planet Fitness (5126) | Planet Fitness OneTag (3625) -->
+<div class="content">
+ 
+ 
+ 
 <script type="text/javascript">
 var ft_onetag_3625 = {
     ft_vars: {
@@ -220,10 +223,10 @@ var ft_onetag_3625 = {
     }
 }
 ft_onetag_3625.ot_init();
-</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/5126;30660;3625;iframe/?ft_referrer=https%3A//web.archive.org/web/20151023230437id_/https%253A//www.planetfitness.com/online-privacy-policy&amp;ns=&amp;cb=255878.60299795828"></iframe>
-<!-- EXPORTED TAGS -->
-<!------- Tags for PF OneTag Jan 2015 Flight------->
-<!-- One Tag Conditional Container: Planet Fitness (5897) | PF OneTag Jan 2015 Flight (4310) -->
+</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/5126;30660;3625;iframe/?ft_referrer=https%3A//web.archive.org/web/20160630092512id_/https%253A//www.planetfitness.com/online-privacy-policy&amp;ns=&amp;cb=708939.6285702196"></iframe>
+ 
+ 
+ 
 <script type="text/javascript">
 var ft_onetag_4310 = {
     ft_vars: {
@@ -292,124 +295,98 @@ var ft_onetag_4310 = {
     }
 }
 ft_onetag_4310.ot_init();
-</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/5897;36879;4310;iframe/?ft_referrer=https%3A//web.archive.org/web/20151023230437id_/https%253A//www.planetfitness.com/online-privacy-policy&amp;ns=&amp;cb=39156.5923453836"></iframe>
-  </div>
+</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/5897;36879;4310;iframe/?ft_referrer=https%3A//web.archive.org/web/20160630092512id_/https%253A//www.planetfitness.com/online-privacy-policy&amp;ns=&amp;cb=774770.4818843299"></iframe>
 </div>
-  </div>
-
-    </div></div> <!-- /.section, /#header -->
-
-    
-    <!--      <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
-    -->
-
-    
-    <div id="main-wrapper"><div id="main" class="clearfix">
-
-      <div id="content" class="column"><div class="section">
-                <a id="main-content"></a>
-                <h1 class="title" id="page-title">Online Privacy Policy</h1>                <div class="tabs"></div>                                  <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-9126" class="node node-page clearfix" about="/online-privacy-policy" typeof="foaf:Document">
-
-  
-      <span property="dc:title" content="Online Privacy Policy" class="rdf-meta element-hidden"></span>
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
-    <h2>Planet Fitness Privacy Policy</h2>
-    <p>Thank you for visiting the Planet Fitness website (the “<span style="text-decoration: underline;">Site</span>”). &nbsp;This Privacy Policy explains the manner in which we may collect, use and disclose personal information which you provide to us. &nbsp;By visiting this Site or otherwise providing us with your personal information, you agree to be bound by the terms of this policy. &nbsp;</p>
-    <p>We want to assure you that Planet Fitness takes privacy matters very seriously and is committed to protecting your privacy. Therefore, we are providing this policy to explain our privacy practices and the choices you can make about the way your information is collected and used.</p>
-    <h2>Collection and Use of Personal Information</h2>
-    <p>We only collect personal information that you provide to us or that is otherwise provided to us on your behalf. You may choose to provide certain personal information in order to access or use certain features or services of the Site, such as making a purchase, joining one of our clubs, paying your membership fees, requesting information, filling out an employment or franchise application, entering a sweepstakes or otherwise contacting us. Such information may include your name, phone number, e-mail address, mailing address, credit card or banking information or other information. You can always choose not to provide information, but it may limit your ability to use a particular service or feature on the Site.</p>
-    <p>By providing your personal information to us, you are authorizing us to collect, use and disclose such information in the manner outlined in this policy. Unless we advise otherwise, your information will only be used for the purposes for which it was provided or in order to contact you regarding related matters. We limit the information we collect to what we feel is necessary for those purposes.&nbsp;</p>
-    <p>We may periodically send you newsletters, e-mails or similar communications featuring sales and promotions, news about new Planet Fitness products and services, requests for your feedback, or other information we think may be of interest to you, in accordance with local law. &nbsp;You may stop receiving marketing communications from us at any time by following the instructions included in the message you received.. However, if you unsubscribe from our marketing communications, you will not automatically become unsubscribed from the marketing communications of the franchise owner of the Planet Fitness club you joined or to which your e-mail address has been provided as set forth in this policy. Planet Fitness franchises are independently owned and operated businesses and we do not control their use of your e-mail address. Accordingly, if you are a member at a Planet Fitness franchise club, please contact your home club directly to learn how to unsubscribe from such communications.&nbsp;</p>
-    <p>Planet Fitness also collects information that is sent to us automatically by your web browser. The information we receive depends upon your browser’s settings. This information typically includes your computer’s IP address, the address of the web page you were visiting when you accessed our Site, the name of the operating system installed on your computer, the name and version of the browser you are using and the date and time of your visit. We use this information primarily to create statistics that help us improve our Site and make it more compatible with the technology used by our visitors. We may link this information with your personal information as we deem necessary for our business purposes. If criminal activity is suspected, we might need to share certain information with the appropriate investigative authorities. Such information may contain visitors’ IP addresses and other information which could be used to trace and identify individuals.</p>
-    <p>So-called “cookies” and other similar technologies may be used on the Site and by third parties to collect information over time and across third party websites, to support the Site’s functionality and to improve user experience. You have the ability to set your browser to reject cookies. However, if you set your browser to reject cookies, it may affect or limit the use of certain features and functionality of this Site. We do not currently respond to “Do-Not-Track” signals or mechanisms.</p>
-    <h2>Disclosure of Personal Information</h2>
-    <p>Planet Fitness will not disclose, trade, rent, sell or otherwise transfer your personal information for purposes other than as those set out herein, except with your consent or as required or permitted by law.</p>
-    <p>Planet Fitness may disclose your personal information to third party service providers or agents who provide services to or on behalf of Planet Fitness or its members such as, but not limited to, hosting, data management and storage services, sweepstakes providers, Black Card benefits providers and retention services. Either Planet Fitness or such third party service provider may use servers for such purposes located in the United States or another foreign country. Your personal information may be processed and stored in the United States or such other foreign country and the governments, courts, law enforcement and regulatory agencies of that country may be able to demand disclosure of personal information pursuant to the laws of such country.</p>
-    <p>We do not generally disclose your personal information to third parties without your consent unless required by applicable law. However, there are some situations in which we may disclose your personal information without your consent including, but not limited to:</p>
-    <ul>
-        <li>with current and future parent companies, subsidiaries and affiliated entities of Planet Fitness;</li>
-        <li>with Planet Fitness franchisees, if you are a Planet Fitness member, visitor or guest at a Planet Fitness franchisee club location;</li>
-        <li>with our third party service providers, as we deem necessary in connection with the services being provided to us or on our behalf;</li>
-        <li>in connection with a merger, sale, corporate reorganization or similar business transaction involving Planet Fitness, its parents, subsidiaries, affiliates or one or more of its franchisees;</li>
-        <li>when we are required or authorized by law to do so (for example, in response to a subpoena issued by a court); or</li>
-        <li>if the information is already on the public record and the disclosure is directly related to the purposes for which it was recorded on the public record.</li>
-    </ul>
-    <p>We may also share your personal information with third parties to use for their marketing purposes, in accordance with local law, if we think the products or services they offer would be of interest to you. If you are a member of a Planet Fitness location in Canada or a Canadian resident, we will only share such information if you have agreed to receive commercial electronic messages from us and our partners. If you unsubscribe from our commercial communications, we will no longer share your information with third parties for marketing purposes. &nbsp;</p>
-    <h2>Access to your Personal Information</h2>
-    <p>You have a right to challenge the accuracy and completeness of your personal information and to have it corrected, as appropriate. You may also have a right to request access to your personal information and receive an accounting of how that information has been used and disclosed, subject to certain exceptions prescribed by law. If your request for access is denied, we will notify you in writing of the reason for such denial. To request access or to amend your personal information, please visit your home club.</p>
-    <h2>Security&nbsp;</h2>
-    <p>Security for all personal information is extremely important to us. We store your personal information securely and use encryption and/or other special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no data transmission over the Internet can ever be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Planet Fitness cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.</p>
-    <h2>Franchisees and Other Third Parties&nbsp;</h2>
-    <p>We may share your personal information with Planet Fitness franchisees and other third parties as set forth in this policy. We may also provide links to other websites that are not affiliated with us. We do not have control over such third parties’ use and handling of your personal information and we are not responsible for their privacy procedures. We recommend that you review their privacy policies and procedures before providing any personal information to them.</p>
-    <h2>Use of this Site by Minors</h2>
-    <p>This is a commercial website intended for use by individuals that are at least 18 years old. If you are less than 18 years old, you may not use this Site without the prior permission and supervision of your legal guardians. Planet Fitness does not accept members under the age of 13 and does not knowingly collect information from anyone under the age of 13.&nbsp;</p>
-    <h2>Terms of Use</h2>
-    <p>Your use of this Site and any issues relating to this policy are subject to Planet Fitness’ then-current Terms of Use, which are located on our Site.&nbsp;</p>
-    <h2>Privacy Policy Updates</h2>
-    <p>We reserve the right to update or modify this policy at any time and from time to time without prior notice by posting a revised version of the policy on the Site. If we make material changes to this policy, we will notify you by means of a conspicuous notice on our homepage. Your use of the Site or any Planet Fitness facility following any revision to the policy constitutes your agreement that all personal information collected from or about you after the revised policy is posted will be subject to the terms and conditions of the revised policy. The date listed above indicates the most recent change or update to this policy.&nbsp;</p>
-    <h2>Notice to California Residents</h2>
-    <p>California Civil Code § 1798.83 permits residents of California to request from Planet Fitness a notice disclosing: (1) the categories of personal information we have shared with third parties, if any, for the third parties’ direct marketing purposes, during the preceding calendar year, and (2) the names and addresses of those third parties. To make such a request, please contact us at:</p>
-    <p>Planet Fitness Headquarters
-        <br>Attn: Privacy Officer
-        <br>26 Fox Run Road
-        <br>Newington, NH 03801
-        <br>Email: <a style="font-size: 13.3333339691162px; line-height: 1.538em;" href="mailto:Privacy@PlanetFitness.com">Privacy@PlanetFitness.com</a>
-    </p>
-    <h2>Privacy Officer Contact Information&nbsp;</h2>
-    <p>If you have any questions or concerns about our privacy practices, please feel free to contact our Privacy Officer at the address listed above.&nbsp;</p>
 </div>
-</div></div></div>  </div>
-
-  
-  
 </div>
-  </div>
+</div></div>  
+ 
+<div id="main-wrapper"><div id="main" class="clearfix">
+<div id="content" class="column"><div class="section">
+<a id="main-content"></a>
+<h1 class="title" id="page-title">Online Privacy Policy</h1> <div class="tabs"></div> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<div id="node-9126" class="node node-page clearfix" about="/online-privacy-policy" typeof="foaf:Document">
+<span property="dc:title" content="Online Privacy Policy" class="rdf-meta element-hidden"></span>
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
+<h2>Planet Fitness Privacy Policy</h2>
+<p>Thank you for visiting the Planet Fitness website (the “<span style="text-decoration: underline;">Site</span>”). &nbsp;This Privacy Policy explains the manner in which we may collect, use and disclose personal information which you provide to us. &nbsp;By visiting this Site or otherwise providing us with your personal information, you agree to be bound by the terms of this policy. &nbsp;</p>
+<p>We want to assure you that Planet Fitness takes privacy matters very seriously and is committed to protecting your privacy. Therefore, we are providing this policy to explain our privacy practices and the choices you can make about the way your information is collected and used.</p>
+<h2>Collection and Use of Personal Information</h2>
+<p>We only collect personal information that you provide to us or that is otherwise provided to us on your behalf. You may choose to provide certain personal information in order to access or use certain features or services of the Site, such as making a purchase, joining one of our clubs, paying your membership fees, requesting information, filling out an employment or franchise application, entering a sweepstakes or otherwise contacting us. Such information may include your name, phone number, e-mail address, mailing address, credit card or banking information or other information. You can always choose not to provide information, but it may limit your ability to use a particular service or feature on the Site.</p>
+<p>By providing your personal information to us, you are authorizing us to collect, use and disclose such information in the manner outlined in this policy. Unless we advise otherwise, your information will only be used for the purposes for which it was provided or in order to contact you regarding related matters. We limit the information we collect to what we feel is necessary for those purposes.&nbsp;</p>
+<p>We may periodically send you newsletters, e-mails or similar communications featuring sales and promotions, news about new Planet Fitness products and services, requests for your feedback, or other information we think may be of interest to you, in accordance with local law. &nbsp;You may stop receiving marketing communications from us at any time by following the instructions included in the message you received.. However, if you unsubscribe from our marketing communications, you will not automatically become unsubscribed from the marketing communications of the franchise owner of the Planet Fitness club you joined or to which your e-mail address has been provided as set forth in this policy. Planet Fitness franchises are independently owned and operated businesses and we do not control their use of your e-mail address. Accordingly, if you are a member at a Planet Fitness franchise club, please contact your home club directly to learn how to unsubscribe from such communications.&nbsp;</p>
+<p>Planet Fitness also collects information that is sent to us automatically by your web browser. The information we receive depends upon your browser’s settings. This information typically includes your computer’s IP address, the address of the web page you were visiting when you accessed our Site, the name of the operating system installed on your computer, the name and version of the browser you are using and the date and time of your visit. We use this information primarily to create statistics that help us improve our Site and make it more compatible with the technology used by our visitors. We may link this information with your personal information as we deem necessary for our business purposes. If criminal activity is suspected, we might need to share certain information with the appropriate investigative authorities. Such information may contain visitors’ IP addresses and other information which could be used to trace and identify individuals.</p>
+<p>So-called “cookies” and other similar technologies may be used on the Site and by third parties to collect information over time and across third party websites, to support the Site’s functionality and to improve user experience. You have the ability to set your browser to reject cookies. However, if you set your browser to reject cookies, it may affect or limit the use of certain features and functionality of this Site. We do not currently respond to “Do-Not-Track” signals or mechanisms.</p>
+<h2>Disclosure of Personal Information</h2>
+<p>Planet Fitness will not disclose, trade, rent, sell or otherwise transfer your personal information for purposes other than as those set out herein, except with your consent or as required or permitted by law.</p>
+<p>Planet Fitness may disclose your personal information to third party service providers or agents who provide services to or on behalf of Planet Fitness or its members such as, but not limited to, hosting, data management and storage services, sweepstakes providers, Black Card benefits providers and retention services. Either Planet Fitness or such third party service provider may use servers for such purposes located in the United States or another foreign country. Your personal information may be processed and stored in the United States or such other foreign country and the governments, courts, law enforcement and regulatory agencies of that country may be able to demand disclosure of personal information pursuant to the laws of such country.</p>
+<p>We do not generally disclose your personal information to third parties without your consent unless required by applicable law. However, there are some situations in which we may disclose your personal information without your consent including, but not limited to:</p>
+<ul>
+<li>with current and future parent companies, subsidiaries and affiliated entities of Planet Fitness;</li>
+<li>with Planet Fitness franchisees, if you are a Planet Fitness member, visitor or guest at a Planet Fitness franchisee club location;</li>
+<li>with our third party service providers, as we deem necessary in connection with the services being provided to us or on our behalf;</li>
+<li>in connection with a merger, sale, corporate reorganization or similar business transaction involving Planet Fitness, its parents, subsidiaries, affiliates or one or more of its franchisees;</li>
+<li>when we are required or authorized by law to do so (for example, in response to a subpoena issued by a court); or</li>
+<li>if the information is already on the public record and the disclosure is directly related to the purposes for which it was recorded on the public record.</li>
+</ul>
+<p>We may also share your personal information with third parties to use for their marketing purposes, in accordance with local law, if we think the products or services they offer would be of interest to you. If you are a member of a Planet Fitness location in Canada or a Canadian resident, we will only share such information if you have agreed to receive commercial electronic messages from us and our partners. If you unsubscribe from our commercial communications, we will no longer share your information with third parties for marketing purposes. &nbsp;</p>
+<h2>Access to your Personal Information</h2>
+<p>You have a right to challenge the accuracy and completeness of your personal information and to have it corrected, as appropriate. You may also have a right to request access to your personal information and receive an accounting of how that information has been used and disclosed, subject to certain exceptions prescribed by law. If your request for access is denied, we will notify you in writing of the reason for such denial. To request access or to amend your personal information, please visit your home club.</p>
+<h2>Security&nbsp;</h2>
+<p>Security for all personal information is extremely important to us. We store your personal information securely and use encryption and/or other special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no data transmission over the Internet can ever be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Planet Fitness cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.</p>
+<h2>Franchisees and Other Third Parties&nbsp;</h2>
+<p>We may share your personal information with Planet Fitness franchisees and other third parties as set forth in this policy. We may also provide links to other websites that are not affiliated with us. We do not have control over such third parties’ use and handling of your personal information and we are not responsible for their privacy procedures. We recommend that you review their privacy policies and procedures before providing any personal information to them.</p>
+<h2>Use of this Site by Minors</h2>
+<p>This is a commercial website intended for use by individuals that are at least 18 years old. If you are less than 18 years old, you may not use this Site without the prior permission and supervision of your legal guardians. Planet Fitness does not accept members under the age of 13 and does not knowingly collect information from anyone under the age of 13.&nbsp;</p>
+<h2>Terms of Use</h2>
+<p>Your use of this Site and any issues relating to this policy are subject to Planet Fitness’ then-current Terms of Use, which are located on our Site.&nbsp;</p>
+<h2>Privacy Policy Updates</h2>
+<p>We reserve the right to update or modify this policy at any time and from time to time without prior notice by posting a revised version of the policy on the Site. If we make material changes to this policy, we will notify you by means of a conspicuous notice on our homepage. Your use of the Site or any Planet Fitness facility following any revision to the policy constitutes your agreement that all personal information collected from or about you after the revised policy is posted will be subject to the terms and conditions of the revised policy. The date listed above indicates the most recent change or update to this policy.&nbsp;</p>
+<h2>Notice to California Residents</h2>
+<p>California Civil Code § 1798.83 permits residents of California to request from Planet Fitness a notice disclosing: (1) the categories of personal information we have shared with third parties, if any, for the third parties’ direct marketing purposes, during the preceding calendar year, and (2) the names and addresses of those third parties. To make such a request, please contact us at:</p>
+<p>Planet Fitness Headquarters
+<br>Attn: Privacy Officer
+<br>26 Fox Run Road
+<br>Newington, NH 03801
+<br>Email: <a style="font-size: 13.3333339691162px; line-height: 1.538em;" href="mailto:Privacy@PlanetFitness.com">Privacy@PlanetFitness.com</a>
+</p>
+<h2>Privacy Officer Contact Information&nbsp;</h2>
+<p>If you have any questions or concerns about our privacy practices, please feel free to contact our Privacy Officer at the address listed above.&nbsp;</p>
 </div>
-  </div>
-              </div></div> <!-- /.section, /#content -->
-
-
-      
-      
-    </div></div> <!-- /#main, /#main-wrapper -->
-
-    <div id="footer"><div class="section">
-         <div class="SL_swap" id="Footer_Swap">
-      <div class="region region-footer">
-        <div id="block-block-19" class="block block-block">
-
-    
-  <div class="content">
-    <div id="footer-info">
-    <a href="/contact-us" id="customer-services-link">Contact Us</a>
-    | <a href="https://www.planetfitness.com/suggest-location" id="customer-services-link">Suggest A Location</a>
-    | <a href="http://investor.planetfitness.com/">Investor Relations</a>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div></div>  
+</div></div>  
+<div id="footer"><div class="section">
+<div class="SL_swap" id="Footer_Swap">
+<div class="region region-footer">
+<div id="block-block-19" class="block block-block">
+<div class="content">
+<div id="footer-info">
+<a href="/contact-us" id="customer-services-link">Contact Us</a>
+| <a href="https://www.planetfitness.com/suggest-location" id="customer-services-link">Suggest A Location</a>
+| <a href="http://investor.planetfitness.com/">Investor Relations</a>
 </div>
 <div id="footer-copyright">
-    Copyright© 1997 - 2015 PFIP, LLC
-    | <a href="/online-privacy-policy">Privacy Policy</a>
-    | <a href="/terms-use">Terms and Conditions</a>
-    | <a href="/sitemap">Sitemap</a>
-
-</div>  </div>
+Copyright© 1997 - 2016 PFIP, LLC
+| <a href="/online-privacy-policy">Privacy Policy</a>
+| <a href="/terms-use">Terms and Conditions</a>
+| <a href="/sitemap">Sitemap</a>
+</div> </div>
 </div>
-      </div>
-   </div>
-    </div></div> <!-- /.section, /#footer -->
-
-  </div></div> <!-- /#page, /#page-wrapper -->
-    <div id="pf-state-chooser-container"></div>
 </div>
-    
-    <!-- Twitter widget code -->
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5a27066e16","applicationID":"5924359","transactionName":"YwZWY0QECkNRABJdW1pMdVRCDAteHw0JUFFrE1VQUzoSWVUU","queueTime":0,"applicationTime":109,"atts":"T0FBFQweGRwSAkQOT0ke","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+</div>
+</div></div>  
+</div></div>  
+<div id="pf-state-chooser-container"></div>
+</div>
+ 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5a27066e16","applicationID":"5924359","transactionName":"YwZWY0QECkNRABJdW1pMdVRCDAteHw0JUFFrE1VQUzoSWVUU","queueTime":0,"applicationTime":83,"atts":"T0FBFQweGRwSAkQOT0ke","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
