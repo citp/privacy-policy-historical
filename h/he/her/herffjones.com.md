@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908084626id_/https%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152256id_/https%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Herff Jones
 
@@ -79,3 +79,5 @@ Set reasonable rules and guidelines for computer use by your children. Discuss t
 Because some of the content on the Internet consists of material that is adult-oriented or otherwise objectionable to some people, the results of your search may automatically and unintentionally generate links or references to objectionable material. Herffjones.com has no control over, and can make no claim that such surprises will not occur. Computerized search technology does not give you search results limited to only the hits that you were seeking. There may be extraneous hits as well.
 
 Herffjones.com recommends that to avoid any such surprises, you take advantage of the access controls that Herffjones.com offers, as we discuss above, and be diligent in your supervision of any children you allow to use the Internet.
+
+Have a concern or complaint? Please email us at [privacy@herffjones.com ](mailto:%20privacy@herffjones.com)
