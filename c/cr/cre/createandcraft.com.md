@@ -1,105 +1,91 @@
-> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630182436id_/http%3A//www.createandcraft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CreateAndCraft
+# Privacy Policy - Create and Craft USA
 
-The [www.createandcraft.tv](http://www.createandcraft.tv/) website is operated by Ideal Shopping Direct Limited, a company registered in England and Wales, whose registered office is at Newark Road, Peterborough, Cambridgeshire, United Kingdom, PE1 5WG.
+At Create and Craft, we want you to know how we collect and use information about you when you use the [www.createandcraft.com](https://web.archive.org/web/20160630182436id_/http%3A//www.createandcraft.com/www.createandcraft.com) website, place an order by telephone (including through our interactive voice response service) , use our mobile applications or otherwise provide us with information by email or other means (the “ C&C Services”). This Privacy Policy describes information that can identify you (“personal information”) that we collect, what we use your personal information for, when we might disclose that information, and how you can manage use of that information. By using the [www.createandcraft.com](https://web.archive.org/web/20160630182436id_/http%3A//www.createandcraft.com/www.createandcraft.com) website (the “Site”) or the C&C Services, you are accepting the practices described in this policy. 
 
-The purpose of this statement is to set out how we use personal information that we may obtain about you. By either registering as a user of any services provided by Ideal Shopping Direct Limited on this website and by using the idealworld.tv website generally, you agree to this use.
+### Information We May Collect
 
-  
+We collect information that can identify you when you register with the Site, or place an order with us by use of the C&C Services. This includes your name, postal address, email address, telephone number and credit card information. We may also collect information that does not personally identify you, such as your IP address and information about your location and use of the Site and the Internet. We may supplement the information that you provide to us with information we receive from third parties. 
 
+### Use of Your Personal Information
 
-## Use of your Personal Information
+We may use information that you provide or that is obtained by us in the following ways:
 
-1\. When you register and use this site you will be asked to provide certain information, such as your email address. We will store this data and will use it to fulfil our agreement with you.
+•Provide you with the content, products and services you request.  
+•Communicate with you about your account or transactions with us and send you information about features and enhancements on or to our Site or to the C&C Services.  
+•Communicate with you about changes to our policies.  
+•Personalize content and experiences on our Site, including providing you recommendations based on your preferences.  
+•Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail, text, or other another medium.  
+•Provide you with advertising, including advertising based on your activity on our Site or activity on third party sites and applications.  
+•Administer contests, sweepstakes, promotions, and surveys.  
+•Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.  
+•Optimize or improve our products, services and operations.  
+•Detect, investigate, and prevent activities that may violate our policies or be illegal.  
+•Perform statistical, demographic, and marketing analyses of users of the Site and the C&C Services and their purchasing patterns.  
+•In any other way we may describe when you provide the information  
+•For any other purpose with your consent.
 
-2\. We may use information that you provide or that is obtained by us in the following ways:
+This Privacy Policy does not apply to websites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites. 
 
-  1. to register you with our website and to administer our website services;
-  2. for assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer;
-  3. if you subscribe to our marketing programme, we may use your information to make decisions about you using computerised technology, for example, automatically selecting products or services which we think will interest you. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods: 
+### Disclosure of Your Information
 
+We may disclose personal information that we collect or you provide as described in this Privacy Policy:
 
-  * email
-  * telephone
-  * SMS text message and other electronic messages such as picture messaging
-  * post
-  * fax
-  * or otherwise, including products and services of other companies and organisations which we consider may be of interest to you. If you do not wish to receive information about such products and services, please tick the opt-out box provided when registering on this website; 
+•To employees and agents of Craft Retail International Limited (“Craft”), which operates the Create and Craft television channel, the Site and the C&C Services, and to Craft’s parent company and other corporate affiliates.   
+•To contractors, service providers, agents, and other third parties we use to support our business, including credit card payment processors and product suppliers.  
+•To sponsors, advertisers and other third parties to market their products or services to you unless you have asked not to receive such information. We require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them.  
+• To fulfill the purpose for which you provide it.   
+•To anyone to whom we transfer or may transfer our rights and duties under our agreement with you;  
+•To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Craft's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Craft about the users of our Services is among the assets transferred.  
+•For any other purpose disclosed by us when you provide the information.
 
+We may also disclose your personal information:
 
+•To comply with any court order, law or legal process, including to respond to any government or regulatory request.  
+•To enforce or apply our [Terms and Conditions](http://www.createandcraft.com/terms-and-conditions-use.aspx "Terms and Conditions") of Use and other agreements, including for billing and collection purposes.  
+•If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Craft, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-   d. to administer any prize draws or competitions you may enter.
+We may disclose or share information that is not personal information in any other manner that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Site and who our users are so we can improve our Site and the C&C Services. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Site. 
 
-3\. We may supplement the information that you provide to us with information we receive from third parties.
+### Security
 
-  
+We are concerned about ensuring the security of your personal information. We endeavor to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any information you provide to us. You accept the inherent security risks of providing information and making purchases over the Internet and we cannot be held responsible for any breach of security that is not willful or negligent. All of your personal data, including credit card information is encrypted using Secure Sockets Layer (SSL) Technology. 
 
+### Your Choices About Use of Personal Information
 
-## Fraud Prevention
+**Changing Your Registration Information**   
+To change any of your registered details on the Site, click on 'your account' and enter your login name and password. Once logged in, change any of the details shown and click 'change details'. 
 
-4\. In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.
+**Opting Out of Promotional Offers from Create and Craft**  
+You may always opt-out of receiving future e-mail marketing messages and newsletters from us. We provide you with the opportunity to opt-out of receiving communications from us by logging into your account and adjusting your communications settings. If you receive a promotional e-mail from us and you wish to opt out in the future, you may click the “Unsubscribe” link. If you receive a promotional text message and wish to opt out in the future, please reply to the message with “STOP.” You may also opt out by logging in to your account and changing your Marketing Preferences. You may not opt-out of receiving transactional e-mails related to your account with us. 
 
-  
+### No Children Under the Age of 13
 
+The Site and the C&C Services are not intended for children under 13 years of age. We do not sell products for purchase by children and products we sell must be purchased by adults. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or through the C&C Services. 
 
-## Disclosure of Your Information
+### California Privacy Rights
 
-5\. We may give information about you to the following, who may use it for the same purposes as set out above:
+If you are a California resident you have the right to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes. To obtain this information, please send an email message to [customer.service@createandcraft.com](mailto:customer.service@createandcraft.com) with “Request for California Privacy Information” in the subject line of your message. Please allow thirty days for a response. 
 
-  1. to employees and agents of the Ideal Shopping Direct Limited to administer any accounts, products and services provided to you by Ideal Shopping Direct Limited now, or in the future;
-  2. agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs;
-  3. other organisations for the administration of prize draws or competitions;
-  4. to anyone to whom we transfer or may transfer our rights and duties under our agreement with you;
-  5. if we have a duty to do so or if the law allows us to do so. 
+Currently, our Site does not recognize automated browser signals regarding “do not track” instructions. If we develop this capability in the future, we will update this Privacy Policy to describe how we respond to such signals. 
 
+### Cookies
 
+Like many websites, we use “cookies”, which are small text files that are stored on your computer or equipment that record your preferences and actions. We use cookies to track use of our Site and online services. We may also use cookies to monitor traffic, improve the Site and make it easier and/or relevant for your use.
 
-6\. In carrying out the activities specified in this section, we may transfer data to reputable companies outside the European Economic Area. We take steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation.
+There are two types of cookies: session cookies and persistent cookies. A session cookie expires shortly after you close your browser. Persistent cookies are stored on your hard drive until they expire or are deleted. Both types of cookies are used to make it easier for you to navigate our Website -- for example, by remembering your shopping preferences, shopping cart, and user information.
 
-7\. If you are purchasing a television from us, please note that the Wireless Telegraphy Act (1967) requires us to notify the TV Licensing Authority within 28 days of each transaction, giving full details of the buyer.
+Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you disable or refuse cookies, please note that some parts of this Site may then be inaccessible or not function properly. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
-  
+We may also use web beacons or flash cookies. A web beacon or flash cookie (also known as “action tags”, “tracer tags”, or “single-pixel gifs”) is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about your use of a given website. We do not share or provide personally identifiable information we may collect through such web beacons, such as names, e-mail addresses and phone numbers, without your express permission. 
 
+We may partner with third party advertising companies who may utilize flash or enhanced cookies or web beacons to better provide advertisements about our products and services that may be of interest to you. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Site. They may collect information about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content. These partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information from us, without your consent. They may, however, use persistent identifiers to anonymously track your internet usage across other websites in their networks beyond this Site. Such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
 
-## Cookies
+### Changes to this Policy
 
-8.  A cookie is an element of data that a website can send to your browser, which may then store it on your system. Cookies are be used by us to provide you with a customised visitor experience. 
+We may update the Privacy Policy from time to time to reflect changes in our Services and practices. We will post changes to the Privacy Policy on the Site so that you will know about changes in the way we gather, use or share your personal information. We may also notify you of material changes in the Privacy Policy by sending an email, but you should check this Privacy Policy each time you use the Site in case you missed a notice of changes. Your continued use of our Site after we make changes will mean you accept those changes in our policy and practices. 
 
-9\. Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers.
+### How to Contact Us
 
-10\. Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address (IP address). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
-
-For more information about cookies, visit our [About Cookies](http://www.createandcraft.tv/About-Cookies.aspx "About Cookies") page.  
-
-
-## Security
-
-11\. We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
-
-12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security ](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/CraftSecurity.aspx).
-
-  
-
-
-## General
-
-13\. You have the right to see personal data (as defined in the Data Protection Act) that we keep about you, upon receipt of a written request and payment of a fee. If you are concerned that any of the information we hold on you is incorrect please contact us (see details below).
-
-14\. Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
-
-  
-
-
-## How can I get my name removed from the idealworld.tv mailing list?
-
-If you want to be removed from our mailing list, please contact our Customer Services department. Please note that it may take up to 14 days to action your request.
-
-  
-
-
-## How do I change any details stored on idealworld.tv?
-
-To change any of your registered details on createandcraft.tv or idealworld.tv, click on 'your account' and enter your login name and PIN. Once logged in change any of the details shown and click 'change details'.
-
-For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/TermsandConditions.aspx) and [Home Delivery ](https://web.archive.org/web/20121014190322id_/http%3A//www.createandcraft.tv/HomeDelivery.aspx).
+If you have any questions about this Privacy Policy, you should contact us by email at [customer.services@createandcraft.com](mailto:customer.services@createandcraft.com) with “PRIVACY POLICY” in the subject line.
