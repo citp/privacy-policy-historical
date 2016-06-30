@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208124902id_/http%3A//skincarerx.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630171751id_/http%3A//skincarerx.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ When you submit your personal information to us, you are giving us your consent 
 
 SkinCareRx will occasionally update this Privacy Policy. We encourage you to check the date of our Privacy Policy each time you visit our website for any updates or changes. 
 
-This Privacy Policy applies only to SkinCareRx and its affiliated websites Apothica.com and SkinBotanica.com (or collectively our "Site"). This Privacy Policy does not necessarily apply to our offline collection of your personal information, which is addressed later in this document.   Your use of our Site constitutes your consent to this Privacy Policy, including any changes or updates. If you do not agree to the terms of our Privacy policy, you should not use the Site.
+This Privacy Policy applies only to SkinCareRx and its affiliated website SkinBotanica.com (or collectively our "Site"). This Privacy Policy does not necessarily apply to our offline collection of your personal information, which is addressed later in this document.   Your use of our Site constitutes your consent to this Privacy Policy, including any changes or updates. If you do not agree to the terms of our Privacy policy, you should not use the Site.
 
 We also interact with customers on third party sites where we post content or invite your feedback, such as Facebook, Twitter, Pinterest, Instagram and other related social sites.  We are not responsible for the content or privacy practices on any websites other than our Site, including any websites that link to or from our Site.
 
