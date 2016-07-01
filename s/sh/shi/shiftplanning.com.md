@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122231209id_/https%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701093409id_/https%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Online Employee Schedule Software | Workforce Management – ShiftPlanning.com
+# Privacy Policy - Online Employee Schedule Software | Workforce Management – ShiftPlanning.com
 
 This Policy applies to all ShiftPlanning© Websites, www.shiftplanning.com and www.ShiftPlanning.com (“Websites”) owned and operated by Shiftplanning.com, Inc (Shiftplanning). Our website includes links to other sites whose privacy practices may differ from those of ShiftPlanning©. This Policy does not apply to other companies’ or organizations’ sites to which we link. You should carefully review the privacy policies of those sites in order to determine how they treat your personal information. 
 
@@ -59,18 +59,17 @@ You can also log in to our site using sign-in services such as Facebook Connect 
 
 ##  Uses of Personal Information 
 
-If you have provided us your consent via opt-in subscription, we may use the information we have collected about you in ten ways: 
+If you have provided us your consent via opt-in subscription, we may use the information we have collected about you in nine ways: 
 
-  1. To send personalized, targeted information that we think our users will find relevant, either from ShiftPlanning© or directly from its Business Partners; 
+  1. To send personalized, targeted information that we think our users will find relevant; 
   2. To support any of your requests like order processing; 
   3. To send promotions, offers, advertisements and coupons based on user interests; 
   4. To contact the user for feedback and surveys; 
   5. To send the user other information about ShiftPlanning© or its Business Partners. These communications include but are not limited to e-mail, postal mail and SMS messages; 
   6. To respond to your questions or the comments that you fax or email to us; 
   7. To provide you with newsletters or other subscription information; 
-  8. To distribute to sponsors and advertisers who run the promotions and/or for purposes of marketing by our sponsors and advertisers; 
-  9. To run chatrooms, blogs, discussion groups and bulletin boards and 
-  10. To gather aggregate information on Website use and to provide services to the public of a general or specific nature, paid or unpaid. 
+  8. To run chatrooms, blogs, discussion groups and bulletin boards and 
+  9. To gather aggregate information on Website use and to provide services to the public of a general or specific nature, paid or unpaid. 
 
 
 
@@ -153,4 +152,4 @@ We also display personal testimonials of satisfied customers on our site in addi
 
 If you have questions or concerns regarding this Policy, you should email ShiftPlanning© Customer Service at [info@shiftplanning.com](mailto:info@shiftplanning.com) or contact us at +1 (866) 973-7866 or 235 Montgomery St 500 San Francisco, CA 94104, USA 
 
-Last Revised: December 23, 2015 
+Last Revised: May 9, 2016 
