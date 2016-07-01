@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youinvest.co.uk privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422033558id_/https%3A//www.youinvest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youinvest.co.uk privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701151200id_/https%3A//www.youinvest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AJ Bell Youinvest
 
