@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigml.com privacy policy that was archived on 2016-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417073329id_/https%3A//bigml.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigml.com privacy policy that was archived on 2016-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160701061407id_/https%3A//bigml.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="bigml" xmlns:fb="http://ogp.me/ns/fb#"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en">
@@ -17,7 +17,7 @@
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@bigmlcom">
         <title>Privacy Policy | BigML.com</title>
-        <link type="image/x-icon" href="https://static.bigml.com/static/favicon.ico" rel="shortcut icon">
+        <link type="image/x-icon" href="https://static.bigml.com/static/favicon.ico?v=2" rel="shortcut icon">
 
         
 
@@ -27,13 +27,15 @@
 
         
         
-        <link href="https://static.bigml.com/static/compressed/css/0032939155c3.css" rel="stylesheet" type="text/css">
-        <link href="https://static.bigml.com/static/compressed/css/e49d354eaad2.css" rel="stylesheet" type="text/css">
-        <link href="https://static.bigml.com/static/compressed/css/4b918f977d17.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/3efb86211249.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/7126250a6600.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/b6a4606170e7.css" rel="stylesheet" type="text/css">
         
         <!--[if IE]>
         <link href="https://static.bigml.com/static/css/ie.css" rel="stylesheet" type="text/css"/>
         <![endif]-->
+        
+        
         
         <style type="text/css">
             .js #flash {display: none;}
@@ -62,17 +64,18 @@
         img8.src = "https://static.bigml.com/static/img/process_model.gif";
     }
     var STATIC_URL = "https://static.bigml.com/static/",
+        FREE_GALLERY = false,
         IS_DEV_MODE = false,
         ACTIVE_SUBSCRIPTION = false,
         SITE_NAME = "BigML.com",
         BIGML_IO_BASE_URL = "https://bigml.io";
     var Smoothie = {'baseURL': STATIC_URL, 'paths': ['/js/nodejs/']};
-    var DATASET_OPTIONS = {"cluster": {"min_critical_value": 1, "default_number_of_clusters": 8, "max_number_of_clusters_dev": 16, "max_critical_value": 20, "default_critical_value": 5, "max_number_of_clusters": 300, "default_model_clusters": false, "default_numeric_value": "median"}, "anomaly": {"default_forest_size": 128, "default_number_of_anomalies": 10, "default_forest_size_dev": 16, "max_forest_size_dev": 16, "max_number_of_anomalies": 1024, "default_anomaly_constraints": false, "max_forest_size": 256}, "association": {"max_discr_size": 50, "min_confidence_percent": true, "min_leverage_percent": true, "default_missing_items": false, "max_discr_trim": 0.1, "max_max_lhs": 10, "max_min_support": 100, "min_support_percent": true, "default_complementary_items": false, "default_significance_level": 0.05, "default_search_strategy": "leverage", "default_min_support": 0, "min_coverage_percent": true, "default_discr_type": "population", "default_discr_trim": 0, "default_min_confidence": 0, "default_min_coverage": 0, "max_max_lhs_dev": 10, "default_max_lhs": 4, "max_significance_level": 1, "max_min_coverage": 100, "default_min_lift": 1, "max_number_of_associations_dev": 500, "default_discr_size": 5, "max_min_confidence": 100, "max_number_of_associations": 500, "default_number_of_associations": 100, "default_pretty": true, "max_min_leverage": 100, "default_min_leverage": 0}, "dataset": {"default_tlp": 1, "max_number_of_models": 1000, "default_number_of_models": 10, "default_missing_splits": false, "default_stat_pruning": "auto", "default_randomize": false, "max_number_of_models_dev": 10, "max_tlp": 5, "max_node_threshold": 2000, "default_node_threshold": 512, "max_node_threshold_dev": 512, "min_node_threshold": 3}};
+    var DATASET_OPTIONS = {"cluster": {"min_critical_value": 1, "default_number_of_clusters": 8, "max_number_of_clusters_dev": 300, "min_number_of_clusters": 1, "max_critical_value": 20, "default_critical_value": 5, "max_number_of_clusters": 300, "default_model_clusters": false, "default_numeric_value": "median"}, "logisticregression": {"default_eps": 0.0001, "default_balance_fields": false, "default_bias": 0, "default_missing_numerics": true, "default_numeric_value": "", "default_regularization": "L2", "default_c": 1}, "anomaly": {"default_forest_size": 128, "default_number_of_anomalies": 10, "default_forest_size_dev": 128, "max_forest_size_dev": 256, "max_number_of_anomalies": 1024, "default_anomaly_constraints": false, "max_forest_size": 256}, "association": {"max_discr_size": 50, "min_confidence_percent": true, "min_leverage_percent": true, "default_missing_items": false, "max_discr_trim": 0.1, "max_max_lhs": 10, "max_min_support": 100, "min_support_percent": true, "default_complementary_items": false, "default_significance_level": 0.05, "default_search_strategy": "leverage", "default_min_support": 0, "min_coverage_percent": true, "default_discr_type": "population", "default_discr_trim": 0, "default_min_confidence": 0, "default_min_coverage": 0, "max_max_lhs_dev": 10, "default_max_lhs": 4, "max_significance_level": 1, "max_min_coverage": 100, "default_min_lift": 1, "max_number_of_associations_dev": 500, "default_discr_size": 5, "max_min_confidence": 100, "max_number_of_associations": 500, "default_number_of_associations": 100, "default_pretty": true, "max_min_leverage": 100, "default_min_leverage": 0}, "dataset": {"default_tlp": 1, "max_number_of_models": 1000, "default_number_of_models": 10, "default_missing_splits": false, "default_stat_pruning": "auto", "default_randomize": false, "max_number_of_models_dev": 1000, "max_tlp": 5, "max_node_threshold": 2000, "default_node_threshold": 512, "max_node_threshold_dev": 2000, "min_node_threshold": 3}};
     
 </script>
 
         
-        <script src="https://static.bigml.com/static/compressed/js/93ffb4f6c460.js" type="text/javascript"></script>
+        <script src="https://static.bigml.com/static/compressed/js/0ddb07166ddd.js" type="text/javascript"></script>
         
         <script type="text/javascript">
             $('html').addClass('js');
@@ -137,15 +140,20 @@
     
     
     
-        
-    
-    
     
         
     
     
     
+        
     
+    
+    
+    
+
+    
+    
+
 
     <div class="navbar-wrapper">
         <div class="container">
@@ -165,15 +173,44 @@
                     
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-left">
-                            <li class=""><a href="/features">FEATURES</a></li>
+                            <li class=""><a href="/private-deployments" class="js-external-link">PRIVATE DEPLOYMENTS</a></li>
+                            <li class=""><a href="/events/" class="js-external-link">EVENTS</a></li>
                             <li class="">
                                 <a href="/gallery">GALLERY</a>
                             </li>
-                            <li><a href="/pricing">PRICING</a></li>
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
-                            <li class=""><a href="/whatsnew">WHAT'S NEW</a></li>
-                            <li class=""><a href="/developers">DEVELOPERS</a></li>
+
+                            
+<li class="dropdown">
+    <a href="javascript:void(0)" class="dropdown-toggle">DOCUMENTATION<b class="arrow"></b></a>
+    <ul class="dropdown_menu">
+        <li class="public">
+            <a href="/documentation/dashboard/" class="js-external-link">DASHBOARD</a>
+        </li>
+        
+        <li class="own">
+            <a href="/developers/">API</a>
+        </li>
+        
+        <li class="public">
+            <a href="http://bigml.readthedocs.io/" target="_blank">Python Bindings</a>
+        </li>
+        <li class="public">
+            <a href="http://bigmler.readthedocs.io/" target="_blank">BigMLer</a>
+        </li>
+        
+    </ul>
+</li>
+
+<li class="dropdown">
+    <a href="https://support.bigml.com" target="_blank" class="dropdown-toggle js-external-link">HELP &amp; SUPPORT</a>
+    
+</li>
+
+
+
+
                             <li class="login"><a href="/accounts/login/">Login</a></li>
                             <li class="login github dropdown">
                                 <a rel="nofollow" class="btn tipsy-login-icon dropdown-toggle" href="javascript:void(0);"><i class="icon-chevron-down icon-white"></i></a>
@@ -241,10 +278,8 @@
 </div>
 
 
-                <div id="projects_content">
-                    
-                    
-                </div>
+                <div id="ui_settings_content"></div>
+                <div id="projects_content"></div>
                 <div id="dashboard_content">
                     
 
@@ -312,11 +347,11 @@ This Privacy Policy describes our policies and procedures regarding the collecti
                 </ul>
             </li>
 
-            <li><strong>Data sources, datasets, models and predictions</strong>
+            <li><strong>Sources, datasets, models and predictions</strong>
                 <ul>
-                    <li>We collect and store the data sources that you input, post, transmit, stream, or upload to the BigML Services (“Data”). If you create a new BigML source that has been previously created by you, we never associate all or a portion of the previous source with your  newly created source and always store a duplicate. We assign a unique identifier to every data source that you create. Per our Terms of Use, you cannot download your data sources from BigML. You only have access to a small portion of it that we store separately so that you can preview the content and make sure that we are parsing your data source in the right way.</li>
+                    <li>We collect and store the sources that you input, post, transmit, stream, or upload to the BigML Services (“Data”). If you create a new BigML source that has been previously created by you, we never associate all or a portion of the previous source with your  newly created source and always store a duplicate. We assign a unique identifier to every source that you create. Per our Terms of Use, you cannot download your sources from BigML. You only have access to a small portion of it that we store separately so that you can preview the content and make sure that we are parsing your source in the right way.</li>
 
-                    <li>When you create a dataset from a previously created  dataset, we parse your data source and create a summarized version containing  a statical summary of the data in it and also create a serialized version of it. BigML stores both the summarized and the serialized versions. Per our terms of use, you can get access to the summarized version of your dataset but not to the serialized version. We assign a unique identifier to every dataset that you create.</li>
+                    <li>When you create a dataset from a previously created  dataset, we parse your source and create a summarized version containing  a statical summary of the data in it and also create a serialized version of it. BigML stores both the summarized and the serialized versions. Per our terms of use, you can get access to the summarized version of your dataset but not to the serialized version. We assign a unique identifier to every dataset that you create.</li>
 
                     <li>If you create a dataset using one or more previously created datasets, we use their serialized versions to create the new dataset. We also store both the summarized version of the new dataset and the serialized version of the new dataset.</li>
 
@@ -324,7 +359,7 @@ This Privacy Policy describes our policies and procedures regarding the collecti
 
                     <li>When you create a prediction from a previously created model, we use the corresponding model and the new data that you input to create the prediction. We store the data that you input and the prediction. We assign a unique identifier to every new prediction that you create.</li>
 
-                    <li>At your own discretion, you can delete the data sources, datasets, models and predictions that you create. Upon your request we immediately delete them including their serialized versions from our front-end servers and start a batch process to fully remove them from our systems.</li>
+                    <li>At your own discretion, you can delete the sources, datasets, models and predictions that you create. Upon your request we immediately delete them including their serialized versions from our front-end servers and start a batch process to fully remove them from our systems.</li>
                 </ul>
             </li>
 
@@ -491,7 +526,7 @@ This Privacy Policy describes our policies and procedures regarding the collecti
 
             <li>The personal data that you sent to register, the credit card information that you might use to purchase BigML Credits, or the data that you input, post, transmit, stream, or upload to the BigML services is encrypted and sent over a secure channel using SSL (Secure Sockets Layer), the standard for secure Internet network connections.</li>
 
-            <li>BigML employees are prohibited from viewing the content of data sources, datasets, models and predictions that you store in your BigML Account.</li>
+            <li>BigML employees are prohibited from viewing the content of sources, datasets, models and predictions that you store in your BigML Account.</li>
 
             <li>We have a strict policy and technical access controls that prohibit employee access except for the reasons stated in our Terms of Service and  Privacy Policy.</li>
 
@@ -548,29 +583,29 @@ This Privacy Policy describes our policies and procedures regarding the collecti
             <div class="links grid_2 alpha omega">
                 <h3>PRODUCT</h3>
                 <ul>
-                    <li><a href="/whatsnew">What's new</a></li>
-                    <li><a href="/features">Features</a></li>
+                    <li><a href="/whatsnew">What's New</a></li>
                     <li><a href="/developers">Developers</a></li>
-                    <li><a href="/predictserver">PredictServer</a></li>
+                    <li><a href="/whizzml" class="js-external-link">WhizzML</a></li>
                     <li><a href="/tools" class="js-external-link">Tools</a></li>
+                    <li><a href="/predictserver">PredictServer</a></li>
                     <li><a href="/releases" class="js-external-link">Releases</a></li>
                 </ul>
             </div>
             <div class="links grid_2 alpha omega">
                 <h3>BUSINESS</h3>
                 <ul>
+                    <li><a href="/private-deployments" class="js-external-link">Private Deployments</a></li>
+                    <li><a href="/pricing">Pricing</a></li>
+                    <li><a href="/training">Training</a></li>
                     <li><a href="/events/" class="js-external-link">Events</a></li>
                     <li><a href="/education" class="js-external-link">Education</a></li>
-                    <li><a href="/training">Training</a></li>
-                    <li><a href="/partners">Partners</a></li>
-                    <li><a href="/pricing">Pricing</a></li>
+                    
                 </ul>
             </div>
             <div class="links grid_2 alpha omega">
                 <h3>GALLERY</h3>
                 <ul>
                     <li><a href="/gallery">Mosaic</a></li>
-                    <li><a href="/gallery/index">Index</a></li>
                 </ul>
             </div>
             <div class="links grid_5 alpha omega">
@@ -584,7 +619,7 @@ This Privacy Policy describes our policies and procedures regarding the collecti
                 <div class="terms">
                     <span class="terms"><a href="/tos">Terms of Service</a></span>
                     <span class="privacy"><a href="/privacy">Privacy Policy</a></span>
-                    <span class="faq"><a href="/developers/faq" class="totab">FAQ</a></span>
+                    <span class="faq"><a href="https://support.bigml.com">FAQ</a></span>
                     <span class="copyright">Copyright © 2016 BigML, Inc.</span>
                 </div>
             </div>
