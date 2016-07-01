@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanladder.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921123255id_/https%3A//www.urbanladder.com/privacy-policy%3Fsrc%3Dg_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanladder.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702012602id_/https%3A//www.urbanladder.com/privacy-policy%3Fsrc%3Dg_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Ladder - Urban Ladder
 
