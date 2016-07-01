@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marleylilly.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924171911id_/https%3A//www.marleylilly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marleylilly.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701145558id_/https%3A//marleylilly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marleylilly
 
