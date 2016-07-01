@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505083318id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmailbird.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702012148id_/https%3A//www.getmailbird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mailbird
 
