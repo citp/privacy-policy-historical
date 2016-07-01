@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmagic.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407130840id_/https%3A//www.textmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmagic.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701203753id_/https%3A//www.textmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Text Messaging Platform - TextMagic
 
@@ -92,5 +92,3 @@ If you have any queries about this Data Protection and Privacy Policy and/or how
 
 
 **DATED: 08 May 2014**
-
-#####  Try Our Fully Featured Business Texting Platform Today! 
