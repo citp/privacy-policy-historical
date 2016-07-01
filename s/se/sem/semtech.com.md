@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128195645id_/http%3A//www.semtech.com/company/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701225651id_/http%3A//www.semtech.com/company/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Company - Semtech
 
