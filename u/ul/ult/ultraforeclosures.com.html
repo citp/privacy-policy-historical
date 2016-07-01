@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultraforeclosures.com privacy policy that was archived on 2016-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160409032010id_/http%3A//www.ultraforeclosures.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultraforeclosures.com privacy policy that was archived on 2016-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160702010357id_/http%3A//www.ultraforeclosures.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -40,9 +40,8 @@
         })();
     </script>
     
-    <script src="/resources/t/js/modern.js"></script>
-    
-    
+   
+    <script src="/responsive.js"></script>
     
     
     
@@ -243,74 +242,116 @@ immediately preceding calendar year. To exercise your rights, you may make one r
    </div>
 
    <div>
-        <div id="desktopView"></div>
-        <div class="container footer">
-            <div class="row">
-                <div class="col-sm-12">
-                    <p class="text-muted text-sm hidden-xs">UltraForeclosures.com is the ultimate resource for locating, researching and acquiring foreclosed property in the United States.</p>
-                    <div>
-                        <span class="footer-link"><a title="Contact Us" href="/contact-us.html">Contact Us</a></span>
-                        <span class="footer-link"><a title="Privacy Policy" href="/privacy-policy.html">Privacy Policy</a></span>
-                        <span class="footer-link"><a title="Terms of Use" href="/terms-of-use.html">Terms of Use</a></span>
+            <div id="desktopView"></div>
+            <div class="container footer">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <p class="text-muted text-sm hidden-xs">UltraForeclosures.com is the ultimate resource for locating, researching and acquiring foreclosed property in the United States.</p>
+                        <div>
+                            <span class="footer-link"><a title="Contact Us" href="/contact-us.html">Contact Us</a></span>
+                            <span class="footer-link"><a title="Privacy Policy" href="/privacy-policy.html">Privacy Policy</a></span>
+                            <span class="footer-link"><a title="Terms of Use" href="/terms-of-use.html">Terms of Use</a></span>
+                        </div>
+                        
+                        <p class="text-muted text-sm">
+                            <span>Copyright © 2016 UltraForeclosures Real Estate Listings</span>
+                        </p>
                     </div>
-                    
-                    <p class="text-muted text-sm"><span>Copyright © 2016 UltraForeclosures Real Estate Listings</span></p>
                 </div>
             </div>
-        </div>
-        
-        
-        <script src="/resources/t/js/jquery-1.11.1.min.js"></script>
-        <script src="/resources/t/js/jquery-ui.min.js"></script>
-        <script src="/resources/t/js/jquery.cookie.js"></script>
-        <script src="/resources/t/js/jquery.formatter.js"></script>
-        <script src="/resources/t/js/bootstrap.min.js"></script>
-        
-        <script>
-            $(window).load(function () {
-                var loggingUrl = "/tracking";
-    
-                $.ajax({
-                    type: 'GET',
-                    url: loggingUrl,
-                    crossDomain:true,
-                    xhrFields: { withCredentials: true },
-                    data: {
-                        cookie_adid: $.cookie("adid"), 
-                        click_adid: geturlparam("adid"), 
-                        brandId: "2",
-                        afid: geturlparam("afid") == "" ? $.cookie("PID") : geturlparam("afid"),
-                        utm_source: geturlparam("utm_source"),
-                        utm_medium: geturlparam("utm_medium"),
-                        utm_term: geturlparam("utm_term"),
-                        utm_content: geturlparam("utm_content"),
-                        utm_id: geturlparam("utm_id"),
-                        utm_campaign: geturlparam("utm_campaign"),
-                        gclid: geturlparam("gclid"),
-                        deviceType: 'desktop'
-                    }
-                });
-            });
-        </script>
-        
-        
-    
-    
-    
-        
-        
+
             <script>
-                if ( "undefined" == (typeof(allowFormSubmit)).toLowerCase() ) {
-                    allowFormSubmit = true;
-                }
-                if ( "undefined" == (typeof(optInOutDomains)).toLowerCase() ) {
-                    optInOutDomains = "";
+                $(window).load(function () {
+                    var loggingUrl = "/tracking";
+
+                    $.ajax({
+                    type: 'GET',
+                        url: loggingUrl,
+                        crossDomain:true,
+                        xhrFields: { withCredentials: true },
+                        data: {
+                        cookie_adid: $.cookie("adid"),
+                            click_adid: geturlparam("adid"),
+                            brandId: "2",
+                            afid: geturlparam("afid") == "" ? $.cookie("PID") : geturlparam("afid"),
+                            utm_source: geturlparam("utm_source"),
+                            utm_medium: geturlparam("utm_medium"),
+                            utm_term: geturlparam("utm_term"),
+                            utm_content: geturlparam("utm_content"),
+                            utm_id: geturlparam("utm_id"),
+                            utm_campaign: geturlparam("utm_campaign"),
+                            gclid: geturlparam("gclid"),
+                            deviceType: 'desktop'
+                        }
+                    });
+                });
+            </script>
+
+            
+
+            
+            
+        
+            <div id="desktop-optinout-lightbox" class="">
+                <div class="modal fade confirm-optin-container" id="optinout-lightbox" tabindex="-1" role="dialog" aria-labelledby="optinout" aria-hidden="true">
+                    <div class="modal-dialog confirmation-lightbox">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                               <button type="submit" class="close"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                                  
+                               <a href="/?from=banner"> 
+                                  <img src="/resources/site/images/logos/logo_small.png">
+                               </a>
+                            </div>
+                           
+                            <div class="modal-body text-center">
+                                <div class="container-fluid">
+                                   <div><h3 class="hidden-xs"><strong>Sorry, we couldn’t help you today.</strong></h3></div>
+                                   <h3 class="header email-message-wrapper"><strong><span class="hidden-xs">Would you like to still get home alerts at </span><span class="visible-xs">Confirm you want home alerts for </span>%%email%%<span class="hidden-xs">?</span><style>@media(min-width:768px) { .visible-xs { display:none } } @media (max-width:767px) { .hidden-xs { display:none } .visible-xs { display:block } } </style></strong></h3>
+                                   <div class="message"><span class="hidden-xs">Tip: Can’t find the email? Check your spam.</span> <span class="visible-xs">Tip: Check your spam</span></div>
+                                   <div class="col-sm-6 col-sm-offset-3">
+                                      <button type="submit" id="submitConfirm1" class="btn btn-primary btn-block btn-med opt-in-out-yes">Yes, email me</button>
+                                      <button type="submit" id="submitConfirm2" class="btn btn-secondary btn-block btn-med opt-in-out-no">Don’t email me</button>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- TODO implement loading upsellit script only when needed and when not loaded before by some other library -->
+            
+                <script type="text/javascript" src="https://www.upsellit.com/upsellitJS4.jsp?qs=258246223237299323303278330303339329304279308298332321296304&amp;siteID=2139&amp;trackingInfo=${visitorinfo.sessionAd.adId}"></script>
+            
+            
+            <script>
+                // more will be here later
+                var isOptInOutEmail = false;
+                var optInOutDomains = ',comcast.net,';
+                var optInDeviceType = 'desktop';
+                var enteredEmail = '';
+                var upsellItReplaced = false;
+                var allowFormSubmit = true;
+                //var messageTemplate = "You will recieve property alerts for %%email%%";
+                var messageTemplate = '<span class=\'hidden-xs\'>Would you like to still get home alerts at <\/span><span class=\'visible-xs\'>Confirm you want home alerts for <\/span>%%email%%<span class=\'hidden-xs\'>?<\/span><style>@media(min-width:768px) { .visible-xs { display:none } } @media (max-width:767px) { .hidden-xs { display:none } .visible-xs { display:block } } <\/style>';
+                var optInOutMode='optin';
+            </script>
+            <script type="text/javascript">
+                //mobile lightbox is triggered in html
+                if ( optInDeviceType == "desktop" ) {
+                    $(document).ready(function(){
+                        showOptInOptOut(null);
+                    });
                 }
             </script>
         
+        
     
-    
-    </div>
+
+            
+
+        </div>
    <script>
       // NOTHING HERE
    </script>
