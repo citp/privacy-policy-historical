@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yehhaimohabbatein.me privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527203749id_/http%3A//yehhaimohabbatein.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yehhaimohabbatein.me privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701125530id_/http%3A//yehhaimohabbatein.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
