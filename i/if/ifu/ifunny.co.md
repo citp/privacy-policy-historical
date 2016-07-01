@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520115428id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701202203id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFunny :)
 
-Last Updated: 02-03-2016 
+Last Updated: 05-27-2016 
 
 The following privacy policy ("Privacy Policy") covers all of the Services provided by iFunny as those Services are defined in iFunny’s Terms of Use Agreement. 
 
-This Privacy Policy describes the practices of iFunny Ltd and its affiliates (“iFunny,” “we” or “us”), regarding the collection, use, disclosure, transfer and other processing of personal information about you ("Personal Information") collected as part of your use of the iFunny Services. Before using the iFunny Services or providing information to us, please carefully review this Privacy Policy. By using or accessing the iFunny Services, you agree that we may collect and use your information in accordance with this Privacy Policy, as revised from time to time. If you have any questions or suggestions regarding our Privacy Policy, please contact us at the email address indicated below. 
+This Privacy Policy describes the practices of iFunny Inc and its affiliates (“iFunny,” “we” or “us”), regarding the collection, use, disclosure, transfer and other processing of personal information about you ("Personal Information") collected as part of your use of the iFunny Services. Before using the iFunny Services or providing information to us, please carefully review this Privacy Policy. By using or accessing the iFunny Services, you agree that we may collect and use your information in accordance with this Privacy Policy, as revised from time to time. If you have any questions or suggestions regarding our Privacy Policy, please contact us at the email address indicated below. 
 
 Processing of Personal Information 
 
@@ -26,7 +26,7 @@ Like most standard website servers, we use cookies (or similar tracking technolo
 
 \- to store information and data so that your experience will be quicker;   
 \- to store information so that you will not have to re-enter it during your visit, the next time you visit the iFunny Services, or after updating to a new version of one of the mobile applications;   
-\- to provide custom, personalized content, information, and overall experience;   
+\- o provide custom, personalized content, information, and overall experience;   
 \- to measure advertising campaigns and to monitor their effectiveness;   
 \- to monitor aggregate metrics and analytics, such as total number of visitors, pages viewed, etc.; and   
 \- to track your entries, submissions, and the like. 
@@ -35,15 +35,15 @@ You have the ability to accept or decline cookies. By default, most web browsers
 
 Comments 
 
-In order to enhance the user experience of the iFunny Services, users can choose to leave comments on particular images and videos. iFunny Ltd does not endorse these comments, as they are opinions of users who are not associated with iFunny Ltd, its subsidiary, affiliates, "sister entities," officers, directors, employees and agents. Please remember that any information that is disclosed in these areas becomes public information. Parties may view and collect any such information. As such, you should exercise caution when deciding to disclose Personal Information. 
+In order to enhance the user experience of the iFunny Services, users can choose to leave comments on particular images and videos. iFunny Inc does not endorse these comments, as they are opinions of users who are not associated with iFunny Inc, its subsidiary, affiliates, "sister entities," officers, directors, employees and agents. Please remember that any information that is disclosed in these areas becomes public information. Parties may view and collect any such information. As such, you should exercise caution when deciding to disclose Personal Information. 
 
 Mailing List 
 
-iFunny Ltd may launch a mailing list for the iFunny Services. By signing up for an account at one of the iFunny Services, you will be placed on the mailing list. From time to time, iFunny Ltd may email its members new features and other news regarding the iFunny Services. You will be given the option of opting out of the mailing list via a link contained within emails on the mailing list. In addition, if you do not wish to receive marketing communications, please contact us at the email address provided below. 
+iFunny Inc may launch a mailing list for the iFunny Services. By signing up for an account at one of the iFunny Services, you will be placed on the mailing list. From time to time, iFunny Inc may email its members new features and other news regarding the iFunny Services. You will be given the option of opting out of the mailing list via a link contained within emails on the mailing list. In addition, if you do not wish to receive marketing communications, please contact us at the email address provided below. 
 
 Third Party Services and Advertising Networks 
 
-Third-party advertising companies and networks may serve cookies on the iFunny Services and serve ads to you when you visit the iFunny Services. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. All such features are managed by third parties; therefore, please review the privacy policies posted at those sites. iFunny Ltd has no control over these third parties’ use of cookies or web beacons, or how they manage the non-personal information they gather through them. This Privacy Policy covers the use of cookies by iFunny Ltd only and does not cover the use of cookies by any advertisers or other third parties. 
+Third-party advertising companies and networks may serve cookies on the iFunny Services and serve ads to you when you visit the iFunny Services. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. All such features are managed by third parties; therefore, please review the privacy policies posted at those sites. iFunny Inc has no control over these third parties’ use of cookies or web beacons, or how they manage the non-personal information they gather through them. This Privacy Policy covers the use of cookies by iFunny Inc only and does not cover the use of cookies by any advertisers or other third parties. 
 
 The ads appearing on the iFunny Services are delivered to users by third-party advertisers including Google Inc. and Apple Inc. among others. These companies may use cookies and other tracking tools on our websites and third-party websites to collect your metric data and information (not including your name, address, email address or telephone number) about your visits to the iFunny Services in order to provide advertisements on iFunny Services and other sites about goods and services that may be of interest to you. 
 
@@ -57,7 +57,7 @@ We may disclose Personal Information as follows:
 
 Business Transitions 
 
-In the event iFunny Ltd goes through a business transition, including, but not limited to, a merger, acquisition, partnership, business reorganization, debt finance or sale of company assets, or in the event of an insolvency, bankruptcy or receivership, we may use Personal Information as part of the context of any such business transition. In most instances, Personal Information will be part of the assets transferred. Additionally, we may share Personal Information with our partners, affiliates, contractors, and service providers, as necessary, to provide iFunny Services to you or to otherwise improve our services. 
+In the event iFunny Inc goes through a business transition, including, but not limited to, a merger, acquisition, partnership, business reorganization, debt finance or sale of company assets, or in the event of an insolvency, bankruptcy or receivership, we may use Personal Information as part of the context of any such business transition. In most instances, Personal Information will be part of the assets transferred. Additionally, we may share Personal Information with our partners, affiliates, contractors, and service providers, as necessary, to provide iFunny Services to you or to otherwise improve our services. 
 
 Legal Disclaimer 
 
@@ -79,7 +79,7 @@ California residents have the right to receive information that identifies any t
 
 Notification of Changes 
 
-Whenever iFunny Ltd changes its Privacy Policy, we will post those changes to this Privacy Policy and other places that we deem appropriate. Your use of the iFunny Services following these changes indicates your consent to the practices described in the revised Privacy Policy. 
+Whenever iFunny Inc changes its Privacy Policy, we will post those changes to this Privacy Policy and other places that we deem appropriate. Your use of the iFunny Services following these changes indicates your consent to the practices described in the revised Privacy Policy. 
 
 Contact Us 
 
