@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterment.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416123537id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterment.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701170111id_/https%3A//www.betterment.com/security/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Betterment
 
@@ -61,7 +61,7 @@ These Analytics Services only collect the IP address assigned to you on the date
 
 You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. You can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on here.
 
-### How WE USE YOUR PERSONAL INFORMATION
+### How We Use Your Personal Information
 
 Betterment uses personally identifiable and other collected information in a manner that is consistent with this privacy policy. We use your personal information to enhance your customer experience, operate and maintain your account in accordance with US law, investigate and understand how Betterment is used, monitor and protect the security and integrity of Betterment, and better market and advertise Betterment’s services.
 
