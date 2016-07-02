@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookup-id.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419130803id_/https%3A//lookup-id.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookup-id.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702094859id_/https%3A//lookup-id.com/privacy-policy) for the most accurate reproduction.*
 
 # Lookup-ID.com Privacy Policy
 
