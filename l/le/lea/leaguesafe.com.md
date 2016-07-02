@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguesafe.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416043951id_/https%3A//www.leaguesafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguesafe.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702160154id_/https%3A//www.leaguesafe.com/privacy) for the most accurate reproduction.*
 
 # LeagueSafe | The online solution for your fantasy sports entry fees
 
