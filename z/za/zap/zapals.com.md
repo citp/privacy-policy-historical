@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapals.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502101004id_/http%3A//www.zapals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapals.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702161521id_/https%3A//www.zapals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
