@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all3dp.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509062339id_/https%3A//all3dp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all3dp.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702082125id_/https%3A//all3dp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All3DP
 
