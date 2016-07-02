@@ -1,29 +1,36 @@
-> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012541id_/http%3A//www.electronichouse.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702180253id_/https%3A//www.electronichouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EH Network
+# Privacy policy - Electronic House
 
 EH Publishing, Inc. is committed to protecting your privacy to ensure a safe and enjoyable online experience.
 
 EH Publishing, Inc.  
 Privacy Policy  
-Latest Revision: January 2015
+Latest Revision: May 2016
 
 Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc., (“EH” or “we”), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
 
   * Information obtained when you (“you” or “User”) visit our web sites.
   * This “Site”, ElectronicHouse.com
   * Information obtained through e-mail communications with you related to the Site.
+  * Information obtained when your share your geo-location while visiting our site.
 
 
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
 
-**Your Information: What We Collect and How We Collect It**  
-Many of our sites require you to provide certain information about yourself when you register to use the site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., comments, blogs, moderated discussions and forums/message boards). The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for premium site access, both online and offline subscriptions, or a paid event) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.  
-When you visit this Site, we may collect the IP address of your computer. We also use technology to automatically record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.  
+#### Your Information: What We Collect and How We Collect It
+
+Many of our sites require you to provide certain information about yourself when you register to use the site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., comments, blogs, moderated discussions and forums/message boards). The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for premium site access, both online and offline subscriptions, or a paid event) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+
+ElectronicHouse.com may ask you permission to share your location (geo-location) with the site so that we can display content (directory listings) that are geographically relevant to your location. This data is not personally identifiable, and is not stored with any other data you may provide us with during your visit. If you should elect to engage directly with any of the service providers in our directory using our inquiry form, only the data in your request is shared with the listing provider, and no other information collected during your visit, such as location is shared with any of our listing service providers.
+
+When you visit this Site, we may collect the IP address of your computer. We also use technology to automatically record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+
 Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: http://www.networkadvertising.org/optout_nonppii.asp
 
-**Your Information: How We Use It**  
+#### Your Information: How We Use It
+
 We use Personally Identifiable Information collected on this Site for the following purposes:
 
   * To provide you with this Site and other products and services.
@@ -36,7 +43,8 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc . We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers either from us, or the third party directly, which is dependent on the origination of such messages.
 
-**Disclosing of Your Information: To Whom and When**  
+#### Disclosing of Your Information: To Whom and When
+
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
@@ -49,15 +57,15 @@ To other EH Publishing, Inc. member companies for any uses consistent with those
 
 
 
-**Our Security**
+#### Our Security
 
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
-**Right to Access and Change Information**
+#### Right to Access and Change Information
 
 You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, or by contacting us directly. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
-**Links to Non-EH Publishing Sites**
+#### Links to Non-EH Publishing Sites
 
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
