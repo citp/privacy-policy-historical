@@ -1,0 +1,479 @@
+<!--The following is the downloaded HTML source of the goreact.com privacy policy that was archived on 2016-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160702081438id_/https%3A//goreact.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" ng-app="app"><head>
+    <title>GoReact | Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582513800000/2123109.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYFVVVWGwUAXFdSAgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="robots" content="index, follow">
+
+<!-- ****************************** -->
+<!-- Vendor Deps for marketing site -->
+<!-- ****************************** -->
+
+<link rel="stylesheet" href="/app/site/css/build/vendor-9c835b16f3.css">
+
+
+<!-- ******************************* -->
+<!-- GoReact Deps for marketing site -->
+<!-- ******************************* -->
+
+<link rel="stylesheet" href="/app/site/css/build/build-048d9033c9.css">
+
+<link rel="shortcut icon" href="/favicon.ico?c=v1.17.31">
+
+  </head>
+  <body class="category">
+
+    <header>
+    <div class="fixHeader">
+        <div class="content" id="mainMenuCtn">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed btn btn-border btn-menu-item-collapse" data-toggle="collapse" data-target="#mainMenu" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/#/">
+                            <img src="/app/site/images/GoSpot.png" class="small" alt="The GoReact logo">
+                            <img src="/app/site/images/logo.png" class="large" alt="The GoReact logo">
+                        </a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="mainMenu">
+                        <ul id="main-action-nav" class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a id="aboutLnk" href="" class="menu-item dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/about">ABOUT</a></li>
+                                    <li><a href="/features">FEATURES</a></li>
+                                    <li><a href="/team">OUR TEAM</a></li>
+                                    <li><a href="/careers">CAREERS</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a id="useItForLnk" href="" class="menu-item dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    USE IT FOR<span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/asl">ASL</a></li>
+                                    <li><a href="/speaking">PRESENTATIONS</a></li>
+                                    <li><a href="/teachers">TEACHER COLLABORATION</a></li>
+                                    <li><a href="/sales">CORPORATE TRAINING</a></li>
+                                    <li><a href="/visual">VISUAL COMMUNICATION</a></li>
+                                    <li><a href="/clinical">CLINICAL TRAINING</a></li>
+                                    <li><a href="/arts">PERFORMING ARTS</a></li>
+                                </ul>
+                            </li>
+                            <li><a class="menu-item langChoiceDlg" href="#dialogChooseLanguage">DEMO</a></li>
+                            <li><a class="menu-item" href="/pricing">PRICING</a></li>
+                            <!-- unauthorized -->
+                            <li id="nav_login" class="box"><a class="btn btn-border btn-menu-item" href="/#/login">LOGIN</a></li>
+                            <li id="nav_signup" class="box"><a class="btn btn-menu-item orange margin-left-15 signupChooseDlg" href="#signupChoose">SIGN UP</a></li>
+                            <!-- authorized -->
+                            <li id="nav_dashboard" class="box"><a class="btn btn-border btn-menu-item" href="/dashboard">DASHBOARD</a></li>
+                            <li id="nav_user_widget" class="dropdown">
+                                <a id="userCredentials" href="" class="menu-item dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <span id="fullname" class="userCredentials"></span>
+                                    <span class="masked-circle">
+                                        &nbsp;<i class="ficon-times-circle"></i>
+                                    </span>
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="masked-group">
+                                        <a href="" onclick="masquerade.unMask()">
+                                            EXIT MASK VIEW <i class="ficon-times-circle"></i>
+                                        </a>
+                                    </li>
+                                    <li class="admin-group">
+                                        <a href="/admin/reports">
+                                            REPORTS
+                                        </a>
+                                    </li>
+                                    <li class="admin-group">
+                                        <a href="/admin/transactions">
+                                            TRANSACTIONS
+                                        </a>
+                                    </li>
+                                    <li class="admin-group">
+                                        <a href="/admin/credit-ledger">
+                                            CREDIT LEDGER
+                                        </a>
+                                    </li>
+                                    <li class="admin-group">
+                                        <a href="/admin/codegen">
+                                            ACCESS CODE GENERATION
+                                        </a>
+                                    </li>
+                                    <li class="admin-group">
+                                        <a href="/support/validate-code">
+                                            ACCESS CODE LOOKUP
+                                        </a>
+                                    </li>
+                                    <li class="divider admin-group"></li>
+                                    <li><a href="/#/logout">SIGN OUT</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="hidden-lg"><a class="menu-item" target="_blank" href="http://community.goreact.com">HELP</a></li>
+
+                            <li class="box visible-lg">
+                                <a class="helpLink white" target="_blank" href="http://community.goreact.com" onclick="gaPageviewTrack(window, this.href)">
+                                    <div class="icoHelp"></div>
+                                    <div class="icoHelpHover"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+        </div>
+    </div>
+
+    <!-- dialog popup -->
+    <div class="popupBlock ntfError" style="display: none;">
+        <div class="popupIcon"></div>
+        <h2>Error</h2>
+        <p class="popupTxt">The operation failed</p>
+        <a class="popupClose">
+            <div class="popupIcoClose"></div>
+            <div class="popupIcoCloseHover"></div>
+        </a>
+    </div>
+
+</header>
+
+<!-- To show demo video -->
+<script src="//fast.wistia.net/assets/external/E-v1.js" async=""></script>
+
+<!-- Language choice dialog markup -->
+<div id="dialogChooseLanguage" class="mfp-hide dialog">
+    <div class="vertAlignCtn">
+        <div>
+            <h1>What language?</h1>
+            <a id="langEnglish" class="btn btn-wide btn-red" href="#">ENGLISH</a>
+            <br>
+            <a id="langASL" class="btn btn-border btn-wide" href="#">ASL</a>
+        </div>
+    </div>
+</div>
+
+<!-- Sign Up dialog markup -->
+<div id="signupChoose" class="mfp-hide dialog">
+    <div class="row">
+        <div class="col-lg-6 instructor">
+            <h3>I'm an</h3>
+            <h2>Instructor</h2>
+            <a class="btn btn-wide btn-red popup-close" href="/#/free-trial">GO</a>
+        </div>
+        <div class="col-lg-6 student">
+            <h3>I'm a</h3>
+            <h2>Student<br>Participant</h2>
+            <a class="btn btn-wide btn-red popup-close" href="/#/user-signup">GO</a>
+        </div>
+    </div>
+</div>
+
+<!-- google analytics helper functions -->
+
+
+<!-- Google AdWords -->
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+
+<!-- Google AdWords -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 961482378;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961482378/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+    <div class="parallaxCtn">
+    <div class="pageLogoCtn" id="privacyLogo">
+      <div class="content">
+        <div>
+          <img id="privacyIcon" class="pageLogoIcon" alt="Privacy page logo" src="/app/site/images/privacy_icon.png">
+          <h1>PRIVACY POLICY</h1>
+        </div>
+      </div>
+    </div>
+      </div>
+
+    <div class="content mainContent">
+
+      <p>This Privacy Policy is effective as of December 10, 2014 and governs the Service, as defined in the SpeakWorks Terms of Use (available at <a class="lnk" href="/terms">http://goreact.com/terms</a>) (and hereinafter, the "Service"). Definitions in the Terms of Use are hereby incorporated herein. SpeakWorks, Inc. ("SpeakWorks" or "we") respects your privacy and we are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit or use the Service. This Privacy Policy lets you know how we use and protect that information. The information that we receive depends on what you do during your visit, what information you provide, and what service(s) you use. YOUR USE OF THE SERVICE SIGNIFIES YOUR CONSENT TO OUR PROCESSING OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICE.</p>
+      <p><strong>1. Information SpeakWorks Gathers and Tracks.</strong> SpeakWorks collects three kinds of information about visitors:</p>
+      <p><strong>a. User Information.</strong> When you register for an account, voluntarily provide contact or other information, request a service or information, place an order, submit feedback, post information onto your public profile, or participate in a forum or survey, we may need to ask you for personal information such as your name and email address, along with other information you may wish to provide for effective use of the Service ("User Information").</p>
+      <p><strong>b. Subject Information.</strong> Other Users of the Service may post User Submissions (such as videos) in which you are a subject and that include your image or other identifying information about you ("Subject Information").</p>
+      <p><strong>c. Non-Identifying Information.</strong> We may also collect certain indirect and/or aggregate information as a result of your use of, and interaction with, the Service ("Usage Information"). We may also use certain standard web measurement and tracking technologies such as "cookies," web server logs, or other statistics programs to collect Usage Information and track and record how you use the Service.  This data is generally anonymous and does not personally identify you. Usage Information helps us measure the success of the Service and its features or pages and improve your online experience.  Your browser may have an option that allows you to accept cookies, reject cookies, or receive notification when a cookie is sent, but you should note that the use of such restrictive browser settings may limit your use or the convenience of the Service.  We do not use spyware, adware or any other similarly intrusive software.  We may create anonymous information records from User Information by excluding information (such as your name and email address) that may make the data personally identifiable to you ("Anonymous Information").  SpeakWorks reserves the right to use and disclose Usage Information and Anonymous Information to third parties in its sole discretion.  Collectively, Usage Information, Anonymous Information and User Information are referred to in this Privacy Policy as "Information." This does not include Subject Information.</p>
+      <p><strong>2. How We Use Your Information.</strong> In addition to the foregoing, by providing your Information to us, you consent to our use of your Information in the following ways as applicable:
+      </p><ul>
+        <li>to provide you the Service;</li>
+        <li>to provide information that you request;</li>
+        <li>to create your account;</li>
+        <li>to allow you to join a group;</li>
+        <li>to indicate to other authorized users that you are registered with certain groups and/or have completed various activities;</li>
+        <li>to share with service providers as necessary to provide the services you request;</li>
+        <li>to contact you, respond to your inquiries, and send you information;</li>
+        <li>to notify you of services that we believe may be of interest to you;</li>
+        <li>to analyze, manage and improve the Service;</li>
+        <li>to notify you of important new changes to the Service;</li>
+        <li>to help us diagnose problems with our server or other technical issues relating to the performance of the Service; or</li>
+        <li>for other purposes required for compliance with applicable laws.</li>
+      </ul>
+      <p><strong>3. Security.</strong> We use commercially reasonable security procedures to protect the information you share with us from unauthorized access or disclosure. However, your email transmissions and/or other communications containing User Information may be unlawfully intercepted or accessed by third parties and/or the Service may be subject to hostile network attacks or administrative errors.  We cannot and do not guarantee the security of any information transmitted over the Internet. Even after we receive your User Information, we cannot guarantee that your User Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable security efforts or as a result of any other event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your User Information is completely secure and safe from such risks. For the avoidance of doubt, we expressly disclaim any representation or warranty, whether express or implied, with respect to ensuring, guaranteeing or otherwise offering any definitive promise of security in connection with your User Information, Subject Information, or Usage Information.</p>
+      <p><strong>4. Privacy Protections for Children.</strong>  With respect to any products and services used by or recording that includes children under the age of 13 (collectively, the "Child-Related Service"), which is a subset of the Service, we recognize the need to provide further privacy protections with respect to User Information and Subject Information we may collect from children under the age of 13 (collectively, "Child Personal Information").  In the event of a conflict between this Section 4 and any other section or provision in this Agreement, solely with respect to users of the Child-Related Service, the provisions of this Section will prevail.</p>
+      <p>In any instance that we collect Child-Related Personal Information from a child, we will retain that information only so long as reasonably necessary to provide the Child-Related Service or allow the child to continue to participate in the Child-Related Service, and protect the security of our users and our Child-Related Service, or as required by law.</p>
+      <p>Other than the Child-Related Service, the Service is not directed to, and SpeakWorks does not knowingly collect or solicit personal information from, children under the age of 13.  We expressly request that no child under the age of 13 use the Service or provide any Information, except in connection with the Child-Related Service, and we expressly prohibit children under the age of 13 from setting up any account allowing them to access the Service. If we learn we have collected or received personal information from a child under the age of 13 (other than as relates to the Child-Related Service), we will delete that information.  If you believe we might have any information from or about a child under the age of 13 (other than as relates to the Child-Related Service), please contact us at <a href="mailto:privacyantispamatgoreactantispamdotcom" class="emailLnk antiSpamFont">privacy<span>䙇</span>goreact.com</a>.</p>
+      <p>Below we summarize potential instances of collection and outline our processes for complying with the United States Children's Online Privacy and Protection Act ("COPPA"):</p>
+      <p>a. COPPA provides that schools may act as the parent's agent and can consent to the collection of Child Personal Information on the parent's behalf.  Therefore, we notify our primary education entity licensees of the Child-Related Service ("Schools") about our information practices with regard to children, including the types of Child Personal Information we may collect, the uses to which we may put that information and whether and with whom we may share that information.  We contractually obligate the Schools who use the Child-Related Service to comply with COPPA, including, without limitation, to notify parents regarding the collection of Child Personal Information from their children.</p>
+      <p>b. We only collect Child Personal Information from children that is needed to provide the Child-Related Service, and do not use the Child Personal Information for any other commercial purpose.</p>
+      <p>c. We offer parents the ability to request access to Child Personal Information we have collected from their children and the ability to request that the Personal Information be changed or deleted.  If you would like to access, change, or delete your child's Child Personal Information, please contact us at <a href="mailto:privacyantispamatgoreactantispamdotcom" class="emailLnk antiSpamFont">privacy<span>䙇</span>goreact.com</a>.</p>
+      <p><strong>5. Linked Sites.</strong>  The Service may link to other web sites not controlled by SpeakWorks. Although we endeavor to be careful in the selection of our strategic service and technology partners, we are not responsible for the privacy or security practices of any other web sites, and you acknowledge and agree that any use of such other web sites is entirely at your own risk. You should carefully review the privacy and security practices of the other web sites before you provide such web sites with any of your personal information.</p>
+      <p><strong>6. Disclosure of Your Information.</strong></p>
+      <p>a. For certain portions of the Service, some elements of User Information are made available to other users who are authorized by the group's administrator to participate in the applicable group.</p>
+      <p>b. We may share general activity information relating to use of the Service by various users to indicate to other users that such activities are taking place, such as when sessions are being recorded.</p>
+      <p>c. We may share your Information with third party service providers to provide you with the Service; to conduct quality assurance testing; to facilitate creation of user accounts; or to provide technical support. These third party service providers are prohibited from using your Information other than to provide the services requested by SpeakWorks.  You expressly consent to the sharing of your Information with our service providers for the sole purpose of providing services to you.</p>
+      <p>d. We may disclose your Information when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of the Service, or anyone else who could be harmed by such activities, or is appropriate or necessary to enforce our rights, take precautions against liability, investigate and defend against any third-party claims or allegations, and/or protect the security or integrity of the SpeakWorks Site.</p>
+      <p>e. We may disclose your Information to respond to judicial process and provide Information to law enforcement agencies in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, or in the good-faith belief that such action is necessary or desirable to comply with state and federal laws.</p>
+      <p>f. We may disclose your Information with your consent.</p>
+      <p>g. We may share some or all of your Information with our Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. "Affiliates" means a parent company, any subsidiaries, joint ventures, or other companies under common control.</p>
+      <p>h. We may sell or buy other businesses or entities.  In such event, we may transfer or assign the Information we have collected as part of such merger, acquisition, sale, or other change of control to another company.  In such transactions, your User Information may be included in the transferred business assets.  Such company will assume the rights and obligations regarding your User Information as described in this Privacy Policy.  You agree that we can accordingly assign, sell, license or transfer any information, including User Information and User Submissions, that you have provided to us to those third parties involved in the transfer or disposition of such assets.</p>
+      <p>i. Also, in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your User Information is treated, transferred, or used and your User Information may be included in the transferred assets.</p>
+      <p>j. We may use your Usage Information to identify and develop products and services that may be of interest to you and we may send you information about special offers, products, services, programs, promotions, surveys, publications, invitations or other opportunities from ourselves or our Partners that may be of interest to certain demographic groups. We will not sell your User Information to third parties.</p>
+      <p><strong>7. Feedback; Removal from Contact List; Changing Information.</strong>  If you have a question or comment about the Service, or wish to update your contact information or be removed from our contact list, please email us at <a href="mailto:privacyantispamatgoreactantispamdotcom" class="emailLnk antiSpamFont">privacy<span>䙇</span>goreact.com</a>.  If you do not want to receive further promotional materials from us, simply contact us at the email address listed above or respond to the link in the mail you receive, and request to be removed from the contact list. Once we receive your request, we will use commercially reasonable efforts to remove your name from the contact list. If you wish to update any of your User Information and are unable to do so through the Service, please contact us at such email address, and we will use commercially reasonable efforts to update your contact information accordingly. Please be aware, however, that even if we update your User Information in our contact list, or we remove such information, it may still be stored in other databases (including those kept for archival purposes) and may still be used to compile aggregated or demographic information for supply to third parties in accordance with this Privacy Policy.  We may also be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).</p>
+      <p><strong>8. International Users.</strong>  By using the Service, you agree and acknowledge that the Service is hosted in the United States. If you are attempting to access the Service from a physical location in any region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Service, which is governed by U.S. law, this Privacy Policy, and the Terms of Use, you are transferring your User Information to the United States and you consent to the application of the laws of the United States and/or the State of Utah with respect to any dispute arising from or related to the Privacy Policy and/or your use of the Service, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States or the State of Utah, and the exclusive jurisdiction of the State of Utah, County of Salt Lake, USA.  YOU EXPRESSLY CONSENT TO SPEAKWORKS' PROCESSING OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY SPEAKWORKS IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. IF YOU REPRESENT AN ORGANIZATION, YOU WILL BE RESPONSIBLE TO ENSURE THAT EACH MEMBER OF YOUR ORGANIZATION (INCLUDING EMPLOYEES AND CONTRACTORS) ABOUT WHOM PERSONAL INFORMATION MAY BE PROVIDED TO SPEAKWORKS HAS GIVEN HIS OR HER EXPRESS CONSENT TO SPEAKWORKS' PROCESSING OF SUCH PERSONAL INFORMATION.</p>
+      <p><strong>9. Miscellaneous.</strong>  If any part of the Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Privacy Policy shall continue in force and effect.</p>
+      <p><strong>10. Changes.</strong> If we make any substantial changes to this Privacy Policy, we may notify you by sending you an e-mail to the last e-mail address you provided to us (if any) and/or by posting notice of the changes on the Service.  Continued use of the Service following notice (for no more than 15 days) of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
+
+    </div>
+
+    
+<div class="trialBox " data-stellar-background-ratio="0.7">
+  <div class="content">
+    <form class="row" ng-controller="TrialBoxCtrl" ng-submit="onSubmit()" role="form">
+      <div class="col-lg-3">
+        <input name="first_name" placeholder="First Name" type="text" ng-model="form.firstName">
+      </div>
+      <div class="col-lg-3">
+        <input name="last_name" placeholder="Last Name" type="text" ng-model="form.lastName">
+      </div>
+      <div class="col-lg-3">
+        <input name="email" placeholder="Email (verified for account)" type="email" ng-model="form.email" oninput="setCustomValidity('')" oninvalid="this.setCustomValidity(this.value.length ? 'Please enter a email address in a format example@email.com' : 'Please enter a email address')">
+      </div>
+      <div class="col-lg-3">
+        <input value="GET MY ACCOUNT" type="submit">
+      </div>
+    </form>
+  </div>
+</div>
+
+
+    <footer>
+    <div class="content">
+        <div class="row">
+            <div class="col-sm-4 col-sm-push-4 footerSocialBlock">
+                <div id="social">
+                    <h6 class="hidden--in--mobile">Social Media</h6>
+                    <a target="_blank" class="linkedIn" href="https://www.linkedin.com/company/goreact-for-asl" onclick="gaPageviewTrack(window, this.href)">
+                        <img class="ico-linkedIn" src="/app/site/images/social/LinkedIn_Gray.png" alt="LinkedIn logo">
+                        <img class="ico-linkedIn-hover" src="/app/site/images/social/LinkedIn_Red.png" alt="LinkedIn logo">
+                    </a>
+                    <a target="_blank" class="twitter" href="https://twitter.com/goreact" onclick="gaPageviewTrack(window, this.href)">
+                        <img class="ico-twitter" src="/app/site/images/social/Twitter_Gray.png" alt="Twitter logo">
+                        <img class="ico-twitter-hover" src="/app/site/images/social/Twitter_Red.png" alt="Twitter logo">
+                    </a>
+                    <a class="youtube" href="https://www.youtube.com/user/SpeakWorks" target="_blank" onclick="gaPageviewTrack(window, this.href)">
+                        <img class="ico-youtube" src="/app/site/images/social/YouTube_Gray.png" alt="YouTube logo">
+                        <img class="ico-youtube-hover" src="/app/site/images/social/YouTube_Red.png" alt="YouTube logo">
+                     </a>
+                    <a class="facebook" href="https://www.facebook.com/GoREACTofficial" target="_blank" onclick="gaPageviewTrack(window, this.href)">
+                        <img class="ico-facebook" src="/app/site/images/social/Facebook_Gray.png" alt="Facebook logo">
+                        <img class="ico-facebook-hover" src="/app/site/images/social/Facebook_Red.png" alt="Facebook logo">
+                    </a>
+                    <a class="pinterest" href="https://www.pinterest.com/GoREACT" target="_blank" onclick="gaPageviewTrack(window, this.href)">
+                        <img class="ico-pinterest" src="/app/site/images/social/Pinterest_Gray.png" alt="Pinterest logo">
+                        <img class="ico-pinterest-hover" src="/app/site/images/social/Pinterest_Red.png" alt="Pinterest logo">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-sm-pull-4">
+                <h6>Company</h6>
+
+                <p><a href="/about">About</a></p>
+
+                <p><a href="/terms">Terms &amp; Conditions</a></p>
+                <p><a href="/privacy">Privacy</a></p>
+
+                <p><a href="https://goreact.zendesk.com/hc/en-us/articles/202601913-Security-Information" target="_blank">Security</a></p>
+
+                <p><a href="https://blog.goreact.com" target="_blank">Blog</a></p>
+
+                <p><a href="/careers">Careers</a></p>
+            </div>
+
+            <div class="col-sm-4 hidden--in--mobile">
+
+                <div id="latestRSS">
+                    <h6>Blog</h6>
+                    <p><a target="_blank" class="ellipsis" href="https://blog.goreact.com/" onclick="gaPageviewTrack(window, this.href)">Our Blog</a></p>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-sm-12 footerLogoBlock">
+                <img id="logo" src="/app/site/images/logo_icon.png" width="45" alt="The GoReact logo icon">
+
+                <div id="goreactCRBox">
+                    <p>GoReact</p>
+
+                    <p>© Copyright 2015 Speakworks, Inc. All rights reserved</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- get app data for site -->
+<script>
+window.AppData = {"appVersion":"v1.17.31","cacheBustSuffix":"c=v1.17.31","google_analytics":{"user":"UA-25341831-2","domain":"goreact.com"}};
+window.AppData.version = 'c=v1.17.31';
+function isShowDialog() {
+    return false;
+}
+window.goreactGLabel = 'a';
+window.goreactGSrc = 'a';
+</script>
+
+<!-- ****************************** -->
+<!-- Vendor Deps for marketing site -->
+<!-- ****************************** -->
+
+<script src="/app/site/js/build/vendor-bfc690d5be.js"></script>
+
+<!-- Pricing panel logic -->
+<script>
+    function getProducts() {
+       return ;
+    }
+</script>
+
+<!-- Google analytics -->
+<script>
+    var googleAnalytics = {"user":"UA-25341831-2","domain":"goreact.com"};
+
+    if (googleAnalytics) {
+        // Google analytics
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments);
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', googleAnalytics.user, 'auto');
+        ga('require', 'ecommerce');
+        ga('send', 'pageview');
+    }
+
+</script>
+
+<!-- Language choice dialog logic -->
+<script>
+    // Language choice dialog logic
+    $(function () {
+        var dclLastPressedBtn = '';
+        $('#dialogChooseLanguage').on('grMfpClose', function () {
+			var label = 'Home - ';
+			label += (dclLastPressedBtn === 'langEnglish') ? 'Communication & Public Speaking' : 'ASL & Interpreter Training';
+
+			gaEventTrack(window, 'Wistia', 'show', label);
+
+            if (dclLastPressedBtn === 'langEnglish') {
+                // Show Communications demo
+                $('#langEnglish').magnificPopup({
+                    type: 'iframe'
+                    , iframe: {
+                        markup: '<iframe src="https://fast.wistia.net/embed/iframe/kwpwc3yb5v?autoPlay=true" frameborder="0" allowfullscreen>Communications demo video</iframe>'
+                    }
+                }).magnificPopup('open');
+
+                dclLastPressedBtn = '';
+            }
+            else if (dclLastPressedBtn === 'langASL') {
+                // Show ASL demo
+                $('#langASL').magnificPopup({
+                    type: 'iframe'
+                    , iframe: {
+                        markup: '<iframe src="https://fast.wistia.net/embed/iframe/4qilogtgan?autoPlay=true" frameborder="0" allowfullscreen>ASL demo video</iframe>'
+                    }
+                }).magnificPopup('open');
+
+                dclLastPressedBtn = '';
+            }
+        });
+
+        // NOTE: the dialog will close by any button click
+
+        $('#dialogChooseLanguage #langEnglish').click(function (evt) {
+            evt.stopPropagation();
+            // Save a pressed button ID
+            dclLastPressedBtn = 'langEnglish';
+            $(this).magnificPopup('close');
+            gaPageviewTrack(window, '/Play-demo-English');
+        });
+
+        $('#dialogChooseLanguage #langASL').click(function (evt) {
+            evt.stopPropagation();
+            // Save a pressed button ID
+            dclLastPressedBtn = 'langASL';
+            $(this).magnificPopup('close');
+            gaPageviewTrack(window, '/Play-demo-ASL');
+        });
+
+    });
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2123109.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+<!-- Wistia script -->
+<script src="//fast.wistia.com/static/integrations-hubspot-v1.js" async=""></script>
+
+<!-- ************************** -->
+<!-- Scripts for marketing site -->
+<!-- ************************** -->
+
+<script src="/app/site/js/build/build-5716bcf0ba.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15d5f04dc7","applicationID":"6086054","transactionName":"NgYGNUdSDBJVURJdWw9MJQJBWg0PG38HXVpOExYIQ1IBGA==","queueTime":0,"applicationTime":49,"atts":"GkEFQw9IHxw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
