@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418233628id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702082333id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lexington Law
 
 **Lexington Privacy Policy**
 
-Last Updated January 2016
+Last Updated June 2016
 
 © Lexington Law Firm
 
 Your privacy is important to Lexington Law Firm ("Lexington"). Please read our Privacy Policy carefully to understand how we collect, use, disclose, transfer, and store your information. By visiting Lexington's website or agreeing to content that includes a link to this document ("Online Ads"), you agree to the practices described in this Privacy Policy and our [Terms of Use](https://web.archive.org/info/terms). 
 
-Our Collection and Use of Personal Information
+1\. Our Collection and Use of Personal Information
 
 Personal Information is information you provide us that can be used to uniquely identify or contact a single person, such as your name, email address, phone numbers and tax identification number. 
 
@@ -18,7 +18,7 @@ You may be asked to provide Personal Information when you interact with Lexingto
 
 Lexington may supplement the Personal Information you provide with Personal Information available from other sources, such as public databases, data aggregators, and other commercially available sources. 
 
-Examples of Personal Information We Collect and How We Use It
+2\. Examples of Personal Information We Collect and How We Use It
 
 You may provide Lexington a variety of Personal Information, including your name, mailing address, email address, phone number, payment information, and tax identification number. 
 
@@ -30,7 +30,7 @@ Our Collection and Use of Non-Personal Information
 
 Non-Personal Information is information in a form that does not allow for direct association with a specific person. This information is compiled and analyzed on both a personal and an aggregated basis. We may collect, use, monitor, analyze, transfer, and disclose Non-Personal Information for any purpose. 
 
-Examples of Non-Personal Information We Collect and How We Use It
+4\. Examples of Non-Personal Information We Collect and How We Use It
 
 We may collect and aggregate information regarding user access, activity and behavior on our website, such as when you visit the website and what content is of interest or seems to be most useful to you. If we combine Non-Personal Information with Personal Information, the combined information is treated as Personal Information for purposes of this Privacy Policy. 
 
@@ -52,7 +52,7 @@ We use Click-Through URLs to help us determine interest in a particular topic an
 
 Anonymized Information - If we separate Non-Personal Information from Personal Information, the separated information is treated as Non-Personal Information for purposes of this Privacy Policy. 
 
-Our Sharing of Information with Others
+5\. Our Sharing of Information with Others
 
 Personal Information
 
@@ -88,7 +88,7 @@ Non-Personal Information
 
 We may share Non-Personal Information publicly and with our strategic partners. For example, we may share Non-Personal Information to describe the size and success of our firm. 
 
-Transparency and Choice
+6\. Transparency and Choice
 
 Lexington may use third-party display advertising companies, including Google, to serve Lexington ads on its behalf on sites across the Internet. Lexington and its display advertisers use cookies to inform, optimize, and serve ads based on your past visits to Lexington's website. 
 
@@ -104,7 +104,7 @@ You may find additional information and opt-out of Omniture Analytics by visitin
 
 You also may want to consider disabling cookies within your browser. Please note, however, that certain features of the Lexington website will not function properly or be available once cookies are disabled. 
 
-Social Media Plug-ins
+7\. Social Media Plug-ins
 
 Plug-ins for social networks, such as Facebook, Twitter, LinkedIn, Yahoo, Windows and Google plus (among others), are integrated on Lexington's website. 
 
@@ -112,9 +112,9 @@ By interacting with us through a social media plug-in, certain information will 
 
 If you do not want the social network to collect information about you, or to share it with Lexington and other third parties, please review the privacy policy of the relevant social network and/or log out of the relevant social network before you visit Lexington's site. 
 
-Information Security and Retention
+8\. Information Security and Retention
 
-Lexington takes precautions to safeguard your Personal Information from loss, theft, and misuse, as well as unauthorized access, disclosure, alternation, and destruction. These precautions include technical, physical, and managerial procedures. 
+Lexington takes precautions to safeguard your Personal Information from loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. These precautions include technical, physical, and managerial procedures. 
 
 Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. 
 
@@ -134,20 +134,34 @@ We may reject requests to change or delete information that are unreasonably rep
 
 We work to protect data from accidental or malicious destruction. Accordingly, we may not immediately delete or change residual copies and we may not delete or change information from our backup systems. Unless a disproportionate effort is required, we will provide information access and correction without charge. 
 
-Third Party Privacy Policies
+9\. Third Party Privacy Policies
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you. This policy does not apply to the practices of companies that Lexington does not own or control or to people that Lexington does not employ or manage. Lexington does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. For more information about each such third party, please refer to the third party's privacy policy. 
 
 If you provided your information on the website of an entity not related to Lexington, and that entity shared your information with us, the privacy policy of that website governs the non-related entity's use of your information, which may be different from this policy. 
 
-Children
+10\. Children
 
 We do not knowingly collect Personal Information from children under 13. If we learn that we have collected the personal information of a child under 13, we will take steps to delete the Personal Information as soon as possible. 
 
-Privacy Policy Changes and Questions
+11\. Consumer Surveys
+
+Lexington may invite you to join a survey panel through which you will be able to share your opinions about proposed new services or other issues relevant to Lexington and its practice. Your participation in this panel is voluntary and is not required in order to engage Lexington’s legal services. Opting in also does not affect your ongoing legal services. If you are invited to join a survey panel, your input may be sought in order to assist Lexington to better market its legal services to interested consumers and provide more efficient and effective services overall. You agree that Lexington, including its third party providers, can use (as it chooses and at its sole discretion) any information and feedback you provide in response to survey and panel questions. You acknowledge and agree that Lexington will be the sole owner of the services and survey questions about which you provide information and feedback and that you have no claim to any Lexington services or the revenue or profits derived from them. You hereby assign to Lexington all intellectual property rights embodied in the information and feedback you provide to Lexington (about the services and in response to the survey questions) and shall execute any documents necessary to effect the foregoing. All information and feedback you provide to Lexington as part of the panel is the confidential business proprietary information of Lexington and you shall not disclose such information and feedback to anyone other than the designated individuals at Lexington responsible for the services and/or survey(s). You warrant and represent that your participation on the panel will not violate the rights of any person or entity and will not cause liability for payment to any entity or person. 
+
+If you participate, you will be awarded points based on your completing surveys and otherwise engaging in the panel. You acknowledge and agree that you understand that any points or awards provided are solely for completing surveys and otherwise participating in the panel. It is within Lexington’s sole discretion to decide what award to provide and the points that will be required for an award. The award system may be changed at Lexington’s discretion, but if a panel participant has met the minimum requirement for an award, that award will be provided to the individual before applying a new incentive structure. 
+
+Because your participation in the panel is not required for your Lexington services, you may opt out of the panel at any time without terminating your Lexington representation. Similarly, you may continue serving on the panel even if your Lexington representation ends. You will need to opt out of the panel in order to no longer receive emails or informational material about the panel surveys unless participation is terminated by Lexington. 
+
+Lexington reserves the right to terminate your participation in the panel at any time. Some of the reasons your enrollment in the panel may be terminated include, but are not limited to, inactivity from all panel activities for a period of time or offensive conduct toward Lexington, its employees, contractors, or agents, or toward fellow panel members. If Lexington terminates your participation or if you voluntarily cancel your participation, you will receive the appropriate award for all points you have accrued to date if those points have accumulated to the minimum required for any award; otherwise, all points will be forfeited. 
+
+As a member of the panel, you will receive e-mails and other material from our third party provider(s) and you may be asked additional information about yourself. The personally identifying information you provide Lexington and third party provider(s) will be treated as set forth in this Privacy Policy. Under no circumstances will Lexington share with its third party provider(s) information about your client case unless you provide specific, written authorization to do so. 
+
+You also acknowledge and understand that information you provide as part of the panel will be kept on the platform provided by Lexington’s third party provider(s). This type of information may include answers you have given as part of the panel registration process and substantive answers you have given in surveys. 
+
+12\. Privacy Policy Changes and Questions
 
 Lexington may update its Privacy Policy from time to time. Changes to this Privacy Policy will be posted on Lexington's website, with a corresponding revision date. Please check the website and Online Ads each time you use them for the most current information and to ensure that you are aware of any updates. 
 
-Request for Information
+13\. Request for Information
 
 If you have any questions or concerns about Lexington's Privacy Policy, please contact us: [info@lexington.com](mailto:info@lexington.com). 
