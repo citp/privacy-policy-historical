@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcatel-lucent.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529063229id_/http%3A//www.alcatel-lucent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatel-lucent.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702084239id_/http%3A//www5.alcatel-lucent.com/privacy) for the most accurate reproduction.*
 
 # Alcatel-Lucent Global Privacy and Data Protection Policy | Alcatel-Lucent
 
@@ -24,7 +24,7 @@ Personal data means any information alone or combined with other data which may 
 
 We value your opinion and feedback.
 
-Please [email us any questions or comments about our Global Privacy and Data Protection Policy](https://web.archive.org/web/20160529063229id_/http%3A//www.alcatel-lucent.com/privacy/inquiry-form), or write us at:
+Please [email us any questions or comments about our Global Privacy and Data Protection Policy](https://web.archive.org/web/20160702084239id_/http%3A//www5.alcatel-lucent.com/privacy/inquiry-form), or write us at:
 
 Alcatel-Lucent Data Privacy Office  
 148/152 Route de la Reine, 92100 Boulogne-Billancourt - France
