@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storeyourboard.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223625id_/http%3A//www.storeyourboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeyourboard.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702115311id_/https%3A//www.storeyourboard.com/privacy-policy/%3Fsource%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,6 +97,6 @@ StoreYourBoard.com
 1512 Viola Way  
 Charlottesville, VA 22902  
 Email: [info@StoreYourBoard.com](mailto:info@StoreYourBoard.com)  
-Phone: (800) 701-3743 
+Phone: %%Panel.StorePhoneNumber%%
 
 Privacy Policy last updated: November 1, 2013
