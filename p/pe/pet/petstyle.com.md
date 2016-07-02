@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petstyle.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531045518id_/https%3A//www.pet360.com//privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petstyle.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702095429id_/https%3A//www.pet360.com//privacypolicy) for the most accurate reproduction.*
 
 # Pet360 - Customer Privacy Policy - Pet360 Pet Parenting Simplified
 
