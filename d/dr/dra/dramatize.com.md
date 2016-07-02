@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramatize.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502120920id_/http%3A//dramatize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramatize.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702065336id_/http%3A//dramatize.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Online | Free on Dramatize
 
