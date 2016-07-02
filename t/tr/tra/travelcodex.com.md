@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelcodex.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405074815id_/http%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelcodex.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702054504id_/http%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Codex
 
