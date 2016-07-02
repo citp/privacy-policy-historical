@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bsr.org privacy policy that was archived on 2016-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160508053800id_/http%3A//www.bsr.org/en/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bsr.org privacy policy that was archived on 2016-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160702062346id_/https%3A//www.bsr.org/en/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -17,7 +17,7 @@
 
 	<link rel="stylesheet" href="/styles/font.min.css">
 
-	<link rel="stylesheet" href="/styles/bsr.beta.css?v=1461633385">
+	<link rel="stylesheet" href="/styles/bsr.beta.css?v=1467231385">
 
 	<!-- link rel="stylesheet"
 		href="http://fonts.googleapis.com/css?family=Montserrat:400,700"
@@ -48,10 +48,10 @@
 
 	
 
-	<script src="/js/jquery.analytics.scrolldepth.js"></script>
+	<!-- script src="/js/jquery.analytics.scrolldepth.js"></script>
 	<script>
 	jQuery(function() {jQuery.scrollDepth();});
-	</script>
+	</script -->
 
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -98,6 +98,7 @@ var trackOutboundLink = function(url) {
 }
 </script>
 
+<script src="https://cdn.optimizely.com/js/5618030771.js"></script>
 </head>
 
 <body data-spy="scroll" data-target=".sub-navigation">
@@ -148,7 +149,7 @@ var trackOutboundLink = function(url) {
 			<ul class="nav navbar-nav navbar-right desktop">
 			
 				 
-					<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Login'});">Member Center&nbsp;<i class="fa fa-angle-down"></i></a>
+					<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Login'});">Login&nbsp;<i class="fa fa-angle-down"></i></a>
 						<ul class="dropdown-menu" role="menu">
 							<li class="dropdown-header">
 								<h4>Hello, members!</h4>
@@ -166,9 +167,18 @@ var trackOutboundLink = function(url) {
 			
 
 				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Conference'});">BSR Conference&nbsp;<i class="fa fa-angle-down"></i></a>
-					<ul class="dropdown-menu">
-						<li class="dropdown-header">BSR Conference 2016</li>
-						<li><a href="http://bsr16.org"><strong>BSR16</strong>: November 1-3 / Grand Hyatt New York</a></li>
+					<ul class="dropdown-menu bsr-conference">
+						<div class="nav-banner">
+							<a href="http://bsr16.org?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav"><img src="/images/inline/bsr16-be-bold-banner.jpg" alt="BSR Conference 2016: Be Bold" class="img-responsive"></a>
+						</div>
+						<li class="dropdown-header bsr16">BSR Conference 2016</li>
+						<li><a href="http://bsr16.org/about?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">About the BSR Conference</a></li>
+						<li><a href="http://bsr16.org/agenda/sessions?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Sessions</a></li>
+						<li><a href="http://bsr16.org/speakers?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Speakers</a></li>
+						<li><a href="http://bsr16.org/networking?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Who Attends</a></li>
+						<li><a href="http://bsr16.org/logistics/venue-travel?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Venue</a></li>
+						<li><a href="http://bsr16.org/logistics/registration-rates?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Registration Rates</a></li>
+						<li><a href="http://www.cvent.com/d/ffq4f5/4W" onclick="trackOutboundLink('http://www.cvent.com/d/ffq4f5/4W'); return false;" class="btn btn-danger" style="color: #fff;">Register Now</a></li>
 						<li class="divider"></li>
 						<li class="dropdown-header">Past BSR Conferences</li>
 						<li><a href="http://bsr15.org"><strong>BSR15</strong>: Resilent Business, Resilient World</a></li>
@@ -185,11 +195,8 @@ var trackOutboundLink = function(url) {
 
 			
 				<li><a href="http://www.bsr.org/en/events" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Events'});">Events</a></li>
-
 			
 			
-			
-				<li><a href="http://www.bsr.org/en/careers" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Careers'});">Careers</a></li>
 				<li><a href="/en/search">Search</a></li>
 			
 			</ul>
@@ -223,8 +230,10 @@ var trackOutboundLink = function(url) {
 						<li><a href="http://www.bsr.org/en/about/story">Our Story</a></li>
 					
 						<li><a href="http://www.bsr.org/en/about/people">Our People</a></li>
-						<li><a href="http://www.bsr.org/en/about/news">In the News</a></li>
 						<li><a href="http://www.bsr.org/en/about/contact">Contact</a></li>
+					
+						<li><a href="http://www.bsr.org/en/careers" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu: Careers'});">Careers</a></li>
+					
 					</ul>
 				</li>
 				<li>
@@ -245,6 +254,7 @@ var trackOutboundLink = function(url) {
 						<li><a href="http://www.bsr.org/en/our-insights/blog">Blog</a></li>
 						<li><a href="http://www.bsr.org/en/our-insights/case-studies">Case Studies</a></li>
 						<li><a href="http://www.bsr.org/en/our-insights/reports">Reports</a></li>
+						<li><a href="http://www.bsr.org/en/our-insights/news">In the News</a></li>
 					
 						<li class="divider"></li>
 						<li><a href="http://www.bsr.org/en/topics">Topics</a></li>
@@ -259,6 +269,15 @@ var trackOutboundLink = function(url) {
 			<ul class="nav navbar-nav mobile">
 				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" onclick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Open', eventLabel: 'Menu Mobile: Conference'});">BSR Conference&nbsp;<i class="fa fa-angle-down"></i></a>
 					<ul class="dropdown-menu" role="menu">
+						<li class="dropdown-header bsr16">BSR Conference 2016</li>
+						<li><a href="http://bsr16.org/about?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">About the BSR Conference</a></li>
+						<li><a href="http://bsr16.org/agenda/sessions?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Sessions</a></li>
+						<li><a href="http://bsr16.org/speakers?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Speakers</a></li>
+						<li><a href="http://bsr16.org/networking?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Who Attends</a></li>
+						<li><a href="http://bsr16.org/logistics/venue-travel?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Venue</a></li>
+						<li><a href="http://bsr16.org/logistics/registration-rates?utm_source=bsrorg&amp;utm_medium=website&amp;utm_campaign=nav">Registration Rates</a></li>
+						<li><a href="http://www.cvent.com/d/ffq4f5/4W" onclick="trackOutboundLink('http://www.cvent.com/d/ffq4f5/4W'); return false;">Register Now</a></li>
+						<li class="divider"></li>
 						<li class="dropdown-header">Past BSR Conferences</li>
 						<li><a href="http://bsr15.org"><strong>BSR15</strong>: Resilent Business, Resilient World</a></li>
 						<li><a href="http://bsr14.org"><strong>BSR14</strong>: Transparency and Transformation</a></li>
@@ -266,9 +285,9 @@ var trackOutboundLink = function(url) {
 						<li><a href="http://2012-ny.bsr.org"><strong>BSR12</strong>: Fast Forward</a></li>
 						<li class="divider"></li>
 						<li class="dropdown-header">Future BSR Conferences</li>
-						<li class="disabled"><strong>BSR16</strong>: November 1-3 / Grand Hyatt New York</li>
-						<li class="disabled"><strong>BSR17</strong>: October 24-26, 2017 / Hyatt Regency, Huntington Beach, CA</li>
-						<li class="disabled"><strong>BSR18</strong>: November 6-8, 2018 / Grand Hyatt, New York, NY</li>
+						<li><a><strong>BSR17</strong>: October 24-26, 2017 / Hyatt Regency, Huntington Beach, CA</a></li>
+						<li><a><strong>BSR18</strong>: November 6-8, 2018 / Grand Hyatt, New York, NY</a></li>
+						<li class="divider"></li>
 					</ul>
 				</li>
 
@@ -394,8 +413,8 @@ var trackOutboundLink = function(url) {
 		<div class="row">
 			<div class="col-md-7">
 				<h5>About Us</h5>
-				<p>
-				BSR is a global nonprofit organization that works with its network of more than 250 member companies to build a just and sustainable world. From its offices in Asia, Europe, and North America, BSR develops sustainable business strategies and solutions through consulting, research, and cross-sector collaboration.</p>
+				<p class="link">
+				BSR is a global nonprofit organization that works with its network of more than 250 member companies and other partners to build a just and sustainable world. From its offices in Asia, Europe, and North America, BSR develops sustainable business strategies and solutions through consulting, research, and cross-sector collaboration. <a href="/en/about/story">Learn more</a> about BSR’s 25 years of leadership in sustainability.</p>
 				<h5><a href="http://www.bsr.org/en/about/contact">Our Global Offices</a></h5>
 				<ul class="flat-list">
 					<li>Copenhagen</li>
@@ -411,25 +430,24 @@ var trackOutboundLink = function(url) {
 			<div class="col-md-5">
 				<h5>Elsewhere</h5>
 				<p>
-				<a href="http://twitter.com/bsrnews" onclick="trackOutboundLink('http://twitter.com/bsrnews'); return false;"><img class="img-circle social-icon" src="/images/icons/bsr-twitter.svg" alt="Twitter icon"></a>
-				<a href="http://www.facebook.com/BSRorg" onclick="trackOutboundLink('http://www.facebook.com/BSRorg'); return false;"><img src="/images/icons/bsr-facebook.svg" alt="Facebook icon" class="img-circle social-icon"></a>
+				<a href="http://twitter.com/bsrnews" onclick="trackOutboundLink('http://twitter.com/bsrnews'); return false;"><img class="img-circle social-icon" src="/images/icons/bsr-twitter-icon.svg" alt="Twitter icon"></a>
+				<a href="http://www.facebook.com/BSRorg" onclick="trackOutboundLink('http://www.facebook.com/BSRorg'); return false;"><img src="/images/icons/bsr-facebook-icon.svg" alt="Facebook icon" class="img-circle social-icon"></a>
 				<a href="http://www.linkedin.com/company/162839" onclick="trackOutboundLink('http://www.linkedin.com/company/162839'); return false;"><img src="/images/icons/bsr-linkedin.svg" alt="LinkedIn icon" class="img-circle social-icon"></a>
 				<a href="https://instagram.com/bsrorg" onclick="trackOutboundLink('http://instagram.com/bsrorg'); return false;"><img src="/images/icons/bsr-instagram-icon.svg" alt="Instagram icon" class="img-circle social-icon"></a>
-				<a href="http://www.youtube.com/user/BusinessSocialResp" onclick="trackOutboundLink('http://www.youtube.com/'); return false;"><img src="/images/icons/bsr-youtube.svg" alt="YouTube icon" class="img-circle social-icon"></a>
-				<a href="https://www.flickr.com/photos/107327276@N08/sets/" onclick="trackOutboundLink('https://www.flickr.com/photos/107327276@N08/sets/'); return false;"><img src="/images/icons/bsr-flickr.svg" alt="Flickr icon" class="img-circle social-icon"></a>
-				<a href="http://e.weibo.com/bsrbj" onclick="trackOutboundLink('http://e.weibo.com/bsrbj'); return false;"><img src="/images/icons/bsr-sina-weibo.svg" alt="Sina Weibo icon" class="img-circle social-icon"></a>
-				<a href="" data-toggle="modal" data-target="#weChat"><img src="/images/icons/bsr-wechat.svg" alt="WeChat icon" class="img-circle social-icon"></a></p><a href="" data-toggle="modal" data-target="#weChat">
+				<a href="http://www.youtube.com/user/BusinessSocialResp" onclick="trackOutboundLink('http://www.youtube.com/user/BusinessSocialResp'); return false;"><img src="/images/icons/bsr-youtube-icon.svg" alt="YouTube icon" class="img-circle social-icon"></a>
+				<a href="https://www.flickr.com/photos/107327276@N08/sets/" onclick="trackOutboundLink('https://www.flickr.com/photos/107327276@N08/sets/'); return false;"><img src="/images/icons/bsr-flickr-icon.svg" alt="Flickr icon" class="img-circle social-icon"></a>
+				
+				<a href="" data-toggle="modal" data-target="#weChat"><img src="/images/icons/bsr-wechat-icon.svg" alt="WeChat icon" class="img-circle social-icon"></a></p><a href="" data-toggle="modal" data-target="#weChat">
 
 
 				<h5>Subscribe to Our List</h5>
-				</a><h2><a href="" data-toggle="modal" data-target="#weChat"></a><a class="btn" data-toggle="modal" data-target="#subscriptionForm" onclick="ga('send', 'event', { eventCategory: 'Subscribe', eventAction: 'Click', eventLabel: 'Subscribe: Mailing List Signup'});">Sign Me Up</a></h2>
+				</a><h2><a href="" data-toggle="modal" data-target="#weChat"></a><a class="btn" data-toggle="modal" href="/en/contact/bsr-mailing-list" data-target="#modalMailingListForm" onclick="ga('send', 'event', { eventCategory: 'Subscribe', eventAction: 'Click', eventLabel: 'Subscribe: Mailing List Signup'});">Sign Me Up</a></h2>
 
 			</div>
 		</div>
 
 
 	
-
 		<div class="row">
 			<div class="col-md-12">
 				<hr>
@@ -442,7 +460,6 @@ var trackOutboundLink = function(url) {
 							<li><a href="http://www.bsr.org/en/about/story">Our Story</a></li>
 						
 							<li><a href="http://www.bsr.org/en/about/people">Our People</a></li>
-							<li><a href="http://www.bsr.org/en/about/news">In the News</a></li>
 							<li><a href="http://www.bsr.org/en/about/contact">Contact</a></li>
 						</ul>
 					</div>
@@ -462,6 +479,7 @@ var trackOutboundLink = function(url) {
 							<li><a href="http://www.bsr.org/en/our-insights/blog">Blog</a></li>
 							<li><a href="http://www.bsr.org/en/our-insights/case-studies">Case Studies</a></li>
 							<li><a href="http://www.bsr.org/en/our-insights/reports">Reports</a></li>
+							<li><a href="http://www.bsr.org/en/about/news">In the News</a></li>
 							<li><a href="http://www.bsr.org/en/topics">Topics</a></li>
 						</ul>
 					</div>
@@ -496,6 +514,7 @@ var trackOutboundLink = function(url) {
 		</div>
 	
 
+
 		<div class="row">
 			<div class="col-md-12">
 				<h5>BSR Web Properties</h5>
@@ -513,7 +532,7 @@ var trackOutboundLink = function(url) {
 		<div class="row">
 			<div class="col-md-12">
 				<p class="legal">
-				© 2016 Business for Social Responsibility | <a href="http://www.bsr.org/en/about/privacy">Privacy and Data Retention Policy</a> | <a href="http://www.bsr.org/en/about/contact">Contact</a></p>
+				© 2016 Business for Social Responsibility | <a href="/en/about/privacy">Privacy and Data Retention Policy</a> | <a href="/en/about/contact">Contact</a></p>
 			</div>
 		</div>
 
@@ -525,18 +544,10 @@ var trackOutboundLink = function(url) {
 
 		
 
-
-		<div class="modal fade" id="subscriptionForm" tabindex="-1" role="dialog" aria-labelledby="subscriptionForm" aria-hidden="true">
+		
+		<div class="modal fade" id="modalMailingListForm" tabindex="-1" role="dialog" aria-labelledby="modalMailingListForm" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-					</div>
-					<div class="modal-body">
-						
-						<iframe src="http://go.bsr.org/l/43752/2014-07-18/7jnh" width="100%" height="500" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
-					</div>
-					<div class="modal-footer"></div>
 				</div>
 			</div>
 		</div>
