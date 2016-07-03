@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527143424id_/http%3A//www.cochintalkies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703041947id_/http%3A//www.cochintalkies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
