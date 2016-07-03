@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omise.co privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317045909id_/https%3A//www.omise.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omise.co privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703060908id_/https%3A//www.omise.co/privacy) for the most accurate reproduction.*
 
 # Omise: Privacy Policy
 
