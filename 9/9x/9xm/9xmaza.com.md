@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 9xmaza.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602091734id_/http%3A//9xmaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xmaza.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703173932id_/http%3A//9xmaza.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy @ 9xmaza
 
 [](https://web.archive.org/)
 
-_**#UPDATE#** Fifth Harmony - 7/27 *Full Album* [Click Here](http://9xmaza.com/album/179/fifth-harmony-727-album-download) ## Beyonce - Lemonade *Full Album* [Click Here](http://9xmaza.com/album/144/lemonade) _ Last Updated On - 02 Jun 2016 
+_**#UPDATE#** YG - Still Brazy *Full Album* [Click Here](http://9xmaza.com/album/200/yg-still-brazy-album-zip) ## Beyonce - Lemonade *Full Album* [Click Here](http://9xmaza.com/album/144/lemonade) _ Last Updated On - 03 Jul 2016 
 
 ## __Privacy Policy / Terms
 
