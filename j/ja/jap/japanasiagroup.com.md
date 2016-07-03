@@ -1,13 +1,25 @@
-> *The following text is extracted and transformed from the japanasiagroup.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316102204id_/http%3A//www.japanasiagroup.com/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanasiagroup.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703213242id_/http%3A//www.japanasiagroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Japan Asia Holdings Limited
+# Privacy Policy | Japan Asia Business News
 
-## Privacy Policy
+Privacy Policy for http://www.japanasiagroup.com
 
-It is our policy and priority to protect and to safeguard any information provided by our customers. We are committed to training and ensuring our staff adopt this privacy practice. We will not willfully disclose any individually identifiable information about you to any outside source without your expressed consent.
+The privacy of our visitors to [Japan Asia Group](http://www.japanasiagroup.com/) is important to us.
 
-Throughout the Web site, only the necessary information for applications/inquiries will be collected, and customers will be informed of the purposes and use, possible transfer and disclosure and the right of access to and correction of the collected information on the respective screens. We will not collect any information from customers without notice.
+We recognize the privacy of your personal information is important. We never sell your personal information to third parties.
 
-Only authorized staff will be permitted to access information obtained from a customer; it will not be revealed to any external organizations without the customer’s agreement unless we are required to do so by law. From time to time, we may send promotional materials regarding our products to customers according to the collected information. We will stop sending these materials to customers if they indicate by writing or verbal instruction that they prefer not to be solicited.
+Log Files
 
-We will assess our policy from time to time to ensure that our customers’ privacy is respected and protected duly.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+Cookies and Web Beacons
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+DoubleClick DART cookies
+
+We also may use DART cookies for ad serving through Googles DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (interest based targeting). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses non-personally identifiable information. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at your browsers’ website.
