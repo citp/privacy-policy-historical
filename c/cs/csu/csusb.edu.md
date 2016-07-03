@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601125931id_/https%3A//www.csusb.edu/about-csusb/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703091748id_/https%3A//www.csusb.edu/about-csusb/privacy-and-security-notice) for the most accurate reproduction.*
 
 # Privacy and Security Notice | CSUSB Main Campus
 
