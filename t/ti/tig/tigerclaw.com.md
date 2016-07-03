@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011022419id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703020724id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Tiger Claw » Customer Service :: Martial Arts Supplies, Uniforms, Sparring Gear, and More
 
