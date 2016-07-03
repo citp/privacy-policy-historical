@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502092810id_/http%3A//www.etravelprotection.com/allianz/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703191913id_/http%3A//www.etravelprotection.com/allianz/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
 **THIS NOTICE DESCRIBES HOW PERSONAL DATA, AND, WHERE APPLICABLE, MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.   PLEASE REVIEW IT CAREFULLY.**
 
-AGA Inc. and its affiliates (“we/us/our”), including Jefferson Insurance Company and AGA Service Company d/b/a Allianz Global Assistance, are committed to protecting your privacy.  By using our products, services or website, you are consenting to our collection and use of your personally identifiable data under this Policy. ****
+AWP USA Inc. and its affiliates (“we/us/our”), including Jefferson Insurance Company and AGA Service Company d/b/a Allianz Global Assistance, are committed to protecting your privacy.  By using our products, services or website, you are consenting to our collection and use of your personally identifiable data under this Policy. ****
 
 **  Definitions. **
 
@@ -77,6 +77,6 @@ Where we are subject to HIPPA, you have the right to request to receive confiden
 
 **  Contact. **If you have any questions or comments regarding this Policy or the way that we collect or handle your Personal Data, or if you would like to obtain a paper copy of this Policy, or if you wish to opt out as described above, please contact our Chief Privacy Officer by e-mail at  _privacy@allianzassistance.com_ ; or by telephone at 1-800-284-8300; or by regular mail at the following address:  Allianz Global Assistance, ATTN: Chief Privacy Officer, 9950 Mayland Drive, Richmond, VA 23233. 
 
-**  Effective Date. **This Policy was last revised on, and is effective as of,  _July 7, 2015_. 
+**  Effective Date. **This Policy was last revised on, and is effective as of,  _June 27, 2016_. 
 
 © 2015 AGA Service Company. All rights reserved.
