@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604072643id_/http%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703034800id_/https%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # First TransPennine Express Trains – Privacy Policy
 
