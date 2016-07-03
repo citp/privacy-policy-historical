@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divisoup.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522230950id_/http%3A//divisoup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divisoup.com privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703182237id_/https%3A//divisoup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Divi Soup
 
