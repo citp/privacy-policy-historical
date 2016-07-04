@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanbo.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601154454id_/http%3A//www.amanbo.com/component/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanbo.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704213130id_/http%3A//www.amanbo.com/component/privacyPolicy.html) for the most accurate reproduction.*
 
 # Amanbo Privacy Policy
 
