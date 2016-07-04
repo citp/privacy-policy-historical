@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tayroc.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622190148id_/http%3A//www.tayroc.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tayroc.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704170519id_/http%3A//www.tayroc.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tayroc - Discover The Latest In Luxury Goods
 
-This Privacy Policy governs the manner in which Tayroc Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.tayroc.com](https://web.archive.org/web/20160622190148id_/http%3A//www.tayroc.com/pages/www.tayroc.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Tayroc Ltd.
+This Privacy Policy governs the manner in which Tayroc Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.tayroc.com](https://web.archive.org/web/20160704170519id_/http%3A//www.tayroc.com/pages/www.tayroc.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Tayroc Ltd.
 
 **Personal identification information**
 
@@ -56,8 +56,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Tayroc Ltd](https://web.archive.org/web/20160622190148id_/http%3A//www.tayroc.com/pages/www.tayroc.com)  
-[www.tayroc.com](https://web.archive.org/web/20160622190148id_/http%3A//www.tayroc.com/pages/www.tayroc.com)  
+[Tayroc Ltd](https://web.archive.org/web/20160704170519id_/http%3A//www.tayroc.com/pages/www.tayroc.com)  
+[www.tayroc.com](https://web.archive.org/web/20160704170519id_/http%3A//www.tayroc.com/pages/www.tayroc.com)  
 Tayroc Unit 30, Sugarbrook Road Aston Fields Industrial Estate Bromsgrove B60 3DN  
 contact@tayroc.com
 
