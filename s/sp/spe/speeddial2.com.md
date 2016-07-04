@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddial2.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419031746id_/http%3A//speeddial2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddial2.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704214429id_/https%3A//speeddial2.com/privacy-policy) for the most accurate reproduction.*
 
 # Speed dial 2 - the best New tab page extension for Google Chrome
 
