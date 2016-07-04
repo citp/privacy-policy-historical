@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankw.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604012225id_/http%3A//rankw.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankw.org privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704230024id_/http%3A//rankw.org/privacy) for the most accurate reproduction.*
 
 # RankW - Website Analysis Tools - Privacy Policy
 
