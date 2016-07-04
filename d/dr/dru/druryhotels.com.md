@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the druryhotels.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505095308id_/https%3A//www.druryhotels.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the druryhotels.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704230040id_/https%3A//druryhotels.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Drury Hotels
 
