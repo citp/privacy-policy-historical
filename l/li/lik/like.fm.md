@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the like.fm privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531162316id_/https%3A//www.instapainting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like.fm privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705063134id_/https%3A//www.instapainting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Instapainting.com - Instapainting
 
