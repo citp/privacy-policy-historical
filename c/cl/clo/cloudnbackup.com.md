@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudnbackup.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503215152id_/http%3A//cloudnbackup.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudnbackup.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705061249id_/http%3A//cloudnbackup.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Cloud & Backup - Harddrive Backup Solution
+# Cloud Backup - Cloud Storage
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](mailto:support@virtualservercloud.org).
 
@@ -57,7 +57,7 @@ This Privacy Policy was last updated on: Saturday, August 1st, 2015.
 
 online backup solution for your data and files. Sign up now and sync your most important files securely to the cloud! 
 
-### Data Enctyption
+### Data Encryption
 
 All files you store, sync and back up to the cloud are encrypted with AES-256 encryption and a unique key.
 
