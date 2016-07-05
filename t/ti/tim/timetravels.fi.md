@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timetravels.fi privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218022219id_/http%3A//www.aikamatkat.fi/privacy-policy/%3F___store%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetravels.fi privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705131211id_/https%3A//www.timetravels.fi/privacy-policy) for the most accurate reproduction.*
 
-# Timetravels Ltd. Aikamatkat Oy - Timetravels Ltd. Privacy Policy
+# Timetravels Ltd. Privacy_policy
 
 ## General
 
@@ -50,4 +50,4 @@ If you would like us to update, change, or delete information we have about you 
 
 ## Changes to this Privacy Policy
 
-From time to time it may be necessary for Aikamatkat Oy - Timetravels Ltd. to amend or make revisions to this Privacy Policy, which amendments may also apply to your personal information collected under a previous version of this Policy. Aikamatkat Oy - Timetravels Ltd. reserve the right to change this Privacy Policy at any time and for any reason. If we make a change to the Policy, the revised version will be posted on our website.
+From time to time it may be necessary for Aikamatkat Oy - Timetravels Ltd. to amend or make revisions to this Privacy Policy, which amendments may also apply to your personal information collected under a previous version of this Policy. Aikamatkat Oy - Timetravels Ltd. reserve the right to change this Privacy Policy at any time and for any reason. If we make a change to the Policy, the revised version will be posted on our website.
