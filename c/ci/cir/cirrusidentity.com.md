@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusidentity.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422053802id_/http%3A//www.cirrusidentity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusidentity.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705174204id_/http%3A//www.cirrusidentity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Cirrus Identity
 
