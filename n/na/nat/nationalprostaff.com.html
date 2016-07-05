@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationalprostaff.com privacy policy that was archived on 2015-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150904063634id_/http%3A//www.nationalprostaff.com/content/3/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalprostaff.com privacy policy that was archived on 2016-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160706012528id_/https%3A//nationalprostaff.com/content/3/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -10,9 +10,29 @@
 <meta name="keywords" content="fishing, sportfishing, prostaff, national pro staff, fishing reports, fishing videos, NPS, fishing gear">
 <meta name="google-site-verification" content="0J0vUbzYU0tzszBzjkrLqLo1-sGe1CQ2ivbRt2itRBc">
 <link rel="stylesheet" type="text/css" href="/includes/styles.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/inc/sweetalert/sweetalert.min.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '502672193220398');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=502672193220398&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script src="/inc/sweetalert/sweetalert.min.js"></script>
 <link rel="stylesheet" href="/inc/sweetalert/sweetalert.css">
-<script src="/inc/ckeditor/ckeditor.js"></script><style>.cke{visibility:hidden;}</style>
+
+
+<script src="/inc/ckeditor/ckeditor.js"></script>
+<script src="/includes/jquery/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="/includes/jquery/jquery.autocomplete.min.js"></script>
 <script>
 function deletePost(linkToDelPost)
 {
@@ -30,6 +50,7 @@ function deletePost(linkToDelPost)
 	   
     });
 }
+
 </script>
 <script type="text/javascript" language="javascript" src="/includes/ajax.js"></script> 
 <script>
@@ -45,11 +66,11 @@ function emptyReturnGear(html)
 	var res = html.split("==");
 	if(res[2]=="y")
 	{
-		document.getElementById("endorcementDiv"+res[0]).innerHTML='<img src="/img/gearStarBlue.png" width="16" height="16" style="vertical-align: middle;" />&nbsp;&nbsp;<span style="opacity:0.7;">'+res[1]+'</span>';
+		document.getElementById("endorcementDiv"+res[0]).innerHTML='<img src="/img/icon_heart_on.png" width="15" height="14"  class="gearLikeHear" />&nbsp;&nbsp;<span style="opacity:0.7;">'+res[1]+'</span>';
 	}
 	else
 	{
-		document.getElementById("endorcementDiv"+res[0]).innerHTML='<a href="javascript:;" title="ENDORSE IT" class="tooltip"><img src="/img/gearStarGrey.png" width="16" height="16" style="vertical-align: middle;" title="" /></a>&nbsp;&nbsp;<span style="opacity:0.7;">'+res[1]+'</span>';
+		document.getElementById("endorcementDiv"+res[0]).innerHTML='<img src="/img/icon_heart_off.png" width="15" height="14"  class="gearLikeHear" />&nbsp;&nbsp;<span style="opacity:0.7;">'+res[1]+'</span>';
 	}
 }
 </script></head>
@@ -99,8 +120,7 @@ function hideRegionSelect()
 			<a href="/?region=US" class="helvetica_11_grey" style="font-weight:bold; color:#0E9AE5;"><img src="/img/flag_us.jpg" width="14" height="9"> USA</a>&nbsp;&nbsp;&nbsp;
 			<a href="/?region=CA" class="helvetica_11_grey"><img src="/img/flag_canada.jpg" width="14" height="9"> Canada</a>&nbsp;&nbsp;&nbsp;
 						<a class="helvetica_11_grey" href="/content/4/About_Us">About Us</a>&nbsp;&nbsp;&nbsp;
-			<a class="helvetica_11_grey" href="/contactUs.php">Contact Us
-</a>
+			<a class="helvetica_11_grey" href="/contactUs.php">Contact Us</a>
 			</td>
 		</tr>
 		</tbody></table>
@@ -109,7 +129,7 @@ function hideRegionSelect()
 				<form name="qloginForm" id="qloginForm" action="/login.php" method="post"></form>
 		<input type="hidden" name="process" id="process" value="1">
 		<tbody><tr>
-			<td><input type="text" name="username" id="username" class="newLoginInputHeader" value="" placeholder="username" required="required"></td>
+			<td><input type="text" name="username" id="username" class="newLoginInputHeader" value="" placeholder="email / username" required="required"></td>
 			<td width="6px">&nbsp;</td>
 			<td><input type="password" name="password" id="password" class="newLoginInputHeader" placeholder="password" required="required"></td>
 
@@ -120,7 +140,7 @@ function hideRegionSelect()
 			<td width="10px">&nbsp;</td>
 			<td>OR</td>
 			<td width="10px">&nbsp;</td>
-			<td><a href="/openID/facebook.php?url_back=/content/3/privacy-policy"><img src="/img/fbLogin.png" height="20px"></a></td>
+			<td><a href="/openID/facebook.php?url_back=/content/3/privacy-policy"><img src="/img/fbLoginS.png" height="20px"></a></td>
 		</tr>
 		
 				</tbody></table>
@@ -136,14 +156,10 @@ function hideRegionSelect()
 	<tbody><tr>
 		<td height="30px" align="left" class="newTopMenu">
 			<div style="position:relative; float:left;"><a href="/" class="newTopMenu">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-		<div style="position:relative; float:left;" onmouseover="showTopNav('TNCont','1');" onmouseout="showTopNav('TNCont','0');">
-			<a href="/content/" class="newTopMenu">CONTENT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			<div id="TNCont" class="topNavDD">
-				<div class="topNacInnerDiv">
-					<a href="/reports/" class="newTopMenuA">REPORTS&nbsp;/&nbsp;VIDEOS&nbsp;/&nbsp;PHOTOS</a><hr>
-									</div>
-			</div>
-		</div>
-		<div style="position:relative; float:left;" onmouseover="showTopNav('TNAng','1');" onmouseout="showTopNav('TNAng','0');">
+		
+		<div style="position:relative; float:left;"><a href="/content/" class="newTopMenu">POSTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+		
+				<div style="position:relative; float:left;" onmouseover="showTopNav('TNAng','1');" onmouseout="showTopNav('TNAng','0');">
 			<a href="/users/all.php" class="newTopMenu">ANGLERS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			<div id="TNAng" class="topNavDD">
 				<div class="topNacInnerDiv">
 					<a href="/prostaff.php" class="newTopMenuA">PROSTAFF</a><hr>
@@ -166,9 +182,7 @@ function hideRegionSelect()
 			</div>
 		</div>
 		
-		<div style="position:relative; float:left;">
-			<a href="/tournamentNews/" class="newTopMenu">TOURNAMENTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			
-		</div>
+		
 		
 				
 		<div style="position:relative; float:left;" onmouseover="showTopNav('TNShops','1');" onmouseout="showTopNav('TNShops','0');">
@@ -176,7 +190,6 @@ function hideRegionSelect()
 				<div class="topNacInnerDiv">
 					<a href="/gear/" class="newTopMenuA">GEAR</a><hr>
 					<a href="/gear/reviews.php" class="newTopMenuA">REVIEWS</a><hr>
-					<a href="/gear/qna.php" class="newTopMenuA">Q &amp; A</a><hr>
 				</div>
 			</div>
 		</div>
@@ -190,23 +203,30 @@ function hideRegionSelect()
 			</div>
 		</div>
 		<div style="position:relative; float:left; z-index:100;" onmouseover="showTopNav('TNHowItWorks','1');" onmouseout="showTopNav('TNHowItWorks','0');">
-			<a href="/content/4/about-us" class="newTopMenu">HOW IT WORKS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			<div id="TNHowItWorks" class="topNavDD" style="z-index:100;">
+			<a href="/content/13/faq---sponsorship" class="newTopMenu">HOW IT WORKS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			<div id="TNHowItWorks" class="topNavDD" style="z-index:100;">
 				<div class="topNacInnerDiv" style="z-index:100;">
 										<a href="/content/4/about-us" class="newTopMenuA">ABOUT&nbsp;US</a><hr>
-										<a href="/content/5/sponsorship-using-nps" class="newTopMenuA">SPONSORSHIP&nbsp;USING&nbsp;NPS</a><hr>
 										<a href="/content/13/faq---sponsorship" class="newTopMenuA">FAQ&nbsp;-&nbsp;SPONSORSHIP</a><hr>
-										<a href="/content/45/free-member-benefits" class="newTopMenuA">FREE&nbsp;MEMBER&nbsp;BENEFITS</a><hr>
+										<a href="/content/45/member-levels" class="newTopMenuA">MEMBER&nbsp;LEVELS</a><hr>
 										<a href="/content/50/get-sponsored" class="newTopMenuA">GET&nbsp;SPONSORED</a><hr>
 										<a href="/content/55/testimonials" class="newTopMenuA">TESTIMONIALS</a><hr>
-										<a href="/content/61/download-the-app" class="newTopMenuA">DOWNLOAD&nbsp;THE&nbsp;APP</a><hr>
 										<a href="/content/32/become-an-amateur-pro" class="newTopMenuA">BECOME&nbsp;AN&nbsp;AMATEUR&nbsp;PRO</a><hr>
-										<a href="/content/63/membership-levels" class="newTopMenuA">MEMBERSHIP&nbsp;LEVELS</a><hr>
 										<a href="/content/2/terms-of-use" class="newTopMenuA">TERMS&nbsp;OF&nbsp;USE</a><hr>
 										<a href="/content/3/privacy-policy" class="newTopMenuA">PRIVACY&nbsp;POLICY</a><hr>
-										<a href="/GoProContest" class="newTopMenuA">CONTEST</a><hr>
-									</div>
+														</div>
 			</div>
 		</div>
+        
+      <div style="position:relative; float:left; z-index:100;" onmouseover="showTopNav('TNSponOpp','1');" onmouseout="showTopNav('TNSponOpp','0');">
+			<a href="/teams/sponsorshipOpportunities.php" class="newTopMenu">SPONSORSHIP OPPORTUNITIES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			<div id="TNSponOpp" class="topNavDD" style="z-index:100;">
+				<div class="topNacInnerDiv" style="z-index:100;">
+					<a href="/users/recentlySponsored.php" class="newTopMenuA">RECENTLY SPONSORED</a><hr>
+					<a href="/teams/sponsorshipOpportunities.php" class="newTopMenuA">SPONSORSHIP OPPORTUNITIES</a><hr>
+				</div>
+			</div>
+		</div>
+        
+        
 				</td>
 		<script>
 		function showTopNav(elId,toDo)
@@ -257,7 +277,7 @@ FEATURED TEAMS // <a href="/teams.php" class="helvetica_9_red">MORE</a>
 </div> 
 <div class="featuredTeamsListShadow"></div>
 </div>
-<div style="height:75px; overflow:hidden; background-color:#FFF; width:930px; padding-left:30px;"><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/gloomis"><img border="0" src="/dat/companies/1/brands/2/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/Jackall"><img border="0" src="/dat/companies/1/brands/59/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/fenwick"><img border="0" src="/dat/companies/3/brands/7/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/humminbird"><img border="0" src="/dat/companies/3/3/brands/33/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/shimano"><img border="0" src="/dat/companies/1/brands/1/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/sail"><img border="0" src="/dat/companies/5/2/brands/45/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/13fishing"><img border="0" src="/dat/companies/1/5/9/brands/111/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/rapala"><img border="0" src="/dat/companies/1/3/7/brands/83/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/no8tackle"><img border="0" src="/dat/companies/1/6/0/brands/112/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/therodglove"><img border="0" src="/dat/companies/1/2/brands/27/logo70x70.jpg"></a></td></tr></tbody></table></div></div>		</td>
+<div style="height:75px; overflow:hidden; background-color:#FFF; width:930px; padding-left:30px;"><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/humminbird"><img border="0" src="/dat/companies/3/3/brands/33/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/shimano"><img border="0" src="/dat/companies/1/brands/1/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/kamooki"><img border="0" src="/dat/companies/1/7/6/brands/123/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/Jackall"><img border="0" src="/dat/companies/1/brands/59/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/carrotstix"><img border="0" src="/dat/companies/4/4/4/brands/383/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/berkley"><img border="0" src="/dat/companies/3/brands/5/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/ultratungsten"><img border="0" src="/dat/companies/4/brands/14/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/lunkerhunt"><img border="0" src="/dat/companies/1/0/brands/19/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/frontierfishinglodge"><img border="0" src="/dat/companies/5/brands/15/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/streamside"><img border="0" src="/dat/companies/3/2/brands/31/logo70x70.jpg"></a></td></tr></tbody></table></div></div>		</td>
 	</tr>
 	<tr><td height="10px"></td></tr>
 			<tr>
@@ -292,24 +312,58 @@ adjustFloater();
 	<table width="100%" cellpadding="0" cellspacing="0">
 	<tbody><tr><td height="2px"></td></tr>
 	<tr><td><a href="/content/4/about-us" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	ABOUT US	</div></a><a href="/content/5/sponsorship-using-nps" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	SPONSORSHIP USING NPS	</div></a><a href="/content/13/faq---sponsorship" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	FAQ - SPONSORSHIP	</div></a><a href="/content/45/free-member-benefits" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	FREE MEMBER BENEFITS	</div></a><a href="/content/50/get-sponsored" class="helvetica_14_white_bold"><div class="leftNavigationItem">
+	ABOUT US	</div></a><a href="/content/13/faq---sponsorship" class="helvetica_14_white_bold"><div class="leftNavigationItem">
+	FAQ - SPONSORSHIP	</div></a><a href="/content/45/member-levels" class="helvetica_14_white_bold"><div class="leftNavigationItem">
+	MEMBER LEVELS	</div></a><a href="/content/50/get-sponsored" class="helvetica_14_white_bold"><div class="leftNavigationItem">
 	GET SPONSORED	</div></a><a href="/content/55/testimonials" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	TESTIMONIALS	</div></a><a href="/content/61/download-the-app" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	DOWNLOAD THE APP	</div></a><a href="/content/32/become-an-amateur-pro" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	BECOME AN AMATEUR PRO	</div></a><a href="/content/63/membership-levels" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	MEMBERSHIP LEVELS	</div></a><a href="/content/2/terms-of-use" class="helvetica_14_white_bold"><div class="leftNavigationItem">
+	TESTIMONIALS	</div></a><a href="/content/32/become-an-amateur-pro" class="helvetica_14_white_bold"><div class="leftNavigationItem">
+	BECOME AN AMATEUR PRO	</div></a><a href="/content/2/terms-of-use" class="helvetica_14_white_bold"><div class="leftNavigationItem">
 	TERMS OF USE	</div></a><a href="/content/3/privacy-policy" class="helvetica_14_blue_bold"><div class="leftNavigationItem">
-	PRIVACY POLICY	</div></a><a href="/GoProContest" class="helvetica_14_white_bold"><div class="leftNavigationItem">
-	CONTEST	</div></a></td></tr>
+	PRIVACY POLICY	</div></a></td></tr>
 	<tr><td height="2px"></td></tr>
 	</tbody></table>
 	</td>
 </tr>
 </tbody></table>
-			</td>
+		<div style="padding-bottom:3px; padding-top:3px;">
+		<a href="/banners/?bannersID=32" target="_blank"><img src="/dat/banners/32.jpg" border="0"></a></div>	
+		<table width="100%" cellpadding="0" cellspacing="0" style="padding-left:10px; padding-right:10px;">
+<tbody><tr><td class="sectionTitle">FEATURED Posts</td></tr>
+<tr><td height="8px"></td></tr>
+<tr>
+	<td align="center">	
+	<div style=" overflow:hidden; padding:3px; width:234px; height:180px;">
+										<a href="/r40778-chasing-monsters-in-the-dark">
+						<img border="0" src="/uploads/6/5/1/8/9/reports/40778/126322thumbFeaturedHome.jpg" width="234px" height="176px">						</a>
+						<div style="position:relative; bottom:50px; height:44px; padding-top:6px;" class="alpha60">
+						<center><a class="helvetica_12_white_bold" href="/r40778-chasing-monsters-in-the-dark">Chasing Monsters in The Dark</a></center>
+						<div style="float:right; padding-top:5px;">by <a href="/users/65189/Carter+Willmon" class="helvetica_11_grey2">Carter Willmon</a>&nbsp;&nbsp;</div>
+					</div>
+									</div><div style=" overflow:hidden; padding:3px; width:234px; height:180px;">
+										<a href="/r40506-2nd-place--big-bass-win-on-prior-lake">
+						<img border="0" src="/uploads/4/0/0/0/5/reports/40506/125767thumbFeaturedHome.jpg" width="234px" height="176px">						</a>
+						<div style="position:relative; bottom:50px; height:44px; padding-top:6px;" class="alpha60">
+						<center><a class="helvetica_12_white_bold" href="/r40506-2nd-place--big-bass-win-on-prior-lake">2nd Place &amp; Big Bass Win on P...</a></center>
+						<div style="float:right; padding-top:5px;">by <a href="/users/40005/Daniel+Fabiano" class="helvetica_11_grey2">Daniel Fabiano</a>&nbsp;&nbsp;</div>
+					</div>
+									</div><div style=" overflow:hidden; padding:3px; width:234px; height:180px;">
+										<a href="/r40152-sometimes-its-better-on-the-fly">
+						<img border="0" src="/uploads/8/8/6/6/reports/40152/124970thumbFeaturedHome.jpg" width="234px" height="176px">						</a>
+						<div style="position:relative; bottom:50px; height:44px; padding-top:6px;" class="alpha60">
+						<center><a class="helvetica_12_white_bold" href="/r40152-sometimes-its-better-on-the-fly">Sometimes It's Better On The ...</a></center>
+						<div style="float:right; padding-top:5px;">by <a href="/users/8866/Olivia++Michaud" class="helvetica_11_grey2">Olivia  Michaud</a>&nbsp;&nbsp;</div>
+					</div>
+									</div><table width="260px" border="0" cellpadding="0" cellspacing="0" class="arial_13_black">
+	
+					
+								
+								
+					
+	
+	</table>
+	</td>
+</tr>
+</tbody></table>			</td>
 			<td style="padding-left:7px; padding-right:6px; background-color:#FFF;" valign="top" align="left">
 			<table cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
@@ -327,8 +381,7 @@ adjustFloater();
 <div>
 <p class="MsoNormal" style="margin-bottom: 0.0001pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;mso-fareast-language:
-EN-CA">For purposes of this Privacy Policy (“Policy” or “Privacy Policy”), the term “us”, “we”, “NPS”, “National Prostaff”, “our”, and “NationalProStaff.com” refers to BXD Solutions Inc., an Ontario, Canada Company. “You” and “your” refers to you, as a user of the NationalProStaff.com (the “website”) service. NationalProStaff.com allows users, also known as, “Members”, “Pros”, “Pro”,&nbsp;“Pro Staff”, “Am”, “Amateur Pros”, “Companies”, and “Teams” to create personal profiles that share and display information (including blogs/photos/videos, product reviews and recommendations, and other social media content), and allows users to utilize NPS services to apply for sponsorship, self-promote, network, and gather information. This is all done within NationalProStaff.com.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
-&quot;Times New Roman&quot;;color:#111111;mso-fareast-language:EN-CA"><o:p></o:p></span></p>
+EN-CA">For purposes of this Privacy Policy (“Policy” or “Privacy Policy”), the term “us”, “we”, “NPS”, “National Prostaff”, “our”, and “NationalProStaff.com” refers to National</span>&nbsp;Prostaff<span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 10pt;">&nbsp;Inc., an Ontario, Canada Company. “You” and “your” refers to you, as a user of the NationalProStaff.com (the “website”) service. NationalProStaff.com allows users, also known as, “Members”, “Pros”, “Pro”,&nbsp;“Pro Staff”, “Am”, “Amateur Pros”, “Companies”, and “Teams” to create personal profiles that share and display information (including blogs/photos/videos, product reviews and recommendations, and other social media content), and allows users to utilize NPS services to apply for sponsorship, self-promote, network, and gather information. This is all done within NationalProStaff.com.</span></p>
 <p class="MsoNormal" style="margin-bottom: 0.0001pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;mso-fareast-language:
 EN-CA">For NationalProStaff.com and the services we offer to function, which include but are not limited to the ability to match members with Pro Staff, Amateur Pros, sponsorship opportunities, and other members, the ability to gather valuable information, generate a fan base, operate a social network with interaction between members, businesses, and friends we require you to provide information about yourself. “Participants” include, but are not limited to, athletes, fisherman, fisherwomen, Pro Staff, Amateur Pro’s, gamers, actors, celebrities, and models. NationalProStaff.com is highly dedicated to offering a secure, friendly, and safe website for everyone regardless of age. We are highly committed to safeguard all personal information collected online. Since children will visit this website, we help children protect their privacy while on our site. We ask that they do not disclose any more personal information than that which may be required to access and use our website and its features. &nbsp;We ask that children seek parental guidance before submitting any personal information on our site and ask that parents discuss the dangers of providing personal information especially to anyone they don’t know personally.</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
@@ -479,8 +532,9 @@ mso-fareast-language:EN-CA"><o:p></o:p></span></p>
 <div>
 <p class="MsoNormal" style="margin-bottom: 0.0001pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;mso-fareast-language:
-EN-CA">This Privacy Policy was last modified on June 19, 2015.</span></b></p>
-</div></td>
+EN-CA">This Privacy Policy was last modified on March 18, 2016.</span></b></p>
+</div><center><br></center>
+</td>
 </tr>
 </tbody></table>
 </form>
@@ -500,23 +554,23 @@ EN-CA">This Privacy Policy was last modified on June 19, 2015.</span></b></p>
 	<td align="center">
 	<table width="960px">
 	<tbody><tr><td height="10px"></td></tr>
-	<tr>
-		<td>
-		<div style="position:relative;">
+    	<tr>
+		<td><div style="position:relative;">
 <div style="position:absolute; right:16px; top:7px;" class="helvetica_9_grey">
 FEATURED TEAMS // <a href="/teams.php" class="helvetica_9_red">MORE</a>
 </div> 
 <div class="featuredTeamsListShadow"></div>
 </div>
-<div style="height:75px; overflow:hidden; background-color:#FFF; width:930px; padding-left:30px;"><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/13fishing"><img border="0" src="/dat/companies/1/5/9/brands/111/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/humminbird"><img border="0" src="/dat/companies/3/3/brands/33/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/no8tackle"><img border="0" src="/dat/companies/1/6/0/brands/112/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/navionics"><img border="0" src="/dat/companies/7/7/brands/52/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/frontierfishinglodge"><img border="0" src="/dat/companies/5/brands/15/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/abugarcia"><img border="0" src="/dat/companies/3/brands/6/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/fenwick"><img border="0" src="/dat/companies/3/brands/7/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/rapala"><img border="0" src="/dat/companies/1/3/7/brands/83/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/lunkerhunt"><img border="0" src="/dat/companies/1/0/brands/19/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/berkley"><img border="0" src="/dat/companies/3/brands/5/logo70x70.jpg"></a></td></tr></tbody></table></div></div>		</td>
+<div style="height:75px; overflow:hidden; background-color:#FFF; width:930px; padding-left:30px;"><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/13fishing"><img border="0" src="/dat/companies/1/5/9/brands/111/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/frontierfishinglodge"><img border="0" src="/dat/companies/5/brands/15/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/kamooki"><img border="0" src="/dat/companies/1/7/6/brands/123/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/gloomis"><img border="0" src="/dat/companies/1/brands/2/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/rapala"><img border="0" src="/dat/companies/1/3/7/brands/83/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/fenwick"><img border="0" src="/dat/companies/3/brands/7/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/humminbird"><img border="0" src="/dat/companies/3/3/brands/33/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/ultratungsten"><img border="0" src="/dat/companies/4/brands/14/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/lunkerhunt"><img border="0" src="/dat/companies/1/0/brands/19/logo70x70.jpg"></a></td></tr></tbody></table></div><div style="float:left; padding-left:10px; padding-right:10px; height:75px;"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="85px"><a href="/team/shimano"><img border="0" src="/dat/companies/1/brands/1/logo70x70.jpg"></a></td></tr></tbody></table></div></div></td>
 	</tr>
-	<tr><td height="40px"></td></tr>
+    	<tr><td height="40px"><div style="position:relative;"><div style="position:absolute; top:-12px; left:395px; z-index:3;"><a href="/userRegistration.php"><img border="0" src="/img/en/btn_join_nps_now_03.png" width="171px" height="31px"></a></div></div></td></tr>
 	<tr>
 		<td align="center">
-				<a href="/" class="helvetica_12_grey">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/reports/index.php" class="helvetica_12_grey">REPORTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/videos/" class="helvetica_12_grey">VIDEOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/galleries/" class="helvetica_12_grey">PHOTOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/teams.php" class="helvetica_12_grey">TEAMS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/prostaff.php" class="helvetica_12_grey">PROSTAFF</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/amateurPros.php" class="helvetica_12_grey">AMATEUR PROS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/tournamentNews/" class="helvetica_12_grey">TOURNAMENTS</a>		</td>
+				<a href="/" class="helvetica_12_grey">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/content/" class="helvetica_12_grey">POSTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/users/all.php" class="helvetica_12_grey">ANGLERS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/teams.php" class="helvetica_12_grey">TEAMS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/tournamentNews/" class="helvetica_12_grey">TOURNAMENTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/gear/" class="helvetica_12_grey">GEAR</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/mapSearch.php?userType=p" class="helvetica_12_grey">MAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;		<a href="/content/4/about-us" class="helvetica_12_grey">HOW IT WORKS</a>
+		</td>
 	</tr>
 	<tr><td height="40px"></td></tr>
-	<tr><td align="center" class="helvetica_12_grey2">© 2015 NPS</td></tr>
+	<tr><td align="center" class="helvetica_12_grey2">© 2016 NPS</td></tr>
 	<tr><td height="40px"></td></tr>
 	</tbody></table>
 	</td>
@@ -535,5 +589,91 @@ FEATURED TEAMS // <a href="/teams.php" class="helvetica_9_red">MORE</a>
   })();
 
 </script>
+
+
+
+<script>
+
+
+
+	function updateStateBasedOnCountry(countryDD,ddW)
+	{
+		
+		//alert(countryDD.value);
+		makeRequest("/includes/ajax/getStates.php?stateCode=&country="+countryDD.value+"&ddW="+ddW,updateStateCB);
+		
+		//show mandatory mark
+		if(document.getElementById("requiredStateMark"))
+		{
+			
+			if(countryDD.value=="US" || countryDD.value=="CA")
+			{
+				document.getElementById("requiredStateMark").style.display="block";
+			}
+			else
+			{
+				document.getElementById("requiredStateMark").style.display="none";
+			}
+		}
+	}
+	
+	function updateStateCB(html)
+	{
+		//alert(html);
+		document.getElementById("stateIDSelect").innerHTML=html;
+	}
+	</script>
+	
+	
+    <a href="#" class="scrollup">UP</a>
+	
+	<style>
+	.scrollup {
+    width: 28px;
+    height: 40px;
+    position: fixed;
+    bottom: 50px;
+    right: 2px;
+    display: none;
+  
+   
+    background-color: #000;
+	 color:#FFF;
+	 text-decoration:none;
+	 padding-left:12px;
+	 line-height:40px;
+}
+	</style>
+    <script>
+		   function informationPoup(infoID)
+		   {
+        swal({
+		title: "",
+		text: "<div style='text-align:left;'><b>Why is there a $20 NPS fee?</b><br><br>On NPS, 1 in 5 anglers who apply to brands get sponsored! How? Our service ensures your application will get to the right decision maker at the brand you are applying to and you will receive a response. Brands use NPS to recruit new anglers all the time and respond to applications on NPS because they know you are serious about their brand.<br><br>NPS saves you valuable time and energy from having to manually track down brand marketing managers and from having to apply the old fashioned way (tradeshows, cold calls, sending hundreds of emails, etc) and hoping for a response. Most anglers never hear back when applying the old fashioned way.<br><br>The $20 fee is put towards covering the cost of running the website and employing staff to assist you at any time.</div>",
+			  type: "info",
+		html: true,   showCancelButton: false,   closeOnConfirm: false
+		});
+		   }
+        </script>
+	<script>
+	$(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.scrollup').click(function () {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 800);
+        return false;
+    });
+
+});
+	</script>
 
 </body></html>
