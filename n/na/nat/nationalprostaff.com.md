@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationalprostaff.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904063634id_/http%3A//www.nationalprostaff.com/content/3/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalprostaff.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706012528id_/https%3A//nationalprostaff.com/content/3/privacy-policy) for the most accurate reproduction.*
 
 # NationalProStaff.com - Sportfishing is our game
 
 ****ENSURE YOU READ THIS POLICY THOROUGHLY****
 
-For purposes of this Privacy Policy (“Policy” or “Privacy Policy”), the term “us”, “we”, “NPS”, “National Prostaff”, “our”, and “NationalProStaff.com” refers to BXD Solutions Inc., an Ontario, Canada Company. “You” and “your” refers to you, as a user of the NationalProStaff.com (the “website”) service. NationalProStaff.com allows users, also known as, “Members”, “Pros”, “Pro”, “Pro Staff”, “Am”, “Amateur Pros”, “Companies”, and “Teams” to create personal profiles that share and display information (including blogs/photos/videos, product reviews and recommendations, and other social media content), and allows users to utilize NPS services to apply for sponsorship, self-promote, network, and gather information. This is all done within NationalProStaff.com.
+For purposes of this Privacy Policy (“Policy” or “Privacy Policy”), the term “us”, “we”, “NPS”, “National Prostaff”, “our”, and “NationalProStaff.com” refers to National Prostaff Inc., an Ontario, Canada Company. “You” and “your” refers to you, as a user of the NationalProStaff.com (the “website”) service. NationalProStaff.com allows users, also known as, “Members”, “Pros”, “Pro”, “Pro Staff”, “Am”, “Amateur Pros”, “Companies”, and “Teams” to create personal profiles that share and display information (including blogs/photos/videos, product reviews and recommendations, and other social media content), and allows users to utilize NPS services to apply for sponsorship, self-promote, network, and gather information. This is all done within NationalProStaff.com.
 
 For NationalProStaff.com and the services we offer to function, which include but are not limited to the ability to match members with Pro Staff, Amateur Pros, sponsorship opportunities, and other members, the ability to gather valuable information, generate a fan base, operate a social network with interaction between members, businesses, and friends we require you to provide information about yourself. “Participants” include, but are not limited to, athletes, fisherman, fisherwomen, Pro Staff, Amateur Pro’s, gamers, actors, celebrities, and models. NationalProStaff.com is highly dedicated to offering a secure, friendly, and safe website for everyone regardless of age. We are highly committed to safeguard all personal information collected online. Since children will visit this website, we help children protect their privacy while on our site. We ask that they do not disclose any more personal information than that which may be required to access and use our website and its features.  We ask that children seek parental guidance before submitting any personal information on our site and ask that parents discuss the dangers of providing personal information especially to anyone they don’t know personally.
 
@@ -58,4 +58,7 @@ _Contact Information:_  If you would like to further discuss this Privacy Polic
 
 DURING THE REGISTRATION PROCESS, YOU ARE ASKED TO CHECK OFF A BOX TO ACCEPT THE PRIVACY POLICY.  CHECKING OFF THE CHECKBOX WILL BE CONSIDERED THE LEGAL EQUIVALENT OF YOUR SIGNATURE ON A WRITTEN CONTRACT CONFIRMING YOUR ACCEPTANCE OF THIS AGREEMENT.
 
-**This Privacy Policy was last modified on June 19, 2015.**
+**This Privacy Policy was last modified on March 18, 2016.**
+
+  
+
