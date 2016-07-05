@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricchoice.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428163125id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricchoice.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705180839id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Electric Choice
 
