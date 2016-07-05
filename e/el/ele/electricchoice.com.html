@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the electricchoice.com privacy policy that was archived on 2016-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160428163125id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electricchoice.com privacy policy that was archived on 2016-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160705180839id_/https%3A//www.electricchoice.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
         <meta charset="UTF-8">
@@ -9,6 +9,7 @@
 
     <link rel="pingback" href="https://www.electricchoice.com/xmlrpc.php">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/2774320429.js"></script>
+    <script src="https://utilitychoice.com/affiliate?api_key=4cfe504"></script>
     
 <script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
 
@@ -68,8 +69,8 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","custom_events":"","acti
 /* Dynamic CSS: For no styles in head, copy and put the css below in your child theme's style.css, disable dynamic styles */
 .boxed #wrapper, .container-inner { max-width: 1120px; }
 
-::selection { background-color: #85c470; }
-::-moz-selection { background-color: #85c470; }
+::selection { background-color: #02a4f5; }
+::-moz-selection { background-color: #02a4f5; }
 
 a,
 .themeform label .required,
@@ -98,7 +99,7 @@ a,
 .comment-awaiting-moderation,
 .child-menu a:hover,
 .child-menu .current_page_item > a,
-.wp-pagenavi a { color: #85c470; }
+.wp-pagenavi a { color: #02a4f5; }
 
 .themeform input[type="submit"],
 .themeform button[type="submit"],
@@ -110,16 +111,16 @@ a,
 #footer .widget_calendar caption,
 .author-bio .bio-avatar:after,
 .commentlist li.bypostauthor > .comment-body:after,
-.commentlist li.comment-author-admin > .comment-body:after { background-color: #85c470; }
+.commentlist li.comment-author-admin > .comment-body:after { background-color: #02a4f5; }
 
-.post-format .format-container { border-color: #85c470; }
+.post-format .format-container { border-color: #02a4f5; }
 
 .s1 .alx-tabs-nav li.active a,
 #footer .alx-tabs-nav li.active a,
 .comment-tabs li.active a,
 .wp-pagenavi a:hover,
 .wp-pagenavi a:active,
-.wp-pagenavi span.current { border-bottom-color: #85c470!important; }				
+.wp-pagenavi span.current { border-bottom-color: #02a4f5!important; }				
 				
 
 .s2 .post-nav li a:hover i,
@@ -129,17 +130,17 @@ a,
 .s2 .alx-posts .post-item-category a,
 .s2 .alx-tab li:hover .tab-item-title a,
 .s2 .alx-tab li:hover .tab-item-comment a,
-.s2 .alx-posts li:hover .post-item-title a { color: #65bab0; }
+.s2 .alx-posts li:hover .post-item-title a { color: #02a4f5; }
 
 .s2 .sidebar-top,
 .s2 .sidebar-toggle,
 .post-comments,
 .jp-play-bar,
 .jp-volume-bar-value,
-.s2 .widget_calendar caption { background-color: #65bab0; }
+.s2 .widget_calendar caption { background-color: #02a4f5; }
 
-.s2 .alx-tabs-nav li.active a { border-bottom-color: #65bab0; }
-.post-comments span:before { border-right-color: #65bab0; }				
+.s2 .alx-tabs-nav li.active a { border-bottom-color: #02a4f5; }
+.post-comments span:before { border-right-color: #02a4f5; }				
 				
 
 .search-expand,
@@ -185,34 +186,42 @@ a,
         </nav><!--/#nav-topbar-->
       
 
- <div class="be-htop"><div id="be-content">
-<p><strong>PRICE DROP ALERT:</strong> &nbsp;&nbsp;&nbsp; <b><a href="https://www.electricchoice.com/shop/"><font color="#ee6b59">Click here to see the best electric rates from providers in your area! &nbsp;&nbsp;&nbsp;</font></a></b><a href="https://www.electricchoice.com/shop/"><font color="#ee6b59"> </font></a></p><div id="be-htop-rates"><a href="https://www.electricchoice.com/shop/"><font color="#FFF">GET INSTANT QUOTES »</font></a>
-</div> </div> </div>
+</div>
+
     
 
       <!--FORM WIDGET-->
 <div class="ce-photoblock2 photoblock-tall photoblock-bigtalk v-img148">
         <div class="photoblock-photo2"></div>
         <div class="photoblock-container">
-  <h5 class="photoblock-headline2">Browse local electric rates and plans from dozens of trusted providers:</h5>
+  <h5 class="photoblock-headline2">Enter your zip code to compare electric rates/plans in your area in seconds:</h5>
           <div class="ce-zip-search2">
-            <ul class="search-steps">
-<li> 1. Enter your zip code. </li><li> 2. Compare rates/plans.  </li><li> 3. Sign up online or call 800.974.3020.</li>
-            </ul>
-            <form id="ec_header_form" action="/api/compare" method="post">
+          
+
+	<!-- <button type="button" id="utilitychoice_residential">Shop Residential Rates</button> -->
+	<!-- <button type="button" id="utilitychoice_commercial">Shop Commercial Rates</button> -->
+
+<script>
+
+	function chgAction(){
+		$('#ec_header_form').attr({'action':$('option:selected').attr('data-action')});
+	}
+	
+
+</script>
+<form id="ec_header_form" action="https://utilitychoice.com/commercial_shopping" method="get">
               <input id="api_key" name="api_key" type="hidden" value="4cfe504">
-              <input name="commodity_type" type="hidden" value="E">
               <input id="ftZip" class="zip-search" title="Compare Energy Prices" name="zip" pattern="([0-9]{5}(-[0-9]{4})?)" required="" size="5" type="number" placeholder="Enter zip code" autofocus="autofocus">
               <label class="select-label">
-                <select id="serviceType" class="size-select" name="customer_type">
-                  <option value="commercial">For your business</option>
-                  <option value="residential">For your home</option>
+                <select id="serviceType" class="size-select" name="customer_type" onchange="javascript:chgAction()">
+                  <option data-action="https://utilitychoice.com/commercial_shopping" value="commercial">For your business</option>
+                  <option data-action="https://utilitychoice.com/residential_shopping" value="residential">For your home</option>
                 </select>
-                <input id="s2" name="s2" type="hidden" value="2">
-                <input id="type" name="type" type="hidden" value="residential">
               </label>
-              <button class="btn-primary-ppc" name="submit" type="submit"><b>CLICK FOR RATES ➤</b></button>
+              <button class="btn-primary-ppc" name="submit" type="submit"><b>SEE RATES NOW →</b></button>
             </form>
+
+           
 
 </div>
         </div>
@@ -225,26 +234,27 @@ a,
         <style>
           .ce-photoblock2.photoblock-bigtalk {
             font-size: 1.5em;
-            background-image: url("http://v2.electricchoice.com/wp-content/uploads/2016/02/new-header-ppc.jpg");
+  	background-color:#02a4f5;
             background-size: cover;
             background-position: center top;
-            height: 505px;
+            height: 380px;
           }
 
           .ce-photoblock2 .photoblock-container h5.photoblock-headline2 {
-            color: #FFF;
+            color: #fff;
             text-align: left;
             line-height: 50px;
-            padding-top: 160px;
-            padding-right: 40%;
-            font-size: 1.8em;
+            padding-top: 100px;
+margin-bottom:20px;
+            padding-right: 24%;
+            font-size: 2.2em;
           }
 
           .ce-zip-search2 .search-steps {
             padding-left: 0px;
-            padding-top: 20px;
+            padding-top: 10px;
 padding-bottom: 30px;
-            color: #FFF;
+            color: #fff;
           }
 
           form#ec_header_form2 {
@@ -257,7 +267,7 @@ padding-bottom: 30px;
             height: 2.4em!important;
             line-height: 1em;
             vertical-align: middle;
-            background: #4ECDC4 none repeat scroll 0% 0%;
+            background: #ff6b6b none repeat scroll 0% 0%;
             color: #FFF;
             font-size: 1em!important;
 border-radius: 2px;
@@ -669,10 +679,10 @@ padding-top: 10px;
 padding-left: 11px;
 }
 
+
 .be-htop {
 background-color: #312a28;
-border-bottom: 0.3em solid #4ECDC4 !important;
-height: 50px;
+height: 3px;
 color: #fff;
 position: fixed;
 z-index: 1000;
@@ -729,6 +739,7 @@ max-width: 80em;
 margin: 0px auto;
 text-align: center;
 }
+
 
 
           @media only screen 
@@ -847,7 +858,7 @@ margin-left: 20px;
 
             
           </main></div><!--/.container-inner-->
-        </div><!--/.container-->
+        <!--/.container-->
       <!--/#header-->
       <div class="container" id="page">
         <div class="container-inner">
@@ -984,7 +995,7 @@ Shop and compare <a href="https://www.electricchoice.com/electricity-prices-by-s
 •  <a href="https://www.electricchoice.com/tx/laredo-electricity-rates/">Laredo</a><br>
 •  <a href="https://www.electricchoice.com/tx/mcallen-electricity-rates/">McAllen</a><br>
 •  <a href="https://www.electricchoice.com/tx/mckinney-electricity-rates/">McKinney</a><br>
-•  Midland<br>
+•  <a href="https://www.electricchoice.com/tx/midland-electricity-rates/">Midland</a><br>
 •  <a href="https://www.electricchoice.com/tx/plano-electricity-rates/">Plano</a><br>
 •  Philadelphia<br>
 ...and 500+ more!<br>
@@ -1019,55 +1030,44 @@ text-align:left;
 }
 
 </style></div>
-		</div><div id="compare_widget-6" class="widget widget_compare_widget"><form method="post" class="shop_and_compare_small_form" action="/electricity-quotes/index.php/compare">
-								<input type="hidden" name="commodity_type" value="E">
-								<div class="shop_and_compare">SEE RATES IN <b>YOUR</b> AREA</div>
-								<div class="prices_and_rates">Find a great rate in seconds!</div>
-								<hr>
-								<div class="compare_body">
-									<div class="ux_left">ZIP CODE:</div><div class="ux_right"><input type="text" name="zip" placeholder="Enter Zip Code" title="Zip code" required=""></div><br>
-									<div class="ux_left">FOR YOUR:</div><div class="ux_right"><input type="radio" name="customer_type" value="residential" id="residential2" title="Residential plans" checked=""> <label for="residential2" title="Residential plans">Home</label> <input type="radio" name="customer_type" value="commercial" id="commercial2" title="Commercial plans"> <label for="commercial2" title="Commercial plans">Business</label></div><br>
-									<center><input type="submit" value="" title="Get Pricing!"></center>
-								</div>
-						 </form></div><div id="alxposts-2" class="widget widget_alx_posts">
+		</div><div id="alxposts-2" class="widget widget_alx_posts">
 
 			
 	<ul class="alx-posts group thumbs-enabled">
 				<li>
 			
 						<div class="post-item-thumbnail">
-				<a href="https://www.electricchoice.com/blog/how-competitive-electricity-rates-via-deregulation-have-changed-relationships/" title="How Competitive Electricity Rates Have Changed the Relationships Customers Have With Utilities">
-											<img width="520" height="245" src="https://www.electricchoice.com/wp-content/uploads/2016/04/utilities-customer-relationship-520x245.jpg" class="attachment-thumb-medium wp-post-image" alt="Deregulation Utility Relationship">																								</a>
+				<a href="https://www.electricchoice.com/blog/notable-events-us-energy/" title="Notable Events and Developments in US Energy (1776 to Present Day)">
+											<img width="520" height="245" src="https://www.electricchoice.com/wp-content/uploads/2016/07/history-electricity-520x245.jpg" class="attachment-thumb-medium wp-post-image" alt="History of Electricity">																								</a>
 			</div>
 						
 			<div class="post-item-inner group">
-								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/how-competitive-electricity-rates-via-deregulation-have-changed-relationships/" rel="bookmark" title="How Competitive Electricity Rates Have Changed the Relationships Customers Have With Utilities">How Competitive Electricity Rates Have Changed the Relationships Customers Have With Utilities</a></p>
-				<p class="post-item-date">26 Apr, 2016</p>			</div>
+								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/notable-events-us-energy/" rel="bookmark" title="Notable Events and Developments in US Energy (1776 to Present Day)">Notable Events and Developments in US Energy (1776 to Present Day)</a></p>
+				<p class="post-item-date">5 Jul, 2016</p>			</div>
 			
 		</li>
 				<li>
 			
 						<div class="post-item-thumbnail">
-				<a href="https://www.electricchoice.com/blog/earth-day-diy-projects/" title="Earth Day 2016:  10 Easy, DIY Home Projects to Celebrate Earth Day">
-											<img width="520" height="245" src="https://www.electricchoice.com/wp-content/uploads/2016/04/earth-day-2016-diy-520x245.jpg" class="attachment-thumb-medium wp-post-image" alt="Earth Day 2016 DIY Projects">																								</a>
+				<a href="https://www.electricchoice.com/blog/consumer-protection-energy-telemarketing/" title="Consumer Protection:  Telemarketing and the Energy Industry">
+											<img width="520" height="245" src="https://www.electricchoice.com/wp-content/uploads/2016/06/energy-telemarketing-520x245.jpg" class="attachment-thumb-medium wp-post-image" alt="Consumer Protection Energy Telemarketing">																								</a>
 			</div>
 						
 			<div class="post-item-inner group">
-								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/earth-day-diy-projects/" rel="bookmark" title="Earth Day 2016:  10 Easy, DIY Home Projects to Celebrate Earth Day">Earth Day 2016:  10 Easy, DIY Home Projects to Celebrate Earth Day</a></p>
-				<p class="post-item-date">22 Apr, 2016</p>			</div>
+								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/consumer-protection-energy-telemarketing/" rel="bookmark" title="Consumer Protection:  Telemarketing and the Energy Industry">Consumer Protection:  Telemarketing and the Energy Industry</a></p>
+				<p class="post-item-date">27 Jun, 2016</p>			</div>
 			
 		</li>
 				<li>
 			
 						<div class="post-item-thumbnail">
-				<a href="https://www.electricchoice.com/blog/sunedison-prepares-for-bankruptcy/" title="UPDATED:  SunEdison Files for Bankruptcy">
-											<img src="https://www.electricchoice.com/wp-content/themes/hueman/img/thumb-medium.png" alt="UPDATED:  SunEdison Files for Bankruptcy">
-																								</a>
+				<a href="https://www.electricchoice.com/blog/alien-invasion-energy-weapons/" title="Alien Invasion Movies and the Energy it Takes to Power their Weapons">
+											<img width="520" height="245" src="https://www.electricchoice.com/wp-content/uploads/2016/06/ufo-destruction-520x245.jpg" class="attachment-thumb-medium wp-post-image" alt="Alien Invasion Movies Energy">																								</a>
 			</div>
 						
 			<div class="post-item-inner group">
-								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/sunedison-prepares-for-bankruptcy/" rel="bookmark" title="UPDATED:  SunEdison Files for Bankruptcy">UPDATED:  SunEdison Files for Bankruptcy</a></p>
-				<p class="post-item-date">17 Apr, 2016</p>			</div>
+								<p class="post-item-title"><a href="https://www.electricchoice.com/blog/alien-invasion-energy-weapons/" rel="bookmark" title="Alien Invasion Movies and the Energy it Takes to Power their Weapons">Alien Invasion Movies and the Energy it Takes to Power their Weapons</a></p>
+				<p class="post-item-date">20 Jun, 2016</p>			</div>
 			
 		</li>
 					</ul><!--/.alx-posts-->
