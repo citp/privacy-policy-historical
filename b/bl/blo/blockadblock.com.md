@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605224653id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706210211id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
 
 # BlockAdblock.com Privacy Policy - BlockAdblock
 
