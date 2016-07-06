@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427045551id_/http%3A//www.mastertoons.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706125804id_/http%3A//mastertoons.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Master Toons
 
