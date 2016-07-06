@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ourlounge.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916032245id_/https%3A//www.ourlounge.co.uk/web/ourlounge/privacy-policy-public) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlounge.co.uk privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706220026id_/https%3A//www.ourlounge.co.uk/web/ourlounge-uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - McDonald's ourlounge
-
-  
-
+# McDonalds Privacy Policy
 
 **McDonald's Restaurants Ltd ourlounge Privacy Policy**
 
@@ -54,77 +51,3 @@ Customer Services
 East Finchley  
 London N2 8AW  
 UK
-
-Last updated 25.9.12  
- 
-
-This policy helps to explain the occasions when and why cookies may be sent to you when you visit the ourlounge site owned and operated by  McDonald's Restaurants Limited (referred to in this policy as "we", "us" or "our") and how you can block and/or delete cookies.
-
-**What are cookies and how do they work?**
-
-"Cookies" are text-only pieces of information that a website transfers to an individual's hard drive or other website-browsing equipment for record-keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a randomly generated unique number or other value. Like most websites, we use different categories of cookies for a variety of purposes in order to improve your online experience.
-
-Depending on the purpose, we use session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
-
-**What are the categories of cookies?**
-
-Cookies can be categorised, following the International Chamber of Commerce guide, as follows:
-
-**1) Strictly necessary cookies**
-
-'Strictly necessary cookies’ let you move around the website and enable you to use features that you have specifically asked for, such as the Nutrition Calculator. Without these cookies these features would not function.
-
-Strictly necessary cookies tend to be session cookies which are deleted at the end of the browser session.
-
-Accepting these cookies is a condition of using the website, so if you prevent these cookies we can't guarantee how our website will perform during your visit.
-
-**2) Performance Cookies**
-
-'Performance cookies’ collect information about how you use our website such as which pages you visit and if you experience any errors. These cookies don't collect any information that could identify you – all the information is collected on an anonymous aggregate basis and is only used to help us improve how our website works, understand what interests our users and measure the effectiveness of our advertising. They also enable us to track the total number of visitors to our site. Most performance cookies tend to be session cookies which are deleted at the end of the browser session.
-
-In some cases, some of these cookies are managed for us by third parties, but we don't allow the third party to use the cookies for any purpose other than those listed above. Some of these third party performance cookies are not session based and have varying expiry dates.
-
-We use a Double Click advertising tracking cookie to record visits to specific pages on our site. This cookie indicates which advert prompted your visit. Clicking on the following link will prevent you from receiving this cookie:
-
-<http://www.google.com/ads/preferences/html/opt-out.html>
-
-If you prevent performance cookies we cannot use information from your visit to improve your future website.
-
-**3) Functionality Cookies**
-
-'Functionality cookies’ are used to provide services or to remember your settings. This may include your user name if you have selected ‘remember me’ at a log in page. These cookies help to customise your McDonald's web experience. They also assist with the administration of certain other activities such as online prize promotions. We may associate personal information with a cookie file in those instances.
-
-Functionality cookies, by their very nature, are persistent cookies so that we remember your computer when you return to our website.
-
-Some of these cookies are managed for us by third parties – where this is the case we don't allow the third party to use the cookies for any purpose other than those listed above.
-
-If you prevent cookies, including functionality cookies, this may mean we can't offer you some services.  
-**  
-4) Targeting Cookies**
-
-Targeting cookies collect the most information about users. These cookies are used to deliver adverts more relevant to you and your interests.  
-We shall not use a targeting cookie without your express consent, which we would usually obtain by asking you to register and/or opt in to a particular service.
-
-**How can I block and/or delete cookies?**
-
-Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. You can easily delete any cookies that have been installed in the cookie folder of your browser.
-
-To delete cookies on Internet Explorer 8, follow these steps:
-
-Click to open Internet Explorer.  
-Click the Tools button, and then click Internet Options.  
-On the General tab, under Browsing history, click Delete.  
-Select the Cookies check box, and then click Delete if it isn't already checked. Clear or select check boxes for any other options you also want to delete.
-
-If you don't change any check boxes, deleting the browsing history removes temporary Internet files, webpage history, and cookies. Temporary files and cookies for your saved favourite websites are preserved.
-
-If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function of your browser for information on where to find your cookie folder.
-
-If you disable all cookies you may not be able to take advantage of all the features of this website and some webpages make not work correctly.
-
-**Does this policy change?**
-
-This Policy was last updated in May 2012. From time to time, it may be necessary for us to change this cookie policy. This might be for a number of reasons; for example, it is not currently our policy to enable purchases of merchandise online via any of our websites, but if this policy were to change we would wish to use cookies to keep track of your online purchases, to keep your purchases secure and to assist you with making them. So, we suggest that you check here periodically for any changes.
-
-**Feedback**  
-If you have any questions or feedback on our Cookie Policy, please contact us at customerfeedback@mcdonalds.co.uk.
