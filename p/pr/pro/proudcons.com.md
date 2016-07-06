@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proudcons.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611110934id_/http%3A//www.proudcons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proudcons.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706202253id_/http%3A//www.proudcons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Proud Conservative
 
