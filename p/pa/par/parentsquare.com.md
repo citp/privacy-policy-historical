@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921224912id_/https%3A//www.parentsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2016-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160707224305id_/https%3A//parentsquare.com/privacy) for the most accurate reproduction.*
 
 # ParentSquare | Privacy Policy
 
