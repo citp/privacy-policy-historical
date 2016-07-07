@@ -1,132 +1,199 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323121402id_/http%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708005327id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
 
-# Murad Privacy Policy
+# Unilever Privacy Policy
 
-## Murad Data Protection & Privacy Policy
+### UNILEVER PRIVACY PRINCIPLES
 
-**Introduction**
+Unilever takes privacy seriously. The following five principles underpin our approach to respecting your privacy:
 
-Murad is a leading skincare products and spa treatment company with customers around the world.  Protecting consumer privacy is of utmost importance to us.  We are committed to safeguarding our customers’ personal data.
+1\. We value the trust that you place in us by giving us your personal information. We will always use your personal information in a way that is fair and worthy of that trust.
 
-**Collection and Use of Personal Information**
+2\. You are entitled to clear information about how we use your personal information. We shall always be transparent with you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
 
-Personal Information means information that (1) is recorded in any form; (2) is about, or pertains to a specific individual; and (3) can be linked to that individual.
+3\. If you have any concerns about how we use your personal information, we will work with you to promptly resolve those concerns.
 
-You provide Personal Information to Murad via the following ways:
+4\. We will take all reasonable steps to protect your information from misuse and keep it secure.
 
-\- Ordering Online: When you create an individual account online at www.murad.com, we may collect a variety of information, such as name, mailing address, email address, phone number, and credit card information.
+5\. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities. In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection.
 
-\- Phone/Fax: When you call Murad’s Customer Care/Third-Party Partner for consultation on our products or ordering products, we may ask and collect information such as your name, mailing address, email address, phone number, and credit card information.
+**UNILEVER PRIVACY POLICY**
 
-\- In-Person consultation at a local kiosk as part of a skin health evaluation service.
+Last Updated: October 2013
 
-Murad will only use your Personal Information for purposes relevant to the manner in which it was asked.  Murad may use your Personal Information to provide you with services or products being purchased.  Murad may transfer your Personal Information to companies that are performing services for Murad.  Murad may also use the information you provide us to help personalize product information and offers.  We only use your name and mailing address information to mail you promotional items, news and offers.   **We will never give or sell your user information or email address to anyone without your consent.**
+Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
-_Access_
+**What does this Privacy Policy apply to?**
 
-Murad allows individual access to their Personal Information and al­lows the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.  You may review your Personal Information by contacting us using one of the options below. You may also choose to opt-out of email alerts or deleting your Personal Information from our systems.
+This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“ **Unilever Sites** ”). This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see  **Your privacy rights and who to contact below**.
 
-To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
+This Privacy Policy does not apply to the information practices of:
 
-Murad Compliance Department  
-2121 Park Place, 1st FL  
-El Segundo, CA 90245 (888)866-8723  
-[compliance@murad.com](mailto:compliance@murad.com)
+• third party companies (including, without limitation, their websites, platforms and/or applications) which we do not own or control; or
 
-If your inquiry is not satisfactorily addressed, contact the Privacy Trust (a Dispute Resolution Provider), an independent resource mechanism who will serve as a liaison with the website to resolve your concerns. You may contact them at:
+• individuals that Unilever does not manage or employ.
 
-        EU
+These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites.
 
-| 
+**Your consent**
 
-US  
+Unilever will not collect, use or disclose your personal information without your consent. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour. By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy.
+
+We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy.
+
+If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information.
+
+**Children**
+
+The majority of Unilever Sites are designed and intended for use by adults. Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country). If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them.
+
+If we discover that we have collected information without consent from a parent or guardian where such consent should have been obtained, we will delete that information as soon as possible.
+
+Access to certain parts of the Unilever Sites and/or eligibility to receive prizes, samples or other rewards may be limited to users over a certain age. We may use your personal information to carry out age verification checks and enforce any such age restrictions.
+
+**What information do we collect?**
+
+In this Privacy Policy, your "personal information" means information or pieces of information that could allow you to be identified. This typically includes information such as your name, address, screen name, profile picture, email address, and telephone number, but can also include other information such as IP address, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interests. We may collect personal information about you from different sources, including:
+
+Information you give us directly
+
+We may collect information from you directly when you provide us with personal information, e.g. when you register for prize draws or competitions, sign up to receive information, use applications, buy a product or service from us, fill out a survey, or make a comment or enquiry. The types of information we may collect from you directly include your:
+
+•  name  
+•  address  
+•  email address  
+•  user name  
+•  telephone number  
+•  credit card or other payment information  
+•  age  
+•  date of birth  
+•  gender  
+•  user-generated content, posts and other content you submit to Unilever Sites  
+•  any other person information you volunarily provide to us
+
   
----|---  
+Information we collect automatically when you use the Unilever Sites
+
   
-PrivacyTrust (eTrust)
+We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations. The types of information we may collect automatically include (collectively, “Site Usage Information”):
 
-Communications House
+•  information about the type of browser you use  
+•  details of the web pages you have viewed  
+•  your IP address  
+•  the hyperlinks you have clicked  
+•  your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the “Like” functionality on Facebook or the +1 functionality on Google+)  
+•  the websites you visited before arriving at a Unilever Site
 
-26 York Street
+Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites
 
-London
+Information we collect from other sources
 
-W1U 6PZ
+We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
-| 
+•  name  
+•  street address  
+•  age  
+•  your shopping habits  
+•  preferences and information about your lifestyle such as your hobbies and interests  
+•  publicly available information such as user-generated content, blogs and postings, as permitted by law
 
-PrivacyTrust (eTrust)
+Online advertising
 
-616 Corporate Way
+We may share Site Usage Information (as discussed above) with trusted third parties (e.g., advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These third parties may set and access their own cookies, clear gifs and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or third party sites.
 
-Suite 2 #4000
+In the United States, we have adopted the use of the Advertising Options Icon which may appear on the Unilever Sites and certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
 
-Valley Cottage
+You may also use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
 
-NY 10989  
-  
-_Retention_
+**How do we use your personal information?**
 
-Murad will keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law. When the data is no longer needed, Murad will use reasonable measures to perform secure erasure of data.
+We may use your personal information:
 
-_Transfer of business and your Personal Information_
+• to improve our products and your experience on the Unilever Sites. Find out more.
 
-We may also provide your Information to a third party in connection with the sale, assignment, or other transfer of the business of this website to which the information relates, in which case we will require any such buyer to agree to treat your Information in accordance with this Privacy Policy.
+• to contact you regarding products and services which may be of interest to you, provided you have given us consent to do so or you have previously requested a product or service from us and the communication is relevant or related to that prior request and made within any timeframes established by applicable laws. Find out more.
 
-**Cookies and Your Computer**
+We use your personal information to:
 
-Like most e-commerce websites, we use "cookie" technology.  A cookie is a very small text file that a website can save onto your computer's hard disk to store your information and settings.  When you log on, the cookie tells us whether you have visited us before or are a new visitor.  It doesn't track any personal information, give us the means to contact you, extract information from your computer or deliver viruses.  Furthermore, your address or credit card information is never stored in a cookie.  Cookies are simply the most efficient way for us to be able to offer you an enjoyable online shopping environment.
+• suggest products or services (including those of relevant third parties) which we think may be of interest to you
 
-**Data Protection for Children**
+• offer you the opportunity to take part in competitions or promotions
 
-To ensure compliance with federal law, Murad.com does not maintain information provided by children under the age of 16.  If you are visiting Murad.com from a location outside the U.S., your connection will be through and to servers located in the U.S.  Your orders placed through Murad.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be securely maintained in our Web server and internal systems located within the U.S.
+You can opt out of receiving communications from us at any time. Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.
 
-**Data Security**
+• to provide you with products or services that you request from us. Find out more.
 
-Online
+We may use your personal information:
 
-Murad takes reasonable steps to protect our customers’ Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  Murad has put in place appropriate physical, electronic and manage­rial procedures to safeguard and secure the Information from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+• for the purposes of competitions or promotions that you have entered
 
-Murad believes in providing a safe and secure shopping experience for all of our clients.  We provide stringent and effective security measures on our website.
+• to send you information, products or samples that you have requested
 
-It is our policy to never send private information, such as your credit card number, via email.  In fact, this is a practice we recommend you adopt in all of your Internet activities.
+• to respond to your queries or comments Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.
 
-We designed Murad.com to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology.  This means you'll be unable to inadvertently place an order through an unsecured connection.
+**Mobile Message Services**
 
-Internal Controls
+We may make available a service through which you can receive text or other types of messages from Unilever (such as short message service, or SMS, enhanced message service, or EMS, and multimedia message service, or MMS) on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, you agree to receive such messages from Unilever at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the  **Your privacy rights and who to contact**  section below).
 
-Customer Personal Information on paper are shredded and disposed of securely when no longer required. Where required, customer Personal Information on paper are kept in locked filing cabinets or stored off-site in secure third-party managed facilities.
+You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the  **Your privacy rights and who to contact**  section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
-Customer Personal Information kept electronically is protected by access controls such as strong passwords and the worldwide standard encryption AES-256.  Murad also maintains systems that are physically secured and logically secured by firewalls and other security software (Anti-Virus, Intrusion Detection Systems).  Murad’s systems are continuously patched for vulnerabilities and validated by external third parties.
+You acknowledge and agree that the Mobile Message Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the Mobile Message Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Mobile Message Service. We may also access the content of your wireless and/or mobile phone account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
 
-Customer Personal Information transmitted over unsecure networks (public internet) is always encrypted with strong AES-256 encryption and only with trusted external entities (ie Third-Party Providers that take/process customer orders).
+**Who do we share your personal information with?**
 
-**Enforcement**
+As a general rule, we do not share your personal information with anyone outside of the Unilever Group. However, we may share your personal information with trusted third parties. Find out more.
 
-Murad uses a self-assessment approach to assure compliance with this policy and periodically verifies that the policy is accurate, compre­hensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the statements.  We encourage interested persons to raise any concerns using the con­tact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal informa­tion in accordance with the statements.
+We may share your personal information with:
 
-**Third-Party Ad-Servers**
+•  our advertising, marketing and promotional agencies to help us deliver and analyse the effectiveness of our advertising campaigns and promotions  
+•  third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered  
+•  law enforcement or government authorities where they have followed due legal process to request us to disclose the information  
+•  third parties who wish to send you information about their products and services, but only if you have given us consent to do so  
+•  third party providers of services, such as data processing, to Unilever  
+•  web analytics tool providers, such as Google or Unica
 
-We may use third-party advertising companies to serve ads on our behalf.  These companies may employ cookies and action tags (also known as single-pixel .gifs or web beacons) to measure advertising effectiveness.  Any information these third parties collect via cookies and action tags is completely anonymous.
+We may also share your personal information with companies, organisations or individuals outside of the Unilever Group if we believe that disclosure of the information is necessary for legal reasons. Find out more.
 
-**Links**
+We may share your personal information to:
 
-For your convenience, our website may contain links to other sites.  Murad.com is not responsible for the privacy practices or the content of such websites.
+•  enforce applicable terms of use of Unilever Sites  
+•  conduct investigations into possible breaches of applicable laws  
+•  detect, prevent and protect against fraud and any technical or security vulnerabilities  
+•  comply with applicable laws and regulations, co-operate in any legal investigation and meet enforceable governmental requests
 
-**Legal Disclaimer**
+If we do share your personal information with a third party, we shall use our best efforts to ensure that they keep your information secure, take all reasonable steps to protect it from misuse and only use it in a manner consistent with this Privacy Policy and applicable data protection laws and regulations.
 
-We will share personal information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities.
+Unilever does not sell personal information, except to an entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
 
-**Safe Harbor**
+**Transferring your personal information**
 
-In accordance with our commitment to protect personal privacy, Murad adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission.
+We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf. By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations.
 
-The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
+You should be aware that many countries do not afford the same legal protection to personal information as you might enjoy in your country of origin. While your personal information is in another country, it may be accessed by the courts, law enforcement and national security authorities in that country in accordance with its laws. Subject to such lawful access requests, we promise that anyone processing your personal information outside your country of origin is required to implement measures to protect it and is only entitled to process it in accordance with Unilever’s instructions.
 
-**Updates**
+**Safeguarding your personal information**
 
-This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. A notice will be posted on the Murad website (www.murad.com) for 60 days whenever this Privacy Policy is changed in a material way.
+We take all reasonable precautions to keep your personal information secure and require any third parties that handle or process your personal information for us to do the same. Access to your personal information is restricted to prevent unauthorised access, modification or misuse and is only permitted among our employees and agents on a need-to-know basis.
 
-_Last Updated: June 30 th 2015_
+**Your privacy rights and who to contact**
 
-[](http://www.etrust.org/cert/876785.html)
+If you have any questions, comments or concerns about how we handle your personal information, then you may contact us by clicking the Contact Us link on the Unilever Site that directed you to this Privacy Policy. Alternatively,please go to [www.unilever.com](http://www.unilever.com/), select the appropriate country and click on the Contact Us link. Your request will be directed to the appropriate Unilever group company.
+
+You have the right to tell us if you:
+
+• don't want to be contacted in the future by us
+
+• would like a copy of the personal information which we hold about you
+
+• would like us to correct, update or delete your personal information in our records
+
+• wish to report any misuse of your personal information
+
+To assist us in dealing with your request, please provide your full name and details.
+
+**Changes to our Privacy Policy**
+
+We may change this Privacy Policy from time to time by posting the updated version of the Privacy Policy on the Unilever Sites. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal information.
+
+**Other Unilever privacy policies**
+
+In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you.
