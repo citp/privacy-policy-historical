@@ -1,38 +1,42 @@
-> *The following text is extracted and transformed from the netbilling.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202511id_/http%3A//netbilling.com/privacy04.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbilling.com privacy policy that was archived on 2016-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160707113221id_/http%3A//www.netbilling.com/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | NETbilling - Putting You In Charge
 
-**Netbilling's Commitment to Privacy**
+NETbilling uses the Internet as a tool to provide clients and prospective clients access to information about our products and the ability to purchase those products.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. The information Netbilling collects from you helps us better serve the online community by continually personalizing the electronic payment services we provide. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-  
-**The Information We Collect  
-**  
-This notice applies to all information collected or submitted on through the Netbilling processing system. The types of personal information collected at these pages are: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by Netbilling’s terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank’s routing number, bank account number, username, password, birth date and phone number. You are obligated to provide Netbilling with accurate and up-to-date information, and failure to provide us with such information could void any Agreement between you and Netbilling. 
+From time to time, NETbilling may ask clients or prospective clients to provide personal information that will help NETbilling efficiently perform various business transactions. That information may be sought as you: Request information from NETbilling and/or:
 
-**The Way We Use Information  
-**  
-Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below.  
-Netbilling will send personally identifiable information about you to other companies or people when we have your consent to share the information or we need to share your information to provide the product or service you have requested.
+  1. Sign up or subscribe to our newsletter, blog, Facebook page, or email notification 
+  2. Participate in a special offer or contest
 
-Netbilling uses the information that you provide for such purposes as processing your purchase request, responding to customer service inquiries, loss prevention, improving our service, communicating with you and allowing our clients to provide customers a service and fulfill their obligations to you.  
-You can request to be contacted or provided with more information from our website. Information you submit on our website will be used only properly respond to your requests. Finally, Netbilling employees have access to your information on a need-to-know basis. Netbilling will not sell your information to an independent third party for any reason.
 
-**  
-Our Commitment to Data Security**
 
-Netbilling employs the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility.  
-Netbilling will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our clients. Netbilling passes the following data to the owners/operators of the website which you are purchasing goods from: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by Netbilling’s terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank’s routing number, bank account number, username, password, birth date and phone number.
+The information you share with NETbilling will be used to support the client relationship you have with NETbilling, and will never be provided to third-party businesses without your permission.
 
-**How To Contact Us**
+Your name and your choices will be clearly outlined when you register. NETbilling will give you the option to opt out from third-party sharing of your information. At the time of registration, you may also choose to opt out of receiving e-mail from NETbilling.  
 
-Should you have other questions or concerns about these privacy policies, please call us toll free at 888-357-8166 or send us an email at [privacy@netbilling.com](mailto:privacy@netbilling.com).
+NETbilling enables you to view all the retrievable information you have provided us, and correct it, should there be changes or errors in the information. You will be required to provide a password to update your information or you may contact us.
 
-  
-**Spam Policy**
+If you want to know more about our privacy practices, contact us by email, ([Sales@NETbilling.com](mailto:sales@netbilling.com)) or by mailing a letter to:
 
-Netbilling does not condone the use of spam and the sending of unsolicited materials in any form, nor do we control the other web sites involvement and/or practices in this area. 
+NETbilling​  
+27451 Tourney Road, Suite #220  
+Valencia, California 91355
 
-Copyright 2004 – Netbilling, Inc.  
-.
+NETbilling reserves the right to make changes to their online privacy policies as business or technical needs require. In the future, should NETbilling decide to use your information in a substantially new way, we will notify you by posting a change of privacy policy button on our websites and offer you the opportunity to opt out of the new use. This button will appear for 30 days.
+
+### About Us
+
+Since 1998, NETbilling, Inc. has provided merchant accounts, multi currency transaction processing, and call center services to thousands of internet merchants and companies of all sizes. NETbilling's flexible solutions process credit cards, debit cards, electronic checks, and telephone orders, and work with any business model, including internet, broadband, wireless, call centers and retail establishments of all types.
+
+### GET IN TOUCH
+
+  * __   27451 Tourney Road, Suite #220  
+     Valencia, California 91355
+  * __    **Phone:  **(888) 357-8166
+  * __    **Phone:  **(661) 252-2456
+  * __    **Email:** [Sales@NETbilling.com](mailto:Sales@NETbilling.com)
+
+
