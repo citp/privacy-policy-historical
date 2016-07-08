@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siterank.today privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623081412id_/http%3A//siterank.today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterank.today privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708142617id_/http%3A//siterank.today/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
