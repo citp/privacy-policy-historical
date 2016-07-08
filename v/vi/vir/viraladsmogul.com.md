@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraladsmogul.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604234326id_/http%3A//viraladsmogul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraladsmogul.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708111429id_/http%3A//viraladsmogul.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
