@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchacid.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402135531id_/http%3A//searchacid.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchacid.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708085746id_/http%3A//searchacid.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Searchacid.com | Privacy Policy
 
