@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603194133id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708154620id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy -
 
