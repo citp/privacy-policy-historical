@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605055942id_/http%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708084542id_/https%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
 
 # Listrak's Privacy Policy | Listrak
 
