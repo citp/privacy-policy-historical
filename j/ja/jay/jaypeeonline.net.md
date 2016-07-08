@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jaypeeonline.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513211047id_/http%3A//jaypeeonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaypeeonline.net privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708105425id_/https%3A//jaypeeonline.net/policies) for the most accurate reproduction.*
 
-# JaypeeOnline | Privacy Policy
+# Policies - JaypeeOnline
+
+## PRIVACY POLICY
 
 **Automatically-Recorded Information**
 
@@ -14,9 +16,9 @@ We use various online advertising services to display ads on the Site. These ads
 
 Currently, we serve advertisements from the following:
 
-* Google.com  
-* Chitika.com  
-* Commission Junction
+* Google Adsense  
+* HelloToken  
+* MaxCDN
 
 Third parties such as our advertisers may also use cookies to serve ads to you based on your visit to our site and other sites on the internet. If you want to opt out of our third-party advertiser (Google Adsense)’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -44,3 +46,29 @@ To change or modify any personal account information provided during site regist
 
 **Contacting Us**  
 If you have any questions about this privacy statement, our practices, or regarding your activities within this Web site, you can contact us via the [Contact page](http://jaypeeonline.net/contact/).
+
+## COMMENT POLICY
+
+JaypeeOnline welcomes any type of comments that are: supportive, dissenting, critical or inquisitive.
+
+Comments that are abusive, off-topic, attacks someone’s reputation, promotes hatred or hostility of any kind, contains foul language or outright spam will be DELETED.
+
+All comments that contain SEO keywords will not be marked as spam but will be DELETED.
+
+All comments are moderated and have to be approved by the editor before being published.
+
+All comments are scanned and filtered by **Akismet**. It does a great job of filtering spam but the technology is not perfect and at times, may flag legitimate comments as spam due to false positives. If your comment doesn’t show up within 24-48 hours and you think that your comment was inadvertently flagged as spam please let us know via the [Contact page](http://jaypeeonline.net/contact/).
+
+## DISCLOSURE POLICY
+
+**This policy is valid from January 1, 2007**
+
+This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+
+This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
+
+The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+
+This blog does contain content which might present a conflict of interest. This content will always be identified.
+
+[](http://www.disclosurepolicy.org/)
