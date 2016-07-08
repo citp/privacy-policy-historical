@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the visareporter.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117064637id_/http%3A//www.visareporter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visareporter.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709000747id_/https%3A//www.visareporter.com/privacy) for the most accurate reproduction.*
 
 # Visareporter - Privacy & Policy
-
-  
-
 
 ## YOUR PRIVACY AT VISAREPORTERS NETWORK
 
@@ -21,9 +18,6 @@ If you do nothing during your visit but browse through the website, read pages, 
 You may choose to provide us with personal information, as in email with a comment or question. We use the information to improve our services to you or to respond to your requests. Except for authorized law enforcement Investigations/enquiries, we do not share our email with any other outside organizations.
 
 ## COOKIES: 
-
-  
-
 
 **A)   **VISITING THE SITE-If all you do is visit and surf the site, no cookies are used.
 
@@ -48,9 +42,6 @@ If you post a message on the site it is stored in a database. The pages then dis
 Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
 ## RESTRICTION OF LIABILITY: 
-
-  
-
 
 Visareporters network makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
