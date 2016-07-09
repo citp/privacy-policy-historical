@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupbootcamp.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510020725id_/http%3A//startupbootcamp.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbootcamp.org privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709153354id_/https%3A//www.startupbootcamp.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Startupbootcamp
+# Privacy policy - Startupbootcamp
 
 This application (hereinafter “Application”) collects some Personal Data from its Users.
 
@@ -8,7 +8,7 @@ The Data are collected and processed for the purposes set out below.
 
 ## Data Processing Ownership
 
-Startupbootcamp Holding Ltd - London (UK),  
+Startupbootcamp Holding Ltd – London (UK),  
 privacy@startupbootcamp.org
 
 ## Types of Data collected
@@ -144,7 +144,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 #### Browsing and usage Data
 
-Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user's IT environment.
+Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user’s IT environment.
 
 #### User
 
