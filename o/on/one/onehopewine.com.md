@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onehopewine.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905155557id_/http%3A//www.onehopewine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehopewine.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709200514id_/https%3A//www.onehopewine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ONEHOPE Wine
 
 ### Our Commitment to Privacy
 
-**ONE** HOPE Wine is committed to respecting and protecting your privacy as a visitor to our website at http://www.onehopewine.com. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this website. This Privacy Statement describes the practices and policies we have put into place to safeguard your personal information that may be gathered and used as you visit our website.
+ **ONE** HOPE Wine is committed to respecting and protecting your privacy as a visitor to our website at http://www.onehopewine.com. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this website. This Privacy Statement describes the practices and policies we have put into place to safeguard your personal information that may be gathered and used as you visit our website.
 
 The policy may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
 
@@ -12,11 +12,11 @@ If you do not agree to the terms of this Privacy Statement, you are not authoriz
 
 ### Who Is Collecting the Information?
 
-**ONE** HOPE Wine is collecting information on this Web site as outlined in this privacy statement.
+ **ONE** HOPE Wine is collecting information on this Web site as outlined in this privacy statement.
 
 ### What Information Do We Collect?
 
-_Automatic Collection of Information:_
+ _Automatic Collection of Information:_
 
 If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our web site and tell us the number of visitors to our site each day.
 
@@ -33,7 +33,7 @@ Our Web server automatically collects and records the following information:
 
 
 
-_Permission-based Collection of Information:_
+ _Permission-based Collection of Information:_
 
 At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address, and telephone number.
 
@@ -64,7 +64,7 @@ The personally identifiable information gathered during your visit to this Web s
 
 ### Additional Use of Personal Information
 
-_Requesting No E-mail Communication_
+ _Requesting No E-mail Communication_
 
 You may receive e-mail messages from us about special promotions, upcoming events and other relevant information that may be of interest to you. If you do not wish to receive such email messages, please let us know by the following means:
 
@@ -75,7 +75,7 @@ You may receive e-mail messages from us about special promotions, upcoming event
 
 
 
-_Requesting No Postal Mailings_
+ _Requesting No Postal Mailings_
 
 You may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by the following means:
 
@@ -173,7 +173,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 
 
-_  
+ _  
 Preference for Future Use of Information_
 
 You may prevent your information from being used for purposes other than those for which it was originally collected by:
@@ -188,12 +188,12 @@ You may prevent your information from being used for purposes other than those f
 
 If you have questions about our privacy policy, or feel that this site is not following its stated information policy, please contact us.
 
-**ONEHOPE Wine**  
+ **ONEHOPE Wine**  
 P.O. Box 1117  
 Newport Beach, CA 92659-1117
 
 E-mail: info@onehopewine.com  
-Telephone: (866) 983-2266 
+Telephone: (866) 983-2266
 
 ### Modification and Effective Date
 
