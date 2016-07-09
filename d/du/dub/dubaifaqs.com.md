@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528233816id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710012444id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
@@ -24,7 +24,7 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20160528233816id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20160710012444id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
