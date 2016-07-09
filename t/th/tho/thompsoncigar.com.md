@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323221040id_/http%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709181129id_/https%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -7,15 +7,15 @@ Effective November 17, 2015
 
 ## Privacy Policy Contents:
 
-  1. [What Information do you gather about me?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q1)
-  2. [How does Thompson Cigar keep track of me while I'm in your web site?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q2)
-  3. [Does Thompson Cigar use cookies?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q3)
-  4. [Communicating with Thompson Cigar via e-mail.](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q4)
-  5. [How can I review the information you have for me?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q5)
-  6. [How does Thompson Cigar notify customers of changes to its privacy Policy?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q6)
-  7. [Is my credit card number secure?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q7)
-  8. [How do I know if a Web site is secure?](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q8)
-  9. [An important note about debit and credit card transactions.](http://www.thompsoncigar.com/custserv/custserv.jsp?pageName=Privacy#Q9)
+  1. [What Information do you gather about me?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q1)
+  2. [How does Thompson Cigar keep track of me while I'm in your web site?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q2)
+  3. [Does Thompson Cigar use cookies?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q3)
+  4. [Communicating with Thompson Cigar via e-mail.](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q4)
+  5. [How can I review the information you have for me?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q5)
+  6. [How does Thompson Cigar notify customers of changes to its privacy Policy?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q6)
+  7. [Is my credit card number secure?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q7)
+  8. [How do I know if a Web site is secure?](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q8)
+  9. [An important note about debit and credit card transactions.](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy#Q9)
 
 
 
@@ -29,9 +29,13 @@ Register to Win. We simply need an e-mail address and your home state.
 
 Purchases. Your complete name, address, phone number, e-mail, and credit card information are necessary for purchase and delivery. Because most of our customers like to know that we received their order, we use your e-mail address to send you an order confirmation. We also use your e-mail address to let you know when we ship your order.
 
-Because you have shown an interest in our products by registering, requesting a catalog or making a purchase, you may receive communications from us in the form of telephone contact, printed catalogs or e-mails with questions or information regarding orders you have placed and information about new products and services or upcoming events. If you do not wish to receive any or all of these communications, please let us know. You can [contact us](http://www.thompsoncigar.com/custserv/custserv.jsp) by e-mail, phone, fax or in writing. Please provide us with your exact name, address, e-mail and phone number and let us know which communications you would like halted.
+Because you have shown an interest in our products by registering, requesting a catalog or making a purchase, you may receive communications from us in the form of telephone contact, printed catalogs or e-mails with questions or information regarding orders you have placed and information about new products and services or upcoming events. If you do not wish to receive any or all of these communications, please let us know. You can [contact us](https://web.archive.org/custserv/custserv.jsp) by e-mail, phone, fax or in writing. Please provide us with your exact name, address, e-mail and phone number and let us know which communications you would like halted.
 
 From time to time, we exchange names, and other personal information with other companies whose products, and services might interest you, but only with your consent. If you do not want to have your name or other personal information shared with other companies, you can contact us by e-mail, phone, fax or in writing.
+
+We may also collect information available from third parties, including address verification services, and may combine that information with information collected from you, including information you enter when you place an order, and information collected passively using cookies or similar technology, as discussed in Sections 2 and 3 below. We will use this information in order to fulfill your order, market our products, or to provide you with a better experience. 
+
+We may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel ta - industry standard technology used by most major Web sites. No personally identifiable information is collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. 
 
 ## 2\. "Do you keep track of me as I move through the Thompson Cigar site?"
 
@@ -64,7 +68,7 @@ Mailing Address: P.O. Box 31273, Tampa, FL 33630-3303
 Fax: 813-882-4605   
 Phone: 800-216-7017 
 
-Questions regarding this statement should be directed to [Customer Service](http://www.thompsoncigar.com/custserv/custserv.jsp).
+Questions regarding this statement should be directed to [Customer Service](https://web.archive.org/custserv/custserv.jsp).
 
 We make sure that the information you supply to us remains secure and confidential.
 
