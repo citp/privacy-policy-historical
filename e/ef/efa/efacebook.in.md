@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the efacebook.in privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515020025id_/http%3A//efacebook.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efacebook.in privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709100245id_/http%3A//www.efacebook.in/p/privacy-policy-for-httpwww.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our visitors is important to us.
+Privacy Policy for http://www.khichadi.in
 
-Third Party Advertising  
-We use Google, Kontera, Amazon, Share A Sale, Advertising.com, Tribal Fusion, SixApart and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the links provided below.
+At http://www.khichadi.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.khichadi.in and how it is used.
 
-Google – http://www.google.com/privacy.html  
-Third Party Cookies and Web Beacons  
-In the course of serving advertisements to this site, our third-party advertisers, including those listed above, may place or recognize a unique “cookie” or web beacon on your browser
+Log Files  
+Like many other Web sites, http://www.khichadi.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-What are cookies?  
-A cookie is a file that tracks a user or customer’s preferences on pages visited while on a website. On our website we may use cookies or third parties may do so on our behalf.
+Cookies and Web Beacons  
+http://www.khichadi.in does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Should you accept a cookie, each subsequent visit to our site will identify you and collect and compile anonymous statistics related to your interests, tastes, purchasing intentions and general uses of the sites.
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on http://www.khichadi.in.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.khichadi.in and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-The data collected by the cookie is compiled and used in the future to market other products and services or advertisements to you, to analyze the usage of our website to provide data on how to improve the website and for feedback generally. No sensitive personal data or personally identifiable data capable of identifying you as a private individual are collected.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense
 
-All data are for specific purposes for our private use only and not for use of any other third party unless specifically instructed by us and only for a specific purposes, such as marketing of products and services.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.khichadi.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Google and the DoubleClick DART cookie:  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+http://www.khichadi.in has no access to or control over these cookies that are used by third-party advertisers.
 
-Your Choices  
-You do not have to accept cookies and you may block or disable all cookies from your browser at anytime.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.khichadi.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.  
-You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.htm). You may also opt-out of receiving cookies from third party advertising networks by using the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp).
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
