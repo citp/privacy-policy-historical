@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009103123id_/http%3A//www.chessclub.com/sitehelp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710144325id_/https%3A//www.chessclub.com/sitehelp/privacy) for the most accurate reproduction.*
 
 # Privacy - Play Chess with Friends
 
@@ -30,7 +30,7 @@ On occasion, the ICC may offer you a free prize, product or other mailing that i
 
 Credit Card Information
 
-Credit card numbers are only stored on the ICC servers in encrypted form. They are not visible to anybody except ICC employees (a small subset of the Admins) involved in the processing of payments. Credit cards are processed by Cybercash. Cybercash sends credit card numbers over the Internet in encrypted form. (For more information see [http://www.cybercash.com](http://www.chessclub.com/?URL=http%3A%2F%2Fwww.cybercash.com) .) The name, address, and phone number that is entered when a credit card is used is visible to the Admins. The card number is not.
+Credit card numbers are only stored on the ICC servers in encrypted form. They are not visible to anybody except ICC employees (a small subset of the Admins) involved in the processing of payments. Credit cards are processed by Cybercash. Cybercash sends credit card numbers over the Internet in encrypted form. (For more information see [http://www.cybercash.com](https://www.chessclub.com/?URL=http%3A%2F%2Fwww.cybercash.com) .) The name, address, and phone number that is entered when a credit card is used is visible to the Admins. The card number is not.
 
 Private Communication
 
