@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hitreach.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062001id_/http%3A//www.hitreach.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitreach.co.uk privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710110936id_/https%3A//www.hitreach.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Hit Reach
+# Privacy Policy - Hit Reach
 
-Hit Reach (“We”) are committed to protecting and respecting your privacy.
-
-This policy (together with our [Terms and Conditions](http://www.hitreach.co.uk/about/terms/)) sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
+Hit Reach (“We”) are committed to protecting and respecting your privacy.This policy (together with our [Terms and Conditions](http://www.hitreach.com/about/terms/)) sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Hit Reach, a trading name of Calcedony Ltd, of 37 West Port, Arbroath, DD11 1RF.
 
@@ -12,16 +10,14 @@ For the purpose of the Data Protection Act 1998 (the “Act”), the data contro
 
 We may collect and process the following Personal Information about you:
 
-  * Personal Information that you provide by filling in forms on the Website www.hitreach.co.uk (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
+  * Personal Information that you provide by filling in forms on the Website www.hitreach.com (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to Website [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
 
 
 
-We will not sell, distribute or lease your Personal Information to third parties unless we have your permission; are required to do so by law; and/or to operate our systems properly, administer the Website, or protect ourselves or other Website users.
-
-  
+We will not sell, distribute or lease your Personal Information to third parties unless we have your permission; are required to do so by law; and/or to operate our systems properly, administer the Website, or protect ourselves or other Website users.  
 This site uses remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
 Visitors can opt-out of Google Analytics for Display Advertising and [customize Google Display Network ads using the Ads Preferences Manager](https://www.google.com/settings/u/0/ads).
