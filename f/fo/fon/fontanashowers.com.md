@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the fontanashowers.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823150623id_/http%3A//www.fontanashowers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontanashowers.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710092728id_/https%3A//www.fontanashowers.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
 **Privacy Policy**
 
-**What information do we collect?**
-
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
-
-
-
- **How do we use your information?**
-
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
-
-
-
+**Privacy & Security Guarantee**  
+Rest Assured! We understand the safety of your personal information is extremely important to you. We take great pride in providing a safe and secure online experience. We use numerous electronic and physical security measures and devices to protect your personal data and credit card information from unauthorized access. And we back that up with a promise: You’ll pay nothing if, through no fault of your own, a third-party ever makes charges to your credit card as a result of your shopping with us and are held responsible for those charges by your credit card company. It’s never happened yet and we don’t expect it to happen ever, You’re covered.  
+.  
  **How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
@@ -39,7 +21,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
  **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Fontana Showers. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include www.fontanashowers.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -48,10 +30,6 @@ However, non-personally identifiable visitor information may be provided to othe
 To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
 To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
-
- **Third party links**
-
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
  **Changes to our policy**
 
@@ -67,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140823150623id_/http%3A//www.fontanashowers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160710092728id_/https%3A//www.fontanashowers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
