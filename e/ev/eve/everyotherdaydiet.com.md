@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyotherdaydiet.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308194933id_/http%3A//www.jonbensonfitness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyotherdaydiet.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710060756id_/http%3A//www.jonbensonfitness.com/privacy) for the most accurate reproduction.*
 
 # Jon Benson Fitness - Privacy Policy
 
