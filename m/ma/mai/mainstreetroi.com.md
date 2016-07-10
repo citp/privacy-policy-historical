@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328054252id_/https%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711004354id_/https%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,4 +76,4 @@ This policy was last modified on March 24, 2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us using the information listed on this page](http://www.mainstreetroi.com/contact).
+If there are any questions regarding this privacy policy you may [contact us using the information listed on this page](https://www.mainstreetroi.com/contact).
