@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobnewsusa.com privacy policy that was archived on 2015-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914041331id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobnewsusa.com privacy policy that was archived on 2016-07-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160711002809id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <title>
@@ -18,8 +18,8 @@
     
 
     
-  <link href="/favicon.ico" type="image/x-icon" rel="icon"><link rel="stylesheet" type="text/css" href="/assets/1440772040/css/a/bootstrap.css"><link rel="stylesheet" type="text/css" href="/assets/1440772040/css/a/style.css"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2Z5RF"></script><script type="text/javascript" src="/assets/1440772040/js/jquery-1.10.2.min.js"></script><script type="text/javascript" src="/assets/1440772040/js/modernizr.js"></script><script type="text/javascript" src="/assets/1440772040/js/a/bootstrap.js"></script><meta name="description" content="">
-<link rel="stylesheet" type="text/css" href="/assets/1440772040/css/typeahead.css"><script type="text/javascript" src="/assets/1440772040/js/typeahead.js"></script>  <!--[if lt IE 10]>
+  <link href="/favicon.ico" type="image/x-icon" rel="icon"><link rel="stylesheet" type="text/css" href="/assets/1468011118/css/a/bootstrap.css"><link rel="stylesheet" type="text/css" href="/assets/1468011118/css/a/style.css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2Z5RF"></script><script type="text/javascript" src="/assets/1468011118/js/jquery-1.10.2.min.js"></script><script type="text/javascript" src="/assets/1468011118/js/modernizr.js"></script><script type="text/javascript" src="/assets/1468011118/js/a/bootstrap.js"></script><meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="/assets/1468011118/css/typeahead.css"><script type="text/javascript" src="/assets/1468011118/js/typeahead.js"></script>  <!--[if lt IE 10]>
     <link rel="stylesheet" type="text/css" href="/css/a/ie.css" />
     <script src="/js/ie-js/html5.js"></script>
     <script src="/js/ie-js/respond.min.js"></script>
@@ -114,7 +114,7 @@
 	
 			<input type="text" required="required" name="q" id="q_footer" placeholder="job title, skills or company" value="">
 
-			<input type="text" name="loc" id="search_zip_footer" class="typeahead-location" autocomplete="off" placeholder="city, state or zip" value="Tampa, FL">
+			<input type="text" name="loc" id="search_zip_footer" class="typeahead-location" autocomplete="off" placeholder="city, state or zip" value="">
 			
 			<a class="select-location-button" href="#" onclick="show_select_location_modal();return false;"><span class="glyphicon glyphicon-globe"></span></a>
 			
@@ -170,6 +170,8 @@
 				<li class="active footer-nav-item-li"><a href="/content/privacy" class="footer-nav-item">Privacy Policy</a></li>		
 								   
 				<li class=" footer-nav-item-li"><a href="/content/ad_terms" class="footer-nav-item">Advertiser Terms</a></li>	
+								   
+				<li class=" footer-nav-item-li"><a href="/content/data_quality" class="footer-nav-item">Data Quality</a></li>					   
                 </ul>			   
 			</div>									
 		</div>
@@ -180,6 +182,34 @@
     </div>
 
 					
+		
+<div class="modal" id="clarify_location" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+     <div class="modal-content">
+		  
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal">×</button>
+          <h3>Job Search Location Confirmation</h3>
+      </div>
+
+	  <div class="modal-body clearfix">
+        
+        <p>Your job search location is detected. You may edit it now or save as-is.</p>
+        
+		<input type="text" name="loc" id="search_loc_clarify" class="typeahead-location round-input round-input-single" autocomplete="off" placeholder="city, state or zip" value="">
+
+		
+	  </div>
+
+	  <div class="modal-footer">
+		<a href="#" class="btn" data-dismiss="modal">Close</a>
+		<a href="#" class="btn btn-blue btn-save">Save</a>
+	  </div>
+
+
+   </div><!-- /.modal-content -->
+ </div><!-- /.modal-dialog -->
+</div>
 		
 	<div class="global-ajax-loader"></div>
 
@@ -413,6 +443,47 @@ function show_register_jobfair_modal(event_id) {
 }
 
 </script>
+ 
+<script type="text/javascript">
+function geoLocationCallback( position ) {
+    
+    var lat = position.coords.latitude;
+    var lon = position.coords.longitude;
+    setTimeout( function() {
+        $.get('/rpc/location_by_lonlat/'+lon+'/'+lat).done( function(data) {
+            $("#search_loc_clarify").val( data.loc );
+            $("#clarify_location").modal('show');
+        });
+    }, 100 );
+    
+}
+
+function geoError() {
+    console.log("GEO error");
+}
+
+
+$(document).ready(function() {
+    if (navigator.geolocation)
+    {
+        setTimeout( function() {
+            navigator.geolocation.getCurrentPosition( geoLocationCallback, geoError );
+        }, 250 );
+    } 
+    
+    $("#clarify_location .btn-save").click( function(event) {
+        event.preventDefault();
+        var loc = $("#search_loc_clarify").val();
+        $('.typeahead-location').val( loc );
+        show_loader();
+        $.get('/rpc/set_search_location', {loc:loc}).done(function(data) {
+            hide_loader();
+            $("#clarify_location").modal('hide');        
+        });
+    } );
+});
+
+</script>	
 <script type="text/javascript">
 function show_loader() {
 	$('.global-ajax-loader').show();
@@ -434,6 +505,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T2Z5RF');</script>
 <!-- End Google Tag Manager -->
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4278226-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
 
 
