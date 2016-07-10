@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sex-dresses.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608173159id_/http%3A//www.sex-dresses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex-dresses.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710082456id_/http%3A//www.sex-dresses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Store for Women Sexy Dresses<meta name="keywords" content="Women Sexy Dresses,Club Dresses,Evening Party Dresses,One Piece Jumpsuits,Bikini," />
 
