@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforfun.pro privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510172827id_/http%3A//www.gamesforfun.pro/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforfun.pro privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711033133id_/http%3A//www.gamesforfun.pro/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to gamesforfun.pro - Privacy Policy
 
