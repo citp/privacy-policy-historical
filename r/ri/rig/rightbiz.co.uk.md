@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407040240id_/https%3A//www.rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.co.uk privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711212345id_/https%3A//rightbiz.co.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - RightBiz UK
 
@@ -8,11 +8,13 @@ Protecting your privacy is one of our highest priorities. We developed this poli
 
 We are serious about guarding and protecting the security of your personal information and the details of any transactions that may be made on our website.
 
-We collect personal information from you when you register or provide it and in some cases, from third party sources.
+We do not store credit card details nor do we share customer financial details with any 3rd parties. 
+
+We only store details that has been provided to us at registration.
 
 We will not give, share or sell your personal information to third parties, advertisers or any other forms of internet activities, unless required to by law regulations.
 
-Your billing information is a sensitive piece of information, we use a secure server. Any information you give us is encrypted using Secure Socket Layer (SSL) and stored in a secure operating environment, please be sure to keep this information safe and do not share with others. 
+Your billing information is a sensitive piece of information, we use a secure server. Any information you give us is encrypted using Secure Socket Layer (SSL) and stored in a secure operating environment.
 
 We are not responsible or liable for the privacy issues of any outside websites we may be linking directly to, so we urge you to be careful when you enter any personal information outside our site.
 
