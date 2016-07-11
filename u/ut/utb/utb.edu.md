@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403132841id_/http%3A//utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711021948id_/http%3A//utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
