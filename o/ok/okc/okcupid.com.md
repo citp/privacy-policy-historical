@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321044648id_/https%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711143506id_/http%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | OkCupid
 
 ## Privacy policy
 
-Last revised October 31, 2013. 
+Last revised July 1, 2016. 
 
 This Privacy Policy describes the information collected by OkCupid.com, operated by Humor Rainbow, Inc., ( **we** , **us** or **OkCupid** ), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
@@ -16,7 +16,7 @@ If you have any questions about our privacy practices, please refer to the end o
 
 **Information you provide.** We may collect and store any personal information you enter on our website or on a mobile application, or provide to us in some other manner. This includes identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). You may also provide us information about your interests and activities, your gender and age, and other demographic information such as your hometown or your username. 
 
-**Information from other sources.** OkCupid is a part of the IAC family of businesses (please see [www.iac.com](http://www.iac.com/)), which as of the date of this policy includes Match.com, Ask.com, About.com, CityGrid.com, websites owned by People Media, Meetic, College Humor, and many other companies and websites. We may obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. We may also recieve information about our users from third party social platforms, such as Facebook. When you access or use our website or mobile application through such a site you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform 
+**Information from other sources.** OkCupid is a part of the Match Group family of businesses (please see [mtch.com](http://mtch.com/)), which as of the date of this policy includes includes websites and apps such as Tinder, OurTime.com, BlackPeopleMeet.com, Twoo, POF, Meetic, FriendScout24, Match and HowAboutWeMatch.com, and other companies and websites. We may obtain both personal and non-personal information about you from other Match Group businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. We may also receive information about our users from third party social platforms, such as Facebook. When you access or use our website or mobile application through such a site you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform 
 
 **Information about others.** We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities. 
 
@@ -28,7 +28,7 @@ If you have any questions about our privacy practices, please refer to the end o
 
 **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-**Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. We do not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
+**Information collected by third-parties.** We may allow service providers, Match Group companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. We do not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
 ## How we use the information we collect
 
@@ -37,13 +37,13 @@ If you have any questions about our privacy practices, please refer to the end o
   * deliver our products and services, and manage our business;
   * manage your account and provide you with customer support;
   * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other Match Group companies or other third parties;
   * develop and display content and advertising tailored to your interests on our site and other sites, including providing our advertisements to you when you visit other sites;
   * perform ad tracking and website or mobile application analytics;
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
   * enforce or exercise any rights in our terms and conditions;
   * perform functions as otherwise described to you at the time of collection; and
-  * register you with and display your profile on other online dating and other social websites owned by IAC, such as [match.com](http://www.match.com/) and websites operated by People Media.
+  * register you with and display your profile on other online dating and other social websites owned by Match Group, such as [match.com](http://www.match.com/) and websites operated by People Media.
 
 
 
@@ -63,7 +63,7 @@ In all circumstances, we may perform these functions directly or use a third par
 
 **Business partners:** When you register or make purchases on our website or click-through our advertisements offered on third party websites or applications, we may share personal information with the businesses with which we partner to offer you the applicable products, services or any advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
 
-**Other IAC businesses.** IAC’s businesses include the online dating websites [match.com](http://www.match.com/), [chemistry.com](http://www.chemistry.com/), [singlesnet.com](http://www.singlesnet.com/), [datehookup.com](http://www.datehookup.com/) and the websites operated by People Media ([ourtime.com](http://www.ourtime.com/), [seniorpeoplemeet.com](http://www.seniorpeoplemeet.com/), [blackpeoplemeet.com](http://www.blackpeoplemeet.com/) and other sites listed on [www.peoplemedia.com](http://www.peoplemedia.com/)). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Privacy Policy. 
+**Other Match Group Businesses:** OkCupid is part of The Match Group family of businesses, which as of the date of this policy includes websites and apps such as Tinder, OurTime.com, BlackPeopleMeet.com, Twoo, POF, Meetic, FriendScout24, Match and HowAboutWe. We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with Match Group companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by the Match Group. Each Match Group company complies with its Privacy Policy. 
 
 **Business partners:** When you make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
 
@@ -75,7 +75,7 @@ When we believe disclosure is appropriate in connection with efforts to investig
 
 In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-**Aggregated and/or non-personal-information.** We may share non-personal information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal, or personal information in hashed, non-human readable form, information with third parties, including advisors, writers, researchers, partners, advertisers and investors for the purpose of conducting general business analysis, studies, articles, and essays media and entertainment or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
+**Aggregated and/or non-personal-information.** We may share non-personal information we collect under any of the above circumstances. We may also share it with Match Group companies and third parties to develop and deliver targeted advertising on our website and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal, or personal information in hashed, non-human readable form, information with third parties, including advisors, writers, researchers, partners, advertisers and investors for the purpose of conducting general business analysis, studies, articles, and essays media and entertainment or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>. 
 
 ## Third-party websites
 
@@ -129,7 +129,7 @@ OkCupid.com
 Dallas, Texas 75225  
 privacy@okcupid.com _
 
-© IAC/InterActiveCorp. All rights reserved.
+© Humor Rainbow, Inc. All rights reserved.
 
 ## Linked information:
 
