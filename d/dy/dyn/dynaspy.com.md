@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516035136id_/http%3A//www.dynaspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711164615id_/http%3A//www.dynaspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
