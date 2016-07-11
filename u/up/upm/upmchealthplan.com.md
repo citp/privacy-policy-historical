@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020234130id_/http%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711181438id_/https%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # UPMC Health Plan | Affordable Health Care for Individuals & Families
 
@@ -67,8 +67,8 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC _for Life_ (Medicare)
 
-  * [Notice of Privacy Practices HMO/PPO Members](http://www.upmchealthplan.com/pdf/2014_MC_NOPP.pdf)
-  * [Personal Representative Designation Form](http://www.upmchealthplan.com/pdf/MC_PersonalRepDesignation.pdf)
+  * [Notice of Privacy Practices HMO/PPO Members](https://embed.widencdn.net/pdf/plus/upmc/ysrpvelzgi/MC_NOPP.pdf?u=8gpqp2)
+  * [Personal Representative Designation Form](https://embed.widencdn.net/pdf/plus/upmc/37ylg3xtas/MC_PRDFRM.pdf?u=8gpqp2)
   * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
@@ -93,7 +93,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 ### UPMC Medicare Special Needs Plans
 
   * [Notice of Privacy Practices](http://www.upmchealthplan.com/pdf/2015_SNP_NOPP.pdf)
-  * [Personal Representative Designation Form](http://www.upmchealthplan.com/pdf/MC_PersonalRepDesignation.pdf)
+  * [Personal Representative Designation Form](https://embed.widencdn.net/pdf/plus/upmc/37ylg3xtas/MC_PRDFRM.pdf?u=8gpqp2)
   * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
