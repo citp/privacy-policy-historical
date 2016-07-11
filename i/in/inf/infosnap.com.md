@@ -1,109 +1,71 @@
-> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914181538id_/https%3A//www.infosnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosnap.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711170744id_/https%3A//www.infosnap.com/privacy) for the most accurate reproduction.*
 
 # InfoSnap privacy policy
 
-[](http://studentprivacypledge.org/)InfoSnap, Inc. (InfoSnap) is committed to protecting your privacy. Except in limited circumstances described in this Privacy Policy, InfoSnap will NOT sell, trade, transmit or assign any unaggregated, Personally Identifiable Information that it collects to third parties outside of InfoSnap, Schools using InfoSnap for admissions, enrollment, registration, and related services (the “InfoSnap Service”), and the End Users of the InfoSnap Service. This Privacy Policy explains the information gathered by InfoSnap, how the information is used, and with whom the information is shared. By visiting this website and/or continuing to use InfoSnap, you agree to the terms and conditions of this Privacy Policy.
+**Privacy Policy**
 
-We are especially sensitive to the need to protect information concerning children. We do not knowingly solicit information from children under the age 13, and we do not contemplate the transmission of data by children to InfoSnap’s services.
+PLEASE READ THE FOLLOWING CAREFULLY
 
-**Click a link below for our policy on each topic:**
+THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY POLICY WITH YOUR PARENTS OR GUARDIAN AND ASK QUESTIONS ABOUT THINGS YOU DO NOT UNDERSTAND.
 
-  * What is Personally Identifiable Information?
-  * What information does InfoSnap collect through its public website, and how is this information used?
-  * What information is collected via School and End User usage of the InfoSnap Service, and how is this information used?
-  * What other information is collected?
-  * How does InfoSnap protect the security of information provided?
-  * Under what circumstances must InfoSnap disclose information provided?
-  * How can I change, update, or delete the information I’ve provided?
-  * How will I be notified of changes to this Privacy Policy?
-  * Where are the Sites controlled and operated?
-  * How can I contact InfoSnap with questions about this Privacy Policy?
+This website (the “Site”) is brought to you by PowerSchool Group LLC (“PowerSchool”).
 
+Your use of this Site is subject to the Terms of Use posted on this website (which includes this Privacy Policy). The Terms of Use (including this Privacy Policy) or any part thereof may be revised from time to time through an updated posting, and therefore you should check the Terms of Use (including this Privacy Policy) periodically. Revisions are effective upon posting and your continued use of this website following the posting of revisions to the Terms of Use (including this Privacy Policy) will indicate your acceptance of such revisions. If you have any questions concerning the Terms of Use (including this Privacy Policy), please Contact Us.
 
+PLEASE ALSO NOTE THAT THE PRIVACY POLICES OF VARIOUS POWERSCHOOL PRODUCTS AND SERVICES WITHIN THIS SITE OR LINKED TO THIS SITE MAY BE SUBJECT TO DIFFERENT TERMS AND POLICIES. PLEASE CHECK ON THE APPROPRIATE PRIVACY POLICY LINK FREQUENTLY TO DETERMINE THE PRIVACY TERMS APPLICABLE TO SUCH POWERSCHOOL PRODUCTS AND SERVICES.
 
-### What is Personally Identifiable Information?
+**What Information Is Collected**
 
-“Personally Identifiable Information” is information that identifies you as an individual or relates to an identifiable person, such as a person’s first and last name in combination with identifying data such as, postal address, telephone number, or e-mail address.
+We consider the following to be examples of personally-identifying information: they include but are not limited to your first and last name, email address, home address, phone number, social security number and certain other information to the extent they are linked with your personally-identifying information.
 
-### What information does InfoSnap collect through its public websites and other sources, and how is this information used?
+The information we learn from users helps us personalize and continually improve your experience on our websites in furtherance of serving the user’s needs and our legitimate business purposes. (For example, when the user makes an online purchase or enrolls in a marketing promotion, we need to retain certain personally-identifying information on the Site in order to respond to their request). A user’s personally-identifying information may be used by our company to help us improve the website, and also for our company’s marketing and promotional purposes. We receive and store any information you enter on this Site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing features for you, and communicating with you. Except as specifically stated herein, our policy is not to share this information with third parties, but we may share this information with other companies within PowerSchool. We will never sell this information to third-party marketing companies.
 
-InfoSnap collects certain Personally Identifiable Information through its public websites when you choose to submit such information to us through an online form, email, or other method. You may provide InfoSnap with information in order to request additional information about the Service, to sign up for a demo, to inquire about employment opportunities, for press inquiries, or for other purposes. Additionally, information may be collected through our social media pages such as LinkedIn, Twitter, and Facebook, as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, the “Sites”), as well as other sources, such as public databases, joint marketing partners, or from other third parties.
+**Information Sharing And Disclosure**
 
-The Personally Identifiable Information we collect is used to better serve our prospects and clients, and to improve our services. For example, we may use this information to respond to your inquiries and fulfill your requests, such as arranging a demo, provide you with important information about the Sites, such as updates or notices, improve and personalize customer service, and/or in aggregate, guide our marketing efforts and business purposes.
+Information collected through this Site may be supplied to affiliates of PowerSchool, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose personally identifiable information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of the assets of PowerSchool; or (d) in order to enforce the Site’s Terms of Use. We otherwise exercise commercially reasonable care to not otherwise share or disclose the names of users or any personally identifiable information with third parties, except with the prior approval of the user.
 
-### What information is collected via the InfoSnap Service, and how is this information used?
+**Special Notice To Parents And Children**
 
-This section applies to users of the InfoSnap Service. If you only use our public sites, this section does not apply to you. When hosting an InfoSnap Service for a school, school district, or other organization (collectively, the “Schools”), InfoSnap collects and subsequently processes Personally Identifiable Information provided by either or both the End Users or the School. When you as an End User provide information within an InfoSnap Service, it becomes immediately accessible to and controlled by the School using the InfoSnap Service.
+PARENTS: We encourage parents and guardians to spend time online with their Children (Children 12 and under) and to participate in the activities that may be offered on this Site. No personally-identifying information should be submitted to or posted on this Site by Children without the consent of their parent or guardian. We encourage parents to monitor their Children’s online use, and to help us protect their privacy by instructing them never to provide personally-identifying information on this Site or any other website without permission. We are also prohibited by law from conditioning a Child’s participation in any activity on this website on the Child disclosing more personally-identifying information than is reasonably necessary to participate in such activity.
 
-Except as described in this Privacy Policy, we will not otherwise, in any manner, transmit the information you provide via the InfoSnap Service to any third parties, unless we have to disclose it to comply with legal requirements, or in exigent circumstances to protect the personal safety of an InfoSnap End User.
+CHILDREN: Please do not give your full name, email address, home address, telephone number or any other personally-identifying information that would enable someone to contact-us you either online or offline, without first asking your parent or guardian and teacher for permission.
 
-### What other information is collected?
+We do not knowingly collect personally-identifying information from Children on this Site either directly or passively except when a Child may voluntarily submit such information through (i) a “Contact Us” link on a Child’s area of this website or (ii) a public posting area, if such feature is available. If a Child e-mails us via a “Contact Us” link on any child directed area of this Site and we can identify the sender as a Child, any personally-identifying information submitted will only be used to respond on a one-time basis to such Child and will thereafter be deleted from our records. In addition, if we have actual knowledge that a Child is sending or posting personally-identifying information on any area of this Site, we will use commercially reasonable efforts to delete such personally-identifying information before it is made public. We will never request personally-identifying information from a Child in any of our public postings areas. Please note that any online store that may be accessed from the Site is intended for parents, teachers and other adult purchasers over the age of 18 and requires the submission of personally-identifiable information to fulfill and service any transactions.
 
-We may also collect information that does not reveal your specific identity or does not directly relate to an individual (“Other Information”). This Other Information may include browser and device information, information collected through cookies, pixel tags, and other technologies, demographic information and other information provided by you, and aggregated information.
+We may disclose a Child’s personally-identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact-us or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users, or anyone else that could be harmed by such activities. We may also disclose a Child’s personally-identifying information when we believe in good faith that the law requires it.
 
-To ensure that our Sites and the Services functions properly for all users, we use certain information that is collected by most browsers or automatically through your device. Such things may include whether you are using a Macintosh or Windows computer, your device manufacturer and model, and your Internet browser type and version.
+**Public Postings**
 
-Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Sites, pages visited, languages preferences, and other anonymous traffic data. We do not save cookies to your computer unless it is necessary to perform an action requested by you, such as storing a username for future use. Then, we can recognize your computer to assist your use of the Sites and the Service.
+Users and especially Children should note that any personally-identifying information that is voluntarily posted to any public area of this website may always be collected and used by others. While we monitor such posting areas from time to time and will use commercially reasonable efforts to delete a Child’s personally-identifying information prior to posting, we strongly encourage Children not to post such information.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. However, if you do not accept these cookies, you will experience some inconvenience in your use of the Sites and the Service.
+**Cookies And Collection And Use Of Information**
 
-Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some services to, among other things, track the actions of users of the Sites (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Sites and response rates.
+We receive and store certain types of information whenever you interact with this Site. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses this Site. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Website of its manufacturer. However, cookies allow you to take full advantage of this Site’s best features, and we recommend that you leave them turned on.
 
-Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Sites, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many webpages, applications and other services. We use IP Addresses for purposes such as calculating usage level of the Sites, helping diagnose server problems, and administering the Sites.
+Prior to user registration, PowerSchool may employ cookie technology on this Site to (i) track non-personal information such as type of browser, operating system, domain names and IP addresses, and (ii) improve our visitors’ experience online. Prior to user registration, we do not link IP addresses to any personally-identifiable information. However, once you register and affirmatively opt-in and provide personal information about yourself for purposes of receiving more information about our products and services or ordering products, such personal information provided by you or collected through the cookie technology may be used for marketing purposes back to you as specified on a registration page. If you do not want to receive e-mail or other marketing communications from us, please adjust your registration page to opt-out of further marketing back to you.
 
-Other Information is also provided directly by you. Information such as your preferred means of communication is collected when you voluntarily provide this information. Unless combined with Personally Identifiable Information, this information does not personally identify you or any other user of the Sites.
+Please also note that PowerSchool reserves the right to monitor your compliance with the Terms of Use of this Site and may track your usage of the Site in order to confirm compliance with these Terms of Use. PowerSchool also reserves the right, in its sole discretion, to terminate your access to the Site for any reason, including non-compliance with these Terms of Use.
 
-Finally, aggregated Personally Identifiable Information does not personally identify you or any other use of the services. For example, we may aggregate Personally Identifiable Information to calculate the percentage of our users who have a particular telephone area code.
+PowerSchool uses Google Analytics, a third party service, to collect anonymous visitor data on our network of sites. The Google Analytics service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to the Site. PowerSchool uses the Google Analytics service to collect visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. PowerSchool uses the Google Analytics service to collect this information for the following purposes: (1) to provide statistical analysis of web page traffic patterns; (2) to administer our Site and servers; (3) to allow for auditing of our services by third parties; and (4) for internal marketing purposes. If you would like to learn more about the Google Analytics service and to view the complete Google Analytics privacy statement, please click here.
 
-Please note that we may use and disclose Other Information, that which does not reveal your identity, for any purpose, except where we are required to do otherwise under applicable law. However, if we are required to treat Other Information as Personally Identifiable Information under applicable law, then we will use the greater protections afforded to Personally Identifiable Information and may only use it for all the purposes for which we use and disclose Personally Identifiable Information.
+**Links To Other Sites**
 
-In some instances, we may combine Other Information and Personally Identifiable Information (such as combining your name with your zip code). If we combine any Other Information with Personally Identifiable Information, we will treat the combined information as Personally Identifiable Information for as long as it is combined and again follow our stricter privacy protections.
+This Site may provide links to third party websites or resources. The information practices of those websites are not covered by this Privacy Policy or any other policies or terms applicable to this Site. We recommend that you review any terms of use and privacy policy of any linked third party website before providing any information to that website or using its products and services.
 
-### How does InfoSnap protect the security of information provided?
+Please note that this Site may also provide links to other sites brought to you by PowerSchool. The Privacy Policy and Terms of Use of other PowerSchool sites may vary from this Site. We recommend that you review the privacy statements, terms of use and other policies or terms that may apply to other PowerSchool sites if you should choose to use such sites.
 
-We consider any information provided by you to be confidential, unless it is publicly available or has already been provided to us without any confidentiality restriction. Only those InfoSnap employees and consultants who need it to perform their job responsibilities are authorized to have access to it.
+**Collection And Use Of Information From Career Inquiries**
 
-With respect to InfoSnap Services, it is InfoSnap’s corporate policy to require that the Schools to which we transmit your Personally Identifiable Information agree to comply with our Privacy Policy. InfoSnap protects Personally Identifiable Information from unauthorized disclosure and complies with all applicable State and Federal confidentiality laws and regulations including but not limited to the Family Education Rights and Privacy Act (FERPA).
+Through the Careers page, a user may submit a resume or curriculum vitae (CV) and apply for a job or career at PowerSchool. If you submit an application or a resume or CV, we may collect and keep a record of the submission, including the email address, the resume or CV and all information supplied with such submission, and use this information to evaluate you for an employment position at PowerSchool. We also may, but are not obligated to, retain this information for the purpose of evaluating you for other employment opportunities in the future.
 
-We protect your information when it is received by and sent from InfoSnap. We use “encryption” for this purpose, which is the primary means for providing confidentiality for information sent over the internet. When you utilize your web browser to access InfoSnap, you do so over a “secure socket layer” (SSL). It automatically encrypts and protects your transaction with InfoSnap at 128 bits, which is the standard for commercial Internet transactions. Cryptographic algorithms are additionally used for encryption when data is at rest on the InfoSnap servers. We do not use unsecured email transmission for Personally Identifiable Information.
+**Ownership**
 
-While protecting your privacy is of the utmost importance and we use discretion in selecting only trusted third-parties to provide us with services that support the operation of our business, we cannot guarantee nor can we be responsible for third party practices regarding your privacy. We do not endorse any site or service linked from our website or social media pages and cannot protect any information you disclose to other organizations through our social media pages or website.
+This Site is owned and operated by PowerSchool and the contents of this Site are protected by copyright of PowerSchool and/or its licensors.
 
-Maintaining your privacy is a major focus at InfoSnap. As new technologies and methods become available for increasing your privacy protection, we will carefully examine them for applicability to our business. We seek to use reasonable organization, technical and administrative measures to protect Personally Identifiable Information within our organization. Despite our diligent efforts and implementation of reasonable security measures, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in according with the “Contacting Us” section below.
+**Additional Information About Privacy**
 
-### Under what circumstances must InfoSnap disclose information provided?
+If you have any concerns or questions about privacy on this Site, please [Contact Us](http://www.powerschool.com/contact-us).
 
-Though we make every effort to preserve your privacy, we may need to disclose Personally Identifiable Information when required by law wherein we have a good-faith basis to believe that such action is necessary to comply with a current judicial proceeding, a court order, or legal process.
+PowerSchool Group LLC. (Revised – July, 2015)
 
-Also, in the case of any change to InfoSnap’s corporate organization, such as a merger or sale, your Personally Identifiable Information will likely be transferred as part of the restructuring of the overall business.
-
-InfoSnap utilizes trusted, third-party service providers for things like website hosting, data analysis, payment processing, and related business operation. Occasionally, these trusted service providers may need access to your Personally Identifiable Information, which we provide only to the extent necessary for them to perform their specific service.
-
-### How can I change, update, or delete the information I’ve provided?
-
-Please note that any information you post or disclose through social media pages, blogs, etc. will become public information and may be available to users of the sites and to the general public. We urge you to be very careful when deciding to disclose your Personally Identifiable Information, or any other information, on the sites.
-
-With respect to our prospects and clients, we give you many choices regarding our use and disclosure of your Personally Identifiable Information for marketing purposes. You may opt-out from receiving electronic marketing-related communications from us on a going-forward basis. You may opt-out of receiving these emails by following the directions included in each communication. You may also opt-out from receiving phone and mail communications by writing to us via email or mail, or telling us on the phone that you’d like to be included on our “do not contact” list.
-
-Your request(s) will be addressed as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, and you cannot opt-out of receiving administrative messages.
-
-For End Users of InfoSnap Services, all changes, updates or deletions of Personally Identifiable Information must be made through the course of interacting with the Service that InfoSnap hosts for the School, or by contacting the School directly. All inquiries regarding Personally Identifiable Information should be directed to the School.
-
-### How will I be notified of changes to this Privacy Policy?
-
-InfoSnap will notify End Users of InfoSnap Services of material changes to our Privacy Policy. The changes will be made known to the End User before or at the time of implementation in conjunction with accessing the School’s Service. Users will have a choice to accept these new changes. This is true especially for cases where data will be used differently than outlined in the preceding Privacy Policy.
-
-### Where are the Sites controlled and operated?
-
-The Sites are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States.
-
-### How can I contact InfoSnap with questions about this Privacy Policy?
-
-If you have questions about this Privacy Policy, please contact us by email at [PrivacyPolicy@InfoSnap.com](mailto:PrivacyPolicy@InfoSnap.com) or please write to the following address:
-
-InfoSnap, Inc.  
-7700 Old Georgetown Road  
-Suite 850  
-Bethesda, MD 20814
-
-Please note that email communications are not always secure; so please do not include any sensitive information in your emails to us.
+Go to our [Terms of Use](http://www.powerschool.com/terms).
