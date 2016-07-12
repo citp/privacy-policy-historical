@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526190147id_/http%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712232606id_/http%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
 
 # Seacoast Vitamins Privacy Policy
 
