@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaeshop.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426153947id_/http%3A//www.apnaeshop.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaeshop.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712154440id_/http%3A//apnaeshop.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Apnaeshop.com | Online Shopping India | Buy Mobiles, Cameras, Electronics, Accessories, Lifestyle Products ,online Shopping for Branded Shoes, Clothing & Accessories in India | Apnaeshop.com
 
