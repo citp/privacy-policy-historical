@@ -1,77 +1,95 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521152829id_/http%3A//www.naviance.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712155416id_/https%3A//www.naviance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Naviance
 
-This statement discloses the privacy practices for the Hobsons® website, located at www.naviance.com (the “Site”). By using a Site, you agree to the collection, use and disclosure of your personal information as described in this statement. If you do not agree to the terms of this statement, then please do not use a Site or such publications.
+**PLEASE NOTE: This Privacy Policy does not apply to our software products**.  For information about those privacy policies, please refer to the privacy policies as follows:
 
-Naviance users: Please refer to the separate [Privacy Statement](https://succeed.naviance.com/signin.php?privacy=1) for the Naviance product.
+  * [Naviance Privacy Policy](https://succeed.naviance.com/auth/signin#/privacy)
+  * [Radius Privacy Policy](https://www.hobsons.com/privacy-policy)
+  * [Starfish Privacy Policy](http://www.starfishsolutions.com/about-us/privacy-policy/)
 
-BY USING THE SITE (WWW.NAVIANCE.COM), YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION IN THE UNITED STATES.
 
-If you have any questions regarding this Privacy Statement, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
 
-## Collection of Information
+If you are located outside of the United States, please be aware that the information you provide to us is transmitted to and processed in the United States. Data will be protected subject to this Privacy Policy and applicable law, which may be different from the laws in your country. By using this Site, you agree to this. 
 
-Our online and offline registration forms require users to give us contact information, including name, e-mail address and postal address. We may also collect your telephone number, year in school, anticipated enrollment date, gender, ethnicity, grade point average and intended major. We use this information to send you information about the specific colleges and universities that match your interests. You may also provide us with your informed consent to receive additional financial aid, scholarship, career and product and service information from Hobsons or directly from our partner colleges, universities and partner companies. We do not release any information to our partners unless you have granted us permission to do so. We may also collect contact and other information from you if you: (1) participate in one of our contests or sweepstakes or apply for a scholarship from us; (2) order from us; (3) take part in one of our surveys; (4) contact us; or (5) otherwise voluntarily submit information to us, including in our online communities.
+#### Information We Collect
 
-You always have the ability to opt out of receiving future mailings and special offers; see the “Opt Out” section below.
+On certain areas of our Site, we offer features where users may provide us with their personal information in order to subscribe to a newsletter, obtain more information about our products and services, participate in a survey, post comments on a blog post, contact us or otherwise voluntarily submit information to us.  The information requested in order for us to deliver these features includes your first and last name, email address, and in some cases your school name and other information that you may choose to provide. 
 
-If you use any of our tell-a-friend features, we ask for your friend’s name and e-mail address. We use this information only to send the communication you requested and to monitor the effectiveness of our tell-a-friend features.
+Additionally, as part of the standard operation of the Site, we may also collect certain “Site Usage Information.”  Site Usage Information is non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site.  It may also include information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other “click-stream” data.  We do not combine this non-personal information with your personal information. 
 
-As part of the standard operation of the Site, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data. We do not combine this non-personal information with your personal information. We use this information to: (1) provide you with customized content and advertising; (2) administer the Site, monitor its usage and diagnose problems with it; (3) remember you when you return to the Site, so that you don’t have to re-submit information and preferences; and (4) conduct research to improve our content and services. In addition, we use software that uses your IP address to determine roughly where you are located, so that we can deliver advertisements to you, while you are on the Site, based on your location and therefore as relevant to you as possible.
+We use this information to: (1) administer the Site, monitor its usage and diagnose problems with it; (2) remember you when you return to the Site, so that you do not have to re-submit information and preferences; and (3) improve our content and services.  In addition, we use software that uses your IP address to determine roughly where you are located so that we can customize the site based on your region.
 
-We use cookies to collect the non-personal information described above. A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences.
+We use the following tracking technologies to collect the Site Usage Information described above:
 
-We use web beacons, which are tiny graphic images, in our e-mails. These help us measure the effectiveness of our e-mail campaigns, by telling us whether the messages have been received, opened or otherwise acted upon.
+Cookies:  A cookie is a small data file that may be sent by a website or application and stored on the hard drive of your computer.  A cookie stores information about your browser that allows us to recognize your browser when you return to our site and to remember your preferences.  You are free to decline cookies, but by doing so, you may not be able to use certain features on the website or take full advantage of all of our offerings.  To learn more about browser cookies, including how to manage or delete them, check the “Help,” “Tools” or similar section of your browser.
 
-We also work with a company that serves advertisements on our behalf. The company uses cookies, web beacons or similar technologies to collect anonymous information about your visits to the Site and other websites, so that we may serve you advertisements that are relevant to your interests. Our ad serving company does not collect personal information about you, and we do not share any personal information with it. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) to learn more about ad serving, or for instructions on how to opt out of it.
+Pixel tags:  A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image that can be placed on a website page or in an email.  We use pixel tags to help us measure the effectiveness of our e-mail campaigns, by telling us whether the messages have been received, opened or otherwise acted upon.
 
-We will never share your IP address with a third party (except for our service providers) without first securing your express permission to do so.
+We use a third party service provider to assist us in collecting and understanding Site Usage Information.  By using our Site, you agree to our use of these tracking technologies.
 
-## Information Use
+#### Third-Party Tracking, Ad Servers and Networks
 
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers, Site content and advertising on the Site; (3) to contact you with information and promotional materials and offers from our company as well as from our affiliates, other related companies, educational institutions, marketing partners and other third parties, if you have agreed to receive such communications; (4) to contact you when necessary; (5) to review Site and product usage and operations; (6) to address problems with the Site, our business or our products and services; and (7) to protect the security or integrity of the Site and our business.
+Third parties, such as ad networks, web analytics companies and social networking platforms, may collect information about your online activities over time and across our Site and other third party sites and online services.  This information is used to provide advertisements for products and services that may interest you.  These advertisements may appear when you browse on other websites, and those companies may use cookies, clear GIF’s and other tracking technologies. 
 
-## Information Disclosure
+For information about the privacy practices of third party advertising companies who serve ads on our behalf, visit <http://www.google.com/policies/privacy>.  For more information about third-party advertisers and how to prevent them from using your information, visit the NAI’s consumer site at <http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices>.
 
-In addition to disclosing your information to our partners, with your consent, as described above, we may disclose the information collected from and about you as follows: (1) to our affiliated companies; (2) to our service providers, who may use it only on our behalf; (3) as necessary, if we believe that there has been a violation of our Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) as disclosed to you at the point of collection. In addition, if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+We do not honor “do not track” signals transmitted by users’ web browsers, so we encourage you to visit these links if you would like to opt out of certain tracking.  Note that you need to opt out separately for each of your devices and for each Web browser you use on each device.
 
-Any personal information or content that you voluntarily upload or submit for posting to a Site (including your name and information in your blogs, a site community, bios, videos and comments) becomes publicly available and can be collected and used by others. It may also be available to third party search engines. It is in violation of the Site’s Terms of Use for you to post any content that requests personally identifiable information.
+#### How We Use Information
+
+We may use the information we collect from and about you for any of the following purposes:  (1) to fulfill your requests for products and services; (2) to customize site content for your region; (3) to contact you with information and promotional materials from our company as well as from our affiliates, other related companies, educational institutions, marketing partners and other third parties when you have agreed to receive such communications; (4) to contact you when necessary for legal or security purposes; (5) to review Site and product usage and operations; (6) to address problems with the Site, improve our business or our products and services; and (7) to protect the security or integrity of the Site and our business. 
+
+We do not retain your personal information longer than necessary to provide you with the services you have requested.  We do retain aggregated, non-personally identifiable information for some of the purposes described above.
+
+#### Information Disclosure
+
+In addition to the uses described above, we may disclose your information for the following purposes:  (1) to our service providers, who may use it only on our behalf to provide our web services; (2) as necessary, if we believe that there has been a violation of our website Terms & Conditions or of our rights or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation as permitted by law, or otherwise as required by law; (4) as disclosed to you at the point of collection; and (5) in the event of a reorganization, merger, sale, assignment, bankruptcy or other disposition of our business, in which case the transferred information will remain subject to the terms of this Privacy Policy.
+
+Any personal information or content that you voluntarily upload or submit for posting to a Site (including your name and information in your comments) becomes publicly available and can be collected and used by others.  It may also be available to third party search engines.  It is in violation of the Site’s Terms & Conditions for you to post any content that requests personally identifiable information.
 
 We may share aggregate, non-personally identifiable information about you with third parties for research and other purposes.
 
-## Opt Out
+#### Links
 
-You may opt out of receiving future communications from us by logging into your account and editing your profile. You may also opt out of receiving commercial e-mail from us by following the instructions in each e-mail.
+The Site includes links to other sites, which are provided for your convenience only.  Our inclusion of these third party sites on our Site does not imply our approval or endorsement.  We have no control over these linked sites, all of which have their own privacy policies and terms of use, which we encourage you to read.
 
-If you would prefer that we not share your personal information with third parties, including our affiliates, for those parties’ own marketing or other purposes, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
+#### Social Networking
 
-## Access
+Tools in some areas of our Site allow you to share content through a third-party social networking site.  In using these tools, you may be providing information to those third party sites.  Please note that third party social networks have their own privacy policies and terms of use, and we encourage you to read them.
 
-To access, correct or request that we make no further use of your personal information, please send us an e-mail or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
+#### Security
 
-## Links
+Hobsons has implemented technical, administrative and physical security measures designed to secure your information.  We utilize a third party provider to store and process your personal information, and that provider has also implemented robust physical, electronic, contractual and managerial steps to safeguard and secure your personal information.  This includes transmission of data via HTTPS and restrictions on access to the data.  The Internet, however, is not perfectly secure and we are not responsible for security breaches not reasonably within its control.
 
-The Site hosts numerous links to other sites, which are provided for your convenience only. We have no control over these linked sites, all of which have their own privacy policies and terms of use. You access them at your own risk. Inclusion of any linked third-party site on the Site does not imply our approval or endorsement of the site.
+#### How You Can Access and Modify Information
 
-## Security
+To access, correct or request that we make no further use of personal information you may have provided to us via this website, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
 
-Hobsons® has taken certain physical, electronic, contractual and managerial steps to safeguard and secure your personal information. It is your responsibility to maintain the confidentiality of your Site account information, including your password, and you are responsible for all use of the Site accessed through it. You agree to notify us immediately of any unauthorized use of your account or any other actual or suspected breach of Site security.
+For information about how to access, correct or request that we make no further use of personal information you may have provided to us via one of our products, please refer to the privacy policy for that product.
 
-## Children
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at privacypolicy@Hobsons.com
 
-We do not direct the Site to, nor do we knowingly collect any personal information from, children under thirteen.
+#### Opt Out Policy
 
-## Changes to this Privacy Statement
+You may opt out of receiving commercial e-mail from us at any time by following the instructions in each e-mail or by contacting us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
 
-We may change this Privacy Statement from time to time. When we do, we will post the change(s) on the Site. If we change the statement in a material way, we will provide appropriate online notice to you.
+#### Children
 
-## Contact Us
+We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of 13. Should we learn that we have inadvertently collected personal information from children under the age of 13, we will take steps to delete it immediately.
 
-If you have any questions about this Privacy Statement, the practices of the Site, or dealings with the Site or with us, contact:
+#### Updates to this Policy
 
- **Brand Director**  
+We may change this Privacy Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date.  If we change the Privacy Policy in a material way, we will provide appropriate notice to you as required by law.  In some cases, we may require your consent to the changes.
+
+#### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+**Privacy Team**  
 Hobsons  
 50 E-Business Way, Suite 300  
 Cincinnati, OH 45241  
 Phone: 800.927.8439
+
+Naviance.com uses cookies to improve your experience. By using our services, you’re agreeing to our [Cookie Policy](https://web.archive.org/cookie-policy).
