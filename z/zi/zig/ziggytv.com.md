@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziggytv.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611061435id_/http%3A//www.ziggytv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziggytv.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712110313id_/http%3A//ziggytv.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ZiggyTV
 
