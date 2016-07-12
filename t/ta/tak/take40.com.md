@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511150026id_/http%3A//www.take40.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712025956id_/http%3A//take40.com/privacy.html) for the most accurate reproduction.*
 
 # Take 40 | Top 40 Countdown Australia | Music Charts
 
