@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512080524id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712170833id_/https%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Mighty Deals Limited
 
