@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zukuladnetwork.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611073936id_/http%3A//zukuladnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zukuladnetwork.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712082121id_/https%3A//zukuladnetwork.com/privacy) for the most accurate reproduction.*
 
 # 
 
