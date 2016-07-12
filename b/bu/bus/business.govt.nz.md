@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512005129id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712063451id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
@@ -12,6 +12,7 @@
   * [Use of personal information](http://www.business.govt.nz/about-this-site/privacy#use-of-personal-information "\[bookmark\]")
   * [Records and retention of personal information](http://www.business.govt.nz/about-this-site/privacy#Records-and-retention-of-persona-_information "\[bookmark\]")
   * [Public records](http://www.business.govt.nz/about-this-site/privacy#public-records "\[bookmark\]")
+  * [Security](http://www.business.govt.nz/about-this-site/privacy#security "\[bookmark\]")
   * [Call recording](http://www.business.govt.nz/about-this-site/privacy#call-recording "\[bookmark\]")
   * [Business.govt.nz calendar](http://www.business.govt.nz/about-this-site/privacy#business.govt-calendar "\[bookmark\]")
   * [Companies Office Search Results](http://www.business.govt.nz/about-this-site/privacy#companies-office-search-results "\[bookmark\]")
@@ -74,6 +75,12 @@ MBIE will only retain personal information as long as it is required for the pur
 Public records
 
 Where any information provided (which may include personal information) to or through this site constitute public records, it will be retained to the extent required by the Public Records Act 2005. MBIE may also be required to disclose information under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
+
+ [Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
+
+## Security
+
+MBIE websites have security measures in place to prevent the loss, misuse and alteration of information under our control. In order to maintain the cyber security of MBIE systems and information, MBIE systems are subject to ongoing monitoring (including activity logging), analysis and auditing. We may use information about your use of our websites and other IT systems to prevent unauthorised access or attacks on these systems or to resolve such events. We may use this information even if you are not involved in such activity. MBIE may utilise services from one or more 3rd party suppliers to monitor or maintain the cyber security of its systems and information. These 3rd party suppliers will have access to monitoring and logging information as well as information processed on MBIE websites and other IT systems.
 
  [Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
