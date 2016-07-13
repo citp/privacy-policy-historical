@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeoff.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508203601id_/http%3A//www.teeoff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeoff.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713204034id_/https%3A//www.teeoff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeOff.com
 
@@ -6,7 +6,7 @@
 
 EFFECTIVE DATE: APRIL 8, 2013
 
-This Privacy Policy applies to information collected by the "EZLinks Platforms", including EZLinks.com, TeeOff.com and all other websites, applications, online services, and other interactive features or downloads that are operated by EZLinks Golf, Inc. ("EZLinks") and that post a link to this privacy policy, whether accessed via computer, mobile device or otherwise. This Privacy Policy also covers information collected by EZLinks offline. This Privacy Policy explains our information collection practices, such as the types of information we collect and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the [Terms of Use](https://web.archive.org/terms-and-conditions), which governs your use of the EZLinks Platforms.
+This Privacy Policy applies to information collected by the "EZLinks Platforms", including EZLinks.com, TeeOff.com and all other websites, applications, online services, and other interactive features or downloads that are operated by EZLinks Golf LLC ("EZLinks") and that post a link to this privacy policy, whether accessed via computer, mobile device or otherwise. This Privacy Policy also covers information collected by EZLinks offline. This Privacy Policy explains our information collection practices, such as the types of information we collect and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the [Terms of Use](https://web.archive.org/terms-and-conditions), which governs your use of the EZLinks Platforms.
 
 ###### Table of Contents
 
