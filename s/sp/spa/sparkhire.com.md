@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927085415id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713140910id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Spark Hire
 
@@ -14,7 +14,7 @@ At Spark Hire, we respect the privacy and the confidentiality of our customers�
 **1.3 Applicability of Privacy and Security Policy**   
 Our Privacy and Security Policy applies to all individuals and entities from whom or for the benefit of whom we receive PII, whether it be collected through our corporate owned websites; Apps; traditional mailing and/or faxing channels; telephone or electronic communications; from some other medium; and/or from our clients.  
 **1.4 Website and Apps Not Directed to Minors**   
-The Website is a professional website directed toward individual job seekers, individual consultants, and consultant groups seeking employment as well as employers (either directly as customers of Spark Hire or through Staffing Customers that use Spark Hire Services) seeking to hire individual job seekers, individual consultants, or consultant groups or consultant groups for employment. As such, an individual must be aged sixteen (16) or over to create an account through the Website. As such, the Website is not directed toward children or minors. This also applies to all Spark Hire Apps.  
+The Website is a professional website directed toward individual job seekers, individual consultants, and consultant groups seeking employment as well as employers (either directly as customers of Spark Hire or through Staffing Customers that use Spark Hire Services) seeking to hire individual job seekers, individual consultants, or consultant groups or consultant groups for employment. As such, an individual must be aged fifteen (15) or over to create an account through the Website. As such, the Website is not directed toward children or minors. This also applies to all Spark Hire Apps.  
 **1.5 U.S.-EU Safe Harbor Framework**.   
 Spark Hire complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Spark Hire has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Spark Hire’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -165,7 +165,7 @@ Your use of our Apps, Website and Spark Hire Services is subject to this Privacy
 
 ###  **9\. PRIVACY OF CHILDREN**
 
-We make it a practice not to knowingly obtain and/or retain information about individuals under the age of sixteen (16). Indeed, no part of Spark Hire Services is directed to anyone under the age of sixteen (16).
+We make it a practice not to knowingly obtain and/or retain information about individuals under the age of fifteen (15). Indeed, no part of Spark Hire Services is directed to anyone under the age of fifteen (15).
 
 ###  **10\. ADDITIONAL INFORMATION**
 
