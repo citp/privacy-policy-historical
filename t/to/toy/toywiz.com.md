@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611195534id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713041132id_/https%3A//toywiz.com/toysecandpri.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
