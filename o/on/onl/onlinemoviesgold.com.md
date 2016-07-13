@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoviesgold.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630111124id_/http%3A//www.onlinemoviesgold.pro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoviesgold.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713064251id_/http%3A//www.onlinemoviesgold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | onlinemoviesgold.com
 
