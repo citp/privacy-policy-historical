@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001175726id_/https%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713122048id_/https%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Please keep in mind that whenever you voluntarily disclose personally identifiab
 In short, if you provide personally identifiable information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personally identifiable information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personally identifiable information to others. 
 
 **Your consent:**  
-By using our website, you consent to our collection and use of the information you provide. If we decide to change our Privacy Policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list or have questions regarding our Privacy Policy, please send an e-mail to:[ info@houseofbrides.com](mailto:%20info@houseofbrides.com). 
+By using our website, you consent to our collection and use of the information you provide. If we decide to change our Privacy Policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list or have questions regarding our Privacy Policy, please send an e-mail to: [info@houseofbrides.com](mailto:%20info@houseofbrides.com). 
