@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321003920id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713181606id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
 
 # Urbita - I love this place!
 
