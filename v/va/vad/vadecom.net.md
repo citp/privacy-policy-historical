@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vadecom.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611122248id_/http%3A//www.vadecom.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vadecom.net privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714010740id_/https%3A//www.vadecom.net/privacy) for the most accurate reproduction.*
 
 # vadecom privacy
 
