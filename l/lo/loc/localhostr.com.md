@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localhostr.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321085309id_/https%3A//hostr.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localhostr.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714224034id_/https%3A//hostr.co/privacy) for the most accurate reproduction.*
 
 # Hostr
 
