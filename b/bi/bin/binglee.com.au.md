@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314031916id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714150829id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Online with Bing Lee
 
@@ -54,7 +54,7 @@ Bing Lee relies upon third party contractors and suppliers ("Agents") to underta
 
 ###  WEBSITE INTERNET TRACKING TECHNOLOGY & SECURITY 
 
-Bing Lee may use cookies on its website. Bing Lee may also partner with a third party advertising network to either display advertising on Bing Lee's website or to manage its advertising on other sites. Bing Lee and its partners may use cookies and electronic images known web beacons (sometimes called single-pixel gifs) to collect information that does not contain personal information about You such as Your browsing activities on Bing Lee's website and other websites in order to provide targeted marketing based on Your interests. If You do not wish to have information collected through the use of cookies, We recommend that You disable cookies in your browser. There are also web services that help You control what information is collected about You, such as Google's Ads Preferences Manager. 
+Bing Lee may use cookies on its website. Bing Lee may also partner with a third party advertising network to either display advertising on Bing Lee's website or to manage its advertising on other sites. Bing Lee and its partners may use cookies and electronic images known web beacons (sometimes called single-pixel gifs) and other tracking technologies to collect information that does not contain personal information about You such as Your browsing activities on Bing Lee's website and other websites in order to provide targeted marketing based on Your interests. If You do not wish to have information collected through the use of cookies, We recommend that You disable cookies in your browser. There are also web services that help You control what information is collected about You, such as Google's Ads Preferences Manager. 
 
 Bing Lee's website may include links to other websites whose privacy practices may differ from those of Bing Lee. If You submit personal information to any of those sites, Your personal information is governed by their privacy obligations and statements (if any). Bing Lee encourages You to carefully read the privacy statement of any website You visit. 
 
