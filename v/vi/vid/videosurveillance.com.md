@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235943id_/http%3A//www.videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714082805id_/https%3A//www.videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | VideoSurveillance.com
 
