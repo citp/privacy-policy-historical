@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weatherspark.com privacy policy that was archived on 2016-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403053806id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weatherspark.com privacy policy that was archived on 2016-07-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160714200545id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -11,13 +11,13 @@
 <meta http-equiv="cleartype" content="on">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="image_src" href="//dbffkv15yp72v.cloudfront.net/production/assets/images/v3/screen_shot_67fe5f4156e8ff86ff928d5358ad7913.png">
-<link rel="stylesheet" type="text/css" href="//dbffkv15yp72v.cloudfront.net/production/assets/all_2be382516bb9403bb80f645b210af989.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//dbffkv15yp72v.cloudfront.net/production/assets/all_08cc4d67e1b7603b971df8b9ce1c5889.css" media="screen">
 <link rel="stylesheet" type="text/css" href="//dbffkv15yp72v.cloudfront.net/production/assets/css/print_c007bfdc068e9f278b0ffcdb6ec17a16.css" media="print">
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="//dbffkv15yp72v.cloudfront.net/production/assets/css/ie_beefea41093f7aad2e69e2bcc0f5f4c6.css" media="screen, projection">
 <![endif]-->
 <link rel="shortcut icon" type="image/png" href="//dbffkv15yp72v.cloudfront.net/production/assets/logos/weatherspark-logo-16_7b42acbefd11002604f2100b0d9dc987.png">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//dbffkv15yp72v.cloudfront.net/production/assets/all_with_flash_ad48380d57f0e7665cc92a6d0238e908.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//dbffkv15yp72v.cloudfront.net/production/assets/all_with_flash_364c023d947aedc57d5969b7c7c1d633.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" type="text/javascript"></script>
 <![endif]-->
@@ -48,6 +48,7 @@ function loadFlash() {
  
   appHasStartedLoading = true;
 }
+isSubscriber = false;
 currentTab = '';
 $(document).ready(documentReadyCallback);
 $(window).load(windowLoadCallback);
@@ -59,7 +60,7 @@ $(window).load(windowLoadCallback);
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-1558567-11', 'auto');
+ga('create', 'UA-1558567-11', "auto");
 ga('send', 'pageview');
 </script>
 <script type="text/javascript">
@@ -128,11 +129,6 @@ W<span class="shrinkable">eather</span>Spark <span class="beta">Beta</span>
 <a href="/forecasts" id="top-tab-forecasts">Forecasts</a>
 </h3>
 </li>
-<li id="top-tab-dashboard-li">
-<h3 class="top-tab-label" id="top-tab-dashboard-h3">
-<a href="/#!dashboard;a=USA/CA/San_Francisco" onclick="return goToTab('dashboard', event)" id="top-tab-dashboard">Dashboard</a>
-</h3>
-</li>
 <li>
 <h3 class="top-tab-label" id="top-tab-averages-h3">
 <a href="/averages/stations" id="top-tab-averages">Averages</a>
@@ -149,20 +145,7 @@ W<span class="shrinkable">eather</span>Spark <span class="beta">Beta</span>
 </h3>
 <div class="popup-menu" style="display:none;" id="more-menu">
 <p>
-<a href="/#!forecast;a=USA/CA/San_Francisco" onclick="return goToTab('forecast', event)" id="menu-item-forecast">Forecast (flash)</a>
-</p>
-<p>
 <a href="/history/stations" id="top-tab-history">Historical Weather</a>
-</p>
-<p>
-<a href="/forecast_accuracy/stations" id="top-tab-forecast-accuracy">Forecast Accuracy</a>
-</p>
-<p>
-<a href="/#!climate;a=USA/CA/San_Francisco;ctum=0;cth=500;ctmy=15;ctsy=1949;ctey=2010" onclick="return goToTab('climate', event)" id="menu-item-global-warming">Global Warming</a>
-</p>
-<hr>
-<p>
-<a href="/features_and_help">Help</a>
 </p>
 </div>
 </li>
@@ -179,7 +162,6 @@ W<span class="shrinkable">eather</span>Spark <span class="beta">Beta</span>
 <div class="search-preference" id="search-preference">
 <span class="nowrap">
 <input type="radio" value="forecasts" name="preferredSearch" onclick="setPreferredSearch('forecasts');" id="search-forecasts"><label for="search-forecasts">Forecasts</label>
-<input type="radio" value="dashboard" name="preferredSearch" onclick="setPreferredSearch('dashboard');" id="search-dashboard"><label for="search-dashboard">Dashboard</label>
 </span>
 <span class="nowrap">
 <input type="radio" value="averages" name="preferredSearch" onclick="setPreferredSearch('averages');" id="search-averages"><label for="search-averages">Averages</label>
@@ -200,7 +182,13 @@ W<span class="shrinkable">eather</span>Spark <span class="beta">Beta</span>
 <div class="flash">
 <p class="flashNotWorking"></p>
 <p>
+<a href="/#deprecated" class="flashLink4"></a>
+</p>
+<p>
 <a rel="nofollow" href="http://www.adobe.com/go/getflashplayer" class="flashLink2"></a>
+</p>
+<p>
+<a href="https://cedarlakeventures.com/signon/v0/wa6b7f6aee1bed483/start" class="flashLink3"></a>
 </p>
 <p class="html5 comment space-top"></p>
 </div>
@@ -370,30 +358,10 @@ If you have any questions or concerns regarding privacy on our Website, please s
 <ul>
 <li>More Weather</li>
 <li>
-<a href="/download">Download Data</a>
-</li>
-<li>
 <a href="/averages/stations">Averages</a>
 </li>
 <li>
 <a href="/history/stations">Historical Weather</a>
-</li>
-<li>
-<a href="/forecast_accuracy/stations">Forecast Accuracy</a>
-</li>
-<li>
-<a href="/climatetrends">Global Warming</a>
-</li>
-</ul>
-</div>
-<div>
-<ul>
-<li>Support</li>
-<li>
-<a href="/features_and_help">Help</a>
-</li>
-<li>
-<a href="http://weatherspark.uservoice.com/forums/88675-general">Feedback</a>
 </li>
 </ul>
 </div>
