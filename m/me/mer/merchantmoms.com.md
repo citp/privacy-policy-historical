@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424160525id_/http%3A//merchantmoms.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantmoms.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714185059id_/http%3A//merchantmoms.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MerchantMoms, LLC
 
