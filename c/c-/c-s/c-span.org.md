@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-span.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153507id_/http%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-span.org privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714155302id_/https%3A//www.c-span.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | C-SPAN.org
 
