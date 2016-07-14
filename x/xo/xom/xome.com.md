@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201082200id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xome.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714082049id_/https%3A//www.xome.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xome.com
 
