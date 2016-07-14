@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h4hitech.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201094043id_/http%3A//www.h4hitech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h4hitech.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714111553id_/http%3A//www.h4hitech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - H4HiTech Blog
 
