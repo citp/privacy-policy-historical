@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectbreakthrough.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317224529id_/https%3A//projectbreakthrough.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbreakthrough.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714191913id_/https%3A//projectbreakthrough.com/privacy) for the most accurate reproduction.*
 
 # Project Breakthrough - Privacy
 
