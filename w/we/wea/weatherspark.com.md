@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403053806id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714200545id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
 
 # Beautiful Weather Graphs and Maps - WeatherSpark
 
