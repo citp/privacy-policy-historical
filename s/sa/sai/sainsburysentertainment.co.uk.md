@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624030632id_/http%3A//www.sainsburysentertainment.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714160109id_/https%3A//www.sainsburysentertainment.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sainsbury's Entertainment
 
