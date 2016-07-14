@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalskillsregistry.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316105044id_/https%3A//nationalskillsregistry.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalskillsregistry.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714052134id_/https%3A//nationalskillsregistry.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Welcome to National Skills Registry
 
