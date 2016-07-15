@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hiwayfx.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314062248id_/https%3A//www.hiwayfx.com/hiwayfx-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiwayfx.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715194322id_/https%3A//www.hiwayfx.com/hiwayfx-privacy-policy) for the most accurate reproduction.*
 
 # HiWayFX Privacy Policy | HiWayFX
 
-**HiWayFX Privacy Policy**
+## HiWayFX Privacy Policy
 
 By registering with or accessing the HiWayFX website, you give consent to the collection and use of your personal data. Your privacy matters to us, our Privacy Policy explains:
 
@@ -12,7 +12,7 @@ By registering with or accessing the HiWayFX website, you give consent to the co
 
 
 
-**Use of the information collected by us**
+## Use of the information collected by us
 
 We use both the personal and aggregated information that we collect for multiple purposes. The information is used:
 
@@ -36,7 +36,7 @@ Please note that by filling in our questionnaire you may have given your consent
 
 It is important for you to know that you retain the right to inform us in writing that you withdraw such consent.
 
-**What kind of information we collect from you?**
+## What kind of information we collect from you?
 
 When you sign up for a demo or live account with us, the following information about you (“Your Data”) will be collected and stored for administrative, and/or service related purposes:
 
@@ -52,32 +52,32 @@ When opening an account for a business or enterprise that does not have identifi
 
 Further we may use the information collected from you to verify your identity and contact information.
 
-**Data Management**
+## Data Management
 
-For security of your personal information, we employ electronic and procedural safeguards to guard your non-public personal information. When you open an account with us, you are issued a unique User ID and a password. Remember that you are ultimately responsible for maintaining the secrecy of your User ID and password. We strongly recommend that you do not disclose this information to anyone. If you believe that someone has used or is using your registration information, user name or password to access any service without your authorization, you should notify our customer support immediately.
+For security of your personal information, we employ electronic and procedural safeguards to guard your non-public personal information. When you open an account with us, you are issued a unique User ID and a password. Remember that you are ultimately responsible for maintaining the secrecy of your User ID and password. We h2ly recommend that you do not disclose this information to anyone. If you believe that someone has used or is using your registration information, user name or password to access any service without your authorization, you should notify our customer support immediately.
 
-**Cookies**
+## Cookies
 
 We use cookies to collect information. A cookie is a small piece of data sent from a website and stored in a user's web browser while the user is browsing that website. Every time the user loads the website, the browser sends the cookie back to the server to notify the website of the user's previous activity. Cookies were designed to be a reliable mechanism for websites to remember stateful information or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited by the user previously). Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
 
 We do not use cookies to retrieve information which was not originally sent in a cookie. We do not use information transferred through cookies for any direct promotional or marketing purposes without your consent.
 
-**Marketing and Communication**
+## Marketing and Communication
 
 HiWayFX may contact you by electronic or other form of communication, at any time to provide you with information on our products, marketing materials, and training, or to enquire evaluation of our services. You may opt out from this application at any time by unsubscribing situated at the end each email sent to you or by notifying the member of staff that contacted you.
 
-**Accessing and Revisiting Your Personal Information / Opt Out**
+## Accessing and Revisiting Your Personal Information / Opt Out
 
 You have certain rights of access to some or all of the personal data we collect and hold about you. At any desired time, you have the right to request a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please send an email to [compliance@hiwayfx.com](mailto:compliance@hiwayfx.com).
 
 You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to provide services to you. If a potential or existing customer refuses to provide the requested information, we will do one of the following: (1) not open an account; (2) impose terms under which a customer may conduct transactions; and (3) close the account. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date. You can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
 
-**Changes to this Privacy Statement**
+## Changes to this Privacy Statement
 
 This Policy will be reviewed from time to time to take account of new technology, and changes to our operations and the business environment. In the event HiWayFX changes this Privacy Policy, the revised Privacy Policy will promptly be posted to our websites. By opening an account with us, you are deemed to agree to accept posting of a revised Privacy Policy electronically on our website as actual notice to you.
 
 If you have any questions that this Privacy Policy does not address, please contact our Customer Support department at [support@hiwayfx.com](mailto:support@hiwayfx.com).
 
-**Agreement**
+## Agreement
 
 I have read, understood and agree with the terms of this Privacy Policy, and I confirm that I have full power and authority to be bound by the terms of this Privacy Policy.
