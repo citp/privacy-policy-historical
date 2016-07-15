@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324025655id_/https%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715162415id_/https%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Customer Support | Tocris Bioscience
 
@@ -112,4 +112,4 @@ Alternatively, please [contact us](https://www.tocris.com/contact.php "Support f
 
 View all [Customer Support](https://www.tocris.com/customerSupport.php "Answers to the most common questions that customer support are asked") common questions.
 
-Tocris is a Bio-Techne brand. To find out more please visit our [news page](https://www.tocris.com/news/pr-01-07-14.php).
+Tocris is a Bio-Techne brand. To find out more please visit our [news page](https://www.tocris.com/tocrisNews.php?ItemId=484526).
