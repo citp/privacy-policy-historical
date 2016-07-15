@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007210211id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715174258id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,8 +170,25 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> I would like you to know that your service is fantastic!!! From your notification about order processing/status, to the incredibly FAST shipping!!! I wish there were more companies that did business and cared about their customers as much as you do. Great price, Great service, and Great shipping!!! I will highly recommend you to anyone that is in need of the products you offer!!!   
+> I am impressed. Very much so.   
 >   
-> Jeffrey, Monica & Kyle S. from Chicago, Illinois
+> Jim B. from Brookfield, Wisconsin
 > 
 > ”
+
+Get 10% Off Your Purchase Instantly!
+
+Sign-up for our email newsletter now and instantly receive an **exclusive** discount code in your email inbox to save 10% OFF regular priced items on your order.
+
+Newsletter Subscribers Also Enjoy
+
+  * Free Coupons & Gifts
+  * Exclusive Member Discounts
+  * New Product Announcements
+  * Helpful Safety Tips
+
+
+
+Enter Email Address Here
+
+No Thanks, I Don't Like Saving Money.
