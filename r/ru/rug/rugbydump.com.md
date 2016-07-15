@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbydump.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316063707id_/https%3A//s3.amazonaws.com/rugbydump3/rd-privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbydump.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715162104id_/https%3A//s3.amazonaws.com/rugbydump3/rd-privacypolicy.pdf) for the most accurate reproduction.*
 
 # SCOPE
 
