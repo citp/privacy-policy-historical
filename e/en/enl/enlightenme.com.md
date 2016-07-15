@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the enlightenme.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910132302id_/http%3A//enlightenme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enlightenme.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715043357id_/https%3A//enlightenme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enlighten Me
-
-  * [Home](https://web.archive.org/)
-  * Categories 
-  * Featured 
-
-Featured Guides
-
-Most people have heard of defense attorneys, but that doesn’t mean…
-
-Hotel star ratings have been around since the 1950s, as the…
-
-While you may have plenty of experience caring for area rugs,…
-
-When your car needs expensive repairs, sometimes simply getting a written…
-
-Since the 1940s, antibiotics have become a powerful weapon of modern…
-
-Facebook is one of the most popular websites on the Internet.…
-
-When you move into a new house, condo, townhouse, or apartment…
-
-A pet hamster will behave much as it would in the…
-
-Textured ceilings have been popular for many years because they add…
-
-
-
 
 Dex One Service, Inc. (“Dex One”) and SuperMedia Inc. (“SuperMedia”) and any company that is directly or indirectly controlled by, or under common control with Dex One or SuperMedia (collectively, “Dex Media”) respects your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
