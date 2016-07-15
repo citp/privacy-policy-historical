@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addedbytes.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413080054id_/https%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addedbytes.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715040614id_/https%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Development in Brighton - Added Bytes
 
