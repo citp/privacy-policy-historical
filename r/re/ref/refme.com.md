@@ -1,145 +1,100 @@
-> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322204049id_/https%3A//www.refme.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715192143id_/https%3A//www.refme.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # RefME | Privacy and Cookies Policy
 
-RefME Limited (“we”, “us”, “our”) is committed to ensuring that your privacy is protected. This Privacy and Cookies Policy sets out the basis on which any personal data we collect from you, or that you provide to us through www.refme.com (our “Website”), will be processed by us. It also describes how cookies are used on our Website and your rights in connection with such cookies. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+**1\. INTRODUCTION**
 
-## About us
+**Purpose**. The purpose of this Privacy Policy is to describe how RefME Ltd. (“RefME”) collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including [www.refme.com](https://www.refme.com/) (collectively referred to herein as the “Site”). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new) or as described at the end of this Policy. 
 
-For the purpose of the Data Protection Act 1998, the data controller is ReferenceME Limited a company registered in England and Wales with registration number 08894496 and registered office at RefME , Unit 9 New North House, Canonbury Business Centre, 202-208 New North Road, London, N1 7BJ.
+Our Privacy Policy explains: 
 
-## Other Applicable Terms
+  * Information That We Collect
+  * How We Use and Share Your Information
+  * Access to Your Information and Choices
+  * Security of Your Information
+  * Consent to Processing of Personal Data in United States
+  * Changes to Our Privacy Policy
+  * Questions and How to Contact Us
 
-This Privacy and Cookies Policy refers to the following additional documents, which also apply to your use of our Website:
 
-  * Our Terms of Use, which set out the terms on which you are permitted to use our Website and the service made available via our Website.
-  * Our Software Licence Terms, which set out the terms which will apply if you choose to download from our Website and use our Web plugin.
-  * The applicable app licence terms if you choose to download our RefME app from Google Play, iTunes or another app store.
-  * Our Copyright and Intellectual Property Policy, which sets out the terms on which you can store and share journals and articles on our Website and the steps you can take if you are concerned that your copyright is being infringed by a someone using our Website.
 
+**Scope; Third Party Sites.** This Privacy Policy applies only to information we collect at and through the Site. Our Site also contains links to third party sites that are not owned or controlled by RefME. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information. 
 
+**Terms of Use.** Please note that your use of our Site is also subject to our [Terms of Use](https://www.refme.com/terms-of-use/).
 
-### Information we may collect
+**2\. INFORMATION THAT WE COLLECT**
 
-We may collect and process the following information about you:
+**Information You Provide to Us**
 
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, for the use of services, posting material, general enquiries or requesting further services.
-  * Details of any journals, articles and papers which have been accessed by you including information about what use you make of those journals, articles and papers.
-  * We may also ask you for information when you report a problem with our Website or regarding the products and/or services provided by us.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our Website and of the fulfilment of your orders.
-  * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+We collect information you provide to us, for example when you create or modify your account, register to use our Site, purchase products or services from us, request information from us, contact customer support, or otherwise communicate with us. This information may include: 
 
+  * Name 
+  * Email address 
+  * Billing address (solely for payment purposes through our third party payment processor) 
+  * Credit card number (solely for payment purposes through our third party payment processor) 
+  * User generated content that you submit to us in connection with using our Site or our products and services 
 
 
-We may also take cache copies of journals, articles and papers which have been posted, distributed or reproduced by you on our Website to enable us to let you access your research from any device and to recommend content. You should ensure that you have obtained the necessary consents from the copyright owners to allow such copies to be taken. For more information about this, please see our Copyright and Intellectual Property Policy.
 
-## Aggregate Data
+**Information We Collect Through Your Use of our Site**
 
-With regard to each of your visits to our Website we may automatically collect the following information:
+**Google Analytics**
 
-  * technical information, including the internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
-  * information about your visit, including the full uniform resource locators (URL) clickstream to, through and from our Website (including date and time); page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies”, which are text files placed on your computer, to help the Site analyze how users use the site. You can find out more about how Google uses data when you visit our Site by visiting “How Google uses data when you use our partners’ sites or apps”, (located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)). We may also use Google Analytics Advertising Features to provide you with interest-based advertising based on your online activity. For more information regarding Google Analytics please visit Google’s website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). To learn more about interest-based advertisements and your opt-out rights and options, visit the [Digital Advertising Alliance](http://www.aboutads.info/) and the [Network Advertising Initiative](http://www.networkadvertising.org/) websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
 
+**Information Collected Through Cookies and Similar Technologies**
 
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our Site through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the Site again, the cookie allows the Site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Site features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
 
-We may collect this information for system administration, to report aggregated information to our advertisers or otherwise in accordance with this Privacy and Cookies Policy. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+**No Information from Children Under Age 13**
 
-## Cookies
+If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we have collected personal information from a child under the age of 13, please [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new).
 
-Our Website uses cookies to distinguish you from other users of our Website. This helps us to provide you with a good experience when you browse our Website and also allows us to improve our Website.
+**3\. HOW WE USE AND SHARE YOUR INFORMATION**
 
-## By using our website you are consenting to our use of cookies in accordance with this policy.
+**To Provide Products, Services, and Information.** We collect information from you in order to provide products and services that you purchase using the Site, and to provide information that you request from us. We use your personal information to contact you about your orders, process credit card and debit card transactions, and ship products to you. We may send you promotional materials or advertisements about our products and services, as well as new features and offerings. 
 
-### What is a cookie?
+**Sharing with Third Parties.** We may provide information to third party service providers that help us operate and manage our Site, process orders, and fulfill and deliver products and services that you purchase from us and that we provide at no charge. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. 
 
-A cookie is a small text file stored by your web browser on your computer or mobile device. Some cookies are essential for our Website to work and help us provide you with relevant information. They also allow us to recognise your computer (but not specifically who is using it) when you access our Website and to improve the usability and performance of our Website.
+**Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of RefME when we have your consent to do so. 
 
-### What do we use cookies for?
+**Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of RefME if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-We use cookies to make our Website easier to use and to better tailor the online experience to your interests and needs. Cookies may also be used to help speed up your future activities and experiences on our Website. We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our Website and to help us improve their structure and content. We cannot identify you personally from this information.
+  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request. 
+  * Enforce applicable Terms of Use, including investigation of potential violations. 
+  * Detect, prevent, or otherwise address fraud, security or technical issues. 
+  * Protect against harm to the rights, property or safety of RefME, our users, customers or the public as required or permitted by law. 
 
-### We use the following cookies on our Website:
 
-Cookie type  
-Purpose  
-User Login Cookies
 
-These cookies are used to remember your login details where you have elected for your details to be remembered to avoid having to login each time you visit our Website.
+**Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. 
 
-### Turning off and deleting cookies
+**Aggregated De-identified Information.** We may also use information from you that we have de-identified by removing your name and any other information that could be used to personally identify you, and which we aggregate and combine with other de-identified information (“De-identified Information”). We may use and share De-identified Information for research and development purposes, product and service development and improvement, marketing and promotional purposes, and other lawful purposes in connection with RefME’s business operations. RefME shall be the exclusive owner of all De-identified Information.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. If you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you access our Website. If you use different devices to view and access our Website (for example, your computer, smart phone, tablet etc.) you will need to ensure that each browser on each device is adjusted to suit your cookie preferences.
+**4\. ACCESS TO YOUR INFORMATION AND CHOICES**
 
-If you disable the cookies that we use this may impact your experience while on our Website.
+You can access and update certain information we have relating to your online account by logging into your account and going to the “edit account” section. If you have questions about personal information we have about you or need to update your information please feel free to [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new). You can opt-out of receiving marketing and promotional e-mails from RefME by using the opt-out or unsubscribe feature contained in the e-mails. 
 
-### More Information about cookies
+You can close your online account by logging into your account and going to the “edit account” section. If you close your account, we will no longer use your online account information or share it with third parties. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud. 
 
-For more detailed information about cookies please visit www.allaboutcookies.orgwhich provides guidance on how to control cookies.
+**5\. SECURITY OF YOUR INFORMATION**
 
-## Where We Store Your Personal Data
+We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our business partners or suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy and Cookies Policy.
+**6\. CONSENT TO PROCESSING OF PERSONAL DATA IN UNITED STATES**
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+Our servers where your personal information is stored are located in Ireland. However, if you are a resident of the European Economic Area (EEA) please note that in order to provide our Site, products and services to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+**7\. CHANGES TO OUR PRIVACY POLICY**
 
-## How we use your information
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-Information you give to us. We will use this information:
+**8\. QUESTIONS AND HOW TO CONTACT US**
 
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and/or services that you request from us;
-  * to provide you with information about other products and/or services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you, or permit selected third parties to provide you, with information about products and/or services we feel may interest you, where you have consented to such contact;
-  * to notify you about changes to our Website;
-  * to ensure that content from our Website is presented in the most effective manner for you and for your computer; and
-  * for internal record keeping.
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new), email us at [support@refme.com](mailto:support@refme.com), or contact us by postal mail at the following address:
 
-
-
-Information we collect about you. We will use this information:
-
-  * to administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * as part of our efforts to keep our site safe and secure;
-  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
-  * to make suggestions and recommendations to you and other users of our Website about products and/or services that may interest you or them.
-
-
-
-Statistical information. We may use aggregate, statistical information regarding our users’ interests, courses, research and reading habits and we may share this information with publishers, universities and other third parties. This data will not contain any personally identifiable information.
-
-Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
-
-### Disclosure of your information
-
-We may disclose your personal information to third parties:
-
-  * such as our agents, suppliers, service providers and affiliates which assist us with operating our Website or providing related products or services or which assist us in the improvement and optimisation of our Website;
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if ReferenceME Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers may be one of the transferred assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use, Software Licence Terms or Copyright and Intellectual Property Policy or other agreements; or
-  * otherwise in accordance with this Privacy and Cookies Policy.
-
-
-
-## Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by emailing us atprivacy@refme.com.
-
-### Third party links
-
-Our Website may, from time to time, contain links to other websites of interest. Please note, these websites have their own privacy and cookies policies and we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such websites. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-### Access to information
-
-The Data Protection Act 1998 (the “Act”) gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
-
-If you believe that any information we are holding about you is incorrect or incomplete, please email us at privacy@refme.com
-
-## Contact us
-
-Questions, comments and requests regarding this Privacy and Cookies Policy are welcomed. Please contact us at privacy@refme.com
-
-Thank you for visiting our Website.
+RefME Ltd  
+Unit 1, New North House  
+Canonbury Business Centre, 202-208 New North Road  
+London, N1 7BJ  
+United Kingdom
