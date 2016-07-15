@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402061559id_/https%3A//www.avention.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715091027id_/https%3A//www.avention.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Avention
 
