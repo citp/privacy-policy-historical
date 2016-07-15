@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joguru.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527173435id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joguru.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715022638id_/https%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: TripHobo
 
