@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531114625id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715164407id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy | SunglassWarehouse.com
 
