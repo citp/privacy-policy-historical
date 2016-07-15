@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imalimedia.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514071149id_/http%3A//imalimedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imalimedia.net privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715051502id_/http%3A//www.imalimedia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Effective on January 1st, 2015 This privacy statement describes how Imali Media collects and uses the personal information you provide on our Web site: [imali.media](http://www.imalimedia.net/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+Effective on January 1st, 2015 This privacy statement describes how Imali Media collects and uses the personal information you provide on our Web site: [imali.media](http://imalimedia.net/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 ##### Collection and Use of Personal Information
 
