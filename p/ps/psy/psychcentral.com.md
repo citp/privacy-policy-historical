@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131111532id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715064319id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
 ### The Short Version
 
-You can register for our website if you want to join one of our online communities, save your quiz results, or take the [Sanity Score](http://www.sanityscore.com/). If you do so, we obtain some additional information about you, like your email address. When you have an account with us, we also use cookies to help secure that account.
+You can register for our website if you want to join one of our online communities, save your quiz results, or take the [Sanity Score](http://www.sanityscore.com/). If you do so, we obtain some additional information about you, like your email address. When you have an account with us, we also use cookies to help secure and personalize that account.
 
 We do not share any of the personally identifiable information you voluntarily provide to us with any third-party for any reason whatsoever. We would do so only if we were legally obligated to do so, and then we’d notify you if that was the case. (We’ve never had to do so yet.)
 
-Like every website online, we collect information about your browsing our site (but not in a personally-identifiable way). Such information is aggregated for statistical analyses (e.g., what are our most popular pages).
+Like every website online, we collect anonymous information about your browsing behaviors on our site (but not in a personally-identifiable way). Such information is aggregated for statistical analyses (e.g., what are our most popular pages) and used for research purposes.
 
-Advertising helps us pay the bills. Our advertising representative has their own [privacy policy as well](http://corporate.everydayhealth.com/eh-privacy.aspx) and you should read the section below, Third Party Privacy Statement.
+Advertising helps us pay the bills. Our advertising representatives may have their own privacy policies, so you should read the section below, Third Party Privacy Statement.
 
 * * *
 
@@ -28,7 +28,7 @@ In order to provide additional services, however, we may collect the following t
 
   * **Information you provide** – When you sign up for a Psych Central Account or other Psych Central service that requires registration (e.g., for our community, blogging services, etc.), we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other Psych Central services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
   * **Cookies** – When you visit Psych Central, we send one or more cookies — a small file containing a string of characters — to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Psych Central features and services may not function properly if your cookies are disabled.
-  * **Server log information** – When you use Psych Central services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **Server log information** – When you use Psych Central services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. If you take one of our quizzes or tests, we may also collect the anonymous data you submit to our server in a log file for further scientific research or statistical analysis. None of the server data we collect is personally identifiable.
   * **User communications** – When you send email or other communication to Psych Central, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
   * **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Psych Central in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Psych Central may sometimes may offer content that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Psych Central will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
   * **Advertising services** – Psych Central may use its own internal ad server or a reputable third party to present or serve website advertisements. These internal or third party ad services may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness.
@@ -109,7 +109,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
 
 >   
->      **Last reviewed:** By Psych Central Staff on 8 Apr 2015
+>      **Last reviewed:** By Psych Central Staff on 21 Feb 2016
 
   
 
