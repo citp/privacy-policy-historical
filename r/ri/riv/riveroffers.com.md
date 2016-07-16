@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riveroffers.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612004303id_/http%3A//riveroffers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riveroffers.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716131954id_/http%3A//riveroffers.com/privacy.html) for the most accurate reproduction.*
 
 # RiverOffers.com Privacy Policy
 
