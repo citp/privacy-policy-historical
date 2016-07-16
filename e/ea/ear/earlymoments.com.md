@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531095108id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716214932id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earlymoments.com
 
