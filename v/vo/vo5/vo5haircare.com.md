@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vo5haircare.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402092926id_/http%3A//www.vo5haircare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vo5haircare.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716160512id_/http%3A//www.vo5haircare.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VO5 Haircare
 
@@ -85,3 +85,5 @@ High Ridge Brands Co.
 5 High Ridge Park  
 Suite 100  
 Stamford, CT 06905
+
+On occasion, mergers, acquisitions, and sales of business assets occur. In the event that Company ever is involved in such a transaction, then personal information may be disclosed to the entity that acquires, is acquired by, or merges with Company’s or purchases any of its assets.
