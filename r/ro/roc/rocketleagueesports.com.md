@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketleagueesports.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120235id_/https%3A//www.twitch.tv/user/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketleagueesports.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716052336id_/https%3A//www.twitch.tv/user/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Twitch
+# Privacy Policy - Twitch
 
   1. Welcome to the web site [www.twitch.tv](http://www.twitch.tv/) , and any other web sites, applications, or services that link to this Privacy Policy (collectively, the " **Twitch Service** "), which sites, applications or services are operated or produced by Twitch Interactive, Inc. (" **Twitch** "). Twitch values the privacy of the users, subscribers, publishers, members, and others who visit and use the Twitch Service (collectively or individually, " **You** " or " **Users** ") and wants you to be familiar with how we collect, use and disclose information from and about you. 
 
@@ -15,7 +15,7 @@ This Privacy Policy applies to Twitch's collection and use of your personal info
 
   * **User-provided Information** : You may provide to Twitch what is generally called "personal information" in the USA and elsewhere or "personal data" in the European Union (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you register for a Twitch Service, or upload, purchase, view or download certain content or products from the Twitch Service, enter contests or sweepstakes, or otherwise use the features and functionality of the Twitch Service. 
 
-  * **"Cookies" Information** : When you access the Twitch Service, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. For information about what cookies are, how they work, how Twitch uses them and how to remove them, please see our cookie policy at [http://www.twitch.tv/user/legal?page=cookie_policy. ](http://www.twitch.tv/user/legal?page=cookie_policy)
+  * **"Cookies" Information** : When you access the Twitch Service, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. For information about what cookies are, how they work, how Twitch uses them and how to remove them, please see our cookie policy at [http://www.twitch.tv/p/cookie-policy. ](http://www.twitch.tv/p/cookie-policy)
 
   * **"Automatically Collected" Information** : When you access the Twitch Service or open one of our HTML emails, we may automatically record certain information from your system by using cookies and other types of tracking technologies. This "automatically collected" information may include Internet Protocol address (" **IP Address** "), a unique user ID, device type, device identifiers, browser types and language, referring and exit pages, platform type, version of software installed, system type, the content and pages that you access on the Twitch Service, the number of clicks, the amount of time spent on pages, the dates and times that you visit the Twitch Service, and other similar information. Depending on the law of your country of residence, your IP address may legally be considered personal information. 
 
@@ -118,8 +118,8 @@ Twitch reserves the right to change, modify, add, or remove portions of this Pri
 
 #### Twitch Contact Information 
 
-Please contact Twitch with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices at: 225 Bush Street, 6th Floor, San Francisco, CA 94104; by email: [privacy@twitch.tv ](mailto:privacy@twitch.tv) or by phone: 1-415-684-7494. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information. 
+Please contact Twitch with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices at: 225 Bush Street, 9th Floor, San Francisco, CA 94104; by email: [privacy@twitch.tv. ](mailto:privacy@twitch.tv) We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information. 
 
 #### Delete Account Data 
 
-If you would like to delete all data associated with your account, go to <http://www.twitch.tv/user/delete_account>. This action is irreversible. 
+If you would like to delete all data associated with your account, go to [http://www.twitch.tv/user/delete_account.](http://www.twitch.tv/user/delete_account) This action is irreversible. 
