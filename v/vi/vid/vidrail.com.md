@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidrail.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601195301id_/http%3A//www.vidrail.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidrail.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716213502id_/http%3A//www.vidrail.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vidrail
 
