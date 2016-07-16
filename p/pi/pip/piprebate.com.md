@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505172016id_/https%3A//www.piprebate.com/Page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716060912id_/https%3A//www.piprebate.com/Page/Privacy) for the most accurate reproduction.*
 
 # Privacy | Forex Rebates | CashBackForex | Unbeatable Rebate Rates on best Forex Brokers
 
