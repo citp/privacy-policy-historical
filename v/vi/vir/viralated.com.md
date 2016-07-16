@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralated.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507101226id_/http%3A//www.viralated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralated.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716172351id_/http%3A//www.viralated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viralated
 
