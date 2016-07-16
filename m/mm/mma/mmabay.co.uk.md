@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmabay.co.uk privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502044427id_/http%3A//www.mmabay.co.uk/charter-of-rights/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmabay.co.uk privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716123831id_/http%3A//www.mmabay.co.uk/charter-of-rights/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UFC/MMA News In One Place | MMABay: Powered by TapouT
 
