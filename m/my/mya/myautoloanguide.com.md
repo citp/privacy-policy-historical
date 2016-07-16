@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myautoloanguide.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512010630id_/http%3A//www.myautoloanguide.com/html/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myautoloanguide.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716202455id_/http%3A//myautoloanguide.com/html/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # myautoloanguide-privacy policy, American privacy policy, Best American privacy policy
 
