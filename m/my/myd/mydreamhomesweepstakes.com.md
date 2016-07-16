@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydreamhomesweepstakes.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204211402id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydreamhomesweepstakes.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716165100id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Zillow
 
@@ -70,7 +70,7 @@ You may receive email from Zillow Group for a variety of reasons - for example, 
 
 ##### Behavioral Advertising
 
-We may participate in behavioral advertising. This means that, for example, when you use the Services, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of the Services (including mobile applications) or your online activities over time and across different Web sites. Collected information may include the content you view, the date and time that you view this content, and the Web site that referred you to the Services, and this information may be associated with your unique browser, device identifier, or Internet Protocol address. These practices help tailor advertisements that are relevant and useful to you. These tailored advertisements may appear on the Services or on other websites, applications or properties. 
+We may participate in behavioral advertising. This means that, for example, when you use the Services, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of the Services (including mobile applications) or your online activities over time and across different Web sites and devices. Collected information may include the content you view, the date and time that you view this content, and the Web site that referred you to the Services, and this information may be associated with your unique browser, device identifier, or Internet Protocol address. These practices help tailor advertisements that are relevant and useful to you. These tailored advertisements may appear on the Services or on other websites, applications or properties. 
 
 In addition, if you have provided your email address to us, we may use a scrambled, unreadable form (a hash) of your email address to deliver tailored advertisements to you on the Services or on other websites, including via Facebook’s Custom Audience Feature or other similar Facebook tools. We will not share your email address with Facebook. Click [here](https://www.facebook.com/about/ads/#types) to learn about how you can control the ads you see on Facebook.
 
@@ -122,4 +122,4 @@ If you have any questions about this privacy statement, or the privacy practices
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.
 
-_— Updated September 2015_
+_— Updated February 2016_
