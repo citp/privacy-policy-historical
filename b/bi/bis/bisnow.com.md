@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425223955id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisnow.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716033854id_/https%3A//www.bisnow.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bisnow
 
