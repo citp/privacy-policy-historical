@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318141347id_/http%3A//tractiondigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716024758id_/https%3A//tractiondigital.com/privacy) for the most accurate reproduction.*
 
 # Traction Digital - Privacy Policy - Traction Digital
 
@@ -34,7 +34,7 @@ We collect Personal Information about you:
 
 **2.3** **Collecting entity**
 
-The entity collecting Personal Information is Traction Digital Pty Ltd (ACN 092 342 375) of Level 1, Building 1, 85 O’Riordan Street, Alexandria NSW Australia 2015.
+The entity collecting Personal Information is Traction Digital Pty Ltd (ACN 092 342 375) of Suite 1, Level 25, 66 Goulburn St, Sydney, NSW 2000.
 
 * * *
 
@@ -129,9 +129,8 @@ We may, and likely will, transfer your Personal Information to a person or organ
 #### 9 COMPLAINTS
 
   1. If you wish to complain about a potential breach of the APPs by us, please write to our Privacy Co-ordinator at:Traction Digital Pty Ltd (ACN 092 342 375)  
-Level 1, Building 1  
-85 O’Riordan Street  
-Alexandria NSW Australia 2015  
+Suite 1, Level 25, 66 Goulburn St  
+Sydney, NSW 2000  
 Fax: +61 2 9469 5778  
 [Email](http://www.traction-digital.com/contact/) ****
   2. If we receive a complaint from you, we will handle the complaint in the following way: 
