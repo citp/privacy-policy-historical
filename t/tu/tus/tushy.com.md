@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tushy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617122856id_/https%3A//www.tushy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tushy.com privacy policy that was archived on 2016-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160717060835id_/https%3A//www.tushy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : TUSHY.COM
 
