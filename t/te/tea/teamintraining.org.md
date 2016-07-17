@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510032144id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2016-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160717030331id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
 
 # Privacy
 
