@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpacademy.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005075324id_/https%3A//www.hpacademy.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpacademy.com privacy policy that was archived on 2016-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160718154954id_/https%3A//hpacademy.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tuning Courses - HPA
 
