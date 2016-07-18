@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601142030id_/https%3A//www.keuriggreenmountain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2016-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160718220817id_/https%3A//www.keuriggreenmountain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Keurig Green Mountain, Inc.
+
+Keurig Green Mountain, Inc. on behalf of itself, its affiliates and subsidiaries (hereinafter "Company," "we" or “us”) appreciates your patronage. We’ve developed the following privacy policy, which applies to all websites and mobile applications owned and operated by us, which currently include without limitation such sites as keuriggreenmountain.com, keurig.com and greenmountaincoffee.com, and related e-commerce mobile applications (individually and collectively “Site” or “Sites”).
 
 We encourage you to read this Privacy Policy carefully to understand what information we may collect, how we may use or share this information, and what steps you may take to control such use or sharing.  By visiting any of our Sites, you are accepting the practices described in this Privacy Notice.  
 **
