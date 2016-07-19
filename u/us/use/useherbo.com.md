@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the useherbo.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415202533id_/http%3A//www.useherbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useherbo.com privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719191421id_/http%3A//www.useherbo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Herbo
 
