@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockymountainoils.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526201803id_/http%3A//www.rockymountainoils.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainoils.com privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719122644id_/https%3A//www.rockymountainoils.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
