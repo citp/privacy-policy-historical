@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520104531id_/http%3A//www.datascience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datascience.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720081109id_/https%3A//www.datascience.com/privacy) for the most accurate reproduction.*
 
-# DataScience | Privacy and Security
+# DataScience Privacy & Security | Data Science Company
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
