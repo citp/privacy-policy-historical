@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgyo.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627220854id_/http%3A//techgyo.com/index.php/services/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgyo.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720084502id_/http%3A//techgyo.com/services/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechGyo Tech blog
+# Privacy Policy »
 
 [Last Updated on 04-11-2010]
 
@@ -68,11 +68,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://techgyo.com/index.php/terms-of-service>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://techgyo.com/index.php/services/terms-of-service/
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](http://techgyo.com/goto/http://www.freeprivacypolicy.com/).
 
  **Changes to our Privacy Policy**
 
@@ -82,8 +82,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://techgyo.com/index.php/contact-us-2/
-
+http://techgyo.com/index.php/contact-us-2/  
 NO.2 2nd Floor, Ajantha Complex,  
 C.T Street, Marathahally  
 Bangalore -37
@@ -97,7 +96,7 @@ Since we has no access/control over these third party cookies that are used by t
 
 It is your(user’s/reader’s) responsibility to read respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out (avoid) of certain practices and these third party cookies can be blocked by the web browser and it is not mandatory to read free content from TechGyo.com. More detailed information about cookie management with specific web browsers can be found respective support websites of your web browser.
 
-[](http://creativecommons.org/licenses/by-nc-sa/2.5/in/)  
-TechGyo.com by [Sreejesh](http://techgyo.com/) is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 2.5 India License](http://creativecommons.org/licenses/by-nc-sa/2.5/in/).  
+[](http://techgyo.com/goto/http://creativecommons.org/licenses/by-nc-sa/2.5/in/)  
+TechGyo.com by [Sreejesh](http://techgyo.com/) is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 2.5 India License](http://techgyo.com/goto/http://creativecommons.org/licenses/by-nc-sa/2.5/in/).  
 Based on a work at [TechGyo.com](http://techgyo.com/).  
 Permissions beyond the scope of this license may be available at <http://techgyo.com/index.php/contact-us>.
