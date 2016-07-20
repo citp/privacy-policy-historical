@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthmug.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520135207id_/http%3A//www.healthmug.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthmug.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720211255id_/http%3A//www.healthmug.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthmug
 
