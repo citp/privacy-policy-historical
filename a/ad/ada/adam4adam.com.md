@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630180923id_/http%3A//www.adam4adam.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2016-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160721015744id_/https%3A//www.adam4adam.com/pages/privacy) for the most accurate reproduction.*
 
 # Gay Dating & Hookup – Free Online Gay Dating Site – Adam4Adam
 
