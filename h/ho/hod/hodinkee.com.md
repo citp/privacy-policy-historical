@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodinkee.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601062358id_/http%3A//www.hodinkee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodinkee.com privacy policy that was archived on 2016-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160721185517id_/https%3A//www.hodinkee.com/privacy-policy) for the most accurate reproduction.*
 
 # HODINKEE Privacy Policy
 
