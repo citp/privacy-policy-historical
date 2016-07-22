@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelsandchocolate.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408171517id_/http%3A//www.camelsandchocolate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelsandchocolate.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722052459id_/http%3A//www.camelsandchocolate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Camels & Chocolate
 
@@ -35,7 +35,7 @@ Site may collect and use Users personal information for the following purposes:
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-## _Sharing Your Persoanl Information_
+## _Sharing Your Personal Information_
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
