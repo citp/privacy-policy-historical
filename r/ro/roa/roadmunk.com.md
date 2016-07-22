@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223034id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722075423id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
 
 # Roadmunk's Privacy Policy | Create Beautiful Roadmaps Quickly
 
