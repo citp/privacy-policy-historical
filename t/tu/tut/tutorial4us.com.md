@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tutorial4us.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419100446id_/http%3A//www.tutorial4us.com/miscellaneous/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorial4us.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723013923id_/http%3A//www.tutorial4us.com/miscellaneous/privacy-policy) for the most accurate reproduction.*
 
-# Tutorial4us
-
-* * *
+# Tutorial4us Privacy Policy
 
 * * *
 
@@ -32,7 +30,7 @@ Users are free to visit tutorial4us, and navigate all its pages, without any use
 
 We have listed out all the information we collect from you. If you are not comfortable to provide such information then please don't create your registration with us.
 
-For any questions about this privacy statement, please contact at [contact@tutorial4us.com](https://web.archive.org/web/20140419100446id_/http%3A//www.tutorial4us.com/miscellaneous/contact@tutorial4us.com)
+For any questions about this privacy statement, please contact at [contact@tutorial4us.com](https://web.archive.org/web/20160723013923id_/http%3A//www.tutorial4us.com/miscellaneous/contact@tutorial4us.com)
 
 * * *
 
