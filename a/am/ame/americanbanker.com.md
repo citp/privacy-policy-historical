@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622063205id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722215250id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # SourceMedia: Privacy Policy
 
