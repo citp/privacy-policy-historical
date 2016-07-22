@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flingster.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527030949id_/http%3A//www.flingster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flingster.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722022137id_/http%3A//www.flingster.com/privacy) for the most accurate reproduction.*
 
 # Flingster Privacy Policy
 
