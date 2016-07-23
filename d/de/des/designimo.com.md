@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designimo.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406062939id_/http%3A//www.designimo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designimo.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723141726id_/https%3A//www.designimo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
