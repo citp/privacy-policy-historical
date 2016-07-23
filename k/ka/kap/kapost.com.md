@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328080031id_/http%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723031032id_/https%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
 
-# Kapost Privacy Policy
+# privacy policy - Kapost | The B2B Marketing Platform
 
 This Privacy Policy governs the manner in which Kapost collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://kapost.com](http://kapost.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kapost.
 
@@ -31,5 +31,3 @@ Kapost has the discretion to update this privacy policy at any time. When we do,
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: **Kapost** , 1800 Broadway, Suite 180, Boulder, CO 80302. webmaster@kapost.com [http://kapost.com](http://kapost.com/) This document was last updated on August 21, 2012
-
-* * *
