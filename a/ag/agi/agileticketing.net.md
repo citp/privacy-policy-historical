@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agileticketing.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222160030id_/http%3A//www.agiletix.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agileticketing.net privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724091731id_/http%3A//www.agiletix.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
