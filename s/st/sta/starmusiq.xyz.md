@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmusiq.xyz privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518022723id_/http%3A//starmusiq.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmusiq.xyz privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724161639id_/http%3A//starmusiq.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Starmusiq.xyz
 
