@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606090242id_/http%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725003320id_/http%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Christian University | Privacy Policy | GCU
 
@@ -62,10 +62,6 @@ If you do not wish to receive marketing emails from us, submit a request to [gcu
 
 You may also email admissionsonline@gcu.edu, with the subject line "Opt-Out"
 
-## Google Analytics Advertising
-
-GCU has Google Analytics Advertising Features, including Google advertising cookie tracking implemented on gcu.edu. These features allow GCU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these Google Analytics Advertising Features, follow the instructions on this page tools.google.com/dlpage/gaoptout
-
 ## Limitations
 
 GCU, a top online Christian school, may provide links to other websites; and there are websites that may link directly to GCU. GCU does not endorse these third party websites or the content and has no control over their privacy practices.
@@ -74,8 +70,14 @@ This privacy policy only applies to information collected on gcu.edu, grand-cany
 
 We strongly encourage you to review the privacy policy of each website you visit.
 
-## Facebook Tracking
+## Online Advertising
 
-GCU has Facebook tracking features implemented on gcu.edu, including some or all of the following Facebook cookie tracking, Web beacons or similar technologies to collect or receive visitor information. These features provide GCU information to measure services and target advertising.
+GCU uses Online Advertising Features including Google, Bing, and Yahoo advertising and cookie tracking implemented on gcu.edu. GCU also uses some or all of the following Facebook cookie tracking, web beacons or similar technologies to collect or receive visitor information. These features allow GCU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these online advertising features, follow the instructions on the corresponding pages:
 
-If you wish to opt out of these features, visit facebook.com/settings/?tab=ads
+**Google** : tools.google.com/dlpage/gaoptout
+
+**Bing** : https://advertise.bingads.microsoft.com/en-us/optout-optimization
+
+**Yahoo** : https://aim.yahoo.com/aim/us/en/optout/
+
+**Facebook** : facebook.com/settings/?tab=ads
