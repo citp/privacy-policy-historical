@@ -1,85 +1,86 @@
-> *The following text is extracted and transformed from the veri.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023033820id_/http%3A//www.yourmemoir.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veri.com privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724212855id_/http%3A//www.veri.com/privacy) for the most accurate reproduction.*
 
-# Memoir Privacy Policy - 9.17.13
+# Veri Privacy Policy
 
-MEMOIR PRIVACY POLICY
+Last Updated: May 1, 2016
 
-Your privacy is of the greatest importance to us. This privacy policy governs your use of the Memoir site at yourmemoir.com and Memoir’s mobile and desktop applications (“Applications”, “the Service”, “Memoir”) that were created by Veri, Inc. 
+Your privacy is of the greatest importance to us. This privacy policy governs your use of the Veri mobile applications, websites, and any of our other online products and services ("Services”) that are created by Veri, Inc.
 
-This Privacy Policy informs you of policies and practices regarding the information that we collect and use in connection with delivering our Applications, your registration with us, and your use of the Applications.
+This Privacy Policy informs you of policies and practices regarding the information that we collect and use in connection with delivering our Services, your registration with our Services, and your use of the Services.
 
-Our policy applies only to the Applications we provide. It does not apply to other services you use to obtain our Applications, to services of others that you might find by using our Applications, or to other services that may coexist with our Applications or interact with it either on a mobile device or on the Internet (such as Facebook or Foursquare). To learn more about other companies' policies, please consult them.
+We may change this privacy policy from time to time. When we do, we'll let you know here by revising the date at the top of the privacy policy. We may also provide you with additional notice (such as adding a statement to our websites' homepages or sending you an email or notification notification). If you ever have a question about our privacy policy, just email us at [support@veri.com](mailto:support@veri.com).
 
-Information Collection and Use
+## Information We Collect
 
-Account Information
+### What You Directly Provide Us
 
-When you sign up with us, we will collect certain limited information to identify and reach you, such as your name and email address, as well as your chosen password to authenticate your access to our service. We may also collect information about your other accounts, such as your login credentials and other information regarding your accounts on third-party feeds and services (such as Facebook, Instagram and Foursquare) that may interact with our service. We also collect information about your relationships with other users on social media services that interact with our Services.
+For you to create a Veri account and use the service, we may collect a few important details about you: your full name, an email address, a phone number, a payment method (if applicable), and a profile photo. We want you to be in control of your information so you can update or correct your Veri account information by editing your account settings within Veri. Although we would never want you to leave, if for some reason you ever want to delete your account, you can delete your account from the account settings within Veri; but keep in mind that we may retain certain information in backup for a limited period of time or as required by law.
 
-Application Data
+### What You Automatically Provide Us When You Use Our Services
 
-All of the photos and data that you create, edit, share and store is deemed 100% private to you. 
+Because Veri is about sharing photos and videos in real time with people at events, there is some information we collect automatically when you access our Services, which we use to facilitate the broad range of communications offered through our Services, to provide you cool features and functionality, and to enable all the other purposes described in this privacy policy. We explain all this below:
 
-Feeds and Web Services
+  * Usage Information. We collect information about your activity and the photos you send and receive through our Services. For example, we collect information such as the time, date, location, the number of photos you exchange with the event hosts and guests, and your interactions with photos (such as when you open a photo, download a photo, or reply to a photo). 
+  * Content Information. Please check out the "How We Share Information” section in this privacy policy; it gives you more information about the content we collect and how it is shared.
+  * Website Log Information. We collect log file information when you use our websites. That information includes, among other things, your web browser type and language, access times, pages viewed, your IP address, and the website you visited before navigating to our websites.
+  * Device Information. We collect information from and about your devices you use to access the Services. This includes things like the hardware model, operating system and version, and unique device identifiers. We also collect certain device information that will help us diagnose problems in the (hopefully rare) event you experience any crash or other problem while using our Services. So, for example, if we detect a crash or other problematic event, we may collect the list of apps on your device and other information about your device's performance at the time of the event for troubleshooting purposes.
+  * Device Phonebook and Photos. Because Veri is all about sharing photos with people who are attending events with you, we may—with your consent—collect information from your device's phonebook and photos. We do this so that we can connect you to other guests quickly and intuitively, enhance the Services with additional functionality, and for any other purpose described in this privacy policy. You can always revoke your consent to our ongoing ability to collect information from your device's phonebook and photos by changing the settings on your device if your device offers that option, or by simply deleting Veri from your device (though we hope you'll never do that).
+  * Location Information. With your consent, we utilize your device location so that you can share your photos in real time and see a map of your locations during the event (that only you can see). We do not store your location on our servers. As with your phonebook and photos, you can always revoke your consent by changing the settings or preferences on your device. If you do so, certain features of the Services will no longer function. And, of course, you can revoke your consent by deleting Veri from your device.
+  * Information Collected by Cookies and Other Tracking Technologies. Like most online services, we use cookies, web beacons, and other technologies. Cookies are small data files stored on your hard drive or in device memory that store information about your use of the Services, which can, among other things, help us see which areas and features of the Services are popular and let us count visits. Web beacons are small pieces of software on a webpage or email that help us see how you interact with that webpage or email. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our Services. To learn more about how third parties use such technologies on our Services, be sure to read the "Analytics and Advertising Services Provided by Others” section of our privacy policy.
 
-As a user of the service, you will have the option of granting us access to your accounts with certain third-party feeds and services. By granting us access to your accounts with third-party feeds and services, you understand that we will access and collect content from these third-party services. This information may include your name, the names of those you interact with, your username, the usernames of those you interact with, your location (past and present), media (such as photos and videos) and the times and dates the data was originally published, as well as any other information you have shared on these services. Select information that you post to your third-party feeds and services will be viewable via the Services. All content that is collected from these third-party feeds and services is deemed 100% private to you. 
 
-Location
 
-As a user of the mobile application, we may access your location information (GPS coordinates) to determine your current location in order to allow proper tagging of your memories, allow you to check into a list of nearby locations, allow you to request photos from friends who are in the same geo-location range as you, and allow your friends to know when you have photos with them from the same geo-location range.  We will not share your current location with any partners, third parties, or users who are not your friends on Facebook, Foursquare, or in your address book on your mobile phone. 
+### Information We Collect From Other Sources
 
-You will be asked to provide the App with permission to access this feature the first time you choose to use it. If you do not want us use your location for the purposes set forth above, you should turn off the location services for the mobile application in your mobile phone settings. 
+If another user allows us to collect information from his or her device phonebook—and you're one of that user's contacts—we may combine the information we collect from that user's phonebook with other information we have collected about you. We may also obtain information from other sources and combine that with the information we collect through Veri.
 
-Photos
+### Information We Collect When You Contact Us
 
-We analyze and collect information about your photos and associated metadata, including captions and ratings, date, time and location information, and the camera settings or the name of the hard drive they were stored on. This metadata is collected anonymously and we may use the information gathered to provide all of our users with a better experience. We will never look at the underlying private photos in your account unless we have received your consent to do so. 
+Whenever you have a question for us, please feel free to reach out at anytime by emailing [support@veri.com](mailto:support@veri.com). Of course, when you contact the Support team or communicate with us in any other way, we'll collect whatever information you volunteer. For instance, if you submit artwork, files, or any other materials to us through our websites, we will collect what you give us.
 
-Protection of User Information and Associated Metadata
+### How We Use Information
 
-Except as otherwise provided below, your data and associated metadata are deemed private to you, and is not made available to other users or to visitors of the service. 
+With the information we collect, we do our best to constantly provide you with awesome Services and to continuously improve them, as well as the following: 
 
-You may choose to make available your data, associated metadata, or other personally-identifying information, to other users of the service, and in such case, we may share such information as authorized by you through the service. 
+  * Provide and deliver the products, services, and functionality that you request, process transactions, and send you related information;
+  * Communicate with you. That means just what it says; we may send you marketing communications on behalf of us or other companies; respond to your comments and questions; provide customer service; and send you technical notices, security alerts, and other informational messages;
+  * Monitor and analyze trends and usage;
+  * Develop, improve, and refine products, services, and functionality;
+  * Personalize the Services by providing content, or features that match user profiles or interests.
+  * Verify your identity and prevent fraud or other unauthorized or illegal activity; and
+  * Carry out any other purpose for which the information was collected.
 
-You may also choose to make available such information by sending it via email to other users and/or individuals not using the App or service. In such case, we may so share the information, and the subsequent use of such information will be subject to the terms of such third party services, as applicable. 
 
-Protection of Other Personally Identifying Information
 
-We may disclose your information to our employees and contractors only for the purpose of administering and providing our technology and service. Our employees and contractors have agreed to not disclose your information to others. 
+### Where Information Is Processed
 
-In order to keep our service stable and running securely, we may engage a number of highly trusted third parties, including storage providers and analytics providers. When necessary, we may share your information with these parties in order to deliver the best experience possible. When it comes to third party providers, we will always do what’s best to maintain your privacy and security. As such, your personally identifying information—including your name and email address—will never be sold to third parties. 
+Veri is based in the United States. Although we welcome people from all over the world, keep in mind that no matter where you live or where you happen to use our Services, you consent to the processing and transfer of information in and to the U.S. and other countries. We want you to know this because the laws of the United States and those of other countries where your information is processed might not be as comprehensive or protective as laws in the country where you live. And while you're in another country, know that your information may be made available to government or law enforcement requests.
 
-We may reveal information to satisfy or comply with any law, regulation or legal process or to respond to lawful requests, including subpoenas, litigation discovery requests, warrants or court orders; to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and to prevent or stop activity we consider to be illegal or unethical.
+### How We Share Information
 
-The Security of Your Information
+Here's the type of information we may share about you with others and how we do so:
+
+  * When you create or join an event on Veri, other guests at the event will see your full name and profile photo. 
+  * When you share content on Veri (e.g., a photo or video), other guests at the event will see whatever your content says or shows. You may also delete any piece of content that you have shared at any time. You will only be able to see content from other guests at the event to which you have access. 
+  * When you let us access your device phonebook, we may share information about you with other users who have your phone number in their device phonebook. For instance, when you use invite other users, we may share your username and name with other users who have your phone number in their device phonebook. In these cases, we will not display your phone number to these users, but we will share the fact that you 
+  * When other users view your profile, they will be able to view profile information, including your name and profile photo. 
+  * We may share information about you with service providers who perform services on our behalf.
+  * With respect to jointly offered Services or functionality or services offered separately by other companies through our Services, we may share information about you with business partners to provide the Services and functionality you request and to communicate with you about those Services;
+  * We may share information about you in response to legal process or a request for information if we believe disclosure is consistent with, or required by, any applicable law, rule, or regulation; to investigate or remedy potential violations of our user agreements or policies, or to protect the rights, property, and safety of us, our users, or others; or in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+  * We may share information about you with your consent or at your direction, or as otherwise provided in this privacy policy.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you, to help us improve our Services. 
+
+### Content Deletion
+
+The content (e.g., photos and videos) that you share are controlled by you - that is, you can determine what event to join, what you share, and for how long. But—and this is important—you should understand that the other guests at an event you have chosen to join can see your content and thus, can always save them, either by taking a screenshot or by downloading the photos from Veri. So please exercise common sense that you exercise across the Internet: Don't share content that you wouldn't want someone else to save or share. 
+
+### Analytics and Services Provided by Others
+
+We may let other companies use cookies, web beacons, and other technologies on Veri. These companies may collect information about how you use the Services and other websites and online services over time and across different services. The information collected may include unique device identifiers, device manufacturer and operating system, IP address, browser type, pages viewed, session start/stop time, links clicked, and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity. 
+
+### The Security of Your Information
 
 We take all reasonable measures possible to protect the information that we collect from or about you from unauthorized access, use or disclosure. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
-
-Aggregated Data and Statistics
-
-We may collect data, analytics, and statistics about the behavior of users using trusted third party partners. Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Applications and our Services.
-
-Opt Out
-
-You can stop all collection of information by the Applications easily by uninstalling the Applications. You may use the standard uninstall processes as may be available as part of your mobile phone or desktop machine. You can also request to opt-out via email, at [support@yourmemoir.com](mailto:support@yourmemoir.com). 
-
-Links to Other Sites
-
-Our service may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our privacy policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
-
-Our Communications With You
-
-If you created an account or supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our service. We would however keep this type of emails to a minimum. 
-
-Our Policy Toward Children
-
-Our service is not directed to children under 13 and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible, which may require terminating an account. 
-
-Changes to this Privacy Policy
-
-We reserve the right, at any time, modify and revise this policy so please review it frequently. If we make any material changes to this policy, then we will notify you here, as well as by posting a notice on our website or by sending you an email or other notification. We will indicate when such changes will become effective. 
-
-Questions?
-
-Please contact us at [support@yourmemoir.com](mailto:support@yourmemoir.com) if you have any questions about our privacy policy. 
-
-Last updated: September 17th, 2013 
