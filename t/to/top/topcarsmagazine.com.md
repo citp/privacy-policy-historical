@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcarsmagazine.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520063300id_/http%3A//topcarsmagazine.com/privacy-policy-topcarsmagazine-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcarsmagazine.com privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724235807id_/http%3A//topcarsmagazine.com/privacy-policy-topcarsmagazine-com) for the most accurate reproduction.*
 
 # Privacy Policy TopCarsMagazine.com – TopCarsMag
 
