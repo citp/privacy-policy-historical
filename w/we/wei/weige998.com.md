@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weige998.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526061354id_/https%3A//www.weige998.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weige998.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725180218id_/http%3A//www.weige998.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral Sites - Your Virals On The Web | Viral Sites – Your Virals On The Web
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20160526061354id_/https%3A//www.weige998.com/contact-us) by email at [Privacy](mailto:admin@weige998.com).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20160725180218id_/http%3A//www.weige998.com/contact-us) by email at [Privacy](mailto:admin@weige998.com).
 
 At www.weige998.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.weige998.com and how we use it.
 
@@ -41,7 +41,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](https://www.privacypolicyonline.com/privacy-policies).  
 You may consult this listing to find the privacy policy for each of the advertising partners of www.weige998.com._
 
-These third-party ad servers or ad networks use [technology](https://web.archive.org/web/20160526061354id_/https%3A//www.weige998.com/category/papers/technology) in their respective advertisements and links that appear on www.weige998.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.weige998.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
 www.weige998.com has no access to or control over these cookies that are used by third-party advertisers.
 
