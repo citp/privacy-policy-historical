@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsearch123.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620111916id_/http%3A//www.newsearch123.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsearch123.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725123827id_/http%3A//newsearch123.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
