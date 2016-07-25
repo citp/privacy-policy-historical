@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freenomads.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524033005id_/http%3A//www.freenomads.com/nomadToolkit/home/privacyPolicy.seam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenomads.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725192354id_/http%3A//www.freenomads.com/nomadToolkit/home/privacyPolicy.seam) for the most accurate reproduction.*
 
 # Privacy policy
 
