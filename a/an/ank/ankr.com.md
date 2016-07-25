@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ankr.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524212607id_/http%3A//www.ankr.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ankr.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725095858id_/https%3A//ankr.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – ANKR
 
@@ -126,7 +126,7 @@ Our Services integrate social plugins, widgets and other features from third par
 
   * Twitter Tweet-Button, social widgets and other features allowing interaction with the Twitter social network as provided by Twitter, Inc.; further information on Twitter's privacy practices can be found under <https://twitter.com/privacy>.
 
-  * Facebook Like-Button, social widgets and other features allowing interaction with the Facebook social network as provided by Facebook. Inc.; further information on Facebook's privacy practices can be found under[https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy).
+  * Facebook Like-Button, social widgets and other features allowing interaction with the Facebook social network as provided by Facebook. Inc.; further information on Facebook's privacy practices can be found under [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy).
 
 
 
