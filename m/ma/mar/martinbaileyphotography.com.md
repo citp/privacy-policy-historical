@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526192111id_/http%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinbaileyphotography.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726161631id_/https%3A//www.martinbaileyphotography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Martin Bailey Photography
 
