@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devour.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624140308id_/http%3A//devour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devour.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726125446id_/http%3A//devour.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Devour
 
