@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superservice.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423061730id_/http%3A//www.superservice.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superservice.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726020305id_/http%3A//www.superservice.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Superservice™ - Privacy Policy
 
