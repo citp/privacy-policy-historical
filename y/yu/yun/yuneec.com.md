@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620195625id_/http%3A//www.yuneec.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726153153id_/http%3A//www.yuneec.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yuneec - Electric Aviation
 
