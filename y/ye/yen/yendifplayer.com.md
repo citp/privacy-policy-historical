@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yendifplayer.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625093715id_/http%3A//yendifplayer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yendifplayer.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726194500id_/http%3A//yendifplayer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Yendif Player - Privacy Policy
 
