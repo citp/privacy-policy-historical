@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407132510id_/http%3A//www.webfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726123706id_/http%3A//www.webfx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for eCommerce Company - WebFX
 
