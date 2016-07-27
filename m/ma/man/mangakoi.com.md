@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangakoi.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626085102id_/http%3A//www.mangakoi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangakoi.com privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727102711id_/http%3A//www.mangakoi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Manga Koi
 
