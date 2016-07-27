@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326085415id_/http%3A//www.alm.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727020638id_/http%3A//www.alm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - ALM
 
