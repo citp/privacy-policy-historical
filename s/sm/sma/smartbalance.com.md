@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630064237id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728034050id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Balance
 
