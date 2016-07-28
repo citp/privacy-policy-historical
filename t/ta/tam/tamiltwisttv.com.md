@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612115225id_/http%3A//www.tamiltwisttv.com/2013/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728022356id_/http%3A//www.tamiltwisthd.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
