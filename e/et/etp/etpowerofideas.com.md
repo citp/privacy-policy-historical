@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etpowerofideas.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116220525id_/http%3A//www.etpowerofideas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etpowerofideas.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728224722id_/http%3A//www.etpowerofideas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
