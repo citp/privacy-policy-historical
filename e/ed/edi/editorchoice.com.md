@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editorchoice.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327141202id_/http%3A//www.editorchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorchoice.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728141327id_/http%3A//www.editorchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EditorChoice.com
 
