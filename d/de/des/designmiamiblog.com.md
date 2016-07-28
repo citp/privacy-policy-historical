@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmiamiblog.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528134105id_/http%3A//www.designmiamiblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmiamiblog.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728172730id_/http%3A//www.designmiamiblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
