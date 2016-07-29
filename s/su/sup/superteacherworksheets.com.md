@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417082044id_/https%3A//www.superteacherworksheets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729213047id_/https%3A//www.superteacherworksheets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
