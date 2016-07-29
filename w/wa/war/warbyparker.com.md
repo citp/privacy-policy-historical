@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323204711id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729212240id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
