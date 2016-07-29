@@ -1,75 +1,61 @@
-> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629115903id_/http%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729223521id_/https%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
 
-# Privacy | The/Studio - Custom Patches Made To Order
+# Privacy - The/Studio
 
-**Privacy Policy**
+## Privacy Policy
 
-**What information does The/Studio collect?**
+The/Studio is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-The/Studio collects information from you when you register on our site, place an order or fill out a form.
+The/Studio may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2016.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address or phone number. You may, however, visit our site anonymously.
+### What we collect :
 
-**What does The/Studio use your information for?**
+We may collect the following information:
 
-Any of the information The/Studio collect from you may be used in one of the following ways:
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-1.  To improve customer service
 
-Your information helps us to more effectively respond to your customer service requests and support your needs
 
-2.  To process transactions
+### What we do with the information we gather:
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to another company for any reason whatsoever. Requested information is for the express purpose of delivering the purchased product or service requested.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**How does The/Studio protect your information?**
+  * internal record keeping
+  * improving our products and services.
+  * periodically sending promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
 
-The/Studio implements a variety of security measures to maintain the safety of your personal information when you place an order, or enter, submit, or access your personal information.
 
-The/Studio utilizes a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, financials, etc.) will not be kept on file for more than 60 days.
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.  
+Security
 
-**Does The/Studio use cookies?**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Yes.  Cookies are small files that a site, or its service provider, transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+### How we use cookies
 
-The/Studio use cookies to keep track of advertisements.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Does The/Studio disclose any information to outside parties?**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-The/Studio does not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does include trusted third parties who assist us in operating our website, conduct our business, or service you.  So long as those parties agree to keep this information confidential. The/Studio may also release your information when The/Studio believes the release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may not be provided to other parties for marketing, advertising, or other uses.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-**Nevada Online Privacy Protection Act Compliance**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-As The/Studio values your privacy, The/Studio has taken the necessary precautions to be in compliance with the Nevada Online Privacy Protection Act. The/Studio therefore will not distribute your personal information to outside parties without your consent.
+### Links to other websites
 
-**Children’s Online Privacy Protection Act Compliance**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-The/Studio is in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), The/Studio does not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### Controlling your personal information
 
-**Online Privacy Policy Only**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@thestudio.com](mailto:support@thestudio.com)  
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Your Consent**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you’d like a copy of the personal information we use to better serve you, please write to 769 Basque Way, Ste. 300, Carson City, Nevada 89706, USA.
 
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If The/Studio decides to change our privacy policy, The/Studio will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or if you would like to unsubscribe, you may contact us using the information below.
-
-<http://www.thestudio.com/>
-
-769 Basque Way, Ste. 300
-
-Carson City, Nevada 89706
-
-United States of America
-
-1-877-647-6447
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
