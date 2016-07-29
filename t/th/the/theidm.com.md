@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327073249id_/https%3A//www.theidm.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729193908id_/https%3A//www.theidm.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
