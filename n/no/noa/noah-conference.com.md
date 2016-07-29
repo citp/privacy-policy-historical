@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527075137id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730011830id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noah Conference
 
