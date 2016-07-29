@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmenproject.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401220512id_/http%3A//goodmenproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmenproject.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729165308id_/http%3A//goodmenproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Good Men Project
 
