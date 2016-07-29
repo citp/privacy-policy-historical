@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myedu.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406103026id_/https%3A//www.myedu.com/about/myedu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myedu.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729183548id_/https%3A//www.myedu.com/about/myedu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyEdu
 
