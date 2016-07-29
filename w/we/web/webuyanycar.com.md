@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715044612id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729190150id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - webuyanycar.com
 
