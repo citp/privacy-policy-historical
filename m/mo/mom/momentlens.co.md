@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060321id_/http%3A//momentlens.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentlens.co privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729041716id_/https%3A//momentlens.co/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Moment
+# Moment - Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or subscribe to our newsletter.
@@ -70,10 +70,9 @@ This policy was last modified on June 5th, 2014
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Moment, Inc  
-425 Westlake Ave N  
-Seattle, WA 98109  
+55 S Atlantic St  
+Seattle, WA 98134  
 United States
 
-hello@momentlens.co
-
-http://momentlens.co
+[hello@momentlens.co](mailto:hello@momentlens.co)  
+[http://momentlens.co](http://momentlens.co/)
