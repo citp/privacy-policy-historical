@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashburger.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402170001id_/http%3A//smashburger.com/wp-content/uploads/2015/05/05.01.15-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashburger.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729050800id_/http%3A//smashburger.com/wp-content/uploads/2015/05/05.01.15-privacy-policy.pdf) for the most accurate reproduction.*
 
 # •
 
