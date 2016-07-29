@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322195131id_/http%3A//conquer.tech/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729164454id_/http%3A//conquer.tech/privacy) for the most accurate reproduction.*
 
 # Privacy - Conquer Technology
 
