@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropjiffy.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708103222id_/https%3A//www.dropjiffy.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropjiffy.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729232732id_/https%3A//www.dropjiffy.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dropjiffy - Secure and Private File Transfer
 
@@ -6,7 +6,7 @@ Privacy of our visitors is very important to us. We do not ask you for personal 
 
 Data privacy is an important integral part of our service. Dropjiffy provides its users with an infrastructure, which enables the user to temporarily save electronic files on internet servers. The files saved with Dropjiffy are treated confidentially. Dropjiffy does not provide any search function, with which Dropjiffy's infrastructure can be searched. Dropjiffy does not scan or open the files of its users. Nobody can access your files without knowledge of the complete download link.
 
-All files uploaded by users are stored on one of our servers and are permanently deleted in no more than 30 hours since its upload. Please note that access to the download links will be disabled after 24 hours of upload, but we may have to store the files for a few more hours in order to allow completion of download if someone initiated it just before the file expiry time.
+All files uploaded by users are stored on one of our servers and are permanently deleted in no more than 31 days since its upload. Please note that access to the download links will be disabled after 30 days of upload.
 
 Like many other Web sites, Dropjiffy.com makes use of log files. We automatically receive certain types of information when you interact with our Web pages, services and communications. This information includes your computer or digital device's IP address, access times, your browser type and language, type of operating system you use, your account activity and accessed pages. These information are logged and used by Dropjiffy.com for measuring usage. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
