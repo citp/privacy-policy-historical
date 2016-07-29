@@ -1,19 +1,24 @@
-<!--The following is the downloaded HTML source of the teachstarter.com privacy policy that was archived on 2016-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160322101706id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachstarter.com privacy policy that was archived on 2016-07-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160729191521id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/60728/dJE.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=391151644307223"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEPWVNRGwAEXVVTBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html lang="en-us"><head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" media="all"><link rel="stylesheet" href="//www.teachstarter.com/wp-content/themes/teachstarter_2015/A.style.css.pagespeed.cf.dT_eygASpX.css" type="text/css" media="all"><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css" media="all"><link rel="stylesheet" href="//www.teachstarter.com/wp-content/plugins/swiftype-search/assets/A.autocomplete.css.pagespeed.cf.R7ZwFxjbt6.css" type="text/css" media="all"><style>.avatar-preview-holder{width:100%;position:relative;display:block}.avatar-preview-holder img{position:absolute;width:100%;top:0;left:0;border-radius:4px}.avatar-preview-holder img.positioner{position:static;visibility:hidden}.avatar-preview-holder label,.avatar-preview-holder label input{display:none}.avatar-preview-holder label.active{display:inline-block}.avatar-variations .btn-group{margin-bottom:4px}.avatar-variations .btn-title{width:100%}.radio-swatches{margin-bottom:15px}.radio-swatches input{display:none}.radio-swatches .btn{padding:11px;display:block;float:left;margin:0 4px 5px 0;border:3px solid #fff}.radio-swatches .btn.active{border:3px solid #5bc0de;padding:11px}.avatar .btn-delete{visibility:hidden;margin-top:-10px}.avatar:hover .btn-delete{visibility:visible}.avatar-options-holder{display:block;position:absolute;background:#fff;border-radius:4px;padding:5px;box-shadow:0 0 2px #999;width:270px;max-height:330px;overflow-y:scroll;z-index:20}.option-item{width:80px;height:116px;padding:4px;float:left;cursor:pointer;position:relative}.option-item.active{border:3px solid #5bc0de;padding:1px}.option-item input{display:none}.option-item img{width:100%;position:absolute}.show-elements{margin-bottom:5px}@media (max-width:768px){.avatar-options-holder{right:0}}</style><style>.login-signup-modal .modal-lg{max-width:900px;width:100%}.border-left-sm{border-left:1px solid #ddd}@media (max-width:768px){.border-left-sm{border-left:none}}</style><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script src="https://api.autopilothq.com/anywhere/aa/3db0d373d7914ba09a42faeb4abdece0a0bfee1cf3dc45cd95659a15b51ff1d8?devmode=true&amp;t=Teach%20Starter%20Privacy%20Policy&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160729191521id_%2Fhttps%3A%2F%2Fwww.teachstarter.com%2Fabout%2Fprivacy-policy%2F&amp;r=" type="text/javascript"></script><script src="https://api.autopilothq.com/anywhere/3db0d373d7914ba09a42faeb4abdece0a0bfee1cf3dc45cd95659a15b51ff1d8?devmode=true&amp;t=Teach%20Starter%20Privacy%20Policy&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160729191521id_%2Fhttps%3A%2F%2Fwww.teachstarter.com%2Fabout%2Fprivacy-policy%2F&amp;r=" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Rb1BImPavRqKHxK3pnj230kqiTWrCqSh/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Teach Starter Privacy Policy</title>
-<link rel="stylesheet" href="//www.teachstarter.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3.6" type="text/css" media="all">
 <link rel="Teach Starter shortcut icon" href="//www.teachstarter.com/wp-content/themes/teachstarter_2015/favicon.ico">
 <meta name="msvalidate.01" content="A58332AE2649AC6F2B83EF512D33C176">
-<link rel="author" href="//plus.google.com/+ScottTonges/">
+<meta name="google-site-verification" content="WsxQUL3UmYon9tVwVOhQ19TRX_y4Jqr8NrGgZe2n3hk">
 <link rel="publisher" href="//plus.google.com/+Teachstarter/">
-<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/ezr6lbj.js"></script>
-<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script type="text/javascript"> if (!window.console) console = {log: function() {}}; </script>
- 
+<meta property="fb:pages" content="265997220134314">
+<script type="text/javascript">if(!window.console)console={log:function(){}};</script>
+<!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";analytics.load("Rb1BImPavRqKHxK3pnj230kqiTWrCqSh");analytics.page()}}();</script>
+<script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="3db0d373d7914ba09a42faeb4abdece0a0bfee1cf3dc45cd95659a15b51ff1d8",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot)window.Autopilot=a;if(o.app)p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};if(!o.noaa){z(b+"aa/"+t+'?'+p,false)};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({"app":true});</script>
+<link rel="alternate" hreflang="en-AU" href="//www.teachstarter.com/about/privacy-policy/">
 <meta name="description" content="1. Privacy Policy Teach Starter Pty Ltd ACN 163 164 869 (Teach Starter) takes all reasonable steps to implement processes and procedures to safeguard Perso">
 <meta name="robots" content="noodp">
 <link rel="canonical" href="//www.teachstarter.com/about/privacy-policy/">
@@ -23,31 +28,13 @@
 <meta property="og:description" content="1. Privacy Policy Teach Starter Pty Ltd ACN 163 164 869 (Teach Starter) takes all reasonable steps to implement processes and procedures to safeguard Perso">
 <meta property="og:url" content="https://www.teachstarter.com/about/privacy-policy/">
 <meta property="og:site_name" content="Teach Starter">
- 
 <link rel="alternate" type="application/rss+xml" title="Teach Starter » Privacy Policy Comments Feed" href="//www.teachstarter.com/about/privacy-policy/feed/">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.teachstarter.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.teachstarter.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="bootstrap.min.css-css" href="//www.teachstarter.com/wp-content/themes/teachstarter_2015/css/bootstrap.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="style.css-css" href="//www.teachstarter.com/wp-content/themes/teachstarter_2015/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome.min.css-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="swiftype-css" href="//www.teachstarter.com/wp-content/plugins/swiftype-search/assets/autocomplete.css" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var swiftypeParams = {"engineKey":"VeMZ_zc7VaNm-we_GhPc"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.teachstarter.com/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js"></script>
-<link rel="https://api.w.org/" href="//www.teachstarter.com/wp-json/">
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.teachstarter.com\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="https://www.teachstarter.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.teachstarter.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.teachstarter.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.4.2">
+<meta name="generator" content="WordPress 4.5.3">
 <link rel="shortlink" href="//www.teachstarter.com/?p=299">
-<link rel="alternate" type="application/json+oembed" href="//www.teachstarter.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teachstarter.com%2Fabout%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="//www.teachstarter.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teachstarter.com%2Fabout%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="generator" content="WPML ver:3.3.6 stt:1,68,66;">
+<meta name="generator" content="WPML ver:3.4.1 stt:1,68,66;">
 <!--[if lte IE 8]>
 <script type="text/javascript">window.location = "https://teachstarter.zendesk.com/hc/en-us/articles/201638005-Web-Browser-Support";</script>
 <![endif]-->
@@ -57,117 +44,50 @@ var swiftypeParams = {"engineKey":"VeMZ_zc7VaNm-we_GhPc"};
 <!--[if lte IE 6]>
 <script type="text/javascript">window.location = "https://teachstarter.zendesk.com/hc/en-us/articles/201638005-Web-Browser-Support";</script>
 <![endif]-->
-<script type="text/javascript">
-var ajaxurl = '//www.teachstarter.com/wp-admin/admin-ajax.php';
-</script>
-<script type="text/javascript">
-var swiftypeConfig = {
-  disableAutocomplete: true
-};
-</script>
-<link rel="icon" href="//www.teachstarter.com/wp-content/uploads/2015/10/cropped-TS_icon_1024-32x32.png" sizes="32x32">
-<link rel="icon" href="//www.teachstarter.com/wp-content/uploads/2015/10/cropped-TS_icon_1024-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="//www.teachstarter.com/wp-content/uploads/2015/10/cropped-TS_icon_1024-180x180.png">
+<script type="text/javascript">var ajaxurl='//www.teachstarter.com/wp-admin/admin-ajax.php';</script>
+<script type="text/javascript">var swiftypeConfig={disableAutocomplete:true};</script>
+<link rel="icon" href="//www.teachstarter.com/wp-content/uploads/2015/10/xcropped-TS_icon_1024-32x32.png.pagespeed.ic.5Hm040_CTp.png" sizes="32x32">
+<link rel="icon" href="//www.teachstarter.com/wp-content/uploads/2015/10/xcropped-TS_icon_1024-192x192.png.pagespeed.ic.ysyBYtEH7V.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="//www.teachstarter.com/wp-content/uploads/2015/10/xcropped-TS_icon_1024-180x180.png.pagespeed.ic.lk5S-1Wy_Y.png">
 <meta name="msapplication-TileImage" content="https://www.teachstarter.com/wp-content/uploads/2015/10/cropped-TS_icon_1024-270x270.png">
- 
-<!--[if lt IE 9]>
-  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
- 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-28537369-1', { 'userId': '0' });	
-  //ga('create', 'UA-28537369-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
- 
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '615666638551985');
-fbq('track', "PageView");
-fbq('trackCustom', 'UserDetails', {
-    role: 'guest',
-				});
-
-</script>
-<noscript><img height="1" width="1" style="display:none" src="//www.facebook.com/tr?id=615666638551985&ev=PageView&noscript=1"/></noscript>
- 
- 
- 
-<!--[if lt IE 9]>
-  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
- 
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","teachstarter.zendesk.com");/*]]>*/
-</script>
- 
+<script src="//use.typekit.net/ezr6lbj.js"></script>
+<script>try{Typekit.load({async:true});}catch(e){}</script>
 </head>
-<body class="page page-id-299 page-child parent-pageid-121 page-template-default geoip-country-US geoip-continent-NA">
- 
-<script async="async" type="text/javascript">
-  var _kiq = _kiq || [];
-  (function(){
-    setTimeout(function(){
-    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
-    s.async = true; s.src = '//s3.amazonaws.com/ki.js/60728/dJE.js'; f.parentNode.insertBefore(s, f);
-    }, 1);
-  })();
-</script>
-<script type="text/javascript" charset="utf-8">
-// Qualaroo ID
-_kiq.push(['identify', '0']);
-_kiq.push(['set', {'user_type': '', 'user_country': ''}]);
-
-</script>
- 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=391151644307223";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div id="alert-popup">
+<body class="page page-id-299 page-child parent-pageid-121 page-template-default no-touch">
+<div id="alert-popup" class="hidden-xs hidden-sm">
 <ul id="alert-popup-list">
 </ul>
 </div>
 <div id="print-footer" class="pdf-only">
 <p>Privacy Policy</p>
-<a id="print-logo" href="https://www.teachstarter.com/?ref=print"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/logo.jpg"></a>
+<a id="print-logo" href="https://www.teachstarter.com?ref=print"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/xlogo.jpg.pagespeed.ic.0s_nsgjwi4.jpg"></a>
 </div>
-<div class="mainmenu navmenu navmenu-default navmenu-fixed-left print-none">
-<div style="display:block;padding:10px;">
+<div class="mainmenu navmenu navmenu-inverse navmenu-fixed-left print-none">
+<div class="mobile-nav">
+<div style="display:block;padding:10px; margin-top:20px;">
 <a href="https://www.teachstarter.com/register/" class="btn btn-lg btn-info btn-block">Sign up!</a>
 </div>
 <ul class="nav navmenu-nav navmenu-nav-lg">
-<li class=""><a href="https://www.teachstarter.com/">Home</a></li>
-<li class=""><a href="https://www.teachstarter.com/resource-availability/free">Free Resources</a></li>
-<li class=""><a href="https://www.teachstarter.com/us/resources/">Popular Resources</a></li>
-<li class=""><a href="https://www.teachstarter.com/teaching-resources/">All Resources</a></li>
-<li class=""><a href="https://www.teachstarter.com/sitemap">Categories</a></li>
-<li class=""><a href="https://www.teachstarter.com/request-a-resource/">Request a resource</a></li>
+<li><a href="https://www.teachstarter.com/login/?redirect_to=https://www.teachstarter.com/about/privacy-policy/"><span class="fa fa-sign-in margin-right"></span> Log In</a></li>
+<hr>
+<li class=""><a href="https://www.teachstarter.com"><span class="fa fa-home margin-right"></span> Home</a></li>
+<li class=""><a href="https://www.teachstarter.com/resource-availability/free/"><span class="fa fa-certificate margin-right green"></span> Free Resources</a></li>
+<li class=""><a href="https://www.teachstarter.com/resources/"><span class="fa fa-line-chart margin-right red"></span> Popular</a></li>
+<li class=""><a href="https://www.teachstarter.com/teaching-resources/"><span class="fa fa-th margin-right orange"></span> All Resources</a></li>
+<li class=""><a href="https://www.teachstarter.com/sitemap/"><span class="fa fa-th-list margin-right blue"></span> Categories</a></li>
+<li class=""><a href="https://www.teachstarter.com/request-a-resource/"><span class="fa fa-heart margin-right pink"></span> Request a Resource</a></li>
 </ul>
 <ul class="nav navmenu-nav">
-<li><a href="https://www.teachstarter.com/blog">Read our Blog</a></li>
+<li><a href="https://www.teachstarter.com/blog/">Read our Blog</a></li>
 <li><a href="https://www.teachstarter.com/about/contact/">Contact Us</a></li>
-<li><a href="https://www.teachstarter.com/login/">Log In</a></li>
+<li><a href="https://www.teachstarter.com/login/?redirect_to=https://www.teachstarter.com/about/privacy-policy/">Log In</a></li>
 <li><a href="https://www.teachstarter.com/register/">Sign up!</a></li>
 </ul>
+<div style="display:block; height:200px;"></div>
+</div>
 </div>
 <div class="searchmenu navmenu navmenu-default navmenu-fixed-right print-none">
+<div class="mobile-nav">
 <form method="get" role="search" action="//www.teachstarter.com/search/">
 <div class="search">
 <div class="input-group input-group-lg">
@@ -179,21 +99,22 @@ _kiq.push(['set', {'user_type': '', 'user_country': ''}]);
 </div>
 </form>
 <div id="offcanvas-search-results" class="hidden-lg print-none">
-<p style="margin:30px; color:#bbb; font-size:14px; text-align:center;">Instantly search over 20,000 pages of premium teaching resources.</p>
+<p style="margin:30px; color:#bbb; font-size:14px; text-align:center;">Instantly search over 51,000+ pages of premium teaching resources.</p>
+</div>
 </div>
 </div>
 <div id="holder" class="canvas">
 <div class="navbar navbar-default navbar-fixed-top">
 <div class="navbar-header">
-<button type="button" class="navbar-toggle pull-left visible-xs" data-toggle="offcanvas" data-recalc="false" data-target=".mainmenu" data-canvas=".canvas">
+<button type="button" class="navbar-toggle pull-left visible-xs" data-toggle="offcanvas" data-recalc="false" data-target=".mainmenu" data-canvas="body">
 <i class="fa fa-bars"></i>
 </button>
-<button type="button" class="navbar-toggle pull-right visible-xs" data-toggle="offcanvas" data-recalc="false" data-target=".searchmenu" data-canvas=".canvas">
+<button type="button" class="navbar-toggle pull-right visible-xs" data-toggle="offcanvas" data-recalc="false" data-target=".searchmenu" data-canvas="body">
 <span class="glyphicon glyphicon-search" style="top:3px;"></span>
 </button>
-<a class="navbar-brand" href="https://www.teachstarter.com/?ref=logo"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/logo.jpg"></a>
+<a class="navbar-brand" href="https://www.teachstarter.com?ref=logo"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/xts_logo_full.png.pagespeed.ic.3QmCXVgfa9.png"></a>
 <a class="country-flag hidden-xs hidden-sm" href="https://www.teachstarter.com/member/account/settings/">
-<img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/icons/us.gif" title="Language: American English (en-US)" alt="Language: American English (en-US)">
+<img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/icons/flags/us.gif.pagespeed.ce.Sgzc51btdx.gif" title="Teach Starter United States" alt="Teach Starter United States">
 </a>
 </div>
 <div class="collapse navbar-collapse hidden-xs hidden-sm">
@@ -208,9 +129,9 @@ _kiq.push(['set', {'user_type': '', 'user_country': ''}]);
 </div>
 </form>
 <ul class="nav navbar-nav navbar-right">
-<li class="hidden-xs"><a href="https://www.teachstarter.com/?ref=icon" class="smaller icon"><span class="glyphicon glyphicon-home"></span><span id="resource-alert" class="badge" style="position:relative; margin-left:-2px; top:-10px; background:#d60f22; font-size:10px; display:none;" title="New Resources!"></span></a></li>
-<li class="hidden-sm"><a href="https://www.teachstarter.com/us/resources">Resources</a></li>
-<li class="dropdown hidden-xs hidden-sm hidden-md-lg">
+<li class="hidden-xs" data-toggle="tooltip" data-placement="bottom" title="Home"><a href="https://www.teachstarter.com?ref=icon" class="smaller icon"><span class="glyphicon glyphicon-home"></span><span id="resource-alert" class="badge" style="position:relative; margin-left:-2px; top:-10px; background:#d60f22; font-size:10px; display:none;" title="New Resources!"></span></a></li>
+<li data-toggle="tooltip" data-placement="bottom" title="Resource Hub"><a href="https://www.teachstarter.com/resources/" class="smaller icon"><span class="glyphicon glyphicon-th"></span></a></li>
+<li class="dropdown hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Common Core <b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li><a href="https://www.teachstarter.com/common-core-standards-in-america/kindergarten/">Kindergarten</a></li>
@@ -223,75 +144,77 @@ _kiq.push(['set', {'user_type': '', 'user_country': ''}]);
 <li class="divider visible-xs"></li>
 </ul>
 </li>
-<li class="visible-xs"><a href="https://www.teachstarter.com/sitemap">Categories</a></li>
-<li class="dropdown hidden-xs">
+<li class="visible-xs"><a href="https://www.teachstarter.com/sitemap/">Categories</a></li>
+<li class="dropdown jumbo-dropdown hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <b class="caret"></b></a>
 <ul class="dropdown-menu column-menu-4">
 <li class="column-menu">
 <span class="column-menu-title">Learning Areas</span>
-<a href="https://www.teachstarter.com/learning-area/literacy">English</a>
-<a href="https://www.teachstarter.com/learning-area/numeracy">Maths</a>
-<a href="https://www.teachstarter.com/learning-area/science">Science</a>
-<a href="https://www.teachstarter.com/learning-area/history">History</a>
-<a href="https://www.teachstarter.com/learning-area/geography">Geography</a>
-<a href="https://www.teachstarter.com/learning-area/social-studies">Social Studies</a>
-<a href="https://www.teachstarter.com/learning-area/technology">Technology</a>
-<a href="https://www.teachstarter.com/learning-area/health-pe">Health/P.E.</a>
-<a href="https://www.teachstarter.com/learning-area/the-arts">The Arts</a>
-<a href="https://www.teachstarter.com/learning-area/special-occasions">Special Occasions</a>
-<a href="https://www.teachstarter.com/learning-area/lote">Language</a>
+<a href="https://www.teachstarter.com/us/learning-area/literacy-us/ ">Literacy</a>
+<a href="https://www.teachstarter.com/us/learning-area/numeracy-us/ ">Numeracy</a>
+<a href="https://www.teachstarter.com/us/learning-area/science-us/ ">Science</a>
+<a href="https://www.teachstarter.com/us/learning-area/social-studies-us/ ">Social Studies</a>
+<a href="https://www.teachstarter.com/us/learning-area/history-us/ ">History</a>
+<a href="https://www.teachstarter.com/us/learning-area/geography-us/ ">Geography</a>
+<a href="https://www.teachstarter.com/us/learning-area/health-pe-us/ ">Health/P.E.</a>
+<a href="https://www.teachstarter.com/us/learning-area/the-arts-us/ ">The Arts</a>
+<a href="https://www.teachstarter.com/us/learning-area/lote-us/ ">LOTE</a>
+<a href="https://www.teachstarter.com/us/learning-area/technology-us/ ">Technology</a>
 </li>
 <li class="column-menu">
 <span class="column-menu-title">Classroom Management</span>
-<a href="https://www.teachstarter.com/resource-type/behaviour-management">Rules &amp; Behaviour</a>
-<a href="https://www.teachstarter.com/resource-type/relief-teaching">Relief Teaching</a>
-<a href="https://www.teachstarter.com/resource-type/calendars">Calendars</a>
-<a href="https://www.teachstarter.com/resource-type/daily-routine">Daily Routine</a>
-<a href="https://www.teachstarter.com/resource-type/teacher-organisation">Teacher Organisation</a>
-<a href="https://www.teachstarter.com/resource-type/positivity-essentials">Positivity</a>
-<a href="https://www.teachstarter.com/resource-type/goals-feedback/">Goals &amp; Feedback</a>
-<a href="https://www.teachstarter.com/resource-type/certificates">Certificates &amp; Awards</a>
-<a href="https://www.teachstarter.com/resource-type/games">Games</a>
-<a href="https://www.teachstarter.com/resource-type/groupwork-classroom-management/">Groupwork</a>
+<a href="https://www.teachstarter.com/us/classroom-management/rules-and-behavior/ ">Rules and Behavior</a>
+<a href="https://www.teachstarter.com/us/classroom-management/calendars-us/ ">Calendars</a>
+<a href="https://www.teachstarter.com/us/classroom-management/goals-and-feedback-us/ ">Goals and Feedback</a>
+<a href="https://www.teachstarter.com/us/classroom-management/motivation-us/ ">Motivation</a>
+<a href="https://www.teachstarter.com/us/classroom-management/daily-routine-us/ ">Daily Routine</a>
+<a href="https://www.teachstarter.com/us/classroom-management/parent-communication-us/ ">Parent Communication</a>
+<a href="https://www.teachstarter.com/us/classroom-management/certificates-and-awards-us/ ">Certificates and Awards</a>
+<a href="https://www.teachstarter.com/us/classroom-management/report-card-writing-us/ ">Report Card Writing</a>
+<a href="https://www.teachstarter.com/us/classroom-management/monitoring-student-progress-us/ ">Monitoring Student Progress</a>
+<a href="https://www.teachstarter.com/us/classroom-management/substitute-teaching/ ">Substitute Teaching</a>
+<a href="https://www.teachstarter.com/us/classroom-management/special-educational-needs-us/ ">Special Educational Needs</a>
 </li>
 <li class="column-menu">
 <span class="column-menu-title">Labels &amp; Signs</span>
-<a href="https://www.teachstarter.com/resource-type/classroom-organisation/">Back to School</a>
-<a href="https://www.teachstarter.com/resource-type/classroom-theme-packs">Classroom Theme Packs</a>
-<a href="https://www.teachstarter.com/learning-area/word-walls/">Word Walls</a>
-<a href="https://www.teachstarter.com/resource-type/deskplates">Desk Plates</a>
-<a href="https://www.teachstarter.com/resource-type/nametags">Name Tags</a>
-<a href="https://www.teachstarter.com/resource-type/traylabels">Tray Labels</a>
-<a href="https://www.teachstarter.com/resource-type/welcomesigns/">Welcome Signs</a>
-<a href="https://www.teachstarter.com/resource-type/lettersets">Title/Display Letters</a>
-<a href="https://www.teachstarter.com/resource-type/page-borders/">Page Borders</a>
-<a href="https://www.teachstarter.com/resource-type/cork-boardwhiteboard-borders/">Cork Board Borders</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/classroom-theme-packs-us/ ">Classroom Theme Packs</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/letter-sets/ ">Letter Sets</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/border-trimmers-us/ ">Border Trimmers</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/decorations-theme-pack-us/ ">Decorations Theme Pack</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/desk-plates/ ">Desk Plates</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/name-tags/ ">Name Tags</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/page-borders-us/ ">Page Borders</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/tray-labels/ ">Tray Labels</a>
+<a href="https://www.teachstarter.com/us/resource-type/labels-signs-decorations/welcome-signs/ ">Welcome Signs</a>
 </li>
 <li class="column-menu">
 <span class="column-menu-title">Other Resources</span>
-<a href="https://www.teachstarter.com/resource-availability/free">Free Resources</a>
+<a href="https://www.teachstarter.com/resource-availability/free/">Free Resources</a>
 <a href="https://www.teachstarter.com/teaching-resources/">All Resources</a>
-<a href="https://www.teachstarter.com/unit-plans/">Units &amp; Lessons</a>
-<a href="https://www.teachstarter.com/resource-type/resource-packs/">Resource Packs</a>
-<a href="https://www.teachstarter.com/resource-type/custom/">Custom Resources</a>
-<a href="https://www.teachstarter.com/file-format/docx/">Word Documents</a>
-<a href="https://www.teachstarter.com/file-format/pptx/">Powerpoint Presentations</a>
-<br>
+<a href="https://www.teachstarter.com/unit-plans/">Units and Lessons</a>
+<a href="https://www.teachstarter.com/us/resource-type/resource-packs-us/">Resource Packs</a>
+<a href="https://www.teachstarter.com/us/resource-type/custom-resources-us/">Custom Resources</a>
+<a href="https://www.teachstarter.com/us/resource-type/games-us/">Games</a>
+<a href="https://www.teachstarter.com/us/resource-type/worksheets-us/">Worksheets</a>
+<a href="https://www.teachstarter.com/us/resource-type/activities-us/">Activities</a>
+<a href="https://www.teachstarter.com/file-format/pptx/">PowerPoint Presentations</a>
 </li>
 <li class="divider visible-xs"></li>
 </ul>
 </li>
-<li class="dropdown hidden-xs">
+<li class="dropdown jumbo-dropdown hidden-xs hidden-sm hidden-md">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
 <ul class="dropdown-menu column-menu-4">
 <li class="column-menu">
-<span class="column-menu-title">Create <span class="label label-warning pull-right">New!</span></span>
+<span class="column-menu-title">Create</span>
+<a href="https://www.teachstarter.com/widgets/">Create Your Own</a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47452">Handwriting Sheets </a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47907">Maths Mentals</a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47454">Maths Worksheets</a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47447">Word Searches</a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47455">Numbers &amp; Words Posters</a>
+<a href="https://www.teachstarter.com/studio/?t_type=widget&amp;t_id=47456">MAB Flashcards</a>
 <a href="https://www.teachstarter.com/tools/label-creator/">Labels &amp; Signs</a>
-<a href="https://www.teachstarter.com/tools/handwriting-sheet-creator/">Handwriting Sheets </a>
-<a href="https://www.teachstarter.com/tools/maths-worksheet-creator/">Maths Worksheets</a>
-<a href="https://www.teachstarter.com/tools/word-search-creator/">Word Searches</a>
-<a href="https://www.teachstarter.com/tools/numbers-with-words-poster-creator/">Numbers &amp; Words Posters</a>
-<a href="https://www.teachstarter.com/tools/mab-flashcard-generator/">MAB Flashcards</a>
 </li>
 <li class="column-menu">
 <span class="column-menu-title">Customize</span>
@@ -315,17 +238,18 @@ _kiq.push(['set', {'user_type': '', 'user_country': ''}]);
 </li>
 </ul>
 </li>
+<li><a href="https://www.teachstarter.com/blog/ ">Blog</a></li>
 <li class="visible-xs"><a href="https://www.teachstarter.com/request-a-resource/" target="_blank">Request a resource</a></li>
-<li class="visible-lg"><a href="https://www.teachstarter.com/plans/">Plans</a></li>
+<li class="hidden-sm hidden-xs"><a href="https://www.teachstarter.com/plans/">Pricing</a></li>
 <li class="hidden-md-lg visible-lg">
 <span style="border-right: 1px solid #ddd; width: 1px; display: inline-block; height: 35px; margin: 12px 20px 0 20px;"></span>
 </li>
-<li><a href="https://www.teachstarter.com/login/">Log In</a></li>
+<li><a href="https://www.teachstarter.com/login/?redirect_to=https://www.teachstarter.com/about/privacy-policy/">Log In</a></li>
 <li class="highlight"><a href="#" data-toggle="modal" data-target=".login-signup-modal">Sign up!</a></li>
 <li><a href="#" class="hidden-xs hidden-lg" data-toggle="offcanvas" data-recalc="false" data-target=".searchmenu" data-canvas=".canvas">
 <span class="glyphicon glyphicon-search"></span></a></li>
 </ul>
-</div> 
+</div>
 </div>
 <div id="search-results" class="hidden-xs hidden-sm hidden-md"></div>
 <div id="main">
@@ -412,8 +336,8 @@ Telephone: 1300 363 992</p>
 <p>This Privacy Policy may change from time to time.&nbsp; The current version is available on the Site.&nbsp; This policy was last updated on 9 July 2014.</p>
 <p>&nbsp;</p>
 </div>
-</div> 
-</div> 
+</div>
+</div>
 <footer id="footer" class="print-none">
 <div class="container">
 <div class="row" id="footer-info">
@@ -421,7 +345,7 @@ Telephone: 1300 363 992</p>
 <h3>About Us</h3>
 <ul class="footer-nav">
 <li><a href="http://www.seek.com.au/jobs/#advertiserID=30257981" target="_blank">Careers</a></li>
-<li><a href="https://www.teachstarter.com/creating">Creating Teach Starter</a></li>
+<li><a href="https://www.teachstarter.com/teaching-blog/creating-teach-starter/">Creating Teach Starter</a></li>
 <li><a href="https://www.teachstarter.com/plans/">Pricing</a></li> <li><a href="https://www.teachstarter.com/testimonials-reviews/">Testimonials &amp; Reviews</a></li>
 </ul>
 </div>
@@ -452,10 +376,10 @@ Telephone: 1300 363 992</p>
 </div>
 </div>
 <div class="row" id="footer-copyright">
-<div class="col-sm-8 hidden-xs">
+<div class="col-sm-7 hidden-xs">
 <p><a href="https://www.teachstarter.com/about/terms-and-conditions/">Terms &amp; Conditions</a> / <a href="https://www.teachstarter.com/about/privacy-policy/">Privacy Policy</a> / <a rel="nofollow" href="https://www.teachstarter.com/wp-login.php">Log in</a></p>
 </div>
-<div class="col-sm-4 text-right hidden-xs">
+<div class="col-sm-5 text-right hidden-xs">
 <p>Copyright © 2016 Teach Starter Pty Ltd</p>
 </div>
 <div class="col-sm-12 text-center visible-xs">
@@ -464,8 +388,6 @@ Telephone: 1300 363 992</p>
 </div>
 </div>
 </footer>
- 
- 
 <div class="modal fade login-signup-modal print-none" tabindex="-1" role="dialog" aria-labelledby="login-signup-modal" aria-hidden="true">
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
@@ -476,14 +398,13 @@ Telephone: 1300 363 992</p>
 <div class="modal-body">
 <div class="row">
 <div class="col-sm-6 col-sm-push-6 border-left-sm">
- 
 <form class="form-horizontal" method="post" role="form" action="//www.teachstarter.com/register/" autocomplete="off">
 <h3 class="top">Sign Up</h3>
 <p>Create a free account...</p>
 <div class="form-group">
-<div class="col-sm-6">
+<div class="col-xs-6">
 <input placeholder="First Name" class="form-control text input-lg" id="account_first_name" maxlength="50" name="account[first_name]" size="50" type="text" value=""></div>
-<div class="col-sm-6">
+<div class="col-xs-6">
 <input placeholder="Last Name" class="form-control text input-lg" id="account_last_name" maxlength="50" name="account[last_name]" size="50" type="text" value=""></div>
 </div>
 <div class="form-group">
@@ -512,7 +433,6 @@ Telephone: 1300 363 992</p>
 </select>
 </div>
 </div>
- 
 <div class="hidden"><input class="form-control text" id="url" maxlength="50" name="account[url]" size="50" type="text" value=""></div>
 <div class="form-group">
 <div class=" col-sm-12">
@@ -542,7 +462,6 @@ Telephone: 1300 363 992</p>
 </form>
 </div>
 <div class="col-sm-5 col-offset-sm-1 col-sm-pull-6 hidden-xs">
- 
 <form class="form-horizontal" role="form" action="//www.teachstarter.com/wp-login.php?redirect_to=https://www.teachstarter.com/about/privacy-policy/" method="post">
 <h3>Log In</h3>
 <div class="form-group margin-top">
@@ -584,148 +503,16 @@ Telephone: 1300 363 992</p>
 </div>
 </div>
 </div>
-<style>.login-signup-modal .modal-lg{max-width:900px;width:100%;}.border-left-sm{border-left:1px solid #ddd;}@media (max-width:768px){.border-left-sm{border-left:none;}}</style>
- 
- 
+<script type="text/javascript">var addComment={moveForm:function(a,b,c,d){var e,f,g,h,i=this,j=i.I(a),k=i.I(c),l=i.I("cancel-comment-reply-link"),m=i.I("comment_parent"),n=i.I("comment_post_ID"),o=k.getElementsByTagName("form")[0];if(j&&k&&l&&m&&o){i.respondId=c,d=d||!1,i.I("wp-temp-form-div")||(e=document.createElement("div"),e.id="wp-temp-form-div",e.style.display="none",k.parentNode.insertBefore(e,k)),j.parentNode.insertBefore(k,j.nextSibling),n&&d&&(n.value=d),m.value=b,l.style.display="",l.onclick=function(){var a=addComment,b=a.I("wp-temp-form-div"),c=a.I(a.respondId);if(b&&c)return a.I("comment_parent").value="0",b.parentNode.insertBefore(c,b),b.parentNode.removeChild(b),this.style.display="none",this.onclick=null,!1};try{for(var p=0;p<o.elements.length;p++)if(f=o.elements[p],h=!1,"getComputedStyle"in window?g=window.getComputedStyle(f):document.documentElement.currentStyle&&(g=f.currentStyle),(f.offsetWidth<=0&&f.offsetHeight<=0||"hidden"===g.visibility)&&(h=!0),"hidden"!==f.type&&!f.disabled&&!h){f.focus();break}}catch(q){}return!1}},I:function(a){return document.getElementById(a)}};</script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/js/jasny-bootstrap.min.js"></script>
-<script type="text/javascript" src="//www.teachstarter.com/wp-includes/js/wp-embed.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.teachstarter.com\/","ajax_url":"https:\/\/www.teachstarter.com\/wp-admin\/admin-ajax.php","url_type":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.teachstarter.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
-<script type="text/javascript" src="//www.teachstarter.com/wp-includes/js/comment-reply.min.js"></script>
-<script type="text/javascript">
-	
-	!function(e,t,n,r){var i=e(t);e.fn.lazyload=function(s){function o(){var t=0;f.each(function(){var n=e(this);if(!l.skip_invisible||n.is(":visible"))if(e.abovethetop(this,l)||e.leftofbegin(this,l));else if(e.belowthefold(this,l)||e.rightoffold(this,l)){if(++t>l.failure_limit)return!1}else n.trigger("appear"),t=0})}var u,f=this,l={threshold:0,failure_limit:0,event:"scroll",effect:"show",container:t,data_attribute:"original",skip_invisible:!0,appear:null,load:null,placeholder:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"};return s&&(r!==s.failurelimit&&(s.failure_limit=s.failurelimit,delete s.failurelimit),r!==s.effectspeed&&(s.effect_speed=s.effectspeed,delete s.effectspeed),e.extend(l,s)),u=l.container===r||l.container===t?i:e(l.container),0===l.event.indexOf("scroll")&&u.bind(l.event,function(){return o()}),this.each(function(){var t=this,n=e(t);t.loaded=!1,(n.attr("src")===r||n.attr("src")===!1)&&n.is("img")&&n.attr("src",l.placeholder),n.one("appear",function(){if(!this.loaded){if(l.appear){var r=f.length;l.appear.call(t,r,l)}e("<img />").bind("load",function(){var r=n.attr("data-"+l.data_attribute);n.hide(),n.is("img")?n.attr("src",r):n.css("background-image","url('"+r+"')"),n[l.effect](l.effect_speed),t.loaded=!0;var i=e.grep(f,function(e){return!e.loaded});if(f=e(i),l.load){var s=f.length;l.load.call(t,s,l)}}).attr("src",n.attr("data-"+l.data_attribute))}}),0!==l.event.indexOf("scroll")&&n.bind(l.event,function(){t.loaded||n.trigger("appear")})}),i.bind("resize",function(){o()}),/(?:iphone|ipod|ipad).*os 5/gi.test(navigator.appVersion)&&i.bind("pageshow",function(t){t.originalEvent&&t.originalEvent.persisted&&f.each(function(){e(this).trigger("appear")})}),e(n).ready(function(){o()}),this},e.belowthefold=function(n,s){var o;return o=s.container===r||s.container===t?(t.innerHeight?t.innerHeight:i.height())+i.scrollTop():e(s.container).offset().top+e(s.container).height(),o<=e(n).offset().top-s.threshold},e.rightoffold=function(n,s){var o;return o=s.container===r||s.container===t?i.width()+i.scrollLeft():e(s.container).offset().left+e(s.container).width(),o<=e(n).offset().left-s.threshold},e.abovethetop=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollTop():e(s.container).offset().top,o>=e(n).offset().top+s.threshold+e(n).height()},e.leftofbegin=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollLeft():e(s.container).offset().left,o>=e(n).offset().left+s.threshold+e(n).width()},e.inviewport=function(t,n){return!(e.rightoffold(t,n)||e.leftofbegin(t,n)||e.belowthefold(t,n)||e.abovethetop(t,n))},e.extend(e.expr[":"],{"below-the-fold":function(t){return e.belowthefold(t,{threshold:0})},"above-the-top":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-screen":function(t){return e.rightoffold(t,{threshold:0})},"left-of-screen":function(t){return!e.rightoffold(t,{threshold:0})},"in-viewport":function(t){return e.inviewport(t,{threshold:0})},"above-the-fold":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-fold":function(t){return e.rightoffold(t,{threshold:0})},"left-of-fold":function(t){return!e.rightoffold(t,{threshold:0})}})}(jQuery,window,document)
-$('.wp-caption').css('max-width',$('.wp-caption').css('width'));$('.wp-caption').css('width','');
-$("#offcanvas-search").keyup(function(){$('#offcanvas-search-results').html('<div id="temp_load" style="text-align:center; margin:120px 0;"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/ajax-loader.gif" /></div>');jQuery.post(ajaxurl,{action:"primary_search",searchterm:$("#offcanvas-search").val()},function(e){if($("#offcanvas-search").val().length>3){$("#offcanvas-search-results").html(e);}})});
-$("#primary-search").keyup(function(){if ($('#search-results').is(':empty')){$('#search-results').html('<div id="temp_load" style="text-align:center; margin:120px 0;"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/ajax-loader.gif" /></div>')};jQuery.post(ajaxurl,{action:"primary_search",searchterm:$("#primary-search").val()},function(e){if($("#primary-search").val().length>3){$("#search-results").html(e);$("#search-results").slideDown();$("#launcher").css('right', '380px')}else{$("#search-results").slideUp();$("#launcher").css('right', '20px')}})});
-$(document).mouseup(function(e){var t=$("#search-results");if(!t.is(e.target)&&t.has(e.target).length===0&&!$("#primary-search").is(e.target)){t.slideUp();$("#launcher").css('right', '20px')}});$("#primary-search").focus(function(){if($("#primary-search").val().length>3){$("#search-results").slideDown();$("#launcher").css('right', '380px')}})
-	jQuery(document).ready(function(e){e("img.lazy").lazyload({effect:"fadeIn"});e(window).trigger("scroll")})
-	</script>
- 
-<script>
-	
-	jQuery(document).ready( function($) {
-		
-		$('#notifications-holder').html('<i id="notification-loader" class="fa fa-circle-o-notch fa-spin"></i>');
-		
-		// Load notifications
-		jQuery.post(
-			ajaxurl, 
-			{
-					'action': 'load_notifications',
-					'notification_action': 'load'
-			}, 
-			function(response){
-				$('#notifications-holder').html(response).fadeIn();
-			}
-		);
-		
-		jQuery.post(
-			ajaxurl, 
-			{
-					'action': 'check_notifications'
-			}, 
-			function(response){
-				console.log(response);
-				if (response != "") {
-					$( "#notification-alert" ).html(response);
-					$("#notification-alert").fadeIn();
-				} else {
-					$( "#notification-alert" ).html(response);
-					$("#notification-alert").fadeOut();
-				}	
-			}
-		);
-		
-		// Open notification panel
-		$('#notifications').on('click', function() {
-		jQuery.post(
-				ajaxurl, 
-				{
-						'action': 'load_notifications',
-						'notification_action': 'open'
-				}, 
-				function(response){
-					
-				}
-			);
-		});
-		
-		
-		$('.notifications-dropdown').on('click', function() {
-			$(this).css('visibility', 'visible');
-			$(this).css('display', 'block');
-		});
-		
-		$('#notifications').on('click', function() {
-			$('.notifications-dropdown').toggle();
-		});
-		
-		$('#main').on('click', function() {
-			$('.notifications-dropdown').hide();
-		});
-		
-		$('.navbar-nav li a').on('click', function() {
-			if ($(this).attr('id') != 'notifications') {
-				$('.notifications-dropdown').hide();
-			}
-		});
-		
-		
-		
-		
-		
-		// Scroll to load more notifications
-		new_paged_loading = false;
-		new_paged = 1;
-		$('#notifications-holder').on('scroll', function() {
-						
-			if($(this).scrollTop() + $(this).innerHeight() >= this.scrollHeight-100 && new_paged_loading == false) {
-				new_paged_loading = true;
-				new_paged++;
-				$('#notifications-holder').append('<i id="notification-loader" class="fa fa-circle-o-notch fa-spin"></i>');
-				
-				jQuery.post(
-					ajaxurl, 
-					{
-							'action': 'load_notifications',
-							'notification_action': 'load',
-							'pageNumber' : new_paged
-					}, 
-					function(response){
-						$('#notification-loader').remove();
-						$('#notifications-holder').append(response).fadeIn();
-						new_paged_loading = false;
-					}
-				);
-				
-			}
-		});
-		
-	});
-
-</script>
- 
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 959057125;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/959057125/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<style>iframe[name='google_conversion_frame']{height:0!important;width:0!important;line-height:0!important;font-size:0!important;margin-top:-13px;float:left;}</style>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a30d759704","applicationID":"3494133","transactionName":"Y11QZhQDXkAHBUZdX1oXcUcVFl9eSRZTU1UbSEBbEANTSksWXVhZV0E=","queueTime":0,"applicationTime":442,"atts":"TxpHEFwZEl8HCFVBUVNdEAhEN2MRSkRRW0VaTEBLRFgSZjVETxgSVRoISRsf","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/js/jasny-bootstrap.min.js.pagespeed.jm.-GIdybqSvr.js"></script>
+<script type="text/javascript">!function(a,b){"use strict";function c(){if(!e){e=!0;var a,c,d,f,g=-1!==navigator.appVersion.indexOf("MSIE 10"),h=!!navigator.userAgent.match(/Trident.*rv:11\./),i=b.querySelectorAll("iframe.wp-embedded-content");for(c=0;c<i.length;c++)if(d=i[c],!d.getAttribute("data-secret")){if(f=Math.random().toString(36).substr(2,10),d.src+="#?secret="+f,d.setAttribute("data-secret",f),g||h)a=d.cloneNode(!0),a.removeAttribute("security"),d.parentNode.replaceChild(a,d)}else;}}var d=!1,e=!1;if(b.querySelector)if(a.addEventListener)d=!0;if(a.wp=a.wp||{},!a.wp.receiveEmbedMessage)if(a.wp.receiveEmbedMessage=function(c){var d=c.data;if(d.secret||d.message||d.value)if(!/[^a-zA-Z0-9]/.test(d.secret)){var e,f,g,h,i,j=b.querySelectorAll('iframe[data-secret="'+d.secret+'"]'),k=b.querySelectorAll('blockquote[data-secret="'+d.secret+'"]');for(e=0;e<k.length;e++)k[e].style.display="none";for(e=0;e<j.length;e++)if(f=j[e],c.source===f.contentWindow){if(f.removeAttribute("style"),"height"===d.message){if(g=parseInt(d.value,10),g>1e3)g=1e3;else if(200>~~g)g=200;f.height=g}if("link"===d.message)if(h=b.createElement("a"),i=b.createElement("a"),h.href=f.getAttribute("src"),i.href=d.value,i.host===h.host)if(b.activeElement===f)a.top.location.href=d.value}else;}},d)a.addEventListener("message",a.wp.receiveEmbedMessage,!1),b.addEventListener("DOMContentLoaded",c,!1),a.addEventListener("load",c,!1)}(window,document);</script>
+<script type="text/javascript">var icl_vars={"current_language":"us","icl_home":"https:\/\/www.teachstarter.com\/us\/","ajax_url":"https:\/\/www.teachstarter.com\/us\/wp-admin\/admin-ajax.php","url_type":"1"};</script>
+<script type="text/javascript">"use strict";var icl_lang=icl_vars.current_language;var icl_home=icl_vars.icl_home;function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){if(oldonload){oldonload();}func();}}}</script>
+<script type="text/javascript">!function(e,t,n,r){var i=e(t);e.fn.lazyload=function(s){function o(){var t=0;f.each(function(){var n=e(this);if(!l.skip_invisible||n.is(":visible"))if(e.abovethetop(this,l)||e.leftofbegin(this,l));else if(e.belowthefold(this,l)||e.rightoffold(this,l)){if(++t>l.failure_limit)return!1}else n.trigger("appear"),t=0})}var u,f=this,l={threshold:0,failure_limit:0,event:"scroll",effect:"show",container:t,data_attribute:"original",skip_invisible:!0,appear:null,load:null,placeholder:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"};return s&&(r!==s.failurelimit&&(s.failure_limit=s.failurelimit,delete s.failurelimit),r!==s.effectspeed&&(s.effect_speed=s.effectspeed,delete s.effectspeed),e.extend(l,s)),u=l.container===r||l.container===t?i:e(l.container),0===l.event.indexOf("scroll")&&u.bind(l.event,function(){return o()}),this.each(function(){var t=this,n=e(t);t.loaded=!1,(n.attr("src")===r||n.attr("src")===!1)&&n.is("img")&&n.attr("src",l.placeholder),n.one("appear",function(){if(!this.loaded){if(l.appear){var r=f.length;l.appear.call(t,r,l)}e("<img />").bind("load",function(){var r=n.attr("data-"+l.data_attribute);n.hide(),n.is("img")?n.attr("src",r):n.css("background-image","url('"+r+"')"),n[l.effect](l.effect_speed),t.loaded=!0;var i=e.grep(f,function(e){return!e.loaded});if(f=e(i),l.load){var s=f.length;l.load.call(t,s,l)}}).attr("src",n.attr("data-"+l.data_attribute))}}),0!==l.event.indexOf("scroll")&&n.bind(l.event,function(){t.loaded||n.trigger("appear")})}),i.bind("resize",function(){o()}),/(?:iphone|ipod|ipad).*os 5/gi.test(navigator.appVersion)&&i.bind("pageshow",function(t){t.originalEvent&&t.originalEvent.persisted&&f.each(function(){e(this).trigger("appear")})}),e(n).ready(function(){o()}),this},e.belowthefold=function(n,s){var o;return o=s.container===r||s.container===t?(t.innerHeight?t.innerHeight:i.height())+i.scrollTop():e(s.container).offset().top+e(s.container).height(),o<=e(n).offset().top-s.threshold},e.rightoffold=function(n,s){var o;return o=s.container===r||s.container===t?i.width()+i.scrollLeft():e(s.container).offset().left+e(s.container).width(),o<=e(n).offset().left-s.threshold},e.abovethetop=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollTop():e(s.container).offset().top,o>=e(n).offset().top+s.threshold+e(n).height()},e.leftofbegin=function(n,s){var o;return o=s.container===r||s.container===t?i.scrollLeft():e(s.container).offset().left,o>=e(n).offset().left+s.threshold+e(n).width()},e.inviewport=function(t,n){return!(e.rightoffold(t,n)||e.leftofbegin(t,n)||e.belowthefold(t,n)||e.abovethetop(t,n))},e.extend(e.expr[":"],{"below-the-fold":function(t){return e.belowthefold(t,{threshold:0})},"above-the-top":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-screen":function(t){return e.rightoffold(t,{threshold:0})},"left-of-screen":function(t){return!e.rightoffold(t,{threshold:0})},"in-viewport":function(t){return e.inviewport(t,{threshold:0})},"above-the-fold":function(t){return!e.belowthefold(t,{threshold:0})},"right-of-fold":function(t){return e.rightoffold(t,{threshold:0})},"left-of-fold":function(t){return!e.rightoffold(t,{threshold:0})}})}(jQuery,window,document)
+$('.wp-caption').css('max-width',$('.wp-caption').css('width'));$('.wp-caption').css('width','');$("#offcanvas-search").keyup(function(){$('#offcanvas-search-results').html('<div id="temp_load" style="text-align:center; margin:120px 0;"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/ajax-loader.gif" /></div>');jQuery.post(ajaxurl,{action:"primary_search",searchterm:$("#offcanvas-search").val()},function(e){if($("#offcanvas-search").val().length>3){$("#offcanvas-search-results").html(e);}})});$("#primary-search").keyup(function(){if($('#search-results').is(':empty')){$('#search-results').html('<div id="temp_load" style="text-align:center; margin:120px 0;"><img src="//www.teachstarter.com/wp-content/themes/teachstarter_2015/images/ajax-loader.gif" /></div>')};jQuery.post(ajaxurl,{action:"primary_search",searchterm:$("#primary-search").val()},function(e){if($("#primary-search").val().length>3){$("#search-results").html(e);$("#search-results").slideDown();$("#launcher").css('right','380px')}else{$("#search-results").slideUp();$("#launcher").css('right','20px')}})});$(document).mouseup(function(e){var t=$("#search-results");if(!t.is(e.target)&&t.has(e.target).length===0&&!$("#primary-search").is(e.target)){t.slideUp();$("#launcher").css('right','20px')}});$("#primary-search").focus(function(){if($("#primary-search").val().length>3){$("#search-results").slideDown();$("#launcher").css('right','380px')}})
+jQuery(document).ready(function(e){e("img.lazy").lazyload({effect:"fadeIn"});e(window).trigger("scroll")})</script>
+<script>jQuery(document).ready(function($){$(document).bind('touchstart',function(){$('body').removeClass('no-touch');$('body').addClass('touch');});var timer=0;var counter=1;if(!('ontouchstart'in window)){$('#holder').on('mouseenter','.thumb-resource-slider',function(){if(timer)clearInterval(timer);var $this=$(this);if($this.find('.img-holder-animate').length===0){$this.find('.fa-circle-o-notch').show();jQuery.post(ajaxurl,{'action':'load_thumb_slider','resource_id':$this.data('resource-id')},function(response){if(response!=''){$this.find('.img-holder').addClass('img-holder-animate');$this.find('.img-holder').html(response);counter++;var $next_div=$this.find('#img-'+counter);if($next_div.length===0){counter=1;$next_div=$this.find('#img-'+counter);}$next_div.fadeIn();$next_div.addClass('display-img');}$this.find('.fa-circle-o-notch').hide();});}counter=$this.find('.display-img').data('image-id');if(counter==''){counter=1;}timer=setInterval(showDiv,1200);function showDiv(){var $current_div=$this.find('#img-'+counter);$current_div.fadeOut();$current_div.removeClass('display-img');counter++;var $next_div=$this.find('#img-'+counter);if($next_div.length===0){counter=1;$next_div=$this.find('#img-'+counter);}$next_div.fadeIn();$next_div.addClass('display-img');}});$('#holder').on('mouseleave','.thumb-resource-slider',function(){clearInterval(timer);});}$('#notifications-holder').html('<i id="notification-loader" class="fa fa-circle-o-notch fa-spin"></i>');jQuery.post(ajaxurl,{'action':'load_notifications','notification_action':'load'},function(response){$('#notifications-holder').html(response).fadeIn();});jQuery.post(ajaxurl,{'action':'check_notifications'},function(response){console.log(response);if(response!=""){$("#notification-alert").html(response);$("#notification-alert").fadeIn();}else{$("#notification-alert").html(response);$("#notification-alert").fadeOut();}});$('#notifications').on('click',function(){jQuery.post(ajaxurl,{'action':'load_notifications','notification_action':'open'},function(response){$('#notification-alert').fadeOut();});analytics.track('Checked Notifications');});$('.notifications-dropdown').on('click',function(){$(this).css('visibility','visible');$(this).css('display','block');});$('#notifications').on('click',function(){$('.notifications-dropdown').toggle();});$('#main').on('click',function(){$('.notifications-dropdown').hide();});$('.navbar-nav li a').on('click',function(){if($(this).attr('id')!='notifications'){$('.notifications-dropdown').hide();}});if(!('ontouchstart'in window)){$('[data-toggle="tooltip"]').tooltip();}new_paged_loading=false;new_paged=1;$('#notifications-holder').on('scroll',function(){if($(this).scrollTop()+$(this).innerHeight()>=this.scrollHeight-100&&new_paged_loading==false){new_paged_loading=true;new_paged++;$('#notifications-holder').append('<i id="notification-loader" class="fa fa-circle-o-notch fa-spin"></i>');jQuery.post(ajaxurl,{'action':'load_notifications','notification_action':'load','pageNumber':new_paged},function(response){$('#notification-loader').remove();$('#notifications-holder').append(response).fadeIn();new_paged_loading=false;});}});});</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a30d759704","applicationID":"24333502","transactionName":"Y11QZhQDXkAHBUZdX1oXcUcVFl9eSRZTU1UbSEBbEANTSksWXVhZV0E=","queueTime":0,"applicationTime":142,"atts":"TxpHEFwZTR9EBxAOS0lF","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </div></div></body></html>
