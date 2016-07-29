@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heymanga.xyz privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503223249id_/http%3A//www.heymanga.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heymanga.xyz privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729075551id_/http%3A//www.heymanga.xyz/privacy) for the most accurate reproduction.*
 
 # Hey Manga - Privacy Policy
 
