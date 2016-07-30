@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downarea51.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611113256id_/http%3A//www.downarea51.com/p/privacy-policy_5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downarea51.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730125423id_/http%3A//www.downarea51.com/p/privacy-policy_5.html) for the most accurate reproduction.*
 
 # Privacy Policy - Download Game Roms Isos
 
