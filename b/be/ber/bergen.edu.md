@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618155754id_/http%3A//www.bergen.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730130852id_/http%3A//bergen.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Bergen Community College
 
