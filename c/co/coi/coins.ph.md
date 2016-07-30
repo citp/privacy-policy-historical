@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417221732id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730185612id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
 
 # Coins.ph is the best way to send money, pay bills, and load your phone in the Philippines.
 
