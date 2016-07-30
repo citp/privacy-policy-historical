@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influads.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310201255id_/https%3A//carbonads.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influads.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730121120id_/https%3A//carbonads.net/privacy.php) for the most accurate reproduction.*
 
 # Carbon Ads
 
