@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316203829id_/http%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730213306id_/http%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Crimson Hexagon
+# Privacy Policy | Crimson Hexagon
 
 Crimson Hexagon, Inc. (“ _Crimson Hexagon_ ”, “ _us_ ,” “ _we_ ,” or “ _our_ ”) is committed to protecting the privacy of the users (“ _user_ ”, “ _you_ ” or “ _your_ ”) of its website (“ _Site_ ”). Crimson Hexagon’­s Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and in making informed decisions when using our Site. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to this Site and governs data collection and usage at this Site. The United States has data protection laws that may not be consistent with those of other countries. By using this Site, you consent to the processing of data about you in the manner and for the purposes set out in this Privacy Policy. Please read it in its entirety.
 
@@ -34,11 +34,11 @@ Notwithstanding the foregoing, we may transfer, sell or assign information conce
 
 ## Opt-Out/Discontinue
 
-If you do not wish to receive information or other material from us, you may ‘opt-out’ of receiving these communications by simply selecting the unsubscribe link at the bottom or any email communication or by letting us know via our [contact us](http://www.crimsonhexagon.com/contact-us "Contact Crimson Hexagon") page.
+If you do not wish to receive information or other material from us, you may ‘opt-out’ of receiving these communications by simply selecting the unsubscribe link at the bottom or any email communication or by letting us know via [contact us](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
 
 ## Correct; Update
 
-If you wish to change or modify information previously provided to us, you may do so by notifying via our [contact us page](http://www.crimsonhexagon.com/contact-us "Contact Crimson Hexagon"). We will use reasonably efforts to ensure that your information is corrected or updated in our records.
+If you wish to change or modify information previously provided to us, you may do so by notifying via [contact us](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us"). We will use reasonably efforts to ensure that your information is corrected or updated in our records.
 
 ## Links
 
@@ -68,10 +68,10 @@ By using the Site, you signify your assent to our Privacy Policy. If you do not 
 
 ## Contact Us
 
-If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Site, you can [send an emai](http://www.crimsonhexagon.com/contact-us "email Crimson Hexagon")l via our contact page.
+If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Site, you can send an email via [our contact options](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
 
 ## Special Notification for California Residents
 
 Users who reside in California and have provided Personal Information to Crimson Hexagon have the right to receive: (a) information identifying any third party to whom Crimson Hexagon may have disclosed, within the past year, personal information pertaining to you and your family for that party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email your request to privacy@crimsonhexagon.com. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
-Updated: February 2014
+_Updated: February 2014_
