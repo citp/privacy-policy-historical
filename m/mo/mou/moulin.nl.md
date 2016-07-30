@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moulin.nl privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405023453id_/https%3A//www.moulin.nl/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moulin.nl privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730054422id_/https%3A//moulin.nl/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Moulin
 
