@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324104839id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730141144id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LewdGamer.com
 
