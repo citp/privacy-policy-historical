@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412153721id_/https%3A//www.univariety.com/app/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730061303id_/https%3A//www.univariety.com/app/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
