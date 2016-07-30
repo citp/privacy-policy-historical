@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadscity.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064945id_/https%3A//www.freeadscity.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadscity.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730142906id_/https%3A//www.freeadscity.com/help-privacy.html) for the most accurate reproduction.*
 
 # US free classifieds - Privacy policy
 
