@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329152923id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731212025id_/https%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CollectPlus
 
@@ -63,7 +63,7 @@ In light of the new [EU Directive 2009/136/EC](http://eur-lex.europa.eu/LexUriSe
 
 We use Google Analytics, which requires the use of cookies issued by Google, to perform some of these essential functions. These cookies have variable persistence. For more details please view Google's policy on use: [Google cookie policy](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet) . If you do not wish to retain these cookies, you can delete them in your browser's preferences at any time. 
 
-##  If a user accepts our Terms and Conditions and, thereby, our Privacy policy when you checkout on our Site, we may also use cookies to measure the effect of our online marketing and to control how often users see our online advertisements. By accepting our [Terms and Conditions](http://www.collectplus.co.uk/terms-and-conditions) and, thereby, our Privacy Policy, you are actively giving your consent to receive these cookies. 
+##  If a user accepts our Terms and Conditions and, thereby, our Privacy policy when you checkout on our Site, we may also use cookies to measure the effect of our online marketing and to control how often users see our online advertisements. By accepting our [Terms and Conditions](https://www.collectplus.co.uk/terms-and-conditions) and, thereby, our Privacy Policy, you are actively giving your consent to receive these cookies. 
 
 Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that. However, you will not be able to take full advantage of the Site if you do so. 
 
