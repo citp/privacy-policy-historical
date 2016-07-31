@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workmarket.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616232356id_/https%3A//www.workmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workmarket.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731135224id_/https%3A//www.workmarket.com/privacy) for the most accurate reproduction.*
 
 # Premium Freelance Management System & Workforce Solutions | Work Market
 
