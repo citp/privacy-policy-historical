@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpswox.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401125853id_/http%3A//www.gpswox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpswox.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731195334id_/https%3A//www.gpswox.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | GPS Tracking Software - GPSWOX.COM
 
