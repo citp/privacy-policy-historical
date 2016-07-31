@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usmobile.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507164703id_/https%3A//www.usmobile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmobile.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731140120id_/https%3A//www.usmobile.com/privacy-policy.html) for the most accurate reproduction.*
 
-# US Mobile
+# Privacy Policy | US Mobile
 
 ### We care about your privacy
 
