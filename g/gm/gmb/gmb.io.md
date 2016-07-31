@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmb.io privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234907id_/https%3A//gmb.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmb.io privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731214546id_/https%3A//gmb.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
