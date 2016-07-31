@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623021621id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731123913id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
 
 # Free College Scholarships // Privacy Policy
 
