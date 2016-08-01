@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalibrr.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506155150id_/https%3A//www.kalibrr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalibrr.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802012823id_/https%3A//www.kalibrr.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kalibrr: Where Jobs Find You
 
