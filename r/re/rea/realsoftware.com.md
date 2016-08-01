@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524205749id_/http%3A//www.xojo.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801053436id_/http%3A//www.xojo.com/company/privacy.php) for the most accurate reproduction.*
 
 # Xojo: Xojo Privacy Policy
 
