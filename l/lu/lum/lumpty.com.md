@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumpty.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513082110id_/http%3A//www.lumpty.com/info/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumpty.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801123426id_/http%3A//www.lumpty.com/info/privacyPolicy.html) for the most accurate reproduction.*
 
-# Lumpty Learning privacy policy
+# Lumpty privacy policy
 
 Lumpty™ is a trademark of eChalk Ltd. All rights reserved. 
 
