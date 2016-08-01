@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the datafloq.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304152322id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafloq.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801051857id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
 
 # Datafloq - Privacy Policy
 
 At Datafloq.com ("Datafloq") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our website and faithfully recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
- **When does Datafloq collect my personal information?**
+##  **When does Datafloq collect my personal information?**
 
 You may provide personal information to Datafloq by entering and submitting your data in any of the forms on the website. At no time will you be required to share any personal information to gain complete access to our site. Datafloq is an open community but email addresses and names are requested to participate in some of our member-only features.
 
 In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
 
- **How does Datafloq use my personal information?**
+##  **How does Datafloq use my personal information?**
 
 Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
 
-·       To send you a (daily) digest of Datafloq news stories or newsletter. This subscription is entirely opt-in by the user.
+  * To send you a (daily) digest of Datafloq news stories or newsletter. This subscription is entirely opt-in by the user.
+  * To respond to an inquiry or to notify you if needed.
+  * When commenting via the Facebook Connect, we do not get access to your email address nor do we have any access to your personal data or private information.
+  * To perform data analytics and advertising targeting.
 
-·       To respond to an inquiry or to notify you if needed.
 
-·       When commenting via the Facebook Connect, we do not get access to your email address nor do we have any access to your personal data or private information.
-
-·       To perform data analytics and advertising targeting.
 
 We will never sell individual personal data or email addresses or allow them to be used for mailings you have not asked to receive.
 
@@ -32,7 +31,11 @@ Non-personally identifiable information (such as stated above) may be shared in 
 
 Third parties and websites that have links on our site may also collect or use information about you. This Privacy Policy does not cover the information practices of other companies.
 
- **Datafloq Comment Policy**
+##  **Advertising**
+
+Datafloq uses Google Ads to show advertising on Datafloq. These ads are based on the content of Datafloq. In addition, Datafloq uses Infolinks to show ads. Infolinks is an online advertising platform offering ad solutions. Infolinks helps online bloggers and website publishers earn real revenue from their sites so that they can continue creating great new content. Infolinks goes beyond conventional advertising by providing non-disruptive solutions delivering relevant ads website context.
+
+##  **Datafloq Comment Policy**
 
 We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, "spammy" in nature, abusive, use excessive foul language, or include ad hominem attacks.
 
@@ -58,7 +61,7 @@ VII.                **Quality:**  We encourage you to take respon
 
 Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts and help to keep the Datafloq community environment inviting, insightful and constructive.
 
- **How you can contact us**
+##  **How you can contact us**
 
 If you have questions about either this Privacy Policy please email us using our [feedback form](https://web.archive.org/contact/).
 
