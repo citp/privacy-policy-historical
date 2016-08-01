@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629095808id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801215941id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
