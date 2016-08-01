@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honey.is privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409192620id_/https%3A//honey.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honey.is privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801101119id_/https%3A//honey.is/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Honey
 
