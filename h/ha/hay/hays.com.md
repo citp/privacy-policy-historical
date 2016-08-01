@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610220230id_/https%3A//www.haysplc.com/site-services/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801114834id_/https%3A//www.haysplc.com/site-services/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and privacy policy | Hays – Recruiting experts worldwide
 
