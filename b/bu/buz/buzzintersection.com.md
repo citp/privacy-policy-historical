@@ -1,100 +1,76 @@
-> *The following text is extracted and transformed from the buzzintersection.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzintersection.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801202657id_/http%3A//www.buzzintersection.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | BUZZ INTERSECTION
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy and Your Privacy Rights
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+_Last Updated: February 15, 2016_
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Privacy Statement
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy applies to this website located at [http://www.buzzintersection.com](http://www.cookingli.com/) (the “Web Site”), which is owned and operated by Web Value, Inc. d/b/a Buzz Intersection (“Buzz Intersection”, “we” or “us”). This Privacy Policy describes what information is collected by us from any user of the Web Site (collectively or individually “user(s),” “yourself,” or “you”), as well as our use and disclosure of that information. Please read this Privacy Policy carefully, as it governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
 
-**Information Collection and Use**
+MINORS UNDER THE AGE OF 18 MUST NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO BUZZ INTERSECTION. IF BUZZ INTERSECTION IS NOTIFIED IT HAS PERSONAL INFORMATION ABOUT A MINOR UNDER THE AGE OF 18, THAT INFORMATION WILL BE PROMPTLY DELETED FROM OUR DATABASE.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Applicability
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Please note that this Privacy Policy only applies to the Web Site owned and/or operated by, and upon which Buzz Intersection has placed a “link” which, when “clicked”, transfers you to this Privacy Policy. It is not applicable to any web sites that are not owned and operated by Buzz Intersection. While on our Web Site, you may encounter links to these web sites or online material. If you “click” on a link to such a third party, the “click” takes you off our Web Site and transfers you to a third party’s web site, which Buzz Intersection does not control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at Buzz Intersection’s Web Site, and does not cover any information collected by any other web site. We encourage you to review the privacy policy of any other web site you visit.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online – for example, via message boards or chat rooms – that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster’s name and message. Buzz Intersection bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Information Buzz Intersection Collects
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  1. **Personally Identifiable Information:** Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date, or e-mail address), which we refer to in this Privacy Policy as “PII.” Generally, you may browse our Web Site without providing us with PII. However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters, or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Buzz Intersection reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site, or a portion of our Web Site. You can choose not to provide certain information, but you may not be able to take advantage of, or participate in, some or all of the Web Site’s features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, or share with friends using other special features from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**2\. The Web Site does not knowingly collect PII from children under thirteen (13) years of age:**  This is not a web site directed to children under the age of 13, and Buzz Intersection does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Buzz Intersection. If Buzz Intersection discovers that a child under the age of 13 has provided the Web Site with PII, Buzz Intersection will delete that child’s PII from its system.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  2. **Anonymous Information:** When you visit the Web Site, our web servers automatically collect web site usage information. Web Site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page, and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
 
-**Security**
+**4\. IP Addresses:**  An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor’s IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster’s name and message.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**5\. Cookies:**  Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies to serve relevant advertisements based on your expressed interests on websites within our network of online publishers. We may also use cookies to record registration and personalization information, enabling you to save your user name and password on the Web Site. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies. To learn more about cookies in general, please visit [http://www.cookiecentral.com](http://www.cookiecentral.com/). Please note that Flash cookies operate different than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit [Adobe’s website.](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+To opt out of other ad networks that serve interest-based advertisements please visit [Network Advertising Initiative’s Consumer Opt-Out link](http://www.networkadvertising.org/managing/opt_out.asp), the [Digital Advertising Alliance’s Computer Opt-Out link](http://www.aboutads.info/choices/), or [TRUSTe’s Advertising Choices Page](http://preferences-mgr.truste.com/) to opt-out of receiving tailored advertising from companies that participate in those programs.
 
-      iii.      You may call us at: (480) 505-8800
+  6. **Web Beacons** **:** A web beacon is programming code in a web page or email, which unobtrusively allows checking that a user has accessed the content. This technology can transfer an individual’s user identification to a database and associate the individual with previously acquired information about the individual. Buzz Intersection uses web beacons to track which websites you have visited and which advertisements you have viewed. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes. More information about web beacons is available at [http://www.webopedia.com/TERM/W/Web_beacon.html.](http://www.webopedia.com/TERM/W/Web_beacon.html)
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Buzz Intersection’s Use and Disclosure of Collected Information
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  7. **Buzz Intersection:** Information voluntarily provided to Buzz Intersection or lawfully obtained by Buzz Intersection is the property of Buzz Intersection and may be used for marketing purposes, which includes the sale, lease, or transfer of the information to third parties. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Buzz Intersection may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes. The Web Site is supported by advertising revenue and we may send you commercial emails on behalf of advertisers or ourselves. Each email will have an opt-out link that you can use to stop receiving such communications. 
 
-**Compliance with Laws and Law Enforcement**
+**8\. Third parties providing services on our behalf:** Buzz Intersection may employ other companies and individuals to perform functions on its behalf such as cookies and web beacons provided by third parties. Third parties placing advertisements on the internet may collect information about you, by using their own cookies, web beacons, and other technology. Third parties use of such technology is not under Buzz Intersection’s control. Buzz Intersection may place cookies of its advertisers who are under contract with Buzz Intersection on your computer. This technology may be placed within emails sent to by Buzz Intersection or a third party, which you open or click to view. This Policy is not applicable to third parties that are not in contract with Buzz Intersection or to individuals with no affiliation to Buzz Intersection. Articles and email messages transmitted through email by Buzz Intersection on its own behalf or on behalf of content providers may have links to the third party websites. Buzz Intersection is only responsible for the privacy policy and practices of Buzz Intersection and is not responsible for the privacy policies or practices on any other websites.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  8. **Other Third Parties:** Buzz Intersection may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Buzz Intersection does not rent, sell, or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances:
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  1. **A)** **Legal action:** Buzz Intersection may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Buzz Intersection may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property, or protect the safety, rights or property of our users. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**B) Affiliated Companies and Corporate change:**  Buzz Intersection may sell, transfer or otherwise disclose user information, including PII, to wholly owned or controlled Buzz Intersection entities, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site.
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+  10. **Security:** Buzz Intersection takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Buzz Intersection cannot ensure or warrant the security of any information you transmit to Buzz Intersection and you transmit such information at your own risk. All financial transactions completed through the Web Site use industry standard e-commerce software and hardware. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**11\. Consent to Transfer:** The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services, and/or providing us with your information, you consent to this transfer.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**12\. Acceptance / Changes to Privacy Policy:**  By using the Web Site, you agree to the terms of this Privacy Policy. Buzz Intersection reserves the right to modify, alter, or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**California Do-Not-Track Disclosure Requirements**
 
-**Transfer of Data Abroad**
+We do not respond to browser-initiated Do-Not-Track signals, as the industry has not yet reached an industry wide accepted standard for responding to these signals. However, in order to help address your privacy concerns, we have provided you with several opt-out links regarding information collected on our Web Site for third-party purposes, such as the Network Advertising Initiative’s Consumer Opt-Out Link, the Digital Advertising Alliance’s Computer Opt-Out Link, and the TRUSTEe’s Advertising Choices Page.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Your California Privacy Rights**
 
-**Changes in Our Practices**
+In California, you are entitled to ask us for information identifying the categories of personal information we share with any third parties for marketing purposes, if any, as provided for in California Civil Code sections 1798.83 and 1798.84. If you are a California resident and would like a copy of this information, please submit a written request to the following: info@buzzintersection.com.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Contact Us**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions, comments or concerns about our Privacy Policy, please contact us at [info@buzzintersection.com.](mailto:info@losangelespost.com.)
