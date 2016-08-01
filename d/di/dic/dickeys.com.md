@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickeys.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317153153id_/https%3A//www.dickeys.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickeys.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801023058id_/https%3A//www.dickeys.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # P
 
