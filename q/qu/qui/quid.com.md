@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quid.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506064911id_/https%3A//quid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quid.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802122611id_/https%3A//quid.com/privacy-policy) for the most accurate reproduction.*
 
 # Quid
 
@@ -91,3 +91,7 @@ Or you can contact us by mail at Quid Inc., 62 1st Street, 5th Floor, San Franci
   *  _Browser:_   is the software application on your computer that lets you “see” websites.  Common browsers are Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Opera and Apple Safari.
 
 
+
+Get to know Quid. Chat with us for about 15 minutes about your project, and we'll create a free guided test drive to help you find solutions.
+
+clear x
