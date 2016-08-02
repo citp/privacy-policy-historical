@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsara.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405130606id_/https%3A//www.samsara.com/static/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsara.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802192341id_/https%3A//www.samsara.com/static/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # Samsara Privacy Policy
 
