@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miraclephytoceramides.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526082045id_/https%3A//miraclephytoceramides.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miraclephytoceramides.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802161642id_/https%3A//miraclephytoceramides.com/privacy2.html) for the most accurate reproduction.*
 
 # Miracle Phytoceramides
 
