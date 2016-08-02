@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the everhour.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313204043id_/https%3A//everhour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everhour.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802221728id_/https%3A//everhour.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ## Privacy policy
 
-_Last updated: Aug 13, 2015_
+_Last updated: Mar 31, 2016_
 
-Bears Investment Group, LLC (an authorized reseller of Everhour software developed by [Weavora Consulting LLC](http://weavora.com/)) (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy”) is designed to explain what information we collect, how your information is collected, and how we may use it on our website everhour.com and other websites and services that we operate. 
+Software by Demand, Inc. (an authorized reseller of Everhour software developed by [Weavora Consulting LLC](http://weavora.com/)) (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy”) is designed to explain what information we collect, how your information is collected, and how we may use it on our website everhour.com and other websites and services that we operate. 
 
 As you will see in the Policy, we only use the information collected to improve our services for our users. If after reviewing the Policy you have any further questions, please contact us at [ask@everhour.com](mailto:ask@everhour.com)
 
@@ -16,7 +16,7 @@ Everhour maintains reasonable security measures to protect your information from
 
 We will share your personal information with third parties ONLY in the ways that are described in this privacy statement. We do not and will not sell your personal information to third parties. 
 
-Unfortunately, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure due to the nature of the distributed network that is the Internet, and Bears Investment Group, LLC (an authorized reseller of Everhour software developed by Weavora Consulting LLC) is not liable for any loss or damage resulting from data gathered by unauthorized access to our Services from hacking, social engineering, or otherwise circumventing our security measures. 
+Unfortunately, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure due to the nature of the distributed network that is the Internet, and Software by Demand, Inc. (an authorized reseller of Everhour software developed by Weavora Consulting LLC) is not liable for any loss or damage resulting from data gathered by unauthorized access to our Services from hacking, social engineering, or otherwise circumventing our security measures. 
 
 When you enter sensitive information (such as credit card number) on our order form, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
