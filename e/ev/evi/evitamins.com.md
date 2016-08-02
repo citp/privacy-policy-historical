@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185237id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802072658id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins - Privacy Policy
 
@@ -36,4 +36,4 @@ eVitamins uses tracking technologies and may send anonymous information about yo
 **What about email?**  
 eVitamins sends out order confirmation and order tracking emails to our customers when you place an order. These order related emails are vital to making sure your order is delivered correctly therefore, you do not have the opportunity to opt out or unsubscribe from these order emails. You may also sign up for one of our newsletter emails during the checkout process when placing an order. You may unsubscribe to these newsletters emails at anytime by logging into your account and changing your communication preferences. In addition, you may also unsubscribe to any newsletter email by following the "unsubscribe" link at the bottom of each newsletter.
 
- **eVitamins last updated our privacy policy on:** 06/01/2011 
+ **eVitamins last updated our privacy policy on:** 06/01/2016 
