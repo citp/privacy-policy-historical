@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214084918id_/https%3A//www.bitext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802035844id_/https%3A//www.bitext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for bitext.com
+
+[Bitext](https://www.bitext.com/) » Privacy Policy for bitext.com
 
 We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our Site or via any other media at [http://www.bitext.com](http://www.bitext.com/) (the “Site”) or the rest of our online services and demos (the “Service”).
 
