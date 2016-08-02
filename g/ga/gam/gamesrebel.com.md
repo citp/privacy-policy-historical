@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesrebel.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625000338id_/http%3A//www.gamesrebel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesrebel.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802101940id_/http%3A//www.gamesrebel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Addicting Games at GamesRebel.com
 
