@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentreef.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601224725id_/http%3A//www.talentreef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentreef.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803162044id_/http%3A//www.talentreef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | talentreef
 
