@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionata.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702025425id_/https%3A//auctionata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionata.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803172855id_/https%3A//auctionata.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Auctionata
 
@@ -12,11 +12,11 @@ _**Before any purchase via this website you will have to take notice and have to
 
 _**The Privacy Policy below applies for all purchases of goods at auction or via the online shop in which Auctionata, Inc. acts as the seller.**_
 
-_**For all purchases of goods at auction or via the online shop in which Auctionata AG acts as the seller, this[Privacy Policy](https://auctionata.com/intl/privacy-policy) applies.**_
+_**For all purchases of goods at auction or via the online shop in which Auctionata AG acts as the seller, this[Privacy Policy](https://web.archive.org/en-us/privacy-policy) applies.**_
 
 _**The transaction details can be determined from information on the lot detail page.**_
 
-Auctionata, Inc. (“Auctionata”) is committed to letting you know how we will collect and use your personally identifiable information. The policies below are applicable to Auctionata’s network of websites, including [www.auctionata.com](https://www.auctionata.com/) and [magazine.auctionata.com](https://magazine.auctionata.com/), all email newsletters published or distributed by Auctionata, the Auctionata mobile application, and all other interactive features, services, and communications provided by Auctionata (the ”Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Auctionata (collectively “Auctionata” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personally identifiable information we may gather during your visit to these Sites, why we gather your information, what we use your personally identifiable information for, when we might disclose your personally identifiable information, and how you can manage your personally identifiable information.
+Auctionata, Inc. (“Auctionata”) is committed to letting you know how we will collect and use your personally identifiable information. The policies below are applicable to Auctionata’s network of websites, including [www.auctionata.com](https://web.archive.org/en-us/) and [magazine.auctionata.com](https://magazine.auctionata.com/), all email newsletters published or distributed by Auctionata, the Auctionata mobile application, and all other interactive features, services, and communications provided by Auctionata (the ”Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Auctionata (collectively “Auctionata” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personally identifiable information we may gather during your visit to these Sites, why we gather your information, what we use your personally identifiable information for, when we might disclose your personally identifiable information, and how you can manage your personally identifiable information.
 
 This Privacy Policy does not apply to websites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
@@ -186,4 +186,4 @@ California Civil Code Section 1798.83 permits customers of Auctionata who are Ca
 
 As the Sites continue to develop, we may add new services and features to the Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use the Sites in case you missed our notice of changes to the Privacy Policy. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. We will not, however, materially change our policies and practices to make them less protective of personally identifiable information we have previously collected from you without your express consent.
 
-[PDF version of the Privacy Policy for downloading and printing](https://d2c2dsgt13elzw.cloudfront.net/resources/Original/7f/eb/8b07-79bf-4853-9ab6-ca7266aeb25c.pdf)
+[PDF version of the Privacy Policy for downloading and printing](https://d2c2dsgt13elzw.cloudfront.net/resources/Original/19/4f/348c-5f03-44ae-b201-c9a5162871eb.pdf)
