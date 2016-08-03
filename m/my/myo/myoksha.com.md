@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myoksha.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320072036id_/https%3A//www.myoksha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoksha.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803111600id_/https%3A//www.myoksha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myoksha
+
+**[](https://www.myoksha.com/)**
 
 ## Effective Date: July, 2014
 
@@ -61,3 +63,5 @@ This policy and the use of these Sites are governed by Indian law. If a dispute
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Mumbai, India, under the rules of the Indian Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 Myoksha.com is controlled, operated and administered entirely within Mumbai, India. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+Scroll to top
