@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121030id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803101700id_/http%3A//www.clientattraction.com/privacy-policy) for the most accurate reproduction.*
 
-# Entrepreneur Mentoring Program – Client Attraction Privacy Policy
+# Entrepreneur Mentoring Program - Client Attraction Privacy Policy
 
 Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
@@ -48,7 +48,7 @@ You are responsible for maintaining the confidentiality of your information and 
 When users send us testimonials, stories, photos and/or other User Content, these materials may be posted on our Site. We will not return any materials, such as photographs, once they have been sent to us.
 
 **Accessing Your Information**  
-You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by [emailing us here](mailto:info@clientattraction.com).
+You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by [emailing us here](mailto:info@clientattraction.com).
 
 **Linked Sites**  
 The Client Attraction website may contain links to other websites that are not controlled and/or maintained by “CA”. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
@@ -59,7 +59,7 @@ From time to time, this Privacy Policy may change. We will post changes to the P
 This Privacy Policy was last updated on 7/27/10 and is effective immediately.
 
 **Contact Us**  
-If you have any questions concerning this Privacy Policy, please [send us an email here](mailto:info@clientattraction.com).
+If you have any questions concerning this Privacy Policy, please [send us an email here](mailto:info@clientattraction.com).
 
 **Governing Law**  
 This Privacy Policy shall be governed by the laws of the State of Connecticut, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in Connecticut within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
