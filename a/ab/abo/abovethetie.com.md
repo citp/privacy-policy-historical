@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104043649id_/http%3A//www.abovethetie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803065439id_/https%3A//www.abovethetie.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Above the Tie
+# Privacy Policy – Above the Tie
 
 ### Effective November 1 2011
 
 ### Privacy Notice Table Of Contents:
 
-[Our Commitment To Privacy](http://www.abovethetie.com/?privacy_policy#Our%20Commitment%20To%20Privacy)  
-[The Information We Collect](http://www.abovethetie.com/?privacy_policy#The%20Information%20We%20Collect)  
-[The Information We Don’t Collect](http://www.abovethetie.com/?privacy_policy#The%20Information%20We%20Don%27t%20Collect)  
-[How We Use Information](http://www.abovethetie.com/?privacy_policy#How%20We%20Use%20Information)  
-[Our Commitment To Data Security](http://www.abovethetie.com/?privacy_policy#Our%20Commitment%20To%20Data%20Security)  
-[How To Contact Us](http://www.abovethetie.com/?privacy_policy#How%20To%20Contact%20Us)
+Our Commitment To Privacy  
+The Information We Collect  
+The Information We Don’t Collect  
+How We Use Information  
+Our Commitment To Data Security  
+How To Contact Us
 
 * * *
 
@@ -61,7 +61,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.abovethetie.com/contact/).
 
-###  Trackbacks and pingbacks
+### Trackbacks and pingbacks
 
 
 
