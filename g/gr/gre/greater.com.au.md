@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301133632id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803030602id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greater Building Society
+# Privacy Policy | Greater Bank Limited
 
-### Greater Building Society Ltd  
+### Greater Bank Limited  
 Australian Privacy Principle and Credit Information Policy
 
-Greater Building Society Ltd (ABN 88 087 651 956) ('we', 'us', 'our') is bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) (Privacy Act). We are also bound by Division 3 of Part IIIA of the Privacy Act, which regulates the handling of credit information, credit eligibility information and related information by credit providers and the Credit Reporting Privacy Code.
+Greater Bank Limited (ABN 88 087 651 956) ('we', 'us', 'our') is bound by the Australian Privacy Principles under the Privacy Act 1988 (Cth) (Privacy Act). We are also bound by Division 3 of Part IIIA of the Privacy Act, which regulates the handling of credit information, credit eligibility information and related information by credit providers and the Credit Reporting Privacy Code.
 
 This Australian Privacy Principle and Credit Information Policy (Policy) outlines how we deal with your personal information (including credit-related information), as well as our legal obligations and rights as to that information. If we agree with you to use or disclose any of your personal information in ways which differ to those stated in this Policy, the provisions of that agreement will prevail to the extent of any inconsistency.
 
@@ -61,7 +61,7 @@ Some information is created through our internal processes, like credit eligibil
 
 **3\. Use**
 
-We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may include:
+We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may
 
   * assessing and processing your application for the products and services we offer
   * establishing and providing our systems and processes to provide our products and services to you
