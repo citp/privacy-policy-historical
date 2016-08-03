@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbase.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210024353id_/https%3A//www.healthbase.com/hb/pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbase.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803075204id_/https%3A//www.healthbase.com/hb/pages/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
