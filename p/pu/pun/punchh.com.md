@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319141802id_/https%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchh.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803200717id_/http%3A//punchh.com/privacy_policy) for the most accurate reproduction.*
 
 # Punchh
 
@@ -73,8 +73,4 @@ We have made an effort to protect the personal information of all Members and ot
 
 ### Contacting Punchh
 
-If you have any questions about this privacy policy, Punchh's privacy practices, or your dealings with Punchh, please contact us.
-
-201 San Antonio Circle, Suite 250, Mountain View 94040  3rd Floor, Sanghi Building, Paanch Batti, M.I. Road, Jaipur (INDIA) 302001 
-
-Made with ♥ at Punchh, Inc. All rights reserved. © 2016 
+If you have any questions about this privacy policy, Punchh's privacy practices, or your dealings with Punchh, please [contact us](https://web.archive.org/contact) .
