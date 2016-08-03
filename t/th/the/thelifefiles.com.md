@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelifefiles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171625id_/http%3A//www.thelifefiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelifefiles.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803221431id_/http%3A//www.thelifefiles.com/privacy-policy) for the most accurate reproduction.*
 
 # the.LIFE Files - Welcome To Exclusiveness - The world’s most exclusive site. We are pop culture.
 
