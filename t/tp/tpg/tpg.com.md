@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tpg.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328004253id_/http%3A//www.tpg.com/sites/default/files/2016-02/TPG%2520Website%2520Privacy%2520Policy%2520Doc.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpg.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803225348id_/http%3A//www.tpg.com/sites/default/files/2016-04/TPG%2520Website%2520Privacy%2520Policy%2520Doc.pdf) for the most accurate reproduction.*
 
 # TPG$Privacy$Policy$
 
 TPG$Privacy$Policy$
-Last%modified:%February%16,%2016%
+Last%modified:%April 14,%2016%
 Our$Commitment$to$Your$Privacy$
-This%Privacy%Policy%applies%to%this%website%(the%“Site”),%which%provides%information%about%TPG%Global,%LLC%
-(together%with%its%affiliates,%“TPG”%or%“we”).%%This%privacy%policy%only%applies%to%information%we%may%collect%
+This%Privacy%Policy%applies%to%this%website%(the%“Site”),%which%provides%information%about us%(the affiliated
+entities commonly referred to as “TPG”).%%This%privacy%policy%only%applies%to%information%we%may%collect%
 from%visitors%to%the%Site%or%that%visitors%to%the%Site%may%provide%through%the%Site.%
 Information$We$Collect$
 This%site%collects%information%that%you%choose%to%provide.%%Please%do%not%provide%information%that%you%do%
