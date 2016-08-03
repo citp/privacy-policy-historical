@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the waaytv.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016040218id_/http%3A//www.waaytv.com/content/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waaytv.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803022640id_/http%3A//www.waaytv.com/site/privacy.html) for the most accurate reproduction.*
 
-# About Us - WAAYTV.com- Huntsville, Alabama Television - News Weather Sports
+# Privacy Policy | Site | waaytv.com
 
-This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with WAAY-TV ("WAAY-TV"). WAAY-TV is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WAAY-TV (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet. 
+## **This Web Site's Privacy Policy**
+
+This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with WAAY-TV ("WAAY-TV"). WAAY-TV is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WAAY-TV (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
 Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
 
 Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at webadmin@waaytv.com.
 
-## The information we gather
+**The information we gather**
 
 We gather two types of information about this Web site's users:
 
@@ -26,7 +28,7 @@ We do not knowingly collect personally identifiable information from children (d
 
 We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Web site or WAAY-TV. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact webadmin@waaytv.com.
 
-## How we use (and do not use) the information we gather
+**How we use (and do not use) the information we gather**
 
 Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact webadmin@waaytv.com; we will be happy to forward your message to the third party.
 
@@ -46,18 +48,36 @@ We reserve the right to release any and all information contained within our acc
 
 If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
 
-## Security
+**Security**
 
 All information gathered on the Web site is stored within a controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at webadmin@waaytv.com.
 
-## Changing/deleting personal information
+**Changing/deleting personal information**
 
 If you would like to have your personally identifiable information changed or removed from our database, please contact us at webadmin@waaytv.com, and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
 
-## Third-Party Ad Serving
+**Third-Party Ad Serving**
 
 We use third-party advertising companies to serve ads when you visit this Web site. These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at webadmin@waaytv.com, or click here http://www.networkadvertising.org/optout_nonppii.asp.
 
-## Questions?
+**Questions?**
 
 Questions regarding this Privacy Policy should be directed to us at webadmin@waaytv.com.
+
+The Digital Millennium Copyright Act of 1998 (the "DMCA") provides copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law certain rights.  If you believe in good faith that materials hosted by Huntsville Broadcast Corporation infringe your copyright, you (or your agent) may send us a notice requesting that the material be removed, or access to it blocked. The notice must include the following information:
+
+(i)    a physical or electronic signature of a person authorized to act on behalf of the copyright owner of the allegedly infringed work;
+
+(ii)    identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+
+(iii)    identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+
+(iv)    information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address;
+
+(v)    a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by you, your agent, or the law;
+
+(vi)    a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+All notices described above should be sent to kneighbors@waaytv.com.
+
+Please note that under Section 512(f) of the DMCA any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
