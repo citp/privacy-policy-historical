@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921171826id_/https%3A//www.eurojobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804005521id_/https%3A//www.eurojobs.com/privacy) for the most accurate reproduction.*
 
 # Eurojobs.com: Privacy
 
