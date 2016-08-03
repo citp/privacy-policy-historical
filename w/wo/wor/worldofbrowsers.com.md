@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofbrowsers.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621010024id_/http%3A//worldofbrowsers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbrowsers.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803231608id_/http%3A//worldofbrowsers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy · World of Browsers – Web Browsers Reviews & Updates
 
 World of Browsers is committed to protecting the privacy of online users. This document outlines our technology and the practices we use to collect information.
 
