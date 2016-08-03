@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royzez.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611024209id_/https%3A//www.royzez.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royzez.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803151446id_/https%3A//www.royzez.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Royzez.com
 
