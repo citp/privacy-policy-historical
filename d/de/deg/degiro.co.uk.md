@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degiro.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610154224id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degiro.co.uk privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803223111id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
