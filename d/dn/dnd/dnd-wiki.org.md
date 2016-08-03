@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnd-wiki.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630144521id_/https%3A//www.dnd-wiki.org/wiki/Dungeons_and_Dragons_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnd-wiki.org privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804014101id_/https%3A//dnd-wiki.org/wiki/Dungeons_and_Dragons_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Dungeons and Dragons Wiki:Privacy policy - Dungeons and Dragons Wiki
 
