@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairedream.co privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404223427id_/http%3A//www.millionairedream.co/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairedream.co privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803025639id_/http%3A//www.millionairedream.co/privacy.html) for the most accurate reproduction.*
 
 # Millionaire Dream
 
