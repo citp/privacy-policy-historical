@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueearn.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602065605id_/http%3A//www.blueearn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueearn.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803024521id_/http%3A//www.blueearn.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to blueearn.com - Privacy Policy
 
