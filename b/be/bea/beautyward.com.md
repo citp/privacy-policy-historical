@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyward.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220134038id_/http%3A//www.beautyward.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyward.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804063648id_/http%3A//www.beautyward.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to beautyward.com - Privacy Policy
 
