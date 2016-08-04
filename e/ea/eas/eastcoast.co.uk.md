@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185017id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804211343id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Trains East Coast
 
