@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507122834id_/http%3A//www.relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804194506id_/https%3A//relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Footer | Main Navigation
-
-## 
+# Privacy Statement | Footer
 
 Relevant Radio® is committed to protecting your privacy. Relevant Radio is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement.
 
@@ -18,7 +16,8 @@ Relevant Radio collects and uses your personal information to deliver the servic
 
 Relevant Radio may contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Relevant Radio does not sell, rent, exchange or lease its customer lists to third parties.   We may occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.  
+Relevant Radio does not sell, rent, exchange or lease its customer lists to third parties.   We may occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
+
 Relevant Radio may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Relevant Radio or the site; (b) protect and defend the rights or property of Relevant Radio; or (c) act under exigent circumstances to protect the personal safety of users of Relevant Radio services or members of the public.
 
 Personal information collected on this site may be stored and processed in the United States or any other country in which Relevant Radio or its subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.
@@ -61,11 +60,3 @@ Relevant Radio**
 1496 Bellevue St, Suite 202  
 Green Bay, WI 54311  
 1-877-291-0123
-
-|   | 
-
-  * .....................................
-
-  
-  
----|---|---
