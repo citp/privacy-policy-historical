@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412165254id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804022808id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OVO Energy
 
@@ -73,7 +73,7 @@ We may allow other organisations and people to use personal information we hold 
   * To provide you with information about our products and services or other products and services which may be of interest to you (provided you’ve given your consent);
   * To help manage any reward or loyalty schemes;
   * If we sell one or more of our businesses;
-  * To help prevent and detect debt or fraud.  We may give this information to a credit-reference or a debt collection agency.  For more information on how we conduct credit checks, please see section 9 of our [Core Terms and Conditions here](https://www.ovoenergy.com/coreterms2015) and our [guide to credit checks here](https://web.archive.org/guides/energy-guides/ultimate-guide-to-a-credit-check.html).
+  * To help prevent and detect debt or fraud.  We may give this information to a credit-reference or a debt collection agency.  For more information on how we conduct credit checks, please see section 9 of our [Core Terms and Conditions here](https://www.ovoenergy.com/coreterms2015) and our [guide to credit checks here](https://web.archive.org/pagenotfound).
   * If we have been asked (for example, by a regulatory authority such as Ofgem) to provide information for legal or regulatory purposes; or
   * As part of current or future legal action.
 
