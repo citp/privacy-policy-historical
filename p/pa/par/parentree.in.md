@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405112511id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804063643id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
 
 # Parentree - Privacy POlicy
 
