@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapsystem.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122202540id_/https%3A//kapsystem.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapsystem.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804045127id_/https%3A//kapsystem.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bulk SMS India Company | Best Bulk SMS Services Providers | SMS Gateways Providers Messages
 
