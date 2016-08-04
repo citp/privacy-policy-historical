@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025742id_/http%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804203241id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How Newsflare works | Newsflare
 
