@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ovoenergy.com privacy policy that was archived on 2016-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160412165254id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ovoenergy.com privacy policy that was archived on 2016-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160804022808id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -9,19 +9,18 @@
 <meta name="description" content="Read our privacy policy at OVO Energy. ">
 
 
-<link rel="canonical" href="https://www.ovoenergy.com/privacy-policy/">
+<link rel="canonical" href="https://www.ovoenergy.com/privacy-policy">
 
 
         <link rel="stylesheet" href="https://s3-eu-west-1.amazonaws.com/js-cms/websites-prd-blue/js-cms.min.css" type="text/css">
         <link link="" rel="shortcut icon" type="image/x-icon" href="https://s3-eu-west-1.amazonaws.com/js-cms/websites-prd-blue/img/favicons/ovoenergy.ico">
         <script src="https://script.crazyegg.com/pages/scripts/0021/7214.js?439016" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P452LW"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://s3-eu-west-1.amazonaws.com/js-cms/new-relic.js"></script>
         <script src="https://s3-eu-west-1.amazonaws.com/js-cms/websites-prd-blue/js-cms.min.js"></script>
-        <link rel="stylesheet" href="https://s3-eu-west-1.amazonaws.com/js-cms/websites-prd-blue/css/icons.css" type="text/css">
         <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
             for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
         mixpanel.init("63927f1a7c2dad7de4bdc8eed6ee9838");</script><!-- end Mixpanel -->
+        <script src="//cdn.optimizely.com/js/3497230075.js"></script>
 
-<script async="" src="//cdn.optimizely.com/js/3497230075.js"></script>
 <script>
     mixpanel.track('WEB - Viewed Website Screen', {
         'Path' : window.location.pathname
@@ -42,17 +41,35 @@
     };
 </script>
 
-    <script async="" src="/webfiles/1460452661030/js/ckeditor.update.js"></script>
+    <script async="" src="/webfiles/1470130988443/js/ckeditor.update.js"></script>
     <script async="" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
 
-    <!-- Start Crazy Egg Tracking -->
     <script type="text/javascript">
         setTimeout(function(){var a=document.createElement("script");
             var b=document.getElementsByTagName("script")[0];
             a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0021/7214.js?"+Math.floor(new Date().getTime()/3600000);
             a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     </script>
-    <!-- End Crazy Egg Tracking -->
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            $(".navdesktop-userarea-button, .navmobile-login").click(function(event) {
+                mixpanel.track("WEB - Clicked My OVO Button", {
+                    "referrer": document.referrer
+                });
+            })
+        })
+    </script>
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            console.log("LoadedEvent");
+            $('*[data-mixpanel-event]').click(function(e) {
+                var event = $(this).attr('data-mixpanel-event');
+                mixpanel.track(event,{
+                    "referrer": document.referrer
+                });
+            })
+        })
+    </script>
 
     <!--[if lt IE 9]>
     <style type="text/css">
@@ -104,11 +121,11 @@
 
 
     <ul id="main-menu">
-                <li><a href="/products">Products</a>
+                <li><a href="/get-a-quote">Get a quote</a>
                 <ul>
                 </ul>
           </li>
-                <li><a href="/get-a-quote">Get a quote</a>
+                <li><a href="/homemoves">Home Moves</a>
                 <ul>
                 </ul>
           </li>
@@ -122,7 +139,6 @@
           </li>
     </ul>
             <div class="navdesktop-userarea">
-                <!--<div class="navdesktop-userarea-phone">0800 000 000<i class="icon-phone"></i></div> -->
                 <a href="https://my.ovoenergy.com/login" class="navdesktop-userarea-button"><i class="icon-user"></i> My OVO</a>
             </div>
         </div>
@@ -158,9 +174,9 @@
         <a href="https://my.ovoenergy.com/login" class="navmobile-login">My OVO</a>
         <a href="" class="navmobile-search"><i class="icon-search"></i></a>
             <ul class="navmobile-menu">
-                            <li><a href="/products">Products</a>
-                    </li>
                             <li><a href="/get-a-quote">Get a quote</a>
+                    </li>
+                            <li><a href="/homemoves">Home Moves</a>
                     </li>
                             <li><a href="/about-ovo">About OVO</a>
                     </li>
@@ -262,7 +278,7 @@
  <li>To provide you with information about our products and services or other products and services which may be of interest to you (provided you’ve given your consent);</li>
  <li>To help manage any reward or loyalty schemes;</li>
  <li>If we sell one or more of our businesses;</li>
- <li>To help prevent and detect debt or fraud. &nbsp;We may give this information to a credit-reference or a debt collection agency. &nbsp;For more information on how we conduct credit checks, please see section 9 of our <a href="https://www.ovoenergy.com/coreterms2015" target="_blank">Core Terms and Conditions here</a> and our&nbsp;<a href="/guides/energy-guides/ultimate-guide-to-a-credit-check.html">guide to credit checks here</a>.</li>
+ <li>To help prevent and detect debt or fraud. &nbsp;We may give this information to a credit-reference or a debt collection agency. &nbsp;For more information on how we conduct credit checks, please see section 9 of our <a href="https://www.ovoenergy.com/coreterms2015" target="_blank">Core Terms and Conditions here</a> and our&nbsp;<a href="/pagenotfound">guide to credit checks here</a>.</li>
  <li>If we have been asked (for example, by a regulatory authority such as Ofgem) to provide information for legal or regulatory purposes; or</li>
  <li>As part of current or future legal action.</li>
 </ul>
@@ -399,7 +415,8 @@ If you have any questions about the way we handle your personal information, ple
         <div class="col-sm-3">
           <div class="fatfooter-nav-title">Products</div>
               <ul>
-                        <li><a href="/products">Energy plans</a></li>
+                        <li><a href="/products">Energy plans &amp; products</a></li>
+                        <li><a href="/ppa">Sell your Power</a></li>
                         <li><a href="/products/business-electricity">Business</a></li>
                         <li><a href="/products/smart-meters">Smart meters</a></li>
               </ul>
@@ -408,23 +425,24 @@ If you have any questions about the way we handle your personal information, ple
           <div class="fatfooter-nav-title">Resources</div>
               <ul>
                         <li><a href="https://switch.ovoenergy.com/get-quote">Switch to OVO</a></li>
-                        <li><a href="http://www.ovoenergy.com/refer">Refer a friend</a></li>
+                        <li><a href="/refer">Refer a friend</a></li>
                         <li><a href="/products/compare">Compare plans</a></li>
               </ul>
         </div>
         <div class="col-sm-3">
           <div class="fatfooter-nav-title">About OVO</div>
               <ul>
-                        <li><a href="http://www.ovoenergy.com/about-ovo/media-centre/">Media Centre</a></li>
+                        <li><a href="/about-ovo/media-centre">Media Centre</a></li>
                         <li><a href="/about-ovo/ovo-foundation">OVO Foundation</a></li>
-                        <li><a href="http://www.ovoenergycareers.co.uk/">Working with Ovo</a></li>
+                        <li><a href="/careers">Careers</a></li>
+                        <li><a href="/careers/vacancies">Vacancies</a></li>
               </ul>
         </div>
         <div class="col-sm-3">
           <div class="fatfooter-nav-title">Help</div>
               <ul>
-                        <li><a href="http://www.ovoenergy.com/help">Help &amp; Support</a></li>
-                        <li><a href="http://www.ovoenergy.com/help-info/complaint/">If you are unhappy</a></li>
+                        <li><a href="/help">Help &amp; Support</a></li>
+                        <li><a href="http://www.ovoenergy.com/help-info/complaint">If you are unhappy</a></li>
                         <li><a href="/guides">Guides</a></li>
               </ul>
         </div>
@@ -438,8 +456,7 @@ If you have any questions about the way we handle your personal information, ple
 
 <div class="fatfooter-nav-inline">
       <ul>
-              <li><a href="/coreterms2015">Core Terms &amp; Conditions 2015</a>
-              </li><li><a href="/broadband-terms-and-conditions">Broadband Legal Stuff</a>
+              <li><a href="/terms">Core Terms &amp; Conditions</a>
               </li><li><a href="/privacy-policy">Privacy Policy &amp; Cookies</a>
               </li><li><a href="http://www.ovoenergy.com/contact-us/">Contact Us</a>
               </li><li><a href="/help/emergency">Emergency</a>
@@ -453,6 +470,7 @@ If you have any questions about the way we handle your personal information, ple
 
 </div>
 
+<link rel="stylesheet" href="https://s3-eu-west-1.amazonaws.com/js-cms/websites-prd-blue/css/icons.css" type="text/css">
 
 
 
