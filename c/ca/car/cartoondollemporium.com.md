@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613051754id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804233430id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Best Dress Up Games Online | Play Makeover, Make Up & Avatar Games for Free, Social Network For Girls - Cartoon Doll Emporium (CDE)
 
