@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickinfy.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703195349id_/http%3A//www.quickinfy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickinfy.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804170305id_/http%3A//www.quickinfy.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
