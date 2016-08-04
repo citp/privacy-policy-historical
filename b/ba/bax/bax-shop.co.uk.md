@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bax-shop.co.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910035602id_/https%3A//www.bax-shop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bax-shop.co.uk privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804114516id_/https%3A//www.bax-shop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Bax-shop | Your Music Revolution
 
 Bax-shop.co.uk is dedicated to safeguarding the privacy of our website users while also providing the highest quality of service possible. If there are any requests or queries you have concerning the use of your personal information, please contact _[customer-service@bax-shop.co.uk](mailto:customer-service@bax-shop.co.uk)_
 
-## Information we collect from you and how we use it
+### **Information we collect from you and how we use it**
 
 We will collect information about you when you open an account, register with our website, place an order for products or services, or request further information from us. The type of information we may collect includes your name, postal address, email address and telephone number so that we can contact you accordingly.
 
@@ -14,7 +14,7 @@ We may also use cookies to obtain information about your usage of this website. 
 
 Separate terms and conditions may apply when you open an account or if you decide to participate in a competition, so please make sure to read those terms at the relevant time.
 
-## How do we use the information we collect about you?
+### **How do we use the information we collect about you?**
 
 We may use the information provided by you:
 
@@ -37,7 +37,7 @@ We may use the information provided by you:
 
 We retain your information for a limited period of time in order to respond to your query, provide you with the information you require, or to send you updates on our products and services for as long as you indicate that you are happy for us to do so. We are required to keep some records for a longer period of time to meet legal obligations.
 
-## Keeping you informed
+### **Keeping you informed**
 
 If you have previously bought or enquired about our products or services, we may also use the information we collect to let you know about other products and services that may be of interest to you and to keep you updated with information about upcoming promotional offers at Bax-shop.co.uk.
 
@@ -45,7 +45,7 @@ If you provide us with a corporate email address, then we may contact you at any
 
 You may opt out of receiving material from us at any time by following the unsubscribe link that is included in all of our communications.
 
-## Disclosing your data
+### **Disclosing your data**
 
 We never make your personal details available to companies outside the Bax-shop group for marketing purposes, and will only disclose your personal details to other companies within the Bax-shop group if you have agreed to us doing so. 
 
@@ -53,11 +53,11 @@ However, we may use other companies to provide services to you on our behalf. Th
 
 We may be required by law to disclose your information if a court or the police or other law enforcement agency requests it. In the event that a majority of our shares are bought by another company or that we transfer a substantial amount of our assets to another company, we will disclose your personal information to the purchaser.
 
-## How is your information protected?
+### **How is your information protected?**
 
 We take protecting your information seriously and have appropriate physical and technological security measures in place to keep it safe. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.
 
-## Your Rights
+### **Your Rights**
 
 You may request details of any personal information that we have about you. If you would like a copy of your details, please email us. A small fee may apply.
 
