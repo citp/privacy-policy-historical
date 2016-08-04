@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604071720id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804031441id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
-# Privacy | Ontario Universities' Application Centre
+# Privacy - Ontario Universities' Application Centre
 
 The Ontario Universities’ Application Centre (OUAC) is committed to protecting your privacy and the confidentiality of your personal information.
 
 ## Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information (Division-specific)
 
-  * [101](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
-  * [105](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
-  * [OLSAS](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
-  * [OMSAS](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
-  * [ORPAS](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
-  * [TEAS](https://web.archive.org/web/20160604071720id_/http://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
+  * [101](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/101-declaration) (Current Ontario High School Students [101])
+  * [105](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/105-declaration) (All Other Undergraduate Applicants [105])
+  * [OLSAS](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
+  * [OMSAS](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
+  * [ORPAS](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
+  * [TEAS](https://web.archive.org/web/20160804031441id_/http://www.ouac.on.ca/privacy/teas-declaration) (Teacher Education Application Service)
 
 
 
@@ -19,7 +19,7 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ### Introduction
 
-The Ontario Universities’ Application Centre (OUAC) is a division of the Council of Ontario Universities (COU). For more information about the COU, visit: [www.cou.on.ca](http://www.cou.on.ca/).
+The Ontario Universities’ Application Centre (OUAC) is a division of the Council of Ontario Universities (COU). [Find more information about the COU](http://www.cou.on.ca/).
 
 The OUAC’s mandate is to process applications for admission to university programs in Ontario, on behalf of Ontario’s universities, and to engage in other work related to the university sector.
 
@@ -122,7 +122,7 @@ In addition, as specified in the privacy notices accompanying each application, 
 
 ### Third Party Websites
 
-Our websites provide links to third party websites that may be relevant to the university application process. These third party websites could include the websites for Ontario universities; the Ontario Student Assistance Program (OSAP); the Ministry of Education; the Ministry of Training, Colleges and Universities (MTCU); and in the case of application to joint college/university programs, OCAS and admission test score providers (e.g., AAMC, LSAC).  
+Our websites provide links to third party websites that may be relevant to the university application process. These third party websites could include the websites for Ontario universities; the Ontario Student Assistance Program (OSAP); the Ministry of Education; the Ministry of Advanced Education and Skills Development (MAESD); and in the case of application to joint college/university programs, OCAS and admission test score providers (e.g., AAMC, LSAC).  
 The inclusion of a link does not imply that we endorse the other organization, its website, or its services. These linked websites have separate and independent privacy policies, which we recommend you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose or otherwise treat your personal information.
 
 ### Security of Personal Information
