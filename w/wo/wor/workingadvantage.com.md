@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingadvantage.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512172513id_/https%3A//www.workingadvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingadvantage.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805130335id_/https%3A//workingadvantage.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Working Advantage
 
