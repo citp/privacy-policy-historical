@@ -1,94 +1,68 @@
-> *The following text is extracted and transformed from the usplabsdirect.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014306id_/http%3A//usplabsdirect.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usplabsdirect.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805082649id_/https%3A//usplabsdirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
+**USPlabs, LLC Website Privacy Statement**
 
-This privacy policy sets out how USPlabs Direct uses and protects any information that you give USPlabs Direct when you use this website. USPlabs Direct is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. USPlabs Direct may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+**USPlabs, LLC** , including its officers, representatives, and employees, is committed to quality in all of its business operations, including maintaining the integrity of its data and the privacy of its on-line customers.
 
-## What we collect
+This privacy policy discloses the privacy practices for USPlabsDirect.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-We may collect the following information:
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  2. What choices are available to you regarding the use of your data.
 
+  3. The security procedures in place to protect the misuse of your information.
 
-
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
-
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+  4. How you can correct any inaccuracies in the information.
 
 
 
-## Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+**Information Collection, Use, and Sharing**    
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-## How we use cookies
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+**Your Access to and Control Over Information**    
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+   • See what data we have about you, if any.
 
-## Links to other websites
+   • Change/correct any data we have about you.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+   • Have us delete any data we have about you.
 
-## Controlling your personal information
+   • Express any concern you have about our use of your data.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Security**    
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@usplabsdirect.com 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon on your web browser, or looking for "https" at the beginning of the address of the web page.
 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
+**Customer Information  
+** USPlabs has the utmost respect for the privacy needs of its on-line customers. USPlabs obtains permission from its customers before receiving any customer information through its website. Customer-related information is used by USPlabs only for in-house business purposes. No customer information is sold or otherwise released to third parties, and is electronically protected against inadvertent disclosure.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+**Registration**    
+In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 10761 King William Dr. Dallas, TX 75220. 
+**Orders**    
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+**Cookies**    
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-## List of cookies we collect
+**Links**    
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-The table below lists the cookies we collect and what information they store.
+**Surveys & Contests**   
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+**Updates  
+** Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-800-890-3067  or via email at info@usplabsdirect.com.**
