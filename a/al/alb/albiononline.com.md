@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426223213id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805214028id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Albion Online
 
