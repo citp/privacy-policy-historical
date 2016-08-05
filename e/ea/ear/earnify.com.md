@@ -1,100 +1,82 @@
-> *The following text is extracted and transformed from the earnify.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnify.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805042949id_/http%3A//www.earnify.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Earnify - Privacy Policy
 
-**GoDaddy Respects Your Privacy**
+**EARNIFY PRIVACY POLICY**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**1.** **Introduction**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Thank you for visiting the Earnify website ("Site") and, if applicable, choosing to use any of our services ("Services"). We try to make our Privacy Policy easy to understand so that you are informed as to how we use your information. This Privacy Policy, like our Terms of Service, is an integral part of using our Service; therefore you must completely agree to our Privacy Policy in order to use our Site or Service. You must be over the age of 18 to use the Site and Services. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**2.** **Information Collected**
 
-**Information Collection and Use**
+Personally Identifiable Information Collected from Users 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+In order to use our Service and register for our Site, we may collect your name, email address, telephone number, website information, Skype information, and physical address. Additionally, if you wish to be a publisher via the Service, we may collect your financial and tax information to send payments to you. We may collect any additional information we deem necessary to provide any of our Services to you. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Non-Identifying Information 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Whenever you use our website, we may collect non-identifying information from you, such as your IP address, interactions with the website, mobile information, log information, device information, query information, location, referring URL, browser, operating system, data usage, data transferred, and Internet Service Provider. We may use additional third party analytic tools to collect non-identifying personal infomation. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**3.** **Use of Your Information**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may use your personally identifiable information for the following purposes: 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+· To enhance or improve our users' experiences. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * To provide our Service to you. 
+  * To process transactions and payments. 
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Updating Your Information**
+· To email you newsletters, marketing, and correspondence from us. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+· To contact you and to respond to inquiries. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any Australian laws or if a violation of the Terms of Service or Privacy Policy has occurred. 
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**4.** **Opt Out, Accessing, Editing, and Removing Your Information**
 
-      iii.      You may call us at: (480) 505-8800
+You will be able to access any information contained in your account through our Site; however you won't be able to opt out of our information collection practices. In some instances may edit your information by removing or changing the information listed in your account. If you have any questions or wish to review, change, or access any of your information collected by us, please contact us at legal@earnify.com. Except as otherwise stated herein, after you have cancelled your account please be aware that we may keep inaccessible copies of your information for a commercially reasonable period of time. 
 
-       iv.      You may fax us at: (480) 505-8844
+**5.** **Cookies**
 
-**Sending Emails**
+We use cookies to remember your preferences and advertisements. For these reasons, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system. If you wish to block any cookies, you may adjust your browser options to do so. However, blocking cookies may cause errors in our Site. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**6.** **Third Party Access to Your Information**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Although you are entering into an Agreement with Earnify to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others to allow you to access the Site and Service. 
 
-**Compliance with Laws and Law Enforcement**
+Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**7.** **Law Enforcement**
 
-**Third Party Service Providers**
+You agree that we may disclose your information to authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated Australian laws or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, where your actions violate any law of the Australian or any other country having jurisdiction over us, our Site, Services, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or national authorities, as required. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**8.** **Commercial, Non-Commercial Communications and Do Not Track**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you decide to provide us with your contact information, you agree that we may send you communications via email. However, you may unsubscribe from certain communications by notifying Earnify that you no longer wish to receive these communications, we will endeavour to promoptly remove you from our mailing list once we have received that request. We currently do not subscribe to "do not track listings" and do not offer functionality for you to opt out through "do not track" listings. If you wish to opt out of certain communications or information collection, please contact us at legal@earnify.com. 
 
-**Supplementation of Information**
+**9.** **Third Parties**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Earnify or Users may post links to third party websites on our Site or Service, which may include information that we have no control over. When accessing a third party site through our Site or Service, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites. 
 
-**Contests/Surveys**
+Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. Earnify bears no responsibility for the information collected or used by any advertiser or third party website. You must review their Terms of Service and Privacy to understand how their information collection practices work. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**10.** **Security Measures**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We make reasonable attempts to protect your information by using physical and electronic safeguards such as SSL certificates. However, as this is the Internet, we can make no guarantees as to the security or privacy of your information. For this reason, we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats. 
 
-**Tell-A-Friend**
+**11.** **International Transfer**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. We may transfer personal information to Australia or elsewhere and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-**What Happens to my Personal Information if I Opt Out?**
+**12.** **Merger and Acquisition**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+In the event that Earnify is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. Please be aware that once the information is transferred your privacy rights may change. 
 
-**Transfer of Data Abroad**
+**13.** **Amendments**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at legal@earnify.com. 
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Last Modified: July 4, 2015 
