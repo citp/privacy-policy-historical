@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbay.ph privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602163211id_/http%3A//www.carbay.ph/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbay.ph privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805103625id_/http%3A//www.carbay.ph/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarBay Philippines
 
