@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318062653id_/https%3A//www.samknows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805202633id_/https%3A//www.samknows.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SamKnows
 
