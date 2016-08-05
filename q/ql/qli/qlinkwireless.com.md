@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906223506id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805185724id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
@@ -16,7 +16,7 @@ Q Link Wireless collects information about all activity on its websites using co
 
 ## Contact Information
 
-Q Link Wireless may contact people at the phone number they provided on our website. This number may be inputted into our automated phone IVR system or given to a customer service representative. 
+By applying for service, you agree to be contacted by Q Link Wireless, our affiliates, and/or any government agencies, even if you appear on a Do Not Call List. You may be contacted by phone, automated dialers, IVR system, email, text, push notifications, direct mail, or any other form of communication.
 
 Contact Information can consist of:
 
@@ -46,9 +46,11 @@ Q Link Wireless does not sell any personally identifiable information to third p
 If you are a resident of California, certain rules apply to your privacy rights. California state regulations entitle California subscribers to request information concerning whether a business has disclosed personal information to any third parties for the third parties' direct marketing purposes. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us in writing via mail or via fax to:
 
 **BY MAIL:**  
-**Q Link Wireless LLC**  
-499 E SHERIDAN ST, STE 300  
-DANIA, FLORIDA 33004
+Q Link Wireless LLC  
+499 E SHERIDAN ST, STE 200  
+DANIA, FLORIDA 33004  
+USA  
+
 
 **BY FAX:**  
 1-855-837-5465  
@@ -75,9 +77,11 @@ Q Link Wireless does not disclose CPNI outside of the Q Link Wireless companies 
 If you wish to restrict our use of your CPNI for marketing purposes, known as an "opt out" request, you may do so by requesting a restriction of your CPNI in writing via mail or via fax to:
 
 **BY MAIL:**  
-**Q Link Wireless LLC**  
-499 E SHERIDAN ST, STE 300  
-DANIA, FLORIDA 33004
+Q Link Wireless LLC  
+499 E SHERIDAN ST, STE 200  
+DANIA, FLORIDA 33004  
+USA  
+
 
 **BY FAX** :  
 1-855-837-5465  
@@ -100,9 +104,11 @@ Q Link Wireless does not disclose to third parties email communications that are
 Q Link Wireless may, from time to time, send our subscribers emails or text messages regarding promotional offers or other information. A customer has the right to elect not to receive Q Link Wireless email direct marketing communications by simply opting-out or unsubscribing to the email offerings. These requests should be in writing via mail or via fax: 
 
 **BY MAIL:**  
-**Q Link Wireless LLC**  
-499 E SHERIDAN ST, STE 300  
-DANIA, FLORIDA 33004
+Q Link Wireless LLC  
+499 E SHERIDAN ST, STE 200  
+DANIA, FLORIDA 33004  
+USA  
+
 
 **BY FAX** :  
 1-855-837-5465 
