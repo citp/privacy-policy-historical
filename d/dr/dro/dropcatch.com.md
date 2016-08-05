@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropcatch.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617053923id_/https%3A//www.dropcatch.com/OtherInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropcatch.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805234402id_/https%3A//www.dropcatch.com/OtherInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # DropCatch.com - The Expiring Domain Resource
 
@@ -19,7 +19,7 @@ Any of the information we collect from you may be used in one of the following w
   * To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions  
-Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+(your information helps us to more effectively respond to your customer service requests and support needs)
   * To send periodic emails  
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
@@ -41,9 +41,9 @@ After a transaction, your private information (credit cards, social security num
 
 Yes, cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most Web sites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most Web sites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
 ## Do we disclose any information to outside parties?
 
@@ -55,7 +55,7 @@ This online privacy policy applies only to information collected through our Web
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/OtherInfo/TermsAndConditions) section establishing the use, disclaimers, and limitations of liability governing the use of our Web site at [www.dropcatch.com](https://web.archive.org/).
+Please also visit our [Terms and Conditions](https://web.archive.org/OtherInfo/TermsAndConditions) section establishing the use, disclaimers, and limitations of liability governing the use of our Web site at [www.DropCatch.com](https://web.archive.org/).
 
 ## Your Consent
 
@@ -65,10 +65,8 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 4/9/2014
+This policy was last modified on 2014-04-09
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may use the [Contact Us](https://web.archive.org/HowItWorks/ContactUs) form on this Web site.
-
-DropCatch.com
+If there are any questions regarding this privacy policy you may use the [Contact us](https://web.archive.org/HowItWorks/ContactUs) form on this website.
