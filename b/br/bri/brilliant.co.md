@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.co privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020034310id_/http%3A//brilliant.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.co privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805214629id_/http%3A//brilliant.co/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Brilliant Bicycle Co.
 
