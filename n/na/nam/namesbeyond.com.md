@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212091919id_/http%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805222411id_/https%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
 
 # Domain Name Registration Transfer Forwarding Renewal, Web Hosting, Email Services, & Web site Development Solutions
 
@@ -19,11 +19,11 @@ Names Beyond respects your privacy. This Privacy Policy (the â€œPrivacy Policyâ€
   
 **Introduction to Policy:**  
   
-In this Privacy Policy (the "Privacy Policy"), the terms "you", "your" and "Registrant" refer to each and every user of internet services provided by NamesBeyond.Com. The terms "we", "us" and "our" refer to NamesBeyond.Com who provides domain name and other services (the "Services"). Website refers to www.NamesBeyond.Com. This Privacy Policy is incorporated by reference into the " [Service Agreement](http://www.namesbeyond.com/index.php/home/agreements) ".  
+In this Privacy Policy (the "Privacy Policy"), the terms "you", "your" and "Registrant" refer to each and every user of internet services provided by NamesBeyond.Com. The terms "we", "us" and "our" refer to NamesBeyond.Com who provides domain name and other services (the "Services"). Website refers to www.NamesBeyond.Com. This Privacy Policy is incorporated by reference into the " [Service Agreement](https://www.namesbeyond.com/index.php/home/agreements) ".  
   
 **Information Collected:**  
   
-Pursuant to the [Service Agreement](http://www.namesbeyond.com/index.php/home/agreements), you will provide to us and we will require from you information about each domain name registered with NamesBeyond.Com, including the names, addresses, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name (collectively the "Information").  
+Pursuant to the [Service Agreement](https://www.namesbeyond.com/index.php/home/agreements), you will provide to us and we will require from you information about each domain name registered with NamesBeyond.Com, including the names, addresses, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name (collectively the "Information").  
   
 **Use of Information:**  
   
