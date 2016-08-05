@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myherbalife.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416032812id_/https%3A//www.myherbalife.com/ed/en-US/pages/public/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myherbalife.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805085305id_/https%3A//www.myherbalife.com/ed/en-US/pages/public/privacy_policy.html) for the most accurate reproduction.*
 
 # Herbalife Privacy Policy
 
