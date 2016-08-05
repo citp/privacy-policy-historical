@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threefloorfashion.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202050144id_/http%3A//www.threefloorfashion.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threefloorfashion.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805020656id_/https%3A//www.threefloorfashion.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - Three Floor Fashion | Three Floor Fashion
 
