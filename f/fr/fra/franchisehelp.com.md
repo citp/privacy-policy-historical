@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328051710id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805173240id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy for Franchise Help
+# Terms of Service & Privacy Policy for FranchiseHelp
 
 **Privacy Policy**
 
- **Effective Date:   01/13/16**
+ **Effective Date:   07/25/16**
 
 [](https://privacy.truste.com/privacy-seal/FranchiseHelp-Holdings,-LLC/validation?rid=ab530e2e-8f79-4a7b-8887-8809d39fb495)
 
-This privacy policy applies to [www.franchisehelp.com](https://www.franchisehelp.com/) owned and operated by FranchiseHelp Holdings, LLC (Henceforward “Franchise Help” “We” “Us”). This privacy policy describes how Franchise Help collects and uses the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.franchisehelp.com](https://www.franchisehelp.com/) owned and operated by FranchiseHelp Holdings, LLC (Henceforward “FranchiseHelp” “We” “Us”). This privacy policy describes how FranchiseHelp collects and uses the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 FranchiseHelp Holdings, LLC has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.franchisehelp.com](https://www.franchisehelp.com/).
 
@@ -124,15 +124,14 @@ As is true of most web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information.
 
-  *  _LSOs (Flash/ HTML5)  _
+  *  _LSOs (HTML5)  _
 
 
 
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html ](https://web.archive.org/web/20160328051710id_/https://www.franchisehelp.com/terms-privacy/%22http%3A//www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)  
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-
-  * _Behavioral Targeting / Re-Targeting_
+  *  _Behavioral Targeting / Re-Targeting_
 
 
 
@@ -156,7 +155,7 @@ We follow generally accepted standards to protect the personal information submi
 
 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Franchise Help.   If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of FranchiseHelp.   If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
   *  _Blog / Forum_
 
@@ -189,8 +188,9 @@ We may update this privacy policy to reflect changes to our information practice
  **7.   ****   Contact Us**
 
 FranchiseHelp Holdings LLC  
-57 E 11th St, Suite 3A  
-New York, NY 10003  
+159 Bleecker St  
+. #2C  
+New York, NY 10012  
 Phone: 646-419-4365
 
 For questions, comments, and support, email:  
