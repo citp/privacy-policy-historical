@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariogames.be privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329230243id_/http%3A//www.mariogames.be/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogames.be privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805135641id_/http%3A//www.mariogames.be/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
