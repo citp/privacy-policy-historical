@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meragrocer.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325013348id_/http%3A//meragrocer.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meragrocer.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806230555id_/http%3A//meragrocer.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
