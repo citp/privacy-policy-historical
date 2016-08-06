@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619041457id_/http%3A//www.roland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807013614id_/http%3A//www.roland.com/privacy) for the most accurate reproduction.*
 
 # Roland - Privacy Statement
 
@@ -139,7 +139,9 @@ We shall inform you of each purpose of using your access logs combined with your
 
 #### 7\. Tracking system
 
-A tracking system based on the use of third-party cookies is employed in parts of Roland's websites in order to gather anonymous statistical information which is not linked to specific personal information.
+A tracking system based on the use of our company cookies is employed in Roland’s websites which gather IP address, access date/time, etc. We shall not use them in combination with any information which may identify an individual, beyond what is stated on the "Purposes of Use" on the upper section (1\. We use it only for the stated purposes) of this privacy statement.
+
+Also there is a tracking system based on the use of third-party cookies is employed in parts of Roland's websites in order to gather anonymous statistical information which is not linked to specific personal information.
 
 We recommend that you regularly check our online Policies on the Protection of Personal Information because we may modify the policies in order to further enhance our protection of personal information or in accordance with changes to laws or regulations.
 
