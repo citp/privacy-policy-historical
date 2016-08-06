@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvpschoolofmysticalarts.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519035120id_/http%3A//www.jvpschoolofmysticalarts.com/wp-content/uploads/2015/04/JVP-School-of-Mystical-Arts-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvpschoolofmysticalarts.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806104112id_/http%3A//www.jvpschoolofmysticalarts.com/wp-content/uploads/2015/04/JVP-School-of-Mystical-Arts-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # !
 
