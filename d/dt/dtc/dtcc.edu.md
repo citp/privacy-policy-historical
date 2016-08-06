@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtcc.edu privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530161658id_/https%3A//www.dtcc.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtcc.edu privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806071526id_/https%3A//www.dtcc.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Delaware Technical Community College
 
