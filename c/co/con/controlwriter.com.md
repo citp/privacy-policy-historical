@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controlwriter.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505000525id_/http%3A//www.controlwriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controlwriter.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806085751id_/https%3A//www.controlwriter.com/web/privacy) for the most accurate reproduction.*
 
 # Privacy | Control Writer Software
 
