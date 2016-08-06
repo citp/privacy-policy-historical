@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalsource.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322012326id_/https%3A//www.vitalsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalsource.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806122142id_/https%3A//www.vitalsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VitalSource
 
