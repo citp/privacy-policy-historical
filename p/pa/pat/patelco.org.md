@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313153215id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806031446id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
@@ -17,6 +17,10 @@ report and prevent any fraudulent activity.
 
 |  Current Security Alerts & Notifications   
 ---  
+  
+**Protect Yourself from ATM Skimming**   
+Card skimming is a real threat around the San Francisco Bay Area. Find out how to protect yourself and your card data. [  
+Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/ATM-Skimming/)  
   
 **Email Scam**   
 You may have received an email with a subject line similar to "Patelco Credit Union Alert {Credit-$5,000,000.00}." [  
@@ -82,32 +86,38 @@ To report stolen or missing checks please send us a [secure email](https://www.p
 
 To report suspicious or unauthorized transactions on your account please call us at **800.358.8228** or visit your local [Patelco branch](https://www.patelco.org/Tools/Locator/).   
   
-## Your privacy is very important to us.
+### Your privacy is very important to us
 
-At Patelco, your personal and financial information are secure and we are committed to respecting your right to privacy and protecting your personal information. 
+At Patelco, your personal and financial information are secure and we are committed to respecting your right to privacy and protecting your personal information.
 
-**Important security reminder:** Although Patelco may contact you for a specific reason, we will never ask you to verify or update detailed personal or account information over the phone, via a link in an email, or through text messaging. If you receive a request to update specific account information from someone claiming to represent Patelco, it's fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email [abuse@patelco.org](mailto:abuse@patelco.org). 
+### Important security reminder
 
-| Privacy Notices:  
----  
-  
-  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_FED_2015.pdf) to learn how we use and protect your information. 
-  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_CA_2015.pdf).
+Although Patelco may contact you for a specific reason, we will never ask you to verify or update detailed personal or account information over the phone, via a link in an email, or through text messaging. If you receive a request to update specific account information from someone claiming to represent Patelco, it’s fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email [abuse@patelco.org](mailto:abuse@patelco.org).
 
+### Federal Privacy Notice
 
+The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_FED_2016.pdf) to learn how we use and protect your information. 
 
-**Our right to change these policies:**   
-These policies are effective June 1, 2015. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. 
+### California Privacy Notice
+
+In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_CA_2016.pdf).
+
+### Our right to change these policies
+
+These policies are effective June 1, 2015. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information.
 
 If you have any questions regarding our privacy practices, please [send us a secure email](https://www.patelco.org/Contact) or call us at **800.358.8228**.
 
-### More Privacy Resources:
+### Terms and Conditions
 
-  * **Terms and Conditions** – For guidelines on how to use our online sites, take a look at the [Patelco Internet Terms and Conditions](https://www.patelco.org/Privacy-Security/Terms-And-Conditions).
-  * **Children’s Online Privacy Protection Act** – In adherence to the Children’s Online Privacy Protection Act, we don’t allow children under the age of 13 to open personal accounts online or use Online Banking, unless it’s a joint account with an adult. They can still open accounts by themselves at a branch. To learn more about the Children’s Online Privacy Protection Act (COPPA), visit [Coppa.org](http://www.ftc.gov/privacy/coppafaqs.shtm). 
+For guidelines on how to use our online sites, take a look at the [Patelco Internet Terms and Conditions](https://www.patelco.org/Privacy-Security/Terms-And-Conditions/).
 
-  
-  
+### Children’s Online Privacy Protection Act
+
+In adherence to the Children’s Online Privacy Protection Act, we don’t allow children under the age of 13 to open personal accounts online or use Online Banking, unless it’s a joint account with an adult. They can still open accounts by themselves at a branch. To learn more about the Children’s Online Privacy Protection Act (COPPA), visit [Coppa.org](http://www.ftc.gov/privacy/coppafaqs.shtm).
+
+| 
+
 ## Reporting Fraud
 
 ### Fraudulent Emails & Websites
@@ -126,6 +136,8 @@ To report stolen or missing checks please send us a [secure email](https://www.p
 
 To report suspicious or unauthorized transactions on your account please call us at **800.358.8228** or visit your local [Patelco branch](https://www.patelco.org/Tools/Locator/).   
   
+---|---  
+  
 ## We monitor your accounts closely and block suspicious transactions.
 
 At Patelco we protect you with:
@@ -135,15 +147,6 @@ At Patelco we protect you with:
   * **Prompt account credit** – Your account will be credited for fraudulent transactions within 3 business days from the date you report it.
 
 
-
-### Buy online safely and easily with V.me from Visa 
-
-**Speed up your online checkout**  
-V.me lets you buy online without needing to re-enter your Patelco Visa card number and shipping details every time you check out through any website that accepts V.me purchases.
-
-**Keep your payment information secure**  
-Make secure online purchases without sharing your full card information. Just select "Checkout with V.me by Visa" as your payment option. Then enter your email address and password, and you’re done!  
-[Learn more about V.me by Visa >](https://www.patelco.org/Loans-And-Credit/Credit-Cards/Vme-by-visa/)
 
 ## Important tips for protecting yourself and your cards.
 
@@ -161,10 +164,6 @@ Keep the list in a secure place separate from your cards with phone numbers to r
 
 **Sign Up for Account Alerts**  
 To further protect you and to assist in card monitoring, please enroll in our [Alerts & Notifications](https://www.patelco.org/Account-Management/Online-Banking/#AccountAlerts) service through Online Banking which will immediately alert you to any transactions that post to your account. Simply log in to Online Banking, go to the All Services menu item, then under Account Information click on Alerts & Notifications to set up the alerts you would like to receive.
-
-**V.me by Visa – Buy online safely and easily**  
-Make secure online purchases without sharing your complete card information every time. Just select "Checkout with V.me by Visa" as your payment option. Then enter your email address and password. It’s that easy!  
-[Learn more about V.me by Visa >](https://www.patelco.org/Loans-And-Credit/Credit-Cards/Vme-by-visa/)
 
 **Be aware at the ATM**  
 Here are a few extra steps you can take at the ATM to protect your account:
