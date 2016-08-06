@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617010614id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806110616id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
