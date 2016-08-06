@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525004724id_/https%3A//www.costumecraze.com/information/_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806161216id_/https%3A//www.costumecraze.com/i/_privacy) for the most accurate reproduction.*
 
 # Costume Craze Privacy Policy
 
