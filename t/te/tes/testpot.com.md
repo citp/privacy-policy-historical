@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testpot.com privacy policy that was archived on 2016-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160107015547id_/https%3A//testpot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testpot.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806024044id_/https%3A//testpot.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
