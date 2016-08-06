@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineexplorer.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324181215id_/http%3A//www.marineexplorer.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineexplorer.org privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806125549id_/http%3A//www.marineexplorer.org/privacy.aspx) for the most accurate reproduction.*
 
 # Marine Explorer Home
 
