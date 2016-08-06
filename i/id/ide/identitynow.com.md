@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the identitynow.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408184123id_/https%3A//www.sailpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identitynow.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806171111id_/https%3A//www.sailpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SailPoint
+# Privacy Policy | SailPoint Identity Governance
 
-At SailPoint Technologies, Inc. ("SailPoint"), we are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner and to protect and safely manage any personally identifiable information ("Personal Information") that you share with us.
+At SailPoint Technologies, Inc. (“SailPoint”), we are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner and to protect and safely manage any personally identifiable information (“Personal Information”) that you share with us.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a physical address and an email address or other contact information, whether at work or at home. In general, you can visit SailPoint's Web pages without telling us who you are or revealing any Personal Information about yourself.
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a physical address and an email address or other contact information, whether at work or at home. In general, you can visit SailPoint’s Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within SailPoint or to SailPoint's third-party service providers, across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within SailPoint or to SailPoint’s third-party service providers, across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-SailPoint strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, SailPoint intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+SailPoint strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, SailPoint intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 
 Where the information originates from a country in the European Union, SailPoint agrees to comply with all the provisions of the U.S.-EU Safe Harbor Framework and makes an affirmative commitment to adhere to the U.S.-EU Safe Harbor Principles, which can be found at [http://export.gov/safeharbor](http://export.gov/safeharbor/). Where the information originates from Switzerland, SailPoint agrees to comply with all the provisions of the U.S.-Swiss Safe Harbor Framework and makes an affirmative commitment to adhere to the U.S.-Swiss Safe Harbor Principles, which can also be found at <http://export.gov/safeharbor/>
 
 ## Cookies and Other Tracking Technologies
 
-From time to time, some of our Web pages may utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+From time to time, some of our Web pages may utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original information (i.e., user name, password or general contact info) to gain access to certain parts of the Web site.
 
@@ -22,15 +22,15 @@ Tracking technologies may record information such as Internet domain and host na
 
 ## Privacy Principles
 
-SailPoint's Online Privacy Policy consists of the following principles:
+SailPoint’s Online Privacy Policy consists of the following principles:
 
 ## Notice
 
-Where SailPoint collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of SailPoint or those working on SailPoint's behalf. SailPoint does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SailPoint's behalf unless such transfer is legally required.
+Where SailPoint collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of SailPoint or those working on SailPoint’s behalf. SailPoint does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SailPoint’s behalf unless such transfer is legally required.
 
 ## Choice
 
-You may choose whether or not to provide Personal Information to SailPoint. The notice we intend to provide where SailPoint collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of SailPoint's Web site pages, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+You may choose whether or not to provide Personal Information to SailPoint. The notice we intend to provide where SailPoint collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of SailPoint’s Web site pages, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
 If you chose to have a relationship with SailPoint, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
@@ -44,9 +44,9 @@ To the extent that you do provide us with Personal Information, SailPoint wishes
 
 ## Third Party Services
 
-Third parties provide certain services available on SailPoint.com on SailPoint's behalf. SailPoint may provide information, including Personal Information, that SailPoint collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which SailPoint maintains its Web site and mailing lists. SailPoint will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on SailPoint's behalf.
+Third parties provide certain services available on SailPoint.com on SailPoint’s behalf. SailPoint may provide information, including Personal Information, that SailPoint collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which SailPoint maintains its Web site and mailing lists. SailPoint will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on SailPoint’s behalf.
 
-SailPoint does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SailPoint's behalf unless such transfer is legally required. Similarly, it is against SailPoint's policy to sell Personal Information collected online without consent.
+SailPoint does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SailPoint’s behalf unless such transfer is legally required. Similarly, it is against SailPoint’s policy to sell Personal Information collected online without consent.
 
 ## Inquiries and Suggestions
 
@@ -54,7 +54,7 @@ If you require any further information or if you have any questions or concerns 
 
 SailPoint Technologies, Inc.  
 c/o Privacy Manager  
-11305 Four Points Drive, Building 2, Suite 100   
+11305 Four Points Drive, Building 2, Suite 100  
 Austin, Texas 78726  
 USA  
 [privacy@sailpoint.com](mailto:privacy@sailpoint.com?subject=Privacy%20Policy%20Inquiry)
@@ -65,11 +65,11 @@ We will investigate all the concerns we receive and take appropriate measures to
 
 SailPoint is a global corporation and has developed global data practices designed to assure personal information is appropriately protected. Not only do we strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which we do business, but we also aim to uphold the highest ethical standards in our business practices. This Safe Harbor Data Privacy Policy outlines our general policy and practices for implementing both the U.S.-EU and the U.S.-Swiss Safe Harbor Frameworks. If there is any conflict between this policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
 
-This notice applies to all personal information we handle, including on-line (except as noted below), off-line, and manually processed data. For purposes of this notice, "personal information" means data that: (i) is transferred from the European Union or Switzerland to the United States; (ii) is recorded in any form; and (iii) is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data. "Sensitive information" is a subcategory of personal information. Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or the sex life of the individual. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
+This notice applies to all personal information we handle, including on-line (except as noted below), off-line, and manually processed data. For purposes of this notice, “personal information” means data that: (i) is transferred from the European Union or Switzerland to the United States; (ii) is recorded in any form; and (iii) is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data. “Sensitive information” is a subcategory of personal information. Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or the sex life of the individual. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
 
 ## Safe Harbor
 
-The U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework (the "Safe Harbor Principles") were developed by the U.S. Department of Commerce, in consultation with the European Commission and the Swiss Federal Data Protection and Information Commissioner, industry, and non-governmental organizations, to enable U.S. companies to satisfy requirements under the EU Directive on Data Protection and the Swiss Federal Act on Data Protection (FADP) for adequate protection of personal information transferred from the EU or Switzerland to the U.S. SailPoint's privacy practices are self-certified with the United States Department of Commerce Safe Harbor Program. SailPoint has chosen to cooperate with the European Union Data Protection Authorities for unresolved privacy complaints. For more information about Safe Harbor or to access SailPoint's certification statement, go to <http://export.gov/safeharbor/>
+The U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework (the “Safe Harbor Principles”) were developed by the U.S. Department of Commerce, in consultation with the European Commission and the Swiss Federal Data Protection and Information Commissioner, industry, and non-governmental organizations, to enable U.S. companies to satisfy requirements under the EU Directive on Data Protection and the Swiss Federal Act on Data Protection (FADP) for adequate protection of personal information transferred from the EU or Switzerland to the U.S. SailPoint’s privacy practices are self-certified with the United States Department of Commerce Safe Harbor Program. SailPoint has chosen to cooperate with the European Union Data Protection Authorities for unresolved privacy complaints. For more information about Safe Harbor or to access SailPoint’s certification statement, go to <http://export.gov/safeharbor/>
 
 ## Privacy Principles
 
@@ -81,14 +81,14 @@ To the extent permitted by the Safe Harbor Principles, SailPoint reserves the ri
 
 ## Disclosures and Transfers
 
-SailPoint will not disclose an individual's personal information to third parties, except when one or more of the following conditions is true:
+SailPoint will not disclose an individual’s personal information to third parties, except when one or more of the following conditions is true:
 
-  * We have the individual's permission to make the disclosure;
+  * We have the individual’s permission to make the disclosure;
   * The disclosure is required by law or professional standards;
   * The disclosure is reasonably related to the sale or disposition of all or part of our business;
   * The information in question is publicly available;
   * The disclosure is reasonably necessary for the establishment or defense of legal claims; or
-  * The disclosure is to another SailPoint entity or to persons or entities providing services on our or the individual's behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
+  * The disclosure is to another SailPoint entity or to persons or entities providing services on our or the individual’s behalf (each a “transferee”), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: 
     * is subject to law providing an adequate level of privacy protection;
     * has agreed in writing to provide an adequate level of privacy protection; or
     * subscribes to the Safe Harbor Principles.
@@ -126,8 +126,8 @@ We may amend this policy from time to time by posting a revised policy on this W
 If you require any further information or if you have any questions or concerns about our Safe Harbor policies, procedures, or certification, please contact us at:
 
 SailPoint Technologies, Inc.  
-c/o Safe Harbor Privacy Manager   
-11305 Four Points Drive, Building 2, Suite 100   
+c/o Safe Harbor Privacy Manager  
+11305 Four Points Drive, Building 2, Suite 100  
 Austin, Texas 78726  
 USA  
 [safeharbor@sailpoint.com](mailto:safeharbor@sailpoint.com?subject=Privacy%20Policy%20Inquiry)
