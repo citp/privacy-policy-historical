@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ingresocybernetico.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324153017id_/https%3A//www.ingresocybernetico.com/u/pages/privacy-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingresocybernetico.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806033010id_/https%3A//www.ingresocybernetico.com/nic/pages/privacy-6) for the most accurate reproduction.*
 
-# Privacy Policy - Ingreso Cybernetico
+# Privacy Policy Ingreso Cybernetico
 
 **Our Commitment to Privacy**  
 Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us. 
