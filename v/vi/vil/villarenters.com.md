@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620040950id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806024555id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Clickstay
 
@@ -53,23 +53,23 @@ If you believe that any of your personal details which we are processing are ina
 
 This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. As our privacy statement may change due to developments in the law, we would encourage you to reread our privacy statement from time to time so that you are aware of any changes in how we gather and use personal information. 
 
-**Cookies**
+**Cookies and other tracking technologies**
 
-We may send you a cookie when you visit [www.clickstay.com](http://www.clickstay.com/) or any of our other websites.  
+We may send you a cookie when you visit [www.clickstay.com](http://www.clickstay.com/) or any of our other websites.
 
-A ‘cookie’ is a very small file that is placed on your computer, tablet or mobile device. There are two categories of cookie, called “first party” and “third party” cookies: 
+A ‘cookie’ is a very small file that is placed on your computer, tablet or mobile device. There are two categories of cookie, called “first party” and “third party” cookies:
 
-  1. First Party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and  
+  1. First Party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and 
   2. Third Party cookies are cookies set on our behalf by third parties such as Google. These cookies do not collect your personal data and you cannot be identified as an individual customer from them. 
 
 
 
-We use cookies for a number of different reasons, which are: 
+We use cookies and other tracking technologies for a number of different reasons, which are:
 
-  1. Essential cookies:  These are cookies that are necessary for our websites to work and cannot be switched off. They are usually only set in response to actions that you make, such as when you log in to check your booking. These cookies do not store any personally identifiable information.   
+  1. Cookies that are necessary for our websites to work and cannot be switched off. They are usually only set in response to actions that you make, such as when you log in to check your booking. These cookies do not store any personally identifiable information.   
 You can set your browser to block or alert you about these cookies, but if you do, some parts of our Websites will not work properly. 
-  2. Performance cookies: This type of cookie allows us to count the number of times you visit our website and how you came to our website. We use these cookies to identify which pages of our website are most and least popular and see how visitors move around it. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website.   
-We use Google Analytics to provide this service. The data they collect is not shared with anyone else. The information is anonymised and we do not attempt to use it to identify any individual visitor to our website, or influence your use of our website when you use it. 
+  2. Tracking technologies that allow us to track your behaviour on our website including how you arrived to it. We do this for the purpose of analytics, conducting research, product development, fraud prevention, risk assessment and to personalize or otherwise customize your experience. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website.   
+We also use Google Analytics for web analytics which uses cookies to gather information about how visitors use our website. The data collected by Google is not shared with anyone else and we don’t upload any data that would allow Google to personally identify an individual. For further information about Google Analytics’ Privacy Policy, please visit <https://www.google.com/intl/en)ALL/policies/privacy/>. 
 
 
 
@@ -82,16 +82,6 @@ It may be possible for you to change the settings of your browser to prevent jus
 To control the use of cookies, please follow the instructions on the browser you use on your computer, tablet or device.
 
 You may also be able to control the use of cookies by opting out of online behavioural advertising by visiting the “Your Online Choices” page of the website provided by the Internet Advertising Bureau.
-
-If our website uses Macromedia Flash Player, a small flash cookie may be placed on your computer, tablet or device. Flash cookies are stored in a different location on your computer than other types of cookie and, as a result, it is not possible to manage or block this type of cookie by adjusting the settings on your browser.
-
-**Web beacons and URL tracking**
-
-We may track URLs to count the number of clicks on a webpage, so that we can assess the popularity of a webpage.
-
-In addition, we may use web beacons. A web beacon is a file that tracks the number of users on a page and allows us to see if a cookie has been activated or if an email has been delivered successfully and read. 
-
-It is not possible for you change the settings on your browser to decline web beacons. If you change the settings to disable cookies, you can prevent web beacons from monitoring your activity. If you set your browser to disable cookies, our website may not, however, work properly.
 
 **Changes to this Policy**
 
@@ -133,7 +123,7 @@ Renter’s Party
 
 | 
 
-means the individuals identified by the Renter as those who will occupy the Property on a temporary basis (including any additional person(s) or substitute person(s) agreed with the Owner).
+means the individuals identified by the Renter as those who  will occupy the Property on a temporary basis (including any additional person(s) or substitute person(s) agreed with the Owner).
 
   
   
@@ -165,4 +155,4 @@ refers to an Owner or a Renter, as the case may be.
   
   
   
-_Last Changed:  1st December 2014_
+_Last Changed:  4th August 2016_
