@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606123440id_/http%3A//www.microscopyu.com/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806103418id_/http%3A//www.microscopyu.com/privacy) for the most accurate reproduction.*
 
-# Nikon MicroscopyU | Privacy Policy
+# Privacy | MicroscopyU
 
-#### MicroscopyU Internet Privacy Policy 
+Thank you for visiting the MicroscopyU website, which is hosted jointly by Nikon Instruments Inc. and the Florida State University ( **FSU** ) in Tallahassee. 
 
-Thank you for visiting the MicroscopyU website, which is hosted by the Florida State University ( **FSU** ) in Tallahassee. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
+The prevailing privacy policy is that of FSU as follows:
+
+Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
 
 When you visit our website, our web server automatically recognizes only the Internet domain and IP (Internet Protocol) address from which you accessed our website. This information does not result in the identification of your personal e-mail address or other personal information.
 
@@ -18,8 +20,4 @@ If we are required to disclose information about you by law, we will make every 
 
 Information security is important at **FSU** , and while no security measure is perfect or impenetrable and we cannot guarantee the security of the information that you provide to us, you can be assured that we maintain physical, electronic and administrative measures and safeguards and periodically review these security measures and safeguards to protect your personally identifiable information from unauthorized or inappropriate access and use.
 
-If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at **[webmaster@microscopyu.com](mailto:webmaster@microscopyu.com)** , or you can reach us by telephone at 850-644-0542.
-
-* * *
-
-**[BACK TO MICROSCOPYU HOME](https://web.archive.org/)**
+If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [**webmaster@microscopyu.com**](mailto:webmaster@microscopyu.com), or you can reach us by telephone at 850-644-0542.
