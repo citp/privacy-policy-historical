@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629122402id_/https%3A//www.msdsonline.com/files/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdsonline.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806043101id_/https%3A//www.msdsonline.com/files/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
