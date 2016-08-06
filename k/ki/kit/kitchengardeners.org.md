@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchengardeners.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231003020id_/http%3A//kgi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchengardeners.org privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806093919id_/http%3A//kgi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kitchen Gardeners International
 
