@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the underwearexpert.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401231905id_/http%3A//www.underwearexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the underwearexpert.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806073754id_/http%3A//www.underwearexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Underwear Expert
 
