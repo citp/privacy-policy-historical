@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607080802id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807014206id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BikePortal
 
