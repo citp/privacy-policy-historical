@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082610id_/https%3A//www.leadflash.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadflash.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806132716id_/https%3A//www.leadflash.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# The Best Affiliate Marketing Network - LeadFlash.com Affiliate Program.
-
-## The web is social and so are we. Be sure to like, link, or follow!
-
-* * *
-
-  * [Affiliates](https://web.archive.org/affiliate.aspx)
-  * [Buy Leads](https://web.archive.org/BuyLeads.aspx)
-  * [Login](https://web.archive.org/login.aspx)
-  * [](https://web.archive.org/)
-  * [About](https://web.archive.org/meettheteam.aspx)
-    * [About Us](https://web.archive.org/meettheteam.aspx)
-    * [Careers](https://web.archive.org/Careers.aspx)
-  * [News](https://web.archive.org/news.aspx)
-  * [Contact](https://web.archive.org/Contact.aspx)
-
-
+# The Best Affiliate Marketing Network - LeadFlash.com
 
 This Privacy Policy ("Policy") applies to the LeadFlash.com web site. It tells users ("you" or "applicant") of the web site and the services provided therein about the information collected by LeadFlash.com and how LeadFlash.com uses and shares this information.   
 The LeadFlash.com web site is operated by LeadFlash, LLC. 
