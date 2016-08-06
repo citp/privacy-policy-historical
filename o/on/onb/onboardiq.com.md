@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624081420id_/https%3A//onboardiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806114924id_/https%3A//onboardiq.com/privacy) for the most accurate reproduction.*
 
 # OnboardIQ
 
