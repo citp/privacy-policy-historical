@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919100544id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806084026id_/https%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Propertyshowrooms.com Privacy Statement
 
@@ -16,7 +16,7 @@ By registering your contact details on Propertyshowrooms.com including registrat
 
 ## Anti-Spam
 
-Global Prospects SL Limited adheres to the principles of permission marketing and does not knowingly send out messages to databases where customers have not willingly agreed to receive those messages. This policy has been put in place to protect the user from unsolicited email. If you would like to unsubscribe from our mailing list then please [click here](http://www.propertyshowrooms.com/unsubscribe.asp "Unsubscribe").
+Global Prospects SL Limited adheres to the principles of permission marketing and does not knowingly send out messages to databases where customers have not willingly agreed to receive those messages. This policy has been put in place to protect the user from unsolicited email. If you would like to unsubscribe from our mailing list then please [click here](https://www.propertyshowrooms.com/unsubscribe.asp "Unsubscribe").
 
 ## Standard Information:
 
