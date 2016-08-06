@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410101606id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806145639id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | eHarmony Australia Dating Site
 
@@ -8,7 +8,7 @@ eHarmony is committed to protecting your privacy. eHarmony will only collect, us
 
 This privacy policy discloses the privacy practices for the eHarmony Australia website, which may be accessed through [www.eHarmony.com.au](http://www.eharmony.com.au/). This privacy policy (together with the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. By agreeing to use eHarmony’s products and services you agree that you consent to eHarmony using your personal information together with any sensitive personal information, such as your ethnic origin, in conformity with the processes set out in the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and this privacy policy. If you do not provide the information requested, we may not be able to provide eHarmony’s products or services.
 
-For the purpose of the Act, the data controller is eHarmony, Inc. of _P.O. Box 3640, Santa Monica, CA 90408 USA_.
+For the purpose of the Act, the data controller is eHarmony, Inc. of _P.O. Box 241810, Los Angeles, CA 90024 USA_.
 
 eHarmony, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com.au. 
 
@@ -86,8 +86,8 @@ We generally retain your PII only for so long as is necessary for the purpose fo
   1. Click on the “unsubscribe” link on the bottom of the e-mail;
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:  
 eHarmony, Inc.  
-P.O. Box 3640  
-Santa Monica, CA 90408 USA
+P.O. Box 241810  
+Los Angeles, CA 90024 USA
   3. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.com.au/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.com.au/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com.au/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
   4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
@@ -112,4 +112,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Effective Date
 
-This privacy statement was last revised on april 29, 2014.
+This privacy statement was last revised on 12 May 2016.
