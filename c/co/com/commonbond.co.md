@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314152101id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806174118id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
 
@@ -81,8 +81,8 @@ By using our website, you consent to the collection, processing and storage of i
 Customers may access, review and/or correct all their personally identifiable information that we collect online by sending an email to [info@commonbond.co](mailto:info@commonbond.co) with a subject heading "Customer Choice Privacy Notice" And allow thirty (30) days for a response.
 
 CommonBond, Inc.  
-120 Walker St, 4th floor  
-New York, NY, 10013  
+524 Broadway, 6th Floor  
+New York, NY, 10012  
 United States of America
 
 ### Contact Us
