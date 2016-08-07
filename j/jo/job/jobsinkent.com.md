@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013228id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807201244id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
 
 # JobsInKent.com - Privacy Policy
 
