@@ -1,49 +1,49 @@
-> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919184414id_/https%3A//roost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807050715id_/https%3A//www.roost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Roost
 
-READ THIS PRIVACY POLICY CAREFULLY AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS. THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A CLAUSE THAT GOVERNS THE JURISDICTION AND VENUE OF DISPUTES. 
+Read this Privacy Policy carefully as it contains important information regarding your legal rights, remedies and obligations. These include various limitations and exclusions, and a clause that governs the jurisdiction and venue of disputes.
 
-Last Updated: March 13, 2014
+##### Last Updated: March 13, 2014
 
-BY PROVIDING INFORMATION TO US WHEN SUBSCRIBING, CONTACTING US OR OTHERWISE USING THE SITE, YOU EXPRESSLY AGREE TO THIS PRIVACY POLICY.
+> BY PROVIDING INFORMATION TO US WHEN SUBSCRIBING, CONTACTING US OR OTHERWISE USING THE SITE, YOU EXPRESSLY AGREE TO THIS PRIVACY POLICY. 
 
-Roost subscribes to the seven privacy principles of the US Department of Commerce US–EU Safe Harbor Framework, which ensures our users are provided privacy protections of notice,choice, onward transfer, access, security, data integrity, and enforcement. You can find a link to this privacy policy at the footer of each Roost page, collectively called the "Site or App". 
+Roost subscribes to the seven privacy principles of the US Department of Commerce US–EU Safe Harbor Framework, which ensures our users are provided privacy protections of notice,choice, onward transfer, access, security, data integrity, and enforcement. You can find a link to this privacy policy at the footer of each Roost page, collectively called the "Site or App".
 
-The words and phrases used in this policy have the same meaning as in the Terms & Conditions of Use - available at Terms & Conditions. The terms “we”, “our”, and “us” refer to Roost. The terms "users", "individuals", or "you" as used in this Privacy Policy, refer to any user providing personal data within the Site or App which includes Hosts, Renters, and Job Applicants. 
+The words and phrases used in this policy have the same meaning as in the Terms & Conditions of Use - available at Terms & Conditions. The terms “we”, “our”, and “us” refer to Roost. The terms "users", "individuals", or "you" as used in this Privacy Policy, refer to any user providing personal data within the Site or App which includes Hosts, Renters, and Job Applicants.
 
 The Site or App may contain links to third party websites. We are not responsible for the privacy practices or the content of those websites.
 
-This Privacy Policy was last updated on March 13, 2014 12:00am Pacific Standard Time. This Privacy Policy applies from said date. This policy may be amended to reflect regulatory requirements, advances in technology, Site or App updates and changes in our personal information management practices. Any new policy will automatically be effective when it is published on the application or website, which will also be reflected in the last updated date and time. 
+This Privacy Policy was last updated on **March 13, 2014, 12:00am Pacific Standard Time**. This Privacy Policy applies from said date. This policy may be amended to reflect regulatory requirements, advances in technology, Site or App updates and changes in our personal information management practices. Any new policy will automatically be effective when it is published on the application or website, which will also be reflected in the last updated date and time.
 
-1\. NOTICE
+#### 1\. NOTICE
 
 Individuals agree to personal data collection upon entry within forms on the Site or App. Collection notice is accomplished through a link to this policy.
 
-2\. CHOICE
+#### 2\. CHOICE
 
 Roost does not disclose personal information to third parties, or use personal information for any purpose beyond that stated at time of collection.
 
-3\. ONWARD TRANSFER
+#### 3\. ONWARD TRANSFER
 
-Roost transfers data necessary in carrying out your requests, and processing payment information through its vendors. Roost does not transfer any additional personal information to third parties. Roost cooperates with law enforcement activities, and may pass your personal information upon legal demand by law enforcement. In the event that Roost is acquired, sold, liquidated, or enters bankruptcy, personal information will be transferred to the purchasing or managing entity with the expectation that equal or greater privacy controls will be maintained for all personal information transferred. 
+Roost transfers data necessary in carrying out your requests, and processing payment information through its vendors. Roost does not transfer any additional personal information to third parties. Roost cooperates with law enforcement activities, and may pass your personal information upon legal demand by law enforcement. In the event that Roost is acquired, sold, liquidated, or enters bankruptcy, personal information will be transferred to the purchasing or managing entity with the expectation that equal or greater privacy controls will be maintained for all personal information transferred.
 
-4\. ACCESS
+#### 4\. ACCESS
 
-If you ever want to know what personal information has been collected, or wish to correct entered personal information that may not be possible through your account management page, please contact Customer Support. 
+If you ever want to know what personal information has been collected, or wish to correct entered personal information that may not be possible through your account management page, please contact Customer Support.
 
-5\. SECURITY
+#### 5\. SECURITY
 
-Roost has implemented procedural and technical controls to ensure your personal information is protected. Such controls include use of your browser's SSL encryption function, encrypted data storage, rights management controls, and employee training on the proper handling of personal information. 
+Roost has implemented procedural and technical controls to ensure your personal information is protected. Such controls include use of your browser's SSL encryption function, encrypted data storage, rights management controls, and employee training on the proper handling of personal information.
 
-6\. DATA INTEGRITY
+#### 6\. DATA INTEGRITY
 
-All data collected is for purposes described in the NOTICE located at the point of data entry collection, when communicating with you, through third parties you authorize, and automatically through use of the Site or App as described in this policy. Roost collects, stores, and processes this information. Roost has four general purposes for collection personal information. 
+All data collected is for purposes described in the NOTICE located at the point of data entry collection, when communicating with you, through third parties you authorize, and automatically through use of the Site or App as described in this policy. Roost collects, stores, and processes this information. Roost has four general purposes for collection personal information.
 
-  * Host account \- the collection of personal information to establish your identity and maintain a current host account on the Site or App, and associated payment methods for the account.
-  * Renter account \- the collection of personal information to establish your identity and maintain a current renter account on the Site or App, and associated payment methods for the account.
-  * Site or App Support \- the collection of personal information for purposes of validating the identity of the user and resolution of the request.
-  * Web Cookies and Beacons \- we may collect information on Site or App traffic and usage statistics.
+  * **Host account** \- the collection of personal information to establish your identity and maintain a current host account on the Site or App, and associated payment methods for the account.
+  * **Renter account** \- the collection of personal information to establish your identity and maintain a current renter account on the Site or App, and associated payment methods for the account.
+  * **Site or App Support** \- the collection of personal information for purposes of validating the identity of the user and resolution of the request.
+  * **Web Cookies and Beacons** \- we may collect information on Site or App traffic and usage statistics.
 
 
 
@@ -61,8 +61,10 @@ Personal information collected may include full name, address, your location, mo
 
 
 
-7\. ENFORCEMENT
+#### 7\. ENFORCEMENT
 
-Enforcement is enabled through third party arbitration. See the section entitled ['Arbitration'](https://web.archive.org/terms#arbitration) in the Terms and Conditions.
+Enforcement is enabled through third party arbitration. See the section entitled _Arbitration_ in the [Terms and Conditions](https://web.archive.org/terms).
+
+* * *
 
 If you have any questions about Roost's Privacy Policy and Principles, please contact Roost at Support@Roost.com.
