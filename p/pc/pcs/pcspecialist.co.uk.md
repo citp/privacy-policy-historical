@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020542id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807210121id_/https%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PCSPECIALIST - Privacy-policy
 
