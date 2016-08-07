@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407112638id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808004343id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Privacy: Museum Victoria
 
@@ -59,7 +59,7 @@ For online donations, for administration, fundraising and recordkeeping, Museum 
 
   * Your name to provide a tax deductible receipt 
   * Your email address to send your tax deductible receipt
-  * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any queries
+  * Your street address details to send you a letter of acknowledgement of your donation and/or provide additional validation for any queries
 
 
 
