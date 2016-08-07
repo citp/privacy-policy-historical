@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109011841id_/http%3A//swipevault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807174351id_/http%3A//swipevault.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - SwipeVault
+# Swipe Vault Privacy Policy
 
 YOUR PRIVACY RIGHTS  
-Effective Date: January 1, 2015
+Effective Date: April 13, 2016
 
 1\. INTRODUCTION  
-1.1. PURPOSE OF POLICY.  
-Chris Luck Enterprises, Inc. (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of swipevault.com (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+1.1. PURPOSE OF POLICY.
+
+Chris Luck Enterprises, Inc. ("us", "we," "Company") is committed to respecting the privacy rights of visitors and other users of swipevault.com (the "Site"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN  
-PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children's Online Privacy Protection Act of 1998.
 
 2\. INFORMATION COLLECTION PRACTICES  
 2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?
 
-In operating the Site, we collect personal information from you in three situations. The first is if you sign up to get access to online training courses, at which time we collect your email address. The second is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The third is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these three methods to use and enjoy the Site.
+In operating the Site, we collect personal information from you in three situations. The first is if you sign up to get access to online training courses, at which time we collect your email address. The second is if you should contact us via the "contact" page. In doing so, you will provide us with your name and email address. The third is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these three methods to use and enjoy the Site.
 
 2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors' domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous "traffic data" that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+(b) COOKIES. From time to time, we may use the standard "cookies" feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
 
 (c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
 
@@ -41,7 +42,7 @@ In operating the Site, we collect personal information from you in three situati
 4\. SECURITY  
 The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
 
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL  
+5\. WEBSITE AREAS BEYOND COMPANY'S CONTROL  
 5.1. THIRD PARTY WEBSITES
 
 From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
@@ -49,10 +50,12 @@ From time-to-time, the Site may contain links to other websites. If you choose t
 6\. CONTACT INFORMATION AND POLICY UPDATES  
 6.1. CONTACTING US
 
-If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
+If you have any questions about this Policy or our practices related to this Site, please feel contact us by emailing support(at)swipevault.com.
 
 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
 (a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
+
+ **[<< Go Back](http://swipevault.com/)**
