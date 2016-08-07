@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016125250id_/https%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807090523id_/https%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Inspiring Gardeners since 1865 - Dobbies Garden Centres
 
 **Privacy and Cookies Policy**
 
-Dobbies.com (“the Website”) is owned and operated by Dobbies Garden Centres Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/Information/TAC/C), explain how Dobbies may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/Information/TAC/C) carefully; by accessing the Website you confirm to have understood and agreed to them.
+Dobbies.com (“the Website”) is owned and operated by Dobbies Garden Centres Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions"), explain how Dobbies may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions") carefully; by accessing the Website you confirm to have understood and agreed to them.
 
 **Information we collect about you**
 
@@ -40,9 +40,9 @@ Your personal information is safe with us and will never be released to companie
 
 We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.
 
-**Garden Club information**
+**Dobbies Rewards information**
 
-We access the information recorded through the use of your Garden Club to help us improve our service to you and to make our communications more relevant.
+We access the information recorded through the use of your Dobbies Rewards to help us improve our service to you and to make our communications more relevant.
 
 **Marketing and research**
 
@@ -76,41 +76,41 @@ You can find more information about cookies at [www.allaboutcookies.org](http://
 
 A list of all the cookies used on the Website by category is set out below.
 
-Strictly necessary cookies
+Strictly necessary cookies.
 
 These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
 
 These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets, cannot be provided.
 
-Performance cookies
+Performance cookies.
 
 These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.
 
 These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works.
 
-Functionality cookies
+Functionality cookies.
 
 These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
 
 These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
-Targeting or advertising cookies
+Targeting or advertising cookies.
 
 These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-Behavioural advertising and online privacy
+Behavioural advertising and online privacy.
 
 A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the IAB’s self-regulatory scheme to allow you greater control of the advertising you see.
 
-Using browser settings to manage cookies
+Using browser settings to manage cookies.
 
 The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
 However, because cookies allow you to take advantage of some of the Website’s essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout. If you leave cookies turned on, remember to sign off when you finish using a shared computer.
 
-Disclosing your information
+Disclosing your information.
 
 We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
 
@@ -122,7 +122,7 @@ The Website may contain links to other sites which are outside our control and n
 
 **Accessing your information**
 
-To obtain a copy of the information we hold about you, write to: Data Protection Officer, Dobbies Garden Centres Limited, Melville Nursery, Lasswade, Midlothian EH18 1AZ enclosing a cheque or postal order for £10 payable to “Dobbies Garden Centres Limited”. Please confirm your Garden Club number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
+To obtain a copy of the information we hold about you, write to: Data Protection Officer, Dobbies Garden Centres Limited, Melville Nursery, Lasswade, Midlothian EH18 1AZ enclosing a cheque or postal order for £10 payable to “Dobbies Garden Centres Limited”. Please confirm your Dobbies Rewards number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
 
 **Changes to our policy**
 
