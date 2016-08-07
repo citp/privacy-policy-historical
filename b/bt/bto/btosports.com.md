@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602114715id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807071900id_/https%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
 # BTO SPORTS: Privacy Policy
 
