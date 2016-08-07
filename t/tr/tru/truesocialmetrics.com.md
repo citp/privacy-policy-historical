@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310035711id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesocialmetrics.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807102043id_/https%3A//www.truesocialmetrics.com/privacy%3Fga%3Dfooter) for the most accurate reproduction.*
 
 # True Social Metrics: Social media analytics
 
@@ -42,3 +42,11 @@ We may preserve or disclose your information if we believe that it is reasonably
 #### Contacting you
 
 We will contact you by email, phone and other ways only if you give us the information required to do so and do not indicate that you do not want to be contacted in these ways. You may indicate that you do not want to be contacted by e-mail using the settings functionality on TrueSocialMetrics and can tell us at any time that you do not want to be contacted by any other means by emailing [nowhere@truesocialmetrics.com](mailto:nowhere@truesocialmetrics.com?subject=I%20have%20an%20awesome%20idea!). 
+
+#### Data
+
+All repented data are comes from specieic socaial networks API's. TrueSocialMetrics is not reponsoble for differences in data that were returned by API. TrueSocialMetrics is not respoble for any loss or damage that led or not led using this data. 
+
+#### Subscription
+
+You can have access to TrueSocialMetrics analytics data until your payment subscription is active. We may stop your subscripiotn without explanation with or without notice. 
