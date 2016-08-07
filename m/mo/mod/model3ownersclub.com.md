@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the model3ownersclub.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161353id_/http%3A//model3ownersclub.com/index.php%3Fhelp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the model3ownersclub.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807211001id_/http%3A//model3ownersclub.com/index.php%3Fhelp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Model 3 Owners Club
 
