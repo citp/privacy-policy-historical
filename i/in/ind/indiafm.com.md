@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005823id_/http%3A//www.bollywoodhungama.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808001107id_/http%3A//www.indiafm.com/index/privacy) for the most accurate reproduction.*
 
 # 
 
