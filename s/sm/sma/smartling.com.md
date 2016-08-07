@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410115250id_/https%3A//www.smartling.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808010433id_/https%3A//www.smartling.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smartling
+# Privacy Policy | Smartling
 
 Thank you for visiting this website (this “Site”), which is operated by Smartling, Inc. (“Smartling,” “we,” “us” or “our”). This Site is intended to provide existing and prospective and current business customers of Smartling with information regarding the services offered by Smartling and to enable existing and prospective business customers of Smartling to indicate their interest in purchasing such services.
 
