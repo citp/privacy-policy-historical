@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119122316id_/http%3A//www.xyzhomework.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807052607id_/http%3A//www.xyzhomework.com/privacy_policy) for the most accurate reproduction.*
 
 # XYZ Homework - Privacy Policy
 
@@ -8,7 +8,7 @@ Browser Check
 
 Confirm that your browser is ready for our online homework system:
 
-[Check Now](https://web.archive.org/browser_check)
+[Check Now](https://web.archive.org/imathas/checkbrowser.php)
 
 ## XYZ Homework Privacy Agreement
 
@@ -17,7 +17,7 @@ XYZ Homework may change any of the terms in this agreement at any time. Changes 
 XYZ Homework will not disclose any personally identifiable information associated with your use of XYZ Homework (e.g. name, physical address, e-mail address, username and password, activity results) to any third parties except:
 
   1. within class rosters, grade books or communication tools (messaging system or class forums) that facilitate student-instructor or student-student conversations. Instructors have the ability to export grade book information from XYZ Textbooks to maintain educational records.
-  2. where the information is requested by the student’s educational institution or state educational officials for educational or administrative uses.
+  2. where the information is requested by the student's educational institution or state educational officials for educational or administrative uses.
   3. where illegal conduct is suspected, personally identifiable information may be disclosed to instructors, educational institutions or law enforcement agencies in order to assist the investigation of potential illegal acts.
 
 
