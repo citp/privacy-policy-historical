@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607223900id_/http%3A//www.projectinsight.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807191747id_/http%3A//www.projectinsight.net/privacy-policy) for the most accurate reproduction.*
 
 # Project Insight Privacy Statement
 
@@ -31,6 +31,8 @@ Metafuse uses session cookies containing encrypted or encoded information includ
 ## Third-Party Sites
 
 The website may contain links to other websites. These websites could contain links that users input in the system as well. Metafuse is not responsible for the privacy practices or the content of these other websites. Customers and visitors will need to check the policy statements of these other web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 ## Security
 
