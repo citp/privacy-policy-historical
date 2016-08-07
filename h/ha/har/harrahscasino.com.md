@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrahscasino.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161156id_/http%3A//www.harrahscasino.com/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrahscasino.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807220840id_/https%3A//www.harrahscasino.com/policies/privacypolicy) for the most accurate reproduction.*
 
 # HarrahsCasino.com | Policies | Privacy Policy
 
@@ -147,6 +147,8 @@ By using the Gambling Services you acknowledge and agree that your Personal Info
 **Geo-location Data**
 
 When you use the Gambling Services, we collect your location coordinate data. A record confirming your presence within the State of New Jersey may be retained for up to 10 years as required by the applicable state and federal regulations. Nonetheless, the Company reserves the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect the Company’s rights or property or as detailed in this Privacy Policy.
+
+Certain services including GeoComply, will make use of your location data. If you use such services, you consent to us transmitting, collecting, maintaining, processing and using your location data in order to provide and improve location-based services. You may withdraw this consent at any time by turning off the location settings or by notifying us in writing that you would like to withdraw such consent.
 
 **CONSENT**
 
