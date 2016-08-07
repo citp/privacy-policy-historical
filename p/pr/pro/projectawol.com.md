@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projectawol.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112192806id_/http%3A//www.projectawol.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectawol.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807112608id_/http%3A//www.projectawol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Project A.W.O.L.
+# Privacy Policy – Project AWOL
 
 ## Privacy Policy
 
-Welcome to http://projectawol.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Project AWOL, LP. (collectively, “Services”) (“Authorized Customers”).
+Welcome to http://projectawol.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Project AWOL, LP (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” 
 
@@ -28,23 +28,23 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 How is Personally Identifiable Information stored?
 
-Personally Identifiable Information collected by Project AWOL, LP. is securely stored and is not accessible to third parties or employees of Project AWOL, LP. except for use as indicated above.
+Personally Identifiable Information collected by Project AWOL, LP is securely stored and is not accessible to third parties or employees of Project AWOL, LP except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
 
 Are Cookies Used on the Site?
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-How does Project AWOL, LP. use login information? 
+How does Project AWOL, LP use login information? 
 
-Project AWOL, LP. uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+Project AWOL, LP uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-Project AWOL, LP. has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+Project AWOL, LP has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
 How does the Site keep Personally Identifiable Information secure?
 
@@ -52,7 +52,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at Kameron@projectawol.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@projectawol.com
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
