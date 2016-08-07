@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607164418id_/http%3A//www.sportanddev.org/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807042558id_/http%3A//www.sportanddev.org/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy : International Platform on Sport and Development
 
