@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokertube.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324041933id_/https%3A//www.pokertube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokertube.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808062746id_/https%3A//www.pokertube.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | PokerTube
 
