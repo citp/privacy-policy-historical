@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607080809id_/http%3A//businessblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808024718id_/http%3A//businessblueprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Business Blueprint
 
