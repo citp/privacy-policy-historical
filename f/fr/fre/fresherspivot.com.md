@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fresherspivot.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607134739id_/http%3A//www.fresherspivot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresherspivot.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808021604id_/http%3A//www.fresherspivot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 **Freshers Pivot**  and its affiliates respect your privacy. This Privacy Policy provides the manner your data is collected and used by Fresherspivot. You are advised to please read the  **Privacy Policy**  carefully. By accessing the services provided by Fresherspivot you agree to the collection and use of your data by Fresherspivot in the manner provided in this Privacy Policy.
 
