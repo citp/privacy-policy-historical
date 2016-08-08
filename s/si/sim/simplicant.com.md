@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608043448id_/http%3A//www.simplicant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809014618id_/http%3A//www.simplicant.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Simplicant: Applicant Tracking System, Recruitment Software
 
