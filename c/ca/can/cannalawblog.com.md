@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507125432id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808072225id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Canna Law Blog Privacy Policy | Harris Moure | Canna Law Group
+# Privacy Policy | Canna Law Blog™
 
 The publishing lawyer and law firm values the privacy of its clients and Web/blog site viewers. Any of the following personal information that may be made available to the lawyer or firm when browsing or navigating the site shall be kept confidential:
 
@@ -54,7 +54,7 @@ The lawyer or firm will also disclose your personal information, if required to 
 
 ### Internet Security
 
-The lawyer or firm strives to protect your personal information; however, we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters
+The lawyer or firm strives to protect your personal information; however, we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers.
 
 ### Protecting the Privacy of Children
 
