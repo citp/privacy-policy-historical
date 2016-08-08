@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002800id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808054226id_/http%3A//www.lightingshowplace.com/help/security) for the most accurate reproduction.*
 
 # Lighting - Chandeliers, Bathroom Lights & Wall Lights
 
