@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603050241id_/https%3A//www.payschools.com/legal/ps_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payschools.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808033609id_/https%3A//www.payschools.com/ps_privacypolicy) for the most accurate reproduction.*
 
 # PS_PrivacyPolicy
 
