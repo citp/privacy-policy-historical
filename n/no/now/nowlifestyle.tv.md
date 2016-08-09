@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowlifestyle.tv privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605142948id_/http%3A//www.nowlifestyle.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowlifestyle.tv privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809020932id_/http%3A//www.nowlifestyle.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » NowLifestyle
 
