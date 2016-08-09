@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429142402id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809081803id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Property Portal Watch
+# Privacy Policy | Property Portal Watch
 
 ## 1\.  Introduction
 
@@ -92,4 +92,4 @@ You acknowledge that we are not responsible for the privacy or security practice
 
 You may request at any time access to and to update personal information we hold about you. We may charge you a fee where access is provided. We may refuse to provide access if the National Privacy Principles allow us to do so.
 
-If you wish to request access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information please contact [info@classifiedadventures.com](mailto:info@classifiedadventures.com)
+If you wish to request access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information please contact editor@propertyportalwatch.com
