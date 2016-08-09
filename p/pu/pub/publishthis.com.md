@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406115422id_/http%3A//www.publishthis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809111546id_/http%3A//www.publishthis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PublishThis
 
