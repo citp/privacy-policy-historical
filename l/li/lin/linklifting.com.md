@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the linklifting.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914192437id_/https%3A//linklifting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linklifting.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809025121id_/https%3A//linklifting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LinkLifting.com
 
 **What information do we collect?**  
-We collect information from you when you register for an account on LinkWiper.com. 
+We collect information from you when you register for an account on LinkLifting.com. 
 
 When registering on our website, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously. 
 
@@ -32,13 +32,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of LinkLifting.com at <https://linklifting.com/terms/>
 
 **Your Consent**  
-By using the BackLinks.com service, you consent to our web site privacy policy. 
+By using the LinkLifting.com service, you consent to our web site privacy policy. 
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below: 
-
-**Postal address:** Akado Oy  
-PL 125, 45100, Kouvola, Finland
 
 E-mail: [support@linklifting.com](mailto:support@linklifting.com)  
 Web: <https://linklifting.com/>
