@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507084253id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809104919id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motion Array
 
