@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609095547id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809101556id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
 
 # Shop Online | Ladies, Mens & Kids Fashion | MRP ZA
 
