@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the compareandrecycle.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627062732id_/http%3A//www.compareandrecycle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandrecycle.co.uk privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809174501id_/https%3A//www.compareandrecycle.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Compare and Recycle
-
-## Privacy Policy
 
 ### Commitment to your privacy
 
@@ -62,6 +60,12 @@ We may place a text file called a "cookie" in the browser files of your computer
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums and polling. 
 
+#### This website uses Google AdWords
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Compare and Recycle website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences](https://www.google.com/settings/ads) page.
+
 ### Use of information
 
 Compare and Recycle uses any information voluntarily given by our users to enhance their experience of the site, whether to provide interactive or personalised elements on the site or to better prepare future content based on the interests of our users. 
@@ -74,23 +78,38 @@ Compare and Recycle may create aggregate reports on user demographics and traffi
 
 ### Sharing of information
 
-Compare and Recycle uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+Compare and Recycle uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party without consent, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
 ### Security
 
 Compare and Recycle operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our users. 
 
-### Opt-out policy
-
-We give users options wherever necessary and practical. Such choices include: 
-
-  * Opting not to register to receive our electronic newsletters. 
-
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
-
-
-
-
 ### Your consent
 
 By using this site, you consent to the collection and use of this information by Compare and Recycle. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+### Your personal information
+
+When you submit an order via Compare and Recycle you will provide information such as your address, name, phone number and email address. This information is sent to us over a secure connection and will be stored securely.
+
+The information you provide will be passed on to the recycler you have chosen to sell to. This information is necessary in order for your chosen recycler to send you a sales pack (if requested) and to contact you during the course of the sale.
+
+Compare and Recycle will not keep your bank details for any longer than it takes to pass your order onto your chosen recycler. Your contact details will be retained and Compare and Recycle and we will use this information to:
+
+  * Inform you of the latest products, services and offers provided by Compare and Recycle (Atom Juice Ltd).
+  * Share with carefully selected third parties (who may send marketing communication to you) unless you opt-out.
+
+
+
+We may use any of the following methods to contact you:
+
+  * Email
+  * Telephone
+  * Text or picture message
+  * Post
+
+
+
+### Opt-out policy
+
+If you do not wish to be contacted by Compare and Recycle or any of our selected 3rd parties you can opt-out by emaling contact@compareandrecycle.co.uk and requesting that we stop using your information for the purpose of marketing communication. You can also email Compare and Recycle should you have any questions about how we use your information.
