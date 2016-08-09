@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314012732id_/http%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809042518id_/https%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We may collect Personal Information, which is information that identifies you as
 
 Please do not send us, provide, or disclose any sensitive Personal Information (for example, Social Security number; driver’s license number; credit card number (unless necessary to make a purchase); racial or ethnic origin or background; political, religious or other beliefs; organizational memberships or group affiliations; or criminal backgrounds on or through the Site or otherwise to us. We do not need this information at all.
 
-To learn more about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+To learn more about cookies, please visit www.allaboutcookies.org.
 
 How We May Use or Disclose Information Collected:
 
