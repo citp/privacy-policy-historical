@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315003547id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809090056id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Watermark.ws
 
 Watermark.ws reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the Watermark.ws website. 
 
-### Your photos and documents at Watermark.
+### Your photos, videos and documents at Watermark.
 
-All photos and documents you upload to Watermark are private and protected. Watermark does not obtain any legal rights to share or distribute your photos. You hold 100% ownership of your photos. Only you have access to your account and the photos you store in your account. Watermark is merely an online service that allows you to modify your photos to protect your authenticity. We use the highest form of security to protect all of our user accounts. 
+All files you upload to Watermark are private and protected. Watermark does not obtain any legal rights to share or distribute your photos. **You hold 100% ownership of your files**. Only you have access to your account and the photos you store in your account. Watermark is merely an online service that allows you to modify your files to protect your authenticity. We use the highest form of security to protect all of our user accounts. 
 
 ### Your personal information at Watermark.ws
 
@@ -25,11 +25,11 @@ We will only disclose your information without your authorization in the followi
 
 
 
-You are giving your consent to disclose your personal info (photos, documents, videos, etc.) in the following situations: 
+You are giving your consent to disclose your personal info (photos, videos, documents, etc.) in the following situations: 
 
-  * You upload a photo album to Watermark.ws site either using our software or using other options at Watermark.ws website. 
+  * You upload a file to Watermark.ws site either using our software or using other options at Watermark.ws website. 
   * You share your files with the "Share!" button situated on any page of Watermark.ws services. 
-  * You share your files at Watermark.ws site using any of the Watermark.ws services and share a link to this photo elsewhere on the internet. 
+  * You share your files at Watermark.ws site using any of the Watermark.ws services and share a link to this file elsewhere on the internet. 
 
 
 
