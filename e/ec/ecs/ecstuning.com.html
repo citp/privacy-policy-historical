@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecstuning.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401052058id_/https%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecstuning.com privacy policy that was archived on 2016-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160809080645id_/https%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 		
@@ -12,8 +12,10 @@
         <link rel="apple-touch-icon" sizes="144x144" href="https://c1521972.ssl.cf0.rackcdn.com/img/icons/apple-touch-icon-144x144.png">
         <link rel="apple-touch-icon" sizes="512x512" href="https://c1521972.ssl.cf0.rackcdn.com/img/icons/apple-touch-icon-512x512.png">
         <link rel="search" title="ECStuning.com" href="/ECSsearch.xml" type="application/opensearchdescription+xml">
-		<link rel="stylesheet" type="text/css" href="https://c1521972.ssl.cf0.rackcdn.com/includes/css/style_160115.css">
+		<link rel="stylesheet" type="text/css" href="https://c1521972.ssl.cf0.rackcdn.com/includes/css/style_160720a.css">
 		<link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet">
+		<link href="https://c1521972.ssl.cf0.rackcdn.com/includes/css/chatstyle160708.css" rel="stylesheet" type="text/css">
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5F5RHH"></script><script type="text/javascript">var selectedVehicleConfigID = 0;</script>
 		
 
         <!-- IE 8 needs this to load in the header -->
@@ -131,7 +133,12 @@
 				<button type="button" class="close" data-dismiss="alert">×</button>  
 				<i class="icon-exclamation-sign icon-white"></i>&nbsp;&nbsp;Could not verify your account.<br><br>If you've placed and order before, choose Recover Lost Password to reset your password.
 			</div>
-			
+
+            <div id="login-lockout" style="display:none;" class="alert alert-block alert-error fade in login-lockout">
+                <button type="button" class="close" data-dismiss="alert">×</button>  
+                <i class="icon-exclamation-sign icon-white"></i>&nbsp;&nbsp;Account Locked Out.<br><br>Too many invalid login attempts, contact ECS Customer Support.
+            </div>
+
 			<div id="login-recover-error" style="display:none;" class="alert alert-block alert-error fade in login-recover-error">
 				<button type="button" class="close" data-dismiss="alert">×</button>  
 				<i class="icon-exclamation-sign icon-white"></i>&nbsp;<span class="msg-text"></span>
@@ -214,10 +221,134 @@
 </div><!-- modal-body -->
 </div><!-- #atwl -->
 
+<div id="chatClientTemplate" class="hidden">
+
+<div id="header-wrapper">
+	<div>
+		<a href="/"><img src="/img/logo.png" id="logo" alt="ECS Tuning"></a>
+		<a href="#"><img src="/img/livechat-header.png" id="livechat" alt="Live Chat"></a>
+	</div>
+</div>
+
+<div id="chatContent">
+	<p>Thank you for choosing the ECS Tuning Live Chat.<br>
+	<span>To serve you better, please fill out the following information.</span></p>
+	<div id="formcontainer">
+		<form action="./" method="get" id="contentform" class="LCForm">
+			<ul> 
+				<li>
+					<label for="name" class="customerInputLbl">Name:</label>
+					<input id="name" name="name" placeholder="Name" class="text" type="text" value="">
+				</li>
+
+				<li>
+					<label for="email" class="customerInputLbl">Email Address:</label>
+					<input name="email" placeholder="Email Address" class="text" type="text" value="">
+					<div class="hidden">  </div>
+				</li>
+
+				<li>
+					<label for="email_verify" class="customerInputLbl">Confirm Email:</label>  
+					<input name="email_verify" placeholder="Confirm Email" class="text" type="text" value="">
+				</li>
+
+				<li>
+					<label for="question" class="customerInputLbl">Question:</label>
+					<input class="text" type="text" id="question" name="question" placeholder="Question" value="">
+				</li>
+				
+				<li>
+					<label>Department:</label>
+					<div id="departmentlist">
+						<div class="deptWrap"><input type="radio" id="sales" name="department" value="9"> <label for="sales">Sales</label></div>
+						<div class="deptWrap"><input type="radio" id="customerservice" name="department" value="10" autocomplete="off"> <label for="customerservice">Customer Service</label></div>
+						<div class="deptWrap"><input type="radio" id="orderstatus" name="department" value="11"> <label for="orderstatus">Order Status</label></div>
+						<div class="deptWrap"><input type="radio" id="billing" name="department" value="12"> <label for="billing">Billing</label></div>
+					</div>
+
+				</li>
+				
+				<li>
+					<label for="vstep_1">Vehicle Info:</label>
+<div class="vselectwrap">
+	<select name="vstep_1" class="vstep" onchange="selectStep(event);">
+		<option value="n">Make</option>
+		<option value="4418">Acura</option>
+		<option value="15913">Aston Martin</option>
+		<option value="Audi">Audi</option>
+		<option value="16000">Bentley</option>
+		<option value="BMW">BMW</option>
+		<option value="16162">Buick</option>
+		<option value="17045">Cadillac</option>
+		<option value="17586">Chevrolet</option>
+		<option value="30762">Chrysler</option>
+		<option value="15773">Ferrari</option>
+		<option value="5866">Ford</option>
+		<option value="31443">GMC</option>
+		<option value="3476">Honda</option>
+		<option value="43204">Hummer</option>
+		<option value="43242">Hyundai</option>
+		<option value="43681">Infiniti</option>
+		<option value="43883">Jaguar</option>
+		<option value="44150">Jeep</option>
+		<option value="44738">Kia</option>
+		<option value="45020">Lamborghini</option>
+		<option value="45098">Land Rover</option>
+		<option value="45241">Lexus</option>
+		<option value="45466">Lincoln</option>
+		<option value="45781">Lotus</option>
+		<option value="45827">Maserati</option>
+		<option value="45894">Maybach</option>
+		<option value="45922">Mazda</option>
+		<option value="4">Mercedes Benz</option>
+		<option value="46801">Mercury</option>
+		<option value="769">MINI</option>
+		<option value="47491">Mitsubishi</option>
+		<option value="4755">Nissan</option>
+		<option value="48199">Oldsmobile</option>
+		<option value="49134">Pontiac</option>
+		<option value="815">Porsche</option>
+		<option value="50203">Rolls Royce</option>
+		<option value="3179">Saab</option>
+		<option value="50279">Saturn</option>
+		<option value="50601">Scion</option>
+		<option value="50624">Smart</option>
+		<option value="50639">Subaru</option>
+		<option value="1148">Toyota</option>
+		<option value="Volkswagen">Volkswagen</option>
+		<option value="51352">Volvo</option>
+	</select>
+
+	<select name="vstep_2" class="vstep">
+		<option value="n">Year</option>
+	</select>
+
+	<select name="vstep_3" class="vstep">
+		<option value="n">Model</option>
+	</select>
+</div>
+				</li>
+				<li>
+					<input class="submit" type="image" src="https://c1521972.ssl.cf0.rackcdn.com/img/btnStartChat.jpg">  
+					<input type="hidden" name="init_url" value="">
+					<input type="hidden" name="site" value="ECS">
+					<input type="hidden" name="chatClient" value="true">
+					<input type="hidden" name="chat" value="start">
+					<input id="openChat" type="hidden" name="openChat" value="">
+				</li>
+			</ul>
+		</form>
+	</div><!-- end formcontainer -->
+</div><!-- end content -->
+
+
+<br><br><br>
+
+</div>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5F5RHH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5F5RHH"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -227,12 +358,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div id="header">
 			<a href="/"><img src="https://c1521972.ssl.cf0.rackcdn.com/img/logo.png" class="logo" width="220" height="84" alt="ECS Tuning Logo"></a>
  			<div id="banner" class="headersec">
- 			<a class="headerCallout" href="/TermsOfUse/#free-shipping" title="Free Shipping"><img src="https://c1521972.ssl.cf0.rackcdn.com/img/Free_Shipping_Banner.gif" width="340" height="95" alt="Free Shipping"></a>
+ 			<a class="headerCallout" href="/TermsOfUse/#free-shipping" title="Free Shipping"><img src="https://c1521972.ssl.cf0.rackcdn.com/img/headerImgs/Free_Shipping_Banner_No_Minimum.jpg" width="340" height="95" alt="Free Shipping"></a>
  			</div><!-- end #banner -->
 			<p id="phone"><span>ORDER TOLL FREE</span>
 			1.800.924.5172<em class="local">330.331.2003</em></p>
 			<div id="livechat">
-			</div><!-- end #livechat -->
+	<a href="#livechat" class="livechat offline">			<img src="https://c1521972.ssl.cf0.rackcdn.com/img/livechat-header.png" width="60" height="40" alt="Live Chat Logo"><span class="txt"><i>Click below<br> to </i><b>live chat</b></span><span>Offline</span></a>			</div><!-- end #livechat -->
 			<ul id="customer-links">
 			<div id="liveChatButtonFloating" class=""><div style="height:100%; display:table;">			<div class="liveChatBtn vertical-text" style="display:table-cell; vertical-align:middle;">			<img src="/img/livechat-header.png"> Live Chat</div></div></div>				<li class="searchToggle"> <a title="Search"><i class="icon-white icon-search"></i> <b>Search</b></a></li>
 				<li class="cart"> <a href="/Checkout/" id="cart-num-items" rel="nofollow" title="You have 0 item(s) in your cart"><i class="icon-white icon-shopping-cart"></i> <b>My Cart: </b> <span class="cartCount">0</span></a></li>
@@ -535,7 +666,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<li><a href="/">Home</a></li>
 			<li><a href="/AboutUs/">About Us</a></li>
 			<li><a href="/News/">ECS News</a></li>
-			<li><a href="/Cart/">View Shopping Cart</a></li>
+			<li><a href="/Checkout/">View Shopping Cart</a></li>
 			<li><a href="/Careers/">Career Opportunities</a></li>
 			<li><a href="/Signup/">E-News Signup</a></li>
 			<li><a href="/ContactUs/">Contact Us</a></li>
@@ -565,43 +696,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</ul>
 		<ul>
 			<li><span>Social Media</span></li>
-			<li><a href="http://facebook.com/ECSFans">Facebook</a></li>
-			<li><a href="http://youtube.com/ECSTuningMedia">YouTube</a></li>
+			<li><a href="http://www.facebook.com/ECSFans">Facebook</a></li>
+			<li><a href="http://www.youtube.com/ECSTuningMedia">YouTube</a></li>
 			<li><a href="http://twitter.com/ECSTuning">Twitter</a></li>
 			<li><a href="http://vimeo.com/ecstuning">Vimeo</a></li>
-			<li><a href="http://instagram.com/ecstuning">Instagram</a></li>
+			<li><a href="http://www.instagram.com/ecstuning">Instagram</a></li>
 			<li><a href="https://plus.google.com/112240725030296718965/posts">Google+</a></li>
 			<li><a href="http://www.pinterest.com/ecstuning/">Pinterest</a></li>
-			<li><a href="http://ecstuning.tumblr.com">Tumblr</a></li>
-			<li><a id="snapChatLink" data-toggle="modal" data-target="#snapChatQR">Snapchat</a></li>
 		</ul>
 		<div id="footer-questions">
 			
 			<h3>Have an ordering or technical question for ECS?</h3>
-			<p>Our trained sales staff can be reached by using <a href="/Chat/?init_color=red" target="123livehelp_client" class="livechat online" onclick="openClientInNewWindow('/Chat/?init_color=red','495','750','','undefined','','','','','Windows','','','http2F2F','Chrome');return false;">LiveChat</a> or you can call toll free.</p>
+			<p>Our trained sales staff can be reached by using <a href="#lcFooter" id="lcFooter" class="livechat online" onclick="$('#liveChatButtonFloating').trigger('click');">LiveChat</a> or you can call toll free.</p>
 			<span>1.800.924.5172</span>
 			<a href="/Careers/" title="Click Here To Apply"><img src="https://c1521972.ssl.cf0.rackcdn.com/img/job_opportunities_shift_anim_footer.gif" width="340" height="95" alt="Click Here To Apply" style="width:100%;height:auto"></a>
 		</div><!-- end #footer-questions -->
 		<div id="affliated">ECS Tuning is not affiliated with any automobile manufacturers. Manufacturer names and/or part numbers are used only for identification purposes.</div>
 	</div><!-- end #footer -->
 </div><!-- end #footer-wrapper -->
-<div id="snapChatQR" class="fade" role="dialog" style="padding-left:0px">
-   <div id="snapContainer">
-        <div id="snapHead">
-		<div id="snapCloseX" data-dismiss="modal"><img src="/img/closeItIcon.jpg" alt="Close" title="close" style="max-width:50%;height:auto"></div>
-  </div>
-			<h3>Point your Snapchat from another device at our Snaptag, then tap or take a picture to add us!</h3>
-		<div id="snapIMG">
-			<img src="/img/snapChatClicked.png">
-		</div>
-		<div id="snapChatClose" data-dismiss="modal">
-			<h2>Close </h2>
-		</div>
-	</div> <!--container-->
-</div>
 <div class="mobileornot" style="">
-	<a href="." onclick="document.cookie='requestDesktop=0;path=/;expires=Thu, 01 Jan 1970 00:00:01 GMT'; return true;" class="showmobile" style="display:none;">Show Mobile Version</a>
-	<a href="." onclick="document.cookie='requestDesktop=1;path=/'; return true;" class="showdesktop" style="">Show Desktop Version</a>
+	<a href="./" onclick="document.cookie='requestDesktop=0;path=/;expires=Thu, 01 Jan 1970 00:00:01 GMT'; return true;" class="showmobile" style="display:none;">Show Mobile Version</a>
+	<a href="./" onclick="document.cookie='requestDesktop=1;path=/'; return true;" class="showdesktop" style="">Show Desktop Version</a>
 </div>
 
 <div id="newCustModal" class="newCustModal bsbb fl fn">
@@ -708,13 +823,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     contentForm = $('#contentform'),
     CDNpath = 'https://c1521972.ssl.cf0.rackcdn.com',
     CDNproduct = 'https://c1552172.ssl.cf0.rackcdn.com',
-    chat_window_skin= 'red',
-    chat_window_width = 495,
-    chat_window_height = 750,
-    online_display = 'online',
-    offline_display = 'offline',
-    enable_invitation = false,
-    define_url = '',
     pageTracker;
 
     selectedSteps = [];
@@ -749,7 +857,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     });
 
     $script([
-        'https://c1521972.ssl.cf0.rackcdn.com/includes/js/bootstrap.min.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/login-20151102.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/addToCart-151123.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/123livehelp-20151215.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/previousVehicles-140331.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/pageTracker-150312.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/common_160211.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/creepboxes-150727.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/modernizr.custom.140803.js', '//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.js', '//www.googleadservices.com/pagead/conversion_async.js', '//seal-akron.bbb.org/logo/ecs-tuning-40000380.js', 'https://cdn-3.convertexperiments.com/js/10015534-10015657.js', '/livehelp/live_status.js'
+        'https://c1521972.ssl.cf0.rackcdn.com/includes/js/bootstrap.min.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/login-20160516.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/addToCart-160726.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/previousVehicles-140331.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/pageTracker-160719.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/common_20160715.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/creepboxes-160708.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/modernizr.custom.140803.js', 'https://c1521972.ssl.cf0.rackcdn.com/includes/js/chatclient-160708a.js', '//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.js', '//www.googleadservices.com/pagead/conversion_async.js', '//seal-akron.bbb.org/logo/ecs-tuning-40000380.js', '//cdn.listrakbi.com/scripts/script.js?m=DNDyKEIQijja&v=1', 'https://cdn-3.convertexperiments.com/js/10015534-10015731.js'
     ], 'scripts');
     $script.ready("scripts", function() {
       $(document).trigger(scriptLoadEventName);
@@ -807,11 +915,142 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     pageTracker = new PageTracker({"__CLASS__":"Website::PageTracker","adWordsAccounts":[],"ebayMerchantID":525168,"isInternalUser":0,"userID":null,"yahooAccountID":"11DQNRQIBIFPDFNECMAR8C15S3G"});
     pageTracker.track();
+	
+	function imageExists(url, callback) {
+		var img = new Image();
+		$(img).on('load',  function() { var myWidth=this.width; var myHeight = this.height; callback(true, myWidth, myHeight); } ); 
+		$(img).on('error', function() { callback(false); }) ;
+			img.src = url;
+	}
 
-    initLH();
+	function chatOnlineStatus(cb) {
+		var onlinestatus = false;
+		
+		SnapEngage.getAgentStatusAsync(function (online) {
+			if(online) {
+				onlinestatus =  true;
+			} 
+			else{
+				onlinestatus =  false;
+			}
+			if(typeof(cb)==='function'){
+				cb(onlinestatus);
+			}
+			else
+				return onlinestatus;
+		});	
+	};
+	
+	dept_wID = {
+		'Sales':'5c69c22a-8fed-4989-8b1d-ea357f157ac4',
+		'Customer Service':'c8d64302-7c69-4d60-ade1-a40253656f8d',
+		'Order Status' : '0380c29a-7597-41a0-abb7-058732150393',
+		'Billing' : 'c8c9cef2-7036-4716-9f69-ed28998fbf57',
+	};
+	 chatURL = {
+		'Sales':	'//storage.googleapis.com/code.snapengage.com/js/'+dept_wID["Sales"]+'.js',   
+		'Customer Service':	'//storage.googleapis.com/code.snapengage.com/js/'+dept_wID["Customer Service"]+'.js',
+		'Order Status':	'//storage.googleapis.com/code.snapengage.com/js/'+dept_wID["Order Status"]+'.js',
+		'Billing':	'//storage.googleapis.com/code.snapengage.com/js/'+dept_wID["Billing"]+'.js',
+	};
+
+	function dept(deptName,chatURL){
+			this.name = deptName;
+			this.chatURL = chatURL;
+	}
+	chatDeptArr =new Array(new dept('Sales','//storage.googleapis.com/code.snapengage.com/js/5c69c22a-8fed-4989-8b1d-ea357f157ac4.js'), new dept('Customer Service','//storage.googleapis.com/code.snapengage.com/js/c8d64302-7c69-4d60-ade1-a40253656f8d.js'), new dept('Order Status','//storage.googleapis.com/code.snapengage.com/js/0380c29a-7597-41a0-abb7-058732150393.js'), new dept('Billing','//storage.googleapis.com/code.snapengage.com/js/c8c9cef2-7036-4716-9f69-ed28998fbf57.js'));
+	var myDept = '';
+	var myDeptTxt='';
+
+	window.preloadChat = function(dept, cb){
+		clearSnapEngage();
+		var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+		se.src=chatURL[dept];
+		var done = false;
+		var canChat = false;
+		se.onload = se.onreadystatechange = function() {
+		  if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+				done = true;
+				chatOnlineStatus(function(canChat){
+					if(canChat)
+					{
+							$('.livechat').removeClass('offline').addClass('online').find('.txt').next().html('online');
+					}
+					else{
+							//chat unavailable for [dept]
+					}	
+				});
+				if(typeof cb==="function"){
+					cb(canChat);
+				}
+		    }
+		};
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+
+	}
+	function getOnlineChatStatus(depts) {
+		
+		var deptStatus = {};
+		var numDepts = depts.length;
+		var numResponse = 0;
+		var isOnline = false;
+		 window.hasChat = false;
+		 window.isChatInProgress = false;
+		var $body = $($('body')[0]);
+
+		$body.on('chatResumed', function(){
+				setTimeout(function (){	
+					clearSnapEngage();
+					var wID = getCookie('curSnapW_Id');
+					var deptStr = getKeyByValue(dept_wID,wID);
+					clearSnapEngage();
+					$('#lcIframeContainer, .modalDarkBG').addClass('hidden');
+					preloadChat(deptStr, function (){
+					});
+				},2000);
+				
+		});
+		
+		$body.on('chatPreloaded', function(e){
+				if(window.isChatInProgress)
+						$('body').trigger('chatResumed');
+		}); 
+
+		for(var a=0;a<depts.length;a++)
+			{
+				(function(a,depts,numResponse, isOnline, getKeyByValue, getCookie, preloadChat, dept_wID){
+									
+					preloadChat(depts[a], function(isOnline){
+						hasChat = function (){
+							if((typeof (SnapEngage) !== 'undefined'))
+								return SnapEngage.isChatInProgress();
+							else 
+								return false;
+						};
+						if(a==(depts.length-1)){
+							if(hasChat()){
+								window.isChatInProgress = true;
+								setTimeout(function(){$('body').addClass('hasChat');},4000);  // give snap engage chat window time to init.
+							}
+							$body.trigger('chatPreloaded');
+						}
+						if(isOnline){	
+							return true;
+						}
+						else{
+							if(a==(depts.length-1))
+								return false;
+						}
+					}); // use soft start to signify 								
+				})(a,depts,numResponse, isOnline, getKeyByValue, getCookie, preloadChat, dept_wID);
+			}
+	}
+
+	snapEngageOnlineStatus=getOnlineChatStatus(["Sales", "Customer Service", "Order Status", "Billing"]);
+
   });
 
-  window.fbAsyncInit = function() {
+window.fbAsyncInit = function() {
       FB.init({
         'appId'   : "601837936626683",
         'xfbml'   : true,
@@ -819,22 +1058,74 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       });
   };
 
-  window.loadFB = function() {
+window.loadFB = function() {
     $script("https://connect.facebook.net/en_US/sdk.js");
   };
-</script>
-<script>
-$("#snapChatLink").click(function(){
-    listenSnap();
-});
-$("#snapChatClose").click(function(){
-	quietSnap();
-});
-$("#snapCloseX").click(function(){
-	quietSnap();
-});
-</script>
+window.clearSnapEngage = function (){
+	if(typeof SnapABugChat !== 'undefined')
+		SnapABugChat.stopPolling();
+	$('[id^="snapengage-"], [id^="SnapABug"], script[id^="yui__dyn_"]').remove();
+}
 
+function getKeyByValue (obj, value ) {
+	if(typeof obj === 'object')
+	{
+		for( var prop in obj ) {
+			if( obj.hasOwnProperty( prop ) ) {
+				 if( obj[ prop ] === value )
+					 return prop;
+			}
+		}
+	}
+	else
+		return '';
+}
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    }
+    else
+    {
+        begin += 2;
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {
+        end = dc.length;
+        }
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+} 
+function setCurSnapWID(ovr){
+	if(SnapEngage){
+		var wID = (typeof ovr !== 'undefined')?ovr:SnapEngage.getWidgetId();
+		setCookie('curSnapW_Id',wID,1);
+	}
+	else{
+		//Chat not initiated
+	}
+} 
+function getCurSnapWID(){
+	
+	if(SnapEngage){
+		var wID = getCookie('curSnapW_Id');
+		return wID;
+	}
+	else{
+		//Chat not initiated
+	}
+}
+   
+</script>
 <div id="fb-root" class="hide"></div>
 
 <script type="text/javascript">
