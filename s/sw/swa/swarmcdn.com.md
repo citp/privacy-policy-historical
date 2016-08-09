@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swarmcdn.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328174247id_/https%3A//swarmify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarmcdn.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809174618id_/https%3A//swarmify.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Swarmify.com Fail-Proof Video Delivery
 
