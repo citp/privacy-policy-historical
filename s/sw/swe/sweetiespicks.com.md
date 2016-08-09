@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609095512id_/http%3A//sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiespicks.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809101521id_/http%3A//sweetiespicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Ad Policies - Sweeties Picks Giveaways
+# Privacy Policy and Ad Policies
 
 **Privacy Policy**   **and Disclosure Statements**
 
