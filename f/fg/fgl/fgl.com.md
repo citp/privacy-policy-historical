@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgl.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518144313id_/https%3A//www.fgl.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgl.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809045948id_/https%3A//www.fgl.com/pp.php) for the most accurate reproduction.*
 
 # Terms of Service - FGL
 
