@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glowforge.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603075409id_/http%3A//glowforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowforge.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809111901id_/http%3A//glowforge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glowforge - the 3D Laser Printer
 
-_Effective: Jan 15, 2015 (rev. August 26, 2015)_
+_Effective: Jan 15, 2015 (rev. June 17, 2016)_
 
 Welcome to the Glowforge, Inc., Privacy Policy. We are a Delaware Corporation, located in Seattle, Washington. For purposes of this policy, when we say stuff like “We” and “Us,” we mean Glowforge, Inc., the Company. When we say stuff like “Website” or “Site,” we’re talking about our website at http://glowforge.com, or other websites that we may operate like http://glowfor.ge.
 
@@ -83,9 +83,11 @@ Privacy Complaints
 
 Glowforge
 
-2944 First Avenue South
+2200 1st Avenue South
 
-Seattle, WA 98122 USA
+1st Floor
+
+Seattle, WA 98134 USA
 
 Glowforge has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Glowforge, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
