@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.weebly.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524111356id_/http%3A//education.weebly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.weebly.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809174215id_/https%3A//education.weebly.com/privacy) for the most accurate reproduction.*
 
 # Weebly Website Builder: Create a Free Website, Store or Blog
 
