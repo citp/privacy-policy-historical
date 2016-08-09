@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coms.hk privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224130702id_/http%3A//www.coms.hk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coms.hk privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809123455id_/http%3A//www.coms.hk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - coms.hk Free Domain Name | Domain name that belongs to Hongkonger - Powered by Cubic Host
 
