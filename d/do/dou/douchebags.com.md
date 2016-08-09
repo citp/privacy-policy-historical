@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323053657id_/https%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the douchebags.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809152241id_/https%3A//douchebags.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Douchebags™
+# Douchebags™ | Better journeys through smarter travel gear | Douchebags
 
 This text is so private we have to share it with you.
 
 { Revise Date: October 6th, 2014 }
 
-WHAT THIS PRIVACY POLICY COVERS  
-We want you to feel safe online. For that reason, we want to let you know how we treat personal information that we collect from users of the Site, with a URL at www.douchebags.com (the “Site”). By providing personal information through the Site, you explicitly agree to our collection and use of all such information as described in this privacy policy.
+WHAT THIS PRIVACY POLICY COVERS
+
+We want you to feel safe online. For that reason, we want to let you know how we treat personal information that we collect from users of the Site, with a URL at [www.douchebags.com](http://www.douchebags.com/) (the “Site”). By providing personal information through the Site, you explicitly agree to our collection and use of all such information as described in this privacy policy.
 
 WHAT INFORMATION WE COLLECT  
 We collect information from you when you order products on our Site. When ordering on our Site, you will be asked to enter your name, e-mail address, billing address, delivery address, phone number and, when making a purchase, credit card information. You may, however, visit our Site anonymously.
