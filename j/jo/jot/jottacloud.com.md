@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jottacloud.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526203458id_/https%3A//www.jottacloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jottacloud.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809081603id_/https%3A//www.jottacloud.com/privacy) for the most accurate reproduction.*
 
 # Jottacloud
 
