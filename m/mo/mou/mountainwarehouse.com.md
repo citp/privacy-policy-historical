@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508124244id_/http%3A//www.mountainwarehouse.com/privacy-policy-w50.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809031851id_/http%3A//www.mountainwarehouse.com/privacy-policy-w50.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy and Cookie Policy
 
-At Mountain Warehouse we treat customers’ personal information and details extremely seriously and will not share your information with any third party unless you give us explicit permission to do so. We will only use the information we collect about you lawfully (in accordance with the Data Protection Act 1998) with the primary purpose of making your shopping experience as enjoyable and easy as possible. 
+At Mountain Warehouse we treat customers’ personal information and details extremely seriously. We will only use the information we collect about you lawfully (in accordance with the Data Protection Act 1998) with the primary purpose of making your shopping experience as enjoyable and easy as possible. 
 
 ## How we use your data
 
 When you place an order with us we collect your name, address, payment details, e-mail and telephone number. We need this information to process your order and let you know if there are any delays or problems. We also use your email address to contact you about our latest special offers and promotions from Mountain Warehouse Limited and group companies.
+
+Mountain Warehouse works with a number of reputable and carefully selected third parties to enhance your shopping experience online and to facilitate the sending of marketing messages via Email. When your personal data is shared with these third parties, we require that these third parties treat your data as confidential and to fully comply with all applicable UK Data Protection and consumer legislation. We will not release your information outside of Mountain Warehouse and group companies for the purposes of mailing or marketing.
 
 ## Keeping your data safe and accurate
 
