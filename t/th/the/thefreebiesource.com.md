@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefreebiesource.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226173240id_/http%3A//www.thefreebiesource.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreebiesource.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809080853id_/http%3A//www.thefreebiesource.com/about/privacy-policy) for the most accurate reproduction.*
 
-# - The Freebie Source
+# Privacy Policy
 
 To sum it up for you quickly, thefreebiesource.com does not sell users information. We are committed to protecting your privacy
 
