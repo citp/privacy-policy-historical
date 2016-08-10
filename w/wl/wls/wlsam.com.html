@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the wlsam.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506030500id_/http%3A//www.wlsam.com/1111/11/11/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wlsam.com privacy policy that was archived on 2016-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160810090620id_/http%3A//www.wlsam.com/1111/11/11/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=" js csstransitions"><head>
+<!DOCTYPE html><html lang="en-US" class="js csstransitions"><head>
 <meta charset="UTF-8">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=220400698009854"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M25HK2&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>(function(html){ html.className = html.className.replace(/\bno-js\b/,'js'); if (html.classList) { html.classList.add( 'js' ); } else { html.className += ' js'; } })(document.documentElement);</script><style type="text/css">.js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column { visibility:hidden; }</style>
 <!-- Title -->
-<title>Privacy Policy | WLS-AM 890 | WLS-AM</title><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M25HK2&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>document.documentElement.className += " js";</script><link rel="canonical" href="http://www.wlsam.com/1111/11/11/privacy-policy/">
+<title>Privacy Policy | WLS-AM 890 | WLS-AM</title><link rel="canonical" href="http://www.wlsam.com/1111/11/11/privacy-policy/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.wlsam.com\/wp-includes\/js\/wp-emoji.js?ver=4.3.1","twemoji":"http:\/\/www.wlsam.com\/wp-includes\/js\/twemoji.js?ver=4.3.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.wlsam.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.3","twemoji":"http:\/\/www.wlsam.com\/wp-includes\/js\/twemoji.js?ver=4.5.3"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -18,12 +18,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -37,27 +39,54 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				return canvas.toDataURL().length > 3000;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -68,17 +97,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -106,7 +149,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.wlsam.com/wp-includes/js/twemoji.js?ver=4.3.1" type="text/javascript"></script><script src="http://www.wlsam.com/wp-includes/js/wp-emoji.js?ver=4.3.1" type="text/javascript"></script>
+		</script><script src="http://www.wlsam.com/wp-includes/js/twemoji.js?ver=4.5.3" type="text/javascript"></script><script src="http://www.wlsam.com/wp-includes/js/wp-emoji.js?ver=4.5.3" type="text/javascript"></script>
 		
 
 <!-- Stylesheets -->
@@ -125,54 +168,53 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<link rel="stylesheet" id="m2g-bar-css" href="http://www.wlsam.com/wp-content/plugins/m2g-wp-fbar/css/m2g-bar.css?ver=4.5.3" type="text/css" media="all">
 <link rel="stylesheet" id="amp-header-rotator-css" href="http://www.wlsam.com/wp-content/themes/Headway-AMP_CMS/css/amp-header-rotator.css?ver=1.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="bxslider-style-css" href="http://www.wlsam.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.wlsam.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="headway-general-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/general-9dfc658.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="headway-layout-single-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/layout-single-0773d8d.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/responsive-grid-d2119e4.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-style-css" href="http://www.wlsam.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.wlsam.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="headway-general-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/general-1995640.css?ver=4.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="headway-layout-single-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/layout-single-df1b129.css?ver=4.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/responsive-grid-d2119e4.css?ver=4.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="themify-builder-style-css" href="http://www.wlsam.com/wp-content/plugins/themify-builder/css/themify-builder-style.css?ver=1.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="amp-breaking-news-css" href="http://www.wlsam.com/wp-content/plugins/amp-breaking-news/public/css/public.css?ver=0.1.17" type="text/css" media="all">
 <link rel="stylesheet" id="animate-style-css" href="http://www.wlsam.com/wp-content/plugins/shared/css/animate.css?ver=0.1.17" type="text/css" media="all">
-<link rel="stylesheet" id="amp-styles-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-styles/css/public.css?ver=1.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="amp-styles-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-styles/css/public.css?ver=1.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="amp-events-calendar-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-events/css/calendar.css?ver=1.1.2" type="text/css" media="all">
 <link rel="stylesheet" id="amp-events-export-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-events/css/public.css?ver=1.1.2" type="text/css" media="all">
 <link rel="stylesheet" id="amp_feed-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.3.7" type="text/css" media="all">
 <link rel="stylesheet" id="amp-image-rotator-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-image-rotator/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="amp-listen-live-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-listen-live/public/assets/css/public.css?ver=1.4.3" type="text/css" media="all">
-<link rel="stylesheet" id="amp-onair-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="amp-onair-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.5.6" type="text/css" media="all">
 <link rel="stylesheet" id="AMPPromoReel-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-promo-reel/css/public.css?ver=1.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="http://www.wlsam.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.17.0" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.wlsam.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="http://www.wlsam.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.wlsam.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.5.3" type="text/css" media="all">
 <link rel="stylesheet" id="amp-tabs-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-tabs/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-css" href="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/css/lightbox.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="themify-font-icons-css-css" href="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/fontawesome/css/font-awesome.min.css?ver=1.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="themify-builder-style-css" href="http://www.wlsam.com/wp-content/plugins/themify-builder/css/themify-builder-style.css" type="text/css" media="all">
-<style id="themify-builder-style-inline-css" type="text/css">
-.js.csstransitions .module.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column{ visibility:hidden; }
-</style>
-<link rel="stylesheet" id="themify-animate-css" href="http://www.wlsam.com/wp-content/plugins/themify-builder/css/animate.min.css" type="text/css" media="all">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.wlsam.com/wp-content/themes/Headway-AMP_CMS/style.css">
 
 <!-- Scripts -->
-<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _ampconfig = {"site_url":"http:\/\/www.wlsam.com","version":"2.30.2.1","env":"prod","ts":"1462452166"};
+var _ampconfig = {"site_url":"http:\/\/www.wlsam.com","version":"2.35.0","env":"prod","ts":"1470162248"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/shared/js/amp-common.js?ver=1462452166"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/shared/js/amp-common.js?ver=1470162248"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/Headway-AMP_CMS/js/amp-theme.js?ver=1.1.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/blocks/navigation/js/selectnav.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/block-dynamic-js-layout-single-3f428ce.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/block-dynamic-js-layout-single-769a883.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.5.3"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-promo-reel/includes/../js/widget.js?ver=1.2.3"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/responsive-grid-js-e6e6939.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/uploads/sites/353/headway/cache/responsive-grid-js-e6e6939.js?ver=4.5.3"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-breaking-news/public/js/public.js?ver=0.1.17"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-styles/js/public.js?ver=1.2.0"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-styles/js/public.js?ver=1.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var dates = {"start_of_week":"0","moment_date_format":"MMM D, YYYY","moment_time_format":"h:mm a","calendar_date_format":"MMM d, yyyy","calendar_time_format":"h:mm tt","date_format":"M d, yy","time_format":"h:mm tt"};
+/* ]]> */
+</script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-events/js/calendar.js?ver=1.1.2"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-events/js/public.js?ver=1.1.2"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.3.7"></script>
@@ -183,16 +225,9 @@ var _ampconfig = {"site_url":"http:\/\/www.wlsam.com","version":"2.30.2.1","env"
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.3.7"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.3.7"></script>
 <script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-listen-live/public/assets/js/public.js?ver=1.4.3"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-onair/public/assets/js/public.js?ver=1.3.8"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/carousel.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/video.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/bigvideo.js?ver=4.3.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/js/themify.scroll-highlight.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-onair/public/assets/js/public.js?ver=1.5.6"></script>
+<script type="text/javascript" src="//see-p-elb-01.tritondigital.net/widget/see_10483/see.js?ver=1.1.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/m2g-wp-fbar/js/public.js?ver=4.5.3"></script>
 
 <!--[if lt IE 9]>
 <script src="http://www.wlsam.com/wp-content/themes/headway/library/media/js/html5shiv.js"></script>
@@ -310,8 +345,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <link rel="alternate" type="application/rss+xml" title="WLS-AM 890 | WLS-AM » Feed" href="http://www.wlsam.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="WLS-AM 890 | WLS-AM » Comments Feed" href="http://www.wlsam.com/comments/feed/">
-<meta name="generator" content="WordPress 4.3.1">
+<link rel="https://api.w.org/" href="http://www.wlsam.com/wp-json/">
+<meta name="generator" content="WordPress 4.5.3">
 <link rel="shortlink" href="http://www.wlsam.com/?p=225207">
+<link rel="alternate" type="application/json+oembed" href="http://www.wlsam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wlsam.com%2F1111%2F11%2F11%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.wlsam.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wlsam.com%2F1111%2F11%2F11%2Fprivacy-policy%2F&amp;format=xml">
 			<script type="text/javascript">
 				var _gaq = _gaq || [];
 
@@ -343,26 +381,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Cumulus Media, Inc. Internet Privacy Policy">
 <meta property="og:url" content="http://www.wlsam.com/1111/11/11/privacy-policy/">
 <meta property="og:title" content="Privacy Policy">
-<script>			function isSupportTransition() {
-				var b = document.body || document.documentElement,
-					s = b.style,
-					p = 'transition';
 
-				if (typeof s[p] == 'string') { return true; }
+					<!-- equalcolumn-ie-fix.js -->
+					<!--[if IE 9]>
+						<script src="http://www.wlsam.com/wp-content/plugins/themify-builder/js/equalcolumn-ie-fix.js"></script>
+					<![endif]-->
+					<script type="text/javascript">                    function isSupportTransition() {
+                    var b = document.body || document.documentElement,
+                    s = b.style,
+                    p = 'transition';
 
-				// Tests for vendor specific prop
-				var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
-				p = p.charAt(0).toUpperCase() + p.substr(1);
+                    if (typeof s[p] == 'string') { return true; }
 
-				for (var i=0; i<v.length; i++) {
-					if (typeof s[v[i] + p] == 'string') { return true; }
-				}
-				return false;
-			}
-			if ( isSupportTransition() ) {
-				document.documentElement.className += " csstransitions";	
-			}
-			</script><script type="text/javascript">var ajaxurl = "http://www.wlsam.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.wlsam.com/wp-admin/admin-ajax.php"</script>
+                    // Tests for vendor specific prop
+                    var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
+                    p = p.charAt(0).toUpperCase() + p.substr(1);
+
+                    for (var i=0; i<v.length; i++) {
+                        if (typeof s[v[i] + p] == 'string') { return true; }
+                        }
+                        return false;
+                        }
+                        if ( isSupportTransition() ) {
+                        document.documentElement.className += " csstransitions";	
+                        }
+                        </script><script type="text/javascript">var ajaxurl = "http://www.wlsam.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.wlsam.com/wp-admin/admin-ajax.php"</script>
 <!-- AMP CMS DFP custom tags -->
 <script type="text/javascript">
   googletag.cmd.push(function() {
@@ -381,25 +424,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="whitewrap">
 
 
-<div id="wrapper-wgf571537d166b2b" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-8 wrapper-first wrapper-header" data-alias="Wrapper Header">
+<div id="wrapper-wki57aa0aa820554" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-8 wrapper-first wrapper-header" data-alias="Wrapper Header">
 
 <div class="grid-container clearfix">
 
 <section class="row row-1">
 
 <section class="column column-1 grid-left-0 grid-width-24">
-<div id="block-27" class="leaderboard-ad block block-type-custom-code block-fluid-height" data-alias="728x90 Leaderboard Ad">
+<section id="block-bpf57a25e5c76be7" class="social-nav mobile-only block block-type-social block-fixed-height" data-alias="Social Navigation - Mobile ONLY ::">
 <div class="block-content">
-<div align="center">
-<div id="div-gpt-ad-1418849849333-1">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1'); });
-</script>
-</div>
-</div>
+<div class="social-icons-container"><ul class="social-icons"><li><a href="https://www.facebook.com/890WLSAM" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/facebook.svg" alt="Like us on Facebook" title="Like us on Facebook" class="img-1" width="22px"></a></li><li><a href="https://twitter.com/wlsam890" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/twitter.svg" alt="Follow us on Twitter" title="Follow us on Twitter" class="img-2" width="22px"></a></li><li><a href="https://www.youtube.com/user/WLS890/videos" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/youtube.svg" alt="YouTube" title="YouTube" class="img-3" width="22px"></a></li><li><a href="https://www.instagram.com/wlsam890/" target="_blank" alt="Instagram"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/instagram.svg" alt="Instagram" title="Instagram" class="img-4" width="22px"></a></li></ul></div><!-- .social-icons-container -->
 </div><!-- .block-content -->
 
-</div><!-- #block-27 -->
+</section><!-- #block-bpf57a25e5c76be7 -->
 
 </section><!-- .column -->
 
@@ -408,28 +445,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1');
 
 <section class="row row-2">
 
-<section class="column column-1 grid-left-0 grid-width-5">
-<figure id="block-31" class="logo block block-type-image block-fixed-height" data-alias="Logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<section class="column column-1 grid-left-0 grid-width-6">
+<figure id="block-31" class="Logo-Masthead block block-type-image block-fixed-height" data-alias="Logo - WLSAM :: " itemscope="" itemtype="http://schema.org/ImageObject">
 <div class="block-content">
-<a href="http://www.wlsam.com/" class="image"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2015/12/wls-am-sitelogo1.png" alt="" title="" itemprop="contentURL"></a>
+<a href="/" class="image"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/logo_wlsam_white.svg#aqua_resizer_image_not_accessible" alt="" title="" itemprop="contentURL"></a>
 </div><!-- .block-content -->
 
 </figure><!-- #block-31 -->
-<div id="block-bkj54a2b9912881a" class="takeover-left block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Left">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-4">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-4'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-bkj54a2b9912881a -->
 
 </section><!-- .column -->
 
-<section class="column column-2 grid-left-1 grid-width-8">
-<aside id="block-b4w5527bdc57f220" class="on-air block block-type-widget-area block-fluid-height" data-alias="Home - On-Air" itemscope="" itemtype="http://schema.org/WPSideBar">
+<section class="column column-2 grid-left-0 grid-width-18">
+
+<section class="sub-column sub-column-1 column column-1 grid-width-9 grid-left-0">
+<aside id="block-b4w5527bdc57f220" class="on-air marg-bot-one block block-type-widget-area block-fluid-height" data-alias="On Air Now :: " itemscope="" itemtype="http://schema.org/WPSideBar">
 <div class="block-content">
 <ul class="widget-area"><div class="amp-onair-widget" id="amp_onair_widget-5" amplink="false" data-fields="image,timeslot">
 	<div class="amp-onair">
@@ -448,18 +477,36 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-4');
 
 </aside><!-- #block-b4w5527bdc57f220 -->
 
-</section><!-- .column -->
+</section><!-- .sub-column -->
 
-<section class="column column-3 grid-left-0 grid-width-10">
-<section id="block-30" class="social-nav block block-type-social block-fixed-height" data-alias="Social Navigation">
+<section class="sub-column sub-column-2 column column-2 grid-width-7 grid-left-0">
+<section id="block-30" class="social-nav desktop-only block block-type-social block-fixed-height" data-alias="Social Navigation - Desktop ONLY :: ">
 <div class="block-content">
-<div class="social-icons-container"><ul class="social-icons"><li><a href="https://www.facebook.com/890WLSAM" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/01/icons-social-facebook_26x26_012.png" alt="Like us on Facebook" title="Like us on Facebook" class="img-1"></a></li><li><a href="https://twitter.com/wlsam890" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/01/icons-social-twitter_26x26_012.png" alt="Follow us on Twitter" title="Follow us on Twitter" class="img-2"></a></li><li><a href="https://www.youtube.com/user/WLS890/videos" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/01/icons-social-youtube_26x26_01.png" alt="YouTube" title="YouTube" class="img-3"></a></li><li><a href="https://www.instagram.com/wlsam890/" target="_blank" alt="Instagram"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/01/icons-social-instagram_26x26_01.png" alt="Instagram" title="Instagram" class="img-4"></a></li></ul></div><!-- .social-icons-container -->
+<div class="social-icons-container"><ul class="social-icons"><li><a href="https://www.facebook.com/890WLSAM" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/facebook.svg" alt="Like us on Facebook" title="Like us on Facebook" class="img-1" width="22px"></a></li><li><a href="https://twitter.com/wlsam890" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/twitter.svg" alt="Follow us on Twitter" title="Follow us on Twitter" class="img-2" width="22px"></a></li><li><a href="https://www.youtube.com/user/WLS890/videos" target="_blank"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/youtube.svg" alt="YouTube" title="YouTube" class="img-3" width="22px"></a></li><li><a href="https://www.instagram.com/wlsam890/" target="_blank" alt="Instagram"><img src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/instagram.svg" alt="Instagram" title="Instagram" class="img-4" width="22px"></a></li></ul></div><!-- .social-icons-container -->
 </div><!-- .block-content -->
 
 </section><!-- #block-30 -->
 
-<section class="sub-column sub-column-1 column column-1 grid-width-1 grid-left-9">
-<div id="block-bya5527bfa790b3b" class="search-icon block block-type-custom-code block-fluid-height" data-alias="Search Icon">
+</section><!-- .sub-column -->
+
+<section class="sub-column sub-column-3 column column-3 grid-width-1 grid-left-0">
+<nav id="block-94" class="search-box desktop-only block block-type-navigation block-fluid-height" data-alias="Navigation Search - Desktop" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="block-content">
+<div class="nav-horizontal nav-align-right nav-search-active nav-search-position-right"><div class="nav-search">
+		<form method="get" id="searchform" action="http://www.wlsam.com/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';">
+			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
+		</form>
+	</div></div><!-- .nav-horizontal nav-align-right nav-search-active nav-search-position-right -->
+</div><!-- .block-content -->
+
+</nav><!-- #block-94 -->
+
+</section><!-- .sub-column -->
+
+<section class="sub-column sub-column-4 column column-4 grid-width-1 grid-left-0">
+<div id="block-bya5527bfa790b3b" class="search-icon desktop-only block block-type-custom-code block-fluid-height" data-alias="Search Icon :: ">
 <div class="block-content">
 <script>
 jQuery(function($){
@@ -468,40 +515,34 @@ $(".search-box").toggle(200);
 });
 });
 </script>
-<img class="show-search" src="/wp-content/uploads/sites/353/2014/12/search.png">
+<img style="max-width:22px" class="show-search" src="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/icon-magnifyingglass_01.svg">
 </div><!-- .block-content -->
 
 </div><!-- #block-bya5527bfa790b3b -->
 
 </section><!-- .sub-column -->
-
-</section><!-- .column -->
-
-</section><!-- .row -->
-
-
-<section class="row row-3">
-
-<section class="column column-1 grid-left-6 grid-width-16">
-<nav id="block-32" class="main-nav block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<nav id="block-32" class="Nav-Primary block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
 <div class="nav-horizontal nav-align-left"><ul id="menu-main-navigation" class="menu"><li id="menu-item-49832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49832"><a>Shows</a>
 <ul class="sub-menu">
 	<li id="menu-item-50009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50009"><a href="http://www.wlsam.com/program-schedule/">Program Schedule</a></li>
 	<li id="menu-item-49979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49979"><a href="http://www.wlsam.com/podcasts-3/">Podcasts</a></li>
-	<li id="menu-item-49964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49964"><a href="http://www.wlsam.com/big-john-howell/">5a-9a “Big” John Howell</a></li>
+	<li id="menu-item-49964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49964"><a href="http://www.wlsam.com/big-john-and-ray/">5a-9a Big John and Ray</a></li>
 	<li id="menu-item-49991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49991"><a href="http://www.wlsam.com/the-jonathon-brandmeier-show/">9a-11a The Jonathon Brandmeier Show</a></li>
 	<li id="menu-item-49982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49982"><a href="http://www.wlsam.com/rush-limbaugh/">11a-2p Rush Limbaugh</a></li>
 	<li id="menu-item-49994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49994"><a href="http://www.wlsam.com/the-steve-dahl-show/">2p-6p The Steve Dahl Show</a></li>
-	<li id="menu-item-49976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49976"><a href="http://www.wlsam.com/mark-levin/">6p-9p The Mark Levin Show</a></li>
+	<li id="menu-item-492719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492719"><a href="http://www.wlsam.com/mark-levin-2/">6p-9p The Mark Levin Show</a></li>
 	<li id="menu-item-49985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49985"><a href="http://www.wlsam.com/savage-nation/">9p-12a Savage Nation with Michael Savage</a></li>
 	<li id="menu-item-155748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155748"><a target="_blank" href="http://www.wlsam.com/investing-sense/">Sat 9a -10a Investing Sense</a></li>
 	<li id="menu-item-49973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49973"><a href="http://www.wlsam.com/home-sweet-home-chicago/">Sat 10a-12n Home Sweet Home Chicago</a></li>
-	<li id="menu-item-256015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256015"><a href="http://www.wlsam.com/white-sox-weekly-radio-podcast-deprecated/">Sat 12n-1p – White Sox Weekly</a></li>
 	<li id="menu-item-50018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50018"><a href="http://www.wlsam.com/connected-to-chicago/">Sun 7p-8p Connected To Chicago</a></li>
 	<li id="menu-item-49997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49997"><a href="http://www.wlsam.com/tom-bevan/">Sun 8p-9pTom Bevan</a></li>
 	<li id="menu-item-49988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49988"><a href="http://www.wlsam.com/stephanie-trussell/">Sun 9p-12m Stephanie Trussell</a></li>
-	<li id="menu-item-155685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155685"><a href="http://www.wlsam.com/program-schedule/">More Weekend Shows</a></li>
+	<li id="menu-item-155685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-155685"><a href="http://www.wlsam.com/program-schedule/">More Weekend Shows</a>
+	<ul class="sub-menu">
+		<li id="menu-item-492722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492722"><a href="http://www.wlsam.com/red-eye-radio/">Red Eye Radio</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-15269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15269"><a>News</a>
@@ -513,6 +554,8 @@ $(".search-box").toggle(200);
 	<li id="menu-item-59960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59960"><a href="http://www.wlsam.com/category/wls-am-890-local-news/">WLS-AM 890 Local News</a></li>
 	<li id="menu-item-49874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49874"><a href="http://www.wlsam.com/category/cnn-us/">National</a></li>
 	<li id="menu-item-49868" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49868"><a href="http://www.wlsam.com/category/cnn-world/">World</a></li>
+	<li id="menu-item-49856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49856"><a href="http://www.wlsam.com/category/cnn-sports/">Sports News</a></li>
+	<li id="menu-item-198189" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-198189"><a href="http://www.wlsam.com/1111/11/11/sports-news-2/">Sports Videos</a></li>
 	<li id="menu-item-49859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49859"><a href="http://www.wlsam.com/category/cnn-health/">Health</a></li>
 	<li id="menu-item-49871" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49871"><a href="http://www.wlsam.com/category/cnn-politics/">Politics</a></li>
 	<li id="menu-item-49865" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49865"><a href="http://www.wlsam.com/category/cnn-business/">Business</a></li>
@@ -532,18 +575,7 @@ $(".search-box").toggle(200);
 	<li id="menu-item-400661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400661"><a href="http://wlsam.stats.com/mlb/teamstats.asp?team=04&amp;type=teamhome">Stats Central</a></li>
 	<li id="menu-item-400664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400664"><a href="http://wlsam.stats.com/mlb/teamstats.asp?team=04&amp;type=schedule">Team Schedule</a></li>
 	<li id="menu-item-400667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400667"><a href="http://wlsam.stats.com/mlb/standings.asp">Standings</a></li>
-</ul>
-</li>
-<li id="menu-item-155760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-155760"><a href="#">Sports</a>
-<ul class="sub-menu">
 	<li id="menu-item-319779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319779"><a href="http://www.wlsam.com/sox-fest-2016/">SoxFest 2016</a></li>
-	<li id="menu-item-155763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155763"><a href="http://www.wlsam.com/notre-dame-football-2015/">Notre Dame Football</a></li>
-	<li id="menu-item-49856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49856"><a href="http://www.wlsam.com/category/cnn-sports/">More Sports News</a></li>
-</ul>
-</li>
-<li id="menu-item-198183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-198183"><a href="#">Videos</a>
-<ul class="sub-menu">
-	<li id="menu-item-198189" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-198189"><a href="http://www.wlsam.com/1111/11/11/sports-news-2/">Sports News</a></li>
 </ul>
 </li>
 <li id="menu-item-49835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49835"><a>Features</a>
@@ -560,7 +592,7 @@ $(".search-box").toggle(200);
 <li id="menu-item-15266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15266"><a>Events</a>
 <ul class="sub-menu">
 	<li id="menu-item-212154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212154"><a href="http://www.wlsam.com/events-page/">WLS-AM 890 Events</a></li>
-	<li id="menu-item-396989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396989"><a href="http://www.wlsam.com/396980-2/">What To Do This Weekend</a></li>
+	<li id="menu-item-396989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396989"><a href="http://www.wlsam.com/396980-2/">The Weekend “A-Jenda” with Jen DeSalvo</a></li>
 </ul>
 </li>
 <li id="menu-item-49838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49838"><a>Connect</a>
@@ -591,28 +623,26 @@ $(".search-box").toggle(200);
 
 </section><!-- .column -->
 
-<section class="column column-2 grid-left-0 grid-width-1">
-<nav id="block-94" class="search-box block block-type-navigation block-fluid-height" data-alias="Navigation Search" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-<div class="block-content">
-<div class="nav-horizontal nav-align-right nav-search-active nav-search-position-right"><div class="nav-search">
-		<form method="get" id="searchform" action="http://www.wlsam.com/">
-			<label for="s" class="assistive-text">Search</label>
-			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';">
-			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
-		</form>
-	</div></div><!-- .nav-horizontal nav-align-right nav-search-active nav-search-position-right -->
-</div><!-- .block-content -->
-
-</nav><!-- #block-94 -->
-
-</section><!-- .column -->
-
 </section><!-- .row -->
 
 
-<section class="row row-4">
+<section class="row row-3">
 
-<section class="column column-1 grid-left-5 grid-width-5">
+<section class="column column-1 grid-left-0 grid-width-5">
+<div id="block-bkj54a2b9912881a" class="takeover-left block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Left">
+<div class="block-content">
+<div id="div-gpt-ad-1418849849333-4">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-4'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bkj54a2b9912881a -->
+
+</section><!-- .column -->
+
+<section class="column column-2 grid-left-0 grid-width-5">
 <div id="block-b7x54a2b9912b304" class="takeover-right block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Right">
 <div class="block-content">
 <div id="div-gpt-ad-1418849849333-5">
@@ -626,6 +656,42 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-5');
 
 </section><!-- .column -->
 
+<section class="column column-3 grid-left-0 grid-width-14">
+<div id="block-be857a25e5c671d8" class="block-ZERO block block-type-custom-code block-fluid-height" data-alias="Facebook JavaScript SDK for Module :: ">
+<div class="block-content">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=220400698009854";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div><!-- .block-content -->
+
+</div><!-- #block-be857a25e5c671d8 -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+<section class="row row-4">
+
+<section class="column column-1 grid-left-0 grid-width-24">
+<div id="block-27" class="Container-Leaderboard-Header block-ZERO marg-bot-none block block-type-custom-code block-fluid-height" data-alias="728x90 Leaderboard Ad - Header :: ">
+<div class="block-content">
+<div align="center" class="Leaderboard-Header">
+	<div id="div-gpt-ad-1418849849333-1">
+		<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1'); });</script>
+	</div>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-27 -->
+
+</section><!-- .column -->
+
 </section><!-- .row -->
 
 
@@ -633,16 +699,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-5');
 
 </div><!-- .wrapper -->
 
-<div id="wrapper-wl9571537d1611b6" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-content" data-alias="Wrapper Content">
+<div id="wrapper-wi757aa0aa81bd02" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-content" data-alias="Wrapper Content">
 
 <div class="grid-container clearfix">
 
 <section class="row row-1">
 
 <section class="column column-1 grid-left-0 grid-width-16">
-<div id="block-bc5571538d12af21" class="Clean-Single block block-type-content block-fluid-height" data-alias="">
+<div id="block-bkt57aa0aa834cdd" class="Clean-Single block block-type-content block-fluid-height" data-alias="Page and Post Content - Clean Single :: ">
 <div class="block-content">
-<div class="loop"><article id="post-225207" class="post-225207 post type-post status-publish format-standard hentry category-cumulus-legal author-dvena " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1><div class="entry-meta entry-meta-above"><time class="entry-date published updated" itemprop="datePublished" datetime="1111-11-11T10:11:06+00:00">November 11, 1111</time> | Vena</div><!-- .entry-meta --></header><div class="entry-content" itemprop="text"><h2>CUMULUS MEDIA, INC<br>
+<div class="loop"><article id="post-225207" class="post-225207 post type-post status-publish format-standard hentry category-cumulus-legal author-dvena " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1><div class="entry-meta entry-meta-above"><time class="entry-date published updated" itemprop="datePublished" datetime="1111-11-11T10:11:06+00:00">Nov 11, 1111</time> | Vena</div><!-- .entry-meta --></header><div class="entry-content" itemprop="text"><h2>CUMULUS MEDIA, INC<br>
 INTERNET PRIVACY POLICY</h2>
 <p><strong>UPDATED AS OF MAY 1, 2015</strong></p>
 <p>Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicated to preserving your confidence and trust as it relates to the privacy of your information. Please read this policy so you understand how we collect, safeguard, use and share the information you provide to us through our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application (collectively the “Cumulus Platform”).</p>
@@ -694,53 +760,61 @@ Atlanta, GA 30305<br>
 Attn: Customer Service</p>
 <p>E‐Mail: <a href="mailto:privacy@cumulus.com">privacy@cumulus.com</a></p>
 <div id="themify_builder_content-225207" data-postid="225207" class="themify_builder_content themify_builder_content-225207 themify_builder themify_builder_front">
+
 	
-			<!-- module_row -->
-			<div data-gutter="gutter-default" class="themify_builder_row module_row module_row_0 clearfix gutter-default">
+                <!-- module_row -->
+                <div data-gutter="gutter-default" class="themify_builder_row themify_builder_225207_row module_row module_row_0 clearfix gutter-default" data-equal-column-height="" data-column-alignment="">
 
-				
-				
-				
-				<div class="row_inner_wrapper">
-					<div class="row_inner">
+                    
+                    
+                    <div class="row_inner_wrapper">
+                        <div class="row_inner">
 
-						
-						
-						
-									<div class="col-full first tb-column">
-																					
-											
+                            
+                            
+                                
+                                        <div class="col-full first tb-column  tb_225207_column module_column">
 
-<!-- module widget -->
-<div id="widget-225207-0-0-1" class="module module-widget widget-225207-0-0-1   ">
-	<div class="widget widget_text">			<div class="textwidget"><style>.category-cumulus-legal .entry-meta,#comments { display: none !important; }</style></div>
-		</div></div>
-<!-- /module widget -->
-										
-																			</div>
-									<!-- /col -->
-							  
+                                            
+                                            
+                                            <div class="tb-column-inner">
 
-						
-												
-											
-					</div>
-					<!-- /row_inner -->
-				</div>
-			<!-- /row_inner_wrapper -->
-			</div>
-			<!-- /module_row -->
-			
+                                                
+                                                
+                                                    
+
+    <!-- module widget -->
+    <div id="widget-225207-0-0-1" class="module module-widget widget-225207-0-0-1   ">
+        <div class="widget widget_text">			<div class="textwidget"><style>.category-cumulus-legal .entry-meta,#comments { display: none !important; }</style></div>
+		</div>    </div>
+    <!-- /module widget -->
+
+
+                                                    </div>
+                                                    <!-- /.tb-column-inner -->
+                                                                                                </div>
+                                            <!-- /.tb-column -->
+                                        
+                                    
+                                    
+                                
+                            </div>
+                            <!-- /row_inner -->
+                        </div>
+                        <!-- /row_inner_wrapper -->
+                    </div>
+                    <!-- /module_row -->
+                    
 </div>
-<!-- /themify_builder_content --></div><!-- .entry-content --></article><!-- #post-225207 --></div>
+<!-- /themify_builder_content --></div><!-- .entry-content --><footer class="entry-utility entry-utility-below entry-meta">Tags: </footer><!-- .entry-utility --></article><!-- #post-225207 --></div>
 </div><!-- .block-content -->
 
-</div><!-- #block-bc5571538d12af21 -->
+</div><!-- #block-bkt57aa0aa834cdd -->
 
 </section><!-- .column -->
 
 <section class="column column-2 grid-left-0 grid-width-8">
-<div id="block-34" class="300x250-ad-1 Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bb25499e64d5bce0 block-original-bf7571537d1a86e1" data-alias="300x250 Ad 1">
+<div id="block-34" class="300x250-ad-1 Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bb25499e64d5bce0 block-original-bul57aa0aa8405fe" data-alias="300x250 Ad 1">
 <div class="block-content">
 <div id="div-gpt-ad-1418849849333-0">
 <script type="text/javascript">
@@ -750,78 +824,17 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 </div><!-- .block-content -->
 
 </div><!-- #block-34 -->
-<div id="block-38" class="sweet-deals-ad Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-b1l5499e64d5fa97 block-original-b0e571537d1bf7cb" data-alias="Sweet Deals Ad">
+<div id="block-bvf57aa0b7a8b970" class="Clean-Teaser Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bvf57aa0b7a8b970 block-original-byk57aa0c4c9d7ad" data-alias="WLSAM General - Twitter Module - Sidebar :: ">
 <div class="block-content">
-<a href="http://www.sweetjack.com/"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wls-am1/wp-content/uploads/sites/353/2014/12/headway-imported-image6.png"></a>
-</div><!-- .block-content -->
-
-</div><!-- #block-38 -->
-<div id="block-36" class="vip-club-ad Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-b5n5499e64d5e75f block-original-bjd571537d1b03bb" data-alias="VIP Club Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-7">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-7'); });
-</script>
+<h1 class="block-title"><span>WLS-AM Twitter</span></h1><div class="loop bg-graylight">
+	<div class="pad-Clean-Content">
+    	<a class="twitter-timeline" data-height="600" data-chrome="noheader" href="https://twitter.com/wlsam890">Tweets by wlsam890</a> <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
 </div>
 </div><!-- .block-content -->
 
-</div><!-- #block-36 -->
-<aside id="block-bvz552d5cbd3b5cb" class="headlines Sidebar-Module marg-bot-two block block-type-widget-area block-fluid-height block-mirrored block-mirroring-bvz552d5cbd3b5cb block-original-bd2571537d175431" data-alias="Podcasts" itemscope="" itemtype="http://schema.org/WPSideBar">
-<div class="block-content">
-<h1 class="block-title"><span>Podcasts</span></h1><ul class="widget-area"><li id="text-4" class="widget widget_text">
-			<div class="textwidget"><div style="padding:10px;border-bottom:1px solid #bbbbbb;background:#f2f2f2">
-    <a href="http://www.wlsam.com/big-john-howell-podcasts/"><img style="width:100% !important;height:auto !important;margin-bottom:10px" src="http://cumulus.pro.poolb.tritondigitalcms.com/wls-am1/wp-content/uploads/sites/353/2015/04/bigjohnhowell_sidebar_600x200_011.jpg"></a>
-    <a href="https://itunes.apple.com/us/podcast/the-jonathon-brandmeier-show/id979343862"><img style="width:100% !important;height:auto !important;margin-bottom:10px" src="http://cumulus.pro.poolb.tritondigitalcms.com/wls-am1/wp-content/uploads/sites/353/2015/04/brandmeier_sidebar_600x200_01.jpg"></a>
-    <a href="http://www.dahl.com/steve-dahl-show/"><img style="width:100% !important;height:auto !important;margin-bottom:10px" src="http://cumulus.pro.poolb.tritondigitalcms.com/wls-am1/wp-content/uploads/sites/353/2015/04/stevedahlshow_sidebar_600x200_01.jpg"></a>
-    <a href="http://www.wlsam.com/podcasts-3/"><img style="width:100% !important;height:auto !important" src="http://www.wlsam.com/wp-content/uploads/sites/353/2015/05/OtherPodcasts_300x25_01.jpg"></a>
-</div></div>
-		</li><!-- .widget -->
-</ul>
-</div><!-- .block-content -->
-
-</aside><!-- #block-bvz552d5cbd3b5cb -->
-<div id="block-bwj554a8bea365e5" class="headlines Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bwj554a8bea365e5 block-original-bfg571537d1784ee" data-alias="Sports Video Player">
-<div class="block-content">
-<a href="#"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wls-am1/wp-content/uploads/sites/353/2014/12/headway-imported-image26.png"></a>
-</div><!-- .block-content -->
-
-</div><!-- #block-bwj554a8bea365e5 -->
-<div id="block-42" class="facebook-ad Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-b4u5499e64d6fc9b block-original-bus571537d1ab868" data-alias="Facebook Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-8">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-8'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-42 -->
-<div id="block-44" class="twitter-ad Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bav5499e64d7435f block-original-bq2571537d1a4878" data-alias="Twitter Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-9">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-9'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-44 -->
-<aside id="block-45" class="free-apps Sidebar-Module marg-bot-two block block-type-widget-area block-fluid-height block-mirrored block-mirroring-bso5499e64d75758 block-original-bw3571537d1bc3a2" data-alias="Home - Free Apps" itemscope="" itemtype="http://schema.org/WPSideBar">
-<div class="block-content">
-<h1 class="block-title"><span>Free Apps</span></h1><ul class="widget-area"><li id="text-3" class="widget widget_text">
-			<div class="textwidget"><div align="center" style="padding:10px;border-bottom:1px solid #bbbbbb;background:#f2f2f2">
-	<a href="https://itunes.apple.com/us/app/wls-890am/id335004671?mt=8" target="_blank"><img src="/wp-content/uploads/sites/353/2014/10/appstore.png" border="0"></a>
-    &nbsp;
-    <a href="https://play.google.com/store/apps/details?id=com.airkast.WLSAM" target="_blank"><img src="/wp-content/uploads/sites/353/2014/10/googleplay.png" border="0"></a>
-    &nbsp;
-    <a href="http://amazon.com/dp/B00FDYWXAS" target="_blank"><img src="/wp-content/uploads/sites/353/2014/10/amazon.png" border="0"></a>
-</div></div>
-		</li><!-- .widget -->
-</ul>
-</div><!-- .block-content -->
-
-</aside><!-- #block-45 -->
-<div id="block-46" class="300x250-ad-2 Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-box5499e64d77392 block-original-bto571537d196d9e" data-alias="300x250 Ad 2">
+</div><!-- #block-bvf57aa0b7a8b970 -->
+<div id="block-46" class="300x250-ad-2 Sidebar-Module marg-bot-two block block-type-custom-code block-fluid-height block-mirrored block-mirroring-box5499e64d77392 block-original-bpe57aa0aa86fc37" data-alias="300x250 Ad 2">
 <div class="block-content">
 <div id="div-gpt-ad-1418849849333-3">
 <script type="text/javascript">
@@ -841,7 +854,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3');
 
 </div><!-- .wrapper -->
 
-<div id="wrapper-wkp571537d1698eb" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-10 wrapper-last wrapper-footer" data-alias="Wrapper Footer">
+<div id="wrapper-w6f57aa0aa827102" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-10 wrapper-last wrapper-footer" data-alias="Wrapper Footer">
 
 <div class="grid-container clearfix">
 
@@ -855,7 +868,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3');
 <li id="menu-item-225414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225414"><a href="/1111/11/11/contest-rules">Contest Rules</a></li>
 <li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://www.wlsam.com/advertise-with-us/">Advertise With Us</a></li>
 <li id="menu-item-63839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63839"><a href="http://www.wlsam.com/station-information/">Station Information</a></li>
-<li id="menu-item-122604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122604"><a target="_blank" href="http://www.wlsam.com/wp-content/uploads/sites/353/2015/08/CMP-CHICAGO-SEU-2015-PFR.pdf">EEO Report</a></li>
+<li id="menu-item-122604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122604"><a target="_blank" href="http://www.wlsam.com/wp-content/uploads/sites/353/2016/08/CMP-CHICAGO-SEU-2016-PFR-1.pdf">EEO Report</a></li>
 <li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141"><a target="_blank" href="http://www.cumulus.com/careers/">Employment Opportunities</a></li>
 </ul></div><!-- .nav-vertical nav-align-left -->
 </div><!-- .block-content -->
@@ -912,59 +925,75 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 
 
 
-<script> _AMP.options.onAir = {"data":{"title":"Savage Nation with Michael Savage","timeslot":"9:00pm - 11:59pm","excerpt":"","personality":"","image":"<img class=\"amp-onair-show-image-img\" src=\"http:\/\/www.wlsam.com\/wp-content\/uploads\/sites\/353\/2015\/04\/michaelsavage_150x150_01.jpg\" \/>","link":"http:\/\/www.wlsam.com\/shows\/savage-nation-with-michael-savage\/"},"timeout":28743,"instance":5,"status":true,"endtime":1462510740,"memcache":true}; </script>
-	<script type="text/javascript">
-		// js code goes here
-		jQuery(window).load(function(){
-			// Lightbox / Fullscreen initialization ///////////
-			if(typeof ThemifyGallery !== 'undefined'){ ThemifyGallery.init({'context': jQuery(themifyScript.lightboxContext)}); }
-		});
-	</script>
-<link rel="stylesheet" id="media_library_assistant-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61" type="text/css" media="all">
-<link rel="stylesheet" id="media_library_assistant-widget-styles-css" href="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61" type="text/css" media="all">
-<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.3.1" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body","isTouch":"false"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/themify.gallery.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/lightbox.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/js/themify.builder.module.plugins.js"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/waypoints.min.js?ver=4.3.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var tbLocalScript = {"isTouch":"","isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"animationOffset":"100","videoPoster":"http:\/\/www.wlsam.com\/wp-content\/plugins\/themify-builder\/img\/blank.png"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/js/themify.builder.script.js"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/themify-mediaelement.min.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/themify-mediaelement.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1462452166"></script>
-<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.3.1"></script>
+<script> _AMP.options.onAir = {"data":{"title":"Red Eye Radio","timeslot":"12:00 am - 4:00 am","excerpt":"","personality":"<div class=\"amp-onair-personality-container\"><div class=\"amp-onair-personality-image\"><a href=\"http:\/\/www.wlsam.com\/personalities\/red-eye-radio\/\"><img class=\"amp-onair-personality-image-img\" src=\"http:\/\/www.wlsam.com\/wp-content\/uploads\/sites\/353\/2015\/03\/11-redeyeradioonair.jpg\" \/><\/a><\/div><div class=\"amp-onair-personality-name\"><a href=\"http:\/\/www.wlsam.com\/personalities\/red-eye-radio\/\">Red Eye Radio<\/a><\/div><\/div>","image":"<img class=\"amp-onair-show-image-img\" src=\"http:\/\/www.wlsam.com\/wp-content\/uploads\/sites\/353\/2015\/04\/redeye_640x640_01.jpg\" \/>","link":"http:\/\/www.wlsam.com\/shows\/red-eye-radio-2\/"},"timeout":14387,"instance":2,"status":true,"endtime":1470819600,"memcache":true}; </script>
 
 <script>
-	jQuery(window).load(function(){ jQuery(window).resize(); });
+	jQuery(window).load(function(){ jQuery(window).resize(); jQuery( 'body' ).addClass( 'page-loaded' ); });
 </script>
-
-
-</div><!-- #whitewrap -->
-
-<!-- Begin WLS-AM1 TuneGenie MediaPlayer Bar Script -->
-<!-- INSTALLED 2016-04-08T14:34:12.132Z -->
-<!-- ZAG ENABLED 2016-04-08T14:35:55.574Z -->
-<script type="application/javascript">
-window.tgmplibs="cumulus";
-window===top && document.write('<sc'+'ript src="http://mpl.tunegenie.com/js/loader.min.js?'+Math.random()+'"></scr'+'ipt>');
-</script><script src="http://mpl.tunegenie.com/js/loader.min.js?0.020690870081466306"></script>
-<script id="tgmpjs" type="application/javascript">
-var tgmp = top.tgmp || new TuneGenieMediaPlayer('playerbar', {brand:'wlsam', theme:["#000000"], debug:true, delayed_frame:true, refreshGoogleBannerAds:true, zindex:2147483640, infoTrayOnLoad:false, position:'top', useTritonPlayer:true, promptZag:true});
+<link rel="stylesheet" id="media_library_assistant-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61" type="text/css" media="all">
+<link rel="stylesheet" id="media_library_assistant-widget-styles-css" href="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61" type="text/css" media="all">
+<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.wlsam.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.5.3" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var themify_vars = {"version":"1.8.1","url":"http:\/\/www.wlsam.com\/wp-content\/plugins\/themify-builder\/themify","TB":"1"};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row.wow",".module_row.wow",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.wlsam.com\/wp-content\/plugins\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/www.wlsam.com\/wp-content\/plugins\/themify-builder","framework_url":"http:\/\/www.wlsam.com\/wp-content\/plugins\/themify-builder\/themify","version":"1.8.1","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"1"};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"","speed":"900","navigation":"#main-nav","scrollOffset":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/themify-builder/themify/js/main.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/wp-embed.js?ver=4.5.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1470162248"></script>
+<script type="text/javascript" src="http://www.wlsam.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.5.3"></script>
+            <script type="text/javascript">
+                if ('object' === typeof tbLocalScript) {
+                    tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
+                }
+            </script>
+            <script>
+window.tgmplibs='cumulus';
+      window===top && document.write('<script id="tgmpjs" src="http://mpl.tunegenie.com/js/loader.min.js?'+Math.random()+'"><\/script>');
+</script><script id="tgmpjs" src="http://mpl.tunegenie.com/js/loader.min.js?0.5947115792543383"></script>
+<script id="tgmpjs">
+      top.tgmp?top.tgmp.onload():window.tgmp=new TuneGenieMediaPlayer('playerbar',
+    { brand: 'wlsam',
+      zindex: '5000',
+      theme: ["#000000"],
+      position: 'top',
+      debug: true,
+      ios_frame: 3,
+      autostart: false,
+      infoTrayOnLoad: true,
+      useTritonPlayer: true,
+      promptZag: true,
+      delayed_frame: true,
+      refreshGoogleBannerAds:true}
+);
 var tgmp_rc=top.tgmp_rc||new TuneGenieRC(tgmp);
 tgmp_rc.recentSongWidget(document.getElementById('tgrecent'),{});
 tgmp_rc.nowPlayingWidget(document.getElementById('tgnowplaying'),{});
 </script>
-<!-- End WLS-AM1 TuneGenie MediaPlayer Bar Script -->
+
+</div><!-- #whitewrap -->
+
+<!-- TGMP PLUGIN ENABLED 2016-08-05T00:38:33.253Z -->
+<!-- DISABLE TGMP INFO TRAY -->
+<!-- ADDED 2016-08-05T00:38:33.253Z -->
+<script>
+	if (window.top.tgmp) {
+		window.top.tgmp.updateOption('infoTrayOnLoad',false);
+	}
+</script>
+<!-- END DISABLE TGMP INFO TRAY -->
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -975,22 +1004,14 @@ tgmp_rc.nowPlayingWidget(document.getElementById('tgnowplaying'),{});
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script>
+
 
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 29/40 queries in 0.119 seconds using memcached
-Object Caching 3025/3053 objects using memcached
+Database Caching 34/47 queries in 0.134 seconds using memcached
+Object Caching 8250/8280 objects using memcached
 
- Served from: channel1055.com @ 2016-05-05 22:05:01 by W3 Total Cache --></body></html>
+ Served from: q1055.com @ 2016-08-10 03:24:56 by W3 Total Cache --></body></html>
