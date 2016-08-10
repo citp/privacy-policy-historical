@@ -1,161 +1,133 @@
-> *The following text is extracted and transformed from the iship.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320223831id_/https%3A//iship.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iship.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810234950id_/https%3A//www.iship.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
-Protecting your privacy is important to us. Please read the following iShip, Inc. Privacy Policy (the "Privacy Policy") to learn more about how iShip, Inc. collects, uses and safeguards the personal and company information of our customers and shipping carriers ("Carrier(s)") whose services are accessed through iShip services.
+**Effective Date: Jul 12, 2016**
 
-## iShip Commitment to Privacy 
+Privacy is important to iShip, Inc., and its subsidiaries (‘iShip’). This Privacy Notice applies to personal information of iShip customers and consumers who use our publicly accessible websites and online services. We refer to these individuals and entities below as ‘you.’
 
-This Privacy Policy describes iShip's treatment of Personal and Company Information (defined below) that iShip collects from visitors of the iShip.com site and users of iShip's Web-based multi-carrier shipping services and enterprise solutions ("iShip Shipping"). This Privacy Policy governs only iShip's treatment of information. iShip shares Personal and Company Information with the Carrier providing the requested service (e.g. DHL, Federal Express, UPS and others) and shipping service centers (e.g. Mail Boxes Etc.) (as described below in Information Sharing and Disclosure). This Privacy Policy does not control how a Carrier and/or shipping service center use Personal or Company Information. Please review the privacy policy(ies) of the applicable Carrier(s) and shipping service center(s) to learn how they treat information. 
+This Privacy Notice does not control the use of information by shipping carriers (e.g., UPS and others)(collectively, ‘Carrier(s)’), or the use of information by shipping service centers (e.g., The UPS Store) or their designated affiliates, agents, or franchisors (collectively, ‘Shipping Service Center(s)’). Please review the privacy policies or notices of the applicable Carrier(s) and/or Shipping Service Center(s) to learn how they treat information they may collect or receive.
 
-## What this Privacy Policy Covers
+## **1\. Information We Gather**
 
-The Privacy Policy applies only to United States users of iShip Shipping and United States visitors to the iShip.com Web site. iShip Shipping is not available to other than United States users. If you are located in the U.S. and have questions about the iShip.com Privacy Policy, please contact us at [privacy@iShip.com](mailto:privacy@iShip.com). 
+We gather information through activities related to iShip’s shipping services and enterprise solutions (‘iShip Shipping’) such as (a) iShip Shipping and account setup, installation and/or configuration, (b) your management of your account(s) with iShip, (c) tracking and delivery of shipments, (d) communications with you about iShip Shipping, (e) events in which you participate, and (f) surveys, promotions and other offers. 
 
-## INFORMATION COLLECTION AND USE
+We may gather the following types of information (some jurisdictions restrict the collection of certain information, in which case such information will not be collected or retained in that jurisdiction):
 
-iShip collects and uses Personal and Company Information so that we can efficiently provide the iShip Shipping services requested by our visitors and customers. 
+  * Individual information, such as first and last name, home or other physical address, including street and city name, telephone or fax number, email address, other contact information, and payment information
+  * Shipping information, including to provide shipping services or fee-estimates for shipping services; shipping information includes, for example, (i) shipping-related contact details such as the shipper's and consignee's name, physical address, zip or postal code, email address and telephone number, (ii) copy of signature for proof of delivery, (iii) Carrier account number and related information, (iv) package weight and dimensions, and (v) other information required by Carriers, or by a particular Carrier selected by you, and information regarding the content of certain shipments
+  * Shipping information, including to provide shipping services or fee-estimates for shipping services; shipping information includes, for example, (i) shipping-related contact details such as the shipper's and consignee's name, physical address, zip or postal code, email address and telephone number, (ii) copy of signature for proof of delivery, (iii) Carrier account number and related information, (iv) package weight and dimensions, and (v) other information required by Carriers, or by a particular Carrier selected by you, and information regarding the content of certain shipments
+  * Other information you voluntarily provide to us, such as in connection with iShip Shipping or stored in your account, such as address information, shipping history, tracking numbers (for example, when requesting shipment tracking), and information connected with supplemental iShip Shipping services such as custom declaration information for international destinations
+  * Information that enables us to verify an individual's identity
+  * Names, email addresses and telephone numbers of others to whom we are asked to send information
+  * Information provided in response to surveys
+  * Username, password and other credentials used to access iShip Shipping or Carrier products and services
+  * Social media user names or identifiers, content and other data posted on our official social media pages or elsewhere on the Internet (such as other public locations), or which you allow to be shared through social media platforms
+  * Payment information (including payment card details or online payment services number and billing address) and financial information (such as bank account number)
+  * Tax identification number (in some cases, this may be a social security number) in circumstances in which you request products or services for which this information is required, or in connection with certain promotions, sweepstakes, or surveys
+  * Other information that may be provided to us in connection with an iShip product or service
 
-## iShip Shipping Personal Information 
 
-In connection with iShip Shipping, iShip collects personally identifiable information (information that may allow you to be identified or contacted) ("Personal Information") necessary to provide the requested services. iShip collects this information when you register to set up an account and otherwise use the iShip Shipping services. 
 
-## iShip Shipping Account 
+## **2\. Additional Online Information Gathering**
 
-Personal Information required to register with iShip includes your name or company name, address, telephone number, e-mail address and address type (business or residential). In order to complete your registration and set up your iShip account, you will be required to select a User ID, after which iShip will assign you a Password by email. After you have successfully registered, you will be required to provide your User ID and Password to access your iShip account. Upon your initial sign-in, you may elect to have us remember your Password so that you do not have to re-enter it each time to login from the computer you are currently using. iShip "remembers" your Password by placing a cookie on your hard drive. See Cookies below for more information. You may also enter your credit card information and billing address and select certain shipping and Carrier preferences. This information is optional for the purposes of setting up your account, however, you may be required to enter credit card information (including billing address) prior to shipping any packages, as described below.
+When you visit our websites or use our online services we may collect certain information through automatic means, such as logging. This may include information such as your IP address, type of browser and operating system used, information regarding your internet service provider or the type of device you used to access our websites, date and time of such access, pages you visit, and other sites you may visit that link to or from our websites. We may also collect information through the use of cookies, clear gifs, device identifiers, or other identifiers or technologies, including as those technologies may evolve over time (collectively, ‘Data Technologies’). We may use Data Technologies to identify and track your visits and use of our websites, to customize your experience on our websites or online services, to “remember” your passwords, and for storing information or settings. We also use Data Technologies to save preferences and session data entered by you while using iShip Shipping services, access information of registered users at login, to improve the iShip Shipping services and for other internal business purposes.
 
-## iShip Shipping
+We may allow third parties to include Data Technologies on our websites, or collect personal information about our visitors’ activities over time and across websites, services, or online applications, including those that are not operated by us. Information collected by Data Technologies may be used on our websites or on other websites, services, or online applications, including those that are not operated by us. To learn more about third parties’ information practices, please refer to those third parties’ privacy policies or notices.
 
-In order to ship packages via iShip Shipping, you may also need to provide (i) your credit card information and billing address, (ii) the name, address, email address and telephone number of the shipment recipient, (iii) a description of the shipment contents, and (iv) such additional information as may be required by your selected Carrier.
+We may link certain data elements we have collected through automated means, such as your browser information, with other information we have gathered about you. For example, linking such as this potentially enables us to identify whether you have opened an email we sent to you. iShip may also combine information gathered from cookies or log files with other information in order to provide and improve iShip Shipping services, to enhance our ability to communicate with our customers about additional services they may find of value and for other internal business purposes.
 
-## Address Book
+We also may use third-party analytics tools that collect information about visitor traffic on our websites.
 
-The iShip Shipping applications may include an Address Book option that allows registered users to enter the nickname, name or company name, address, telephone number, address type, fax number and e-mail address of people or businesses to whom they frequently ship packages ("Addressee Information"). Use of the Address Book is entirely optional. It is provided as a convenience so that users will not have to re-enter frequently used Addressee Information. iShip does not use Addressee Information for any purpose other than to provide the iShip Shipping services and to offer you easy access to package Addressee Information and for other internal business purposes.
+You may be able to modify your browser’s or device’s setting to decline certain Data Technologies, such as cookies, if you prefer. However, some features or functions of our websites may not function properly if you do so.
 
-## Shipping Estimate
+For your convenience and information, we may provide links to websites, apps, places and services that may be operated by companies other than iShip. These companies may have their own privacy policies or notices, which we strongly suggest you review. Our services also may be made available to you through third-party platforms (such as providers of app stores) or through other third-party channels. We are not responsible for the privacy practices of any non-iShip websites, places or services.
 
-iShip offers a multi-carrier shipping estimate service that enables you to estimate potential shipping charges by providing us with package weight and dimensions and the origin and destination zip codes. This information is used only to provide you with estimated shipping charges based on the information you provide and other internal business purposes. 
+## **3\. How We Use the Information We Gather**
 
-## Email Notification 
+We may use the information we gather to:
 
-iShip Shipping also offers an optional email notification service, pursuant to which iShip will notify the package recipient and others designated by you when the package is sent. In connection with such service, iShip asks for the e-mail address of the recipient and others that you designate to receive notification. If you wish, you may also include a brief message to be sent with the email notification.
+  * Provide products and services you request or to fulfill a service agreement with you, including iShip Shipping
+  * Process and collect payments, set prices, and establish credit
+  * Provide customer support and communicate with you, including, for example, in response to your requests, questions and comments
+  * Establish and manage your account (including your online account on iShip.com and its various features, such as the address book)
+  * Offer you products and services we believe may interest you
+  * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions
+  * Send information to your contacts (such as package recipients, or those designated to receive status or tracking updates) if you ask us to do so
+  * Process claims we receive in connection with our services
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and websites; and performing accounting, auditing, billing, reconciliation and collection activities)
+  * Perform data analyses (including market and consumer research, trend analysis, financial analysis, and anonymization of personal information)
+  * Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities, and to protect the interests of you, us, or others
+  * Comply with applicable legal requirements, government regulations, and our policies
 
-iShip stores collected Personal Information, including your shipping history, in your account profile for your access and reference. iShip uses Personal Information to provide and enhance iShip Shipping services. We also use Personal Information to inform shipping customers about additional services they may find of value, for our internal business purposes (including performing trend analysis and market studies), to set prices, establish credit, accomplish the billing function and to comply with government regulations. iShip may collect other Personal Information from time to time, but it will be obvious to you that we are collecting such information (e.g., through use of surveys). If iShip collects additional Personal Information in a manner that is not apparent, iShip will provide you with notice as described in Changes to the Privacy Policy . All such Personal Information will be treated in accordance with this Privacy Policy. 
 
-## Company Information
 
-iShip collects information from business entities that enter into services agreements (the "Enterprise Agreements") with iShip to use iShip Shipping in connection with providing the iShip Shipping services and in accordance with the Enterprise Agreements and any other documentation provided to customers regarding use of the iShip Shipping services (collectively, the "Company Information"). Company Information includes (i) company name, address, phone number, e-mail address, (ii) names and contact information of company employees, agents and consultants authorized to access iShip Shipping, (iii) names, addresses, email addresses and telephone numbers of company's shipment recipients, (iv) Carrier account information and billing address and company's custom or contract Carrier shipping rates, (v) additional information as may be required by a particular selected Carrier, (vi) address book information referenced below, and (vii) information provided by a company in connection with supplemental iShip Shipping services offered from time to time by iShip pursuant to such company's Enterprise Agreement (such as custom declaration information for international destinations). The Company Information in sub-sections (iv) and (v) above shall be referred to as "Carrier Information."
+We may supplement data we collect through automated means with information about your location (such as your ZIP or postal code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our websites, identify users of our websites, and gather demographic information about our users. Our websites and online services are not designed to respond to “do not track” requests from browsers.
 
-iShip Shipping services may also include a global address book tool, which enables the company to store employee address and location information, and a private address book tool, which enables company's authorized employees to store customer and/or personal address and contact information.
+We also may use the information we gather about you in other ways for which we provide specific notice at the time of collection (where permitted). In addition, iShip may use your information with your consent or as approved by you from time to time.
 
-Company Information is collected during the company sign-up, installation and configuration process, as well as when the company uses the iShip Shipping services. We use Company Information to provide and enhance the iShip Shipping services, to ensure compatibility of data with iShip's systems, for our internal business purposes, to enhance our ability to communicate with our customers about additional services they may find of value, to set prices, establish credit, fulfill an Enterprise Service Agreement, accomplish the billing function and to comply with government regulations. Companies' use of iShip Shipping is subject to the terms and conditions of their Enterprise Agreements with iShip and carrier agreements entered into between companies and their applicable Carriers. iShip collects and processes Company Information in accordance with this Privacy Policy and as set forth in the Enterprise Agreements and any documentation or specifications provided to companies in connection therewith. 
+## **4\. Information We Share**
 
-## iShip.com Tracking and Shipment Notification
+iShip shares information with Carriers and Shipping Service Centers in connection with providing the services you request. Shipping information may be shared with shippers, consignees, recipients, and third party payors. In some cases, information may be shared with businesses whose customer has received or is shipping a package. This Privacy Notice does not control how such recipients, consignees, third party payors, businesses, Carriers and/or Shipping Service Centers (collectively, ‘Potential Recipients’) use the information they receive. You should consult the privacy policies or notices of each such Potential Recipient to learn more about how they handle the information they receive.
 
-When you track packages at iShip.com, iShip will ask for the tracking number. In addition, if your package is in transit, iShip offers a shipment notification service, pursuant to which iShip will notify you and others designated by you when the package has been delivered. In connection with such service, iShip asks for your e-mail address and the e-mail address of others that you would like iShip to notify. 
+In addition, iShip may employ service providers, partners, or affiliates to perform functions on its behalf, and these services may involve processing personal information. For example, these service providers, partners, and affiliates may be authorized to collect, use, or disclose personal information in order to:
 
-## Log Files
+  * Help resolve customer service requests
+  * Provide package shipment services, such as printing postage labels
+  * Help iShip test and create new product and service features
+  * Help iShip manage its information technology
+  * Provide legal, privacy, or security support or advice
+  * Otherwise support iShip’s operations
 
-iShip receives and stores certain types of information whenever you use iShip Shipping. For instance, iShip automatically collects your IP address, which is the number assigned to your computer whenever it is connected to the Internet. iShip collects certain technical information from your computer each time you request a page during your visit. This information is collected from your computer's browser and may include your IP address, operating system, Web browser software, and referring Web site. iShip uses IP addresses for system administration, security, statistical analysis purposes, and other internal business purposes. One way iShip uses logs is to analyze them to understand where requests originate so that we can provide the most efficient service possible, enhance security, ensure appropriate usage and produce traffic volume statistics. 
 
-## Cookies
 
-Cookies are small text files that are sent to your browser from a Web site's computers and stored on your computer's hard drive. Cookies can make use of the Web easier by saving status and preferences about a Web site. Most browsers are initially set to accept cookies but users can change the settings to refuse cookies or to be alerted when cookies are being sent. Although acceptance of cookies will not interfere with the ability to access iShip.com, users will need to accept cookies in order to utilize iShip Shipping services and to access your iShip Shipping account. iShip uses cookies to save preferences and session data entered by you while using iShip Shipping services, access information of registered users at login, to improve the iShip Shipping services and for other internal business purposes. iShip may combine non-personally identifiable information gathered from cookies or log files with Personal or Company Information to provide and improve iShip Shipping services, to enhance our ability to communicate with our customers about additional services they may find of value and for other internal business purposes.
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal or fraudulent activity. We reserve the right to transfer any information we have about you if we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). In the event that all or a portion of iShip, or substantially all of the assets of iShip, is sold to another business entity, including a Carrier, personal information gathered by iShip will likely be included among the assets transferred to such business entity. iShip will provide you notice of any such event as set forth in Updates to Our Privacy Notice.
 
-## Aggregate Data
+This Privacy Notice does not apply to anonymized or aggregated data which by itself does not allow an individual to be located or contacted. iShip may use and share such anonymized or aggregated data with third parties.
 
-iShip may use anonymized data which does not allow an individual in the context of Personal Information and a company in the context of Company Information to be located or contacted for internal business purposes.
+## **5\. Your Options**
 
-## With Consent
+We offer you certain choices about how we communicate with you and what information we collect from you. You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in our marketing emails. Visit the privacy policies of the applicable Shipping Service Centers and Carriers to learn about their marketing practices.
 
-In addition, iShip may use your Personal, Company or Carrier Information as approved by you from time to time.
+## **6\. Access and Correction**
 
-iShip will not license, sell, provide or share Personal Information or Company Information to any third party except as set forth herein. 
+Registered users of iShip Shipping with administrative privileges to their iShip account can review, modify, or delete certain information previously provided by editing their account profile. This information may include but is not limited to account information (which allows you to update your contact information and iShip marketing preferences), password, Carrier designation (which allows you to change your selected and/or preferred Carriers), applications (which allows you to choose whether to view certain advanced shipping options) and payment information. It may also include address book information. If you have questions or problems concerning your account, contact your Shipping Service Center or your company's designated support contact, who may contact iShip if necessary.
 
-## Personal Information
+## **7\. How We Protect Personal Information**
 
-iShip shares Personal Information with Carriers and shipping service centers in connection with providing the services requested. This Privacy Policy does not control how a Carrier and/or shipping service center use Personal Information. You should consult the privacy policies of each Carrier and shipping service center that you select to learn more about how they handle Personal Information.
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We do not maintain security for Shipping Service Centers or Carriers. You should know that information that is located on the outside of a package or letter may be visible to others.
 
-## Company Information
+## **8\. Data Transfers**
 
-iShip shares Company Information with Carriers in connection with providing the iShip Shipping services requested by your company. iShip shares Company Information only with the Carrier selected by you for your transaction. This Privacy Policy does not control how your selected Carrier uses your Company Information. Companies should consult their Carriers' privacy policies and carrier agreements to learn how such Carriers treat Company Information.
+We may transfer the information we gather to countries other than the country in which the information originally was collected. Your personal information may be stored in the United States. In addition, your personal information may be transferred to and stored in any country where you choose to ship a package. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice and in accordance with applicable law.
 
-## Carrier Information 
+## **9\. California Privacy Rights**
 
-Under no circumstances will iShip share your Carrier Information with any Carrier other than the Carrier you specified to provide shipping services. 
+California Civil Code Section 1798.83 entitles California users to request information concerning the disclosure of certain personal information to third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law may contact us as specified in the “How to Contact Us” section below.
 
-## Agents
+## **10\. Updates to Our Privacy Notice**
 
-iShip may employ third party vendors to perform functions on our behalf, which may include assisting us in processing Personal Information and/or Company Information. iShip shares Personal and Company Information with such vendors as necessary to enable them to assist us in processing the Information and/or providing services to our customers. These vendors are acting as agents on behalf of iShip, are contractually required to maintain the confidentiality of the information and are restricted from using such Information for any purpose other than to provide iShip services to our customers. 
+This Privacy Notice may be updated periodically and, where permitted by law, without prior notice to you to reflect changes in our information practices. Any such revisions will be noted here. We will indicate at the top of the notice when it was most recently updated.
 
-## Compliance with Law and Legal Requests
+## **11\. How to Contact Us**
 
-iShip provides Information to government agencies as required by law or regulation. In addition, iShip may release Company and Personal Information when iShip deems release necessary to comply with the law, to protect iShip, our users or others, or to enforce the iShip Terms of Service or Enterprise Agreement. 
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@iShip.com](mailto:privacy@iShip.com). You also may write to us at:
 
-## iShip Affiliates
+General Manager  
+iShip, Inc.   
+3545 Factoria Blvd SE #100  
+Bellevue WA 98006  
 
-iShip is a wholly owned subsidiary of United Parcel Service of America, Inc. ("UPS"). The term "iShip Affiliates," as used herein, includes UPS and all subsidiaries and affiliates of UPS, but does not include direct subsidiaries of iShip.
 
-## Aggregate Data 
+**_Addendum to Privacy Notice for Canada_**
 
-iShip may share with third parties and/or iShip Affiliates anonymized data which does not allow an individual in the context of Personal Information and a company in the context of Company Information to be located or contacted.
+iShip may establish and maintain a file of your personal information for the purposes described above, which will be accessible at 3545 Factoria Blvd SE #100, Bellevue, WA 98006, USA. Authorized employees, agents and mandataries of iShip who require access to your personal information to fulfil their job requirements will have access to your personal information. If you wish to request access or correction of your personal information in our custody or control, you may write to:
 
-## Business Transfers
+Attention: General Manager  
+iShip, Inc.   
+3545 Factoria Blvd SE #100  
+Bellevue WA 98006
 
-In the event that all or a portion of iShip, or substantially all of the assets of iShip, is sold to another business entity, including a Carrier, iShip Personal and Company Information will likely be included among the assets transferred to such business entity. iShip will provide you notice of any such event as set forth in Changes to the Privacy Policy.
+Your right to access or correct your personal information is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections. If you wish to make inquiries or complaints or have other concerns about our personal information practices, you may write to us at General Manager as described above, e-mail us at [privacy@iship.com](mailto:privacy@iShip.com) or telephone us at 877.994.7447. 
 
-## With Consent
-
-In addition, iShip may disclose your Personal, Company or Carrier Information as approved by you from time to time.
-
-## CUSTOMER CHOICE   
-ACCESSING, REVIEWING, CHANGING   
-AND DELETING YOUR INFORMATION
-
-## Personal Information
-
-## iShip Shipping
-
-Your iShip Shipping account allows you to opt out of receiving promotional material from iShip. Opting-out can be accomplished during your initial registration and account set up or at any time thereafter by selecting "Preferences" and then "Account Info." Visit the privacy policies of the applicable shipping service centers and Carriers to learn about their marketing practices.
-
-Registered users of iShip Shipping can review, modify, or delete certain information previously provided by editing their account profile. This information may include but is not limited to account information (which allows you to update your contact information and iShip marketing preferences), password, Carrier designation (which allows you to change your selected and/or preferred Carriers), applications (which allows you to choose whether to view certain advanced shipping options) and payment information. If you have questions or problems concerning your account, contact your shipping service center or your company's designated support contact, who will contact iShip if necessary. 
-
-## Address Book 
-
-Registered users of iShip Shipping may also review, add, and delete Address Book information at any time by editing their Address Book. 
-
-## Information Deletion Request 
-
-Upon request, iShip will deactivate your account(s) and disable all access to or delete your contact, financial and other Personal Information and preferences from our active databases. To deactivate your account send an e-mail to [privacy@iShip.com](mailto:privacy@iShip.com) and include in the subject line "DEACTIVATE ACCOUNT." iShip will respond to your request as soon as reasonably possible. Please note, however, that iShip will not delete shipping transaction information and information related to your iShip Shipping account which constitutes a record of a shipping transaction. In addition, in order to fulfill a deletion request, iShip may make information unavailable for use, but that information is still present in the iShip system.
-
-## SECURITY
-
-iShip treats your Personal Information and Company Information as an asset that must be protected against loss and unauthorized access. We employ information security techniques to appropriately protect confidential information from unauthorized access by users inside and outside iShip.
-
-## Controlled Access 
-
-iShip restricts access to its data center and server rooms to authorized personnel. iShip limits access to Personal and Company Information to those employees that have a legitimate business need to access such information. Your iShip Shipping account is password-protected for your privacy.
-
-## Technology Safeguards
-
-iShip and its supporting systems, which are currently located in the United States, employ industry standard practices to safeguard Personal and Company Information, including firewalls and Secure Socket Layer (SSL) encryption technology. iShip Shipping services utilize encryption technology to protect your information while stored on our servers and during transmission. 
-
-## Control of Password
-
-You agree to be responsible for protecting the confidentiality of, and all acts or omissions that may occur under, your User ID and Password. If you believe your Password may have been compromised, you should immediately notify iShip at [privacy@iShip.com](mailto:privacy@iShip.com). 
-
-## Unauthorized Access
-
-As outlined above, iShip will adopt reasonable measures necessary to protect the security of Personal and Company Information. However, iShip is not responsible for unauthorized access to such information by hackers or others who have obtained such access through illegal measures.
-
-## LINKED INTERNET SITES
-
-iShip may provide links to external sites as a convenience to its users. The inclusion of any link does not imply iShip's endorsement of such external Web site or the products and services offered at such site. iShip is not responsible for the privacy practices or the content of such Web sites. Please note that if you link to a third party site from iShip.com, any information you reveal on that site is not subject to this Privacy Policy. Therefore, you should consult the privacy policies of each site you visit.
-
-## CHANGES TO THE PRIVACY POLICY
-
-iShip, Inc. reserves the right to modify or amend this Privacy Policy from time to time. Any such revisions will be noted here so that you can be fully informed about the privacy protections we provide and your choices with regard to our use of your information for marketing purposes. Prior to making any decision that would result in iShip using your information in a manner materially different from that stated at the time it was collected, iShip will notify users by email and users will have a choice as to whether or not we use their information in this different manner.
-
-## Questions or Comments?
-
-If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this Web site, you can contact iShip, Inc. Support at [privacy@iShip.com](mailto:privacy@iShip.com).
+Personal information maintained and processed by our service providers in the United States and other foreign jurisdictions may be subject to disclosure pursuant to a lawful access request by United States or foreign courts or government authorities.
