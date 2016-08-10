@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingoliner.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402032458id_/https%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingoliner.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810105902id_/https%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bingo Liner
 
