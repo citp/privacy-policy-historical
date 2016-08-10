@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204192258id_/https%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportauctions.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810030430id_/https%3A//www.motorsportauctions.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Extra Page 11 Title
 
@@ -119,4 +119,4 @@ Copyright © 2016 Motorsport Auctions Ltd. All Rights Reserved.
 Use of this Web site constitutes acceptance of our Terms and Conditions and our Privacy Policy.   
 Designated trademarks and brands are the property of their respective owners.
 
-[Top](http://www.motorsportauctions.com/#0)
+[Top](https://www.motorsportauctions.com/#0)
