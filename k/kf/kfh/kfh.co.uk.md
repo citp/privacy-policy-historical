@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922070840id_/https%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810113910id_/https%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # KFH Privacy Policy
 
@@ -28,7 +28,7 @@ By submitting your information to us, you consent to its use, as set out in this
 
 If at any time you wish your personal data to be amended or removed from our records please email [ho@kfh.co.uk](mailto:ho@kfh.co.uk) or write to us at
 
-Marketing Manager
+Marketing Director
 
 Kinleigh Folkard & Hayward
 
