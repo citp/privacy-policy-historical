@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617001502id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810045613id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
 
 # Grockit Privacy Policy - Grockit
 
