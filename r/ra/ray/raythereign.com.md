@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raythereign.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215114752id_/http%3A//www.raythereign.com/index.php/faq/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raythereign.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810151313id_/https%3A//raythereign.com/index.php/faq/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
