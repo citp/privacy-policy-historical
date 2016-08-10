@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605183645id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810231517id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Acting Auditions Movies Casting Calls - FREE!
+# Find Teen Casting Calls - Become a Model or Actor
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
