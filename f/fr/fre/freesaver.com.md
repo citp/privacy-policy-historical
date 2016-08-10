@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609140918id_/http%3A//freesaver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810190742id_/http%3A//www.freesaver.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
