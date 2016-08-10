@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabledeal.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611040058id_/http%3A//www.fabledeal.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabledeal.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810181353id_/https%3A//www.fabledeal.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | FableDeal
+# Online shopping Store India | Mobile, Electronics, Lifestyles & More
 
 Fabledeal online Pvt Limited is the operator and licensee of [www.fabledeal.com](http://www.fabledeal.com/) **(“Website”)**. Fabledeal can be contacted by e-mail at [customercare@fabledeal.com](mailto:customercare@fabledeal.com). The protection and security of your personal information is one of Fableldeal.com top priorities. This online Privacy Policy discloses fabledeal ’s information practices for this Website and subscriber / membership based services (“Services”) including the type of information being collected, method of such information collection, use of such information and sharing of such information with third parties. 
 
