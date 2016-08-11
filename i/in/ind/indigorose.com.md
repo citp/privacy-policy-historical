@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610191425id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812010431id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indigo Rose Software
+# Privacy Policy - Indigo Rose Software
 
 1\. Privacy Statement. Indigo Rose Software Design Corporation, a Manitoba corporation (“Indigo Rose”), operates this Indigorose.com web site. Indigo Rose regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.
 
@@ -31,12 +31,12 @@
 14\. Contact Us. If you have any questions regarding this Privacy Policy, the practices of Indigorose.com, or your dealings with our web site, please contact us at:
 
 Indigo Rose Software Design Corporation  
-123 Bannatyne Ave, Suite 220  
-Winnipeg, Manitoba  
-R3B 0R3  
+25-1128 Henderson Hwy  
+Suite 316  
+Winnipeg, MB R2G 3Z7  
 Canada  
 Contact: Director of Web Properties
 
 15\. Modification of Privacy Policy By Indigorose.com. Indigorose.com reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy.
 
-Last Update: Jan 13, 2010.
+Last Update: July 4, 2016.
