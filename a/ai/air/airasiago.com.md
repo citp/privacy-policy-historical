@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airasiago.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324004652id_/https%3A//www.airasiago.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airasiago.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811105513id_/https%3A//www.airasiago.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
 
 # AirAsiaGo. Personal Data Protection Policy | AirAsiaGo.com.my
 
