@@ -1,112 +1,35 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081726id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811163238id_/https%3A//dublin.ie/privacy-policy-cookie-usage) for the most accurate reproduction.*
 
-# Privacy Policy - Dublin.ie
+# Privacy Policy & Cookie Usage | Dublin.ie
 
-## Revision 2 Effective date: 02/04/2014  
-Introduction
+## Privacy Policy
 
-Your privacy is important to us and this privacy statement sets out how Dublin City Council. collects, uses and protects any information you give us when you use Dublin.ie.
+We, Dublin City Council, respect the rights of our users and do not, as a general rule, collect personal information of any kind. Any personal information that you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Act, 1988, as amended by the Data Protection (Amendment) Act, 2003. Any information that you provide in this way is used only in line with the purpose for which you provided it.
 
-You can access our site and use many of our services without providing any information at all. However if you do choose to register with us or if you give us any information by which you can be identified when using Dublin.ie then you can be assured that we will use it only in accordance with this privacy statement.
+Where a user voluntarily provides personal information in response to a questionnaire or survey the data will be used for research or analysis purposes only.
 
-We may change this privacy statement from time to time. When we do we will notify you of this change by an announcement on the [dublin.ie blog](http://www.dublin.ie/blog). Your continued use of Dublin.ie will constitute your binding acceptance of the change.
+For general web browsing no personal information is revealed to us, although certain statistical information is available to us via our internet service provider. 
 
-## Children under the age of 13
+This information may include:
 
-Dublin.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older. Children below 13 may not register with Dublin.ie. We do not knowingly collect information from or about children below the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us at support [at] dublin.ie.
-
-## Persons aged 13 to 17
-
-We recommend that young people aged 13 to 17 ask their parents or legal guardians for permission before using Dublin.ie or sending any information about themselves to anyone over the Internet.
-
-## What we collect
-
-We collect the following information:
-
-  * Information which you supply on registration or as part of your profile;
-  * Information which you provide in relation to any payment;
-  * Information which you post on Dublin.ie;
-  * Information which you otherwise provide to us (for example by email); and
-  * Information relating to your use of Dublin.ie generally. This may include, for example login and logout times.
+  * The logical address of the server you are using.
+  * The top level domain name from which you access the Internet (for example, .ie, com, .org etc.).
+  * The type of browser you are using.
+  * The date and time you access the site.
+  * The Internet address used to link to the site.
 
 
 
-Technical details in connection with visits to this website are logged for our statistical purposes. The technical details logged include:
+Some of the above information is used to create summary statistics which allow Dublin City Council to assess the number of visitors to the site, identify what pages are accessed most frequently and generally, help Dublin City Council to make the site more user-friendly.
 
-  * The IP address of each visitor and the domain of the internet service provider;
-  * The previous website address from which a visitor reached us, including any search terms used;
-  * "Clickstream" data which shows the traffic of visitors around Dublin.ie (for example showing which forums threads have been read and which links have been clicked); and
-  * The type of web browser used by a visitor.
+## Usage of Cookies and Google Analytics
 
+Social Media – cookies may be used by some third party sites associated with Dublin City such as Twitter and Facebook. 
 
+Dublin City Council uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).
 
-## Outside providers
+Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-We also use outside providers for web-site statistics, targeted advertising and to offer other specific services. Please note that these use visitors' IP addresses but do not have access to users' usernames or email addresses.
+Learn more about the [Google Analytics Opt-out Browser Add-on here](https://tools.google.com/dlpage/gaoptout).
 
-The providers we currently use are Google Analytics (statistics), Google Adsense (advertising), Google Maps (mapping) and SurveyMonkey (user feedback).
-
-You can find further information on the information which these services collect at <http://www.google.com/privacy.html>and <http://www.surveymonkey.com/Monkey_Privacy.aspx>respectively.
-
-From time to time we may partner with an external provider or an advertiser to provide other services, for example we may ask an external company to carry out a survey or to run a competition. If any personal information is required you will be advised beforehand.
-
-## Cookies
-
-Certain sections of the Dublin.ie site use cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. We also use temporary session cookies which enable a visitor's web browser to remember which pages on this website have already been visited.
-
-You also have choices with respect to cookies. By changing your browser preferences you have the choice to accept all cookies, be notified when a cookie is sent, or to reject all cookies. You can find out more about the use of cookies on <http://www.cookiecentral.com/>
-
-## What we do with the information we collect
-
-We require this information for the operation of Dublin.ie, to understand your needs and provide you with a better service. In particular, we may use or disclose your information for the following reasons:
-
-  * We may use this information for our administration and record keeping;
-  * We may use this information, with your permission only, to contact you for marketing purposes;
-  * We may use this information for technical processing and to address technical problems or service complaints;
-  * We may use this information to deal with cases of illegal activity, abuse or harassment;
-  * We may transfer this information to enable an external auditor to verify our traffic figures;
-  * We may disclose this information where required by law to do so;
-  * We may disclose this information to law enforcement, government officials or courts where we believe that disclosure is necessary and proportionate; and
-  * We may disclose this information where we believe that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
-
-
-
-We will not otherwise disclose, sell or distribute your information to any third party without your permission.
-
-## Anonymous and aggregated data
-
-We may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the number of unique visitors in a daily period or the percentage age groups of our members. We may also use demographic and preference information to allow advertising banners on our site to be targeted, in aggregate, to the readers for whom they are most pertinent. This means that readers may see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. No personally identifiable information about an individual user will be disclosed in this way without their prior consent.
-
-## Surveys & Competitions
-
-User contact information given as part of competitions will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-## Information you post
-
-Any personal information which you volunteer in your public profile or which you post as a message will be available worldwide to anyone with access to the website.
-
-Please do not post any information you are not happy to leave up indefinitely. We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.
-
-Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
-
-## Anonymous / pseudonymous users
-
-You are free (if you wish) to choose a username which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.
-
-## Controlling your personal information
-
-You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003.
-
-If you would like a copy of the information held on you please email us at support [at] dublin.ie. If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at support [at] dublin.ie. We will promptly correct any information found to be incorrect.
-
-If someone else has posted your personal information on Dublin.ie without your permission and you would like it removed please contact us at support [at] dublin.ie.
-
-## Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-## Further information on your privacy rights
-
-Further information on your privacy rights is available on the website of the Irish Data Protection Commissioner: [http://www.dataprivacy.ie](http://www.dataprivacy.ie/)
+Further details on [Google Analytics use of cookies can be found here](http://www.google.com/analytics/learn/privacy.html).
