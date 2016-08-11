@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroxor.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330091955id_/http%3A//urlm.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroxor.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811224345id_/http%3A//urlm.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
