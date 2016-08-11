@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609144617id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811022849id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy - Wholesale Electronics on AntElife.com
 
