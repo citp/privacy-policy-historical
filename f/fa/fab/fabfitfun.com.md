@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085333id_/http%3A//www.fabfitfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811131855id_/https%3A//fabfitfun.com/privacy) for the most accurate reproduction.*
 
-# Privacy - FabFitFun
+# Privacy Policy - FabFitFun
 
 **Introduction**  
 Opera New Media, LLC d/b/a Charlie, owner and operator of the FabFitFun™ web site (“we” or “FabFitFun”), takes the nature of private information very seriously. We know you care about how your information is used and shared, and we appreciate your trust that we will do so with the utmost care. The purpose of this privacy policy is for you (the “User”) to understand how we collect and use the personal information you provide to us through fabfitfun.com and its related websites (the “Website”).
 
-**_Information We Collect_**
+**Information We Collect**
 
 Personal Account Information: When you visit the Website for the first time, you will be asked to provide certain personal account information, such as your e-mail address and zip code. All information submitted by you will be subject to this privacy policy; however, FabFitFun reserves the right to aggregate personal data from all of its Users for use in connection with the Website.
 
@@ -13,7 +13,7 @@ Browser and IP Information; Cookies: Each time a User visits the FabFitFun Websi
 
 Server Logs: When you use the FabFitFun Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, IP address, browser type, browser language, platform type, number of clicks, domain names, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-**_Use of Information by FabFitFun_**
+**Use of Information by FabFitFun**
 
 FabFitFun may use your personal account information to operate, maintain, customize and personalize your experience with the Website.
 
@@ -33,11 +33,11 @@ In order to continue to provide our Website services without charges or fees to 
 
 Although FabFitFun takes reasonable security measures to safeguard your private information against unauthorized use or access, FabFitFun cannot guaranty the security of any information you provide to or from our online services. FabFitFun can provide no guaranty that such information may not be accessed, disclosed, altered or destroyed by breach of any of our security measures. All Website transmissions are solely at your own risk.
 
-**User Responsibilities**
+User Responsibilities
 
 You have no obligation to provide personal information to FabFitFun and may, at any time, decline to submit personal account information through the Website, in which case FabFitFun may not be able to provide certain services to you. Please note that media files uploaded by Users to the Website cannot be removed, are not subject to this Privacy Policy and remain subject to our Terms of Use. Although FabFitFun takes reasonable measures to protect your privacy and security, it is also your responsibility to protect your personal account information. We strongly recommend that you take reasonable steps to maintain the secrecy of your account information at all times by keeping your account name and password secret and remembering to log off all computers when use is finished.
 
-**Other sites**
+Other sites
 
 This privacy policy applies only to websites and services that are owned or controlled by FabFitFun. In the event that the Website includes links to other websites, FabFitFun expressly disclaims responsibility for the privacy practices of such other websites. You should make certain that you are aware when you leave our Website and enter third party sites and review their privacy practices accordingly.
 
