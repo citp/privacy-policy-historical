@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectprogram.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127011101id_/http%3A//perfectprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectprogram.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812202842id_/http%3A//perfectprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — PerfectProgram
 
