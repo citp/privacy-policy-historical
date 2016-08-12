@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the softchalkcloud.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201204458id_/https%3A//www.softchalkcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softchalkcloud.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812031339id_/https%3A//softchalkcloud.com/privacy) for the most accurate reproduction.*
 
 # SoftChalk CLOUD
 
 Privacy Policy Statement
 
-Last updated: July 12, 2012
+Last updated: June 30, 2016
 
 This site is owned and operated by SoftChalk LLC, ("SoftChalk" or "We"). This statement governs information you provide to us or we learn from your use of this Web site and tells you how we may collect, use, and in some instances disclose this information.
 
