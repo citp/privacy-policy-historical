@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishairways.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919230632id_/http%3A//www.britishairways.com/travel/prvdet-vsg/public/en_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishairways.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812133421id_/http%3A//www.britishairways.com/travel/prvdet-vsg/public/en_us) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | British Airways -
 
