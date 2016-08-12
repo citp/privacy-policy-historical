@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memberpress.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130033727id_/https%3A//www.memberpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memberpress.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812214142id_/https%3A//www.memberpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
