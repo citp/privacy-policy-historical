@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316195039id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812114835id_/https%3A//www.insidesales.com/privacy-policy) for the most accurate reproduction.*
 
-# InsideSales.com Website Privacy Policy
+# Privacy Policy | FAQ | InsideSales.com
 
 **Effective Date: 14 July 2015**
 
@@ -9,28 +9,28 @@ Except as otherwise discussed in this Policy, this document only addresses the c
 
 Other sites that are not owned or controlled by ISDC may have their own privacy policies that apply to those sites. In addition, certain third-party offerings that are made via the ISDC website are subject to the terms of third-party privacy policies and the terms of this Policy shall not apply. We encourage you to ask questions, to review the privacy policies of other sites, and to be very cautious before you disclose your personally identifiable information to other sites.
 
-The TRUSTe program covers only information that is collected through this web site, [www.InsideSales.com](http://www.insidesales.com/) and the web applications associated with the site, and does not cover information that may be collected through downloadable software, offline or by business entities other than InsideSales.com, Inc. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+The TRUSTe program covers only information that is collected through this web site, [www.InsideSales.com](https://web.archive.org/) and the web applications associated with the site, and does not cover information that may be collected through downloadable software, offline or by business entities other than InsideSales.com, Inc. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
 _U.S.-E.U. Safe Harbor_
 
-InsideSales.com, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding thbre collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. InsideSales.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit   
+InsideSales.com, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding thbre collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. InsideSales.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit  
 <http://www.export.gov/safeharbor/>
 
 For a fuller discussion of our privacy practices, please see the Frequently Asked Questions (“FAQ”) below. You are responsible for reviewing the Policy each time before using our website or providing any personally identifiable information. If you have questions or concerns regarding this statement, please contact us via email at [privacy@InsideSales.com](mailto:privacy@insidesales.com). If you believe we have violated the Policy, please notify us, and we will promptly investigate and try to remedy the problem.
 
 Listing and Links to Frequently Asked Questions
 
-1\. [What information do we collect from you?](http://www.insidesales.com/privacy_policy.php#1)  
-2\. [Where do we collect information from you?](http://www.insidesales.com/privacy_policy.php#2)  
-3\. [How do we use the personally identifiable information we collect from you?](http://www.insidesales.com/privacy_policy.php#3)  
-4\. [Who is collecting information?](http://www.insidesales.com/privacy_policy.php#4)  
-5\. [With whom do we share your information?](http://www.insidesales.com/privacy_policy.php#5)  
-6\. [What are my choices regarding collection, use, and distribution of my information?](http://www.insidesales.com/privacy_policy.php#6)  
-7\. [How can I update, correct, or delete my personally identifiable information?](http://www.insidesales.com/privacy_policy.php#7)  
-8\. [What security precautions are in place to protect the loss, misuse, or alteration of my information?](http://www.insidesales.com/privacy_policy.php#8)  
-9\. [What about the privacy of visitors who are 13 and under?](http://www.insidesales.com/privacy_policy.php#9)  
-10\. [How does tracking technology collect, use, and distribute information?](http://www.insidesales.com/privacy_policy.php#10)  
-11\. [Where can I find any changes to the Privacy Policy?](http://www.insidesales.com/privacy_policy.php#11)  
+1\. What information do we collect from you?  
+2\. Where do we collect information from you?  
+3\. How do we use the personally identifiable information we collect from you?  
+4\. Who is collecting information?  
+5\. With whom do we share your information?  
+6\. What are my choices regarding collection, use, and distribution of my information?  
+7\. How can I update, correct, or delete my personally identifiable information?  
+8\. What security precautions are in place to protect the loss, misuse, or alteration of my information?  
+9\. What about the privacy of visitors who are 13 and under?  
+10\. How does tracking technology collect, use, and distribute information?  
+11\. Where can I find any changes to the Privacy Policy?  
 **  
 Frequently Asked Questions  
 **  
@@ -98,6 +98,8 @@ We will share your personally identifiable information with third parties only i
 
 _Merchants_ : Other than as disclosed in this Policy or with your permission, we will not share your personally identifiable information with merchants. If you do give permission to share your information, you should know that once your personally identifiable information is shared with third parties, we cannot control how it is used or who else it may be shared with.
 
+_Partners/Sponsors_ : We may work with partners or sponsors provide access to content or events, both physical and virtual. When you access such content or events, we may share your personally identifiable information with the associated partners or sponsors.
+
 _Fulfillment_ : Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in the shopping areas of our website for direct shipment to you. For example, in order to fulfill certain product orders, we must share your information with the product manufacturer, payment processor (e.g., credit card companies), and shippers.
 
 _Agents/Service Providers_ : We also may share your personally identifiable information with third parties for the purposes of providing services to our website or to ISDC itself, such as administering customer support and providing support tools to our users. These companies are authorized to use your personally identifiable information _only as necessary to provide_ these services to us.
@@ -114,13 +116,13 @@ _Sale of the Company_ : You agree that we may assign, sell, license, or otherwis
 
 **6\. What are my choices regarding collection, use, and distribution of my information?**
 
-_Email and Promotional Mailings_ : We may from time to time send you email or other communications regarding our products and services. If you do not wish to receive these promotional mailings, the website provides users the opportunity to opt out of receiving these communications by following the opt-out instructions in the email or sending an email to [privacy@InsideSales.com](mailto:privacy@InsideSales.com). After that, ISDC users will not receive future communications or mailings.
+_Email and Promotional Mailings_ : We may from time to time send you email or other communications regarding our products and services. If you do not wish to receive these promotional mailings, the website provides users the opportunity to opt out of receiving these communications by following the opt-out instructions in the email or sending an email to[privacy@InsideSales.com](mailto:privacy@InsideSales.com). After that, ISDC users will not receive future communications or mailings.
 
 **7\. How can I update, correct, or delete my personally identifiable information?**
 
 _Website Services_ : ISDC provides you with a limited ability to access and edit the personally identifiable information you have provided to us. Following registration you can review, change, or delete the information you have submitted. We encourage you to update your information promptly if it changes. To change, modify, or delete the information you previously provided you send an email to [privacy@InsideSales.com](mailto:privacy@InsideSales.com), or contact us at 866-342-5370 and specify what you want to have done. We will respond to your request to access within a reasonable timeframe.
 
-_Chat and Bulletin Board Postings_ : To request removal of your personally identifiable information from our blog or community forum, contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+_Chat and Bulletin Board Postings_ : To request removal of your personally identifiable information from our blog or community forum, contact us at[privacy@InsideSales.com](mailto:privacy@InsideSales.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
 _No Comprehensive Deletions_ : We will retain your information for as long as your account is active or as needed to provide you services. We will retain in our files information you have requested to remove if that information is necessary to resolve disputes, troubleshoot problems, or enforce our Terms of Service Agreement. Except as noted, upon request we will delete your information from our databases.
 
@@ -130,7 +132,7 @@ You can be assured that your personal and account information is reasonably secu
 
 While we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems.
 
-We cannot fully ensure that your private communications and other personally identifiable information will not be inadvertently disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to) disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. . If you have any other questions about security on our Web site, you can contact us at [privacy@InsideSales.com](mailto:privacy@InsideSales.com).
+We cannot fully ensure that your private communications and other personally identifiable information will not be inadvertently disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to) disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. . If you have any other questions about security on our Web site, you can contact us at[privacy@InsideSales.com](mailto:privacy@InsideSales.com).
 
 **9\. What about the privacy of visitors who are 13 and under?**
 
@@ -144,9 +146,9 @@ We use cookies for marketing purposes, for our shopping cart, to remember users�
 
 We use Local Storage Objects (LSOs) such as HTML5 to store content, information, and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-_Advertisements_ : We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies, which we do not control, to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+_Advertisements_ : We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies, which we do not control, to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking[here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **11\. Where can I find any changes to the Privacy Policy?**
 
