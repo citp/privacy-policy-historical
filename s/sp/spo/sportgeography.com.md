@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportgeography.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606231407id_/http%3A//www.sportgeography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportgeography.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812205806id_/http%3A//www.sportgeography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportGeography
 
