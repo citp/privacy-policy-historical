@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404125655id_/http%3A//www.kingice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812094359id_/https%3A//www.kingice.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy – KingIce
 
-KingIce respects your privacy. Your e-mail address is totally secure. We do not sell or rent any of your individual information we collect (such as your e-mail address, name, and other information) to any third parties without your consent. We will only collect, store and use your personal information to customize the content, services and advertising we deliver to you based on your preferences and interests. For questions concerning the privacy policy of KingIce, please contact us through this [_contact form_](http://www.kingice.com/contacts).
+## Privacy Policy
+
+KingIce respects your privacy. Your e-mail address is totally secure. We do not sell or rent any of your individual information we collect (such as your e-mail address, name, and other information) to any third parties without your consent. We will only collect, store and use your personal information to customize the content, services and advertising we deliver to you based on your preferences and interests. For questions concerning the privacy policy of KingIce, please [email us](mailto:sales@kingice.com).
 
 **Security Policy**  
 We understand your concerns regarding Internet security. KingIce encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. We have taken measures to maintain the highest level of security by implementing GoDaddy Site Seal Certificate encrytion. You should feel as comfortable using your credit card online as you do in a department store.
