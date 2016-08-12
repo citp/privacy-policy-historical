@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612190207id_/http%3A//www.mamasgotittogether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812080636id_/http%3A//www.mamasgotittogether.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mama's Got It Together
 
@@ -71,3 +71,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 sarahwhite0513@yahoo.com
 
 This document was last updated on September 28, 2014
+
+\ 
