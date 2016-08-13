@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612204844id_/http%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmonster.net privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813230534id_/http%3A//www.ytmonster.net/privacy) for the most accurate reproduction.*
 
 # YTMonster | Privacy Policy
 
@@ -26,4 +26,4 @@ We, YTMonster reserves the right to change this Privacy Policy at any given time
 
 * * *
 
-Last updated March 8, 2016 
+__Last updated August 7, 2016
