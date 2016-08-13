@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acemarks.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611163353id_/http%3A//acemarks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acemarks.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813081244id_/http%3A//acemarks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Ace Marks
 
