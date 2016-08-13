@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiscalper.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320113816id_/http%3A//www.delphiscalper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiscalper.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813032649id_/http%3A//www.delphiscalper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Delphi Scalper
 
@@ -111,3 +111,5 @@ From time to time, DelphiScalper.com will enter into an arrangement with a third
 
 
 We hope this information satisfies any questions or concerns you may have regarding the email practices of DelphiScalper.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATfximpactDOTcom (Please replace “AT” with @ and “DOT” with .)
+
+.
