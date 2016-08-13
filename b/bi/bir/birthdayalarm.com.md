@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204155412id_/https%3A//birthdayalarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814013219id_/https%3A//birthdayalarm.com/privacy) for the most accurate reproduction.*
 
 # Birthday Alarm: Privacy Policy
 
@@ -55,7 +55,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on the
 
 You always have the option not to become a member or to cancel your membership at any time.
 
-If you are a member and no longer wish to participate in Birthday Alarm you can sign in to the site and click on the '[My Profile](https://web.archive.org/account "My Account")' at the top of the page; then select '[cancel membership](https://web.archive.org/cancel "cancel membership")' and follow the simple instructions.
+If you are a member and no longer wish to participate in Birthday Alarm you can sign in to the site and click on the '[My Profile](https://web.archive.org/account "My Account")' at the top of the page; then select '[cancel membership](https://web.archive.org/close_account "close account")' and follow the simple instructions.
 
 This action will cancel your membership and delete your details from the system. You will be assured that, Birthday Alarm will not contact you directly at the email address we have on record for you, other than to respond to requests you may make to Birthday Alarm in the future.
 
