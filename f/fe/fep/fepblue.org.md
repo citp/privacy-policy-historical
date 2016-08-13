@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406024026id_/http%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813140646id_/https%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy-Blue Cross and Blue Shield's Federal Employee Program
 
@@ -8,13 +8,13 @@ The following terms and conditions (“terms and conditions”) govern your use 
 
 If you do not agree with the terms and conditions, you are not granted permission to use the website and should exit immediately. This opt-out option is not stated prior to each feature of this website. If you decide to opt-out or not accept our terms and conditions and the terms of our Privacy Policy, you will not be able to use our interactive features such as MyBlue, Health Tools, Pharmacy website and the Provider Directory.
 
-_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[Blue Cross and Blue Shield Service Benefit Plan Brochure](http://media.fepblue.org/-/media/PDFs/Brochures/2015_SBP_BRO_FINAL_145_102714.pdf). All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
+_Please Note: This website offers a summary of some of the features of the Blue Cross and Blue Shield Service Benefit Plan. Before making a final decision, please read the[](https://media.fepblue.org/-/media/PDFs/Brochures/2015_SBP_BRO_FINAL_145_102714.pdf)[](https://media.fepblue.org/-/media/PDFs/Brochures/2016_SBP_Brochure.pdf)[Blue Cross and Blue Shield Service Benefit Plan Brochure](https://media.fepblue.org/-/media/PDFs/Brochures/2016_SBP_Brochure.pdf). All benefits are subject to the definitions, limitations and exclusions included in the brochure. Benefits under the non-FEHBP programs are neither offered as part of nor guaranteed under the Blue Cross and Blue Shield contract with the U.S. Office of Personnel Management (OPM) to provide healthcare to Federal employees and annuitants. These benefits are only available to contract holders and covered family members enrolled in the Blue Cross and Blue Shield Service Benefit Plan. The cost of these benefits is not included in your premium._
 
 #### General Information:
 
 The Blue Cross Blue Shield Association (BCBSA) has offices in Chicago, Illinois, and Washington, DC USA. There are local Blue Cross and Blue Shield member companies in the United States that provide customer service and claims processing functions for Blue Cross and Blue Shield Service Benefit Plan members worldwide.
 
-Questions and comments, including the reporting of any non-functioning links in the website, should be submitted to the local Blue Cross and Blue Shield company. You may call the the customer service number located on the back of your member ID card or you can submit an electronic inquiry using the Customer eService link provided on our homepage. If you are not a Service Benefit Plan member, the number for the local Blue Cross and Blue Shield company can be found in the [Contact Us](https://web.archive.org/en/contact-us) section of this website.
+Questions and comments, including the reporting of any non-functioning links in the website, should be submitted to the local Blue Cross and Blue Shield company. You may call the the customer service number located on the back of your member ID card during regular business hours or you can submit an electronic inquiry using the Customer eService link provided on our homepage. If you are not a Service Benefit Plan member, the number for the local Blue Cross and Blue Shield company can be found in the [Contact Us](https://web.archive.org/en/contact-us) section of this website.
 
 **
 
@@ -116,7 +116,7 @@ Nothing contained, expressed, or implied in this website is intended as, nor sha
 
 **
 
-This website and the information contained herein does not constitute an offer or a solicitation of an offer for the purchase or sale of any securities. The website may contain information and press releases about BCBSA, Blue and Blue Shield companies and controlled affiliates and business partners, and although this information was believed to be accurate as of the date prepared, BCBSA disclaims any duty or obligation to update such information. To the extent that any information is deemed to be a “forward looking statement” as defined in the rules and regulations of the Securities Act of 1933, as amended, such information is intended to fit within the “safe harbor” for forward looking information and is subject to material risk factors, which may or may not be disclosed herein.
+This website and the information contained herein does not constitute an offer or a solicitation of an offer for the purchase or sale of any securities. The website may contain information and press releases about BCBSA, Blue Cross and Blue Shield companies and controlled affiliates and business partners, and although this information was believed to be accurate as of the date prepared, BCBSA disclaims any duty or obligation to update such information. To the extent that any information is deemed to be a “forward looking statement” as defined in the rules and regulations of the Securities Act of 1933, as amended, such information is intended to fit within the “safe harbor” for forward looking information and is subject to material risk factors, which may or may not be disclosed herein.
 
 **
 
@@ -142,9 +142,7 @@ The Blue Cross Blue Shield Association creates original content for web informat
 
 Health-related information and newsletter articles highlight emerging trends, such as healthy living. Articles on specific health related topics, such as diabetes, smoking cessation and fitness, are based on information available on our Health Tools website, and as needed other sources, such as [www.cdc.gov](http://www.cdc.gov/). BCBSA website staff ensure that authors of any content posted on [www.fepblue.org](http://www.fepblue.org/) are qualified to make the statements they do in content. All health content reviewers must, at a minimum, be a registered nurse or have a degree in medical sciences or public health, or equivalent experience in the healthcare and/or health insurance industry.
 
-Weekly Health and Wellness articles are provided by WebMD Health Services.
-
-All content includes relevant source identification, and are dated on the website pages.
+Health and wellness articles are provided by WebMD Health Services. All content includes relevant source identification, and are dated on the website pages.
 
 All material for the website is reviewed by the legal counsel of the Blue Cross Blue Shield Association, as well as experts with appropriate experience and training in health information, benefits, medical case and disease management, communications, finance, and privacy to provide educated and fact-based feedback and comments. All information is reviewed before it is added to the website. The scope of the review responsibility includes but is not limited to:
 
@@ -378,7 +376,7 @@ Healthcare clearinghouses, health plans and other healthcare insurance companies
 
 **Unique Identifiers**
 
-The final component of HIPAA is national identifies regulation. The uniform identifiers permit your doctors and hospital providers, dentists, plus pharmacists to spend much less time dealing with the bureaucracy of getting paid.
+The final component of HIPAA is national identifiers regulation. The uniform identifiers permit your doctors and hospital providers, dentists, plus pharmacists to spend much less time dealing with the bureaucracy of getting paid.
 
 There are three HIPAA National Identifiers:
 
@@ -394,9 +392,8 @@ The National Provider Identifier (NPI) was implemented in May 2008 and requires 
 
 When the National Health Plan Identifier HIPAA regulation is released, it will add to this efficiency by again going from many identifiers to one identifier.
 
-The uniform identifiers permit your doctors and hospital providers, dentists, plus pharmacists to spend much less time dealing with the bureaucracy of getting paid.
+**Your Privacy Rights**
 
-Your Privacy Rights  
 As a healthcare consumer, HIPAA asserts that privacy is your fundamental right. Learn more about your personal rights as it relates to your medical information. The HIPAA privacy regulation is a “use and disclosure” set of requirements enacted in 2003 that defines how we can use and share your confidential medical information. The regulation limits the use and disclosure of Protected Health Information (PHI). PHI is individually identifiable health information that includes your demographic and clinical information as well as related business and insurance data.
 
 Under the HIPAA Privacy Rule, you have individual rights that allow you to request the following:
@@ -480,14 +477,14 @@ This form will generally require that you provide (1) the information you want t
 
 **Make a privacy complaint**
 
-You may file a complaint to us if you believe that we have violated your privacy rights. This form will generally only require a description of the privacy right violation and your contact information for follow-up communication. As stated above, to make a complaint please contact the [Privacy (HIPAA) ](https://web.archive.org/en/contact-us)contact for your BlueCross BlueShield Plan.
+You may file a complaint to us if you believe that we have violated your privacy rights. This form will generally only require a description of the privacy right violation and your contact information for follow-up communication. To make a complaint, please call the [customer service number](https://web.archive.org/en/contact-us) for your local Blue Cross and Blue Shield company and ask for the privacy (HIPAA) contact. 
 
 **File a request**
 
-All forms can be obtained from your Local Plan. To file a request, please submit the appropriate form for each item to the designated contact for your Local Plan, listed in the [Local BCBS Privacy Assistance Information](https://web.archive.org/en/contact-us). Please note, it is important that you direct your request to this contact in order to ensure your request is addressed in a timely manner.
+All forms can be obtained from your local Blue Cross and Blue Shield company. To file a request, please call the [customer service number](https://web.archive.org/en/contact-us) for your local Blue Cross and Blue Shield company and ask for the privacy contact. Please submit the appropriate form for each item to the privacy contact. Please note, it is important that you direct your request to the privacy contact in order to ensure your request is addressed in a timely manner.
 
-**Healthcare Fraud**  
-  
+## Healthcare Fraud
+
 Healthcare fraud is more damaging than you probably imagine. Though committed by a very small number of people, healthcare fraud affects every patient, doctor and hospital in the country, wasting billions of dollars every year. A goal of the Blue Cross and Blue Shield Service Benefit Plan is to preserve healthcare quality and affordability. That's why we're working with hospitals, doctors, consumers and, where appropriate, law enforcement agencies to identify and stop healthcare fraud. 
 
 **What is healthcare fraud?**
