@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vivaldi.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414054247id_/https%3A//vivaldi.net/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaldi.net privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813083213id_/https%3A//vivaldi.net/en-US/privacy) for the most accurate reproduction.*
 
-# Vivaldi Web Browser Community - Privacy
+# Privacy - Vivaldi Web Browser Community
 
 Details
      Category: [Documents](https://vivaldi.net/en-US/privacy)
      Published: December 02 2013 
      Created: December 02 2013 
-     Hits: 15522 
+     Hits: 18326 
 
 ## General
 
