@@ -1,81 +1,140 @@
-> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623151450id_/http%3A//www.mieleusa.com/privacy.asp%3Factive%3DThe%2520Company%26subm%3DUSA%26thirdL%3DPrivacy%2520Policy%26oT%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813094143id_/http%3A//www.mieleusa.com/domestic/privacy-policy-3762.htm) for the most accurate reproduction.*
 
-# Miele, Inc.: Your Privacy
+# Privacy Policy
 
-  | 
+Miele, Inc. ("Miele" or “Us”) is committed to safeguarding your privacy online. Please read this privacy policy to understand how your personal information will be treated as you make full use of this website (the "Site"). This privacy policy is only applicable to the information we collect from the Site. This privacy policy may change from time to time, so please check back periodically. 
 
-  * What This Privacy Policy Covers    
-This privacy policy covers our treatment of personally identifiable information that we collect when you are on the Site. This privacy policy does not apply to the practices of companies that Miele does not own or control or of people whom Miele does not manage or employ.   
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Information Collection And Use    
-We collect personally identifiable information when you send us requests for information through our Site. We may also collect information from our affiliates and third parties.
+WE PROVIDE THE SITE FOR USE ONLY BY PERSONS LOCATED OR RESIDENT IN THE UNITED STATES OF AMERICA, ITS TERRITORIES AND POSSESSIONS (THE “U.S.”). MIELE MAKES NO REPRESENTATIONS OR WARRANTIES THAT MATERIALS ON THIS WEBSITE ARE APPROPRIATE OR AVAILABLE FOR USE IN OTHER LOCATIONS, AND ACCESSING THEM FROM TERRITORIES WHERE THEIR CONTENT IS ILLEGAL IS PROHIBITED. IF YOU ACCESS THIS SITE FROM OUTSIDE THE U.S., YOU DO SO AT YOUR OWN RISK AND MIELE DISCLAIMS ANY AND ALL RESPONSIBILITY OR LIABILITY FOR COMPLIANCE WITH ANY NON-U.S. LAWS.
+
+  1. What This Privacy Policy Covers
+  2. Information Collection and Use
+  3. Information Sharing and Disclosure
+  4. Google Analytics
+  5. Cookies
+  6. IP Addresses
+  7. Links To Other Sites
+  8. Security and Integrity of Information
+  9. Limitation of Liability
+  10. Retention of Information
+  11. Your Privacy Choices
+  12. Your California Privacy Rights
+  13. Questions or Suggestions
+
+
+
+1\.   **What This Privacy Policy Covers  **  
+This privacy policy covers our treatment of personally identifiable information that we collect when you are on the Site or in email, text and other electronic messages between you and this Site. This privacy policy does not apply to information collected by (i) us offline or through any other means, including any other website operated by Miele or any third party or (ii) any third party, including through any application or content . 
+
+2\. **  Information Collection and Use **  
+We collect personally identifiable information when you send us requests for information through our Site. We may also collect such information from our affiliates and third parties. We collect information about the services that you use and how you use them, like when you watch a video, visit a website that uses our advertising services or view and interact with our ads and content. This information includes duration and quantity of page visits, downloads, specific product searches and needs and/or such information that a service such as Google Analytics would capture. See [www.google.com/analytics](http://www.google.com/analytics). Personal data that you convey to us via our Site is collected, stored, used and processed by or on behalf of Miele.
 
 We also automatically receive and record information on our server logs from your browser.
 
 We use your information for five general purposes:
 
-    * To fulfill your requests for certain information and services;
-    * To provide our services to you; 
-    * To contact you about our services and related services; 
-    * To ensure the security of the Site, and 
-    * To share your information with our employees and affiliates to help serve you better.
-  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Information Sharing And Disclosure    
-We will send personally identifiable information about you to others only when: 
-    * We have your consent to share the information; 
-    * We need to share the information to provide a service you have requested; 
-    * We need to send the information to companies or people who work on behalf of Miele to provide a service to you;
-    * We respond to subpoenas, court orders or other legal requirements;
-    * We find that your actions on our Site violate any applicable terms of use or usage guidelines;
-    * We need to share the information to ensure the security and accuracy of the Site;
-    * An affiliate or third party wishes to have access to your information to provide you with goods or services which may be of interest to you
-Please note that we may disclose personally identifiable information when required by law or in the good-faith belief that doing so would be necessary in order to comply with legal process served on us.  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Cookies    
+  * To fulfill your requests for certain information and services;
+  * To provide our services to you;
+  * To contact you about our services and related services;
+  * To ensure the security of the Site; and
+  * To share your information with our employees and affiliates to help serve you better.
+
+
+
+We may also use information provided by you in other ways which we typically describe to you when you provide such information or for any other purpose with your consent.  
+ 
+
+3\.   **Information Sharing and Disclosure  **  
+We may disclose aggregated information (that is, information which does not contain personally identifiable data of any individual user) about our users without restriction.
+
+We will send personally identifiable information about you to others only when:
+
+  * We have your consent to share the information; and/or
+  * We need to share the information to provide a service you have requested; and/or
+  * We need to send the information to companies or people who work on behalf of Miele to provide a service to you; and/or
+  * We respond to subpoenas, court orders or other legal requirements; and/or
+  * We find that your actions on our Site violate any applicable terms of use or usage guidelines or
+  * To protect the rights, property, or safety of Miele, our customers or others; and/or
+  * We need to share the information to ensure the security and accuracy of the Site; and/or
+  * An affiliate or third party wishes to have access to your information to provide you with goods or services which may be of interest to you.
+
+
+
+4\. **Google Analytics**
+
+Our Site uses Google Analytics, a web analysis service provided by Alphabet, Inc. (“Google”). Google Analytics uses so-called cookies, which are text files placed on your computer, to help the website analyze how users navigate the website. See III. Information Sharing and Disclosure The information generated by the cookie about your use of the website will be transmitted to and stored by Google on its servers. More information about the technology used by Google is available at [www.google.com/analytics](http://www.google.com/analytics).
+
+5\. **Cookies  **  
 Cookies are small text files that a web site can send to a user's browser for storage on the hard drive. Cookies can make use of the web easier by saving status and preferences about a web site. Generally, websites use cookies to:
-    * Remind site owners who users are and to access user information in order to deliver a more personalized service, and 
-    * Estimate audience size.
-Each browser accessing such a site is given a unique cookie. Information collected by those cookies is sometimes called "click stream" or "click trail" and may also describe pages seen by the user and track user patterns, preferences and length of stay on a particular page.   
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Ip Addresses    
-When a web browser requests a web page or e-mail from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called an Internet Protocol Address ("IP Address"). We collect IP Addresses through the Site. Those IP Addresses may be used for various purposes, including, but not limited to:
-    * Diagnose service or technology problems that are associated with the IP Addresses;
-    * Estimate the number of users visiting the Site; 
-    * Send the most appropriate marketing, advertising or services information; or
-    * Assist companies or persons who provide information in our service to track visits to their pages.
-  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Links To Other Sites    
-We may provide [links to external sites](https://web.archive.org/miele-network/miele-network.asp) as a convenience to you. When you click on any such link, you will leave the Site. The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells. We are not responsible for the privacy practices or the content of external sites. Our privacy policy does not apply to any external site, and Miele is not responsible for the accuracy of any content supplied via any such external site. Should you rely upon that content, or otherwise use it in any way, you do so at your own risk.  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Security And Integrity Of Information    
-The security of your personally identifiable information is important to us, and we treat our data as assets that must be protected against loss and unauthorized access. We employ reasonable and customary information-security techniques, but no security system is capable of meeting all anticipated or unanticipated security needs. 
 
-> MIELE DOES NOT REPRESENT OR WARRANT THAT ITS SECURITY SYSTEMS WILL BE FOOLPROOF OR ABLE TO FULFILL ANY ESSENTIAL PURPOSE, OR THAT YOUR PERSONALLY IDENTIFIABLE INFORMATION WILL BE PROTECTED AGAINST LOSS, MISUSE OR ALTERATION BY THIRD PARTIES.
+  * Remind site owners who users are and to access user information in order to deliver a more personalized service, and
+  * Estimate audience size.
 
-  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Retention Of Information    
-We retain your personally identifiable information, as necessary, for business purposes and as required by law and government regulation. We reserve the right, however, to dispose of records and delete information from time to time, without prior notice.   
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Your Privacy Choices    
-Before submitting personally identifiable information on the Site, you will be given the option of opting in for the future receipt of informational and promotional e-mails from Miele, its affiliates, subsidiaries, and business partners. 
-    * To opt in:  
-Fill out the form on [this page](http://www.mieleusa.com/emailtomiele/emailusform.asp?contact_dept_id=4&toemail=webmastr%40mieleusa%2Ecom&dept_name=Webmaster). You must check either one or both of the final two checkboxes to be notified when:
-      * We introduce new products or services 
-      * We host events in your area. 
-    * If you have so opted in and would like to opt out:
-      * Click [here](http://www.mieleusa.com/newsletter/unsubscribe.asp?newsletter_type=p) to opt out of our new products and services mailing list
-      * Click [here](http://www.mieleusa.com/newsletter/unsubscribe.asp?newsletter_type=e) to opt out of our events mailing list 
-The links above lead to pages where you must input your email address into a form. Upon clicking the submit button, the form will either remove your email address and confirm your removal, or it will indicate your address was not found in our database.   
+
+
+Each browser accessing such a site is given a unique cookie. Information collected by those cookies is sometimes called "click stream" or "click trail" and may also describe pages seen by the user and track user patterns, preferences and length of stay on a particular page. 
+
+6\. **IP Addresses  **  
+When a web browser requests a web page or e-mail from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called an Internet Protocol Address ("IP Address"). We collect IP Addresses through the Site. These IP Addresses may be used for various purposes, including, but not limited to:
+
+  * Diagnose service or technology problems that are associated with the IP Addresses;
+  * Estimate the number of users visiting the Site;
+  * Send the most appropriate marketing, advertising or services information; or
+  * Assist companies or persons who provide information in our service to track visits to their pages.
+
+
+
+7\. **Links To Other Sites**    
+We may provide links to external sites (provided by third parties) as a convenience to you. When you click on any such link, you will leave the Site. We have not necessarily reviewed or approved the information on those other sites and will not be responsible or liable for the accuracy or completeness of the content of those or any other sites or any products or services that may be offered through those or any other sites. Should you rely upon that content, or otherwise use it in any way, you do so at your own risk. The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells. We are not responsible for the privacy practices or the content of external sites. Our privacy policy does not apply to any external site. Miele will not be responsible for any losses, damages or other liabilities incurred as a result of your use of any linked sites.
+
+8\. **Security and Integrity of Information / Warranties**  
+The security of your personally identifiable information is important to us, and we treat our data as assets that must be protected against loss and unauthorized access. We employ reasonable and customary information-security techniques, but no security system is capable of meeting all anticipated or unanticipated security needs.
+
+You understand that we cannot and do not warrant that files available for downloading from the internet or the Site will be free of viruses or other destructive code or the like. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our Site for any reconstruction of any lost data.
+
+YOUR USE OF THIS SITE IS AT YOUR OWN RISK.  MIELE DOES NOT REPRESENT OR WARRANT THAT ITS SECURITY SYSTEMS WILL BE FOOLPROOF OR ABLE TO FULFILL ANY ESSENTIAL PURPOSE, OR THAT YOUR PERSONALLY IDENTIFIABLE INFORMATION WILL BE PROTECTED AGAINST LOSS, MISUSE OR ALTERATION BY THIRD PARTIES.
+
+9\. **Limitation of Liability**
+
+IN NO EVENT SHALL MIELE OR ANY OF ITS AFFILIATES OR ANY OTHER PARTIES INVOLVED IN THE CREATION, PRODUCTION, OR DELIVERY OF THIS WEBSITE ON MIELE’S BEHALF,  BE HELD LIABLE OR RESPONSIBLE IN ANY WAY FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, LOSSES, OR LIABILITIES OR ANY COSTS OR EXPENSES INCURRED IN CONNECTION THEREWITH, THAT MAY BE INCURRED AS A RESULT OF YOUR USE AND/OR INABILITY TO USE SITE; ACCESS TO THE SITE; CHANGES IN THE CONTENTS OF THIS SITE OR FROM ANY OTHER WEBSITE ACCESSED THROUGH A LINK FROM THIS SITE; OR, FROM ANY ACTION MIELE TAKES OR FAILS TO TAKE AS A RESULT OF ANY ELECTRONIC MAIL MESSAGE OR ANY POSTING SENT OR TRANSMITTED BY THE USER TO MIELE OR ANY OF ITS AFFILIATES, AND ANY OTHER PARTIES INVOLVED IN THE CREATION, PRODUCTION, OR DELIVERY OF THIS SITE SHALL HAVE NO RESPONSIBILITY TO MAINTAIN THE MATERIAL AND SERVICES MADE AVAILABLE ON THIS SITE OR TO SUPPLY ANY CORRECTIONS, UPDATES, OR RELEASES IN CONNECTION HEREWITH.
+
+ANY MATERIAL ON THIS SITE IS SUBJECT TO CHANGE AT ANY TIME WITHOUT NOTICE.
+
+FURTHERMORE, MIELE SHALL HAVE NO LIABILITY OR RESPONSIBILITY WHATSOEVER FOR ANY LOSSES SUFFERED CAUSED BY VIRUSES OR OTHER DESTRUCTIVE CODES OR THE LIKE THAT MAY INFECT YOUR COMPUTER EQUIPMENT OR OTHER PROPERTY AS A RESULT OF YOUR USE OF, ACCESS TO, OR THE DOWNLOADING OF ANY MATERIAL FROM THIS WEBSITE. DOWNLOADING MATERIAL FROM THIS WEBSITE IS DONE AT YOUR OWN RISK.
+
+THE FOREGOING DOES NOT AFFECT ANY LIABILITY, IF ANY, WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+10\. **Retention Of Information**    
+We retain your personally identifiable information, as necessary, for business purposes and as required by law and government regulation. We reserve the right, however, to dispose of records and delete information from time to time, without prior notice. 
+
+11\. **Your Privacy Choices  **  
+Before submitting personally identifiable information on the Site, you will be given the option of opting in for the future receipt of informational and promotional e-mails from Miele, its affiliates, subsidiaries, and business partners.
+
+  * To opt in:  
+\- Feature to come soon: Fill out the form on this page. You must check either one or both of the final two checkboxes to be notified when:  
+1. We introduce new products or services  
+2\. We host events in your area.  
+ 
+  * If you have so opted in and would like to opt out:  
+1. Feature to come soon: Click here to opt out of our new products and services mailing list  
+2\. Feature to come soon: Click here to opt out of our events mailing list 
+
+The links above lead to pages where you must input your email address into a form. Upon clicking the submit button, the form will either remove your email address and confirm your removal, or it will indicate your address was not found in our database.   
 You can always contact us in order to:
-    * Delete your personally identifiable information from our systems, or 
-    * Update your personally identifiable information previously provided to us. 
-To do so, contact the [webmaster](http://www.mieleusa.com/emailtomiele/emailusform.asp?contact_dept_id=4&toemail=webmastr%40mieleusa%2Ecom&dept_name=Webmaster).  
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
-  * Questions Or Suggestions    
-If you have any questions or suggestions, please contact the [webmaster](http://www.mieleusa.com/emailtomiele/emailusform.asp?contact_dept_id=4&toemail=webmastr%40mieleusa%2Ecom&dept_name=Webmaster).   
-[ Top ](https://web.archive.org/privacy.asp?nav=18&oT=33&bhcp=#topOfPage)
 
-Last updated: March 25th, 2010.  |   
+  * Delete your personally identifiable information from our systems, or
+  
+
+  * Update your personally identifiable information previously provided to us.
+
+
+
+To do so, contact the webmaster.
+
+12\. **Your California  Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [webmastr@mieleusa.com] or write us at: [9 Independence Way Princeton, NJ 08540].
+
+13\. **Questions Or Suggestions  **  
+If you have any questions or suggestions, please contact the webmaster. 
+
+Last updated: June 24, 2016.
