@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostsreview.net privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511024840id_/http%3A//www.webhostsreview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostsreview.net privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813230707id_/http%3A//www.webhostsreview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy -Best web hosting companies reviews
 
