@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108134336id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813175703id_/https%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOP
 
@@ -8,7 +8,7 @@ This Privacy Policy demonstrates SEOP’s commitment to protecting visitor priva
 
 **Information That SEOP Collects**
 
-The User may navigate the SEO Website without disclosing any personally identifiable information to SEO. SEOP only collects personally identifiable information from the User if the User chooses to provide it, either by contacting SEOP by e-mail or by submitting an [Information Request Form](http://www.seop.com/contact-seop/). SEOP only uses personally identifiable information to respond to a User’s questions or comments, or to provide services related to the purpose for which the User submitted information.
+The User may navigate the SEO Website without disclosing any personally identifiable information to SEO. SEOP only collects personally identifiable information from the User if the User chooses to provide it, either by contacting SEOP by e-mail or by submitting an [Information Request Form](https://www.seop.com/contact-seop/). SEOP only uses personally identifiable information to respond to a User’s questions or comments, or to provide services related to the purpose for which the User submitted information.
 
 SEOP also receives non-personally identifiable information through log files and Cookies when the User accesses the SEOP Website. The User, dependent on their internet browser’s capabilities, will usually have the option of rejecting Cookies; however, certain areas of the SEOP Website may not display properly without Cookies enabled. Cookies allow SEOP to statistically monitor how many Users are navigating the SEOP Website and for what purposes. Certain technical information, such as IP address, page views, operating systems, Web browser software, and referring and destination Website, is automatically collected from the User’s computer. SEOP uses information gathered from Cookies and log files solely to generate broad demographic and user statistics in order to improve the content of the SEOP Website. SEOP does not link any information obtained from Cookies or log files to personally identifiable information.
 
