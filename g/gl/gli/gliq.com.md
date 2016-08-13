@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613205025id_/http%3A//gliq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813210319id_/http%3A//gliq.com/privacy.html) for the most accurate reproduction.*
 
 # Global IntelliSystems: Privacy Statement
 
