@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distancecalculator.net privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331225140id_/http%3A//www.distancecalculator.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distancecalculator.net privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814205544id_/https%3A//www.distancecalculator.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
