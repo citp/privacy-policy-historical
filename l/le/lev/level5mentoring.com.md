@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the level5mentoring.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524165702id_/http%3A//level5mentoring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level5mentoring.com privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814023736id_/http%3A//level5mentoring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Level 5 Mentoring
 
