@@ -1,127 +1,361 @@
-> *The following text is extracted and transformed from the genie-connect.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502190007id_/http%3A//www.genie-connect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genie-connect.com privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814062459id_/http%3A//lanyon.com/event-management-software/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GenieConnect
+# Privacy Policy
 
-BY ACCESSING, USING OR DOWNLOADING MATERIALS FROM THIS WEBSITE YOU AGREE TO THE FOLLOWING PRIVACY POLICY AND TERMS & CONDITIONS
+**_Effective date: 10 October 2014_**
 
-If you do not agree with any of the following, do not use this site or download any materials from it. If you have any further questions about this Privacy Policy or its implementation, please email via the contact page or write to us at our registered office, details of which are at the bottom of this Policy. 
+This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy below:
 
-_
+##### **Personal identifiable  information collected **
 
-**_What is this Privacy Policy for?_**
+We collect information:
 
-_
+  * When you register to become a Lanyon user (“User”), such as your name, e-mail, employer, country, and a password
 
-This privacy policy is for this website [www.genie-connect.com](http://www.genie-connect.com/) and served by GenieConnect Ltd and governs the privacy of its users who choose to use it.
+  * When you view and interact with Lanyon solutions, web pages, features, and functionality, including Lanyon mobile applications, software and platform technology (like third party applications)
 
-The policy sets out the different areas where user privacy is concerned and outlines the obligations and requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
-
- _
-
-**_The Website_**
-
-_
-
-This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies with all UK national laws and requirements for user privacy.
-
- _
-
-**_Use of Cookies_**
-
-_
-
-This website uses cookies to better the user’s experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device. Cookies are small files saved to the user’s computer’s hard drive that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computer’s hard drive they should take necessary steps within their web browser’s security settings to block all cookies from this website and its external serving vendors. This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html](http://www.legislation.gov.uk/ukpga/1998/29/contents).
-
-Other cookies may be stored to your computer’s hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
-
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
-
- _
-
-**_Contact & Communication_**
-
-_
-
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
-
-This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates, but only if this was made clear to you and your express permission was granted when submitting any form to email process. It also includes instances whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service to which the email newsletter relates. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
-
- _
-
-**_Email Newsletter_**
-
-_
-
-This website operates an email newsletter program, used to inform customer & subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
-
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
-
-Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include: the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is not a comprehensive list]. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
-
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will be detailed instead.
-
- _
-
-**_Security_**
-
-_
-
-GenieConnect protects secure data with industry-standard firewall and password protection systems. GenieConnect regularly reviews its security and privacy policies and makes improvements as necessary. Only authorized individuals have access to GenieConnect servers and information provided by this website’s users. 
-
-_
-
-**_External Links_**
-
-_
-
-Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
-
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
- _
-
-**_Adverts and Sponsored Links_**
-
-_
-
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, who may have detailed privacy policies relating directly to the adverts they serve.
-
-Clicking on any such adverts will send you to the advertiser’s website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computer’s hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
- _
-
-**_Social Media Platforms_**
-
-_
-
-Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
-
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. Neither this website nor its owners will ever ask for personal or sensitive information through social media platforms and users wishing to discuss sensitive details are encouraged to contact them through primary communication channels such as by telephone or email.
-
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
-
- _
-
-**_Shortened Links in Social Media_**
-
-_
-
-This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy URL's (this is an example of a shortened URL: [http://bit.ly/zyVUBo).](http://bit.ly/zyVUBo\).)
-
-Users are advised to take caution and good judgement before clicking any shortened URL's published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine URL's are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
- _
-
-**_Resources & Further Information_**
-
-_
-
-  *  __[_Data Protection Act 1998_](http://www.legislation.gov.uk/ukpga/1998/29/contents)
-  * [ __ _Privacy and Electronic Communications Regulations 2003_](http://www.legislation.gov.uk/ukpga/1998/29/contents)
-  * [ _Privacy and Electronic Communications Regulations 2003 - The Guide_](http://www.ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide)
-  * [ _Twitter Privacy Policy_](https://twitter.com/privacy)
-  * [ _Facebook Privacy Policy_](https://www.facebook.com/about/privacy/)
-  * [ _Google Privacy Policy_](http://www.google.com/policies/privacy/)
-  * [ _Linkedin Privacy Policy_ __](http://www.google.com/policies/privacy/)
+  * When you interact with third party services available through Lanyon like surveys, polls or other third party research undertaken with your consent  
+ 
 
 
+
+
+##### **Uses of personal information  **
+
+We use the information you provide to:
+
+  * Enable you to access the relevant pages, sections, and applications within the Lanyon tools
+
+  * Administer your account with us and customize the service we provide to you
+
+  * Send you service or promotional communications through email and notices on the Lanyon website  
+ 
+
+
+
+
+We do not sell, rent, or otherwise provide personally identifiable information to third parties without your consent except where it is necessary to carry out your instructions (to process your payment information, for example)
+
+Please note that in order to fulfill your requests for paid services (e.g., Lanyon Marketing Services), we share your payment information with our payment processor
+
+##### **Your Information Choices  **
+
+You can:
+
+  * Review or edit your personal information through your User Profile, including name, address and contact information
+
+  * Manage and update your password used for accessing Lanyon services and applications
+
+  * Opt-out from receiving email communications or text messages from us at any time by emailing us at privacy@lanyon.com or by replying with the word “UNSUBSCRIBE”.  
+ 
+
+
+
+
+##### **Your obligations to other Users.  **
+
+  * Certain features of the Lanyon system enable you to communicate with other Lanyon contacts. This information is to facilitate the interaction between users in their use of Lanyon services and solutions
+
+  * Do not abuse this access by sending spam or irrelevant marketing information to other contacts  
+ 
+
+
+
+
+##### **Important information  **
+
+  * Lanyon Corp participates in the U.S.-EU Safe Harbor ~~  Privacy~~ Framework and the U.S.-Swiss Safe Harbor Framework as administered by the United States Department of Commerce as a data controller, and is currently self-certifying our privacy practices as consistent with the Safe Harbor Privacy: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. As part of our participation in the Safe HarborFrameworks, please note that by becoming a User, you have given us your express and informed consent to transfer the data that you provide to us to the United States and to process it in the United States
+
+  * If Users have questions or concerns regarding this Privacy Policy, including the Safe HarborFrameworks, you should first contact Lanyon by emailing us at privacy@lanyon.com. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint with Lanyon’s privacy officer – jim.baker@lanyon.com
+
+  * Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy.  
+ 
+
+
+
+
+##### **Security  **
+
+  * Personal information you provide will be secured in accordance with industry standards and technology. Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Lanyon. There is no guarantee that information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards
+
+  * You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times  
+ 
+
+
+
+
+##### **How to contact us  **
+
+If you have questions or comments please send them to us at:  
+Lanyon Solutions Inc.  
+717 North Harwood St.  
+Dallas, TX 75201  
+USA   
+**Or email:  **privacy@lanyon.com  
+ 
+
+## **Lanyon Privacy Policy**
+
+**_Effective date: 10 October 2014_  **  
+ 
+
+##### **Introduction:  **
+
+The mission of Lanyon Solutions, Inc. (“Lanyon”, “we”, “us”, “our”) is to connect Buyers and Suppliers together in an on-line marketplace to facilitate the communication of content and the contracting of rates. This privacy policy covers information collected through our Web sites www.lanyon.com, www.passkey.com, www.regonline.com (Our “Sites”), Our Passkey GroupMAX Platform, our Lanyon Travel Supply and Demand Service Platforms and the Starcite Suite of Services (Our “Service Platforms”) (collectively the “Services”). The use of information collected through our services shall be limited to the purpose of providing the service for which the Client has engaged Lanyon.
+
+Being part of Lanyon means, in some cases, sharing information about yourself with other professionals, and communicating with them during the contracting processes.
+
+By default, individual hotels, hotel chains and corporate customers, are set up in the Lanyon database with contact information so that only correct and authorized information gets shared in the marketplace. This contact information is work-related and only contains personal information necessary to identify the contact and their role in the organization.
+
+Lanyon has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on www.regonline.com, www.lanyon.com, www.passkey.com and our Service Platforms. If you have questions or concerns regarding our privacy policy or practices, please contact us at corporatesupport@lanyon.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+
+Here are the three main types of information on Lanyon:
+
+_Information about yourself that you share.  _This is the information that Lanyon customers see about you. This includes your name and contact details, including the hotel, corporation or other business entity you are associated to in the marketplace.  **You have control over this content, and you can update information at any time.  **
+
+_Communication.  _We help you communicate with other Lanyon marketplace users using built-in email mechanisms. This email communication is one-to-one and is based on standard notifications which are generated from the Lanyon systems. They do not require you to respond to these emails and share any additional information, and are primarily emails notifying you to log in to Lanyon to perform some action(s).  **You decide upon the action you wish to take upon receiving these notifications.  **
+
+Newsletters. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may unsubscribe by following the instructions located at the bottom of each communication.
+
+Service-related announcements. We will send you strictly service-related announcements on rare occasions, when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+
+Customer Service. Based upon the personal information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
+
+_Private activity.  _We also provide tools that you use during the course of solicitation, negotiation, and content distribution. We encourage you to only use the built-in notifications for any communication in the marketplace and to not use the contact information for any private means.
+
+**Please read this policy  **and send us questions, concerns and suggestions to privacy@lanyon.com
+
+##### **What Lanyon’s Privacy Policy Covers:  **
+
+  1. Information collected by Lanyon.
+
+  2. How Lanyon uses your information.
+
+  3. Your information choices.
+
+  4. Your obligations as a User.
+
+  5. Important information regarding service eligibility and Lanyon’s Safe Harbor certification.
+
+  6. Security.
+
+  7. Tracking Technologies.
+
+  8. IP Addresses.
+
+  9. Certain Disclosures.
+
+  10. Information Related to Data Collected for our Clients.
+
+  11. Links to Other Sites.
+
+  12. How to contact us.  
+ 
+
+
+
+
+##### **1\. Information Collected  **
+
+The mission of Lanyon is to connect Buyers and Suppliers together in an on-line marketplace to facilitate the communication of content and the contracting of rates. To achieve this mission, Lanyon makes features and functionality available through our websites, including our mobile and other applications, developer platform, and other information provided as part of the Lanyon services (“Services”) to enable hotels, hotel chains, airlines, car rental companies and other hospitality industry suppliers to interact with hospitality buyers such as corporations, travel management companies, agencies, and consortia. By joining Lanyon, you voluntarily and willingly provide Lanyon Corporation, a company headquartered in Irving, Texas, USA, certain information, including some limited personally identifiable information, which we collect in order to provide the Services. If you have any hesitation about providing information to us and/or having your information displayed on the Lanyon website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should contact us immediately at privacy@lanyon.com.
+
+We collect your personal information in the following ways:
+
+_A. Creating a User ID and Login  _
+
+In order to become a User, a User ID and password are created for you. A minimum set of information is required to create a User Login: name, email address, and password. Without this minimal amount of information, you cannot create a Lanyon User ID. In some cases a User ID and Password are created on your behalf, such as when a hotel is built in the system. In these instances it is often a colleague in your organization who has made the request or created a User ID on your behalf. This information is collected online for some of our Services and offline for others.
+
+Your password can be changed and updated at any time by you. We encourage you to ensure your password is known only by you. In the event your User ID and password is created for you, we encourage you to change the password when you log in for the first time, so that your password is known only to you.
+
+Lanyon enables other information to be collected from you during the User ID creation process, (e.g., gender, location (such as mailing address), etc.) that Lanyon can then use to provide better, more customized services. If you feel uncomfortable about providing this additional information then do not, as you are not required to do so in order to use Lanyon’s core services. You acknowledge that this information is personal to you, and by creating an User ID on Lanyon, you allow others, including Lanyon, to identify you and to allow Lanyon to use your information to display and send notifications to you.
+
+We will collect contact information about other people when you create an email invitation, add a new user, or add a sub-account.   We use this information to create invitations on your behalf and allow you to add users to sub-accounts to your current account. We do not use this information for any other reason. If these users wish to request removal of their information, they may do so by contacting us at privacy@lanyon.com.
+
+_B. Profile Information/Social Media Features  _
+
+Once you become a User, you may provide additional information to your Lanyon contact information such as gender and location. Providing additional information about yourself beyond what is minimally required at registration is entirely up to you. Any information you provide at registration or in the contacts section may be used by Lanyon as described in this Privacy Policy, including for the purpose of allowing Lanyon marketplace users to find you on Lanyon, and send you notifications such as the solicitation, or response to, a contracted rate or piece of hotel related data.
+
+Your contact information will be displayed to authorized and legitimate Lanyon users in order for them to select you as a recipient of a notification. This notification will then be sent through the Lanyon system to your email address. You may also choose to manually enter or upload data about your contacts to the “Contacts” section of your profile on Lanyon.
+
+Our sites offer publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosed by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+_C. Customer Service  _
+
+We collect information when you interact with Lanyon’s customer support or account management teams in order to accurately recognize you and respond to customer inquiries . In some cases this includes requesting your User ID, your name, and your email address, or other related information. If you do not wish to give this information for identification purposes, you may elect to send an email to our support teams to assist.
+
+_D. Using the Lanyon Site and Applications  _
+
+We receive information when you interact with and use the Lanyon websites and Lanyon Applications (e.g. Lanyon Content Control Center “3C”), Lanyon corporate transient sourcing tool, etc. This information is for the purpose of identifying you and ensuring the correct services are provided to you when you login. If you have any concerns with this you may contact us at privacy@lanyon.com.
+
+_E. Using Third Party Services and Visiting Third Party Sites  _
+
+In some cases we receive information when you login to a web site or application provided by your company. In those instances where you login to a company web site or application, if your company has elected to set up an automatic sign-in to Lanyon, your User ID and password may be automatically sent to Lanyon to login simultaneously to a Lanyon web site or application. If you are unsure when this occurs or if you have any concerns on this process please contact your company administrator or the Lanyon support or account management teams. Lanyon will only use “login” information to give access to an authorized Lanyon web site / application and in some cases to personalize the Lanyon-provided functionality.
+
+  _F. Advertising and Web Beacons  _
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (link to TRUSTe opt-out: http://preferences.truste.com/ ). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+_G.  _Information We Collect Automatically. As true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data with other information we collect about you.
+
+_H. Data Retention  _
+
+Lanyon will retain your information for so long as your account is active or as needed to provide you with the services you have licensed.
+
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
+
+##### **2\. Uses of personal information  **
+
+_A. Consent to Lanyon Processing Information about You  _
+
+The information you provide to Lanyon such as name, business telephone number, and email address may reveal, or allow others to identify, your nationality, gender, or location. By providing information to us for the purposes of creating your User ID or adding any additional details to your Lanyon profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy. Supplying information to Lanyon, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to Lanyon’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy by contacting us at privacy@lanyon.com but please note that your withdrawal of consent will not be retroactive from the point that this request is received and processed.
+
+We use this information:
+
+  * To provide our Services to you, to communicate with you about your use of the Services and for other customer service purposes;
+
+  * To provide information that you have requested to receive from us in response to your opt-in requests, such as through email, notices posted on the Lanyon websites, messages to your Lanyon message center or through other means available through the service, including some cases, mobile text messages;
+
+  * To provide our Services at the request of our Clients;
+
+  * To administer Events;
+
+  * To improve our Sites and Services by providing personalized experiences, location customization, personalized help, and instructions;
+
+  * For marketing and advertising purposes; for example, we may use your information to display targeted advertisements to you on our Sites to assist us in advertising our Services on third party websites;
+
+  * To send you email, follow-up questions about your Event or your participation in an Event, news and newsletters, promotions, and/or invitations to visit the Site;
+
+  * To better understand how users access and use our Sites and Services, both on an aggregated and individualized basis, and for other research purposes.  
+ 
+
+
+
+
+Clients should note that we may use information we receive or collect regarding Consumers (including without limitation via an Event registration page) in accordance with the terms of this Policy, including in the manner set forth above. Notwithstanding the foregoing, in certain contexts, we collect information on behalf of our Clients subject to contractual requirements that limit our ability to use and transfer your information in ways that are more narrow than those in this Policy (e.g., the information be only used as necessary to provide Services to the Client and/or for other specified purposes). In those limited circumstances, your information is subject to those contractual requirements and not to this Policy, subject to enforcement by the applicable Client. If your information is collected on behalf of a third party, it will be evident at the time that you provide such information. This Policy does not cover our Clients’ use of your information outside of our Services. You should contact that party directly to determine if your information is subject to such limitations on uses and to ascertain how the third party will make use of your information.
+
+You can change your e-mail, text messaging, and contact preferences at any time by logging into your account and changing your contact information.
+
+You may opt-out from receiving email communications or text messages from us at any time by emailing us at privacy@lanyon.com or by replying with the word “UNSUBSCRIBE”.
+
+Please be aware that you cannot opt-out of receiving service messages from Lanyon whilst you are licensed to receive those services. Also, if we send communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with your receipt of messages on your mobile device (including text messaging charges).
+
+_B. Sharing Information with Third Parties  _
+
+Lanyon takes the privacy of our Users very seriously, and we do not sell, rent, or otherwise provide your personally identifiable information to third parties, except as described in this policy.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service, processing payments, or providing our career section application. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+_C. Customer Surveys  _
+
+Customer Polls and Surveys may be conducted by Lanyon. As a User, you may be invited to participate in polls and surveys from the Lanyon website, by the Lanyon support and account management teams, or an authorized 3rd party working on behalf of Lanyon. Your selection may be random, or it may be based on your non-personally identifiable information, such as job title, company, company size, user type and/or location. Whether or not you decide to participate in a poll or survey is completely up to you.
+
+Lanyon may follow up with you via email regarding your participation or your responses.
+
+_D. Press Releases  _
+
+We post customer testimonials on our Web site which may contain personal information. We do obtain the customers’ consent prior to posting the testimonial to post their name and photo along with their testimonial.
+
+_E. Compliance with Legal Process  _
+
+It is possible that we may need to disclose personal information, profile information and/or information about your activities as a Lanyon User when required by law such as to comply with subpoena or other legal process, or if Lanyon has a good faith belief that disclosure is necessary to (a) protect our rights, protect your safety or the safety of others, investigate fraud, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (b) to enforce a user agreement or license, to investigate and defend ourselves against any third party claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property or personal safety of Lanyon, our Users, employees, or others.
+
+##### **3\. Your Information Choices  **
+
+_A. Accessing and Changing Your User ID Information  _
+
+You can review, delete inaccuracies or update the personal information you provided to us during the creation of your User ID and contact information and make any desired changes to the information, at any time by logging in the Lanyon website or by contacting us at privacy@lanyon.com. Please be aware that even after your request for a change is processed, Lanyon may, for a time, retain residual information about you in its backup and/or archival copies of its database. We will respond to your access request within 30 days.
+
+If you wish to request removal of your personal information from our testimonials or community forums, please contact us at privacy@lanyon.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+##### **4\. Your Obligations  **
+
+As a User, you have certain obligations to other Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in on-line platforms such as the Lanyon marketplace:
+
+  * You must, at all times, abide by the terms and conditions of the then-current Privacy Policy. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs)
+
+  * You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of Lanyon and its marketplace
+
+  * You must not provide to Lanyon and/or other Users information that you believe might be injurious or detrimental to your person or to your professional or social status
+
+  * You must keep your username and password confidential and not share it with others  
+ 
+
+
+
+
+Any violation of these guidelines may lead to the restriction, suspension or termination of your services at the sole discretion of Lanyon  
+ 
+
+##### **5\. Important information  **
+
+_Safe Harbor  _
+
+Lanyon complies with the U.S. – EU Safe Harbor and the U.S.-Swiss Safe Harbor as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union (EU) member countries and Switzerland. Lanyon adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Lanyon’s certification, please visit http://www.export.gov/safeharbor/
+
+Please note that by becoming a User, you have given us your express and informed consent to transfer the data that you provide to us to the United States and to process it in the United States.
+
+If Users have questions or concerns regarding this Privacy Policy, including the Safe Harbor Privacy Framework, you should first contact Lanyon at privacy@lanyon.com. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint by emailing Lanyon’s Security and Compliance Manager at jim.baker@lanyon.com, by fax at +1-866-840-9987, or mail at Lanyon, Inc., 717 North Harwood St. Dallas, TX 75201, USA
+
+    _Changes to this Privacy Policy  _
+
+We may update this Privacy Policy at any time, with or without advance notice. In the event there are material changes made in the way we treat your personally identifiable information, or in the Privacy Policy document itself, we will display a notice on the Lanyon website or send you an email, so that you may review the changed terms prior to the change becoming effective and continuing to use the Lanyon services. Unless stated otherwise, our current Privacy Policy applies to all information that Lanyon has about you and your services.
+
+Using the Lanyon Services after a notice of changes has been sent to you or published on our site shall constitute consent to the changed terms or practices.
+
+##### **6\. Security  **
+
+In order to help secure your personal information, access to your data on Lanyon is password-protected, and sensitive data such as credit card number is protected by SSL encryption when it is exchanged between systems. To protect any data you store on our servers, Lanyon also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Lanyon. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of Lanyon are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
+ 
+
+##### **7.**   **Tracking Technologies**
+
+Technologies such as: cookies, beacons, tags, and scripts are used by Lanyon and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed in your browser. These session cookies allow us to uniquely identify you when you are logged into the Service and to process your online transactions and requests. The site can only read cookies created by the site. Session cookies are required to use the service.
+
+We use Local Storage Objects (LSOs) such as HTML 5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.   Various browsers may offer their own management tools for removing HTML 5 LSOs.
+
+We partner with a third party to either display advertising on our Web sites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about our activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. http://preferences-mgr.truste.com Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+##### **8.**   **IP Addresses**
+
+When you visit Lanyon’s Websites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personally identifiable information. For example, Lanyon uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites, and what browsers they might be using. Additional information such as browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data may also be collected. We do not think this automatically collected data to other information we collect about you.
+
+Because the Company uses the Service to maintain data about Lanyon Customers, this information is secured in the same manner as described above for Customer Data.
+
+##### **9.**   **Certain Disclosures**
+
+We may provide non-personally-identifiable information to our contractors for the purpose of providing and maintaining our services. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
+ 
+
+##### **10.**   **Information Related to Data Collected for our Clients**
+
+Lanyon collects information under the direction of our Clients, and has no direct relationship with the individuals whose personal data we process. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+Access and Retention of Data Controlled by our Clients
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Lanyon’s Client (the data controller). If the Client requests us to remove the data, we will respond to their request within 30 days.
+
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Lanyon will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+##### **11.**   **Links to Other Sites  **
+
+We are not responsible for the privacy policies of any sites that are linked to from the Site or any site that you use to access the Site. You should consult the respective privacy policies associated with these sites for more information on their practices and for instructions on how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other web sites.  
+ 
+
+##### **12\. How to contact us  **
+
+If you have questions or comments about this Privacy Policy, please contact us at privacy@lanyon.com or contact us via your account manager or the Lanyon support and account management teams at:
+
+Corporations / Buyers – corporatesupport@lanyon.com
+
+Hotels / Hotel Chains – hotelsupport@lanyon.com
+
+Alternatively, if you have questions or comments please send them to us at:
+
+Lanyon Solutions Inc.  
+717 North Harwood St.  
+Dallas, TX 75201  
+USA 
