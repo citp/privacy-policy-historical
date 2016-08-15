@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socratestheme.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405182145id_/http%3A//www.socratestheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socratestheme.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815175004id_/http%3A//www.socratestheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Socrates 4.0 Privacy Policy - Socrates 4.0
 
