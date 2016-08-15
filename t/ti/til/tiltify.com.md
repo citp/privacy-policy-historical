@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiltify.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612201357id_/http%3A//www.tiltify.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiltify.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815220336id_/https%3A//tiltify.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tiltify - Livestream Fundraising
 
