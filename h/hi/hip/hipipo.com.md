@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615122909id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815063922id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: | HiPipo
 
