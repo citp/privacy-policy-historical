@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senderoneclimbing.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615033633id_/http%3A//www.senderoneclimbing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senderoneclimbing.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816004626id_/http%3A//www.senderoneclimbing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sender One Climbing, Yoga, Fitness and Sender City
 
