@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318133741id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815032222id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
 
 # WebMenu.com : Docs > Privacy Policy
 
