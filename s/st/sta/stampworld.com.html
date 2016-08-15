@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stampworld.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616030413id_/http%3A//www.stampworld.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stampworld.com privacy policy that was archived on 2016-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160815133024id_/https%3A//www.stampworld.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>
@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="http://media.stampworld.com/media/layout/999stylesheet.css">
     <link rel="stylesheet" type="text/css" href="http://media.stampworld.com/media/layout/999stylesheet_klaus.css">
+    <link rel="stylesheet" type="text/css" href="http://media.stampworld.com/media/layout/flags.css">
 
 
     <script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
@@ -39,6 +40,15 @@ jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
     
 <link rel="stylesheet" type="text/css" href="http://media.stampworld.com/media/layout/999stylesheet_cms.css">
 
+    
+    
+    
+	
+	 
+	
+	    
+    
+    
   </head>
 
   <body>
@@ -120,21 +130,24 @@ jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
 
   function init_language_chooser_click() { 
  		
-    $('#language_chooser_toggle').mouseover(
+    
+    $('#language_chooser_toggle').click(
       function() {
-      	language_chooser_location="topbar"; //Value used in language_chooser2_content.html /KT
+      	language_chooser_location="topbar"; 
         if ($('#language_chooser_slot').html() == '') {
         		//console.log("language_chooser_slot EMPTY");
           language_chooser_load("topbar");
         } else if ($('#language_chooser_div').css('display') == 'none') {
         		//console.log("language_chooser_div: display == NONE");
           language_chooser_open("topbar");
+        } else if ($('#language_chooser_div').css('display') != 'none') {
+          language_chooser_close();
         }
       });
 
-    $('#language_chooser_toggle_forum').mouseover( //KT 26aug14, for forum frontpage.html
+    $('#language_chooser_toggle_forum').mouseover( 
       function() {
-        language_chooser_location="forumfrontpage"; //Value used in language_chooser2_content.html /KT
+        language_chooser_location="forumfrontpage"; 
         if ($('#language_chooser_slot_forum').html() == '') {
         		//console.log("language_chooser_slot_forum EMPTY");
           language_chooser_load("forumfrontpage");
@@ -155,7 +168,7 @@ jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
   <table>
     <tbody><tr> 
       <td>
-        <img src="http://media.stampworld.com/media/layout/flags/gb.png" alt="[gb]">  
+        <img width="16" height="11" class="sprite-flag sprite-flag-gb" src="http://media.stampworld.com/media/layout/sprtr.gif" alt="[gb]">  
       </td>
       <td style="width: 8px;"></td>
       <td>
@@ -450,6 +463,7 @@ function showTopIconsMsg(text, event, link, button_text) {
             
             
             <tr>
+                
 	            <td align="center" valign="top" height="260">
 		    
 
@@ -460,7 +474,7 @@ function showTopIconsMsg(text, event, link, button_text) {
 
 
     <div class="ad_banner">
-        <a target="_blank" href="/en/adzone/click/51679319/"><img src="http://media.stampworld.com/media/adzone/bannerads/COM_General_970_250.gif" alt="Nordfrim Banner Frontpage US "></a>
+        <a target="_blank" href="/en/adzone/click/81631464/"><img src="http://media.stampworld.com/media/adzone/bannerads/COM_General_970_250.gif" alt="Nordfrim Banner Frontpage US "></a>
 
 
 
@@ -469,6 +483,7 @@ function showTopIconsMsg(text, event, link, button_text) {
 
 
 	            </td>
+               
             </tr>
             
             
