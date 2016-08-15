@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtydatingusa.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616001157id_/http%3A//app.naughtydatingusa.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtydatingusa.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815181945id_/http%3A//app.naughtydatingusa.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Naughty Dating USA :: Naughty Dating USA Member Privacy Policy
 
