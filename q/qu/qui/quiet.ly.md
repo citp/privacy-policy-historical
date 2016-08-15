@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420062755id_/https%3A//www.quiet.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815082029id_/https%3A//www.quiet.ly/privacy) for the most accurate reproduction.*
 
 # Privacy - Quietly
-
-## Quietly Privacy Policy
 
 Quietly is a social publishing platform that makes it easy for you to create lists and share recommendations with anyone you want. Any registered user can create a list and include additional content like descriptions, photos, comments and links to other websites. 
 
