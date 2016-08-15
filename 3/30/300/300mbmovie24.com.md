@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 300mbmovie24.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611050306id_/http%3A//300mbmovie24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovie24.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815175311id_/https%3A//300mbmovie24.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
-## Privacy Policy
-
-## Privacy Policy
 
 At  **300mbmovie24.com**  we are very much aware of the importance of the privacy of your individual information. Here you will get information on what sorts of individual information we obtain as well as collect when **300mbmovie24.com**  is used, and we always ensure protection to your information.
 
