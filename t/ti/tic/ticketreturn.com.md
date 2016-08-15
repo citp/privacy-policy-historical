@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketreturn.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420103856id_/https%3A//www.ticketreturn.com/prod2/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketreturn.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815142249id_/https%3A//www.ticketreturn.com/prod2/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
