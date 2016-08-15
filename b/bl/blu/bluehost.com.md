@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluehost.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104105557id_/http%3A//www.bluehost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluehost.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815083052id_/https%3A//www.bluehost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bluehost - Bluehost
 
@@ -21,7 +21,7 @@
 
 > On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
 
-This Privacy Policy describes the commitment at Bluehost Inc. ("Bluehost") to the privacy of visitors to the Bluehost website located at www.BlueHost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Bluehost will take commercially reasonable steps to ensure your right to privacy. Bluehost is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
+This Privacy Policy describes the commitment at Bluehost Inc. ("Bluehost") to the privacy of visitors to the Bluehost website located at www.bluehost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Bluehost will take commercially reasonable steps to ensure your right to privacy. Bluehost is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
   1. ### Who We Are
 
