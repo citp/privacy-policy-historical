@@ -1,10 +1,28 @@
-<!--The following is the downloaded HTML source of the swaggable.com privacy policy that was archived on 2015-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318172548id_/https%3A//swaggable.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swaggable.com privacy policy that was archived on 2016-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160815070309id_/https%3A//swaggable.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBB2HT"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script>
+    var dataLayer = [];
+    dataLayer.push({
+        'user_id' :  ''
+    });
+
+    var _rollbarConfig = {
+        accessToken: "f6807cb4f8bd4725be54aab9813f0a3e",
+        captureUncaught: true,
+        captureUnhandledRejections: false,
+        payload: {
+            environment: "production"
+        }
+    };
+    // Rollbar Snippet
+    !function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);
+    // End Rollbar Snippet
+</script>
 <meta charset="utf-8">
 <title>Privacy Policy | Swaggable</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 <meta name="author" content="Swaggable Team">
 <meta property="fb:app_id" content="223829680964591">
 
@@ -13,84 +31,1518 @@
 
 
 <!-- Le styles -->
-<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="//code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic" rel="stylesheet" type="text/css">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.2.1/bootstrap-social.css" rel="stylesheet">
 
-<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/fancybox/2.1.4/jquery.fancybox.css">
+<link rel="stylesheet" href="https://swaggable.com/css/jquery.typeahead.css">
+<link rel="stylesheet" href="https://d1825pdd6tk0dj.cloudfront.net/css/build/production_consumer.min.00063de97a0ad6819445930925ff88df.css">
+<!--<link rel="stylesheet" href="--><!--/production_consumer/jquery.toast.css">-->
 
-<link rel="stylesheet" href="https://swaggable.com/css/build/production_consumer.css?v=1.3">
+<style>
 
-<link rel="stylesheet" href="https://d1atocttudmpf3.cloudfront.net/css/responsive/jquery.pnotify.css">
-<link rel="STYLESHEET" type="text/css" href="https://d1atocttudmpf3.cloudfront.net/css/popup-contact.css">
 
-<link rel="stylesheet" type="text/css" href="https://d1atocttudmpf3.cloudfront.net/css/responsive/tooltipster.css">
-<link rel="stylesheet" type="text/css" href="https://d1atocttudmpf3.cloudfront.net/css/responsive/jquery.qtip.css">
-<link rel="stylesheet" href="https://swaggable.com/application/views/campaigns/resources/css/bootstrap-tagsinput.css">
+#head_img {
+    /** visibility: hidden; */
+}
 
-<style>#head_img{}.mobile-zendesk-tab{display:none}@media (max-width:959px){.sign-up-btn,.sign-in-btn{top:0px!important}.nav-heading{display:inline;color:#fff;text-shadow:none;padding:12px;font-size:20px;display:block;padding-bottom:0px}.infoBlock{top:5px}}@media (max-width:1024px){.sign-up-btn,.sign-in-btn{top:0px!important}#help-popup{width:350px}.zendesk-tab{display:none}.mobile-zendesk-tab{display:inline-block}}@media (max-width:800px){.sign-up-btn,.sign-in-btn{top:0px!important}.infoBlock{right:43px!important;left:auto!important;top:50px!important}.nav-heading{display:inline;color:#fff;text-shadow:none;padding:12px;font-size:20px;display:block;padding-bottom:0px}#help-popup{width:350px}#mobile-section,.mobile-section{display:block!important}.mobile-hidden{display:none!important}div.social-wrap button{margin:10px auto}.wp-lp-fb-btn>button#facebook{background-size:25px!important;width:116px!important;right:10px!important;bottom:7px!important;padding-right:0px!important;position:absolute!important;font-size:10px;height:25px!important;padding-left:25px}}@media (max-width:765px){.infoBlock{right:0px!important;top:20px!important}.header-logo{position:relative!important}.nav-heading{display:inline;color:#fff;text-shadow:none;padding:12px;font-size:20px;display:block;padding-bottom:0px}#help-popup{width:350px}.mobile-want-section{display:inline!important}.mobile-showcase-product{margin-top:320px}.mobile-product-picture,.showcase .mobile-product-picture{display:block}#mobile-section,.mobile-section{display:block}.mobile-hidden{display:none!important}div.social-wrap button{margin:10px auto}.wp-lp-fb-btn>button#facebook{background-size:25px!important;width:116px!important;right:10px!important;bottom:7px!important;padding-right:0px!important;position:absolute!important;font-size:10px;height:25px!important;padding-left:25px}.mobile-right-span{padding-right:15px!important;padding-left:0}#thumbnails-category{margin-left:-5px!important;margin-bottom:0px}.sign-up-btn,.sign-in-btn{top:0px!important}}@media (max-width:580px){.notification{width:auto!important}#offers-dropdown{left:-2px}#friends-dropdown{right:0px!important}#reviews-dropdown{right:-60px}.beb-logo{width:100%!important}.sign-up-btn,.sign-in-btn{top:0px!important}#help-sticky{top:25%!important}#WFM-sticky{top:60%!important}#help-popup{width:220px}#head_img{background-image:none!important;height:100%;margin-bottom:78px}#testinomial-img{position:absolute;width:85%;height:auto;margin-left:-13px}#testinomial-text{position:absolute;margin-top:219px;margin-right:13px}#review-message{display:none}.button-gap{margin-top:10px}#head_img p{color:#000!important;line-height:1;font-size:20px!important}#basics{margin-bottom:433px}#table2{margin-bottom:241px}.masthead{margin-top:0px}#fg_formContainer{width:260px;margin-left:55px}#message{width:220px}#contactus textarea{width:220px}#fg_box_Close{float:right;border-radius:1px 1px 2px 6px;background-color:#4a9c00;margin:0px}#promo-box{height:630px}#review-friends-heading{margin-top:0px!important}#product-features{margin-top:20px;float:left}#infscr-loading{left:13%}.star{margin:0px;display:block}.media-meta{padding-left:0px}#notifications-count{min-width:13px}ol.howitworks-list li{width:179px!important}.btn-toolbar.pull-right{width:254px}.nav.nav-pills.pull-right{}.zendesk-tab{display:none}.mobile-zendesk-tab{display:inline-block}#contact-btn-img{padding-left:30px}.slimScrollDiv{height:300px!important}#myModal{margin-left:0px!important;width:279px!important}.profile-stat-box{margin-left:10px;margin-bottom:10px}#prod-img,#user-img,.media-object.my-tooltip{display:block!important;margin-left:auto!important;margin-right:auto!important}#followed,#followers{border:none}#following-heading{margin-right:30px}.votesBox{margin-top:0px}#friend_selector_search{width:91%!important;margin-bottom:5px}#friend_selector_friends{min-width:232px!important}#friends-dropdown{left:-120px}#deals-dropdown{left:-51px}#clear-notifications-btn{margin-top:0px!important}.table.rating td{display:block}.block{display:block}.media.notification{width:180px}.coupon{width:100%;padding-left:0px;padding-right:0px}.btn.btn-danger.pull-right{margin-top:15px}#searchbar{width:435px}#404-img{width:100%}.thumbnail img{margin-left:auto;margin-right:auto}.users{text-align:center}#home-btn,#signup-btn,#login-btn{margin:10px}#pref{display:none!important}#wanted-products,#wanted-heading{margin-left:auto;margin-right:auto;display:block}#error-heading{font-size:16px;line-height:22px}.category-heading{text-align:center}.category-img{position:inherit;width:100%}.heading>.heading-sub{display:block}#promo-box img{margin-bottom:-65px}.nav-heading{display:inline;color:#fff;text-shadow:none;padding:12px;font-size:20px;display:block;padding-bottom:0px}.showcase-content img{width:300px;display:none}.showcase-content{width:300px}.showcase-thumbnail-wrapper .showcase-arrow-previous .showcase-arrow-next .showcase-thumbnail-container{display:none}.showcase-thumbnail-container{display:none}.showcase{border:none;width:100%;height:1px}.showcase .want-btn{display:block!important}.want-btn{float:left;margin-left:21px}.join-banner .content{display:none}.join-mobile{display:block}.join-banner .join-bg{position:static;margin-left:-20px;height:85px;margin-top:15px}#sharing-icons{display:none}.join-banner .join-button{position:absolute;top:43px;left:23px;right:53px}.join-banner{border-style:hidden}#showcase-img{width:230px}#showcase-img-wf{}#headline{top:20px;left:31px;line-height:10px;display:none}.product-desc{width:300px;margin-left:-150px;margin-top:220px}#companies,#our-clients,#more-text,.mobile-hidden{display:none!important}#mobile-section,.mobile-section{display:block}#footer{margin-top:-55px}.icon-top img{position:inherit;width:200px;bottom:inherit;margin-left:inherit}.top-logo img{max-width:100%;margin-top:12px!important}.mobile-width{width:100%;line-height:26px}.mobile-div-width{padding:10%}#navigation{width:100%}.mobile-top{margin-top:-210px}.sticker{padding-top:35px;padding-bottom:5px}#settings-nav{height:200px}#swag-share{padding-left:17px}#shipment_issue_dialog{}.fancybox-inner{width:auto!important;height:auto!important}#issue{height:34px;width:240px;height:34px;overflow:hidden;background:url(https://d1atocttudmpf3.cloudfront.net/images/img/down.png) no-repeat right #f5f5f5}.wf-mobile-width{margin:0;padding-top:30px;line-height:28px}.wf-heading{font-size:24px}.wf-middle-icon img{margin-top:70px}.wf-middle-icon{margin-top:70px;bottom:75px}.wf-logo img{min-height:50%;margin-top:0px}.footer-text{position:relative;top:55px}.wf-lp-footer-container{margin-top:0px!important}.wf-lp-footer{position:relative;margin-top:0px}.wf_navigation{height:auto}.wf-well{margin:0px;padding:10px 40px}.wf-footer{position:relative;top:80px}.wf-footer-row{padding:0px 15px;top:-20px;position:relative;padding-bottom:1px}.wp-lp-fb-btn>button#facebook{background-size:25px!important;width:116px!important;right:10px!important;bottom:7px!important;padding-right:0px!important;position:absolute!important;font-size:10px;height:25px!important;padding-left:25px}.wf-lp-footer-box{width:95%;float:none;margin:10px auto}.wf-lp-products{padding:30px 15px 30px 30px}.wf_logo>img{height:50px!important;margin-top:-12px}.mobile-right-span{padding-right:15px!important;padding-left:0}.btn-mobile-link{display:block;clear:both;float:none}.grow{transition:width 0s}div.social-wrap button{margin:10px auto}.pills-text{word-wrap:break-word;display:block;width:64%;line-height:1.2;float:right;margin-top:-20px;padding-left:30px}}@media (max-width:420px){#searchbar{width:230px!important}#products-btn{}.ui-pnotify{width:245px!important}}@media (max-width:580px){#searchbar{width:250px}}</style>
+.mobile-zendesk-tab{
+    display: none; /* Hiding it for desktops*/
+}
+
+
+
+
+@media (max-width: 959px) {
+    .sign-up-btn, .sign-in-btn{
+        top: 0px !important;
+    }
+    .nav-heading {
+        display: inline;
+        color: #fff;
+        text-shadow: none;
+        padding: 7px 12px;
+        font-size: 20px;
+        display: block;
+    }
+    .infoBlock{
+        top: 5px;
+    }
+}
+@media (max-width: 1024px) {
+    .sign-up-btn, .sign-in-btn{
+        top: 0px !important;
+    }
+    #help-popup{
+        width: 350px;
+    }
+    .zendesk-tab{
+        display: none; /* Hiding it on tab*/
+    }
+    .mobile-zendesk-tab{
+        display: inline-block; /* Displaying it for tab*/
+    }
+}
+@media (max-width: 800px) {
+    .sign-up-btn, .sign-in-btn{
+        top: 0px !important;
+    }
+    .infoBlock{
+        right: 43px !important;
+        left: auto !important;
+        top: 50px !important;
+    }
+    .nav-heading {
+        display: inline;
+        color: #fff;
+        text-shadow: none;
+        padding: 7px 12px;
+        font-size: 20px;
+        display: block;
+    }
+    #help-popup{
+        width: 350px;
+    }
+    #mobile-section, .mobile-section {
+        display: block !important;
+    }
+
+    .mobile-hidden {
+        display: none !important;
+    }
+
+    div.social-wrap button {
+        margin: 10px auto;
+    }
+
+    .wp-lp-fb-btn > button#facebook {
+        background-size: 25px !important;
+        width: 116px !important;
+        right: 10px !important;
+        bottom: 7px !important;
+        padding-right: 0px !important;
+        position: absolute !important;
+        font-size: 10px;
+        height: 25px !important;
+        padding-left: 25px;
+    }
+}
+@media (max-width: 765px) {
+    #reviews-notifications-div a {
+        display: inline;
+    }
+    .container{
+        width: auto !important;
+        padding-top: 100px;
+    }
+    #profile-user-feed{
+        margin-top: 20px;;
+    }
+    .infoBlock {
+        right: 0px !important;
+        top: 20px !important;
+    }
+    .header-logo{
+        position: relative !important;
+    }
+    .nav-heading {
+        display: inline;
+        color: #fff;
+        text-shadow: none;
+        padding: 7px 12px;
+        font-size: 20px;
+        display: block;
+    }
+    #help-popup{
+        width: 350px;
+    }
+    .mobile-want-section{
+        display: inline !important;
+    }
+    .mobile-showcase-product{
+        margin-top: 320px;
+    }
+    .mobile-product-picture, .showcase .mobile-product-picture {
+        display: block;
+    }
+    #mobile-section, .mobile-section{
+        display: block;
+    }
+    .mobile-hidden{
+        display: none !important;
+    }
+    div.social-wrap button {
+        margin: 10px auto;
+    }
+    .wp-lp-fb-btn > button#facebook {
+        background-size: 25px !important;
+        width: 116px !important;
+        right: 10px !important;
+        bottom: 7px !important;
+        padding-right: 0px !important;
+        position: absolute !important;
+        font-size: 10px;
+        height: 25px !important; padding-left: 25px;
+    }
+    .mobile-right-span{
+        padding-right: 15px !important;
+        padding-left: 0;
+    }
+    #thumbnails-category {
+        margin-left: -5px !important;
+        margin-bottom: 0px;
+    }
+    .sign-up-btn, .sign-in-btn{
+        top: 0px !important;
+    }
+    .btn-group.open .btn.dropdown-toggle {
+        box-shadow: none !important;
+        border-radius: inherit !important;
+        background-color: transparent !important;
+    }
+}
+
+@media (max-width: 580px) {
+    .company-info .editable-content{
+        padding-left: 0 !important;
+    }
+    #youtube_video{
+        width: 100% !important;
+        height: auto !important;
+    }
+    #offers-notifications-div a {
+        display: initial;
+    }
+    #reviews-notifications-div .mobile-center a, #offers-notifications-div .mobile-center a{
+        display: block;
+    }
+    .mobile-center{
+        text-align: center;
+    }
+
+    .mobile-reviews, .mobile-activity-feed{
+        height: 300px !important;
+    }
+    .followed-list, .follower-list{
+        width: 100%;
+        overflow: hidden;
+        display: flex;
+    }
+    #profile-user-feed{
+        margin-top: 20px;;
+    }
+    .smarty-popup, .smarty-ui{
+        width: 245px !important;
+        left: 40px;
+    }
+    .notification{
+        width: auto !important;
+    }
+    .beb-logo{
+        width: 100% !important;
+    }
+    .sign-up-btn, .sign-in-btn{
+        top: 0px !important;
+    }
+
+    .help-sticky-btn {
+        top:25% !important;
+    }
+    #WFM-sticky {
+    top:60% !important;
+    }
+
+    #help-popup{
+        width: 220px;
+    }
+    /** CSS for how it works for mobile */
+
+    #head_img {
+
+        background-image: none !important;
+        height: 100%;
+        margin-bottom: 78px;
+
+    }
+
+    #testinomial-img {
+        position: absolute;
+        width: 85%;
+        height: auto;
+        margin-left: -13px;
+    }
+
+    #testinomial-text {
+        position: absolute;
+
+        margin-top: 219px;
+        margin-right: 13px;
+
+    }
+
+    #review-message {
+
+        display: none;
+    }
+
+    .button-gap {
+        margin-top: 10px;
+    }
+
+    #head_img p {
+        color: black !important;
+        line-height: 1;
+        font-size: 20px !important;
+
+    }
+
+    #basics {
+        margin-bottom: 433px;
+    }
+
+    #table2 {
+        margin-bottom: 241px;
+    }
+
+    .masthead {
+        margin-top: 0px;
+    }
+
+    #fg_formContainer {
+
+        width: 260px;
+        margin-left: 55px;
+    }
+
+    #message {
+        width: 220px;
+    }
+
+    #contactus textarea {
+        width: 220px;
+    }
+
+    #fg_box_Close {
+        float: right;
+        border-radius: 1px 1px 2px 6px;
+        background-color: #4a9c00;
+        margin: 0px;
+    }
+
+    #promo-box {
+        height: 630px;
+    }
+
+    #review-friends-heading {
+        margin-top: 0px !important;
+    }
+
+    #product-features {
+        margin-top: 20px;
+        float: left;
+    }
+
+    #infscr-loading {
+        width: 50%;
+        text-align: center;
+        left: 50%;
+        padding: 20px;
+        transform: translate(-50%, 0);
+    }
+
+    .star {
+        margin: 0px;
+        display: block;
+    }
+
+    .media-meta {
+        padding-left: 0px;
+    }
+
+    #notifications-count {
+        min-width: 13px;
+    }
+
+    ol.howitworks-list li {
+        width: 179px !important;
+    }
+
+    .btn-toolbar.pull-right {
+        width: 254px;
+    }
+
+    .nav.nav-pills.pull-right {
+        /*width: 229px;*/
+    }
+
+    .zendesk-tab{
+        display: none; /* Hiding it on mobile*/
+    }
+    .mobile-zendesk-tab{
+        display: inline-block; /* Displaying it for mobile*/
+    }
+
+    #contact-btn-img {
+        padding-left: 30px;
+    }
+
+    .slimScrollDiv {
+        height: 300px !important;
+    }
+    #social-notifications-container, #offer-notifications-container, #review-notifications-container{
+        height: 100% !important;
+    }
+    #shipment-tracker-popup .slimScrollDiv{
+        height: 400px !important;
+    }
+
+    #myModal {
+
+        margin-left: 0px !important;
+        width: 279px !important;
+    }
+
+    .profile-stat-box {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        padding: 0px !important;
+    }
+
+    #prod-img, #user-img, .media-object.my-tooltip {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+    }
+
+    #followed, #followers {
+        border: none;
+    }
+
+    #following-heading {
+        margin-right: 30px;
+    }
+
+    .votesBox {
+        margin-top: 0px;
+    }
+
+    #friend_selector_search {
+        width: 91% !important;
+        margin-bottom: 5px;
+    }
+
+    #friend_selector_friends {
+        min-width: 232px !important;
+    }
+
+    #friends-dropdown {
+        left: -120px;
+    }
+
+    #deals-dropdown {
+        left: -51px;
+    }
+
+    /*
+    #product-review-popularity {
+        margin-left:22px;
+
+    }*/
+    #clear-notifications-btn {
+        margin-top: 0px !important;
+    }
+
+    .table.rating td {
+        display: block;
+    }
+
+    .block {
+        display: block;
+    }
+
+    .media.notification {
+        width: 180px;
+    }
+
+    .coupon {
+        width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .btn.btn-danger.pull-right {
+        margin-top: 15px;
+    }
+
+    #searchbar, #searchbar-mobile {
+        width: 435px;
+    }
+
+    #404-img {
+        width: 100%;
+    }
+
+
+    .thumbnail img {
+        /* width:
+
+
+    580   px;*/
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    .users {
+        text-align: center;
+    }
+
+    #home-btn, #signup-btn, #login-btn {
+        margin: 10px;
+    }
+
+    #pref {
+        display: none !important;
+    }
+
+    #wanted-products, #wanted-heading {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+
+    }
+
+    #error-heading {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .category-heading {
+        text-align: center;
+    }
+
+    .category-img {
+        position: inherit;
+        width: 100%;
+    }
+
+    .heading > .heading-sub {
+        display: block;
+    }
+
+    #promo-box img {
+        margin-bottom: -65px;
+    }
+
+    .nav-heading {
+        display: inline;
+        color: #fff;
+        text-shadow: none;
+        padding: 7px 12px;
+        font-size: 20px;
+        display: block;
+    }
+
+    /* Product page */
+    .showcase-content img {
+        width: 300px;
+        display: none;
+
+    }
+
+    .showcase-content {
+        width: 300px;
+    }
+
+    .showcase-thumbnail-wrapper .showcase-arrow-previous .showcase-arrow-next .showcase-thumbnail-container {
+        display: none;
+    }
+
+    .showcase-thumbnail-container {
+        display: none;
+    }
+
+    .showcase {
+
+        border: none;
+        width: 100%;
+        height: 1px;
+    }
+
+    .showcase .want-btn {
+        display: block !important;
+    }
+
+    .want-btn {
+        float: left;
+        margin-left: 21px;
+    }
+
+    .join-banner .content {
+        display: none;
+    }
+
+    .join-mobile {
+        display: block;
+    }
+
+    .join-banner .join-bg {
+        position: static;
+        margin-left: -20px;
+        height: 85px;
+        margin-top: 15px;
+    }
+
+    #sharing-icons {
+        display: none;
+    }
+
+    .join-banner .join-button {
+        position: absolute;
+        top: 28px;
+        left: 23px;
+        right: 64px;
+    }
+
+    .join-banner {
+        border-style: hidden;
+        left: inherit;
+    }
+
+    /* for promotion templates ----------------------*/
+    #showcase-img {
+        width: 230px;
+    }
+
+    /* for wf templates ----------------------*/
+    #showcase-img-wf {
+    }
+
+    #headline {
+        top: 20px;
+        left: 31px;
+        line-height: 10px;
+        display: none;
+    }
+
+    .product-desc {
+        width: 300px;
+        margin-left: -150px;
+        margin-top: 220px;
+    }
+
+    #companies, #our-clients, #more-text, .mobile-hidden {
+        display: none !important;
+    }
+
+    #mobile-section, .mobile-section{
+        display: block;
+    }
+
+    #footer {
+        margin-top: -55px;
+    }
+
+    .icon-top img {
+        position: inherit;
+        width: 200px;
+        bottom: inherit;
+        margin-left: inherit;
+    }
+
+    .top-logo img{
+        max-width: 100%;
+        margin-top: 12px !important;
+    }
+    .mobile-width{
+        width:100%;
+        line-height: 26px;
+    }
+    .mobile-div-width{
+        padding: 10%;
+    }
+    #navigation{
+        width:100%;
+
+    }
+    .mobile-top{
+        margin-top: -210px;
+    }
+    .sticker{
+        padding-top: 35px;
+        padding-bottom: 5px;
+    }
+
+    #settings-nav {
+        height: 200px;
+    }
+    #swag-share {
+        padding-left: 17px;
+    }
+    /* fancybox shipment issue pop up*/
+
+    #shipment_issue_dialog {
+
+    }
+    .fancybox-inner {
+        width:auto !important;
+        height:auto !important;
+    }
+    #issue {
+
+        height: 34px;
+        width: 240px;
+        height: 34px;
+        overflow: hidden;
+        background: url(https://d1825pdd6tk0dj.cloudfront.net/images/img/down.png) no-repeat right #f5f5f5;
+
+    }
+    .wf-mobile-width{
+        margin:0;
+        padding-top: 30px;
+        line-height: 28px;
+     }
+    .wf-heading{
+        font-size: 24px;
+    }
+
+    .wf-middle-icon img{
+        margin-top: 70px;
+    }
+    .wf-middle-icon{
+        margin-top: 70px;
+        bottom: 75px;
+    }
+    .wf-logo img {
+        min-height: 50%;
+        margin-top: 0px;
+      }
+    .footer-text{
+        position: relative;
+        top: 55px;
+    }
+    .wf-lp-footer-container{
+        margin-top: 0px !important;
+    }
+    .wf-lp-footer{
+        position: relative;
+        margin-top: 0px;
+    }
+    .wf_navigation{
+        height: auto;
+    }
+    .wf-well{
+        margin: 0px;
+        padding: 10px 40px;
+    }
+    .wf-footer{
+        position: relative;
+        top: 80px;
+    }
+    .wf-footer-row{
+        padding: 0px 15px;
+        top: -20px;
+        position: relative;
+        padding-bottom: 1px;
+
+    }
+    .wp-lp-fb-btn > button#facebook {
+        background-size: 25px !important;
+        width: 116px !important;
+        right: 10px !important;
+        bottom: 7px !important;
+        padding-right: 0px !important;
+        position: absolute !important;
+        font-size: 10px;
+        height: 25px !important; padding-left: 25px;
+    }
+    .wf-lp-footer-box{
+        width: 95%;
+        float: none;
+        margin: 10px auto;
+    }
+    .wf-lp-products{
+        padding: 30px 15px 30px 30px;
+    }
+    .wf_logo > img{
+        height: 50px !important;
+        margin-top: -12px;
+    }
+    .mobile-right-span{
+        padding-right: 15px !important;
+        padding-left: 0;
+    }
+    .btn-mobile-link{
+     display: block;
+        clear: both;
+        float: none;
+    }
+
+    .grow{
+        transition: width 0s;
+
+    }
+    div.social-wrap button {
+        margin: 10px auto;
+    }
+    /*//--------- SR: css for getting started wholefoods page -----------//*/
+    .pills-text{
+        word-wrap: break-word;
+        display: block;
+        width: 64%;
+        line-height: 1.2;
+        float: right;
+        margin-top: -20px;
+        padding-left: 30px;
+    }
+
+    .profile-stat-box-override {
+        float: none !important;
+        margin-left: -50px !important;
+    }
+}
+
+@media (max-width: 420px) {
+
+    #searchbar, #searchbar-mobile {
+        width: 230px !important;
+    }
+
+    #products-btn {
+    }
+
+    .ui-pnotify {
+        width: 245px !important;
+    }
+
+}
+@media (max-width: 480px) {
+    .review-product-image, .review-product-image img{
+        text-align: center;
+        max-height: 130px;
+        width: auto !important;
+        height: auto;
+        max-width: inherit !important;
+    }
+    .review-product-heading{
+        text-align: center;
+    }
+    .review-product-rating{
+        width: 100% !important;
+        text-align: center;
+    }
+}
+
+@media (max-width: 580px) {
+
+    #searchbar, #searchbar-mobile {
+        width: 250px;
+    }
+}
+@media (max-width: 872px) {
+    .btn-category {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        margin-left: auto;
+        margin-right: auto;
+        right: 0;
+        padding: 10px;
+    }
+
+    .main-header {
+        background: none !important;
+    }
+
+    .container {
+        padding-top: 100px !important;
+    }
+
+    .join-banner {
+        margin-bottom: 32px;
+    }
+
+    .btn-group.open .btn.dropdown-toggle {
+        box-shadow: none !important;
+        border-radius: inherit !important;
+        background-color: transparent !important;
+    }
+
+    .profile-stat-box-override {
+        float: none !important;
+        margin-left: -50px !important;
+    }
+}
+
+</style>
 
 <!-- Fav and touch icons -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-<link rel="shortcut icon" href="../assets/ico/favicon.png">
-<link rel="stylesheet" href="https://swaggable.com/css/bootstrap-tour.min.css">
-<!--Tracking code from rollbar-->
-<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="//www.bugherd.com/sidebarv2.js?apikey=haclgbgeox8ppql4a07c7q"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var _rollbarConfig={accessToken:"e7ed4f987b2448c9a4bde6032c98a4a3",captureUncaught:true,payload:{environment:"production"}};!function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){!d[4]&&a._rollbarWrappedError&&(d[4]=a._rollbarWrappedError,a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d){var e=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=f,e.parentNode.insertBefore(a,e)},this.logger),f=g(function(){if(void 0===a._rollbarPayloadQueue)for(var b,c,d,e,f=new Error("rollbar.js did not load");b=a._rollbarShimQueue.shift();)for(d=b.args,e=0;e<d.length;++e)if(c=d[e],"function"==typeof c){c(f);break}},this.logger);g(function(){c?e():a.addEventListener?a.addEventListener("load",e,!1):a.attachEvent("onload",e)},this.logger)()},c.prototype.wrap=function(b){try{if("function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var c in b)b.hasOwnProperty(c)&&(b._wrapped[c]=b[c])}return b._wrapped}catch(d){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);</script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
 
 
-<!-- Le javascript
-================================================== -->
+
+    <!-- Le javascript
+    ================================================== -->
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js" async></script>
 <![endif]-->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 <script async="" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
-<script src="https://d1atocttudmpf3.cloudfront.net/js/build/production_consumer.min.js?v=1"></script>
+
+    <script src="https://d1825pdd6tk0dj.cloudfront.net/js/build/production_consumer.min.js?v=1"></script>
 <!--Displays a fancy box and asks user-->
 <script type="text/javascript" src="//cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="https://swaggable.com/application/views/campaigns/resources/js/bootstrap-tagsinput.min.js"></script>
-<script type="text/javascript" src="https://swaggable.com/js/bootstrap-tour.min.js"></script>
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/application/views/campaigns/resources/js/bootstrap-tagsinput.min.js"></script>
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/bootstrap-tour.min.js"></script>
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/responsive/select2.min.js"></script>
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/jquery.cookie.js"></script>
+<script src="https://d1825pdd6tk0dj.cloudfront.net/resources/plugins/flipclock/flipclock.min.js"></script>
+<script src="https://d1825pdd6tk0dj.cloudfront.net/js/jquery.mmenu.all.min.js"></script>
+<script src="https://swaggable.com/js/owl.carousel.min.js"></script>
+<script src="https://swaggable.com/js/jquery.toast.js"></script>
+<script src="//cdn.rawgit.com/zenorocha/clipboard.js/v1.5.5/dist/clipboard.min.js"></script>
+<script src="https://d1825pdd6tk0dj.cloudfront.net/js/md5.min.js"></script>
+<script type="text/javascript" src="https://swaggable.com/js/responsive/jquery.infinitescroll.min.js"></script>
+<script src="https://swaggable.com/js/jquery.typeahead.js"></script>
 
-<script src="https://swaggable.com/js/md5.min.js"></script>
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<style>.btn-want:focus{color:#fff;background-color:#41315a}.icon-pause{display:none}.icon-play{display:none}.label-info,.badge-info{margin:1px!important}.bootstrap-tagsinput{min-height:70px!important;max-height:70px!important;overflow:auto!important}.ui-pnotify{z-index:999999}.ui-pnotify.custom .ui-pnotify-container{background:#fff;color:#000;border:2px solid #585858;-webkit-box-shadow:0 1px 4px rgba(0,0,0,.2);-moz-box-shadow:0 1px 4px rgba(0,0,0,.2);box-shadow:0 1px 4px rgba(0,0,0,.2);background-color:#fff;background-position:center center;background-repeat:no-repeat}.ui-pnotify.custom .ui-pnotify-title,.ui-pnotify.custom .ui-pnotify-text{}.ui-pnotify.custom .ui-pnotify-title{font-weight:bold}.ui-pnotify.custom .ui-pnotify-icon{float:left}.ui-pnotify.custom .picon{margin:3px;width:33px;height:33px}.review-hide{display:none}.signup-or-separator{background:none;height:34px;position:relative;text-align:center}.signup-or-separator .text{background-color:#fff;display:inline-block;margin:0;padding:8px}.btn-social :first-child{padding:2px}.btn-social{padding:7px;height:35px;text-align:center}.signup-or-separator hr{margin:-18px auto 10px auto;width:90%}.btn-block+.btn-block{margin-top:10px}.email-btn,.show-forgot,.show-signin,.show-signup{cursor:pointer}.email-btn{padding:10px 0px 20px 0px;text-align:center}.short{color:#802121}.weak{color:#e66c2c}.good{color:#2d98f3}.strong{color:#006400}#result{margin-bottom:8px;display:block}.has-error{color:#802121!important;display:block;font-size:12px;margin-bottom:8px;margin-top:-5px;line-height:14px}#fancybox-inner{overflow-x:hidden}#signup-btn{margin:0px}</style>
+    ga('create', 'UA-30392418-1', 'auto');
+    ga('set', '&uid', '0');
+    ga('send', 'pageview');
 
+    $(window).ready(function() {
+        // SR: globally carousel method
+        $(".products-carousel").owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: true,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 10000,
+            responsiveClass:true,
+            navText: [
+                "<i class='icon-chevron-left icon-white'></i>",
+                "<i class='icon-chevron-right icon-white'></i>"
+            ],
+            responsive:{
+                0:{
+                    items:1,
+                    nav:false
+                },
+                450:{
+                    items:2
+                },
+                601:{
+                    items:3
+                }
+            }
+        });
+        // SR: globally carousel method
+        $(".max-products-carousel").owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: true,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 10000,
+            responsiveClass:true,
+            navText: [
+                "<i class='icon-chevron-left icon-white'></i>",
+                "<i class='icon-chevron-right icon-white'></i>"
+            ],
+            responsive:{
+                0:{
+                    items:1,
+                    nav:false
+                },
+                450:{
+                    items:2
+                },
+                601:{
+                    items:3
+                },
+                800:{
+                    items:5
+                }
+            }
+        });
+//        SR: mobile menu
+        if($("#header-mobile-menu").length != 0) {
+            $("#header-mobile-menu").mmenu({
+                "slidingSubmenus": true,
+                "extensions": [
+                    "pagedim-black",
+                    "effect-slide-menu"
+                ],
+                navbar 		: {
+                    title		: 'Menu'
+                },
+                navbars		: [
+                    {
+                        position	: 'top',
+                        content		: [
+                            'prev',
+                            'title',
+                            'close'
+                        ]
+                    }
+                ],
+                "offCanvas": {
+                    "position": "right",
+                    "zposition" : "front"
+                }
+            });
+        }
+    });
+    var localData = [];
+    try {
+        var d = new Date();
+        d.setTime(d.getTime() + (100*24*60*60*1000));
+        var expires = "expires="+d.toUTCString();
+                if (window.localStorage) {
+                                    //    Fetching local data for logout user in signup_signin_popup view
+        }
+    }
+    catch(err) {
+    }
 
-<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-30392418-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+    function when_external_loaded(callback) {
+        if (typeof timeago === 'undefined' || typeof $.fn.raty === 'undefined') {
+            setTimeout(function () {
+                when_external_loaded(callback);
+            }, 100); // wait 100 ms
+        } else {
+            callback();
+        }
+    }
 
-<!-- start Mixpanel -->
-<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}
-var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);mixpanel.init("be8cbe9097b1334281c2e4e905490476");</script>
-<!-- end Mixpanel -->
+    $(document).ready(function () {
 
-    <script type="text/javascript">mixpanel.register({"User type":"Visitor"});</script>
+        jQuery("abbr.timeago").timeago();
+        $.fn.raty.defaults.hints = ['', '', '', '', ''];
+        $.pnotify.defaults.history = false;
 
-<script>try{if(window.localStorage){}}
-catch(err){}
-function mpq_track(event,add_data){mixpanel.track(event,{"add data":add_data});}
-function when_external_loaded(callback){if(typeof timeago==='undefined'||typeof $.fn.raty==='undefined'){setTimeout(function(){when_external_loaded(callback);},100);}else{callback();}}
-$(document).ready(function(){jQuery("abbr.timeago").timeago();$.fn.raty.defaults.hints=['','','','',''];$.pnotify.defaults.history=false;$('.my-tooltip').tooltipster({interactive:true,animation:'grow'});});function share_this_callback(event,service,product_id,type){$.ajax({type:"POST",url:'https://swaggable.com/account/user_shared_on_service',data:{service:service,product_id:product_id,type:type},success:function(html){if(html=="1"){}}});}
-function want(product_id){$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/set_data/want_product',data:{product_id:product_id},success:function(html){if(html.status=='failed'){$.pnotify(html.message);}
-else if(html.status=='success'){if(html.data.want_state=="added"){$('.want-button-'+product_id).html('Wanted');$('.want-count-'+product_id).html(html.data.want_count+' wants ');$('#want-sharing-popup').show("slow");}
-else if(html.data.want_state=="removed"){$('.want-button-'+product_id).html('Want it!');$('.want-count-'+product_id).html(html.data.want_count+' wants ');$('#want-sharing-popup').hide("slow");$.pnotify(html.message);}}}});}</script>
+        $('.my-tooltip').tooltipster({
+            interactive: true,
+            animation: 'grow'
+        });
+        // SR: to track purchase url
+        $(document).on('click','.purchase-track-with-url', function(){
+            queryString.push('action', 'purchase-url');
+            dataLayer.push({
+                'event' : 'click_purchase',
+                'user_id' :  '',
+                'product_id' : $(this).attr('product-id')
+            });
 
-<script type="text/javascript">(function(d,t){var bh=d.createElement(t),s=d.getElementsByTagName(t)[0];bh.type='text/javascript';bh.src='//www.bugherd.com/sidebarv2.js?apikey=haclgbgeox8ppql4a07c7q';s.parentNode.insertBefore(bh,s);})(document,'script');</script>
+            try {// So that if its disabled it shouldn't throw an exception
+                if (window.localStorage) {
+                    window.localStorage.setItem('swaggable_id', '');
+                }
+            }
+            catch(err) {
+            }
+        });
+    });
 
-<script>window.onerror=function(errorMsg,url,lineNumber)
-{return errorMsg.indexOf('stLight')>0;}
-$(window).load(function(){var maxHeight=0;$('.eheight').each(function(){if($(this).height()>maxHeight){maxHeight=$(this).height();}});$('.eheight').height(maxHeight);});</script>
+//    Addthis callback method would be here
+    function share_this_callback(event, service, product_id, type) {
+        $.ajax({
+            type: "POST",
+            url: 'https://swaggable.com/account/user_shared_on_service',
+            data: {service: service, product_id: product_id, type: type},
+            success: function (html) {
+                if (html == "1") {
+//                    $.pnotify("Shared on " + service);
+                }
+            }
+        });
+    }
 
-<script type="text/javascript" src="https://d1atocttudmpf3.cloudfront.net/js/responsive/contactform/gen_validatorv31.js"></script><script type="text/javascript" src="https://d1atocttudmpf3.cloudfront.net/js/responsive/contactform/fg_ajax.js"></script><script type="text/javascript" src="https://d1atocttudmpf3.cloudfront.net/js/responsive/contactform/fg_moveable_popup.js"></script><script type="text/javascript" src="https://d1atocttudmpf3.cloudfront.net/js/responsive/contactform/fg_form_submitter.js"></script></head>
+    function getURLParameter(url, name) {
+        return (RegExp(name + '=' + '(.+?)(&|$)').exec(url)||[,null])[1];
+    }
+    function urldecode(url) {
+        return decodeURIComponent(url.replace(/\+/g, ' '));
+    }
+    var attributes = [];
+    var selectedAttributes = [];
+    $(document).ready(function(){
+        $(".addthis_btn").click(function(){
+            var id = $(this).parent().attr('id');
+            var url = decodeURI($(this).attr('href'));
+            var addthis_url = urldecode(getURLParameter(url, "url"));
+            var type = getURLParameter(addthis_url, "st_type");
+            var source = getURLParameter(addthis_url, "st_source");
+            share_this_callback(null, source, id, type);
+            window.open($(this).attr('href'),"Sharing Window " + id,"menubar=1,resizable=1,width=600,height=650").moveTo((screen.width/2) - 300,(screen.height/2) - 325);
+            return false;
+        });
 
+        $(".product_attributes").select2({
+            placeholder: 'Type an attribute name',
+            allowClear: true,
+            tags: true
+        });
+
+        $(".product_attributes").select2('data', selectedAttributes);
+        $(".product_attributes").on("change", function(){
+            var attribues_array = $(this).select2('val');
+            var product_id = $(this).parent().attr('product-id');
+            var existing_attribues_array = [];
+            var new_attribues_array = [];
+            for(var i=0; i<attribues_array.length; i++){
+                var flag = true;
+                for(var j=0; j<attributes.length; j++){
+                    if(attribues_array[i] == attributes[j].id){
+                        flag = false;
+                        existing_attribues_array.push(attribues_array[i]);
+                    }
+                }
+                if(flag)
+                    new_attribues_array.push(attribues_array[i]);
+            }
+            addProductAttributes(existing_attribues_array, new_attribues_array, product_id);
+        });
+    });
+
+    function addProductAttributes(existing_attribues_array, new_attribues_array, product_id){
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: 'https://swaggable.com/set_data/add_user_product_attributes',
+            data: {
+                existing_attributes: existing_attribues_array,
+                new_attributes: new_attribues_array,
+                productId: product_id
+            },
+            success: function (data) {
+            }
+        });
+    }
+
+    function sendData(user_id,share,product_id){
+        dataLayer.push({
+           event : 'track',
+           user_id  : user_id,
+           share_channel : share,
+           product_id : product_id
+        });
+    }
+
+    function want(product_id, el) {
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: 'https://swaggable.com/set_data/want_product',
+            data: {product_id: product_id },
+            success: function (html) {
+                if (html.status == 'failed') {
+                    $.pnotify(html.message);
+                }
+                else if (html.status == 'success') {
+                    if (html.data.want_state == "added") {
+//                        $.pnotify(html.message);
+                        $('.want-button-' + product_id).html("<i class='fa fa-check' style='position: initial; font-size: 14px;'></i> Wanted");
+                        $('.want-count-' + product_id).html(html.data.want_count);
+                        if((' ' + el.className + ' ').indexOf('suggested-product-want') > -1){
+                            $('.suggested-product-want-sharing-popup-'+product_id).show("fade", 1000);
+                        }
+                        else{
+                            $('.want-sharing-popup-'+product_id).show("fade", 1000);
+                        }
+                        $('#hidden-want-'+ product_id).trigger('click');
+                        attributes = [];
+                        for(var i=0; i<html.data.product_attributes.length; i++){
+                            attributes.push({id: html.data.product_attributes[i].attribute_id, text: html.data.product_attributes[i].name})
+                        }
+                        $('.product_attributes-' + product_id).select2({
+                            placeholder: 'Type an attribute name',
+                            tags: attributes
+                        });
+                        if(html.data.user_attributes.length > 0){
+                            var user_attributes = [];
+                            for(var j=0; j<html.data.user_attributes.length; j++){
+                                user_attributes.push({id: html.data.user_attributes[j].attribute_id, text: html.data.user_attributes[j].name})
+                            }
+                            $('.product_attributes-' + product_id).select2('data', user_attributes);
+                        }
+                        if(html.data.is_online_coupon_invite && html.data.is_invite_created){
+                            dataLayer.push({
+                                'event' : 'want_coupon_invite',
+                                'user_id' :  '',
+                                'product_id' : product_id
+                            });
+                            $("#coupon-notifications-count").removeClass('badge-green');
+                            var count = 0;
+                            if($("#coupon-notifications-count").text() != "")
+                                count = parseInt($("#coupon-notifications-count").text());
+                            else
+                                count = 0;
+                            $("#coupon-notifications-count").text(count + 1);
+
+                            var count = 0;
+                            $("#coupons #coupon-notifications-count").removeClass('badge-green');
+                            if($("#coupons #coupon-notifications-count").text() != "")
+                                count = parseInt($("#coupons #coupon-notifications-count").text());
+                            else
+                                count = 0;
+                            $("#coupons #coupon-notifications-count").text(count + 1);
+                            $.toast({
+                                heading: 'Congratulations!',
+                                text: 'You have just been invited to try ' + html.message.replace(' added to your Wishlist.',''),
+                                showHideTransition: 'slide',
+                                icon: 'info',
+                                position: 'bottom-left',
+                                allowToastClose: true,
+                                hideAfter: false,
+                                bgColor: '#836fa9',
+                                textColor: '#ffffff'
+                            });
+                        }
+                        else if(html.data.is_invite_created && !html.data.is_online_coupon_invite){
+                            dataLayer.push({
+                                'event' : 'want_invite',
+                                'user_id' :  '',
+                                'product_id' : product_id
+                            });
+                            $("#notifications #offers-dropdown").prepend(html.data.sample_notification);
+                            $("#offers-dropdown .top-divider").after(html.data.sample_notification);
+                            var count = 0;
+                            if($(".samples-count").text() == "")
+                                count = 0;
+                            else
+                               count = parseInt($(".samples-count").text());
+                            
+                            $(".samples-count").text(parseInt(count) + parseInt(1));
+                            $(".mobile-samples-count").text(parseInt(count) + parseInt(1));
+                            jQuery("abbr.timeago").timeago();
+                            $.toast({
+                                heading: 'Congratulations!',
+                                text: 'You have just been invited to try ' + html.message.replace(' added to your Wishlist.',''),
+                                showHideTransition: 'slide',
+                                icon: 'info',
+                                position: 'bottom-left',
+                                allowToastClose: true,
+                                hideAfter: false,
+                                bgColor: '#836fa9',
+                                textColor: '#ffffff'
+                            });
+                        }
+                    }
+                    else if (html.data.want_state == "removed") {
+                        $('.want-button-' + product_id).html('Want it!');
+                        $('.want-count-' + product_id).html(html.data.want_count);
+                        if((' ' + el.className + ' ').indexOf('suggested-product-want') > -1){
+                            $('.suggested-product-want-sharing-popup-'+product_id).hide("fade", 1000);
+                        }
+                        else{
+                            $('.want-sharing-popup-'+product_id).hide("fade", 1000);
+                        }
+                        //var onclick_val = 'want(\'' + user_id + '\',true); return false;';
+                        //$('#want-button').attr('onclick', onclick_val);
+                        $.pnotify(html.message);
+                    }
+                }
+            }
+        });
+    } //else $.pnotify("If you want to try this product you need to be logged in. Please <a href='#' onclick='loginClicked();return false;'>click here</a> to login.");
+    window.onerror = function (errorMsg, url, lineNumber)
+    {
+        return errorMsg.indexOf('stLight') > 0;
+    }
+
+    // to make the product boxes same height
+    $(window).load(function() {
+        var maxHeight=0;
+        $('.eheight').each(function(){
+            if($(this).height()>maxHeight) {
+                maxHeight=$(this).height();
+            }
+        });
+
+        $('.eheight').height(maxHeight);
+
+    });
+
+    (function () {
+        'use strict';
+        var queryString = {};
+
+        queryString.parse = function (str) {
+            if (typeof str !== 'string') {
+                return {};
+            }
+
+            str = str.trim().replace(/^\?/, '');
+
+            if (!str) {
+                return {};
+            }
+
+            return str.trim().split('&').reduce(function (ret, param) {
+                var parts = param.replace(/\+/g, ' ').split('=');
+                var key = parts[0];
+                var val = parts[1];
+
+                key = decodeURIComponent(key);
+                // missing `=` should be `null`:
+                // http://w3.org/TR/2012/WD-url-20120524/#collect-url-parameters
+                val = val === undefined ? null : decodeURIComponent(val);
+
+                if (!ret.hasOwnProperty(key)) {
+                    ret[key] = val;
+                } else if (Array.isArray(ret[key])) {
+                    ret[key].push(val);
+                } else {
+                    ret[key] = [ret[key], val];
+                }
+
+                return ret;
+            }, {});
+        };
+
+        queryString.stringify = function (obj) {
+            return obj ? Object.keys(obj).map(function (key) {
+                var val = obj[key];
+
+                if (Array.isArray(val)) {
+                    return val.map(function (val2) {
+                        return encodeURIComponent(key) + '=' + encodeURIComponent(val2);
+                    }).join('&');
+                }
+
+                return encodeURIComponent(key) + '=' + encodeURIComponent(val);
+            }).join('&') : '';
+        };
+
+        queryString.push = function (key, new_value) {
+            var params = queryString.parse(location.search);
+            params[key] = new_value;
+            var new_params_string = queryString.stringify(params)
+            history.pushState({}, "", window.location.pathname + '?' + new_params_string);
+        }
+
+        if (typeof module !== 'undefined' && module.exports) {
+            module.exports = queryString;
+        } else {
+            window.queryString = queryString;
+        }
+    })();
+    $(window).ready(function() {
+//    SR: category sidebar menu
+        $("#category-sidebar-menu").mmenu({
+            "slidingSubmenus": true,
+            "extensions": [
+                "pagedim-black",
+                "effect-slide-menu",
+                "theme-white"
+            ],
+            navbar: {
+                title: 'Categories'
+            },
+            navbars: [
+                {
+                    position: 'top',
+                    content: [
+                        'prev',
+                        'title',
+                        'close'
+                    ]
+                }
+            ],
+            "offCanvas": {
+                "position": "left",
+                "zposition" : "front"
+            }
+        });
+        $.typeahead({
+            input: '.site-search',
+            minLength: 3,
+            delay: 1000,
+            hint: true,
+            dynamic: true,
+            searchOnFocus: true,
+            emptyTemplate: "No results found for {{query}}",
+            template: "{{display}} <small style='color:#999;'>{{group}}</small>",
+            source: {
+                category: {
+                    ajax: function (query) {
+                        return {
+                            type: "GET",
+                            url: "https://swaggable.com/interactive_calls/get_search_bar_suggestions",
+                            data: {
+                                query: query,
+                                type: "category"
+                            },
+                            callback: {
+                                done: function (data) {
+                                    return data.categories;
+                                }
+                            }
+                        }
+                    }
+                },
+                tag: {
+                    ajax: function (query) {
+                        return {
+                            type: "GET",
+                            url: "https://swaggable.com/interactive_calls/get_search_bar_suggestions",
+                            data: {
+                                query: query,
+                                type: "tag"
+                            },
+                            callback: {
+                                done: function (data) {
+                                    return data.tags;
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            callback: {
+                onClick: function (node, a, item, event){
+                    get_search_results(item.display, item.group);
+                },
+                onSubmit: function (node, form, item, event){
+                    if(item && item.group != undefined){
+                        get_search_results(node[0].value, item.group);
+                        return false;
+                    }
+                    else{
+                        get_search_results(node[0].value, null);
+                        return false;
+                    }
+                }
+            }
+        });
+    //SR: search for mobile
+        $.typeahead({
+            input: '.site-search-mobile',
+            minLength: 3,
+            delay: 1000,
+            hint: true,
+            dynamic: true,
+            searchOnFocus: true,
+            emptyTemplate: "No results found for {{query}}",
+            template: "{{display}} <small style='color:#999;'>{{group}}</small>",
+            source: {
+                category: {
+                    ajax: function (query) {
+                        return {
+                            type: "GET",
+                            url: "https://swaggable.com/interactive_calls/get_search_bar_suggestions",
+                            data: {
+                                query: query,
+                                type: "category"
+                            },
+                            callback: {
+                                done: function (data) {
+                                    return data.categories;
+                                }
+                            }
+                        }
+                    }
+                },
+                tag: {
+                    ajax: function (query) {
+                        return {
+                            type: "GET",
+                            url: "https://swaggable.com/interactive_calls/get_search_bar_suggestions",
+                            data: {
+                                query: query,
+                                type: "tag"
+                            },
+                            callback: {
+                                done: function (data) {
+                                    return data.tags;
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            callback: {
+                onClick: function (node, a, item, event){
+                    get_search_results(item.display, item.group);
+                },
+                onSubmit: function (node, form, item, event){
+                    if(item && item.group != undefined){
+                        get_search_results(node[0].value, item.group);
+                        return false;
+                    }
+                    else{
+                        get_search_results(node[0].value, null);
+                        return false;
+                    }
+                }
+            }
+        });
+    });
+    var flag = true;
+    function get_search_results(keyword, type){
+        dataLayer.push({
+            'event' : 'swaggable_search',
+            'user_id' :  '',
+            'keyword' : keyword
+        });
+        if(type != "category"){
+            var filter_keyword = keyword.replace('-', ' ');
+            filter_keyword = filter_keyword.replace(/[^\w\s]/gi, ' ');
+            filter_keyword = filter_keyword.replace(/ +(?= )/g, '');
+            keyword = filter_keyword.split(' ').join('-');
+        }
+        if(flag){
+            flag = false;
+            $.ajax({
+                type: "POST",
+                dataType: 'json',
+                url: 'https://swaggable.com/interactive_calls/search',
+                data: {keyword: keyword, type: type},
+                success: function (data) {
+                    flag = true;
+                    if (data.status == 'failed') {
+                    }
+                    else if (data.status == 'success') {
+                        if(type == "category")
+                            window.location.href = "https://swaggable.com/" + "products/" + escape( data.data.path_name);
+                        else {
+                            window.location.href = "https://swaggable.com/" + 'products/tag/' + escape(data.data.path_name);
+                        }
+                    }
+                    else {}
+                },
+                error:function(data) {
+                    flag = true;
+                }
+            });
+        }
+    }
+
+</script>
+
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/responsive/contactform/gen_validatorv31.js"></script><script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/responsive/contactform/fg_ajax.js"></script><script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/responsive/contactform/fg_moveable_popup.js"></script><script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net/js/responsive/contactform/fg_form_submitter.js"></script></head>
 
 
 
@@ -106,8 +1558,8 @@ $(window).load(function(){var maxHeight=0;$('.eheight').each(function(){if($(thi
         <form id="contactus" action="javascript:fg_submit_form()" method="post" accept-charset="UTF-8">
 
             <input type="hidden" name="submitted" id="submitted" value="1">
-            <input type="hidden" name="id3f388babb6edb7f63bf5" value="1617fe20483833fa1604d59953a81eef">
-            <input type="text" class="spmhidip" name="sp7a6b9950dc2dc7fdd58bb85c004c3882">
+            <input type="hidden" name="id18060cbf7d0540daeb9c" value="44023cef8fa32e98bb55cd73a50a98c2">
+            <input type="text" class="spmhidip" name="spa33ea663c7ced5a4bbccf3659fbf65b2">
 
             <div id="fg_server_errors" class="error"></div>
             <div class="containerr" style="max-width: 330px">
@@ -137,16 +1589,51 @@ $(window).load(function(){var maxHeight=0;$('.eheight').each(function(){if($(thi
 <!-- client-side Form Validations:
 Uses the excellent form validation script from JavaScript-coder.com-->
 
-<script type="text/javascript">//<![CDATA[
-var frmvalidator=new Validator("contactus");frmvalidator.EnableOnPageErrorDisplay();frmvalidator.EnableMsgsTogether();frmvalidator.addValidation("name","req","Please provide your name.");frmvalidator.addValidation("email","req","Please provide your email address.");frmvalidator.addValidation("email","email","Please provide a valid email address.");frmvalidator.addValidation("message","req","Message can not be empty.");frmvalidator.addValidation("message","maxlen=2048","The message is too long!(more than 2KB!).");document.forms['contactus'].refresh_container=function()
-{var formpopup=document.getElementById('fg_formContainer');var innerdiv=document.getElementById('fg_form_InnerContainer');var b=innerdiv.offsetHeight+30+30;formpopup.style.height=b+"px";}
-document.forms['contactus'].form_val_onsubmit=document.forms['contactus'].onsubmit;document.forms['contactus'].onsubmit=function()
-{if(!this.form_val_onsubmit())
-{this.refresh_container();return false;}
-return true;}
-function fg_submit_form()
-{$.ajax({type:"POST",url:"https://swaggable.com/index.php/main/send_contact_email/frontend",data:{name:$("#name").val(),email:$("#email").val(),message:$("#message").val()},success:function(html){$.pnotify("Thank you for writing to us. Someone will be in touch with you shortly regarding your comments/query. Many thanks.");fg_hideform('fg_formContainer','fg_backgroundpopup');}});}
-//]]></script>
+<script type="text/javascript">
+    // <![CDATA[
+
+    var frmvalidator  = new Validator("contactus");
+    frmvalidator.EnableOnPageErrorDisplay();
+    frmvalidator.EnableMsgsTogether();
+    frmvalidator.addValidation("name","req","Please provide your name.");
+    frmvalidator.addValidation("email","req","Please provide your email address.");
+    frmvalidator.addValidation("email","email","Please provide a valid email address.");
+    frmvalidator.addValidation("message","req","Message can not be empty.");
+    frmvalidator.addValidation("message","maxlen=2048","The message is too long!(more than 2KB!).");
+
+    document.forms['contactus'].refresh_container=function()
+    {
+        var formpopup = document.getElementById('fg_formContainer');
+        var innerdiv = document.getElementById('fg_form_InnerContainer');
+        var b = innerdiv.offsetHeight+30+30;
+
+        formpopup.style.height = b+"px";
+    }
+    document.forms['contactus'].form_val_onsubmit = document.forms['contactus'].onsubmit;
+    document.forms['contactus'].onsubmit=function()
+    {
+        if(!this.form_val_onsubmit())
+        {
+            this.refresh_container();
+            return false;
+        }
+        return true;
+    }
+    function fg_submit_form()
+    {
+        $.ajax({
+            type : "POST",
+            url : "https://swaggable.com/index.php/main/send_contact_email/frontend",
+            data : {name:$("#name").val(),email:$("#email").val(),message:$("#message").val()},
+            success:function (html) {
+                $.pnotify("Thank you for writing to us. Someone will be in touch with you shortly regarding your comments/query. Many thanks.");
+                fg_hideform('fg_formContainer','fg_backgroundpopup');
+            }
+        });
+    }
+
+    // ]]>
+</script>
 
 <div id="fg_backgroundpopup" style="display:none"></div>
 
@@ -159,80 +1646,309 @@ function fg_submit_form()
     </p><p>
     </p>
 </div>
-<div class="container">
+<style type="text/css">
+    #WFMbar {
+        background: #fff url('https://swaggable.com/application/views/campaigns/resources/images/WFM_BigBanner1.jpg');
+    }
+    .sidebar-nav{
+        background-image: url('https://d1825pdd6tk0dj.cloudfront.net/images/img/sidebar-border.jpg');
+    }
+    .showcase-plus-anchor {
+        background-image: url('https://d1825pdd6tk0dj.cloudfront.net/images/plus.png');
+    }
+    div.showcase-tooltip {
+        background-image: url('https://d1825pdd6tk0dj.cloudfront.net/images/white-opacity-80.png');
+    }
+    .showcase-caption {
+        background-image: url('https://d1825pdd6tk0dj.cloudfront.net/images/white-opacity-80.png');
+    }
+</style>
 
-<style type="text/css">.badge{background-color:#e74c3c;border:1px solid #e74c3c;border-radius:12px;color:#fff;font:bold 15px/13px Helvetica,Verdana,Tahoma;height:16px;padding:4px 3px 0 3px;text-align:center;min-width:14px;margin-left:-20px;text-shadow:none;position:absolute!important;right:0px}.dropdown-menu .divider{margin:0px}.notification{border:none;width:300px;margin-top:0px}.notification:hover{background:#e4f9d2;cursor:pointer}.notification-badge:hover{text-decoration:none}.notification-content{white-space:normal;font-size:14px;line-height:19px}.navbar-search{position:relative}.navbar-search .search-query{padding-left:29px!important;border:none;box-shadow:none}.navbar-search .icon-search{position:absolute;top:7px;left:11px}.btn-link{color:#919191}.dropdown-menu li a{background:inherit}ul.nav li.dropdown:hover ul.dropdown-menu{display:block}a.menu:after,.dropdown-toggle:after{content:none}#main-navbar{display:block}#fb-btn-pnotify{opacity:1}#fb-btn-pnotify img{margin-top:10px}.btn-facebook{background-image:none;border:0px;background-color:#3d5698;box-shadow:none}.btn-social{background-image:none;border:none;box-shadow:none}.btn-social :first-child{border:none}.sign-up-btn,.sign-in-btn{position:relative;top:0px;color:#fff!important;background:#79bd4e!important;border:1px solid #79bd4e}.sign-in-btn:hover,.sign-up-btn:hover{color:#79bd4e!important;background:#fff!important;border:1px solid #79bd4e}#searchbar{width:100%}.header-logo{position:absolute;margin-top:20px}.nav .dropdown-toggle:hover .caret,.nav .dropdown-toggle:focus .caret,.nav .dropdown-toggle .caret{border-bottom-color:#554373;border-top-color:#554373}</style>
+<div class="row-fluid main-header" style="
+        position: fixed;
+    background: #383a51;
+    padding: 0px 0px 10px 10px;
+    z-index: 200;
 
-<script>function logout_now(){$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/main/clear_session',data:{},success:function(obj){if(obj.status=="success"){window.location=obj.data;}else{$.pnotify(obj.message);}}});}
-function hide_coupon(coupon_code){var notifications=[];notifications.push(coupon_code);$.ajax({type:"POST",url:'https://swaggable.com/index.php/set_data/mark_as_read_coupon',data:{coupon_codes:JSON.stringify(notifications)},success:function(html){$(".coupon-div-"+coupon_code).hide();$("#coupon-notifications-count").text(html);if(html==0){window.location.reload();}}});}
-$(document).ready(function(){$("#coming-from").val('consumer');$("#clear-notifications").on('click',function(e){$('#loading-icon').show();var notifications=[];$(".read-notification").each(function(index){notifications.push($(this).val());});$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/set_data/mark_as_read',data:{notification_id:JSON.stringify(notifications)},success:function(obj){if(obj!=0){$("#notifications-count").text(obj);$('#loading-icon').hide();location.reload();}else{$("#notifications-count").hide();$('#loading-icon').hide();}}});});$("#clear-coupon").on('click',function(e){$('#loading-icon').show();var notifications=[];$(".read-coupon").each(function(index){notifications.push($(this).val());});$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/set_data/mark_as_read_coupon',data:{coupon_codes:JSON.stringify(notifications)},success:function(obj){if(obj!=0){$("#coupon-notifications-count").text(obj);$('#loading-icon').hide();location.reload();}else{$("#coupons").hide();$('#loading-icon').hide();}}});});});function WFM_sticky(){$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/account/save_popup',data:{page:"WFM_header_popup"},success:function(obj){}});$('#WFMbar').css('display','none');$('#WFM-sticky').css('display','block');}</script>
-
-
-<div class="row-fluid" style="position: relative;">
-    <div class="span12">
-    <a class="span5 header-logo" href="https://swaggable.com/"> <img height="72px" src="https://d1atocttudmpf3.cloudfront.net/images/img/logo.png"></a>
-
-    <div class="pull-right span6" style="position: relative; top: 10px;">
-<!-- Drop down notifications for social, system and coupon alerts -->
-
-
-</div>
-</div>
-<div class="span12" style="margin-left: 0px;">
-    <style>.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.dropdown-submenu:focus>a{color:#fff;background:none;background-color:#554174!important}</style>
-    <ul class="nav nav-pills pull-right" style="margin: 10px 0px 0px 0px;">
-        
-                    <li><a class="open-login-dialog show-signup  sign-up-btn" rel="nofollow" href="#login-signup-dialog" style="margin-right: 5px;">Sign Up</a></li>
-
-            <li><a class="open-login-dialog show-signin  sign-in-btn" rel="nofollow" href="#login-signup-dialog">Log In</a></li>
-            <div id="fb-root">
-</div>
-<script type="text/javascript">var visited_login_snippet=false;var res_test;var clicked=0;var fb_loaded=false;var alt_fb_method=false;setTimeout(is_fb_alt,5000);window.fbAsyncInit=function(){FB.init({appId:223829680964591,channelUrl:'https://swaggable.com//channel.php',status:true,cookie:true,xfbml:true,oauth:true});FB.Event.subscribe('auth.login',function(response){if(!visited_login_snippet){}});FB.Event.subscribe('auth.logout',function(response){return false;});fb_loaded=true;alt_fb_method=false;if(clicked){loginClicked();}};(function(d){var js,id='facebook-jssdk',ref=d.getElementsByTagName('script')[0];if(d.getElementById(id)){return;}
-js=d.createElement('script');js.id=id;js.async=true;js.src="//connect.facebook.net/en_US/all.js";ref.parentNode.insertBefore(js,ref);}(document));var get_permissions=false;var scope='email,user_work_history,user_education_history,friends_work_history,friends_education_history,friends_location,user_location,user_hometown,user_birthday,friends_birthday,user_likes,offline_access';function isEmpty(map){for(var key in map){if(map.hasOwnProperty(key)){return false;}}
-return true;}
-function is_fb_alt(){if(fb_loaded){alt_fb_method=false;return false;}else{alt_fb_method=true;return true;}}
-function fb_login_snippet(called_from,arg1){if(typeof(called_from)==='undefined')called_from='';if(typeof(arg1)==='undefined')arg1='';visited_login_snippet=true;if(navigator.userAgent.match('CriOS')||alt_fb_method){var source_page=window.btoa(window.location.toString());source_page=source_page.replace("#","");source_page=source_page.split("=").join("");source_page=source_page.split("/").join("_");source_page=source_page.split("+").join("-");var redirect_url_for_dialog='https://swaggable.com/main/exchange_code/'+source_page;window.location.replace('https://www.facebook.com/dialog/oauth?client_id=223829680964591&redirect_uri='+redirect_url_for_dialog,'',null);}
-else{FB.login(function(response){if(isEmpty(response)||isEmpty(response.authResponse)){if(called_from==''){mpq_track("fb-auth-canceled",null);}
-else if(called_from=='wholefoods-retailer'){mpq_track("fb-auth-canceled-wfm");}}else{if(called_from==''){mpq_track("fb-auth-confirm",null);}
-else if(called_from=='wholefoods-retailer'){mpq_track("fb-auth-confirm-wfm");}
-var locat=curr_window_locat();link='https://swaggable.com/main/update_auth';if(window.location.hash){link=link+"?anchorpart="+window.location.hash.substring(1)+"&auth_token="+response.authResponse.accessToken+"&source_page="+locat;}
-else{link=link+"?auth_token="+response.authResponse.accessToken+"&source_page="+locat;}
-if(get_permissions==false){setTimeout(window.location.replace(link),50);}
-else{link='https://swaggable.com/main/update_auth_after_publish_actions';link+='?auth_token='+response.authResponse.accessToken;call_upadte_auth(called_from,arg1,link);}}},{scope:scope});}}
-function curr_window_locat(){var locat=window.location;locat=locat.toString();if(locat.substr(-1,1)=="/"){locat=locat.slice(0,-1);}
-locat=locat.replace("&","%26");locat=locat.replace("?","%3F");locat=locat.replace("#","%23");return locat;}
-function test_permission(){FB.getLoginStatus(function(response){if(response.status==='connected'){var uid=response.authResponse.userID;var accessToken=response.authResponse.accessToken;}else if(response.status==='not_authorized'){}else{}});}
-function loginClicked(called_from,arg1){clicked++;if(clicked>3){alt_fb_method=true;}
-if(fb_loaded||alt_fb_method){if(typeof(called_from)==='undefined')called_from='';if(typeof(arg1)==='undefined')arg1='';if(called_from=='')
-{mpq_track("login-sign-up",null);}
-else if(called_from=='wholefoods-retailer'){mpq_track("login-signup-wfm");}
-fb_login_snippet(called_from,arg1);}}
-function call_upadte_auth(called_from,arg1,link)
-{$.ajax({type:'GET',dataType:'HTML',url:link,success:function(msg){window[called_from](arg1);}});}</script>
-
-            </ul>
-</div>
-<div class="navbar span12" style="margin-left: 0px; display: inline-block;">
-    <div class="navbar-inner" style="position: relative; top: 20px; margin-bottom: 20px;">
-        <div>
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-chevron-sign-down" style="color:#489b00 "></span>
-            </button>
-            <span class="nav-heading" href="#">Products</span>
-            <div class="nav-collapse collapse">
-                <ul id="main-navbar" class="nav">
-                    <li><a style="border-top-left-radius:5px; margin-left:-10px; border-bottom-left-radius:5px; color: #fff; font-weight: bold; background: #e74c3c;" href="https://swaggable.com/hot-new-products">New</a></li><li><a href="https://swaggable.com/products/Snacks">Snacks</a></li><li><a href="https://swaggable.com/products/Kids-Products">Kids Products</a></li><li><a href="https://swaggable.com/products/Cosmetics-Beauty">Cosmetics &amp; Beauty</a></li><li><a href="https://swaggable.com/products/Health-Wellness">Health &amp; Wellness</a></li><li><a href="https://swaggable.com/products/Beverages">Beverages</a></li><li><a href="https://swaggable.com/products/Pet-Supplies">Pet Supplies</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">View More <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://swaggable.com/products/Cooking-Ingredients">Cooking Ingredients</a></li><li><a href="https://swaggable.com/products/Cleaning-Products">Cleaning Products</a></li></ul></li></ul>
+    ">
+    <div class="main-header-inner" style="
+    max-width: 1020px;    left: 0;
+    margin: auto;
+    right: 0;">
+        <!--    SR: mobile menu-->
+        <div class="mobile-section" style="display: none;">
+            <div class="header-menu">
+                                    <a class="pull-left logo" style="width: auto;" href="https://swaggable.com/"> <img alt="Swaggable" src="https://swaggable.com/images/logos/swaggable-master-logo-white-new.png" style="height: inherit;"></a>
+                                <a href="#header-mobile-menu" class="menu-btn header-menu-btn pull-right"><i class="fa fa-bars"></i></a>
+                                <a href="#category-sidebar-menu" class="btn btn-default btn-success btn-category" style="margin-top: -24px;
+        padding: 6px;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-left: 0px;"><i class="fa fa-bars" style="position: relative; left: -3px; right: 0px; top: 1px;"></i> Browse By Category</a>
+                <div class="row-fluid mobile-section" style="display: none;">
+                    <form id="search-mobile" name="search-mobile">
+                        <div class="typeahead__container">
+                            <div class="typeahead__field">
+                                <span class="typeahead__query">
+                                    <input class="site-search-mobile" name="query" type="search" placeholder="Search on Swaggable" autocomplete="off">
+                                </span>
+                                                <span class="typeahead__button">
+                                    <button type="submit">
+                                        <i class="typeahead__search-icon"></i>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <!--/.nav-collapse -->
+            <nav id="header-mobile-menu">
+                <ul>
+                                            <div style="text-align: center; padding: 20px 10px; ">
+                            <a style="margin: 10px; color: inherit;" class="open-login-dialog show-signup" rel="nofollow" href="#login-signup-dialog">Sign Up</a> |
+                            <a style="margin: 10px; color: inherit;" class="open-login-dialog show-signin" rel="nofollow" href="#login-signup-dialog">Log In</a>
+                        </div>
+                        <div style="text-align: center; padding: 20px 10px;">
+                            <a style="margin: 10px; color: inherit;" href="http://support.swaggable.com">How it Works</a> |
+                            <a style="margin:10px; color: inherit;" href="https://swaggable.com/privacy-policy">Privacy Policy</a>
+                        </div>
+                                    </ul>
+            </nav>
+            <div style="height: 100px !important;"></div>
+        </div>
+
+        <!--    SR: regular menu-->
+        <div class="row-fluid mobile-hidden" style="min-height: 35px;">
+            <a class="header-logo" href="https://swaggable.com/"> <img alt="Swaggable" height="50px" src="https://d1825pdd6tk0dj.cloudfront.net/images/img/logo-white.png"></a>
+                    </div>
+        <div class="row-fluid mobile-hidden" style="margin-left: 0px;">
+        <style>
+            .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .dropdown-submenu:hover>a, .dropdown-submenu:focus>a {
+                color: #ffffff;
+                background: none;
+                background-color: #554174 !important;
+            }
+        </style>
+        
+        <ul class="nav-header nav nav-pills pull-right" style="margin: 0px 10px 0px 0px;">
+           
+                            <a href="#category-sidebar-menu" class="btn btn-default btn-success btn-category" style="margin-top: -15px; font-size:12px;;
+                padding: 6px;
+                padding-right: 15px;
+                padding-left: 15px;
+                margin-left: 5px;"><i class="fa fa-bars" style="position: relative; left: -3px; right: 0px; top: 2px;"></i> Browse By Category</a>
+                <nav id="category-sidebar-menu">
+                    <ul>
+                        <li class="sidebar-category-li"><a href="https://swaggable.com/products/new">Hot New Products</a></li>
+                        <br>
+                        <li class="sidebar-category-li"><a href="https://swaggable.com/products/Beverages">Beverages</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/Food">Food</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/household-supplies">Household Supplies</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/health-beauty">Health &amp; Beauty</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/family">Family</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/animals-pet-supplies">Animals &amp; Pet Supplies</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/apparel-accessories">Apparel &amp; Accessories</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/sporting-goods">Sporting Goods</a></li><li class="sidebar-category-li"><a href="https://swaggable.com/products/automotive">Automotive</a></li>                    </ul>
+                </nav>
+
+                <li style="margin-top: -15px; margin-bottom: 10px;"><a class="open-login-dialog show-signup  sign-up-btn" rel="nofollow" href="#login-signup-dialog" style="margin-right: 5px;">Sign Up</a></li>
+
+                <li style="margin-top: -15px; margin-bottom:10px;"><a class="open-login-dialog show-signin  sign-in-btn" rel="nofollow" href="#login-signup-dialog">Log In</a></li>
+                <div id="fb-root">
+</div>
+<script type="text/javascript">
+    var visited_login_snippet = false;
+    var res_test;
+    var clicked = 0;
+    var fb_loaded = false;
+    var alt_fb_method = false;
+    setTimeout(is_fb_alt, 5000);
+    window.fbAsyncInit = function () {
+        FB.init({ appId:  223829680964591, channelUrl: 'https://swaggable.com//channel.php', status: true, cookie: true, xfbml: true, oauth: true});
+
+                /* All the events registered */
+        FB.Event.subscribe('auth.login', function (response) {
+            if(!visited_login_snippet){
+                //loginClicked();
+            }
+        });
+        FB.Event.subscribe('auth.logout', function (response) {
+            return false;
+        });
+                fb_loaded = true;
+        alt_fb_method = false;
+        if(clicked) {
+            loginClicked();
+        }
+    };
+
+    // Load the SDK Asynchronously
+    (function (d) {
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement('script');
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+
+        var get_permissions = false;
+    var scope = 'email,user_work_history,user_education_history,friends_work_history,friends_education_history,friends_location,user_location,user_hometown,user_birthday,friends_birthday,user_likes,offline_access';
+        function isEmpty(map) {
+        for(var key in map) {
+            if (map.hasOwnProperty(key)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    function is_fb_alt() {
+        if(fb_loaded) {
+            alt_fb_method = false;
+            return false;
+        } else {
+            alt_fb_method = true;
+            return true;
+        }
+    }
+
+    function fb_login_snippet( called_from, arg1 ) {
+        if (typeof(called_from) === 'undefined') called_from = '';
+        if (typeof(arg1) === 'undefined') arg1 = '';
+        visited_login_snippet = true;
+        if(navigator.userAgent.match('CriOS') || alt_fb_method) {
+            var source_page = window.btoa(window.location.toString()); //base64 encoded.
+            source_page = source_page.replace("#", "");
+            source_page = source_page.split("=").join("");
+            source_page = source_page.split("/").join("_");
+            source_page = source_page.split("+").join("-");
+            var redirect_url_for_dialog = 'https://swaggable.com/main/exchange_code/'+source_page;
+            window.location.replace('https://www.facebook.com/dialog/oauth?client_id=223829680964591&redirect_uri=' + redirect_url_for_dialog, '', null);
+        }
+        else {
+            FB.login(function (response) {
+                if (isEmpty(response) || isEmpty(response.authResponse)) {
+
+                } else {
+                    var locat = curr_window_locat();
+                    //console.log("locat:   " + locat);
+
+                    //------------- SR: code for get controller name from source page link and redirection accordingly ---------------//
+
+                                        //   console.log("main");
+                    link = 'https://swaggable.com/main/update_auth';
+                                        //anchor parts are removed by browser before sending a request to server, they are added as a parameter to the get request
+                    if (window.location.hash) {
+                        link = link + "?anchorpart=" + window.location.hash.substring(1) + "&auth_token=" + response.authResponse.accessToken + "&source_page=" + locat;
+                    }
+                    else {
+
+                        link = link + "?auth_token=" + response.authResponse.accessToken + "&source_page=" + locat;
+                    }
+
+                    if (get_permissions == false) {
+                        setTimeout(window.location.replace(link), 50);
+                    }
+                    else {
+                        link = 'https://swaggable.com/main/update_auth_after_publish_actions';
+                        link += '?auth_token=' + response.authResponse.accessToken;
+
+                        call_upadte_auth(called_from, arg1, link);
+
+                    }
+                }
+            }, {scope: scope});
+        }
+    }
+
+    function curr_window_locat() {
+        var locat = window.location;
+        locat = locat.toString();
+        if (locat.substr(-1, 1) == "/") {
+            locat = locat.slice(0, -1);
+        }
+        locat = locat.replace("&", "%26");
+        locat = locat.replace("?", "%3F");
+        locat = locat.replace("#", "%23");
+        return locat;
+    }
+
+    function test_permission() {
+        FB.getLoginStatus(function(response) {
+            if (response.status === 'connected') {
+                // the user is logged in and has authenticated your
+                // app, and response.authResponse supplies
+                // the user's ID, a valid access token, a signed
+                // request, and the time the access token
+                // and signed request each expire
+                var uid = response.authResponse.userID;
+                var accessToken = response.authResponse.accessToken;
+            } else if (response.status === 'not_authorized') {
+                // the user is logged in to Facebook,
+                // but has not authenticated your app
+            } else {
+                // the user isn't logged in to Facebook.
+            }
+        });
+    }
+
+
+    function loginClicked( called_from, arg1 ) {
+        clicked++;
+        if(clicked > 3){
+            alt_fb_method = true;
+        }
+        if(fb_loaded || alt_fb_method) {
+            if (typeof(called_from) === 'undefined') called_from = '';
+            if (typeof(arg1) === 'undefined') arg1 = '';
+            fb_login_snippet( called_from, arg1 );
+        }
+    }
+
+    function call_upadte_auth(called_from,arg1, link)
+    {
+        $.ajax({
+            type: 'GET',
+            dataType: 'HTML',
+            url: link,
+            success: function ( msg) {
+                window[called_from]( arg1 );
+
+            }
+        });
+    }
+
+</script>
+
+                    </ul>
+    </div>
+    </div>
+</div>
+
+<hr style="margin-top: 0px;">
+<span id="is-page-has-tour" class="hide"></span>
+<a class="btn btn-large btn-inverse help-sticky help-sticky-btn mobile-hidden" href="#">Help?</a>
+<div id="help-popup" class="row span4 hide" style="position: fixed; top:37%; background: #eeeeee; left: 40px; z-index: 10000;">
+    <div class="popover row-fluid" style="display: block; max-width: none; top:-200px !important;">
+        <h3 class="popover-title span12" style="display: block; text-align: center; color: #564472; font-weight: bold;">Need some help? No problem! <span class="fa fa-close pull-right close-help-popup" style="margin-top: -5px; color:maroon; cursor: pointer;"></span></h3>
+        <div class="popover-content span12">
+            <div class="row-fluid tour-container hide">
+                <h2 class="heading" style="text-align: center; line-height: 34px;">How to use swaggable and discover new products</h2>
+
+                <h4>Wants</h4>
+                <p>Explore new products around Swaggable and want products you're interested in to keep them handy in your want list for later. It also helps us personalize around your preferences.</p>
+
+                <h4>Promo Codes</h4>
+                <p>Swaggable users get exclusive promo codes to buy the products they like, at sites they trust, like amazon.  Who doesn’t like saving a little money?</p>
+
+                <h4>Samples</h4>
+                <p>Get invited to try free samples from 500+ brands on Swaggable, who are looking to engage new consumers like you. Samples are directly mailed to your home.</p>
+
+                <center><a id="start-tour" class="btn btn-small btn-success" href="#" style="margin: 10px 0px 18px 0px;">Start Tour</a></center>
+            </div>
+            <p style="font-size: 11px; margin-bottom: 0px;">Have a specific question? Check out the help center <a href="http://support.swaggable.com">here</a> </p>
         </div>
     </div>
-
 </div>
 
-<!-- /.navbar -->
-</div>
-<span id="is-page-has-tour" class="hide"></span>
-    <a id="help-sticky" class="btn btn-large btn-inverse" href="#">Help?</a>
+<a class="btn btn-large btn-inverse help-sticky help-sticky-btn mobile-hidden" href="#">Help?</a>
 <div id="help-popup" class="row span4 hide" style="position: fixed; top:37%; background: #eeeeee; left: 40px; z-index: 10000;">
     <div class="popover row-fluid" style="display: block; max-width: none;">
         <h3 class="popover-title span12" style="display: block; text-align: center; color: #564472; font-weight: bold;">Need some help? No problem! <span class="fa fa-close pull-right close-help-popup" style="margin-top: -5px; color:maroon; cursor: pointer;"></span></h3>
@@ -241,14 +1957,119 @@ function call_upadte_auth(called_from,arg1,link)
                 <p style="text-align: center;">Take a quick tour of this page.</p>
                 <center><a id="start-tour" class="btn btn-small btn-success" href="#" style="margin: 10px 0px 18px 0px;">Start Tour</a></center>
             </div>
-
-            <p style="font-size: 11px; margin-bottom: 0px;">Have a specific question? Check out the help center <a href="https://swaggable.com/how-it-works">here</a> </p>
+            <p style="font-size: 11px; margin-bottom: 0px;">Have a specific question? Check out the help center <a href="http://support.swaggable.com">here</a> </p>
         </div>
     </div>
 </div>
 
-<style>.btn{text-shadow:none}.hide-this{display:none!important}a{color:#79bd4e;font-weight:bold}.fancybox-wrap,.fancybox-skin{z-index:999999!important}.fancybox-overlay,.fancybox-overlay-fixed{z-index:99999!important}.input-form{position:relative}.input-form input{font-size:16px;height:36px;border-radius:4px;border:1px solid #ccc;background:none;overflow:auto;margin-top:4px}.fa{position:absolute;right:10px;top:13px;font-size:18px}.btn-social{font-weight:normal}.has-icon{padding-right:37px!important}</style>
+<div id="cart-popup" class="hide fancybox">
+    <div class="row-fluid" align="center">
+        <h2 class="heading">Your Deal Cart</h2>
+        <div id="amazon-cart-div">
+                    </div>
+        <a class="btn btn-cart" style="margin: 10px;" href="" target="_blank"><span><i class="fa fa-amazon" style="font-size: 13px; position: inherit;"></i> </span> Go to Store</a>
+    </div>
+</div>
+
+<style>
+
+    .btn{
+        text-shadow: none;
+    }
+    .hide-this{
+        display: none !important;
+    }
+    a {
+        color: #79bd4e;
+        font-weight: bold;
+    }
+    .fancybox-wrap, .fancybox-skin{
+        z-index: 999999 !important;
+    }
+    .fancybox-overlay, .fancybox-overlay-fixed{
+        z-index: 99999 !important;
+    }
+    .input-form{
+        position: relative;
+    }
+    .input-form input{
+        font-size: 16px;
+        height: 36px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        background: none;
+        overflow: auto;
+        margin-top: 4px;
+    }
+    .fa{
+        position: absolute;
+        right: 10px;
+        top: 13px;
+        font-size: 18px;
+    }
+    .btn-social{
+        font-weight: normal;
+    }
+    .has-icon{
+        padding-right: 37px !important;
+    }
+    .local-storage-thumbnail{
+        margin-bottom: 12px;
+        background: #ffffff;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 5px;
+        display: block;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 1.35;
+        height: auto;
+        min-height: 40px;
+        position: relative;
+    }
+    .local-storage-thumbnail .fa-close{
+        top: 5px;
+        right: 5px;
+        font-size: 12px;
+        color: maroon;
+    }
+    .local-storage-thumbnail .label-username{
+        display: block;
+        text-align: initial;
+        padding-left: 60px;
+        font-size: 16px;
+        font-weight: bold;
+        word-wrap: break-word;
+    }
+    .local-storage-thumbnail .label-email{
+        display: block;
+        text-align: initial;
+        padding-left: 60px;
+        word-wrap: break-word;
+    }
+    .local-storage-thumbnail img {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        float: left;
+    }
+    .remember-me{
+        color: #595959;
+        margin-left: 10px;
+        font-size: 16px;
+    }
+</style>
 <div id="login-signup-dialog" class="fancybox hide">
+<!--    SR: previously login form-->
+    <div class="row-fluid previous-logins-form">
+        <p class="help-block">WELCOME BACK, LOGIN AS:</p>
+        <a class="login-as-another-user" href="#">Login as another user</a>
+    </div>
+<!--    END previously login form-->
+
+<!--    SR: signup form-->
     <div class="row-fluid signup-form">
         <a id="signup-btn-facebook" href="https://swaggable.com/auth/login/facebook" class="btn btn-block btn-social btn-facebook">
             <i class="fa fa-facebook"></i> Sign up with Facebook
@@ -267,7 +2088,7 @@ function call_upadte_auth(called_from,arg1,link)
         <div class="row-fluid email-btn">
             <a class="signup-with-email green-link"><i class="fa fa-envelope" style="position: inherit; font-size: 13px; color: inherit;"></i> Sign up with Email</a>
         </div>
-        <div class="signup-fields hide">
+        <div class="signup-fields clearfix hide">
             <div class="input-form">
                 <input class="span12 form-control has-icon" type="text" name="signup-email" placeholder="Email Address">
                 <span class="fa fa-envelope"></span>
@@ -285,24 +2106,27 @@ function call_upadte_auth(called_from,arg1,link)
                 <span class="fa fa-lock"></span>
             </div>
             <span id="signup-cpassword" class="has-error"></span>
+            <label class="pull-left"><input name="signup-remember" type="checkbox"><span class="remember-me">Remember me</span></label>
         </div>
-        <div id="email-exist-alert" class="alert alert-danger hide" style="font-size: 13px; margin-top: 20px; padding: 10px;">
+        <div id="email-exist-alert" class="alert alert-danger hide" style="font-size: 13px; margin: 5px 0px; padding: 10px;">
             This email is already registered. Want to <a class="show-signin" style="color:#b94a48; font-size: 13px;">Log in</a> or <a class="show-forgot" style="color:#b94a48; font-size: 13px;">recover your password</a>?
         </div>
-        <div id="email-exist-social-alert" class="alert alert-danger hide" style="font-size: 13px; margin-top: 20px; padding: 10px;">
+        <div id="email-exist-social-alert" class="alert alert-danger hide" style="font-size: 13px; margin: 5px 0px; padding: 10px;">
             This email is already registered using one of the social networks. Try to Log in using <a id="signup-btn-facebook" href="https://swaggable.com/auth/login/facebook" class="btn btn-social-icon btn-xs btn-facebook">
-                <i class="fa fa-facebook" style="top: 2px"></i>
+                <i class="fa fa-facebook" style="top: 2px !important;"></i>
             </a>
             <a id="signup-btn-google" href="https://swaggable.com/auth/login/google" class="btn btn-social-icon btn-xs btn-google-plus" style="background: #de4333;border: none; color: #fff;">
-                <i class="fa fa-google-plus" style="top: 2px"></i>
+                <i class="fa fa-google-plus" style="top: 2px !important;"></i>
             </a>
         </div>
-        <p class="help-block">By signing up, I agree to Swaggable's <a href="/tos">Terms of Services</a>.</p>
+        <p class="help-block" style="display: inline-block;">By signing up, I agree to Swaggable's <a href="/tos">Terms of Services</a>.</p>
         <button id="signup-btn" class="btn btn-block btn-social" onclick="sign_up();" style="background-color: #564272; color: #fff;">Sign up</button>
         <hr>
         <p class="help-block">Already a Swaggable member? <a class="show-signin">Log in</a></p>
     </div>
+<!--    END signup form-->
 
+<!--    SR: signin form-->
     <div class="row-fluid signin-form">
         <a id="login-btn-facebook" href="https://swaggable.com/auth/login/facebook?source_url=https%3A%2F%2Fswaggable.com%2Fprivacy-policy" class="btn btn-block btn-social btn-facebook">
             <i class="fa fa-facebook"></i> Log in with Facebook
@@ -331,9 +2155,8 @@ function call_upadte_auth(called_from,arg1,link)
             </div>
             <span id="signin-password" class="has-error"></span>
             <div class="row-fluid" style="padding: 0px 0px 10px 0px;">
-<!--                <label class="pull-left"><input style="zoom: 1.5; margin: 0px 5px 0px 0px;" name="remember" type="checkbox"><span class="remember-me">Remember me</span></label>-->
-<!--                <br>-->
-                <a class="pull-left show-forgot">Forgot password?</a>
+                <label class="pull-left"><input name="remember" type="checkbox"><span class="remember-me">Remember me</span></label>
+                <a class="pull-right show-forgot">Forgot password?</a>
             </div>
 
         </div>
@@ -342,7 +2165,9 @@ function call_upadte_auth(called_from,arg1,link)
         <hr>
         <p class="help-block">Don't have an account? <a class="show-signup">Sign up</a></p>
     </div>
+<!--    END signin form-->
 
+<!--    SR: forgot password form-->
     <div class="row-fluid forgot-form">
         <div class="heading">
             <h4>Reset Password</h4>
@@ -364,74 +2189,901 @@ function call_upadte_auth(called_from,arg1,link)
         </div>
         <div id="forgot-email-social-alert" class="alert alert-danger hide" style="font-size: 13px; margin-top: 20px; padding: 10px;">
             Looks like you used one of the social networks to signup. Please try to login using <a id="signup-btn-facebook" href="https://swaggable.com/auth/login/facebook" class="btn btn-social-icon btn-xs btn-facebook">
-                <i class="fa fa-facebook" style="top: 2px"></i>
+                <i class="fa fa-facebook" style="top: 2px !important;"></i>
             </a>
             <a id="signup-btn-google" href="https://swaggable.com/auth/login/google" class="btn btn-social-icon btn-xs btn-google-plus" style="background: #de4333;border: none; color: #fff;">
-                <i class="fa fa-google-plus" style="top: 2px"></i>
+                <i class="fa fa-google-plus" style="top: 2px !important;"></i>
             </a>
         </div>
         <hr>
         <button class="btn btn-block btn-social" onclick="forgot_password();" style="background-color: #564272;  color: #fff;">Send Reset Link</button>
     </div>
+<!--    SR: forgot password form-->
     <input id="coming-from" type="text" class="hide" disabled="" style="display: none !important">
 </div>
-<script>$("#login-btn-facebook").on("click",function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-login-channel-fb');}
-else if($("#coming-from").val()=="consumer"){mpq_track('login-channel-fb');}});$("#signup-btn-facebook").on("click",function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-signup-channel-fb');}
-else if($("#coming-from").val()=="consumer"){mpq_track('signup-channel-fb');}});$("#login-btn-google").on("click",function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-login-channel-google');}
-else if($("#coming-from").val()=="consumer"){mpq_track('login-channel-google');}});$("#signup-btn-google").on("click",function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-signup-channel-google');}
-else if($("#coming-from").val()=="consumer"){mpq_track('signup-channel-google');}});$("input[name='signin-email']").on('input',function(e){$("input[name='forgot-email']").val($("input[name='signin-email']").val());});$("input[name='signup-email']").on('input',function(e){$("input[name='forgot-email']").val($("input[name='signup-email']").val());$("input[name='signin-email']").val($("input[name='signup-email']").val());});$("#password").on('input',function(e){$('#result').html(checkStrength($("#password").val()));});function checkStrength(password){var strength=0
-if(password.length<6&&password.length>0){$('#result').removeClass();$('#result').addClass('short');$('#cpass-field').removeClass('hide-this');$.fancybox.update();return'Your password is too short.';}
-if(password.length==0){$('#result').removeClass();$('#cpass-field').addClass('hide-this');$.fancybox.update();}
-else{$('#result').removeClass();$('#cpass-field').removeClass('hide-this');$.fancybox.update();}
-if(password.length>5)strength+=1
-if(password.match(/([a-z].*[A-Z])|([A-Z].*[a-z])/))strength+=1
-if(password.match(/([a-zA-Z])/)&&password.match(/([0-9])/))strength+=1
-if(password.match(/([!,%,&,@,#,$,^,*,?,_,~])/))strength+=1
-if(password.match(/(.*[!,%,&,@,#,$,^,*,?,_,~].*[!,%,&,@,#,$,^,*,?,_,~])/))strength+=1
-if(strength==0){$('#result').removeClass()
-return''}
-else if(strength==1){$('#result').removeClass()
-$('#result').addClass('weak')
-return'Your password is weak.'}
-else if(strength==2){$('#result').removeClass()
-$('#result').addClass('good')
-return'Your password is good.'}
-else{$('#result').removeClass()
-$('#result').addClass('strong')
-return'Your password is strong.'}}
-function validateEmail(email){var re=/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return re.test(email);}
-var is_verified=true;function sign_in(){var signin_email=$("input[name='signin-email']").val();var signin_password=$("input[name='signin-password']").val();is_verified=true;if(signin_email.length==0||!validateEmail(signin_email)){$('#signin-email').text('Your valid email is required.');is_verified=false;}
-else{$('#signin-email').text('');}
-if(signin_password.length==0){$('#signin-password').text('Password is required.');is_verified=false;}
-else{$('#signin-password').text('');}
-$.fancybox.update();if(is_verified){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-login-channel-email');}
-else if($("#coming-from").val()=="consumer"){mpq_track('login-channel-email');}
-$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/auth/e_auth',data:{email:signin_email,pwd:md5(signin_password)},success:function(obj){if(obj.status=="success"){window.location=obj.data;}else{$.pnotify(obj.message);}}});}}
-function sign_up(){var signup_email=$("input[name='signup-email']").val();var signup_password=$("input[name='signup-password']").val();var confirm_password=$("input[name='signup-cpassword']").val();is_verified=true;if(signup_email.length==0||!validateEmail(signup_email)){$('#signup-email').text('Your valid email is required.');is_verified=false;}
-else{$('#signup-email').text('');}
-if(signup_password.length<6){$('#signup-password').text('Password is required with minimum length of 6.');is_verified=false;}
-else{$('#signup-password').text('');}
-if(confirm_password!=signup_password){$('#signup-cpassword').text('Make sure both fields match');is_verified=false;}
-else{$('#signup-cpassword').text('');}
-$.fancybox.update();if(is_verified){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-signup-channel-email');}
-else if($("#coming-from").val()=="consumer"){mpq_track('signup-channel-email');}
-$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/auth/e_signup',data:{email:signup_email,pwd:md5(signup_password)},success:function(obj){if(obj.status=="success"){window.location=obj.data;}else if(obj.message=="email-exists"){$('#email-exist-alert').removeClass('hide');$('#email-exist-social-alert').addClass('hide');$.fancybox.update();}else if(obj.message=="email-exists-against-social-channel"){$('#email-exist-social-alert').removeClass('hide');$('#email-exist-alert').addClass('hide');$.fancybox.update();}
-else{$.pnotify(obj.message);}}});}}
-function forgot_password(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-reset-pwd');}
-else if($("#coming-from").val()=="consumer"){mpq_track('reset-pwd');}
-var signin_email=$("input[name='forgot-email']").val();is_verified=true;if(signin_email.length==0||!validateEmail(signin_email)){$('#forgot-email').text('Your valid email is required.');is_verified=false;}
-else{$('#forgot-email').text('');}
-$.fancybox.update();if(is_verified){$.ajax({type:"POST",dataType:'json',url:'https://swaggable.com/auth/e_forgot',data:{email:signin_email},success:function(obj){if(obj.status=="success"){$('#forgot-email-success-alert').removeClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();}else if(obj.message=="email-not-found"){$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').removeClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();}
-else if(obj.message=="email-exists-against-social-channel"){$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').removeClass('hide');$.fancybox.update();}
-else{$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();$.pnotify(obj.message);}}});}}
-$(document).ready(function(){$(".open-login-dialog").fancybox({fitToView:true,autoSize:true,minWidth:280,height:'auto',maxWidth:280,scrolling:'auto',hideOnOverlayClick:false});$('.signup-with-email').on('click',function(){$('.signup-fields').removeClass('hide');$('#signup-btn').removeClass('hide');$('.email-btn').addClass('hide');$('#email-exist-alert').addClass('hide');$('#email-exist-social-alert').addClass('hide');$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();});$('.show-signup').on('click',function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-signup-home');}
-else if($("#coming-from").val()=="consumer"){mpq_track('signup-header');}
-$("#login-signup-dialog").removeClass('hide');$('.has-error').text('');$('.email-btn').removeClass('hide');$('#signup-btn').addClass('hide');$('.signup-form').removeClass('hide');$('.signup-fields').addClass('hide');$('#cpass-field').addClass('hide-this');$('.signin-form').addClass('hide');$('.forgot-form').addClass('hide');$('#email-exist-alert').addClass('hide');$('#email-exist-social-alert').addClass('hide');$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();});$('.show-signin').on('click',function(){if($("#coming-from").val()=="wholebaby"){mpq_track('wfm-login-home');}
-else if($("#coming-from").val()=="consumer"){mpq_track('login-header');}
-$("#login-signup-dialog").removeClass('hide');$('.signup-form').addClass('hide');$('.forgot-form').addClass('hide');$('.signin-form').removeClass('hide');$('#email-exist-alert').addClass('hide');$('#email-exist-social-alert').addClass('hide');$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();});$('.show-forgot').on('click',function(){$('.signup-form').addClass('hide');$('.signin-form').addClass('hide');$('.forgot-form').removeClass('hide');$('#email-exist-alert').addClass('hide');$('#email-exist-social-alert').addClass('hide');$('#forgot-email-success-alert').addClass('hide');$('#forgot-email-failure-alert').addClass('hide');$('#forgot-email-social-alert').addClass('hide');$.fancybox.update();});});</script><style>.icon-remove:before{position:absolute;top:10px;right:10px;text-decoration:none;cursor:pointer;display:inline-block;speak:none}#help-sticky{display:block;top:36%;position:fixed;left:-25px;ransform:rotate(-90deg);-moz-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);z-index:9999;border-bottom-right-radius:10px;border-bottom-left-radius:10px;background:#836fa9!important;color:#fff;font-family:Lucida\ Sans\ Unicode,Lucida\ Grande,sans-serif;font-size:14px;letter-spacing:1px;border:none}#WFM-sticky{display:none;top:55%;position:fixed;left:-62px;ransform:rotate(-90deg);-moz-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);z-index:9999}#WFMbar{display:block;background-color:#efefef;background:#fff url(https://swaggable.com/application/views/campaigns/resources/images/WFM_BigBanner1.jpg);border-bottom:1px solid #ddd;box-shadow:0 -1px 0 0 #fff inset;color:#000;cursor:pointer;font-size:14px;left:0;position:fixed;width:100%;text-align:center;top:0;height:66px;background-position:center;background-size:cover;z-index:32768;-webkit-box-shadow:0 10px 6px -6px #777;-moz-box-shadow:0 10px 6px -6px #777;box-shadow:0 10px 6px -6px #777;line-height:63px}.btn-white,.btn-white:hover{background:#fff;text-transform:uppercase;border:none}#notifications{background-color:#fff}</style>
-<script>$(document).ready(function(){$('.close-help-popup').on('click',function(){$('#help-popup').addClass('hide');});$("#help-sticky").on('click',function(){$('#help-popup').removeClass('hide');if($("#is-page-has-tour").hasClass("has-tour")){$('.tour-container').removeClass('hide');}
-else{$('.tour-container').addClass('hide');}});$('#start-tour').on('click',function(){if($("#is-page-has-tour").hasClass("has-tour")){$('#help-popup').addClass('hide');tour.restart();tour.start();}
-else{}});});</script><style>h3{font-size:18px}.fancybox-skin{background-color:#fff}.white-font{color:#fff;font-family:KlinicSlab;text-shadow:2px 2px 1px rgba(150,150,150,.69)}.green-font{color:#72a2ab;font-family:KlinicSlab}.heading{clear:both;font-size:19px}.bootstrap-tagsinput{margin-right:0px!important;margin-bottom:0px!important;position:relative;display:block}.label{padding:4px;font-size:14px}#email-subject{background-color:#fff;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-moz-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition: border linear .2s, box-shadow linear .2s;-moz-transition: border linear .2s, box-shadow linear .2s;-o-transition: border linear .2s, box-shadow linear .2s;transition: border linear .2s, box-shadow linear .2s}</style>
+<!--SR: -->
+<script type="text/javascript">
+    //--------------- SR: Click Events related functionality ------------------------------------------
+
+    $(document).ready(function () {
+        $("input[name='signup-remember']").prop( "checked", true );
+        $("input[name='remember']").prop( "checked", true );
+        $(".open-login-dialog").fancybox({
+            fitToView: true,
+            autoSize: true,
+            height: 'auto',
+            maxWidth: 280,
+            scrolling: 'auto',
+            hideOnOverlayClick : false
+        });
+        $('.signup-with-email').on('click', function(){
+            $('.signup-fields').removeClass('hide');
+            $('#signup-btn').removeClass('hide');
+            $('.email-btn').addClass('hide');
+            $('#email-exist-alert').addClass('hide');
+            $('#email-exist-social-alert').addClass('hide');
+            $('#forgot-email-success-alert').addClass('hide');
+            $('#forgot-email-failure-alert').addClass('hide');
+            $('#forgot-email-social-alert').addClass('hide');
+            $.fancybox.update();
+        });
+        $('.show-signup').on('click', function(){
+            $("#login-signup-dialog").removeClass('hide');
+            $('.has-error').text('');
+            $('.email-btn').removeClass('hide');
+            $('#signup-btn').addClass('hide');
+            $('.signup-form').removeClass('hide');
+            $('.signup-fields').addClass('hide');
+            $('#cpass-field').addClass('hide-this');
+            $('.signin-form').addClass('hide');
+            $('.previous-logins-form').addClass('hide');
+            $('.forgot-form').addClass('hide');
+            $('#email-exist-alert').addClass('hide');
+            $('#email-exist-social-alert').addClass('hide');
+            $('#forgot-email-success-alert').addClass('hide');
+            $('#forgot-email-failure-alert').addClass('hide');
+            $('#forgot-email-social-alert').addClass('hide');
+            $.fancybox.update();
+        });
+        $('.show-signin').on('click', function(){
+            if($('.previous-logins-form').children().hasClass('local-storage-thumbnail')){
+                $('.previous-logins-form').removeClass('hide');
+                $('.signin-form').addClass('hide');
+            }
+            else{
+                $('.previous-logins-form').addClass('hide');
+                $('.signin-form').removeClass('hide');
+            }
+            $("#login-signup-dialog").removeClass('hide');
+            $('.signup-form').addClass('hide');
+            $('.forgot-form').addClass('hide');
+            $('#email-exist-alert').addClass('hide');
+            $('#email-exist-social-alert').addClass('hide');
+            $('#forgot-email-success-alert').addClass('hide');
+            $('#forgot-email-failure-alert').addClass('hide');
+            $('#forgot-email-social-alert').addClass('hide');
+            $.fancybox.update();
+        });
+        $('.show-forgot').on('click', function(){
+            $('.previous-logins-form').addClass('hide');
+            $('.signup-form').addClass('hide');
+            $('.signin-form').addClass('hide');
+            $('.forgot-form').removeClass('hide');
+            $('#email-exist-alert').addClass('hide');
+            $('#email-exist-social-alert').addClass('hide');
+            $('#forgot-email-success-alert').addClass('hide');
+            $('#forgot-email-failure-alert').addClass('hide');
+            $('#forgot-email-social-alert').addClass('hide');
+            $.fancybox.update();
+        });
+        $('.login-as-another-user').on('click', function(){
+            $('.previous-logins-form').addClass('hide');
+            $('.signin-form').removeClass('hide');
+            $("#login-signup-dialog").removeClass('hide');
+            $('.signup-form').addClass('hide');
+            $('.forgot-form').addClass('hide');
+            $('#email-exist-alert').addClass('hide');
+            $('#email-exist-social-alert').addClass('hide');
+            $('#forgot-email-success-alert').addClass('hide');
+            $('#forgot-email-failure-alert').addClass('hide');
+            $('#forgot-email-social-alert').addClass('hide');
+            $.fancybox.update();
+        });
+    });
+    //--------------- END Click Events related functionality ------------------------------------------
+
+    //--------------- SR: local storage related functionality ------------------------------------------
+        if(window.localStorage && window.localStorage.getItem('user_data')){
+        var getLocalData = JSON.parse(window.localStorage.getItem('user_data'));
+        for(var i=0; i < getLocalData.length; i++){
+            var html = "<a class='local-storage-thumbnail' user-id='"+ getLocalData[i].user_id +"'>" +
+                "<span class='fa fa-close'></span>" +
+                "<img src='"+ getLocalData[i].picture +"'>" +
+                "<span class='label-username'>"+ getLocalData[i].username +"</span>" +
+                "<span class='label-email'>"+ getLocalData[i].email +"</span>" +
+                "</a>";
+            $(".login-as-another-user").before(html);
+        }
+    }
+        if(window.localStorage){
+        $(document).on('click', '.local-storage-thumbnail .fa-close', function(){
+            var user_id = $(this).parent().attr('user-id');
+            var localData = JSON.parse(window.localStorage.getItem('user_data'));
+            for(var i=0; i < localData.length; i++){
+                if(localData[i].user_id == user_id)
+                    localData.splice(i);
+            }
+            window.localStorage.setItem('user_data', JSON.stringify(localData));
+
+            if($(this).parent().parent().hasClass('previous-logins-form-view')){
+                $('.local-storage-thumbnail[user-id="'+user_id+'"]').remove();
+                if(!$('.previous-logins-form-view').children().hasClass('local-storage-thumbnail'))
+                    $(".login-as-another-user-form").trigger('click');
+            }
+            else{
+                $('.local-storage-thumbnail[user-id="'+user_id+'"]').remove();
+                if(!$('.previous-logins-form').children().hasClass('local-storage-thumbnail')){
+                    $(".login-as-another-user-form").trigger('click');
+                    $(".login-as-another-user").trigger('click');
+                }
+            }
+            $.fancybox.update();
+            return false;
+        });
+        $(document).on('click', '.local-storage-thumbnail', function(){
+            var user_id = $(this).attr('user-id');
+            var localData = JSON.parse(window.localStorage.getItem('user_data'));
+            var is_remember = false;
+            for(var i=0; i < localData.length; i++){
+                if(localData[i].user_id == user_id){
+                    if(localData[i].channel == "Email"){
+                        if(localData[i].email == $.cookie('email') && localData[i].pwd){
+                            e_auth(localData[i].email, localData[i].pwd)
+                            is_remember = true;
+                            break;
+                        }
+                    }
+                    else if(localData[i].channel == "Facebook"){
+                        is_remember = true;
+                        window.location.href = $('#login-btn-facebook').attr('href');
+                    }
+                    else if(localData[i].channel == "Google"){
+                        is_remember = true;
+                        window.location.href = $('#login-btn-google').attr('href');
+                    }
+                }
+            }
+            if(!is_remember){
+                if($(this).parent().hasClass('previous-logins-form-view')){
+                    $("input[name='signin-email-form']").val($(this).children('.label-email').text());
+                    $(".login-as-another-user-form").trigger('click');
+                }
+                else{
+                    $("input[name='signin-email']").val($(this).children('.label-email').text());
+                    $(".login-as-another-user").trigger('click');
+                }
+            }
+        });
+    }
+    //--------------- END local storage related functionality ------------------------------------------
+
+    //--------------- SR: forgot password and password strength related functionality ------------------
+
+    $("input[name='signin-email']").on('input', function (e) {
+        $("input[name='forgot-email']").val($("input[name='signin-email']").val());
+    });
+    $("input[name='signup-email']").on('input', function (e) {
+        $("input[name='forgot-email']").val($("input[name='signup-email']").val());
+        $("input[name='signin-email']").val($("input[name='signup-email']").val());
+    });
+
+    $("#password").on('input', function (e) {
+        $('#result').html(checkStrength($("#password").val()));
+    });
+
+    function checkStrength(password) {
+        //initial strength
+        var strength = 0
+        //if the password length is less than 6, return message.
+        if (password.length < 6 && password.length > 0) {
+            $('#result').removeClass();
+            $('#result').addClass('short');
+            $('#cpass-field').removeClass('hide-this');
+            $.fancybox.update();
+            return 'Your password is too short.';
+        }
+
+        if(password.length == 0){
+            $('#result').removeClass();
+            $('#cpass-field').addClass('hide-this');
+            $.fancybox.update();
+        }
+        else{
+            $('#result').removeClass();
+            $('#cpass-field').removeClass('hide-this');
+            $.fancybox.update();
+        }
+
+
+        //length is ok, lets continue.
+
+        //if length is 8 characters or more, increase strength value
+        if (password.length > 5) strength += 1
+
+        //if password contains both lower and uppercase characters, increase strength value
+        if (password.match(/([a-z].*[A-Z])|([A-Z].*[a-z])/))  strength += 1
+
+        //if it has numbers and characters, increase strength value
+        if (password.match(/([a-zA-Z])/) && password.match(/([0-9])/))  strength += 1
+
+        //if it has one special character, increase strength value
+        if (password.match(/([!,%,&,@,#,$,^,*,?,_,~])/))  strength += 1
+
+        //if it has two special characters, increase strength value
+        if (password.match(/(.*[!,%,&,@,#,$,^,*,?,_,~].*[!,%,&,@,#,$,^,*,?,_,~])/)) strength += 1
+
+        //now we have calculated strength value, we can return messages
+
+        //if value is less than 2
+        if (strength == 0) {
+            $('#result').removeClass()
+            return ''
+        }
+        else if (strength == 1) {
+            $('#result').removeClass()
+            $('#result').addClass('weak')
+            return 'Your password is weak.'
+        }
+        else if (strength == 2) {
+            $('#result').removeClass()
+            $('#result').addClass('good')
+            return 'Your password is good.'
+        }
+        else {
+            $('#result').removeClass()
+            $('#result').addClass('strong')
+            return 'Your password is strong.'
+        }
+    }
+
+    function validateEmail(email) {
+        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(email);
+    }
+    //--------------- END forgot password and password strength related functionality ------------------
+
+    //--------------- SR: Signin / Signup / Forgot password related functionality ----------------------
+
+    var is_verified = true;
+
+    function sign_in() {
+        var signin_email = $("input[name='signin-email']").val();
+        var signin_password = $("input[name='signin-password']").val();
+        is_verified = true;
+        if(signin_email.length == 0 || !validateEmail(signin_email)){
+            $('#signin-email').text('Your valid email is required.');
+            is_verified = false;
+        }
+        else
+            $('#signin-email').text('');
+        if(signin_password.length == 0){
+            $('#signin-password').text('Password is required.');
+            is_verified = false;
+        }
+        else
+            $('#signin-password').text('');
+        $.fancybox.update();
+        if(is_verified) {
+            if($("input[name='remember']").prop('checked')){
+                $.cookie('email', signin_email, { expires: 3650, path: '/' });
+            }
+            e_auth(signin_email, md5(signin_password));
+        }
+    }
+
+    function e_auth(email, password){
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: 'https://swaggable.com/auth/e_auth',
+            data: {email: email, pwd: password},
+            success: function (obj) {
+                if(obj.status == "success")
+                    window.location = obj.data;
+                else
+                    $.pnotify(obj.message);
+            }
+        });
+    }
+
+    function sign_up(){
+        var signup_email = $("input[name='signup-email']").val();
+        var signup_password = $("input[name='signup-password']").val();
+        var confirm_password = $("input[name='signup-cpassword']").val();
+        is_verified = true;
+        if(signup_email.length == 0 || !validateEmail(signup_email)){
+            $('#signup-email').text('Your valid email is required.');
+            is_verified = false;
+        }
+        else
+            $('#signup-email').text('');
+        if(signup_password.length < 6){
+            $('#signup-password').text('Password is required with minimum length of 6.');
+            is_verified = false;
+        }
+        else
+            $('#signup-password').text('');
+        if(confirm_password != signup_password){
+            $('#signup-cpassword').text('Make sure both fields match');
+            is_verified = false;
+        }
+        else
+            $('#signup-cpassword').text('');
+        $.fancybox.update();
+        if(is_verified) {
+            if($("input[name='signup-remember']").prop('checked')){
+                $.cookie('email', signup_email, { expires: 3650, path: '/' });
+            }
+            $.ajax({
+                type: "POST",
+                dataType: 'json',
+                url: 'https://swaggable.com/auth/e_signup',
+                data: { email: signup_email, pwd: md5(signup_password)},
+                success: function (obj) {
+                    if(obj.status == "success")
+                        window.location = obj.data;
+                    else if(obj.message == "email-exists") {
+                        $('#email-exist-alert').removeClass('hide');
+                        $('#email-exist-social-alert').addClass('hide');
+                        $.fancybox.update();
+                    }else if(obj.message == "email-exists-against-social-channel") {
+                        $('#email-exist-social-alert').removeClass('hide');
+                        $('#email-exist-alert').addClass('hide');
+                        $.fancybox.update();
+                    }
+                    else
+                        $.pnotify(obj.message);
+                }
+            });
+        }
+    }
+
+    function forgot_password(){
+        var signin_email = $("input[name='forgot-email']").val();
+        is_verified = true;
+        if(signin_email.length == 0 || !validateEmail(signin_email)){
+            $('#forgot-email').text('Your valid email is required.');
+            is_verified = false;
+        }
+        else
+            $('#forgot-email').text('');
+        $.fancybox.update();
+        if(is_verified) {
+            $.ajax({
+                type: "POST",
+                dataType: 'json',
+                url: 'https://swaggable.com/auth/e_forgot',
+                data: {email: signin_email},
+                success: function (obj) {
+                    if(obj.status == "success"){
+                        $('#forgot-email-success-alert').removeClass('hide');
+                        $('#forgot-email-failure-alert').addClass('hide');
+                        $('#forgot-email-social-alert').addClass('hide');
+                        $.fancybox.update();
+                    } else if(obj.message == "email-not-found"){
+                        $('#forgot-email-success-alert').addClass('hide');
+                        $('#forgot-email-failure-alert').removeClass('hide');
+                        $('#forgot-email-social-alert').addClass('hide');
+                        $.fancybox.update();
+                    }
+                    else if(obj.message == "email-exists-against-social-channel"){
+                        $('#forgot-email-success-alert').addClass('hide');
+                        $('#forgot-email-failure-alert').addClass('hide');
+                        $('#forgot-email-social-alert').removeClass('hide');
+                        $.fancybox.update();
+                    }
+                    else{
+                        $('#forgot-email-success-alert').addClass('hide');
+                        $('#forgot-email-failure-alert').addClass('hide');
+                        $('#forgot-email-social-alert').addClass('hide');
+                        $.fancybox.update();
+                        $.pnotify(obj.message);
+                    }
+                }
+            });
+        }
+    }
+    //--------------- END Signin / Signup / Forgot password related functionality ----------------------
+</script>
+<script type="text/javascript">
+    $(document).on('click', '.cart-checkout', function(){
+        $.fancybox.close();
+    });
+    $(document).on('click','.suggested-product-close',function(){
+        $(this).parent().remove();
+        var remaining_thumbnails = [];
+        $.each($('.sidebar-thumbnail'), function( index, value ) {
+            remaining_thumbnails.push($(this).attr('product-id'));
+        });
+        var product_id = $(this).parent().attr('product-id');
+        var slug = window.location.href.substring(window.location.href.lastIndexOf('/') + 1);
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: 'https://swaggable.com/set_data/mark_suggested_product',
+            data: {
+                product_id: product_id,
+                slug: slug,
+                remaining_thumbnails : remaining_thumbnails
+            },
+            success: function (resp) {
+                if (resp.status == "success") {
+                    $("#sidebar-suggested-products").append(resp.data.html);
+                } else {
+                    if(!$("#sidebar-suggested-products").children().hasClass('thumbnail')){
+                        $('.sidebar-suggested-products-div').addClass('hide-me');
+                    }
+                    if(!$("#sidebar-suggested-products").children().hasClass('thumbnail') && (!$(".sidebar-questions-div").children().is("#sidebar-questions") || $(".sidebar-questions-div").hasClass("hide-me"))){
+                        $(".visible-desktop").addClass("hide-me");
+                        $(".container").css("margin-right", "auto");
+                        $(".container").css("width", "auto");
+                    }
+                }
+            }
+        });
+    });
+    $(document).on('click','.popup-close-btn',function(){
+        $(this).parent().hide("fade", 1000);
+    });
+    $(document).ready(function () {
+        $(".open-cart-popup").on('click', function(){
+            $(".open-cart-popup").fancybox({
+                fitToView: true,
+                width: '450',
+                height: 'auto',
+                autoSize: false,
+                closeClick: false,
+                closeEffect: 'none',
+                scrolling: 'no'
+            });
+        });
+        $("#amazon-cart-div").slimscroll({
+            height: '300px',
+            railVisible: true
+        });
+
+        $("#coming-from").val('consumer');
+        // Marking the visible set of notifications as read when the header button is clicked
+        $("#clear-notifications").on('click', function (e) {
+            $('#loading-icon').show();
+            var notifications = [];
+            $(".read-notification").each(function (index) {
+                notifications.push($(this).val());
+            });
+            $.ajax({
+                type: "POST",
+                dataType: 'json',
+                url: 'https://swaggable.com/set_data/mark_as_read',
+                data: {notification_id: JSON.stringify(notifications)},
+                success: function (obj) {
+                    if (obj != 0) {
+                        $("#notifications-count").text(obj);
+                        $('#loading-icon').hide();
+                        location.reload();
+                    } else {
+                        $("#notifications-count").hide();
+                        $('#loading-icon').hide();
+                    }
+                }
+            });
+
+        });
+
+        $("#clear-coupon").on('click', function (e) {
+            $('#loading-icon').show();
+            var notifications = [];
+            $(".read-coupon").each(function (index) {
+                notifications.push($(this).val());
+            });
+            $.ajax({
+                type: "POST",
+                dataType: 'json',
+                url: 'https://swaggable.com/set_data/mark_as_read_coupon',
+                data: {coupon_codes: JSON.stringify(notifications)},
+                success: function (obj) {
+                    if (obj != 0) {
+                        $("#coupon-notifications-count").text(obj);
+                        $('#loading-icon').hide();
+                        location.reload();
+                    } else {
+                        $("#coupons").hide();
+                        $('#loading-icon').hide();
+                    }
+                }
+            });
+        });
+
+        $('.close-help-popup').on('click', function(){
+            $('#help-popup').addClass('hide');
+        });
+
+        $(".help-sticky").on('click', function(){
+            $('#help-popup').removeClass('hide');
+            if($("#is-page-has-tour").hasClass("has-tour")){
+                $('.tour-container').removeClass('hide');
+            }
+            else{
+                $('.tour-container').addClass('hide');
+            }
+        });
+
+        $('#start-tour').on('click', function(){
+            if($("#is-page-has-tour").hasClass("has-tour")){
+                $('#help-popup').addClass('hide');
+                tour.restart();
+                tour.start();
+            }
+            else{
+            }
+        });
+    });
+
+    function logout_now(){
+        $.ajax({
+            type: "POST",
+            dataType: 'json',
+            url: 'https://swaggable.com/main/clear_session',
+            data: {},
+            success: function (obj) {
+                if(obj.status == "success"){
+                    window.location = obj.data;
+                } else {
+                    $.pnotify(obj.message);
+                }
+            }
+        });
+    }
+
+    function hide_coupon(coupon_code) {
+        var notifications = [];
+        notifications.push(coupon_code);
+        $.ajax({
+            type:"POST",
+            url:'https://swaggable.com/index.php/set_data/mark_as_read_coupon',
+            data:{coupon_codes: JSON.stringify(notifications)},
+            success:function (html) {
+                $(".coupon-div-"+coupon_code).hide();
+                $("#coupon-notifications-count").text(html);
+                if(html == 0){
+                    window.location.reload();
+                }
+            }
+        });
+    }
+
+    function saveAnswerChoice(question_id, answer, type) {
+        if($('#question-section').children().hasClass('questions-tip')){
+            $('.questions-tip').addClass('hide');
+        }
+        $('#saving-icon').removeClass('hide');
+
+        if(!answer || answer.length < 1){
+            $.pnotify("Please select an option and press submit.");
+            $('#saving-icon').addClass('hide');
+            return false;
+        }
+        $.ajax({
+            type:"POST",
+            dataType:'json',
+            url:'https://swaggable.com/want/save_answer_choice/',
+            data:{ question_id:question_id, answer:answer, type: type},
+            success:function (html) {
+                if (html.status == "failed") {
+                    $.pnotify(html.message);
+                    $('#saving-icon').addClass('hide');
+                }
+                else {
+                    if(type != 'question') {
+                        if(html.data.question){
+                            //hide sidebar if no questions else load new
+                            $("#sidebar-questions").html(html.data.view);
+                            $('#saving-icon').addClass('hide');
+                            return 1;
+                        } else {
+                            $.pnotify(html.message);
+                            $(".sidebar-questions-div").addClass("hide-me");
+                            $('#saving-icon').addClass('hide');
+                            if(!$("#sidebar-suggested-products").children().hasClass('thumbnail') && (!$(".sidebar-questions-div").children().is("#sidebar-questions") || $(".sidebar-questions-div").hasClass("hide-me"))){
+                                $(".visible-desktop").addClass("hide-me");
+                                $(".container").css("margin-right", "auto");
+                                $('.main-header-inner').attr('style', 'margin-right: auto !important; max-width: 1020px;    left: 0; margin: auto; right: 0; ');
+                                $(".container").css("width", "auto");
+                                $(".container").css("width", "auto");
+                                
+                            }
+                            return 1;
+                        }
+                    }
+                    if(html.data.question){
+                        $("#question_div").html(html.data.view);
+                        $("#progress_num").html(html.data.question.percentage_done+'%');
+                        $("#progress_bar").css("width", html.data.question.percentage_done+'%');
+                        $('#saving-icon').addClass('hide');
+                    } else {
+                        $("#question-div").hide();
+                        $("#progress_num").html('100%');
+                        $("#progress_bar").css("width", '100%');
+                        $.pnotify(html.message);
+                        $('#saving-icon').addClass('hide');
+                        $("#question_div").html('<h3 class="heading" style="font-size: 16px; margin: 0; text-align: center;">No more Questions</h3>');
+                        $("#profile-status-message").addClass('hide');
+                        if ($('div#question-section-popup').length){
+                            $.fancybox.close()
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function skip(question_id, type) {
+        if($('#question-section').children().hasClass('questions-tip')){
+            $('.questions-tip').addClass('hide');
+        }
+        $('#saving-icon').removeClass('hide');
+
+        $.ajax({
+            type:"POST",
+            dataType:'json',
+            url:'https://swaggable.com/want/skip_answer/',
+            data:{question_id:question_id, type:type},
+            success:function (html) {
+                if (html.status == "failed") {
+                    $.pnotify(html.message);
+                    $('#saving-icon').addClass('hide');
+                }
+                else {
+                    if(type != 'question') {
+                        if(html.data.question){
+                            //hide sidebar if no questions else load new
+                            $("#sidebar-questions").html(html.data.view);
+                            $('#saving-icon').addClass('hide');
+                            return 1;
+                        } else {
+                            $.pnotify(html.message);
+                            $(".sidebar-questions-div").addClass("hide-me");
+                            $('#saving-icon').addClass('hide');
+                            if(!$("#sidebar-suggested-products").children().hasClass('thumbnail') && (!$(".sidebar-questions-div").children().is("#sidebar-questions") || $(".sidebar-questions-div").hasClass("hide-me"))){
+                                $(".visible-desktop").addClass("hide-me");
+                                $(".container").css("margin-right", "auto");
+                                $(".container").css("width", "auto");
+                                $('.main-header-inner').attr('style', 'margin-right: auto !important; max-width: 1020px;    left: 0; margin: auto; right: 0; ');
+
+                            }
+                            return 1;
+                        }
+                    }
+                    if(html.data.question){
+                        $("#question_div").html(html.data.view);
+                        $("#progress_num").html(html.data.question.percentage_done+'%');
+                        $("#progress_bar").css("width", html.data.question.percentage_done+'%');
+                        $('#saving-icon').addClass('hide');
+                    } else {
+                        $("#question-div").hide();
+                        $("#progress_num").html('100%');
+                        $("#progress_bar").css("width", '100%');
+                        $.pnotify(html.message);
+                        $('#saving-icon').addClass('hide');
+                        $("#question_div").html('<h3 class="heading" style="font-size: 16px; margin: 0; text-align: center;">No more Questions</h3>');
+                        $("#profile-status-message").addClass('hide');
+                        if ($('div#question-section-popup').length){
+                            $.fancybox.close()
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    function saveAnswerMultiple(question_id, answers, type) {
+        if($('#question-section').children().hasClass('questions-tip')){
+            $('.questions-tip').addClass('hide');
+        }
+        $('#saving-icon').removeClass('hide');
+
+        if(!answers || answers.length < 1){
+            $.pnotify("Please select an option and press submit.");
+            $('#saving-icon').addClass('hide');
+            return false;
+        }
+
+        $.ajax({
+            type:"POST",
+            dataType:'json',
+            url:'https://swaggable.com/want/save_answer_multiple/',
+            data:{ question_id:question_id, answer:answers, type:type },
+            success:function (html) {
+                if (html.status == "failed") {
+                    $.pnotify(html.message);
+                    $('#saving-icon').addClass('hide');
+                }
+                else {
+                    if(type != 'question') {
+                        if(html.data.question){
+                            //hide sidebar if no questions else load new
+                            $("#sidebar-questions").html(html.data.view);
+                            $('#saving-icon').addClass('hide');
+                            return 1;
+                        } else {
+                            $.pnotify(html.message);
+                            $(".sidebar-questions-div").addClass("hide-me");
+                            $('#saving-icon').addClass('hide');
+                            if(!$("#sidebar-suggested-products").children().hasClass('thumbnail') && (!$(".sidebar-questions-div").children().is("#sidebar-questions") || $(".sidebar-questions-div").hasClass("hide-me"))){
+                                $(".visible-desktop").addClass("hide-me");
+                                $(".container").css("margin-right", "auto");
+                                $(".container").css("width", "auto");
+                            }
+                            return 1;
+                        }
+                    }
+                    if(html.data.question){
+                        $("#question_div").html(html.data.view);
+                        $("#progress_num").html(html.data.question.percentage_done+'%');
+                        $("#progress_bar").css("width", html.data.question.percentage_done+'%');
+                        $('#saving-icon').addClass('hide');
+                    } else {
+                        $("#question-div").hide();
+                        $("#progress_num").html('100%');
+                        $("#progress_bar").css("width", '100%');
+                        $.pnotify(html.message);
+                        $('#saving-icon').addClass('hide');
+                        $("#question_div").html('<h3 class="heading" style="font-size: 16px; margin: 0; text-align: center;">No more Questions</h3>');
+                        $("#profile-status-message").addClass('hide');
+                        if ($('div#question-section-popup').length){
+                            $.fancybox.close()
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    //  ----------------------  SR: update cart  ---------------------------
+    function update_amazon_cart(user_cart){
+        if(user_cart != null){
+            $('.wallet-purchase-url').removeClass('disabled-link');
+            $('.wallet-purchase-url').addClass('btn btn-cart');
+            $('.wallet-purchase-url').html('<span><i class="fa fa-amazon" style="font-size: 13px; position: inherit;"></i> </span> Go to Store');
+            $('.wallet-purchase-url').attr({
+                href: user_cart.purchase_url,
+                target: '_blank'
+            });
+            $('.open-cart-popup').removeClass('disabled-link');
+            $('.open-cart-popup').text(user_cart.cart_items.length + " Item(s)");
+            var html = "";
+            for(var i=0; i<user_cart.cart_items.length; i++){
+                html += '<div class="row-fluid cart-item"><div class="cart-img pull-left">'+
+                    '<img src="'+ user_cart.cart_items[i].image +'" /></div>'+
+                    '<p>'+ user_cart.cart_items[i].quantity +' <span>x</span> '+ user_cart.cart_items[i].title +'</p></div>';
+            }
+            $('#amazon-cart-div').html(html);
+            $('.cart-checkout').attr({
+                href: user_cart.purchase_url,
+                target: '_blank'
+            });
+            $('.btn-cart').attr({
+                href: user_cart.purchase_url,
+                target: '_blank'
+            });
+        }
+        else{
+            $('.wallet-purchase-url').addClass('disabled-link');
+            $('.wallet-purchase-url').removeAttr('href');
+            $('.open-cart-popup').addClass('disabled-link');
+            $('.open-cart-popup').text("0 Item(s)");
+            $('#amazon-cart-div').html("");
+            $('.cart-checkout').removeAttr('href');
+        }
+    }
+
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBB2HT"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NBB2HT');</script>
+<!-- End Google Tag Manager --><div class="container"><style>
+    .sidebar-right{
+        background-color:#fff;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        padding: 20px;
+        border-left: 1px solid #D7D7D7;
+        width: 19%;
+    }
+    .container{
+        margin-right: 25%;
+        width: 73%;
+        padding-top: 130px;
+
+    }
+    #sidebar{
+        height: 500px !important;
+    }
+    .hide-me{display: none !important;}
+    @media (max-width: 1260px) { .sidebar-right{ display: none !important;} .container{ margin-right: auto; }  }
+</style>
+<div class="visible-desktop sidebar-right hide-me">
+    <div id="sidebar" style="margin-top: 120px;">
+        <div class="sidebar-questions-div">
+                    <style>
+                .container{
+                    margin-right: auto;
+                    width: auto;
+                }
+            </style>
+                </div>
+        <div class="sidebar-suggested-products-div">
+                </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://d1825pdd6tk0dj.cloudfront.net//js/responsive/jquery.slimscroll.min.js">
+</script>
+<script type="text/javascript">
+    var height = (window.innerHeight - 50) + 'px';
+    $('#sidebar').slimscroll({
+        height: height,
+        railVisible: true
+    });
+</script><style>
+    h3{
+        font-size: 18px;
+    }
+    .fancybox-skin{
+        background-color:  #FFFFFF;
+    }
+    .white-font{
+        color: #ffffff;
+        font-family: KlinicSlab;
+        text-shadow: 2px 2px 1px rgba(150, 150, 150, 0.69);
+    }
+
+    .green-font{
+        color: #72a2ab;
+        font-family: KlinicSlab;
+    }
+    .heading{
+        clear: both;
+        font-size: 19px;
+    }
+    .bootstrap-tagsinput {
+        margin-right: 0px !important;
+        margin-bottom: 0px !important;
+        position: relative;
+        display: block;
+    }
+    .label{
+        padding: 4px;
+        font-size: 14px;
+    }
+    #email-subject{
+        background-color: #ffffff;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+        -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+        -webkit-transition: border linear .2s, box-shadow linear .2s;
+        -moz-transition: border linear .2s, box-shadow linear .2s;
+        -o-transition: border linear .2s, box-shadow linear .2s;
+        transition: border linear .2s, box-shadow linear .2s;
+    }
+</style>
 <!--Invite friends dialog-->
 <div id="invite-friends-dialog" class="fancybox mobile-box" role="navigation" style="display: none; padding: 15px">
     <div class="row-fluid">
@@ -442,15 +3094,24 @@ else{}});});</script><style>h3{font-size:18px}.fancybox-skin{background-color:#f
 
     <hr>
     <div class="row-fluid">
-        <center><a href="#" id="fb-share-button"><img src="https://d1atocttudmpf3.cloudfront.net/images/fb_share_button.png"></a></center>
+        <center><a href="#" id="fb-share-button"><img alt="Post on Facebook" src="https://d1825pdd6tk0dj.cloudfront.net/images/fb_share_button.png"></a></center>
     </div>
+        <script>
+        $("#fb-share-button").click(function() {
+            var width = 500, height = 300, left = (screen.width/2)-(width/2), top = (screen.height/3)-(height/2);
+            window.open("https://www.facebook.com/sharer/sharer.php?app_id=223829680964591&sdk=joey&u=https%3A%2F%2Fswaggable.com%3Fst_uid%3D%26st_source%3Dfacebook%26st_type%3Dinvite-friends&display=popup&ref=plugin" , "Facemash", "menubar=0,resizable=0,width="+width+",height="+height+",left="+left+",top="+top);
 
-    <script>$("#fb-share-button").click(function(){var width=500,height=300,left=(screen.width/2)-(width/2),top=(screen.height/3)-(height/2);window.open("https://www.facebook.com/sharer/sharer.php?app_id=223829680964591&sdk=joey&u=http%3A%2F%2Fswaggable.com&display=popup&ref=plugin","Facemash","menubar=0,resizable=0,width="+width+",height="+height+",left="+left+",top="+top);_gaq.push(['_trackSocial','facebook','invite share']);DR.log_click("Invite Page","Facebook Share");});</script>
+            _gaq.push(['_trackSocial', 'facebook', 'invite share']);
+
+            DR.log_click("Invite Page", "Facebook Share");
+        });
+
+    </script>
 
     <div class="row-fluid">
         <div id="DIV_7">
             <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
-                        <center><a class="twitter-btn" href="https://twitter.com/intent/tweet?text=Join+me+on+Swaggable.+Discover+new+products+through+%23free+samples%2C+exclusive+offers%2C+and+product+reviews.+swaggable.com"><img style="margin-top: 13px;" src="https://d1atocttudmpf3.cloudfront.net/images/tw_share_button.png" alt="Tweet"></a></center>
+                        <center><a class="twitter-btn" href="https://twitter.com/intent/tweet?text=Join+me+on+Swaggable.+Discover+new+products+through+%23free+samples%2C+exclusive+offers%2C+and+product+reviews.+https%3A%2F%2Fwww.swaggable.com%3Fst_uid%3D%26st_source%3Dtwitter%26st_type%3Dinvite-friends"><img style="margin-top: 13px;" src="https://d1825pdd6tk0dj.cloudfront.net/images/tw_share_button.png" alt="Tweet"></a></center>
                     </div>
     </div>
 
@@ -462,7 +3123,7 @@ else{}});});</script><style>h3{font-size:18px}.fancybox-skin{background-color:#f
         <button id="send-email" class="btn btn-default btn-success" style="float:right;">Send Email</button>
     </div>
     <div class="row-fluid">
-        <center><a class="email-friend-btn" alt="Email a Friend" style="cursor: pointer;"><img style="margin-top: 13px;" src="https://swaggable.com/application/views/campaigns/resources/images/email_button.png"></a></center>
+        <center><a class="email-friend-btn" style="cursor: pointer;"><img alt="Email a Friend" style="margin-top: 13px;" src="https://swaggable.com/application/views/campaigns/resources/images/email_button.png"></a></center>
     </div>
 
     <hr>
@@ -472,29 +3133,169 @@ else{}});});</script><style>h3{font-size:18px}.fancybox-skin{background-color:#f
         </div>
     </div>
 
-    <div class="row-fluid share-url">
-        <p class="span12" onclick="this.select();" style="height: auto; border: 1px inset; word-wrap: break-word; background-color: #eee; border-radius: 5px; padding: 5px">https://swaggable.com/?uid=</p>
+    <div class="row-fluid share-url" style="position: relative;">
+                <p class="span12 sharing-url" style="height: auto; border: 1px inset; word-wrap: break-word; background-color: #eee; border-radius: 5px; padding: 5px; font-size: 12px;">https://swaggable.com/?st_uid=&amp;st_source=sharing-link&amp;st_type=invite-friends</p>
+        <button class="btn btn-success btn-mini copy-sharing-url" data-clipboard-target=".sharing-url" style="position: absolute; top: 5px; right: 5px;" title="Copy to Clipboard">Copy to Clipboard</button>
     </div>
 
 </div>
 
 
-<script type="text/javascript">function is_valid_email(email){var re=/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return re.test(email);}
-$("#send-email").on('click',function(){var is_verified=true;var emails=$("#email-to").tagsinput('items');if(emails.length==0){$.pnotify('Please enter an email address.');is_verified=false;return false;}
-else{for(var i=0;i<emails.length;i++){if(!is_valid_email(emails[i])){$.pnotify('Only valid email addresses are allowed.');is_verified=false;return false;}}}
-var user_id="";if(is_verified){$.ajax({type:'POST',dataType:"json",url:'https://swaggable.com/set_data/invite_friend_by_email',data:{email_to:emails,user_id:user_id},success:function(data){if(data.status=="success"){$.pnotify(data.message);$.fancybox.close();}
-else{$.pnotify("Email sending failed. Please try again later.");$.fancybox.close();}}});}});function close_fancybox(){$.fancybox.close();}
-$(document).ready(function(){$(".open-invite-friends-dialog").on('click',function(){mpq_track("invite-friends");$('.share-url').removeClass('hide');$('#fb-share-button').removeClass('hide');$('#DIV_7').removeClass('hide');$('.email-form').addClass('hide');$('.email-friend-btn').removeClass('hide');$(".open-invite-friends-dialog").fancybox({maxWidth:280,fitToView:true,width:'auto',minHeight:300,autoSize:true,closeClick:false,closeEffect:'none',scrolling:'no'});});$('.email-friend-btn').on('click',function(){$('.email-form').removeClass('hide');$('.email-friend-btn').addClass('hide');$('#fb-share-button').addClass('hide');$('#DIV_7').addClass('hide');$('.share-url').addClass('hide');$.fancybox.update();});});</script><style type="text/css">.sidebar-nav{background-image:url(https://d1atocttudmpf3.cloudfront.net/images/img/sidebar-border.jpg);background-position:right;background-repeat:no-repeat;height:387px}.nav>li>a:hover,.nav>li>a:focus{}.nav-list>.active>a,.nav-list>.active>a:hover,.nav-list>.active>a:focus{background-color:#319406}.sidebar>li>a,.sidebar>li>a{color:#479a00;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;width:90%}label{font-size:inherit}h5{cursor:pointer;display:block}p{padding-left:20px;padding-right:20px}</style>
+<script type="text/javascript">
+    var clipboard_sharing_url = new Clipboard(".copy-sharing-url");
+    clipboard_sharing_url.on('success', function(e) {
+        $(".copy-sharing-url").text("Copied");
+        $.pnotify('Sharing URL copied to clipboard.');
+        e.clearSelection();
+    });
+
+    clipboard_sharing_url.on('error', function(e) {
+        $.pnotify('Unable to copy.');
+    });
+
+    function is_valid_email(email){
+        var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(email);
+    }
+    $("#send-email").on('click', function (){
+        var is_verified = true;
+        var emails = $("#email-to").tagsinput('items');
+        if(emails.length == 0){
+            $.pnotify('Please enter an email address.');
+            is_verified = false;
+            return false;
+        }
+        else{
+            for(var i=0; i<emails.length; i++){
+                if(!is_valid_email(emails[i])){
+                    $.pnotify('Only valid email addresses are allowed.');
+                    is_verified = false;
+                    return false;
+                }
+            }
+        }
+        var user_id = "";
+
+        if(is_verified){
+            $.ajax({
+                type:'POST',
+                dataType: "json",
+                url: 'https://swaggable.com/set_data/invite_friend_by_email',
+                data:{email_to:emails,
+                    user_id:user_id
+                },
+                success: function(data){
+                    if(data.status == "success"){
+                        $.pnotify(data.message);
+                        $.fancybox.close();
+                    }
+                    else{
+                        $.pnotify("Email sending failed. Please try again later.");
+                        $.fancybox.close();
+                    }
+                }
+            });
+        }
+    });
+
+    function close_fancybox(){
+        $.fancybox.close();
+    }
+    $(document).ready(function(){
+        $(".open-invite-friends-dialog").on('click', function(){
+            $('.share-url').removeClass('hide');
+            $('#fb-share-button').removeClass('hide');
+            $('#DIV_7').removeClass('hide');
+
+            $('.email-form').addClass('hide');
+            $('.email-friend-btn').removeClass('hide');
+            $(".open-invite-friends-dialog").fancybox({
+                maxWidth: 280,
+                fitToView: true,
+                width: 'auto',
+                minHeight: 300,
+                autoSize: true,
+                closeClick: false,
+                closeEffect: 'none',
+                scrolling: 'no'
+            });
+        });
+        $('.email-friend-btn').on('click', function(){
+            $('.email-form').removeClass('hide');
+            $('.email-friend-btn').addClass('hide');
+
+            $('#fb-share-button').addClass('hide');
+            $('#DIV_7').addClass('hide');
+            $('.share-url').addClass('hide');
+
+            $.fancybox.update();
+        });
+    });
+
+</script><style type="text/css">
+    .sidebar-nav {
+        background-image: url('https://d1825pdd6tk0dj.cloudfront.net/images/img/sidebar-border.jpg');
+        background-position: right;
+        background-repeat: no-repeat;
+        height: 387px;
+    }
+
+    .nav>li>a:hover, .nav>li>a:focus {
+        /*background-color: #e4f9d2;*/
+    }
+
+    .nav-list>.active>a, .nav-list>.active>a:hover, .nav-list>.active>a:focus {
+        background-color: #319406;
+    }
+
+    .sidebar>li>a, .sidebar>li>a {
+        color: #479a00;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        width: 90%;
+    }
+
+    label {
+        font-size: inherit;
+    }
+
+    h5 {
+        cursor: pointer;
+        display: block;
+    }
+    p{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+</style>
 <div class="row-fluid">
     <div class="sidebar-nav span3">
-        <script type="text/javascript">$(document).ready(function(){$('#div-faq h5').each(function(){var tis=$(this),state=false,answer=tis.next('div').hide().css('height','auto').slideUp();tis.click(function(){state=!state;answer.slideToggle(state);tis.toggleClass('active',state);});});});</script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('#div-faq h5').each(function () {
+                    var tis = $(this), state = false, answer = tis.next('div').hide().css('height', 'auto').slideUp();
+                    tis.click(function () {
+                        state = !state;
+                        answer.slideToggle(state);
+                        tis.toggleClass('active', state);
+                    });
+                });
+            });
+        </script>
 
-        <script>$(document).ready(function(){$('label.tree-toggler').click(function(){$(this).parent().children('ul.tree').toggle(300);});});</script>
+        <script>
+            $(document).ready(function () {
+                $('label.tree-toggler').click(function () {
+                    $(this).parent().children('ul.tree').toggle(300);
+                });
+            });
+        </script>
         <ul class="nav nav-list sidebar">
             <li class="heading">Help</li>
             <li class="divider"></li>
-            <li id="how-it-works"><a href="https://swaggable.com/how-it-works">How it Works</a></li>
-            <li id="faq"><a href="https://swaggable.com/faq">FAQ</a></li>
+            <li id="how-it-works"><a href="http://support.swaggable.com">How it Works</a></li>
+            <li id="faq"><a href="http://support.swaggable.com">FAQ</a></li>
             <li id="invite-friends"><a href="https://swaggable.com/share">Invite Friends</a></li>
                             <li id="new-features"><a href="https://swaggable.com/new-features">Our Blog</a></li>
                             <li class="divider"></li>
@@ -548,24 +3349,52 @@ Use of this Site is governed by, and subject to, the legal notices contained in 
 Effective Date: This privacy policy is effective and was last updated on December 3rd, 2011.</p>
 </div><hr></div>
 </div>
-<script type="text/javascript">$(document).ready(function(){$('#privacy-policy').addClass('active');});</script><style>.buttoncontact{font-family:Arial;color:#fff;font-size:13px;padding-left:10px;padding-right:10px;padding-top:4px;padding-bottom:4px;text-decoration:none;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;-webkit-box-shadow:0px 0px 3px #666;-moz-box-shadow:0px 0px 3px #666;box-shadow:0px 0px 3px #666;text-shadow:0px 1px 3px #730473;border:solid #d91c71 1px;background:-webkit-gradient(linear,0 0,0 100%,from(#4a9c00),to(#6cd40b));background:-moz-linear-gradient(top,#4a9c00,#6cd40b)}</style>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#privacy-policy').addClass('active');
+    });
+</script><style>
+
+    .buttoncontact {
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 13px;
+        padding-left: 10px;
+        padding-right:10px;
+        padding-top:4px;
+        padding-bottom:4px;
+        text-decoration: none;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        border-radius: 15px;
+        -webkit-box-shadow: 0px 0px 3px #666666;
+        -moz-box-shadow: 0px 0px 3px #666666;
+        box-shadow: 0px 0px 3px #666666;
+        text-shadow: 0px 1px 3px #730473;
+        border: solid #d91c71 1px;
+        background: -webkit-gradient(linear, 0 0, 0 100%, from(#4a9c00), to(#6cd40b));
+        background: -moz-linear-gradient(top, #4a9c00, #6cd40b);
+    }
+
+</style>
 
 <hr>
 
-<footer style="clear: both;">
+<footer style="clear: both;" class="site-footer">
     <p><a class="btn btn-social btn-facebook" style="width: 175px; height: 23px; margin-bottom: 10px; " href="https://www.facebook.com/BeSwaggable" target="_blank"><i class="fa fa-facebook"></i> Become a Fan</a>
         <a class="btn btn-social btn-twitter" style="width: 175px; height: 23px; margin-bottom: 10px;" target="_blank" href="https://twitter.com/#!/beswaggable"><i class="fa fa-twitter"></i> Follow on Twitter</a>
-        <a class="btn btn-social btn-twitter zendesk-tab" style="background-color: #564272; color: #fff; width: 175px; height: 23px;  margin-bottom: 10px;" href="https://swaggable.zendesk.com/account/dropboxes/2830039812" onclick="script: Zenbox.show(); return false;"><i class="fa fa-at"></i> Contact Us</a>
-        <a class="btn btn-social btn-twitter zendesk-tab mobile-zendesk-tab" style="margin-bottom: 10px; background-color: #564272; color: #fff; width: 175px; height: 23px" href='javascript:fg_popup_form("fg_formContainer","fg_form_InnerContainer","fg_backgroundpopup");'><i class="fa fa-at"></i> Contact Us</a>
+        <a class="btn btn-social btn-twitter zendesk-tab" style="background-color: #564272; color: #fff; width: 175px; height: 23px;  margin-bottom: 10px;" href="" onclick="script: Zenbox.show(); return false;"><i class="fa fa-at"></i> Contact Us</a>
+        <a class="btn btn-social btn-twitter zendesk-tab mobile-zendesk-tab" style="margin-bottom: 10px; background-color: #564272; color: #fff; width: 175px; height: 23px" href="" onclick="script: Zenbox.show(); return false;"><i class="fa fa-at"></i> Contact Us</a>
     </p>
 
     <p style="text-align: center; font-size: 14px;">
-        <a href="https://marketers.swaggable.com">Marketers</a> |
-        <a href="https://swaggable.com/how-it-works">How it Works</a> |
+        <a href="http://marketers.swaggable.com">Marketers</a> |
+        <a href="http://support.swaggable.com" target="_blank">How it Works</a> |
+        <a class="help-sticky" href="#">Help</a> |
         <a href="https://swaggable.com/about-us">About Us</a> |
         <a href="https://swaggable.com/privacy-policy">Privacy Policy</a> |
         <a href="https://swaggable.com/tos">TOS</a> |
-        <a target="_blank" href="https://swaggable.com/rss"> <img src="https://d1atocttudmpf3.cloudfront.net/images/img/feed-icon-14x14.png" alt=""> Subscribe to New Products</a>
+        <a target="_blank" href="https://swaggable.com/rss"> <img src="https://d1825pdd6tk0dj.cloudfront.net/images/img/feed-icon-14x14.png" alt=""> Subscribe to New Products</a>
     </p>
 </footer>
 
@@ -573,7 +3402,7 @@ Effective Date: This privacy policy is effective and was last updated on Decembe
 </div>
 
     <hr>
-    <article class="join-banner" style="left:0px;">
+    <article class="join-banner">
         <div class="join-bg">
 
         </div>
@@ -582,19 +3411,41 @@ Effective Date: This privacy policy is effective and was last updated on Decembe
                                     <h1 class="h1" style="width: 85%;"><span class="holder">Try Great New Products with Friends for Free!</span> </h1><br>
                     <h3 class="h2" style="margin-top: -40px;">Joining Swaggable is super simple. Sign-up now to start trying new products you'll love.</h3>
                             </hgroup>
-            <a class="open-login-dialog show-signup join-button button tint btn btn-large" style="top: 15px; background: #79bd4e; border: none; color: #FFFFFF;" href="#login-signup-dialog">Sign Up</a>
-        </section>
+                            <a class="open-login-dialog show-signup join-button button tint btn btn-large" style="top: 15px; background: #79bd4e; border: none; color: #FFFFFF;" href="#login-signup-dialog">Sign Up</a>
+                    </section>
 
         <section class="join-mobile">
-            <a class="open-login-dialog show-signup join-button button tint btn" style="top: 30px; background: #79bd4e; border: none; color: #FFFFFF;" href="#login-signup-dialog">Sign Up</a>
+            <a class="open-login-dialog show-signup join-button button tint btn" style="background: #79bd4e; border: none; color: #FFFFFF;" href="#login-signup-dialog">Sign Up</a>
         </section>
     </article>
 
-
 <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
-<link rel="stylesheet" href="//assets.zendesk.com/external/zenbox/v2.6/zenbox.css" type="text/css" media="screen, projection">
-<script type="text/javascript">if(typeof(Zenbox)!=="undefined"){Zenbox.init({dropboxID:"20136385",url:"https://swaggable.zendesk.com",tabTooltip:"Support",tabImageURL:"https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",tabColor:"#7b4592",tabPosition:"Right",hide_tab:true});}</script>
-
+<style type="text/css" media="screen, projection">
+    @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+<script type="text/javascript">
+    if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+            dropboxID:   "20136385",
+            url:         "https://swaggable.zendesk.com",
+            tabTooltip:  "Support",
+            tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",
+            tabColor:    "#7b4592",
+            tabPosition: "Right",
+            hide_tab:    true
+        });
+    }
+    if(document.referrer.indexOf('platform') > -1)
+    {
+        $('.join-banner').hide();
+        $('.help-sticky').hide();
+        $('.main-header').hide();
+        $('.company-reviews').hide();
+        $('.site-footer').hide();
+        $('#WFM-sticky').hide();
+        $('.want_product_button').hide();
+    }
+</script>
 
 
 </body></html>
