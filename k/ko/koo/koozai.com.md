@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316093159id_/https%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816161308id_/https%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Koozai
+
+[ ](https://web.archive.org/) [We're hiring](https://web.archive.org/about/jobs/ "#KoozaiAreHiring")
+
+We love digital _\- Call_ **  
+03332 207 677** _and say hello -_ Mon - Fri, 9am - 5pm
+
+Call **03332 207 677**
+
+We promise not to spy on you and eat all your cookies
 
 ## Introduction
 
