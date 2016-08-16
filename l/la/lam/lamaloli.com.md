@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216224724id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816122418id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
 
 # LamaLoLi - Pages
 
@@ -86,7 +86,7 @@ If you would prefer not to receive our newsletter please click the ‘unsubscrib
 
 LamaLoLi GmbH
 
-Rheinpromenade 6
+Rheinpromenade 11
 
 40789 Monheim am Rhein
 
