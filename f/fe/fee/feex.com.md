@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feex.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513055058id_/https%3A//www.feex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feex.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816131405id_/https%3A//www.feex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FeeX
 
