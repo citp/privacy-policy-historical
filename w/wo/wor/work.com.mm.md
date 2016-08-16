@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com.mm privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316202711id_/https%3A//www.work.com.mm/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com.mm privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816224839id_/https%3A//www.work.com.mm/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Work.com.mm
 
