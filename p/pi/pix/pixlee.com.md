@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pixlee.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519063726id_/http%3A//www.pixlee.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixlee.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817003600id_/https%3A//www.pixlee.com/legal%23privacy) for the most accurate reproduction.*
 
-# Terms of Service
+# These Terms of Service govern your access to and use of the Pixlee platform and services
 
 ###  Pixlee Privacy Policy 
 
