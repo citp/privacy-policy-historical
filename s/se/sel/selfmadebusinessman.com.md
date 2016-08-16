@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the selfmadebusinessman.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608063338id_/http%3A//www.selfmadebusinessman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmadebusinessman.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816131156id_/https%3A//ninjaoutreach.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-This privacy policy sets out how SelfMadeBusinessman uses and protects any information that you give while using www.selfmadebusinessman.com
+This privacy policy sets out how NinjaOutreach uses and protects any information that you give while using www.NinjaOutreach.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-SelfMadeBusinessman may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9/26/2014.
+NinjaOutreach may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9/26/2014.
 
 **What we collect**
 
@@ -24,17 +24,17 @@ We require this information to understand your needs and provide you with a bett
 
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * From time to time, we may also use your information to contact you for [market research](https://ninjaoutreach.com/6-easy-steps-to-research-your-market-like-an-expert/) purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -60,9 +60,3 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-**Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
