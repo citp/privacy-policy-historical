@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnel.io privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429012737id_/http%3A//funnel.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnel.io privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817081951id_/https%3A//funnel.io/privacy) for the most accurate reproduction.*
 
 # Funnel privacy policy
 
