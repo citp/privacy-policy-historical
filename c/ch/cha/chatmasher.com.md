@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatmasher.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617054507id_/http%3A//chatmasher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatmasher.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817102943id_/https%3A//chatmasher.com/privacy) for the most accurate reproduction.*
 
 # ChatMasher - Privacy Policy
 
