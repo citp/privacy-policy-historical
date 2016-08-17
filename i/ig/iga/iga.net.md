@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iga.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151537id_/https%3A//www.iga.net/en/utilities/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iga.net privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817040047id_/https%3A//www.iga.net/en/utilities/privacy_policy) for the most accurate reproduction.*
 
 # Sobeys Privacy Commitment
 
