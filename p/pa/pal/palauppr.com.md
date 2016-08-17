@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404214942id_/http%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palauppr.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817195706id_/https%3A//www.palauppr.com/privacy-policy) for the most accurate reproduction.*
 
 # Palau Pacific Resort :: Privacy Policy
 
 
-[ Reservations  ](https://mobile.synxis.com/67243/?locale=en-us)
+[ Reservations  ](https://gc.synxis.com/rez.aspx?Hotel=67243&Chain=18703)
 
 Palau Pacific Resort will only collect personally identifiable information that you voluntarily provide through our Web site or e-mail correspondence. We may also collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our Web site and better serve your needs.
 
