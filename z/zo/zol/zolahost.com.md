@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2015-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150104143851id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817224334id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
