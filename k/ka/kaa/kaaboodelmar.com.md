@@ -1,107 +1,80 @@
-> *The following text is extracted and transformed from the kaaboodelmar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214717id_/https%3A//www.kaaboodelmar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaaboodelmar.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817105548id_/https%3A//www.kaaboodelmar.com/privacy) for the most accurate reproduction.*
 
-# KAABOO Del Mar: Legal
+# Privacy Policy - KAABOO Del Mar
 
-The Website located at www.kaaboodelmar.com (the “Website”) is operated by KAABOOWORKS, LLC (“KAABOOWORKS,” “us,” or “we”). This Privacy Policy discloses the privacy practices for the Website. 
+The KAABOO-Del Mar, LLC (“KAABOO”) is committed to protecting your privacy. This Privacy Policy (“Policy”) tells you about our online collection and use of data on the [www.kaaboodelmar.com](https://www.kaaboodelmar.com/) website, the [www.kaabooexperience.com](http://www.kaabooexperience.com/) website, the KAABOO application and the KAABOO social media pages (the collectively the “Services”). By using this Services, you understand and agree to the terms of this Policy. In addition, please review our [Terms of Use](https://www.kaaboodelmar.com/terms-conditions/), which governs your use of the Services and any content you submit to the Services.
 
-You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site. 
+BY DISCLOSING YOUR PERSONAL INFORMATION TO KAABOO, YOU CONSENT TO THE COLLECTION, STORAGE AND PROCESSING OF YOUR PERSONAL INFORMATION BY KAABOO IN A MANNER CONSISTENT WITH THIS PRIVACY POLICY.
 
-We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions, or deletions shall be effective immediately upon posting. If we make material changes we will pose the revised policy here with an updated Effective Date. You acknowledge and agree that it is your responsibility to review this site and this Policy periodically, and to be aware of any modifications. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy. 
+#### 1\. What is Personal Information?
 
-1\. Types of Information Collected
+As used herein, the term “Personal Information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, or e-mail address), or information about that individual that is directly linked to personally identifiable information. Personal Information does not include “aggregate information”, which is data we collect about the use of the Service or users from which individual identities or other Personal Information has been removed. Personal Information does not include Usage Information (as defined below) or a Device Identifier (as defined below) that is not connected to Personal Information. This Policy in no way restricts or limits our collection and use of aggregate or Usage Information that is not connected to Personal Information.
 
-We collect two types of information about our Website users: Personally Identifiable Information and Non­Personally Identifiable Information. 
+#### 2\. Information Collected on our Services
 
-Personally Identifiable Information:
+_**Information You Provide Us.**_ You may be asked to provide us with Personal Information including your name and e-mail address when you sign up for our mailing list or register for the KAABOO application.
 
-This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this site, such as registering as a user, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, entering a contest, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities; however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), email address, employer, job title and department, telephone and facsimile numbers, and other personally identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+_**Information We Collect.**_ KAABOO collects information about you when you when you access the Services. We may collect information about the website that referred you to us, your IP address, browser type and language, and access times. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the Services. All of this information is considered “Usage Information.” Usage Information is generally non-identifying, but if KAABOO associates it with you as a specific and identifiable person, KAABOO treats it as Personal Information.
 
-Non­Personally Identifiable Information:
+In the course of collecting Usage Information, KAABOO also automatically collects your IP address or other unique identifier (“Device Identifier”) for the computer, mobile device, technology or other device (collectively, “Device”) you use to access the Services. A Device Identifier is a number that is automatically assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. When you visit the Services, we may view your Device Identifier. We may use this information to enhance the Services. The technologies used on the Services to collect Usage Information, including Device Identifiers may also include, without limitation:
 
-This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site’s Uniform Resource Locator (“URL”) that you just came from, which URL you next go to, what browser you are using, and/or your Internet Protocol (“IP”) address. We may also collectstatistical information such as the number of pages of our Website that you view and which pages you access. 
+_**Cookies.**_ The Services use cookies. Cookies are small text files that are stored on a user’s computer and allow websites to remember information about users. You have the choice to set your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us to send you cookies. However, please be aware that if you disable or reject cookies, some features on our Services may not work properly.
 
-2\. Collection Methods and Use of Information
+_**Web Beacons.**_ Certain pages on the Services may contain “web beacons” (also known as Internet tags, pixel tags, tracking beacons and clear GIFs). A web beacon is a transparent graphic image placed on a web page or in an email, which indicates that a page or email has been viewed or that an email has been forwarded. In addition, a web beacon allows third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. A web beacon may also tell your browser to get content from another server.
 
-We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you (a) register for our services and register your email address with us; (b) enter contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms, or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected. 
+_**Information We Receive from Third Parties.**_ We may receive information from third parties. For example, if you are on another website and you agree to share your Personal Information with KAABOO, that website will forward to us your Personal Information. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including Personal Information. If you access the Services through a third-party connection or log-in, we may also collect your user ID and/or username associated with that third-party service, and any information you have made public in connection with that service or which the third party shares with partner services.
 
-In addition, we may also collect, or our third­party ad server and/or content server may collect, certain Non­Personally Identifiable Information. We use your IP address to diagnose problems with our servers, software, to administer our site, and to gather demographic information. Our third­party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site. 
+We may also supplement the information we collect about you through the Services, with other information from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from third parties with information we collect through the Service. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise.
 
-We will use your Personally Identifiable Information for our general commercial purposes, including to provide our services to you, as required by our agreements with you. We may also use Personally Identifiable Information to enhance the operation of our site, fill orders, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site’s content, layout, and services. We may use Personally Identifiable Information to deliver information to you about our products and services and the products and services of others we think may be of interest to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems, and enforce our agreements with you, including our Site Terms of Use, Sales Terms and Conditions, and this Privacy Policy. 
+#### 3\. How We Use Your Information
 
-3\. Release of Information
+KAABOO collects and uses your Personal Information and the other information we collect to improve our Services; to process your requests; to deliver advertisements; to send you newsletters, offers, promotions, information about upcoming events, confirmations, updates, security alerts, and support and administrative messages; to detect and prevent fraud; and to otherwise facilitate your use of and our administration and operation of the Services; and for any other purpose for which the information was collected.  
+At your request, we may send you marketing emails or newsletters. If you do not wish to receive marketing emails or newsletters from us, you may follow the “unsubscribe” instructions included within each email communication.
 
-We do not sell, trade, or rent your Personally Identifiable Information to others. We may share your Personally Identifiable Information with our affiliated companies for their commercial use. We do not share your information with any party, including affiliates, for their direct marketing use. 
+#### 4\. Who We Share Your Information With
 
-We may reveal Personally Identifiable Information about you to unaffiliated third parties: (1) if you request or authorize it; (2) if the information is provided to help complete a transaction for you; (3) if the information is provided to comply with the law, applicable regulations, governmental and quasi­governmental requests, court orders or subpoenas, to enforce our Terms of Use or otheragreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); (4) if the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets); (5) if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); or (6) as otherwise described in this Privacy Policy. 
+Except as disclosed in this privacy policy, KAABOO does not share your Personal Information with any outside parties. We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties. We also may share your information as disclosed at the time you provide your information.
 
-We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners and is not subject to our control. 
+We may share your Personal Information with service providers who perform services on our behalf. For example, we may hire other companies to host the Services, process your requests, and to assist with our email communications. Those companies will be permitted to obtain only the Personal Information they need to provide the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-We may also provide Non­Personally Identifiable Information about our customers’ sales, traffic patterns, product usage statistics, and related site information to our affiliates and to third­partyies, but these statistics do not include any Personally Identifiable Information. 
+Your Personal Information may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which Personal Information would be transferred as one of the business assets of the company.
 
-When you submit your Personally Identifiable Information (i.e. your name, email address, etc.) in the discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any submissions to chat rooms or other public areas on this site are accepted with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. Please be careful and responsible whenever you are online. 
+We reserve the right to disclose your Personal Information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
 
-4\. Updating and Correcting Information
+#### 5\. Your California Privacy Rights
 
-You have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by accessing your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at: 
-    
-    
-    KAABOOWORKS, LLC  
-    
-    5619 DTC Pkwy. Ste. 800  
-    
-    Greenwood Village, CO 80111  
-    
-    Attn: General Counsel  
-    
-    
+We do not share your Personal Information with third parties for their marketing purposes.
 
-Please include your name, address, and/or email address when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information because of backups.5. User Choices on Collection and Use of Information 
+#### 6\. Your Access and Choices
 
-We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only KAABOOWORKS (or agents working on behalf of KAABOOWORKS and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your account information to no longer receive such offers and mailings. You may opt out of any promotional emails from us by following the instructions on the emails you receive. We will process your request promptly. Opting out of promotional emails will not prevent us from sending you transactional emails. 
+You may always direct us not to use your Personal Information to provide you with information or offers, or not to send you e-mails or other communications by sending us an e-mail at marketing@kaaboodelmar.com or 303-957-2015. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
-You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, some parts of our site may not work properly. 
+In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Services. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-6\. Protecting Children's Privacy
+#### 7\. Links to Other Sites
 
-You must be at least 18 years old to have our permission to use this site. This Website is not designed nor intended to be attractive to use by children under the age of 18 ("Minors"). We do not knowingly collect information from minors. If you are under the age of 18, please do not submit any information to us. 
+The Services may provide links to other websites that we do not own or operate. For instance, the Services may link to third party websites which provide services to KAABOO such as selling tickets and merchandise. This includes links from partners who may use our logo(s) as part of a co-branding agreement. To the extent that any linked websites are not part of the Services, we do not control, recommend or endorse and are not responsible for those websites or their content, products, services, or privacy policies or practices. These other websites may send their own cookies to your device, they may independently collect data or solicit Personal Information and may or may not have their own privacy notices or policies. You should also independently assess the authenticity of any website which appears or claims that it is one of our Services.
 
-7\. Security of Information
+#### 8\. International Visitors
 
-We have reasonable administrative, technical and physical safeguards to protect your Personally Identifiable Information against unauthorized access, misuse, destruction or disclosure. You play a part in securing your information as well. Access to your Personally Identifiable Information is available through a password and unique customer ID selected by you. Any use of your customer ID and password is considered to be authorized by you. We recommend that you protect your customer ID and password and do not divulge them to anyone. 
+Personal information collected by KAABOO is stored and processed in the United States. If you access the Services from outside of the United States, you consent to the processing of your personal information in the United States.
 
-In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third­party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. We do not receive or keep your credit card information. 
+#### 9\. Security of Your Personal Information
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, youacknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. 
+The security of your personal information is important to us. However, no method of transmission over the internet, or method of electronic storage, is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security.
 
-8\. Cookies
+#### 10\. Children
 
-When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us. Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, make the site run more smoothly, and help us to maintain a secure site. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case. Our Website may use the following types of cookies: 
+We do not intend to solicit or collect personal information from anyone under the age of 13. If you are under 13, you should not use or enter information on this Services.
 
-Session cookies: These temporary cookies expire and are automatically erased whenever you close your browser window. We use session cookies to grant our users access to content and to enable actions they must be logged in to do. Persistent cookies: These usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. We use persistent cookies to better understand usage patterns so we can improve the site for our customers. For example, we may use a persistent cookie to associate you with your user account or to remember that your choices on the Site, but this only works when cookies on our site are enabled. 
+#### 11\. Changes to this Privacy Policy
 
-Third party cookies: We permit limited third parties to place cookies through theWebsite to provide us with better insights into the use of the Website or user demographics or to provide relevant advertising to you. These third parties may collect information about a consumer’s online activities over time and across different websites when he or she uses our Website. For example, we may use an outside ad serving company to display banner advertisements on our site. As part of their service, they will place a separate cookie on your computer. We will not provide any third­party ad server with any of your Personally Identifiable Information or information about your purchases. We and our third­party ad server will collect and use Non­Personally Identifiable Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular ad. Other advertisers may also place banner ads on our site in the same manner as above, but we will not disclose any Personally Identifiable Information to them. 
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the “Last Updated” date at the top of the policy. If there are material changes to this policy, we will notify you by prominently posting a notice of such changes here or on our home page. We encourage you to review this policy whenever you visit our Services.
 
-We may also permit third party service providers to place cookies through our Site, as indicated above, to perform analytic or marketing functions where you are notified of them and you have consented to theusage. We do not control the use of such third party cookies or the resulting information and we are not responsible for any actions or policies of such third parties. Your use of our Site will be deemed to be your consent to the placement of cookies on your computer or other device. If you prefer not to receive cookies through our Site, you can set your browser to either reject all cookies, to allow only “trusted” websites to set them, or to accept only those cookies from those sites you are currently on. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Site and use it. 
+#### 12\. How to Contact Us
 
-We do not use technology that recognizes a “do­not­track” signal from your web browser. 
+If you have any questions or comments about this Policy, please contact us at marketing@kaaboodelmar.com or 303-957-2015.
 
-9\. Links to Third­Party Sites
+#### 13. Opt-Out
 
-When you use the Site or our service, you may be directed to other websites that are beyond our control. These may include merchant sites or payment sites. We may also allow thirds­party sites or applications to link to the Site. Other sites accessible through our site have their own privacy policies and data collection, use, and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. 
-
-10\. Contacting Us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: 
-    
-    
-    KAABOOWORKS, LLC  
-    
-    5619 DTC Pkwy, Ste. 800  
-    
-    Greenwood Village, CO 80111  
-    
-    Attn: General Counsel  
-    
-    
-
-Effective Date: October 16, 2014. Updated: July 8, 2015. 
+Users can opt out of receiving targeted advertising by visiting [www.aboutads.info](http://www.aboutads.info/) or the NAI opt-out site at [networkadvertising.org/choices](http://www.networkadvertising.org/choices/), or for those in Europe, the EDAA opt out site at [youronlinechoices.eu](http://www.youronlinechoices.com/).)
