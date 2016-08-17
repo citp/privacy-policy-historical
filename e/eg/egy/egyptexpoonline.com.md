@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egyptexpoonline.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617145938id_/http%3A//www.egyptexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egyptexpoonline.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817212030id_/http%3A//www.egyptexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
