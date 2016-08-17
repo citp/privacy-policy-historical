@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordissimo.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731020313id_/http%3A//www.keywordissimo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordissimo.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817104239id_/http%3A//www.keywordissimo.com/privacy.php) for the most accurate reproduction.*
 
 # Keywordissimo - Keyword Analysis
 
