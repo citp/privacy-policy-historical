@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mintvine.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810083306id_/http%3A//mintvine.com/page/mintvine-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintvine.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817212715id_/https%3A//mintvine.com/page/mintvine-privacy-policy) for the most accurate reproduction.*
 
 # MintVine | MintVine Privacy Policy | MintVine
 
 ## MintVine Privacy Policy
 
-Last Updated:  01/20/2014
+Last Updated:  6/22/2016
 
 ## MINTVINE WEBSITE PRIVACY POLICY
 
@@ -12,7 +12,7 @@ Branded Research, Inc. (" **BRINC** ," " **us** " or " **we** "), the operator o
 
 ### The Information BRINC Collects
 
-User Provided Information:  You may provide to BRINC what is generally called "personally identifiable" information when you register, such as your name and e-mail address.  In addition, BRINC gives you the option to provide us with certain demographic information about yourself and to upload photographs or other personally identifiable information.  In order to become a member of the Site you are required to provide information through the registration process.  At this time, BRINC will ask for your name, email, IP address, and general demographic information about yourself, including household information and personal interests.  BRINC is able to tailor its efforts to its users by receiving more (and accurate) information about them.  You may edit your account information at anytime by logging in to your account with your username and password and going to the My Account tab underneath your name in the Dashboard.  Any and all changes will be made immediately once you hit Save.  Please update this information as you see fit so that BRINC maintains accurate information about you.
+User Provided Information:  You may provide to BRINC what is generally called "personally identifiable" information when you register, such as your name and e-mail address.  In addition, BRINC gives you the option to provide us with certain demographic information about yourself and to upload photographs or other personally identifiable information.  In order to become a member of the Site you are required to provide information through the registration process.  At this time, BRINC will ask for your name, email, address, telephone number, IP address, and general demographic information about yourself, including household information and personal interests.  BRINC is able to tailor its efforts to its users by receiving more (and accurate) information about them.  You may edit your account information at anytime by logging in to your account with your username and password and going to the My Account tab underneath your name in the Dashboard.  Any and all changes will be made immediately once you hit Save.  Please update this information as you see fit so that BRINC maintains accurate information about you.
 
 "Cookies" Information:  When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer.  BRINC uses both session cookies and persistent cookies.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site.  By using these cookies, we can "remember" what you have done on the Site before and personalize our site for you.  These persistent types of cookies can be removed.  Each web browser implements different functionality, so please refer to the manuals or technical support resources that are available in conjunction with your web browser to learn the correct way to modify your cookies set-up.  If you are using the Site in a jurisdiction where your prior consent is required for us to deploy any particular cookies, you will be asked to accept such cookies before they are deployed.  Please note that disabling cookies or declining to accept certain cookies will prevent you from accessing some of the functionality and site offerings available via the Site. 
 
@@ -106,5 +106,6 @@ BRINC reserves the right, at our discretion, to change, modify, add, or remove p
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at privacy@mintvine.com or write to us at:
 
 MintVine  
-1220 Rosecrans St. #440   
-San Diego, CA 92106
+343 4th Ave
+
+San Diego, CA 92101
