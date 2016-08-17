@@ -1,20 +1,25 @@
-> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324064551id_/http%3A//www.statusanxiety.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817193020id_/https%3A//www.statusanxiety.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Status Anxiety
 
-**PROTECTING YOUR PRIVACY  **  
+## PROTECTING YOUR PRIVACY 
+
 Status Anxiety is committed to protecting your privacy and as such will not sell or share it’s customer details to anyone…EVER!
 
-**INFORMATION SECURITY**  
+## INFORMATION SECURITY
+
 For an order to be placed with us, we need to hold personal information including your name, email address, phone number, shipping address and credit/debit card details so that we can process and fulfill your order. To ensure this information is kept safe, a Secure Socket Layer (SSL) encrypts the information before it is sent to us.
 
-**PAYMENT SECURITY**  
+## PAYMENT SECURITY
+
 All credit card payments are securely processed by Secure Pay and ANZ Bank - they have smart people who set up the payment gateway on our site and make sure your information is protected at all times. 
 
-**WHAT ABOUT THOSE COOKIES**  
+## WHAT ABOUT THOSE COOKIES
+
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not store or send any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. You will need cookies enabled to use the Status Anxiety website to it’s full capability.
 
-**QUESTIONS OR  COMPLAINTS**  
+## QUESTIONS OR COMPLAINTS
+
 If you require more information please visit the our [contact us page](http://www.statusanxiety.com.au/pages/contact) and send us an email, or you can snail mail us at:
 
 Status Anxiety Pty Ltd  
