@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508161014id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817221651id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # .::AS::. Jardello - Auto Surf : Free Auto Hits Traffic Your WebSites
 
