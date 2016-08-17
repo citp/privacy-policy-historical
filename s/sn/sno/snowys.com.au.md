@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowys.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615005936id_/http%3A//www.snowys.com.au/privacy-policy.aspx%3Fpid%3D34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowys.com.au privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818013332id_/http%3A//www.snowys.com.au/privacy-policy.aspx%3Fpid%3D34) for the most accurate reproduction.*
 
 # Privacy Policy | Snowys Outdoors
 
