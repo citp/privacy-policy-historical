@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074333id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817081615id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -7,6 +7,18 @@
 CaringBridge is committed to providing the information you need to make informed choices about the ways you use our Service. This Privacy Policy describes the personal information we collect when you use our Service. It also describes how we use the personal information you share with us and some of the steps we take to protect your privacy.
 
 **By using the Service, you agree to the terms of this Privacy Policy and our[Terms of Use](https://web.archive.org/terms-of-use).**
+
+## International Privacy and Consent
+
+By submitting your personal information to us, you are consenting to the processing of your personal information in the United States. CaringBridge is located in the United States and all data related to the Service and individual Sites (as defined below) is collected and processed by CaringBridge in the United States. Your personal data will therefore be transferred to, processed and stored in a country (the United States) which may be outside of the country where you live.
+
+We regularly review and update this Privacy Policy and our practices and procedures with respect to your personal information in accordance with the section below entitled “Privacy Notices and Privacy Policy Changes.”
+
+If you are not located in the United States, your local privacy laws may give you certain rights to access information held about you and you may have the right to ask us not to process your personal data for marketing purposes by emailing us at [privacy@caringbridge.org](mailto:privacy@caringbridge.org).
+
+Our Chief Privacy Officer is accountable for our compliance with this Privacy Policy, for the implementation of our procedures and production of your personal information. For any questions directed to our Chief Privacy Officer, please contact attn.: Chief Privacy Officer at our “Contact Us” information below.
+
+By using the Site and our Services, you have consented to this Privacy Policy and all amendments and updates, as provided in the English language only.
 
 ## Personal Information and Privacy Settings
 
@@ -41,6 +53,8 @@ IP addresses do not include your name, email address or other information that i
 _Cookies and Similar Technologies._ We use "cookies" and other web technologies to collect information and support certain features of the Service on our Site. For example, we may use these technologies to:
 
   * collect information about the ways people use the Service - which pages they visit, which links they use, and how long they stay on each page; 
+  * estimate the number of visitors using the Service; 
+  * recognize when you return to use the Service;
   * support the features and functionality of the Service - for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits; and 
   * personalize your experience when you use the Service.
 
@@ -54,7 +68,7 @@ The use of cookies by our partners, tracking utility company, and service provid
 
 Our third party tracking-utility and ad network partner uses a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content by informing us what content is effective on our Site or on Individual Sites. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on certain pages on the Site and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-In the future, we may also use third-party vendors, such as Google Analytics, to promote our Services to our users online. These ad network partners may display our promotions or information regarding our Services on other websites based on your internet usage. Any information that these third parties collect via cookies will also not be linked to your personally identifiable information we collect.
+We may also use third-party vendors, such as Google Ad Words, Bing Ads and/or Yahoo Gemini, to promote our Services online. These ad network partners may display our promotions or information regarding our Services on other websites based on your internet usage. Any information that these third parties collect via cookies will not be linked to your personally identifiable information.
 
 If you wish to opt-out of targeted promotions based on your internet usage, you may opt-out by going to http://www.networkadvertising.org/managing/opt_out.asp. By completing this opt-out request, you will still receive online advertising, but it will not include targeted promotions based on cookies and online analytics.
 
@@ -80,7 +94,7 @@ Generally, CaringBridge does not use any personal information posted in content 
 
 _Survey Information._ From time to time, we may post a survey on the Service, if we have your contact information and your consent, we may send you a questionnaire or survey. Your participation in any survey is always voluntary. We compile statistical information from the responses to our surveys. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of the Site as well as Individual Sites.
 
-_Email Communications from the Site._ We will occasionally send you information about products, services, newsletters and promotions on our Service. You can sign up for these emails from us on our registration page. Out of respect for your privacy, we present the option not to receive these types of communications. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). We offer an opportunity to opt-out of certain communications in your account, or you may contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org) or CaringBridge 1715 Yankee Doodle Rd. Suite 301, Eagan, MN 55121 to opt-out.
+_Email Communications from the Site._ We will occasionally send you information about products, services, newsletters and promotions on our Service. You can sign up for these emails from us on our site. Out of respect for your privacy, we present the option not to receive these types of communications. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). We offer an opportunity to opt-out of certain communications in your account, or you may contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org) or CaringBridge 1715 Yankee Doodle Rd. Suite 301, Eagan, MN 55121 to opt-out.
 
 _Notifications from the Mobile Application._ When using our mobile application we will provide you with the opportunity to opt into receiving notifications from us through your device. If you no longer wish to receive these communications you may opt out of receiving them at the device level by modifying your profile settings.
 
@@ -110,7 +124,7 @@ _Import Contacts._ You can import contacts from your email account address book 
 
 _Social Media Features._ Our Services include certain social media buttons or widgets which allow you to share, retweet or otherwise easily transfer content from our Site to social medial platforms (“Social Media Features”). These Social Media Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Social Media Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Social Media Features are governed by the privacy policy of the company providing it and the privacy settings you have selected on the social media platform.
 
-_Single Sign-On._ You can log in to our site using sign-in services such as Facebook or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook give you the option to post information about your activities on the Site to your profile page to share with others within your network.
+_Single Sign-On._ You can log in to our site using sign-in services such as Facebook or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our signup form. Services like Facebook give you the option to post information about your activities on the Site to your profile page to share with others within your network.
 
 _Testimonial._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
@@ -146,4 +160,4 @@ This Service, including individual Sites, may provide links to other websites op
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 1715 Yankee Doodle Road, Suite 301, Eagan, MN, U.S.A. 55121, Attn: Privacy Coordinator.
+If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 1715 Yankee Doodle Road, Suite 301, Eagan, MN, U.S.A. 55121, Attn: Chief Privacy Officer.
