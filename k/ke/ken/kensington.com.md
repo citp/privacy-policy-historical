@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235612id_/http%3A//www.kensington.com/kensington/us/us/s/1382/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817151845id_/https%3A//www.kensington.com/us/us/4731/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kensington
 
@@ -61,10 +61,7 @@ Session cookies do not stay on your computer after you close your browser.
 
 Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser.
 
-The following browsers have online guides to cookies at the following links:
-
-Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>  
-Mozilla Firefox: <http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html>
+The instructions on disabling cookies, [click here. ](http://www.usa.gov/optout-instructions.shtml)
 
 Please be aware that a number of features on our site require cookies to operate correctly – turning off cookies will affect your experience on our website.
 
@@ -82,7 +79,11 @@ Some of these links will enable ACCO brands to identify that you have personally
 
 **d. Third-party websites and services**
 
-ACCO Brands works with a number of service providers of marketing communications technology. These service providers may use various data collection methods to improve the performance of the marketing campaigns we are contracting them to provide. The Data collected can be gathered on our websites and also on the websites where our marketing communications are appearing. For example we may collect data where our banner adverts are displayed on third party websites.
+ACCO Brands works with a number of service providers of marketing communications technology. These service providers may use various data collection methods to improve the performance of the marketing campaigns we are contracting them to provide. The Data collected can be gathered on our websites and also on the websites where our marketing communications are appearing. For example we may collect data where our banner adverts are displayed on third party websites. This type of ad vertising is sometimes called "online behavioral" or "interest-based" advertising — is enabled through your computer browser and browser cookies. Such online advertising helps support the free content, products and services you get online. To opt-out of these advertising networks, [click here](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%2FhmjTEU5z17eUqWqGg38431UFwdcjKPmjr1YIBS8JiI%2BSLDwEYGJlv6SgFQrTNMbBn3rgMXBU%3D#completed).
+
+**e. Ratings & Review, Questions and Answers**
+
+On sites where Ratings & Reviews, and Questions & Answers data is collected and displayed on our sites the use of any data collected through its cookies is subject to the Bazaarvoice Privacy Policy, and can be found [here](http://www.bazaarvoice.com/privacy-policy/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%2FhmjTEU5z17eUqWqGg38431UFwdcjKPmjr1YIBS8JiI%2BSLDwEYGJlv6SgFQrTNMbBn3rgMXBU%3D).
 
 **5\. Social Media**
 
@@ -176,7 +177,7 @@ We value your opinions and welcome your feedback. Please use the contact methods
 
 **14\. Other Policies and statements**
 
-Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/legalNotice)
+Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/web/20160817151845id_/https%3A//www.kensington.com/us/us/legalNotice)
 
 **15\. Governing Law**
 
@@ -186,3 +187,12 @@ Please be aware that if you provide personal information to our Web sites that
 
 (a) that information may go to a country that has different privacy laws than your own country or the country in which you are using the Web site or service  
 (b) it will be handled in accordance with this policy and the laws of the country where the Web site is located or directed
+
+Kensington Conputer Products Group
+
+1500 Fashion Island Blvd,  
+3rd Floor,   
+San Mateo,   
+CA 94404
+
+[](http://www.bbb.org/greater-san-francisco/business-reviews/computers-supplies-and-parts/kensington-computer-products-group-in-san-mateo-ca-64379#bbbseal "Kensington Computer Products Group, Computers  Supplies & Parts, San Mateo, CA")
