@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602190015id_/http%3A//www.goprocessing.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817084723id_/http%3A//www.goprocessing.in/privacy-policy) for the most accurate reproduction.*
 
 # Go Processing - Privacy Policy
 
