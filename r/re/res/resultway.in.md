@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultway.in privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121071344id_/http%3A//www.resultway.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultway.in privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817220717id_/https%3A//www.resultway.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResultWay.in
 
