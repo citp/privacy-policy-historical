@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616105320id_/http%3A//www.gamingunion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817101901id_/http%3A//www.gamingunion.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamingUnion.net
 
