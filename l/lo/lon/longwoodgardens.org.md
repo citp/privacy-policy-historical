@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617182544id_/http%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817102807id_/http%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Longwood Gardens
 
@@ -20,7 +20,7 @@ This notice applies to all information collected by or submitted to our websites
 
   * Name of member
   * Name of recipient/s of gift memberships (if applicable)
-  * Names of family members (for Family, Garden Plus and/or Dual memberships)
+  * Names of family members
   * Address
   * Email address
   * Phone number
