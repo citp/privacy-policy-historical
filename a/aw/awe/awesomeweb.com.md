@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409033159id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818004823id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · AwesomeWeb
 
