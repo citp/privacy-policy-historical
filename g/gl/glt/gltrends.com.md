@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gltrends.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513052511id_/http%3A//www.gltrends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gltrends.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817180120id_/https%3A//www.gltrends.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - GL Trends
 
 We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on gltrends.com
 
@@ -25,8 +25,3 @@ Concerns or questions about this privacy policy can be directed to admin at gltr
 3) A privacy policy has been drafted for GLtrends.com. See  <http://www.gltrends.com/privacy/>
 
 I’m ready to do whatever may be additionally required to make my site fully complaint with your policies.
-
-  
-
-
-**NOTE:-** After Dropping your comment, keep calm, it will take some mins before it appears. 
