@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostextremenews.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618131513id_/http%3A//mostextremenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostextremenews.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817184944id_/https%3A//mostextremenews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Most Extreme News
 
