@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parcelbound.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224215319id_/https%3A//www.parcelbound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelbound.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817182739id_/https%3A//www.parcelbound.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Parcelbound
+# Privacy Policy User Agreement - Parcelbound
 
 **What information do we collect?**
 
