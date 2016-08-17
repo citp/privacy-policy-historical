@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520194551id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817143352id_/https%3A//www.lendup.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
+
+## LendUp Privacy Policy
+
+LendUp is dedicated to promoting a world of transparency & complete disclosure in the financial services industry.
 
 We take our customer privacy very seriously and are committed to our customers' privacy. Scroll down this page to learn what personal information we collect from consumers, how we collect and use it, how we protect it, and how we share personal information. We do not share our customers’ or former customers’ personal information except for our everyday business purposes such as to verify identity or eligibility for our loan products, to process transactions, maintain account(s), respond to court orders and legal investigations, or report to credit bureaus. 
 
@@ -97,6 +101,6 @@ LendUp allows you to manage your account and information on www.lendup.com. Once
 
 #### LendUp Publishes Our Privacy Policy For Everyone To See
 
-You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20160520194551id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
+You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://www.lendup.com/) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
 
 Last Updated: 04/28/2016
