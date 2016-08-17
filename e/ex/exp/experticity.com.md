@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experticity.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505110446id_/https%3A//www.experticity.com/business/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experticity.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817020739id_/https%3A//www.experticity.com/business/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experticity.com
 
@@ -916,4 +916,4 @@ eXperticity
 EU Safe Harbor Framework）に準拠します。 eXperticityは、通知、選択、転送、セ  
 キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor  
 Privacy Principles）に準拠していることを証明しています。 セーフハーバープログラムの詳細について、および  
-eXperticityの証明書の閲覧については、 [ http://www.export.gov/safeharbor/](https://web.archive.org/web/20160505110446id_/https://www.experticity.com/business/about-us/privacy-policy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
+eXperticityの証明書の閲覧については、 [ http://www.export.gov/safeharbor/](https://web.archive.org/web/20160817020739id_/https://www.experticity.com/business/about-us/privacy-policy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
