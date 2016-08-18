@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422174623id_/https%3A//www.thereadingroom.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818131924id_/https%3A//www.thereadingroom.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Reading Room
 
 ## Introduction
 
-TheReadingRoom.com (Site) is owned by Reading Room Inc. ('TRR') (referred to as "We", "us" and "our"). This statement sets out TRR's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TRR's Terms & Conditions governing TRR and should be read in conjunction with the [Terms & Conditions.](http://www.thereadingroom.com/terms_conditions)
+thereadingroom.com (Site) is owned by bookstr Inc. ('TRR') (referred to as "We", "us" and "our"). This statement sets out TRR's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TRR's Terms & Conditions governing TRR and should be read in conjunction with the [Terms & Conditions.](http://www.thereadingroom.com/terms_conditions)
 
 The following policies set out how we protect your personal information and safeguard your privacy.
 
@@ -14,13 +14,13 @@ This Site is operated in the United States and is designed and targeted to U.S. 
 
 Whenever you visit TRR, our servers automatically record information about your usage of TRR, such as the time of the visit, its duration and the pages you visit. This is to help us understand what parts of our Site our users enjoy the most and to help us ensure that advertisements on TRR are most directly relevant to your interests. If you have not identified yourself on TRR, such as by registering for Membership or logging in as a member, if you browser permits cookies we may still be able to track your usage of TRR over multiple visits and associate that information with your identity when you become a member.
 
-## If you are a registered member of TheReadingRoom.com and have logged in
+## If you are a registered member of thereadingroom.com and have logged in
 
 Once you have become a member of TRR, we collect personal information about you in order to provide you with the full benefits of Membership. When you first register for Membership, we collect information from you such as your e-mail address, name, country and state. As you interact with TRR, we collect information about your interests and preferences and in order to present more relevant information, recommendations, new releases and other information TRR to you. If you do not provide us with your personal information we may not be able to provide some or all of the services available on TRR to you. If you are under the age of 13, please refer to our Children's Privacy Policy.
 
 ## Children's Privacy Policy
 
-TheReadingRooom.com does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under the age of 13, please do not provide any personal information such as your name, address, email address, telephone number, as persons under the age of 13 are not allowed to provide any personal information to or on TRR. In the event that we learn or become aware that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete the information as soon as possible. If you believe that we might have any information from or about a child under 13, without parental consent, then please contact us immediately.
+Thereadingrooom.com does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under the age of 13, please do not provide any personal information such as your name, address, email address, telephone number, as persons under the age of 13 are not allowed to provide any personal information to or on TRR. In the event that we learn or become aware that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete the information as soon as possible. If you believe that we might have any information from or about a child under 13, without parental consent, then please contact us immediately.
 
 ## If you register with one of our Affiliate Partners
 
@@ -36,7 +36,7 @@ We understand that even with our Privacy Policy, some people will not feel comfo
 
 ## Cookies and Device Identifiers
 
-The use of cookies helps us make sure TRR is more relevant to you. They help us personalise your experience of TRR by providing recommendations, and other information, that is relevant to you. Cookies help us understand how effective our site is and help us provide a better service. They help us identify visitors to TRR who have previously registered. Cookies do not personally identify you, but your browser.
+The use of cookies helps us make sure TRR is more relevant to you. They help us personalize your experience of TRR by providing recommendations, and other information, that is relevant to you. Cookies help us understand how effective our site is and help us provide a better service. They help us identify visitors to TRR who have previously registered. Cookies do not personally identify you, but your browser.
 
 We use third-party advertising companies to serve ads when you visit TRR. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -103,19 +103,19 @@ From time to time you may receive invitations from other users to be your Friend
 
 We will take all reasonable steps to keep secure any information we hold about you. Your information is stored on secure servers that are protected in controlled facilities. 
 
-In addition, our employees and the contractors who provide services related to our information systems endeavor to respect the confidentiality of any personal information held by us, however, we cannot be held responsible for events arising from unauthorised access to your personal information. 
+In addition, our employees and the contractors who provide services related to our information systems endeavor to respect the confidentiality of any personal information held by us, however, we cannot be held responsible for events arising from unauthorized access to your personal information. 
 
-It is important that you do not provide your password or accounts details for TRR to anyone and that you keep your information in a safe and secure location. You must notify us immediately if there is any unauthorised use of your account by any other Internet user or you become aware of any breach of security.
+It is important that you do not provide your password or accounts details for TRR to anyone and that you keep your information in a safe and secure location. You must notify us immediately if there is any unauthorized use of your account by any other Internet user or you become aware of any breach of security.
 
-We accept members from all around the world. By providing information to us you expressly authorise us to transfer it to a location that best suits our systems for the storage and management of the information that may be outside your home country. If your information is transferred to a location outside Australia we will ensure that is held, accessed and used strictly I accordance with the terms of this Privacy Policy in the United States of America and the Australian Privacy Act (Cth).
+We accept members from all around the world. By providing information to us you expressly authorize us to transfer it to a location that best suits our systems for the storage and management of the information that may be outside your home country. If your information is transferred to a location outside Australia we will ensure that is held, accessed and used strictly I accordance with the terms of this Privacy Policy in the United States of America and the Australian Privacy Act (Cth).
 
-We maintain a record of your account details and file for as long as you are a member of TheReadingRoom and for at least a period of 24 months after you cease to be a member. You may reactivate your account at any time during that period. We may erase site usage and other information collected by us for site optimisation and account management purposes at any time. 
+We maintain a record of your account details and file for as long as you are a member of The Reading Room and for at least a period of 24 months after you cease to be a member. You may reactivate your account at any time during that period. We may erase site usage and other information collected by us for site optimization and account management purposes at any time. 
 
 ## How you can access your information
 
 If you are a TRR member, you can access, change and update your Membership profile at any time on TRR by going to your Profile page and updating your selection of the information you wish to remain Private, Public or available to share with friends. 
 
-When you make a request to access personal information, we will require you to provide some form of identification so we can verify that you are the person to whom the information relates. In some cases, we may also request a reasonable administrative fee to cover the costs of access. We will endeavour to make this information available to you in a timely manner. If at any time you wish to amend or have destroyed personal information that we hold about you because it is inaccurate or out-of-date, please contact us at the email address specified below. We will amend or destroy this information except in limited circumstances in which we are permitted or required not to. In some cases, we keep information for legal or internal risk reasons.
+When you make a request to access personal information, we will require you to provide some form of identification so we can verify that you are the person to whom the information relates. In some cases, we may also request a reasonable administrative fee to cover the costs of access. We will endeavor to make this information available to you in a timely manner. If at any time you wish to amend or have destroyed personal information that we hold about you because it is inaccurate or out-of-date, please contact us at the email address specified below. We will amend or destroy this information except in limited circumstances in which we are permitted or required not to. In some cases, we keep information for legal or internal risk reasons.
 
 ## What to do if you have a problem or question
 
