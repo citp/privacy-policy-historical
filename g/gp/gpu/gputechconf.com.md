@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619113426id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819015356id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy/Your California Privacy Rights | NVIDIA
 
 This policy was last updated on June 15, 2016.
 
 NVIDIA is committed to respecting your privacy. This Privacy Policy applies to our world-wide family of NVIDIA-operated websites (including www.nvidia.com, www.slizone.com, 3DVision Live, GeForce.com, GTC, TegraZone.com, and shield.nvidia.com) and mobile apps and hardware and software products including any internet-connected devices (our "Services").
+
+______________________________________________________________________________________________________________________________________ 
 
 * #### Introduction
 
