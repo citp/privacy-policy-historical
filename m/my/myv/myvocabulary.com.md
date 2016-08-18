@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvocabulary.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914212637id_/https%3A//myvocabulary.com/dir-info-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvocabulary.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818142254id_/https%3A//myvocabulary.com/dir-info-privacypolicy) for the most accurate reproduction.*
 
 # Vocabulary, Vocabulary games - www.myvocabulary.com
 
