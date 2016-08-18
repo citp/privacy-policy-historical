@@ -1,934 +1,539 @@
-<!--The following is the downloaded HTML source of the learningally.org privacy policy that was archived on 2015-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151106131710id_/https%3A//go.learningally.org/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-
-
-	<meta charset="UTF-8">
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=466937073327189&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAFU1ZSGwcBXFVaAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-
-	
-
-	
-	<title>Privacy Policy | Learning Ally</title>
-
-	
-
-	<meta name="keywords" content="privacy, accessbility, learning ally">
-
-	<!-- <meta name="viewport" content="width=device-width,initial-scale=1">	-->
-
-	<meta name="viewport" content="width = 950px" initial-scale="1.0">
-
-	
-
-	<!-- Search engine verification tags -->
-
-	<meta name="msvalidate.01" content="632BB7641495BA3F35440EF957475AB1">
-
-	
-
-	<link href="https://go.learningally.org/wp-content/themes/Lighthouse/style.css" media="screen" rel="stylesheet" type="text/css">
-
-	<link href="https://go.learningally.org/wp-content/themes/Lighthouse/stylesheets/informational.css" media="screen" rel="stylesheet" type="text/css">
-
-  	<script src="https://go.learningally.org/wp-content/themes/Lighthouse/javascripts/application.js" type="text/javascript"></script>
-
-	<script src="https://go.learningally.org/wp-content/themes/Lighthouse/javascripts/bootstrap.min.js" type="text/javascript"></script>
-
-    <!-- Font Awesome CSS -->
-
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-	
-
- 	<script>var LA = {};</script>
-
- 	
-
- 	<!-- no longer need MediaMath code as of July 2014 -->
-
-	
-	
-
-	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://go.learningally.org/feed/">
-
-	<link rel="alternate" type="text/xml" title="RSS .92" href="https://go.learningally.org/feed/rss/">
-
-	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://go.learningally.org/feed/atom/">
-
-	<link rel="pingback" href="https://go.learningally.org/xmlrpc.php">
-
-	<link rel="icon" href="https://go.learningally.org/favicon.ico" type="image/x-icon">
-
-
-
-	
-		<!-- jquery workaround for IE to support placeholder inputs git: https://github.com/mathiasbynens/jquery-placeholder -->
-
-		<script type="text/javascript" src="https://go.learningally.org/wp-content/themes/Lighthouse/javascripts/jquery.placeholder.js"></script>
-
-		<script type="text/javascript">
-
-		   $(function() {
-
-		    $('input, textarea').placeholder();
-
-		   });
-
-		</script>
-
-
-
-	
-	
-
-		<script type="text/javascript">
-
-		 
-
-		  var _gaq = _gaq || [];
-
-		  _gaq.push(['_setAccount', 'UA-22081078-53']);
-
-		  _gaq.push(['_setDomainName', '.learningally.org']);
-
-		  _gaq.push(['_setAllowLinker', true]);
-
-		  _gaq.push(['_trackPageview']);
-
-		  
-
-		 
-		 
-
-		  (function() {
-
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
-		  })();
-
-		 
-
-		</script>
-
-
-
-	
-
-
-	<style type="text/css">Default CSS Comment</style>
-<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://go.learningally.org/privacy/">
-<link rel="publisher" href="https://plus.google.com/108255844779026447464/posts">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy - Learning Ally">
-<meta property="og:description" content="Learning Ally, Inc. 20 Roszel Rd Princeton, NJ 08540 We can be reached via e-mail at Privacy. The effective date of this policy is 4-1-2007 For nearly 60 years, Learning Ally, formerly RFB&amp;D, has been an invaluable educational resource, enabling those with print disabilities to complete their education, advance their careers and gain self esteem. …">
-<meta property="og:url" content="https://go.learningally.org/privacy/">
-<meta property="og:site_name" content="Learning Ally">
-<meta property="article:publisher" content="http://www.facebook.com/LearningAlly.org">
-<meta property="fb:admins" content="729660581">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Learning Ally, Inc. 20 Roszel Rd Princeton, NJ 08540 We can be reached via e-mail at Privacy. The effective date of this policy is 4-1-2007 For nearly 60 years, Learning Ally, formerly RFB&amp;D, has been an invaluable educational resource, enabling those with print disabilities to complete their education, advance their careers and gain self esteem. […]">
-<meta name="twitter:title" content="Privacy - Learning Ally">
-<meta name="twitter:site" content="@Learning_Ally">
-<meta name="twitter:domain" content="Learning Ally">
-<meta name="twitter:creator" content="@Learning_Ally">
-<!-- / Yoast SEO plugin. -->
-
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/go.learningally.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=86c6989f46b9ad21fa4c38924fdb1c25"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://go.learningally.org/wp-includes/js/wp-emoji-release.min.js?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="srp-layout-stylesheet-css" href="https://go.learningally.org/wp-content/plugins/special-recent-posts/css/layout.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="https://go.learningally.org/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="all">
-<style id="rs-plugin-settings-inline-css" type="text/css">
-.tp-caption a{color:#ffffff;text-decoration:underline;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#eeeeee;text-decoration:none}
-</style>
-<link rel="stylesheet" id="nav-css" href="https://go.learningally.org/wp-content/themes/Lighthouse/stylesheets/nav-nr.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="https://go.learningally.org/wp-content/plugins/tablepress/css/default.min.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_custom_css-css" href="https://go.learningally.org/wp-content/uploads/js_composer/custom.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="screen">
-<script type="text/javascript" src="https://go.learningally.org/wp-includes/js/jquery/jquery.js?ver=86c6989f46b9ad21fa4c38924fdb1c25"></script>
-<script type="text/javascript" src="https://go.learningally.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=86c6989f46b9ad21fa4c38924fdb1c25"></script>
-<script type="text/javascript" src="https://go.learningally.org/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=86c6989f46b9ad21fa4c38924fdb1c25"></script>
-<script type="text/javascript" src="https://go.learningally.org/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=86c6989f46b9ad21fa4c38924fdb1c25"></script>
-
-<link rel="shortlink" href="https://go.learningally.org/?p=1262">
-<meta property="fb:app_id" content="466937073327189">		<script type="text/javascript">
-			jQuery(document).ready(function() {
-				// CUSTOM AJAX CONTENT LOADING FUNCTION
-				var ajaxRevslider = function(obj) {
-				
-					// obj.type : Post Type
-					// obj.id : ID of Content to Load
-					// obj.aspectratio : The Aspect Ratio of the Container / Media
-					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
-					
-					var content = "<h2>THIS IS SOME TITLE</h2><br/>";
-
-					content += "Type:"+obj.type+"</br>";
-					content += "ID:"+obj.id+"</br>";        
-					content += "Aspect Ratio:"+obj.aspectratio+"</br>";  
-					
-					data = {};
-					
-					data.action = 'revslider_ajax_call_front';
-					data.client_action = 'get_slider_html';
-					data.token = 'c9ab18bc6e';
-					data.type = obj.type;
-					data.id = obj.id;
-					data.aspectratio = obj.aspectratio;
-					
-					// SYNC AJAX REQUEST
-					jQuery.ajax({
-						type:"post",
-						url:"https://go.learningally.org/wp-admin/admin-ajax.php",
-						dataType: 'json',
-						data:data,
-						async:false,
-						success: function(ret, textStatus, XMLHttpRequest) {
-							if(ret.success == true)
-								content = ret.data;								
-						},
-						error: function(e) {
-							console.log(e);
-						}
-					});
-					
-					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
-					 return content;						 
-				};
-				
-				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
-				var ajaxRemoveRevslider = function(obj) {
-					return jQuery(obj.selector+" .rev_slider").revkill();
-				}
-
-				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
-				var extendessential = setInterval(function() {
-					if (jQuery.fn.tpessential != undefined) {
-						clearInterval(extendessential);
-						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined')
-							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
-							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
-							// func: the Function Name which is Called once the Item with the Post Type has been clicked
-							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
-							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
-					}
-				},30);
-			});
-		</script>
-		<meta property="og:title" content="Privacy">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://go.learningally.org/privacy/">
-<meta property="og:description" content="Learning Ally, Inc. 20 Roszel Rd Princeton, NJ 08540 We can be reached via e-mail at Privacy. The effective date of this policy is 4-1-2007 For nearly 60 years, Learning Ally, formerly RFB&amp;D, has been an invaluable educational resource, enabling those with print disabilities to complete their education, advance their careers and gain self esteem. […]">
-<meta property="og:site_name" content="Learning Ally">
-<meta property="og:locale" content="en_us">
-<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://go.learningally.org/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//go.learningally.org/?wordfence_logHuman=1&hid=7F0910880CBDE2736DE2EB7FBA81EEA3');
-</script>
-<!--<script type="text/javascript" src="https://go.learningally.org/wp-content/themes/Lighthouse/javascripts/jquery/jquery-1.9.0.js"></script>
-
-<link type="text/css" href="https://go.learningally.org/wp-content/themes/Lighthouse/stylesheets/eggplant/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
-
-<script type="text/javascript" src="https://go.learningally.org/wp-content/themes/Lighthouse/javascripts/jquery/jquery-ui-1.10.0.custom.min.js"></script>
-
-<script>
-
-  $(function() {
-
-    $( "#accordion" ).accordion({
-
-      heightStyle: "content",
-
-	  collapsible: true,
-
-      active: false
-
-    });
-
-  });
-
-  </script>
-
-<script>
-
-  $(function() {
-
-    $( document ).tooltip();
-
-  });
-
-  </script>-->
-
-<script async="" type="text/javascript" src="//learningally.disqus.com/count.js"></script></head>
-
-
-
-
-
-
-<body class="privacy about-section informational
-"> 
-
-
-
-<div class="site-wrapper">
-
-	<nav class="audience-nav-nr navbar navbar-default" role="navigation">
-
-	  <div class="container-fluid">
-
-	    <div class="container">
-
-	      <span class="sr-only">Audience Navigation</span>
-
-	      	  	
-									<ul class="list-unstyled list-inline">
-
-									
-
-									<li class="active"><a aria-selected="true" role="tab" href="https://www.learningally.org/AboutUs.aspx">About Us</a></li><li><a aria-selected="true" role="tab" href="https://www.learningally.org/Parents.aspx">Parents</a></li><li><a aria-selected="true" role="tab" href="https://www.learningally.org/Adults.aspx">Adults</a></li><li><a aria-selected="true" role="tab" href="http://www.learningally.org/Educators/EducatorHome.aspx">Educators</a></li>
-									 </ul>
-
-							
-			<!-- /primary-tabs -->
-
-	    </div>
-
-	  </div>
-
-	</nav>
-
-
-
-
-
-<div class="container" style="background-color: #ffffff">
-
-
-
-		<!-- AMPLE: Begin Updated Nav Code... -->
-
-<div class="row header">
-
-  <div class="nav-nr">
-
-    <div class="span8 nav-logo">
-
-      <a accesskey="H" href="https://www.learningally.org/Home.aspx"><img alt="Learning Ally — Together It's Possible" src="https://go.learningally.org/wp-content/themes/Lighthouse/images/parts/img-logo.png" class="brand-logo"></a>
-
-    </div><!-- /col -->
-
-    <div class="span16 pull-right nav-btns">
-
-      <div class="row">
-
-        <div class="span16">
-
-          <div class="navbar-header pull-right">
-
-            <div class="hidden-xs navbar-login">
-
-				<ul class="unstyled pull-right nav-pills">
-
-					
-						<li><a accesskey="L" class="btn btn-primary btn-sm pull-right login" href="https://www.learningally.org/login.aspx" onclick="_gaq.push(['_trackEvent', 'Login', 'User Login', 'go.learningally.org/privacy/']);">Login</a></li>
-
-				
-				</ul>
-
-            </div><!-- navbar-login -->
-
-          </div>
-
-          <ul class="hidden-xs links-secondary list-unstyled list-inline pull-right" style="padding-right: 50px;">
-
-            <li><a href="https://go.learningally.org/news-events/dyslexia-blog/">Blog</a></li>
-           
-            <li>
-
-	        	<a accesskey="E" class="support" href="https://go.learningally.org/help-and-support">Help</a>
-	        </li>
-
-            <li><a href="tel:+18002214792">(800) 221-4792</a></li>
-
-            <li><a href="/volunteers/">Volunteer</a></li>
-            <li><a href="https://supportus.learningally.org/checkout/donation?eid=55156">Donate</a></li>
-            <li><a href="https://www.learningally.org/SupportUs" class="btn btn-primary btn-sm" style="background: #f78e1e;
-    border: 1px solid #f78e1e; color: #fff;">Support Us </a></li>
-
-
-          </ul>
-
-        </div><!-- /col -->
-
-      </div><!-- /row -->
-
-
-
-      <div class="row header-search">
-
-        <div class="pull-right">
-
-          <form method="get" action="https://www.learningally.org/search.aspx" class="navbar-form navbar-right" role="search">
-
-            <div class="input-group">
-
-              <label class="sr-only" for="search">Search</label>
-
-              <input type="search" placeholder="Search for Audiobooks, Help, Resources, etc." class="form-control" id="search" name="q" size="45">
-
-              <span class="input-group-btn">
-
-                <button class="btn btn-default" type="submit" value="Search" onclick="_gaq.push(['_trackEvent', 'Search', 'Site Search', '']);"><i class="fa fa-search"></i><span class="sr-only">Submit</span></button>
-
-              </span>
-
-            </div><!-- /input-group -->
-
-          </form>
-
-        </div><!-- /col -->
-
-      </div><!-- /row -->
-
-    </div><!-- /col -->
-
-
-							 <div class="span24">
-
-						      <nav class="navbar navbar-inverse" role="navigation">
-
-						        <ul class="nav navbar-nav navbar-justified">
-
-						
-
-								<li><a style="font-size: 13px;" class="" href="https://go.learningally.org/about-learning-ally/who-we-are/">Who We Are</a></li>
-
-								<li><a style="font-size: 13px;" class="" href="https://go.learningally.org/about-learning-ally/what-we-do/">What We Do</a></li>
-
-								<li><a style="font-size: 13px;" class="" href="https://go.learningally.org/about-learning-ally/volunteers/">Volunteer</a></li>
-
-								<li><a style="font-size: 13px;" class="" href="https://go.learningally.org/about-learning-ally/donate/">Donate</a></li>
-
-								<li><a style="font-size: 13px;" class="" href="https://go.learningally.org/about-learning-ally/stay-in-touch/">Stay in Touch</a></li>
-
-								<li><a style="font-size: 13px;" class="" href="http://www.learningally.org/AboutUs/Join.aspx">Join</a></li>
-                        
-
-					        </ul>
-
-					        <div class="collapse navbar-collapse" id="navbar-collapse-search">
-
-					          <form method="get" action="https://www.learningally.org/search.aspx" class="navbar-form" role="search">
-
-					            <div class="input-group">
-
-					              <label class="sr-only" for="search-mobile">Search</label>
-
-					              <input accesskey="S" type="search" placeholder="Search for Audiobooks, Help, Resources, etc." class="form-control" id="search-mobile" name="search" size="45">
-
-					              <span class="input-group-btn">
-
-					                <button class="btn btn-default" type="submit" value="Search" onclick="_gaq.push(['_trackEvent', 'Search', 'Site Search', '']);"><i class="fa fa-search"></i><span class="sr-only">Submit</span></button>
-
-					              </span>
-
-					            </div><!-- /input-group -->
-
-					          </form>
-
-					        </div><!-- /navbar-collapse-search -->
-
-					      </nav>
-
-					    </div><!-- /col -->
-
-					<!-- /secondary-links -->
-
-				
- </div><!-- /nav-responsive -->
-
-</div>
-
-
-
-<!-- /site-nav -->
-
-
-
-
-<nav class="row breadcrumbs">
-
-  <div class="span24">
-
-      <ul class="breadcrumb">
-
-      <a href="https://go.learningally.org/">Home</a><span class="divider"> / </span>Privacy
-	  </ul>
-
-  </div>
-
-</nav>
-
-<!-- /breadcrumbs -->
-
-
-
-
-
-      <div class="main-content-blank span22">
-        <div class="row">
-          <div class="span24 offset1-blank">
-              
-			  		
-<section class="membership-content">
-    <header class="section-header">
-      <div class="header-content">
-        <h1>Privacy Policy</h1>
-                <div class="span5 offset1 pull-right">
-                          </div>
-		<p class="intro"></p>
-      </div>
-    </header>
-    <p></p><div class="at-above-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy" data-url="https://go.learningally.org/privacy/"></div><div class="at-above-post-page-recommended addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy" data-url="https://go.learningally.org/privacy/"></div><p><strong>Learning Ally, Inc.<br>
-20 Roszel Rd<br>
-Princeton, NJ 08540</strong></p>
-<p>We can be reached via e-mail at <a href="mailto:privacy@learningally.org">Privacy</a>.<br>
-The effective date of this policy is 4-1-2007</p>
-<p>For nearly 60 years, Learning Ally, formerly RFB&amp;D, has been an invaluable educational resource, enabling those with print disabilities to complete their education, advance their careers and gain self esteem. As part of our dedication to founder Anne T. Macdonald’s principle that education is a right, not a privilege, we have developed these websites for the benefit of our members and donors, and committed ourselves to responsible stewardship of information gathered here.</p>
-<h2>General Privacy Policy – for all Learning Ally sites and e-mail newsletters</h2>
-<p>It is the strict policy of Learning Ally that membership information is never given to any other party, for any reason. We do at times, however, exchange donor names from time to time with other reputable charitable organizations. This information would contain&nbsp;mailing addresses ONLY. If you DO NOT wish your&nbsp;name to be shared with other charitable organizations, you may <a href="mailto:privacy@learningally.org">e-mail us</a>, call us at 609-520-8042,&nbsp;or write to us at Learning Ally – Donor Services Financial Development, 20 Roszel Road, Princeton, NJ 08540. When contacting us, please be sure to include your exact mailing address so that we can locate your information.</p>
-<p>CHILDREN: Be sure to ask your parents or guardians for permission before you send any information about yourself to us, or anyone else over the Internet.</p>
-<p>PARENTS/GUARDIANS: We encourage you to be involved with your child’s online usage. We ask on our registration forms, that those who are under the age of 18 notify us. Any personally identifiable information we obtain from those who identify themselves as minors will be used only for internal use by Learning Ally to facilitate their requests, and may be retained in our internal database. However, aside from aggregate data, used for statistical and market research purposes (i.e. 20% of our catalog users are under 18), no personally identifiable information about a minor will be posted or published by us, or provided to any third parties, without your prior consent.</p>
-<p>MEMBERS: Learning Ally does not provide, sell or lease your personally identifiable information to any third parties.</p>
-<p>DONORS: Except to those that have been mentioned here, Learning Ally does not provide, sell or lease your personally identifiable information to third parties.</p>
-<p>SECURITY: We always use industry standard encryption techniques (SSL) when transferring and receiving consumer data exchanged with our site. However, if you are using a browser other than Internet Explorer or Netscape, such as Lynx, Mosaic, or Opera, your transactions may not be secure. To place an order for books or products by phone, please call 800-221-4792. To make a credit card donation, call 866-732-3585 and choose option 4.</p>
-<p>While Learning Ally encourages third parties to follow appropriate privacy policies, and does not authorize them to use the information except for the express purpose for which it was provided, Learning Ally does not bear any responsibility for any actions or policies of such third parties. In the case of links to web pages outside the Learning Ally pages, these links are provided for informational purposes only and Learning Ally does not bear any responsibility for the content or operation of linked web sites.</p>
-<p>If you have any questions or concerns regarding what is done with information collected by Learning Ally websites and e-mail newsletters, please e-mail us at: <a href="mailto:privacy@learningally.org">Privacy</a>, or contact us at: Learning Ally – Web Page Requests, 20 Roszel Road, Princeton, NJ 08540, BEFORE SUBMITTING ANY INFORMATION.</p>
-<h2>Specific Privacy Policies pertaining to each Learning Ally site or e-mail newsletter</h2>
-<p>Please select the Privacy Policy below for specific policies pertaining to the website or e-mail newsletter you are referring to:</p>
-<ul>
-<li><a href="#learningally">www.LearningAlly.org</a></li>
-<li><a href="#ltl">www.learningthroughlistening.org</a></li>
-<li><a href="#enews">Learning Ally’s E-mail newsletter</a></li>
-</ul>
-<hr>
-<h3><a name="learningally"></a>www.LearningAlly.org</h3>
-<p>www.LearningAlly.org does not collect personally identifiable information about individuals, except when specifically and knowingly provided by such individuals. For each visitor to this web page, our server does not automatically recognize any information about the visitor’s domain name or e-mail address. We do not automatically collect any information on consumers who browse this web page.</p>
-<p>Learning Ally may, on occasion, send informational e-mail or postal mail (donor newsletters or special announcements) to members and donors. If you DO NOT wish to receive e-mail from us in the future you may contact us at <a href="mailto:privacy@learningally.org">Privacy</a> or writing to us at Learning Ally – Web Page Requests, 20 Roszel Road, Princeton, NJ 08540.</p>
-<p>In the future, we may wish to use customer information for new, unanticipated uses not previously disclosed in our privacy statement. If this situation should occur, we will post the policy change to our web site to notify you of these changes, and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.</p>
-<p>Upon request, we will provide you access to your financial information (e.g. credit card information), unique identifier information (e.g. customer/membership number or password), transaction information, communications information (e.g. e-mail, inquiries made by you), and contact information (name, address, phone number) that we maintain. Upon request we offer the ability to have inaccuracies corrected in your contact information, financial information, unique identifiers, transaction information and communications information. To access this information, you may contact us at <a href="mailto:privacy@learningally.org">Privacy</a> or writing to us at Learning Ally – Web Page Requests, 20 Roszel Road, Princeton, NJ 08540.</p>
-<p>Third party security: Should you choose to make a donation or a purchase using your credit card, we will forward your information to the appropriate third parties for processing. Learning Ally does not have access to credit card information; that information is handled solely by the card processing organizations, Authorize.Net. <a href="http://www.authorize.net/company/privacy/" target="_blank">Read Authorize.Net’s privacy policy here</a>.</p>
-<p>Cookies: www.LearningAlly.org&nbsp;sets permanent cookies, which are small files stored on the hard drive of your computer. These files can enable the website to recognize you when you return to the site. While you can set your browser to refuse all cookies, if you choose this option you will not be able to use our online catalog or online registration and donor functions. For more information on cookies and their use, see the help instructions delivered with your browser. Learning Ally cannot provide help regarding your particular browser’s settings.</p>
-<p>Aggregate information: We also collect anonymous, aggregate data about visitors to our website, such as the number and type of pages viewed, as well as other information about users and their computers. We use this information strictly to maintain our site, and improve our services. At no time will we match usage data with personal information to track individuals.</p>
-<hr>
-<h3><a name="ltl"></a>www.learningthroughlistening.org</h3>
-<p>For each visitor to www.learningthroughlistening.org, our web server does not automatically recognize any information regarding the domain or e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail or online registration; the e-mail addresses of those who make postings to our chat areas; aggregate information on what pages consumers access or visit; user-specific information on what pages consumers access or visit; information volunteered by the consumer; such as survey information and/or site registrations, name and address; number of students served, and the affiliated institution.</p>
-<p>The information we collect is used to improve the content of our web page, and used by us to contact consumers for marketing purposes.</p>
-<p>Cookies: We use cookies to record user-specific information on what pages users access or visit.</p>
-<p>If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by by e-mailing us at Privacy. Please be sure to provide us with your exact name and address and let us know what type of communication you have received (e-mail, postal mail, phone call). We will be sure your name is removed from our lists.</p>
-<p>Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by e-mailing us at Privacy. Please be sure to provide us with your exact name and phone number. We will be sure your name is removed from our lists.</p>
-<p>Ad Servers: We do not partner with or have special relationships with any ad server companies.</p>
-<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.</p>
-<p>Upon request we provide site visitors with access to the contact information that we maintain about them. Upon request, we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by e-mailing us at Privacy.</p>
-<p>Security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the main addresses or phone number.</p>
-<hr>
-<h3><a name="enews"></a>Learning Ally’s e-mail newsletter</h3>
-<p>For each e-mail newsletter recipient, our e-mail server automatically recognizes the consumer’s domain name and e-mail address (where possible). We collect aggregate information on what newsletter pages consumers access or visit; user-specific information on what pages consumers access or visit and tracking info such as if the e-mail was opened, whether it was deleted, what links were clicked, etc. The information we collect is used to improve the content of our e-newsletter and may be used by us to contact consumers for marketing purposes. If you do not want to receive e-mail from us in the future, please see the opt out link in the&nbsp;email newsletter.</p>
-<p>Cookies: The e-mail newsletter does not set any cookies.</p>
-<p>If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at <a href="mailto:privacy@learningally.org">Privacy</a>. Please be sure to provide us with your exact name and address and let us know what type of communication you have received (e-mail, postal mail, phone call). We will be sure your name is removed from our lists.</p>
-<p>Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to <a href="mailto:privacy@learningally.org">Privacy</a>. Please be sure provide us with your exact name and phone number. We will be sure your name is removed from our lists.</p>
-<p>Ad Servers: We do not partner with or have special relationships with any ad server companies.</p>
-<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will notify you of the policy changes in the newsletter, and provide you with the ability to opt out of these new uses.</p>
-<p>Upon request we provide site visitors with access to all information that we maintain about them. such as their contact information.Consumers can have this information corrected by sending an e-mail to <a href="mailto:privacy@learningally.org">Privacy</a>.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the main address or phone number.</p>
-<div class="at-below-post-page addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy" data-url="https://go.learningally.org/privacy/"></div><div class="at-below-post-page-recommended addthis_default_style addthis_toolbox at-wordpress-hide" data-title="Privacy" data-url="https://go.learningally.org/privacy/"></div><p></p>
- </section>
-
-	
-			
-          </div>
-        </div>
-      </div>
-      <!-- /main-content -->
-  
-    </div>
-    <!-- row -->	
-    
-    
-    
-    
-
-
- </div>
-
-
-
-<!--<section class="information-categories">
-
-  <div class="container" style="background-color: #dddddd;">
-
-
-
-    <div class="row">
-
-      <h3 class="span24">
-
-        Information For:
-
-      </h3>
-
-      
-
-      
-
-       		
-
-    </div>
-
-    <!-- /row -->  
-
- <!-- </div>
-
-  <!-- /container-->
-
-  
-
-  
-
-  
-
-<!--</section> -->
-
-<!-- /information-categories -->
-
-
-		
-
-<footer class="site-footer footer-nr" role="contentinfo">
-
-  <div class="container">
-
-    <div class="row">
-
-	    <div class="span8">
-
-		    <div class="row">  
-
-				<div class="span4">
-
-					<h4>About Us</h4>
-
-						<nav class="top-bar-section"><ul id="menu-about-us-footer" class="list-unstyled"><li id="menu-item-36063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36063"><a href="https://www.learningally.org/AboutUs/WhoWeAre.aspx">Who We Are</a>&nbsp; »</li>
-<li id="menu-item-36064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36064"><a href="https://www.learningally.org/AboutUs/WhatWeDo.aspx">What We Do</a>&nbsp; »</li>
-<li id="menu-item-36065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36065"><a href="http://mem-cs.learningally.org/Aboutus/SuccessStories.aspx">Success Stories</a>&nbsp; »</li>
-<li id="menu-item-36066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36066"><a href="https://www.learningally.org/AboutUs/Leadership.aspx">Leadership</a>&nbsp; »</li>
-<li id="menu-item-25696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25696"><a href="https://go.learningally.org/about-learning-ally/national-achievement-awards/">Scholarships</a>&nbsp; »</li>
-<li id="menu-item-36067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36067"><a href="https://www.learningally.org/AboutUs/Careers.aspx">Careers</a>&nbsp; »</li>
-<li id="menu-item-36068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36068"><a href="https://www.learningally.org/AboutUs/PressRoom.aspx">Media Center</a>&nbsp; »</li>
-</ul></nav>
-				</div><!-- /4 -->
-
-  
-
-				<div class="span4">
-
-					<h4>Get Involved</h4>
-
-					<nav class="top-bar-section"><ul id="menu-get-involved" class="list-unstyled"><li id="menu-item-29330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29330"><a href="https://go.learningally.org/about-learning-ally/volunteers/">Volunteer</a>&nbsp; »</li>
-<li id="menu-item-31548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31548"><a href="https://go.learningally.org/about-learning-ally/locations/">Studio Locations</a>&nbsp; »</li>
-<li id="menu-item-25693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25693"><a href="https://go.learningally.org/about-learning-ally/donate/">Donate</a>&nbsp; »</li>
-<li id="menu-item-25612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25612"><a href="https://go.learningally.org/about-learning-ally/partners/">Partners</a>&nbsp; »</li>
-<li id="menu-item-25694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25694"><a href="https://go.learningally.org/parents/learning-ally-approach/dyslexia-resources/find-dyslexia-specialist/">Specialists</a>&nbsp; »</li>
-</ul></nav>
-				</div><!-- /4 -->
-
-		    </div><!-- /row -->
-
-	    </div><!-- /8-->
-
-	    <div class="span8">
-
-		    <div class="row">  
-
-				<div class="span4">
-
-					<h4>Stay in Touch</h4>   	
-
-					<nav class="top-bar-section"><ul id="menu-stay-in-touch" class="list-unstyled"><li id="menu-item-25865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25865"><a href="https://go.learningally.org/about-learning-ally/stay-in-touch/">Stay in Touch</a>&nbsp; »</li>
-<li id="menu-item-25614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25614"><a href="https://go.learningally.org/news-events/dyslexia-blog/">Blog</a>&nbsp; »</li>
-<li id="menu-item-25616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25616"><a href="https://go.learningally.org/contact-us/">Contact Us</a>&nbsp; »</li>
-</ul></nav>
-					<nav>
-
-			          <ul class="unstyled social-links">
-
-			          
-			            <li class="clearfix"><i class="facebook"></i><a target="_blank" href="http://www.facebook.com/LearningAlly.org">Facebook</a></li>
-
-			            <li class="clearfix"><i class="twitter"></i><a target="_blank" href="http://twitter.com/Learning_Ally">Twitter</a></li>
-
-			            <li class="clearfix"><i class="linkedin"></i><a target="_blank" href="http://www.linkedin.com/groups?home=&amp;gid=2644842&amp;trk=anet_ug_hm">LinkedIn</a></li>
-
-			            <li class="clearfix"><i class="youtube"></i><a target="_blank" href="http://www.youtube.com/learningally">YouTube</a></li>
-
-			            <li class="clearfix"><i class="google"></i><a target="_blank" href="https://plus.google.com/108255844779026447464/posts">Google+</a></li>
-
-			            <li class="clearfix"><i class="instagram"></i><a target="_blank" href="http://instagram.com/Learning_Ally">Instagram</a></li>
-
-			            <li class="clearfix"><i class="pinterest"></i><a target="_blank" href="http://pinterest.com/LearningAlly/">Pinterest</a></li>
-
-						<!-- <li class="clearfix"><i class="email"></i><a target="_blank" href="http://visitor.r20.constantcontact.com/manage/optin/ea?v=001dIwt-snT0UDYacHkjvgfbA%3D%3D">Get Email Updates</a></li> -->
-
-			            
-
-			          </ul>
-
-			        </nav>
-
-				</div><!-- /4 -->
-
-  
-
-				<div class="span4">
-
-					<h4>Helpful Tools</h4>
-
-						<nav class="top-bar-section"><ul id="menu-helpful-tools" class="list-unstyled"><li id="menu-item-25698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25698"><a href="https://go.learningally.org/parents/dyslexia-screener/">Dyslexia Quiz</a>&nbsp; »</li>
-<li id="menu-item-25699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25699"><a href="https://go.learningally.org/parents/learning-ally-approach/dyslexia-resources/reading-tutor-network/">Find a Tutor</a>&nbsp; »</li>
-<li id="menu-item-25701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25701"><a href="https://go.learningally.org/parents/learning-ally-approach/dyslexia-resources/find-dyslexia-specialist/">Find a Specialist</a>&nbsp; »</li>
-<li id="menu-item-29331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29331"><a href="https://go.learningally.org/questions">Ask a Parent</a>&nbsp; »</li>
-<li id="menu-item-25703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25703"><a href="http://www.learningally.org/BrowseAudiobooks.aspx">Browse Audiobooks</a>&nbsp; »</li>
-</ul></nav>
-				</div><!-- /4 -->
-
-		    </div><!-- /row -->
-
-	    </div><!-- /8-->
-
-        <div class="span8">
-
-		    <div class="row">  
-
-				<div class="span4">
-
-					<h4>Support</h4>
-
-						<nav class="top-bar-section"><ul id="menu-support" class="list-unstyled"><li id="menu-item-25722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25722"><a href="https://go.learningally.org/help-and-support/">Help</a>&nbsp; »</li>
-<li id="menu-item-25723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25723"><a href="https://go.learningally.org/individual_tos/">Terms of Service</a>&nbsp; »</li>
-</ul></nav>
-				</div><!-- /4 -->
-
-  
-
-				<div class="span4">
-
-					<h4>Join Us</h4>
-
-					<nav class="top-bar-section"><ul id="menu-join-us" class="list-unstyled"><li id="menu-item-25725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25725"><a href="http://www.learningally.org/parents/join.aspx">Parent</a>&nbsp; »</li>
-<li id="menu-item-29332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29332"><a href="http://www.learningally.org/CollegeAdults/Join.aspx">Adults</a>&nbsp; »</li>
-<li id="menu-item-29333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29333"><a href="http://go.learningally.org/educators/sign-up/">Educator</a>&nbsp; »</li>
-</ul></nav>
-				</div><!-- /4 -->
-
-				<div class="span8 app-badges">
-
-	    		  	<nav>
-
-	    		  		
-	    		  		<ul class="list-unstyled list-inline">
-
-	    		   			<li><a href="https://itunes.apple.com/us/app/rfb-d-audio/id418888450" target="_blank"><img alt="Available on the App Store (iTunes)" class="img-responsive" src="https://go.learningally.org/wp-content/uploads/2013/08/apple-app-badge.png"></a></li>
-
-	    			      <li><a href="https://play.google.com/store/apps/details?id=org.learningally.learningallyaudioandroid&amp;hl=en" target="_blank"><img alt="Android App on Google Play" class="img-responsive" src="https://go.learningally.org/wp-content/uploads/2013/08/anroid-app-badge.png"></a></li>
-
-	    		   	  </ul>
-
-	    		   	</nav>
-
-    		 	</div><!-- /col -->
-
-		    </div><!-- /row -->
-
-	    </div><!-- /8-->    
-
+<!--The following is the downloaded HTML source of the learningally.org privacy policy that was archived on 2016-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160818110837id_/https%3A//www.learningally.org/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head id="Head"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
+	Learning Ally - Together It's Possible &gt; Privacy
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Learning Ally - Together It's Possible"><meta id="MetaKeywords" name="KEYWORDS" content="Learning Ally, books, audiobooks, dyslexia"><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2016 by Learning Ally"><meta id="MetaAuthor" name="AUTHOR" content="Learning Ally - Together It's Possible"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=876" type="text/css" rel="stylesheet"><link href="/desktopmodules/html/module.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/bootstrap3.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/learningAlly.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/bootstrap-accessibility.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/theme.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/parents.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/buyflow.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/nav.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/kendo.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/custom.css?cdv=876" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/font-awesome.css?cdv=876" type="text/css" rel="stylesheet"><link href="/portals/6/portal.css?cdv=876" type="text/css" rel="stylesheet"><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/resources/libraries/jquery/01_09_01/jquery.js?cdv=876" type="text/javascript"></script><script src="/resources/libraries/jquery-migrate/01_02_01/jquery-migrate.js?cdv=876" type="text/javascript"></script><script src="/resources/libraries/jquery-ui/01_10_03/jquery-ui.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/knockout.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/knockout.validation.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/bootstrap.min.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/bootstrap-accessibility.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/verimail.jquery.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/ui.multiselect.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/commonUI.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/kendo.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/parents.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/buyflow.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/fixLogoSize.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/common.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/kendoInitializers.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/jquery.blockUI.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/floating-footer.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/topfixedmenu.js?cdv=876" type="text/javascript"></script><script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/mainmenu.js?cdv=876" type="text/javascript"></script>
+
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-22081078-53']);
+            _gaq.push(['_setDomainName', '.learningally.org']);
+			_gaq.push(['_setAllowLinker', true]);
             
 
-      </div><!--/row -->
+            _gaq.push(['_trackPageview']);
 
-	<div class="row">
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+			
+function recordOutboundLink(link, category, action, label) {
+  //_gat._getTrackerByName()._trackEvent(category, action, label);
+  _gaq.push(['_trackEvent', category, action, label]); 
+  setTimeout('document.location = "' + link.href + '"', 100);
+}
+          </script>
 
-	  <div class="span24 copyright">
-
-	    <p>© 2015 Learning Ally. All rights reserved.</p>
-
-	    <nav>
-
-	        <nav class="top-bar-section"><ul id="menu-bottom-menu" class="list-unstyled"><li id="menu-item-26114" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1262 current_page_item menu-item-26114"><a href="https://go.learningally.org/privacy/">Privacy</a>&nbsp; </li>
-<li id="menu-item-26115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26115"><a href="https://go.learningally.org/accessibility/">Accessibility</a>&nbsp; </li>
-<li id="menu-item-26113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26113"><a href="https://go.learningally.org/la-sitemap/">Site Map</a>&nbsp; </li>
-<li id="menu-item-26116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26116"><a href="https://go.learningally.org/about-learning-ally/donate/">Donate</a>&nbsp; </li>
-<li id="menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26117"><a href="https://go.learningally.org/contact-us/">Contact Us</a>&nbsp; </li>
-<li id="menu-item-29334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29334"><a href="http://www.learningally.org/AboutUs/Join.aspx">Join</a>&nbsp; </li>
-</ul></nav>
-	      </nav>
-
-	  </div>
-
-	</div>
-
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="Body">
+    
+    <form method="post" action="/privacy.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="">
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="VvQAsJfU/b+i8jOr8UHm4z01O1q/6PDjPHuIQ/nLUtviihdCmO3EGcjRXnDC6V5QUL75ij7Q59dEeVYbvWxx2OTi5Hg1wcm8WeTB8skOSrFvyJLNvK+f+6d+BtLuli51DxShvdBD7yIdQTd8C3FS4CVSE3nCaN0nsi3B7DY7gmtVMtyNFtH1N2vNvaiBCsigGlhJP27FjIbQs+XCaEi6r8ovC+yJqHSmCRwGY3r1d+i/DkKsa6MA49qp92rEvZM8cy7VHdeuW8+ABrOC4zHUX+ufzUxPLLSBoBJTE4+gtCBKZJ78bANuN3vWcmcQH3o76IsLN79r5pNi7Iz6J0dEH8AQASYK9UyzL/NY79wys59TswQaonFpPo/sGRvva4ZMqvf7JH+gunnivo+GOWpHxkRU6c/6KxAp4/rL5X4hp28+hnKUXWdvGWTTahh4AlAFk/HrvHT1lX5qDXtDAV8XuEUMxkEDoEKf7hSYmwBl7sK7F59JNxj40pgPVe8d88vjIqWo/8ck3kZ8CzginYpRcF57qf0hrfxPvc7nst+YuoQdZoWYKvNkdQuqK2LHGloFq6yYqIR/4pJkjwwdHUKlPGRikwDpN2mS82bL1cXT1rTZxbZtouZ2t5qMCmWOGz+vbgebpiqAXigR3QviEBYfK86VFDzxtMkwx/oZRJ/IhVwn31pab0tljfv018JYbRkxbC9fomNBpZGHZBIEqVaHN6rfNBgmMCnGVLZ0T+YwhA3O4WeYY+MK0VUKt7xjxDlAg6Sp1q/iFqKVzoAMUaJc/XA+PKOyBKX0qrfU1JBlMJBfqzbvLZ4G5n6syh0YOgvbKtEQrXm1OczFVhVokjR6cIBFjEf/3bMaMmaUdfdq3tq1DHdVa5HCSJFbMP5hmrUvHpqMprLeLVxtRoDi7w25MjDa0h6Q7q6P2Rr6cd6BftR0ehTVaUNqGeQP3aROVbehq2gzep5MCvGLRONtQ742BCWhtzZ8RbGYRwvhs3O8Kzkt/4zRw2gi8yXjRDRLWJsgZgf7oWTn27ZguRrm+bPQ42sxR1w+MeW/K8Q6pAsExlF2pe01rqwp1sz6XTdVniN0WEEOQE+P574CLiIWvkrciW5XJ9NR5sicmn3WJI1gegGr/wrlW/8gC37Kmgbj70n07q+0fTOPxTzfelWFoxcVSMWfKvBde6EwlKI2Re/s6KnD5SDZQbxWrD/+/3DFFQPKTSbY57umV3l8TVpwb9v/qFqq5I1e4fDj+fzb6+k2xlwCIoY+j3yXcNrd9n1xATfzqHLvKhWKFTksqYONxSHrg1qudVTvsMfyzsnc/lmXIUUhYCIub1um7Khr+oFNKKPw2K38DjtXzPa6+1faANGxrPWsGUnO8//Zs+AR8dCIkdqVy60YxI8RnxmCpfwqLXdRJjokdTQQcwxKzBSB3Tn2/LUyEBWddTFHarXCo6r4P8r+9rM2zv3XjRkoWCX+mGUqypS+wvVSzeBX3SUtMfSEaEvAWIzFAV2aoLZ3TGY+ADSITW6Wtjx93lAJlR4xw3IsOnmiMCxeBCpxd+FTaMVooU8/AI1FqLBeTDf/DeHn0fV0775IulPYS4csBJD71WlsgVLQT+81kr+WoLCe86fzxDY1xSCPCZ7+Y+Rc/0QB1tFLs334oY8RtQCQL1US0jJZIlwbFlkQELi5YbO0exWye51UggiwbVRXdhfL5ea9Q028GUIkpUeGs48+1EmaR1F9SjtkTpA1qk/Mtt0nwQ0m/Uz4I3RUip9zhG9lqPAlSuwQLx1rmvYb/iKkTtaQmEWO0zJQseWOS8n3zMtwubBONIDGeyJfibtRP32psAXud01Kak4Tpr/xhMxGn7IQmqe/585lFrkOwggc8+4H2eddRI31YJR+vWzgqdSINvLiYJJVopjCyJEcGpPKlvYxNmbAJxtsXIFOpEk1tIIWdkQydnZMxHsJoNaDkYQgSSGUwVMVlp8wbXsgZP8Jg9sQfQ3hCDfGcZQuAy9yL9e1iFvrAG0YFlcVc6NUn2n13GfWFKb0QcrXVqjrXCFAtrLGl7/KN1j0eymSdnRcbSuuHk2XhqcDtYB509VbOF+S4S1EHX8tENss71JnqRis2Yysj05nlff/qmvKvTWnouK0PFM46F6CnBMMbe41LIV8lDAFqhRu86Cpm0pZT3q047DZOx4SbJvZVRxabIoRPw0xn4pAMxSHjFVv/Ntb53dJYiJBWOidEHfHCyJMjjFhBmi1M+kuc97B2C5Q63Fe3Hil++n4iMIDHiLObVC4MeqSxlt5qTcNcivfdGGPszCONsJ2JDsyEQoQQpx07/jTrjGy7aPkyf7R/OVposNQ/G1vl/OPhjbAKRfEm/wOXiXyWCE9DSzb77kW5pQxpx56bjh6MvIsaFqQNVmg5REK5uxuHmBIYbyLIGvCTx8n5g2dj1CoHhDOki7iDGzbbuOW7HVowEoxTYpwjz9i3xNirXn+xdt6KzgiPCNon8T5qn7o/eSaDf/QysO683h52tnflRIfbowdXNCoMkE6o6HCGiNCp1s6vl9WijLEM/VI028OXB7k7zS03epZ5FsBuYbF2axYkRAinMEHRxsiWYUvU64alSizYBL67y2kB0qPyppAzSzPjXx2wutpRRT5Lky3LDaoU/tZE/XaQx/9C+e1A7MFVK0Ko95GFEOB70jJx4vj/3ir6BPMBYVlfuSDw1Ctj5kvqkqiKtT9sp7qNRSMml1X7R/NXxFAiQ0nxxLva129P2cOVe7UNFGjQmC7AxWhVx9qR+29ULUlLhZ+aQgpB3jkwjZ48cCQZnaZXs8O1FjWcdloC2jdLvTsnI4RfRQ8HqW19hlwidP6tJXImMr57ex2n0jxJB9TpIZMyN8urRW1SbnHEiSqz3aAKSyRdFVf9OSi6pK0RpvUTufnOssk1siaNVDDX+x8zUVwzSM9Bkp1DbSEAn4PVEJgn8n6FycUGKxpsZRwZK5y3i9S/urjy/zB6iZlG9qIdRsvSJ4450300DdfSj3Kpny1k4OCDFGBh6SGORJ0lSMSU96g83sZ0qjoO3+VK5OCL0DnLsmqZ3l39I8rry+gu8eMFCEnZ3tVWPPUMhOUg2z9nRAFjUfCUMbktxkgVZo5HRh6mS54crjiLZ8QI0OUm8s4XPWz235eXBlDtSRwmeAxfm4tnIjyUoqh/CRpNQRP1A/CNbXIbaZBVZlF1pDTAXGIgKjzqDPUGaa33yyb5vdeJt/h2cuJACyyk+pLX8Qk+t431nD1pQg2uPgOR1sRY4aGtg==">
 </div>
 
-        <script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'learningally';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); 
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
-        <link rel="stylesheet" id="addthis_output-css" href="https://go.learningally.org/wp-content/plugins/addthis/css/output.css?ver=86c6989f46b9ad21fa4c38924fdb1c25" type="text/css" media="all">
-<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=466937073327189&version=v2.3";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!--wp_footer--><!--wp_footer--> 
 
-</footer>  
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3ad28568d3-e53e-4706-928f-3765912b66ca%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
 
-
-
-
-
-<!-- Google+ Button -->
-
-<script type="text/javascript">
-
-  (function() {
-
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-
-    po.src = 'https://apis.google.com/js/plusone.js';
-
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-
-  })();
-
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="oTdgdwNuJqCAnBpTAMkhFZuI/TBtmz6qHvpC2V340khQ7c14FN1Inwb9ilRirrMTVgC4y01YpjLQwJI6W1oqJbziE/1uCAUwL5PAGxQDBSrdeWaW80z2W2BQwBaAvT4V/elKNMSWS+zXfgf0">
+</div><script src="/js/dnn.js?cdv=876" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=876" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=876" type="text/javascript"></script><script src="/js/dnncore.js?cdv=876" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
 </script>
 
+        
+        
+        <!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/learningAlly.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/bootstrap3.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/bootstrap-accessibility.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/theme.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/parents.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/buyflow.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/nav.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/kendo.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/custom.css?cdv=876)-->
+<!--CDF(Css|/Portals/_default/Skins/LearningAllyBootstrap3/stylesheets/font-awesome.css?cdv=876)-->
 
-
-<!--
-
-$$\                                              $$\                            $$$$$$\  $$\ $$\           
-
-$$ |                                             \__|                          $$  __$$\ $$ |$$ |          
-
-$$ |      $$$$$$\   $$$$$$\   $$$$$$\  $$$$$$$\  $$\ $$$$$$$\   $$$$$$\        $$ /  $$ |$$ |$$ |$$\   $$\ 
-
-$$ |     $$  __$$\  \____$$\ $$  __$$\ $$  __$$\ $$ |$$  __$$\ $$  __$$\       $$$$$$$$ |$$ |$$ |$$ |  $$ |
-
-$$ |     $$$$$$$$ | $$$$$$$ |$$ |  \__|$$ |  $$ |$$ |$$ |  $$ |$$ /  $$ |      $$  __$$ |$$ |$$ |$$ |  $$ |
-
-$$ |     $$   ____|$$  __$$ |$$ |      $$ |  $$ |$$ |$$ |  $$ |$$ |  $$ |      $$ |  $$ |$$ |$$ |$$ |  $$ |
-
-$$$$$$$$\\$$$$$$$\ \$$$$$$$ |$$ |      $$ |  $$ |$$ |$$ |  $$ |\$$$$$$$ |      $$ |  $$ |$$ |$$ |\$$$$$$$ |
-
-\________|\_______| \_______|\__|      \__|  \__|\__|\__|  \__| \____$$ |      \__|  \__|\__|\__| \____$$ |
-
-                                                               $$\   $$ |                        $$\   $$ |
-
-                                                               \$$$$$$  |                        \$$$$$$  |
-
-                                                                \______/                          \______/ 
-
--->
-
-<!--[if lt IE 7 ]>
-
-  <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-
-  <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-
-<![endif]-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/knockout.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/knockout.validation.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/bootstrap.min.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/bootstrap-accessibility.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/verimail.jquery.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/ui.multiselect.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/commonUI.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/kendo.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/parents.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/buyflow.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/common.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/fixLogoSize.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/kendoInitializers.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/jquery.blockUI.js?cdv=876)-->
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/floating-footer.js?cdv=876)-->
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"838dc00616","applicationID":"4184874","transactionName":"MwFWY0FWCEZWV0cNVgpLdVRHXglbGERSA1xJBlhWXVw=","queueTime":0,"applicationTime":1215,"ttGuid":"","agentToken":"","atts":"H0ZVFQlMG0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<div class="site-wrapper dashboard-home">
+    
+<nav class="audience-nav navbar navbar-default" role="navigation" aria-label="Audience Navigation" id="top-fixed-menu">
+    <div class="container-fluid">
+    <div class="container">
+        <span class="sr-only">Audience Navigation</span>
+            <ul class="list-unstyled list-inline "><li class="haschild"><a href="https://www.learningally.org/AboutUs.aspx"><span>About Us</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Parents/ParentHome.aspx"><span>Parents</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Educators/EducatorHome.aspx"><span>Educators</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Adults.aspx"><span>Adults</span></a></li>
+<li><a href="https://www.learningally.org/BrowseAudiobooks.aspx"><span>Browse Audiobooks</span></a></li>
+<li><a href="https://supportus.learningally.org/checkout/donation?eid=55156"><span>Donate</span></a></li>
+<li><a href="https://www.learningally.org/AboutUs/Join.aspx"><span>Join</span></a></li>
+</ul>
 
 
+
+
+    </div>
+    </div>
+</nav>
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/topfixedmenu.js?cdv=876)-->
+
+	 <div class="container">
+        <div class="row header">
+            <div class="nav-responsive">
+                <div class="col-xs-6 col-sm-4 col-md-4 nav-logo" role="banner">
+
+                    <a id="dnn_dnnLOGO_hypLogo" title="Learning Ally - Together It's Possible" href="https://www.learningally.org/Home.aspx"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/6/Logo.png" alt="Learning Ally - Together It's Possible"></a>
+                </div><!-- /col -->
+
+                <div class="col-xs-6 col-sm-8 col-md-8 pull-right nav-btns">
+                    <div class="row">
+                        <div class="col-sm-12" role="navigation" aria-label="User tools menu">
+       	                
+<div class="navbar-header pull-right">	
+	<div class="navbar-btns visible-xs">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-search">
+		<span class="sr-only">Toggle search</span>
+		<i class="fa fa-search fa-lg" style="padding-right:0px"></i>
+		</button>
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-menu">
+		<span class="sr-only">Toggle navigation</span>
+		<i class="fa fa-bars fa-lg" style="padding-right:0px"></i>
+		</button>
+	</div><!-- navbar-btns -->
+	
+    
+			<div class="visible-xs navbar-login-xs">
+				<a href="/login.aspx">Login</a>
+			</div><!-- navbar-login-xs -->
+
+			<div class="hidden-xs navbar-login">
+				<a class="btn btn-primary btn-sm pull-right login" href="https://www.learningally.org/login.aspx">Login</a>
+			</div><!-- navbar-login -->
+                      									
+</div>
+				
+       	                
+
+<ul class="hidden-xs links-secondary list-unstyled list-inline pull-right" id="donate-menu">
+    <!--
+    <li><a href="https://www.learningally.org/blog" title="Learninga Ally Blog" onclick="recordOutboundLink(this, 'wordpress', 'blog', 'Blog-TopMenu')">Blog</a></li>
+    -->
+    <li><a href="https://www.learningally.org/Help.aspx" title="Help and Support">Help</a></li>
+    <li><a href="tel:+18002214792" title="phone: (800) 221-4792">(800) 221-4792</a></li>
+    <li><a href="https://www.learningally.org/volunteer" title="Volunteer">Volunteer</a></li>
+    <li><a href="https://supportus.learningally.org/checkout/donation?eid=55156/" title="Donate" onclick="recordOutboundLink(this, 'classy', 'donate', 'Donate-TopMenu')">Donate</a></li>
+    <li><a class="btn btn-sm btn-cta" id="btnSupport" href="https://www.learningally.org/SupportUs" title="Support Us">Support Us</a></li>
+
+</ul>
+
+                        </div><!-- /col -->
+                    </div><!-- /row -->
+       	         
+                    
+<script type="text/javascript">
+
+    window.MainPortal = 'https://teacherally.learningally.org';
+    window.MemberPortal = 'https://www.learningally.org';
+
+    $(document).ready(function () {
+        $("#search").keypress(function (e) {
+            if (e.keyCode == 13 || e.which == 13) {
+                $("#search-btn").click();
+                e.preventDefault();
+            }
+
+        });
+
+        $("#search-btn").click(function (e) {
+            e.preventDefault();
+            var notPlaceholder = ($("#search").data('placeholder') == null || $("#search").val() != $("#search").data('placeholder').placeholder);
+            if ($("#search").val() != "" && notPlaceholder) {
+                location.href = "/search.aspx?q=" + $("#search").val();
+            } else {
+                alert("Please enter at least one search term.");
+            }
+        });
+
+        $("#search-audiobooks").keypress(function (e) {
+            if (e.keyCode == 13 || e.which == 13) {
+                $("#searchblock .btn").click();
+                e.preventDefault();
+            }
+
+        });
+
+        $("#searchblock .btn").click(function (e) {
+            e.preventDefault();
+            if ($("#search-audiobooks").val() != "") {
+                location.href = "/search.aspx?q=" + $("#search-audiobooks").val();
+            } else {
+                alert("Please enter at least one search term.");
+            }
+        });
+    });
+    
+</script>
+<div class="row header-search">
+    <div class="hidden-xs col-sm-10 col-md-9 pull-right">
+    <div class="navbar-form navbar-right" role="search">
+        <div class="input-group">
+        <label class="sr-only" for="search">Search</label>
+        <input type="search" placeholder="Search for Audiobooks, Help, Resources, etc." class="form-control" id="search" name="search" size="45">
+        <span class="input-group-btn">
+            <button class="btn btn-default search-btn" type="submit" value="Search" id="search-btn"><i class="fa fa-search"></i><span class="sr-only">Submit</span></button>
+        </span>
+        </div><!-- /input-group -->
+    </div>
+    </div><!-- /col -->
+</div><!-- /row -->
+
+              
+                </div><!-- /col -->
+
+                <div class="col-xs-12">
+                
+                    
+<script type="text/javascript">
+    
+    $(document).ready(function () {
+        $("#search-mobile").keypress(function (e) {
+            if (e.keyCode == 13 || e.which == 13) {
+                $("#search-btn-mobile").click();
+                e.preventDefault();
+            }
+
+        });
+
+        $("#search-btn-mobile").click(function (e) {
+            e.preventDefault();
+           // var notPlaceholder = ($("#search").data('placeholder') == null || $("#search").val() != $("#search").data('placeholder').placeholder);
+            if ($("#search-mobile").val() != "" ) {
+                location.href = "/search.aspx?q=" + $("#search-mobile").val();
+            } else {
+                alert("Please enter at least one search term.");
+            }
+        });
+
+    });
+    
+</script>
+
+<nav class="navbar navbar-inverse" role="navigation" aria-label="Main Menu">
+    
+
+        <div class="collapse navbar-collapse" id="navbar-collapse-menu" style="height: auto;">
+			<ul class="nav navbar-nav navbar-justified "><li class="haschild"><a href="https://www.learningally.org/AboutUs.aspx"><span>About Us</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Parents/ParentHome.aspx"><span>Parents</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Educators/EducatorHome.aspx"><span>Educators</span></a></li>
+<li class="haschild"><a href="https://www.learningally.org/Adults.aspx"><span>Adults</span></a></li>
+<li><a href="https://www.learningally.org/BrowseAudiobooks.aspx"><span>Browse Audiobooks</span></a></li>
+<li><a href="https://supportus.learningally.org/checkout/donation?eid=55156"><span>Donate</span></a></li>
+<li><a href="https://www.learningally.org/AboutUs/Join.aspx"><span>Join</span></a></li>
+</ul>
+
+
+
+
+           <ul class="nav__ul--donate visible-xs">
+            <li class="nav__donate">
+             <a href="https://www.learningally.org/SupportUs" class="open">Support Us</a>
+            </li>
+            </ul>
+        </div>
+    
+
+      <div class="collapse navbar-collapse" id="navbar-collapse-search">
+        <div class="navbar-form" role="search">
+          <div class="input-group">
+            <label class="sr-only" for="search-mobile">Search</label>
+            <input type="search" placeholder="Search for Audiobooks, Help, Resources, etc." class="form-control" id="search-mobile" name="search">
+            <span class="input-group-btn">
+              <button class="btn btn-default search-btn" type="submit" value="Search" id="search-btn-mobile"><i class="fa fa-search"></i><span class="sr-only">Submit</span></button>
+            </span>
+          </div><!-- /input-group -->
+        </div>
+      </div><!-- /navbar-collapse-search -->
+</nav>
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/mainmenu.js?cdv=876)-->
+
+                </div><!-- /col -->
+            </div><!-- /nav-responsive -->
+        </div><!-- /header -->                        
+        <!--Start main content area-->
+        <div class="teacher-body" role="main">
+            <span id="dnn_dnnBreadcrumb_lblBreadCrumb"><ol class="breadcrumb"><li><a href="https://www.learningally.org/Privacy.aspx" class="active">Privacy</a></li></ol></span>
+<!--CDF(Javascript|/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/breadcrumbs.js?cdv=876)-->
+        	    <div id="dnn_LeftPane" class="leftpane DNNEmptyPane"></div>
+                <div id="dnn_ContentPane" class="contentpane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-2541"><a name="2541"></a>
+<div class="NO-Title conwrap">
+	<div class="con-aciton"></div>
+	<div id="dnn_ctr2541_ContentPane"><!-- Start_Module_2541 --><div id="dnn_ctr2541_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr2541_HtmlModule_lblContent" class="Normal">
+	<h1>Learning Ally Member Privacy Policy</h1>
+<p>
+<strong>Learning Ally, Inc. <br>
+20 Roszel Rd<br>
+Princeton, NJ 08540
+</strong></p>
+<p>
+We can be reached via e-mail at <a class="ApplyClass" href="mailto:privacy@learningally.org">Privacy</a>.
+</p>
+<p>
+Here at Learning Ally, we care deeply about privacy. We do not sell personally identifiable information (PII), nor do we use PII from education records to market to students.
+</p>
+<p>
+Learning Ally Member Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our Members. The Policy guides how we collect, store and use information about Members and Prospects, and it will be periodically assessed against new technologies, business practices and our Members' changing needs.
+Learning Ally may, from time to time, modify this Member Privacy Policy to reflect legal, technological and other developments.
+</p>
+<p>
+Please note that Privacy Notices advising Members and Prospects as to the specific uses that are being made of their Personally-Identifiable Information by specific Business Units within Learning Ally may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant Privacy Notices.
+</p>
+<p>
+Learning Ally will also comply with applicable U.S. laws that impose additional responsibilities on Learning Ally beyond those stated in this Policy in connection with the treatment of Personally Identifiable Information about its Members and Prospects.
+</p>
+<p>
+Our Policy recognizes two kinds of personal data that deserve varying levels of protection. Personally Identifiable Information includes, for example, e-mail addresses, billing information, employment status and data that tracks user activity on a Web site or online services. A subset of that category, Sensitive Data, deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as credit card information) and information about specific medical conditions.
+</p>
+<p>
+</p>
+<h2>Learning Ally is committed to using all reasonable efforts to abide by the following Policy:
+</h2>
+<p>
+</p>
+<h3>Collection.</h3>
+<p> Personally-Identifiable Information will only be collected to the extent that Learning Ally deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Learning Ally.
+</p>
+<h3>Notification:</h3>
+<p> Members and Prospects will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses the Business Unit may make of the Personally-Identifiable Information collected from them.
+</p>
+<p>
+</p>
+<h3>Security:</h3>
+<p> Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our Members and Prospects.
+</p>
+<p>
+</p>
+<h3>Access:</h3>
+<p> Review and Correction. Procedures have been developed through which Members and Prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by Learning Ally. These procedures may not, however, compromise the security, integrity and privacy of either Learning Ally Education own proprietary databases or databases licensed from third party companies. Sensitive Data. The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy.
+</p>
+<p>
+Sensitive Data will not be rented or otherwise made available for External Distribution outside Learning. Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While Learning Ally will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, Learning Ally cannot make any guarantees with respect to the actions or policies of such third parties.
+</p>
+<p>
+</p>
+<h3>Children:</h3>
+<p> Collection and use of information from children in the U.S. under the age of thirteen will be made in compliance with the Children's Online Privacy Protection Act of 1998. Specifically, Learning Ally Education will:
+</p>
+<p>
+Provide a parent or guardian, upon request, with the means to review the Personally-Identifiable Information collected from his or her child;
+</p>
+<p>
+Provide a parent or guardian with the opportunity to prevent the further use of Personally-Identifiable Information that has already been collected, or the future collection of Personally-Identifiable Information, from that child;
+</p>
+<p>
+Limit collection of Personally-Identifiable Information for a child's online participation in a game, prize offer or other activities to Personally-Identifiable Information that is reasonably necessary to participate in the activity; and Establish procedures to protect the confidentiality, security and integrity of the Personally-Identifiable Information collected from children.
+</p>
+<h3>Privacy Policy&nbsp;</h3>
+<p>
+The Learning Ally Member Privacy Policy has been developed out of respect for the privacy preferences and choices of our Members and Prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each Business Unit within Learning Ally has a designated manager to implement our Member Privacy Policy for its respective Members and Prospects.</p>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_2541 --></div>
+	<div class="conft">
+		<div></div>
+	</div>
+</div>
+
+
+
+</div></div>
+                <div id="dnn_RightPane" class="rightpane DNNEmptyPane"></div>
+            <div class="row">
+				<div id="dnn_BottomLeftPane" class="bottomleftpane DNNEmptyPane"></div>
+				<div id="dnn_BottomRightPane" class="bottomrightpane DNNEmptyPane"></div>
+			</div>
+        </div><!--End teacher-body-->
+    </div> 
+    
+    <!--End container-->
+</div> <!--End site-wrapper-->
+       	                
+
+<script>(function (w, d, t, r, u) {
+var f, n, i; w[u] = w[u] || [], f = function () {
+var o =
+{ ti: "4077640" }
+    ; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
+}, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function ()
+{ var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }
+, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
+})(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4077640&Ver=2" height="0" width="0" alt="bing-seo" style="display:none; visibility: hidden;" /></noscript>
+
+<footer class="site-footer" role="contentinfo">
+   <div class="container">
+      <div class="row">
+	    <div class="col-sm-4">		
+		    <div class="row">
+		      <div class="col-xs-6">
+		        <h3>About Us</h3>        
+		  		    <nav role="navigation" aria-label="Footer Navigation. About Us">
+		  		      <ul class="list-unstyled">			
+		   			    <li><a href="https://www.learningally.org/AboutUs/WhoWeAre.aspx" title="Who We Are">Who We Are&nbsp;»</a></li>			
+		   			    <li><a href="https://www.learningally.org/AboutUs/WhatWeDo.aspx" title="What We Do">What We Do&nbsp;»</a></li>	
+						<li><a href="https://www.learningally.org/AboutUs/successstories.aspx" title="Success Stories">Success Stories&nbsp;»</a></li>	
+		   			    <li><a href="https://www.learningally.org/AboutUs/leadership" title="Leadership">Leadership&nbsp;»</a></li>			
+		   			    <li><a href="https://www.learningally.org/NAA" title="Scholarships">Scholarships&nbsp;»</a></li>			
+		   			    <li><a href="https://www.learningally.org/AboutUs/Careers.aspx" title="Careers">Careers&nbsp;»</a></li>
+						<li><a href="https://www.learningally.org/AboutUs/PressRoom.aspx" title="Press">Press&nbsp;»</a></li>
+		   	      </ul>
+		   	    </nav> 
+		       </div><!-- /col -->    
+		       <div class="col-xs-6">
+		   	    <h3>Get Involved</h3>       
+		  		    <nav role="navigation" aria-label="Footer Navigation. Get Involved">
+		  		      <ul class="list-unstyled">			
+							  <li><a href="https://www.learningally.org/volunteer" title="Volunteer">Volunteer&nbsp;»</a></li>
+                              <li><a href="https://www.learningally.org/Volunteer/StudioLocations.aspx" title="Studio Locations">Studio Locations&nbsp;»</a></li>
+                            <li><a href="https://supportus.learningally.org/checkout/donation?eid=55156/" title="Donate" onclick="recordOutboundLink(this, 'classy', 'donate', 'Donate-footer)">Donate&nbsp;»</a></li>
+							    <li><a href="https://www.learningally.org/SupportUs" title="Support Us">Support Us&nbsp;»</a></li>
+							    <li><a href="https://www.learningally.org/AboutUs/Partners.aspx" title="Partners">Partners&nbsp;»</a></li>
+							    <li><a href="https://go.learningally.org/parents/learning-ally-approach/dyslexia-resources/find-dyslexia-specialist/" title="Specialists" onclick="recordOutboundLink(this, 'wordpress', 'click', 'find-a-specialist-footer)">Specialists&nbsp;»</a></li>
+		           </ul>
+		         </nav>             
+		       </div><!-- /col -->    
+		    </div><!-- /row -->
+		
+	    </div><!-- /col --> 
+	    <div class="col-sm-4">		
+		    <div class="row">		 
+		       <div class="col-xs-6">
+				    <h3>Stay in Touch</h3>        
+				    <nav role="navigation" aria-label="Footer Navigation. Stay in Touch">
+					    <ul class="list-unstyled">
+                        <li><a href="https://www.learningally.org/AboutUs/StayinTouch.aspx" title="Stay in Touch">Stay in Touch&nbsp;»</a></li>
+						    <li><a href="https://go.learningally.org/news-events/blog/" title="Blog" onclick="recordOutboundLink(this, 'wordpress', 'blog', 'blog-footer')">Blog&nbsp;»</a></li>
+		 				    <li><a href="https://go.learningally.org/contact-us/" title="Contact Us" onclick="recordOutboundLink(this, 'wordpress', 'blog', 'ContactUs-footer')">Contact Us&nbsp;»</a></li>
+						 </ul>
+				      <ul class="list-unstyled social-links">			
+		 		   <li class="clearfix"><i class="facebook"></i><a title="Facebook page. Opens in a new window" target="_blank" href="http://www.facebook.com/LearningAlly.org" onclick="recordOutboundLink(this, 'social', 'facebook', 'facebook-footer')">Facebook</a></li>
+		       	    <li class="clearfix"><i class="twitter"></i><a title="Twitter. Opens in a new window" target="_blank" href="http://twitter.com/Learning_Ally" onclick="recordOutboundLink(this, 'social', 'twitter', 'twitter-footer')">Twitter</a></li>
+		       	    <li class="clearfix"><i class="linkedin"></i><a title="LinkedIn. Opens in a new window" target="_blank" href="http://www.linkedin.com/groups?home=&amp;gid=2644842&amp;trk=anet_ug_hm" onclick="recordOutboundLink(this, 'social', 'linkedin', 'linked-in-footer')">LinkedIn</a></li>
+		       	    <li class="clearfix"><i class="youtube"></i><a title="Youtube. Opens in a new window" target="_blank" href="http://www.youtube.com/learningally" onclick="recordOutboundLink(this, 'social', 'youtube', 'youtube-footer')">YouTube</a></li>
+		       	    <li class="clearfix"><i class="google"></i><a title="Google Plus page. Opens in a new window" target="_blank" href="https://plus.google.com/108255844779026447464/posts" onclick="recordOutboundLink(this, 'social', 'googleplus', 'google-plus-footer')">Google+</a></li>
+                      <li class="clearfix"><i class="instagram"></i><a title="Instagram. Opens in a new window" target="_blank" href="http://instagram.com/Learning_Ally" onclick="recordOutboundLink(this, 'social', 'click', 'instagram-footer')">Instagram</a>
+                      </li>
+		            	    <li class="clearfix"><i class="pinterest"></i><a title="Pinterest. Opens in a new window" target="_blank" href="http://pinterest.com/LearningAlly/" onclick="recordOutboundLink(this, 'social', 'click', 'pinterest-footer)">Pinterest</a></li>
+		 	  	    </ul>
+		 		    </nav>
+			    </div><!-- /col -->    
+		      <div class="col-xs-6">
+		        <h3>Helpful Tools</h3>        
+		 		    <nav role="navigation" aria-label="Footer Navigation. Helpful Tools">
+		 		      <ul class="list-unstyled">			
+						    <li><a href="https://go.learningally.org/parents/dyslexia-screener/" title="Dyslexia Quiz" onclick="recordOutboundLink(this, 'wordpress', 'quiz', 'DyslexiaQuiz-footer')">Dyslexia Quiz&nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/Parents/DyslexiaResources/TutorNetwork.aspx" title="Find a Tutor">Find a Tutor&nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/Parents/DyslexiaResources/AllResources/specialistListing.aspx" title="Find a Specialist">Find a Specialist&nbsp;»</a></li>
+		  				    <li><a href="https://www.learningally.org/parents/parentchat.aspx" title="Ask a Parent">Ask a Parent&nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/BrowseAudiobooks.aspx" title="Browse Audiobooks">Browse Audiobooks&nbsp;»</a></li>
+		  	      </ul>
+		  	    </nav> 
+			    </div><!-- /col -->
+		    </div><!-- /row -->
+		
+	    </div><!-- /col --> 
+	    <div class="col-sm-4">		
+		    <div class="row">    		
+			    <div class="col-xs-6">
+		   	    <h3>Support</h3>        
+		  		    <nav role="navigation" aria-label="Footer Navigation. Support">
+		  		      <ul class="list-unstyled">			
+		   			    <li><a href="https://www.learningally.org/help.aspx" title="Help">Help&nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/IndividualTOS.aspx" title="Terms of Service">Terms of Service&nbsp;»</a></li>
+		   	      </ul>
+		   	    </nav>
+			    </div><!-- /col -->    
+			    <div class="col-xs-6">        
+		   	    <h3>Join Us</h3>        
+		  	    <nav role="navigation" aria-label="Footer Navigation. Join Us">
+		  		    <ul class="list-unstyled">			
+		   			    <li><a href="https://www.learningally.org/Parents/Join.aspx" title="Parent">Parent&nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/Adults/Join.aspx" title="Adult Learners">Adults &nbsp;»</a></li>
+						    <li><a href="https://www.learningally.org/Educators.aspx" title="Educator">Educators&nbsp;»</a></li>
+		   	      </ul>
+		   	    </nav>  
+		 	    </div><!-- /col -->
+			    <div class="col-xs-12 app-badges">
+		  	    <nav role="navigation" aria-label="Footer.  Application and Google Store">
+		  		    <ul class="list-unstyled list-inline">			
+		   			    <li><a href="https://itunes.apple.com/us/app/rfb-d-audio/id418888450" title="App Store. Opens in a new window" target="_blank"><img alt="Available on the App Store (iTunes)" class="img-responsive" src="/Portals/_default/Skins/LearningAllyBootstrap3/images/theme/badge-apple-app.png"></a></li>
+			          <li><a href="https://play.google.com/store/apps/details?id=org.learningally.learningallyaudioandroid&amp;hl=en" title="Google Play. Opens in a new window" target="_blank"><img alt="Android App on Google Play" class="img-responsive" src="/Portals/_default/Skins/LearningAllyBootstrap3/images/theme/badge-android-app.png"></a></li>
+		   	      </ul>
+		   	    </nav>  
+		 	    </div><!-- /col -->
+		    </div><!-- /row -->
+	    </div><!-- /col -->		
+    </div><!-- /row --> 
+
+    <div class="row">
+      <div class="col-xs-12 copyright" role="navigation" aria-label="Footer. Copyright and links.">
+           <p><span id="dnn_laFooter_dnnCOPYRIGHT_lblCopyright" class="copyright">Copyright 2016 by Learning Ally</span>
+</p>
+        <ul class="list-unstyled list-inline">			
+  		    <li><a href="https://www.learningally.org/privacy.aspx" title="Privacy">Privacy&nbsp;</a></li>
+  		    <li><a href="https://www.learningally.org/accessibility.aspx" title="Accessibility">Accessibility&nbsp;</a></li>
+  		    <li><a href="https://go.learningally.org/la-sitemap/" title="Site Map" onclick="recordOutboundLink(this, 'wordpress', 'click', 'SiteMap-footer)">Site Map&nbsp;</a></li>
+  		    <li><a href="https://supportus.learningally.org/checkout/donation?eid=55156/" title="Donations" onclick="recordOutboundLink(this, 'outbound', 'click', 'Donate-footer)">Support Us&nbsp;</a></li>
+  		    <li><a href="https://go.learningally.org/contact-us/" title="Contact Us" onclick="recordOutboundLink(this, 'wordpress', 'click', 'ContactUs-footer)">Contact Us&nbsp;</a></li>
+  		    <li><a href="https://www.learningally.org/AboutUs/Join.aspx" title="Join">Join&nbsp;</a></li>
+  	    </ul>
+      </div>
+    </div>
+</div>
+</footer>
+<div id="freezerIcon" class="modal-backdrop fade in" style="opacity: 0.3; z-index: 8000; display: none;"> 
+    <div style="position:absolute; left:50%; top:50%; margin-left:-33px; margin-top:-33px; width:66px; height:66px; ">
+        <img width="66px" height="66px" src="/Portals/_default/Skins/LearningAllyBootstrap3/images/ajax-loader.gif" alt="Processing...Please Wait">
+    </div>
+</div>	
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`2008`}">
+        <script src="/Portals/_default/Skins/LearningAllyBootstrap3/javascripts/breadcrumbs.js?cdv=876" type="text/javascript"></script>
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js"></script></form>
+    
+    
 
 </body></html>
