@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051455id_/http%3A//www.peoplefinders.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818103917id_/http%3A//www.peoplefinders.com/About/Privacy) for the most accurate reproduction.*
 
 # PeopleFinders Privacy Policy Keeps Your Personal Information Safe
 
   
-_Last Updated: May 5, 2016_
+_Last Updated: June 22, 2016_
 
 This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy. 
 
@@ -40,7 +40,7 @@ Tell us to close your account
   
 PEOPLEFINDERS’ PRIVACY POLICY 
 
-_Last Updated: May 5, 2016 (Reviewed)_
+_Last Updated: June 22, 2016 (Reviewed)_
 
 Confi-Chek, Inc. (“PeopleFinders”, "us", "our" or "we") who owns and controls the website found at [www.peoplefinders.com](https://web.archive.org/) has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on [www.peoplefinders.com](https://web.archive.org/), and any successor websites, (collectively, the “Site”), and other interactive properties, including but not limited to our mobile applications and mobile-focused websites (the Site and other PeopleFinders’ interactive properties are collectively referred to herein as the “PeopleFinders Applications"). This Privacy Policy also applies to our offline collection of information. PeopleFinders provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the services provided by PeopleFinders ("Services"). 
 
@@ -76,6 +76,8 @@ In addition to any Personal Information or other information that you choose to 
 Provide useful features to simplify your experience when you return to PeopleFinders Applications; for example, remembering the searches you conducted Deliver relevant content based on your preferences, usage patterns and location Monitor and evaluate the use and operation of our PeopleFinders Applications Analyze traffic on our PeopleFinders Applications and on the sites and applications of third parties We may associate this tracking data with your registration account, in which case we will treat it as personal information. Technologies such as: cookies, beacons, tags and scripts are used by PeopleFinders and our marketing and distribution partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. Third party service providers might combine information they collect from your interaction with PeopleFinders Applications with personal information they collect from other sources. We do not have access to, nor control over, third parties' use of tracking technologies. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online. If you choose to disable cookies on your Device, some features of the PeopleFinders Applications may not function properly. For instance, if cookies are disabled, you will not be able to log into our PeopleFinders Applications. 
 
 We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+**Analytics:** Google Analytics Premium feature is enabled in Peoplefinders.com. Google Analytics will collect data about our traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation. 
 
 Information You Provide About a Third Party 
 
@@ -114,6 +116,8 @@ II. HOW WE USE AND SHARE YOUR INFORMATION
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
 
+**Advertising and Analytics data collection:** Peoplefinders.com and some third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as Google advertising cookies) or other third-party identifiers together to recognize you, customize your experience, and serve advertisements both on and off PeopleFinders Applications. 
+
 III. ACCESS TO YOUR INFORMATION 
 
 If for any reason you are concerned that the Personal Information or Billing Information you provided to us is not correct and you wish to change or delete it, you have the ability to review and update your personal information online by logging into your account, [https://www.peoplefinders.com/login](https://web.archive.org/login). You can also email us regarding your personal information by using our contact form located at [http://www.peoplefinders.com/About/Help](https://web.archive.org/About/Help). If you change information in your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our PeopleFinders Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
@@ -124,6 +128,8 @@ IV. CHOICE AND OPT OUT
 Upon request we can block the records we have control over in our database from being shown on PeopleFinders.com. You can request for your personal information to be blocked from being searched using the link below. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to require verification of identity and reject opt-out requests in our sole discretion. Of course we are unable to remove any information about you from databases operated by third parties. We do not accept opt-out requests via fax or mail. To manage or remove your public records from our database, please click [here](https://web.archive.org/manage) Please note that changes you request may not be effective immediately. Note that despite any request for removal of or change to personal information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. 
 
 We are not obligated by law to block the records we have control over in our database from being shown on PeopleFinders.com. Despite this, we will endeavor to comply with any such requests to block the records we have control over as described above. Please note, we have no control over public records, and do not guarantee or warrant that a request for removal of or change to personal information as described above will result in removal of or change to all of your information from PeopleFinders.com. Further, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personal information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities. 
+
+**Advertising and Analytics Opt Out:** You can opt-out of the Google Analytics Advertising Features you use, including through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out). You can also use Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web. 
 
 V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION 
 
@@ -156,4 +162,4 @@ Customer Service
 1821 Q Street  
 Sacramento, CA 95811 
 
-Copyright ©2015 Confi-Chek, Inc. All rights reserved. 
+Copyright ©2016 Confi-Chek, Inc. All rights reserved. 
