@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183935id_/http%3A//www.ph-creative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818213145id_/http%3A//www.ph-creative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ph.Creative
 
