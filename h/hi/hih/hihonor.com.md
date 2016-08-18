@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hihonor.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618101752id_/http%3A//www.hihonor.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hihonor.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818215147id_/http%3A//www.hihonor.com/global/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
