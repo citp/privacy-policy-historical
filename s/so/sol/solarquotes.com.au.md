@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325123235id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818132818id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers
 
@@ -76,4 +76,6 @@ _We will send you emails walking you through the solar buying process, asking yo
 
 15\. You are entitled to have access to any of the personal information that you have previously supplied to us and that is in our possession, and you are entitled to change or delete such information except where we are required by law to retain it.
 
-16\. If you want to ask a question or make a comment about our privacy policy, or if you want to inquire about any of your personal information that may be in our possession, or you want to modify or delete any of your personal information that may be in our possession, please contact us here: [www.solarquotes.com.au/contact.php](https://www.solarquotes.com.au/contact.php) or via email: privacy@solarquotes.com.au or by phone 0434 284495 or at our address: 28 Oleander St East, South Brighton, SA 5048. 
+16\. If you want to ask a question or make a comment about our privacy policy, or if you want to inquire about any of your personal information that may be in our possession, or you want to modify or delete any of your personal information that may be in our possession, please contact us here: [www.solarquotes.com.au/contact.php](https://www.solarquotes.com.au/contact.php) or via email: privacy@solarquotes.com.au or by phone 08 7200 0177 or at our address: PO Box 470, Brighton, SA 5048. 
+
+Peacock Media Group P/L, ACN: 140 645 932
