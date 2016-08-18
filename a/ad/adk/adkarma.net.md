@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adkarma.net privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810103926id_/http%3A//0034191.netsolhost.com/adkarma/AdKarma_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adkarma.net privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818065336id_/http%3A//0034191.netsolhost.com/adkarma/AdKarma_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
