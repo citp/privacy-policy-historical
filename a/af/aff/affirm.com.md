@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affirm.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411212355id_/https%3A//www.affirm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affirm.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818143851id_/https%3A//www.affirm.com/privacy) for the most accurate reproduction.*
 
-# Affirm | Privacy
+# Privacy | Affirm
 
 ###### Last Updated December 13, 2018
 
