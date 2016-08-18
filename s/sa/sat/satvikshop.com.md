@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satvikshop.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619095716id_/http%3A//satvikshop.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satvikshop.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818211934id_/http%3A//satvikshop.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
