@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the carid.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055103id_/http%3A//www.carid.com/help-center/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carid.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818233340id_/http%3A//www.carid.com/help-center/privacy.html) for the most accurate reproduction.*
 
 # CARiD.com - PRIVACY STATEMENT
 
-[ ](https://privacy.truste.com/privacy-seal/CARiD-com/validation?rid=02d4c39b-18ac-4d90-9961-543a806f5f3b "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/CARiD-com/validation?rid=02d4c39b-18ac-4d90-9961-543a806f5f3b)
 
-Effective Date: **11/19/2014**
+Effective Date: **06/07/2016**
 
-CARiD.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our my.carid.com site. The TRUSTe program covers only information that is collected through this website, [www.carid.com](http://www.carid.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@carid.com](mailto:info@carid.com?subject=CARiD%20Privacy%20Policy) or call 800-505-3274. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+CARiD.com has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program.) In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+The TRUSTe program does not cover information that may be collected through our [my.carid.com](http://my.carid.com/) site. The TRUSTe program covers only information that is collected through this website, [www.carid.com](http://www.carid.com/).
 
 Customer **Information**
 
@@ -14,7 +16,7 @@ CARiD.com values the trust you place in us and recognizes the need for appropria
 
 Collecting **Information**
 
-CARiD.com gathers customer information as needed to provide service, communicate offers on merchandise and services which we believe will be of interest to you and to administer our business. When you purchase or order a product, subscribe to our newsletter or a service we provide, we may request information such as your name, address, telephone number, email address and credit card information. In addition, our web server will automatically gather information about your visit to our site, such as your browser type, what pages have been viewed, the time of visit, etc. You may access, update or delete any personal information you submit to the web site by contacting us using any of the contact points listed at the bottom of this privacy statement.
+CARiD.com gathers customer information as needed to provide service, communicate offers on merchandise and services which we believe will be of interest to you and to administer our business. When you purchase or order a product, subscribe to our newsletter or a service we provide, we may request information such as your name, address, telephone number, email address and credit card information. In addition, our web server will automatically gather information about your visit to our site, such as your browser type, what pages have been viewed, the time of visit, etc. You may access, update or delete any personal information you submit to the web site by contacting us using any of the contact points listed at the bottom of this privacy statement. We will respond to your request within a reasonable timeframe.
 
 CARiD.com collects the personal information (such as address, name, phone number and email address) of our users' friends in order to provide our users with a Gift Certificate service. By submitting your friend's personal information, you are providing CARiD.com with the ability to send your friend a one time email that delivers the gift certificate. If users choose to send their friend a gift certificate via mail, CARiD.com will send users' friends a one time letter in the mail containing the gift certificate. CARiD.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@carid.com](mailto:info@carid.com) to request that we remove this information from our database.
 
@@ -24,13 +26,15 @@ Technologies such as: cookies, beacons, tags and scripts are used by CARiD.com a
 
 We use cookies for our shopping cart, to remember users' settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
+We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+
 Analytics / Log **Files**
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 Behavioral Targeting / **Re-Targeting**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 What Does CARiD.com **do With This Information?**
 
@@ -48,7 +52,7 @@ We use other third parties to provide credit card processing, shipping orders an
 
 Email
 
-At CARiD.com, we do not share your email address with other companies or organizations. However, your email address may be used internally conduct business including confirming orders, answering questions, provide our newsletter as requested, and other customer related services. You may choose to opt out of receiving news and information by email simply by contacting us by email, phone or in writing. In such instances, you will continue to receive email contact pertaining to any current or outstanding order you have with us. Links
+At CARiD.com, we do not share your email address with other companies or organizations. However, your email address may be used internally conduct business including confirming orders, answering questions, provide our newsletter as requested, and other customer related services. You may choose to opt out of receiving news and information by email simply by contacting us by email, phone or in writing. In such instances, you will continue to receive email contact pertaining to any current or outstanding order you have with us.
 
 CARiD.com may contain links to other websites not affiliated with CARiD.com, including websites of vendors and/or service providers. CARiD.com is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our site to read the privacy statements before providing information, as they may differ from ours.
 
@@ -58,7 +62,7 @@ We display personal testimonials of satisfied customers on our site in addition 
 
 Social Media **Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 Data **Retention**
 
