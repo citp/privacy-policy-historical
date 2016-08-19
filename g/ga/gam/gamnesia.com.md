@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamnesia.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513112715id_/http%3A//www.gamnesia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamnesia.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819091554id_/https%3A//www.gamnesia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
