@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619071018id_/http%3A//www.affordablemobiles.co.uk/help/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819203226id_/http%3A//www.affordablemobiles.co.uk/help/terms/privacy-policy) for the most accurate reproduction.*
 
 # 
 
