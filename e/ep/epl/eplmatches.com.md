@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplmatches.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529154735id_/http%3A//www.eplmatches.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplmatches.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820002430id_/http%3A//www.eplmatches.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Premier League Highlights - News and Gossips
 
