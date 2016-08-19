@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514225657id_/http%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlightstores.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819235541id_/https%3A//www.spotlightstores.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spotlight Australia
+# Privacy Policy At Spotlight - Know Our Privacy Policy | Spotlight Australia
 
 ## Our privacy commitment
 
@@ -187,9 +187,9 @@ If you do not wish to be contacted by SRG please e-mail us at [privacy@srg.com.a
 
 Your personal information may be disclosed to other SRG entities, business partners and service providers in Australia and overseas.
 
-The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, Singapore, Malaysia, the Philippines, and the United States of America.
+The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, Singapore, Malaysia, Fiji, and the United States of America.
 
-Sometimes we use third party platforms and services to process sales, provide web support, send marketing messages, deliver products or otherwise deliver information. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand, Singapore, Malaysia, the Philippines, and the United States of America.
+Sometimes we use third party platforms and services to process sales, provide web support, send marketing messages, deliver products or otherwise deliver information. These services are hosted and managed by organisations other than ourselves, and some of these services are hosted overseas. We use products and services maintained in Australia, New Zealand, Singapore, Malaysia, Fiji, and the United States of America.
 
 Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on SRG’s behalf).
 
