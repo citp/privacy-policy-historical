@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedatereport.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618081843id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedatereport.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819234525id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
 
 # | HowAboutWe
 
