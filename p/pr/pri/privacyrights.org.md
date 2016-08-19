@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404024926id_/https%3A//www.privacyrights.org/node/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819201853id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
@@ -107,7 +107,7 @@ If someone demands that we produce your identifiable information, we will try to
 
 **III.Access, Correction, and Data Quality**
 
-If we have personally identifiable information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personally identifiable information we have for you, and we will comply unless we are otherwise required to keep it.  Please contact our Chief Privacy Officer at [admin@privacyrights.org](mailto:admin@privacyrights.org) or 619-298-3396 if you have such a request.
+If we have personally identifiable information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personally identifiable information we have for you, and we will comply unless we are otherwise required to keep it.  Please contact us at [admin@privacyrights.org](mailto:admin@privacyrights.org) or 619-298-3396 if you have such a request.
 
 **IV.Security **
 
@@ -127,7 +127,7 @@ The PRC may make changes to this policy on occasion.  We will announce substant
 
 **             ****Questions and Concerns**
 
-We practice what we preach, and we train our staff so that they understand our privacy policy.  If you have any questions or comments about our privacy policy, please direct your inquiry to our Chief Privacy Officer at cpo (at) privacyrights.org  or 619-298-3396. 
+We practice what we preach, and we train our staff so that they understand our privacy policy.  If you have any questions or comments about our privacy policy, please direct your inquiry to [admin@privacyrights.org](mailto:admin@privacyrights.org)  or 619-298-3396. 
 
 **Privacy Rights Clearinghouse Privacy Policy Revision History**
 
