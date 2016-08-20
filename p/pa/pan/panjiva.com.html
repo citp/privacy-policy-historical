@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2016-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160418234143id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2016-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160820102234id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
 
@@ -26,7 +26,7 @@
 <link rel="search" type="application/opensearchdescription+xml" title="Panjiva Manufacturer Search" href="/assets/opensearch_plugins/panjiva.xml">
 
 
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script async="" src="//platform.twitter.com/oct.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
   var isGoogleAnalyticsLoaded = isGoogleAnalyticsLoaded || false;
   if (!isGoogleAnalyticsLoaded) {
     // New analytics.js
@@ -56,7 +56,7 @@ ga('pageTracker.set', 'dimension2', '----');
 
 //]]>
 </script>
-
+<!-- NOTE: The GFW in China blocks these js libraries and it really really really impacts page loads over there, so don't load them for cn.panjiva.com.  We may want to also consider excluding them for IPs that are in China, but that can be hard to determine. -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -74,12 +74,32 @@ ga('pageTracker.set', 'dimension2', '----');
   <!-- End Facebook Pixel Code -->
 
   <!-- Twitter universal website tag code -->
-  <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-  <script type="text/javascript">twttr.conversion.trackPid('nuq8f', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+  <script>
+    var _twttr = window._twttr || (window._twttr = []);
+
+    // Load Twitter script
+    var _loadTwitter = function() {
+      var interval = setInterval(function() {
+        if (!_twttr.loaded) {
+          var twitterScript = document.createElement('script');
+          twitterScript.async = true;
+          twitterScript.src = '//platform.twitter.com/oct.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(twitterScript, s);
+          _twttr.loaded = true;
+        } else if(typeof(twttr) !== 'undefined' && typeof(twttr.conversion) === 'object') {
+          twttr.conversion.trackPid('nuq8f', { tw_sale_amount: 0, tw_order_quantity: 0 });
+          clearInterval(interval);
+        }
+      }, 200);
+    };
+
+    _loadTwitter();
+  </script>
 
   <noscript>
-  <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuq8f&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-  <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuq8f&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuq8f&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuq8f&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
   </noscript>
   <!-- End Twitter universal website tag code -->
 
@@ -88,8 +108,8 @@ ga('pageTracker.set', 'dimension2', '----');
   <title>Privacy Policy — Panjiva</title>
   <meta property="og:title" content="Privacy Policy — Panjiva">
   <!-- SL:end:notranslate -->
-    <link href="https://global-assets.panjiva.com/stylesheets/everest_da56a5c7bfb0c1a0.css?da56a5c7bfb0c1a0" media="screen" rel="stylesheet" type="text/css">    
-  <link href="https://global-assets.panjiva.com/stylesheets/aboutpanjiva_d20494d9e7633a40.css?d20494d9e7633a40" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://global-assets.panjiva.com/stylesheets/everest_83e45c7dafb9f7eb.css?83e45c7dafb9f7eb" media="screen" rel="stylesheet" type="text/css">    
+  <link href="https://global-assets.panjiva.com/stylesheets/aboutpanjiva_04cae8bfdfd8eefd.css?04cae8bfdfd8eefd" media="screen" rel="stylesheet" type="text/css">
     
   
 
@@ -111,7 +131,7 @@ window.location.replace('https://panjiva.com/info/deprecated_browser?after=https
 //]]>
 </script>    <![endif]-->
 
-<script src="https://global-assets.panjiva.com/javascripts/jquerybase_9990775c77f8a74d.js?9990775c77f8a74d" type="text/javascript"></script><script type="text/javascript">
+<script src="https://global-assets.panjiva.com/javascripts/jquerybase_f19b220548eb6102.js?f19b220548eb6102" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
 var $j = jQuery.noConflict();
 //]]>
@@ -184,6 +204,23 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 })(jQuery);
 //]]>
 </script>
+  <script src="https://global-assets.panjiva.com/javascripts/raven_85dd82a21a4572ef.js?85dd82a21a4572ef" type="text/javascript"></script>  <script type="text/javascript">
+//<![CDATA[
+
+    Raven.config('https://f71d3bb85b274a86b7b1366d97d862a9@sentry.panjiva.com/2', {
+      ignoreErrors: [
+        /^JQMIGRATE.*/,           // jQuery Migrate warnings
+        /.*SensorNotRequired.*/   // Google Maps API harmless warnings
+      ]
+    }).install();
+
+    Raven.setUserContext({
+      id: null,
+      email: ''
+    });
+  
+//]]>
+</script>
 
 
 
@@ -193,7 +230,7 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 
 
 
-  <script src="https://global-assets.panjiva.com/javascripts/profilev4layout_8c983c2fb4617c08.js?8c983c2fb4617c08" type="text/javascript"></script>  
+  <script src="https://global-assets.panjiva.com/javascripts/profilev4layout_9714c38d77745702.js?9714c38d77745702" type="text/javascript"></script>  
 
   <script type="text/javascript">
 //<![CDATA[
@@ -217,7 +254,7 @@ $j(document).bind('init.facebox', function(e) {
     
 //]]>
 </script>
-    <script src="https://global-assets.panjiva.com/javascripts/guidedtour_36a934d7d2669034.js?36a934d7d2669034" type="text/javascript"></script>
+    <script src="https://global-assets.panjiva.com/javascripts/guidedtour_edb24355ed00b855.js?edb24355ed00b855" type="text/javascript"></script>
 </head>
 
 <body id="info_privacy_policy" class="not-logged-in info  ">
@@ -281,8 +318,20 @@ $j(document).bind('init.facebox', function(e) {
                 <a href="https://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>              </li>
           </ul>
         </li>
+
+        <li id="header-phone-number-link">
+          <a href="tel:+1-646-205-0594">
+            <span class="panjiva-icon panjiva-icon-call t2tt panjiva-call-link" title="+1-646-205-0594"></span>
+          </a>
+        </li>
+
         <li class="nav-request-demo">
             <a href="/request-demo" class="demo">Demo</a>            <a href="/request-demo" class="responsive-demo">Request a Demo</a>        </li>
+
+        <li id="header-phone-number-link-mobile">
+          <a href="tel:+1-646-205-0594">+1-646-205-0594</a>
+        </li>
+
         <li class="nav-login">
 
             <a href="/account/login" class="header-signin-link">Sign in</a>        </li>
@@ -457,7 +506,8 @@ $j(document).bind('init.facebox', function(e) {
   </div>
   </div> 
 
-  <script type="text/javascript">
+  
+<script type="text/javascript">
   var isGoogleAnalyticsLoaded = isGoogleAnalyticsLoaded || false;
   if (!isGoogleAnalyticsLoaded) {
     // New analytics.js
@@ -485,7 +535,8 @@ $j(document).bind('init.facebox', function(e) {
     
 //]]>
 </script>
-  
+  <!-- NOTE: The GFW in China blocks this js library and it really really really impacts page loads over there, so don't load for cn.panjiva.com.  We may want to also consider excluding for IPs that are in China, but that can be hard to determine. -->
+    
 
 <script type="text/javascript">
 //<![CDATA[
