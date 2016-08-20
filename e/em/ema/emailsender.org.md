@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailsender.org privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405121330id_/http%3A//emailsender.org/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailsender.org privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821004310id_/http%3A//emailsender.org/privacy-policies) for the most accurate reproduction.*
 
 # 
 
