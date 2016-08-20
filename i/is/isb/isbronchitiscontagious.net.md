@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbronchitiscontagious.net privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318171100id_/http%3A//isbronchitiscontagious.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbronchitiscontagious.net privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820231551id_/http%3A//isbronchitiscontagious.net/privacy.html) for the most accurate reproduction.*
 
 # isbronchitiscontagious.net | Privacy Policy
 
