@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signalfx.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412191150id_/https%3A//signalfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalfx.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820121814id_/https%3A//signalfx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SignalFx
+# Privacy Policy | SignalFx
 
 ## SignalFx Privacy Policy
 
