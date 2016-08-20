@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadplrproducts.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426215753id_/https%3A//downloadplrproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplrproducts.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820091211id_/https%3A//downloadplrproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Download PLR Products
+# Privacy Policy — Download PLR Products
 
 1\. Our Commitment to Privacy. This Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
