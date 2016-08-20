@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506060728id_/https%3A//www.zionsbank.com/pdfs/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820035909id_/https%3A//www.zionsbank.com/pdfs/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
