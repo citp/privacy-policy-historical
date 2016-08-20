@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavido.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183645id_/http%3A//flavido.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavido.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820151414id_/http%3A//flavido.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,15 +12,15 @@ This Privacy Policy explains how Flavido.com gathers personal information, class
 
 By registering with Flavido.com, you acknowledge your acceptance of the terms of this Privacy Policy, expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy and that any personal information provided by you through Flavido.com is provided under a lawful contract. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-****Your Privacy****
+ ** **Your Privacy****
 
 At Flavido.com, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We work hard to earn your confidence so that you can enthusiastically use our services and recommend your friends and family to participate in dealing with us. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
-****  Flavido.com Privacy Assurance****
+ ** **  Flavido.com Privacy Assurance****
 
 Flavido.com promises that we will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Web site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority.
 
-****Information that Flavido.com collects****
+ ** **Information that Flavido.com collects****
 
 When you use our Site, we collect and store your personal information. We gather your personal information in order to record, support and facilitate your participation in the activities you select, track your preferences, to provide you with a customized Site experience, to notify you of any updated information and new activities and other related functions offered by Flavido.com, keep you informed about latest content available on the Site, special offers, and other products and services of Flavido, to assist you with customer service or technical support issues, to follow up with you after your visit, to otherwise support your relationship with Flavido or to prevent fraud and unlawful use. For the aforesaid purpose, we only collect such personal information that we consider relevant to understand you or your interests.
 
@@ -36,7 +36,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 If you register for the Site on another web site or use a web site providing a service for Flavido or a web site that helps facilitates your activity on the Site, that web site may provide personal information about you and your transactions back to us.
 
-****Our use of your information****
+ ** **Our use of your information****
 
 We use your personal information to facilitate the services you request. We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may provide your collected information to our affiliates and partner brands under contract (such as customer care, data analytics) to support the operation of the Website and our services. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement, and in general to improve the user experience and make it comparable to other e-commerce websites; and as otherwise described to you at the time of collection. In our efforts to continually improve our product and service offerings, we collect and analyze demographic, profile and usage data about our users’ activity on our Site.
 
@@ -44,11 +44,11 @@ We use your personal information to improve our platform, improve the Site’s c
 
 We may also use your personal information to display contents and services that are targeted to your interests. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile under My Account or by clicking unsubscribe any email communication. You may make changes to your profile at any time.
 
-****Our Disclosure of your information****
+ ** **Our Disclosure of your information****
 
 Your personal information is an important part of our business and we are not in the business of selling it to others. Flavido.com shares your personal information only to categories of persons that are either subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy as more particularly described below:
 
-** ** ** **Advertisements****
+ ** ** ** **Advertisements****
 
   1. Where a user enters information on any form of an advertiser, the information is simultaneously collected by Flavido.com and the advertiser. The information is used by Flavido.com in accordance with the terms of this privacy policy and is used by the advertiser as per the advertiser’s prevalent privacy policies. Since we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information.
   2. Flavido.com may also use personally identifiable information in an aggregated form and disclose to advertisers and other third parties for other marketing and promotional purposes.
@@ -59,30 +59,30 @@ Your personal information is an important part of our business and we are not in
 
 When an advertiser  lists a classified advertisement, and the advertisement receives an expression of interest by the interested user, the interested user will be provided the contact information of the user listing the advertisement as provided in the user’s registration form.
 
-**  **Items and Services offered on the Site by third parties****
+ **  **Items and Services offered on the Site by third parties****
 
 There are certain items and services for which third parties request for information to perform services on our behalf. The information provided by the user for such purposes is simultaneously collected by Flavido.com and the respective third party. This information is utilized by the third party in accordance with its privacy policy and the terms of the offer. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
 
-****Internal Service Providers****
+ ** **Internal Service Providers****
 
 We may employ third parties services to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Site (e.g., search technology, discussion boards, bill collection, co-branded credit cards) and therefore we may provide some of your personal information to these internal service providers. These internal service providers’ are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of your personal information for any other purpose except to facilitate the specific outsourced service. In the event of your direct involvement with the internal service provider, any additional information disclosed by you to them shall be subject to internal service provider’s own applicable privacy policy and the Flavido.com shall not be responsible for the same.
 
-** ** ****Legal Requests****
+ ** ** ****Legal Requests****
 
 We cooperate with law enforcement and regulatory inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors.
 
-**X** ** **Children’s privacy policy?****
+ **X** ** **Children’s privacy policy?****
 
 Use of Flavido.com is available only to persons who can form a legally binding contract under the Indian Contract Act, 1872. If you are under the age of 18, you cannot buy or sell any items on the Site. If you wish to purchase or sell an item on the Site such purchase or sale may be made by your legal guardian or parents who have registered as users of the Site.
 
-** ** ** **Access or change your personally identifiable information****
+ ** ** ** **Access or change your personally identifiable information****
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information. If you have registered your profile on Flavido.com, your registered user ID and Password are required in order to access your profile information.
 
-** ** ** **Security****
+ ** ** ** **Security****
 
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you put in before it is sent to us. Once your information is in our possession we adhere to strict security guidelines in compliance with the (Indian) Information Technology Act, 2000, protecting it against unauthorized access.
 
-** ** ** **Your Consent****
+ ** ** ** **Your Consent****
 
 By using the Site and/ or by providing your information, you acknowledge our use of your personal information in the manner as set out in this Privacy Policy. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation. Name and address of the entity collecting and retaining your information shall be the contracting entity stated in the Flavido.com User Agreement.
