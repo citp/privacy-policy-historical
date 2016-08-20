@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416104948id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820180042id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Forex Trading - TRADE.com
 
