@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530163000id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820190728id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Menufy
 
