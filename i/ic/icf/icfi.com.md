@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623204644id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820172827id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy » ICF Intl
-
-* * *
+# Website Privacy Policy
 
 ICF International, Inc., ("ICF International" or "ICF") is committed to protecting the privacy and security of your Personal Information. Except as described below, ICF International does not sell, rent, or share Personal Information provided to us through our suite of websites. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address. 
 
