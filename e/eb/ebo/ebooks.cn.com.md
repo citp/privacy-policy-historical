@@ -1,22 +1,30 @@
-> *The following text is extracted and transformed from the ebooks.cn.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000543id_/http%3A//ebooks.cn.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.cn.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820230622id_/http%3A//ebooks.cn.com/Privacy.html) for the most accurate reproduction.*
 
-# eBooks Free download
+# PRIVACY POLICY
 
-ebooks.cn.com Privacy Policy
+##  1\. Acknowledgement and Acceptance of Terms.
 
-By using our Web site, you consent to the collection and use of this information by ebooks.cn.com If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, ebooks.cn.com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.  
+DNBIZ Ltd., the affiliate of Hangzhou 365 Internet Ltd., is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
+* * *
 
-Third Party Advertising
+##  2\. What Information Do We Collect? 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  
+DNBIZ may request that an entity applying for an account provides us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
+* * *
 
-Third Party Cookies
+##  3\. With Whom Do We Share Information? 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.  
+DNBIZ may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.   
+In addition, we may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
 
+* * *
 
-Modification of Privacy Policy
+##  4\. Cookies , web Beacons and Other Monitoring Technologies? 
 
-ebooks.cn.com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+Like most sites, for account management purposes, DNBIZ may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, “click-throughs” and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partner’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. 
+
+* * *
+
+This document was last updated on December 28, 2010.
