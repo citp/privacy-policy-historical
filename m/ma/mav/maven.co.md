@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414092540id_/http%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820114511id_/https%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maven
 
 [](https://privacy.truste.com/privacy-seal/Maven-Research,-Inc-/validation?rid=b284df5e-c00e-4f0c-a329-56f69ef50fcb "TRUSTe online privacy certification")
 
-This privacy policy, effective as of 12:01am EDT on March 11, 2015 applies to [**www.maven.co**](http://www.maven.co/) owned and operated by Maven Research, Inc. (“Maven”). This privacy policy describes how Maven Research, Inc. collects and uses the personal information you provide on our web site:  [**www.maven.co**](http://www.maven.co/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy, effective as of 12:01am EDT on June 8, 2016 applies to [**www.maven.co**](http://www.maven.co/) owned and operated by Maven Research, Inc. (“Maven”). This privacy policy describes how Maven Research, Inc. collects and uses the personal information you provide on our web site: [**www.maven.co**](http://www.maven.co/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 You agree that by visiting or using the www.maven.co website, or by becoming a user of Maven, that you are expressly and affirmatively consenting to Maven’s use and disclosure of the information that you provide as described below in this Privacy Policy. Please review this Privacy Policy periodically as we may update it from time to time.
 
-Maven Research, Inc.has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [**www.maven.co**](http://www.maven.co/).
+Maven Research, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software or through aspects our platform other than this Web site. The TRUSTe program covers only information that is collected through this Web site, [**www.maven.co**](http://www.maven.co/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [**here**](https://feedback-form.truste.com/watchdog/request "TRUSTe") .
 
@@ -29,21 +29,17 @@ We will use this information to:
 
 
 
-We will not sell or share your personal information to anyone except as described in this Privacy Policy. You may obtain a copy of the information we hold about you under any applicable data protection laws upon payment to us of the appropriate access fee.
+We will not sell or share your personal information to anyone except as described in this Privacy Policy.
 
 As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
 We do not link this automatically collected data to other information we collect about you.
 
-Technologies such as: cookies, beacons, tags and scripts are used by Maven and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts or similar technologies are used by Maven and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookiesto customize your experience on this site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies to customize your experience on this site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:
-
-**<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>**
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/ "TRUSTe Preferences")  (or if located in the European Union click [**here**](http://www.youronlinechoices.eu/ "EU Online Choices")). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/)  (or if located in the European Union click [**here**](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 ## Widgets
 
@@ -55,7 +51,7 @@ You can log in to our site using sign-in services such as LinkedIn or an Open ID
 
 ## Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You can request the removal of your personal information from our blog or community forum, by contacting us [here](https://web.archive.org/contact "Contact Maven"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. If you cannot otherwise remove your information by using the tools available on our website, you can request the removal of your personal information from our blog or community forum, by contacting us [here](https://help.maven.co/hc/en-us/requests/new). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Private and Public Status of Your Profile
 
@@ -75,7 +71,7 @@ We may periodically publish newsletters, and we will use your name and email add
 
 ### Opting Out of Certain Communications
 
-You may also opt out of receiving certain email and other information from us by following the unsubscribe instructions included in each communication. You may not opt-out of Customer Service communications, which are not promotional in nature; if you do not wish to receive them, you have the option to close your account.
+You may also opt out of receiving certain email and other information from us by following the unsubscribe instructions included in each communication. Please be aware that unsubscribing from a particular type of Maven communication may not unsubscribe you from all Maven communications; alternatively, you can manage your communication preferences from within your account.  You may not opt-out of Customer Service communications, which are not promotional in nature; if you do not wish to receive them, you have the option to close your account.
 
 ## Invite and Earn
 
@@ -105,11 +101,11 @@ This website may contain links to other websites that are not owned or controlle
 
 ## Access to and Modification of Your Information
 
-You may review, correct, update, delete inaccuracies or change your account information at any time. To change your account information, simply log into your account, go to your Maven Profile, review your account information and, if you wish, edit it with the options provided.
+You may review, correct, update, delete inaccuracies or change your account information at any time. To change your account information, simply log into your account, go to your Maven Profile, review your account information and, if you wish, edit it with the options provided, which edits will be updated when you save them to the site.
 
 ## Closing Your Account
 
-You can [close your account](https://app.maven.co/maven/current/profile/account "Close Your Account") with us at any time, in which event we will remove your profile from our profile database. Information that you remove in this manner may persist in backup or cached copies for a reasonable period of time, or as deemed legally prudent or required, but will not be generally available to any user of our website.
+You can [close your account](https://app.maven.co/maven/current/profile/account) with us at any time, in which event we will remove your profile from our profile database. Information that you remove in this manner may persist in backup or cached copies for a reasonable period of time, or as deemed legally prudent or required, but will not be generally available to any user of our website.
 
 ## Age Restriction
 
@@ -119,10 +115,10 @@ Our website and services are not intended for anyone under 18 years of age. We d
 
 If we decide to materially change our Privacy Policy, we will post those changes on our website prior to the changes becoming effective so that you will always know what information we gather, how we might use that information, and to whom we may disclose it.
 
-If you have any questions about this Privacy Policy or any of our privacy practices please [contact us here](https://web.archive.org/contact "Contact Us").
+If you have any questions about this Privacy Policy or any of our privacy practices please [contact us here](https://help.maven.co/hc/en-us/requests/new).
 
 3661 Buchanan Street  
 Suite 400  
 San Francisco, CA 94123
 
-_**Rev. March 11, 2015**_
+_**Rev. June 8, 2016**_
