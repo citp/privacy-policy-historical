@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621073128id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821195939id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # None
 
 PRIVACY POLICY AND INFORMATION ON COOKIES
 
-Direct Holidays understands and respects the importance of your privacy. This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. Please read the following information carefully. For the purpose of the Data Protection Act 1998 (the Act), we, Thomas Cook Retail Ltd are the Data Controller for this [www.directholidays.co.uk ](https://web.archive.org/web/20160621073128id_/http://www.directholidays.co.uk/www.directholidays.co.uk)website.
+Direct Holidays understands and respects the importance of your privacy. This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. Please read the following information carefully. For the purpose of the Data Protection Act 1998 (the Act), we, Thomas Cook Retail Ltd are the Data Controller for this [www.directholidays.co.uk ](https://web.archive.org/web/20160821195939id_/http://www.directholidays.co.uk/www.directholidays.co.uk)website.
 
 COOKIES  
 This Site uses cookies to distinguish you from other users. Some of these cookies are essential to make this Site work properly, to allow you to make your travel booking or other purchases, and to enable us to fulfil your purchase requests. Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers, or are used to provide you with information or offers from Direct Holidays companies or third parties that may be of interest to you. You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options'). However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired.
