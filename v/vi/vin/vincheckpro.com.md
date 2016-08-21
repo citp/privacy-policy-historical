@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621100530id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821221411id_/https%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
 
 # VINCheckPro.com Privacy Policy
 
-### _Effective Date: October 06, 2015_
+### _Effective Date: June 13, 2016_
 
 ### This policy Covers The Following:
 
@@ -41,6 +41,7 @@ We will share your personal information with third parties only in the ways that
   * Companies that display advertisements on our pages may set and access their cookies on your local end machine. Other companies that store cookies on your machine are subject to their privacy policy, not ours. Such companies do not gain access to our cookies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
   * Log Files: As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
   * Information that can be used to identify your person, such as names, residence, passwords and such will not be stored in our cookies.
+  * We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
 
 
@@ -77,4 +78,4 @@ We reserve the right to modify this Policy at any time, so please review it freq
 
 ## Contacting Us
 
-If you have questions or concerns regarding this policy, you can contact us by emailing [support@vincheckpro.com](mailto:support@vincheckpro.com), calling 855-595-0889 or writing to us at VINCheckPro.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. VINCheckPro.com maintains offices at 555 Twin Dolphin Drive, Redwood City, CA 94065.
+If you have questions or concerns regarding this policy, you can contact us by emailing [support@vincheckpro.com](mailto:support@vincheckpro.com), calling 855-595-0889. or writing to us at VINCheckPro.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139.
