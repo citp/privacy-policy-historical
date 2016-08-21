@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwaiver.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325153244id_/https%3A//www.smartwaiver.com/p/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwaiver.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821045649id_/https%3A//www.smartwaiver.com/p/Privacy) for the most accurate reproduction.*
 
 # Smartwaiver | Privacy Policy
 
@@ -112,4 +112,4 @@ SW Development LLC, 626 NW Arizona Ave. Suite 7, Bend, OR  97701
 
 Last updated: May 27, 2012
 
-Hi, I'm Jim. 
+Hi, I'm Claire. 
