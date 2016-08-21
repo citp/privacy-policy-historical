@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908062645id_/https%3A//www.gohigheris.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821192525id_/https%3A//www.gohigheris.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Policies | About
+# Privacy Policy
 
 #### version 2.0  
 last updated 2012 January 29
