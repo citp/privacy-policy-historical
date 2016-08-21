@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the travelbelles.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404005346id_/http%3A//www.travelbelles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbelles.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821182746id_/http%3A//www.travelbelles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Travel Belles
+# Privacy PolicyTravel Belles
 
-This privacy policy was last modified on May 22, 2012.
+This privacy policy was last modified on August, 2016.
 
-**The Travel Belles,  **LLC, owner of www.travelbelles.com, (“Company,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Website and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
+**The Travel Belles,  **, owner of www.travelbelles.com, (“Company,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Website and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Information We Collect**
 
 **User-Provided Information:**   You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our Website.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-**Cookies Information:   **When you visit the Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the Website.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**Cookies Information:  **When you visit the Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the Website.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 **Log File Information:   **Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-**Clear Gifs Information:   **When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
+**Clear Gifs Information:  **When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
 **New Technology:**   As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way but are protected by confidentiality.
 
@@ -86,7 +86,7 @@ If you would like to “opt-out” of being served OBA on the Website by our thi
 
 You may also “opt-out” of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting<http://www.aboutads.info/choices>  and (b) for users targeted in Europe by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/), selecting the country where you are located, and selecting “Your Ad Choices”.
 
-For more information about online advertising, please visit (a) [www.aboutads.info/consumers](http://www.aboutads.info/consumers/)   regarding United States online choices and/or (b) [www.youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices.
+For more information about online advertising, please visit (a) [www.aboutads.info/consumers](http://www.aboutads.info/consumers/) regarding United States online choices and/or (b) [www.youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices.
 
 **Notification Procedures**
 
@@ -96,10 +96,4 @@ It is our policy to provide notifications, whether such notifications are requir
 
 We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Website following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at hello@travelbelles.com , or send mail to:
-
-**The Travel Belles, LLC**
-
-**3720 Waterford Drive**
-
-**Myrtle Beach, SC 29577**
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at info@travelbelles.com
