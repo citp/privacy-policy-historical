@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415010232id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821190232id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
@@ -71,7 +71,17 @@ Once the Internet session is securely established, Canandaigua National Bank's s
 
 Customers must treat their Canandaigua National Bank Internet user ID and password with the same care as they treat their ATM or credit card PIN. In addition, a Canandaigua National Bank Internet user must make sure that no one is physically watching as his password is entered. If a user has logged into Canandaigua National Bank's Internet, he should exit the browser when leaving the computer unattended. 
 
-Canandaigua National Bank will continually look for new advances in security technology and will modify its architecture to ensure that we provide the highest level of privacy and safety for our customers. 
+Canandaigua National Bank will continually look for new advances in security technology and will modify its architecture to ensure that we provide the highest level of privacy and safety for our customers. 
+
+##### AdWords Remarketing / Cookies 
+
+Adwords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for various purposes, such as fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services. 
+
+  * “Cookies” are small amounts of data a website can send to a visitor’s web browser. They are often stored on the device you are using to help track your areas of interest. Cookies may also enable us or our service providers and other companies we work with to relate your use of our online services over time to customize your experience. Most web browsers allow you to adjust your browser settings to decline or delete cookies, but doing so may degrade your experience with our online services.
+  * Clear GIFs, pixel tags or web beacons—which are typically one-pixel, transparent images located on a webpage or in an email or other message—or similar technologies may be used on our sites and in some of our digital communications (such as email or other marketing messages). They may also be used when you are served advertisements or you otherwise interact with advertisements outside of our online services. These are principally used to help recognize users, assess traffic patterns and measure site or campaign engagement.
+  * If you choose to opt out of Google's use of cookies you can do so by visiting Google's Ads Settings.  
+
+
 
 **While Canandaigua National Bank and Trust takes prudent safety measures to provide Internet and other electronic services, it is incumbent upon customers to reconcile their statements or other bank communications upon receipt (or viewing), and report immediately any questionable activity. In addition, all passwords or other codes must be protected from any source that would compromise your privacy.  
 **  
