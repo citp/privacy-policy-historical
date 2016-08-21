@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906012026id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821122145id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -45,8 +45,8 @@
  information about your creditworthiness
  For nonaffiliates to market to you                                       No                   We don’t share
                             Call 253.383.2016 or 800.562.8130, send us an email from the “Contact Us” page
-Questions?                  on soundcu.com, or write to us at: Sound Credit Union, PO Box 1595, Tacoma,
-                            WA 98401.
+Questions?                  at soundcu.com, or write to us at Sound Credit Union, PO Box 1595, Tacoma, WA
+                            98401.
 
 
 Who we are
