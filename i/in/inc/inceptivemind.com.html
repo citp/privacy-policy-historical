@@ -1,0 +1,823 @@
+<!--The following is the downloaded HTML source of the inceptivemind.com privacy policy that was archived on 2016-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160821155140id_/http%3A//www.inceptivemind.com/page/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="HandheldFriendly" content="true">
+<!-- Core CSS -->
+<link href="http://inceptivemind.com/style/css/style.css" rel="stylesheet">
+<link href="http://inceptivemind.com/style/css/theme-57b020c1d39a3.css" rel="stylesheet"><link href="http://inceptivemind.com/style/css/exp-loader.css" rel="stylesheet">
+<link href="http://inceptivemind.com/style/css/lightbox.css" rel="stylesheet">
+<link rel="shortcut icon" href="http://inceptivemind.com/images/favicon.png?1471446741">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://inceptivemind.com/style/js/jquery.js"></script>
+	<script type="text/javascript">
+	$.ajax
+	({
+		type:"POST",    	
+		url: "http://ip-api.com/json/174.129.237.157",
+		dataType: "json",	
+		success: function(data)
+		{
+			$.ajax
+			({
+				type:"POST",    	
+				url: "http://inceptivemind.com/setIpCache.php",
+				data: {"ip":data.query,"country":data.country,"countryCode":data.countryCode},
+				success: function(data)
+				{}		
+			});
+		}		
+	});
+	</script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82487041-1', 'auto');
+  ga('send', 'pageview');
+
+</script><link href="http://inceptivemind.com/style/css/typeahead.min.css" rel="stylesheet">
+<script src="http://inceptivemind.com/style/js/typeahead.min.js" type="text/javascript"></script>
+<link href="http://inceptivemind.com/style/css/loaderStyle.css" rel="stylesheet">
+<script>
+$(document).ready(function()
+{
+	$('#searchExplore,#iconBar').typeahead
+	({
+	   	minLength: 1,
+		order: "asc",
+		highlight: true,
+		accent: true, 
+		maxItem: 5,
+		template: '<img style="width: 20px;height: 20px" src="http://inceptivemind.com/images/articlesImages/thumb1/{{image}}"/> {{title}}',
+	    source: 
+		{
+			display: ["title"],
+			href: "http://inceptivemind.com/{{username}}/{{permalink}}/{{id}}",
+	    	url: 
+			[{
+				type: "POST",
+				url: "http://inceptivemind.com/autocomplete.php",
+			}]
+	    },
+		callback: 
+		{
+			onClick: function (node, a, item, event) 
+			{
+				window.location = item.href;
+			},
+			onSubmit (node, form, item, event)
+			{
+				var search = $("#searchExplore").val();
+				if(search == "")
+				{
+					search = $("#iconBar").val();
+				}
+				window.location = 'http://inceptivemind.com/search/'+search;
+			}
+		},
+	    	debug: true
+	});
+});
+</script>
+</head><body><div id="associationPreloader"></div>
+<div id="submitLoader"></div>
+ <!--/head-->
+
+
+
+<div id="wrap">
+	<header class="homeheader ">
+		<nav class="navbar navbar-default navbar-fixed-top primary-bg-color transition shadow-1">
+		  <div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header pull-left">
+			  <a class="navbar-brand secondary-bg-color waves-effect waves-light" href="http://inceptivemind.com"><img src="http://inceptivemind.com/images/headerLogo.png?1471446741" alt="Logo" class="img-responsive"></a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="menu-collapse">
+			<ul class="nav navbar-nav navbar-right">
+							<li class="hidden-xs parentWithNoChild">
+					<a href="http://inceptivemind.com/category/mechanical">Mechanical</a>
+				</li>
+								
+								<li class="hidden-xs parentWithNoChild">
+					<a href="http://inceptivemind.com/category/computer">Computer</a>
+				</li>
+								
+								<li class="hidden-xs parentWithNoChild">
+					<a href="http://inceptivemind.com/category/electronics">Electronics</a>
+				</li>
+								
+						<li class="mega-dropdown h-l hidden-xs">
+		  <a class="h-a explore explore-show">Explore</a>
+		  &nbsp;<a class="h-a-2 explore-show" style="padding: 0; font-size: 10px;"><i class="fa fa-caret-down"></i></a>
+		  
+			<ul class="dropdown-menu categories-menu hide">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 left-col hidden-sm hidden-xs">
+													</div>
+						<div class="col-md-6 right-col">
+							<h3 class="explore-heading">Looking for Something?</h3>
+
+							<div class="row">
+								<div class="col-md-12 col-md-offset-0 col-xs-12 cat-search">
+									<div class="form-group has-feedback">
+										<form>
+											<div class="typeahead-container">
+												<input type="text" class="form-control input-sm typeahead typeExp tt-query" spellcheck="false" autocomplete="off" dir="auto" id="searchExplore" name="searchExplore" placeholder="Search..." required="">
+												<span><i class="fa fa-search form-control-feedback" id="clickToSearch"></i></span>
+												<button class="hide" type="submit"></button>
+											</div>
+										</form>
+									</div>
+								</div>
+							</div>
+							
+							<div class="row catScroll themeScroll">
+																	<div class="col-sm-4 col-xs-6">
+										<ul class="cat-list">
+											<li>
+												<a href="http://inceptivemind.com/category/mechanical">
+													<i class="fa fa-gear"></i>Mechanical												</a>
+												<!-- Single button -->
+												<div class="btn-group cat-drop-down">
+												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+												  <span class=""></span>
+												  </a>
+												  												</div>
+											</li>
+										</ul>
+									</div>
+																		<div class="col-sm-4 col-xs-6">
+										<ul class="cat-list">
+											<li>
+												<a href="http://inceptivemind.com/category/computer">
+													<i class="fa fa-desktop"></i>Computer												</a>
+												<!-- Single button -->
+												<div class="btn-group cat-drop-down">
+												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+												  <span class=""></span>
+												  </a>
+												  												</div>
+											</li>
+										</ul>
+									</div>
+																		<div class="col-sm-4 col-xs-6">
+										<ul class="cat-list">
+											<li>
+												<a href="http://inceptivemind.com/category/electronics">
+													<i class="fa fa-bolt"></i>Electronics												</a>
+												<!-- Single button -->
+												<div class="btn-group cat-drop-down">
+												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+												  <span class=""></span>
+												  </a>
+												  												</div>
+											</li>
+										</ul>
+									</div>
+																	<div class="viewAll hide">
+																</div>
+															</div>
+						</div>
+					</div>
+
+				</div>
+
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="explore-footer hidden-xs">
+							<hr>
+							<div class="pull-right">
+																		<a href="http://inceptivemind.com/page/terms">Terms</a>
+																			<a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a>
+																		<a href="http://www.snaxzer.com" target="_blank">TECH BLOG</a>
+																</div>
+						</div>
+					</div>
+				</div>
+
+			</ul>
+		</li>
+				<a class="btn btn-lg btn-blue btn-theme btn-signin pull-right" data-toggle="modal" data-target="#sign_signup"><i class="fa fa-user"></i> Log In</a>
+			  </ul>
+	</div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
+
+<nav class="sidebar-collapse primary-bg-color transition hidden-lg" role="navigation">
+	<div class="container">
+		<a id="menu-toggle" class="navbar-toggle">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</a>
+		<div id="sidebar-wrapper" class="themeScroll sidebar-toggle primary-bg-color">
+			<ul class="sidebar-nav">
+				<div class="scrollbar">
+					<form class="search box" role="search">
+						<div class="form-group has-feedback">
+							
+								<div class="typeahead-container">
+									<input type="text" class="form-control input-md typeahead iconBar tt-query" placeholder="Search..." name="iconBarSearch" id="iconBar" autocomplete="off">
+									<span class="fa fa-search form-control-feedback" id="clickToiconBarSearch"></span>
+									<button class="hide" type="submit"></button>
+								</div>
+							
+						</div></form>
+					
+											<li><a data-toggle="modal" href="#sign_signup">Log In</a></li>
+												<li class="dropdown">
+						<a id="" href="http://inceptivemind.com/category/mechanical"><i class="fa fa-gear"></i> Mechanical</a>
+						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
+												 </a>
+						
+						</li>						<li class="dropdown">
+						<a id="" href="http://inceptivemind.com/category/computer"><i class="fa fa-desktop"></i> Computer</a>
+						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
+												 </a>
+						
+						</li>						<li class="dropdown">
+						<a id="" href="http://inceptivemind.com/category/electronics"><i class="fa fa-bolt"></i> Electronics</a>
+						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
+												 </a>
+						
+						</li>						<li class="dropdown">
+						  <a href=""><i class="fa fa-files-o"></i>&nbsp;Resources</a>
+							 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-caret-down"></i></a>
+							 
+						  <ul class="dropdown-menu secondary-bg-color" role="menu">
+																<li><a href="http://inceptivemind.com/page/terms">Terms</a></li>
+																		<li><a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a></li>
+															  </ul>
+						</li>
+						<li class="dropdown">
+												</li>
+										</div>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+</header> <!--/header-->
+<script>
+function viewAllCategories()
+{
+	$('.viewAll').removeClass('hide');
+	$('.viewBtn').remove();
+}
+var categoryIdsArray=[];
+function isInArray(value, array) 
+{
+	return array.indexOf(value) > -1;
+}
+
+$(document).on("click",".headerArticles",function(e) 
+{
+	e.stopPropagation()
+});
+
+$(".h-l a.h-a,.h-a-2").mouseenter(function()
+{
+	var parentCategoryId=this.id;
+	if(!isInArray(parentCategoryId,categoryIdsArray))
+	{
+		var childCategory=$('.mainCat-'+parentCategoryId).attr('id');
+		$('.first'+childCategory).html('<div class="progress"><div class="progress-bar secondary-bg-color progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div></div>');
+		$.ajax({
+			type:"POST",
+			url: 'http://inceptivemind.com/includes/headerSubCategories.php',
+			data: {'cid':childCategory},
+			success: function(data)
+			{
+				$('.first'+childCategory).html(data);
+			}
+		});
+		categoryIdsArray.push(parentCategoryId);
+	}
+});
+
+var exploreLimit = ''; 
+var total_explore_pages = 1;
+var current_explore_page =	2;
+var previousResponse='';
+
+$(".ftrPrdScroll").scroll(function() 
+{
+	if(($(this).scrollTop() + $(this).innerHeight() >= $(this)[0].scrollHeight) && (current_explore_page < total_explore_pages)) 
+	{
+		$(".exp-loader").removeClass("hide");
+		$(".ftrPrdScroll").css("opacity","0.5");
+		$.ajax
+		({
+			type:"POST",
+			url: "http://inceptivemind.com/exploreMoreArticles.php",
+			data: {'page':current_explore_page,'limit':exploreLimit},
+			success: function(response) 
+			{
+				if(response!=previousResponse)
+				{
+					current_explore_page++;
+					previousResponse=response;
+					$('.ftrPrdScroll').append(response);
+					$(".exp-loader").addClass("hide");
+					$(".ftrPrdScroll").css("opacity","1");
+					$(".cat-img img").imgPreload();
+				}
+			}
+		});
+	} 
+});
+</script>
+<!-- Modal 1 -->
+<div class="modal fade in themeModal registerModal" id="sign_signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" style="padding-right: 0 !important">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+                <h4 class="modal-title">Join the Inceptive Mind Community</h4>
+                <h5 class="modal-subtitle secondaryText">Join our amazing community</h5>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
+														<a href="http://inceptivemind.com/fbLogin" class="btn btn-lg signup-fb signup-btn fb"><i class="fa fa-facebook"></i> &nbsp;Log In With Facebook</a>
+														<a href="http://inceptivemind.com/signin" class="btn signup-btn btn-lg btn-success"><i class="fa fa-user"></i> &nbsp;Log In With Email Id</a>
+						<hr>
+						<p>Don't Have An Account? Connect via Social Network <a href="http://inceptivemind.com/signup">here</a></p>                    </div>
+                </div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 2 -->
+<div class="modal fade in themeModal removePostModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Post</h4>
+			</div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete this Post?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<button type="button" class="btn btn-danger btn-md remove deleteBtn" id="">Yes</button>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 3 -->
+<div class="modal fade in themeModal removeSelectedModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete Posts</h4>
+			</div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete selected Posts?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<button type="button" class="btn btn-danger btn-md remove deleteSelected">Yes</button>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 4 -->
+<div class="modal fade in themeModal removeUserModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete User</h4>
+            </div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are You Sure You Want To Delete Your Account?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<a href="http://inceptivemind.com//deleteaccount/"><button type="button" class="btn btn-danger btn-md remove">Yes</button></a> &nbsp;
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 5 Not -->
+<div class="modal fade in themeModal" id="associationModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-share-alt"></i>&nbsp; Associate</h4>
+            </div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Asscociate your Account</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<a class="pointer associateAccount"><button type="button" class="btn btn-success btn-md remove">Yes</button></a> &nbsp;
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 6 -->
+<!--remove association modal-->
+<div class="modal fade in themeModal" id="removeAssociationModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Remove Association</h4>
+            </div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to remove associationt?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<a class="pointer okRemoveAssociation"><button type="button" class="btn btn-success btn-md">Yes</button></a>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 7 -->
+<div class="modal fade in themeModal" id="setprimaryEmail" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog modal-xs">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-envelope-o"></i>&nbsp; New email</h4>
+            </div>
+            <div class="modal-body">
+				<div id="UpdatePrimaryEmailAlert"></div>
+				<div class="form-group">
+					<label>Email</label>
+					<input type="email" id="newprimaryEmail" class="form-control input-md" placeholder="Enter new email">
+				</div>
+            </div>
+			<div class="modal-footer">
+				<div class="pull-right">
+					<div id="closeresetPrimaryEmailButton">
+						<a onclick="resetPrimaryEmail('1')" class="pointer"><button type="button" class="btn btn-success btn-md">Add</button></a> &nbsp;
+						<button type="button" class="btn btn-default btn-md" data-dismiss="modal" aria-label="Close">Cancel</button>
+					</div>
+				</div>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 8 -->
+<div class="modal fade in themeModal" id="setprimaryEmailConfirm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-envelope-o"></i>&nbsp; Confirm Account</h4>
+            </div>
+            <div class="modal-body">
+				<div id="UpdateConfirmPrimaryEmailAlert"></div>
+				<div class="form-group">
+					<label>Confirmation Code</label>
+					<input type="text" class="form-control" placeholder="Confirmation code has been sent to your email address." id="confirmprimaryEmail">
+				</div>
+            </div>
+			<div class="modal-footer">
+				<div class="pull-right">
+					<div id="closeconfirmPrimaryEmailButton">
+						<a onclick="confirmPrimaryEmail('')" class="pointer"><button type="button" class="btn btn-success btn-md"><i class="fa fa-pencil-square-o"></i> Confirm</button></a> &nbsp;
+						<button type="button" class="btn btn-default btn-md" data-dismiss="modal" aria-label="Close">close</button>
+					</div>
+				</div>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 9 Not -->
+<!--change First Password modal-->
+<div class="modal fade in themeModal" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" style="padding-right: 0 !important">
+    <div class="modal-dialog modal-xs">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+                <h4 class="modal-title"><i class="fa fa-unlock-alt"></i>&nbsp; Change Password</h4>
+            </div>
+            <div class="modal-body" style="background-color: #FFF;">
+                <div class="row text-center">
+					<p class="associationchangePasswordMsg modalSingleLineText"></p>
+				</div>
+				<div class="modal-footer">
+					<div class="col-xs-12 text-center">
+						<a onclick="changePassword()" class="pointer"><button type="button" class="btn btn-success btn-md">Yes</button></a> &nbsp;
+						<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+					</div>
+				</div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Modal 10 -->
+<div class="modal fade in themeModal" id="removeSlideModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Slide</h4>
+			</div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are You Sure You Want to Delete this Slide?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<a><button type="button" class="btn btn-danger btn-md removeSlide" id="">Yes</button></a>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Modal 11 -->
+<div class="modal fade in themeModal removeCommentModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Comment</h4>
+			</div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete this Comment?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<button type="button" class="btn btn-danger btn-md remove deleteBtn" id="">Yes</button>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Modal 12 -->
+<div class="modal fade in themeModal removeSelectedCommentsModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete Comments</h4>
+			</div>
+            <div class="modal-body">
+				<div class="text-center">
+					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete selected Comments?</p>
+				</div>
+            </div>
+			<div class="modal-footer text-center">
+				<button type="button" class="btn btn-danger btn-md remove deleteSelected">Yes</button>
+				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
+			</div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal --><title>Privacy Policy</title>
+<meta name="description" content="This online privacy policy applies only to information collected through our website and not to information collected offline.">
+<meta name="keywords" content="privacy policy,inceptive mind">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="product">
+<meta property="og:url" content="http://inceptivemind.com/page/privacy-policy">
+<meta property="og:image" content="http://inceptivemind.com/images/cover.jpg">
+<meta property="og:description" content="This online privacy policy applies only to information collected through our website and not to information collected offline."> 
+<meta property="og:site_name" content="Inceptive Mind">
+<div class="container pagez">
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1">
+						<div class="theme-page card box">
+				<div class="breadcrumb">
+					<h1><span class="subLink">Privacy Policy</span></h1>
+				</div>
+				<h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">What information do we collect?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site.&nbsp;When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Google, as a third-party vendor, uses cookies to serve ads on your site.&nbsp;Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.&nbsp;Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">What do we use your information for?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">Any of the information we collect from you may be used in one of the following ways:</p><ul style="padding: 0px; margin-bottom: 26px; color: rgb(34, 34, 34); font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px;"><li style="margin-left: 21px; font-size: 15px;">To personalize your experience:<br>Your information helps us to better respond to your individual needs.</li><li style="margin-left: 21px; font-size: 15px;">To improve our website:<br>We continually strive to improve our website offerings based on the information and feedback we receive from you.</li><li style="margin-left: 21px; font-size: 15px;">To improve customer service:<br>Your information helps us to more effectively respond to your customer service requests and support needs.</li><li style="margin-left: 21px; font-size: 15px;">To send periodic emails:&nbsp;<br>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li></ul><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">How do we protect your information?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Do we use cookies?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Yes, Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (only if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Do we disclose any information to outside parties?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We do not sell, trade, or otherwise, transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Third party links</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Online Privacy Policy Only</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">This online privacy policy applies only to information collected through our website and not to information collected offline.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Terms and Conditions</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at&nbsp;<a href="http://inceptivemind.com" style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">http://inceptivemind.com</a></p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Your Consent</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">By using our site, you consent to our&nbsp;online privacy policy&nbsp;<a href="http://www.freeprivacypolicy.com/">here</a>.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Changes to our Privacy Policy</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">If we decide to change our privacy policy, we will post those changes on this page.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">This policy was last modified on 15/08/2016.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Contacting Us</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">If there are any questions regarding this privacy policy you may contact us&nbsp;<a href="http://inceptivemind.com/contact" style="font-size: 15px; margin-bottom: 26px;">here</a>.</p>			</div>
+					</div>
+	</div>
+	
+</div> <!-- /.container -->
+</div> <!-- #wrap -->
+	<ul class="bottom-notifications notification"></ul>
+	<footer style="background-color: #FFF; margin-top:50px; box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.05);">
+		<div class="container">
+			<div class="home-footer">
+	            <a href="http://inceptivemind.com"><img src="http://inceptivemind.com/images/footerLogo.png?1471446741"></a>
+	            <div class="themeScroll home-footer-links">
+												<a href="http://inceptivemind.com/page/terms">Terms</a>
+														<a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a>
+															<a href="http://www.snaxzer.com" target="_blank">TECH BLOG</a>
+									                <a href="http://inceptivemind.com/contact"><i class="fa fa-phone"></i>&nbsp; Contact Us</a>
+						            </div>
+					        </div>
+        </div>
+	</footer>	
+<a href="#" class="cd-top hidden-xs"><i class="fa fa-chevron-up"></i></a>
+<script>
+$('.languageSelection').click(function(){
+	var languageId=$(this).attr('data-id');
+	$.post("http://inceptivemind.com/statsCalculation.php",{ language:languageId},function(ajaxresult){
+		location.reload();
+	});
+})
+	$(document).on('mouseover', '.subscribeBtn', function() {
+	   if ($(this).hasClass("verify"))
+		{
+			$(this).addClass('btn-danger');
+			$(this).removeClass('btn-success');
+			$(this).html('<i class="fa fa-times"></i> Unsubscribe');
+		}
+	});
+	$(document).on('mouseout', '.subscribeBtn', function() {
+	   if ($(this).hasClass( "verify"))
+		{
+			$(this).addClass('btn-success');
+			$(this).removeClass('btn-danger');
+			$(this).html('<i class="fa fa-check"></i> Subscribed');
+		}
+	});
+	$(document).on('mouseover', '.removeSubscr', function() {
+		var id=this.id;
+	   if ($(this).hasClass("verify"))
+		{
+			$(this).addClass('btn-danger');
+			$(this).removeClass('btn-success');
+			$(this).html('<i class="fa fa-times"></i> Remove');
+		}
+	});
+	$(document).on('mouseout', '.removeSubscr', function() {
+	   if ($(this).hasClass( "verify"))
+		{
+			$(this).addClass('btn-success');
+			$(this).removeClass('btn-danger');
+			$(this).html('<i class="fa fa-check"></i> Subscribed');
+		}
+	});
+	function categoriesSubscribe(cid,userId)
+	{
+		var subscribeValue = document.getElementById('subscribeValue').value;
+		$('.subscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
+		$.ajax({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/categorySubscribe.php",
+			data: {'subscribeValue':subscribeValue,'cid':cid,'userId':userId},
+			dataType: "json",
+			success: function(data)
+			{
+				document.getElementById('subscribeValue').value = data[0];
+				$("#subscriberResultAfterAjaxResult").html(data[1]);
+			}
+		}); 
+	}
+	function tagsSubscribe(tag,userId)
+	{
+		var subscribeValue = document.getElementById('subscribeValue').value;
+		$('.subscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
+		$.ajax({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/tagsSubscribe.php",
+			data: {'subscribeValue':subscribeValue,'tag':tag,'userId':userId},
+			dataType: "json",
+			success: function(data)
+			{
+				document.getElementById('subscribeValue').value = data[0];
+				$("#subscriberResultAfterAjaxResult").html(data[1]);
+			}
+		}); 
+	}
+	function userSubscribe(profileuserId,userId)
+	{
+		var subscribeValue = document.getElementById('subscribeValue').value;
+		$('.userSubscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
+		$.ajax({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/userSubscribe.php",
+			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
+			dataType: "json",
+			success: function(data)
+			{
+				
+				document.getElementById('subscribeValue').value = data[0];
+				$("#subscriberResultAfterAjaxResult").html(data[1]);
+			}
+		}); 
+	}
+	function subscription(profileuserId,userId)
+	{
+		var subscribeValue = document.getElementById('subscribeValue-'+profileuserId).value;
+		$('.subscribeBtn-'+profileuserId).html('<img src="http://inceptivemind.com/images/loading.gif">');
+		$.ajax({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/userSubscribe.php",
+			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
+			dataType: "json",
+			success: function(data)
+			{
+				document.getElementById('subscribeValue-'+profileuserId).value=data[0];
+				$(".subscriber-"+profileuserId).html(data[1]);
+				$("#subscriber-"+profileuserId).html(data[2]);
+			}
+		}); 
+	}
+	function removeSubscription(input,profileuserId,userId)
+	{
+		var subscribeValue = document.getElementById('subscribeValue-'+profileuserId).value;
+		var id=input.id;
+		$('.user-'+id).remove();
+		$.ajax({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/userSubscribe.php",
+			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
+			dataType: "json",
+			success: function(data)
+			{
+			}
+		});
+		numItems = $('.userUnsubscribe').length;
+		if(numItems==0)
+		{
+			$("#subscribed-r").trigger("click");
+		}
+	}
+	function addSubscribeAfterlogin(productUserid)
+	{
+		$.ajax
+		({
+			type: "POST",
+			url: "http://inceptivemind.com/includes/afterLoginRating.php",
+			data: {'productUserid':productUserid,'subscribe':'subscribe'},
+			success: function(data)
+			{} 
+		}); 
+	}
+	$(".associateAccount").click(function(){
+	$('#associationModal').modal('hide');
+	$('#associationPreloader').html('<div id="loading"><div id="loading-center"><div id="loading-center-absolute"><div class="cssload-container"><div class="cssload-speeding-wheel"></div></div></div></div></div>');
+	$.ajax({
+		type: "POST",
+		url: "http://inceptivemind.com/includes/associate.php",
+		data: {'associate':1},
+		success: function(data)
+		{
+			window.location='http://inceptivemind.com/confirmAssociation';
+		}
+	});
+});
+$.post("http://inceptivemind.com/statsCalculation.php",{ incrementWebsitePageViews:'incrementWebsitePageViews'},function(ajaxresult){});
+$(".homeheader .navbar-toggle").click(function(e) 
+{
+	e.stopPropagation();
+	$("#sidebar-wrapper").toggle('slide', { direction: 'left' }, 200);
+});
+$(document).click(function(e)
+{
+	$("#sidebar-wrapper").hide('slide', { direction: 'left' }, 200);
+	$(".settingsSidebarLock").removeClass("in");
+});
+$(".settingsSidebarLock li a").click(function(e)
+{
+	e.stopPropagation();
+});
+$("#sidebar-wrapper").click(function(e)
+{
+	if (!($(e.target).is('a.dropdown-toggle')) && !($(e.target).is('i.fa')) && !($(e.target).is('a[href="#sign_signup"]'))) 
+	{
+        e.stopPropagation();
+    }  
+});
+</script>
+<script src="http://inceptivemind.com/style/js/preloader.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/jquery-ui-1.11.4.js" type="text/javascript"></script><script src="http://inceptivemind.com/style/js/bootoption.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/nicescroll.min.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/lightbox.min.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/favico.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/back-to-top.js" type="text/javascript"></script>
+<script src="http://inceptivemind.com/style/js/custom.js" type="text/javascript"></script>
+
+</body></html>
