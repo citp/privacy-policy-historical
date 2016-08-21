@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811043530id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcargroup.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821085105id_/https%3A//www.rentalcargroup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 🚗 Privacy Policy - RentalCarGroup car hire, car rental with all-inclusive rates
 
@@ -25,9 +25,9 @@ We protect our customer information. Any personal data we receive through our si
 
 ###### Opening Hours
 
-[EST] Mon - Fri: 03:00 - 11:00  Sat : 03:00 - 11:00
+[EST] Mon - Fri: 03:00 - 16:00  Sat - Sun : 03:00 - 11:00
 
-[GMT] Mon - Fri: 08:00 - 16:00  Sat : 08:00 - 16:00
+[GMT] Mon - Fri: 08:00 - 23:00  Sat - Sun : 08:00 - 16:00
 
 ###### Contact us by Phone
 
