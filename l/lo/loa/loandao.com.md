@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loandao.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328131927id_/http%3A//www.loandao.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandao.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821205259id_/http%3A//www.loandao.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # loandao » Privacy Policy
 
@@ -17,3 +17,32 @@ We collect your e-mail address so that we can send you e-mails concerning your t
 To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.  
 Is there additional information for Website visitors?  
 When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience.
+
+LATEST ARTICLES
+
+  * ## [What Is A Usda Loan And Its Benefits](http://www.loandao.com/?p=1157)
+
+The USDA home loan is being backed by the US Department of Agriculture. It is being offered at low interest rates and with no down payment as well. There is a USDA Loan Calculator on the website that you can use to help estimate monthly payments and compare to other loan programs. This home loan program was specially made for those with people w...
+
+### [Read more](http://www.loandao.com/?p=1157)
+
+  * ## [Getting Bad Or No Credit Car Loan Online](http://www.loandao.com/?p=378)
+
+Excellent, good, bad or even no credit, we live in a world where you can find a loan for just about anything. Finding no credit car loan can be a little difficult but not an entirely impossible job. Various online car loan companies have very easy application processes. All you have to do is get on their website and fill out a form, click a butt...
+
+### [Read more](http://www.loandao.com/?p=378)
+
+  * ## [Car Loan Specialist Uk-buy The Vehicle You Wish For](http://www.loandao.com/?p=377)
+
+Purchasing a car is a big investment. Everyone wish to own a vehicle, but the low income and present financial condition might not allow them to do so. At such circumstances, car loan specialist UK proves to be an ideal solution through which one can avail enough funds to purchase a vehicle. With this loan, you can buy any type of new or used ve...
+
+### [Read more](http://www.loandao.com/?p=377)
+
+  * ## [Bad Credit Car Loan: Car Purchasing Made Easy Despite Credit Defaults](http://www.loandao.com/?p=376)
+
+Does it seem possible to you to obtain finance for car with a bad credit tag? Of course, you will initially find it difficult to get the nod from lenders, considering your present financial condition. But, nevertheless there are ways which will help you to extract the funds and for that you can rely upon bad credit car loan. Cars or automobiles...
+
+### [Read more](http://www.loandao.com/?p=376)
+
+
+
