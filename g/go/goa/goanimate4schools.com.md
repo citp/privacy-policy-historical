@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goanimate4schools.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314164256id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate4schools.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821184433id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.*
 
 # We treat your personal information very carefully - GoAnimate for Schools
 
