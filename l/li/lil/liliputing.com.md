@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liliputing.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320155455id_/http%3A//liliputing.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liliputing.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821151103id_/http%3A//liliputing.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Liliputing
 
