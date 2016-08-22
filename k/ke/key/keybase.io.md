@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316064102id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822111557id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # Keybase
 
