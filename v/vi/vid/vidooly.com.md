@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidooly.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621115737id_/http%3A//vidooly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidooly.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822210830id_/http%3A//vidooly.com/privacy) for the most accurate reproduction.*
 
-# Learn more about the Terms of Service and Privacy for Vidooly, a YouTube analytics and Marketing tool.
+# Terms & conditions | Vidooly
 
 ## Terms & Privacy
 
