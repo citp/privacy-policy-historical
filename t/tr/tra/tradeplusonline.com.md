@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205225655id_/https%3A//www.tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822085459id_/https%3A//tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Navia Commodities Broker Pvt. Ltd.
+# Discount Broker in India | Lowest Brokerage | Stock Broker
 
 Your privacy is critically important to us. Below we explain how we use your information.
 
