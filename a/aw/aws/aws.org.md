@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072311id_/http%3A//www.aws.org/w/a/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822055040id_/http%3A//www.aws.org/about/TermOfUse) for the most accurate reproduction.*
 
-# AWS -- Privacy Policy
+# AWS Terms of Use and Website Privacy Policy : About : American Welding Society
 
-Terms of Use and Web Site Privacy Statement
+**Terms of Use and Website Privacy Statement**
 
 This Statement sets forth the current practices of the American Welding Society (AWS) regarding the collection and use of information relating to the AWS Web site and other activities of AWS.
 
@@ -10,7 +10,7 @@ AWS created its policy with a fundamental respect for the rights to privacy of o
 
 Although most of AWS's Web site can be viewed by all site visitors, some pages are restricted to the use of AWS members, AWS committees, AWS staff, and AWS affiliates. These pages may be accessed only with the use of a membership number and/or a login name and password.
 
-Information collection and use
+ **Information collection and use**
 
 When registering for our educational events or trade shows, using our Web site, ordering products, customizing Web pages, and signing up for certain selected services (such as free subscriptions), you may be asked for information about yourself, including but not limited to contact information (such as name, e-mail address, mailing address and phone number) or demographic information (such as job title and purchasing responsibilities, company information and professional certification).
 
@@ -26,21 +26,21 @@ We have features through which you may submit information to us (such as our fee
 
 From time to time we may invite you to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and therefore you have a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes and may be shared with sponsors of such surveys or contests.
 
-Automatically collected data
+ **Automatically collected data**
 
-Web servers automatically collect information about visitors, and ours does as well. This information includes the date, time, and navigation history of the session, as well as your browser type, operating system, and IP address. Automatically collected data may be used to deliver content specific to your interests and to honor your preferences. 
+Web servers automatically collect information about visitors, and ours does as well. This information includes the date, time, and navigation history of the session, as well as your browser type, operating system, and IP address. Automatically collected data may be used to deliver content specific to your interests and to honor your preferences.
 
 We use "cookies," (a "cookie" is a piece of data stored on the user's hard drive containing information about the user). Cookies make it possible for us to reduce the number of times you are required to login or to tailor the Web site to fit your interests. We also may use cookies to offer you products, programs, or services. Most Internet browsers allow you to erase cookies from your computer hard drive, block cookies, or receive a warning before a cookie is stored. Please refer to the instructions or help screen of your browser to learn how it handles cookies.
 
 Some of our business affiliates may use cookies on our sites in ads or promotions. We have no access to or control over these business affiliates' cookies, so we urge you to read their privacy policies for information.
 
-Information about you that may be stored in our database
+ **Information about you that may be stored in our database**
 
 We may check the information you have provided during the shopping process or via any of our forms, e-mail, forums or discussion groups against any information we have about you in our customer database. We do this to ensure that we maintain the most current and accurate information about you as a valued customer.
 
 Our database may contain your name, title, affiliation, industry classification, address, phone and fax numbers, and e-mail address, if you provide them. We may also collect additional information about you including but not limited to: site registration, member ID numbers and your participation with AWS (magazine subscriptions, offices, committees, councils, boards or task forces on which you serve or have served, membership status, meetings attended, products purchased, events attended, etc.).
 
-How we use information about you
+ **How we use information about you**
 
 Automatically collected data such as cookies and log files help us understand the interests of our visitors in order to enhance their experience on our sites. We also use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use.
 
@@ -74,33 +74,27 @@ We partner with other third parties to provide specific services. For example, e
 
 We may share aggregated or composite information that does not identify you personally with our advertisers, exhibitors and business affiliates. AWS may be required to provide information about any of its customers or prospective customers to law enforcement or government agencies.
 
-Security
+ **Security**
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.
 
-Links
+Links??This Web site contains links to other sites. Please be aware that AWS cannot be responsible for the content of other sites or for the privacy practices of other sites. We do not necessarily endorse the content of other sites. We urge you to read the privacy statements of Web sites that collect personally identifiable information.
 
-This Web site contains links to other sites. Please be aware that AWS cannot be responsible for the content of other sites or for the privacy practices of other sites. We do not necessarily endorse the content of other sites. We urge you to read the privacy statements of Web sites that collect personally identifiable information.
-
-Students and children
+ **Students and children**
 
 AWS will not knowingly collect personally identifiable information from anyone under 13 years of age, unless it is necessary to respond to a one-time request. Once the request has been answered, AWS will delete the requesting child's personally identifiable information.
 
 If you are younger than 13, you must get permission from your mother or father or legal guardian before you enter your name or any information about yourself on this Web site. Do not enter your name, e-mail address, telephone number or any other information that might help identify you or your family or where you live, whether in response to a form, in a chat room or on a bulletin board.
 
-Preferences, permission, opt-out
+Preferences, permission, opt-out??If you wish to be excluded from marketing by AWS via mail and/or e-mail, phone or fax, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org to make that change to your account.
 
-If you wish to be excluded from marketing by AWS via mail and/or e-mail, phone or fax, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org to make that change to your account.
+Updates to this privacy statement??AWS may, in its sole discretion, update this statement at any time by posting the amended statement on the Web site, and it shall be effective upon posting.
 
-Updates to this privacy statement
+Contact, questions, comments, complaints??If you would like to communicate with AWS regarding privacy issues, or have questions, comments, or complaints regarding this Web site or its policy practices, or if you feel that AWS is not abiding by our privacy policy statement, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org.
 
-AWS may, in its sole discretion, update this statement at any time by posting the amended statement on the Web site, and it shall be effective upon posting.
+Last revised: September 4, 2014
 
-Contact, questions, comments, complaints
-
-If you would like to communicate with AWS regarding privacy issues, or have questions, comments, or complaints regarding this Web site or its policy practices, or if you feel that AWS is not abiding by our privacy policy statement, please contact our Membership Department at (800) 443-9353 or e-mail membership@aws.org.
-
-Last revised: December 13, 2006
+We can be contacted at:
 
 AWS  
 8669 Doral Blvd., Suite 130  
@@ -108,4 +102,4 @@ Doral, FL 33166
 Phone: (305) 443-9353  
 Fax: (305) 443-7559  
 Toll free: (800) 443-9353  
-[info@aws.org](mailto:info@aws.org)
+info@aws.org
