@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storageo.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618055442id_/http%3A//www.storageo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storageo.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822161502id_/http%3A//www.storageo.com/privacy.html) for the most accurate reproduction.*
 
 # Storageo | Global Leader in Per-Box Storage
 
