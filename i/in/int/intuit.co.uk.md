@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630203029id_/https%3A//www.intuit.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822143609id_/https%3A//www.intuit.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit UK
 
