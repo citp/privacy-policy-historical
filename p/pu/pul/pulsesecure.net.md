@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610040803id_/https%3A//www.pulsesecure.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822053128id_/https%3A//www.pulsesecure.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Pulse Secure | Privacy Policy
 
