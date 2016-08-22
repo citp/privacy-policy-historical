@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edalliance.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317144541id_/http%3A//www.edalliance.org/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edalliance.org privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822194702id_/http%3A//www.edalliance.org/private_policy) for the most accurate reproduction.*
 
 # Private Policy - Educational Alliance
 
