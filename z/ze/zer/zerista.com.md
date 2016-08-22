@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412065415id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822235922id_/http%3A//zerista.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zerista
+# Privacy Policy - Zerista
 
-The Zerista site, www.Zerista.com and any related web services delivered by Zerista on partner sites (“Site”), are owned and operated by Zerista, Inc. (“Zerista”).
+“Zerista” is a trade name used by Jackrabbit Systems, Inc.  Zerista software and services are a product line offered by Jackrabbit Systems, Inc.  All references herein to Zerista refer to Jackrabbit Systems, Inc.
+
+The Zerista site, www.Zerista.com and any related web services delivered by Zerista on partner sites (“Site”), are owned and operated by JackRabbit Systems, Inc. (“Zerista”).
 
 Zerista is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information. Your use of the Site and our use of the personal information you provide to us is subject to the terms of this privacy policy and our Terms of Use.
 
@@ -46,7 +48,8 @@ We recognize that your privacy is important to you, and therefore we endeavor to
 
 ### In the Event of Merger, Sale, or Bankruptcy
 
-In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles  
+
 
 ### Safe Harbor
 
@@ -59,5 +62,3 @@ Any questions or concerns regarding the use or disclosure of personal informatio
 ### Changes to the Privacy Policy
 
 We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Site. Your continued use of the Site thereafter constitutes acceptance of the changes. This privacy policy came into effect on March 28th, 2011 and was last updated on May 1st, 2015.
-
-[](http://www.etrust.org/cert/896780.html)
