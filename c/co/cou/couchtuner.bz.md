@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the couchtuner.bz privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627092526id_/http%3A//www.couchtuner.bz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.bz privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822201627id_/http%3A//www.couchtuner.bz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Couchtuner - Watch Series
+# Privacy Policy | Watch Series - Couch tuner
 
   
-**Imp : You Can Access US using both Couchtuner.BZ & Couchtuner.WS | Spread the Word | Last Updated: May 4, 2016 at 8:52 am **   
+**Imp : You Can Use either Couchtuner.BZ OR Couchtuner.WS | Spread the Word | Last Updated: May 4, 2016 at 8:52 am **   
 
 
 **Last Modified:** May 4, 2016 at 8:52 am  
