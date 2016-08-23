@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910114007id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823070940id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
-# Fundraise for a Cause with Milaap : the Best Crowdfunding Site | Milaap.org
+# Crowdfunding on Milaap | Privacy Policy | Milaap
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and user information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
@@ -46,7 +46,7 @@ We and our affiliates will share / sell some or all of your personal information
 
 ## Links to Other Sites
 
-Our Website links to other websites that may collect personally identifiable information about you. Flipkart.com is not responsible for the privacy practices or the content of those linked websites.
+Our Website links to other websites that may collect personally identifiable information about you. Milaap is not responsible for the privacy practices or the content of those linked websites.
 
 ## Security Precautions
 
@@ -54,7 +54,7 @@ Our Website has stringent security measures in place to protect the loss, misuse
 
 ## Choice/Opt-Out
 
-We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all flipkart.com lists and newsletters, please send us an email at [feedback@milaap.org](mailto:feedback@milaap.org)
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all Milaap lists and newsletters, please send us an email at [feedback@milaap.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&su=&body=&to=feedback@milaap.org)
 
 ## Your Consent
 
@@ -64,8 +64,8 @@ By using the Website and/ or by providing your information, you consent to the c
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Mr. Alister D Monte  
-Milaap Social Ventures India Private Limited  
+Athira   
+Milaap Social Ventures India Private Limited   
 549, 26th Main, 14th Cross, J P Nagar Phase I,   
-Bangalore, Karnataka, India  
-Email: [feedback@milaap.org](https://web.archive.org/web/20150910114007id_/https%3A//milaap.org/feedback@milaap.org)
+Bangalore, Karnataka, India   
+Email: [feedback@milaap.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&su=&body=&to=feedback@milaap.org)
