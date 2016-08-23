@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xsnews.nl privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119133845id_/https%3A//www.xsnews.nl/en/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsnews.nl privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823164256id_/https%3A//www.xsnews.nl/en/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XS News
 
-XS News believes in having an open policy on what information we collect and what we use this information for, so that are members are fully aware about our practises and are confident that their privacy is being up held by a responsible Usenet provider. The privacy policy outlines what information we collect, and what we use the information for. XS News is committed to ensuring that our member's privacy is respected. We will take all reasonable steps to ensure that any data collected remains private and we will never disclose any information we collect to any third parties, unless required to by a court order or under Dutch law.
+XS News believes in having an open policy on what information we collect and what we use this information for, so that our members are fully aware about our practises and are confident that their privacy is being up held by XS News. The privacy policy outlines what information we collect, and what we use the information for. XS News is committed to ensuring that our member's privacy is respected. We will take all reasonable steps to ensure that any data collected remains private and we will never disclose any information we collect to any third parties, unless required to by a court order or under Dutch law.
 
 ## Information collected when using our website
 
