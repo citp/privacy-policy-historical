@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412230640id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823061024id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Renderforest.com | Renderforest
 
