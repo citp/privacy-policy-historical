@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531150514id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823133657id_/https%3A//www.monginis.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Monginis Cake Shop in India - Monginis
+# Privacy Policy | Monginis
 
 Monginis Foods Private Limited("Monginis") is committed to safeguarding your privacy and ensures that you continue to trust Monginis with your personal data. When you interact with us you may share your personal data with us which allows identification of you as a person.(for eg name, address, email, contact number). All this will fall under the purview of "personal data".
 
@@ -77,5 +77,3 @@ In the event Monginis goes through a business transition, such as a merger, acqu
 If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, and all the modifications hereby will be effective immediately on our posting on this site and that you will review this statement every time you access this site, so that you are aware of and agree to all the modifications made to this statement.
-
-[](http://www.monginis.net/products)
