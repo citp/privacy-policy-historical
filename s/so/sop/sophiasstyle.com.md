@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212171950id_/http%3A//www.sophiasstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823155426id_/http%3A//www.sophiasstyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Sophias Style
 
