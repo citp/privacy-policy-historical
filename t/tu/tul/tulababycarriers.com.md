@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tulababycarriers.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522183651id_/http%3A//www.tulababycarriers.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulababycarriers.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823144457id_/http%3A//www.tulababycarriers.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# TULA Baby Carriers | Toddler Carriers — Privacy Policy
+# Baby Tula — Baby Tula - Privacy Policy
 
 Baby Tula values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services and promotions. Please carefully review this policy to learn about how we collect, use, protect, and share personal information you provide us and your choices for managing this information.
 
