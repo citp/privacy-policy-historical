@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319124759id_/https%3A//www.majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823224456id_/https%3A//www.majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Information - Majestic Wine
 
