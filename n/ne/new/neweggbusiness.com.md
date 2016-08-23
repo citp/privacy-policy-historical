@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026103947id_/http%3A//kb.neweggbusiness.com/Policies/Article/1174) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823124006id_/http%3A//kb.neweggbusiness.com/Policies/Article/1174) for the most accurate reproduction.*
 
-# NeweggBusiness.com - [Privacy Policy]
+# None
 
-﻿
+﻿ 
 
 ## __Privacy Policy
 
@@ -26,7 +26,7 @@ We customize certain Web page content based upon your browser type and other inf
 
   * Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
-  * This privacy statement covers the use of cookies by [NeweggBusiness](http://www.neweggbusiness.com/) only and does not cover the use of cookies by any advertisers.
+  * This privacy statement covers the use of cookies by [NeweggBusiness](https://www.neweggbusiness.com/) only and does not cover the use of cookies by any advertisers.
 
 
 
@@ -76,7 +76,7 @@ Microsoft Internet Explorer: <https://www.microsoft.com/ie/>
 Mozilla Firefox: <https://www.getfirefox.com/>  
 Opera: <https://www.opera.com/>
 
-Access to all of our users' information is restricted. NeweggBusiness operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call toll free 1-800-390-1119 to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information.
+Access to all of our users' information is restricted. NeweggBusiness operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call toll free 1-800-390-1119 to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information. 
 
 All NeweggBusiness servers, including web servers and database servers, are housed and maintained in secure locations. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers on which we store personally identifiable information are kept in a secured environment, inside a secured and locked room. All backups are stored and locked in a high-level security room. Only personnel with proper security clearance have access to these restricted areas. Tape backups are not permitted to leave the premises without prior authorization.
 
@@ -92,7 +92,7 @@ To honor the privacy of our users, we offer the option to not receive these type
 
 #### Correction/Updating/Reviewing Personal Information
 
-Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://kb.neweggbusiness.com/HelpWizard/Index) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance.
+Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](https://kb.neweggbusiness.com/HelpWizard/Index) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance.
 
 #### Choice/Opt-out
 
@@ -102,7 +102,7 @@ For customers who wish to opt-out and stop receiving NeweggBusiness special offe
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-If you have opted out of receiving communications from NeweggBusiness, you will still be able to view news of policy changes at [www.neweggbusiness.com](http://www.neweggbusiness.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates.
+If you have opted out of receiving communications from NeweggBusiness, you will still be able to view news of policy changes at [www.neweggbusiness.com](https://www.neweggbusiness.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates.
 
 #### Last Update
 
