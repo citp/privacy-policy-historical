@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexicoexpoonline.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214024710id_/http%3A//www.mexicoexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexicoexpoonline.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824060125id_/http%3A//www.mexicoexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
