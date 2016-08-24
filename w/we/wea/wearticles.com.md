@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearticles.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625031738id_/http%3A//www.wearticles.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearticles.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824160157id_/http%3A//www.wearticles.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WEARTICLES
 
