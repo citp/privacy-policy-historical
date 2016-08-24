@@ -1,17 +1,37 @@
-> *The following text is extracted and transformed from the dailyvide.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520092915id_/http%3A//dailyvide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyvide.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824081825id_/http%3A//www.dailyvide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dailyvide
+# PRIVACY POLICY – Dailyvide
 
-Privacy has become a major concern on the Internet. this website knows that you care how information about you is used and shared. This privacy statement describes how this website deals with your information. By visiting this website, you are accepting the practices described in this privacy statement.
+We value the privacy policy as much as we value ours customers and visitors of the site. Dailyvide the following privacy policy:
 
-**Personal Information**   
-this website does not require you to disclose personal information anywhere on the site. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. this website does not sell, rent, or trade your personal information with any third parties.
+We will not ask you for personal information that we don’t really need but you will be required to log in to your original email while commenting and posting and giving suggestions and feed backs on the news and posts by the website.
 
-**Cookies**   
-Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. this website uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Dailyvide will not disclose your personal information like your email addresses to anybody, company and/or product development or to safeguard the rights of the company. The designed policy is to respect and keep private any personal information we may collect from you while you are visiting our website.
 
-**Advertisers**   
-We use third-party advertising companies to serve ads when you visit this website. These companies may use information about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The advertisements may contain cookies. The advertisements are necessary to finance the costs of keeping this site online. 
+Dailyvide do not allow users to post content which are copyright and We believe and act on the “principle of News Sharing and Circulation of Information” to the users for their interest.
 
-**Contact**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you are welcome to contact us. 
+All the material news, events and columns on this website is will copyright or freely available and collected from different websites around the world like, facebook, twitter, different news tv channels etc.
+
+If you find or think any News, content or article on this website is posted illegally on Newstvplus or news articles violate the copyright then you can simply send and email to Admin@dailyvide 
+
+Dailyvide can change the privacy policy if required and the update to the privacy policy here.
+
+Links to Other Sites
+
+Our website also provides links to and from leading websites like famous national and international news portals, channels and social media websites like facebook twitter dailymotion, youtube, as ZeetvPak strongly believes on the sharing and circulation of information to the users for their interest and ease.
+
+News events and links provided from other websites are not owned or managed by us. Because we are not responsible for how these sites handle your privacy. We encourage you to check out the Privacy Policies of those other websites while visiting before giving out your personal information.
+
+Cookies
+
+We may collect your cookies to better you website experience. However if you do not want to enable cookies, simply adjust your browser settings before using our website and turn off cookies for Free Website Templates or our third party advertisers. Keep in mind, however, that disabling cookies may affect your user experience while visiting and exploring our website.
+
+Third Party Ads
+
+Advertising partners of Dailyvide may use cookies and web beacons in the ads that they serve on our website. The use of such technologies will enable the advertiser to store information about your web surfing interests, so that they can show you targeted advertisements according to your desire and interest you. Our Privacy Policy does not cover the use of cookies and information collected by the ads of our third party advertisers.
+
+If you want to contact us please send your email to us
+
+Contact
+
+Admin@dailyvide.com
