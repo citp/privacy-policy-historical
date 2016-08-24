@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505225922id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824060314id_/https%3A//www.infoblox.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
+# Privacy Policy - Infoblox
 
-Infoblox knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Infoblox's web site, submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you represent an entity, then “you” also refers to such entity.
+## This Privacy Policy is effective as of May 15, 2006, and as amended on October 24, 2014.
+
+* * *
+
+Infoblox knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Infoblox’s web site, submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you represent an entity, then “you” also refers to such entity.
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy covers Infoblox's treatment of personally identifiable information ("Personal Information") that Infoblox gathers when you are accessing Infoblox's web site, or in connection with Infoblox sponsored events or Infoblox services. The types of Personal Information that may be collected include your full name, address, e-mail address, telephone number, and credit card information, and Infoblox's treatment of any Personal Information that Infoblox's business partners share with Infoblox. In some circumstances, this Privacy Policy may also apply to certain product usage information that you provide when you elect to participate in Infoblox programs and services; Infoblox will notify you if this Privacy Policy applies at the time you elect to participate in such circumstances. This policy does not apply to the practices of Infoblox's business affiliates, to processes that Infoblox does not own or control, or to entities that Infoblox does not employ or manage.
+This Privacy Policy covers Infoblox’s treatment of personally identifiable information (“Personal Information”) that Infoblox gathers when you are accessing Infoblox’s web site, or in connection with Infoblox sponsored events or Infoblox services. The types of Personal Information that may be collected include your full name, address, e-mail address, telephone number, and credit card information, and Infoblox’s treatment of any Personal Information that Infoblox’s business partners share with Infoblox. In some circumstances, this Privacy Policy may also apply to certain product usage information that you provide when you elect to participate in Infoblox programs and services; Infoblox will notify you if this Privacy Policy applies at the time you elect to participate in such circumstances. This policy does not apply to the practices of Infoblox’s business affiliates, to processes that Infoblox does not own or control, or to entities that Infoblox does not employ or manage.
 
 ## What Personal Information Does Infoblox Collect?
 
@@ -28,7 +32,7 @@ We may receive and store certain information related to the usage and effectiven
 
 ### E-mail Communications:
 
-We may receive a confirmation when you open an e-mail from Infoblox if your computer supports this type of program. Infoblox may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending duplicate or unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com) and include sufficient information for us to identify your account.
+We may receive a confirmation when you open an e-mail from Infoblox if your computer supports this type of program. Infoblox may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending duplicate or unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at unsubscribe@infoblox.com and include sufficient information for us to identify your account.
 
 ### What About Cookies?
 
@@ -85,7 +89,7 @@ Note: If you want to see which websites store cookies on your computer, click De
 
 Personal Information about our customers is an important part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with your consent or to business affiliates as described below.
 
-Agents: We may use other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Infoblox may also use a third party to process credit cards for billing purposes. Unless we tell you otherwise at the time we ask you to provide specific information, Infoblox's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Agents: We may use other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Infoblox may also use a third party to process credit cards for billing purposes. Unless we tell you otherwise at the time we ask you to provide specific information, Infoblox’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
 Business Transfers: In some cases, we may choose to buy or sell business assets. In these types of transactions, customer information is typically transferred with related assets. Moreover, if Infoblox, or substantially all of its assets were acquired, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Infoblox may continue to use your Personal Information as set forth in this policy.
 
@@ -109,9 +113,9 @@ After logging in to your account, you may access certain information about you f
 
 You can always opt not to disclose information to Infoblox, even though it may be needed to receive services or take advantage of certain Infoblox web site features.
 
-You may be able to add or update certain information on pages, such as those that may be listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your Infoblox account by sending an e-mail to [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com) and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
+You may be able to add or update certain information on pages, such as those that may be listed in the “What Personal Information Can I Access” section above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your Infoblox account by sending an e-mail to unsubscribe@infoblox.com and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
 
-If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@infoblox.com](mailto:unsubscribe@infoblox.com), and provide sufficient information for us to identify your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Infoblox web site, and you are responsible for reviewing such legal notices for changes.
+If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at unsubscribe@infoblox.com, and provide sufficient information for us to identify your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Infoblox web site, and you are responsible for reviewing such legal notices for changes.
 
 As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of some of our services or web site features.
 
