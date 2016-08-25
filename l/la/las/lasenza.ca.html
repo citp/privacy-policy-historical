@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the lasenza.ca privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624042500id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasenza.ca privacy policy that was archived on 2016-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160826010244id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-563VXS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFWF9UGwEBUFZWAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-563VXS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFWF9UGwEBUFZWAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
 <title>Privacy Policy | La Senza</title>
 <meta name="description" content="This privacy policy explains what personal information is collected through LaSenza.com">
 <meta name="keywords" content="La Senza, Lasenza, La Sensa, La Sanza, La Sezna, La Senze, Lasenze, La Senxa, Lasen, Le Senza, Lesenza, La Seza, Privacy, Privacy Policy">
@@ -18,17 +18,17 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/1ad1b012e996a29fffffd68280e7d955.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/4a1a0ea6fab63ef8b976467673cf3248.css" media="print">
-<script type="text/javascript" src="http://www.lasenza.ca/media/js/ba5a2f88197fc2a2c45e24634c2374fe.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/af4dfe926a366aa533f12de670196eaf.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/65193a14d9ef73074ef70652f5417991.css" media="print">
+<script type="text/javascript" src="http://www.lasenza.ca/media/js/038c995062840635f6ea838dc55f08d3.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/ad357f8e59c2005b1ccc402bf8034e36.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/d5ed4d83eaeba081cc92941cea4ecdb4.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.lasenza.ca/media/js/d731b944011646beaf6f2fe061863338.js"></script>
+<script type="text/javascript" src="http://www.lasenza.ca/media/js/7f94711825246c33fba9e22760c4f18e.js"></script>
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/d4cae35da4a97dcb4f4b253a179c63f8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/8908fa095ef5115b8bae0d11662cb1fa.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -40,7 +40,7 @@ Mage.Cookies.domain   = '.www.lasenza.ca';
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
+optionalZipCountries = ["AU","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HK","HU","IE","IT","JP","LV","LT","LU","MO","MT","NL","NO","PA","PL","PT","RO","SA","SK","SI","ES","SE","CH","AE"];
 //]]>
 </script>
 <script type="text/javascript">//<![CDATA[
@@ -48,7 +48,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         //]]></script><meta name="robots" content="NOODP">
 <meta name="msvalidate.01" content="2C38722F7B48C25D8F121AFE49FFBBBA">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="msvalidate.01" content="7910048DF2AAF20DC162531E18AE8111"><script type="text/javascript">
+<meta name="msvalidate.01" content="7910048DF2AAF20DC162531E18AE8111">
+<meta name="google-site-verification" content="aiS3u0iWUGk923Ij71i6sHq_JB1H7OZxgY8HgVjbvLA">
+<style type="text/css">
+#build-menu-page .flex-direction-nav {
+    display: none;
+}
+</style><script type="text/javascript">
     jQuery.getScript(window.location.protocol + "//use.typekit.net/hmn2gis.js", function () {
         try{Typekit.load();}catch(e){}
     })
@@ -129,17 +135,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="global-header-banner">
 <div class="inner">
 <div class="receive-info">
-<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html">Sale - $6.99 Bras</a> | <a href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=0%2C4">$3 Panties!</a> | <a class="link" href="http://www.lasenza.ca/free-ship100">$4.99 Flat Rate Shipping or Free on Orders $100+ Code: SHIP100</a></p>
+<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/bras/bra-collections/remix-cotton-bras.html">Remix Bras 2 for $20</a> | <a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html">Plus 8 for $30.95 Mix &amp; Match Panties! Shop Now!</a></p>
 </div>
 </div>
 </div>
-<!--<div class="global-header-banner">
-<div class="inner">
-<div class="receive-info">
-<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html">Semi Annual Clearance Sale! Bras $8.99 and up!</a> | <a href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=0%2C4">Panties $4! Shop Now!</a></p>
-</div>
-</div>
-</div>-->
 <div class="header-container">
     <div class="header">
         <div class="quick-access">
@@ -390,7 +389,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
 
                 <div class="header-links">
-                    <span style="display: none" class="placeholder" data-id="CART_SIDEBAR" data-name="cart_sidebar"></span>
+                    <span style="display: none" class="placeholder" data-id="CART_SIDEBAR" data-name="cart_sidebar" data-info="MDoyOmMxYmEwMmMxMzE4OWQ3YzY6bmNHbzA2NU5TUi9QWlErK0IzMC92cThsYUJmM1dJbWVTNGdFTFdlODZzblpDaDRPMmRwY0hBOWYvZzI1dEtacDNMaHo2aEkxWkJ3NDQ2eU9YMDVGMXE1TW4yb2owSG9BTExXdnFrMDZPNnRLemZRd0VTMnNOaUEwdGttWnVVbitoL1J3Q1hwZ1RCRDQ4L3V4bDdZMzZYM29lUU5uSGpzSUc4ZXM5ckt6SWM3bThra1hTcVZ2b3lvWWJzb1VhbVYyelN6UkRFRCtxcWRlS1hjdlk3TGtINEtsdXdWSUFWaS9VejZERVFmaUZPam5KNmdKME1xaHR1ZGVWUnRnMkQ2MEpFelR6NkhCQU1mMnkzd2pyVVRxTFJ5aDdJbDN0S0oyOWtqdm8wNy9sZElEQm0yUXJjNXhaa1FNMitRSS9UK1Q3Nk9nL1RRTldnVTdTRUxpbmxzWmM3THVSQ01zZjBTNVhNT1k4eWJtK1c3bE5lMGY0VGlYWnBham1LUG1CR1BuV3JuL0FrKzhVUldqandTZDNCd2lTNUpUM2JxU3hDem5VV0pqTnExSGZXc0poVjBqb200aTUzS2ZFdzh4WXdRYmVwQTlDN2pXSkFsUlJIdTkxVmJuQzlGL0wyOHNQa0JoanQzVk01diszTjlrS3N2blFNTkwvVGsvMXQ5dXg2UWF6a3FmM3pXK05kOVJPaWE2aWVrdHZHNzVRVmRLcUc4QTRsbzU2ZEZaMEZCT1RUUnVib0RBSFVHTmNpSngyQWZIMWNwZGJoRkp3WXM1bVRiN2RaSFA4WWVvYXlnKzhIbDdBYUtQY3ZjalVVWkZpUVlzSm93M0JpYk1ud0V3V21td3RBSURlZUFxUHNNMUVsMmJMRW5nSEFocVJkV0haMVBHbDNwVXhhbC9rM1ZSMEo2ZEhnT3RZQkZ1ZFdNUkN3YlkxMGpsZXNKaEtEM01uZ3ZHNnF2dy9uTGxrV2h6elFNY1J0d1JDZS8yTnBBR1pSMUd1T0tpeXJTbUxxanZWeis4ZlYxbGMvWGZaeTlTM01hM3p2eis0dkYyWEJjbVA0TytUdGJNcm95bThpSForaUtrQnJXQ1V5eVRNSTNuRkdxRUFSazlYZDl5ZFcyR0dYNENxS2s1WUd4b3BjNkpscHovOEQ4Rk5BNkh1MU8vRkVwWTRJeExkam5kQXI2WHpRVzI="></span>
 <!--CONTENT[CART_SIDEBAR]-->
 <div class="top-cart">
         <div class="block-title no-items">
@@ -421,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <ul class="links">
                         <li class="first last"><a href="https://www.lasenza.ca/customer/account/" title="My Account">My Account</a></li>
             </ul>
-                    <span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links"></span>
+                    <span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links" data-info="MDoyOjI5NTQxZmIzZGYxZGFjOTI6TEVpQWJrbkZTWHNXSFhxQmxMTUNMZ1A1eG14a2NXTVRqbzZxVHRBWjRYZytQS0Y2cTNnL2pySFFvZnhGS25iOFcrZ0lRTVpZNE00S3d0Nk1QZmN1WkpManRRdkw5R0xkS0xyeDdVT1hKYkVwMEx0bFNzUFZORmpMb1Y5cG9TdGxzcFpaUHc4Q0N4M0kyUXVuek5MZDJURXIxSzA0V0pJaFl1dWw0MGhtUjhyT05nOTllWEFmb1E1WlQyUEVlTUJMRVBSS0w0ZmZCTmwvZ2dhVmZlQW4wc0VaaWJLb3dIVlJ6Wjd1dTlsRXVIdkNGOGxRMG01YStNNDVndlh6YkhTSlBLc2laQW52c2J6QWFzcXNHbTFHcHBqSVQ0TGN1UzBxaG9ZSWgxSzA1bE1RcERGdkpiMHUyT24rOUFOMWVZSlNqV3hxOXptcVhITS9EVGtvNTRlaUxRb3VtUGVFRnNndVk5MmZ6YkFhWHVrU3NuUzFHZi8zckJEY0tiT1I0RHkzNUhCaGV1QmNzakRwOUVxczZWUVZxcGhEZzVFME5zcFVZU2ZEcUlYS09zZ1h0VjlRWWk2UHU2MG8ybTlhSlRrdTVOdGZmYUY0NlRPcllGR0RJZWVWbDQrN1JZdURCZVlRSDErMndqRFB4UkFqVmt2cFJ3dUgwOTkwTWtEazBOSjk4Z20vKzVlWElEMzVKdzFEYkwrRm5acFJQNm5UNUo1NjhxUlFCaWdmdmd3eFZGcjR1bmtnNXhZSDZoTkp2TDdDRWFPb3FEZ1hBUG9tSU1HS3pmQ2tnQi9pbWljVTlLWmZRQ0lLVDFYQW05OGRGdkNJK0JoV1VDUlNzelkxbExsanVQbk96OHVOQXJuNFNiMkZvUGgxN2p2cGRJV1NQU05LYlVqNkFBNlBVRmsvTCtRNUpXSDZhUGFpUlNDQlB6K3hZeWRVWXpidms5QTkwanNwckNoMDE4SU1ucWJhOEw1Y0UzeFE2SXc4blU3ZkhvYnFlK29CNmNncTFXcmNjOWhpVzJ4TG50Q0hEWHZha2w0RTlETmUvckpQbElRb3NNUUppRmNadmQrdUs4a0s3bTdjMks3NUg2UkowQU51bnNHQm9mZWI3NHJ3MmsvKzlLR2ZtMUVjTjYvV0poSkFoSEJJUlRtK2RxQ3ZxWXc5eTg3Y0tzQWFKMnRpSlVibkg0d1VYdHV0Um9KZU9NMm4rQlNvSzNwWnZvYk5qU3UvNmR6M1ZkQktKL2Q4a3YyMTBWNERKS2NCMUR1K1NvZkxnUzk0RVJEb2dUK1pkMmlXZjg3SzM2Y2V6Y2lHbHZtWDZ4cjV5VG5KMmlHeHJNOXJsL0FVZGQ2c0VyaG9yS2ZqR2UwNWJvWU9hQUZvMG1pNk9ScG0xYzhaNjg4SFNMeC82UHoyazlVNFkrM0xBd1JaczlhZytyL1NKdVdtQVhNMlZzdHRkMjRIYll2dEwzTVVQWmFURGNWOC9BPT0="></span>
 <!--CONTENT[ACCLINKS]-->
 <span></span><!--/CONTENT[ACCLINKS]-->
                 </div>
@@ -492,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/collections/trend-alert-2.html"><span>Summer Steals - <span class="price">$20</span> and Under</span></a></li><li><a href="http://www.lasenza.ca/collections/bridal.html"><span>Bridal Collection</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-8.html"><span>Trending Now: Ombre</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-15.html"><span>Crazy Sexy Cool</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-4.html"><span>Anything But Neutral</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-7.html"><span>Sexy in Black</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-6.html"><span>Sexy Back Bras</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-3.html"><span>Strappy Details</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-5.html"><span>Trend Alert: Sport</span></a></li><li><a href="http://www.lasenza.ca/collections/heathers.html"><span>Trend Alert: Hot and Heathered</span></a></li><li><a href="http://www.lasenza.ca/collections/sexy-costumes.html"><span>Sexy Costumes</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/collections/trend-alert-2.html"><span>Summer Steals - <span class="price">$15</span> and Up</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-5.html"><span>NEW! Street Sport</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-15.html"><span>Crushin on Camo</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-8.html"><span>Bra Tops</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-36.html"><span>Red Hot</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-7.html"><span>Sexy in Black</span></a></li><li><a href="http://www.lasenza.ca/collections/bridal.html"><span>Bridal Collection</span></a></li><li><a href="http://www.lasenza.ca/collections/sexy-costumes.html"><span>Sexy Costumes</span></a></li></ul></div></div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/specials.html">
@@ -506,10 +505,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-65.html"><span>Select Bras - <span class="price">$25</span> Each</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2 Get 1 Free</span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 5 for <span class="price">$27.95</span></span></a></li><li><a href="http://www.lasenza.ca/specials/summer-steals-20-and-under.html"><span>Summer Steals - <span class="price">$20</span> and Under</span></a></li></ul></div></div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95</span> </a></span>
+    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1 Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-92.html"><span>Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$20</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2 Get 2 Free 1</span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-2.html"><span>Obsession Panties - 2 for <span class="price">$12</span></span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 8 for <span class="price">$30.95</span></span></a></li><li><a href="http://www.lasenza.ca/specials/summer-steals-20-and-under.html"><span>Summer Steals</span></a></li></ul></div></div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-5for27-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
 </div>
 </div></div>
 </div></div>
@@ -531,7 +530,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/bras/push-up-bras.html"><span>Push Up</span></a></li><li><a href="http://www.lasenza.ca/bras/lightly-lined-and-unlined-bras.html"><span>Lightly Lined &amp; Unlined</span></a></li><li><a href="http://www.lasenza.ca/bras/strapless-multi-way-bras.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.ca/bras/balconnet-bras.html"><span>Balconnet</span></a></li><li><a href="http://www.lasenza.ca/bras/full-coverage-bras.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.ca/bras/demi-bras.html"><span>Demi</span></a></li><li><a href="http://www.lasenza.ca/bras/front-close-bras.html"><span>Front-Close</span></a></li><li><a href="http://www.lasenza.ca/bras/racerback-bras.html"><span>Racerback</span></a></li><li><a href="http://www.lasenza.ca/bras/bustiers-bras.html"><span>Bralettes &amp; Crop Bustiers</span></a></li><li><a href="http://www.lasenza.ca/bras/backless-bras-and-bra-accessories.html"><span>Backless &amp; Bra Accessories</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/bras/push-up-bras.html"><span>Push Up</span></a></li><li><a href="http://www.lasenza.ca/bras/lightly-lined-and-unlined-bras.html"><span>Lightly Lined &amp; Unlined</span></a></li><li><a href="http://www.lasenza.ca/bras/strapless-multi-way-bras.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.ca/bras/full-coverage-bras.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.ca/bras/balconnet-bras.html"><span>Balconnet</span></a></li><li><a href="http://www.lasenza.ca/bras/demi-bras.html"><span>Demi</span></a></li><li><a href="http://www.lasenza.ca/bras/front-close-bras.html"><span>Front-Close</span></a></li><li><a href="http://www.lasenza.ca/bras/racerback-bras.html"><span>Racerback</span></a></li><li><a href="http://www.lasenza.ca/bras/bustiers-bras.html"><span>Bralettes &amp; Crop Bustiers</span></a></li><li><a href="http://www.lasenza.ca/bras/backless-bras-and-bra-accessories.html"><span>Backless &amp; Bra Accessories</span></a></li><li><a href="http://www.lasenza.ca/bras/sport-bras.html"><span>Sport Bras</span></a></li></ul></div></div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/bras/bra-collections.html">
@@ -546,23 +545,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>-->
 <div class="cms-tab-content">
     <ul><li><a href="http://www.lasenza.ca/bras/bra-collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/sexy-tease.html"><span>Sexy Tease</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/my-customized.html"><span>My Customized</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/remix-cotton-bras.html"><span>Remix &amp; Cotton</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Bras" href="http://www.lasenza.ca/specials/bra-specials-54.html"><span>LIMITED TIME ONLY!</span></a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Bras" href="http://www.lasenza.ca/bras.html"> <span>Bras $15 &amp; Up!</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Shop Bras" href="http://www.lasenza.ca/specials/bra-specials-54.html" target="_self"> <img title="Shop Bras" src="/media/wysiwyg/2016/summer/06-17-lux25/dd-hero-bra25-en.jpg" alt="Shop Bras"></a></p>
-</div>
-</div>
-<!--<div><span class="title"><a title="Bras | Buy One Get One 50% OFF | Shop Bras" href="http://www.lasenza.ca/specials/bra-specials-3.html"> <span>Bras</span></a></span>
-<div class="cms-tab-content">
-<p><a title="Bras | Buy One Get One 50% OFF | Shop Bras" href="http://www.lasenza.ca/specials/bra-specials-3.html" target="_self"> <img title="Bras | Buy One Get One 50% OFF | Shop Bras" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-bras-bogo50-en.jpg" alt="Bras | Buy One Get One 50% OFF | Shop Bras" /></a></p>
-</div>
-</div>--></div>
-</div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Semi Annual Clearance Sale | Bras $6.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html"> <span>Semi Annual Sale - Bras</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Semi Annual Clearance Sale | Bras $6.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html" target="_self"> <img title="Semi Annual Clearance Sale | Bras $6.99 and up!" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-bras-699-su2016-en.jpg" alt="Semi Annual Sale | Bras $6.99 and up"></a></p>
+<p><a title="Shop Bras" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="Shop Bras" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-bras-gen-15-en.jpg" alt="Shop Bras"></a></p>
 </div>
 </div></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+</div>
 </div></div>
+</div>
+</div>
                 </div>
                             </li>
                                     <li class="tab  panties">
@@ -595,19 +590,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/panties/collections/obsession-and-diva.html"><span>Obsession and Diva</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/invisible-and-no-show-panties.html"><span>Invisible &amp; No Show</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/remix-cotton-ultra-soft-seamless-panties.html"><span>Cotton, Remix, Ultra Soft &amp; Seamless</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Select Sexy Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=6%2C6"> <span>Semi Annual Sale</span> </a></span>
+    <ul><li><a href="http://www.lasenza.ca/panties/collections/diva.html"><span>Diva</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/scandalous-panty.html"><span>Scandalous</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/invisible-and-no-show-panties.html"><span>Invisible &amp; No Show</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/remix-cotton-ultra-soft-seamless-panties.html"><span>Cotton, Remix, Ultra Soft &amp; Seamless</span></a></li></ul></div></div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Select Sexy Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=6%2C6" target="_self"> <img title="Select Sexy Panties - Shop now!" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-sexy-6-su2016-en.jpg" alt="Select Sexy Panties - Shop now!"></a></p>
+<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-5for27-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
 </div>
 </div></div>
-</div></div>
+</div>
+
+</div>
                 </div>
                             </li>
                                     <li class="tab  sexy-lingerie">
@@ -627,23 +624,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>-->
 <div class="cms-tab-content">
     <ul><li><a href="http://www.lasenza.ca/sexy-lingerie/babydoll-lingerie.html"><span>Babydolls</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/merrywidow-lingerie.html"><span>Merrywidows</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/body-suits.html"><span>Bodysuits</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/bustiers.html"><span>Bustiers &amp; Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/garters.html"><span>Garters, Slips &amp; Panties</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/sexy-satin-kimonos.html"><span>Kimonos &amp; Robes</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/hosiery.html"><span>Hosiery</span></a></li></ul></div></div>
-<div class="cms-content">
-<span class="title">
-    <a href="http://www.lasenza.ca/sexy-lingerie/collections.html">
-        <span>Lingerie Collections</span>
-    </a>
-</span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Lingerie</span> </a></span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sexy-lingerie/collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/collections/dreamlegs.html"><span>Dreamlegs</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/collections/trend-alert-2.html"> <span>Lingerie starting at $20</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/collections/trend-alert-2.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-lingerie-20up-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
+<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lingerie-gen-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
 </div>
 </div>
 <!--<div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html"> <span>Shop Lingerie</span> </a></span>
@@ -652,12 +635,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>--></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Lingerie - Shop Now" href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lingerie.html"> <span>Semi Annual Sale</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Lingerie - Shop Now" href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lingerie.html" target="_self"> <img title="Lingerie - Shop Now" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-lingerie-50-su2016-en.jpg" alt="Lingerie - Shop Now"></a></p>
+<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
 </div>
 </div></div>
-</div></div>
+</div>
+
+</div>
                 </div>
                             </li>
                                     <li class="tab  sleepwear">
@@ -676,34 +661,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sexy-lounge/sleepshirts-and-chemises.html"><span>Sleepshirts &amp; Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/rompers.html"><span>Rompers &amp; Onesies</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-tops.html"><span>Tees &amp; Tanks</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-leggings-pants-shorts.html"><span>Pants &amp; Shorts</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/robes.html"><span>Robes &amp; Kimonos</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/sexy-lounge/sport-bras.html"><span>Sport Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/sleepshirts-and-chemises.html"><span>Sleepshirts &amp; Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-tops.html"><span>Tees &amp; Tanks</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-leggings-pants-shorts.html"><span>Pants &amp; Shorts</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/robes.html"><span>Robes &amp; Kimonos</span></a></li></ul></div></div>
 <div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html"> <span>New Arrivals</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/Generic/Leftnavs/dd_newarrivals_jan2015_en.jpg" alt="Lounge new arrivals. Shop Now"></a></p>
+<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lounge-50off-en.jpg" alt="Lounge new arrivals. Shop Now"></a></p>
 </div>
 </div>
+<!--<div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html"> <span>New Arrivals</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/Generic/Leftnavs/dd_newarrivals_jan2015_en.jpg" alt="Lounge new arrivals. Shop Now" /></a></p>
+</div>
+</div>-->
+<p>&nbsp;</p>
 <!--<div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/sexy-lounge.html"> <span>Chemise $15</span></a></span>
 <div class="cms-tab-content">
 <p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/sexy-lounge.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/2016/summer/04-15-summersexy/dd-chemise-15-en.jpg" alt="Lounge new arrivals. Shop Now" /></a></p>
 </div>
 </div>--></div>
 </div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95</span> </a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-5for27-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Lounge - Shop Now" href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lounge.html"> <span>Semi Annual Sale</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="SHOP STREET SPORT!" href="http://www.lasenza.ca/collections/trend-alert-5.html"> <span>SHOP STREET SPORT!</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Lounge - Shop Now" href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lounge.html" target="_self"> <img title="Lounge - Shop Now" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-lounge-50-su2016-en.jpg" alt="Lounge - Shop Now"></a></p>
+<p><a title="SHOP STREET SPORT!" href="http://www.lasenza.ca/collections/trend-alert-5.html" target="_self"><img title="SHOP STREET SPORT!" src="/media/wysiwyg/2016/highsummer/08-15-sport/dd-street-sport-en.jpg" alt="SHOP STREET SPORT!"></a></p>
 </div>
 </div></div>
 </div></div>
                 </div>
                             </li>
                                     <li class="tab  accessories">
-                <a href="http://www.lasenza.ca/beauty-and-accessories.html"><span class="tab-title">Beauty &amp; Accessories</span></a>
+                <a href="http://www.lasenza.ca/beauty-and-accessories.html"><span class="tab-title">Beauty</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
@@ -733,12 +724,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>-->
 <div class="cms-tab-content">
     <ul><li><a href="http://www.lasenza.ca/beauty-and-accessories/collections/dreamlegs.html"><span>Dreamlegs</span></a></li></ul></div></div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/body-lotion-11057030.html"> <span>NEW LOTIONS</span></a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"> <span>NEW LOTIONS</span></a></span>
 <div class="cms-tab-content">
 <p><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/body-lotion-11057030.html" target="_self"> <img title="NEW LOTIONS - SHOP NOW" src="/media/wysiwyg/2015/fall/10-5-bluebra/dd/dd-lotions-double-fa2015-en.jpg" alt="NEW LOTIONS - SHOP NOW"></a></p>
 </div>
 </div>
-
 <!--<div><span class="title"><a title="Beauty &amp; Accessories New Arrivals - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html"> <span>Beauty &amp; Accessories New Arrivals - Shop Now</span></a></span>
 <div class="cms-tab-content">
 <p><a title="Beauty Buy 2, Get 2 Free - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html" target="_self"> <img title="Beauty Buy 2, Get 2 Free - Shop Now" src="/media/wysiwyg/Generic/Dropdowns/drop-generic-beautyAccess-en.jpg" alt="Beauty Buy 2, Get 2 Free - Shop Now" /></a></p>
@@ -776,9 +766,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>-->
 <div class="cms-tab-content">
     <ul><li><a href="http://www.lasenza.ca/gifts/gifts-under-60.html"><span>Gifts Under <span class="price">$60</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gifts-under-40.html"><span>Gifts Under <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gifts-under-25.html"><span>Gifts Under <span class="price">$25</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gift-cards.html"><span>Gift Cards</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-accessories.html"><span>Sexy Accessories</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-costumes.html"><span>Sexy Costumes</span></a></li><li><a href="http://www.lasenza.ca/gifts/bridal-collection.html"><span>Bridal Collection</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/collections/trend-alert-2.html"> <span>Lingerie starting at $20</span> </a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Lingerie</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/collections/trend-alert-2.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-lingerie-20up-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
+<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lingerie-gen-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
 </div>
 </div>
 <!--<div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html"> <span>Shop Lingerie</span> </a></span>
@@ -789,25 +779,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/summer/05-24-crazysexycool/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
+<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=3%2C4"> <span>Semi Annual Sale - Panties</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=3%2C4" target="_self"> <img title="Panties - Shop now!" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-trendy-3-su2016-en.jpg" alt="Panties - Shop now!"></a></p>
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
 </div>
 </div></div>
 </div></div>
                 </div>
                             </li>
                                     <li class="tab  last sale">
-                <a href="http://www.lasenza.ca/sale-clearance-specials.html"><span class="tab-title">Semi Annual Sale</span></a>
+                <a href="http://www.lasenza.ca/sale-clearance-specials.html"><span class="tab-title">Specials &amp; Clearance</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
-    <a href="http://www.lasenza.ca/sale-clearance-specials/sale.html">
-        <span>Sale</span>
+    <a href="http://www.lasenza.ca/sale-clearance-specials/clearance.html">
+        <span>Clearance</span>
     </a>
 </span>
 <!--<div class="link">
@@ -817,22 +807,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
 </div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/sale/sexy-lounge.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/sale/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Semi Annual Clearance Sale | Bras $6.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html"> <span>Semi Annual Sale - Bras</span> </a></span>
+    <ul><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lounge.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div></div>
+<div class="cms-content">
+<span class="title">
+    <a href="http://www.lasenza.ca/specials.html">
+        <span>Specials</span>
+    </a>
+</span>
+<!--<div class="link">
+    <a href="">
+        <span></span>
+        <span></span>
+    </a>
+</div>-->
 <div class="cms-tab-content">
-<p><a title="Semi Annual Clearance Sale | Bras $6.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html" target="_self"> <img title="Semi Annual Clearance Sale | Bras $6.99 and up!" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-bras-699-su2016-en.jpg" alt="Semi Annual Sale | Bras $6.99 and up"></a></p>
+    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1 Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-92.html"><span>Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$20</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2 Get 2 Free 1</span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-2.html"><span>Obsession Panties - 2 for <span class="price">$12</span></span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 8 for <span class="price">$30.95</span></span></a></li><li><a href="http://www.lasenza.ca/specials/summer-steals-20-and-under.html"><span>Summer Steals</span></a></li></ul></div></div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Bras" href="http://www.lasenza.ca/bras.html"> <span>Bras $15 &amp; Up!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop Bras" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="Shop Bras" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-bras-gen-15-en.jpg" alt="Shop Bras"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=3%2C4"> <span>Semi Annual Sale - Panties</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Panties - Shop now!" href="http://www.lasenza.ca/sale-clearance-specials/sale/panties.html?price=3%2C4" target="_self"> <img title="Panties - Shop now!" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-trendy-3-su2016-en.jpg" alt="Panties - Shop now!"></a></p>
-</div>
-</div></div>
-</div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Semi Annual Clearance Sale" href="http://www.lasenza.ca/sale-clearance-specials/sale/bras.html"> <span>Semi Annual Sale</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Semi Annual Clearance Sale" href="http://www.lasenza.ca/sale-clearance-specials/sale.html" target="_self"> <img title="Semi Annual Clearance Sale" src="/media/wysiwyg/2016/summer/06-06-sas/drop/dd-sas-gen-60-su2016-en.jpg" alt="Semi Annual Sale"></a></p>
+<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
 </div>
 </div></div>
 </div></div>
@@ -856,19 +854,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     </div>
-        <div class="breadcrumbs">
+        <!--{PAGE_BREADCRUMBS_066791b4bcf125c277215c1b3d17f0e7}--><div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.lasenza.ca/" title="Go to Home Page">Home</a>
-                                    </li>
+                                        <span>/ </span>
+                        </li>
+                    <li class="cms_page">
+                            Privacy Policy | La Senza                                    </li>
             </ul>
 </div>
-        <div class="main col2-left-layout">
+<!--/{PAGE_BREADCRUMBS_066791b4bcf125c277215c1b3d17f0e7}-->        <div class="main col2-left-layout">
             <div class="col-main">
-                <span style="display: none" class="placeholder" data-id="GLOBAL_MESSAGES" data-name="global_messages"></span>
+                <span style="display: none" class="placeholder" data-id="GLOBAL_MESSAGES" data-name="global_messages" data-info="MDoyOjZlNmZlMmE0ODZkYWY1OGE6UkxKZURwM2lQbkdRVmlvbytXQXYyVmVrL25uYXZXemZ2LzRzQ1hoWVdBLzdJSmZ1czhhVWpJeDV5U2lmeFRIbVBkbzAwZS84Qjc4UzU2MG5lSXk5Z3c9PQ=="></span>
 <!--CONTENT[GLOBAL_MESSAGES]-->
 <span></span><!--/CONTENT[GLOBAL_MESSAGES]-->
-                <div class="std"><span style="display: none" class="placeholder" data-id="MESSAGES" data-name="messages"></span>
+                <div class="std"><span style="display: none" class="placeholder" data-id="MESSAGES" data-name="messages" data-info="MDoyOmI5OWI0NjYxZWM5MWYxYTc6K0ZwYUxEWUxrYzJQT0VaS0d0Y3ppU3lwS0dUamdSamZXVy9YeVVmZXl1WlZQTm8wa01QbU1IRFFIRnZJL2VEUFZuRjBGcjBUczhMVkZ2Ykg0SW8waEU3OGloT0ZzV2xRMnBmZmRwaE1KeGpjTU9KRVF0UkhxdS9WMUp0Y29NazdVK0RKNDBRY3cybENBZDF6L2ltY3g1TkJEUC9VRnE1YUxUaVVJeEVjWmkyVFRzV1NzVlJ2bTZlZlQrL2RpZUlXdlNjVUtpODFpdlNNdnMzRWNwR3lTdz09"></span>
 <!--CONTENT[MESSAGES]-->
 <span></span><!--/CONTENT[MESSAGES]-->
 <div class="lza-customer-service" style="text-align: left;">
@@ -1033,7 +1034,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="footer-social-links title">Get Social</div>
 <div align="center">
 <div style="width: 330px;">
-<div><a href="https://www.facebook.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 50px; align: center;" title="Facebook" src="/media/wysiwyg/Content/social/facebook.png" alt="Facebook"></a> <a href="https://twitter.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Twitter" src="/media/wysiwyg/Content/social/twitter.png" alt="Twitter"></a> <a href="https://www.pinterest.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Pinterest" src="/media/wysiwyg/Content/social/pinterest.png" alt="Pinterest"></a> <a href="https://instagram.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: middle;" title="Instagram" src="/media/wysiwyg/Content/social/instagram2016.png" alt="Instagram"></a></div>
+<div><a href="https://www.facebook.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 50px; align: center;" title="Facebook" src="/media/wysiwyg/Content/social/facebook.png" alt="Facebook"></a> <a href="https://instagram.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: middle;" title="Instagram" src="/media/wysiwyg/Content/social/instagram2016.png" alt="Instagram"></a> <a href="https://twitter.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Twitter" src="/media/wysiwyg/Content/social/twitter.png" alt="Twitter"></a> <a href="https://www.pinterest.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Pinterest" src="/media/wysiwyg/Content/social/pinterest.png" alt="Pinterest"></a></div>
 </div>
 </div>            </div>
 
@@ -1081,6 +1082,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="http://www.lasenza.ca/customer-service/shipping-details" rel="nofollow">Shipping Details</a></li>
 <li><a href="http://www.lasenza.ca/customer-service/return-policy" rel="nofollow">Return Policy</a></li>
 <li><a href="http://www.lasenza.ca/gifts/gift-cards.html">Gift Cards</a></li>
+<li><a href="http://lasenza.studentbeans.com/" target="_blank">Student Discount</a></li>
 </ul>
 </div>
 <div class="block" style="width: 16.66%;">
@@ -1120,7 +1122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
 
-        <script type="text/javascript">
+        <!--{WISHLISTS_7d6ecd3c2aba52ef18415ee34a288b44}--><script type="text/javascript">
 //<![CDATA[
 Enterprise.Wishlist.list = [
 ];
@@ -1131,10 +1133,10 @@ Enterprise.Wishlist.url.create = 'https://www.lasenza.ca/wishlist/index/createwi
 Enterprise.Wishlist.canCreate = false;
 //]]>
 </script>
-<script type="text/javascript">
+<!--/{WISHLISTS_7d6ecd3c2aba52ef18415ee34a288b44}--><script type="text/javascript">
     var varnishLoader = new Varnish.Loader(
         'http://www.lasenza.ca/varnish/ajax/load/uenc/aHR0cDovL3d3dy5sYXNlbnphLmNhL3ByaXZhY3ktcG9saWN5LWNvb2tpZS1yZXN0cmljdGlvbi1tb2Rl/',
-        'MDoyOmY2MmMxOGM4NWRkZGI2NTM6Q2NvM2JWdW4wWXJ3eGdYd0kzb0lRWlN3amlSU2NaTU12NTV1QVZaQU11K0Yrb21WTklFZTRWK1FJbGhoRHdyUEp1WnVBYUVJd1F3SlJkVGloMzZncUhaSUJEYlc0dU50REUzVXFobjc5UnRSN21ERVhBbXRCRFZtcW5TRmRyamlFdHVSOFZOSXl0OWo0V0ZxbzU1MDI4RWpzaGYyaWU5QmMyRHcxYkZpRklEWS9xaHl1YTZQT3dnZ01NdHlCdEF5Wk91WnZSMFRhZW95cllLbnNhL1Yzb2V6bGx2MHdHL3BFRFpPWDV2RWRLNFpZaUJpeUExZk9STWE1NGMxc0RZQ1FaeU9OcC9WaDlaZDZ2YWN1dm9CaWc9PQ=='
+        'MDoyOjJkMjgxMjhjOTA2NjY2ODM6QTZFZ3B0S1JKUEh4Zis1QWJYZlJZQUt2YmM1emhncndGWnZxVklXOHJldndnN29LVzYxck80OGwwV1Q5ZDFIQVl6VVdnU0d5UllnQTRMbEYvemlPcnd3Z1d3ckp5WW02YjdKM3NydDhJdmxLMVJSak8yUTVpQ2l3SkU0YTQyOG9ZL3g3REwzWXJ6RjI2M1dYRXoyTHlqQ2tFZm05SlBxY0hRRTFkMmtTVk9VLzllNlFVSjR2WHVXWEJGTUwrWFY4d3k3Mk1tY2YxcjFqVFdwMDFLd3BWaFNhNHNRTzhIYVpvbi91NDVxVDB0UGFGMVVDaTNhSWJEaDVFN2NMWCtRTkxYZVR3ZDNWd05KRGp1emxOcXBpalE9PQ=='
     );
 
     document.observe('dom:loaded', function() {
@@ -1189,6 +1191,6 @@ Validation.addAllThese([
 </div>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"596c0663a0","applicationID":"2147466","transactionName":"b1AHY0sCV0ZTAUxdXFYaMEVQTFBbVgdAGkNQRQ==","queueTime":0,"applicationTime":31,"ttGuid":"","agentToken":"","atts":"QxcEFQMYREg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"596c0663a0","applicationID":"2147466","transactionName":"b1AHY0sCV0ZTAUxdXFYaJFRNClZbHQFVRxxIVAJSFhVQUEU=","queueTime":0,"applicationTime":948,"ttGuid":"","agentToken":"","atts":"QxcEFQMYREg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
