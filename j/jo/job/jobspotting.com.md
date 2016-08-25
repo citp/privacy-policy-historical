@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobspotting.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624011757id_/https%3A//jobspotting.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobspotting.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825194944id_/https%3A//jobspotting.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Jobspotting - Job Search & Personalised Job Discovery
 
