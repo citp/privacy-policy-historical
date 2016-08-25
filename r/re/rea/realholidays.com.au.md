@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319215825id_/https%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826014520id_/https%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies | HomeAway.com.au
 
@@ -21,6 +21,7 @@ The type of personal information that we collect and hold about you depends on t
   * We also collect IP addresses, mobile device identifier details, your location, navigation and click-stream data, the time of accessing the Site, homes you viewed, what you searched for, the duration of your visit, and other details of your activity on the Site. 
   * If you ask us to connect with other sites (for example if you ask us to connect with your Facebook account) we may get information that way too. 
   * Information that we collect from third parties, such as credit information which we use to prevent and detect fraud, information from your mobile provider if you are accessing the Site over a mobile device or information from a third party such as a social media or travel opinions site where you have asked us to share your data with them. 
+  * We may collect reviews written by travellers on a property they stayed in (“Traveller Reviews”) and/or written by owners on a Traveller’s stay (“Owner Reviews”). Traveller Reviews are displayed on our Site, while Owner Reviews will only be disclosed to owners who receive an inquiry or booking request from that traveller. Owner Reviews enable an owner to know more about the traveller who has contacted them and therefore increase trust in our platform. Owners must comply with law and this includes not using any information about a traveller to discriminate against such traveller.
 
 
 
@@ -99,7 +100,9 @@ We may also share your personal data with:
     * Marketing, communications and research agencies;
     * Mailing houses, postal, freight and courier service providers;
     * Printers and distributors of direct  marketing materials;
-    * External business advisers (such as recruitment advisers, auditors and lawyers).
+    * External business advisers (such as recruitment advisers, auditors and lawyers);
+    * When creating a profile on our Site, the information in your profile will available to be viewed by other users of our Site;
+    * We will display your name (taken from your profile) with any content that you contribute to the Site (including reviews).
 
 
 
