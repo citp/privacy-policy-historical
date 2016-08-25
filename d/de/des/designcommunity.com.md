@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcommunity.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221162047id_/http%3A//www.designcommunity.com/privacy-dc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcommunity.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825235035id_/http%3A//www.designcommunity.com/privacy-dc.html) for the most accurate reproduction.*
 
 # Privacy Statement for DesignCommunity.com
 
