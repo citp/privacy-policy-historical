@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travideos.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053537id_/http%3A//travideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travideos.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826004939id_/http%3A//travideos.com/privacy) for the most accurate reproduction.*
 
 # Travel Videos | Travel The World With Videos!
 
