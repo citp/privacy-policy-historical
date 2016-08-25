@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620052612id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825222447id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
 
 # DebtSteps.com Privacy Policy
 
@@ -79,8 +79,5 @@ DebtSteps.com 
 
 Palm Coast, FL 32137
 
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | |   
   
 
