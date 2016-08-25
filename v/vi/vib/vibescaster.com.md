@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibescaster.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604201327id_/http%3A//www.vibescaster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibescaster.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825181127id_/http%3A//www.vibescaster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Vibescaster
 
@@ -90,5 +90,4 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 
 If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email: [info@youniversalnext.com](mailto:info@youniversalnext.com)
 
-This webpage uses cookies, including from third parties, to provide you with advertisements and services that are in line with your preferences. If you want to learn more or opt out of some or all cookies, click [here.](https://web.archive.org/extended_cookie.php)  
-By closing this banner, scrolling this page or by clicking on any of its elements you agree to the webpage’s cookie policy. OK 
+This website uses cookies, also third parties cookies, in order to send to you adverts and services in line with your preferences. If you are willing to know more about cookies or to deny your consent to all or to certain cookies, please click [here.](https://web.archive.org/extended_cookie.php). By closing this banner, scrolling this page or clicking any element whatsoever on this page you consent to the use of cookies.  OK 
