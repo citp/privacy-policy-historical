@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406075406id_/https%3A//www.veridiancu.org/webres/File/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825144618id_/https%3A//www.veridiancu.org/webres/File/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
