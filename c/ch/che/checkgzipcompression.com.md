@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310053010id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825165358id_/https%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Check GZIP compression
 
