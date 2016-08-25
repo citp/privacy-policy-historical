@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322232216id_/https%3A//www.dealscube.com/index.php%3Fmodule%3Dapp%26controller%3Dsections%26action%3Dview%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825235529id_/https%3A//www.dealscube.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / dealsCube
 
