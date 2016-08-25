@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042500id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826010244id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | La Senza
 
