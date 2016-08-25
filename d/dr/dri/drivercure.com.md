@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivercure.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624174058id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivercure.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825225031id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ParetoLogic - Company - Privacy Policy
 
