@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315104943id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825185403id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank Australia
 
