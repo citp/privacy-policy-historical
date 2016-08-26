@@ -1,96 +1,186 @@
-> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413054919id_/https%3A//www.opendns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826024534id_/https%3A//www.opendns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OpenDNS
+# Cisco Online Privacy Statement - Cisco Systems
 
-This privacy policy (“Policy”) describes how OpenDNS, Inc. collects and uses the personal information you provide on the website [https://www.opendns.com](https://www.opendns.com/) and <https://www.umbrella.com/> (“Websites”) which are owned and operated by OpenDNS, Incorporated (“OpenDNS”, “we”, “us”, “our”), and all associated OpenDNS and Umbrella services (“Services”) provided by OpenDNS through these Websites.
+Cisco Systems, Inc. and its subsidiaries (collectively "Cisco") are committed to protecting your privacy and ensuring you have a positive experience on our websites and in using our products and services ("Solution" or "Solutions"). This Privacy Statement applies to Cisco websites that link to this Statement and describes how we handle personal information and the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Additional information on our personal information practices may be provided in the supplements on the right or in notices provided at the time of data collection. Certain Cisco websites may have their own privacy statement that describes how we handle personal information for those websites specifically. To the extent a notice provided at the time of collection or a website-specific privacy statement conflict with this Privacy Statement, such notice or privacy statement will control. 
 
-#### Contact Information
+### Collection of Your Personal Information
 
-[](http://privacy.truste.com/privacy-seal/OpenDNS,-Inc-/validation?rid=569023a3-1192-4b59-96bd-d64a4f5067e7 "TRUSTe European Safe Harbor certification")
+We may collect information, including personal information, about you as you use our websites and interact with us. "Personal information" is any information that can be used to identify an individual, and may include name, address, email address, phone number, login information (account number, password), marketing preferences, social media account information, or payment card number. If we link other data with your personal information, we will treat that linked data as personal information. We also collect personal information from trusted third-party sources and engage third parties to collect personal information to assist us. 
 
-OpenDNS has been awarded TRUSTe’s Privacy Seal signifying that this Policy has been reviewed by TRUSTe for compliance with TRUSTe’s [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Websites, [https://www.opendns.com](https://www.opendns.com/) and [http://www.umbrella.com](http://www.umbrella.com/). TRUSTe’s mission, as an independent third-party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or practices, please contact us at [opendns-privacy@cisco.com](mailto:opendns-privacy@cisco.com) or write to us at Privacy Matters, OpenDNS, Inc., 135 Bluxome Street, San Francisco, CA 94107. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+We collect personal information for a variety of reasons, such as: 
 
-OpenDNS participates in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
+  * Processing your order, including payment transactions. 
+  * Providing you with a newsletter subscription. 
+  * Sending marketing communications. 
+  * Creating an account. 
+  * Enabling the use of certain features of our Solutions. 
+  * Personalizing your experience. 
+  * Providing customer service. 
+  * Managing a job application. 
+  * Collecting information during the testing admissions process when a computer-based certification test is administered to you.
 
-Please click [here](http://www.truste.com/about-TRUSTe/contact-us/) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
 
-#### EU Safe Harbor Statement
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be provided to Personal Information transferred from the European Economic Area to the United States (the “U.S.-EU Safe Harbor”). OpenDNS complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. OpenDNS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OpenDNS’s certification, please visit <http://www.export.gov/safeharbor/>.
+We and the third parties we engage may combine the information we collect from you over time and across our websites with information obtained from other sources. This helps us improve its overall accuracy and completeness, and also helps us better tailor our interactions with you. 
 
-#### Information You Provide Us
+If you choose to provide Cisco with a third party's personal information (such as name, email, and phone number), you represent that you have the third party's permission to do so. Examples include forwarding reference material to a friend or job referrals. Third parties may unsubscribe from any future communication following the link provided in the initial message or contacting privacy@cisco.com.
 
-If you email us through any of the contact us links on our Website, if you submit a request for information through our Website or if you submit a support ticket through our Website we may ask you for Personal Information including but not limited to your name and email address in order to respond to your questions, comments and requests. If you choose to correspond with us via email, we may retain the content of your email messages, your email address and our correspondence with you. If you register for an account, we will also collect Personal Information such as your name, email address, billing address and credit card information.
+In some instances, Cisco and the third parties we engage may automatically collect data through cookies, web logs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of the website and to help tailor content or offers for you. Please read the "Cookies and Other Web Technologies" section below for more information. 
 
-#### Service Usage Information
+back to top
 
-When you use our Services, OpenDNS stores certain DNS, IP address and related information about you to improve the quality of our Service, to provide you with Services and for internal business and analysis purposes. For example, OpenDNS runs a Domain Name System (DNS) service. DNS translates a domain name (e.g., http://www.example.com) into the corresponding numerical address (e.g., 192.0.34.166) that allows your system to access the domain over the network.
+### Uses of Your Personal Information
 
-#### Tracking Technologies
+We may use your personal information for the purposes of operating our business, delivering, improving and customizing our Solutions, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law. Some of the ways we may use personal information include: 
 
-Technologies such as: cookies, beacons, tags and scripts are used by OpenDNS and our partners, affiliates, or analytics or service providers (including Optimizely, Google Analytics, Mixpanel, Crazy Egg, New Relic, Inspectlet, Bizo, Google Adwords, Doubleclick, Rubicon, Olark, Bizible, Salesforce, Marketo, Reachforce, Facebook, Google+, Twitter, Disqus, Scorecard Research, ShareThis and Customer.io). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+  * Delivering a Solution you have requested. 
+  * Supporting and improving our Solutions and your online experience. 
+  * Personalizing websites, newsletters and other communications. 
+  * Administering and processing your certification exams. 
+  * Sending communications to you, including for marketing or customer satisfaction purposes, either directly from Cisco or from our partners.
 
-We may use “cookies” on or in conjunction with our Websites to help OpenDNS identify and track visitors, their usage of our Websites, and their website access preferences. A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. If you do not wish to have cookies placed on your computer you should set your browser to refuse cookies before using the Websites, with the drawback that certain features of the Websites may not function properly without the aid of cookies. We do not link the information we store in cookies to any Personal Information you submit while on our Websites.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-We partner with a third party to either display advertising on our Websites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+You can edit your communication preferences at any time. See Your Choices and Selecting Your Communication Preferences below.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+back to top
 
-#### Chat Rooms, Discussion Forums, Bulletin Boards
+### Access to and Accuracy of Your Personal Information
 
-If you participate in one of our chat rooms, discussion forums, or post messages to a Website bulletin board, you should be aware that the information disclosed and shared will be broadly available to other persons, both inside of and/or outside of OpenDNS, who have access to that chat room, forum or bulletin board. Please be careful and responsible whenever you’re online by not posting any more Personal Information than you want revealed. In addition, if you post Personal Information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Please also note that a participant’s expressed opinion is his or her own and should not be considered to reflect the opinion of OpenDNS. To request removal of your personal information from our blog or community forum, contact us at [opendns-contact@cisco.com](mailto:opendns-contact@cisco.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We need your help in keeping your personal information accurate and up to date. To update your personal information and communication preferences, please [contact us](mailto:privacy@cisco.com). In addition, you may have the ability to view or edit your personal information online, including: 
 
-Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+  * **Cisco.com** – You can access and update your profile using the [Cisco Profile Management Tool](https://web.archive.org/web/siteassets/account/index.html). You may also make these updates or request deactivation of your website profile by sending an email to our [web help team](mailto:web-help@cisco.com). 
+  * **Webex.com** – You can access and update your profile by signing into your [user online account](http://try.webex.com/mk/get/profile). You may also make these updates or request deactivation of your website profile by sending an email to our [privacy team](mailto:privacy@webex.com). 
 
-#### Use and Disclosure of Personal Information
 
-OpenDNS does not share, rent, trade or sell your Personal Information with third parties, except as described in this Policy. If you do provide us with Personal Information, we will only use it for the purposes described where it is collected or to deliver the Services you requested, and we will not sell, license, transmit or disclose this information outside of OpenDNS unless (1) you expressly authorize us to do so, (2) it is necessary to allow our trusted service providers or agents (such as address list hosting companies, advertising and analytic companies, billing service providers, email service providers, search providers, security providers, live chat software providers and other similar service providers) to provide products or services for us or you, (3) it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, these service providers are authorized to use your Personal Information only as necessary to provide these services to us. (4) it is necessary in connection with a sale of all or substantially all of the assets of OpenDNS or the merger of OpenDNS into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which OpenDNS is not the survivor; you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information or (5) otherwise as we are required or permitted by law. Also, we reserve the right to fully use and disclose any information that is not Personal Information (such as statistics, most frequented domains, phishing attempts blocked by our Services).
 
-If you send us a request, inquiry, feedback or other comments (for example via a support email or via one of our feedback mechanisms), we reserve the right to edit and republish it in our Knowledge Base, which is displayed on our Websites, in order to help us clarify or respond to your request or to help us support other users with similar issues.
+We make good faith efforts to honor reasonable requests to access or correct your data if it is inaccurate. We will respond to your request to access data within 30 days. 
 
-We post customer testimonials on our Websites which may contain Personal Information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request that your testimonial be removed you may contact us at [opendns-contact@cisco.com](mailto:opendns-contact@cisco.com).
+Some Cisco entities may be considered data controllers from time to time. When a Cisco entity is acting as a data controller, you can exercise your rights of access and request corrections or deactivations under applicable data protection laws directly with that Cisco entity. 
 
-#### Updating, Correcting or Deleting Personal Information and OpenDNS Accounts
+back to top
 
-You may correct, update, or delete your Personal Information by accessing it through the edit account information page or by emailing our Customer Support at [opendns-contact@cisco.com](mailto:opendns-contact@cisco.com). If emailing Customer Support, please allow us 3 business days in order to satisfy your request.
+### Your Choices and Selecting Your Communication Preferences
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We give you the choice of receiving a variety of information that complements our Solutions. You can manage your communication preferences through the following methods: 
 
-#### Opt-Out
+  * By following the instructions included in each promotional email from us to unsubscribe from that particular mailing. 
+  * By sending us a message through [email](mailto:privacy@cisco.com) or by mail to: Cisco Systems, Inc., Privacy Legal Department, 170 West Tasman Dr., San Jose, CA 95134, USA. Please be sure to include your name, email address, and specific, relevant information about the material you no longer wish to receive. 
+  * For short message services ("SMS Services"), by replying "STOP", "END", or "QUIT" to the SMS text message you have received.
 
-In connection with promotions or other projects, we may ask you specifically whether you have objections with respect to a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt out of receiving commercial communications from OpenDNS, please click on the “opt-out” or “unsubscribe” link in the communication or please contact us at [opendns-contact@cisco.com](mailto:opendns-contact@cisco.com). Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time, not to exceed 10 days, in order to satisfy your request, as some promotions may already be in process.
 
-#### Third-Party Websites
 
-For your convenience, we may provide links to other websites and web pages that we do not control. This Policy does not apply to the practices of third parties that OpenDNS does not own or control, or to individuals that OpenDNS does not employ or manage. The privacy and security practices of websites linked to or from OpenDNS websites are not covered by this Privacy Policy, and OpenDNS is not responsible for the privacy or security practices or the content of such websites.
+These choices do not apply to the receipt of mandatory service communications that are considered part of certain Solutions, which you may receive periodically unless you cancel the Solution in accordance with its terms and conditions. We may share your personal information with Cisco business partners or vendors, so they may share information about products or services that may be of interest to you. To opt-out of this sharing with third parties for their marketing purposes, [click here](https://grs.cisco.com/grsx/cust/grsCustomerSurvey.html?SurveyCode=4201&KeyCode=163891_6).
 
-#### Privacy of Minors
+By using our websites or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the websites. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on our websites or by sending an email to you. You may have a legal right to receive this notice in writing. To withdraw your consent from receiving electronic notice of a security breach, please notify us. 
 
-OpenDNS recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. Our Websites and Services are not intended for children. We do not knowingly collect Personal Information from anyone under the age of 13.
+back to top
 
-#### Data Security
+### Sharing Your Personal Information
 
-We restrict access to Personal Information collected about you at our Websites to our employees, our affiliates’ employees, those who are otherwise specified in this Policy, or others who need to know that information to provide the Services to you or in the course of conducting our business operations or activities. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). While no website can guarantee security, we maintain appropriate physical, electronic, and procedural safeguards to protect your Personal Information collected via the website. We protect our databases with various physical, technical and procedural measures and we restrict access to your information by unauthorized persons. We also advise all OpenDNS employees about their responsibility to protect customer data and we provide them with appropriate guidelines for adhering to our company’s business ethics standards and confidentiality policies. Inside OpenDNS, data is stored in password-controlled servers with limited access. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [opendns-contact@cisco.com](mailto:opendns-contact@cisco.com).
+We may share your personal information with third parties for the purposes of operating our business, delivering, improving and customizing our Solutions, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law or with your consent. We may share personal information in the following ways: 
 
-#### Visiting our Website from Outside of the United States
+  * Within Cisco or with any of our worldwide subsidiaries for purposes of data processing or storage. 
+  * With Cisco business partners or vendors, so that they may share information with you about their products or services. To opt-out of Cisco sharing with third parties for their marketing purposes, [click here](https://grs.cisco.com/grsx/cust/grsCustomerSurvey.html?SurveyCode=4201&KeyCode=163891_6). 
+  * With business partners, service vendors, authorized third-party agents, or contractors to provide a requested service or transaction. Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, hosting seminar registration, assisting with sales-related efforts or post-sales support, and providing customer support. 
+  * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company. 
+  * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process.
+  * With law enforcement officials, government authorities, or other third parties as necessary to protect the rights, property, or safety of Cisco, its business partners, you, or others, or as otherwise required by applicable law. 
+  * In aggregated and/or anonymized form which cannot reasonably be used to identify you. 
+  * If we otherwise notify you and you consent to the sharing.
 
-If you are visiting our Websites from outside of the United States or otherwise contacting us from outside of the United States, please be aware that your Personal Information may be transferred to, stored or processed in the United States, where many of our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our Services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-#### Social Media Features and Widgets
 
-Our Web Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+back to top
 
-#### Privacy Policy Changes
+### Security of Your Personal Information
 
-We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this Policy we will post those changes to this privacy policy on the home page and other places we deem appropriate, prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
+We intend to protect the personal information entrusted to us and treat it securely in accordance with this Privacy Statement. Cisco implements physical, administrative, and technical safeguards to help protect your personal information from unauthorized access, use, or disclosure. We also require that our suppliers protect such information from unauthorized access, use and disclosure. The Internet, however, cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any personal information you provide to us. 
 
-#### General Terms and Conditions of Use
+back to top
 
-The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at <https://www.opendns.com/terms-of-service/>
+### Retention of Personal Information
 
-#### Effective Date of This Privacy Policy
+We will retain your personal information as needed to fulfill the purposes for which it was collected. We will retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-This Privacy Policy was first effective as of July 22, 2007.  
-This Privacy Policy was last updated on February 10, 2015.
+### Use of Cookies and other Web Technologies
+
+Like many websites, Cisco uses automatic data collection tools, such as cookies, embedded web links, and web beacons. These tools collect certain standard information that your browser sends to our website such as your browser type and the address of the website from which you arrived at our website. They may also collect information about: 
+
+  * **Your Internet Protocol (IP) address**. This is a number automatically assigned to your computer whenever you are surfing the web. It allows web servers to locate and identify your computer, this is a unique address assigned to your PC by your Internet service provider or information systems department on a TCP/IP network. 
+  * **Clickstream behavior.** For example, the pages you view and the links you click. 
+
+
+
+These tools help make your visit to our website easier, more efficient, and more valuable by providing you with a customized experience and recognizing you when you return. For more information about how we use automatic data collection tools, such as cookies and widgets, and your choices in relation to these tools, please see our [Cookie Policy](https://web.archive.org/web/siteassets/legal/adct.html). 
+
+Our website includes widgets, which are interactive mini-programs that run on our site to provide specific services from another company (such as displaying the news, opinions, music, and more). Personal information, such as your email address, may be collected through the widget. Cookies may also be set by the widget to enable it to function properly. Information collected by this widget is governed by the privacy policy of the company that created it. Our widget may have an import contacts feature to help you email your contacts. At your request, we will search your email address book to help you import your contacts to our website. 
+
+Some web browsers may give you the ability to enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. This is different than blocking or deleting cookies, as browsers with a "do not track" feature enabled may still accept cookies. There is currently no industry standard for how companies should respond to "do not track" signals, although one may develop in the future. We do not respond to "do not track" signals at this time. If we do so in the future, we will describe how in this Privacy Statement. Learn more information about ["do not track"](http://allaboutdnt.com/). 
+
+We partner with third parties to either display advertising on our website or to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you with advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note, generic, non-personalized ads will continue to be displayed. 
+
+back to top
+
+### Linked Websites
+
+We may provide links to other third-party websites and services that are outside our control and not covered by this Privacy Statement. We encourage you to review the privacy statements posted on those websites (and all websites) you visit. 
+
+back to top
+
+### Forums and Chat Rooms
+
+If you participate in a discussion forum, local communities, or chat room on a Cisco website, you should be aware that the information you provide there (i.e. your public profile) will be made broadly available to others, and could be used to contact you, send you unsolicited messages, or for purposes neither Cisco nor you have control over. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Cisco is not responsible for the personal information or any other information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at privacy@cisco.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+back to top
+
+### Children's Privacy
+
+Cisco encourages parents and guardians to take an active role in their children's online activities. Cisco does not knowingly collect personal information from children without proper parental or guardian consent. If you believe that we may have collected personal information from someone under the applicable age of consent in your country without parental or guardian consent, please let us know using the methods described in the Contact Us section and we will take appropriate measures to investigate and address the issue promptly. 
+
+back to top
+
+### Consent to Transfer, Processing and Storage of Personal Information
+
+As Cisco is a global organization, we may transfer your personal information to Cisco in the United States of America, to any Cisco subsidiary worldwide, or to third parties and business partners as described above. By using our websites and Solutions or providing any personal information to us, where applicable law permits, you consent to the transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different. 
+
+Cisco safeguards and enables the global transfer of personal information in a number of ways. 
+
+#### APEC Privacy Certification
+
+On July 26, 2016, TRUSTe certified our global privacy program under the Asia Pacific Economic Cooperation (APEC) Cross-Border Privacy Rules System (CBPRs). The CBPRs provides a framework for organizations to protect personal information transferred globally and among participating APEC economies. Cisco's privacy practices described in this Privacy Statement comply with the CBPRs. Our certification by the U.S. APEC Accountability Agent, TRUSTe, applies to our business processes across our global operations that process and transfer personal information to/from our affiliates around the world. 
+
+In order to view our certification with TRUSTe please visit the validation page visible by clicking on the [TRUSTe seal](https://privacy.truste.com/privacy-seal/validation?rid=a7d0a4fc-6957-4c26-963d-e0c76d034f08 "TRUSTe Privacy Certification"). If you have an unresolved privacy or personal data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. [NOTE: TRUSTe's Dispute Resolution process is only available in English.]
+
+#### EU-US / Swiss-US Safe Harbor Certification
+
+Cisco is certified under the U.S.-E.U. and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, processing, and retention of personal data from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view Cisco's certification, please visit the [Safe Harbor](http://www.export.gov/safeharbor/) site. 
+
+Following the ruling of the European Court of Justice on October 6, 2015 regarding the validity of Safe Harbor, and in light of evolving regulatory frameworks, Cisco does not rely solely on the Safe Harbor for international data transfers of EU personal data, but remains compliant with the Safe Harbor Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We intend to participate in additional frameworks, codes of conduct, and/or certifications recognized by relevant regulatory authorities to legally enable global personal data transfers. 
+
+back to top
+
+### Your California Privacy Rights
+
+Residents of the State of California, under California Civil Code § 1798.83, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
+
+Cisco qualifies for the alternative option. We have a comprehensive privacy statement, and provide you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year. 
+
+If you are a California resident and request information about how to exercise your third party disclosure choices, please [email us your request](mailto:privacy@cisco.com). 
+
+back to top
+
+### How to Contact Us
+
+We value your opinions. Should you have questions or comments related to this Privacy Statement, please [email our privacy team](mailto:privacy@cisco.com). 
+
+back to top
+
+### Updates to this Cisco Privacy Statement
+
+We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here, with an updated revision date. You agree to visit these pages periodically to be aware of and review any such revisions. If we make material changes to our Privacy Statement, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them. 
+
+### The Cisco Privacy Statement was revised and posted as of July 26, 2016. 
+
+Click here for the [previous version of the privacy statement](https://web.archive.org/web/siteassets/legal/privacy_full_previous.html). 
