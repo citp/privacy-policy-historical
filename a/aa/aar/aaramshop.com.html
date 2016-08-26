@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aaramshop.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406032246id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aaramshop.com privacy policy that was archived on 2016-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160826100500id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,16 +13,15 @@
     <link rel="stylesheet" type="text/css" href="https://www.aaramshop.com/themes/default/css/google_font.css?family=Open+Sans:400,300,600,700" media="screen">
     <link rel="stylesheet" type="text/css" href="https://www.aaramshop.com/themes/default/css/style.css" media="screen">
     <link rel="stylesheet" type="text/css" href="https://www.aaramshop.com/themes/default/css/font-awesome.min.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="https://www.aaramshop.com/themes/default/css/rating.min.css" media="screen">
     <link rel="stylesheet" type="text/css" href="https://www.aaramshop.com/themes/default/css/polyglot-language-switcher.css" media="screen">
-    
-    <meta property="og:image" content="https://www.aaramshop.com/themes/default/images/logo.jpg">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+          <meta property="og:image" content="https://www.aaramshop.com/themes/default/images/logo.jpg">
+      <link rel="image_src" type="image/jpeg" href="https://www.aaramshop.com/themes/default/images/logo.jpg">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="Cache-Control" content="public">
-    <meta name="robots" content="noodp">
     <meta name="expires" content="never">
     <meta name="p:domain_verify" content="978fef0be31154b328a8b953ad4c79c3">
     <link rel="shortcut icon" href="https://www.aaramshop.com/favicon.ico">
+    <link rel="manifest" href="https://www.aaramshop.com/gcm/manifest.json">
     
     <!-- Google Analytics -->
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
@@ -39,7 +38,7 @@
     
   </head>
 
-  <body class="modal-open2">
+  <body class="modal-open2" style="overflow-x:hidden;">
     <div class="page-header-menu mobileheader">
       <header class="top1">
         <div class="topmenu">
@@ -51,7 +50,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a href="https://www.aaramshop.com/" class="logo"><img src="https://www.aaramshop.com/themes/default/images/logo.jpg" alt="AaramShop" width="59" height="77" title="AaramShop" class="" id="" style=""></a>
+              <a href="https://www.aaramshop.com/" class="logo"><img src="https://www.aaramshop.com/themes/default/images/aaramshop_logo.png" alt="AaramShop" width="59" height="77" title="AaramShop" class="" id="" style=""></a>
             </div>
             <nav id="bs-navbar" class="collapse navbar-collapse pull-left">  
               <ul class="nav navbar-nav line-menu">
@@ -62,10 +61,16 @@
                                   <li class=""><a href="#loginopt2" class="myac" id="my_account_href" data-toggle="modal">My Account</a></li>
                               </ul>
             </nav> 
-            <div class="pull-right rightbar-top col-md-6">
+            <div class="pull-right rightbar-top col-xs-12 col-sm-12 col-md-5 col-lg-6">
               <div class="search_top">
                 <form method="post" id="global_search_form" name="global_search_form" action="https://www.aaramshop.com/search">
-                  <input type="search" value="" name="search_term" class="serch_style" onkeyup="global_search();" id="search_term" placeholder="Search a product or store">
+                                      <span id="global_pincode_text">
+                                                                    <span style="color:#7a7979;">Enter Pincode </span>
+                                          </span>
+                    <span id="global_pincode">
+                                                                        <input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode1" id="your_pincode1" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode2" id="your_pincode2" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode3" id="your_pincode3" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode4" id="your_pincode4" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode5" id="your_pincode5" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" class="pincode-textbox" onkeypress="return isNumber(event)" name="your_pincode6" id="your_pincode6" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);">
+                                                                  </span>
+                                    <input type="search" value="" name="search_term" class="serch_style" onkeyup="global_search();" id="search_term" placeholder="Search a product">
                 </form>
               </div>
               <div class="col-md-12" id="global_display"></div>
@@ -80,10 +85,12 @@
                         </div>
                       </li>
                                         
-                                          <li class="hide_phone">Already a member ?</li>
-                      <li class="login-icon1"><a href="#loginopt2" class="loginbtn icon-btn" data-toggle="modal"><span class="login-icon"></span></a></li>
-                      <li class="hide_phone"><a href="#loginopt2" class="loginbtn" data-toggle="modal">Log in</a></li>  
-                      <li class="hide_phone"><a href="#signup" class="loginbtn" data-toggle="modal">Signup</a></li>  
+                                          <span id="after_login">
+                        <li class="hide_phone">Already a member ?</li>
+                        <li class="login-icon1"><a href="#loginopt2" class="loginbtn icon-btn" data-toggle="modal"><span class="login-icon"></span></a></li>
+                        <li class="hide_phone"><a href="#loginopt2" class="loginbtn" data-toggle="modal">Log in</a></li>  
+                        <li class="hide_phone"><a href="#signup" class="loginbtn" data-toggle="modal">Signup</a></li> 
+                      </span> 
                                        
                   </ul>
                 </div>
@@ -98,45 +105,38 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-2 hide_phone">
-        <div class="new-slider4">
-          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <a href="https://www.aaramshop.com/product/premium_brand/breakfaststore"><img src="https://www.aaramshop.com/themes/default/images/banner/b3.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/partystore"><img src="https://www.aaramshop.com/themes/default/images/banner/b9.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/fortunevivo">
-                  <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/fortunevivo/fortune_vivo160x600.png" title="Fortune Vivo"></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product-detail/7-up-nimbooz-masala-soda-500ml">
-                  <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/nms/nms_aaramshop160x600.jpg" title="7 UP Nimbooz Masala Soda"></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/vivel-love-nourish"><img src="https://www.aaramshop.com/themes/default/images/banner/b1.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/fiama"><img src="https://www.aaramshop.com/themes/default/images/banner/b4.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/keratex"><img src="https://www.aaramshop.com/themes/default/images/banner/b5.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/partystore"><img src="https://www.aaramshop.com/themes/default/images/banner/b8.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/meswak"><img src="https://www.aaramshop.com/themes/default/images/banner/b6.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
-              <div class="item">
-                <a href="https://www.aaramshop.com/product/premium_brand/partystore"><img src="https://www.aaramshop.com/themes/default/images/banner/b7.jpg" alt="" width="" height="" title="" class="" id="" style=""></a>
-              </div>
+                  <div class="new-slider4">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner" role="listbox">
+                                                  <div class="item active">
+                    <a href="https://www.aaramshop.com/product/premium_brand/bikajifoods">
+                      <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/5/1466678249.jpg" title="Bikaji" alt="Bikaji">
+                    </a>
+                  </div>
+                                                    <div class="item">
+                    <a href="https://www.aaramshop.com/product/premium_brand/breakfaststore">
+                      <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/8/1466744140.jpg" title="Breakfast Store" alt="Breakfast Store">
+                    </a>
+                  </div>
+                                                    <div class="item">
+                    <a href="https://www.aaramshop.com/product/premium_brand/partystore">
+                      <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/1/1466664507.jpg" title="Party Store" alt="Party Store">
+                    </a>
+                  </div>
+                                                    <div class="item">
+                    <a href="https://www.aaramshop.com/product/premium_brand/keratex">
+                      <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/3/1466744997.jpg" title="Keratex" alt="Keratex">
+                    </a>
+                  </div>
+                                                    <div class="item">
+                    <a href="https://www.aaramshop.com/product/premium_brand/partystore">
+                      <img src="https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/banner/1/1466685961.jpg" title="Party Store" alt="Party Store">
+                    </a>
+                  </div>
+                                                </div>
             </div>
           </div>
-        </div>
-      </div>
+              </div>
               <div class="col-xs-12 col-sm-10" id="pages">
           <div class="row">
             <div class="col-xs-12">
@@ -238,7 +238,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
 <script type="text/javascript" src="https://www.aaramshop.com/themes/default/js/jquery-ui.js"></script>
 <script type="text/javascript" src="https://www.aaramshop.com/themes/default/js/owl.carousel.js"></script>
 <script type="text/javascript" src="https://www.aaramshop.com/themes/default/js/custom.js"></script>
-<script src="//maps.googleapis.com/maps/api/js?v=3&amp;libraries=places"></script>
+<script src="//maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyBy3lrsBc3hJcm5KjH26rBtbddStqxeuKc&amp;libraries=places"></script>
 <script>
   // $("img.lazy").each(function() {
     // $(this).attr("data-original",$(this).attr("src")).removeAttr("src");
@@ -285,6 +285,26 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
     });
   });
  </script>
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_pagetype: 'other'
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1020814235;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1020814235/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 <script type="text/javascript" charset="utf-8"> 
   $(function() {
     $(document).scrollTop( $("#pages").offset().top );  
@@ -386,6 +406,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                   <h3>Customer Service</h3>
                   <ul>
                     <li><a href="https://www.aaramshop.com/pages/contact-us">Contact Us</a></li>
+                    <li><a href="https://www.aaramshop.com/pages/faqs">FAQs</a></li>
                   </ul>
                 </div>
               </div>
@@ -406,10 +427,10 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 <div class="footerlist">
                   <h3>My Account</h3>
                   <ul>
-                                          <li><a href="#loginopt2" data-toggle="modal">My Profile</a></li>
-                      <li><a href="#loginopt2" data-toggle="modal">My Order History</a></li>
-                      <li><a href="#loginopt2" data-toggle="modal">My Shopping Lists</a></li>
-                      <li><a href="#loginopt2" data-toggle="modal">My Wallet</a></li>
+                                          <li><a href="#loginopt2" id="account_url" data-toggle="modal">My Profile</a></li>
+                      <li><a href="#loginopt2" id="account_url_oh" data-toggle="modal">My Order History</a></li>
+                      <li><a href="#loginopt2" id="account_url_sl" data-toggle="modal">My Shopping Lists</a></li>
+                      <li><a href="#loginopt2" id="account_url_wallet" data-toggle="modal">My Wallet</a></li>
                                       </ul>
                 </div>
               </div>
@@ -446,6 +467,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
             <a href="https://twitter.com/aaramshop" target="_blank"><img src="https://www.aaramshop.com/themes/default/images/twitter.jpg" alt="AaramShop Twitter" width="31" height="32" title="AaramShop Twitter" class="lazy" id="" style=""></a>
             <a href="https://plus.google.com/106299004496265097446" target="_blank"><img src="https://www.aaramshop.com/themes/default/images/google-plus.jpg" alt="AaramShop Google Plus" width="31" height="32" title="AaramShop  Google Plus" class="lazy" id="" style=""></a>
             <a href="https://www.pinterest.com/vijaysingh/aaramshop/" target="_blank"><img src="https://www.aaramshop.com/themes/default/images/printrest.jpg" alt="AaramShop Pinterest" width="31" height="32" title="AaramShop Pinterest" class="lazy" id="" style=""></a>
+            <a href="https://www.instagram.com/aaramshopindia/" target="_blank"><img src="https://www.aaramshop.com/themes/default/images/instagram.png" alt="AaramShop Instagram" width="31" height="32" title="AaramShop Instagram" class="lazy" id="" style=""></a>
           </div>
         </div>
       </div>
@@ -641,7 +663,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 </div>
 
                 <div class="india-code">
-                  <input type="password" name="password" id="password" value="" class="signup-inpt pass-inpt" placeholder="Password">
+                  <input type="password" name="password" id="password" value="" class="signup-inpt pass-inpt" placeholder="Password/Verification Code">
                 </div>
                 <div class="india-code">
                   <input type="checkbox" name="remember" id="remember" class="pull-left" value="1">
@@ -701,10 +723,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
         <div class="send-msg"><p id="msg5"></p></div>
       </div>
     </div>
-      <!--OTP end-->
-    <div id="offer" class="modal fade" tabindex="-1" style="display:none; " align="center">
-      
-    </div>
+    
     <!--signup start-->
     <div id="signup" class="modal fade" tabindex="-1" style="display: none;">
       <div class="modal-body modal-bodywidth">
@@ -868,24 +887,54 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
       </div>
     </div>
     <!--home store confirm end-->
+
+    <div id="store_product_url" class="modal fade" tabindex="-1" style="display:none;" align="center">
+      <div class="modal-body modal-bodywidth" style="min-height:0px;">
+        <div class="signup-popup" style="min-height:150px;">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="signup-header" style="background:none;">
+                <h3 class="text-center" style="font-size:18px; padding-top:20px;">Product successfully added to cart!</h3>
+                <h3 class="text-center" style="font-size:14px; padding-top:10px;">Browse more products from <span id="store_name_qty"></span> or continue to checkout</h3>
+              </div>
+              <div class="col-md-6">
+                <div class="india-code" id="signupbtn">
+                  <a href="https://www.aaramshop.com/cart" style="text-decoration:none;">
+                    <input type="button" name="button" value="Checkout" class="signup-inpt signup-inptbtn">
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="india-code" id="signupbtn">
+                  <a href="" id="store_code_qty" style="text-decoration:none;">
+                    <input type="button" name="button" value="Go To Store" class="signup-inpt signup-inptbtn">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     
     <script type="text/javascript">
-      $.fn.pressEnter = function(fn) {  
-
-      return this.each(function() {  
-        $(this).bind('enterPress', fn);
-        $(this).keyup(function(e){
-          if(e.keyCode == 13){
-            $(this).trigger("enterPress");
-          }
-        })
-      });  
-     }; 
-
-    //use it:
-
-    $('.pass-inpt').pressEnter(function(){login()});
-    $('.username-inpt').pressEnter(function(){login()});
+      $.fn.pressEnter = function(fn) {
+        return this.each(function() {  
+          $(this).bind('enterPress', fn);
+          $(this).keyup(function(e){
+            if(e.keyCode == 13){
+              $(this).trigger("enterPress");
+            }
+          })
+        });  
+      }; 
+      $('#password').pressEnter(function(){login()});
+      $('#username').pressEnter(function(){login()});
+      $('#username1').pressEnter(function(){forget()});
+      $('#otp').pressEnter(function(){otp_validate()});
+      $("#mobile").pressEnter(function(){signup()});
+      $("#shopper_name").pressEnter(function(){signup()});
       var autocomplete2 = new google.maps.places.Autocomplete(document.getElementById('other_locality_name'), {componentRestrictions: {country: 'in'}});
       google.maps.event.addListener(autocomplete2, 'place_changed', function() {
         fillInAddress1();
@@ -946,9 +995,136 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
         $(".ui-autocomplete").css('z-index','1000');
         $(".ui-autocomplete").css('background-color','#FFFFFF');
       });
+    var regPostcode = /^[1-9]{1}[0-9]{5}$/;
     </script>
     
     <script type="text/javascript">
+      function getPincode(val,id) {
+        if(id == 'your_pincode6') {
+          var your_pincode = document.getElementById('your_pincode1').value+document.getElementById('your_pincode2').value+document.getElementById('your_pincode3').value+document.getElementById('your_pincode4').value+document.getElementById('your_pincode5').value+document.getElementById('your_pincode6').value;
+          if(your_pincode.length == 6) {
+            if(!regPostcode.test(your_pincode)) { 
+              alert('Pleae enter valid Pincode');
+              $("#your_pincode1").val('');
+              $("#your_pincode2").val('');
+              $("#your_pincode3").val('');
+              $("#your_pincode4").val('');
+              $("#your_pincode5").val('');
+              $("#your_pincode6").val('');
+              $("#your_pincode1").focus();
+              return false;
+            } else {
+              $.ajax({  
+                type: "POST",
+                dataType: "json",
+                url: "https://www.aaramshop.com/stores/savePincode",
+                data: "your_pincode="+your_pincode,
+                success: function(theResponse) {
+                  if(theResponse['status']==1) {
+                    var pathname = window.location.pathname;
+                    if(pathname.indexOf('product-detail') > -1) {
+                      window.location.reload();
+                    } else if(pathname.indexOf('aaram-shop/store-locator') > -1) {
+                      $("#location_search").val(your_pincode);
+                      $("#search_pincode").val(your_pincode);
+                      document.store_search.submit();
+                    } else if(pathname.indexOf('offers') > -1) {
+                      $("#location_search").val(your_pincode);
+                      $("#search_pincode").val(your_pincode);
+                      document.store_search.submit();
+                    } else if(pathname.indexOf('coupons') > -1) {
+                      $("#location_search").val(your_pincode);
+                      $("#search_pincode").val(your_pincode);
+                      document.store_search.submit();
+                    } else if(pathname.indexOf('offer-on-product') > -1) {
+                      $("#location_search").val(your_pincode);
+                      $("#search_pincode").val(your_pincode);
+                      document.store_search.submit();
+                    } else if(pathname.indexOf('store-with-coupon') > -1) {
+                      $("#location_search").val(your_pincode);
+                      $("#search_pincode").val(your_pincode);
+                      document.store_search.submit();
+                    } else {
+                      if(pathname.indexOf('/') > -1) {
+                        $("#location_search").val(your_pincode);
+                      }
+                      $("#global_pincode_text").html(theResponse['global_pincode_text']);
+                      $("#global_pincode").html('<b style="color:red;">'+your_pincode+'</b><i class="fa fa-pencil fa-fw" aria-hidden="true" onclick="changePin();" style="cursor:pointer;"></i>');
+                    }
+                  } else {
+                    alert('Pleae enter valid Pincode');
+                    $("#your_pincode1").val('');
+                    $("#your_pincode2").val('');
+                    $("#your_pincode3").val('');
+                    $("#your_pincode4").val('');
+                    $("#your_pincode5").val('');
+                    $("#your_pincode6").val('');
+                    $("#your_pincode1").focus();
+                  }
+                }  
+              });
+            }
+          }
+        } else {
+            var self = val;
+            setTimeout(function() {
+              if (self.length > 0) {
+                var break_num = id.split("your_pincode");
+                var new_id = parseInt(break_num[1]) + 1;
+                $('#your_pincode'+new_id).focus();
+              }
+          }, 1);
+        }
+      }
+
+      function changePin() {
+        $.ajax({  
+            type: "POST",  
+            url: "https://www.aaramshop.com/stores/clearPincode",
+            data: "",
+            success: function(theResponse) {
+              if(parseInt(theResponse)==1) {
+                var content = '<input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode1" id="your_pincode1" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode2" id="your_pincode2" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode3" id="your_pincode3" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode4" id="your_pincode4" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode5" id="your_pincode5" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);"><input type="text" required="required" class="pincode-textbox" onKeyPress="return isNumber(event)" name="your_pincode6" id="your_pincode6" maxlength="1" autocomplete="off" onkeyup="getPincode(this.value,this.id);">';
+                document.getElementById('global_pincode_text').innerHTML = 'Enter Pincode';
+                document.getElementById('global_pincode').innerHTML = content;
+                document.getElementById('your_pincode1').focus();
+                var pathname = window.location.pathname;
+                if(pathname.indexOf('product-detail') > -1) {
+                  $("#availabilityCheck").val('');
+                }
+
+                if(pathname.indexOf('/') > -1) {
+                  $("#search_pincode").val('');
+                }
+              } 
+            }  
+        });
+      }
+      
+      function search_submit() {
+        var flag=true;
+        var location_search = $("#location_search").val();
+        if(location_search=="") {
+          alert('Please enter Pincode');
+          $("#location_search").focus();
+          flag=false;
+          return false;
+        }
+
+        if(location_search.length != 6) {
+          alert('Please enter 6 digit Pincode');
+          $("#location_search").focus();
+          flag=false;
+          return false;
+        }
+        if(flag) {
+          document.store_search.submit();
+          return true;
+        } else {
+          return false;
+        } 
+      }
+
       function enableOtherD(val) {
           if(val=='Other') {
             $("#span_other_address").css('display','block');
@@ -1032,7 +1208,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 $("#msg1").html(theResponse['msg']);
                 $('#loginbtn').html('<input type="button" name="button" value="Login" class="signup-inpt signup-inptbtn" placeholder="" onclick="login()">');                   
               } else if (theResponse['verified']==0) {
-                 var mobile=theResponse['shopper_mobile'];
+                var mobile=theResponse['shopper_mobile'];
                 var shopper_id=theResponse['shopper_id'];
                 $("#mobile1").val(mobile);
                 $("#shopper_id").val(shopper_id);
@@ -1040,8 +1216,14 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 $(".send-msg").hide();
                 $("#otp-verification").modal("show");
                 $('#loginbtn').html('<input type="button" name="button" value="Login" class="signup-inpt signup-inptbtn" placeholder="" onclick="login()">');                   
-              }
-              else if(theResponse['shopper_address_count']==0) {
+              } else if(theResponse['shopper_address_count']==0) {
+                $("#my_account_href").attr('href',"https://www.aaramshop.com/account");
+                $("#home_store_href").attr('href',"https://www.aaramshop.com/stores");
+                $("#after_login").html("<li>Welcome Shopper </li><li><a href='https://www.aaramshop.com/account/logout'' class='loginbtn' data-toggle='modal'>Logout</a></li>");
+                $("#account_url").attr('href',"https://www.aaramshop.com/account");
+                $("#account_url_oh").attr('href',"https://www.aaramshop.com/account?location=order_history");
+                $("#account_url_sl").attr('href',"https://www.aaramshop.com/account?location=shopping_list");
+                $("#account_url_wallet").attr('href',"https://www.aaramshop.com/account?location=wallet");
                 $('#shopper_state').append($('<option/>').attr("value","0").text("Select State"));
                 for (var i = 0, len = theResponse['states'].length; i < len; ++i) {
                   var prj = theResponse['states'][i];
@@ -1049,6 +1231,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 }
                 var mobile=theResponse['shopper_mobile'];
                 var shopper_id=theResponse['shopper_id'];
+
                 $("#mobile1").val(mobile);
                 $("#shopper_id1").val(shopper_id);
                 $("#msg1").html('');
@@ -1089,14 +1272,12 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
           $("#shopper_name").focus();
           return false;
         } else {
-
           var html="";
           html +='<button value="Submit" class="signup-inpt signup-inptbtn" placeholder="" onclick="signup()" disabled>';
           html +='Submit';
           html +='<img src="https://www.aaramshop.com/images/ajax_loader.gif" class="lazy" alt="loader" title="loader" align="right"  />';
           html +='</button>';
           $('#signupbtn').html(html);
-          
           $.ajax({
             type: "POST",
             dataType: "json",
@@ -1114,10 +1295,9 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                 $("#loginopt2").modal("show");
                 $(".send-msg").show();
                 $("#msg1").html('');
-                $("#msg1").html('User is Already Registred');
+                $("#msg1").html('User is Already Registered');
                 $('#signupbtn').html('<input type="button" name="button" value="Submit" class="signup-inpt signup-inptbtn" placeholder="" onclick="signup()">');                   
               } else if(mobile_verified==0) {
-                
                 $("#signup").modal("hide");   
                 $("#loginopt2").modal("hide");                
                 $("#otp-verification").modal("show");
@@ -1175,17 +1355,21 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                     if(theResponse['msg']!='') {
                       $('#validatebtn').html('<input type="button" name="button" value="Validate OTP" class="signup-inpt signup-inptbtn" placeholder="Enter OTP" onclick="otp_validate();">');            
                       $(".send-msg").show();
-              
                       $("#msg5").html('');
                       $("#msg5").html(theResponse['msg']);
-                    } 
-                    else if(theResponse['shopper_address_count']==0) {
+                    } else if(theResponse['shopper_address_count']==0) {
+                      $("#my_account_href").attr('href',"https://www.aaramshop.com/account");
+                      $("#home_store_href").attr('href',"https://www.aaramshop.com/stores");
+                      $("#after_login").html("<li>Welcome Shopper </li><li><a href='https://www.aaramshop.com/account/logout'' class='loginbtn' data-toggle='modal'>Logout</a></li>");
+                      $("#account_url").attr('href',"https://www.aaramshop.com/account");
+                      $("#account_url_oh").attr('href',"https://www.aaramshop.com/account?location=order_history");
+                      $("#account_url_sl").attr('href',"https://www.aaramshop.com/account?location=shopping_list");
+                      $("#account_url_wallet").attr('href',"https://www.aaramshop.com/account?location=wallet");
                       $("#otp-verification").modal("hide");
                       $('#shopper_state').append($('<option/>').attr("value","0").text("Select State"));
                       for (var i = 0, len = theResponse['states'].length; i < len; ++i) {
                         var prj = theResponse['states'][i];
                         $('#shopper_state').append($('<option/>').attr("value", prj['state_id']).text(prj['state_name']));
-
                       }
                       var mobile=theResponse['shopper_mobile'];
                       var shopper_id=theResponse['shopper_id'];
@@ -1194,20 +1378,15 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                       $("#msg1").html('');
                       $("#otp-verification").modal("hide");
                       $(".send-msg").hide();
-                      
-                      //$("#loginopt2").modal("hide");
                       $("#select-address").modal("show");
-
                     } else {
                       window.location.href="https://www.aaramshop.com/"+theResponse['redirect_to'];
                     }
                   }
-                });  
-
+                });
               } else {
                 $('#validatebtn').html('<input type="button" name="button" value="Validate OTP" class="signup-inpt signup-inptbtn" placeholder="Enter OTP" onclick="otp_validate();">');
                 $(".send-msg").show();
-            
                 $("#msg5").html('');
                 $("#msg5").html('Mobile Not Verified');
               }
@@ -1691,7 +1870,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                       html += '</div>';
                     html += '</div>';
                   }
-                  if(theResponse.stores != '') {
+                  /*if(theResponse.stores != '') {
                     html += '<div class="row spacet10" style="height:185px;">';
                       html += '<div class="col-xs-12">';
                         html += '<div class="menue-text">';
@@ -1735,7 +1914,7 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
                         html += '</li>';
                       html += '</ul>';
                     html += '</div>';
-                  }
+                  }*/
                 html += '</div>';
                 $('#global_display').html(html);
               } else {
@@ -1772,24 +1951,33 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
         
       }
 
-      function addtoCart(store_id,id,offer_type,offer_price,image) {
-        var name = escape($("#name_"+id).val());
+      function setRedirect(id) {
+        $("#redirect").val(id);
+      }
+
+      function addtoCart(store_id,product_id,offer_id,offer_type,offer_price,product_price) {
+        var name = escape($("#name_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var image = escape($("#image_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var offer_description = '';
+        if(offer_type==6) {
+          offer_description = $("#offer_description_"+offer_id).html();
+        }
         if(store_id>0) {
-          var sname = escape($("#store_name_"+store_id).val());
+          var sname = escape($("#store_name_"+product_id+"_"+store_id+"_"+offer_id).val());
         } else {
           var sname = '';
         }
-        var qty  = parseInt($("#qty_"+id).val());
+        var qty  = parseInt($("#qty_"+product_id+"_"+store_id+"_"+offer_id).val());
         if(qty==0) {
           qty=1;
         }
         $.ajax({
           type: "POST",
           url: "https://www.aaramshop.com/cart/addToCart",
-          data: "name="+name+"&id="+id+"&price="+offer_price+"&qty="+qty+"&image_name="+escape(image)+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type,
+          data: "name="+name+"&product_id="+product_id+"&offer_id="+offer_id+"&product_price="+product_price+"&offer_price="+offer_price+"&qty="+qty+"&image_name="+image+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type+"&offer_description="+offer_description,
           success: function(theResponse) {
-            $("#qty_"+id).val(parseInt(qty));
-            $("#cart_icon_gray_"+id).addClass("cart-icon1").removeClass("cart-icon");
+            $("#qty_"+product_id+"_"+store_id+"_"+offer_id).val(parseInt(qty));
+            $("#cart_icon_gray_"+product_id+"_"+store_id+"_"+offer_id).addClass("cart-icon1").removeClass("cart-icon");
             var url1 = "https://www.aaramshop.com/cart/cartQty";
             $('.countnumber').load(url1);  
             var url = "https://www.aaramshop.com/cart/cartItems";
@@ -1797,51 +1985,71 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
           }
         });
       }
-      function setRedirect(id) {
-        $("#redirect").val(id);
-      }
 
-      function changePlusQty(store_id,id,offer_type,offer_price,image) {
-        var name = escape($("#name_"+id).val());
-        if(store_id>0) {
-          var sname = escape($("#store_name_"+store_id).val());
-        } else {
-          var sname = '';
+      function changePlusQty(store_id,product_id,offer_id,offer_type,offer_price,product_price) {
+        var name = escape($("#name_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var image = escape($("#image_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var offer_description = '';
+        if(offer_type==6) {
+          offer_description = $("#offer_description_"+offer_id).html();
         }
-        var qty  = parseInt($("#qty_"+id).val());
+        if(store_id>0) {
+          var sname = escape($("#store_name_"+product_id+"_"+store_id+"_"+offer_id).val());
+          var store_name = $("#store_name_"+product_id+"_"+store_id+"_"+offer_id).val();
+        } else {
+          var sname = store_name = '';
+        }
+        var qty  = parseInt($("#qty_"+product_id+"_"+store_id+"_"+offer_id).val());
         qty = parseInt(qty)+1;
         $.ajax({
           type: "POST",
           url: "https://www.aaramshop.com/cart/addToCart",
-          data: "name="+name+"&id="+id+"&price="+offer_price+"&qty="+qty+"&image_name="+escape(image)+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type,
+          data: "name="+name+"&product_id="+product_id+"&offer_id="+offer_id+"&product_price="+product_price+"&offer_price="+offer_price+"&qty="+qty+"&image_name="+image+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type+"&offer_description="+offer_description,
           success: function(theResponse) {
-            $("#qty_"+id).val(parseInt(qty));
-            $("#cart_icon_gray_"+id).addClass("cart-icon1").removeClass("cart-icon");
+            $("#qty_"+product_id+"_"+store_id+"_"+offer_id).val(parseInt(qty));
+            $("#cart_icon_gray_"+product_id+"_"+store_id+"_"+offer_id).addClass("cart-icon1").removeClass("cart-icon");
             var url1 = "https://www.aaramshop.com/cart/cartQty";
             $('.countnumber').load(url1);  
             var url = "https://www.aaramshop.com/cart/cartItems";
             $('#cart').load(url);
+            var url = document.URL;
+            if (url.indexOf('/product-detail/') > -1) {
+              if(parseInt(qty)==1) {
+                var store_code = $("#store_code_"+product_id+"_"+store_id+"_"+offer_id).val();
+                if(store_code != '') {
+                  store_code = "https://www.aaramshop.com/"+store_code;
+                  $("#store_code_qty").attr('href', store_code);
+                  $("#store_name_qty").html('<a href="'+store_code+'" style="font-weight:bold; color:#FFF;">'+store_name+'</a>');
+                  $("#store_product_url").modal("show");
+                }
+              }
+            }
           }
         });
       }
 
-      function changeMinusQty(store_id,id,offer_type,offer_price,image) {
-        var name = escape($("#name_"+id).val());
+      function changeMinusQty(store_id,product_id,offer_id,offer_type,offer_price,product_price) {
+        var name = escape($("#name_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var image = escape($("#image_"+product_id+"_"+store_id+"_"+offer_id).val());
+        var offer_description = '';
+        if(offer_type==6) {
+          offer_description = $("#offer_description_"+offer_id).html();
+        }
         if(store_id>0) {
-          var sname = escape($("#store_name_"+store_id).val());
+          var sname = escape($("#store_name_"+product_id+"_"+store_id+"_"+offer_id).val());
         } else {
           var sname = '';
         }
-        var qty  = parseInt($("#qty_"+id).val());
+        var qty  = parseInt($("#qty_"+product_id+"_"+store_id+"_"+offer_id).val());
         qty = parseInt(qty)-1;
         if(parseInt(qty)>0) {
           $.ajax({
             type: "POST",
             url: "https://www.aaramshop.com/cart/addToCart",
-            data: "name="+name+"&id="+id+"&price="+offer_price+"&qty="+qty+"&image_name="+escape(image)+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type,
+            data: "name="+name+"&product_id="+product_id+"&offer_id="+offer_id+"&product_price="+product_price+"&offer_price="+offer_price+"&qty="+qty+"&image_name="+escape(image)+"&store_name="+sname+"&store_id="+store_id+"&offer_type="+offer_type+"&offer_description="+offer_description,
             success: function(theResponse) {
-              $("#qty_"+id).val(parseInt(qty));
-              $("#cart_icon_gray_"+id).addClass("cart-icon1").removeClass("cart-icon");
+            $("#qty_"+product_id+"_"+store_id+"_"+offer_id).val(parseInt(qty));
+            $("#cart_icon_gray_"+product_id+"_"+store_id+"_"+offer_id).addClass("cart-icon1").removeClass("cart-icon");
               var url1 = "https://www.aaramshop.com/cart/cartQty";
               $('.countnumber').load(url1);  
               var url = "https://www.aaramshop.com/cart/cartItems";
@@ -1849,19 +2057,19 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
             }
           });
         } else {
-          $("#qty_"+id).val(parseInt(0));
-          deletefromCart(store_id,id);
+          $("#qty_"+product_id+"_"+store_id+"_"+offer_id).val(parseInt(0));
+          deletefromCart(store_id,product_id,offer_id,offer_type);
         }
       }
 
-      function deletefromCart(store_id,id) {
+      function deletefromCart(store_id,product_id,offer_id,offer_type) {
         $.ajax({
           type: "POST",
           url: "https://www.aaramshop.com/cart/deleteFromCart",
-          data: "store_id="+store_id+"&id="+id,
+          data: "store_id="+store_id+"&product_id="+product_id+"&offer_id="+offer_id+"&offer_type="+offer_type,
           success: function(theResponse) {
-            $("#qty_"+id).val(parseInt(0));
-            $("#cart_icon_gray_"+id).addClass("cart-icon").removeClass("cart-icon1");
+            $("#qty_"+product_id+"_"+store_id+"_"+offer_id).val(parseInt(0));
+            $("#cart_icon_gray_"+product_id+"_"+store_id+"_"+offer_id).addClass("cart-icon").removeClass("cart-icon1");
             var url1 = "https://www.aaramshop.com/cart/cartQty";
             $('.countnumber').load(url1);  
             var url = "https://www.aaramshop.com/cart/cartItems";
@@ -1901,23 +2109,24 @@ Recent updates to this Privacy Policy: 7th July 2013. There is an earlier versio
           }
         });
       });
+
+      //image uplaod
+      $(document).ready(function() {
+        $("#shopper_image_pro").on('click', function() { 
+        });
+
+        var base_url = 'https://www.aaramshop.com/';
+        $("#shopper_image_pro").AjaxFileUpload({ 
+          onComplete: function(filename, response) {
+            var image_path=response.name;
+            $("#img_path_pro").val(image_path);
+            $("#uploads_pro").html(
+            $("<img />").attr("src", "https://s3-ap-southeast-1.amazonaws.com/aaramservice.com/user/"+response.name).attr("width","50px").attr("class","img-responsive"));
+          }
+        });
+      });
       
     </script>
-    <!-- Google Code for Remarketing Tag -->
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1020814235;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1020814235/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
-    </noscript>
   
 
 </body></html>
