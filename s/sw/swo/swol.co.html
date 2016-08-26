@@ -1,700 +1,119 @@
-<!--The following is the downloaded HTML source of the swol.co privacy policy that was archived on 2014-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927164655id_/http%3A//swol.co/s/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swol.co privacy policy that was archived on 2016-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160826113135id_/http%3A//swol.co/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Privacy Policy | SWOL</title>
-        <meta name="keywords" content="SWOL, Soccer, Football, Futbol, Without Limits, Soccer Transfer, Soccer News, Soccer Analysis, Soccer Fantasy, Fantasy Challenge, Social">
-        <meta name="author" content="SWOL - Soccer Without Limits">
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head>
+		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" href="/static/img/SWOL_Striker_Black.jpg">
-        <link rel="apple-touch-icon" sizes="114x114" href="/static/img/SWOL_Striker_Black.jpg">
-        <link href="http://fonts.googleapis.com/css?family=Lato:300,700,900" rel="stylesheet" type="text/css">
-        
-		
-    <meta name="layout" content="main">
-    
-
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/plugins/jquery-1.11.0/js/jquery/jquery-1.11.0.min.js" type="text/javascript"></script>
-<link href="/static/plugins/jquery-ui-1.10.3/jquery-ui/themes/ui-lightness/jquery-ui-1.10.3.custom.css" type="text/css" rel="stylesheet" media="screen, projection">
-<script src="/static/plugins/jquery-ui-1.10.3/jquery-ui/js/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
-<link href="/static/bundle-bundle_bootstrap_head.css" type="text/css" rel="stylesheet" media="screen, projection">
-
-
-
-<link href="/static/css/theme/swol.css" type="text/css" rel="stylesheet" media="screen, projection">
-
-        <script type="text/javascript">
-            $(function() {
-                var firstName = $( "#firstName" ),
-                        lastName = $( "#lastName"),
-                        email = $( "#email" ),
-                        allFields = $( [] ).add( firstName ).add(lastName).add( email ),
-                        tips = $( ".validateTips");
-
-                function updateTips( t ) {
-                    tips
-                            .text( t )
-                            .addClass( "ui-state-highlight" );
-                    setTimeout(function() {
-                        tips.removeClass( "ui-state-highlight", 1500 );
-                    }, 500 );
-                }
-
-                function checkLength( o, n, min, max ) {
-                    if ( o.val().length > max || o.val().length < min ) {
-                        o.addClass( "ui-state-error" );
-                        updateTips( "Length of " + n + " must be between " +
-                                min + " and " + max + "." );
-                        return false;
-                    } else {
-                        return true;
-                    }
-                }
-
-                function checkRegexp( o, regexp, n ) {
-                    if ( !( regexp.test( o.val() ) ) ) {
-                        o.addClass( "ui-state-error" );
-                        updateTips( n );
-                        return false;
-                    } else {
-                        return true;
-                    }
-                }
-
-                function checkTerms() {
-                    if (!document.getElementById("termscheck").checked){
-                        alert('Please read through the Terms & Conditions and acknowledge them.');
-                        return false;
-                    } else {
-                        return true;
-                    }
-                }
-
-                var my_dialog = $( "#dialog-form" ).dialog({
-                    autoOpen: false,
-                    width: 320,
-                    height: 460,
-                    modal: true,
-                    resizable: false,
-                    create: function(event, ui)
-                    {
-                        $(this).parents(".ui-dialog:first").find(".ui-dialog-titlebar").css("display","none");
-                    }
-                });
-
-                $( "#signup-btn" )
-                        .click(function() {
-                            $( "#dialog-form" ).dialog( "open" );
-                        });
-
-                $( "#signup-link" )
-                        .click(function() {
-                            $( "#dialog-form" ).dialog( "open" );
-                        });
-
-                $( "#signupclose").click(function() {
-                    $( "#dialog-form" ).dialog( "close" );
-                });
-
-                $('a[href$="/login/index"]').attr('href', function() {
-                    return $('a[href$="/login/index"]').attr('href') + "?goto=" + $(location).attr('href');
-                });
-
-                $("div.dialogButtons div button:nth-child(1)").addClass("btn");
-
-                $( "#q" ).autocomplete({
-                    source: function( req, add ) {
-                        var host = window.location.protocol + "//" + window.location.host
-                        if (host.indexOf('localhost') >= 0)
-                            host = host + '/swol_co'
-                        var uri = host + "/page/lookahead"
-                        $.getJSON(uri, req, function(data) {
-                            var suggestions = [];
-                            $.each(data, function(i, val) {
-                                suggestions.push({
-                                    label: val.display,
-                                    link: val.link
-                                });
-                            });
-                            add(suggestions);
-                        });
-                    },
-                    minLength: 2,
-                    select: function(event, ui) {
-                        window.location.href = ui.item.link
-                    }
-                });
-
-            });
-
-        </script>
-
-        <script src="//naytev.global.ssl.fastly.net/js/embed/539efac6e4b04bb32f11e806.js"></script>
-
-        <!-- cmnUNT | Begin head script -->
-        <script type="text/javascript">
-            cmnunt_site = 'swol';
-            cmnunt_silo = 's_spo';
-            cmnunt_subsilo = '';
-            
-            cmnunt_tier = 'to,t2,internal';
-            cmnunt_zone = 'system';
-            cmnunt_kw = '';
-            cmnunt_exclude = '';
-            
-        </script>
-        <script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-        <!-- cmnUNT | End head script -->
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+		<title>SWOL</title>
+		<link rel="stylesheet" href="css/manifest.css">
+		<link rel="shortcut icon" href="http://swol.co/img/swol_icon.png">
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300" rel="stylesheet" type="text/css">
+		<script src="js/vendor/modernizr.js"></script>
+	</head>
 	<body>
-        <div id="cmn_ad_tag_head" class="fw_swol">
-            <!-- cmnUNT | Begin ad tag -->
-            <script type="text/javascript">cmnUNT('3x3', tile_num++);</script>
-            <!-- cmnUNT | End ad tag -->
-        </div>
-        <div id="cmn_wrap">
-            
-            
-            <div id="fb-root"></div>
-            <script>
-                window.fbAsyncInit = function() {
-                    FB.init({
-                        appId      : '544645882249510', // App ID
-                        channelUrl : 'http://swol.co/channel.html', // Channel File
-                        status     : true,
-                        cookie     : true,
-                        xfbml      : true,
-                        oauth      : true
-                    });
-                };
-                (function(d){
-                    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-                    js = d.createElement('script'); js.id = id; js.async = true;
-                    js.src = "//connect.facebook.net/en_US/all.js";
-                    d.getElementsByTagName('head')[0].appendChild(js);
-                }(document));
+	<!-- Site Navigation Bar -->
+		<div class="slash_bg hide-for-small-only"></div>
+		<header>
+			<div class="header_slash hide-for-small-only"></div>
+			<div class="row">
+			  <div class="large-2 medium-2 columns">
+				<a href="/"><div class="swol_logo"></div></a>
+			  </div>
+			  <div class="large-10 medium-10 columns ">
+				<nav>
+					<ul>
+						<li><a href="about.html">About &amp; Team</a></li>
+						<li><a href="http://fury90.com">Fury90</a></li>
+						<li><a href="boardofballers.html">Board of Ballers</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</nav>
+			  </div>
+			</div>
+		</header>
+		<div class="hero base contact">
+			<div class="row">
+			  <div class="large-12 medium-12 small-12 columns">
+			  	<h1>Your privacy matters to us</h1>
+			  	<p>Since its inception, Sports Without Limits (“SWOL”) has valued its users’ privacy.  We appreciate the trust and confident you place in us when you visit our website or use our apps. This SWOL Privacy Policy (the “Policy”) describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our website, including swol.co (the “Site”) or any SWOL app or game provided on a mobile platform (for example, iOS and Android) (collectively, the "Service").  Please note that the scope of this Policy is limited to information collected or received by SWOL through your use of the Service. SWOL is not responsible for the actions of third parties, the content of other sites, the use of information you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.</p>
+				<p>By using the Service, you agree that you have read, understand, and are bound by this Policy. We may, in our sole discretion, revise the Policy from time to time by updating the Policy, with the new terms taking effect on the date of posting. You should review the Policy every time you use the Service as it is binding on you. IF YOU DO NOT INTEND TO ACCEPT THIS POLICY, PLEASE DO NOT USE THIS SERVICE.</p>
+				<p>By using the Service, you signify your consent to the collection, use, and disclosure of your personal information in accordance with this Policy, which may be revised from time to time, with new terms taking effect on the date of posting. IF YOU DO NOT CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY, PLEASE DO NOT USE THE SERVICE. You must be 13 years or older to use the Service.</p>
 
-                //LOGIN FUNCTION
-                function login() {
-                    FB.login(function(response) {
-                        if (response.authResponse) {
-                            FB.api('/me', function(apiResp) {
-                                $.ajax({
-                                    url: '/profile/persistFB',
-                                    type: 'POST',
-                                    contentType: 'application/json',
-                                    data: JSON.stringify(apiResp),
-                                    dataType:'json'
-                                });
+<p><b>Application</b>
 
-                                $('#firstName').val(apiResp.first_name);
-                                $('#lastName').val(apiResp.last_name);
-                                $('#email').val(apiResp.email);
-                                $('#termscheck').attr('checked', true);
-                                $('#authToken').val(response.authResponse.accessToken);
-                                $('#fbusername').val(apiResp.username);
-                                $('#signup-form').submit();
-                            });
-                        }else{
-                            alert('Login Failed!');
-                        }
-                    }, {scope: 'email,user_likes'});
-                }
-            </script>
-            
-            <div class="container swol">
-                <!-- Logo -->
-                <div class="pad-v-10">
-                    <a href="/"><img src="/static/img/SWOL_Striker_text_Black.png" style="width: 300px; height: auto;"></a>
-                    
-    <div class="pull-right" style="padding-top: 5px;">
-        <a href="/login/index?goto=https://web.archive.org/web/20140927164655id_/http%3A//swol.co/s/privacy" name="swol-login" class="swolbtn btn-group blue"><i class="fa fa-trophy"></i> Login</a>&nbsp;<a href="#" id="signup-btn" class="swolbtn btn-group"><i class="fa fa-user"></i> Sign Up</a>
-    </div>
+</p><p>This Policy applies to the information you provide to SWOL through the Service. This policy does not apply to information collected by third parties linked in any way to the Service. We have no control over, and no responsibility or liability for, any third party’s collection, use, disclosure, or retention of the personal information that is provided directly to them, and that collection, use, disclosure, and retention is not subject to this policy.
 
+</p><p><b>Information Automatically Collected</b>
 
-                    <form action="/page/search" method="post" name="searchForm" style="margin: 10px;" class="pull-right" id="searchForm">
-                        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" name="q" placeholder="Search SWOL" value="" id="q" class="ui-autocomplete-input" autocomplete="off">
-                    </form>
-                </div>
-                <div class="clearfix"></div>
+</p><p>The Service automatically collects certain information from users through the use of “cookies” and other tracking mechanisms. Information automatically collected may include, but is not limited to: your domain name and host for Internet access; the Internet address of the site from which you came; the date and time you access the Service; your computer or device’s Internet Protocol (IP) address and information about its operating system, browser and host; and your geographic location. We may use this information for any lawful purpose, including, for example, using your IP address to help diagnose problems with our server, to administer the Service, to help identify you and to gather broad demographic data.
 
-                <!-- Static navbar -->
-                <div class="navbar navbar-default" role="navigation">
-                    <div class="container-fluid" style="padding-left: 0px !important; padding-right: 0px !important;">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <a class="navbar-brand" href="#">Navigation</a>
-                        </div>
-                        <div class="navbar-collapse collapse left-15">
-                            <ul class="nav navbar-nav">
-                                <li class="dropdown" style="border-left: 1px #000000 solid;">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Leagues <b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="/c/premier-league">Premier League</a></li>
-                                        <li><a href="/c/bundesliga">Bundesliga</a></li>
-                                        <li><a href="/c/la-liga">La Liga</a></li>
-                                        <li><a href="/c/serie-a">Serie A</a></li>
-                                        <li><a href="/c/ligue-1">Ligue 1</a></li>
-                                        <li><a href="/c/mls">MLS</a></li>
-                                        <li class="divider"></li>
-                                        <li class="dropdown-header">Tournaments</li>
-                                        <li><a href="/c/champions-league">Champions League</a></li>
-                                        <li><a href="/c/fa-cup">FA Cup</a></li>
-                                        <li><a href="/c/europa">Europa League</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown" style="border-left: 1px #000000 solid;">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teams <b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown-header">England</li>
-                                        <li><a href="/t/arsenal">Arsenal</a></li>
-                                        <li><a href="/t/chelsea">Chelsea</a></li>
-                                        <li><a href="/t/liverpool">Liverpool</a></li>
-                                        <li><a href="/t/manchester-united">Manchester United</a></li>
-                                        <li><a href="/t/manchester-city">Manchester City</a></li>
-                                        <li><a href="/t/tottenham">Tottenham</a></li>
-                                        <li class="divider"></li>
-                                        <li class="dropdown-header">Spain</li>
-                                        <li><a href="/t/barcelona">Barcelona</a></li>
-                                        <li><a href="/t/real-madrid">Real Madrid</a></li>
-                                        <li class="divider"></li>
-                                        <li class="dropdown-header">Germany</li>
-                                        <li><a href="/t/bayern-munich">Bayern Munich</a></li>
-                                        <li><a href="/t/borussia-dortmund">Borussia Dortmund</a></li>
-                                        <li class="divider"></li>
-                                        <li class="dropdown-header">Italy</li>
-                                        <li><a href="/t/juventus">Juventus</a></li>
-                                        <li><a href="/t/ac-milan">AC Milan</a></li>
-                                        <li><a href="/t/napoli">Napoli</a></li>
-                                    </ul>
-                                </li>
-                                <li style="border-left: 1px #000000 solid;"><a href="/c/transfers">Transfers</a></li>
-                                <li style="border-left: 1px #000000 solid;"><a href="/c/analysis">Analysis</a></li>
-                                <li style="border-left: 1px #000000 solid; border-right: 1px #000000 solid;"><a href="/c/lists">Lists</a></li>
-                                <li style="border-left: 1px #000000 solid; border-right: 1px #000000 solid; background: #248E1D;"><a href="/c/world-cup-2014" style="color: #FEDC00 !important;">World Cup 2014</a></li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-right">
-                                <li style="border-left: 1px #000000 solid;"><a href="/c/media">Media</a></li>
-                                <li style="border-left: 1px #000000 solid; border-right: 1px #000000 solid;"><a href="/c/culture">Culture</a></li>
-                                <li style="border-left: 1px #000000 solid; border-right: 1px #000000 solid; background: #1a1a1a; color: #FFFFFF;"><a href="/c/portuguese">Portuguese</a></li>
-                            </ul>
-                        </div><!--/.nav-collapse -->
-                    </div><!--/.container-fluid -->
-                </div>
-            
+</p><p><b>Information That You Manually Provide</b>
 
-    <div role="main">
-        <p></p><p>
-</p><p></p><h4>Privacy Policy</h4><p></p>
+</p><p>It is your choice whether to provide personal information to SWOL. Some information must be provided in order to participate in certain services, features, programs or activities, so the decision not to provide information might limit or eliminate certain functions of the Service or the ability to participate. The types of personal information that SWOL tends to request about you include, but are not limited to: your first and last name, email address, and mailing address. Additionally, SWOL allows users to create a SWOL Profile, which allows, but does not require, you to upload profile information (“Profile Information”), including a photograph, personal information of your choosing, your date of birth, location, social media information, and other information. Other users may see your Profile Information. There may be other opportunities to provide information on the Service that will be available to other users of the Service; these opportunities require your good judgment. It is your responsibility not to provide personal information about yourself that could be misused by others in a chat room, bulletin board, blog or similar forum. Do not provide personal information about others without their permission.
 
-<p>PLEASE READ THIS PRIVACY POLICY &nbsp;CAREFULLY </p>
+</p><p><b>Do Not Provide Information About Others</b>
 
-<p>Effective: &nbsp;April 2014</p>
+</p><p>Do not provide personal information about others unless you are authorized or required to do so by applicable law or contract. Before supplying personal information about others, you and the person about whom you supply the information must review and consent to this Policy. By submitting any personal information about others, you represent and warrant that you are authorized to do so and that you have made this Policy available to the person about whom you supply the information. If applicable law allows you to supply the information without doing the foregoing, you represent and warrant that you have abided by that law and that it allows us to receive and disclose the information under this Policy without any further action on our part. You agree to indemnify, defend and hold harmless SWOL, its affiliates, parents, subsidiaries, officers, directors, managers, managing members, members, employees and agents, sponsors and supporting artists, licensors, suppliers, and associates for any failure by you to comply with this paragraph.
 
-<p><b>Your Privacy Matters
-to Us</b></p>
+</p><p><b>Use of Information</b>
 
-<p>Since its inception, Soccer Without Limits (“<b>SWOL</b>”) has valued its users’
-privacy.&nbsp; We appreciate the trust
-and confident you place in us when you visit our website or use our apps. This
-SWOL Privacy Policy (the “<b>Policy</b>”)
-describes the ways we collect, store, use, and manage the information,
-including personal information, that you provide or we collect in connection
-with our website, including swol.co (the “<b>Site</b>”)
-or any SWOL app or game provided on a mobile platform (for example, iOS and
-Android) (collectively, the "<b>Service</b>").&nbsp; Please note that the scope of this
-Policy is limited to information collected or received by SWOL through your use
-of the Service. SWOL is not responsible for the actions of third parties, the
-content of other sites, the use of information you provide to them, or any
-products or services they may offer.&nbsp;
-Any link to those sites does not constitute our sponsorship of, or
-affiliation with, those people or companies.</p>
+</p><p>SWOL may use information collected on theService, which may include information gathered about you, for various purposes. In general, SWOL uses personal information it collects to pursue our mission and operations, including the management of our Service and to engage in related activities. You should assume that we will use all information for all lawful purposes.
+We reserve the right, but do not undertake a duty, to notify you of court orders, subpoenas or other legal process if allowed. If you do not want us to respond to legal process compelling us to disclose your information, you need to seek a valid order permitting us to refuse to disclose it and serve the order on us at least three (3) business days before the response deadline.
+We reserve the right to use, disclose, retain, share, sell and otherwise deal with all information collected via the Service internally or to third parties, for any lawful purpose or to prevent harm to us or others. For example, and without limitation, in our discretion we may:
+Disclose information to service providers and others in order to deal with requests and questions from you; to personalize or enhance transactions; to verify, process, store, enforce, investigate and/or collect actual or potential transactions; and to assist or respond to our consultants (including auditors and lenders);
+Disclose information to government regulators, law enforcement authorities or alleged victims of identify theft, as well as voluntary disclosures; and
+Disclose any matter relating to the Service or your account not listed in this Policy, but which is not prohibited by law from being disclosed.
+We do not purport to have listed all possible disclosures that we might make. This Policy is intended to help you understand our general practices. This Policy is not a promise that your information will never be disclosed except as described above. For example, third parties may unlawfully intercept or access information transmitted to or contained on the Service, technologies may malfunction or not work as anticipated, or someone might access, abuse or misuse information, despite a lack of permission. Although we use what we believe to be commercially reasonable practices to protect your privacy, that does not mean, and you should not expect it to mean, that your information or communications will always be private or protected.
+We generally will retain information for as long as required, allowed or for as long as we believe it useful. If you cease using the Service, or your permission to use the Service is terminated, we may continue to use and disclose your personal information in accordance with this Policy as amended from time to time. We do not undertake retention obligations through this Policy. We may dispose of information in our discretion without notice, subject to applicable law.
 
-<p>By using the Service, you agree that you have read,
-understand, and are bound by this Policy. We may, in our sole discretion,
-revise the Policy from time to time by updating the Policy, with the new terms
-taking effect on the date of posting. You should review the Policy every time
-you use the Service as it is binding on you. IF YOU DO NOT INTEND TO ACCEPT
-THIS POLICY, PLEASE DO NOT USE THIS SERVICE.</p>
+</p><p><b>Cookies</b>
 
-<p>By using the Service, you signify your consent to the
-collection, use, and disclosure of your personal information in accordance with
-this Policy, which may be revised from time to time, with new terms taking
-effect on the date of posting. IF YOU DO NOT CONSENT TO THE COLLECTION, USE,
-AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY,
-PLEASE DO NOT USE THE SERVICE. You must be 13 years or older to use the Service.</p>
+</p><p>We may place a “cookie” on the browser of your computer. Cookies are a technology that installs a small amount of information on the computer of a website user to permit the website to recognize future visits using that computer. Cookies may enhance the convenience and use of the Website. For example, the information provided through cookies may be used to recognize you as a previous user of the Service (so you do not have to enter your personal information every time), offer personalized information for your use, and otherwise facilitate your experience using the Service. You may choose to decline cookies if your browser permits you to do so, but doing so may affect your ability to access or use certain features of theService. We may also use clear gifs and log file information to store user information, customize content, or monitor Service activity.
+</p><p><b>Other Websites</b></p><p>
 
-<p>Application</p>
+The Service may contain hyperlinks to other websites or Internet resources. When you click on one of those links you are contacting another website. We have no control over, and no responsibility or liability for, other websites or their collection, use and disclosure of your personal information. You may encounter third-party advertisements in connection with your use of the Service through, for example, hyperlinked websites and advertisements. We have no control over, and no responsibility or liability for, the cookies or other technologies used in those advertisements or for the use and disclosure of information collected through advertisement cookies or other technologies that you may encounter in connection with your use of the Service.
+ 
+</p><p><b>Privacy Policy Incorporated in Terms of Use</b></p><p>
 
-<p>This Policy applies to the information you provide to SWOL
-through the Service. This policy does not apply to information collected by
-third parties linked in any way to the Service. We have no control over, and no
-responsibility or liability for, any third party’s collection, use, disclosure,
-or retention of the personal information that is provided directly to them, and
-that collection, use, disclosure, and retention is not subject to this policy.</p>
+Your use of the Service is governed by the SWOL Terms of Use (“Terms”), available at http://swol.co/terms.html. The Terms contain important provisions, including provisions disclaiming, limiting, or excluding the liability of SWOL for your use of the Service and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Service. Each of those provisions applies to any disputes that may arise in relation to this  Policy and the collection, use and disclosure of your personal information and are of the same force and effect as if they had been reproduced directly in this Policy.
 
-<p>Information Automatically Collected</p>
+What Steps Are Taken To Keep Personal Information Secure?
 
-<p>The Service automatically collects certain information from
-users through the use of “cookies” and other tracking mechanisms. Information
-automatically collected may include, but is not limited to: your domain name
-and host for Internet access; the Internet address of the site from which you
-came; the date and time you access the Service; your computer or device’s Internet
-Protocol (IP) address and information about its operating system, browser and
-host; and your geographic location. We may use this information for any lawful
-purpose, including, for example, using your IP address to help diagnose
-problems with our server, to administer the Service, to help identify you and
-to gather broad demographic data.</p>
+Keeping secure the personal information that we collect is of great concern to us. We exercise care in providing secure transmission of your information from your computer to our servers in connection with the Service. Personal information collected by the Service is stored in secure operating environments that are not available to the public. While SWOL has mechanisms in place to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-<p>Information That You Manually Provide</p>
+</p><p><b>Contacting Us</b></p>
 
-<p>It is your choice whether to provide personal information to
-SWOL. Some information must be provided in order to participate in certain
-services, features, programs or activities, so the decision not to provide
-information might limit or eliminate certain functions of the Service or the
-ability to participate. The types of personal information that SWOL tends to
-request about you include, but are not limited to: your first and last name,
-email address, and mailing address. Additionally, SWOL allows users to create a
-SWOL Profile, which allows, but does not require, you to upload profile
-information (“<b>Profile Information</b>”),
-including a photograph, personal information of your choosing, your date of
-birth, location, social media information, and other information. Other users
-may see your Profile Information. There may be other opportunities to provide
-information on the Service that will be available to other users of the Service;
-these opportunities require your good judgment. It is your responsibility not
-to provide personal information about yourself that could be misused by others
-in a chat room, bulletin board, blog or similar forum. Do not provide personal
-information about others without their permission.</p>
+<p>If you have any questions about this Privacy Policy or other matters that relates to it, you may contact us at:</p>
 
-<p>Do Not Provide Information About Others</p>
+<p>SWOL LLC
+<br>1010 NE 2nd Avenue
+<br>Miami, FL 33132</p>
 
-<p>Do not provide personal information about others unless you
-are authorized or required to do so by applicable law or contract. Before
-supplying personal information about others, you and the person about whom you
-supply the information must review and consent to this Policy. By submitting
-any personal information about others, you represent and warrant that you are
-authorized to do so and that you have made this Policy available to the person
-about whom you supply the information. If applicable law allows you to supply
-the information without doing the foregoing, you represent and warrant that you
-have abided by that law and that it allows us to receive and disclose the
-information under this Policy without any further action on our part. You agree
-to indemnify, defend and hold harmless SWOL, its affiliates, parents,
-subsidiaries, officers, directors, managers, managing members, members,
-employees and agents, sponsors and supporting artists, licensors, suppliers, and
-associates for any failure by you to comply with this paragraph.</p>
+			  </div>
 
-<p>Use of Information</p>
+			</div>
+			
+		</div>
+		<footer>
+			<div class="row">
+			  <div class="large-6 columns">
+			  	<pre>2016©SWOL - Sports Without Limits</pre>
+			  	<a href="https://twitter.com/SWOLofficial"><img src="img/twitter_icon.png">Twitter</a><br>
+			  	<a href="https://www.facebook.com/mySWOL/"><img src="img/facebook_icon.png">Facebook</a>
+			  		<br><a href="privacy.html">Privacy Policy</a>
+			  		<br><a href="terms.html">Terms</a>
+			  </div>
+			  <div class="large-6 columns">
+			  	<div class="swol_icon"><img src="img/swol_icon.png"></div>
+			  </div>
+			</div>
+		</footer>
 
-<p>SWOL may use information collected on theService, which may
-include information gathered about you, for various purposes. In general, SWOL
-uses personal information it collects to pursue our mission and operations,
-including the management of our Service and to engage in related activities.
-You should assume that we will use all information for all lawful purposes.</p>
+		<!-- Loading JQuery and Foundation -->
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="js/foundation.min.js"></script>
+		<script>
+			$(document).foundation();		</script>
 
-<p>We reserve the right, but do not undertake a duty, to notify
-you of court orders, subpoenas or other legal process if allowed. If you do not
-want us to respond to legal process compelling us to disclose your information,
-you need to seek a valid order permitting us to refuse to disclose it and serve
-the order on us at least three (3) business days before the response deadline.</p>
-
-<p>We reserve the right to use, disclose, retain, share, sell
-and otherwise deal with all information collected via the Service internally or
-to third parties, for any lawful purpose or to prevent harm to us or others.
-For example, and without limitation, in our discretion we may:</p>
-
-<p>Disclose information to service providers and others in
-order to deal with requests and questions from you; to personalize or enhance
-transactions; to verify, process, store, enforce, investigate and/or collect
-actual or potential transactions; and to assist or respond to our consultants
-(including auditors and lenders);</p>
-
-<p>Disclose information to government regulators, law
-enforcement authorities or alleged victims of identify theft, as well as
-voluntary disclosures; and</p>
-
-<p>Disclose any matter relating to the Service or your account
-not listed in this Policy, but which is not prohibited by law from being
-disclosed.</p>
-
-<p>We do not purport to have listed all possible disclosures
-that we might make. This Policy is intended to help you understand our general
-practices. This Policy is not a promise that your information will never be
-disclosed except as described above. For example, third parties may unlawfully
-intercept or access information transmitted to or contained on the Service,
-technologies may malfunction or not work as anticipated, or someone might
-access, abuse or misuse information, despite a lack of permission. Although we
-use what we believe to be commercially reasonable practices to protect your
-privacy, that does not mean, and you should not expect it to mean, that your
-information or communications will always be private or protected.</p>
-
-<p>We generally will retain information for as long as
-required, allowed or for as long as we believe it useful. If you cease using
-the Service, or your permission to use the Service is terminated, we may
-continue to use and disclose your personal information in accordance with this
-Policy as amended from time to time. We do not undertake retention obligations
-through this Policy. We may dispose of information in our discretion without
-notice, subject to applicable law.</p>
-
-<p>Cookies</p>
-
-<p>We may place a “cookie” on the browser of your computer.
-Cookies are a technology that installs a small amount of information on the
-computer of a website user to permit the website to recognize future visits
-using that computer. Cookies may enhance the convenience and use of the Website.
-For example, the information provided through cookies may be used to recognize
-you as a previous user of the Service (so you do not have to enter your
-personal information every time), offer personalized information for your use,
-and otherwise facilitate your experience using the Service. You may choose to
-decline cookies if your browser permits you to do so, but doing so may affect
-your ability to access or use certain features of theService. We may also use
-clear gifs and log file information to store user information, customize
-content, or monitor Service activity.</p>
-
-<p>Other Websites</p>
-
-<p>The Service may contain hyperlinks to other websites or
-Internet resources. When you click on one of those links you are contacting
-another website. We have no control over, and no responsibility or liability
-for, other websites or their collection, use and disclosure of your personal
-information. You may encounter third-party advertisements in connection with
-your use of the Service through, for example, hyperlinked websites and
-advertisements. We have no control over, and no responsibility or liability
-for, the cookies or other technologies used in those advertisements or for the
-use and disclosure of information collected through advertisement cookies or
-other technologies that you may encounter in connection with your use of the Service.</p>
-<p>Privacy Policy Incorporated in Terms of Use</p>
-
-<p>Your use of the Service is governed by the SWOL Terms of Use
-(“<b>Terms</b>”), available at [INSERT URL]
-. The Terms contain important provisions, including provisions disclaiming,
-limiting, or excluding the liability of SWOL for your use of the Service and
-provisions determining the applicable law and exclusive jurisdiction for the
-resolution of any disputes regarding your use of the Service. Each of those
-provisions applies to any disputes that may arise in relation to this &nbsp;Policy and the collection, use and
-disclosure of your personal information and are of the same force and effect as
-if they had been reproduced directly in this Policy.</p>
-
-<p>What Steps Are Taken To Keep Personal Information Secure?</p>
-
-<p>Keeping secure the personal information that we collect is
-of great concern to us. We exercise care in providing secure transmission of
-your information from your computer to our servers in connection with the Service.
-Personal information collected by the Service is stored in secure operating
-environments that are not available to the public. While SWOL has mechanisms in
-place to safeguard your personal information once we receive it, no
-transmission of data over the Internet or any other public network can be
-guaranteed to be 100% secure.</p>
-
-<p>Contacting Us</p>
-
-<p>If you have any questions about this Privacy Policy or other
-matters that relates to it, you may contact us at:</p>
-
-<p>SWOL LLC</p>
-
-<p>1010 NE 2nd Avenue</p>
-
-<p>Miami, FL 33132</p>
-
-<p><a href="mailto:info@swol.co">info@swol.co</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p></p><p></p>
-        <p>&nbsp;</p>
-    </div>
-
-
-            <div class="clearfix">&nbsp;</div>
-            </div> <!-- /container -->
-
-            <div id="bottom">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-sm-3 widget clearfix">
-                <div class="header">
-                    <h4>Site</h4>
-                </div>
-
-                <div class="content">
-                    <a href="/login/auth">Login</a>
-                    <br>
-                    <a id="signup-link">Sign Up</a>
-                    <br>
-                    <a href="/post/chooseType">Contribute To SWOL</a>
-                    <br>
-                    <a href="/contactUs/index">Contact Us</a>
-                    
-                        <br>
-                        <a href="/s/about">About</a>
-                    
-                        <br>
-                        <a href="/s/terms">Terms &amp; Conditions</a>
-                    
-                        <br>
-                        <a href="/s/privacy">Privacy Policy</a>
-                    
-                        <br>
-                        <a href="/s/writerfaq">Write for SWOL FAQ</a>
-                    
-                        <br>
-                        <a href="/s/badges">Badges Defined</a>
-                    
-                        <br>
-                        <a href="/s/writer_levels">Writer Levels</a>
-                    
-                        <br>
-                        <a href="/s/rules">Fury 90 Competition Rules</a>
-                    
-                        <br>
-                        <a href="/s/positions">Available Positions</a>
-                    
-                </div>
-            </div> <!-- End Widget -->
-
-            <div class="col-sm-5 widget clearfix">
-                <div class="tags-cloud">
-
-                    <div class="header">
-                        <h4>Tag Cloud</h4>
-                    </div>
-
-                    <ul>
-                        
-                            <li><a href="/t/arsenal">arsenal</a></li>
-                        
-                            <li><a href="/t/chelsea">chelsea</a></li>
-                        
-                            <li><a href="/t/tottenham">tottenham</a></li>
-                        
-                            <li><a href="/t/newsnow">newsnow</a></li>
-                        
-                            <li><a href="/t/english premier league">english premier league</a></li>
-                        
-                            <li><a href="/t/jose mourinho">jose mourinho</a></li>
-                        
-                            <li><a href="/t/arsene wenger">arsene wenger</a></li>
-                        
-                            <li><a href="/t/aston-villa">aston-villa</a></li>
-                        
-                            <li><a href="/t/john terry">john terry</a></li>
-                        
-                            <li><a href="/t/eden hazard">eden hazard</a></li>
-                        
-                            <li><a href="/t/diego costa">diego costa</a></li>
-                        
-                            <li><a href="/t/mauricio pochettino">mauricio pochettino</a></li>
-                        
-                    </ul>
-
-                </div>
-            </div> <!-- End Widget -->
-
-            <div class="col-sm-3 widget clearfix">
-                <div>
-                    <div class="header">
-                        <h4>SWOCIAL</h4>
-                    </div>
-                    <div style="text-align: center;">
-                        <a href="http://www.facebook.com/myswol" target="_blank"><img src="/static/img/social/facebook2.png" style="padding-bottom:10px"></a>
-                        <br>
-                        <a href="http://www.twitter.com/swolofficial" target="_blank"><img src="/static/img/social/twitter2.png" style="padding-bottom:10px"></a>
-                        <br>
-                        <a href="http://www.google.com/+SWOL" target="_blank"><img src="/static/img/social/googleplus2.png" style="padding-bottom:10px"></a>
-                        <br>
-                        <a href="http://www.youtube.com/swolofficial" target="_blank"><img src="/static/img/social/youtube2.png" style="padding-bottom:10px"></a>
-                        <br>
-                        <a href="/feed/"><img src="/static/img/social/RSS2.png" style="padding-bottom:10px"></a>
-                    </div>
-                </div>
-            </div> <!-- End Widget -->
-
-        </div> <!-- End Row -->
-    </div> <!-- End Container -->
-</div> <!-- End Bottom -->
-            <div id="footer">
-    <div class="clearfix">&nbsp;</div>
-    <div class="container">
-
-        <p class="pull-left">Copyright ©
-            2014
-            SWOL.co&nbsp;&nbsp;|&nbsp;&nbsp;Soccer Without Limits.&nbsp;&nbsp;|&nbsp;&nbsp;All rights reserved.</p>
-        <ul class="social pull-right">
-            
-            
-            
-            <div id="google_translate_element"></div><script type="text/javascript">
-            function googleTranslateElementInit() {
-                new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, gaTrack: true, gaId: 'UA-29389414-1'}, 'google_translate_element');
-            }
-            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        </ul>
-
-    </div> <!-- End Container -->
-</div> <!-- End Footer -->
-            <script src="/static/bundle-bundle_bootstrap_defer.js" type="text/javascript"></script>
-
-        </div>
-
-    
-
-    
-        <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-41523730-2']);
-            _gaq.push(['_trackPageview']);
-            setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])", 15000);
-            (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-
-        </script>
-    
-
-        <!-- Begin comScore Tag -->
-        <script>document.write(unescape("%3Cscript src=\'" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js\' %3E%3C/script%3E"));</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-        <script>
-            COMSCORE.beacon({
-                c1:2,
-                c2:6685975,
-                c3:"",
-                c4:"'" + location.href + "'",
-                c5:"",
-                c6:"",
-                c15:""
-            });
-        </script>
-        <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
-        <!-- End comScore Tag -->
-        <script type="text/javascript">
-            cmnTB();
-            cmnUNT('tover', tile_num++);
-        </script>
 	
-
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable" tabindex="-1" role="dialog" aria-describedby="dialog-form" aria-labelledby="ui-id-1" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" style="display: none;"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button class="ui-dialog-titlebar-close"></button></div><div id="dialog-form" class="ui-dialog-content ui-widget-content">
-        <form action="/profile/signup" method="post" name="signup-form" id="signup-form">
-            <div>
-                <img src="https://s3.amazonaws.com/swoldev/embedded/POPUP.png">
-                <a href="#" id="fb-img-link" onclick="login();"><img class="center" style="padding-bottom: 20px;" src="/static/img/social/login-fb.png"></a>
-                <img src="https://s3.amazonaws.com/swoldev/embedded/bottom.png">
-                <a href="#" id="signupclose" style="padding-top: 10px;"><small>[X] Not right now</small></a>
-                <a href="/join" class="pull-right"><small>Sign up with email</small></a>
-            </div>
-            <fieldset>
-                <input type="hidden" name="firstName" id="firstName">
-                <input type="hidden" name="lastName" id="lastName">
-                <input type="hidden" name="email" id="email">
-                <input type="checkbox" name="termscheck" id="termscheck" style="display: none;">
-                <input type="hidden" name="authToken" id="authToken">
-                <input type="hidden" name="fbusername" id="fbusername">
-            </fieldset>
-        </form>
-    </div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul></body></html>
+</body></html>
