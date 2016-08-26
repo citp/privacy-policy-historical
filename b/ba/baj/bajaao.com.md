@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329231635id_/http%3A//www.bajaao.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826054916id_/https%3A//www.bajaao.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BAJAAO.COM
 
