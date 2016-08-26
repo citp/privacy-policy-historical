@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchupdirect.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306061601id_/http%3A//touchupdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchupdirect.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826164034id_/https%3A//touchupdirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TouchUpDirect
 
