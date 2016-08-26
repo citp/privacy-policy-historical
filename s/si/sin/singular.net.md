@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417095359id_/https%3A//www.singular.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827001155id_/https%3A//www.singular.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Singular
 
