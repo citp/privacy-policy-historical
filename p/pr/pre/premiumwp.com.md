@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422054321id_/http%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826225229id_/https%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@ Personal information, such as your name, personal postal and email address, or p
 Any changes to the privacy policy will be promptly communicated on this website. Policy changes will not alter how we handle previously submitted personal information.
 
 **Contacting PremiumWP.com**  
-If you have any questions about this privacy statement, the terms and conditions, the practices of this site, or your dealings with this web site, please [contact us](http://www.premiumwp.com/contact/).
+If you have any questions about this privacy statement, the terms and conditions, the practices of this site, or your dealings with this web site, please [contact us](https://www.premiumwp.com/contact/).
