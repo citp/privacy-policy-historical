@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspytool.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194158id_/http%3A//www.myspytool.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspytool.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826021343id_/http%3A//www.myspytool.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
