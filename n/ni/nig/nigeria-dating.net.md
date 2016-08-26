@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the nigeria-dating.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316142252id_/http%3A//www.nigeria-dating.net/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeria-dating.net privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826113730id_/http%3A//www.nigeria-dating.net/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Nigeria-Dating
 
-Nigeria-Dating (the "Site") is owned and operated by **Online Connections Inc. - FBM Online Connections LTD and formally Infinite Connections LTD**
+Nigeria-Dating (the "Site") is owned and operated by **Online Connections Inc. / FBM Online Connections Limited**
 
-Our postal address is   
-**Domestic Offices - Online Connections Inc.  
-5722 S. Flamingo Road #246  
-Cooper City, FL 33330  
-954-944-9054 **
+Our postal address is: 
 
-**International Offices - FBM ONLINE CONNECTIONS LIMITED  
-5 JUPITER HOUSE   
-CALLEVA PARK, ALDERMASTON   
-READING   
-BERKSHIRE   
-UNITED KINGDOM   
-RG7 8NN  
-VAT #EU196011004  
+**Domestic Offices:  
+Online Connections Inc.  
+865 SW 78th Ave Ste A-100  
+Plantation, 33324 FL, US  
 **
+
+**International Offices:  
+FBM Online Connections Limited  
+1 Kings Avenue  
+Winchmore Hill  
+London N21 3NA, UK  
+Company No. 07557899  
+VAT:EU196012051 **
 
 This website is registered with the Information Commissionaire's Office in accordance to the Data Protection Act of 1998 
 
@@ -86,5 +86,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the http://www.nigeria-dating.net/pagesterms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the http://www.nigeria-dating.net/pages/terms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
