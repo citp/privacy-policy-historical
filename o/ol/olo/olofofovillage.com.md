@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the olofofovillage.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412091707id_/http%3A//www.olofofovillage.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olofofovillage.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826210428id_/http%3A//www.olofofovillage.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | OlofofoVillage
 
-##  This Privacy Policy governs the manner in which  **OlofofoVillage**   collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.omopedia.com (“Site”). 
+##  This Privacy Policy governs the manner in which  **OlofofoVillage**   collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.olofofovillage.com (“Site”). 
 
 This privacy policy applies to the Site and all products and services offered by 
 
