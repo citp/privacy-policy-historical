@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625073400id_/http%3A//beginningboutique.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827124758id_/https%3A//beginningboutique.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy was last modified on 26 March 2015.
+This Privacy Policy was last modified on 13 July 2016.
 
 We take our customers privacy seriously and we will only collect and use your personal information as outlined below. Our Privacy Statement fully complies with the Privacy Act 1988 and represents the industry’s best practice.
 
@@ -14,7 +14,7 @@ We use your Personal Information only for providing and improving beginningbouti
 
 ### Personal Information Collected
 
-While using Beginning Boutique, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Collection of your personal information can occur through the following interactions: 
+While using Beginning Boutique, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Collection of your personal information can occur through the following interactions:
 
   * when you access and use our website;
 
@@ -26,7 +26,7 @@ While using Beginning Boutique, we may ask you to provide us with certain person
 
   * when you interact with us during promotions, competitions, special events; or
 
-  * if you are a candidate for employment, when you complete forms in relation to the recruitment and selection process, for the purpose of assessment.
+  * if you are a candidate for employment, when you complete forms in relation to the recruitment and selection process, for the purpose of assessment
 
 
 
@@ -63,13 +63,13 @@ The personal information we collect from you will be used in some or all of the 
 
 ### Log Data
 
-Like many site operators, we collect information that your browser sends whenever you visit beginningboutique.com.au. This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
+Like many site operators, we collect information that your browser sends whenever you visit beginningboutique.com.au. This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
 ### Opting Out
 
-All marketing and promotional emails from Beginning Boutique contain an ‘Unsubscribe' link at the end of the email, this is an easy one click process to opt out of receiving further messages of that type.  Alternatively you can manage your subscription preferences from your Account area, click the Subscriptions tab from your account menu or you can email info@beginningboutique.com.au with your request to opt out and we will manually remove your details from any future promotional lists.
+All marketing and promotional emails from Beginning Boutique contain an 'Unsubscribe' link at the end of the email, which is an easy one click, cost free process to opt out of receiving further messages of that type. Alternatively you can manage your subscription preferences from your Account area, click the Subscriptions tab from your account menu or you can email info@beginningboutique.com.au with your request to opt out and we will manually remove your details from any future promotional lists.
 
-### Cookies 
+### Cookies
 
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
@@ -77,20 +77,20 @@ Cookies are files with small amount of data, which may include an anonymous uniq
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-Your purchase is secured by Eway. Your credit card details are passed securely through Eway's certified secure payment process, not stored by our website. A Secured Socket Layer with a 128 bit ensures your payment details are protected. This process is constantly monitored and maintained by Eway, while Beginning Boutique regularly updates our firewall to keep the site secure.
+Your purchase is secured by Stripe. Your credit card details are passed securely through Stripe’s certified secure payment process, not stored by our website. A Secured Socket Layer with a 128 bit ensures your payment details are protected. This process is constantly monitored and maintained by Stripe, while Beginning Boutique regularly updates our firewall to keep the site secure.
 
 We do not store your credit card details; they are deleted after your purchase has been completed. Payment or debiting of your credit/debit card will be completed when you accept to complete the transaction at checkout.
 
-We take a firm stance against credit card fraud. If your transaction is flagged in our system, we will check your order by phoning you on the given number to ensure that the purchase has been made by the credit card holder. If we find anyone trying to use another person's details, we will report you to the Australian Police and banking authorities.
+We take a firm stance against credit card fraud. If a transaction is flagged in our system, we reserve the right to conduct any and all security checks to ensure that the owner of the card authorises the transaction. If the requested security check is not complied with, we reserve the right to dishonour, cancel, refund and report the transaction information with the relevant Fraud Prevention and Banking Authorities. The decision to do so is at our sole discretion.
 
-### Changes To This Privacy Policy 
+### Changes To This Privacy Policy
 
 Beginning Boutique may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-### Privacy Breaches 
+### Privacy Breaches
 
 If for any reason, you believe your privacy has been breached, please contact info@beginningboutique.com.au and we will investigate the issue.
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us info@beginningboutique.com.au or call +61413 028 685
+If you have any questions about this Privacy Policy, please contact us info@beginningboutique.com.au or call +61 413 028 685
