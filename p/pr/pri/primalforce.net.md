@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628011636id_/http%3A//www.primalforce.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827233524id_/https%3A//primalforce.net/privacy-policy) for the most accurate reproduction.*
 
-# Primal Force Supplements: Dr Sear's Private Label | Primal Lean
+# Privacy Policy
 
-#### Dr. Sears' Privacy Policy
+#### Dr. Sears’ Privacy Policy
 
 Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
 
 #### Your E-mail Address
 
-When you subscribe to any of our e-mail newsletters, your address is added to our database. We’ll use your address to send you our newsletters. We will not sell, rent, or in any other way share your e-mail address with anyone. 
+When you subscribe to any of our e-mail newsletters, your address is added to our database. We’ll use your address to send you our newsletters. We may also use your address to help you complete a checkout you abandoned or forgot about. We will not sell, rent, or in any other way share your e-mail address with anyone.
 
-You can remove your address from our mailing list by following the instructions at the end of every e-mail we send. 
+You can remove your address from our mailing list by following the instructions at the end of every e-mail we send.
 
 #### Personal Information
 
-Our staff will never ask you for personal information, such as your credit card number, except when you’re placing an order. At that time, we’ll require only the information needed to complete and fulfill your order. We will never ask for information that’s not needed to complete your order.
+Our staff will never ask you for personal information, such as your credit card number, except when you’re placing an order. At that time, we’ll require only the information needed to complete and fulfill your order.
+
+We will never ask for information that’s not needed to complete your order.
 
 #### Confidentiality
 
-Any correspondence you send to us, including e-mail, is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. We won’t quote you in our issues, on the web sites, or in promotional materials without your consent. 
+Any correspondence you send to us, including e-mail, is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. We won’t quote you in our issues, on the web sites, or in promotional materials without your consent.
 
-If you contact us to inquire about an order, our customer service staff will ask you to verify your identity by confirming information already in your record. 
+If you contact us to inquire about an order, our customer service staff will ask you to verify your identity by confirming information already in your record.
 
 #### Your Mailing Address
 
@@ -30,7 +32,7 @@ Customer Service
 11903 Southern Blvd. Ste. 208  
 Royal Palm Beach, FL 33411
 
-Or you can email us using our [online contact form](http://www.primalforce.net/contact.php) or call us toll-free at 1.866.895.8555.
+Or you can email us using our [online contact form](http://primalforce.net/contact.php) or call us toll-free at 1.866.895.8555.
 
 #### Cookies
 
@@ -38,14 +40,6 @@ Cookies are tiny files placed on your computer by web sites you visit. They can 
 
 Our web sites use cookies only to track how many people visit each page, how long they stay, and that sort of statistical data. We don’t store or collect any personal information with cookies.
 
-[](http://www.pacepower.net/)
-
-|  | [](http://www.mypureradiance.com/products/simply-beautiful/) |  | 
-
-[](http://www.on2url.com/app/adtrack.asp?MerchantID=89261&AdID=617506)  
-  
----|---|---|---|---  
-  
 *** These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.**
 
 **Disclaimer:** The information and recommendations provided on this website have not been evaluated by the Food and Drug Administration and are for educational purposes only. The products offered on this site are not intended to diagnose, treat, cure or prevent any disease. You should always ask your doctor before using any products.
