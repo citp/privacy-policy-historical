@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findhotel.net privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107142951id_/http%3A//findhotel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findhotel.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827234857id_/http%3A//findhotel.net/privacy) for the most accurate reproduction.*
 
 # findhotel.net - Privacy Policy
 
