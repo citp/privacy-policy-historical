@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibu.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507051706id_/https%3A//hibu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibu.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828013346id_/https%3A//hibu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
