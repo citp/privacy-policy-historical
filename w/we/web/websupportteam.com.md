@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831065914id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828000321id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Support Team | Tech Help For Your Internet Business
 
   
-– IMPORTANT — PLEASE READ 
+— IMPORTANT — PLEASE READ
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
