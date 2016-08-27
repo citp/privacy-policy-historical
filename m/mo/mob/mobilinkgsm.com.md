@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mobilinkgsm.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227040727id_/http%3A//www.mobilink.com.pk/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilinkgsm.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827023825id_/https%3A//www.mobilink.com.pk/mobilink-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mobilink - Har Dil. Har Din.
+# Privacy Policy - Mobilink
 
 Mobilink is committed to the privacy of its customers and the visitors to this website. The website utilizes a high degree of encryption on information sent over the Internet and on information stored within its system. The following policies outline other specific protections that Mobilink has in place.
 
-### Option to Receive or Not to Receive Mail
+#### Option to Receive or Not to Receive Mail
 
-Mobilink is pleased to be able to bring you extra value by providing you information about our offers and updates regarding our product from time to time. You can subscribe to this information by entering your email address in the provided option on the home page. Your email address will only be utilized to send you updates regarding 
+Mobilink is pleased to be able to bring you extra value by providing you information about our offers and updates regarding our product from time to time. You can subscribe to this information by entering your email address in the provided option on the home page. Your email address will only be utilized to send you updates regarding
 
 #### Mobilink Offers
 
-By choosing to subscribe to our updates, you grant Mobilink permission to contact you with these offers and information. 
+By choosing to subscribe to our updates, you grant Mobilink permission to contact you with these offers and information.
 
 #### Sharing the Information with Third Parties
 
