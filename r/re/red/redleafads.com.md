@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315190009id_/https%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827115847id_/https%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
 
 # RedLeafAds - Privacy policy
 
