@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingnik.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627053730id_/http%3A//www.bloggingnik.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingnik.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827100606id_/http%3A//www.bloggingnik.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BloggingNIK
 
