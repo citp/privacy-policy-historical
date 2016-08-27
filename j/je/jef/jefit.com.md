@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jefit.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410100215id_/https%3A//www.jefit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefit.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827025929id_/https%3A//www.jefit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JEFIT - Best Android and iPhone Workout, Bodybuilding and personal training app
 
