@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivepassivememberships.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212062636id_/http%3A//massivepassivememberships.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivepassivememberships.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827204054id_/http%3A//massivepassivememberships.com/pp.html) for the most accurate reproduction.*
 
 # pp
 
