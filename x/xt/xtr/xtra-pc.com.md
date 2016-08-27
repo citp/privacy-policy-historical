@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtra-pc.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627084109id_/http%3A//www.xtra-pc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtra-pc.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827041903id_/http%3A//www.xtra-pc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Xtra-PC
 
