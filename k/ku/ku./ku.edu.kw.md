@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ku.edu.kw privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518221421id_/http%3A//kuweb.ku.edu.kw/cs/groups/ku/documents/ku_content/kuw061708.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ku.edu.kw privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827193811id_/http%3A//kuweb.ku.edu.kw/cs/groups/ku/documents/ku_content/kuw061708.pdf) for the most accurate reproduction.*
 
 # INFORMATION SECURITY POLICIES
 
