@@ -1,83 +1,75 @@
-> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414115907id_/https%3A//www.nylas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828063856id_/https%3A//www.nylas.com/privacy-policy) for the most accurate reproduction.*
 
-# Nylas N1 - The open source, extensible email app
+# Nylas N1
 
-Nylas, Inc. ("Company") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By using Company's products and services and/or visiting the [](https://www.nylas.com/)https://www.nylas.com website and domain name, and any other linked pages, features, content, or software application services offered from time to time by Company in connection therewith (collectively, the "Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
- ** _What does this Privacy Policy Cover?_**
+## Revisions to this Privacy Policy
 
-This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you use our Services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above to indicate when those changes will become effective. 
 
- ** _What personal information does company collect?_**
+## Collection and Use of Information
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:
+### Information Collected or Received from You
 
- **Personal Information You Provide to Us:**
+Account Information. If you create an Account, we’ll collect certain information that can be used to identify you (“ **PII** ”), such as your name and email address. We may also collect certain information that is not PII, because it cannot be used by itself to identify you, such as credit card information.
 
-We receive and store any information you enter on our website or provide to us in any other way. The types of Personal Information collected include your full name, email address, phone number, credit card and/or other payment information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, notifying you of product updates, and communicating with you about Company's products and services, including specials and new features. In addition, the Company may have access to personal information contained in your e-mail communications if the Company needs to access your account to perform maintenance or debug technical issues.
+Using the App. If you download and install the App, we’ll collect your email credentials (i.e. email address(es), which are PII, and associated passwords) for those email inboxes that you want to access through the App. By inputting your email credentials, you’re permitting Nylas to make a copy of the entire contents of the applicable email inbox, calendar, and contact book. Nylas will perpetually connect to, and synch any changes to, your applicable email inboxes.
 
- **Other Information Collected Automatically:**
+Information Collected Using Cookies and other Web Technologies. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.
 
-  * We receive and store certain other types of information that are not Personal Information whenever you interact with the Services. For example, Company automatically receives and records information on our server logs from your browser including your IP address, browser information, cookie information, and the page you requested. 
-  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our website and software applications and its components or the frequency with which users use the Services to interact with third-party sites and services. Company only uses this data in aggregate or anonymous form, and not in a manner that would identify you personally. In some cases, anonymous information may need to be sent to third parties in order to use some features of the Services, such as web forgery protection or web searches. This type of aggregate or anonymous data also enables us to figure out how often customers use parts of the Services so that we can make the Services appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate or anonymous information to our partners about how our customers, collectively, use our Services. We share this type of data so that our partners also understand how often people use the Services, so that they, too, may provide you with an optimal online and app experience. Again, Company never discloses aggregate or anonymous information to a partner in a manner that would identify you personally.
+“ **Cookies** ” are small text files that are placed on your device by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.
 
+“ **Web Beacons** ” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
 
+Information Related to Use of the Services. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”), including both Account holders and non-Account holders (either, a “ **User** ”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.
 
-**E-mail Communications:**
+Information Sent by Your Mobile Device. We may collect certain information that your mobile device sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
 
-We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.
+Location Information. In some cases we collect and store information about where you are located, if you permit us to do so. We may use location information to improve and personalize our Services for you.
 
- ** _What About Cookies?_**
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. Additionally, we may use your PII to generate aggregate, non-identifying information which we’ll use for our business purposes, such as data analysis, developing new products, identifying usage trends, and operating and expanding our business activities.
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. We use cookies to enhance visitors' experiences, to learn more about their use of the Services and to improve quality. 
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our website's most attractive features. (Will company share any of the personal information it receives? (Respecting our customers' Personal Information is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below. (
+## Information that We Share with Third Parties
 
+We will not share any PII that we have collected from or regarding you except as described below:
 
+Information Shared with Our Services Providers. We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
 
-**Affiliated Businesses We Do Not Control:  **
+Information Shared with Third Parties. We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
 
-We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the website. In other situations, Company may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. (
+Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
- **Agents:  **
+Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+## Your Choices
 
- **Business Transfers:  **
+We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company or its assets may continue to use your Personal Information as set forth in this policy.
+Opt-Out. We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about billing.
 
- **Protection of Company and Others:  **
+Modifying Your Information. You can access and modify the PII associated with your Account by through the Account settings feature on your Account profile. If you want us to delete your PII and your Account, please contact us at support@nylas.com with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+## Responding to Do Not Track Signals
 
- **With Your Consent:  **
+Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers. We use third party service providers like Mixpanel, Intercom, Zendesk, and Google Analytics for tracking purposes.
 
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+## The Security of Your Information
 
- _Is personal information about me and my e-mail communications secure?_
+We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-Company endeavors to protect user information and e-mails sent and received using the Services to ensure that user account information is kept private, however, Company cannot guarantee the security of Personal Information or e-mail transmissions. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+## Links to Other Sites
 
-The Services contain links to and interactions with other sites and services. Company is not responsible for the privacy policies and/or practices of other sites and services. When linking to another site or service you should read the privacy policy provided by that site or service. This Privacy Policy only governs information collected through the Services.
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a “ **Third-party Service** ”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
 
-This Privacy Policy addresses only the use and disclosure of information we collect from you. If you disclose your information to others, different rules may apply to their use or disclosure of the information you disclose to them. Company does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
+## International Transfer
 
- **What choices do I have?**
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.
 
-  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Services. 
-  * You can turn off or not use certain features of the Services that require you to disclose information, such as automated product updating, web searching and phishing and malware protection. 
-  * If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. (Changes to this Privacy Policy (Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+## Our Policy Toward Children
 
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
+## Questions?
 
-**Safe Harbor Framework**
-
-Nylas complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Nylas has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program, and view Nylas’s certification, by visiting [export.gov](http://www.export.gov/safeharbor/). If you have questions regarding Nylas’s Safe Harbor certification, please [contact us](mailto:safeharbor@nylas.com).
-
-**Questions or concerns?**
-
-If you have any questions or concerns regarding privacy in our Services, please send us a detailed message at privacy@nylas.com. We will make every effort to resolve your concerns.
-
-Nylas, Inc.   
-2030 Harrison St.   
-San Francisco, CA 
+Please contact us at [support@nylas.com](mailto:support@nylas.com) if you have any questions about our Privacy Policy.
