@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexking.biz privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521030646id_/https%3A//forexking.biz/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexking.biz privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828105546id_/http%3A//forexking.biz/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Forex King - Your Profitable Kingdom
 
