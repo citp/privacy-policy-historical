@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habaamerica.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618010737id_/http%3A//www.habaamerica.com/index.php/policies/%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habaamerica.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828162012id_/http%3A//www.habaamerica.com/index.php/policies/%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # HABA America Official Privacy Policy
 
