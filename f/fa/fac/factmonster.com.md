@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513031623id_/http%3A//fen.com/resources/privacy-policy-children.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828202138id_/http%3A//www.fen.com/privacy-policy-children.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -39,7 +39,7 @@
 ---|---|---  
 | [About Our Partners](https://web.archive.org/resources/partners.html)   
 |   
-| [Help](http://fen.custhelp.com/cgi-bin/learningnetwork.cfg/php/enduser/std_alp.php?p_pv=1.1&p_prods=1&prod_lvl1=1&prod_lvl2=0)|   
+| [Help](http://sandboxnetworks.custhelp.com/app/ask/p/26)|   
 | |   
   
 | 
@@ -52,7 +52,7 @@ For material changes to this privacy statement that may affect the collection or
 
 If you have any questions or concerns about this privacy statement, or your dealings with FEN, please:
 
-a) E-mail us at [Customer Support](http://fen.custhelp.com/app/ask/p/1/search/1);
+a) E-mail us at [Customer Support](http://sandboxnetworks.custhelp.com/app/ask/p/26);
 
 b) Write to us at: FEN, 50 Congress St, Suite 1025, Boston, MA 02109; or
 
