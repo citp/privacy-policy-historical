@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weblineindia.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630235636id_/http%3A//www.weblineindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblineindia.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828193645id_/https%3A//www.weblineindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WeblineINDIA
 
-WeblineINDIA understands the value of clients’ & website users’ privacy & so gives full respect & promises to protect private data & content that is given, submitted, shared & sent to us in all possible respects. As a service hosting & providing firm driven towards client’s needs for offering professional & justified quality of software, web & mobile related services globally, WeblineINDIA always remains at forefront in following & completely adapting to all the facets of privacy and its importance for companies owning a web identity. In understandable English language, we state & explain how we follow privacy concepts, practices & terms and use your content & shared information rightfully.
+WeblineIndia understands the value of clients’ & website users’ privacy & so gives full respect & promises to protect private data & content that is given, submitted, shared & sent to us in all possible respects. As a service hosting & providing firm driven towards client’s needs for offering professional & justified quality of software, web & mobile related services globally, WeblineIndia always remains at forefront in following & completely adapting to all the facets of privacy and its importance for companies owning a web identity. In understandable English language, we state & explain how we follow privacy concepts, practices & terms and use your content & shared information rightfully.
 
 Also please note that any links acquired from our Website for other blogs, web pages or web sites have their own Privacy terms & policies so we are not responsible under any conditions for the issues or flaws faced there at other sites. Clients & visitors are requested to educate themselves with other sites’ applicable Privacy terms & policies.
 
@@ -14,13 +14,13 @@ Till you willingly offer us any personal information like name, email address, r
 
 ### Use & Notice
 
-Similar to other justified practices, WeblineINDIA’s website may use regular technologies like Cookies and several other systems which may help to acquire information of user or visitor’s usage of the site. At any given point if we collect your personal information, we will give the reason or intention for doing so. We will not move any information to any company or individual without your permission, excluding under the acceptable limited areas of terms disclose in below section of “Sharing & Distribution of Information”. An “opt in” and “opt out” choice will majorly give to you so that you can select either of one & agree or disagree for direct promotional or market related information/knowledge.
+Similar to other justified practices, WeblineIndia’s website may use regular technologies like Cookies and several other systems which may help to acquire information of user or visitor’s usage of the site. At any given point if we collect your personal information, we will give the reason or intention for doing so. We will not move any information to any company or individual without your permission, excluding under the acceptable limited areas of terms disclose in below section of “Sharing & Distribution of Information”. An “opt in” and “opt out” choice will majorly give to you so that you can select either of one & agree or disagree for direct promotional or market related information/knowledge.
 
 ### General purposes/intentions for using your information:
 
 We use personal information for numerous reasons or purposes like –
 
-  * To educate you with regular activities/services/add-ons/new products & similar services offered by WeblineINDIA.
+  * To educate you with regular activities/services/add-ons/new products & similar services offered by WeblineIndia.
   * For satisfying your queries, requests or questions asked for any related services or products from our offerings.
   * To keep you updated on every enhancement & happenings
   * To educate you with special deals, packages or offers, whenever applicable
@@ -30,7 +30,7 @@ We use personal information for numerous reasons or purposes like –
 
 ### Sharing & Distribution of Information
 
-It is a policy at WeblineINDIA that your information will never get distributed or shared except in some conditions like below:
+It is a policy at WeblineIndia that your information will never get distributed or shared except in some conditions like below:
 
   * We may share your information within our branches or subsidiaries spread at other locations.
   * If in case your information is acquired for occasions like registration for you to attend an event or subscribe for our knowledge newsletters then we may share your information with third parties.
@@ -42,9 +42,9 @@ It is a policy at WeblineINDIA that your information will never get distributed 
 
 ### Security Practices
 
-WeblineINDIA is dedicatedly committed towards protecting your information with justified, strict & acknowledged practices & terms. We do this to prevent losses, misuse, unjust practices’ attempted, damage or modifications or any other sort of destructive actions done to your information. All technological measures are ensured to secure your data.
+WeblineIndia is dedicatedly committed towards protecting your information with justified, strict & acknowledged practices & terms. We do this to prevent losses, misuse, unjust practices’ attempted, damage or modifications or any other sort of destructive actions done to your information. All technological measures are ensured to secure your data.
 
-By using & referring the contents on this site, you accept & agree that WeblineINDIA is not accountable for any outside destructive actions that are indomitable or unstoppable attacks or malwares sufferings.
+By using & referring the contents on this site, you accept & agree that WeblineIndia is not accountable for any outside destructive actions that are indomitable or unstoppable attacks or malwares sufferings.
 
 ### Contact our people
 
