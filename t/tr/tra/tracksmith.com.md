@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907033958id_/http%3A//www.tracksmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829050604id_/http%3A//www.tracksmith.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,3 +37,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Questions and Feedback 
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at info@tracksmith.com.
+
+#### NEWSLETTER & RACE BULLETIN
