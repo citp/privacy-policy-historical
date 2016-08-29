@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514032935id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829060606id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
