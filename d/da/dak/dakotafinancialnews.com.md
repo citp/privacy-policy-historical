@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dakotafinancialnews.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612072054id_/http%3A//www.dakotafinancialnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakotafinancialnews.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829024821id_/http%3A//dakotafinancialnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financial Market News
 
