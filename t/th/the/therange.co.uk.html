@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the therange.co.uk privacy policy that was archived on 2016-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160504214935id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the therange.co.uk privacy policy that was archived on 2016-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160829092822id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
-		<link rel="shortcut icon" type="image/x-icon" href="http://media.therange.co.uk/pws/client/images/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="/pws/client/images/favicon.ico">
 		<title>The Range - Privacy Policy</title>
 
 		<meta name="keywords" content="">
@@ -37,9 +37,8 @@
 	    return (value != null) ? unescape(value[1]) : null;
 	}
 
-
 	dataLayer = [{
-		'pageTitle': 'The Range - Privacy Policy',
+		'pageTitle': 'The Range - Privacy Policy' || $(document).find("title").text(),
 		'pageCategory': 'content.layout'
 
 		,
@@ -54,7 +53,7 @@ $(document).on('productAddedToBag', function (e, data) {
 		'ecommerce': {
 			'currencyCode': 'GBP',
 			'add': {                                // 'add' actionFieldObject measures.
-				'products': [data]                    // data = product to be added
+				'products': [data]                   // data = product to be added
 			}
 		}
 	});
@@ -77,17 +76,23 @@ $(document).on('productRemoveFromBag', function (e, data) {
 		if (!dataLayerLoaded) {
 			dataLayerLoaded = true;
 
-			var reg_cookie = getCookie("register_form"), ctype = '';
+			var reg_cookie = getCookie("register_form");
+			var ctype = '';
 
-			if(ssnData.customer.registered) { ctype = "Returning Customer"; } else { ctype = "Unavailable"; }
-			if(reg_cookie == 1 && ssnData.customer.registered) { ctype = "New Customer" }
+			if(ssnData.customer.registered) {
+				ctype = "Returning Customer";
+			} else {
+				ctype = "Unavailable";
+			}
+			if(reg_cookie == 1 && ssnData.customer.registered) {
+				ctype = "New Customer";
+			}
 
 		    dataLayer.push({
 		 	  'customerType' : ctype,
 			  'userID': ssnData.userId ? ssnData.userId : undefined,
 			  'event': ssnData.userId ? 'loggedIn' : 'loggedOut'
 		    });
-
 		}
 	});
 
@@ -180,7 +185,7 @@ s.parentNode.insertBefore(ca, s);
 						<legend class="hide">Search</legend>
 						<input name="asug" type="hidden">
 						<input type="hidden" name="languageId" value="1">
-						<input type="hidden" name="OWASP_CSRFTOKEN" value="BZ48-4TAV-QS9G-SABQ-GMS3-95LL-KU79-D3T3">
+						<input type="hidden" name="OWASP_CSRFTOKEN" value="TTBF-XXZF-YJAN-DJJB-5NW0-XHDU-C4IE-WRNO">
 						<label for="keywords">Search website</label>
 						<div class="element_wrapper">
 							<input class="text clear_value" name="keywords" type="text" value="" id="keywords">
@@ -205,21 +210,7 @@ s.parentNode.insertBefore(ca, s);
 		</div><div id="navigation" class="dropdown">
 		<a data-toggle="dropdown" data-hover="dropdown" data-delay="500" data-close-others="false" class="dropdown-toggle" href="#">Shop by Category <b class="caret"></b></a>
 		<a id="navigation_content" name="navigation_content"></a>
-		<a id="main_navigation_home_link" title="Homepage" href="http://www.therange.co.uk/">Homepage</a><ul id="main_navigation_level_1" class="dropdown-menu"><li id="main_navigation_dept_mega_drop" class="level_1 dropdown-submenu first">
-							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/mega_drop/dept/fcp-category/list?resetFilters=true">
-							Mega Drop</a>
-					<ul class="main_navigation_level_2 dropdown-menu level_2_children_1">
-					<li id="main_navigation_dept_mega_drop_3_for_2_acrylic_paint" class="level_2  first  last  first_row_item ">
-										<a class="level_2" href="http://www.therange.co.uk/mega_drop_3_for_2_acrylic_paint/dept/fcp-category/list?resetFilters=true">
-										3 for 2: Acrylic Paint</a>
-								</li>
-						</ul>
-					</li>
-			<li id="main_navigation_dept_love_the_outdoors" class="level_1 dropdown-submenu">
-							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/love_the_outdoors/dept/fcp-category/list?resetFilters=true">
-							Love the Outdoors</a>
-					</li>
-			<li id="main_navigation_dept_home_and_furniture_furniture" class="level_1 dropdown-submenu">
+		<a id="main_navigation_home_link" title="Homepage" href="http://www.therange.co.uk/">Homepage</a><ul id="main_navigation_level_1" class="dropdown-menu"><li id="main_navigation_dept_home_and_furniture_furniture" class="level_1 dropdown-submenu first">
 							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/home_and_furniture_furniture/dept/fcp-category/home?resetFilters=true">
 							Furniture</a>
 					<ul class="main_navigation_level_2 dropdown-menu level_2_children_11">
@@ -230,12 +221,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_home_and_furniture_furniture_bedroom_furniture" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_furniture_bedroom_furniture/dept/fcp-category/list?resetFilters=true">
 										Bedroom Furniture</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_bedroom_furniture_kinsale" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_bedroom_furniture_kinsale/dept/fcp-category/list?resetFilters=true">
-														Kinsale Range</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_bedroom_furniture_bedroom_furnitur_set" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_bedroom_furniture_bedroom_furnitur_set" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_bedroom_furniture_bedroom_furnitur_set/dept/fcp-category/list?resetFilters=true">
 														Bedroom Furniture Sets</a>
 
@@ -261,8 +247,8 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											<li id="main_navigation_dept_home_and_furniture_furniture_bedroom_furniture_dressing_table_stools" class="level_3  last ">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_bedroom_furniture/dept/fcp-category/list?resetFilters=true">
-														More...</a>
+													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_bedroom_furniture_dressing_table_stools/dept/fcp-category/list?resetFilters=true">
+														Dressing Table Stools</a>
 
 												</li>
 											</ul></li>
@@ -332,12 +318,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_home_and_furniture_furniture_sofas" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_furniture_sofas/dept/fcp-category/list?resetFilters=true">
 										Sofas</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_sofas_ranee" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_sofas_ranee/dept/fcp-category/list?resetFilters=true">
-														Ranee Sofa's</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_sofas_2_seater_sofas" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_sofas_2_seater_sofas" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_sofas_2_seater_sofas/dept/fcp-category/list?resetFilters=true">
 														2 Seater Sofas</a>
 
@@ -395,17 +376,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_home_and_furniture_furniture_dining_room_furniture" class="level_2  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_furniture_dining_room_furniture/dept/fcp-category/list?resetFilters=true">
 										Dining Room Furniture</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_dining_room_furniture_cotswold_rustic" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_dining_room_furniture_cotswold_rustic/dept/fcp-category/list?resetFilters=true">
-														Cotswold Rustic Range</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_dining_room_furniture_bar_tables" class="level_3 ">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_dining_room_furniture_bar_tables/dept/fcp-category/list?resetFilters=true">
-														Breakfast Tables</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_dining_room_furniture_dining_table_sets" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_dining_room_furniture_dining_table_sets" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_dining_room_furniture_dining_table_sets/dept/fcp-category/list?resetFilters=true">
 														Dining Table Sets</a>
 
@@ -463,12 +434,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_home_and_furniture_furniture_mattresses" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses/dept/fcp-category/list?resetFilters=true">
 										Mattresses</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_mattresses_kids_mattresses" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses_kids_mattresses/dept/fcp-category/list?resetFilters=true">
-														Kids Mattresses</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_mattresses_single_mattresses" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_mattresses_single_mattresses" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses_single_mattresses/dept/fcp-category/list?resetFilters=true">
 														Single Mattresses</a>
 
@@ -760,28 +726,8 @@ s.parentNode.insertBefore(ca, s);
 			<li id="main_navigation_dept_home_and_furniture_home_furnishings" class="level_1 dropdown-submenu">
 							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/home_and_furniture_home_furnishings/dept/fcp-category/home?resetFilters=true">
 							Decor</a>
-					<ul class="main_navigation_level_2 dropdown-menu level_2_children_14">
-					<li id="main_navigation_dept_home_and_furniture_home_furnishings_lustre" class="level_2  first  first_row_item ">
-										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_lustre/dept/fcp-category/list?resetFilters=true">
-										Lustre</a>
-								</li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_masterpiece" class="level_2 ">
-										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_masterpiece/dept/fcp-category/list?resetFilters=true">
-										Masterpiece</a>
-								</li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_rustic_charm" class="level_2 ">
-										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_rustic_charm/dept/fcp-category/list?resetFilters=true">
-										Rustic Charm</a>
-								</li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_uptown_living" class="level_2 ">
-										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_uptown_living/dept/fcp-category/list?resetFilters=true">
-										Uptown Living</a>
-								</li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_country_botanicals" class="level_2 ">
-										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_country_botanicals/dept/fcp-category/list?resetFilters=true">
-										Country Botanicals</a>
-								</li>
-						<li id="main_navigation_dept_home_and_furniture_gallery" class="level_2  last_row_item ">
+					<ul class="main_navigation_level_2 dropdown-menu level_2_children_9">
+					<li id="main_navigation_dept_home_and_furniture_gallery" class="level_2  first  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_gallery/dept/fcp-category/list?resetFilters=true">
 										Wall Art and Picture Frames</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_gallery_wall_art" class="level_3  first">
@@ -810,7 +756,7 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											</ul></li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_home_accessories" class="level_2  first_row_item ">
+						<li id="main_navigation_dept_home_and_furniture_home_furnishings_home_accessories" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_home_accessories/dept/fcp-category/list?resetFilters=true">
 										Home Accessories</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_home_furnishings_home_accessories_decorative_storage" class="level_3  first">
@@ -936,7 +882,7 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											</ul></li>
-						<li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding" class="level_2 ">
+						<li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding" class="level_2  last_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_wedding/dept/fcp-category/list?resetFilters=true">
 										Wedding</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding_wedding_decoration" class="level_3  first">
@@ -949,23 +895,13 @@ s.parentNode.insertBefore(ca, s);
 														Wedding Stationery</a>
 
 												</li>
-											<li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding_wedding_gifts" class="level_3 ">
+											<li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding_wedding_gifts" class="level_3  last ">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_wedding_wedding_gifts/dept/fcp-category/list?resetFilters=true">
 														Wedding Gifts</a>
 
 												</li>
-											<li id="main_navigation_dept_home_and_furniture_soft_furnishings_fabric_organza" class="level_3 ">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_fabric_organza/dept/fcp-category/list?resetFilters=true">
-														Organza</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_home_furnishings_wedding_satin" class="level_3  last ">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_home_furnishings_wedding_satin/dept/fcp-category/list?resetFilters=true">
-														Satin</a>
-
-												</li>
 											</ul></li>
-						<li id="main_navigation_dept_home_and_furniture_soft_furnishings_throws_and_blankets" class="level_2  last_row_item ">
+						<li id="main_navigation_dept_home_and_furniture_soft_furnishings_throws_and_blankets" class="level_2  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_throws_and_blankets/dept/fcp-category/list?resetFilters=true">
 										Throws and Blankets</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_soft_furnishings_throws_and_blankets_throws" class="level_3  first">
@@ -984,7 +920,7 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											</ul></li>
-						<li id="main_navigation_dept_home_and_furniture_soft_furnishings_bean_bags" class="level_2  first_row_item ">
+						<li id="main_navigation_dept_home_and_furniture_soft_furnishings_bean_bags" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_bean_bags/dept/fcp-category/list?resetFilters=true">
 										Bean Bags</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_soft_furnishings_bean_bags_faux_leather_beanbags" class="level_3  first">
@@ -1118,12 +1054,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_home_and_furniture_furniture_mattresses" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses/dept/fcp-category/list?resetFilters=true">
 										Mattresses</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_mattresses_kids_mattresses" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses_kids_mattresses/dept/fcp-category/list?resetFilters=true">
-														Kids Mattresses</a>
-
-												</li>
-											<li id="main_navigation_dept_home_and_furniture_furniture_mattresses_single_mattresses" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_furniture_mattresses_single_mattresses" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_furniture_mattresses_single_mattresses/dept/fcp-category/list?resetFilters=true">
 														Single Mattresses</a>
 
@@ -1204,8 +1135,13 @@ s.parentNode.insertBefore(ca, s);
 											</ul></li>
 						<li id="main_navigation_dept_home_and_furniture_soft_furnishings_curtains_pencil_pleat_curtains" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_curtains_pencil_pleat_curtains/dept/fcp-category/list?resetFilters=true">
-										Pencil Pleat Curtains</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_soft_furnishings_curtains_plain_pencil_pleat_curtains" class="level_3  first">
+										Thermal &amp; Pencil Pleat Curtains</a>
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_home_and_furniture_soft_furnishings_curtains_pencil_pleat_curtains_thermal_curtains" class="level_3  first">
+													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_curtains_pencil_pleat_curtains_thermal_curtains/dept/fcp-category/list?resetFilters=true">
+														Thermal Curtains</a>
+
+												</li>
+											<li id="main_navigation_dept_home_and_furniture_soft_furnishings_curtains_plain_pencil_pleat_curtains" class="level_3 ">
 													<a class="level_3" href="http://www.therange.co.uk/home_and_furniture_soft_furnishings_curtains_plain_pencil_pleat_curtains/dept/fcp-category/list?resetFilters=true">
 														Plain Pencil Pleat Curtains</a>
 
@@ -1256,7 +1192,7 @@ s.parentNode.insertBefore(ca, s);
 											</ul></li>
 						<li id="main_navigation_dept_diy_window_fashions_curtain_poles" class="level_2  last  last_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/diy_window_fashions_curtain_poles/dept/fcp-category/list?resetFilters=true">
-										Curtain Poles</a>
+										Curtain Poles &amp; Tiebacks</a>
 								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_window_fashions_curtain_poles_metal_poles" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/diy_window_fashions_curtain_poles_metal_poles/dept/fcp-category/list?resetFilters=true">
 														Metal Curtain Poles </a>
@@ -1302,12 +1238,7 @@ s.parentNode.insertBefore(ca, s);
 					<li id="main_navigation_dept_diy_wallpaper" class="level_2  first  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/diy_wallpaper/dept/fcp-category/list?resetFilters=true">
 										Wallpaper</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_wallpaper_20_percent_off_selected_wallpaper" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/diy_wallpaper_20_percent_off_selected_wallpaper/dept/fcp-category/list?resetFilters=true">
-														20% Off Selected Wallpaper</a>
-
-												</li>
-											<li id="main_navigation_dept_diy_wallpaper_childrens_wallpaper" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_wallpaper_childrens_wallpaper" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/diy_wallpaper_childrens_wallpaper/dept/fcp-category/list?resetFilters=true">
 														Childrens Wallpaper</a>
 
@@ -1333,20 +1264,15 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											<li id="main_navigation_dept_diy_wallpaper_textured_wallpaper" class="level_3  last ">
-													<a class="level_3" href="http://www.therange.co.uk/diy_wallpaper/dept/fcp-category/list?resetFilters=true">
-														More...</a>
+													<a class="level_3" href="http://www.therange.co.uk/diy_wallpaper_textured_wallpaper/dept/fcp-category/list?resetFilters=true">
+														Textured Wallpaper</a>
 
 												</li>
 											</ul></li>
 						<li id="main_navigation_dept_diy_decorating" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/diy_decorating/dept/fcp-category/list?resetFilters=true">
 										Decorating</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_paints_emulsions" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/diy_paints_emulsions/dept/fcp-category/list?resetFilters=true">
-														Interior Paint</a>
-
-												</li>
-											<li id="main_navigation_dept_diy_decorating_ladders" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_decorating_ladders" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/diy_decorating_ladders/dept/fcp-category/list?resetFilters=true">
 														Ladders</a>
 
@@ -1372,8 +1298,8 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											<li id="main_navigation_dept_diy_decorating_decorating_accessories" class="level_3  last ">
-													<a class="level_3" href="http://www.therange.co.uk/diy_decorating/dept/fcp-category/list?resetFilters=true">
-														More...</a>
+													<a class="level_3" href="http://www.therange.co.uk/diy_decorating_decorating_accessories/dept/fcp-category/list?resetFilters=true">
+														Decorating Accessories</a>
 
 												</li>
 											</ul></li>
@@ -1395,19 +1321,9 @@ s.parentNode.insertBefore(ca, s);
 														Sanders</a>
 
 												</li>
-											<li id="main_navigation_dept_diy_hardware_power_tools_hot_air_guns" class="level_3 ">
+											<li id="main_navigation_dept_diy_hardware_power_tools_hot_air_guns" class="level_3  last ">
 													<a class="level_3" href="http://www.therange.co.uk/diy_hardware_power_tools_hot_air_guns/dept/fcp-category/list?resetFilters=true">
 														Hot Air Guns</a>
-
-												</li>
-											<li id="main_navigation_dept_diy_hardware_power_tools_angle_grinders" class="level_3 ">
-													<a class="level_3" href="http://www.therange.co.uk/diy_hardware_power_tools_angle_grinders/dept/fcp-category/list?resetFilters=true">
-														Angle Grinders</a>
-
-												</li>
-											<li id="main_navigation_dept_diy_hardware_power_tools_cordless_screwdrivers" class="level_3  last ">
-													<a class="level_3" href="http://www.therange.co.uk/diy_hardware_power_tools_cordless_screwdrivers/dept/fcp-category/list?resetFilters=true">
-														Cordless Screwdrivers</a>
 
 												</li>
 											</ul></li>
@@ -1588,11 +1504,6 @@ s.parentNode.insertBefore(ca, s);
 														Work Kit Workwear</a>
 
 												</li>
-											<li id="main_navigation_dept_clothing_womens_clothing_womens_workwear" class="level_3 ">
-													<a class="level_3" href="http://www.therange.co.uk/clothing_womens_clothing_womens_workwear/dept/fcp-category/list?resetFilters=true">
-														Womens Workwear</a>
-
-												</li>
 											<li id="main_navigation_dept_diy_workwear_workwear_accessories" class="level_3  last ">
 													<a class="level_3" href="http://www.therange.co.uk/diy_workwear_workwear_accessories/dept/fcp-category/list?resetFilters=true">
 														Workwear Accessories</a>
@@ -1601,7 +1512,7 @@ s.parentNode.insertBefore(ca, s);
 											</ul></li>
 						</ul>
 					</li>
-			<li id="main_navigation_dept_home_and_furniture_housewares" class="level_1 dropdown-submenu last ">
+			<li id="main_navigation_dept_home_and_furniture_housewares" class="level_1 dropdown-submenu">
 							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/home_and_furniture_housewares/dept/fcp-category/home?resetFilters=true">
 							Kitchen</a>
 					<ul class="main_navigation_level_2 dropdown-menu level_2_children_10">
@@ -1986,12 +1897,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_diy_fire_sides" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/diy_fire_sides/dept/fcp-category/list?resetFilters=true">
 										Fires and Heating</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_fire_sides_suites" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/diy_fire_sides_suites/dept/fcp-category/list?resetFilters=true">
-														Suites</a>
-
-												</li>
-											<li id="main_navigation_dept_diy_fire_sides_heaters" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_diy_fire_sides_heaters" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/diy_fire_sides_heaters/dept/fcp-category/list?resetFilters=true">
 														Heaters</a>
 
@@ -2212,7 +2118,7 @@ s.parentNode.insertBefore(ca, s);
 											</ul></li>
 						</ul>
 					</li>
-			<li id="main_navigation_dept_diy_bathroom" class="level_1 dropdown-submenu">
+			<li id="main_navigation_dept_diy_bathroom" class="level_1 dropdown-submenu last ">
 							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/diy_bathroom/dept/fcp-category/home?resetFilters=true">
 							Bathroom</a>
 					<ul class="main_navigation_level_2 dropdown-menu level_2_children_8">
@@ -3410,12 +3316,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_clothing_womens_clothing" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/clothing_womens_clothing/dept/fcp-category/list?resetFilters=true">
 										Womens Clothing</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_gifts_jewellery_watches" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/gifts_jewellery_watches/dept/fcp-category/list?resetFilters=true">
-														Watches</a>
-
-												</li>
-											<li id="main_navigation_dept_clothing_womens_clothing_womens_clothes" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_clothing_womens_clothing_womens_clothes" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/clothing_womens_clothing_womens_clothes/dept/fcp-category/list?resetFilters=true">
 														Womens Clothes</a>
 
@@ -3434,12 +3335,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_clothing_mens_clothing" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/clothing_mens_clothing/dept/fcp-category/list?resetFilters=true">
 										Mens Clothing</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_gifts_jewellery_watches" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/gifts_jewellery_watches/dept/fcp-category/list?resetFilters=true">
-														Watches</a>
-
-												</li>
-											<li id="main_navigation_dept_clothing_mens_clothing_mens_clothes" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_clothing_mens_clothing_mens_clothes" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/clothing_mens_clothing_mens_clothes/dept/fcp-category/list?resetFilters=true">
 														Mens Clothes</a>
 
@@ -3467,12 +3363,7 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_clothing_boys_clothing" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/clothing_boys_clothing/dept/fcp-category/list?resetFilters=true">
 										Boys Clothing</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_gifts_jewellery_watches" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/gifts_jewellery_watches/dept/fcp-category/list?resetFilters=true">
-														Watches</a>
-
-												</li>
-											<li id="main_navigation_dept_clothing_boys_clothing_boys_clothes" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_clothing_boys_clothing_boys_clothes" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/clothing_boys_clothing_boys_clothes/dept/fcp-category/list?resetFilters=true">
 														Boys Clothes</a>
 
@@ -3499,11 +3390,6 @@ s.parentNode.insertBefore(ca, s);
 											<li id="main_navigation_dept_diy_workwear_work_it_workwear" class="level_3 ">
 													<a class="level_3" href="http://www.therange.co.uk/diy_workwear_work_it_workwear/dept/fcp-category/list?resetFilters=true">
 														Work Kit Workwear</a>
-
-												</li>
-											<li id="main_navigation_dept_clothing_womens_clothing_womens_workwear" class="level_3 ">
-													<a class="level_3" href="http://www.therange.co.uk/clothing_womens_clothing_womens_workwear/dept/fcp-category/list?resetFilters=true">
-														Womens Workwear</a>
 
 												</li>
 											<li id="main_navigation_dept_diy_workwear_workwear_accessories" class="level_3  last ">
@@ -3545,12 +3431,7 @@ s.parentNode.insertBefore(ca, s);
 					<li id="main_navigation_dept_pet_care_dogs" class="level_2  first  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/pet_care_dogs/dept/fcp-category/list?resetFilters=true">
 										Dogs</a>
-								<ul class="main_navigation_level_3"><li id="main_navigation_dept_pet_care_dogs_kennels" class="level_3  first">
-													<a class="level_3" href="http://www.therange.co.uk/pet_care_dogs_kennels/dept/fcp-category/list?resetFilters=true">
-														Dog Kennels</a>
-
-												</li>
-											<li id="main_navigation_dept_pet_care_dogs_puppyessentials" class="level_3 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_pet_care_dogs_puppyessentials" class="level_3  first">
 													<a class="level_3" href="http://www.therange.co.uk/pet_care_dogs_puppyessentials/dept/fcp-category/list?resetFilters=true">
 														Puppy Essentials</a>
 
@@ -3576,6 +3457,11 @@ s.parentNode.insertBefore(ca, s);
 
 												</li>
 											<li id="main_navigation_dept_pet_care_dogs_dog_clothing" class="level_3 ">
+													<a class="level_3" href="http://www.therange.co.uk/pet_care_dogs_dog_clothing/dept/fcp-category/list?resetFilters=true">
+														Dog Clothing</a>
+
+												</li>
+											<li id="main_navigation_dept_pet_care_dogs_control_and_training" class="level_3 ">
 													<a class="level_3" href="http://www.therange.co.uk/pet_care_dogs/dept/fcp-category/list?resetFilters=true">
 														More...</a>
 
@@ -3798,13 +3684,17 @@ s.parentNode.insertBefore(ca, s);
 							<a class="level_1 dropdown-submenu" href="http://www.therange.co.uk/special_offers/dept/fcp-category/home?resetFilters=true">
 							Sale</a>
 					<ul class="main_navigation_level_2 dropdown-menu level_2_children_13">
-					<li id="main_navigation_dept_special_offers_kitchen_dining_sale" class="level_2  first  first_row_item ">
-										<a class="level_2" href="http://www.therange.co.uk/special_offers_kitchen_dining_sale/dept/fcp-category/list?resetFilters=true">
-										Kitchen &amp; Dining Sale</a>
+					<li id="main_navigation_dept_special_offers_lighting" class="level_2  first  first_row_item ">
+										<a class="level_2" href="http://www.therange.co.uk/special_offers_lighting/dept/fcp-category/list?resetFilters=true">
+										Lighting Sale</a>
 								</li>
 						<li id="main_navigation_dept_special_offers_diy_offers" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_diy_offers/dept/fcp-category/list?resetFilters=true">
 										DIY Sale</a>
+								</li>
+						<li id="main_navigation_dept_special_offers_kitchen_dining_sale" class="level_2 ">
+										<a class="level_2" href="http://www.therange.co.uk/special_offers_kitchen_dining_sale/dept/fcp-category/list?resetFilters=true">
+										Kitchen &amp; Dining Sale</a>
 								</li>
 						<li id="main_navigation_dept_special_offers_curtains_and_blinds_offers" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_curtains_and_blinds_offers/dept/fcp-category/list?resetFilters=true">
@@ -3813,22 +3703,23 @@ s.parentNode.insertBefore(ca, s);
 						<li id="main_navigation_dept_special_offers_furniture_offers" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_furniture_offers/dept/fcp-category/list?resetFilters=true">
 										Furniture Sale</a>
-								</li>
-						<li id="main_navigation_dept_special_offers_utility_and_bathroom_offers" class="level_2 ">
+								<ul class="main_navigation_level_3"><li id="main_navigation_dept_special_offers_furniture_offers_clearance" class="level_3  first last ">
+													<a class="level_3" href="http://www.therange.co.uk/special_offers_furniture_offers_clearance/dept/fcp-category/list?resetFilters=true">
+														Clearance Lines</a>
+
+												</li>
+											</ul></li>
+						<li id="main_navigation_dept_special_offers_utility_and_bathroom_offers" class="level_2  last_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_utility_and_bathroom_offers/dept/fcp-category/list?resetFilters=true">
 										Utility &amp; Bathroom Sale</a>
 								</li>
-						<li id="main_navigation_dept_special_offers_decor_and_bedding_offers" class="level_2  last_row_item ">
+						<li id="main_navigation_dept_special_offers_decor_and_bedding_offers" class="level_2  first_row_item ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_decor_and_bedding_offers/dept/fcp-category/list?resetFilters=true">
 										Decor &amp; Bedding Sale</a>
 								</li>
-						<li id="main_navigation_dept_special_offers_rugs_offers" class="level_2  first_row_item ">
+						<li id="main_navigation_dept_special_offers_rugs_offers" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_rugs_offers/dept/fcp-category/list?resetFilters=true">
 										Rugs Sale</a>
-								</li>
-						<li id="main_navigation_dept_special_offers_diy_and_lighting_offers" class="level_2 ">
-										<a class="level_2" href="http://www.therange.co.uk/special_offers_diy_and_lighting_offers/dept/fcp-category/list?resetFilters=true">
-										DIY &amp; Lighting Sale</a>
 								</li>
 						<li id="main_navigation_dept_special_offers_garden_centre_offers" class="level_2 ">
 										<a class="level_2" href="http://www.therange.co.uk/special_offers_garden_centre_offers/dept/fcp-category/list?resetFilters=true">
@@ -3853,18 +3744,17 @@ s.parentNode.insertBefore(ca, s);
 						</ul>
 					</li>
 			</ul><!--FRESCA-CMS-CONTENT. ~PageKey:TopNav~ ~FieldName:TopNavigation~ FRESCA-CMS-CONTENT--><div class="navigation-bar">
-	<ul>
-		<li>
-			<a href="http://www.therange.co.uk/fcp/content/delivery_and_returns/content"><span>FREE</span> Delivery on orders over £50 for regular items*
-			</a>
-		</li>
-				<li>
-			<a href="http://www.therange.co.uk/special_offers/dept/fcp-category/home">
-				<img style="margin-top: -2px;" src="http://www.therange.co.uk/pws/client/images/christmas-2015/sale-badge.jpeg">
-			</a>
-		</li>
-	</ul>
-</div><!--END-FRESCA-CMS-CONTENT. ~PageKey:TopNav~ ~FieldName:TopNavigation~ END-FRESCA-CMS-CONTENT--></div>
+                <ul>
+                                <li>
+                                                <a href="http://www.therange.co.uk/fcp/content/delivery_and_returns/content"><span>FREE</span> Delivery on orders over £50 for regular items*
+                                                </a>
+                                </li>
+                                                                <li><a href="http://www.therange.co.uk/mega_drop_deals/dept/fcp-category/list?resetFilters=true" style="color:#ec1c2d">Mega Drop Deals</a></li>
+                                                                <li><a href="http://www.therange.co.uk/back_to_uni/dept/fcp-category/list?resetFilters=true" style="color:#6c3f6d">Back To Uni</a></li>
+                                                                <li><a href="http://www.therange.co.uk/special_offers/dept/fcp-category/home"><img style="margin-top: -2px;" src="http://www.therange.co.uk/pws/client/images/christmas-2015/sale-badge.jpeg"></a></li>
+                </ul>
+</div>
+<!--END-FRESCA-CMS-CONTENT. ~PageKey:TopNav~ ~FieldName:TopNavigation~ END-FRESCA-CMS-CONTENT--></div>
 
 	<div id="guide" class="container">
 		<a id="guide_content" name="guide_content"></a>
