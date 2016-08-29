@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627003016id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830005236id_/https%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
-## What is your Privacy Policy?
+### What is your Privacy Policy?
 
 This Website is operated by Illicit Encounters ®.
 
@@ -41,4 +41,4 @@ Payment Card Details : We do not store credit card details nor do we share cust
 
 Contacting the Website : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please do not hesitate to contact us.
 
-[Back]()
+[Back](https://www.illicitencounters.com/?a_aid=4b1a763578058&a_bid=ff5fbac6)
