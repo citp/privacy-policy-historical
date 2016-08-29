@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudhq.net privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915161149id_/https%3A//www.cloudhq.net/privacy%3Fhomepage_type%3Dgoogle_apps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudhq.net privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829033518id_/https%3A//www.cloudhq.net/privacy%3Fhomepage_type%3Dgoogle_apps) for the most accurate reproduction.*
 
 # cloudHQ.net - cloudHQ
 
@@ -30,7 +30,7 @@ We may disclose your information to third parties if we determine that such disc
 
 ### Safe Habor
 
-cloudHQ complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. cloudHQ is self-certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view StartupJo’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
+cloudHQ complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. cloudHQ is self-certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view cloudHQ's certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, cloudHQ commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact cloudHQ at privacy@cloudHQ.net 
 
