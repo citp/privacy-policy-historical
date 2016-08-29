@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611040535id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829204354id_/https%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chewy.com
 
