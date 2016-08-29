@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529095051id_/https%3A//www.southuniversity.edu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830003640id_/https%3A//www.southuniversity.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - South University
 
