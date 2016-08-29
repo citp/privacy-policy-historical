@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328205858id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829091246id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
 
 # Amplitude
 
