@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424182922id_/https%3A//www.gossimer.com/guaranteed-and-effective-privacy-policy-of-gossimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829035717id_/https%3A//www.gossimer.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Guaranteed and Effective Privacy Policy of Gossimer
+# Privacy Policy - Gossimer
+
+## Guaranteed and Effective Privacy Policy of Gossimer
+
+Gossimer believes in integrity, and this is why we have set rules and regulations that govern the manner, in which we collect, use, maintain and disclose information collected from our customers. These rules apply to those visiting our site as well as those who buy our products and services.
 
 Personal identification information
 
