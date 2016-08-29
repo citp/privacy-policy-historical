@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316030349id_/https%3A//www.alliancehealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829231724id_/https%3A//www.alliancehealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alliance Health
 
@@ -50,7 +50,7 @@ When you join an Alliance Health community, you may set up your personal profile
 By clicking the “Accept” button during registration or by using our sites, you explicitly accept or “opt-in”, without limitation or qualification, to the collection, use and transfer of Personally Identifiable Information provided by you in the manner described in this Privacy Policy; as well as in our Terms of Use.
 
   * In the event you want to delete your profile, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com).
-  * If you have not joined an Alliance Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com); or to opt-out of emails click on this link. <http://pages.email-alliancehealth.com/page.aspx?QS=330c754b5e92df74b9d547cb12ff96512dc535715cba82ff>
+  * If you have not joined an Alliance Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com); or to opt-out of emails [click on this link.](http://pages.email-alliancehealth.com/page.aspx?QS=330c754b5e92df74b9d547cb12ff96512dc535715cba82ff)
   * If you have reason to believe someone has created an unauthorized profile of you (“a fake account”), you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com) to have us investigate and delete the unauthorized profile.
   * See additional information under “Your Rights as a User; Access/Choice” below.
 
@@ -124,7 +124,7 @@ Violation of Alliance Health Networks’ Privacy Policy and/or Terms of Use for 
 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as Flash to collect and store information.
 
-To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+[To manage Flash LSOs please click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 #### How Alliance Health Uses Your Information
 
@@ -252,7 +252,7 @@ Your use of the site and any services provided by Alliance Health after any chan
 
 [](http://privacy.truste.com/privacy-seal/Alliance-Health-Networks/validation?rid=fbf340a1-6401-40cd-9968-31e73635a8b8)
 
-Alliance Health Networks (“Alliance Health”) has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers information collected through this website, www.alliancehealth.com and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+Alliance Health Networks (“Alliance Health”) has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers information collected through this website, www.alliancehealth.com and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 #### Children
 
