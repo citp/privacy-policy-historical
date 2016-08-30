@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbismart.com privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824044102id_/http%3A//www.sbismart.com/sites/default/files/PRIVACY%2520POLICY_SSL.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbismart.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830050422id_/https%3A//www.sbismart.com/sites/default/files/PRIVACY%2520POLICY_SSL.pdf) for the most accurate reproduction.*
 
 # 
 
