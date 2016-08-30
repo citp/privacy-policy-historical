@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423175717id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830161537id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unlocator
+
+**We are aware of the US Beta region issues. There is no need to submit further tickets on the issue.**
 
 This website is managed by
 
