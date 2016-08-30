@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majdol.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174340id_/http%3A//majdol.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majdol.in privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830031836id_/http%3A//majdol.in/privacy) for the most accurate reproduction.*
 
 # Privacy | Managment
 
