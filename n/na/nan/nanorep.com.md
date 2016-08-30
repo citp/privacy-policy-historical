@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630185801id_/http%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830205519id_/https%3A//www.nanorep.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy | nanoRep
+# Privacy Policy | nanorep
 
-nanorep Technologies Ltd. ("nanorep", "us" or "we") respect your privacy. This policy explains the privacy practices for our website [nanorep.com](https://web.archive.org/) (the " **Website** "). It describes the ways your personal information is collected and used in connection with the Website. This policy is incorporated by reference to our [Terms of Service](https://web.archive.org/terms) (Terms and Conditions of Website Usage).
+nanorep Technologies Ltd. (“nanorep”, “us” or “we”) respect your privacy. This policy explains the privacy practices for our website [nanorep.com](https://web.archive.org/) (the “ **Website** “). It describes the ways your personal information is collected and used in connection with the Website. This policy is incorporated by reference to our [Terms of Service](https://web.archive.org/terms) (Terms and Conditions of Website Usage).
 
 The personal information you provide through the Website (as described below) is up to your own volition and depends on your consent to this policy. You are not legally obligated to provide or give access to this information.
 
@@ -57,7 +57,7 @@ We implement measures to reduce risks of damage, loss and unauthorized access or
 
 We and our third party website analytics providers may use cookies on the Website. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. The cookies may contain a variety of information, such as the web pages you have accessed, session durations and IP addresses. Cookies are used for various purposes, such as to personalize the use of the Website and collect statistical information about the use of the Website.
 
-Some cookies may expire when the session ends and you close your browser. Other cookies are saved on your computer's hard drive. If you wish to block cookies, you may do so through your browser’s settings. Please refer to the browser's help file for further information. However, bear in mind that disabling cookies may complicate or even prevent use of the Website, or certain features in it.
+Some cookies may expire when the session ends and you close your browser. Other cookies are saved on your computer’s hard drive. If you wish to block cookies, you may do so through your browser’s settings. Please refer to the browser’s help file for further information. However, bear in mind that disabling cookies may complicate or even prevent use of the Website, or certain features in it.
 
 ## Transfer of data outside your territory
 
@@ -75,7 +75,7 @@ In any event, we will seek your explicit consent if we wish to have substantial 
 
 ## Commercial communications
 
-By providing us your email through our 'request a demo' form or other forms indicating your commercial interest in our services, you give your consent to us sending you marketing messages via your email. You may opt-out of our newsletters and marketing messages by following emailing us your request, to: [support@nanorep.com](mailto:support@nanorep.com).
+By providing us your email through our ‘request a demo’ form or other forms indicating your commercial interest in our services, you give your consent to us sending you marketing messages via your email. You may opt-out of our newsletters and marketing messages by following emailing us your request, to: [support@nanorep.com](mailto:support@nanorep.com).
 
 ## Controlling your personal information
 
