@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830122620id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
  Museum of Broadcast Communications was made possible thanks to a generous grant by:
 
-                                                      I [Terms Of Use](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20160630044757id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
+                                                      I [Terms Of Use](https://web.archive.org/web/20160830122620id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20160830122620id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
 
 ## Your privacy is very important to The Museum of Broadcast Communications 
 
