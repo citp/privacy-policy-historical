@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the couponclue.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618180602id_/http%3A//www.couponclue.com/privecy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponclue.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830133242id_/https%3A//www.couponclue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | COUPONCLUE
-
-### Privacy Policy 
+# Save Money with Latest Coupon Codes and Deals :: Coupon Clue Promo Codes 2015
 
 ####  What information do we collect ? 
 
