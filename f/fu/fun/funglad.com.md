@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funglad.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504094857id_/http%3A//www.funglad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funglad.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830230130id_/http%3A//www.funglad.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy « Fun Glad
 
