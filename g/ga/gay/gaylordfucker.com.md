@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaylordfucker.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134517id_/http%3A//www.gaymaletube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaylordfucker.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830140405id_/http%3A//www.gaymaletube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
