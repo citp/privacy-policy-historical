@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stylesurat.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214023116id_/http%3A//www.stylesurat.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylesurat.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830204256id_/http%3A//www.stylesurat.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
+Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -10,7 +10,7 @@
 
 stylesurat.com, through its website, is extremely proud of it’s commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
-For further details/query regarding the privacy policy, you may contact us at jayesh@stylesurat.com
+For further details/query regarding the privacy policy, you may contact us at care@stylesurat.com
 
   * We respect your privacy and are committed to maintaining it. When you shop on our shopping store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password.
 
