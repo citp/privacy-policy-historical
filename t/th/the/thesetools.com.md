@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesetools.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607051453id_/http%3A//www.thesetools.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesetools.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830120837id_/http%3A//www.thesetools.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Toolsite
 
@@ -18,7 +18,7 @@ Thesetools.com website does not use cookies.
 
 ## Updating, Correcting, and Deleting Personal Information
 
-**** If you would like to have your personal information removed from our records, please send an Email with “Remove personal information” in the subject line.
+ **** If you would like to have your personal information removed from our records, please send an Email with “Remove personal information” in the subject line.
 
 ## Legally Compelled Disclosure of Information
 
