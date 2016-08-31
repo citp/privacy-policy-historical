@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newretrowave.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411180512id_/https%3A//www.newretrowave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newretrowave.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831202428id_/https%3A//www.newretrowave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — NewRetroWave | Stay Retro! | Live The 80's Dream! |
 
