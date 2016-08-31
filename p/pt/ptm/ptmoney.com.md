@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptmoney.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407090648id_/http%3A//ptmoney.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptmoney.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831120730id_/http%3A//ptmoney.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PT Money
 
