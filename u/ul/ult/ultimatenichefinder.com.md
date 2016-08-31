@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ultimatenichefinder.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925115202id_/http%3A//ultimatenichefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatenichefinder.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901003250id_/https%3A//ultimatenichefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Niche Finder
 
-Hango Ventures, LLC is committed to safeguard your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement “UNF” shall mean UltimateNicheFinder.com. This policy may change from time to time so please re-read this policy periodically.
+Ultimate Niche Finder LLC is committed to safeguard your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement “UNF” shall mean UltimateNicheFinder.com. This policy may change from time to time so please re-read this policy periodically.
 
 **Information we gather**
 
-Our site collects information in several ways. When you sign up with our UNF services, you are required to complete a registration form. UNF request your “Contact Information” like your name, email address, financial information (such as payment details and credit card details) and your address and phone number. Credit card information is not stored on our servers. Credit card information is stored by Stripe.com.
+Our site collects information in several ways. When you sign up with our UNF services, you are required to complete a registration form. UNF requests your “Contact Information” like your name, email address, financial information (such as payment details and credit card details) and your address and phone number. Credit card information is not stored on our servers. Credit card information is stored by Stripe.com.
 
 **How we use the information we gather**
 
-The Contact Information from the registration form is used to register users in our database, and is also used to get in touch with them when necessary. UNF do not collect or store any financial information. Secure online payments are provided by stripe.com, Inc.
+The Contact Information from the registration form is used to register users in our database, and is also used to get in touch with them when necessary. UNF does not collect or store any financial information. Secure online payments are provided by Stripe.com, Inc.
 
 **The people that are given access to this information**
 
