@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627103919id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831024719id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
 
 # AutoRevo Website Privacy Policy - AutoRevo
 
