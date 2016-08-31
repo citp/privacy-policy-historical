@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidblog.gs privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603005434id_/http%3A//www.androidblog.gs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidblog.gs privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901003418id_/https%3A//www.androidblog.gs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AndroidBlog - Root Guides, ROMs, Reviews & Android Apps
 
@@ -30,7 +30,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Some of our advertising partners, like Google AdSense, may use cookies and web beacons on our site.
 
-###  **To EU Users:**
+### **To EU Users:**
 
 Please read our disclosure notice as part of our compliance to the EU user consent policy:
 
@@ -46,7 +46,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Note:** AndroidBlog.gs also uses **Infolinks** as other alternative ad networks.
+**Note:** AndroidBlog.gs also uses **Infolinks** as other alternative ad networks.
 
 At AndroidBlog.gs, we do our best to protect your personal details but we cannot guarantee the security of any information that you transmit to This site. You are solely responsible for maintaining the secrecy of any passwords or other account information. Additionally, other internet sites that may be accessible through AndroidBlog.gs, have separate privacy practices and data, therefore we disclaim any responsibility for their policies or actions.
 
