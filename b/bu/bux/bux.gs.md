@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bux.gs privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629195041id_/http%3A//bux.gs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bux.gs privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831030700id_/http%3A//bux.gs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Tips To Make Money Online
 
