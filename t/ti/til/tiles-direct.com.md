@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiles-direct.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616105525id_/http%3A//www.tiles-direct.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiles-direct.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831032334id_/http%3A//www.tiles-direct.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,4 +91,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site
 
  **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 0845 6 80 80 31 or by emailing us at info@tiles-direct.com
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 0113 253 0005 or by emailing us at info@tiles-direct.com
