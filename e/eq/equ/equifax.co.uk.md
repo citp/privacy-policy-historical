@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625083227id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901212523id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Equifax UK
 
@@ -8,7 +8,7 @@ We are Equifax Limited.,("Equifax" / "we" / "us" / "our") a company registered i
 
 ## Consent
 
-By using this website you agree that we can place the cookies described below on your device. Please refer to the ‘How to manage cookies’ section of this policy for more information.
+**By using this website you agree that we can place the cookies described below on your device**. Please refer to the ‘How to manage cookies’ section of this policy for more information.
 
 By using this website you also signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Privacy & Cookie Policy. You will also be deemed to have read and accepted this Privacy & Cookie Policy.   
 
@@ -17,7 +17,7 @@ By using this website you also signify that you have consented to our collecting
 
 **What is a cookie?**
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. A device can refer to a computer, smartphone or tablet. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) . For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)   
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. A device can refer to a computer, smartphone or tablet. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) . For a video about cookies visit <https://www.youtube.com/watch?v=TBR-xtJVq7E>   
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
 
 **How we use cookies**
@@ -34,27 +34,45 @@ These cookies collect information about how visitors use the website, for instan
 
 **An example of a performance cookie we use is:**
 
+**Cookie**
+
+| 
+
+**What the cookie is used for**  
+  
+---|---  
+  
 **Google Analytics**
 
 | 
 
 We use Google Analytics to give us insight into how our users interact with the website. The information collected is anonymous and statistical in nature, including the number of visitors to the website, where they have come to the site from and the pages they have visited. More information can be found at: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
   
----|---  
-  
 ### Category 3: Functionality cookies – These cookies remember choices you make to improve your experience.
 
 These cookies allow the website to remember choices you make (such as your user name or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video. The information these cookies collect is anonymised and cannot track your browsing activity on other websites.
 
-**An example of a functional cookie we use is:**
+**Examples of the functional cookies we use include:**
 
+**Cookie**
+
+| 
+
+**What the cookie is used for**  
+  
+---|---  
+  
+**Cookie Compliance**
+
+| 
+
+These cookies are used to track the acceptance of the equifax cookie policy and place a cookie on the customers browser recording acknowledgement.  
+  
 **Style**
 
 | 
 
 A content management session cookie used to remember selections and preferences which expires when the user exists their browser session. The cookie stores no personal data or identifiers.  
-  
----|---  
   
 ### Category 4: Targeting cookies or advertising cookies – These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
 
@@ -84,13 +102,13 @@ We may allow third party organisations to set cookies using this website in orde
 
 | 
 
-We use the Adobe SiteCatalyst analytics product to give us insights into how our users interact with the website. The information collected is anonymous and statistical in nature. To find out more , go to <http://www.omniture.com/en/privacy/visualsciences/policy>  
+We use the Adobe SiteCatalyst analytics product to give us insights into how our users interact with the website. The information collected is anonymous and statistical in nature. To find out more , go to <http://www.adobe.com/privacy/marketing-cloud.html>  
   
 **Adobe Test and Target**
 
 | 
 
-Adobe on-site personalisation services allow us to test new content and make our websites, apps, social networking pages, or emails more relevant to you. To learn more visit <http://www.adobe.com/uk/privacy/analytics.html>  
+Adobe on-site personalisation services allow us to test new content and make our websites, apps, social networking pages, or emails more relevant to you. To learn more visit [https://marketing.adobe.com/.../cookies_target.html](https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_target.html)  
   
 **Brighttag**
 
@@ -98,11 +116,23 @@ Adobe on-site personalisation services allow us to test new content and make our
 
 We use BrightTag to manage our other tags, such as Google Analytics and Adobe SiteCatalyst. BrightTag does not capture any additional information in itself but helps us to make changes to our website and keeps the page loading times down. For more information, go to <http://www.brighttag.com/products/tag-management/>  
   
-**crwdcntrl.net**
+**Ensighten**
+
+| 
+
+We use Ensighten Services to give us insights into how our users interact with the website. The information collected is anonymous and statistical in nature. To find out more , go to <https://www.ensighten.com/privacy-policy/>  
+  
+**w55c.net, crwdcntrl.net**
 
 | 
 
 We may allow these cookies to be set by, Lotame Solutions Inc. They also collect browsing non-personal data to support customised advertising campaigns and related activities. To find out more about these cookies and how to manage them, go to <http://www.lotame.com/legal>  
+  
+**Google Analytics**
+
+| 
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. [https://developers.google.com/.../cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
   
 **Google - Doubleclick**
 
@@ -110,29 +140,17 @@ We may allow these cookies to be set by, Lotame Solutions Inc. They also collect
 
 We sometimes conduct advertising campaigns using Doubleclick, a service from Google. To find out more about Doubleclick cookies and how to control them, go to <http://www.google.co.uk/policies/privacy/ads/>  
   
-**interclick.com**
-
-| 
-
-Interclick, part of Yahoo, use cookies to collect and analyse the online behaviour of website users. To find out more, go to <http://www.interclick.com/privacy/privacy-policy>  
-  
 **invitemedia.com**
 
 | 
 
 Invite Media runs a platform that allows organisations to buy or sell space on websites for online advertising. More information can be found at <http://www.invitemedia.com/privacy_policy.shtml>  
   
-**lucidmedia.com**
-
-| 
-
-These cookies are used for the collection of anonymous information to support the placement of relevant online advertising when you surf the internet. You can manage these cookies at <http://www.lucidmedia.co./opt_out>  
-  
 **netmng.com**
 
 | 
 
-These cookies are used for the collection of anonymous information to support the placement of relevant online advertising when you surf the internet. For more information on these cookies and how to manage then, go to <http://wwwnetmining.com/privacy-policy/services/>  
+These cookies are used for the collection of anonymous information to support the placement of relevant online advertising when you surf the internet. For more information on these cookies and how to manage then, go to <http://oo.netmng.com/optout/cp/en.html>  
   
 **scorecardresearch**
 
@@ -145,6 +163,18 @@ These cookies are set by Scorecard Research, part of comScore Inc. They collect 
 | 
 
 These cookies are set by Specific Media who run an online advertising network. More information on these cookies and how to manage them can be found at <http://www.specificmeadia.co.uk/privacy>  
+  
+**Quantcast**
+
+| 
+
+These cookies are set by Quantserve who do audience research and behavioural advertising. More information about these cookies and how to manage them can be found at [http://www.quantserve.com](http://www.quantserve.com/)  
+  
+**Equifax.co.uk**
+
+| 
+
+These cookies are used to track the acceptance of the Equifax cookie policy and place a cookie on the customers browser recording acknowledgement.  
   
 ### The information that we collect about you
 
@@ -202,7 +232,7 @@ You also have the right to receive a copy of all the personal information that w
 
 ## Information security
 
-We recognise the importance of keeping your personal information secure. We take reasonable steps to ensure that our online transactions are secure and that we protect the privacy of information provided to us. We have strict security and confidentiality procedures covering the storage and disclosure of information in order to maintain confidentiality; prevent unauthorised access; and to comply with the Data Protection Act 1998. Our senior leaders have endorsed and signed the Information Commissioner's 'Personal Information Promise' to demonstrate our commitment to data protection. You can read about the Personal Information Promise on the Information Commissioner Office website www.ico.gov.uk.
+We recognise the importance of keeping your personal information secure. We take reasonable steps to ensure that our online transactions are secure and that we protect the privacy of information provided to us. We have strict security and confidentiality procedures covering the storage and disclosure of information in order to maintain confidentiality; prevent unauthorised access; and to comply with the Data Protection Act 1998. Our senior leaders have endorsed and signed the Information Commissioner's 'Personal Information Promise' to demonstrate our commitment to data protection. You can read about the Personal Information Promise on the Information Commissioner Office website [www.ico.gov.uk](https://www.ico.gov.uk/).
 
 ## Changes to this policy
 
@@ -216,4 +246,4 @@ If you have any queries about our on-line Privacy & Cookie Policy or our informa
 
 ## Latest Version
 
-January 2015 (C4) 
+July 2016 
