@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliphub.tv privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630080704id_/http%3A//www.cliphub.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliphub.tv privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901044842id_/http%3A//www.cliphub.tv/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -51,4 +51,4 @@ cliphub has the discretion to update this privacy policy at any time. When we do
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20160630080704id_/http%3A//www.cliphub.tv/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20160901044842id_/http%3A//www.cliphub.tv/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
