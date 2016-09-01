@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigxvideos.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052222id_/http%3A//www.bigxvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigxvideos.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902013134id_/http%3A//www.bigxvideos.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porn videos, HD Porno Movies, XXX Porn tube, Online Sex Porn and Free Streaming Clips
 
