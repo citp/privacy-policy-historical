@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huskerstoday.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331065746id_/http%3A//huskerstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskerstoday.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902141548id_/http%3A//huskerstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Nebraska Cornhusker News
+# Privacy Policy - Huskers Today
 
 ## **Privacy Policy**
 
