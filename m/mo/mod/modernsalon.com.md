@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624071722id_/http%3A//www.bobitbusinessmedia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902204546id_/http%3A//www.bobitbusinessmedia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bobit Business Media
 
