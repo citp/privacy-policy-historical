@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171153id_/https%3A//uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902132228id_/https%3A//uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
 # UIDAI - Privacy Policy
 
