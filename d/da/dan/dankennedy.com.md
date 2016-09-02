@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dankennedy.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503084244id_/http%3A//dankennedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dankennedy.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902073741id_/http%3A//dankennedy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GKIC.com
 
