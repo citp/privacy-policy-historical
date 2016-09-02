@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123101837id_/http%3A//www.clickandchat.com/dev/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902115927id_/https%3A//clickandchat.com/privacy) for the most accurate reproduction.*
 
-# ClickAndChat | Privacy
+# Privacy | Click and Chat
 
 We are committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.
 
