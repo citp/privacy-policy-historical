@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebeautymadness.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317233131id_/http%3A//www.thebeautymadness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeautymadness.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902045116id_/http%3A//www.thebeautymadness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - thebeautymadness
 
@@ -22,11 +22,11 @@ Our Site may use “cookies” to enhance User experience.User’s web browser p
 
 Thebeautymadness may collect and use Users personal information for the following purposes:
 
-  * **_\- To improve our Site_**  
+  * **_– To improve our Site_**  
 We may use feedback you provide to improve our products and services.
 
 
-  * **_\- To send periodic emails_**  
+  * **_– To send periodic emails_**  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -62,6 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 [www.thebeautymadness.com](http://www.thebeautymadness.com/)  
-thbeautymadness@gmail.com
+thebeautymadness@gmail.com
 
-This document was last updated on September 28, 2014
+This document was last updated on Aug 28, 2016
