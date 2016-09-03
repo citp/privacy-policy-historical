@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625012225id_/https%3A//www.tuscl.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903225052id_/https%3A//www.tuscl.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.myfreecams.com/?cam=30487&track=banner792x90a#Homepage)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
