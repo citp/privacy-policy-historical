@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads1games.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630222230id_/http%3A//www.ads1games.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads1games.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903123743id_/http%3A//www.ads1games.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « Video Games Reviews & News – Ads1Games
 
