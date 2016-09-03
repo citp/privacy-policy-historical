@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellonomad.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514020258id_/http%3A//www.hellonomad.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellonomad.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903032921id_/http%3A//www.hellonomad.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Nomad Privacy Policy
 
