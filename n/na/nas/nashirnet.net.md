@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616132118id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashirnet.net privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903034836id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
