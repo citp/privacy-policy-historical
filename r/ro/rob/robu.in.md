@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robu.in privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504210349id_/http%3A//robu.in/10137-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robu.in privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903210211id_/https%3A//robu.in/10137-2) for the most accurate reproduction.*
 
 # Privacy policy - Robu.in | Indian Online Store | RC Hobby | Robotics
 
