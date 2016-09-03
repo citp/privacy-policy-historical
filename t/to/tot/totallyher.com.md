@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyher.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624134658id_/http%3A//www.totallyher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyher.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903065056id_/http%3A//www.totallyher.com/privacy) for the most accurate reproduction.*
 
 # TotallyHer
 
