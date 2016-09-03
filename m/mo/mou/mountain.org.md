@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountain.org privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504012035id_/http%3A//www.mountain.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountain.org privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903094106id_/http%3A//www.mountain.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mountain Institute
 
