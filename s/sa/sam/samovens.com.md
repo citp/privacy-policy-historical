@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samovens.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317023241id_/http%3A//www.samovens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samovens.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904030418id_/https%3A//go.samovens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sam Ovens
+# 
 
 OVENS Enterprises Group understands that your privacy is important to you. We are committed to protecting the privacy of your personally-identifiable information as you use this website. This Privacy Policy tells you how we protect and use information that we gather from you. By using this website, you consent to the terms described in the most recent version of this Privacy Policy. You should also read our Terms of Use to understand the general rules about your use of this website, and any additional terms that may apply when you access particular services or materials on certain areas of this website. “We,” “our” means OVENS Enterprises Group and its affiliates. “You,” “your,” visitor,” or “user” means the individual accessing this site.
 
@@ -42,7 +42,7 @@ This site may provide public discussions on various business valuation topics. P
 
 **HOW CAN A USER ACCESS, CHANGE, AND/OR DELETE PERSONAL INFORMATION?**
 
-You may access, correct, update, and/or delete any personally-identifiable information that you submit to the web site. You may also unsubscribe from mailing lists or any registrations on the web site. To do so, please either follow instructions on the page of the web site on which you have provided such information or subscribed or registered or contact us at [support@samovenshelpdesk.com](mailto:support@samovenshelpdesk.com)
+You may access, correct, update, and/or delete any personally-identifiable information that you submit to the web site. You may also unsubscribe from mailing lists or any registrations on the web site. To do so, please either follow instructions on the page of the web site on which you have provided such information or subscribed or registered or contact us at [support@samovenshelpdesk.com](mailto:support@samovenshelpdesk.com)
 
 **CHILDREN’S PRIVACY**
 
@@ -50,4 +50,4 @@ OVENS Enterprises Group will not intentionally collect any personal information 
 
 **CHANGES**
 
-OVENS Enterprises Group reserves the right to modify this statement at any time. Any changes to this Privacy Policy will be listed in this section, and if such changes are material, a notice will be included on the home page of the web site for a period of time. If you have any questions about privacy at any websites operated by OVENS Enterprises Group or about our website practices, please contact us at: support@samovenshelpdesk.com.
+OVENS Enterprises Group reserves the right to modify this statement at any time. Any changes to this Privacy Policy will be listed in this section, and if such changes are material, a notice will be included on the home page of the web site for a period of time. If you have any questions about privacy at any websites operated by OVENS Enterprises Group or about our website practices, please contact us at: support@samovenshelpdesk.com
