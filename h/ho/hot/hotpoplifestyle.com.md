@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpoplifestyle.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506054218id_/http%3A//hotpoplifestyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpoplifestyle.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904132750id_/http%3A//hotpoplifestyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Lifestyle
 
