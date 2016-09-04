@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619083642id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904105949id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stella & Dot
 
@@ -6,9 +6,9 @@ Stella & Dot wants your experience with us to be nothing short of fabulous. We r
 
 This Privacy Policy is incorporated into our Terms of Use. All capitalized terms not defined in this Privacy Policy have the meaning set forth in the Terms of Use.
 
-**This Privacy Policy applies to the Service, and it also applies to collection of your Personal Information from offline sources as described in this Privacy Policy.**
+ **This Privacy Policy applies to the Service, and it also applies to collection of your Personal Information from offline sources as described in this Privacy Policy.**
 
-**"Personal Information"** means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+ **"Personal Information"** means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
 ## COLLECTION OF INFORMATION
 
@@ -25,25 +25,25 @@ We also collect information, such as anonymous usage statistics, by using cookie
 
 You do not need to provide Personal Information to visit the Service. All Personal Information gathered is on a voluntary basis. If you decide to provide us with your Personal Information, we may store it through whatever means you provided such information (through our Service, Independent Business Owner, via email or facsimile, etc.). By using the Service, submitting a signed Customer Order Form to an Independent Business Owner, or submitting a new Independent Business Owner Agreement to us, you also authorize us to gather, parse, retain, use, and disclose information to provide the Service and our services as described in this Privacy Policy, unless we are notified otherwise.
 
-**Customer Online Registration.** To register as a customer on our Website, you may need to provide Personal Information, such as your name, email address, and password. You may also provide other optional information, such as your month and day of birth.
+ **Customer Online Registration.** To register as a customer on our Website, you may need to provide Personal Information, such as your name, email address, and password. You may also provide other optional information, such as your month and day of birth.
 
-**Customer Information from Independent Business Owners.** Customers may complete and sign a Customer Order Form at a Trunk Show and provide it to an Independent Business Owner. The Independent Business Owner will submit the information to us through the Service so that we may process your order. Customers may also provide their contact information to Independent Business Owners without making a purchase, and Independent Business Owners may save such information in their contact lists on the Service. All Independent Business Owners must abide by this Privacy Policy and must not share information except in connection with their Stella & Dot business.
+ **Customer Information from Independent Business Owners.** Customers may complete and sign a Customer Order Form at a Trunk Show and provide it to an Independent Business Owner. The Independent Business Owner will submit the information to us through the Service so that we may process your order. Customers may also provide their contact information to Independent Business Owners without making a purchase, and Independent Business Owners may save such information in their contact lists on the Service. All Independent Business Owners must abide by this Privacy Policy and must not share information except in connection with their Stella & Dot business.
 
-**Independent Business Owner Registration.** To register as an Independent Business Owner on our Service, you may need to provide Personal Information, such as your name, social security number, tax identification number, date of birth, email address, telephone number, postal address, and password. You may also provide other information, such as your photograph and information in your completed and digitally signed on-line Independent Business Owner Agreement. Upon the termination of the relationship between Stella & Dot and the Independent Business Owner, Stella & Dot will keep the Independent Business Owner’s Personal Information for lawful purposes only.
+ **Independent Business Owner Registration.** To register as an Independent Business Owner on our Service, you may need to provide Personal Information, such as your name, social security number, tax identification number, date of birth, email address, telephone number, postal address, and password. You may also provide other information, such as your photograph and information in your completed and digitally signed on-line Independent Business Owner Agreement. Upon the termination of the relationship between Stella & Dot and the Independent Business Owner, Stella & Dot will keep the Independent Business Owner’s Personal Information for lawful purposes only.
 
-**Expressing Interest in Becoming an Independent Business Owner.** We collect any Personal Information included in requests to learn more about being an Independent Business Owner or hostess. Such information may be submitted to us through the Service or via email. You may also provide Personal Information directly to a Stella & Dot Family Brands Independent Business Owner.
+ **Expressing Interest in Becoming an Independent Business Owner.** We collect any Personal Information included in requests to learn more about being an Independent Business Owner or hostess. Such information may be submitted to us through the Service or via email. You may also provide Personal Information directly to a Stella & Dot Family Brands Independent Business Owner.
 
-**Using the Service.** We collect information you post through the Service. For example, when customers sign up for a newsletter, post a photograph, or connect with an Independent Business Owner, the Service will collect the information customers or Independent Business Owners provide in such submissions, including any Personal Information.
+ **Using the Service.** We collect information you post through the Service. For example, when customers sign up for a newsletter, post a photograph, or connect with an Independent Business Owner, the Service will collect the information customers or Independent Business Owners provide in such submissions, including any Personal Information.
 
-**Making Payments.** When you make payments through the Service or complete a Customer Order Form, your financial account information, such as your credit card number, will be collected by our third-party payment processors. We do not collect or store such financial account information, but we may receive information from our payment processor about the payment, such as the date and time of payment.
+ **Making Payments.** When you make payments through the Service or complete a Customer Order Form, your financial account information, such as your credit card number, will be collected by our third-party payment processors. We do not collect or store such financial account information, but we may receive information from our payment processor about the payment, such as the date and time of payment.
 
-**Social Plug-Ins.**   The Website may allow you to use social media plug-ins, such as Facebook’s “like” or Twitter’s “tweet” functions. The social media plug-ins collect information about you, such as your IP address, when you use them. The privacy policies of the social media services, and not this Privacy Policy, apply to any data collected by the social media plug-ins.
+ **Social Plug-Ins.**   The Website may allow you to use social media plug-ins, such as Facebook’s “like” or Twitter’s “tweet” functions. The social media plug-ins collect information about you, such as your IP address, when you use them. The privacy policies of the social media services, and not this Privacy Policy, apply to any data collected by the social media plug-ins.
 
-**Social Media Pages.**  We may collect information about you when you visit our social media pages or other features. The social media website provider may provide us with information, including Personal Information, such as your name, email address, and other information made available to us.
+ **Social Media Pages.**  We may collect information about you when you visit our social media pages or other features. The social media website provider may provide us with information, including Personal Information, such as your name, email address, and other information made available to us.
 
-**Customer Support.** We may collect Personal Information through your communications with our customer-support team.
+ **Customer Support.** We may collect Personal Information through your communications with our customer-support team.
 
-**Cookies and Similar Technology**  
+ **Cookies and Similar Technology**  
 We and our third party service providers, such as advertising networks and analytics service providers, may collect anonymous information automatically through the use of “cookies” and similar technology. The service providers also may collect information about your online activities over time and on other websites or apps. Cookies are small pieces of information that are stored by your browser on your computer’s hard drive to collect information about your activities on our Website.
 
 Cookies do not contain any Personal Information. We use cookies to collect and store information for statistical purposes, including browsing and Service usage activity, and to improve the services we provide. For example, if you are a registered user, we will use a cookie to save your Service settings and to provide customizable and personalized services. Cookies also enable you to select products, place them in your shopping cart and purchase the items. If you select and purchase products on the Service, we keep a record of your browsing activity and purchases. Most browsers allow you to refuse cookies from websites or to remove cookies from your hard drive. If you choose to do this, you may not be able to access or use portions of the Website.
@@ -58,11 +58,11 @@ We use Personal Information to:
 
 
 
-We may use aggregate information for any purpose, including for marketing purposes. 
+We may use aggregate information for any purpose, including for marketing purposes.
 
-**Internal and Service-Related Usage.**  Stella & Dot will use information, including Personal Information, for internal, administrative, and service-related purposes. We may use and retain any data we collect to provide and improve our services. For example, we use Personal Information submitted by customers to process and complete the customer’s order, including for shipping and billing purposes. We also use Personal Information submitted by Independent Business Owners to calculate and process commissions.
+ **Internal and Service-Related Usage.**  Stella & Dot will use information, including Personal Information, for internal, administrative, and service-related purposes. We may use and retain any data we collect to provide and improve our services. For example, we use Personal Information submitted by customers to process and complete the customer’s order, including for shipping and billing purposes. We also use Personal Information submitted by Independent Business Owners to calculate and process commissions.
 
-**Communications.** We use a customer’s name, mailing address, email address and telephone number for the following limited purposes:
+ **Communications.** We use a customer’s name, mailing address, email address and telephone number for the following limited purposes:
 
   * Sending emails for informational and operational purposes, such as account management or system maintenance;
   * Monitoring and ensuring customer satisfaction, including troubleshooting problems and resolving disputes;
@@ -71,9 +71,9 @@ We may use aggregate information for any purpose, including for marketing purpos
 
 
 
-**Promoting Independent Business Owners.** Stella & Dot may, from time to time, publish an Independent Business Owner’s Personal Information (for example, name, photograph, sales results and achievements) to recognize the Independent Business Owner’s achievements and help motivate other Independent Business Owners. These promotions will not contain Personal Information about customers.
+ **Promoting Independent Business Owners.** Stella & Dot may, from time to time, publish an Independent Business Owner’s Personal Information (for example, name, photograph, sales results and achievements) to recognize the Independent Business Owner’s achievements and help motivate other Independent Business Owners. These promotions will not contain Personal Information about customers.
 
-**Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose. For example, we may aggregate usage and transaction information to provide product recommendations to Website users.
+ **Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose. For example, we may aggregate usage and transaction information to provide product recommendations to Website users.
 
 ## INFORMATION DISCLOSURES
 
@@ -90,29 +90,29 @@ We may share your information:
 
 We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may share anonymous information for marketing and advertising purposes.
 
-**Vendors and Service Providers.** We want to provide you with excellent service and make your Stella & Dot Family Brands experience as seamless as possible. We share information, including nonpublic Personal Information, with third parties that perform services on our behalf so we can provide and improve our services. For example, we may disclose Personal Information for fraud detection and prevention. These third parties must abide by this Privacy Policy and keep nonpublic information confidential and use it only for its intended purpose.
+ **Vendors and Service Providers.** We want to provide you with excellent service and make your Stella & Dot Family Brands experience as seamless as possible. We share information, including nonpublic Personal Information, with third parties that perform services on our behalf so we can provide and improve our services. For example, we may disclose Personal Information for fraud detection and prevention. These third parties must abide by this Privacy Policy and keep nonpublic information confidential and use it only for its intended purpose.
 
-**Connect Independent Business Owners.** To facilitate communications among our network of Independent Business Owners, we may share Independent Business Owners’ contact information with other Independent Business Owners.
+ **Connect Independent Business Owners.** To facilitate communications among our network of Independent Business Owners, we may share Independent Business Owners’ contact information with other Independent Business Owners.
 
-**Referrals.** As part of our service and to make sure customer needs are met, we may refer customers to an Independent Business Owner, such as when customers are not associated with an Independent Business Owner in our systems or when customers request to host a Trunk Show. We may share customer contact information with Independent Business Owners for these purposes.
+ **Referrals.** As part of our service and to make sure customer needs are met, we may refer customers to an Independent Business Owner, such as when customers are not associated with an Independent Business Owner in our systems or when customers request to host a Trunk Show. We may share customer contact information with Independent Business Owners for these purposes.
 
-**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to enable the delivery of online advertising on the Service, or otherwise facilitate transmittal of information we think may be useful or relevant to you.
+ **Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to enable the delivery of online advertising on the Service, or otherwise facilitate transmittal of information we think may be useful or relevant to you.
 
-We may show you personalized advertisements on other websites after you visit our Website and our social media pages and websites. 
+We may show you personalized advertisements on other websites after you visit our Website and our social media pages and websites.
 
-You may be able to opt out of receiving personalized advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. Links to those sites are here: 
+You may be able to opt out of receiving personalized advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. Links to those sites are here:
 
-Network Advertising Initiative: <http://www.networkadvertising.org/choices/>
+Network Advertising Initiative: [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)
 
-Digital Advertising Alliance: <http://www.aboutads.info/choices/>
+Digital Advertising Alliance: [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/)
 
 When you opt out of personalized advertising, you may continue to see online advertising from Stella & Dot Family Brands on other websites.
 
-**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.
+ **As Required By Law and Similar Disclosures.** We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.
 
-**Corporate Changes.** We reserve the right to transfer Personal Information in the event Stella & Dot acquires or merges with or is acquired by another company or during other corporate changes. Any information disclosed as a result of one of these events or other corporate changes will be subject to the Privacy Policy in effect at the time.
+ **Corporate Changes.** We reserve the right to transfer Personal Information in the event Stella & Dot acquires or merges with or is acquired by another company or during other corporate changes. Any information disclosed as a result of one of these events or other corporate changes will be subject to the Privacy Policy in effect at the time.
 
-**Your Permission.** We may also disclose your Personal Information with your permission.
+ **Your Permission.** We may also disclose your Personal Information with your permission.
 
 ## CHILDREN’S PRIVACY
 
@@ -136,15 +136,15 @@ You may review, correct, or delete your Personal Information through the Service
 
 ## U.S.-EU SAFE HARBOR
 
-Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](https://web.archive.org/web/20160619083642id_/http%3A//www.stelladot.com/help/www.export.gov/safeharbor)
+Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
 
-**Privacy Inquiries by EU Citizens**  
+ **Privacy Inquiries by EU Citizens**  
 In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your Personal Information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot LLC at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by mail, Attn: Privacy Administrator, 8000 Marina Boulevard, Suite 400, Brisbane, CA 94005.
 
 Stella & Dot has further committed to refer unresolved complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. We ask that you contact us directly first. If you do not receive timely acknowledgement of your inquiry or complaint, or if your inquiry or complaint is not satisfactorily addressed by Stella & Dot, you may contact:
 
 Council of Better Business Bureaus, Inc.  
-[http://www.bbb.org/us/safe-harbor-complaints ](http://www.bbb.org/us/safe-harbor-complaints)
+[http://www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints)
 
 ## COMPLIANCE WITH CANADA’S ANTI-SPAM LEGISLATION (“CASL”)
 
