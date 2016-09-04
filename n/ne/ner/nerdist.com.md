@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319114238id_/http%3A//nerdist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904030028id_/http%3A//nerdist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nerdist
 
