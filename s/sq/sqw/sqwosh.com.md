@@ -1,100 +1,210 @@
-> *The following text is extracted and transformed from the sqwosh.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqwosh.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904192638id_/http%3A//www.sqwosh.com/policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy : SEO Friendly Directory, Local Business Directory, Online Business Directory, Local Business Listings
 
-**Go Daddy Respects Your Privacy**
+Featured 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+[Apartments In Kiev](http://www.sqwosh.com/business/business-travel/apartments-in-kiev-l1038.html)
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+[Women clothing online shopping site](http://www.sqwosh.com/shopping/regional-shopping/women-clothing-online-shopping-site-l7848.html)
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+[Bangalore Real Estate](http://www.sqwosh.com/business/real-estate/bangalore-real-estate-l7822.html)
 
-**Information Collection and Use**
+Top categories 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+[Arts](http://www.sqwosh.com/arts/)
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+[Business](http://www.sqwosh.com/business/)
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+[Computers](http://www.sqwosh.com/computers/)
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+[Games](http://www.sqwosh.com/games/)
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+[Health](http://www.sqwosh.com/health/)
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+[Home](http://www.sqwosh.com/home/)
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+[Kids and Teens](http://www.sqwosh.com/kids-and-teens/)
 
-**Security**
+[Misc](http://www.sqwosh.com/misc/)
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+[News](http://www.sqwosh.com/news/)
 
-**Updating Your Information**
+[Recreation](http://www.sqwosh.com/recreation/)
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+New listings 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+[Thailand's Leading Family Lawyer - Prenuptial Agreement in Thailand](http://www.sqwosh.com/business/business-law/thailand-s-leading-family-lawyer-prenuptial-agreement-in-thailand-l7858.html)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+[Best indian salwar kameez online](http://www.sqwosh.com/shopping/clothing/best-indian-salwar-kameez-online-l7857.html)
 
-      iii.      You may call us at: (480) 505-8800
+[Cheap Riad in Marrakech](http://www.sqwosh.com/regional/morocco/cheap-riad-in-marrakech-l7855.html)
 
-       iv.      You may fax us at: (480) 505-8844
+[Roller Shutter Repairs | Window Roller Shutters Melbourne](http://www.sqwosh.com/business/construction-and-maintenance/roller-shutter-repairs-window-roller-shutters-melbourne-l7854.html)
 
-**Sending Emails**
+[Rent a boat in Paris](http://www.sqwosh.com/regional/france/rent-a-boat-in-paris-l7853.html)
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+New Articles 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+[View All Articles](http://www.sqwosh.com/articles/)
 
-**Compliance with Laws and Law Enforcement**
+Search by articles 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+|  **Search by articles**  
+---  
+  
+PageRanks 
 
-**Third Party Service Providers**
+[
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+7/10
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+](http://www.sqwosh.com/pagerank7-listings.html) | **2**  
+---|---  
+[
 
-**Supplementation of Information**
+6/10
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+](http://www.sqwosh.com/pagerank6-listings.html) | **9**  
+[
 
-**Contests/Surveys**
+5/10
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+](http://www.sqwosh.com/pagerank5-listings.html) | **19**  
+[
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+4/10
 
-**Tell-A-Friend**
+](http://www.sqwosh.com/pagerank4-listings.html) | **104**  
+[
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+3/10
 
-**What Happens to my Personal Information if I Opt Out?**
+](http://www.sqwosh.com/pagerank3-listings.html) | **288**  
+[
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+2/10
 
-**Transfer of Data Abroad**
+](http://www.sqwosh.com/pagerank2-listings.html) | **396**  
+[
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+1/10
 
-**Changes in Our Practices**
+](http://www.sqwosh.com/pagerank1-listings.html) | **392**  
+  
+New Admin Articles 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+[A Great Way To Give Your Business A Boost: Internet Marketing](http://www.sqwosh.com/blog/A-Great-Way-To-Give-Your-Business-A-Boost-Internet-Marketing-a3.html)
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+[Adding Value With Quality Articles And Content](http://www.sqwosh.com/blog/Adding-Value-With-Quality-Articles-And-Content-a1.html)
 
-**Contacting Our Site**
+[View All Articles](http://www.sqwosh.com/blog/)
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Newsletter 
 
-* * *
+**Real name:**  
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+**Email:**  
+
+
+[SQWOSH ](http://www.sqwosh.com/) /  **Privacy Policy**
+
+Search By Locations 
+
+| Search: | Location:  
+---|---  
+|   
+  
+This policy explains the what, how, and why of the information we collect when you use our Website.  
+Your Privacy is extremely seriously for us, and we never sell any information.
+
+###  Definitions
+
+We’ll start by getting a few definitions out of the way that should help you understand this policy. When we say “we,” and “us,” we refer to SQWOSH.Com.  
+When we say our Website, we refer to SQWOSH.Com. 
+
+###  Scope
+
+This Privacy Policy is effective with respect to any data that we’ve collected, or collect, about and/or from you, according to our [Terms of Use](http://www.link-your-site.com/terms.html).
+
+###  Questions & Concerns
+
+If you have any questions or comments, or if you want to update, delete, or change any Personal Information we hold, or you have a concern about the way in which we have handled any privacy matter please use our [contact form](http://www.sqwosh.com/mod/contacts/?contact=us) to get in touch. You may also contact us by postal mail or email at:
+
+###  MiaC Corp.   
+23 Vasileos Pavlou   
+Kaimakli  
+Nicosia 1023  
+Cyprus 
+
+###  Email: contact@sqwosh.com  
+Telephone: +357 99 262 115
+
+###  Information We Collect
+
+  1. **Information You Provide to Us:**  When you use the Services, consult with our customer service team, send us an email, post on our blog, or communicate with us in any way, you’re giving us information that we collect. Information may include your IP address, name, physical address, email address, phone number, as well as details like gender, occupation, location, birth date, purchase history, and other demographic information. By giving us this information. We NEVER collect Credit Card information. 
+
+  2. **Information from your Use of the Service** : We may get information about how and when you use the Services, store it in log files associated with your account, and link it to other information we collect about you. This information may include, for example, your IP address, time, date, browser used, and actions you’ve taken within the application.
+
+  3. **Cookies and Tracking** : When you use our Website, we may store “cookies,” “tags,” or “scripts,” which are strings of code, on your computer. We and our analytics Service Providers (like [Google](http://www.google.com/policies/privacy/partners/)) use those cookies to collect information about your visit and your use of our Website or Services. You may turn off cookies that have been placed on your computer by following the instructions on your browser, but if you block cookies, it may be more difficult (and maybe even impossible) to use some aspects of the Services.
+
+
+
+
+Thanks for taking the time to learn about our Privacy Policy. 
+
+_Updated May 19, 2016_
+
+|   
+---|---  
+  
+Accounts area 
+
+Username:
+
+Password:
+
+[Register](http://www.sqwosh.com/register.php)
+
+[Forgot the password?](http://www.sqwosh.com/forgot.php)
+
+Popular categories 
+
+[Business](http://www.sqwosh.com/business/) 6756
+
+[Computers](http://www.sqwosh.com/computers/) 3142
+
+[Shopping](http://www.sqwosh.com/shopping/) 2921
+
+[Health](http://www.sqwosh.com/health/) 2012
+
+[Recreation](http://www.sqwosh.com/recreation/) 1536
+
+[Travel](http://www.sqwosh.com/recreation/travel/) 1290
+
+[Business Services](http://www.sqwosh.com/business/business-services/) 923
+
+[Internet](http://www.sqwosh.com/computers/internet/) 887
+
+[Society](http://www.sqwosh.com/society/) 860
+
+[Real Estate](http://www.sqwosh.com/business/real-estate/) 858
+
+Top listings 
+
+[Slim Fit Business Shirts](http://www.sqwosh.com/shopping/clothing/slim-fit-business-shirts-l143.html)
+
+[Apartments In Kiev](http://www.sqwosh.com/business/business-travel/apartments-in-kiev-l1038.html)
+
+[PUC Colleges Bangalore](http://www.sqwosh.com/business/education-and-training/puc-colleges-bangalore-l7821.html)
+
+[Bangalore Real Estate](http://www.sqwosh.com/business/real-estate/bangalore-real-estate-l7822.html)
+
+[Affordable Limo Cars Melbourne | Melbourne Best Wedding Cars | Airport limos Melbourne](http://www.sqwosh.com/business/business-services/affordable-limo-cars-melbourne-melbourne-best-wedding-cars-airport-limos-melbourne-l7835.html)
+
+Tags 
+
+[numerology](http://www.sqwosh.com/mod/tagcloud/?tag=numerology) [melbourne](http://www.sqwosh.com/mod/tagcloud/?tag=melbourne) [dallas](http://www.sqwosh.com/mod/tagcloud/?tag=dallas) [progra](http://www.sqwosh.com/mod/tagcloud/?tag=progra) [name](http://www.sqwosh.com/mod/tagcloud/?tag=name) [dentist](http://www.sqwosh.com/mod/tagcloud/?tag=dentist) [software](http://www.sqwosh.com/mod/tagcloud/?tag=software) [freeware](http://www.sqwosh.com/mod/tagcloud/?tag=freeware) [san jose](http://www.sqwosh.com/mod/tagcloud/?tag=san+jose) [baby](http://www.sqwosh.com/mod/tagcloud/?tag=baby) [Motorhome](http://www.sqwosh.com/mod/tagcloud/?tag=Motorhome) [free](http://www.sqwosh.com/mod/tagcloud/?tag=free) [bail](http://www.sqwosh.com/mod/tagcloud/?tag=bail) [download](http://www.sqwosh.com/mod/tagcloud/?tag=download) [Arizona](http://www.sqwosh.com/mod/tagcloud/?tag=Arizona) [law](http://www.sqwosh.com/mod/tagcloud/?tag=law) [proton therapy](http://www.sqwosh.com/mod/tagcloud/?tag=proton+therapy) [bond](http://www.sqwosh.com/mod/tagcloud/?tag=bond) [Hire](http://www.sqwosh.com/mod/tagcloud/?tag=Hire) [driver](http://www.sqwosh.com/mod/tagcloud/?tag=driver)
+
+[All Tags](http://www.sqwosh.com/mod/tagcloud/)
