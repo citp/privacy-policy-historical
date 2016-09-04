@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the much.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407142720id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the much.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904022937id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
