@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625054058id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904172617id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Course-Notes.Org
+# Privacy Policy | CourseNotes
 
 This is the web site of **Course-Notes.Org**. 
 
