@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423155627id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905221458id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
