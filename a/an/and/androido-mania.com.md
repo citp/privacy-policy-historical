@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androido-mania.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607154338id_/http%3A//androido-mania.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androido-mania.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906012958id_/http%3A//androido-mania.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy · AndroidoMania. All Things Android: Apps, Phones, News
 
 Androidomania is committed to protecting the privacy of online users. This document outlines our technology and the practices we use to collect information.
 
