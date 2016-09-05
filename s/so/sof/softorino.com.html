@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the softorino.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606200304id_/http%3A//softorino.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softorino.com privacy policy that was archived on 2016-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160905194531id_/https%3A//softorino.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
     <meta charset="utf-8">
@@ -23,7 +23,7 @@
     <!-- layout css -->
     
 
-<link rel="stylesheet" href="http://softorino.com/combine/1a394e8b6c97b79d33e1b5e419a920a2-1465241615">
+<link rel="stylesheet" href="http://softorino.com/combine/1a394e8b6c97b79d33e1b5e419a920a2-1472741458">
 
 
 <!--[if IE]>
@@ -205,7 +205,34 @@
     
 
 
-        
+    <div class="popup" style="display: none;">
+    <div class="content">
+        <div class="container text-center">
+            <div class="row">
+                <div class="popup-custom pos-rlt" style="max-width: 556px; margin: auto;">
+                                        <div class="popup-content bg-white-only">
+                                                    <div>
+    <div class="pos-rlt">
+        <img srcset="/storage/app/media/softorino-youtube-converter/popup/yt-popup-banner-back-top.jpg 1x, /storage/app/media/softorino-youtube-converter/popup/yt-popup-banner-back-top-2x.jpg 2x" src="/storage/app/media/softorino-youtube-converter/popup/yt-popup-banner-back-top.jpg" alt="Softorino YouTube Converter" style="width: 100%; max-width: 556px;">
+        <a href="https://softorino.com/youtube-converter/download">
+            <img srcset="/storage/app/media/softorino-youtube-converter/icons/syc_103x103.png 1x, /storage/app/media/softorino-youtube-converter/icons/syc_103x103-2x.png 2x" src="/storage/app/media/softorino-youtube-converter/icons/syc_103x103.png" alt="Softorino YouTube Converter" class="pos-abt" style="display: inline-block; width: 103px; height: 103px; margin-left: -51px; top: -51px; left: 50%;">
+        </a>
+    </div>
+    <div class="bg-light lt wrapper-md text-center" style="background: url(/storage/app/media/softorino-youtube-converter/popup/yt-bg-bottom.jpg) 0 0 no-repeat;
+            background-size: 100% 100%;">
+        <a href="https://softorino.com/youtube-converter/download?utm_campaign=pop-up&amp;utm_medium=dlbutton" class="btn btn-blue btn-lg submit-button m-b-md" style="padding-left: 40px; padding-right: 40px">
+            Claim My Free Gift
+        </a>
+        <br>
+        <a href="#" class="close-from-content btn-link text-primary">No, I do not want to watch YouTube offline</a>
+    </div>
+</div>                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
     
 
 
@@ -372,6 +399,9 @@
             <p class="text-muted text-sm">
                 * iPad®, iPod®, iPhone®, iTunes® and Mac® are trademarks of Apple Inc., registered in the U.S. and other countries. Our software is not developed by or affiliated with Apple Inc.
             </p>
+            <p class="text-muted text-sm">
+                “WALTR®, Softorino® are registered trademarks of Softorino Limited."
+            </p>
         </footer>
     </div>
 </div>    <!-- /footer -->
@@ -379,12 +409,41 @@
     <!-- layout scripts -->
     
 
-<script src="http://softorino.com/combine/3a6307e1ec7596090d09193f45edf574-1465241615"></script>
+<script src="http://softorino.com/combine/3a6307e1ec7596090d09193f45edf574-1472741458"></script>
 
     <script src="/modules/system/assets/js/framework.js"></script>
     <!-- /layout scripts -->
     
     <!-- custom scripts -->
-        <!-- /custom scripts -->
+    <script>
+        $(function() {
+                            var _isPopup = isWindows() ? false : true;
+                        
+                            var _open_timeout = 15000;
+            
+            if (_isPopup) {
+                $('body').mouseleave(function(){
+                    $('.popup').fadeIn(function(){
+                        $('body').addClass('no-scroll');
+                    });    
+                });
+                
+                /*$('.popup').delay(_open_timeout).fadeIn(function(){
+                    $('body').addClass('no-scroll');
+                });*/
+                
+                $('.popup .close, .popup .close-from-content').on('click', function(e) {
+                    e.preventDefault();
+                    $('.popup').fadeOut(function(){
+                        $(this).remove();
+                    });
+                    $('body').removeClass('no-scroll');
+                });
+                
+            } else {
+                $('.popup').remove();
+            }
+        });
+    </script>    <!-- /custom scripts -->
 
 </body></html>
