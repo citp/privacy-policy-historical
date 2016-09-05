@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlplace.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223121834id_/http%3A//www.htmlplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlplace.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905112600id_/http%3A//www.htmlplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
