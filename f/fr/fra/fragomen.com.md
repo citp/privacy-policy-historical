@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328160006id_/https%3A//www.fragomen.com/fragomen-worldwide/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905031413id_/https%3A//www.fragomen.com/fragomen/privacy-policies) for the most accurate reproduction.*
 
-# Fragomen Worldwide | Fragomen Worldwide
+# Privacy Policies
 
 Click to view each of our privacy policies below:
 
@@ -18,7 +18,7 @@ ___________________________________
 
 EFFECTIVE DATE: March 25, 2015
 
-Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, Fragomen Global Immigration Services, LLC and their local entities, members and affiliates (collectively, “Fragomen Worldwide”) use “cookies” on our websites.  Cookies are text files that are placed on your browser, mobile device or computer’s hard drive when you visit certain websites.
+Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, Fragomen Global Immigration Services, LLC and their local entities, members and affiliates (collectively, “Fragomen”) use “cookies” on our websites.  Cookies are text files that are placed on your browser, mobile device or computer’s hard drive when you visit certain websites.
 
 **How we use cookies**  
 We use cookies to ensure our websites function properly and to improve user experience. We may use cookies to tell us, for example, whether you have visited us before and to help us identify site features in which you may have the greatest interest.
