@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307224937id_/https%3A//www.itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906173513id_/https%3A//www.itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
 
 # ITT Technical Institute | Privacy Policy
 
-ITT Technical Institute
+##  ITT TECHNICAL INSTITUTE
+
+* * *
 
 The ITT Technical Institutes understand that security and privacy are important issues for visitors to its web site (the "Site") and recognizes their obligations to keep your information secure and confidential. That is why the ITT Technical Institutes maintain the following standards to help protect information that personally identifies you.
 
@@ -47,10 +49,6 @@ It is a policy of ITT Tech to not send unsolicited emails seeking certain highly
 ## Changes to the Policy
 
 We may modify this Policy at any time by posting a revised version of the Policy here, with an updated effective date. Accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent. By using the Site and providing us with your personally identifiable information, you consent to our use of such information as described in this Policy.
-
-## Contacting ITT Tech or Modifying Your Personal Information
-
-If you have any questions or comments about this Policy or wish to update your Personal Information provided to us, please contact us by clicking [here](https://web.archive.org/contact/). Please provide a concise communication with complete information, including your contact information.
 
 ## California Do Not Track Disclosure
 
