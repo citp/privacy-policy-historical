@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416115953id_/https%3A//www.rapidssl.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906144247id_/https%3A//www.rapidssl.com/privacy) for the most accurate reproduction.*
 
-# 
+# Rapid SSL Privacy Statement
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=213efdf4-f261-4bcf-a3f6-9f421cac3957 "Validate TRUSTe privacy certification")
 
