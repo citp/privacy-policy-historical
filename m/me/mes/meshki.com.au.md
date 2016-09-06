@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the meshki.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610031500id_/http%3A//www.meshki.com.au/pages/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meshki.com.au privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906043830id_/https%3A//www.meshki.com.au/pages/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Meshki Boutique
 
 PRIVACY STATEMENT
-
-\----
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -46,8 +44,9 @@ In particular, remember that certain providers may be located in or have facilit
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
 
-Links  
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+Links:  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
 SECTION 6 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
@@ -61,8 +60,8 @@ _shopify_visit, no data held, Persistent for 30 minutes from the last visit, Use
 _shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
 _secure_session_id, unique token, sessional  
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
-n  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
 SECTION 8 - AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
@@ -74,7 +73,4 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at , meshkiboutique@gmail.com or by mail at   
-Meshki Clothing  
-[Re: Privacy Compliance Officer]   
-\---- 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at hello@meshki.com.au
