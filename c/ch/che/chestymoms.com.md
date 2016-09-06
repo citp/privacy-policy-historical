@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestymoms.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003716id_/http%3A//www.chestymoms.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestymoms.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906051439id_/http%3A//www.chestymoms.com/privacy.html%3F) for the most accurate reproduction.*
 
 # ChestyMoms - Privacy Policy
 
