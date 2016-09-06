@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amatchlive.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506014916id_/http%3A//www.amatchlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amatchlive.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906065343id_/http%3A//www.amatchlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # AMatchLive - Privacy Policy
 
