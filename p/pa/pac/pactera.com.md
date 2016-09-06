@@ -1,100 +1,69 @@
-> *The following text is extracted and transformed from the pactera.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pactera.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906061525id_/http%3A//www.pactera.com/en/content/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | Pactera
 
-**Go Daddy Respects Your Privacy**
+**ONLINE PRIVACY STATEMENT**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Updated Date: April 29, 2016
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Pactera Technology International Ltd. (Pactera), is dedicated to protecting the confidentiality and privacy of information entrusted to it. As part of this fundamental obligation, Pactera is committed to the appropriate protection and use of personal information (sometimes referred to as "personally identifiable information" or "PII") that has been collected online.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Please review this Privacy Statement ("Privacy Statement") to learn more about how we collect, use, share and protect the PII that we have obtained.
 
-**Information Collection and Use**
+Generally, our intent is to collect only the personal information that is provided voluntarily by online visitors so that we can offer information and/or services to those individuals or offer information about employment opportunities.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**_Collection of Information_**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+This website collects various types of information, such as:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+·  Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+·  Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.    
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed contact forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**_Use of Information Collected_**
 
-**Security**
+Pactera may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from pactera.com. Pactera may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Pactera does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
 
-**Updating Your Information**
+Pactera may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Pactera may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+·  Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Pactera and/or our website;
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+·  Maintain, safeguard and/or preserve all the rights and/or property of Pactera; and
 
-      iii.      You may call us at: (480) 505-8800
+·  Perform under demanding conditions in an effort to safeguard the personal safety of users of www.pactera.com and/or the general public.
 
-       iv.      You may fax us at: (480) 505-8844
+**_Children Under Age of 13_**
 
-**Sending Emails**
+Pactera does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**_Unsubscribe or Opt-Out_**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to info@pactera.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
-**Compliance with Laws and Law Enforcement**
+**_Links to Other Web Sites_**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Our website does contain links to affiliate and other websites. Pactera does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Statement applies only and solely to the information collected by our website.
 
-**Third Party Service Providers**
+**_Security_**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Pactera shall endeavor and shall take precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent loss, misuse, unauthorized access, disclosure, modification, and destruction of the user's personal information under our control. Despite Pactera’s efforts, however, security cannot be guaranteed against all threats. Those individuals who have access to the data are required to maintain the confidentiality of such information. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**_Changes to Privacy Statement_**
 
-**Supplementation of Information**
+Pactera may modify this Privacy Statement from time to time to reflect our current privacy practices. When we make changes to this statement, we will revise the “updated” date at the top of this page. We encourage you to periodically review this Privacy Statement to be informed about how Pactera is protecting your information.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**_Acceptance of Terms_**
 
-**Contests/Surveys**
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Statement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**_Policy Questions_**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Pactera is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at [info@pactera.com](mailto:info@pactera.com).
