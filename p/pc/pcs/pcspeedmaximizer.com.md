@@ -1,82 +1,97 @@
-> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731065853id_/http%3A//www.pcspeedmaximizer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906063556id_/http%3A//www.pcspeedmaximizer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PC Speed Maximizer
 
-## Privacy Policy
+### Respecting your Privacy
 
 Are you concerned about your privacy? Doing business together requires some sharing of information. Set out below is our Privacy Policy, explaining what information we collect and why, what we do with it and how we protect you.
 
-## What information we collect and why
+### What information we collect and why?
 
-**Registration, download and purchase**
+#### Registration, download and purchase
 
-To access certain areas of the SoftCity.com website (especially to download or to buy), you will first be asked to complete a form to either download a trial version, a free software title, or to create an account before buying any of our products.
+To access certain areas of the Avanquest.com website (especially to download or to buy), you will first be asked to complete a form to either download a trial version, a free software title, or to create an account before buying any of our products.
 
-**Registration**
+##### Registration
 
-During registration, you may be required to provide your contact information, such as your name, email address, postal address, payment information and to choose a password. Your email address is your username. We send all newly registered users a welcoming email to verify their password and username.
+During registration, you may be required to provide your contact information, such as your name, email address, postal address, payment information and to choose a password.
 
-It’s very important that you submit a working email address because that is where we’ll send your purchase confirmation, download links, activation keys, support and product notices.
+Your e-mail address is your username. We send all new registered visitors and clients a welcoming email to verify their password and username.
 
-**Purchase**
+It’s very important that you submit a working email address because that that is where we’ll send your purchase confirmation, download links, activation keys, support and product notices. When an email address is not working, the associated password might be deactivated by Avanquest.
 
-When buying a product on the site, you will be asked for your contact details and billing and, if applicable, shipping information. This data will be used to process the order, to get the payment through the credit card verification process, and to ship any item(s) you ordered. If there is a problem with the order, a SoftCity representative may contact you by email. A confirmation email is sent for each purchase to the address you give us - so if you have a few addresses take a moment to remember which one you give us.
+##### Purchase
 
-**Download**
+When buying a product on the site, you will be asked for your contact details and billing and shipping information. This data will be used to process the order, to get the payment through the credit card verification process, and to ship the item(s) you ordered. If there is a problem with the order, an Avanquest representative may contact you by email, phone, fax or post. A confirmation email is sent for each purchase to the address you give us – so if you have a few addresses take a moment to remember which one you give us.
 
-When downloading a trial version or a free software program, you will be asked for contact information, including your email address. You will receive email messages related to this transaction such as to provide you with download links, activation keys, support notices and upgrades for the software.
+##### Download
 
-**Surveys and contests**
+When downloading a trial version or a free software programme, you will be asked for contact information, including your email address. You will receive email messages related to this transaction such as to provide you with download links, activation keys, support notices and upgrades for the software.
 
-From time to time, we request information from SoftCity.com users via surveys or contests. Participation in these surveys or contests is completely voluntary. This information is mainly used to better understand our audience and to send prizes to the winners when needed. Should the results of a contest or a survey be published, no personal information will be divulged without the explicit consent of the winners.
+#### Surveys and contests
 
-## What we do with it
+To use our “Send to a friend” services, you are requested to provide additional names and email addresses. For these “Send to a friend” services, Avanquest.com sends an email on your behalf containing links to the information you have selected on the Avanquest.com website – and only in that specific context. None of these email addresses are reused later, unless their owner subscribes by themselves to our services.
 
-**Your subscription to SoftCity Newsletters and Special Offers**
+#### “Send to a Friend” Service
 
-When submitting your email address, you are given the opportunity to "opt-in" to the SoftCity newsletter. By opting to receive this communication, SoftCity will send you regular emails containing relevant product and service information, new product and upgrade information, and any special offers that we think may be relevant to you.
+To use our “Send to a friend” services, you are requested to provide additional names and email addresses. For these “Send to a friend” services, Avanquest.com sends an email on your behalf containing links to the information you have selected on the Avanquest.com website – and only in that specific context. None of these email addresses are reused later, unless their owner subscribes by themselves to our services.
 
-**If you wish to unsubscribe from the newsletter**
+### What we do with it
 
-If at any time you wish to opt-out from these communications, please follow the unsubscribe link contained in the emails, or email us with your request to be removed from our mailing list.
+#### Your subscription to Avanquest News and Special Offers
 
-When you officially “unsubscribe” through our links or site we commit to remove the email address from our mailing lists as soon as possible, and usually before the next mailing. From that point you will no longer receive our newsletters or special offers. However, please take note that if you purchased software or downloaded trial versions in the past or if you decide to purchase or download a trial version again after you’ve unsubscribed, we may still send you service emails directly related to these transactions, such as order confirmations, product notices, expiry notifications, bug fix notifications, security alerts, compatibility notifications, or enhancements.
+When submitting your email address, you are given the opportunity to ‘opt-in’ to the Avanquest newsletter. By opting to receive this communication, Avanquest will send you regular emails containing relevant product and service information, new product and upgrade information, and any special offers that we think may be relevant to you.
 
-**No sharing of information to preserve your privacy**
+#### If you wish to unsubscribe from the newsletter
 
-SoftCity is the sole owner of information collected on its websites. We will not sell, disclose, or rent this information to others except if required to by contract or through a legal proceeding or law.
+If at any time you wish to opt-out from these communications, please follow the unsubscribe link contained in the emails, or [email us](mailto:serviceclient@avanquest.com?subject=OneSafe_Software) with your request to be removed from our mailing list.
 
-We may share aggregated information with our partners and advertisers. However, this information is not linked to any personally identifiable information. SoftCity carefully reviews the privacy policies of partners, affiliates and subsidiaries to ensure that they reflect the same attention and commitment to privacy as SoftCity.com
+When you officially “unsubscribe” through our links or site we commit to remove the email address from our mailing lists as soon as possible, and usually before the next mailing.
 
-**When visiting other websites, you’re on your own.**
+From that point you will no longer receive our newsletters or special offers. However, please take note that if you purchased software or downloaded trial versions in the past or if you decide to purchase or download a trial version again after you’ve unsubscribed, we may still send you service emails directly related to these transactions, such as order confirmations, product notices, expiry notifications, bug fix notifications, security alerts, compatibility notifications, or enhancements.
+
+#### No sharing of information to preserve your privacy
+
+Avanquest Software is the sole owner of information collected on its websites. We will not sell, disclose, or rent this information to others except if required to by contract or through a legal proceeding or law.
+
+We may share aggregated information with our partners and advertisers. However, this information is not linked to any personally identifiable information. Avanquest carefully review the privacy policies of partners, affiliates and subsidiaries to ensure that they reflect the same attention and commitment to privacy as Avanquest.com
+
+#### When visiting other websites, you’re on your own
 
 Our website may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-**Using cookies for statistical and analytical purposes – ultimately, it’s all about improving your experience on our site.**
+#### Using cookies for statistical and analytical purposes – ultimately, it’s all about improving your experience on our site
 
-SoftCity.com website uses cookies. Cookies are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser.
+Avanquest.com website uses cookies. Cookies are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser.
 
-The SoftCity website does not collect any personal information from cookies. They are used to make the login process easier for our users, to allow the website to track which products you have added to your basket and your preferred country, language and currency, and to track broad user movements for statistical purposes.
+The Avanquest website does not collect any personal information from cookies. They are used to make the login process easier for our users, to allow the website to track which products you have added to your basket and your preferred country, language and currency, and to track broad user movements for statistical purposes.
 
-If you do not want your personal information to be stored by cookies, you can alter the settings in your browser so that it alters you whenever a cookie is received. You can then decide if you wish to accept them or not on a case by case basis. Please be aware that the use of cookies may be required to provide certain features and deciding to reject cookies may negatively impact the functionality of the site. Your browser help tab should include detailed instructions outlining how to handle cookies.
+#### If you need to correct or update your personal information
 
-**3rd Party Cookies**
+We provide a way to correct or update user personal data from our records should information change. If you no longer want to be on our mailing list, see our opt-out process above.
 
-SoftCity may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user's prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google's use of cookies by visiting the Google advertising opt-out page or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+A delay of a few days applies to corrections and updates of personal information as Avanquest attempts to verify the identity of a user requesting such changes to their information before they are made.
 
-From time to time, we may also use Remarketing Dynamic Ads which use the Teracent cookie. Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/).
+To correct or update personal information, [send an email](mailto:serviceclient@avanquest.com?subject=OneSafe_Software) to our Customer Service Department or send a letter to:
 
-We may also use DoubleClick Remarketing PIxels. Users may opt out of DoubleClick’s use of cookies by visiting Teracent cookie by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or   
-the [Network Advertising Initiative opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
+Avanquest Software – Customer Service  
+Sheridan House, 40-43 Jewry Street  
+Winchester, SO23 8RY  
+United Kingdom
 
-**Security**
+#### And, of course, your access right
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All the data regarding customers, users, their computers' system information and data are stored on a server. This server is located in a locked and guarded space and only authorized personnel have access to the database containing the stored information.
+You have a right to access the personal data that is held about you. To obtain a copy of the personal information Avanquest holds about you, please write to us at the same address:
 
-**Notification of Changes**
+Avanquest Software – Customer Service  
+Sheridan House, 40-43 Jewry Street  
+Winchester, SO23 8RY  
+United Kingdom
 
-If we change our Privacy Policy, we will post those changes on our site. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
+#### Notification of changes
 
-**Contacting the Web Site**
+You will always be warned should we modify this Privacy Policy so that you can continue to be confident about your privacy. This Privacy Policy was last updated on December 20, 2007. When we change our Privacy Policy, we will post a message on our homepage to that effect with a link to the revised Policy. In this way, you will always be aware of what information we collect, how we use it, and under which circumstances we may disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email and you will be given a choice as to whether or not Avanquest Software may use their information in this different manner.
 
-If you have any questions or comments about this privacy statement, the practices of our sites, or your dealings with any of our websites, you can contact [support@softcity.com](mailto:support@softcity.com)
+#### Any questions?
+
+If you have any enquiries regarding this Privacy Policy, don’t hesitate to [contact us by email](mailto:serviceclient@avanquest.com?subject=OneSafe_Software).
