@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idealgasm.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009064435id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealgasm.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906032107id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.*
 
-# iDealgasm - Daily Adult Deals - Privacy Policy
+# Privacy Policy | iDealgasm
 
 This Privacy Policy discloses the privacy practices for the iDealgasm website (collectively, the "Website” located at www.idealgasm.com). SternDoor LLC, D/B/A iDealgasm, a Pennsylvania corporation, the provider of the Website (referred to as "us” or "we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User” or the "End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
