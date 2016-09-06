@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hear.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203132050id_/https%3A//www.hear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hear.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907002421id_/https%3A//www.hear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
- **hear.com**  strives to provide the best service possible and as part of that, the more we know about your needs, the better we are able to customize our services. We respect your privacy and safeguard your information. In order to preserve your trust, we pledge to protect your privacy by adhering to the practices described below.
+ **hear.com**  strives to provide the best service possible and as part of that, the more we know about your needs, the better we are able to customize our services. We respect your privacy and safeguard your information. In order to preserve your trust, we pledge to protect your privacy by adhering to the practices described below. 
 
 By using our site, you consent to our privacy policy.
 
@@ -24,30 +24,30 @@ By using our site, you consent to our privacy policy.
 
 ## Information Collection
 
-We collect information in two ways: personal information and information we get from your use of our services.
+We collect information in two ways: personal information and information we get from your use of our services. 
 
 **Personal Information** is information that is associated with your personal identity. We use personal information to understand your needs and interests, and to provide you with better products and services. Once you choose to provide us with personal information, you can be assured it will be used only to support your customer relationship with hear.com. We take the trust you place in us seriously. We will not sell, rent or lease your personal information to any third-party. While using our site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. "Personally identifiable information" may include, but is not limited to your name, e-mail address, mailing address, phone number or date of birth. 
 
 **Information we get from your use of our services** is data about usage and service operation that is not associated with a specific identity. We collect and analyze non-personal information to evaluate how visitors use our website. Aggregate data we collect may include pages visited on the site, unique URLs visited within the site, browser type, and IP address. Most non-personal data is collected via cookies or other analysis technologies. 
 
-**Cookies** are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer's hard drive. Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you do not accept cookies, you may not be able to use some portions of our site. Some of our business partners may use cookies on our site (for example, advertisers); however, we have no access to or control over these cookies.
+**Cookies** are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer's hard drive. Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you do not accept cookies, you may not be able to use some portions of our site. Some of our business partners may use cookies on our site (for example, advertisers); however, we have no access to or control over these cookies. 
 
 ## Information Use and Sharing 
 
 We will use your information to respond to you, personalize your experience, improve our website and improve customer service. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request. We will not sell or rent this information to anyone.   
-Unless you ask us not to, we may contact you via mail and email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+Unless you ask us not to, we may contact you via mail and email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
 ## Third Party Websites 
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on www.hear.com. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the use and disclosure of information we collect from you on www.hear.com. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties. 
 
 ##  Child Privacy 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) and we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) and we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
 ##  Security 
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database. This database is only accessible by those authorized to access such systems, and these individuals are required to keep the information confidential.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database. This database is only accessible by those authorized to access such systems, and these individuals are required to keep the information confidential. 
 
 ##  Notice of HIPAA Privacy Practices 
 
@@ -58,14 +58,14 @@ We are required by law to protect the privacy of health information that may rev
 If you have any questions about this Notice or would like further information, please contact us at: 
 
 **hear.com LLC  
-7300 Biscayne Boulevard   
-Miami, Florida 33138**
+396 Alhambra Circle, S-700  
+Miami, Florida 33134**
 
 ### How we may use and disclose your health information 
 
 There are some situations where we do not need your written authorization before using your health information or sharing it with others. They are: 
 
-**Treatment.** We may use and disclose protected health information about you, including hearing test findings, in order to ensure that you receive proper medical treatment. For example, we may share your protected health information to another physician, audiologist, or health care provider involved in your care.
+**Treatment.** We may use and disclose protected health information about you, including hearing test findings, in order to ensure that you receive proper medical treatment. For example, we may share your protected health information to another physician, audiologist, or health care provider involved in your care. 
 
 **Payment.** We may use your health information or share it with others so that we may obtain payment for your health care services. For example, we may share information about you with your health insurance company in order to obtain reimbursement after we have treated you. In some cases, we may share information about you with your health insurance company to determine whether it will cover your treatment. 
 
@@ -87,7 +87,7 @@ There are some situations where we do not need your written authorization before
 
 **Product Monitoring, Repair and Recall.** We may disclose your health information to a person or company that is regulated by the Food and Drug Administration for the purpose of: (1) reporting or tracking product defects or problems; (2) repairing, replacing, or recalling defective or dangerous products; or (3) monitoring the performance of a product after it has been approved for use by the general public. 
 
-**Lawsuits and Disputes.** We may disclose your health information if we are ordered to do so by a court or administrative tribunal that is handling a lawsuit or other dispute. We may also disclose your information in response to a subpoena, discovery request, or other lawful request by someone else involved in the dispute, but only if efforts have been made to tell you about the request or to obtain a court order protecting the information from further disclosure and only with a written certification by the party issuing the subpoena in accordance with law.
+**Lawsuits and Disputes.** We may disclose your health information if we are ordered to do so by a court or administrative tribunal that is handling a lawsuit or other dispute. We may also disclose your information in response to a subpoena, discovery request, or other lawful request by someone else involved in the dispute, but only if efforts have been made to tell you about the request or to obtain a court order protecting the information from further disclosure and only with a written certification by the party issuing the subpoena in accordance with law. 
 
 **Law Enforcement.** We may disclose your health information to law enforcement officials for certain reasons, such as complying with court orders, assisting in the identification of fugitives or the location of missing persons, or if necessary to report a crime that occurred on our property. 
 
@@ -101,7 +101,7 @@ There are some situations where we do not need your written authorization before
 
 **Coroners, Medical Examiners, and Funeral Directors.** In the unfortunate event of your death, we may disclose your health information to a coroner or medical examiner. We may also release this information to funeral directors as necessary to carry out their duties consistent with applicable law. 
 
-**Organ and Tissue Donation.** In the unfortunate event of your death, if you are an organ donor we will disclose your health information to organizations involved in organ donation, organ and tissue procurement and transplantation, as necessary to facilitate organ, tissue, or eye donation and transplantation.
+**Organ and Tissue Donation.** In the unfortunate event of your death, if you are an organ donor we will disclose your health information to organizations involved in organ donation, organ and tissue procurement and transplantation, as necessary to facilitate organ, tissue, or eye donation and transplantation. 
 
 **DISCLOSURES WITH YOUR AUTHORIZATION** We must obtain your authorization to use or disclose health information in those situations not otherwise described in this Notice. If you do authorize us to use or disclose your medical information, you have the right to revoke that authorization at any time. 
 
@@ -132,8 +132,8 @@ We want you to know that you have the following rights to access and control you
 If you have additional privacy questions or if you are otherwise concerned with our personal information practices, then you may contact us here: 
 
 **hear.com LLC  
-7300 Biscayne Boulevard   
-Miami, Florida 33138**
+396 Alhambra Circle, S-700  
+Miami, Florida 33134**
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes. 
 
