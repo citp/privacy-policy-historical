@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhometab.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329042824id_/http%3A//newhometab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhometab.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907161123id_/http%3A//newhometab.com/privacy.html) for the most accurate reproduction.*
 
 # HomeTab - Connect your homepage to your mobile phone
 
