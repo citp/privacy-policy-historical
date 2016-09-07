@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422080842id_/http%3A//pckeeper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908015033id_/http%3A//pckeeper.com/privacy) for the most accurate reproduction.*
 
 # PCKeeper Official Website
+
+[Last Updated: 21/06/2016]
 
 ## Introduction
 
 We, Essentware S.A. (hereinafter "Essentware"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow all the data protection procedures aimed to preserve the complete security of your personal information. Our privacy policy applies to: 
 
   * using the Essentware’s products and services (hereinafter referred to as the “PCKeeper”),
-  * visiting the [http://pckeeper.com](http://pckeeper.com/) website,
+  * visiting the [http://pckeeper.com](https://pckeeper.com/) website,
   * visiting any other linked pages or application services offered by the Essentware.
 
 
@@ -31,6 +33,8 @@ You will be required to provide the following personal information at our websit
 
 
 
+You can create a PCKeeper™ account using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you with an option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
+
 Information provided by you will be used only for: 
 
   * creating an account that you will be able to manage Essentware PCKeeper licenses with, 
@@ -41,7 +45,7 @@ Information provided by you will be used only for:
 
 ### Note
 
-Information collected by some PCKeeper services you activated deliberately is not used by the Essentware for any purpose. This information can be accessed only by the user in the account page ( [PCKeeper account](http://account.pckeeper.com/)).   
+Information collected by some PCKeeper services you activated deliberately is not used by the Essentware for any purpose. This information can be accessed only by the user in the account page ( [PCKeeper account](https://account.pckeeper.com/)).   
 This data enables fast and efficient rendering of PCKeeper services to our customers. In addition, it is used for communication purposes, such as notifying you about PCKeeper updates or special offers.  
 The user is able to hide their personal data when creating a PCKeeper account as well as to deactivate PCKeeper services previously activated in their PCKeeper account.  
 User information is not complemented by information from other sources. 
