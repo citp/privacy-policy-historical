@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good4utah.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509060220id_/http%3A//www.good4utah.com/test-offline-test/nexstar-privacy-policy-updated-november-5-2015) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good4utah.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907194450id_/http%3A//www.good4utah.com/test-offline-test/nexstar-privacy-policy-updated-november-5-2015) for the most accurate reproduction.*
 
 # Nexstar Privacy Policy - Updated November 5, 2015 - Story | Utah
 
