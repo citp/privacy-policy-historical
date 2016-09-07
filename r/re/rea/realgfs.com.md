@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgfs.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318120230id_/http%3A//realgfs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgfs.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907205019id_/http%3A//realgfs.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT
 
