@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicanreader.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507221421id_/http%3A//www.republicanreader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicanreader.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907112305id_/http%3A//www.republicanreader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Republican Reader
 
