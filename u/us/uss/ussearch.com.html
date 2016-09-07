@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623234558id_/http%3A//www.ussearch.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2016-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160907213356id_/http%3A//www.ussearch.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
             <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6QB3G"></script><script src="//cdn.optimizely.com/js/1000201234.js"></script>
@@ -35,7 +35,7 @@
    </head>
 
    <body id="uss-body">
-      <script type="text/javascript">
+               <script type="text/javascript">
    if (typeof(dataLayer) == 'undefined'){
       dataLayer = [];
    }
@@ -43,6 +43,7 @@
             dataLayer.push({"pageName": "about_privacy"});
    
    var rawPixelsData = /pixel=([^;]+)?/.exec(document.cookie);
+   var rawPtoPixelsData = /ptoPixel=([^;]+)?/.exec(document.cookie);
    var rawPartnerData = /partner=([^;]+)/.exec(document.cookie);
 
    if (rawPixelsData && rawPartnerData && rawPixelsData[1] && rawPartnerData[1]){
@@ -51,6 +52,16 @@
 
       var pixels = JSON.parse(rawPixels);
       var partner = JSON.parse(rawPartner);
+
+      if (rawPtoPixelsData && rawPtoPixelsData[1])
+      {
+         var rawPtoPixels = unescape(rawPtoPixelsData[1]);
+         var ptoPixels = JSON.parse(rawPtoPixels);
+         pixels = pixels.concat(ptoPixels);
+
+         // delete the partner cookie, the data is sent
+         document.cookie = "ptoPixel=; path=/";
+      }
 
       for (var i = 0; i < pixels.length; i++){
          dataLayer.push({
@@ -79,12 +90,40 @@
       document.cookie = "pixel=; path=/";
    }
 
+      var rawOrdersData = /orders=([^;]+)?/.exec(document.cookie);
+   if (rawOrdersData && rawOrdersData[1]){
+      var rawOrders = unescape(rawOrdersData[1]);
+      var orders = JSON.parse(rawOrders);
+      dataLayer.push({
+         orderSubtotal: orders.orderSubtotal,
+         orderTax: orders.orderTax,
+         orderTotalAmount: orders.orderTotalAmount
+      });
+
+      // delete the partner cookie, the data is sent
+      document.cookie = "orders=; path=/";
+   }
+
+      var rawPtoOrdersData = /ptoOrders=([^;]+)?/.exec(document.cookie);
+   if (rawPtoOrdersData && rawPtoOrdersData[1]){
+      var rawPtoOrders = unescape(rawPtoOrdersData[1]);
+      var ptoOrders = JSON.parse(rawPtoOrders);
+      dataLayer.push({
+         ptoOrderSubtotal: ptoOrders.orderSubtotal,
+         ptoOrderTax: ptoOrders.orderTax,
+         ptoOrderTotalAmount: ptoOrders.orderTotalAmount
+      });
+
+      // delete the partner cookie, the data is sent
+      document.cookie = "ptoOrders=; path=/";
+   }
+
    if (rawPartnerData && rawPartnerData[1]){
       var rawPartner = unescape(rawPartnerData[1]);
 
       var partner = JSON.parse(rawPartner);
 
-      partner.abTestCaseId = 0;
+      partner.abTestCaseId = 703;
       partner.hasVisitedAbTestCase = false;
 
       dataLayer.push(partner);
@@ -95,7 +134,7 @@
       host: location.host,
       path: location.pathname
    });
-</script>      <!-- Google Tag Manager -->
+</script>            <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6QB3G"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -303,7 +342,7 @@ ul.appropriate-spacing li {
    <div class="uss-footer-logged-out">
             <div id="fcraSection">
       US Search is dedicated to helping you find people and learn more about them in a safe and responsible manner. US Search is not a Consumer Reporting Agency (CRA) as defined by the Fair Credit Reporting Act (FCRA). This site should not be used to make decisions about employment, tenant screening, or any related purpose covered by the FCRA. <br>For employment or tenant screening, please visit our partner <a href="https://www.kennect.com/sod/partners/ussearch" target="_blank">Talentwise</a>.
-      </div>      
+      </div>
       <ul>
          <li><a href="/">Home</a> •</li>
          <li><a href="/about/company">About Us</a> •</li>
@@ -311,7 +350,6 @@ ul.appropriate-spacing li {
          <li><a href="/people-directory">People Search Directory</a> •</li>
          <li><a href="/bulk-search">Bulk Search</a> •</li>
          <li><a href="/about/sitemap">Site Map</a> •</li>
-         <li><a href="/about/affiliate-program">Affiliates</a> •</li>
          <li><a href="/about/jobs">Careers</a> •</li>
          <li><a href="/about/news">News</a> •</li>
          <li><a href="/about/privacylock-refund">PrivacyLock Refund</a> •</li>
@@ -345,6 +383,8 @@ ul.appropriate-spacing li {
       document.write('<noscript><iframe height="0" frameborder="0" scrolling="no" src="/jsenabled?javascript=false"></iframe></noscript>');
    }
 </script><iframe height="0" frameborder="0" scrolling="no" src="/jsenabled"></iframe>
+
+         
       
             <script type="text/javascript">_satellite.pageBottom();</script>
 
