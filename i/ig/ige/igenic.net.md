@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenic.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628145558id_/http%3A//igenic.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenic.net privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907105359id_/http%3A//igenic.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - IGENIC Technology
 
