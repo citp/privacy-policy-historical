@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508214834id_/http%3A//www.emetrics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emetrics.org privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908221137id_/http%3A//www.emetrics.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eMetrics Summit, International Marketing Analytics Conferences
 
