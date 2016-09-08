@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegethinking.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604180118id_/http%3A//www.collegethinking.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegethinking.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908183148id_/http%3A//collegethinking.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Collegethinking | American Online Education
 
