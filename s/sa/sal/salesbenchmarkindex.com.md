@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413230923id_/https%3A//salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908183039id_/https%3A//salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Benchmark Index
 
