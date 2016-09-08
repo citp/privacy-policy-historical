@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootstrapstudio.io privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304101248id_/https%3A//bootstrapstudio.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapstudio.io privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908070127id_/https%3A//bootstrapstudio.io/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
