@@ -1,55 +1,67 @@
-> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605033630id_/http%3A//www.upcleaner.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908053356id_/http%3A//www.upcleaner.net/privacy_policy.html) for the most accurate reproduction.*
 
-# UPCleaner privacy policy
+# PRIVACY POLICY
 
-### Privacy Policy
+WWW.GREENET.XYZ'S PRIVACY POLICY
 
-Brotsoft technology co., Ltd. ("UPCleaner") takes your privacy very seriously. Please read the following to learn more about UPCleaner's Privacy Policy ("Policy"). This Policy specifies how UPCleaner receives, collects and uses information in connection with their website located at www.upcleaner.net ("Site"). Collection and Use of Information
+www.greenet.xyz is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
 
-#### Information You Provide
+**WHAT INFORMATION DOES WWW.GREENET.XYZ COLLECT?**
 
-When you register on the Site, you will be asked to provide certain personally identifiable information, which may include your name, email address, age, gender, address, telephone number(s), areas of interest, login name, login password and other self-identifying information (all "Personal Information"). UPCleaner collects Personal Information primarily for the following purposes:
+www.greenet.xyz may request and/or collect information from you on a voluntary basis when you: register with us, or when you send questions or comments via e-mail to www.greenet.xyz customer support. The requested information may include personal information such as your name and e-mail address.
 
-(i) To maintain a record of registered users;
+If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities.
 
-(ii) To manage the login process and maintain users' personal preferences;
+**SIGN UP TO OUR FREE NEWSLETTER**
 
-(iii) To email registered users with news and updates; and
+If you wish to sign up to our free newsletter, you will be asked to supply personal information such as your e-mail address. With your permission, www.greenet.xyz uses such information to periodically contact you with product information news, special offers and new games that are released.
 
-(iv) To email promotional offers.
+**E-MAIL**
 
-In addition, UPCleaner may also collect information about you in surveys or for sweepstakes and contests on the Site and information about the searches you perform, promotional offers you choose and the pages you visit on the Site.
+By allowing you to send e-mail to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments. Whatever the activity may be, we will only collect information to the extent deemed reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-#### Information We Automatically Collect
+**OPT OUT**
 
-UPCleaner does not automatically collect any Personal Information on or through the Site, except as provided by you in connection with the registration process. Nevertheless, UPCleaner may use cookies on the Site. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier by saving preferences and browsing patterns while you are at UPCleaner's Site. Cookies may be used to analyze Site usage, improve content, customize the Site's content and layout and for other customer service purposes. UPCleaner's use of cookies is in no way linked to any Personal Information.
+If you are receiving e-mails or regular mail and at a later date you choose to opt out and have your name removed from the e-mailing list, you can do so by using the link included with a www.greenet.xyz e-mail.
 
-UPCleaner may automatically receive and record certain non-personally identifiable information on its server logs from your browser, including your IP address, browser type, internet service provider (ISP), cookie information, and the webpage that a user visits. UPCleaner collects non-personally identifiable information for general purposes, including but not limited to analyzing trends, administering the site, tracking user movements, conducting research, and providing anonymous reporting to internal and external clients. UPCleaner will not link any Personal Information, including e-mail addresses, with aggregate data of its users.
+**COOKIES**
 
-#### Sharing and Disclosure of Information
+www.greenet.xyz may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, www.greenet.xyz does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
-UPCleaner does not rent, sell, or share any information about the user with any third-parties. UPCleaner may disclose your Personal Information if UPCleaner believes such action is necessary to:
+Additionally, www.greenet.xyz may use cookies and third party vendors to deliver ads related to www.greenet.xyz to you while you are surfing other websites.
 
-(a) Comply with the law or legal process served on UPCleaner;
+**IP ADDRESSES**
 
-(b) Protect and defend the rights or property of UPCleaner (including the enforcement of our agreements);
+www.greenet.xyz may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-(c) Act in urgent circumstances to protect the personal safety of users of UPCleaner services or members of the public
+**LOG FILES**
 
-UPCleaner may share aggregated demographic information about users with third party advertising and content companies. This information does not identify individual users and UPCleaner do not link aggregate user data with Personal Information.
+Other non-personal information collected by www.greenet.xyz is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For example, log file entries are generated every time a visitor clicks the "Home" icon on our site. These entries enable www.greenet.xyz to assess overall site activity, track interest in advertised sales, track interest in purchase behavior, and troubleshoot technical concerns. Through the use of log files, we may also collect certain demographic information such as the type of browser you are using (e.g., Chrome, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-#### Children's Privacy
+**LINKING TO THIRD PARTY SITES**
 
-Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). We never knowingly collect or maintain information at or on our website from those we actually know are under 13, and no part of our website is directed at or structured to attract anyone under 13. Visitors younger than 13 years of age may NOT use the UPCleaner website and software and must LEAVE immediately.
+To provide relevant information not found on our Web site, www.greenet.xyz may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites' privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and www.greenet.xyz is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install at your own risk. www.greenet.xyz assumes NO responsibility. www.greenet.xyz is not responsible for the privacy practices of the content of third party sites'. www.greenet.xyz hereby disclaims any representations or warranties expressed on any site other than its own site.
 
-#### Security
+**WHO IS COLLECTING MY PERSONAL INFORMATION?**
 
-UPCleaner takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although UPCleaner cannot guarantee that Personal Information will not be subject to unauthorized access, UPCleaner has physical, electronic, and procedural safeguards to protect the Personal Information. Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however.
+Any personal information that you disclose while visiting any of our websites is collected by www.greenet.xyz, and is used in the manner specified above.
 
-#### Business Transitions
+By using this site, you signify your assent to the www.greenet.xyz Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
 
-In the event that UPCleaner goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred. UPCleaner will post a notice on this website of any such change in ownership or control of the Personal Information UPCleaner may have prior to such transfer.
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
 
-Privacy Policy|[EULA](http://www.upcleaner.net/eula.html)
+**How to Contact Esoffers.**
 
-Copyright © 2014-2015 Brotsoft technology co., Ltd. All Rights Reserved
+If you have any concerns or questions with respect to any matter covered by this Privacy Policy, you may contact us by email at: [bd@esoffers.com](mailto:bd@esoffers.com) or at the following address:
+
+ESOffers Network Co., Limited
+
+Rm 1205, 12/F,
+
+Tai SangBank Building,
+
+130-132DesVoeux Road，Central,
+
+Hong Kong
+
+Phone Number: +85 231733712
