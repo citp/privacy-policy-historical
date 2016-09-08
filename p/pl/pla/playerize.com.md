@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerize.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430123204id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerize.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908220001id_/https%3A//superrewards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperRewards
 
