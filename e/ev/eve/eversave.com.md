@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050742id_/http%3A//www.eversave.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909000800id_/http%3A//www.eversave.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Eversave
 
