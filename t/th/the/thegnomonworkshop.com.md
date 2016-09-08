@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511121059id_/http%3A//www.thegnomonworkshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908172601id_/https%3A//www.thegnomonworkshop.com/privacy-policies) for the most accurate reproduction.*
 
-# The Gnomon Workshop | Privacy Policy
+# Privacy Policies | The Gnomon Workshop
 
 ## PRIVACY POLICY
 
@@ -32,5 +32,5 @@ Gnomon may update its privacy policy from time to time. When we change the polic
 
 The information contained in this web site is subject to change without notice.
 
-Copyright © 2009 The Gnomon Workshop, Inc. All rights reserved.  
+Copyright © The Gnomon Workshop, Inc. All rights reserved.  
 The Gnomon Workshop, Inc., 1015 North Cahuenga Boulevard, Hollywood, CA 90038.
