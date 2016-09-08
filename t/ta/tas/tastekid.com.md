@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastekid.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617030613id_/http%3A//www.tastekid.com/read/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastekid.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908232650id_/http%3A//www.tastekid.com/read/privacy) for the most accurate reproduction.*
 
 # Privacy | TasteKid
 
