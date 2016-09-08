@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042145id_/http%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908235016id_/http%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WKRB News
 
