@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transfers.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407195818id_/http%3A//www.transfers.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfers.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908063138id_/http%3A//www.transfers.com/policy) for the most accurate reproduction.*
 
 # Privacy policy: Transfers.com
 
