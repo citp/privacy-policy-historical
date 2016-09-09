@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216170445id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909220438id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
