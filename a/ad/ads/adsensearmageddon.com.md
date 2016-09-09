@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsensearmageddon.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601140326id_/http%3A//www.adsensearmageddon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsensearmageddon.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909055611id_/http%3A//www.adsensearmageddon.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
