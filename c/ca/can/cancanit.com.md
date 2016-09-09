@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501172432id_/https%3A//cancanit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancanit.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909020809id_/https%3A//cancanit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CancanIT
+
+**If you require any more information or have any questions about our privacy policy, please feel free to contact us at our[Help Center](https://web.archive.org/support/).**
 
 CancanIT has created this privacy statement in order to demonstrate our firm commitment to our visitors' and participants' privacy. The following discloses our information gathering and dissemination practices for this Web site: www.CancanIT.com. This Privacy Policy is a portion of, and is incorporated into, the Web Site Terms and Conditions of Use.
 
@@ -23,6 +25,12 @@ As part of your use of the Services, you are responsible for maintaining and upd
 #### Cookies
 
 "Cookies" are pieces of information that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the CancanIT Site. CancanIT may use cookies to customize your Site experience, to make sure you don't see the same ad repeatedly, to deliver content specific to your interests, to save your password (in some cases) so you don't have to re-enter it each time you visit our Site, and for other purposes. However, you may disallow cookies through your Web browser and still visit our Site. CancanIT will never use cookies to retrieve information from a computer that is unrelated to the CancanIT Site or Services or your interaction with the CancanIT Site.
+
+#### Remarketing
+
+CancanIT also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service. You can opt out of Google's use of cookies by visiting [Ads Settings](http://www.google.com/settings/ads) page.
 
 #### Consent to Processing
 
@@ -47,3 +55,5 @@ If we ever send you information by e-mail concerning new CancanIT products or se
 #### Your Acceptance of this Policy
 
 By visiting this Site or receiving Services, you signify your assent to our then-current Privacy Policy. If you do not agree to this policy, please do not use our Site or Services. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
+
+This website uses cookies to ensure you get the best experience on our website Got it!
