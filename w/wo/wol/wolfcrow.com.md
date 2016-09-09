@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wolfcrow.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623172618id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfcrow.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909190555id_/http%3A//wolfcrow.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | wolfcrow
+# Privacy Policy | Wolfcrow
 
 At wolfcrow we are committed to safeguarding and preserving the privacy of our visitors. This [Website Privacy Policy](http://www.diylegals.co.uk/ecommerce/website-privacy-policy/) has been provided by the legal resource [www.diylegals.co.uk](http://www.diylegals.co.uk/) and reviewed and approved by their solicitors.
 
@@ -69,5 +69,3 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 **Contacting Us**
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at director@theindiefarm.com.
-
-## Reader Interactions
