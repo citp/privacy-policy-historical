@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isaumya.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922075430id_/https%3A//www.isaumya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaumya.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909071354id_/https%3A//www.isaumya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saumya Majumder
 
@@ -79,17 +79,17 @@ All emails sent to customers at their request will have the option to unsubscrib
 
 I use industry standard Secure Socket Layer (SSL) technology and it is implemented throughout my application systems and networks.
 
-Information exchanges and transactions, including authentication, reporting, passwords and billing related data between customers and Mobile Marketing Allies application systems are strictly protected using SSL technology.
+Information exchanges and transactions, including authentication, reporting, passwords and billing related data between customers and iSaumya.com application systems are strictly protected using SSL technology.
 
-This ensures that the customer’s session is completely private and secure from both external systems and other customers using Mobile Marketing Allies.
+This ensures that the customer’s session is completely private and secure from both external systems and other customers using iSaumya.com.
 
 ### Credit Card Information
 
-I use PayPal to process all payments. When credit/charge card payment is chosen, information is then transferred to Mobile Marketing Allies’ payment processing partners using industry-leading, secure transmission technology, including SSL – the transmission standard used for transactions by major financial institutions.
+I use PayPal to process all payments. When credit/charge card payment is chosen, information is then transferred to iSaumya.com’s payment processing partners using industry-leading, secure transmission technology, including SSL – the transmission standard used for transactions by major financial institutions.
 
 ### Effective Date of Policy
 
-This policy is effective and current as of March 2014. I may make changes to this policy and process and systems without further warning. I may also update this privacy policy to reflect updates.
+This policy is effective and current as of March 2014. I may make changes to this policy and process and systems without further warning. I may also update this privacy policy to reflect updates. This privacy policy page has been last updated on March 2016.
 
 Maintaining this privacy policy of customer information is of up-most importance to me and it helps build stronger relationships, goodwill and increase confidence.
 
