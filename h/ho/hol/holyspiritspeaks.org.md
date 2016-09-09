@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510163244id_/https%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyspiritspeaks.org privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909055846id_/http%3A//www.holyspiritspeaks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | The Church of Almighty God
 
