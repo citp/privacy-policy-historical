@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dallasmarketingservices.com privacy policy that was archived on 2015-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151020124630id_/http%3A//www.dallasmarketingservices.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dallasmarketingservices.com privacy policy that was archived on 2016-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160909081832id_/http%3A//www.dallasmarketingservices.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" boxed-layout skin-grey  std-selector js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta content="text/html; charset=UTF-8" http-equiv="content-type">
 
@@ -18,9 +18,9 @@
     <script>window.jQuery || document.write('<script src="/wp-content/themes/nexus/js/libs/jquery-1.7.1.min.js"><\/script>')</script><script src="/wp-content/themes/nexus/js/libs/jquery-1.7.1.min.js"></script>
 
     
-<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy - Dallas Internet Marketing | Dallas SEO Company</title>
-<meta name="robots" content="noodp,noydir">
+<meta name="robots" content="noodp">
 <link rel="canonical" href="http://dallasmarketingservices.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -31,9 +31,9 @@
 <!-- / Yoast SEO plugin. -->
 
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"\/wp-includes\/js\/wp-emoji.js?ver=4.2.5","twemoji":"\/wp-includes\/js\/twemoji.js?ver=4.2.5"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"\/wp-includes\/js\/wp-emoji.js?ver=4.5.4","twemoji":"\/wp-includes\/js\/twemoji.js?ver=4.5.4"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -41,12 +41,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -60,27 +62,54 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				return canvas.toDataURL().length > 3000;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -91,17 +120,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -129,7 +172,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="/wp-includes/js/twemoji.js?ver=4.2.5" type="text/javascript"></script><script src="/wp-includes/js/wp-emoji.js?ver=4.2.5" type="text/javascript"></script>
+		</script><script src="/wp-includes/js/twemoji.js?ver=4.5.4" type="text/javascript"></script><script src="/wp-includes/js/wp-emoji.js?ver=4.5.4" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -144,12 +187,15 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2">
-<link rel="stylesheet" href="/wp-content/plugins/gallery-plugin/css/frontend_style.css?ver=4.2.5">
-<link rel="stylesheet" href="/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox-1.3.4.css?ver=4.2.5">
-<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox-1.3.4.pack.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/js/frontend_script.js?ver=4.2.5"></script>
+<link rel="stylesheet" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2">
+<link rel="stylesheet" href="/wp-content/plugins/gallery-plugin/css/frontend_style.css?ver=4.5.4">
+<link rel="stylesheet" href="/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox-1.3.4.css?ver=4.5.4">
+<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=4.5.4"></script>
+<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/fancybox/jquery.fancybox-1.3.4.pack.js?ver=4.5.4"></script>
+<script type="text/javascript" src="/wp-content/plugins/gallery-plugin/js/frontend_script.js?ver=4.5.4"></script>
+<link rel="https://api.w.org/" href="http://dallasmarketingservices.com/wp-json/">
+<link rel="alternate" type="application/json+oembed" href="http://dallasmarketingservices.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdallasmarketingservices.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://dallasmarketingservices.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdallasmarketingservices.com%2Fprivacy%2F&amp;format=xml">
 			<style type="text/css">
 				.gllr_image_row {
 					clear: both;
@@ -324,8 +370,9 @@ margin:30px 0;
         }
 
     </style>
+
 <meta name="google-site-verification" content="J7tva3KrM5rBUPWdgwhWNRBLDYjX1EoTwrvcHorMm3A">
-<script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa3&amp;groupid=12473&amp;websiteid=0"></script></head>
+</head>
 
 <body class="page page-id-3309 page-template page-template-page-full page-template-page-full-php privacy gllr_next">
 
@@ -580,32 +627,11 @@ margin:30px 0;
         <div class="border border-top"></div>
         <div class="row-fluid clearfix">
             <div class="span4">
-                
-<!-- Start - HTML Javascript Adder plugin v3.9 -->
-<div class="widget-1 widget-first divider"></div><article id="html_javascript_adder-2" class="widget-1 widget-first widget widget_html_javascript_adder"><div class="widget-1 widget-first container">
-<div class="hjawidget textwidget">
-<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
-<script type="text/javascript">
-function wsa_include_js(){
-var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-var js = document.createElement("script");
-js.setAttribute("language", "javascript");
-js.setAttribute("type", "text/javascript");
-js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=wsa3&groupid=12473&websiteid=0");
-document.getElementsByTagName("head").item(0).appendChild(js);
-}
-if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
-else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
-else {document.addEventListener("load", wsa_include_js, false);}
-</script>
-<!-- End WebsiteAlive Embedded Icon/Tracking Code -->
-</div>
-</div></article><!-- End - HTML Javascript Adder plugin v3.9 -->
-            </div>
+                            </div>
             <div class="span4">
                             </div>
             <div class="span4">
-                <div class="widget-1 widget-last divider"></div><article id="text-10" class="widget-1 widget-last widget widget_text"><div class="widget-1 widget-last container">			<div class="textwidget"><script type="text/javascript">
+                <div class="widget-1 widget-first divider"></div><article id="text-10" class="widget-1 widget-first widget widget_text"><div class="widget-1 widget-first container">			<div class="textwidget"><script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-11592281-8']);
@@ -628,11 +654,12 @@ else {document.addEventListener("load", wsa_include_js, false);}
 <script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2"></script>
-<script type="text/javascript" src="/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.js?ver=4.5.4"></script>
+<script type="text/javascript" src="/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
 
 
 
