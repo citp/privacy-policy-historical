@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629180312id_/https%3A//www.dukehealth.org/patients-and-visitors/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909224447id_/https%3A//www.dukehealth.org/patients-and-visitors/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Notice of privacy practices | Duke Health
 
