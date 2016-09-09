@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eapps.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305223704id_/http%3A//eapps.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eapps.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910012343id_/http%3A//eapps.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # eApps Hosting - Privacy Statement
 
