@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinemeetingnow.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517215421id_/http%3A//www.onlinemeetingnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemeetingnow.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909020028id_/http%3A//onlinemeetingnow.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy « onlinemeetingnow.com
+# Privacy Policy - onlinemeetingnow.com
+
+## Privacy Policy
 
 Effective Date: January 1, 2012
 
@@ -50,7 +52,7 @@ Disclosure Incident to Legal Process and Enforcement. We reserve the right to di
 
 Disclosure to our Affiliates and Resellers. We reserve the right to disclose your Personal-Covered Information to any of our (i) affiliates that referred you to our site for purposes of sales by us, and (ii) resellers that may re-sell our products or services to you. Disclosures to affiliates will only be to the affiliate that referred you to our site. Disclosures to resellers will be only to resellers that have already shared your information with us. Understand that the information you provide to these resellers is subject to their privacy policies.
 
-Disclosure When We Act as an Affiliate or Reseller for Others. We may act as an affiliate or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Personal-Covered Information to them for purposes of transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails ��� (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe.
+Disclosure When We Act as an Affiliate or Reseller for Others. We may act as an affiliate or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Personal-Covered Information to them for purposes of transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe.
 
 Disclosure to Third Parties For Direct Marketing; Your California Privacy Rights. We may provide you with the opportunity to receive promotional offers from specifically identified third-parties through their direct marketing efforts, but only if you explicitly consent (opt-in) to receive each offer. If you explicitly consent (opt-in), your Personal-Covered Information will be shared only with the specifically identified third-party to enable them to provide you with the offer you have requested, and then only in connection with that specific promotion and not on a continual basis. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their personal information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: contact-at-OnlineMeetingNow.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above.
 
@@ -62,7 +64,7 @@ SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
 Participation in Google Adsense Network. We reserve the right to participate in Google’s AdSense network for purposes of serving 3rd Party Behavioral Ads. Google uses DoubleClick’s DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to http://www.google.com/privacy_ads.html .
 
-Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our site���s performance.
+Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our site's performance.
 
 DATA SECURITY
 
