@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relatably.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512014411id_/http%3A//www.relatably.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relatably.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909235547id_/http%3A//www.relatably.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Relatably.com
 
