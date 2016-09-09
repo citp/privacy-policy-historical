@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the make-money-online-advice.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513095544id_/http%3A//www.make-money-online-advice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the make-money-online-advice.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909135512id_/http%3A//www.make-money-online-advice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,10 +94,8 @@ Suite 18131
 Lower Ground Floor  
 145-157 St John Street  
 London  
-EC1V 4PW
-
-http://www.make-money-online-advice.com
-
+EC1V 4PW  
+http://www.make-money-online-advice.com  
 customersupport: helpdesk.mmoamembership.com
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk applications](http://www.rhinosupport.com/help-desk-software.htm).
