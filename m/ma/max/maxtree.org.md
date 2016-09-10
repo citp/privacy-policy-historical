@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxtree.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623194959id_/http%3A//www.maxtree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtree.org privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910202957id_/http%3A//www.maxtree.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Maxtree
 
