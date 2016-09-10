@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630081835id_/http%3A//www.gigaparts.com/Company-Information/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910111836id_/http%3A//www.gigaparts.com/Company-Information/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
