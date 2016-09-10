@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoworldclass.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611183313id_/http%3A//seoworldclass.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworldclass.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910030223id_/http%3A//www.seoworldclass.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
