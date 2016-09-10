@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the airlinetrickets.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704220831id_/http%3A//www.airlinetrickets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlinetrickets.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910170107id_/http%3A//www.airlinetrickets.com/privacy.html) for the most accurate reproduction.*
 
 # AirlineTrickets.com - Privacy
 
 **AirlineTrickets.com**  
-Your Number One Source For Cheap Airline Tickets!
+Your Number One Source For Cheap Airline Tickets!  
+
 
 * * *
 
