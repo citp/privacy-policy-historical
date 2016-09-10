@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercantilcb.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326010322id_/http%3A//www.mercantilcb.com/wp-content/uploads/2015/04/Privacy_Notice_Eng1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantilcb.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910211438id_/https%3A//www.mercantilcb.com/wp-content/uploads/2015/04/Privacy_Notice_Eng1.pdf) for the most accurate reproduction.*
 
 # 
 
