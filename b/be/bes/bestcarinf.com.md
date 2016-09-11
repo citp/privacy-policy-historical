@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcarinf.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522172822id_/http%3A//www.bestcarinf.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcarinf.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911032539id_/http%3A//www.bestcarinf.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bestcarinf.com
 
