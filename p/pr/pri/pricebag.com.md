@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricebag.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005021633id_/http%3A//priceraja.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebag.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911214130id_/https%3A//priceraja.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | PriceRaja
+# Privacy Policy
 
 **PriceRaja.com** is very particular about ensuring your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. We want to demonstrate our commitment to protecting our user's privacy. By accessing the services provided by PriceRaja.com you agree to the collection and use of your data by PriceRaja.com in the manner provided in this Privacy Policy. By continued use of the site, you are also agreeing to the Privacy Policy and all the conditions listed therin.
 
