@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myarticleexpress.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419181005id_/http%3A//www.myarticleexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarticleexpress.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911090952id_/http%3A//www.myarticleexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyArticleExpress
 
 **PRIVACY POLICY**
 
-**– IMPORTANT — PLEASE READ**
+**— IMPORTANT — PLEASE READ**
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
