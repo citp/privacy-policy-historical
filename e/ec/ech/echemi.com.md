@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echemi.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321033435id_/http%3A//www.echemi.com/frontV2/cmsShow/cmsShow.html%3FcmsType%3D4%26cmsId%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echemi.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912010406id_/http%3A//www.echemi.com/cmsShow/cmsShow.html%3FcmsType%3D4%26cmsId%3D0) for the most accurate reproduction.*
 
 # Make Chemical Transaction Easier_Echemi.com
 
