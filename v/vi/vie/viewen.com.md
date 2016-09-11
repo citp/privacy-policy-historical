@@ -1,23 +1,41 @@
-> *The following text is extracted and transformed from the viewen.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303155920id_/http%3A//viewen.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewen.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911090050id_/https%3A//viewen.com/free-web-hosting/privacy-policy) for the most accurate reproduction.*
 
-# Viewen::Privacy
+# Privacy Policy - VIEWEN
 
-Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
+This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact us.
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
+When you sign up for our service, we may ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
 
-Salmista is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
+We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to.
 
-Salmista collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
+If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters.
 
-Like many other Web sites, Salmista uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Salmista. Members who disable cookies will not be able to use Salmista. 
+When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
 
-Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their Salmista list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Salmista members are never displayed to other users on the system. Users within a Personal Network communicate on Salmista with each other through the Salmista service without disclosing their email addresses.
+We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See “What is a Cookie” below. We may tie this cookie to the personally identifiable information we have about you.
 
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+If we send you an e-mail, we may include a marker that will allow us to identify e-mail that is opened and viewed.
 
-If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. Salmista does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Salmista stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
+##### We will use your personally identifiable information only as follows:
 
-The Salmista site may contain links to other Web sites. Please be aware that Salmista is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Salmista, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
+  * To provide customer support;
+  * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
+  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit.
 
-Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
+
+
+##### We will not provide any personally identifiable information about you to any other person other than:
+
+  * a law enforcement or regulatory agency at their request;
+  * a person or company who acquires our business;
+  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
+  * As otherwise needed to protect or enforce or rights or the rights of others.
+  * We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.
+
+
+
+We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
+
+A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
+
+We store your personally identifiable information and payment information in a secure and encrypted database.
