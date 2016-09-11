@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutthedata.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910234421id_/https%3A//aboutthedata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutthedata.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911213839id_/https%3A//aboutthedata.com/privacy) for the most accurate reproduction.*
 
 # AboutTheData.com | Privacy
 
@@ -10,7 +10,7 @@ This privacy statement applies solely to information collected by Acxiom Corpora
 
 #### Use by Acxiom Corporation
 
-This website allows you to view, edit and remove information about you in Acxiom’s marketing data products that we make available for digital advertising and to learn about Acxiom’s digital marketing data products and services. The information you provide during registration, name, address and email address, along with edits made to elements, may be included in Acxiom’s marketing to you, Acxiom’s marketing data products and shared with our partners. This will enable our clients and partners to deliver more relevant marketing and advertising to you. 
+This website allows you to view, edit and remove information about you in Acxiom’s marketing data products and allows you to view information about you from our 3rd party marketing partners that we make available for digital advertising and to learn about Acxiom’s digital marketing data products and services. The information you provide during registration, such as your name, address and email address, along with edits made to elements, may be included in Acxiom’s marketing to you, Acxiom’s marketing data products and shared with our partners. This will enable our clients and partners to deliver more relevant marketing and advertising to you. 
 
 To access data about you, you are required to provide personally identifiable information, so Acxiom can verify your identity. The information you provide will also be used to support your relationship with Acxiom on this website, including making the site easier for you to use and informing you of services, products or site updates, new services or products and other related information from Acxiom.
 
@@ -18,7 +18,7 @@ To fulfill a particular request, the information you provide may be shared withi
 
 #### Use by Third Parties
 
-The information you provide during registration, your name, address and email address, along with edits and removals made to elements, may be reflected in Acxiom’s marketing data products which are used by Acxiom and our clients. Acxiom provides marketing data products to our clients, partners and qualified businesses, non-profit organizations and other entities to enable them to deliver more relevant marketing and advertising to you. The resulting marketing offers and advertising you may receive may be via the mail, email, telephone and, if you opted in, on your mobile phone. To learn more about any of these uses and the privacy policy associated with them, [here](http://acxiom.com/about-acxiom/privacy/).
+The information you provide during registration, such as your name, address and email address, along with edits and removals made to elements, may be reflected in Acxiom’s marketing data products which are used by Acxiom and our clients. Acxiom provides marketing data products to our clients, partners and qualified businesses, non-profit organizations and other entities to enable them to deliver more relevant marketing and advertising to you. The resulting marketing offers and advertising you may receive may be via the mail, email, telephone and, if you opted in, on your mobile phone. To learn more about any of these uses and the privacy policy associated with them, [here](http://acxiom.com/about-acxiom/privacy/).
 
 Acxiom may share aggregated information, such as the number of visitors to the site, with our partners and third parties to develop suggestions to improve our website accessibility and the services provided on the site. Aggregated data is not linked to any personally identifiable information.
 
@@ -42,7 +42,7 @@ Do Not Track Signals: This website does not recognize browser “do-not-track”
 
 ### YOUR CHOICES AND HOW TO CONTACT US
 
-Acxiom also gives consumers the opportunity to learn about all of our data products at our corporate website [www.acxiom.com](http://www.acxiom.com/). Consumers who wish to opt-out of all Acxiom marketing data products may complete and submit an opt-out request form by clicking [here](https://isapps.acxiom.com/optout/optout.aspx). To opt out of just our online cookie based advertising products, click [here](http://acxiom.com/about-acxiom/privacy/online-advertising-products-optout/). Access to information about you in our directory and our fraud detection and prevention products is provided in the form of a US Reference Information Report that is available for a processing fee of $5. You may complete and submit a request form for your US Reference Information Report by clicking [here](http://acxiom.com/about-acxiom/privacy/us-reference-info-report/). 
+Acxiom also gives consumers the opportunity to learn about all of our data products at our corporate website [www.acxiom.com](http://www.acxiom.com/). Consumers who wish to opt-out of all Acxiom marketing data products, and Acxiom's use of third party data products we offer, may complete and submit an opt-out request form by clicking [here](https://isapps.acxiom.com/optout/optout.aspx). To opt out of just our online cookie based advertising products, click [here](http://acxiom.com/about-acxiom/privacy/online-advertising-products-optout/). Access to information about you in our directory and our fraud detection and prevention products is provided in the form of a US Reference Information Report that is available for a processing fee of $5. You may complete and submit a request form for your US Reference Information Report by clicking [here](http://acxiom.com/about-acxiom/privacy/us-reference-info-report/). 
 
 You may opt-out of receiving email marketing from us by clicking the unsubscribe link contained in the email.
 
@@ -58,7 +58,7 @@ We also regularly conduct risk assessments and audits on our internal and extern
 
 #### Notification of Changes
 
-This policy was last revised in March 2014. Our methods of information collection and uses of the information are unchanged.
+This policy was last revised in June 2015. Our methods of information collection and uses of the information are unchanged.
 
 If we decide to change our privacy policy in a material way, we will post a notification highlighting those changes on our home page.
 
@@ -66,4 +66,4 @@ If we decide to use personally identifiable information in a manner different fr
 
 In the event Acxiom is purchased, data collected on this site will be one of the transferred assets.
 
-Effective Date: March 8, 2014
+Effective Date: June 19, 2015
