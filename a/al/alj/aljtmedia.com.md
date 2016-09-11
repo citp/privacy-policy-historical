@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aljtmedia.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024020037id_/http%3A//www.madebymagnitude.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aljtmedia.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911151856id_/https%3A//www.madebymagnitude.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy & Cookie Information - Digital Development Agency - Web Design Chester, Cheshire | Made by Magnitude
+# Privacy Policy & Cookie Information | Made by Magnitude | Digital Agency Chester - Made by Magnitude
 
 ## your privacy is important to us.
 
