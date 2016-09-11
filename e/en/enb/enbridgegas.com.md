@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enbridgegas.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601211130id_/https%3A//www.enbridgegas.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enbridgegas.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911105659id_/https%3A//www.enbridgegas.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Enbridge Gas Distribution
 
