@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aholyexperience.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610155203id_/http%3A//www.aholyexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aholyexperience.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911103518id_/http%3A//www.aholyexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Holy Experience
 
