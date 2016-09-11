@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyocheapo.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527231743id_/https%3A//tokyocheapo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyocheapo.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911071719id_/https%3A//tokyocheapo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tokyo Cheapo
 
