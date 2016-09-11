@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531170652id_/https%3A//www.barbequesgalore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911235203id_/https%3A//www.barbequesgalore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,8 @@ We may collect your personal information for a number of purposes, including:
 
   1. Sales and delivery of our products- including preparing sales documentation, obtaining credit/debit card information to complete a sale and arranging delivery.
   2. Marketing- to communicate with you about products and services.
-  3. Fraud risk mitigation- to confirm identities when payment is made using credit card.
+  3. Market Research
+  4. Fraud risk mitigation- to confirm identities when payment is made using credit card.
 
 
 
@@ -77,8 +78,8 @@ If you do not wish to receive direct marketing communications from us, please co
 
 We may disclose your personal information to others in order to carry out our activities. This may include
 
-  1. Third parties for marketing purposes. We may provide your personal information to other like-minded organisations to contact you with information that may be of interest to you.
-  2. Contractors and service providers. We may provide your personal information to contractors or service providers which perform services on our behalf, such as delivery drivers, mailing houses, printers, information technology services providers (including cloud computing service providers) database contractors and telemarketing agencies.
+  1. Third parties for marketing and/or market research purposes. We may provide your personal information to other like-minded organisations to contact you with information that may be of interest to you.
+  2. Contractors and service providers. We may provide your personal information to contractors or service providers which perform services on our behalf, such as delivery drivers, mailing houses, printers, information technology services providers (including cloud computing service providers) database contractors,  telemarketing and market research agencies. 
 
 
 
