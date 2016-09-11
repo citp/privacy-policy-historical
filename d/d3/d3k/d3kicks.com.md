@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d3kicks.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824053727id_/http%3A//www.d3kicks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3kicks.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911225537id_/http%3A//www.d3kicks.com/privacy.htm) for the most accurate reproduction.*
 
 # Corporate Leagues - Privacy
 
