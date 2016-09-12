@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322060746id_/https%3A//www.forescout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912184305id_/https%3A//www.forescout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ForeScout
 
@@ -25,8 +25,8 @@ We understand that subsequent contact can be an inconvenience. Whenever possible
 For further means to Opt-Out or to contact the Company regarding this privacy statement, please email, call or write to:
 
 ForeScout Technologies, Inc.  
-900 E. Hamilton Ave. Ste. 300  
-Campbell, CA 95008, USA  
+190 West Tasman Drive  
+San Jose, CA 95134, USA  
 Email: [info@forescout.com](mailto:info@forescout.com)  
 +1-408-213-3191 tel  
 +1-408-213-2283 fax
