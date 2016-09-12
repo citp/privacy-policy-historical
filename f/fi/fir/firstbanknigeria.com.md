@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010072323id_/http%3A//www.firstbanknigeria.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912061852id_/http%3A//www.firstbanknigeria.com/privacy-statement) for the most accurate reproduction.*
 
 # First Bank of Nigeria Ltd. » Privacy Statement
 
-You are here: [Home](http://www.firstbanknigeria.com/) [](http://www.firstbanknigeria.com/) » Privacy Statement 
+You are here: [Home](https://firstbanknigeria.com/) [](https://firstbanknigeria.com/) » Privacy Statement 
 
 ## What this Privacy Policy Covers:
 
@@ -35,4 +35,4 @@ First Bank of Nigeria Plc may amend this policy from time to time. If we make an
 
 ## Questions or Suggestions
 
-If you have questions or suggestions complete the [Contact Form](http://www.firstbanknigeria.com/contact-us/contact-form/).
+If you have questions or suggestions complete the [Contact Form](https://firstbanknigeria.com/contact-us/contact-form/).
