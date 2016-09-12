@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donuts.co privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313135800id_/http%3A//www.donuts.domains/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donuts.co privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912110017id_/http%3A//www.donuts.domains/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Donuts Inc.
 
@@ -6,7 +6,7 @@ Donuts Inc. ("Donuts") is committed to protecting the privacy of those who regis
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY.  BY ACCESSING OR USING THE SERVICES, YOU EXPRESSLY AGREE TO BE BOUND BY THE TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.  IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THE SERVICES.
 
-Donuts reserves the right to modify this Privacy Policy from time to time without notice, such changes will be available on the Donuts website at [http://www.donuts.co](http://www.donuts.co/).  Each time you access or use the Services, you will be bound by the then‐effective Privacy Policy. 
+Donuts reserves the right to modify this Privacy Policy from time to time without notice, such changes will be available on the Donuts website at [http://www.donuts.domains](http://www.donuts.domains/).  Each time you access or use the Services, you will be bound by the then‐effective Privacy Policy. 
 
 ## External Websites
 
