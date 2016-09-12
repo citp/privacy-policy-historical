@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaynermedia.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408203040id_/http%3A//d29b5yuk6bs1sw.cloudfront.net/VaynerMedia_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaynermedia.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912114511id_/http%3A//d29b5yuk6bs1sw.cloudfront.net/VaynerMedia_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY This policy was last modified on April 21, 2015.
 
