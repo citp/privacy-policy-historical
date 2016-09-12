@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonsofatlantis.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406104748id_/http%3A//www.dragonsofatlantis.com/Director.aspx%3Fsid%3D304%26sky%3D7436VO1U%26pgi%3D6779%26pgk%3DMIK6WTDN%26eli%3DE853C124E0F122728F0B61589C5D8582) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonsofatlantis.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912164359id_/http%3A//www.dragonsofatlantis.com/Director.aspx%3Fsid%3D304%26sky%3D7436VO1U%26pgi%3D6779%26pgk%3DMIK6WTDN%26eli%3DE853C124E0F122728F0B61589C5D8582) for the most accurate reproduction.*
 
 # Privacy Policy | Kabam
 
