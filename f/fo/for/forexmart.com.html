@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forexmart.com privacy policy that was archived on 2016-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629184620id_/https%3A//www.forexmart.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forexmart.com privacy policy that was archived on 2016-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160912165641id_/https%3A//www.forexmart.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><link rel="stylesheet" href=""><head>
     <meta charset="utf-8">
@@ -23,6 +23,8 @@
         <link href="https://www.forexmart.com/assets/css/custom.min.css" rel="stylesheet">
         <link href="https://www.forexmart.com/assets/css/custom-external.min.css" rel="stylesheet">
         <link href="https://www.forexmart.com/assets/css/external-style.min.css" rel="stylesheet">
+        <link href="https://www.forexmart.com/assets/css/support-widget-style.css" rel="stylesheet">
+
 
      
         
@@ -41,6 +43,7 @@
     <!--[if lt IE 9]>
     <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
     <![endif]-->
     <script type="text/javascript">
         $(window).bind('scroll', function() {
@@ -124,8 +127,28 @@
             top:35%!important;}
         .purechat.purechat-bottom-right {
             right: 40px !important;
-            bottom: 0;
-            z-index: 5!important;}
+            bottom: 0;}
+
+        .purechat-widget .purechat-expanded, .purechat-widget .purechat-collapsed-outer {
+            margin-right: 0px !important;
+        }
+        @media screen and (max-width: 450px) {
+            .purechat-widget .purechat-expanded, .purechat-widget .purechat-collapsed-outer {
+                width: 250px !important;
+                margin-right: -30px !important;
+            }
+            .collapsed-image {
+                left: 42% !important;
+            }
+        }
+        .cd-top.cd-is-visible{
+                margin-bottom: 45px;
+        }
+        @media screen and (max-width: 766px) {
+            .cd-top.cd-is-visible {
+                margin-bottom: 35px;
+            }
+        }
     </style>
         <script type="text/javascript">
         $(function () {
@@ -154,13 +177,36 @@
     if (raf) raf(cb);
     else window.addEventListener('load', cb);
 </script>
+<style type="text/css">
+    .navbar-nav:lang(my){
+    margin-left: -20px;
+    }
+    @media screen and (max-width: 1199px)and (min-width: 992px;)
+    {
+        .nav>li>a.c_hand:lang(pl){
+            padding: 10px 10.1px!important;
+        }
+    }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+// If the web browser type is Safari
+        if( navigator.userAgent.toLowerCase().indexOf('safari/') > -1)
+        {
+            $(".logo-con-saf").hide();
+
+            $("#logo-saf-ap").append('<img src="https://www.forexmart.com/assets/images/fxlogonew.png" class="img-reponsive logo logo-img logo-con-saf" usemap="#fxxpplaspalmas">');
+        }
+    });
+</script>
 <!-- Navigation -->
 <nav class="navbar navbar-default hidden-navbar-default nd round-0" role="navigation">
     <div class="container">
         <div class="hidden-main-header ext-arabic-hidden-main-header">
             <div class="navbar-header ext-arabic-navbar-header page-scroll">
-                <a class="navbar-brand page-scroll nb_custom ext-arabic-navbar-brand out_none" href="#page-top">
-                    <img src="https://www.forexmart.com/assets/images/fxlogonew.svg" class="img-reponsive logo logo-img" usemap="#fxxpplaspalmas">
+                <a class="navbar-brand page-scroll nb_custom ext-arabic-navbar-brand out_none" href="#page-top" id="logo-saf-ap">
+                    <img src="https://www.forexmart.com/assets/images/fxlogonew.svg" class="img-reponsive logo logo-img logo-con-saf" usemap="#fxxpplaspalmas">
                 </a>
                 <map name="fxxpplaspalmas">
                     <area shape="rect" coords="0,0,217,69" href="https://www.forexmart.com/" alt="ForexMart" class="nolinkline">
@@ -223,13 +269,14 @@
 
                                 <li><a href="https://www.forexmart.com/LanguageSwitcher/switchLang/malay"><img class="adj_lang" src="https://www.forexmart.com/assets/images/flags/malaysia.png" width="35px" height="25" alt="Malaysia Flag"> Malay</a></li>
 
+                                <li><a href="https://www.forexmart.com/LanguageSwitcher/switchLang/polish"><img class="adj_lang" src="https://www.forexmart.com/assets/images/flags/poland.png" width="35px" height="25" alt="Poland Flag"> Polish</a></li>
                                                     </ul>
                     </li>
 
             </ul>
         </div>
         <div class="hidden-reg-holder ext-arabic-hidden-reg-holder">
-            <ul class="nav navbar-nav navbar-right ext-arabic-hidden-navbar-right ryt">
+            <ul class="nav navbar-nav navbar-right ext-arabic-hidden-navbar-right ryt mobile-ryt">
 
                                     <li id="pl2"><a href="https://my.forexmart.com/partner/signin" target="_blank" class="login-external">
                             <button class="mbtn btn-partner-reg btn-partner-reg2">
@@ -239,7 +286,7 @@
                             <button class="mbtn btn-reg btn-reg2">
                                 Client Login                            </button></a></li>
                     <li id="r2">
-                        <a target="_blank" href="https://www.forexmart.com/register" class="login-external reg-external">
+                        <a target="_blank" href="https://my.forexmart.com/register" class="login-external reg-external">
                             <button class="mbtn btn-login">                                Register                            </button></a>
                     </li>
                                 <li class="showAlways2">
@@ -289,26 +336,29 @@
                     <div class="fx-drp" id="about">
                         <div class="fx-drp-grid ext-arabic-search-link-grid">
                             <div class="fx-drp-sub-holder ext-arabic-fx-drp-sub-holder">
-                                <a href="https://www.forexmart.com/about-us"> About ForexMart</a>
+                                <a href="https://www.forexmart.com/why-choose-us">Why Choose us</a>
                             </div>
                             <ul class="fx-drp-link">
-                                <li><a href="https://www.forexmart.com/why-choose-us">
-                                        <img src="https://www.forexmart.com/assets/images/choose-icon.png" class="links-icon">
-                                        Why Choose us                                    </a>
-                                </li>
                                 <li><a href="https://www.forexmart.com/deposit-withdraw-page">
                                         <img src="https://www.forexmart.com/assets/images//wd-icon.png" class="links-icon">
                                         Deposit/Withdrawal                                    </a>
                                 </li>
-                                <li><a href="https://www.forexmart.com/licence-and-regulations">
-                                        <img src="https://www.forexmart.com/assets/images//lr-icon.png" class="links-icon">
-                                        Licence and regulations                                    </a>
+                                <li><a href="https://www.forexmart.com/deposit-insurance">
+                                        <img src="https://www.forexmart.com/assets/images//ins-icon.png" class="links-icon">
+                                        Deposit Insurance                                    </a>
                                 </li>
-                                <li>
-                                    <a href="https://www.forexmart.com/account-verification">
-                                        <img src="https://www.forexmart.com/assets/images//av-icon.png" class="links-icon">
-                                        Account Verification                                    </a>
+                                <li><a href="https://www.forexmart.com/ecn">
+                                        <img src="https://www.forexmart.com/assets/images//share-icon.png" class="links-icon">
+                                        ECN Technology                                    </a>
                                 </li>
+                                <li><a href="https://www.forexmart.com/about-us">
+                                        <img src="https://www.forexmart.com/assets/images//about-us-icon.png" class="links-icon">
+                                        About ForexMart                                    </a>
+                                </li>
+                            </ul><br><hr>
+                            <div class="fx-drp-sub-holder ext-arabic-fx-drp-sub-holder" style="font-size: 19px!important;color: #23527C!important;font-family: Georgia!important;">
+                                Sponsorship                            </div>
+                            <ul class="fx-drp-link">
                                 <li><a href="https://www.forexmart.com/las-palmas">
                                         <img src="https://www.forexmart.com/assets/images//las-icon.png" class="links-icon">
                                         UD Las Palmas                                    </a>
@@ -318,20 +368,32 @@
                                         <img src="https://www.forexmart.com/assets/images//las-icon.png" class="links-icon">
                                         Juan Valerón                                    </a>
                                 </li>
-
-                                <li><a href="https://www.forexmart.com/deposit-insurance">
-                                        <img src="https://www.forexmart.com/assets/images//ins-icon.png" class="links-icon">
-                                        Deposit Insurance                                    </a>
+                                <li><a href="https://www.forexmart.com/RPJracing">
+                                        <img src="https://www.forexmart.com/assets/images//RPJ4.png" class="links-icon">
+                                        RPJRacing
+                                    </a>
                                 </li>
-                                <li><a href="https://www.forexmart.com/awards">
-                                        <img src="https://www.forexmart.com/assets/images//aw-icon.png" class="links-icon">
-                                        Awards                                    </a>
+                            </ul>
+                            <br><hr style="margin-bottom: 15px;">
+                            <div class="fx-drp-sub-holder ext-arabic-fx-drp-sub-holder">
+                                <a href="https://www.forexmart.com/awards">Awards</a>
+                            </div>
+                            <hr style="margin-top: 15px;">
+                            <ul class="fx-drp-link">
+                                <li><a href="https://www.forexmart.com/licence-and-regulations">
+                                        <img src="https://www.forexmart.com/assets/images//lr-icon.png" class="links-icon">
+                                        Licence and regulations                                    </a>
                                 </li>
                                 <li><a href="https://www.forexmart.com/news">
                                         <img src="https://www.forexmart.com/assets/images//banner-icon.png" class="links-icon">
                                         News                                    </a>
                                 </li>
-                                                                <div class="clearfix"></div>
+                                                                <li><a href="https://www.forexmart.com/ceo">
+                                        <img src="https://www.forexmart.com/assets/images//legaldoc-icon.png" class="links-icon">
+                                        A message from CEO                                    </a>
+                                </li>
+
+                                <div class="clearfix"></div>
                             </ul>
                         </div>
                     </div>
@@ -361,7 +423,17 @@
                                         <img src="https://www.forexmart.com/assets/images//acct-com-icon.png" class="links-icon">
                                         Accounts Comparison                                    </a>
                                 </li>
-                                <div class="clearfix"></div>
+                                <li><a href="https://www.forexmart.com/leverage">
+                                        <img src="https://www.forexmart.com/assets/images//leverage-icon.png" class="links-icon">
+                                        Leverage 1:5000                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.forexmart.com/account-verification">
+                                        <img src="https://www.forexmart.com/assets/images//av-icon.png" class="links-icon">
+                                        Account Verification                                    </a>
+                                </li>
+
+<!--                                <div class="clearfix"></div>-->
                                     <li>
                                         <a href="https://www.forexmart.com/live-account">
                                             <img src="https://www.forexmart.com/assets/images//standard-icon.png" class="links-icon" width="20">
@@ -427,7 +499,11 @@
                                     <a href="https://www.forexmart.com/thirty-percent-bonus"><img src="https://www.forexmart.com/assets/images//wbonus-icon.png" class="links-icon">
                                         Welcome bonus 30%                                    </a></li>
                                 <li>
-                                                                                                                        <a href="https://www.forexmart.com/no-deposit-bonus"><img src="https://www.forexmart.com/assets/images//ndbonus-icon.png" class="links-icon nodepositlink">
+                                </li><li>
+                                    <a href="https://www.forexmart.com/fifty-percent-bonus"><img src="https://www.forexmart.com/assets/images//wbonus-icon.png" class="links-icon">
+                                        Welcome bonus 50%                                    </a></li>
+                                <li>
+                                                                                                                        <a id="nodepositlinkId" href="https://www.forexmart.com/no-deposit-bonus"><img src="https://www.forexmart.com/assets/images//ndbonus-icon.png" class="links-icon nodepositlink">
                                                 No deposit bonus                                            </a>
                                                                             
                                 </li>
@@ -439,7 +515,14 @@
                             </div>
                             <ul class="fx-drp-link">
 
-                                                            </ul>
+
+
+
+                                <li><a href="https://www.forexmart.com/tiket-raffle"><img src="https://www.forexmart.com/assets/images//raffle-icon.png" class="links-icon">
+                                        Las Palmas VIP tickets raffle                                    </a></li>
+                                <div class="clearfix"></div>
+
+                            </ul>
                         </div>
                     </div>
                 </li>
@@ -516,7 +599,12 @@
                                             Logos                                        </a>
                                     </li>
 
-                                                                        <div class="clearfix"></div>
+                                 
+                                    <li>
+                                        <a href="https://www.forexmart.com/partnership/informers"><img src="https://www.forexmart.com/assets/images//fr-icon.png" class="links-icon">Forex Informers</a>
+                                    </li>
+                                    
+                                    <div class="clearfix"></div>
                                 </ul>
                             </div>
                         </div>
@@ -637,16 +725,25 @@
 
                 </li>
 
-                                    <li class="page-link last-page-link" data-target="#search-link">
-                        <a href="#search"><span class="search-icon"></span></a>
-                        <div class="fx-drp" id="search-link">
-                            <div class="fx-drp-grid ">
-                                <div class="input-group expand" id="searchicon">
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                            </ul>
+<!--                --><!--                    <li class="page-link " data-target="#search-link">-->
+<!--                        <a href="#search"><span class="search-icon"></span></a>-->
+<!--                        <div class="fx-drp" id="search-link">-->
+<!--                            <div class="fx-drp-grid ">-->
+<!--                                <div class="input-group expand" id="searchicon">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </li>-->
+<!--                --><!--                    <li class="page-link last-page-link" data-target="#search-link">-->
+<!--                        <a href="#search"><span class="search-icon"></span></a>-->
+<!--                        <div class="fx-drp" id="search-link">-->
+<!--                            <div class="fx-drp-grid ">-->
+<!--                                <div class="input-group expand" id="searchicon">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </li>-->
+<!--                -->            </ul>
 
                             <ul class="nav navbar-nav navbar-right search-ryt ext-arabic-search-nyt">
                     <li>
@@ -658,7 +755,8 @@
                     </li>
 
                 </ul>
-                        <div class="btn-top-holder">
+            <!--?php// } ?-->
+            <div class="btn-top-holder">
                 <ul class="nav navbar-nav navbar-right ryt ">
                     <li>
                         <a href="https://my.forexmart.com/client/signin" target="_blank" class="login-external">
@@ -748,9 +846,19 @@
                                             <img src="https://www.forexmart.com/assets/images//las-icon.png" class="links-icon" width="20">
                                             Juan Valerón                                        </a>
                                     </li>
-                                    <li><a href="https://www.forexmart.com/deposit-insurance">
+                                                                            <li>
+                                            <a href="https://www.forexmart.com/RPJracing">
+                                                <img src="https://www.forexmart.com/assets/images//RPJ4.png" class="links-icon">
+                                                RPJRacing
+                                            </a>
+                                        </li>
+                                                                        <li><a href="https://www.forexmart.com/deposit-insurance">
                                             <img src="https://www.forexmart.com/assets/images//ins-icon.png" class="links-icon">
                                             Deposit Insurance                                        </a>
+                                    </li>
+                                    <li><a href="https://www.forexmart.com/ecn">
+                                        <img src="https://www.forexmart.com/assets/images//share-icon.png" class="links-icon">
+                                        ECN Technology                                        </a>
                                     </li>
                                     <li><a href="https://www.forexmart.com/awards">
                                             <img src="https://www.forexmart.com/assets/images//aw-icon.png" class="links-icon">
@@ -760,6 +868,12 @@
                                             <img src="https://www.forexmart.com/assets/images//banner-icon.png" class="links-icon">
                                             News                                        </a>
                                     </li>
+                                    <li><a href="https://www.forexmart.com/ceo">
+                                            <img src="https://www.forexmart.com/assets/images//legaldoc-icon.png" class="links-icon">
+                                            A message from CEO
+                                        </a>
+                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -796,6 +910,10 @@
                                         <a href="https://www.forexmart.com/account-type">
                                             <img src="https://www.forexmart.com/assets/images//acct-com-icon.png" class="links-icon" width="20">
                                             Accounts Comparison                                        </a>
+                                    </li>
+                                    <li><a href="https://www.forexmart.com/leverage">
+                                            <img src="https://www.forexmart.com/assets/images//leverage-icon.png" class="links-icon">
+                                            Leverage 1:5000                                        </a>
                                     </li>
                                     <div class="clearfix"></div>
                                 </ul>
@@ -865,6 +983,11 @@
                                         <a href="https://www.forexmart.com/thirty-percent-bonus">
                                             <img src="https://www.forexmart.com/assets/images//wbonus-icon.png" width="20">
                                             Welcome bonus 30%                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.forexmart.com/fifty-percent-bonus">
+                                            <img src="https://www.forexmart.com/assets/images//wbonus-icon.png" width="20">
+                                            Welcome bonus 50%                                        </a>
                                     </li>
                                     <li>
                                                                                                                                     <a href="https://www.forexmart.com/no-deposit-bonus" class="nodepositlink">
@@ -971,7 +1094,84 @@
         </div>
     </div>
 </div>
-<style type="text/css"> .out_none{outline:none!important}.topimage{padding-bottom:2px;width:20px;margin-right:30px}.topmost{background:#e6e6e6 none repeat scroll 0 0;z-index:100;width:100%;line-height:40px}.nolinkline{outline:none}.logo{margin-bottom:-33px}@media screen and (max-width: 991px){.reg-holder:lang(es),.step-tab-holder:lang(es){display:block!important}.hidden-reg-holder:lang(es){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(es){font-size:16px!important;padding:10px 16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(es){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(es){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(es){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(es){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(es){padding:8px 10px!important}.btn-reg2:lang(es){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(es){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(es){padding:8px 10px!important}.btn-reg2:lang(es){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(fr),.step-tab-holder:lang(fr){display:block!important}.hidden-reg-holder:lang(fr){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(fr){font-size:16px!important;padding:10px 16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(fr){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(fr){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(fr){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(fr){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(fr){padding:8px 10px!important}.btn-reg2:lang(fr){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(fr){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(fr){padding:8px 10px!important}.btn-reg2:lang(fr){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(it),.step-tab-holder:lang(it){display:block!important}.hidden-reg-holder:lang(it){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(it){font-size:16px!important;padding:10px 16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(it){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(it){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(it){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(it){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(it){padding:8px 10px!important}.btn-reg2:lang(it){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(it){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(it){padding:8px 10px!important}.btn-reg2:lang(it){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(pt){display:none!important}.hidden-reg-holder:lang(pt){display:block!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(pt){font-size:16px!important;padding:16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(pt){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(pt){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(pt){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(pt){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(pt){padding:8px 10px!important}.btn-reg2:lang(pt){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(pt){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(pt){padding:8px 10px!important}.btn-reg2:lang(pt){padding:8px 10px!important}}.nn li a,.accordion-heading a:lang(bg){font-size:16px!important}@media screen and (max-width: 991px){.reg-holder:lang(bg){display:none!important}.hidden-reg-holder:lang(bg){display:block!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(bg){font-size:16px!important;padding:16px 2px!important}}@media screen and (max-width: 1200px){.nav>li>a:lang(bg){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(bg){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(bg){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(bg){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 1100px){.nav>li>a:lang(bg){padding:4px!important}}.btn-partner-reg2:lang(bg){padding:8px 4px!important}.btn-reg2:lang(bg){padding:8px 4px!important}.btn-login:lang(bg){padding:8px}.btn-reg:lang(bg){font-size:14px}.btn-partner-reg:lang(bg){font-size:14px}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(bg){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(bg){padding:8px 4px!important}.btn-reg2:lang(bg){padding:8px 4px!important}.btn-login:lang(bg){padding:8px 7px}}@media screen and (max-width: 991px){.reg-holder:lang(jp),.step-tab-holder:lang(jp){display:block!important}.hidden-reg-holder:lang(jp){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(jp){font-size:16px!important;padding:16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(jp){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(jp){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(jp){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(jp){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(jp){padding:8px 10px!important}.btn-reg2:lang(jp){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(jp){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(jp){padding:8px 10px!important}.btn-reg2:lang(jp){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(de),.step-tab-holder:lang(de){display:block!important}.hidden-reg-holder:lang(de){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(de){font-size:16px!important;padding:10px 16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(de){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(de){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(de){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(de){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(de){padding:8px 10px!important}.btn-reg2:lang(de){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(de){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(de){padding:8px 10px!important}.btn-reg2:lang(de){padding:8px 10px!important}}@media screen and (max-width: 1199px){.nav>li>a.c_hand:lang(my){font-size:15px!important;padding:10px 4px}.btn-partner-reg:lang(my){padding:8px 15px}.btn-reg:lang(my){padding:8px 15px}.btn-login:lang(my){padding:8px 15px}}@media screen and (max-width: 991px){.nav>li>a.c_hand:lang(my){font-size:12.5px!important;padding:10px 4px!important}}@media screen and (max-width: 975px){.nd{padding:20px 0 3px!important}}@media screen and (max-width: 1199px){.nd:lang(sa){padding-bottom:5px!important}.nd:lang(fr){padding-bottom:5px!important}.nd:lang(es){padding-bottom:5px!important}}@media screen and (max-width: 991px){.nd:lang(en){padding-bottom:5px!important}.nd:lang(id){padding-bottom:5px!important}.nd:lang(de){padding-bottom:5px!important}.nd:lang(it){padding-bottom:5px!important}.nd:lang(pt){padding-bottom:5px!important}.nd:lang(bg){padding-bottom:5px!important}.nd:lang(my){padding-bottom:5px!important}}@media screen and (max-width: 1196px){.nd:lang(ru){padding-bottom:5px!important}}@media screen and (max-width: 1199px){.nd:lang(jp){padding-bottom:5px!important}}.logo-img{outline:0;outline-style:none;outline-width:0}.logo-img::-moz-focus-inner{border:none;border:0}.expand{width:100%!important}#nav .container .navbar-collapse{width:1150px}.logoimge{max-width:370px}@media (max-width:459px){.logoimge{max-width:310px!important}}@media (max-width:400px){.logoimge{max-width:265px!important}}@media (max-width:359px){.logoimge{max-width:220px!important}}@media screen and (min-width: 768px){.navbar-toggle{display:none!important}}.adjustment{display:block}@media screen and (max-width: 767px){.reg-holder:lang(ru){display:none!important}.hidden-reg-holder:lang(ru){display:block!important}.reg-holder:lang(jp){display:none!important}.hidden-reg-holder:lang(jp){display:block!important}.reg-holder:lang(de){display:none!important}.hidden-reg-holder:lang(de){display:block!important}.reg-holder:lang(fr){display:none!important}.hidden-reg-holder:lang(fr){display:block!important}.reg-holder:lang(it){display:none!important}.hidden-reg-holder:lang(it){display:block!important}.reg-holder:lang(es){display:none!important}.hidden-reg-holder:lang(es){display:block!important}.reg-holder:lang(pt){display:none!important}.hidden-reg-holder:lang(pt){display:block!important}.reg-holder:lang(bg){display:none!important}.hidden-reg-holder:lang(bg){display:block!important}.hidden-reg-holder:lang(my){display:block!important}.reg-holder:lang(my){display:none!important}.hidden-reg-holder:lang(sa){display:block!important}.reg-holder:lang(sa){display:none!important}}.btn-flag-reg{margin:5px 8px!important}.showAlways{display:block}.showAlways2{display:block!important}@media screen and (max-width: 600px){.showAlways{float:left!important;margin:2px}.mbtn{width:95%!important}}ul.dropdown-menu li{width:100%}@media screen and (max-width: 665px){.hidden-top-accordion{display:block}#pl2{display:none}#cl2{display:none}#r2{display:none}}@media screen and (max-width: 736px){.hidden-top-accordion:lang(fr){display:block}#pl2:lang(fr){display:none}#cl2:lang(fr){display:none}#r2:lang(fr){display:none}}@media screen and (max-width: 552px){#loginname{display:block}}.user-account a{padding:9px 0!important;font-family:Open Sans;font-size:14px;background:transparent!important}.user-account a:focus{background:transparent!important;color:#2988CA!important}.btn-user-dropdown{padding:10px 0!important}.btn-user-dropdown li a{padding:0 15px!important}.btn-user-dropdown li a:hover{color:#2988ca}@media screen and (max-width: 991px){.hidden-reg-holder{float:right!important}}.ryt{margin-top:6px}.pcr{padding:0 3.1px!important}.xnav{list-style:none;padding:0!important}.nb_custom{float:left!important;min-height:50px!important;padding:0!important;font-size:18px!important;line-height:20px!important}.adj_lang:lang(sa){float:right;margin-left:5px}.menu-icon{margin-top:4px}.ryt li{margin-right:2px!important}@media screen and (max-width: 1400px){li.page-link:lang(bg){margin:0 12px}}@media screen and (max-width: 1199px){.nav > li > a:lang(en){padding:10px 6px!important}li.page-link:lang(en){margin:0 10px}.nav > li > a:lang(ru){padding:10px 0!important}li.page-link:lang(ru){margin:0 10px}.nav > li > a:lang(jp){padding:10px 2px!important}li.page-link:lang(jp){margin:0 20px}.nav > li > a:lang(id){padding:10px 6px!important}li.page-link:lang(id){margin:0 14px}.nav > li > a:lang(de){padding:10px 6px!important}li.page-link:lang(de){margin:0 6px}.nav > li > a:lang(fr){padding:10px 6px!important}li.page-link:lang(fr){margin:0 12px}.nav > li > a:lang(it){padding:10px 6px!important}li.page-link:lang(it){margin:0 12px}.nav > li > a:lang(sa){padding:10px 6px!important}li.page-link:lang(sa){margin:0 14px}.nav > li > a:lang(es){padding:10px 0!important}li.page-link:lang(es){margin:0 10px}.nav > li > a:lang(pt){padding:10px 2px!important}li.page-link:lang(pt){margin:0 12px}.nav > li > a:lang(bg){padding:10px 2px!important}li.page-link:lang(bg){margin:0 12px}.nav > li > a:lang(my){padding:10px 2px!important}li.page-link:lang(my){margin:0 8px}}@media screen and (max-width: 991px){.fx-drp-grid{width:900px!important}li.page-link:lang(en){margin:0 2px}li.page-link:lang(ru){margin:0 6px}li.page-link:lang(jp){margin:0 14px}.last-page-link:lang(jp){display:block!important}li.page-link:lang(id){margin:0 6px}li.page-link:lang(de){margin:0 2px}li.page-link:lang(fr){margin:0 6px}li.page-link:lang(it){margin:0 6px}li.page-link:lang(sa){margin:0 6px}li.page-link:lang(es){margin:0 6px}li.page-link:lang(pt){margin:0 6px}li.page-link:lang(bg){margin:0 6px}li.page-link:lang(my){margin:0}}@media screen and (max-width: 900px){.fx-drp-grid{width:900px!important}li.page-link:lang(en){margin:0 2px}li.page-link:lang(ru){margin:0 6px}li.page-link:lang(jp){margin:0 14px}li.page-link:lang(id){margin:0 6px}li.page-link:lang(de){margin:0 2px}li.page-link:lang(fr){margin:0 6px}li.page-link:lang(it){margin:0 6px}li.page-link:lang(sa){margin:0 6px}li.page-link:lang(es){margin:0 6px}li.page-link:lang(pt){margin:0 6px}li.page-link:lang(bg){margin:0 6px}li.page-link:lang(my){margin:0}}@media screen and (max-width: 991px){.hidden-reg-holder{margin-top:0!important}}.ryt:lang(sa){margin-top:6px!important}.nn li .fx-drp .fx-drp-grid .fx-drp-sub-holder .non-clickable:hover{color:#23527C!important;}</style>
+<style type="text/css">
+    .out_none{outline:none!important}.topimage{padding-bottom:2px;width:20px;margin-right:30px}.topmost{background:#e6e6e6 none repeat scroll 0 0;z-index:100;width:100%;line-height:40px}.nolinkline{outline:none}.logo{margin-bottom:-33px}@media screen and (max-width: 991px){.reg-holder:lang(es),.step-tab-holder:lang(es){display:block!important}.hidden-reg-holder:lang(es){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(es){font-size:16px!important;padding:10px 16px}}
+    @media screen and (max-width: 1200px){.nav>li>a:lang(es){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(es){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(es){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){.nav>li>a:lang(es){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(es){padding:8px 10px!important}.btn-partner-reg2:lang(pl), .btn-reg2:lang(pl){font-size:13px;}.btn-reg2:lang(es){padding:8px 10px!important}
+    @media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(es){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(es){padding:8px 10px!important}.btn-reg2:lang(es){padding:8px 10px!important}}
+    @media screen and (max-width: 991px){.reg-holder:lang(fr),.step-tab-holder:lang(fr){display:block!important}.hidden-reg-holder:lang(fr){display:none!important}}
+    @media screen and (max-width: 1400px){.nav>li>a:lang(fr){font-size:16px!important;padding:10px 16px}}
+    @media screen and (max-width: 1200px){.nav>li>a:lang(fr){font-size:15px!important;padding:10px 11px}}
+    @media screen and (max-width: 1100px){.nav>li>a:lang(fr){font-size:14px!important;padding:10px 7px}}
+    @media screen and (max-width: 1000px){.nav>li>a:lang(fr){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){.nav>li>a:lang(fr){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(fr){padding:8px 10px!important}.btn-reg2:lang(fr){padding:8px 10px!important}
+    @media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(fr){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(fr){padding:8px 10px!important}.btn-reg2:lang(fr){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(it),.step-tab-holder:lang(it){display:block!important}.hidden-reg-holder:lang(it){display:none!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(it){font-size:16px!important;padding:10px 16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(it){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(it){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(it){font-size:12px!important;padding:10px 6.5px}}@media screen and (max-width: 813px){.nav>li>a:lang(it){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(it){padding:8px 10px!important}.btn-reg2:lang(it){padding:8px 10px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(it){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(it){padding:8px 10px!important}.btn-reg2:lang(it){padding:8px 10px!important}}@media screen and (max-width: 991px){.reg-holder:lang(pt){display:none!important}.hidden-reg-holder:lang(pt){display:block!important}}@media screen and (max-width: 1400px){.nav>li>a:lang(pt){font-size:16px!important;padding:16px}}@media screen and (max-width: 1200px){.nav>li>a:lang(pt){font-size:15px!important;padding:10px 11px}}@media screen and (max-width: 1100px){.nav>li>a:lang(pt){font-size:14px!important;padding:10px 7px}}@media screen and (max-width: 1000px){.nav>li>a:lang(pt){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){
+        .nav>li>a:lang(pt), .nav>li>a:lang(pl){
+            font-size:12px!important;padding:10px 6.5px
+        }
+    }
+    .btn-partner-reg2:lang(pt), .btn-partner-reg2:lang(pl){
+        padding:8px 10px!important
+    }
+    .btn-reg2:lang(pt), .btn-reg2:lang(pl){
+        padding:8px 8px!important
+    }
+    @media screen and (-webkit-min-device-pixel-ratio:0){
+        .container:lang(pt){
+            padding-right:5px!important;padding-left:5px!important
+        }
+        .btn-partner-reg2:lang(pt), .btn-partner-reg2:lang(pl){
+            padding:8px 8px!important
+        }
+        .btn-reg2:lang(pt), .btn-reg2:lang(pl){padding:8px 8px!important}}
+    .nn li a,.accordion-heading a:lang(bg){font-size:14px!important}
+    @media screen and (max-width: 991px){
+        .reg-holder:lang(bg){display:none!important}.hidden-reg-holder:lang(bg){display:block!important}
+    }
+    @media screen and (max-width: 1400px){.nav>li>a:lang(bg){font-size:16px!important;padding:16px 2px!important}}
+    @media screen and (max-width: 1200px){.nav>li>a:lang(bg){font-size:15px!important;padding:10px 11px}}
+    @media screen and (max-width: 1100px){.nav>li>a:lang(bg){font-size:14px!important;padding:10px 7px}}
+    @media screen and (max-width: 1000px){.nav>li>a:lang(bg){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){.nav>li>a:lang(bg){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 1100px){.nav>li>a:lang(bg){padding:4px!important}}.btn-partner-reg2:lang(bg){padding:8px 4px!important}.btn-reg2:lang(bg){padding:8px 4px!important}.btn-login:lang(bg){padding:8px}.btn-reg:lang(bg){font-size:14px}.btn-partner-reg:lang(bg){font-size:14px}
+    @media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(bg){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(bg){padding:8px 4px!important}.btn-reg2:lang(bg){padding:8px 4px!important}.btn-login:lang(bg){padding:8px 7px}}
+    @media screen and (max-width: 991px){.reg-holder:lang(jp),.step-tab-holder:lang(jp){display:block!important}.hidden-reg-holder:lang(jp){display:none!important} .btn-login:lang(pl){padding:8px 8px;}}
+    @media screen and (max-width: 1400px){.nav>li>a:lang(jp){font-size:16px!important;padding:16px}}
+    @media screen and (max-width: 1200px){.nav>li>a:lang(jp){font-size:15px!important;padding:10px 11px}}
+    @media screen and (max-width: 1100px){.nav>li>a:lang(jp){font-size:14px!important;padding:10px 7px}}
+    @media screen and (max-width: 1000px){.nav>li>a:lang(jp){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){.nav>li>a:lang(jp){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(jp){padding:8px 10px!important}.btn-reg2:lang(jp){padding:8px 10px!important}
+    @media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(jp){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(jp){padding:8px 10px!important}.btn-reg2:lang(jp){padding:8px 10px!important}}
+    @media screen and (max-width: 991px){.reg-holder:lang(de),.step-tab-holder:lang(de){display:block!important}.hidden-reg-holder:lang(de){display:none!important}}
+    @media screen and (max-width: 1400px){.nav>li>a:lang(de){font-size:16px!important;padding:10px 16px}}
+    @media screen and (max-width: 1200px){.nav>li>a:lang(de){font-size:15px!important;padding:10px 11px}}
+    @media screen and (max-width: 1100px){.nav>li>a:lang(de){font-size:14px!important;padding:10px 7px}}
+    @media screen and (max-width: 1000px){.nav>li>a:lang(de){font-size:12px!important;padding:10px 6.5px}}
+    @media screen and (max-width: 813px){.nav>li>a:lang(de){font-size:12px!important;padding:10px 6.5px}}.btn-partner-reg2:lang(de){padding:8px 10px!important}.btn-reg2:lang(de){padding:8px 10px!important}
+    @media screen and (-webkit-min-device-pixel-ratio:0){.container:lang(de){padding-right:5px!important;padding-left:5px!important}.btn-partner-reg2:lang(de){padding:8px 10px!important}.btn-reg2:lang(de){padding:8px 10px!important}}
+    @media screen and (max-width: 1199px){.nav>li>a.c_hand:lang(my){font-size:15px!important;padding:10px 4px}.btn-partner-reg:lang(my){padding:8px 15px}.btn-reg:lang(my){padding:8px 15px}.btn-login:lang(my){padding:8px 15px} .btn-login:lang(pl){font-size:13px;} }
+    @media screen and (max-width: 991px){.nav>li>a.c_hand:lang(my){font-size:12.5px!important;padding:10px 4px!important}}
+    @media screen and (max-width: 975px){.nd{padding:20px 0 3px!important}}
+    @media screen and (max-width: 1199px){.nd:lang(sa){padding-bottom:5px!important}.nd:lang(fr){padding-bottom:5px!important}.nd:lang(es){padding-bottom:5px!important}}
+    @media screen and (max-width: 991px){.nd:lang(en){padding-bottom:5px!important}.nd:lang(id){padding-bottom:5px!important}.nd:lang(de){padding-bottom:5px!important}.nd:lang(it){padding-bottom:5px!important}.nd:lang(pt){padding-bottom:5px!important}.nd:lang(bg){padding-bottom:5px!important}.nd:lang(my){padding-bottom:5px!important}}
+    @media screen and (max-width: 1196px){.nd:lang(ru){padding-bottom:5px!important}}
+    @media screen and (max-width: 1199px){.nd:lang(jp){padding-bottom:5px!important}}.logo-img{outline:0;outline-style:none;outline-width:0}.logo-img::-moz-focus-inner{border:none;border:0}.expand{width:100%!important}#nav .container .navbar-collapse{width:1150px}.logoimge{max-width:370px}
+    @media (max-width:459px){.logoimge{max-width:310px!important}}
+    @media (max-width:400px){.logoimge{max-width:265px!important}}
+    @media (max-width:359px){.logoimge{max-width:220px!important}}
+    @media screen and (min-width: 768px){.navbar-toggle{display:none!important}}.adjustment{display:block}
+    @media screen and (max-width: 767px){.reg-holder:lang(ru){display:none!important}.hidden-reg-holder:lang(ru){display:block!important}.reg-holder:lang(jp){display:none!important}.hidden-reg-holder:lang(jp){display:block!important}.reg-holder:lang(de){display:none!important}.hidden-reg-holder:lang(de){display:block!important}.reg-holder:lang(fr){display:none!important}.hidden-reg-holder:lang(fr){display:block!important}.reg-holder:lang(it){display:none!important}.hidden-reg-holder:lang(it){display:block!important}.reg-holder:lang(es){display:none!important}.hidden-reg-holder:lang(es){display:block!important}.reg-holder:lang(pt){display:none!important}.hidden-reg-holder:lang(pt){display:block!important}.reg-holder:lang(bg){display:none!important}.hidden-reg-holder:lang(bg){display:block!important}.hidden-reg-holder:lang(my){display:block!important}.reg-holder:lang(my){display:none!important}.hidden-reg-holder:lang(sa){display:block!important}.reg-holder:lang(sa){display:none!important}}.btn-flag-reg{margin:5px 8px!important}.showAlways{display:block}.showAlways2{display:block!important}
+    @media screen and (max-width: 600px){.showAlways{float:left!important;margin:2px}.mbtn{width:95%!important}}ul.dropdown-menu li{width:100%}
+    @media screen and (max-width: 665px){.hidden-top-accordion{display:block}#pl2{display:none}#cl2{display:none}#r2{display:none}}
+    @media screen and (max-width: 736px){.hidden-top-accordion:lang(fr){display:block}#pl2:lang(fr){display:none}#cl2:lang(fr){display:none}#r2:lang(fr){display:none}}
+    @media screen and (max-width: 552px){#loginname{display:block}}.user-account a{padding:9px 0!important;font-family:Open Sans;font-size:14px;background:transparent!important}.user-account a:focus{background:transparent!important;color:#2988CA!important}.btn-user-dropdown{padding:10px 0!important}.btn-user-dropdown li a{padding:0 15px!important}.btn-user-dropdown li a:hover{color:#2988ca}
+    @media screen and (max-width: 991px){.mobile-ryt{margin-right: 15px;}.hidden-reg-holder{float:right!important}}.ryt{margin-top:6px}.pcr{padding:0 3.1px!important}.xnav{list-style:none;padding:0!important}.nb_custom{float:left!important;min-height:50px!important;padding:0!important;font-size:18px!important;line-height:20px!important}.adj_lang:lang(sa){float:right;margin-left:5px}.menu-icon{margin-top:4px}.ryt li{margin-right:2px!important}
+    @media screen and (max-width: 1400px){li.page-link:lang(bg){margin:0 12px}}
+    @media screen and (max-width: 1199px){.nav > li > a:lang(en){padding:10px 6px!important}li.page-link:lang(en){margin:0 10px}.nav > li > a:lang(ru){padding:10px 0!important}li.page-link:lang(ru){margin:0 10px}.nav > li > a:lang(jp){padding:10px 2px!important}li.page-link:lang(jp){margin:0 20px}.nav > li > a:lang(id){padding:10px 6px!important}li.page-link:lang(id){margin:0 14px}.nav > li > a:lang(de){padding:10px 6px!important}li.page-link:lang(de){margin:0 6px}.nav > li > a:lang(fr){padding:10px 6px!important}li.page-link:lang(fr){margin:0 12px}.nav > li > a:lang(it){padding:10px 6px!important}li.page-link:lang(it){margin:0 12px}.nav > li > a:lang(sa){padding:10px 6px!important}li.page-link:lang(sa){margin:0 14px}.nav > li > a:lang(es){padding:10px 0!important}li.page-link:lang(es){margin:0 10px}.nav > li > a:lang(pt){padding:10px 2px!important}li.page-link:lang(pt){margin:0 12px}.nav > li > a:lang(bg){padding:10px 2px!important}li.page-link:lang(bg){margin:0 12px}.nav > li > a:lang(my){padding:10px 2px!important}li.page-link:lang(my){margin:0 8px}}
+    @media screen and (max-width: 991px){.fx-drp-grid{width:100%!important}li.page-link:lang(en){margin:0 2px}li.page-link:lang(ru){margin:0 6px}li.page-link:lang(jp){margin:0 14px}.last-page-link:lang(jp){display:block!important}li.page-link:lang(id){margin:0 6px}li.page-link:lang(de){margin:0 2px}li.page-link:lang(fr){margin:0 6px}li.page-link:lang(it){margin:0 6px}li.page-link:lang(sa){margin:0 6px}li.page-link:lang(es){margin:0 6px}li.page-link:lang(pt){margin:0 6px}li.page-link:lang(bg){margin:0 6px}li.page-link:lang(my){margin:0}}
+    @media screen and (max-width: 900px){.fx-drp-grid{width:100%!important}li.page-link:lang(en){margin:0 2px}li.page-link:lang(ru){margin:0 6px}li.page-link:lang(jp){margin:0 14px}li.page-link:lang(id){margin:0 6px}li.page-link:lang(de){margin:0 2px}li.page-link:lang(fr){margin:0 6px}li.page-link:lang(it){margin:0 6px}li.page-link:lang(sa){margin:0 6px}li.page-link:lang(es){margin:0 6px}li.page-link:lang(pt){margin:0 6px}li.page-link:lang(bg){margin:0 6px}li.page-link:lang(my){margin:0}}@media screen and (max-width: 991px){.hidden-reg-holder{margin-top:0!important}}.ryt:lang(sa){margin-top:6px!important}.nn li .fx-drp .fx-drp-grid .fx-drp-sub-holder .non-clickable:hover{color:#23527C!important;}</style>
+
 <script type="text/javascript">
     $(document).ready(function () {
         $('.page-link').mouseover(function () {
@@ -1591,6 +1791,8 @@
             width: 100%!important;
             display: block;
             padding: 10px!important;
+            height: 38px;
+            overflow: hidden;
         }
         .btns, .btns1, .btns:lang(sa), .btns1:lang(sa){
             width: 50%!important;
@@ -1608,7 +1810,6 @@
      }
 </style>
 
-<div class="red-line "></div>
 <div class="btn-livedemo sa-mar-top-10 ">
     <form class="form-inline ext-arabic-form-inline">
         <div class="form-group ext-arabic-form-group-right sa-mar-bot-10 btns">
@@ -1688,20 +1889,20 @@
          <label class="display-n">Be an official ForexMart representative. Expand your client network with our latest trading technology and competitive rates.</label></a> <p class="answer"> Be an official ForexMart representative. Expand your client network with our latest trading technology and competitive rates.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/partnership/friend-referrer" class="question" aria-expanded="false">Partnership Partnership registration | ForexMart
          <label class="display-n">Let people do the work for you. All you need to do is to promote our services to potential clients and make them trade in the company. When they generate profit, you earn money too.</label></a> <p class="answer"> Let people do the work for you. All you need to do is to promote our services to potential clients and make them trade in the company. When they generate profit, you earn money too.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/banners" class="question" aria-expanded="false">Banners Materials | ForexMart
          <label class="display-n">Integrate our eye-catching, sophisticated banner on your website, blog, or personal site to advertise our offerings.</label></a> <p class="answer"> Integrate our eye-catching, sophisticated banner on your website, blog, or personal site to advertise our offerings.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/banners" class="question" aria-expanded="false">Informers Materials | ForexMart
-         <label class="display-n">ForexMart offers several informers that can be embedded on any customer or partner website.</label></a> <p class="answer"> ForexMart offers several informers that can be embedded on any customer or partner website.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/money-fall" class="question" aria-expanded="false">MoneyFall Contest Registration | ForexMart
-         <label class="display-n">MoneyFall Contest Registration</label></a> <p class="answer"> MoneyFall Contest Registration  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/contest/ratings" class="question" aria-expanded="false">MoneyFall Contest Ratings | ForexMart
-         <label class="display-n">MoneyFall Contest Ratings Chart</label></a> <p class="answer"> MoneyFall Contest Ratings Chart  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/contest/winners" class="question" aria-expanded="false">MoneyFall Contest Winners | ForexMart
-         <label class="display-n">MoneyFall Contest Winners Chart</label></a> <p class="answer"> MoneyFall Contest Winners Chart  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/contest/contest-rules" class="question" aria-expanded="false">MoneyFall Contest Registration | ForexMart
+         <label class="display-n">ForexMart offers several informers that can be embedded on any customer or partner website.</label></a> <p class="answer"> ForexMart offers several informers that can be embedded on any customer or partner website.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/forex-contests/money-fall" class="question" aria-expanded="false">MoneyFall Contest Registration | ForexMart
+         <label class="display-n">MoneyFall Contest Registration</label></a> <p class="answer"> MoneyFall Contest Registration  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/forex-contests/money-fall/ranking" class="question" aria-expanded="false">MoneyFall Contest Ratings | ForexMart
+         <label class="display-n">MoneyFall Contest Ratings Chart</label></a> <p class="answer"> MoneyFall Contest Ratings Chart  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/forex-contests/money-fall/winners" class="question" aria-expanded="false">MoneyFall Contest Winners | ForexMart
+         <label class="display-n">MoneyFall Contest Winners Chart</label></a> <p class="answer"> MoneyFall Contest Winners Chart  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/forex-contests/money-fall/contest-rules" class="question" aria-expanded="false">MoneyFall Contest Registration | ForexMart
          <label class="display-n">ForexMart Contest - Money Fall General Provisions,Participants,Participants,Results Publishing,Results Publishing,Results Publishing and Language</label></a> <p class="answer"> ForexMart Contest - Money Fall General Provisions,Participants,Participants,Results Publishing,Results Publishing,Results Publishing and Language  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/vps-hosting" class="question" aria-expanded="false">VPS Hosting| ForexMart
          <label class="display-n">VPS Specifications, To apply for VPS, please contact Support Department via support@forexmart.com. To claim a FREE VPS, clients just need to deposit a minimum of 500 USD in their account (or equivalent in other currency). Clients have to trade at least 0,5 round turn lots each month to maintain the VPS.</label></a> <p class="answer"> VPS Specifications, To apply for VPS, please contact Support Department via support@forexmart.com. To claim a FREE VPS, clients just need to deposit a minimum of 500 USD in their account (or equivalent in other currency). Clients have to trade at least 0,5 round turn lots each month to maintain the VPS.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/forex-charts" class="question" aria-expanded="false">Forex Chart | ForexMart
          <label class="display-n">Forex Chart</label></a> <p class="answer"> Forex Chart  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/contact-us" class="question" aria-expanded="false">Contact Us | ForexMart
          <label class="display-n">ForexMart is more than pleased to assist you 24 hours a day, five days a week.</label></a> <p class="answer"> ForexMart is more than pleased to assist you 24 hours a day, five days a week.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/faq" class="question" aria-expanded="false">Frequently Asked Questions (FAQ) | ForexMart
          <label class="display-n">Know more about forex trading, as well as our products and services in this section.</label></a> <p class="answer"> Know more about forex trading, as well as our products and services in this section.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/" class="question" aria-expanded="false">Forex Glossary | ForexMart
-         <label class="display-n">Forex Glossary the most important terms related to Forex trading are presented in this glossary</label></a> <p class="answer"> Forex Glossary the most important terms related to Forex trading are presented in this glossary  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/legal-documentation" class="question" aria-expanded="false">Legal Dcoumentation | ForexMart
+         <label class="display-n">Forex Glossary the most important terms related to Forex trading are presented in this glossary</label></a> <p class="answer"> Forex Glossary the most important terms related to Forex trading are presented in this glossary  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/legal-documentation" class="question" aria-expanded="false">Legal Documentation | ForexMart
          <label class="display-n">Readable and Downloadable list of all legal documentations</label></a> <p class="answer"> Readable and Downloadable list of all legal documentations  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/live-account" class="question" aria-expanded="false">ForexMart Live Account | MT4 Account
          <label class="display-n">Start your forex trading experience with ForexMart. Experience instant trade executions and glitch-free trading platforms.</label></a> <p class="answer"> Start your forex trading experience with ForexMart. Experience instant trade executions and glitch-free trading platforms.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/privacy-policy" class="question" aria-expanded="false">Privacy Policy | ForexMart
-         <label class="display-n">Privacy Policy Documentation</label></a> <p class="answer"> Privacy Policy Documentation  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/Risk-Disclosure" class="question" aria-expanded="false">Risk Disclosure | ForexMart
-         <label class="display-n">The Risk Disclosure Notice, 'the Notice' is provided to the Customer in accordance with Law 144 (I) of 2007 as amended.</label></a> <p class="answer"> The Risk Disclosure Notice, 'the Notice' is provided to the Customer in accordance with Law 144 (I) of 2007 as amended.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/Terms-and-Conditions" class="question" aria-expanded="false">Terms &amp; Conditions | ForexMart
+         <label class="display-n">Privacy Policy Documentation</label></a> <p class="answer"> Privacy Policy Documentation  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/risk-disclosure" class="question" aria-expanded="false">Risk Disclosure | ForexMart
+         <label class="display-n">The Risk Disclosure Notice, 'the Notice' is provided to the Customer in accordance with Law 144 (I) of 2007 as amended.</label></a> <p class="answer"> The Risk Disclosure Notice, 'the Notice' is provided to the Customer in accordance with Law 144 (I) of 2007 as amended.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/terms-and-conditions" class="question" aria-expanded="false">Terms &amp; Conditions | ForexMart
          <label class="display-n">The Terms and Conditions lays out the framework of the Service Agreement and the nature of the investment services provided by the Company.</label></a> <p class="answer"> The Terms and Conditions lays out the framework of the Service Agreement and the nature of the investment services provided by the Company.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/best-execution-policy" class="question" aria-expanded="false">Best Execution Policy | ForexMart
          <label class="display-n">The company sets up its Best Execution Policy and implement all measures to attain the best possible result for all its customers.</label></a> <p class="answer"> The company sets up its Best Execution Policy and implement all measures to attain the best possible result for all its customers.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/" class="question" aria-expanded="false">Complaint Handling Procedure | ForexMart
          <label class="display-n">The Complaint Handling Procedure outlines the processes when contending with complaints received by clients.</label></a> <p class="answer"> The Complaint Handling Procedure outlines the processes when contending with complaints received by clients.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/" class="question" aria-expanded="false">Conflict of Interest Policy | ForexMart
@@ -1782,7 +1983,11 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
          <label class="display-n">Skrill (Moneybookers) enables you to transfer funds to your trading account and receive money via email. </label></a> <p class="answer"> Skrill (Moneybookers) enables you to transfer funds to your trading account and receive money via email.   </p></li> <li class="specificwidth"><a target="_blank" href="https://my.forexmart.com/withdraw/neteller" class="question" aria-expanded="false">Finance - Withdrawal Option - Neteller   | ForexMart
          <label class="display-n">Being an independent money transfer business, Neteller offers a quick, easy method of depositing or withdrawing into your trading account. </label></a> <p class="answer"> Being an independent money transfer business, Neteller offers a quick, easy method of depositing or withdrawing into your trading account.   </p></li> <li class="specificwidth"><a target="_blank" href="https://my.forexmart.com/withdraw/paxum" class="question" aria-expanded="false">Finance - Withdrawal Option - Paxum   | ForexMart
          <label class="display-n">Paxum offers a fast, efficient, and affordable payment solution to deposit or withdraw money with ease. </label></a> <p class="answer"> Paxum offers a fast, efficient, and affordable payment solution to deposit or withdraw money with ease.   </p></li> <li class="specificwidth"><a target="_blank" href="https://my.forexmart.com/withdraw/paypal" class="question" aria-expanded="false">Finance - Withdrawal Option - Paypal  | ForexMart
-         <label class="display-n">Paypal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account. </label></a> <p class="answer"> Paypal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.   </p></li>                    </ul>
+         <label class="display-n">Paypal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account. </label></a> <p class="answer"> Paypal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.   </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/ecn" class="question" aria-expanded="false">ECN Technology
+         <label class="display-n">ECN Technology using your favorite trading platform.</label></a> <p class="answer"> ECN Technology using your favorite trading platform.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/rpj-racing" class="question" aria-expanded="false">RPJ racing
+        <label class="display-n">ForexMart Announces Official Partnership with RPJ Racing</label></a> <p class="answer"> ForexMart Announces Official Partnership with RPJ Racing  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/analytical-reviews" class="question" aria-expanded="false">Analytical Reviews
+        <label class="display-n">Forexmart's analytical reviews provide up-to-date technical information about the financial market. These reports range from stock trends, to financial forecasts, to global economy reports, and political news taht impact the market.</label></a> <p class="answer"> Forexmart's analytical reviews provide up-to-date technical information about the financial market. These reports range from stock trends, to financial forecasts, to global economy reports, and political news taht impact the market.  </p></li> <li class="specificwidth"><a target="_blank" href="https://www.forexmart.com/calendar" class="question" aria-expanded="false">Economic Calendar
+        <label class="display-n">ForexMart's Forex Economic Calendar is a real-time, customizable, and multifunctional, forex tool that allows traders to be updated with the latest and most relevant market events. All information that could be potentially impact your trading will be listed and analyzed here.</label></a> <p class="answer"> ForexMart's Forex Economic Calendar is a real-time, customizable, and multifunctional, forex tool that allows traders to be updated with the latest and most relevant market events. All information that could be potentially impact your trading will be listed and analyzed here.  </p></li>                    </ul>
                 </div>
 
             </div>
@@ -1825,38 +2030,40 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
 </div>
 
 <style type="text/css">/* Wed, 06 Apr 2016 12:09:46 +0000 */.bot-nav li a{padding:15px 6px}.trademart{margin-bottom:3px;padding:0!important}.CUFB{float:right!important}.CUFB:lang(sa){float:left!important}.mar0pad0{margin:0;padding:0}.mar50{margin:5px 0}.mar0{margin:0}.mar0500{margin:0 5px 0 0}#fee_ba:lang(es){font-size:12px}#con_us:lang(es){font-size:12px}#fee_ba:lang(de){font-size:12px}#con_us:lang(de){font-size:12px}.foot-bullet{float:left}.bul_lst2{float:left;padding-left:.1em;text-indent:.1em;padding-top:6px}@media screen and (min-width: 768px){.footer-hide-menu{display:none}.footer-hide-menu:lang(id){display:none!important}}p.pw{color:white!important}@media screen and (min-width: 1175px){.footer-hide-menu:lang(id){display:none!important}.footer-toggle:lang(id){display:none!important}.bot-nav:lang(id){display:block!important}}@media screen and (max-width: 1174px){.bot-nav:lang(id{display:none!important}.ver-line:lang(id){padding:15px 0!important}.bot-nav li a:lang(id){padding:15px 0!important}}@media screen and (min-width: 1175px){.footer-hide-menu:lang(it){display:none!important}.footer-toggle:lang(it){display:none!important}.bot-nav:lang(it){display:block!important}}@media screen and (max-width: 1174px){.footer-toggle:lang(it){display:block!important}.bot-nav:lang(it){display:none!important}.ver-line:lang(it){padding:15px 0!important}.bot-nav li a:lang(it){padding:15px 0!important}}@media screen and (min-width: 1175px){.footer-hide-menu:lang(de){display:none!important}.footer-toggle:lang(de){display:none!important}.bot-nav:lang(de){display:block!important}}@media screen and (max-width: 1174px){.footer-toggle:lang(de){display:block!important}.bot-nav:lang(de){display:none!important}.ver-line:lang(de){padding:15px 0!important}.bot-nav li a:lang(de){padding:15px 0!important}}@media screen and (min-width: 1175px){.footer-hide-menu:lang(es){display:none!important}.footer-toggle:lang(es){display:none!important}.bot-nav:lang(es){display:block!important}}@media screen and (max-width: 1174px){.footer-toggle:lang(es){display:block!important}.bot-nav:lang(es){display:none!important}.ver-line:lang(es){padding:15px 0!important}.bot-nav li a:lang(es){padding:15px 0!important}}@media screen and (min-width: 1175px){.footer-hide-menu:lang(pt){display:none!important}.footer-toggle:lang(pt){display:none!important}.bot-nav:lang(pt){display:block!important}}@media screen and (max-width: 1174px){.footer-toggle:lang(pt){display:block!important}.bot-nav:lang(pt){display:none!important}.ver-line:lang(pt){padding:15px 0!important}.bot-nav li a:lang(pt){padding:15px 0!important}}.ver-line:lang(bg){padding:15px 2px}</style>
+<style type="text/css">/*Monday 08 Aug 2016*/#fee_ba:focus{outline:none!important;}.footer-menu-holder{padding-left:0px;}
+    @media screen and (max-width: 767px) {
+        .pad-l {
+            margin-left: 16px;
+        }
+        .footer-hide-menu ul li{
+            margin-left: 9px;
+        }
+        .mar-t{
+            margin-top: 40px;
+        }
+        .mar-r{
+            margin-bottom: 4px;
+            }
+    }
+    /*@media screen and (max-width: 389px) {*/
+        /*.mar-r{*/
+            /*margin-right: -1px;*/
+
+        /*}*/
+    /*}*/
+</style>
 <div class="bot-nav-holder">
     <div class="container">
         <div class="row">
             <div id="botnav_left" class="col-lg-8 col-md-8 col-sm-8 footer-menu-holder ext-arabic-footer-menu-holder">
-                <div class="mar0pad0 footer-toggle-holder ext-arabic-footer-toggle-holder ext-arabic-footer-toggle">
+                <div class="mar0pad0 footer-toggle-holder ext-arabic-footer-toggle-holder ext-arabic-footer-toggle pad-l">
                     <button type="button" class="mar50 footer-toggle">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
                 </div>
-                <div class="footer-hide-menu ext-arabic-hide-menu">
-                    <ul>
-                        <li>
-                            <a href="https://www.forexmart.com/legal-documentation">
-                                Legal documentation                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.forexmart.com/risk-disclosure">
-                                Risk disclosure                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.forexmart.com/privacy-policy">
-                                Privacy Policy                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.forexmart.com/terms-and-conditions">
-                                Terms &amp; Conditions                            </a>
-                        </li>
 
-                    </ul>
-                </div>
                 <ul class="bot-nav">
                     <li><a href="https://www.forexmart.com/legal-documentation">
                             Legal documentation                        </a>
@@ -1873,7 +2080,8 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
                 </ul>
                 <div class="clearfix"></div>
             </div>
-            <div id="botnav_right" class="mar0pad0 col-sm-4 CUFB ext-arabic-connect-container">
+
+            <div id="botnav_right" class="mar0pad0 col-sm-4 CUFB ext-arabic-connect-container mar-r">
                 <ul class="connect">
                     <li class="mar0">
                         <a id="con_us" href="https://www.forexmart.com/contact-us">
@@ -1883,12 +2091,54 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
                         </a>
                     </li>
                     <li>
-                        <a id="fee_ba" href="#popfeedback" class="mar0500 opt" data-toggle="modal" data-target="#popfeedback">
-                            <i class="fa fa-comments foot-bullet"></i>
-                            <p class="bul_lst2 pw">
-                            Feedback                            </p>
+                        <style type="text/css">
+                            .customfeedback4190{
+                                width: 28px;
+                                height: 28px;
+                                border-radius: 20px;
+                                background: #fff;
+                                padding: 6px;
+                                margin: 0 0px;
+                                display: inline-block;
+                                vertical-align: middle;
+                            }
+                            .customfeedback4190-2{
+                                display:block; margin:0 auto;
+                            }
+                            .img-4190{
+                                margin-right: 0px!important;
+                            }
+                            .spn-4190{text-decoration: none;}
+                        </style>
+
+                                                <a id="fee_ba" href="#popfeedback" class="mar0500 opt" data-toggle="modal" data-target="#popfeedback">
+                            <span class="customfeedback4190 img-4190"><img src="https://www.forexmart.com/assets/images/feedback-icon4.svg" class="customfeedback4190-2 img-4190">
+                            </span>
+                            <span class="spn-4190" style="display: inline-block;padding-top: 2px;vertical-align: middle;">
+                                Feedback                           </span>
                         </a>
                     </li>
+                </ul>
+            </div>
+            <div class="footer-hide-menu ext-arabic-hide-menu mar-t">
+                <ul>
+                    <li>
+                        <a href="https://www.forexmart.com/legal-documentation">
+                            Legal documentation                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.forexmart.com/risk-disclosure">
+                            Risk disclosure                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.forexmart.com/privacy-policy">
+                            Privacy Policy                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.forexmart.com/terms-and-conditions">
+                            Terms &amp; Conditions                        </a>
+                    </li>
+
                 </ul>
             </div>
         </div>
@@ -1914,8 +2164,9 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
 </script>
 <script type="text/javascript">
     $(".footer-toggle").click(function() {
-        $(".footer-hide-menu").toggle( 300, function() {
-        });
+//        $(".footer-hide-menu").toggle( 300, function() {
+//        });
+        $(".footer-hide-menu").toggle();
     });
 </script>
 
@@ -2295,31 +2546,57 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
 <!--  end modal -->
 
 <!-- footer -->
-<style type="text/css">.tradomart{margin-bottom:3px;padding:0!important}.fix-lbl{color:#fff!important}</style>
+<style type="text/css">.tradomart{margin-bottom:3px;padding:0!important}.fix-lbl{color:#fff!important}
+    .logoLink{
+      margin-bottom:20px;
+     }
+    .logoLink a{
+        display: inline-block;
+        padding: 10px 8px;
+        vertical-align: text-bottom;
+    }
+    .logoLink a img{
+        height: 56px;
+    }
+   
+    /*.a-first-child {*/
+        /*padding: 15px !important;*/
+    /*}*/
+    .logoLink a img{
+        height: 70px;
+    }
+    .logoLink a{
+        margin-right: 40px;
+    }
+
+</style>
+    
+
 <footer>
     <div class="container ext-arabic-footer-container">
-        <div class="row ext-arabic-footer-row ">
-            <div class="col-lg-9 col-md-9 col-sm-9 ext-arabic-footer-text-parent">
-                <p class="footer-text ext-arabic-footer-text">
-                    <cite>
-                        Risk Warning:                    </cite>
-                    Foreign exchange is highly speculative and complex in nature, and may not be suitable for all investors. Forex trading may result to substantial gain or loss. Therefore, it is not advisable to invest money you cannot afford to lose. Before using the services offered by                    <span class="company">ForexMart</span>, please acknowledge and understand the <a href="https://www.forexmart.com/risk-disclosure" target="_blank">risks</a>  relative to forex trading. Seek financial advice if necessary.                </p>
-                <p class="footer-text1 ext-arabic-footer-text">
-                    <span class="company">ForexMart</span> is a trading name of <img class="tradomart" width="101px" height="10px" src="https://www.forexmart.com/assets/images/tradomart/tradomart-ltd-small-black.png">, a Cyprus Investment Firm regulated by the Cyprus Securities Exchange (CySEC) with licence number 266/15.                </p>
-                <p class="footer-text1 ext-arabic-footer-text">
-                    <span class="company">ForexMart</span> was named by ShowFx World as the <a href=" https://www.forexmart.com/awards">Best Broker in Europe 2015 and Most Perspective Broker in Asia 2015.</a>                </p>
-               <!-- <p class="footer-text1">
-                    <span class="company"><?/*= lang('pn2-1');*/?></span> <?/*= lang('pn2-3');*/?>
-                </p>-->
+            <div class="row ext-arabic-footer-row ">
+                <div class="col-lg-9 col-md-9 col-sm-9 ext-arabic-footer-text-parent" style="width:100%!important;    padding-left: 5px!important;">
+                    <p class="footer-text ext-arabic-footer-text">
+                        <cite>
+                            Risk Warning:                        </cite>
+                        Foreign exchange is highly speculative and complex in nature, and may not be suitable for all investors. Forex trading may result to substantial gain or loss. Therefore, it is not advisable to invest money you cannot afford to lose. Before using the services offered by                        <span class="company">ForexMart</span>, please acknowledge and understand the <a href="https://www.forexmart.com/risk-disclosure" target="_blank">risks</a>  relative to forex trading. Seek financial advice if necessary.                        <br><br>
+                        <span class="company">ForexMart</span> official Forex Trading Partner of U.D. Las Palmas.                    <br><br>
+                        <span class="company">ForexMart</span> is a trading name of <img class="tradomart" width="101px" height="10px" src="https://www.forexmart.com/assets/images/tradomart/tradomart-ltd-small-black.png">, a Cyprus Investment Firm regulated by the Cyprus Securities Exchange (CySEC) with <a href="http://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/71294/">licence number 266/15.</a>                    <br><br>
+                        <span class="company">ForexMart</span> was named by ShowFx World as the <a href=" https://www.forexmart.com/awards">Best Broker in Europe 2015 and Most Perspective Broker in Asia 2015.</a>                    <br><br>
+                        <span class="company">ForexMart</span>  was awarded by International Finance Magazine (IFM) as "Best New Broker Europe 2016".                     </p>
+
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 sec logoLink">
+                    <a href="https://www.forexmart.com/cysec"><img src="https://www.forexmart.com/assets/images/cysec.png" class="img-responsive"></a>
+                    <a href="http://ec.europa.eu/finance/securities/isd/mifid/index_en.htm"><img src="https://www.forexmart.com/assets/images/mifid.png" class="img-responsive "></a>
+                    <a href="https://www.forexmart.com/bafin"><img src="https://www.forexmart.com/assets/images/bafin.png" class="img-responsive"></a>
+                    <a href="https://www.forexmart.com/amf"><img src="https://www.forexmart.com/assets/images/amf.png" class="img-responsive"></a>
+                    <a href="https://www.forexmart.com/fca"><img src="https://www.forexmart.com/assets/images/fca.png" class="img-responsive"></a>
+                    <a href="https://www.forexmart.com/consob"><img src="https://www.forexmart.com/assets/images/consob.png" class="img-responsive"></a>
+                </div>
             </div>
-            <div class="col-sm-3 sec ext-arabic-footer-sec">
-                <a target="_blank" href="http://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/71294/"><img src="https://www.forexmart.com/assets/images//cysec.png" class="img-responsive cysec"></a>
-                <a target="_blank" href="http://ec.europa.eu/finance/securities/isd/mifid/index_en.htm"><img src="https://www.forexmart.com/assets/images//mifid.png" class="img-responsive mifid"></a>
-            </div>
-        </div>
     </div>
 </footer>
-
 <!-- end footer -->
 
 <div class="copyright-holder">
@@ -2330,10 +2607,11 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
             </div>
             <div class="col-md-3 social-media-holder sosmed ext-arabic-footer-social-media">
                 <ul class="social-media">
-                    <li><a href="https://www.facebook.com/ForexMart" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://www.facebook.com/ForexMart" target="_blank"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="https://twitter.com/ForexMartPage" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://plus.google.com/+Forexmartpage" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                    
                 </ul>
             </div>
         </div>
@@ -2387,7 +2665,7 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
 <div class="side-fix-holder ">
         <style type="text/css">.sosmed{margin:0;float:right;padding:0}.side-fix li a p{margin:40px 0 0!important}@media screen and (min-width: 991px){.side-fix-holder{display:block}}ul.side-fix li a p{color:white!important}.btn-primaryX{color:#fff;background-color:#BFC7CE}.btnX{font-size:11px;padding:1px 5px;border-radius:36px}.mrgn{margin:6px!important}</style>
     <ul class="side-fix hitside sa-side-fix">
-                <li class="side" style="width:96.73px!important;">
+                <li class="side" style="">
             <center>
             <a href="https://www.forexmart.com/live-account" class="a-first-child ndbs">
                 <p>Open an <br> Account</p>            </a>
@@ -2395,7 +2673,7 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
         </li>
 
         <!--            <li style="visibility: hidden">-->
-            <li class="side" style="width:96.73px!important;">
+            <li class="side" style="">
                 <a href="https://www.forexmart.com/no-deposit-bonus" class="a-last-child ndbs moz-adj">
                     <p>Up to <span>$300 <br> bonus</span></p>                </a>
             </li>
@@ -2648,7 +2926,7 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
                             var date = new Date();
                             var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
                             var x = Math.floor((Math.random() * 1000) + 1);
-                            document.cookie = 'daycookie' + "=" + x + "; " + "expires="+midnight;
+                            document.cookie = 'daycookie' + "=" + x + "; " + "expires="+(midnight * 10 * 365);
                         </script>
 
                 
@@ -2694,19 +2972,14 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
 <noscript><div ><img src="//mc.yandex.ru/watch/34475965" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <style type="text/css">
     img[alt*="Yandex.Metrica"] {display: none;}.purechat , .purechat-widget ,.purechat-bottom ,.purechat-bottom-right ,.purechat-button-available ,.purechat-slideInUp ,.purechat-animated ,.purechat-widget-expanded:lang(sa){direction:ltr!important;}</style>
-<script type="text/javascript">
-    $(function(){
-        $("#mysearchfieldi").attr("placeholder","Search");
-        $("#searchfield").attr("placeholder","Search");
-        $("#mysearchfieldt").attr("placeholder","Search");
-        $("#mysearchfield").attr("placeholder","Search");
-        $(".purechat.purechat-widget.purechat-bottom.purechat-bottom-right.purechat-button-available.purechat-slideInUp.purechat-animated.purechat-widget-expanded").css("direction","ltr !important");
-        $("span.purechat-widget-title-link").html('chat with us!');
-    });
-</script>
+
 
 <script type="text/javascript">
     $(document).ready(function(){
+        setTimeout(function(){
+                    $("#headerAll > form > input").attr("placeholder","Search")
+                },50);
+
         if (document.createStyleSheet){
             document.createStyleSheet('https://fonts.googleapis.com/css?family=Open+Sans:700,300,600,400');
             document.createStyleSheet('https://www.forexmart.com/assets/font-awesome/css/font-awesome.min.css');
@@ -2723,6 +2996,199 @@ Playing Position: Attacking midfielder  </p></li> <li class="specificwidth"><a t
         }
     });
 </script>
+<script type="text/javascript">
+    $(function(){
+        
+
+        $("#mysearchfieldi").attr("placeholder","Search");
+        $("#searchfield").attr("placeholder","Search");
+        $("#mysearchfieldt").attr("placeholder","Search");
+        $("#mysearchfield").attr("placeholder","Search");
+        $(".purechat.purechat-widget.purechat-bottom.purechat-bottom-right.purechat-button-available.purechat-slideInUp.purechat-animated.purechat-widget-expanded").css("direction","ltr !important");
+        $("span.purechat-widget-title-link").html('chat with us!');
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("html body").css('overflow-y', 'scroll');
+    });
+</script>
+
+
+<script type="text/javascript">
+    function setCookie(key, value) {
+        var expires = new Date();
+        expires.setTime(expires.getTime() + (10 * 365 * 1 * 24 * 60 * 60 * 1000));
+        document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+    }
+
+    function getCookie(key) {
+        var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+        return keyValue ? keyValue[2] : null;
+    }
+
+    $(document).ready(function(){
+        var curl=window.location.href;
+        var urlValue = "";
+        var chekurl = curl.indexOf("no-deposit-bonus");
+        var rchekurl = curl.indexOf("no_deposit_bonus");
+
+        var ndbCookie = getCookie('showNdb');
+        if(ndbCookie != null){
+            var getSession = $.session.get("ndbSession");
+            if(getSession == undefined){
+                $(".fx-drp-link #nodepositlinkId").hide();
+                $(".side-fix-holder .a-last-child").hide();
+            }
+            else{
+                $(".side-fix-holder .a-last-child").css('display', 'block');
+            }
+        }
+        else{
+            //$('#popup').modal('show');
+            $(".side-fix-holder .a-last-child").css('display', 'block');
+            setCookie("showNdb", "setNdbAfter");
+            $.session.set("ndbSession", "setNdb");
+        }
+    });
+
+    (function($){
+
+        $.session = {
+
+            _id: null,
+
+            _cookieCache: undefined,
+
+            _init: function()
+            {
+                if (!window.name) {
+                    window.name = Math.random();
+                }
+                this._id = window.name;
+                this._initCache();
+
+                // See if we've changed protcols
+
+                var matches = (new RegExp(this._generatePrefix() + "=([^;]+);")).exec(document.cookie);
+                if (matches && document.location.protocol !== matches[1]) {
+                    this._clearSession();
+                    for (var key in this._cookieCache) {
+                        try {
+                            window.sessionStorage.setItem(key, this._cookieCache[key]);
+                        } catch (e) {};
+                    }
+                }
+
+                document.cookie = this._generatePrefix() + "=" + document.location.protocol + ';path=/;expires=' + (new Date((new Date).getTime() + 120000)).toUTCString();
+
+            },
+
+            _generatePrefix: function()
+            {
+                return '__session:' + this._id + ':';
+            },
+
+            _initCache: function()
+            {
+                var cookies = document.cookie.split(';');
+                this._cookieCache = {};
+                for (var i in cookies) {
+                    var kv = cookies[i].split('=');
+                    if ((new RegExp(this._generatePrefix() + '.+')).test(kv[0]) && kv[1]) {
+                        this._cookieCache[kv[0].split(':', 3)[2]] = kv[1];
+                    }
+                }
+            },
+
+            _setFallback: function(key, value, onceOnly)
+            {
+                var cookie = this._generatePrefix() + key + "=" + value + "; path=/";
+                if (onceOnly) {
+                    cookie += "; expires=" + (new Date(Date.now() + 120000)).toUTCString();
+                }
+                document.cookie = cookie;
+                this._cookieCache[key] = value;
+                return this;
+            },
+
+            _getFallback: function(key)
+            {
+                if (!this._cookieCache) {
+                    this._initCache();
+                }
+                return this._cookieCache[key];
+            },
+
+            _clearFallback: function()
+            {
+                for (var i in this._cookieCache) {
+                    document.cookie = this._generatePrefix() + i + '=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                }
+                this._cookieCache = {};
+            },
+
+            _deleteFallback: function(key)
+            {
+                document.cookie = this._generatePrefix() + key + '=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                delete this._cookieCache[key];
+            },
+
+            get: function(key)
+            {
+                return window.sessionStorage.getItem(key) || this._getFallback(key);
+            },
+
+            set: function(key, value, onceOnly)
+            {
+                try {
+                    window.sessionStorage.setItem(key, value);
+                } catch (e) {}
+                this._setFallback(key, value, onceOnly || false);
+                return this;
+            },
+
+            'delete': function(key){
+                return this.remove(key);
+            },
+
+            remove: function(key)
+            {
+                try {
+                    window.sessionStorage.removeItem(key);
+                } catch (e) {};
+                this._deleteFallback(key);
+                return this;
+            },
+
+            _clearSession: function()
+            {
+                try {
+                    window.sessionStorage.clear();
+                } catch (e) {
+                    for (var i in window.sessionStorage) {
+                        window.sessionStorage.removeItem(i);
+                    }
+                }
+            },
+
+            clear: function()
+            {
+                this._clearSession();
+                this._clearFallback();
+                return this;
+            }
+
+        };
+
+        $.session._init();
+
+    })(jQuery);
+
+</script>
+
+
 
 
 
