@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impressionsvanity.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526171200id_/https%3A//impressionsvanity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impressionsvanity.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912205839id_/https%3A//impressionsvanity.com/privacy-policy) for the most accurate reproduction.*
 
-# Impressions Vanity | Privacy Policy
+# Impressions Vanity Co. | Privacy Policy
 
 ## Privacy Policy
 
