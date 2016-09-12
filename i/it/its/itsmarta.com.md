@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsmarta.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401125529id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsmarta.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912102802id_/http%3A//itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.*
 
 # MARTA - Metropolitan Atlanta Rapid Transit Authority
 
