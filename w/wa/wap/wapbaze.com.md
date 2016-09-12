@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622182341id_/http%3A//wap-baze.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912165106id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Google Policy For Wapbaze** Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Googles cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies.
+**Our Google Policy For Wapbaze** Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Googles cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies. 
 
 #### About Google advertising:
 
@@ -32,6 +32,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 Concerns or questions about this privacy policy can be directed to info@wapbaze.com for further clarification.
 
- **OUR DISCLAIMER**
+**OUR DISCLAIMER**
 
 This our policy may be changed at any time in life at the discretion of Wapbaze. If we should update this policy, we will post the updates to this page on our Website only. This policy last updated on November 25th, 2014.
