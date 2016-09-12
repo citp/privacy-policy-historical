@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audentio.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404230415id_/https%3A//www.audentio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audentio.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912153200id_/https%3A//www.audentio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Audentio Design
 
