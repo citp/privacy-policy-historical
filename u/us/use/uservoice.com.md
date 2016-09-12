@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618054253id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912205821id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UserVoice
 
@@ -42,7 +42,7 @@ UserVoice Services may be linked to or provided through third party websites. Us
 
 UserVoice uses the information it collects from you to deliver UserVoice Services to you and continuously enhance your user experience. Generally speaking, we use the collected information to communicate with you, fulfill your requests, customize the content, improve our products and services, protect our and your rights, and comply with laws and regulations.
 
-We may use your personal information to send you promotional information and updates regarding UserVoice and its products and services. You may choose not to receive such information and opt-out of such future communications by clicking [here](http://feedback.uservoice.com/users/profile/). All such communications sent to you will also contain instructions for opting-out.
+We may use your personal information to send you promotional information and updates regarding UserVoice and its products and services. You may choose not to receive such information and [opt-out of such future communications](http://feedback.uservoice.com/users/profile/). All such communications sent to you will also contain instructions for opting-out.
 
 The information that we collect from you may be used in aggregate form in various ways to optimize and improve UserVoice Services. While such information may be based on information about you, it will not identify you personally. We may use such information for the following purposes: website management, administration and security, promotional activities, and research and analysis.
 
@@ -72,7 +72,7 @@ If UserVoice sells all or part of its business, or makes a sale or transfer of a
 
 You have the choice about whether to disclose your personal information or other information about yourself to UserVoice. Regardless of your choices with respect to promotional communications and updates regarding content, UserVoice may send you administrative messages, service announcements, terms and conditions of your account, or other similar communications, without offering you the opportunity to opt out of receiving them.
 
-You can change your privacy settings at any time by clicking [here](http://feedback.uservoice.com/users/profile/). You may delete your UserVoice account, in accordance with our Terms of Use, by clicking [here](http://feedback.uservoice.com/users/profile/). Please note that, if you cancel your account, UserVoice may retain some information about you but will discontinue posting such information on the UserVoice Websites.
+You can change your [privacy settings](http://feedback.uservoice.com/users/profile/) at any time. You may delete your UserVoice account, in accordance with our [Terms of Use](http://feedback.uservoice.com/users/profile/). Please note that, if you cancel your account, UserVoice may retain some information about you but will discontinue posting such information on the UserVoice Websites.
 
 ### How information is protected
 
@@ -84,17 +84,18 @@ UserVoice and its UserVoice Services are based in the U.S., and our offices are 
 
 ### US-EU Safe Harbor Framework
 
-UserVoice complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. UserVoice has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+UserVoice complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. UserVoice has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Learn more about the Safe Harbor program, and to view [our certification page](http://www.export.gov/safeharbor/).
 
 In compliance with the Safe Harbor Principles, UserVoice commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact UserVoice at:
 
-**UserVoice Inc.**  
+##### UserVoice Inc.
+
 121 2nd St, Floor 4  
 San Francisco, CA 94105  
 [support@uservoice.com](mailto:support@uservoice.com)  
 Attn: Chief Executive Officer 
 
-UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the [BBB EU SAFE HARBOR web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Changes to this privacy policy
 
@@ -104,6 +105,8 @@ From time to time, we may make changes to this privacy policy. In order to ensur
 
 If you have any questions about this privacy statement, the practices of the UserVoice Website and UserVoice Services, or your dealings with UserVoice, please contact us at: [support@uservoice.com](mailto:support@uservoice.com) or by mail at:
 
-**UserVoice Inc.**  
+##### UserVoice Inc.
+
 121 2nd St, Floor 4  
-San Francisco, CA 94105 
+San Francisco, CA 94105  
+
