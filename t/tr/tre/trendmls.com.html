@@ -1,0 +1,574 @@
+<!--The following is the downloaded HTML source of the trendmls.com privacy policy that was archived on 2016-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160912225512id_/https%3A//www.trendmls.com/Guest/ShowJoinLinkDoc.aspx%3Flinkid%3D44) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_pageHeader"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- PSzaj - 3/18/2016 - Defect 7164 fix  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="/Menu/MegaMenu.css" media="all">
+        <link rel="stylesheet" type="text/css" href="/Menu/fontello/css/fontello.css" media="all">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Menu/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="/Menu/MegaMenu_Guest.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/trend.css" media="all"><link rel="stylesheet" type="text/css" href="../css/acct.css" media="all"><link rel="stylesheet" type="text/css" href="../Controls/MenuControl/Css/MlsMenu.css" media="all">
+    
+    <!-- PSzaj - 3/18/2016 - Defect 7164 fix 
+        Start of Responsive MegaMenu -->
+    <script type="text/javascript">
+    $(document).ready(function () {
+        //Add the mobile menu spans
+        $(".tabNav").find("img[src*=TabWelcome]").after("<span>Welcome</span>");
+        $(".tabNav").find("img[src*=TabAbout]").after("<span>About</span>");
+        $(".tabNav").find("img[src*=TabMembership]").after("<span>Membership</span>");
+        //Clean up extra li elements
+        $(".tabNav").find(".liCheckMe:not(:has(a))").remove();
+
+        //ER409: kheidt 12/27/13: we don't need to check for the screen width because tabNav will be hidden if the screen is too big, and we can leave the event handler bound
+        //if (document.documentElement.clientWidth <= 768) {
+        $(".tabNav").click(function (e) {
+            //$(".tabNav ul").toggle();
+            //QC6085 ER409: kheidt 01/15/14: Add a css class that can be used to show the tabNav UL when in mobile display rather than toggling
+            $(this).find("ul").toggleClass("ulDisplayMobile");
+        });
+        //}
+    });
+    </script>
+    <link rel="stylesheet" type="text/css" href="../css/MobileWithNav.css"><link rel="stylesheet" type="text/css" href="../Menu/MegaMenuResp.css">
+    <!-- END Responsive MegaMenu -->
+
+	<style type="text/css">
+		.systemStatusRed
+		{
+			padding: 10px 15px;
+			font: bold 1.4em/1em "Roboto", Arial, sans-serif;
+			background: #F00;
+			color: #FFF;
+		}
+		.systemStatusYellow
+		{
+			padding: 10px 15px;
+			font: bold 1.4em/1em "Roboto", Arial, sans-serif;
+			background: #FC0;
+			color: #FFF;
+		}
+	</style>
+	
+    
+    <!-- QMS 6283: kheidt 09/03/14: changing showModalDialog to an alternative -->
+    
+	<script src="/js/jQuery/jquery-1.6.1.min.js" type="text/javascript"></script><link rel="Stylesheet" type="text/css" href="/css/jquery-ui-1.8.15.custom.css"><script src="/js/jQuery/Plugins/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+	
+	
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+
+if (typeof jQuery == 'function') {
+	$(document).ready(function () {		
+		_gaq.push(['_setAccount', 'UA-9899619-1']);
+		_gaq.push(['_setDomainName', 'trendmls.com']);
+		_gaq.push(['_setAllowHash', false]);
+		
+			_gaq.push(['_setCustomVar',	1,	'UserType',  'Guest', 3]);
+		
+			_gaq.push(['_setCustomVar',	2, 'DocumentType','GeneralPage', 3]);
+				
+		_gaq.push(['_trackPageview']);
+
+			(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+
+		$('a.gaRecordOutbound').click(function () {
+			_gaq.push(['_trackEvent', 'click', 'Outbound', this.href]);
+			//Delay in milliseconds to give GA time to record the event
+			$().delay(100);
+		});
+		$('a.gaRecordDownload').click(function () {
+			_gaq.push(['_trackEvent', 'click', 'Download', this.href]);
+			//Delay in milliseconds to give GA time to record the event
+			$().delay(100);
+		});
+	});
+}
+function TrackGAEvent(category, action, label, value)
+{  if (value == null) 	
+	{ _gaq.push(['_trackEvent', category, action, label]);  }
+   else 
+    { _gaq.push(['_trackEvent', category, action, label, value]); }
+}
+</script>
+
+
+<title>
+	Privacy Policy - TREND
+</title></head>
+<body onresize="ResizeWindow();">
+    
+            <div id="ctl00_ctl00_removeNavContent">
+	
+                <style type="text/css">
+                     /*
+                     #headernav { height: 2px;}
+                     #headernav * { display: none;}
+                     */
+                     /*kheidt 02/11/15: per SteveS, hide the existing nav stuff on pageload to avoid jarring */
+                     /*#headernav, #localnav, #navspacer, #topbar { display: none;} */
+	                #headernav, #localnav, #navspacer, #toplinks { display: none;}
+	                #topbar { height: 45px; }
+                </style>
+            
+</div>
+    <!-- QMS 6283: kheidt 09/03/14: changing showModalDialog to an alternative -->
+    
+    <script type="text/javascript" src="/js/jQueryModalDialog.js"></script>
+	<script type="text/javascript">
+		function printDiv(sTitle, sSubTitle, sContentDiv, sHeaderInfo) {
+			var sContent = document.getElementById(sContentDiv).innerHTML;
+			var sStyleDiv = document.getElementById('customStyle');
+			var dateCurrent = new Date();
+			var sStyle = '';
+			if (sStyleDiv != null) {
+				sStyle = sStyleDiv.innerHTML;
+			}
+
+			//remove links from print popup
+			var re = /<\s*a\s+[^>]*>((\n|.)*?)<\s*\/a>/gi;
+			sContent = sContent.replace(re, '$1');
+
+			var winPopup = window.open('', 'PrintPreview', 'location=no, menubar=no, status=yes, titlebar=no, toolbar=no, scrollbars=yes, width=740, height=560');
+			winPopup.document.open();
+			winPopup.document.write('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">');
+			winPopup.document.write('<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n');
+			winPopup.document.write('<title>' + sTitle + '<\/title>\n');
+			winPopup.document.write('<link href="\/css\/trend.css" type="text\/css" rel="stylesheet" media="all">\n');
+			winPopup.document.write('<link href="\/css\/print.css" type="text\/css" rel="stylesheet" media="all">\n');
+			if (sStyle != '') {
+				winPopup.document.write('<style type="text/css">' + sStyle + '<\/style>\n');
+			}
+			winPopup.document.write('<\/head>\n');
+			winPopup.document.write('<body><div class="printHeader"><table cellspacing="0" cellpadding="0" border="0"><tr><td>TREND<br \/>' + (dateCurrent.getMonth() + 1) + '\/' + dateCurrent.getDate() + '\/' + dateCurrent.getYear() + '<\/td><td style="text-align: right;">');
+			winPopup.document.write(sHeaderInfo);
+			winPopup.document.write('<\/td><\/tr><\/table><\/div>');
+			winPopup.document.write('<h1>' + sTitle + '<\/h1>');
+			if (sSubTitle != '') {
+				winPopup.document.write('<div class="docNum" style="margin: 15px 0 0 15px;">' + sSubTitle + '<\/div>');
+			}
+			winPopup.document.write('<div id="printWrapper">' + sContent + '<\/div>');
+
+		    //QMS6246: kheidt 03/11/15: Adding a document ready event handler in the page itself rather than initiating the print and close commands from outside the window
+		    //do the print stuff
+			winPopup.document.write('<script type="text/javascript">document.addEventListener("DOMContentLoaded", function(event){ setTimeout(function() { window.print(); window.close(); }, 100);});<\/script>');
+	
+			winPopup.document.write('<\/body><\/html>');
+			winPopup.document.close();
+
+		    //QMS6246: kheidt 03/11/15: Adding a document ready event handler in the page itself rather than initiating the print and close commands from outside the window
+            /*
+		    //QMS6246: kheidt 02/10/15: Adding a delay to the print command so that images on the page have a chance to load
+		    setTimeout(function() {
+		        winPopup.print();
+		        winPopup.close();
+		    }, 100);
+            */
+		}
+
+		function popupHelp(iDocID, sBookmark) {
+			if (sBookmark == undefined) {
+				var winHelp = window.open('/HelpDesk/ShowDocPopup.aspx?id=' + iDocID, '', 'location=no, menubar=no, status=yes, titlebar=no, toolbar=no, scrollbars=yes, width=740, height=560');
+			}
+			else {
+				var winHelp = window.open('/HelpDesk/ShowDocPopup.aspx?id=' + iDocID + '#' + sBookmark, '', 'location=no, menubar=no, status=yes, titlebar=no, toolbar=no, scrollbars=yes, width=740, height=560');
+			}
+		}
+
+		function addShortcut(iDocID) {
+		    //window.showModalDialog('/AddShortcut.aspx?addID=' + iDocID, '', 'dialogWidth:357px; dialogHeight:190px; status:yes;');
+		    //QMS 6283: kheidt 09/03/14: changing showModalDialog to an alternative
+		    jQueryModalDialog('/AddShortcut.aspx?addID=' + iDocID, '', 'dialogWidth:357px; dialogHeight:190px; status:yes;');
+		}
+	</script>
+    <form name="aspnetForm" method="post" action="./ShowJoinLinkDoc.aspx?linkid=44" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+
+<script type="text/javascript">
+//<![CDATA[
+function ResizeWindow(){calcDivHeight(0, 'main', 0, 'rightSidebar');}//]]>
+</script>
+
+<script src="/Js/menuFunctions.js" type="text/javascript"></script>
+<script src="/Js/navFunctions.js" type="text/javascript"></script>
+<script src="/Js/helpFunctions.js" type="text/javascript"></script>
+<script src="/js/calcDivHeight.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9C_v7H5eNoRkfRop0cs9Kh8g64fsugv7NzoY5vM7tOw1NOvLZcK1zaAAi3HEl3_QZM3PlNml57PWUra8nldzGJCffdSdXPq2b8NH5w6orGM2aIL9wR6MjYTu_aX683RMqggH-8N20YE0Pq6H62uD6bP6dZvfYTZzpHlEBR6e-VJr7JAiFdrjP7I-6zY5xfpS60VGJPl9oIRY0cflerqyHQ2&amp;t=ffffffffeea0dba9" type="text/javascript"></script>
+<script src="../WidgetService.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="580A098F">
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+    
+        
+        <div id="wrapper" style="position: relative;">
+            <a href="#" id="lnkJunk" name="lnkJunk" style="display: none"></a>
+            
+	    <!--Lists below are scrunched together to avoid "IE white-space bug."  Do NOT tab them properly.-->
+	    <!--In nested lists (drop-downs) the first "li" of each list contains a 1 X 1 transparent GIF to fix IE display:block bug.  The images must be with the "a" tags.  See Chris Pignatelli for further explanation-->
+			
+			
+	        <div id="topbar">
+		        <div id="megamenu" class="nav megamenu" style=""><div class="logo"><a href="/Default.aspx"><img src="//web.archive.org/Menu/LogoTREND.png" alt="TREND"></a></div><div class="topLevelWrapper"><ul class="topLevel"><li class="topLI navSignout"><a href="/Default.aspx" style="color: inherit;" class=""><span>Login</span></a></li><li class="topLI "><span class="icon-angle-down">About</span><div class="dropDownWrapper"><div class="dropDownWidth"><ul class="dropDown"><li class=""><div class="padMe"><span>News</span></div><ul class="subNav "><li class=""><a href="/Guest/News/" class=""><span>TREND News</span></a></li><li class=""><a href="/Guest/News/NewsSearch.aspx" class=""><span>Search TREND News</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=99" class=""><span>Press Room</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=50" class=""><span>TRENDLink Newsletter</span></a></li></ul></li><li class=""><div class="padMe"><span>Products</span></div><ul class="subNav "><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=15" class=""><span>MLS</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=16" class=""><span>Public Records</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=17" class=""><span>Mobile Solutions</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=20" class=""><span>IDX and IDX Plus</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=56" class=""><span>Powered by TREND</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=21" class=""><span>Internet Advertising</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=22" class=""><span>Other Broker Products</span></a></li></ul></li><li class=""><div class="padMe"><span>Free Training</span></div><ul class="subNav "><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=23" class=""><span>Descriptions</span></a></li><li class=""><a href="/Guest/Training/Default.aspx" class=""><span>Attend a Workshop</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=54" class=""><span>Locations</span></a></li></ul></li><li class=""><div class="padMe"><span>Our Company</span></div><ul class="subNav "><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=12" class=""><span>What Is TREND?</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=13" class=""><span>Our History</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=41" class=""><span>MLS Coverage</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=34" class=""><span>Public Records Coverage</span></a></li></ul></li><li class=""><div class="padMe"><span>Our People</span></div><ul class="subNav "><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=60" class=""><span>Our Members</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=101" class=""><span>Our Staff</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=32" class=""><span>Account Executives</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=40" class=""><span>Board of Directors</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=39" class=""><span>Shareholder Associations</span></a></li><li class=""><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=14" class=""><span>Employment</span></a></li></ul></li></ul></div></div></li><li class="topLI "><span class="icon-angle-down">Membership</span><div class="dropDownWrapper"><div class="dropDownWidth"><ul class="dropDown"><li class=""><div class="padMe"><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=11" style="color: #000;" class=""><span>Why Join TREND?</span></a></div></li><li class=""><div class="padMe"><span>Join As...</span></div><ul class="subNav "><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=36" class=""><span>Office / Broker</span></a></li><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=35" class=""><span>Agent</span></a></li><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=65" class=""><span>Appraiser</span></a></li><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=66" class=""><span>Assistant</span></a></li></ul></li><li class=""><div class="padMe"><span>Policies</span></div><ul class="subNav "><li class=""><a href="/Guest/MemberTou.aspx" class=""><span>Member Terms of Use</span></a></li><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=42" class=""><span>Rules and Regulations</span></a></li><li class=""><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=44" class=""><span>Privacy Policy</span></a></li></ul></li></ul></div></div></li><li class="topLI "><span class="icon-angle-down">Consumer Info</span><div class="dropDownWrapper"><div class="dropDownWidth"><ul class="dropDown"><li class=""><div class="padMe"><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=63" class=""><span>Why Use a TREND Member?</span></a></div><div class="padMe"><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=64" class=""><span>How to Use the Portal</span></a></div><div class="padMe"><a href="/Guest/ShowAboutLinkDoc.aspx?linkid=45" class=""><span>Email Subscription</span></a></div></li></ul></div></div></li><li class="topLI support"><span class="icon-angle-down">Support</span><div class="dropDownWrapper"><div class="dropDownWidth"><ul class="dropDown"><li class=""><div class="supportHours">Support Center<br><table class="hours"><tbody><tr><td>Monday - Friday</td><td>8:00am - 8:00pm</td></tr><tr><td>Saturday - Sunday</td><td>9:00am - 6:00pm</td></tr></tbody></table></div><ul class="subNav "><li class=""><a href="javascript:var win = window.open('/Guest/Contact/ContactPopup.aspx','contactWin','scrollbars=no, width=739, height=693, status=yes');" class=""><span>Email Us</span></a></li><li class=""><a href="tel:1-877-330-9900" class=""><span>Phone: 1-877-330-9900</span></a></li><li class=""><span>Fax: 610-783-4699</span></li></ul></li></ul></div></div></li></ul></div></div><ul id="toplinks" class="existing-selector display-none-important" style="display: none;">
+		            <li id="contactus"></li>
+					
+		            <li></li>
+					<li></li>
+		        </ul>
+	        </div>
+            
+	        <div id="headernav" class="existing-selector display-none-important" style="display: none;">
+	            <a id="ctl00_ctl00_lnkLogo" href="../" style="display:inline-block;float: left;"><img src="../Descom/LogoTRENDHead.gif" alt="" border="0"></a>
+                <div class="tabNav" onclick="return true"><ul>
+                <li class="mobileNavMsg">Links go to full, non-mobile site.</li>
+	            
+	            
+	            
+	            
+	            
+	            <li class="liCheckMe"><a id="ctl00_ctl00_lnkMemberLogin" style="display:inline-block;"><img src="../images/TabWelcomeDown.gif" alt="" border="0"><span>Welcome</span></a></li>
+				<li class="liCheckMe"><a id="ctl00_ctl00_lnkAboutTrend" style="display:inline-block;"><img src="../images/TabAboutDown.gif" alt="" border="0"><span>About</span></a></li>
+	            <li class="liCheckMe"><a id="ctl00_ctl00_lnkJoinTrend" disabled="disabled" style="display:inline-block;"><img src="../images/TabMembershipUp.gif" alt="" border="0"><span>Membership</span></a></li>
+		        </ul></div>
+				
+				<div class="snIcons">
+			    <a href="http://www.facebook.com/trendmls"><img src="/images/IconNavFacebook.gif" width="22" height="22" alt="Follow Us on Facebook"></a><a href="http://www.twitter.com/TREND_MLS"><img src="/images/IconNavTwitter.gif" width="22" height="22" alt="Follow Us on Twitter"></a><a href="http://www.youtube.com/user/TRENDMLS"><img src="/images/IconNavYouTube.gif" width="22" height="22" alt="Follow Us on YouTube"></a><a href="http://www.linkedin.com/company/trend"><img src="/images/IconNavLinkedIn.gif" width="22" height="22" alt="Follow Us on LinkedIn"></a>
+		        </div>
+				 
+		        <div id="sitesearch"><div id="searchform"></div></div>
+	        </div>
+    	    
+	        <div id="navspacer"><img src="../images/spacer.gif" id="ctl00_ctl00_Img2" width="980" height="5"></div>
+        
+	        <div id="localnav" class="existing-selector display-none-important" style="display: none;">
+                <ul id=""></ul><script type="text/javascript">
+			iframeHack('');
+		</script>
+	        </div>     
+        
+            <div id="content">
+                
+		<div id="location"><h1>Privacy Policy</h1>
+		    <div id="pageLinks">
+				<div id="pageLinksAbs"></div>		    
+                <a id="print" href="javascript:printDiv('Privacy Policy','','mainWrapper', '');">Print</a>
+		    </div>
+		</div>		
+		
+		<div id="mainDiv">
+		     
+		    
+			<div id="mainFrame">
+				<div id="mainWrapper">
+			        
+
+			        <!-- WebPageDocumentsXrefID = 44;  DocumentID = 137 -->
+
+	<div id="ctl00_ctl00_cb_displayDocUsingWebPageDocumentsXrefTable_showDoc1_pnlDoc">
+	
+		<style type="text/css">
+			.brandingBox
+			{
+				float: right;
+				margin: 0 0 15px 15px;
+				padding: 10px;
+				width: 106px;
+				font-weight: bold;
+				-moz-border-radius: 5px;
+				border-radius: 5px;
+	
+				/*Default Colors*/
+				background: #BCD url(../images/bgNewsSubmission.png) repeat-x top left;
+				color: #000;
+			}
+
+			.brandingBox img
+			{
+				border: 3px solid #FFF;
+				display: block;
+			}
+		    .sharingHolder  /* Hide the sharing widgets until we can confirm we've loaded the addthis script okay */
+		    {
+		        display: none;
+		    }
+		</style>
+        <div class="newsTitle">
+            
+        </div>
+        
+        <div class="pageSubHeader">
+            In order to operate the TREND MLS service, ("TREND" or "we"), must ask you to provide us personally identifiable information about yourself. This Privacy Policy describes the personally identifiable information we collect and how we use that personally identifiable information. TREND takes the privacy of your personally identifiable information very seriously and will use your personally identifiable information only in accordance with the terms of this Privacy Policy.
+        </div>
+		<br><br>
+        
+        <div class="newsLineHeight" style="line-height: 17px;">
+Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, TREND has agreed to notify you of:
+<ul>
+	<li>What <em>personally identifiable information</em> of yours is collected by TREND.</li>
+	<li>How the <em>personally identifiable information</em> is used, and to whom the <em>personally identifiable information</em> may be disclosed.</li>
+	<li>What choices are available to you regarding collection, use and distribution of the <em>personally identifiable information</em>.</li>
+	<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of <em>personally identifiable information</em> under TREND's control.</li>
+	<li>How you can correct any inaccuracies in the <em>personally identifiable information</em>.</li>
+</ul>
+If you have questions or concerns regarding this Privacy Policy, you should first contact TREND using our Contact Form.<br>
+<br>
+<br>
+<strong>A. INTRODUCTION</strong><br>
+<br>
+<strong>Definitions</strong><br>
+"Personally identifiable information" is information, that is not otherwise publicly available, which can be used to distinguish or trace your identity, such as your name, phone number, email address, credit card number, etc. alone, or when combined with other personal or identifying information which is linked or linkable to you, such as date and place of birth, mother's maiden name, etc.<br>
+<br>
+"TREND websites" includes all areas (public and private) of TREND's website, www.trendmls.com, and all areas of our Membership, MLS and Public Records (Realty Records) databases.<br>
+<br>
+A "Cookie" is a small amount of data, often including an anonymous unique identifier, transmitted to your browser from a website, which includes electronic data about you and your computer. "Cookies" are stored on your computer's hard drive.<br>
+<br>
+<strong>Notification of Changes</strong><br>
+This policy may be revised over time as new features are added to TREND's products and services, <em>TREND websites</em>, or as we incorporate suggestions from you.<br>
+<br>
+We will post the amended Privacy Policy prominently on our website so that you can always review what <em>personally identifiable information</em> we gather, how we might use that personally identifiable  information, and whether we will disclose it to anyone.<br>
+<br>
+The <em>TREND websites</em> includes links to some third party websites. These sites are governed by their own privacy statements, and TREND is not responsible for their operations, including but not limited to their information practices. If you submit <em>personally identifiable information</em> to or through these third party websites, you should review the privacy statement of these sites before providing them with <em>personally identifiable information</em>.<br>
+<br>
+<br>
+<strong>B. INFORMATION WE COLLECT</strong><br>
+<br>
+<strong>Listing  Data and Images<br>
+The nature of TREND's business is the gathering and sharing of data to facilitate real estate transactions, between member real estate professionals. When you enter a listing  into the MLS system, the content and images associated with that listing become part of the copyrighted MLS listing database compilation. The  use of the content and images is governed by TREND's Rules and Regulations. Use the link at the bottom of the page for a copy of TREND's Rules and Regulations.</strong><br>
+<br>
+The use of the public records content in Realty Records is governed by the <a href="http://www.trendmls.com/proxy.aspx?sys=RealtyRecords&amp;d=/Resources/LicenseAgreement">Realty Records license agreement</a>, which you must agree to in order to obtain access to that system.<br>
+<br>
+The use of Bing maps is also governed by Microsoft's Terms of Use and <a href="http://privacy.microsoft.com/en-us/fullnotice.aspx">Privacy Policy</a>.<br>
+<br>
+<strong>Required Information ("My Profile")</strong><br>
+To become a TREND member, you must provide a variety of <em>personally identifiable information</em>, including but not limited to your name, address, phone number and email address.<br>
+<br>
+<strong>Optional Information</strong><br>
+If you choose to purchase optional products you may be asked to provide additional <em>personally identifiable information</em> about yourself. If you utilize optional features offered from TREND, such as E-Cards or flyers in TREND's MLS system, you  may submit, at your option, additional  <em>personally identifiable information</em> (like personal photos) for optimum use of that service. TREND may also collect similar <em>personally identifiable information</em> if you apply for a TREND job or enter a TREND contest.<br>
+<br>
+<strong>Transaction Information</strong><br>
+When you use TREND to pay your invoice, we ask you to provide information related to each transaction, including the amount of the transaction, the particular invoice you wish to apply payment to, and your email address. We retain this information for each of your transactions through TREND. We also collect the Internet address (IP address) of the computer or device you use to access your TREND account.<br>
+<br>
+<strong>Website Traffic Data</strong><br>
+Because of the way that World Wide Web communication standards work, when you arrive at or leave TREND websites, we automatically receive the web address of the site that you came from or are going to. We also collect statistics on which pages of our website you visit while you are on TREND's websites, the type of browser you use and the times you access our websites. We use this data only to try to understand your  preferences better and to manage the load on our servers, so as to improve our service and your experience with TREND.<br>
+<br>
+<strong>Our Use of "Cookies"</strong><br>
+"Cookies" are small files of data that we send to your computer to allow us to recognize you as a TREND customer if you return a TREND site using the same computer and browser. We send a "session cookie" to your computer when you log in to TREND by entering your username and password. These cookies allow us to recognize you if you visit our various sites during the same session, so that you don't need to re-enter your password multiple times. They also track the functions you performed and collect anonymous traffic data while on our site. Once you log out or close your browser, these session cookies expire and no longer have any effect.<br>
+<br>
+<strong>Support Center Correspondence</strong><br>
+If you send us correspondence, including emails and faxes, we may retain such correspondence in the records of your account. We may also retain Support Center correspondence and other correspondence from TREND to you. We may retain some of these records in order to measure and improve our member service, and to investigate violations of our Rules and Regulations. We may, over time, delete these records.<br>
+<br>
+<strong>Questionnaires and Surveys</strong><br>
+From time to time, we may offer optional questionnaires and surveys to you  for such purposes as collecting demographic statistics or assessing your interests and needs. The use of the data collected will be explained in detail in the survey itself. If we collect <em>personally identifiable information</em> from our members in these questionnaires and surveys, the members will be given notice of how the <em>personally identifiable information</em> will be used prior to their participation in the survey or questionnaire.<br>
+<br>
+<strong>Non-member (REALTOR® to customer) Personally Identifiable Information and Communications</strong><br>
+You  have the option to create customer and/or client contact information in the MLS system, which by its nature contains <em>personally identifiable information</em> on an individual who is not a TREND member  TREND will not use customer/client <em>personally identifiable information</em> or disclose that <em>personally identifiable information</em> to third parties.<br>
+<br>
+When you send an email through TREND's MLS system to a customer or client, we retain a copy of that email, including, for example, the recipient's name and email address. We do this so you can see a complete record of your communications for the past 180 days. Although this <em>personally identifiable information</em> is stored, we will not market to the non-member in any way at any time. TREND will not disclose any customer or client <em>personally identifiable information</em> to third parties.<br>
+<br>
+When you send an email through TREND's MLS system to a customer or client, that customer or client must choose to subscribe or unsubscribe from receiving emails from you. TREND will not share the customer's or client's choice to subscribe or unsubscribe with any TREND member, other than the member who initiated the request. TREND does, however, reserve the right to share all customers' subscription choices with any ISP (AOL, MSN, Yahoo!, etc.) if necessary to establish the legitimacy of TREND's MLS email.<br>
+<br>
+<br>
+<strong>C. OUR USE AND DISCLOSURE OF  PERSONALLY IDENTIFIABLE INFORMATION</strong><br>
+<br>
+<strong>Listing Data and Images<br>
+When you enter a listing  into the MLS system, the content and images associated with that listing become part of the copyrighted MLS listing database compilation. Ownership of TREND's MLS database compilation and each TREND member's "fair use" thereof is governed by TREND's Rules and Regulations. Use the link at the bottom of the page for a copy of TREND's Rules and Regulations.</strong><br>
+<br>
+The property owner <em>personally identifiable information</em> included in a listing is not used by TREND or disclosed to any third party.<br>
+<br>
+<strong>Internal Uses</strong><br>
+We use the personally identifiable  information we collect about you in order 1) to provide our services and process your transactions, 2) to provide member service, 3) to determine your eligibility to receive offers for special features, products, and personally tailored communications and 4) to improve our products, services , and security.<br>
+<br>
+We give access to <em>personally identifiable information</em> about you to those employees who we believe reasonably need to come into contact with that <em>personally identifiable information</em> to provide products or services to you, or in order to do their jobs, such as fulfill customer service requests. We require our employees to protect the privacy of <em>personally identifiable information</em> about our members.<br>
+<br>
+<strong>Disclosure to Other Licensees</strong><br>
+If you are a registered TREND member, your name, office, office address and office phone/fax number are displayed to others when they perform a Member or Office Directory search using TREND data. You have the option to allow or exclude your email address or home or other phone numbers from this directory, through your "My Profile" page. If you are a Broker/Owner, you may have access to additional <em>personally identifiable information</em> for each agent in your office such as their individual TREND account information: fees paid, owed, etc.<br>
+<br>
+<strong>Disclosure of Financial Data</strong><br>
+Your credit card number, bank account, and other financial <em>personally identifiable information</em> will only be revealed to the extent necessary to process your transactions, unless we are required to disclose such <em>personally identifiable information</em> pursuant to a validly issued subpoena or other form of legal process.<br>
+<br>
+<strong>Disclosure to Third Parties</strong><br>
+TREND will not disclose any of your <em>personally identifiable information</em> to third parties except in the limited circumstances described below, or unless you provide your express permission. These third parties are limited by law or by contract from using the <em>personally identifiable information</em> for secondary purposes beyond the purposes for which the <em>personally identifiable information</em> is shared.<br>
+<br>
+We may disclose the <em>personally identifiable information</em> we collect, as described above, to companies that perform marketing services on our behalf. These companies are subject to confidentiality agreements with us as well as other legal restrictions that prohibit them from using the <em>personally identifiable information</em> except to market the specified TREND-related products or services, unless you have affirmatively agreed or given your prior permission for other uses.<br>
+<br>
+We also disclose <em>personally identifiable information</em> to our Shareholder REALTOR® Associations. This is done in order to verify your application and your standing in the Association, which may directly affect your type of TREND membership. These Associations may use this <em>personally identifiable information</em> to market other products and services which may be of interest to you.<br>
+<br>
+We license content related to the advertisement and showing of properties on www.REALTOR.com and other publicly viewed websites such as  www.philly.com, www.courierpostonline.com and www.delawareonline.com.  We also license this content  to vendors of Internet Data Exchange and Virtual Office websites, and to other vendors that assist you in facilitating the real estate transaction. Additionally, we provide listing content to other Multiple Listing Services through comprehensive data sharing agreements. This content may include some <em>personally identifiable information</em> on the listing agent and/or selling agent, such as their name, office phone number and agent photo.<br>
+<br>
+In order to deliver certain services to members, our service providers may have access to your <em>personally identifiable information</em> for use for a limited time in connection with these business activities to ensure optimum use of the service. Where we utilize third parties for the processing of any <em>personally identifiable information</em>, we implement reasonable contractual and technical protections limiting the use of that information to the TREND-specified purposes.<br>
+<br>
+We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our members live in a particular county. However, these aggregated statistical data is not tied to <em>personally identifiable information</em>.<br>
+<br>
+<strong>Legal Disclosures</strong><br>
+We will disclose <em>personally identifiable information</em> that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our Rules and Regulations. Specifically, this means that if we conduct a violations investigation, and conclude that one side may have engaged in deceptive practices, we can give that person or entity's <em>personally identifiable information</em> (but not bank account or credit card numbers) to parties who request it.<br>
+<br>
+We will disclose <em>personally identifiable information</em> in response to a validly issued subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.<br>
+<br>
+We will disclose <em>personally identifiable information</em> to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).<br>
+<br>
+As with any other business, it is possible that TREND in the future could merge with another company. If this occurs, the successor company would have access to the <em>personally identifiable information</em> maintained by TREND, including member account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described in Section A above.<br>
+<br>
+<strong>Our Contacts with TREND Members</strong><br>
+We communicate with you on a regular basis via email to provide requested services, and we also communicate by phone to resolve complaints or investigate suspicious transactions. We use your email address to send you bills and notices of due dates, to send notices about important changes to our products and services, service announcements, confirmations of orders placed online, responses to member requests and to send notices and other disclosures required by law. Generally, you cannot opt out of these communications, but they will be primarily educational in nature rather than promotional.<br>
+<br>
+We also use your email address to send you other types of promotional communications, including the TRENDLink newsletter, member surveys and notices of special third-party promotions. You can choose whether or not to receive these communications when you complete the registration process, or at any time thereafter, by changing your preferences in the "Member Login Information" section of "My Profile". You can change your choices at any time.<br>
+<br>
+In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our members to confirm that our records are accurate. However, these auditors cannot use <em>personally identifiable information</em> for any secondary purposes.<br>
+<br>
+<strong>Internet Address Information</strong>
+We use IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use.<br>
+<br>
+<br>
+<strong>D. INFORMATION SECURITY</strong><br>
+<br>
+TREND is committed to handling your <em>personally identifiable information</em> with high standards of security. We restrict access to your <em>personally identifiable information</em> to employees who need to know that <em>personally identifiable information</em> in order to provide products or services to you or to perform their jobs. We enforce physical and electronic measures to guard your non-public <em>personally identifiable information</em>.<br>
+<br>
+The security of your TREND account also relies on your protection of your TREND password. We require that you never share your TREND password with anyone. If you do share your TREND password with a third party for any reason, (other than by someone authorized by TREND's rules) you will be in violation of TREND's Rules and Regulations; the third party will have access to your account and your <em>personally identifiable information</em>, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please log in to TREND, change your password in My Profile, and contact us right away as described below.<br>
+<br>
+TREND uses security questions to better verify your identity and better protect your sensitive information. The answers you provide will help in the authentication process if you should forget your login information. Additionally, TREND collects forensic access data on login sessions including, but not limited to, keystroke dynamics, locations, time of day, devices, browsers,  operating systems, and networks in order to further protect your password, ensure that your login credentials are validated, and secure your sensitive information.<br>
+<br>
+<strong>Data Security and Encryption</strong><br>
+The security of your <em>personally identifiable information</em>, is the core of our business and a top priority at TREND. When paying fees in "Billing andTraining," TREND automatically encrypts your <em>personally identifiable information</em> in transit from your computer to ours using the Transport Layer Security protocol (TLS) with an encryption key length of 128-bits. Other pages where sensitive information is transferred and SSL is used include the Login page, Homepage and specific "My Profile" pages. Before you enter "Billing and Training," our server checks that you're using an approved browser - one that uses TLS 1.1 or higher.<br>
+<br>
+The answers to the security questions you answered will be stored in My Profile. These answers will be one-way encrypted to prevent unauthorized access.<br>
+<br>
+Once your <em>personally identifiable information</em> reaches us, it resides on a server that is heavily guarded both physically and electronically. Our servers sit behind an electronic firewall, so your <em>personally identifiable information</em> is available only to authorized computers.<br>
+<br>
+TREND also uses a technique called "seeding" whereby we add <em>personally identifiable information</em> on artificial members into our member database. Should someone use member <em>personally identifiable information</em> for purposes not in accordance with our Rules and Regulations, TREND staff will be notified and appropriate action will be taken.<br>
+<br>
+<br>
+<strong>E. ACCESSING AND CHANGING YOUR PERSONALLY IDENTIFIABLE INFORMATION</strong><br>
+<br>
+You can review the <em>personally identifiable information</em> you provided us and make any desired changes to such <em>personally identifiable information</em>, or to the settings for your TREND account, at any time by logging in and changing your <em>personally identifiable information</em> in "My Profile."<br>
+<br>
+If/When you are no longer a TREND member, we will mark your account in our database as "Terminated," but will retain your <em>personally identifiable information</em> in our database.<br>
+<br>
+<br>
+<strong>F. CONTACTING US</strong><br>
+<br>
+If you have any questions about this privacy statement, TREND's information practices, or your dealings with TREND, you can <a href="/HelpDesk/Contact.aspx">contact us using our Contact Form</a>.<br>
+<br>
+
+</div>
+        <br><br>
+    
+</div>
+    
+    <a id="comments"></a>
+    
+    
+
+
+
+				</div><!--END MAINWRAPPER-->
+			</div><!--END MAINFRAME-->
+		</div><!--END MAIN DIV-->
+		
+		<div id="rightSidebarDiv">
+		    
+			<div id="rightSidebarFrame">
+				<div id="rightSidebarWrapper">
+				    
+        
+	<div class="sidebarSection">
+		<div class="sidebarHeader">
+			<div>How Can We Help?</div>
+		</div>
+		<table class="contactInfoTable" cellpadding="0" cellspacing="0" border="0" style="margin-top: 10px;">
+            <tbody><tr>
+                            <th colspan="2">Support Center</th>
+            </tr>
+            <tr>
+                            <td>Mon. - Fri.</td>
+                            <td>8:00 AM - 8:00 PM</td>
+            </tr>
+            <tr>
+                            <td>Sat. - Sun.</td>
+                            <td>9:00 AM - 6:00 PM</td>
+            </tr>
+            <tr>
+                            <td><strong>Phone:</strong></td>
+                            <td>1-877-330-9900</td>
+            </tr>
+            <tr>
+                            <td><strong>Fax:</strong></td>
+                            <td>610-783-4699</td>
+            </tr>
+			<tr>
+							<td><strong>Email:</strong></td>
+							<td><a id="ctl00_ctl00_cb_sidebar_Guest1_ContactInfo1_lnkContactPopUp" onclick="window.open('/Guest/Contact/ContactPopup.aspx','contactWin','scrollbars=no, width=739, height=693, status=yes');" href="javascript:;">Send us an email</a></td>
+			</tr>
+			<!-- ER427 shostetter - Add Call Me link to launch 8X8 call me back popup window -->
+            
+			<tr>
+                            <td colspan="2">&nbsp;</td>
+            </tr>
+			<tr>
+							<th colspan="2">Payments:</th>
+			</tr>
+				<tr>
+					<td colspan="2">TREND<br>ATTN: Finance<br><em>660 American Avenue, Suite 203<br>King of Prussia, PA 19406</em></td>
+				</tr>
+		</tbody></table>
+	</div>
+
+<div class="sidebarSection">
+	    <div class="sidebarHeader">
+		<div>Consumer Info</div>
+		</div>
+	    <ul>
+		    <li><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=63">Why Use a TREND Member?</a></li>
+		    <li><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=64">How to Use Listing Reports</a></li>
+		    <li><a href="/Guest/ShowJoinLinkDoc.aspx?linkid=45">E-mail Subscription</a></li>
+	    </ul>
+    </div>
+
+	<div class="sidebarSection">
+		<div class="sidebarHeader">
+			<div>News</div>
+		</div>
+		<strong>TREND News</strong>
+		<ul>
+            <li><a href="/Guest/News/ShowDoc.aspx?id=8979">5 Things You Should NEVER do on Social Media</a></li><li><a href="/Guest/News/ShowDoc.aspx?id=8962">Harness the Portal’s Accuracy and Communicate With Your Clients!</a></li><li><a href="/Guest/News/ShowDoc.aspx?id=8969">5 Ways to be a Good Neighbor During a Move</a></li><li><a href="/Guest/News/ShowDoc.aspx?id=8931">22 of the Absolute Best Real Estate Closing Gift Ideas</a></li><li><a href="/Guest/News/ShowDoc.aspx?id=8901">Back to Basics: How to Enter a Listing in TREND</a></li>
+		</ul>
+		<div class="sidebarMore">
+		<a id="ctl00_ctl00_cb_sidebar_Guest1_TopDocs1_hypMoreTrendNews" href="News/">more...</a>
+		</div>
+	</div>
+
+
+				</div><!--END RIGHTSIDEBARWRAPPER-->
+			</div><!--END RIGHTSIDEBARFRAME-->
+		</div><!--END RIGHTSIDEBARDIV-->		
+
+                <div style="clear: both"></div>
+            </div>
+            
+            <!--FOOTER-->
+            <div id="footer">
+				<span>© 1995-2016 TREND.&nbsp; All rights reserved.&nbsp;•&nbsp; 660 American Avenue, Suite 203 &nbsp;•&nbsp; King of Prussia, PA 19406
+				&nbsp;•&nbsp; <a href="/Guest/ShowJoinLinkDoc.aspx?linkid=43">Website Terms of Use</a>&nbsp;•&nbsp; <a href="/Guest/News/ShowDoc.aspx?id=8346">Copyright Claims</a></span>
+			</div>
+            <!--END FOOTER-->
+            <!-- Web Server: PRODW8 -->    	        
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var btAvailable = false;var mlsAvailable = false;var legacyAvailable = false;var prAvailable = false;var isConvertedToMls5 = false;var serverID = 64; var portalBaseUrl = 'https://sso.trendmls.com/Portal';var widgetApiBaseUrl='http://matrixweb.trendmls.com/matrix/widgetDataApi/AggregatedData/'; var matrixBaseUrl='http://matrixweb.trendmls.com/'; var matrixSpeedBarUrl='matrix/link/sb/'; var matrixMlsNumberSearchUrl='http://matrixweb.trendmls.com/Matrix/Link/Listing';//]]>
+</script>
+</form>
+	<!-- ER427 - shostetter Removing this as the customized JS for webex will no longer be used -->
+	
+	
+
+
+</body></html>
