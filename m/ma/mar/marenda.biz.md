@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326034509id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912194450id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Marenda.biz
+# Privacy Policy – Marenda.biz
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
