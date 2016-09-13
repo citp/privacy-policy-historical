@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsgobacktothe80s.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512101349id_/http%3A//www.letsgobacktothe80s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgobacktothe80s.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913112252id_/http%3A//www.letsgobacktothe80s.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Let's Go Back To The 80's
 
