@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmycart.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514044937id_/http%3A//woophoop.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmycart.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913040320id_/http%3A//woophoop.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Woophoop !!!
 
