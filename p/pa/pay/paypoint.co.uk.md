@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypoint.co.uk privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411091206id_/https%3A//www.paypoint.com/en-gb/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypoint.co.uk privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913053603id_/https%3A//www.paypoint.com/en-gb/privacy-cookies) for the most accurate reproduction.*
 
 # PayPoint — Privacy & Cookies
 
@@ -61,17 +61,4 @@ This Google Analytics cookie stores the type of referral used by the visitor to 
   
 PayPoint | _utmv | 
 
-Google Analytics Cookie. Used for user-custom variables in Analytics  
-  
-## More Information
-
-If you would like information on any of our services please see:
-
-  * > [PayPoint Retail UK](http://www.paypoint.co.uk/)
-  * > [PayPoint Mobile and Online](http://www.paypoint.net/)
-  * > [PayPoint Ireland](http://www.paypoint.ie/)
-  * > [PayPoint Romania](http://ro-ro.paypoint.com/)
-  * > [PayByPhone (Consumer Services)](http://www.paybyphone.com/)
-  * > [Collect+](http://www.collectplus.co.uk/)
-
-
+Google Analytics Cookie. Used for user-custom variables in Analytics
