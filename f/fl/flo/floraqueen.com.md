@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531195808id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913214956id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal - Flower deliveries
 
@@ -34,6 +34,8 @@ Sharing Information with Strategic Partners
 We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information.
 
 Web Site Use Information
+
+The use of this page is for those 18 years of age and older. By using page this page you verify that you are 18 years of age or older. It is prohibited to sell or supply alcohol to those under the age of 18. It is recommended that alcoholic beverages are consumed in moderation.
 
 Like other commercial Web sites, the FloraQueen Web site utilizes Web server logs to collect information regarding how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just prior to and after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an Individual, and your individual usage patterns cannot be retrieved.
 
@@ -87,20 +89,17 @@ Occasionally, FloraQueen may also use the information we collect to notify you a
 
 Smiles Guaranteed
 
->  **Phil**
+>  **Dainius (Ireland)**
 > 
-> Well done - the flowers arrived and are beautiful. Many thanks for your help.
+> Thank you guys so much you've been wonderful again
 
-[ ](https://web.archive.org/sending-flowers/cheery-morning-bouquet)
+[ ](https://web.archive.org/sending-flowers/forever-in-love)
 
 "
 
 Rated 4.2 out of 5 by 6379 reviewers 
 
-  * [Father's Day Flowers](https://web.archive.org/international-flower-delivery/fathers-day "Father's Day Flowers") 2016-06-15T00:01 2016-06-15T23:59
-  * [ Birthday flowers](https://web.archive.org/birthday-flowers " Birthday flowers") 2016-07-15T00:01 2016-07-28T23:59
-  * [Grandparents Day](https://web.archive.org/international-flower-delivery/grandparents-day "Grandparents Day") 2016-09-04T00:01 2016-10-05T23:59
-  * [World Peace Day](https://web.archive.org/international-flower-delivery/world-peace-day "World Peace Day") 2016-09-21T00:01 2016-09-21T23:59
+  * [Birthday flowers](https://web.archive.org/birthday-flowers "Birthday flowers")
 
 
 
