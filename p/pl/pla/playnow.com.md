@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801052732id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913231958id_/https%3A//www.playnow.com/about-playnow/privacy.html) for the most accurate reproduction.*
 
 # Privacy | PlayNow.com
 
@@ -97,9 +97,13 @@ We use other third parties such as an email or text messaging service provider t
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by BCLC and our marketing, advertising and analytics service providers. These technologies are used to analyze trends, gauge effectiveness of our campaigns, make our operations more efficient and to administer the Sites. We may gather information including clickstream data (which is data that track users' movements around the Sites), number of visitors to the Sites, number of visitors to a page by the hour, visitors' activities (such as commencing the registration process), browser type, operating system and demographic information about our user base as a whole. We access reports based on the use of these technologies by these companies on an aggregated basis. The information collected is not attributable to an identifiable individual.
+Technologies such as: cookies, beacons, tags and scripts (e.g. Google Analytics) are used by BCLC and our marketing, advertising and analytics service providers. These technologies are used to analyze trends, understand user behaviour, gauge effectiveness of our campaigns, enhance the efficiency of our operations, make our Sites easier to use, and to administer the Sites. 
 
-We use cookies to remember users' settings, to deliver more relevant advertising and to manage the frequency and content of our advertising. You may control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited. 
+We may gather information including clickstream data (which is data that tracks users' movements around the Sites), number of visitors to the Sites, number of visitors to a page by the hour, visitors' activities (such as commencing the registration process), browser type, operating system and demographic information about our user base as a whole. We access reports based on the use of these technologies from companies we use to compile this information. All this information is collected anonymously and in aggregate. 
+
+We use cookies to remember users' settings, to deliver more relevant advertising and to modify the frequency and content of our advertising. You may control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited. 
+
+If you'd like to opt out of having your information tracked by Google Analytics, download an add-on for your browser here: <https://tools.google.com/dlpage/gaoptout/>. If you'd like to opt out of information tracked by mouseflow, turn on the 'do not track' option in your browser or visit <https://mouseflow.com/opt-out/> and click on "Disable".
 
 ## Log Files
 
@@ -176,4 +180,4 @@ If you have a privacy concern, question or suggestion, you may contact Customer 
 
 If we are unable to resolve your privacy concerns, you may contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) or the [Office of the Information and Privacy Commissioner for British Columbia.](https://www.oipc.bc.ca/about/contact-us.aspx)
 
-Last Updated: June 29, 2015
+Last Updated: June 17, 2016
