@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koco.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514222702id_/http%3A//www.koco.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koco.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913232412id_/http%3A//www.koco.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy - Oklahoma City - OKC - KOCO.com
 
