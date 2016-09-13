@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619204132id_/http%3A//www.telligent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914010745id_/http%3A//www.telligent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telligent
 
