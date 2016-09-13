@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110752id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914002845id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SAIT | Calgary, Alberta
 
@@ -8,9 +8,9 @@
 
 #### SAIT's compliance with anti-spam legislation
 
-SAIT Polytechnic complies with new federal legislation for the sending of electronic messages. Canada's anti-spam legislation (CASL) regulates the sending of commercial electronic messages, including email, text, social media, advertising and cellphone communications that encourage participation in a commercial activity.
+SAIT complies with new federal legislation for the sending of electronic messages. Canada's anti-spam legislation (CASL) regulates the sending of commercial electronic messages, including email, text, social media, advertising and cellphone communications that encourage participation in a commercial activity.
 
-[Opt in](http://sait.imodules.com/CASL) to receive commercial messages from SAIT Polytechnic..
+[Opt in](http://sait.imodules.com/CASL) to receive commercial messages from SAIT.
 
 Learn more about Canada's anti-spam legislation on [our FAQ page.](http://www.sait.ca/privacy-policy/canadian-anti-spam-legislation-and-sait.php)
 
@@ -24,9 +24,7 @@ We have implemented these practices for the SAIT home page ([www.sait.ca](http:/
 
 #### Application Information
 
-The personal information you provide on the application form is collected under the authority of the Freedom of Information and Protection of Privacy Act of the Province of Alberta, Section 33(c), the Statistics Act (Canada), and the Taxation Act (Canada). It will be used to determine your eligibility for admission to program(s)/course(s) of studies at SAIT, to facilitate your enrolment, to contact you regarding SAIT programs and services, to administer and evaluate institute programs/courses, and for statistical purposes. It will form part of your record as an applicant and alumnus and will be disclosed to academic and administrative units at SAIT and to Statistics Canada and Alberta Enterprise and Advanced Education for statistical, funding, planning, and market research purposes, and to the Students' Association of SAIT and the SAIT Alumni Association for contact purposes and membership services.
-
-This information will also be maintained in a mailing list for direct marketing purposes, market research surveys or the distribution of other promotional material as approved by the Director of Student Services. Your personal information is protected by Alberta's Freedom of Information and Protection of Privacy Act and can be reviewed on request. If you have any questions about the collection or use of this information, contact the Student Services' FOIP representative at 403.284.8069.
+The personal information you provide on the application form is collected under the authority of the Freedom of Information and Protection of Privacy Act of the Province of Alberta, Section 33(c), the Statistics Act (Canada), and the Taxation Act (Canada). It will be used to determine your eligibility for admission to program(s)/course(s) of studies at SAIT, to facilitate your enrolment, to contact you regarding SAIT programs and services, to administer and evaluate institute programs/courses, and for statistical purposes. It will form part of your record as an applicant and alumnus and will be disclosed to academic and administrative units at SAIT and to Statistics Canada and Alberta Enterprise and Advanced Education for statistical, funding, planning, and market research purposes, and to the Students' Association of SAIT and the SAIT Alumni Association for contact purposes and membership services. This information will also be maintained in a mailing list for direct marketing purposes, market research surveys or the distribution of other promotional material as approved by the Director of Student Services. Your personal information is protected by Alberta's Freedom of Information and Protection of Privacy Act and can be reviewed on request. If you have any questions about the collection or use of this information, contact the Student Services' FOIP representative at 403.284.8069.
 
 #### Business relationships
 
