@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625154633id_/http%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914010517id_/https%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
