@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2crack.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026181814id_/http%3A//www.learn2crack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2crack.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913115047id_/https%3A//www.learn2crack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn2Crack
 
