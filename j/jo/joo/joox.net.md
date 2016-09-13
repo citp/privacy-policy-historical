@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501084518id_/http%3A//joox.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913065533id_/http%3A//joox.net/privacy.php) for the most accurate reproduction.*
 
 # Free Online Movies - Joox
 
