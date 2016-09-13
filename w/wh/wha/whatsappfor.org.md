@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsappfor.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430115435id_/http%3A//www.whatsappfor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappfor.org privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913212826id_/http%3A//www.whatsappfor.org/privacy) for the most accurate reproduction.*
 
 # Privacy | WhatsApp Download
 
