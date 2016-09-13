@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepdf-converter.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125220033id_/http%3A//freepdf-converter.com/%3Fdr%3D%26tm%3Dprivacy_gen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepdf-converter.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913173634id_/http%3A//freepdf-converter.com/%3Fdr%3D%26tm%3Dprivacy_gen) for the most accurate reproduction.*
 
 # 
 
