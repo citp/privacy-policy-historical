@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605045809id_/https%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913181300id_/https%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
 
 # CodeMonkey
 
@@ -61,6 +61,8 @@ This policy shall be construed in accordance with and governed for all purposes 
 
 If you have any question about our privacy policy, please contact us via privacy@cm-studios.com 
 
+X
+
 ### TEACHER
 
 Classroom management, tracking and lesson plans. It's free to sign up!
@@ -98,7 +100,7 @@ So what do you want to do next?
 
 [ START PLAYING ](https://web.archive.org/first) [ GO TO CLASS MANAGEMENT ](https://web.archive.org/groups)
 
-Next time you want to play, use this information to keep playing from where you left off. 
+You will need this information to log back into your account: 
 
 Username:  {{ userInfo.username }}
 
@@ -107,6 +109,8 @@ Password:  {{ userInfo.password }} {{ showAsPassword(userInfo.password) }}
 Show
 
 Click to download a copy
+
+I saved my info, LET'S PLAY!
 
 Thank you for signing up.   
 The backpack is ready and the bananas are waiting!   
@@ -135,7 +139,7 @@ SEND
 Just a moment... 
 
 You must confirm your email address  ({{ confirmation.email }})  before you can continue.   
-Please check you inbox and click on the confirmation link. If it's not there, it might be in the spam folder. 
+Please check your inbox and click on the confirmation link. If it's not there, it might be in the spam folder. 
 
 Send confirmation email again 
 
