@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225418id_/http%3A//www.ecornell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914112540id_/http%3A//www.ecornell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eCornell
 
@@ -70,4 +70,4 @@ In accordance with our commitment to protect personal privacy, eCornell adheres 
 
 The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
 
-Any student wishing to file a complaint against eCornell may contact the Course Operations department by emailing [courseoperations@ecornell.com](mailto:courseoperations@ecornell.com) or by calling 1-800-801-0287.
+Any student wishing to file a complaint against eCornell may contact the Course Operations department by emailing [course-operations@ecornell.com](mailto:course-operations@ecornell.com) or by calling 1-800-801-0287.
