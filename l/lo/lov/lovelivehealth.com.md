@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelivehealth.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013914id_/https%3A//www.lovelivehealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelivehealth.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914065152id_/https%3A//www.lovelivehealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Love Live Health
 
