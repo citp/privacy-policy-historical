@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527125622id_/http%3A//popeyes.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914190553id_/https%3A//popeyes.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Popeyes
 
