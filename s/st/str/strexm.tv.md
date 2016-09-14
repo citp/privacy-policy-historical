@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010002341id_/http%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914042631id_/https%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
 
 # Strexm - Privacy Policy
 
@@ -35,7 +35,9 @@ We may use your personal information to:
   * send statements, invoices and payment reminders to you, and collect payments from you;
   * contact you;
   * provide personal, customer support;
-  * verify your identity and prevent fraud.
+  * verify your identity and prevent fraud;
+  * send marketing and promotional material;
+  * notify you of important service updates.
 
 
 
@@ -115,8 +117,8 @@ As we continue to develop, we may change or add new services or features to our 
 
 ### DETAILS AND CONTACT
 
-This web site is owned and operated by Strexm. You can contact us directly through one of the means listed on our [contact page](http://strexm.tv/contact).
+This web site is owned and operated by Bettercast Limited, a company incorporated in Hong Kong. You may contact us directly through one of the means listed on our [contact page](https://strexm.tv/contact).
 
 * * *
 
-Last Updated: 17th April 2015
+Last Updated: 07th January 2016
