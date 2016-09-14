@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091522id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914043512id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
