@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327165828id_/http%3A//www.namibian.com.na/index.php%3Fpage%3Dcustom%26type%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914075442id_/http%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
 
 # The Namibian
 
@@ -8,27 +8,27 @@
 
 * * *
 
-2016-03-27
+2016-09-14
 
-## [Oshana end hosts run to reach final](http://www.namibian.com.na/index.php?page=read&id=38763 "Click to read full article")
+## [Shikongo through to semis of 200m at Paralympics](http://www.namibian.com.na/Shikongo-through-to-semis-of-200m-at-Paralympics/45474/read "Click to read full article")
 
-Oshana was in no mood to repay the hospitality the hosts graciously afforded visitors to Rundu by edging Kavango East 2-0 in the second semi-final.
-
-* * *
-
-2016-03-27
-
-## [Sharks unbeaten run ends as Crusaders keep 2002 record alive](http://www.namibian.com.na/index.php?page=read&id=38762 "Click to read full article")
-
-WELLINGTON - It has been 14 years since the Canterbury Crusaders became the last team to go through a Super season undefeated and their captain Kieran Read ensured it will be another year at least before that record is matched.
+RIO DE JANEIRO – Paralympic sprinter Ananias Shikongo qualified for the next round of the men's T11, 200 metre race of the 2016 Paralympic Games underway here.
 
 * * *
 
-2016-03-27
+2016-09-14
 
-## [Khomas outclass Omaheke to reach final](http://www.namibian.com.na/index.php?page=read&id=38761 "Click to read full article")
+## [Peace Run comes to Namibia](http://www.namibian.com.na/Peace-Run-comes-to-Namibia/45473/read "Click to read full article")
 
-Four-time champion Khomas Region trumped Omaheke 3-0 on Sunday to reach The Namibian Newspaper Cup final.
+THE World Peace Run came to Namibia this week to spread the message of world peace and universal brotherhood.
+
+* * *
+
+2016-09-14
+
+## [Namibian bowls team excels at AST in Harare](http://www.namibian.com.na/Namibian-bowls-team-excels-at-AST-in-Harare/45472/read "Click to read full article")
+
+NAMIBIA's bowls team has excelled at the African States Tournament which is currently underway in Harare, Zimbabwe by winning one gold, two silver and one bronze medal to date.
 
 * * *
 
@@ -38,27 +38,27 @@ Four-time champion Khomas Region trumped Omaheke 3-0 on Sunday to reach The Nami
 
 * * *
 
-2016-03-23
+2016-09-14
 
-## [Nam model bags five awards at Future Fashion Faces World in Turkey](http://www.namibian.com.na/index.php?page=read&id=38650 "Click to read full article")
+## [From The Twittersphere](http://www.namibian.com.na/From-The-Twittersphere/45453/read "Click to read full article")
 
-FRESH from her successful participation at the Future Fashion Faces World, 23-year-old Rachel Mengela was pleased to have won multiple awards. “I'm very happy, I even cried tears of joy when I received those titles as I didn't expect to win anything at all,” she said.
-
-* * *
-
-2016-03-23
-
-## [OYO dance pair take '66%' to The Netherlands](http://www.namibian.com.na/index.php?page=read&id=38651 "Click to read full article")
-
-TWO members of the Ombetja Yehinga Organisation (OYO) dance troupe, Junita Philander and Monray Garoeb, have taken the dance troupe's '66%' to The Netherlands.
+FROM amandla to Nkandla, from blessers to 'blesser banks'. From beatitudes (the Biblical 'blessed are/s…') to be-attitudes. What a time to be alive!
 
 * * *
 
-2016-03-23
+2016-09-13
 
-## ['Spotlight'](http://www.namibian.com.na/index.php?page=read&id=38652 "Click to read full article")
+## [From The Twittersphere](http://www.namibian.com.na/From-The-Twittersphere/45397/read "Click to read full article")
 
-A TRUE story is more disturbing than fiction in 'Spotlight' (2016), this year's Academy Award's Best Picture winner.
+FOOTWASHING and lobola aside, it seems like 'Our Perfect Wedding' all but delivered this Sunday. And then around came Monday, like fish sweat on soles and exploding cellphones!
+
+* * *
+
+2016-09-14
+
+## [NAGN joins Omaruru Artists' Trail](http://www.namibian.com.na/NAGN-joins-Omaruru-Artists-Trail/45451/read "Click to read full article")
+
+THE National Art Gallery of Namibia (NAGN) will be taking part in this year's Omaruru Artists' Trail scheduled to take place on 23 and 24 September in the quaint town.
 
 * * *
 
@@ -68,27 +68,27 @@ A TRUE story is more disturbing than fiction in 'Spotlight' (2016), this year's 
 
 * * *
 
-2016-03-24
+2016-09-14
 
-## [Namibia missed India-Africa summit 'to avoid duplication'](http://www.namibian.com.na/index.php?page=read&id=38691 "Click to read full article")
+## [NEEEB to avoid negative impact on business – PM](http://www.namibian.com.na/NEEEB-to-avoid-negative-impact-on-business-%E2%80%93-PM/45442/read "Click to read full article")
 
-ALTHOUGH Namibia was invited to the 11th India-Africa Business Conclave that took place in New Delhi last week, they could not attend because the country had a delegation at a similar exercise in the same country some five months ago.
-
-* * *
-
-2016-03-24
-
-## [Uranium production to triple in 2017](http://www.namibian.com.na/index.php?page=read&id=38693 "Click to read full article")
-
-NAMIBIA'S uranium production is expected to be three times the volume produced in 2015, according to statistics issued by finance minister Calle Schlettwein in parliament recently.
+PRIME minister Saara Kuugongelwa-Amadhila says the most talked about New Equitable Economic Empowerment Bill will avoid measures that may have a negative impact on business.
 
 * * *
 
-2016-03-23
+2016-09-14
 
-## [Business climate index drops to 163](http://www.namibian.com.na/index.php?page=read&id=38622 "Click to read full article")
+## [Oil prices fall on profit-taking, eyes on China data](http://www.namibian.com.na/Oil-prices-fall-on-profit-taking-eyes-on-China-data/45443/read "Click to read full article")
 
-THE IJG Business Climate Index fell in January, down another 3,4 points, taking the total decline in the last three months to 7,3 points, and the index to a level of 163, IJG Securities and the Institute for Public Policy Research said in a statement yesterday.
+SINGAPORE - Oil prices fell in early trade yesterday on concerns over increased drilling in the United States, and as investors took profits after oil prices rose close to 1% in the previous session.
+
+* * *
+
+2016-09-14
+
+## [German musicians Mine and Edgar Wasser to rock Windhoek, Otjiwarongo](http://www.namibian.com.na/German-musicians-Mine-and-Edgar-Wasser-to-rock-Windhoek-Otjiwarongo/45452/read "Click to read full article")
+
+IN celebration of the German embassy's initiative Language Day, two concerts featuring two German guests, singer Mine and rapper Edgar Wasser, are scheduled for 21 and 23 September in Otjiwarongo and Windhoek.
 
 * * *
 
@@ -98,7 +98,7 @@ THE IJG Business Climate Index fell in January, down another 3,4 points, taking 
 
 * * *
 
-Is the 6% increase in salary for MPs justified?
+Should pensioners' municipal bills be subsidised?
 
 ##  Your Privacy 
 
