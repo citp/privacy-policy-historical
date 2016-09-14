@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914223132id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Privacy Notice / HIPAA | Notice of Privacy Practices | Community Health Network
 
@@ -19,7 +19,7 @@ We must follow the privacy practices described in this Notice, though **we reser
 
 ### II. How We May Use and Disclose Your Protected Health Information:
 
-We access, use and disclose PHI for a variety of reasons. The following section offers more descriptions and examples of our potential access/use/disclosures of your PHI. Other uses/disclosures not described in this Notice will be made only with your authorization.
+We access, use and disclose PHI for a variety of reasons. The following section offers more descriptions and examples of our potential access/uses/disclosures of your PHI. Other uses/disclosures not described in this Notice will be made only with your authorization.
 
 **Uses and Disclosures Relating to Treatment, Payment, or Health Care Operations.** Since we are an integrated system, we may share your PHI with designated staff within the Network, for treatment, payment or operations purposes. We also may have these activities performed by other companies on our behalf. Generally, we may access/use/disclose your PHI:
 
@@ -81,32 +81,28 @@ If you have questions about this Notice or complaints about our privacy practice
 
 Marti A. Baker, Network Privacy & Compliance Consultant  
 317-621-7321  
-[E-mail Marti Baker](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mabaker@eCommunity.com)
+[E-mail Marti Baker](https://web.archive.org/web/20160914223132id_/http://www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices/mabaker@eCommunity.com)
 
 Melissa Kleine, Chief Quality and Compliance Officer, Community Home Health  
 317-621-4832  
-[E-mail Melissa Kleine](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mkleine@eCommunity.com)
+[E-mail Melissa Kleine](https://web.archive.org/web/20160914223132id_/http://www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices/mkleine@eCommunity.com)
 
 Emily Rogers, Director of Human Resources, Community Westview Hospital  
 317-920-7273  
-[E-mail Emily Rogers](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/erogers2@eCommunity.com)
+[E-mail Emily Rogers](https://web.archive.org/web/20160914223132id_/http://www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices/erogers2@eCommunity.com)
 
 Leslee Lantz, Director of Corporate Compliance, Community Howard Regional Health  
 765-453-8462  
-[E-mail Leslee Lantz](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/llantz@communityhoward.org)
-
-Beth Wilhelm, Director, Risk Management and Safety, Community Physician Network  
-317-621-7186  
-[E-mail Beth Wilhelm](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/bwilhelm@eCommunity.com)
+[E-mail Leslee Lantz](https://web.archive.org/web/20160914223132id_/http://www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices/llantz@communityhoward.org)
 
 Jackie Smith, Network Privacy & Compliance Officer  
 317-621-7324  
-[E-mail Jackie Smith](https://web.archive.org/web/20160526230303id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/Jackie.Smith@eCommunity.com)
+[E-mail Jackie Smith](https://web.archive.org/web/20160914223132id_/http://www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices/Jackie.Smith@eCommunity.com)
 
 ### VI. Instructions for Revoking an Authorization:
 
-You may revoke an authorization to access, use or disclose your PHI, in writing, **except:** 1) to the extent that action has been taken in reliance on the authorization or 2) if the authorization was obtained as a condition of obtaining insurance coverage and the insurer is questioning a claim under the policy. Your written revocation must include the date of the authorization, the name of the person or organization authorized to receive the PHI, your signature and the date you signed the revocation. Written revocation must be addressed to: Health Information Management, Release of Information, 1500 N. Ritter Ave., Indianapolis, IN 46219 or Corporate HIM Director, Community Howard Regional Health, 3500 S. Lafountain Street, Kokomo, IN 46904. Such revocation will **not** be effective until received by the Network.
+You may revoke an authorization to access, use or disclose your PHI, in writing, **except:** 1) to the extent that action has been taken in reliance on the authorization or 2) if the authorization was obtained as a condition of obtaining insurance coverage and the insurer is questioning a claim under the policy. Your written revocation must include the date of the authorization, the name of the person or organization authorized to receive the PHI, your signature and the date you signed the revocation. Written revocation must be addressed to: Health Information Management, Release of Information, 1500 N. Ritter Ave., Indianapolis, IN 46219. Such revocation will **not** be effective until received by the Network.
 
 ### VII. Effective Date:
 
-This Notice was effective on 4/14/03. This Notice was updated on 10/15/04, 1/1/05, 1/21/05, 3/30/07, 1/1/10, 10/1/12, 9/23/13, 10/1/14 and 7/1/15.
+This Notice was effective on 4/14/03. This Notice was updated on 10/15/04, 1/1/05, 1/21/05, 3/30/07, 1/1/10, 10/1/12, 9/23/13, 10/1/14, 7/1/15 and 6/10/16.
