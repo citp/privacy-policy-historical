@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514030145id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914033307id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
 
 # Fundraising Company Privacy Policy – FastTrack Fundraising
 
