@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billhartzer.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328220243id_/https%3A//www.billhartzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhartzer.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914154207id_/https%3A//www.billhartzer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
