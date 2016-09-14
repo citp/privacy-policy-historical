@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629070525id_/http%3A//www.orangetheoryfitness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangetheoryfitness.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914100006id_/http%3A//www.orangetheoryfitness.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Orangetheory Fitness > Privacy Policy
 
@@ -24,10 +24,17 @@ You can delete your Orangetheory® Fitness account by sending a request via e-ma
 
 Orangetheory® Fitness and its affiliates and franchisees reserve the right to modify this Privacy Policy at any time and will provide such modifications on this website.
 
-#### If you have questions or suggestions, please contact us by mail at: 
+#### Orangetheory Fitness Statement of Accuracy
+
+While our OTbeat Heart Monitors are state of the art, there are inherent limitations with the technology that may cause some of the heart rate readings to be inaccurate. Some circumstances that can influence the readings are, but not limited to, the user's physical characteristics, the fit of the device and the type and intensity of the exercise routine or activity. 
+
+The OTbeat Heart Monitor is not intended to diagnose, treat, cure, or prevent any disease. The OTbeat Heart Monitor has a heart rate tracking feature that may pose risks to users with certain health conditions. Consult your doctor prior to use if you (1) have a medical or heart condition, (2) are taking photosensitive medicine, (3) have epilepsy or are sensitive to flashing lights, (4) have reduced circulation or bruise easily, or (5) have a musculoskeletal disorder. If you experience a medical emergency, stop using the product and consult with a medical professional immediately. We are not responsible for any health problems that may result from your use of the RHYTHM+ Heart Monitors. If you use the RHYTHM+ Heart Monitors, you agree that you do so at your own risk. 
+
+Prolonged contact with wearable devices may contribute to skin irritation or allergies in some users. To reduce irritation, follow three simple wear and care tips: (1) keep it clean; (2) keep it dry; (3) don’t wear it too tight. If you notice any skin irritation, remove the device. If symptoms persist longer than 2-3 days after removing the device, consult your doctor.    
+
+If you have questions or suggestions, please contact us by mail at:
 
 Orangetheory® Fitness  
 Customer Service - Privacy Policy Issues  
 1815 Cordova Road, Suite 206  
-Fort Lauderdale, FL 33316  
-
+Fort Lauderdale, FL 33316
