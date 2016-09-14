@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623160120id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914034611id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSVPify.
 
@@ -129,7 +129,3 @@ Chicago, IL 60654
 LAST UPDATED
 
 December 11, 2015
-
-© 2016 RSVPify. All rights reserved. Patent pending.
-
-[](http://www.facebook.com/RSVPify) [](http://www.twitter.com/RSVPifyApp) [](http://www.pinterest.com/RSVPify)
