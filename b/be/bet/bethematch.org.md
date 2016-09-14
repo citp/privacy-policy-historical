@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617012712id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914185404id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
 
 # NMDP Online Privacy Statement
 
-The National Marrow Donor Program® and Be The Match Foundation® (collectively referred to for the purposes of this Online Privacy Statement as "NMDP" or "we") are committed to respecting your privacy. The NMDP websites (www.marrow.org, www.BeTheMatch.org, and www.BeTheMatchFoundation.org collectively referred to here as the "website") have been structured so you can visit it without identifying yourself or revealing any personal information. If you choose to provide NMDP with personally identifiable information (any information by which you can be identified), you can be assured it will be used only to support your relationship with the NMDP.
+The National Marrow Donor Program® (NMDP) (which operates Be The Match® and the Be The Match Registry®) and the Be The Match Foundation® (collectively referred to for the purposes of this Online Privacy Statement as "NMDP" or "we") are committed to respecting your privacy. The NMDP Web sites (BeTheMatch.org, Marrow.org and BeTheMatchClinical.org, or any subdomain thereof, collectively referred to here as the "Website") have been structured so you can visit them without revealing any personal information. If you choose to provide the NMDP with personally identifiable information (any information by which you can be identified), you can be assured it will be used only to support your relationship with the NMDP. 
 
 This statement regarding the privacy of the information you provide online covers seven main areas:
 
 ### Awareness
+
+We provide this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on the home page and from the bottom of every page on the Website.
+
+#### What We Collect
 
 ##### Web Statistics
 
@@ -31,7 +35,7 @@ If you register online for the Be The Match Registry®, we require that you prov
 
 If you choose to make an online financial contribution to National Marrow Donor Program through its fundraising partner, the Be The Match Foundation, those transactions are handled by Blackbaud Inc., an Internet software and services company that provides online constituent relationship management solutions for nonprofit organizations. All information collected by Blackbaud is encrypted and transactions are conducted through a secure socket layer (SSL). Blackbaud will not disclose your name or any other personally identifiable information (such as your e-mail address) to any party other than the National Marrow Donor Program and Be The Match Foundation. Neither NMDP nor Blackbaud store sensitive information such as credit card numbers. If you provide credit card information to make a financial contribution, that information is used solely for the purpose of completing that specific transaction and is not retained by NMDP or Blackbaud.
 
-We may also ask you to voluntarily provide us with information regarding your experience with cancer, personal or professional interests, demographics and contact preferences to tailor our subsequent communications with you and continuously improve our Web site and services.
+We may also ask you to voluntarily provide us with information regarding your experience with cancer, personal or professional interests, demographics and contact preferences to tailor our subsequent communications with you and continuously improve our Website and services.
 
 ##### Cookies
 
