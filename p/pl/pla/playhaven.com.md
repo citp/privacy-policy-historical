@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151718id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914114325id_/http%3A//www.playhaven.com/privacy) for the most accurate reproduction.*
 
 # Playhaven | Mobile Ad Network | Privacy Policy
 
