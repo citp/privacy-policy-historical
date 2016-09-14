@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automatedpaydays.co privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033437id_/http%3A//www.automatedpaydays.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automatedpaydays.co privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914184643id_/http%3A//www.automatedpaydays.co/privacy-policy) for the most accurate reproduction.*
 
 # Automated Paydays - Apply Today
 
