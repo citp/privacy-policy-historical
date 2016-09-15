@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinyx.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060324id_/http%3A//www.quinyx.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinyx.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915044700id_/http%3A//www.quinyx.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quinyx
 
