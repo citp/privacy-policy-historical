@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpalions.org privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415223147id_/http%3A//www.cpalions.org/Page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpalions.org privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915024354id_/http%3A//www.cpalions.org/Page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Christ Presbyterian Academy
 
