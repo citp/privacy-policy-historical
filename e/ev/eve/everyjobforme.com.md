@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510164104id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915224138id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
 
 # EveryJobForMe - Find Jobs. Showcase Your Resume. Get Hired.
 
