@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtae.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514214154id_/http%3A//www.wtae.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtae.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915111450id_/http%3A//www.wtae.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
