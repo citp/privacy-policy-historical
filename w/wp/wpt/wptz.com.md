@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptz.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517063633id_/http%3A//www.wptz.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptz.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915104807id_/http%3A//www.wptz.com/connect/privacy) for the most accurate reproduction.*
 
 # WPTZ.com - Privacy
 
