@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2016-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160106020500id_/https%3A//www.sanasafinaz.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915074510id_/https%3A//www.sanasafinaz.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # SANA SAFINAZ - Official Online Store
 
