@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185601id_/http%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitegamingcomputers.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915062441id_/http%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elite Gaming Computers
 
@@ -10,7 +10,7 @@ At EliteGamingComputers.com, we recognize that privacy of your personal informat
 
 1\. INTRODUCTION
 
-1.1. PURPOSE OF POLICY. SmartPassiveIncome.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+1.1. PURPOSE OF POLICY. EliteGamingComputers.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN
 
