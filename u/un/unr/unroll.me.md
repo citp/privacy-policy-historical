@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214017id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915033450id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Unroll.Me
+# Unroll.Me
 
 _Last updated on June 26, 2014_
 
