@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314151558id_/http%3A//www.kfc.co.za/AboutKFC/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915074637id_/http%3A//www.kfc.co.za/privacy) for the most accurate reproduction.*
 
 # KFC Privacy Policy
 
-**What We collect**
+### What We collect
 
 We may electronically collect, store and use personal information. If You don't consent to the collection and storage of Your personal information, please do not Access or register on the Sites. Before any of Your personal information is used, you will be asked to consent to these Terms and Conditions. This is in compliance with the POPI Act.  By consenting to these Terms and Conditions You are also consenting to Us using your personal information as detailed below. This personal information includes, but is not limited to, the following:
 
@@ -18,7 +18,7 @@ We may electronically collect, store and use personal information. If You don't 
 
 
 
-**What We do with your personal information**
+### What We do with your personal information
 
 We collect, store and use the personal information described in order to (but not limited to the following) –
 
@@ -56,7 +56,7 @@ We may collect, maintain, save, compile, share, disclose and sell Your personal 
 
 
 
-**Opting out**
+### Opting out
 
 The personal information is collected either electronically (for example, through the use of cookies) or is provided voluntarily by Users.
 
@@ -70,7 +70,7 @@ Personal information collected from You may be deleted from the Sites and member
 
 In the event that your personal information is inaccurately or incompletely reflected on the Site, You agree that it is your responsibility to notify Us of this fact and to supply Us with the accurate or complete information to enable Us to address your concerns.
 
-**Remarketing**
+### Remarketing
 
 Kfc.co.za uses all features of Analytics for “Display Advertisers” this allows us to collect certain information and to provide visitors (You) with tailored information upon each visit. This includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit this Website. Google Analytics however does not store any visitor specific data and We will not use visitor specific data in any way related to Analytics, Google Adwords, and Remarketing. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the site. Every time You visit this Website, Our servers, through cookies, pixels and/or GIF files, collect basic technical information as described.
 
@@ -88,19 +88,19 @@ As Adwords advertisers, We are restricted from and will not perform the followin
 
 (b) Creating a remarketing list or creating ad text that specifically targets Users in ways that are outlined as “prohibited” in the categories below.
 
-**Visitors/Users can opt out of Analytics for Display Advertisers and opt out of customised Google Display Network ads by visiting the Ad Preferences Manager**
+### Visitors/Users can opt out of Analytics for Display Advertisers and opt out of customised Google Display Network ads by visiting the Ad Preferences Manager
 
-**Creation, migration and use of Remarketing Lists**
+### Creation, migration and use of Remarketing Lists
 
 We must have all rights necessary to create or otherwise obtain Remarketing Lists, migrate Remarketing Lists to, and use Remarketing Lists or Similar Audience Lists on the Properties. Google will not allow another advertiser to use your information in the Remarketing Lists or Similar Audiences Lists without your consent.
 
-**Software and equipment**
+### Software and equipment
 
 It is your responsibility to acquire and maintain, at your own expense, the computer hardware, software, communications infrastructure and Access accounts required to Access the Sites.
 
-**LIABILITY**
+### LIABILITY
 
-**DISCLAIMERS AND LIMITATION OF LIABILITY**
+### DISCLAIMERS AND LIMITATION OF LIABILITY
 
 (“WE” AND “US” IN THE CONTEXT OF THIS DISCLAIMER AND LIMITATION OF LAIBILITY INCLUDES YRI, THEIR AFFILIATED COMPANIES AND SUBSIDIARIES)
 
@@ -118,13 +118,13 @@ WE WILL USE REASONABLE ENDEAVOURS TO MAKE THE SITES AVAILABLE TO YOU AND KEEP TH
 
 IN THE EVENT THAT WE ARE FOUND TO BE LIABLE, OUR LIABILITY TO THE USER OR ANY THIRD PARTY IN ANY CIRCUMSTANCES IS LIMITED COLLECTIVELY TO R5 000.00 (FIVE THOUSAND RAND).
 
-**INDEMNITY**
+### INDEMNITY
 
 YOU HEREBY INDEMNIFY US AND YRI’S ASSOCIATES FROM ANY LOSS, DAMAGES, LIABILITY, CLAIM OR DEMAND DUE TO OR ARISING OUT OF YOUR USE OF THE SITES OR BREACH BY YOU OF THESE TERMS AND CONDITIONS.
 
 WE ARE NOT RESPONSIBLE FOR FILES AND DATA RESIDING ON YOUR ACCOUNT OR FOR ANY CONTRIBUTIONS YOU MAY HAVE MADE TO THE SITES. YOU AGREE TO TAKE FULL RESPONSIBILITY FOR FILES AND DATA TRANSFERRED AND YOUR CONTENT AS WELL AS TO MAINTAIN ALL APPROPRIATE BACKUP OF FILES AND DATA STORED ON OUR SERVERS.
 
-**Rights infringement**
+### Rights infringement
 
 If You are of the view that your rights have been infringed through the unlawful use of the Sites by registrants or 3rd parties, You may address a complaint to Us which satisfies the following requirements and/or contains the following information:
 
@@ -148,7 +148,7 @@ Please either contact Us on the Sites or address your communications to:
 
 
 
-**DEALINGS WITH 3RD PARTIES**
+### DEALINGS WITH 3RD PARTIES
 
 LINKS TO AND FROM THE SITES AND TO OTHER WEBSITES BELONGING TO OR OPERATED BY 3RD PARTIES ("LINKED WEBSITES") DO NOT CONSTITUTE OUR ENDORSEMENT OF SUCH LINKED WEBSITES OR THEIR CONTENTS NOR DO WE NECESSARILY ASSOCIATE OURSELVES WITH THEIR OWNERS OR OPERATORS. YOU ARE SOLELY RESPONSIBLE FOR IDENTIFYING AND FAMILIARISING YOURSELF WITH ANY TERMS AND CONDITIONS WHICH WILL GOVERN YOUR RELATIONSHIP WITH SUCH 3RD PARTY.
 
@@ -156,7 +156,7 @@ WE HAVE NO CONTROL OVER LINKED WEBSITES AND YOU AGREE THAT WE ARE NOT RESPONSIBL
 
 YOUR INTERACTION, CORRESPONDENCE OR BUSINESS DEALINGS WITH 3RD PARTIES WHICH ARE REFERRED TO OR LINKED FROM OR TO THE SITES IS SIMILARLY ENTIRELY AT YOUR OWN RISK AND ARE SOLELY BETWEEN YOU AND SUCH 3RD PARTY INCLUDING THE ACQUISITION, DISPOSAL, PAYMENT AND DELIVERY OF ANY GOODS OR SERVICES, AND ANY TERMS, CONDITIONS, WARRANTIES OR REPRESENTATIONS ASSOCIATED WITH SUCH INTERACTION, CORRESPONDENCE OR BUSINESS DEALINGS.
 
-**Arbitration**
+### Arbitration
 
 If any dispute arises between Us regarding any provision of these Terms and Conditions, or its application or termination, then We agree that We will attempt to resolve our dispute informally by means of joint co–operation or discussion between the parties directly involved in the dispute within 5 days after that dispute arises or such extended time period as We may agree to with You.
 
@@ -176,7 +176,7 @@ Notwithstanding the afore-going, nothing in this clause shall be construed as pr
 
 This clause is severable from the rest of this agreement and shall therefore remain of full force and effect even if this agreement is terminated or cancelled for any reason at any time.
 
-**Governing law and jurisdiction**
+### Governing law and jurisdiction
 
 This Website is controlled and maintained from our facilities in the Gauteng province of the Republic of South Africa. You irrevocably agree that the law of the Republic of South Africa shall govern This Website and these Terms and Conditions.
 
@@ -184,7 +184,7 @@ You consent to the jurisdiction of the High Court of the Republic of South Afric
 
 To the maximum extent permitted by applicable law, You also irrevocably and unconditionally consent to the jurisdiction of the Magistrates Court (in the event that We exercise proceedings in such Court) even though the value of a claim which We may have against You may exceed the ordinary monetary jurisdiction of the Magistrates Court.
 
-**Legal service of documents and notices**
+### Legal service of documents and notices
 
 We choose the addresses below for all communication purposes under these Terms and Conditions, whether in respect of court process, notices or other documents or communications of whatsoever nature.
 
@@ -194,33 +194,33 @@ Subject to the provisions of the RIC Act, You agree to permit Us to intercept, b
 
 You agree and acknowledge that the consent You provide above satisfies the "writing" requirement specified in the ECT Act and in the RIC Act.
 
-**Severability**
+### Severability
 
 Any provision in these Terms and Conditions which is or may become illegal, invalid or unenforceable shall be ineffective to the extent of such prohibition or unenforceability and shall be treated as pro non scripto (as if it were not written) and severed from these Terms and Conditions, without invalidating the remaining provisions of these Terms and Conditions.
 
-**Termination**
+### Termination
 
 If You breach any of these Terms and Conditions, We may immediately, automatically and without notice to You, terminate your Access to the Sites, and/or prohibit your future Access to the Sites, and/or take appropriate legal action against You (including without limitation, applying for urgent and/or interim relief or claiming damages), without incurring any liability to You of any nature whatsoever and howsoever arising, and all of Our rights in this regard are expressly reserved.
 
-**Disclosures required by the ECT Act**
+### Disclosures required by the ECT Act
 
 Access to the Content on or through this Website and this Website itself are classified as "electronic transactions" in terms of the ECT Act and therefore You have the rights detailed in Chapter VII of the ECT Act and We have the duty to the disclose the following information:
 
-Our full name: Yum Restaurants International (Pty) Ltd 
+Our full name: KFC (Pty) Ltd 
 
 Registration number: 1994/003839/07
 
 Street address:   
-Yum Restaurants International (Pty) Ltd  
+KFC (Pty) Ltd  
 Block C  
 Nicol Main Office Park  
 4 Bruton Road  
 Bryanston  
-2021
+2021 
 
 Postal address: 
 
-Yum Restaurants International (Pty) Ltd
+KFC (Pty) Ltd
 
 P O Box 71105
 
@@ -233,12 +233,12 @@ Gauteng
 South Africa
 
 Physical address for receipt of legal service:   
-Yum Restaurants International (Pty) Ltd  
+KFC (Pty) Ltd  
 Block C  
 Nicol Main Office Park  
 4 Bruton Road  
 Bryanston  
-2021
+2021 
 
 Attention: Chief Legal Officer
 
@@ -262,7 +262,7 @@ Cooling off period: The cooling off rights under section 44 of the ECT Act does 
 
 Complaints process: See clause above.
 
-**General terms**
+### General terms
 
 You agree that:
 
