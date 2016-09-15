@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the wealthclick.net privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915164446id_/http%3A//www.wealthclick.net/%3Fpage_id%3D5287) for the most accurate reproduction.*
+
+# WealthClick.Net – Privacy Policy
+
+This privacy policy covers all of WealthClick.Net. It does not, however, apply to entities that WealthClick.Net does not own or control. By using or accessing WealthClick.Net, you agree to our privacy policy as provided herein.
+
+WealthClick.Net is committed to protecting your privacy. Any information collected, including registration information such as name, email addresses and mailing address, are submitted voluntarily at the visitor’s will. WealthClick.Net does not and will not share any personal information with any third parties unless required by governmental law.
+
+**Cookies:**
+
+All browsers offer “Cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the Cookie. WealthClick.Net may use Cookies to store your password so that you do not have to re-enter it each time you visit our site. However, WealthClick.Net will not use Cookies to identify, monitor or track any personally identifiable information; have Cookies that contain any personally identifiable information about you; or merge or associate our Cookie information with any other visitor’s confidential and identifiable data obtained by us or from third parties. You have the right to choose whether to accept all Cookies, to be notified when a Cookie is set or to reject all Cookies. However, please note that if you reject some or all Cookies, your experience at our site may not be complete. In addition, if you disable Cookies, you will not be eligible to take advantage of personalized content delivery offered by us.
+
+**Third party cookies at our site:**
+
+We do not have access to Cookies or any information received by third parties.
+
+**Registration forms:**
+
+Our site’s registration form requires users to provide contact information, such as their name, email address and mailing address. This contact information is only used to get in touch with the registered user when necessary and is never sold or shared.
+
+**External links:**
+
+This site contains links to other sites. WealthClick.Net is not responsible for the privacy practices or content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control.
