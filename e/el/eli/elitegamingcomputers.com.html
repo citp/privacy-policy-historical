@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elitegamingcomputers.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610185601id_/http%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elitegamingcomputers.com privacy policy that was archived on 2016-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160915062441id_/http%3A//elitegamingcomputers.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -25,11 +25,14 @@
 <meta name="twitter:site" content="@EliteGmingComps">
 <meta name="twitter:creator" content="@EliteGmingComps">
  
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Elite Gaming Computers » Feed" href="http://elitegamingcomputers.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Elite Gaming Computers » Comments Feed" href="http://elitegamingcomputers.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Elite Gaming Computers » Privacy Policy Comments Feed" href="http://elitegamingcomputers.com/privacy-policy/feed/">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/elitegamingcomputers.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/elitegamingcomputers.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/elitegamingcomputers.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/elitegamingcomputers.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -46,7 +49,7 @@
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -72,7 +75,29 @@
 				 * to a larger image (4-5KB data URL).
 				 */
 				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
 			case 'diversity':
 				/*
 				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
@@ -105,6 +130,13 @@
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 
 		return false;
@@ -118,7 +150,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
 
 	settings.supports = {
 		everything: true,
@@ -170,7 +202,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://elitegamingcomputers.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://elitegamingcomputers.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
+		</script><script src="http://elitegamingcomputers.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://elitegamingcomputers.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
 <link rel="stylesheet" id="executive-pro-theme-css" href="http://elitegamingcomputers.com/wp-content/themes/executive-pro/style.css?ver=3.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="collapseomatic-css-css" href="http://elitegamingcomputers.com/wp-content/plugins/jquery-collapse-o-matic/dark_style.css?ver=1.6" type="text/css" media="all">
@@ -198,22 +230,24 @@
 
 </script>
  
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://elitegamingcomputers.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
 <link rel="https://api.w.org/" href="http://elitegamingcomputers.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://elitegamingcomputers.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://elitegamingcomputers.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.5.2">
+<meta name="generator" content="WordPress 4.6.1">
 <link rel="shortlink" href="http://wp.me/P2yLe2-1kh">
 <link rel="alternate" type="application/json+oembed" href="http://elitegamingcomputers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Felitegamingcomputers.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://elitegamingcomputers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Felitegamingcomputers.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">
 	var ajaxurl = 'http://elitegamingcomputers.com/wp-admin/admin-ajax.php';
 	</script>
-<style type="text/css">.enews .screenread{height:1px;left:-1000em;overflow:hidden;position:absolute;top:-1000em;width:1px;}</style><script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="706578c372ebf837dae2426f18a4b8fe77c68d05a0856ee07089676a3922c238" async=""></script><style type="text/css">img#wpstats{display:none}</style><link rel="Shortcut Icon" href="http://elitegamingcomputers.com/wp-content/themes/executive-pro/images/favicon.ico" type="image/x-icon">
+<style type="text/css">.enews .screenread{height:1px;left:-1000em;overflow:hidden;position:absolute;top:-1000em;width:1px;}</style><script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="706578c372ebf837dae2426f18a4b8fe77c68d05a0856ee07089676a3922c238" async=""></script><style type="text/css">img#wpstats{display:none}</style><link rel="icon" href="http://elitegamingcomputers.com/wp-content/themes/executive-pro/images/favicon.ico">
 <link rel="pingback" href="http://elitegamingcomputers.com/xmlrpc.php">
 <style type="text/css">.site-title a{background:url(http://elitegamingcomputers.com/wp-content/uploads/2016/04/NewEGCLogo.png) no-repeat!important;}</style>
-<!--[if lt IE 9]><script src="http://elitegamingcomputers.com/wp-content/themes/genesis/lib/js/html5shiv.js"></script><![endif]-->
 <style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important;}</style>
 <style type="text/css" media="screen">.simple-social-icons ul li a,.simple-social-icons ul li a:hover{background-color:#4a6aab!important;border-radius:3px;color:#ffffff!important;border:0px #ffffff solid!important;font-size:20px;padding:10px;}.simple-social-icons ul li a:hover{background-color:#ffffff!important;border-color:#ffffff!important;color:#000000!important;}</style><style type="text/css" id="custom-background-css">body.custom-background{background-color:#e0e0e0;}</style>
 <link rel="stylesheet" id="custom-css-css" type="text/css" href="http://elitegamingcomputers.com/?custom-css=1&amp;csblog=1&amp;cscache=6&amp;csrev=37">
@@ -245,7 +279,7 @@
 <p><em>Effective Date: June 27, 2013</em></p>
 <p>At EliteGamingComputers.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.</p>
 <p>1. INTRODUCTION</p>
-<p>1.1. PURPOSE OF POLICY. SmartPassiveIncome.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.</p>
+<p>1.1. PURPOSE OF POLICY. EliteGamingComputers.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.</p>
 <p>1.2. NOTICE CONCERNING CHILDREN</p>
 <p>PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.</p>
 <p>2. INFORMATION COLLECTION PRACTICES</p>
@@ -293,32 +327,30 @@
 <input type="hidden" name="meta_tooltip" value=""> <input type="submit" value="Grab My Free Guide" id="subbutton">
 </form>
 </div></div></section>
-<section id="text-10" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><a href="http://jobs.elitegamingcomputers.com/"><img style="margin-bottom: 24px;" src="http://elitegamingcomputers.com/wp-content/uploads/2016/02/GamerJobs.png"></a></div>
-</div></section>
 <section id="user-profile-2" class="widget user-profile"><div class="widget-wrap"><h4 class="widget-title widgettitle">Hey! How’s it Going?</h4>
-<p><span class="alignleft"><img alt="" src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=85&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=170&amp;d=mm&amp;r=g 2x" class="avatar avatar-85 photo" height="85" width="85"><noscript><img alt='' src="http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=85&#038;d=mm&#038;r=g" srcset='http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=170&amp;d=mm&amp;r=g 2x' class='avatar avatar-85 photo' height='85' width='85'/></noscript></span>I'm Brent. I'm an avid PC gamer and huge computer hardware enthusiast.</p>
+<p><span class="alignleft"><img src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=85&amp;d=mm&amp;r=g" alt="" srcset="http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=170&amp;d=mm&amp;r=g 2x" class="avatar avatar-85 photo" height="85" width="85"><noscript><img alt='' src='http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=85&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/142b384ee58f97971a7abe6972594312?s=170&amp;d=mm&amp;r=g 2x' class='avatar avatar-85 photo' height='85' width='85'/></noscript></span>I'm Brent. I'm an avid PC gamer and huge computer hardware enthusiast.</p>
 </div></section>
 <section id="recent-posts-3" class="widget widget_recent_entries"><div class="widget-wrap"> <h4 class="widget-title widgettitle">Recent Posts</h4>
 <ul>
 <li>
-<a href="http://elitegamingcomputers.com/cheap-gaming-laptops/">Best Cheap Gaming Laptops for 2016</a>
+<a href="http://elitegamingcomputers.com/best-pc-gaming-chairs/">Best PC Gaming Chairs for 2016: 23 of the Top Computer Chairs Rated &amp; Reviewed</a>
 </li>
 <li>
-<a href="http://elitegamingcomputers.com/new-lian-li-case-helps-you-declutter-your-cable-mess/">New Lian Li Case Helps You Declutter Your Cable Mess</a>
+<a href="http://elitegamingcomputers.com/best-gaming-desks/">Best Gaming Desks for 2016: 24 Computer Desks for PC Gamers</a>
 </li>
 <li>
-<a href="http://elitegamingcomputers.com/thrustmaster-debuts-tmx-force-feedback-racing-wheel/">Thrustmaster Debuts TMX Force Feedback Racing Wheel</a>
+<a href="http://elitegamingcomputers.com/best-144hz-monitors/">Best 144Hz Monitors for 2016: 14 of the Best 144Hz Monitors for Gaming</a>
 </li>
 <li>
-<a href="http://elitegamingcomputers.com/take-to-the-skies-with-the-new-saitek-x-56-rhino/">Take to the Skies with the New Saitek X-56 Rhino</a>
+<a href="http://elitegamingcomputers.com/install-windows-usb/">Install Windows from USB</a>
 </li>
 <li>
-<a href="http://elitegamingcomputers.com/g-skill-debuts-ripjaws-mx780-gaming-mouse/">G.Skill Debuts Ripjaws MX780 Gaming Mouse</a>
+<a href="http://elitegamingcomputers.com/best-vpn-service/">Best VPN Service</a>
 </li>
 </ul>
 </div></section>
 <section id="recent-comments-3" class="widget widget_recent_comments"><div class="widget-wrap"><h4 class="widget-title widgettitle">Recent Comments</h4>
-<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Anonymous</span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-37/#comment-275211">Good Cheap Gaming Computers</a></li><li class="recentcomments"><span class="comment-author-link">Tyler K.</span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-37/#comment-275210">Good Cheap Gaming Computers</a></li><li class="recentcomments"><span class="comment-author-link">Zac</span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-37/#comment-275209">Good Cheap Gaming Computers</a></li><li class="recentcomments"><span class="comment-author-link">Austin</span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-37/#comment-275207">Good Cheap Gaming Computers</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://elitegamingcomputers.com/vpn-for-gaming/" rel="external nofollow" class="url">Muhammad Nazhim</a></span> on <a href="http://elitegamingcomputers.com/vpn-for-gaming/comment-page-1/#comment-275200">Why You Need A VPN for Gaming</a></li></ul></div></section>
+<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Tommy</span> on <a href="http://elitegamingcomputers.com/best-gaming-laptops/comment-page-1/#comment-275959">Best Gaming Laptops for 2016</a></li><li class="recentcomments"><span class="comment-author-link">massector</span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-42/#comment-275954">Good Cheap Gaming Computers</a></li><li class="recentcomments"><span class="comment-author-link">samhain</span> on <a href="http://elitegamingcomputers.com/best-motherboards/comment-page-1/#comment-275952">The Best Motherboards for Gaming in 2016</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://elitegamingcomputers.com" rel="external nofollow" class="url">Brent Hale</a></span> on <a href="http://elitegamingcomputers.com/top-gaming-computers/comment-page-12/#comment-275948">Best Gaming Computers for 2016: 4K &amp; VR-Ready Desktop Gaming PC Builds</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://elitegamingcomputers.com" rel="external nofollow" class="url">Brent Hale</a></span> on <a href="http://elitegamingcomputers.com/good-cheap-gaming-computers/comment-page-42/#comment-275947">Good Cheap Gaming Computers</a></li></ul></div></section>
 </aside></div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-8" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><table>
 <tbody><tr>
 <td style=" font-size: 18px; font-size: 1.8rem; color: #fff;"><b>COMPANY</b></td>
@@ -334,15 +366,15 @@
 </tr>
 <tr>
 <td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/privacy-policy">Privacy Policy</a></td>
-<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/forum/build-your-gaming-pc/choosing-componentshelp-with-part-lists/">Part-List Help</a></span></td>
+<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://forums.elitegamingcomputers.com/index.php?/forum/8-choosing-componentshelp-with-part-lists/">Part-List Help</a></span></td>
 </tr>
 <tr>
 <td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/affiliate-disclaimer">Affiliate Disclaimer</a></td>
-<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/forum/troubleshooting">Troubleshooting</a></span></td>
+<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://forums.elitegamingcomputers.com/index.php?/forum/10-troubleshooting/">Troubleshooting</a></span></td>
 </tr>
 <tr>
-<td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/pr-news">PR Newswire</a></td>
-<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/forum/show-off-your-build/">Show-Off Your Build</a></span></td>
+<td style="color: #fff; padding: 0;"></td>
+<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://forums.elitegamingcomputers.com/index.php?/forum/15-show-off-your-build/">Show-Off Your Build</a></span></td>
 </tr>
 </tbody></table></div>
 </div></section>
@@ -361,15 +393,15 @@
 </tr>
 <tr>
 <td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/top-gaming-computers">High-End Builds</a></td>
-<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/the-best-video-cards-for-gaming">Top Video Cards</a></span></td>
+<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/best-graphics-cards/">Top Video Cards</a></span></td>
 </tr>
 <tr>
 <td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/cpu-overclocking-guide">Overclocking</a></td>
 <td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/the-best-gaming-cases/">Top Cases</a></span></td>
 </tr>
 <tr>
-<td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/need-a-computer-for-league-of-legends-build-one-for-under-400/">LoL Builds</a></td>
-<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/best-intel-gaming-motherboards/">Top Motherboards</a></span></td>
+<td style="color: #fff; padding: 0;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/best-gaming-laptops/">Best Gaming Laptops</a></td>
+<td style="color: #fff; padding: 0;"><span style="padding-left: 20px;"><a style="text-decoration: none; color: #fff;" href="http://elitegamingcomputers.com/best-motherboards/">Top Motherboards</a></span></td>
 </tr>
 </tbody></table></div>
 </div></section>
@@ -383,7 +415,8 @@ var colomatslideEffect = 'slideFade';
 <div class="grofile-hash-map-142b384ee58f97971a7abe6972594312">
 </div>
 </div>
-<script type="text/javascript">jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 1200,slideshowSpeed: 8000    });  });</script><script type="text/javascript">
+<script type="text/javascript">jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 1200,slideshowSpeed: 8000    });  });</script><script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201637"></script>
+<script type="text/javascript">
 /* <![CDATA[ */
 var EasyAzonPro_Localize_Links = {"ajaxAction":"easyazonpro_localize","ajaxUrl":"http:\/\/elitegamingcomputers.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
@@ -396,16 +429,15 @@ var EasyAzonPro_Components_Popovers = {"ajaxUrl":"http:\/\/elitegamingcomputers.
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/easyazon-pro-4.0.7/components/popovers/resources/popovers.js?ver=4.0.7"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201623"></script>
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/comment-reply.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
 <script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5"></script>
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6"></script>
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6"></script>
-<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201623.js" async="" defer=""></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1"></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1"></script>
+<script type="text/javascript" src="http://elitegamingcomputers.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201637.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'37837362',post:'5101',tz:'-8',srv:'elitegamingcomputers.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.1',blog:'37837362',post:'5101',tz:'-8',srv:'elitegamingcomputers.com'} ]);
 	_stq.push([ 'clickTrackerInit', '37837362', '5101' ]);
 </script>
 
