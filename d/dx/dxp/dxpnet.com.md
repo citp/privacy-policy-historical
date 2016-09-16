@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124134222id_/http%3A//www.dxpnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916120949id_/http%3A//www.dxpnet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | dxpnet
 
 Privacy Policy
 
@@ -77,11 +77,11 @@ This Web site takes precautions to protect our users' information. When users su
 
 Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done online at the member information page or by emailing our site director at staff@dxpnet.com. Or, contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done online at the member information page or by emailing our site director at staff@dxpnet.com.
 
 Notification of Changes
 
-f we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 Contact Information
 
@@ -89,10 +89,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 DXP Publishing, INC
 
-Phone: (877) 679-9520
-
 Email: staff@dxpnet.com
-
-PO BOX 154
-
-Columbus, NE 68602
