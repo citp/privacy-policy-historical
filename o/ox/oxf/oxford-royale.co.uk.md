@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607204313id_/https%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916235125id_/https%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Oxford Summer School 2016 with Oxford Royale Academy
+# Privacy Policy - Summer and Year-Round Courses from Oxford Royale Academy
 
 Oxford Programs Limited (Oxford Royale Academy) ( **“We”** ) are committed to protecting and respecting your privacy.
 
