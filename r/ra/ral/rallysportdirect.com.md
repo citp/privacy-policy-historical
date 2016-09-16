@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517071444id_/http%3A//www.rallysportdirect.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916110232id_/https%3A//www.rallysportdirect.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
