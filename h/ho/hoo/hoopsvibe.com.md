@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopsvibe.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515185130id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dhoopsvibe.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsvibe.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916195642id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dhoopsvibe.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
