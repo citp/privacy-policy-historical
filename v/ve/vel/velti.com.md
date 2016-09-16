@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030235455id_/http%3A//www.velti.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916133707id_/http%3A//www.velti.com/privacy.php) for the most accurate reproduction.*
 
 # Mobile Marketing and Advertising from Velti
 
