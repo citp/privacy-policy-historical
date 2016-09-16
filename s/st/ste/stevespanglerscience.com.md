@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615023150id_/http%3A//www.stevespanglerscience.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916095828id_/https%3A//www.stevespanglerscience.com/privacy-security-policy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | Steve Spangler Science
+# Privacy & Security Policy - Steve Spangler Science
 
-We respect your privacy
+#####  We respect your privacy!
 
 Any personal information you provide to Steve Spangler Science will only be used to notify you of Steve Spangler Science news, services and activities. Steve Spangler Science will hold the information securely and will not disclose it except for this purpose or when required by law. You have the right to inspect and update your details at any time. If you do not wish to hear from us any longer, please email us at [info@stevespanglerscience.com](mailto:info@stevespanglerscience.com).
 
