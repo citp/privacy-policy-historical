@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626020801id_/https%3A//www.fmtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtv.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916221001id_/https%3A//www.fmtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FMTV
 
