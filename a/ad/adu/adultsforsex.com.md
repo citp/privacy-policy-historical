@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultsforsex.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413155150id_/http%3A//adultsforsex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsforsex.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917001114id_/http%3A//adultsforsex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
