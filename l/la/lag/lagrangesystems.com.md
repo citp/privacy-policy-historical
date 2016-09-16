@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413063204id_/http%3A//www.lagrangesystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916155330id_/https%3A//www.webscalenetworks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Webscale
+# Privacy Policy | Webscale
 
 Webscale Networks, Inc. (“Webscale” or “we”) values its customers and respects your privacy. This Privacy Policy discloses Webscale’s information-gathering and dissemination practices for the information collected through our call centers and websites operated by or on behalf of us, including without limitation, the website located at www.webscalenetworks.com and all other websites under such domain (the “Sites”). We encourage you to read this Privacy Policy before using the Sites. Your use of the Sites signifies that you agree with all of the terms and conditions of this Privacy Policy, so please do not use the Sites if you disagree with any part of this Privacy Policy.
 
