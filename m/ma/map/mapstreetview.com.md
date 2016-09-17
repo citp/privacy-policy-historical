@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapstreetview.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517084652id_/http%3A//mapstreetview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapstreetview.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917064258id_/http%3A//mapstreetview.com/privacy.html) for the most accurate reproduction.*
 
 # mapstreetview.com - privacy policy
 
