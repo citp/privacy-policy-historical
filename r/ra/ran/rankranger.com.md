@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331133810id_/https%3A//www.rankranger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917065938id_/https%3A//www.rankranger.com/privacy) for the most accurate reproduction.*
 
-# Rank Ranger Privacy Policy
+# Privacy Policy | Rank Ranger
 
 We understand that privacy online is very important to users of Rank Ranger ("Site") Site, especially when conducting business and collecting. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Authorized Customers") and make use of the various services offered by Rank Ranger (collectively, "Services"). 
 
-### "Personally Identifiable Information"
+## "Personally Identifiable Information"
 
 Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information.  
 What Personally Identifiable Information is collected?  
