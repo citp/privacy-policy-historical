@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdlive.co.za privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615011209id_/http%3A//www.bdlive.co.za/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdlive.co.za privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918010710id_/http%3A//www.bdlive.co.za/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BDlive
 
