@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518171158id_/http%3A//www.pennystocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917051001id_/http%3A//www.pennystocks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Penny Stocks
 
