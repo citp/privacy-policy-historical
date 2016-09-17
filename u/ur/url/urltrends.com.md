@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the urltrends.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623145430id_/https%3A//www.urltrends.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urltrends.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917114631id_/https%3A//www.urltrends.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - UrlTrends
+# UrlTrends
+
+## Privacy Policy
 
 UrlTrends.com understands the importance of your privacy on and off the Internet. In every action we take, UrlTrends.com lives up to our strict privacy statement:UrlTrends.com will never disclose information about you to any third party without first receiving your permission.
 
