@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124160635id_/https%3A//www.glasscubes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917104116id_/https%3A//www.glasscubes.com/privacy) for the most accurate reproduction.*
 
 # Glasscubes Privacy Policy - Committed to protecting your data.
 
@@ -98,3 +98,17 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ### CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Glasscubes Limited, 96 High Street, Burnham, Buckinghamshire SL1 7JT or [enquiries@glasscubes.com](mailto:enquiries@glasscubes.com).
+
+### Teams doing great things with Glasscubes
+
+[ ](https://www.glasscubes.com/case-studies/)
+
+## Try it yourself
+
+Start your free 30 day trial now.  
+Full features, unlimited workspaces & telephone support.  
+No payment required.
+
+[Start free trial](https://signup.glasscubes.com/go)
+
+or let us show you - [request demo](https://www.glasscubes.com/request-demo/)
