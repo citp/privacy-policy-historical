@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vectr.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312082237id_/https%3A//vectr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectr.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918001632id_/http%3A//vectr.com/privacy) for the most accurate reproduction.*
 
-# Vectr
+# Vectr - Privacy Policy
 
-**VECTR LABS INC.**  
- **PRIVACY POLICY**  
- **Last Updated: September 1, 2015**
+**VECTR LABS INC.** **PRIVACY POLICY** **Last Updated: September 1, 2015**
 
 This privacy policy ( **“Policy”** ) describes how Vectr Labs Inc. and its related companies ( **“Company”** ) collect, use and share personal information of consumer users of this website, vectr.com (the **“Site”** ). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
@@ -64,7 +62,6 @@ CONTACT INFORMATION. We welcome your comments or questions about this privacy po
 
 For information about how to contact Vectr Labs Inc., please visit our [contact page](https://web.archive.org/contact).
 
-Vectr Labs Inc.  
-3F-1, 293 Fuxing South Road Section 1, Taipei, TAIWAN 10665
+Vectr Labs Inc. 3F-1, 293 Fuxing South Road Section 1, Taipei, TAIWAN 10665
 
 CHANGES TO THIS PRIVACY POLICY. We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
