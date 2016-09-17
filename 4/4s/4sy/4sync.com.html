@@ -1,26 +1,32 @@
-<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506221201id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2016-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160917135724id_/http%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <title>4Sync - Privacy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>4Sync - Privacy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="Description" content="4Sync is an amazing application that links all of your computers together. It's the easiest way to backup and sync your files. The 4Sync is an app that tracks changes in the folder on your computer and syncs any changes to the web account.">
   <meta name="Keywords" content="online storage, storage, file sharing, share files online, share files, awesome, cloud storage, online backup, cross platform, sync, sharing, mac, windows, os x, linux, backup, collaboration, file versioning, online collaboration, collaboration tools.">
-    <meta name="google-site-verification" content="G3X9XGLItUG5ZMFXEQdOb13KR2X2fRI5WvcxVas0Tr0">
-  <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/common_n.4min.css?ver=523132232">
+  <meta name="google-site-verification" content="G3X9XGLItUG5ZMFXEQdOb13KR2X2fRI5WvcxVas0Tr0">
+  <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/common_n.4min.css?ver=-1175796005">
 <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/ui/elements.4min.css?ver=-1300489976">
-<link rel="stylesheet" type="text/css" href="http://static.4sync.com/auth-popup.4min.css?ver=1613217610">
-<link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/themes/account/icons.4min.css?ver=-2070741046">
+<link rel="stylesheet" type="text/css" href="http://static.4sync.com/auth-popup.4min.css?ver=-2080519390">
+<link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/themes/account/icons.4min.css?ver=-773521879">
 <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/tipTip.4min.css?ver=-207359769">
 <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.4sync.com/js/jquery/jquery-1.9.1.4min.js?ver=-885436651"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/jquery/jquery-migrate-1.2.1.4min.js?ver=1171340321"></script>
 <script type="text/javascript">
     $(function () {
+
+      function addHeader(cookie, header, jqXHR) {
+        var value = $.cookie(cookie);
+        if (value) jqXHR.setRequestHeader(header, value);
+      };
+
       $.ajaxPrefilter(function (options, originalOptions, jqXHR) {
         if (!$.cookie) return;
         if (originalOptions.crossDomain && originalOptions.url.search(".4sync.com") == -1) return;
-        var cookie = $.cookie('Login');
-        if (cookie) jqXHR.setRequestHeader("x-security", cookie);
+        addHeader('Login', 'x-security', jqXHR);
+        addHeader('4langcookie', 'locale', jqXHR);
       });
     });
   </script>
@@ -33,14 +39,15 @@
 </script>
 
 <script type="text/javascript">
+  Config.mainSiteDomain = '4sync.com';
   Config.mainSiteUrlPath = 'http://www.4sync.com/';
   Config.mainSiteUrlHttpsPath  = 'https://www.4sync.com/';
   Config.isRTLLanguage = false;
   Config.currentLanguage = 'en';
   Config.isReplaceSearchNameForSeo = false;
-  Config.revisionNum = 53703;
+  Config.revisionNum = 55247;
   Config.syncDomain = 'https://www.4sync.com/';
-  Config.cdDomain = '//dc621.4sync.com/';
+  Config.cdDomain = '//dc535.4sync.com/';
   Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
   Config.isMobile = false;
   Config.isIpad = false;
@@ -51,7 +58,8 @@
   Config.detectAd = {
     allowedUri: '/empty.js',
     blockedUri: '/show_ad_',
-    tg: ''
+    tg: '',
+    host : 'null'
   };
   Config.searchDomain = 'null';
   Config.suggestionsDomain = 'suggestions.4sync.com';
@@ -87,16 +95,16 @@
         })
   }
 </script><script type="text/javascript" src="http://static.4sync.com/js/plugins/favicon.4min.js?ver=-1359120125"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/header.4min.js?ver=300176007"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/header.4min.js?ver=899031182"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/purchaseStats.4min.js?ver=-1839898360"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/login_fnc.4min.js?ver=1858177710"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/authScripts.4min.js?ver=434231076"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/authScripts.4min.js?ver=1623182956"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/play.4min.js?ver=174540430"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/tips.4min.js?ver=1053751440"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/cookie.4min.js?ver=355701517"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/swfobject.4min.js?ver=1822999650"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.jsonWithError.4min.js?ver=-1923802015"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/smallPlugins.4min.js?ver=-484142501"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/smallPlugins.4min.js?ver=-18564371"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/utils.4min.js?ver=1576207842"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/Events.4min.js?ver=1840410357"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.placeholder.patch.4min.js?ver=1679520602"></script>
@@ -161,47 +169,17 @@
 <link rel="alternate" hreflang="tr" href="http://www.4sync.com/privacy.jsp?locale=tr">
 <link rel="alternate" hreflang="x-default" href="http://www.4sync.com/privacy.jsp"><meta property="fb:app_id" content="135370629892931">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="4Sync">
-<meta property="og:image" content="http://static.4sync.com/4sync.com/images/social/general.png?ver=-279897933">
-  <link rel="image_src" href="http://static.4sync.com/4sync.com/images/social/general.png?ver=-279897933">
+
 </head>
 <body class="site4sync notPremiumUser pagePrivacy">
 <div id="fstickcontainer">
   <div id="fstickcontent">
 <div id="container">
-    <link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/header.4min.css?ver=1338008776">
-<link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/general.4min.css?ver=-884932109">
+    <link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/header.4min.css?ver=-1516390920">
+<link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/general.4min.css?ver=706156524">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" type="text/css">
 <script type="text/javascript" src="http://static.4sync.com/4sync.com/js/login.4min.js?ver=2077979180"></script>
-<!--[if IE 7]>
-       <style>
-          .p_window .cc{
-            margin: 0;
-          }
-       </style>
-    <![endif]-->
-
-    <!--[if lt IE 7]>
-        <script type="text/javascript">var IE7_PNG_SUFFIX=".png";</script>
-        <ft:js src="/js/plugins/IE7.js" />
-        <style>
-            .colFooter ul li.header{margin-left: 0;}
-        </style>
-    <![endif]-->
-	
-	<!--[if lte IE 7]>
-    <style type="text/css">
-        .downloadApp, .downloadApp span, .mobileBlock div {
-            display: inline;
-        }
-        #syncHeader{
-            display:inline;
-            zoom:1;
-        }
-    </style>
-    <![endif]-->
-	
-	<!--[if ie 9]>
+<!--[if ie 9]>
     <style type="text/css" media="screen">
        .downloadApp {
             filter: none;
@@ -225,7 +203,6 @@
     </style>
    <![endif]-->
 
-
   <!--[if lte ie 9]>
     <style type="text/css">
       .p_window .cc iframe{
@@ -245,7 +222,7 @@
   <input type="hidden" class="jsErrorDefaultTitle" value="Error">
   <input type="hidden" class="jsInfoDefaultTitle" value="Info">
   <div class="jsPopupBody confirmPopupBody alignLeft ffshadow">
-    <div class="jsConfirmMsg marginL25"></div>
+    <div class="jsConfirmMsg marginL25 paddingR15"></div>
   </div>
   <div class="grayPopupButton marginT15 round4 marginL10 ffshadow floatRight gaClick jsClose">Cancel</div>
   <div class="bluePopupButton marginT15 confirmPopupBlueButton round4 floatRight gaClick jsConfirmOk">Ok</div>
@@ -557,37 +534,8 @@
   <p>If you have any questions about this Policy, please contact our <a href="/web/helpCenter">support</a>
     or contact us via postal mail at <a target="_blank" href="http://www.4sync.com">4sync.com</a>, 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.</p>
   <br>
-</div><img src="http://static.4sync.com/4sync.com/images/vignette.png?ver=1426981441" width="499" height="48">
-		    <div class="clearfix"></div>
-        <script type="text/javascript" src="http://static.4sync.com/4sync.com/js/downloadAppButton.4min.js?ver=-1665310180"></script>
-<div class="downloadAppButtonHolder">
-
-<span class="downloadApp">
-	<span>
-	 <a href="/download.jsp">
-     <span class="absmid downlsp">
-         Download now&nbsp;
-         <div>for&nbsp;Windows</div>
-     </span>&nbsp;
-
-     <img class="absmid" src="http://static.4sync.com/4sync.com/images/cloud_download.png?ver=-450390928" width="62" height="38" alt="Download 4Sync">
-   </a>
-	</span>
-</span>
-
-
-<div class="versionText">
-  <a href="/download.jsp?utm_source=windows">Windows</a>,
-  <a href="/download.jsp?utm_source=mac">Mac</a>,
-  <a href="mobile.jsp">Mobile</a>
-</div>
-
-</div>
-
-<input type="hidden" class="jsMacPopupContent" value="4sync for Mac is supported on 10.7+ only. Do you still want to download?">
-<input type="hidden" class="jsMacPopupButtonText" value="Download"></div>
+</div></div>
     </div>
-
 </div>
     <div id="fstickfooter">
   <div class="footer_in">
@@ -657,7 +605,7 @@
         <div class="clear"></div>
         <div id="copyright">
           <span>
-               Copyright <span title="dc564, rev=53703">©</span> 4Sync Inc. All Rights Reserved </span>
+               Copyright <span title="dc564, rev=55247">©</span> 4Sync Inc. All Rights Reserved </span>
 
           <div class="langboxabs"><span>•</span>
     <b class="light-blue f11">English</b>
@@ -727,7 +675,7 @@
 <script type="text/javascript">
      document.write("<img src='//www.jscount.com/a/229/cd04dbf4/z?ref="+
     escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
-</script><img src="//www.jscount.com/a/229/cd04dbf4/z?ref=&amp;url=https%3A//web.archive.org/web/20160503160310id_/http%3A//www.4sync.com/privacy.jsp&amp;rand=0.9349011899401585" width="1" height="1" alt="" style="display:none">
+</script><img src="//www.jscount.com/a/229/cd04dbf4/z?ref=&amp;url=https%3A//web.archive.org/web/20160917135724id_/http%3A//www.4sync.com/privacy.jsp&amp;rand=0.841230652985093" width="1" height="1" alt="" style="display:none">
 <!--jscount-->
 
 <!-- Start of google-analytics -->
@@ -773,6 +721,5 @@
 </div>
 
 </div>
-
 
 </body></html>
