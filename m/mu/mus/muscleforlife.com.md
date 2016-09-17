@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611170057id_/https%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917083119id_/https%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Muscle For Life
 
