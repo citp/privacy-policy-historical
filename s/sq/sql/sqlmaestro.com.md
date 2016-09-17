@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527170540id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918000145id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database tools for MySQL, SQL Server, PostgreSQL, SQLite, Oracle, DB2, Firebird by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Brian Vivian:** "Thank you very much for making such a great product. It makes my job a LOT easier".
+**Adam Allen:** "I just have to say WOW!!! I'm so glad that you guys have developed something that is so useful for MySql. I am able to graphically view my tables, and I don't even have to think about my queries because I can visually design them. I just stumbled upon this, and I'm already very excited about it".
 
-**Padster Reynolds:** "Good software that has become one of our must have tools - wouldn't like to be without it these days. Keep up the good work".
+**Phillip Magger:** "A word of congratulations. I think that your Firebird Data Wizard is some of the best stuff I have ever used. I was in search of an easy-used tool, and I found it. It is a good solution".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Apr 11, 2016
+Sep 15, 2016
 
-This version introduces cross-DBMS data comparison with native support for the most popular database servers, email notifications, and more.
+New version comes with 30+ new features including column filtering, custom form layouts, enhanced master-detail views, multi-row column headers, record comparison, brand new inline forms, quick edit, breadcrumb navigation, geo charts, index page generation, a number of GUI improvements, and much more.
 
-Mar 21, 2016
+Aug 1, 2016
 
-New version introduces out-of-the-box charts, enhanced sidebar menus, compact themes, embedded video columns, improved data export tools, new and updated events, custom form titles, and some other features.
+The demo contains 50+ pages to illustrate most of features provided by the software and help you to create even more powerful websites for your users.
 
-Feb 11, 2016
+Jun 27, 2016
 
-We're pleased to start a new product family and release as many as 9 new tools for database conversion and migration.
+New version comes with PostgreSQL 9.6 compatibility, support for row-level security policies and a number of other PostgreSQL 9.5 new features, updated BLOB Editor and other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/mssql/phpgenerator/screenshots/common/data_partitioning/)
+[](http://www.sqlmaestro.com/products/db2/converter/screenshots/common/start_page/)
 
-PHP Generator allows you to create a custom pagination i.e. split the records on the generated page by a specified criteria.
+If you have an ODBC driver for something, with DB2 Database Converter you can convert it to IBM DB2.
 
-[](http://www.sqlmaestro.com/products/mssql/codefactory/screenshots/getting_started/sql_editor/)
+[](http://www.sqlmaestro.com/products/postgresql/converter/screenshots/common/start_page/)
 
-MS SQL Code Factory provides you with all the features (such as viewing, editing, grouping, sorting and filtering) to analyze the data in the most convenient way.
+PostgreSQL Database Converter can connect directly to MySQL, PostgreSQL, SQL Server, Oracle, Firebird, and SQLite.
