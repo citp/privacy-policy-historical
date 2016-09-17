@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roi.com.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611152112id_/http%3A//www.roi.com.au/roi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roi.com.au privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917064411id_/http%3A//www.roi.com.au/roi-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ROI.COM.AU
 
