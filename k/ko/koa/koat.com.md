@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koat.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622123245id_/http%3A//www.koat.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koat.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917142655id_/http%3A//www.koat.com/connect/privacy) for the most accurate reproduction.*
 
 # KOAT Action 7 News Albuquerque Privacy Policy
 
