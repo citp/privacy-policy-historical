@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608222923id_/http%3A//www.eros-cams.com/support/privacy.htm%3Fck%3Dsc%26server%3Deros-cams) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917043352id_/http%3A//www.eros-cams.com/support/privacy.htm) for the most accurate reproduction.*
 
-# Eros-cams Live Girls on home web cams. The best live cam site for amateur girls and housewives
+# ErosCams - Free live cam girls and sex chat
 
 ## Privacy Policy
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website,  Eros-cams.com (the “Site”, “we” or “us”). This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them.
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, eroscams.com (the “Site”, “we” or “us”) operated by Gepard Global Investments LTD. This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them. 
 
 **Adults Only Service**
 
@@ -24,18 +24,18 @@ Financial Data will only be shared with third party processors as necessary to i
 
 We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Site or in response to emails sent to you by the Site are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
 
+**Emails From Us and Use of Your Email Address**
+
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Site. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe from http://unsub.emailprovide.com/MemberManager.do?unsub.x or send us an email to help@aprosupport.com. You may also receive emails from Fling.com related to the Fling.com service or, in connection with your profile on Fling.com if you receive a free bonus membership to Fling.com. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report any emails you may receive, without your prior authorization, which purport to promote the Site.
+
 **Advertisements**
 
 We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or “action tags” to measure advertising effectiveness on an “anonymous basis”. Some emails from us may contain advertisements from companies unrelated to the Site. Should you elect to visit any such advertiser’s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers’ websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Site on such advertisers’ website(s).
 
 **Changes to the Privacy Policy**
 
-We may change this privacy policy at any time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
+We may change this privacy policy at any time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise. 
 
 **Changes in the Ownership of the Site**
 
 The Site are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
-
-**Company Info**
-
-Darkside Productions Inc may be contacted at 7413 Six Forks Rd, #357, Raleigh NC 27615
