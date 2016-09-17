@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freebloggingtricks.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221215417id_/http%3A//freebloggingtricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebloggingtricks.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917115655id_/http%3A//www.freebloggingtricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for FreeBloggingTricks.Com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.freebloggingtricks.com/go/http://freebloggingtricks.com/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://freebloggingtricks.com/contact).
 
 At FreeBloggingTricks.Com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FreeBloggingTricks.Com and how it is used.
 
