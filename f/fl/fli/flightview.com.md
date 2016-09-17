@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319230726id_/http%3A//corporate.flightview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917060115id_/http%3A//corporate.flightview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Real Time Flight Tracker & Airport Delays from FlightView
 
 #### FlightView Privacy Policy
 
@@ -41,7 +41,7 @@ FlightView does not rent, sell, or share personal information about you with oth
 
 
 
-FlightView displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, men ages 25-39 from a particular geographic area.
+FlightView displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria-for example, men ages 25-39 from a particular geographic area.
 
 FlightView does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
