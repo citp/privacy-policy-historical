@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319145235id_/https%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918043002id_/https%3A//www.seekingmillionaire.com/privacy) for the most accurate reproduction.*
 
 # Millionaire Dating Sites | Rich Dating | SeekingMillionaire.com
 
@@ -40,7 +40,7 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 
 ### Disclosure for Accounts Payable or Collections
 
-It is your duty to make sure that your keep your account(s) in good standing with us.  If you have an outstanding balance, or if you dispute you payment to us with your credit card or financial institution for any reason, please note that all information collected from your activity on our website may be disclosed to the bank and/or collections agency we work with for the purposes of establishing proof of user’s identify, proof of use, proof that service was provided, and / or collecting any outstanding debt owed to us.
+It is your duty to make sure that your keep your account(s) in good standing with us. If you have an outstanding balance, or if you dispute you payment to us with your credit card or financial institution for any reason, please note that all information collected from your activity on our website may be disclosed to the bank and/or collections agency we work with for the purposes of establishing proof of user’s identify, proof of use, proof that service was provided, and / or collecting any outstanding debt owed to us.
 
 ### Updating Account Information
 
@@ -58,6 +58,6 @@ To enhance your experience at SeekingMillionaire.com and to access member servic
 
 ### Privacy Policy Changes
 
-If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at **privacy(at)SeekingMillionaire.com**
+If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about our privacy policy, please feel free to email us at <strong>privacy(at)SeekingMillionaire.com</strong>
 
 SeekingMillionaire.com uses reasonable precautions to keep personal information disclosed to us secure. However, we are not responsible for any breach of security. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party.
