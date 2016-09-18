@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risingstars-uk.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518234512id_/http%3A//www.risingstars-uk.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risingstars-uk.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918073142id_/http%3A//www.risingstars-uk.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
