@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627204524id_/http%3A//www.eloan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918044709id_/http%3A//www.eloan.com/privacy-policy) for the most accurate reproduction.*
 
 # E-LOAN’s Privacy Policy
 
@@ -182,3 +182,5 @@ E-LOAN, Inc.
 10th Floor
 
 New York, NY 10004
+
+This is a hyperlink to a third-party website as described in our [Weblinking Practices](http://www.eloan.com/weblinking-practices). Note that the third party’s privacy policy and security practices may differ from E-LOAN standards. E-LOAN assumes no responsibility, nor does it control, endorse or guarantee any aspect of your use of the linked site.
