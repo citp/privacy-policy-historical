@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allsingaporestuff.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615082043id_/http%3A//www.allsingaporestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsingaporestuff.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918195430id_/http%3A//www.allsingaporestuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Singapore Stuff - Real Singapore News
 
 By using our site, you consent to our Privacy Policy and Terms and Conditions, together the Website Conditions. If you do not consent to these conditions, please leave the site and cease use of the website and related services immediately.
 
-This Privacy Policy applies to all information collected by AllSingaporeStuff.com and/or its related entities, affiliates and subsidiaries. This, along with the Website Terms and Conditions makes up the 'Website Conditions' which you agree to be bound by through the use of our website.
+This Privacy Policy applies to all information collected by AllSingaporeStuff.com and/or its related entities, affiliates and subsidiaries. This, along with the Website Terms and Conditions makes up the 'Website Conditions' which you agree to be bound by through the use of our website. 
 
 For the purpose of this Policy, “we” and “our” shall refer to AllSingaporeStuff.com.
 
@@ -68,7 +68,7 @@ For the purpose of this Policy, “we” and “our” shall refer to AllSingapo
 
 5\. Changes to our Privacy Policy
 
-5.1 AllSingaporeStuff.com reserves the right to change, without prior notice or liability, these policies by updating this page with the new policies.
+5.1 AllSingaporeStuff.com reserves the right to change, without prior notice or liability, these policies by updating this page with the new policies. 
 
 6\. Contacting Us
 
