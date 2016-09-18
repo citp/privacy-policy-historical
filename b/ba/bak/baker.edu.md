@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the baker.edu privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625105309id_/http%3A//www.baker.edu/about/policies-procedures/%23privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baker.edu privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918025730id_/https%3A//www.baker.edu/about/policies-procedures/%23privacystatement) for the most accurate reproduction.*
 
-# Academic & Student Policies & Procedures | Baker College in Michigan & Online
+# Policies & Procedures » Baker College
+
+#### Privacy Statement
 
 This privacy statement applies to this Web site and certain other linked Web sites on servers owned and operated by Baker College. The privacy statement discloses our information gathering and dissemination practices for all Baker College Web sites.
 
@@ -8,7 +10,7 @@ This privacy statement applies to this Web site and certain other linked Web sit
 
 We log all connections to our Web servers. Those log files include your IP address. An IP address is NOT personally identifiable information, but general information about your location, your connection to the Internet, and the Internet Service Provider that is being used. We use your IP address to help diagnose problems with our servers and to administer the Web sites.
 
-However, when you connect to any of our systems through the use of individual or pooled modems, wireless connections on our campuses, or residence halls' connections we ask you to authenticate using a user identification and password. We ask this so that these resources are used only by authorized students, staff, and faculty of this institution. In this case, the log files DO provide personally identifiable information. This information includes a history of the Web sites and pages that you visit.
+However, when you connect to any of our systems through the use of individual or pooled modems, wireless connections on our campuses, or residence halls’ connections we ask you to authenticate using a user identification and password. We ask this so that these resources are used only by authorized students, staff, and faculty of this institution. In this case, the log files DO provide personally identifiable information. This information includes a history of the Web sites and pages that you visit.
 
 Finally, for many of our specialized services, such as our e-mail systems, Blackboard, or the SOLAR System, your authentication allows us to provide you with specific information about your classes, grades, and financial status. These activities are also logged by us and include a history of the Web sites and pages that you visit.
 
@@ -16,13 +18,13 @@ In summary, on our sites we normally track only non-personal information but whe
 
 #### Cookies
 
-"Cookies" are small pieces of information stored in a user's browser that give the user a unique identification. If you are attempting to access our restricted content, we will use cookies for authentication purposes only. All cookies are established on a per session basis, and are not stored permanently on your computer.
+“Cookies” are small pieces of information stored in a user’s browser that give the user a unique identification. If you are attempting to access our restricted content, we will use cookies for authentication purposes only. All cookies are established on a per session basis, and are not stored permanently on your computer.
 
 #### Personal Information
 
 Baker College may collect personal information through various forms, surveys, or applications to allow us to contact you, improve our services, or create, complete, or update information about your records with Baker College. Information obtained via contact forms is only used for the defined purpose of contact. The user may be contacted through telephone, mail, or e-mail in response to the request being made.
 
-Any personal information collected that pertains to financial aid is shared with specific third party loan agencies for the sole purpose of servicing student loans for Baker College 
+Any personal information collected that pertains to financial aid is shared with specific third party loan agencies for the sole purpose of servicing student loans for Baker College
 
 By using our Web sites, you represent that you are not less than 13 years of age. Personal information that is collected is treated as though it was submitted by an adult.
 
@@ -33,7 +35,7 @@ Except with regard to any contact information you may provide us via the Web sit
 
 #### Security
 
-Baker College Web sites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. Baker College does not guarantee the performance or adequacy of such security measures. 
+Baker College Web sites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. Baker College does not guarantee the performance or adequacy of such security measures.
 
 #### Links to Other Web Sites
 
