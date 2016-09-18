@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517134715id_/http%3A//www.cic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919012127id_/http%3A//cic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CIC
 
