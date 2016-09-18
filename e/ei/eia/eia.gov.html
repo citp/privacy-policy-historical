@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eia.gov privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610230949id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eia.gov privacy policy that was archived on 2016-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160918162454id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -214,7 +214,7 @@ $(document).ready(function() {
               <p class="no-border">
               <a href="/tools/glossary/" class="ico_glossary_dblue header_icon_pad">Glossary&nbsp;›</a><br>
               <a href="/reports/" class="ico_reports header_icon_pad">All Reports &amp; Publications&nbsp;›</a><br>
-              <a href="/tools/models/" class="ico_mining header_icon_pad">Data Tools &amp; Models&nbsp;›</a><br>
+              <a href="/tools/" class="ico_mining header_icon_pad">Data Tools, Apps, and Maps&nbsp;›</a><br>
               <a href="/survey/" class="ico_survey header_icon_pad">EIA Survey Forms&nbsp;›</a>              
               <a href="/beta/api/" class="ico_api header_icon_pad">Open Data&nbsp;›</a>              
               </p>
@@ -340,8 +340,6 @@ $(document).ready(function() {
       </ul>
     </div>
     
-      
-    
 
 
 
@@ -401,24 +399,24 @@ $(document).ready(function() {
       
 		
           <span class="grey_side_nav blue_top side_nav">
-            <h4><a href="index.cfm">About EIA</a></h4>
+            <h4><a href="/about/index.cfm">About EIA</a></h4>
               <ul>
                 <li><span>Our Work</span>
                   <ul>
                     <li><a href="mission_overview.cfm">Mission &amp; Overview</a></li>
                     <li><a href="products_services.cfm">Product &amp; Services</a></li>
                     <li><a href="stakeholders.cfm">Customer &amp; Stakeholder Engagement</a></li>
-                    <li><a href="insideeia.cfm">Inside EIA</a></li>
+                    
 		    		<li><a href="celebrating_2013.cfm">Accomplishments for 2013</a></li>
                     <li><a href="celebrating_2014.cfm">Accomplishments for 2014</a></li>
                     <li><a href="celebrating_2015.cfm">Accomplishments for 2015</a></li>
                   </ul>
                 </li>
-                <li><span>EIA news and events</span>
+                <li><span>EIA News and Events</span>
                   <ul>
                    <em style="color:#000">Items of interest to future employees and EIA alumni</em>
-                    <li><a href="staff_news.cfm">EIA Staff and News</a></li>
-                    <li><a href="alumni.cfm">Alumni Corner</a></li>
+                    <li><a href="/about/insideeia/staff_news.cfm">EIA Staff and News</a></li>
+                    <li><a href="/about/insideeia/alumni.cfm">Alumni Corner</a></li>
                   </ul>
                 </li>
                 <li><span>Our Organization</span>
@@ -443,7 +441,9 @@ $(document).ready(function() {
                 </li>
                 <li><span>EIA Conference</span>
                   <ul>
-                  <li><a href="/conference/2016/index2.cfm" data-fancybox-type="iframe" class="lightbox">2016 Annual Conference</a></li>
+                  <li><a href="/conference/2016/index.cfm">2016 Annual Conference</a></li>
+                  
+                  <li><a href="/pressroom/events/previous_conference.cfm">Previous conferences</a></li>
                   </ul>
                 </li>
                 <li class="active"><span>Policies &amp; Procedures</span>
@@ -470,43 +470,7 @@ $(document).ready(function() {
           </span>
           
 		  
-<script>
-$(document).ready(function() {
-  article = decodeURI(window.location.hash).split('#');
-  console.log(article[0]);
-if(window.location.hash){
-  var pop_up ="";
 
-  for ( var i=0; i < article.length; i++) {
-	  switch(article[i]){
-		case 'conference2016':
-		  pop_up = "/conference/2016/index2.cfm";
-		  break;
-	  }
-  }
-  
-  if(pop_up != ""){
-
-    $.fancybox({
-      'href': pop_up,
-      'type': 'iframe',
-      'width': '940',
-      'height': '500',
-      'hideOnOverlayClick' : 'true' 
-    });
-  }
-}
-else {
-  article = '#conference2016';
-}
-	$(".lightbox").fancybox({
-		'width': 940,
-		'height': 500,
-		'hideOnOverlayClick': 'true',
-		'afterLoad': function(){if(window.location.hash){}else window.location.hash=encodeURI(article);}
-	   });
-});
-</script>
        
     </div>
   </div>
@@ -562,6 +526,7 @@ else {
         </p><p><b>Tools</b><br>
            <a href="/tools/a-z/">A-Z Index</a><br>
            <a href="/reports/">All Reports<br>&amp; Publications</a><br>
+           <a href="/tools/">Data Tools, Apps,<br>and Maps</a><br>
            <a href="/survey/">EIA Survey Forms</a><br>
            <a href="/beta/">EIA Beta</a></p>
         <p><b>Policies</b><br>
