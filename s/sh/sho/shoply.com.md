@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoply.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420075952id_/http%3A//www.shoply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoply.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918161905id_/http%3A//www.shoply.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Shoply Ltd (ASX:SHP) – Privacy Policy
+# Harris Technology Group Ltd (ASX:HT8) – Privacy Policy
 
 ##### What information do we collect?
 
