@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the beonpush.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612183206id_/https%3A//www.beonpush.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beonpush.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918042855id_/http%3A//beonpush.com/privacy_policy) for the most accurate reproduction.*
 
 # BeonPush
 
-We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy. 
+We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy.   
+We conduct periodic reviews of “Our Privacy Policy” to adhere to any new laws or technological changes to our operations and practices and to ensure it remains appropriate to the changing environment.  
+By using this website, you consent to us using your personal information as set out below. 
 
 We conduct periodic reviews of “Our Privacy Policy” to adhere to any new laws or technological changes to our operations and practices and to ensure it remains appropriate to the changing environment.  
 By using this website, you consent to us using your personal information as set out below. 
@@ -16,10 +18,10 @@ If you decide to apply to open an account with us, there is certain information 
 Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information:
 
   * is required to be disclosed to related companies of ours; 
-  * was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; 
+  * was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you;
   * becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; 
-  * is required to be disclosed by law or regulation, in which case we shall give the(to) you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure;
-  * is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or is required to be disclosed in order for us to protect our rights.
+  * is required to be disclosed by law or regulation, in which case we shall give the (to) you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order) in order to allow you to limit or restrict such disclosure; 
+  * is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or is required to be disclosed in order for us to protect our rights. 
 
 
 
@@ -38,13 +40,13 @@ Personal information given to us by you shall not be disclosed to any third part
   * is required to be disclosed to related companies of ours; 
   * was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; 
   * becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; 
-  * is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure; 
+  * is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order) in order to allow you to limit or restrict such disclosure; 
   * is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or is required to be disclosed in order for us to protect our rights. 
 
 
 
 ### AMENDMENTS TO POLICY 
 
-This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy our without any prior notice, and you hereby agree to conform to the current version as published in this site.
+This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy or without any prior notice, and you hereby agree to conform to the current version as published in this site.
 
 Any dispute over our privacy statement is subject to this notice and our customer agreement. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you have any questions that this statement does not address, please contact a please contact us email or through one of our management.
