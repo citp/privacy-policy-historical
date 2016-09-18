@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518225432id_/https%3A//www.pvamu.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919014332id_/http%3A//www.pvamu.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : PVAMU Home
 
