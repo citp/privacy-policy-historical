@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikker.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620232134id_/http%3A//quikker.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikker.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919021604id_/http%3A//quikker.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Quikker.com- Privacy Policy
 
