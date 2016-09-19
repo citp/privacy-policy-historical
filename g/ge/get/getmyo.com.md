@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getmyo.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529085338id_/https%3A//www.thalmic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmyo.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919130900id_/https%3A//www.thalmic.com/privacy) for the most accurate reproduction.*
 
-# Thalmic Labs Inc. Privacy Policy
+# Thalmic Labs | Privacy Policy
+
+## Thalmic Labs Inc.
 
 Your privacy is important to us. Thalmic Labs Inc. (“Thalmic”) has created the following Privacy Policy to let you know what information we collect when you visit www.thalmic.com (the “Thalmic Site”), why we collect it and how it is used. This Privacy Policy is governed by our Terms of Use. By using the Thalmic Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Site which it is your responsibility to review.
 
