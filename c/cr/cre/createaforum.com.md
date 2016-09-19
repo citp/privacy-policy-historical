@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createaforum.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430014557id_/http%3A//www.createaforum.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createaforum.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919235224id_/http%3A//www.createaforum.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Create A Forum - Privacy Policy
 
