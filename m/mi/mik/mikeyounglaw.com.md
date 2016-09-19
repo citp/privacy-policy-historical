@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623012611id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919080200id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dallas Business Lawyer
 
