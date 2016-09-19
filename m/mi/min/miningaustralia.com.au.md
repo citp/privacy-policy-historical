@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405072829id_/http%3A//www.australianmining.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919202119id_/https%3A//www.australianmining.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mining Australia
-
-**Thank you, you are now logged in.** x
+# Privacy Policy - Australian Mining
 
 Prime, Creative Media Pty Ltd is committed to protecting your privacy whilst navigating this website and its affiliated websites.
 
