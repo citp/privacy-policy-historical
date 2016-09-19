@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502133230id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919052525id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Graphene Themes Solutions
 
@@ -6,7 +6,7 @@ This Privacy Policy is issued to all our valued customers/prospective customers,
 
 We treat and view your personal data seriously.
 
-In the course of your dealings with us, **Graphene Themes Solutions** , as our valued customer / prospective customer, we will request that you provide data and information about yourself (“Personal Data”) to enable us to enter into transaction with you or to deliver the necessary notices, services and/or products.
+In the course of your dealings with us, **Graphene Themes Solutions** , as our valued customer / prospective customer, we will request that you provide data and information about yourself (â€œPersonal Dataâ€) to enable us to enter into transaction with you or to deliver the necessary notices, services and/or products.
 
 ### What information do we collect?
 
