@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hummuspoint.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519074015id_/http%3A//www.hummuspoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hummuspoint.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919153720id_/http%3A//www.hummuspoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
