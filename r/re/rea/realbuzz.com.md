@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412005840id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919023623id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UK, US & AU | realbuzz
 
-**This policy was last updated 16th April  2013**
+**This policy was last updated 23rd August 2016**
 
 Thank you for visiting realbuzz.com (either or both being the Website). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by the Website.
 
@@ -10,7 +10,7 @@ Thank you for visiting realbuzz.com (either or both being the Website). Your pri
 
 Your use of the Website is subject to the terms of this Privacy policy and the Website’s Terms of use, so please read this Privacy policy and each Website’s Terms of use before using the Website.
 
-[realbuzz.com Terms of use](https://web.archive.org/web/20160412005840id_/terms-of-use/)  
+[realbuzz.com Terms of use](https://web.archive.org/web/20160919023623id_/terms-of-use/)  
 
 
 **Personal information**
@@ -34,10 +34,6 @@ We have put in place appropriate physical, electronic, and managerial procedures
 **Security of the Website**
 
 We use the latest security technology to protect your personal information. When you enter your personal details in the checkout pages of realbuzz.com you are in a secure website. Most browsers display a small padlock symbol on your browser to reassure you this is secure. It is your responsibility and not that of the Website to ensure your browser is up-to-date and has the relevant security patches. Most web browsers will display a message too stating that you are entering into a secure website. If at any time you leave the secure area of the Website, your web browser may remind you that you are leaving a secure part of the Website. You will be asked if you want to cancel this reminder for future occasions.
-
-**Payment methods and security**
-
-Payment can be made with any of the following major credit/debit cards: MasterCard, Visa, Mastercard Debit, Visa Debit, Maestro and Electron. The Website uses WorldPay [www.worldpay.com] to process all online orders, thereby ensuring the safety of your details over the Internet. Please refer to World Pay’s Privacy policy on their procedures for ensuring the safety of your details over the internet.
 
 **Collection of personal information by third-party sites and sponsors**
 
@@ -133,4 +129,4 @@ We may update this policy at any time at our sole discretion. The Website will a
 
 **How to contact us**
 
-If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20160412005840id_/contact-us/).
+If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20160919023623id_/contact-us/).
