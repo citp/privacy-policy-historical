@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629205526id_/http%3A//www.carlist.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919174253id_/http%3A//www.carlist.my/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Carlist.my
 
