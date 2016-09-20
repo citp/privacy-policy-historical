@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestway.com.pk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515225312id_/http%3A//www.bestway.com.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestway.com.pk privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920223111id_/http%3A//bestway.com.pk/privacy.html) for the most accurate reproduction.*
 
 # Bestway Cement - Privacy Policy
 
