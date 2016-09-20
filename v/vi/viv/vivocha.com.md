@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603132243id_/http%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920145016id_/http%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
 
 # Vivocha - Privacy
 
