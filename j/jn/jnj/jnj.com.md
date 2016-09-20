@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618025039id_/http%3A//www.jnj.com/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920225134id_/http%3A//www.jnj.com/others/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Johnson & Johnson
 
