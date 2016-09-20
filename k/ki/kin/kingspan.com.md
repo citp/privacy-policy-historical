@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520104242id_/http%3A//www.kingspan.com/site-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920041350id_/http%3A//www.kingspan.com/site-services/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookies - Kingspan Group PLC
 
