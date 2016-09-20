@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407015328id_/http%3A//www.spacefellowship.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920125844id_/https%3A//spacefellowship.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | International Space Fellowship
 
@@ -14,7 +14,7 @@ ISF may request or collect personal information from online users in a variety o
 
 ISF may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html). 
 
 ### What are Cookies?
 
@@ -38,7 +38,7 @@ Our users will occasionally receive newsletters or e-mails with information on l
 
 ## Service Announcements
 
-On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can [deactivate](http://spacefellowship.com/myplace/settings/account/close) their account. However, these communications are not promotional in nature. 
+On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can [deactivate](https://spacefellowship.com/myplace/settings/account/close) their account. However, these communications are not promotional in nature. 
 
 ## Legal Disclaimer
 
@@ -56,7 +56,7 @@ You are responsible for the security of your usernames and passwords. Make sure
 
 ## Questions
 
-Any questions concerning this Privacy Policy or to report abuse please [click here](http://spacefellowship.com/contact) to contact us. 
+Any questions concerning this Privacy Policy or to report abuse please [click here](https://spacefellowship.com/contact) to contact us. 
 
   
  
