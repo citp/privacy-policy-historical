@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151914id_/http%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.net privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920171041id_/https%3A//www.spreadshirt.net/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -160,16 +160,11 @@ On behalf of the provider of this online offer, Google will use this information
 
 You can prevent the storage of cookies by adjusting the settings of your browser software; we need to point out that this may lead to an inhibition of the full functionality of our online offer. In addition to this, you can prevent the collection of cookie generated information (incl. your IP address) for the purpose of using the online offer as well as further processing this data by Google, if you download and install the browser plug-in available here: ([https://tools.google.com](https://tools.google.com/dlpage/gaoptout?hl=de)
 
-You can prevent Google Analytics from retrieving your data by clicking on the following button. An opt-out cookie will be placed to prevent future data recording when visiting this online offer:   
-Deactivate Google Analytics 
+You can prevent Google Analytics from retrieving your data by clicking on the following button. An opt-out cookie will be placed to prevent future data recording when visiting this online offer: 
 
 You can find more information on user terms and conditions here: [ http://www.google.com/analytics/terms/](http://www.google.com/analytics/terms/de.html) and [http://www.google.com/intl/de/analytics/privacyoverview](http://www.google.com/intl/de/analytics/privacyoverview.html). 
 
 We need to point out that the website Google Analytics has been extended by the code “gat._anonymizeIp();“ to make anonymous gathering of IP address data (so called IP masking) possible by means of Google analytics. 
-
-### Kampyle
-
-This online offer is assisted by Kampyle, a web analysis tool by Kampyle Ltd. (“Kampyle“). The collection, processing or usage of your personal data is carried out by Kampyle. For the use of Kampyle, please refer to their separate terms of use and privacy policies that can currently be found here: [http://www.kampyle.com/privacy-policy](http://www.kampyle.com/enterprise/company/privacy-policy) and here: [http://www.kampyle.com/enterprise/company/terms-of-use](http://www.kampyle.com/terms-of-use).
 
 ### Further analytical tools
 
@@ -180,6 +175,8 @@ Omniture and AdLens, web analysis tools by Adobe Systems Software Ireland Limite
 Optimizeley is a web analysis tool by Optimizeley Inc. – please find more information on matters of data protection on <https://www.optimizely.com/privacy>. You can object to the collection, storage and usage of data for future activities by Optimizely if you unsubscribe on <https://www.optimizely.com/opt_out>. 
 
 Crazyegg is a web analysis tool by Crazyegg Inc. – please find more information on matters of data protection on <http://www.crazyegg.com/privacy>. You can object to the collection, storage and usage of data for future activities by Crazyegg if you unsubscribe on <http://www.crazyegg.com/opt-out>. 
+
+Hotjar is a web analysis tool by Hotjar, Ltd. – please find more information on matters of data protection on <https://www.hotjar.com/privacy>. You can object to the collection, storage and usage of data for future activities by Hotjar if you unsubscribe via the contact form on <https://www.hotjar.com/contact>. 
 
 ## 10\. Does Spreadshirt use social plug-ins?
 
