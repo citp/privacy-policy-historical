@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510131402id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920063550id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Era Gadgets Price and details in India 2016
 
