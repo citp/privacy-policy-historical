@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belvoireagle.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612095502id_/http%3A//www.belvoireagle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belvoireagle.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920091656id_/http%3A//www.belvoireagle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
