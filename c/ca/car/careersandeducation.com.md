@@ -1,68 +1,58 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032909id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920044323id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Careers and Education
 
-This Privacy Policy describes the types of personal and non-personal information we collect on www.CareersandEducation.com (the “Website”), how we use it and how we may disclose it. By using the Website, you fully and unconditionally agree to the terms of this Privacy Policy. If you do not, please do not use the Website.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
 
-Collection of Information
+At http://www.careersandeducation.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.careersandeducation.com and how we use it.
 
-Personal Information  
-We only collect personal information from you when you: (1) register on the Website; (2) ask to receive information about a topic or article; (3) register for a newsletter; or (4) contact us.
+**Log Files**  
+Like many other Web sites, http://www.careersandeducation.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Non-Personal Information  
-As part of the standard operation of the Website, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Website. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Website, the areas or pages of the Website that you visit, the amount of time you spend viewing the Website, the number of times you return to the Website and other click-stream data.
+**Cookies and Web Beacons**  
+http://www.careersandeducation.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-Cookies  
-We may use cookies to collect the non-personal information described above. We may also use cookies to: (1) provide you with customized content and advertising; (2) monitor Website usage; and (3) conduct research to improve our content and services.
+**DoubleClick DART Cookie**
 
-You are free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences.
+→ Google, as a third party vendor, uses cookies to serve ads on http://www.careersandeducation.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.careersandeducation.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Web Beacons  
-We may use web beacons on the Website, in our advertisements on other sites and in e-mails. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email. Web beacons allow us to recognize users by accessing our cookies. They help us measure the effectiveness of our site, our advertising and our email campaigns in various ways, for example, by counting the number of individuals who visit our site from a particular advertisement, as well as by telling us when a web page is viewed and a description of the page where the web beacon is placed. Web beacons also help us count the number of individuals who open or act upon an email message. The information we collect may include personal information. We may also combine the information that we collect through web beacons with other personal information we have collected from you, such as your registration information. We use this information to respond to your questions (for example, if you do not remember registering on the Website or don’t know how we received your email address). We also use this information to prevent fraud by members of our affiliate program and others.
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-Members of our affiliate program may also use web beacons to help us track the number of individuals the affiliate has directed to the Website. These web beacons do not collect any personal information.
+  * Google
+  * Amazon
 
-We will not share any personal information collected through web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.
 
-You can make some web beacons unusable by rejecting cookies.
 
-Use of Information
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://www.careersandeducation.com._
 
-We may use the information we collect from you for any of the following purposes: (1) to contact you with information and promotional materials and offers from us, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (2) to contact you when necessary; (3) to review Website usage and operations; (4) to address problems with the Website, our business or our products and services; and (5) to protect the security or integrity of the Website and our business.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.careersandeducation.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Disclosure of Information
+http://www.careersandeducation.com has no access to or control over these cookies that are used by third-party advertisers.
 
-We may disclose the information we collect from and about you as follows: (1) to our employees, independent contractors, subsidiaries, affiliates, service providers and suppliers, if the disclosure will enable any of these entities to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the Website Terms of Use, of our rights or of the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in connection with the sale of all or part of our assets. In addition, with your explicit consent, we may share your information with third parties for their use in marketing their own and/or their clients’ products and services to you.
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.careersandeducation.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-Your Ability to Opt Out
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-If you would prefer that we not use your personal information to send you marketing materials, please send an email telling us that to privacy@CareersandEducation.com .
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+http://www.careersandeducation.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.careersandeducation.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-If you would prefer that we not share your personal information with third parties for their own and/or their clients’ marketing purposes, please send an email telling us that to privacy@CareersandEducation.com .
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-Access to Information You Provide to Us
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-You may access any personal information you provide to us, correct or modify any such personal information or direct us to make no further use of or to delete your personal information. To do so, please send an email with your request to privacy@CareersandEducation.com .
+**Update**  
+This Privacy Policy was last updated on: Saturday, June 18th, 2016.
 
-Security
-
-We have taken certain physical, electronic, contractual and procedural steps to safeguard your information.
-
-Children
-
-We do not direct the Website to, nor do we knowingly collect any personal information from, children under thirteen.
-
-Third Party Websites
-
-The Website may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Website.
-
-Changes
-
-If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly. Material changes to the policy will be posted on the Website for 30 days before taking effect.
-
-Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact us at info@CareersandEducation.com
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
   
 
