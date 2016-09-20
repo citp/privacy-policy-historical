@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630021411id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920120027id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy | Freedom Furniture and Homewares
+# Privacy | freedom Furniture and Homewares
 
   
 
-####  **Freedom Privacy Policy**
+####  **freedom Privacy Policy**
 
-  Steinhoff Asia Pacific Limited trading as Freedom and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (collectively “Freedom”), recognises the importance of protecting the privacy and rights of individuals in relation to their Personal Information. This is our privacy policy and it tells you how we collect and manage your Personal Information.
+  Steinhoff Asia Pacific Limited trading as freedom and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (collectively “freedom”), recognises the importance of protecting the privacy and rights of individuals in relation to their Personal Information. This is our privacy policy and it tells you how we collect and manage your Personal Information.
 
   We respect your rights to privacy under the Privacy Act 1988 (Cth) and we comply with all of the Act’s requirements in relation to the collection, management and disclosure of your Personal Information. For more information, visit  www.oaic.gov.au .
 
@@ -36,7 +36,7 @@ Our website uses Google AdWords, Google Analytics, and the Google Display Networ
 
 ####  Use of cookies
 
-  Freedom uses tracking technologies such as cookies to recognise your browser each time it visits our site, and to track which pages you visit whilst on our site. We use this information to optimize our site and create a better online experience for you.  Cookies are pieces of information that a website transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept tracking technologies such as cookies. These tracking technologies do not themselves personally identify users, although they do identify a user's browser. However, if you do not wish to receive any cookies, you may set your browser to refuse them. 
+  freedom uses tracking technologies such as cookies to recognise your browser each time it visits our site, and to track which pages you visit whilst on our site. We use this information to optimize our site and create a better online experience for you.  Cookies are pieces of information that a website transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept tracking technologies such as cookies. These tracking technologies do not themselves personally identify users, although they do identify a user's browser. However, if you do not wish to receive any cookies, you may set your browser to refuse them. 
 
 ####  How do we collect your Personal Information?
 
@@ -56,15 +56,15 @@ Our website uses Google AdWords, Google Analytics, and the Google Display Networ
 
 ·         your participation in surveys and other types of research;
 
-·         when you enter a promotion, sweepstake, or contest hosted by Freedom;
+·         when you enter a promotion, sweepstake, or contest hosted by freedom;
 
 ·         when you subscribe to our mailing list;
 
-·         when you provide information via social media pages such as the Freedom Facebook page or our Twitter account;
+·         when you provide information via social media pages such as the freedom Facebook page or our Twitter account;
 
 ·         when you apply for a franchise;
 
-·         when you express interest in a particular Freedom service; or
+·         when you express interest in a particular freedom service; or
 
 ·         when you submit a job application or résumé.
 
@@ -82,7 +82,7 @@ Our website uses Google AdWords, Google Analytics, and the Google Display Networ
 
 ####  For what purposes do we collect, hold, use and disclose your Personal Information?
 
-  Freedom uses, collects and holds your information to better understand your needs and provide you with better service. Freedom may share your Personal Information amongst Related Bodies Corporate of Freedom. Freedom also uses, collects, holds and discloses your Personal Information:
+  freedom uses, collects and holds your information to better understand your needs and provide you with better service. freedom may share your Personal Information amongst Related Bodies Corporate of freedom. freedom also uses, collects, holds and discloses your Personal Information:
 
 ·         to complete a transaction in store or online via our website, and delivering products and services;
 
@@ -124,7 +124,7 @@ Our website uses Google AdWords, Google Analytics, and the Google Display Networ
 
   We may send you direct marketing communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS, social media, fax and email, in accordance with applicable marketing laws, such as the Spam Act 2003 (Cth).  If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
 
-  At Freedom we only want to communicate with you if you want to hear from us. If you would like to unsubscribe from receiving email newsletters you can do so at  freedom.com.au/unsubscribe  at any time and for any reason. Should you wish to be removed from all our mailing lists you can do so at  freedom.com.au/opt-out .
+  At freedom we only want to communicate with you if you want to hear from us. If you would like to unsubscribe from receiving email newsletters you can do so at  freedom.com.au/unsubscribe  at any time and for any reason. Should you wish to be removed from all our mailing lists you can do so at  freedom.com.au/opt-out .
 
   We do not provide your Personal Information to other organisations for the purposes of direct marketing.
 
@@ -142,15 +142,15 @@ If you believe that your privacy has been breached, please contact us using the 
 
 Third-party web sites
 
-  Links to third party web sites on www.freedom.com.au are provided solely as a convenience to you. If you use these links, you will leave Freedom's site. Freedom is not responsible for any of these sites, their content or their usage of your Personal Information.
+  Links to third party web sites on www.freedom.com.au are provided solely as a convenience to you. If you use these links, you will leave freedom's site. freedom is not responsible for any of these sites, their content or their usage of your Personal Information.
 
 ####  Security
 
-  Freedom is committed to ensuring the security of your Personal Information and we will take all reasonable precautions to protect this information from loss, misuse or alteration.
+  freedom is committed to ensuring the security of your Personal Information and we will take all reasonable precautions to protect this information from loss, misuse or alteration.
 
 ####  Changes to this statement
 
-  Freedom may make changes to this Privacy Policy from time to time for any reason. We will publish those changes on our website on this page.  This policy was last updated on 14 May 2015.
+  freedom may make changes to this Privacy Policy from time to time for any reason. We will publish those changes on our website on this page.  This policy was last updated on 14 May 2015.
 
 ####  Contacting us
 
@@ -161,7 +161,7 @@ Third-party web sites
   Please contact our Privacy Officer at:
 
 Privacy Officer   
-Steinhoff Asia Pacific Limited trading as Freedom  
+Steinhoff Asia Pacific Limited trading as freedom  
 Level 4, 1 Epping Road, North Ryde NSW 2113
 
 Phone: 1300 135 588  
