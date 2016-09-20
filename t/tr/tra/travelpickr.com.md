@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelpickr.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520194120id_/http%3A//www.travelpickr.com/pages/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpickr.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920122500id_/http%3A//www.travelpickr.com/pages/company/privacy-policy) for the most accurate reproduction.*
 
-# Travelpickr
+# Travelpickr - Find your Personal Trip Planner
 
   * The details...
 
