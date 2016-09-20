@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hupbox.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521194834id_/http%3A//www.hupbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hupbox.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921010854id_/http%3A//www.hupbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
