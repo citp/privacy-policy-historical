@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.co.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604184644id_/http%3A//www.huggies.co.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.co.in privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921064337id_/http%3A//www.huggies.co.in/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
