@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcurve.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501063158id_/https%3A//wpcurve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcurve.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921185248id_/https%3A//wpcurve.com/privacy) for the most accurate reproduction.*
 
 # WP Curve privacy policy - WP Curve
 
