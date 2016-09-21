@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623153633id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921182545id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
 
 # Freedom | Privacy
 
