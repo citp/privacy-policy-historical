@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dmovie.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605113358id_/http%3A//2dmovie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dmovie.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921085021id_/http%3A//2dmovie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for 2DMovie.com
 
