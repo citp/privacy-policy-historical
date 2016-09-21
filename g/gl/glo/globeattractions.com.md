@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globeattractions.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305133032id_/http%3A//www.globeattractions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeattractions.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922003831id_/http%3A//www.thane.pw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-globeattractions.com owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
+thane.pw owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
 **Google Adsense and the DoubleClick DART Cookie**
 
@@ -10,13 +10,13 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/policies/technologies/ads/ Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track user activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, globeattractions.com has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track user activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, thane.pw has no access or control over these cookies that may be used by third party advertisers.
 
 **Information Collected**
 
-Your personal information is not required to visit globeattractions.com
+Your personal information is not required to visit thane.pw
 
-Any personal information collected is knowingly provided by you and only when requested/required during account registration for interactive participation on globeattractions.com and during the ordering process
+Any personal information collected is knowingly provided by you and only when requested/required during account registration for interactive participation on thane.pw and during the ordering process
 
 **Traffic Data**
 
@@ -30,7 +30,7 @@ System information such as your operating system/platform, and the type of web b
 
 Your information is maintained on a secure web server in what we believe to be a well protected environment.
 
-globeattractions.com, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+thane.pw, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Security**
 
@@ -42,4 +42,4 @@ We do everything in our power to protect user-information off-line. All of our c
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of globeattractions.com then you may contact us [here](http://www.globeattractions.com/contact).
+If you have any questions regarding the privacy policy of thane.pw then you may contact us [here](http://www.thane.pw/contact).
