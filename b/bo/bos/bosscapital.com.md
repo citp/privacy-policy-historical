@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418021448id_/http%3A//www.bosscapital.com/privacy_policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921230200id_/http%3A//www.bosscapital.com/privacy_policy_en) for the most accurate reproduction.*
 
 # Privacy Policy. – BossCapital
 
