@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521154148id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlremix.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921233330id_/http%3A//www.htmlremix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HTML Remix
 
@@ -102,4 +102,4 @@ This document was last updated on January 03, 2011
 
 #### Incoming search terms:
 
-[PrivacyPolicy|HTMLRemix](http://www.htmlremix.com/privacy-policy "PrivacyPolicy|HTMLRemix")
+[PrivacyPolicy|HTMLRemix](http://www.htmlremix.com/privacy-policy "PrivacyPolicy|HTMLRemix"), [we remixed our privacy policy](http://www.htmlremix.com/privacy-policy "we remixed our privacy policy"), [We remixed our Privacy Policy скачатmp3](http://www.htmlremix.com/privacy-policy "We remixed our Privacy Policy скачатmp3"), [we remixed our privasy policy](http://www.htmlremix.com/privacy-policy "we remixed our privasy policy"), [ремикс privacy policy](http://www.htmlremix.com/privacy-policy "ремикс privacy policy"), [скачать we remixed our privace police](http://www.htmlremix.com/privacy-policy "скачать we remixed our privace police")
