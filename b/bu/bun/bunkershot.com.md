@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunkershot.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522081733id_/http%3A//www.bunkershot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunkershot.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921160346id_/http%3A//www.bunkershot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
