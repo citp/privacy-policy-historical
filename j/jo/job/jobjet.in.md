@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobjet.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401165050id_/http%3A//jobjet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobjet.in privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922134411id_/http%3A//jobjet.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
