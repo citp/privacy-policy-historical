@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahoha.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612145043id_/http%3A//wahoha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahoha.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922201539id_/http%3A//wahoha.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wahoha
 
