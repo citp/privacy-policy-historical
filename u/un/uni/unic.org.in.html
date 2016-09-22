@@ -1,0 +1,2186 @@
+<!--The following is the downloaded HTML source of the unic.org.in privacy policy that was archived on 2016-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160922041221id_/http%3A//www.unic.org.in/displaymore.php%3Fchname%3DOther%26subchkey%3D%26itemid%3D12044%26subid%3D) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<meta property="og:title" content="">
+<meta property="og:description" content=""> 
+<meta property="og:image" content="">
+    <meta property="og:url" content="">
+<link href="images/un_connect_logo.ico" type="image/x-icon" rel="shortcut icon">
+<title>United Nations Information Centre for India and Bhutan</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
+<!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6919756-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+function opensubwin(albumid,mtype)
+{	 var x=screen.availWidth;
+	  var y=screen.availHeight;
+	  
+    if (mtype=="Publications" || mtype=="Photos" ||mtype=="Newsletter")
+   {
+   		window.open('PDF_FramePage.asp?albumid='+albumid+'&mtype='+mtype,'','width='+x+',height='+y+',scrollbars,titlebar=yes,resizable=yes,maximize=yes,left=0,top=0,status=yes,screenY=0');
+        return ;
+   }
+}
+function call()
+{
+	
+	//document.getElementById('').className="linkstyle1_bold ";
+	//document.getElementById('').className="linkstyle1_bold ";
+	
+	// Toggle('Utility_');
+	
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body {
+	background-color: #999999;
+}
+-->
+</style>
+</head>
+<body lang="EN-US"><table width="990px" cellpadding="0" align="center" cellspacing="0" border="0" bgcolor="#dcdcdc">
+	<tbody><tr>
+		<td valign="top" colspan="2" align="left" width="990px"><script type="text/javascript">
+function shov11(){
+document.getElementById('Search2').src="unic/Search_Square_Hover.png" ;
+
+//	document.getElementById('more').setAttribute('src','MoreimageHover.png');
+    }
+
+function sout11(){
+document.getElementById('Search2').src="unic/Search_Square.png" ;
+
+//	document.getElementById('more').setAttribute('src','MoreimageHover.png');
+    }
+function shov1(){
+document.getElementById('search1').src="unic/FilterButton_Hover.png" ;
+
+//	document.getElementById('more').setAttribute('src','MoreimageHover.png');
+    }
+
+function sout1(){
+document.getElementById('search1').src="unic/FilterButton.png" ;
+
+//	document.getElementById('more').setAttribute('src','MoreimageHover.png');
+    }
+
+-->
+
+</script>
+<script type="text/javascript" src="script.js"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+   //1    var yiki;
+    var check=0;
+    function testingfont()
+    {    
+        
+        var jk=window.location.href;
+        var aar=jk.split("=");
+        var lkj=0;
+        
+        if(aar[1])
+        {
+            //alert(aar[1]);
+            lkj=aar[1].split("&");
+        }
+        document.getElementById("fontsmall").src="unic/Icon_SmallFont_On.png";
+            document.getElementById("fontbig").src="unic/Icon_BigFont_Off.png";
+            document.getElementById("fontbigs").src="unic/Icon_LargeFont_Off.png";
+        yiki=1;
+        $.ajax({
+                type:"post",
+                url:"forfont.php",
+                data: "check=" + yiki ,                
+                success: function(html) {                    
+                            
+                }
+            });
+        //$("div").css("font-size","11px");
+        //$(".links12").css("font-size","16px");
+        $(".SNText5").css("font-size","11px");
+        $(".hdtoolbarsm").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","12px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","11px");
+        $(".linkTitleNewBold").css("font-size","12px");
+        $(".links11").css("font-size","12px");
+        $(".SNTextColour").css("font-size","12px");
+        $(".SNText").css("font-size","12px");
+        $(".SNTextsynop").css("font-size","12px");
+        $(".synopsis").css("font-size","12px");
+        $(".linksdl").css("font-size","11px");
+        $(".linksdsm").css("font-size","10px");
+        //$(".WordSection1 span").css("font-size","10pt");
+        //alert(check);
+        /*if(check==1)
+        {
+            $(".Section1 span").css("font-size","11pt");
+            $(".MsoNormal b span").css("font-size","13pt");
+        }
+        else
+        {            
+            $(".Section1 span").css("font-size","10pt");
+            $(".MsoNormal span").css("font-size","10pt");
+            $(".MsoNormal b span").css("font-size","12pt");                      
+        }*/
+        
+        $.ajax({
+                type:"post",
+                url:"fileconvert.php",
+                data: "check=" + check + "&id=" + lkj[0], 
+                contentType: "application/x-www-form-urlencoded; charset=iso-8859-1",
+                success: function(html) {                    
+                            $('#yogiBody').html(html);
+                        }
+                    });
+              
+            
+             
+        
+    }
+     
+   function testingfont1()
+    {               
+         document.getElementById("fontsmall").src="unic/Icon_SmallFont_Off.png";
+            document.getElementById("fontbig").src="unic/Icon_BigFont_On.png";
+            document.getElementById("fontbigs").src="unic/Icon_LargeFont_Off.png";
+        yiki=2;
+        $.ajax({
+                type:"post",
+                url:"forfont.php",
+                data: "check=" + yiki ,                
+                success: function(html) {                    
+                }           
+                });
+        $(".SNText5").css("font-size","13px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","13px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","13px");
+        $(".linkTitleNewBold").css("font-size","14px");
+        $(".SNTextColour").css("font-size","14px");
+        $(".SNText").css("font-size","14px");
+        $(".SNTextsynop").css("font-size","14px");
+        $(".synopsis").css("font-size","14px");
+        $(".links11").css("font-size","14px");
+        $(".linksdl").css("font-size","13px");
+        $(".linksdsm").css("font-size","12px");
+        $(".hdtoolbarsm").css("font-size","14px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","13pt");
+            $(".MsoNormal b span").css("font-size","15pt");
+            
+        }
+        else
+        {
+            
+            $(".MsoNormal span").css("font-size","12pt");
+            $(".Section1 span").css("font-size","12pt");
+            $(".MsoNormal b span").css("font-size","14pt");
+            $(".MsoListParagraph  span").css("font-size","12pt");
+            $(".FreeForm b span").css("font-size","12pt");
+            $("h1 span").css("font-size","14pt");
+            $("h6 span").css("font-size","12pt");
+            $("h1 a span").css("font-size","12pt");
+            $(".MsoHeading7 span").css("font-size","12pt");
+            $(".normalchar span").css("font-size","12pt");
+        }
+                   
+                
+        //$("plusBtn").addEvent("click", function() {resizeText(1);});
+    }
+    function testingfont2()
+    {               
+         document.getElementById("fontsmall").src="unic/Icon_SmallFont_Off.png";
+            document.getElementById("fontbig").src="unic/Icon_BigFont_Off.png";
+            document.getElementById("fontbigs").src="unic/Icon_LargeFont_On.png";
+        yiki=3;
+        $.ajax({
+                type:"post",
+                url:"forfont.php",
+                data: "check=" + yiki ,                
+                success: function(html) {                    
+                }           
+                });
+        $(".SNText5").css("font-size","15px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","15px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","15px");
+        $(".linkTitleNewBold").css("font-size","16px");
+        $(".SNTextColour").css("font-size","16px");
+        $(".SNText").css("font-size","16px");
+        $(".SNTextsynop").css("font-size","16px");
+        $(".synopsis").css("font-size","16px");
+        $(".links11").css("font-size","16px");
+        $(".linksdl").css("font-size","15px");
+        $(".linksdsm").css("font-size","14px");
+        $(".hdtoolbarsm").css("font-size","16px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","15pt");
+            $(".MsoNormal b span").css("font-size","17pt");
+            
+        }
+        else
+        {
+            
+            $(".MsoNormal span").css("font-size","14pt");
+            $(".Section1 span").css("font-size","14pt");
+            $(".MsoNormal b span").css("font-size","16pt");
+            $(".MsoListParagraph  span").css("font-size","14pt");
+            $(".FreeForm b span").css("font-size","14pt");
+            $("h1 span").css("font-size","16pt");
+            $("h6 span").css("font-size","14pt");
+            $("h1 a span").css("font-size","14pt");
+            $(".MsoHeading7 span").css("font-size","14pt");
+            $(".normalchar span").css("font-size","14pt");
+        }
+                   
+                
+        //$("plusBtn").addEvent("click", function() {resizeText(1);});
+    }
+    yiki=1;
+    function convertlang()
+    {
+        //alert(check1);
+        
+            //var allparameter=window.location.search;    
+            var yiki1="Other";            
+            if(check==1)
+            {
+                check=0;
+                document.getElementById("convert").src="Button_Hindi.png";                
+            }
+            else
+            {
+                check=1;
+                document.getElementById("convert").src="Button_English.png";
+            }
+            $.ajax({
+                type:"post",
+                url:"fileconvert.php",
+                data: "check=" + check + "&id=" + 12044, 
+                contentType: "application/x-www-form-urlencoded; charset=iso-8859-1",
+                success: function(html) {                    
+                            $('#yogiBody').html(html);
+                            
+                            if(yiki==2)
+                {
+                                    $(".SNText5").css("font-size","13px");
+                                    //$(".toolbar").css("font-size","12px");
+                                    $(".SNTextSynopsis").css("font-size","13px");
+                                    //$(".linksd").css("font-size","103%");
+                                    $(".SNTextColourDATE").css("font-size","13px");
+                                    $(".linkTitleNewBold").css("font-size","14px");
+                                    $(".SNTextColour").css("font-size","14px");
+                                    $(".SNText").css("font-size","14px");
+                                    $(".SNTextsynop").css("font-size","14px");
+                                    $(".synopsis").css("font-size","14px");
+                                    $(".links11").css("font-size","14px");
+                                    $(".linksdl").css("font-size","13px");
+                                    $(".linksdsm").css("font-size","12px");
+                                    $(".hdtoolbarsm").css("font-size","14px");
+                                    //$(".WordSection1 span").css("font-size","11pt");
+                                    if(check==1)
+                                    {
+                                        $(".Section1 span").css("font-size","13pt");
+                                        $(".MsoNormal b span").css("font-size","15pt");
+                                    }
+                                    else
+                                    {
+                                        $(".MsoNormal span").css("font-size","12pt");
+            $(".Section1 span").css("font-size","12pt");
+            $(".MsoNormal b span").css("font-size","14pt");
+            $(".MsoListParagraph  span").css("font-size","12pt");
+            $(".FreeForm b span").css("font-size","12pt");
+            $("h1 span").css("font-size","14pt");
+            $("h6 span").css("font-size","12pt");
+            $("h1 a span").css("font-size","12pt");
+            $(".MsoHeading7 span").css("font-size","12pt");
+            $(".normalchar span").css("font-size","12pt");
+                                    }
+                }
+                else if(yiki==3)
+                {
+                                    $(".SNText5").css("font-size","15px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","15px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","15px");
+        $(".linkTitleNewBold").css("font-size","16px");
+        $(".SNTextColour").css("font-size","16px");
+        $(".SNText").css("font-size","16px");
+        $(".SNTextsynop").css("font-size","16px");
+        $(".synopsis").css("font-size","16px");
+        $(".links11").css("font-size","16px");
+        $(".linksdl").css("font-size","15px");
+        $(".linksdsm").css("font-size","14px");
+        $(".hdtoolbarsm").css("font-size","16px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","15pt");
+            $(".MsoNormal b span").css("font-size","17pt");
+            
+        }
+        else
+        {
+            
+            $(".MsoNormal span").css("font-size","14pt");
+            $(".Section1 span").css("font-size","14pt");
+            $(".MsoNormal b span").css("font-size","16pt");
+            $(".MsoListParagraph  span").css("font-size","14pt");
+            $(".FreeForm b span").css("font-size","14pt");
+            $("h1 span").css("font-size","16pt");
+            $("h6 span").css("font-size","14pt");
+            $("h1 a span").css("font-size","14pt");
+            $(".MsoHeading7 span").css("font-size","14pt");
+            $(".normalchar span").css("font-size","14pt");
+        }
+                }
+                           }
+                }); 
+                
+                
+                $.ajax({
+                type:"post",
+                url:"eventepaneling.php",
+                data: "check=" + check + "&itemid=" + 12044 + "&chname=" + yiki1, 
+                contentType: "application/x-www-form-urlencoded; charset=iso-8859-1",
+                success: function(html) {       
+                    //alert("hello");
+                            $('#forfile').html(html);
+                          
+                           //alert(test);
+                           if(yiki==2)
+                                {
+                                    //alert("hello");
+                                                    $(".SNText5").css("font-size","13px");
+                                                    //$(".toolbar").css("font-size","12px");
+                                                    $(".SNTextSynopsis").css("font-size","13px");
+                                                    //$(".linksd").css("font-size","103%");
+                                                    $(".SNTextColourDATE").css("font-size","13px");
+                                                    $(".linkTitleNewBold").css("font-size","14px");
+                                                    $(".SNTextColour").css("font-size","14px");
+                                                    $(".SNText").css("font-size","14px");
+                                                    $(".SNTextsynop").css("font-size","14px");
+                                                    $(".synopsis").css("font-size","14px");
+                                                    $(".links11").css("font-size","14px");
+                                                    $(".linksdl").css("font-size","13px");
+                                                    $(".linksdsm").css("font-size","12px");
+                                                    $(".hdtoolbarsm").css("font-size","14px");
+                                                    //$(".WordSection1 span").css("font-size","11pt");
+                                                    if(check==1)
+                                                    {
+                                                        $(".Section1 span").css("font-size","13pt");
+                                                        $(".MsoNormal b span").css("font-size","15pt");
+                                                    }
+                                                    else
+                                                    {
+                                                        $(".MsoNormal span").css("font-size","12pt");
+            $(".Section1 span").css("font-size","12pt");
+            $(".MsoNormal b span").css("font-size","14pt");
+            $(".MsoListParagraph  span").css("font-size","12pt");
+            $(".FreeForm b span").css("font-size","12pt");
+            $("h1 span").css("font-size","14pt");
+            $("h6 span").css("font-size","12pt");
+            $("h1 a span").css("font-size","12pt");
+            $(".MsoHeading7 span").css("font-size","12pt");  
+            $(".normalchar span").css("font-size","12pt");
+                                                    }
+                                }
+                                else if(yiki==3)
+                {
+                                    $(".SNText5").css("font-size","15px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","15px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","15px");
+        $(".linkTitleNewBold").css("font-size","16px");
+        $(".SNTextColour").css("font-size","16px");
+        $(".SNText").css("font-size","16px");
+        $(".SNTextsynop").css("font-size","16px");
+        $(".synopsis").css("font-size","16px");
+        $(".links11").css("font-size","16px");
+        $(".linksdl").css("font-size","15px");
+        $(".linksdsm").css("font-size","14px");
+        $(".hdtoolbarsm").css("font-size","16px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","15pt");
+            $(".MsoNormal b span").css("font-size","17pt");
+            
+        }
+        else
+        {
+            
+            $(".MsoNormal span").css("font-size","14pt");
+            $(".Section1 span").css("font-size","14pt");
+            $(".MsoNormal b span").css("font-size","16pt");
+            $(".MsoListParagraph  span").css("font-size","14pt");
+            $(".FreeForm b span").css("font-size","14pt");
+            $("h1 span").css("font-size","16pt");
+            $("h6 span").css("font-size","14pt");
+            $("h1 a span").css("font-size","14pt");
+            $(".MsoHeading7 span").css("font-size","14pt");
+            $(".normalchar span").css("font-size","14pt");
+        }
+                }
+                            }
+                });
+                
+               
+        
+               
+    }
+ $(document).ready(function(){
+     //alert("hello");
+        var fontsizedata=yiki;
+        if(fontsizedata==3)
+        {         
+            document.getElementById("fontsmall").src="unic/Icon_SmallFont_Off.png";
+            document.getElementById("fontbig").src="unic/Icon_BigFont_Off.png";
+            document.getElementById("fontbigs").src="unic/Icon_LargeFont_On.png";
+        $(".SNText5").css("font-size","15px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","15px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","15px");
+        $(".linkTitleNewBold").css("font-size","16px");
+        $(".SNTextColour").css("font-size","16px");
+        $(".SNText").css("font-size","16px");
+        $(".SNTextsynop").css("font-size","16px");
+        $(".synopsis").css("font-size","16px");
+        $(".links11").css("font-size","16px");
+        $(".linksdl").css("font-size","15px");
+        $(".linksdsm").css("font-size","14px");
+        $(".hdtoolbarsm").css("font-size","16px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","15pt");
+            $(".MsoNormal b span").css("font-size","17pt");
+            
+        }
+        else
+        {
+            
+            $(".MsoNormal span").css("font-size","14pt");
+            $(".Section1 span").css("font-size","14pt");
+            $(".MsoNormal b span").css("font-size","16pt");
+            $(".MsoListParagraph  span").css("font-size","14pt");
+            $(".FreeForm b span").css("font-size","14pt");
+            $("h1 span").css("font-size","16pt");
+            $("h6 span").css("font-size","14pt");
+            $("h1 a span").css("font-size","14pt");
+            $(".MsoHeading7 span").css("font-size","14pt");
+            $(".normalchar span").css("font-size","14pt");
+        }
+    }
+       else if(fontsizedata==2)
+        {         
+            document.getElementById("fontsmall").src="unic/Icon_SmallFont_Off.png";
+            document.getElementById("fontbig").src="unic/Icon_BigFont_On.png";
+            document.getElementById("fontbigs").src="unic/Icon_LargeFont_Off.png";
+        $(".SNText5").css("font-size","13px");
+        //$(".toolbar").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","13px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","13px");
+        $(".linkTitleNewBold").css("font-size","14px");
+        $(".SNTextColour").css("font-size","14px");
+        $(".SNText").css("font-size","14px");
+        $(".SNTextsynop").css("font-size","14px");
+        $(".synopsis").css("font-size","14px");
+        $(".links11").css("font-size","14px");
+        $(".linksdl").css("font-size","13px");
+        $(".linksdsm").css("font-size","12px");
+        $(".hdtoolbarsm").css("font-size","14px");
+        //$(".WordSection1 span").css("font-size","11pt");
+        if(check==1)
+        {
+            $(".Section1 span").css("font-size","13pt");
+            $(".MsoNormal b span").css("font-size","15pt");
+        }
+        else
+        {
+          $(".MsoNormal span").css("font-size","12pt");
+            $(".Section1 span").css("font-size","12pt");
+            $(".MsoNormal b span").css("font-size","14pt");
+            $(".MsoListParagraph  span").css("font-size","12pt");
+            $(".FreeForm b span").css("font-size","12pt");
+            $("h1 span").css("font-size","14pt");
+            $("h6 span").css("font-size","12pt");
+            $("h1 a span").css("font-size","12pt");
+            $(".MsoHeading7 span").css("font-size","12pt");
+            $(".normalchar span").css("font-size","12pt");
+        }
+    }
+    else if(fontsizedata==1)
+    {
+        document.getElementById("fontsmall").src="unic/Icon_SmallFont_On.png";
+        document.getElementById("fontbig").src="unic/Icon_BigFont_Off.png";
+        document.getElementById("fontbigs").src="unic/Icon_LargeFont_Off.png";
+        $(".SNText5").css("font-size","11px");
+        $(".hdtoolbarsm").css("font-size","12px");
+        $(".SNTextSynopsis").css("font-size","12px");
+        //$(".linksd").css("font-size","103%");
+        $(".SNTextColourDATE").css("font-size","11px");
+        $(".linkTitleNewBold").css("font-size","12px");
+        $(".links11").css("font-size","12px");
+        $(".SNTextColour").css("font-size","12px");
+        $(".SNText").css("font-size","12px");
+        $(".SNTextsynop").css("font-size","12px");
+        $(".synopsis").css("font-size","12px");
+        $(".linksdl").css("font-size","11px");
+        $(".linksdsm").css("font-size","10px");
+        //$(".WordSection1 span").css("font-size","10pt");
+        /*if(check==1)
+        {
+            $(".Section1 span").css("font-size","11pt");
+            $(".MsoNormal b span").css("font-size","13pt");
+        }
+        else
+        {            
+            $(".MsoNormal span").css("font-size","10pt");
+            $(".Section1 span").css("font-size","10pt");
+            $(".MsoNormal b span").css("font-size","12pt");
+            
+        }*/
+    }
+   
+});
+                    </script>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+
+
+	<table cellspacing="0" cellpadding="0" width="1000px" border="0">
+		<tbody><tr>
+		  <td colspan="0" height="106px" valign="top" width="118px"><img src="unic/headerhindi_01.png" width="118px" height="106" border="0" usemap="#Map"></td>
+		  <td colspan="0" height="106px" valign="top" width="570px" style="background-image:url(unic/header_02.gif)">
+		<!--  <table cellSpacing="0" cellPadding="0"  border="0" width="570px">
+			  <tr>
+			  		<td align="right" valign="bottom" height="60" width="813" >&nbsp;</td>
+			  		<td align="left" valign="bottom"  height="60" width="55">&nbsp;</td>
+			  </tr>
+			  <tr>
+			  		<td align="right" valign="middle" height="46" width="813" ><input name="SearchText" class="SNText" type="text" size="25" maxlength="100" value="Search"></td>
+			  		<td align="left" valign="middle"  height="46" width="55"><img id ="Search" src="unic/Search_Square.png" width="24"  height="21" onMouseOver="shov()" onMouseOut="sout()"></td>
+			  </tr>
+		  </table >
+		  -->
+                  <center>
+                      <input id="fontsmall" type="image" src="unic/Icon_SmallFont_On.png" onclick="testingfont()" style="position:relative;top:78px;left:104px;">
+                      <input id="fontbig" type="image" src="unic/Icon_BigFont_Off.png" onclick="testingfont1()" style="position:relative;top:78px;left:110px;">
+                  <input id="fontbigs" type="image" src="unic/Icon_LargeFont_Off.png" onclick="testingfont2()" style="position:relative;top:78px;left:116px;"></center>
+		</td>
+		  <td colspan="0" height="106px" valign="top" width="324px"><img src="unic/header_03.gif" width="324px" height="106" border="0" usemap="#Map2"></td>
+                  
+		</tr>
+		<tr>
+		<td colspan="3" style="background-image:url(unic/menu_band.png); vertical-align:top;" valign="top" width="1000px">
+						<table border="0" cellspacing="0" align="left" cellpadding="0" width="1000px">
+									<tbody><tr>
+										 <td style="text-decoration:none" height="26px" width="1000px" valign="top">
+										   <script language="javascript" type="text/javascript" src="ClientScript/rollover.js">
+<!--
+	function rolloverInit() {}
+	function rolloverOn() {}
+	function rolloverOff() {}
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="ClientScript/windows.js"></script>
+<script language="javascript" src="ClientScript/ypSlideOutMenusC.js"></script>
+<script language="javascript">
+var screenResolution=screen.width;
+	offset=(screenResolution - 995) / 2;
+	if (offset < 0){
+	offset=0;
+	}
+	function mouseOverMainMenu(channelKey)
+	{
+		document.getElementById(channelKey).className="toolbar1";
+	}
+	function mouseOutMainMenu(channelKey)
+	{
+		document.getElementById(channelKey).className="toolbar";
+	}
+
+	function mouseOutMenu(subChannelId)
+	{
+		document.getElementById(subChannelId).className="toolbar";
+	}
+   function mouseOverMenu(subChannelId)
+   {
+   		document.getElementById(subChannelId).className="toolbar1";
+   }
+   function mouseOverDiv(divId)
+   {
+      document.getElementById(divId).className="toolbarsub1";
+   }
+   function mouseOutDiv(divId)
+   {
+   		document.getElementById(divId).className="toolbarsub";
+   }
+	
+	/*if (screenResolution == 640){
+	offset=0;
+	}
+	if (screenResolution == 720){
+	offset=0;
+	}
+	if (screenResolution == 800){
+	offset=0;
+	}
+	if (screenResolution == 1024){
+	offset=112;
+	}*/
+</script>
+<script language="javascript">
+
+			                   new ypSlideOutMenu("menu1", "down", offset+1, 1, 1,34)
+		                  			                   new ypSlideOutMenu("menu2", "down", offset+97, 132, 140,34)
+		                  			                   new ypSlideOutMenu("menu3", "down", offset+233, 132, 150,34)
+		                  			                   new ypSlideOutMenu("menu4", "down", offset+316, 132, 180,34)
+		                  			                   new ypSlideOutMenu("menu5", "down", offset+427, 132, 142,34)
+		                  			                   new ypSlideOutMenu("menu6", "down", offset+538, 132, 195,34)
+		                  			                   new ypSlideOutMenu("menu7", "down", offset+700, 200, 200,34)
+		                  			                   new ypSlideOutMenu("menu8", "down", offset+766, 132, 130,34)
+		                  			                   new ypSlideOutMenu("menu9", "down", offset+846, 132, 140,34)
+		                  
+
+
+
+
+
+
+</script><style type="text/css">#menu1Container { visibility:hidden; left:1px; top:1px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:1px; height:34px; clip:rect(0 1 34 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:97px; top:132px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:140px; height:34px; clip:rect(0 140 34 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:233px; top:132px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:150px; height:34px; clip:rect(0 150 34 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:316px; top:132px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:180px; height:34px; clip:rect(0 180 34 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:427px; top:132px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:142px; height:34px; clip:rect(0 142 34 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:538px; top:132px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:195px; height:34px; clip:rect(0 195 34 0); }</style><style type="text/css">#menu7Container { visibility:hidden; left:700px; top:200px; overflow:hidden; z-index:10000; }#menu7Container, #menu7Content { position:absolute; width:200px; height:34px; clip:rect(0 200 34 0); }</style><style type="text/css">#menu8Container { visibility:hidden; left:766px; top:132px; overflow:hidden; z-index:10000; }#menu8Container, #menu8Content { position:absolute; width:130px; height:34px; clip:rect(0 130 34 0); }</style><style type="text/css">#menu9Container { visibility:hidden; left:846px; top:132px; overflow:hidden; z-index:10000; }#menu9Container, #menu9Content { position:absolute; width:140px; height:34px; clip:rect(0 140 34 0); }</style>
+<style type="text/css">
+
+
+</style>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<div id="drop">
+						<div id="menu1Container" style="height: 500px; visibility: hidden;">
+			<div id="menu1Content" style="top: -34px;">
+			 
+</div>
+</div>
+												</div><div id="menu2Container" style="height: 500px; visibility: hidden;">
+			<div id="menu2Content" style="top: -34px;">
+							  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel85" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel85');" onmouseout="mouseOutDiv('divsubchannel85');">
+					<span style="padding:5px;"><a href="http://www.un.org/en/hq/dpi/" target="_blank" class="linksd">UN / DPI</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel2" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel2');" onmouseout="mouseOutDiv('divsubchannel2');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=12063&amp;subid=" target="_self" class="linksd">UNIC Director</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel8" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel8');" onmouseout="mouseOutDiv('divsubchannel8');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=10025&amp;subid=" target="_self" class="linksd">What We Do</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel47" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel47');" onmouseout="mouseOutDiv('divsubchannel47');">
+					<span style="padding:5px;"><a href="http://unic.un.org/" target="_blank" class="linksd">UNICs around the World</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel9" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel9');" onmouseout="mouseOutDiv('divsubchannel9');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=10001&amp;subid=" target="_self" class="linksd">Contact Us</a></span>
+					</div>
+					</div>
+					
+					
+					 
+</div>
+</div><div id="menu3Container" style="height: 500px; visibility: hidden;">
+			<div id="menu3Content" style="top: -34px;">
+			 
+</div>
+</div><div id="menu4Container" style="height: 500px; visibility: hidden;">
+			<div id="menu4Content" style="top: -34px;">
+			 
+</div>
+</div><div id="menu5Container" style="height: 500px; visibility: hidden;">
+			<div id="menu5Content" style="top: -34px;">
+							  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel39" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel39');" onmouseout="mouseOutDiv('divsubchannel39');">
+					<span style="padding:5px;"><a href="http://www.un.org" target="_blank" class="linksd">UN Home Page</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel40" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel40');" onmouseout="mouseOutDiv('divsubchannel40');">
+					<span style="padding:5px;"><a href="http://www.un.org/en/aboutun/structure/index.shtml" target="_blank" class="linksd">Structure of the UN</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel41" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel41');" onmouseout="mouseOutDiv('divsubchannel41');">
+					<span style="padding:5px;"><a href="http://www.un.org/sg/" target="_blank" class="linksd">Secretary-General</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel49" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel49');" onmouseout="mouseOutDiv('divsubchannel49');">
+					<span style="padding:5px;"><a href="http://www.un.org.in/Pages/index.html" target="_blank" class="linksd">UN System in India</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel91" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel91');" onmouseout="mouseOutDiv('divsubchannel91');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;subchkey=&amp;itemid=11972&amp;subid=" target="_self" class="linksd">UN Country Team - India</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel84" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel84');" onmouseout="mouseOutDiv('divsubchannel84');">
+					<span style="padding:5px;"><a href="items/ContactUs_UNCountryTeamBhutan.pdf" target="_blank" class="linksd">UN Country Team - Bhutan</a></span>
+					</div>
+					</div>
+					
+					
+					 
+</div>
+</div><div id="menu6Container" style="height: 500px; visibility: hidden;">
+			<div id="menu6Content" style="top: -34px;">
+							  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel6" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel6');" onmouseout="mouseOutDiv('divsubchannel6');">
+					<span style="padding:5px;"><a href="displayitem.php?chkey=9&amp;chkey1=6&amp;subchkey=0&amp;chname=Press &amp; Media&amp;chname1=Press Releases" target="_self" class="linksd">Press Releases</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel26" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel26');" onmouseout="mouseOutDiv('divsubchannel26');">
+					<span style="padding:5px;"><a href="http://www.un.org/News/" target="_blank" class="linksd">UN News Centre, New York</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel46" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel46');" onmouseout="mouseOutDiv('divsubchannel46');">
+					<span style="padding:5px;"><a href="displayitem.php?chkey=9&amp;chkey1=46&amp;subchkey=0&amp;chname=Press &amp; Media&amp;chname1=UNEWS Newsletter (UNIC, New Delhi)" target="_blank" class="linksd">UNEWS Newsletter (UNIC, New Delhi)</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel73" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel73');" onmouseout="mouseOutDiv('divsubchannel73');">
+					<span style="padding:5px;"><a href="items/Other_HumanRightsWeeklyStories.pdf" target="_blank" class="linksd">Human Rights</a></span>
+					</div>
+					</div>
+					
+					
+					 
+</div>
+</div><div id="menu7Container" style="height: 500px; visibility: hidden;">
+			<div id="menu7Content" style="top: -34px;">
+			 
+</div>
+</div><div id="menu8Container" style="height: 500px; visibility: hidden;">
+			<div id="menu8Content" style="top: -34px;">
+							  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel67" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel67');" onmouseout="mouseOutDiv('divsubchannel67');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12748&amp;subid=" target="_self" class="linksd">About Model UN</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel81" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel81');" onmouseout="mouseOutDiv('divsubchannel81');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12899&amp;subid=" target="_self" class="linksd">How UNIC Collaborates</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel68" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel68');" onmouseout="mouseOutDiv('divsubchannel68');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12057&amp;subid=" target="_self" class="linksd">MUN Calendar</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel69" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel69');" onmouseout="mouseOutDiv('divsubchannel69');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12750&amp;subid=" target="_self" class="linksd">Resources</a></span>
+					</div>
+					</div>
+					
+					
+					 
+</div>
+</div><div id="menu9Container" style="height: 500px; visibility: hidden;">
+			<div id="menu9Content" style="top: -34px;">
+							  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel51" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel51');" onmouseout="mouseOutDiv('divsubchannel51');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11972&amp;subid=" target="_self" class="linksd">UN Country Team - India</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel83" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel83');" onmouseout="mouseOutDiv('divsubchannel83');">
+					<span style="padding:5px;"><a href="items/ContactUs_UNCountryTeamBhutan.pdf" target="_blank" class="linksd">UN Country Team - Bhutan</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel50" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel50');" onmouseout="mouseOutDiv('divsubchannel50');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General%20Link&amp;chkey=2&amp;subchkey=&amp;itemid=10001&amp;subid=" target="_self" class="linksd">UNIC Contacts</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel52" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel52');" onmouseout="mouseOutDiv('divsubchannel52');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11973&amp;subid=" target="_self" class="linksd">UN Communication Group</a></span>
+					</div>
+					</div>
+					
+					
+									  <div style="background-color:#BCD1FB;">
+					<div align="left" style="background-color:#BCD1FB; border-bottom: 1px dotted #666666; padding:0;   width: 100%" id="divsubchannel53" class="toolbarsub" onmouseover="mouseOverDiv('divsubchannel53');" onmouseout="mouseOutDiv('divsubchannel53');">
+					<span style="padding:5px;"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11974&amp;subid=" target="_self" class="linksd">UN Librarians</a></span>
+					</div>
+					</div>
+					
+					
+					 
+</div>
+</div><table width="1000" height="26px" border="0" align="center" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu14">
+																													<a class="toolbar" href="default.php" onmouseover=" mouseOverMainMenu('menu14');rolloverOn('history'); ypSlideOutMenu.showMenu('menu1');" onmouseout="mouseOutMainMenu('menu14');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu1');">Home</a>
+															</td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+																<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu2">
+																													<a class="toolbar" href="#" onmouseover=" mouseOverMainMenu('menu2');rolloverOn('history'); ypSlideOutMenu.showMenu('menu2');" onmouseout="mouseOutMainMenu('menu2');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu2');">About Us</a>
+															</td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu4">
+																													<a class="toolbar" href="http://www.un.org/en/globalissues/" target="_blank" onmouseover=" mouseOverMainMenu('menu4');rolloverOn('history'); ypSlideOutMenu.showMenu('menu3');" onmouseout="mouseOutMainMenu('menu4');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu3');">Global Issues</a></td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu5">
+																													<a class="toolbar" href="http://library.unicindia.org/" target="_blank" onmouseover=" mouseOverMainMenu('menu5');rolloverOn('history'); ypSlideOutMenu.showMenu('menu4');" onmouseout="mouseOutMainMenu('menu5');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu4');">Library</a></td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu12">
+																													<a class="toolbar" href="#" onmouseover=" mouseOverMainMenu('menu12');rolloverOn('history'); ypSlideOutMenu.showMenu('menu5');" onmouseout="mouseOutMainMenu('menu12');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu5');">UN System</a>
+															</td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu9">
+																													<a class="toolbar" href="#" onmouseover=" mouseOverMainMenu('menu9');rolloverOn('history'); ypSlideOutMenu.showMenu('menu6');" onmouseout="mouseOutMainMenu('menu9');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu6');">Press &amp; Media</a>
+															</td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu17">
+																													<a class="toolbar" href="displayitem.php?chkey=9&amp;chkey1=46&amp;subchkey=0&amp;chname=Press%20&amp;%20Media&amp;chname1=Newsletter%20(UNIC,%20New%20Delhi)" target="_self" onmouseover=" mouseOverMainMenu('menu17');rolloverOn('history'); ypSlideOutMenu.showMenu('menu7');" onmouseout="mouseOutMainMenu('menu17');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu7');">Newsletter</a></td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu18">
+																													<a class="toolbar" href="#" onmouseover=" mouseOverMainMenu('menu18');rolloverOn('history'); ypSlideOutMenu.showMenu('menu8');" onmouseout="mouseOutMainMenu('menu18');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu8');">Model UN</a>
+															</td>
+																								<td width="1" valign="baseline">
+													<img align="absmiddle" width="1" height="26" src="unic/menu_separater.png">
+												</td>
+															
+												<td style="text-decoration:none;" align="center" width="150" class="toolbar" id="menu10">
+																													<a class="toolbar" href="#" onmouseover=" mouseOverMainMenu('menu10');rolloverOn('history'); ypSlideOutMenu.showMenu('menu9');" onmouseout="mouseOutMainMenu('menu10');rolloverOff('history'); ypSlideOutMenu.hideMenu('menu9');">Contact Us</a>
+															</td>
+															
+
+
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+										 </td>
+										 
+									</tr>
+						</tbody></table>
+		</td>
+                
+		</tr>
+	</tbody></table> 
+<map name="Map">
+      <area shape="circle" coords="56,53,41" href="default.php" target="_self" onclick="pageScroll1()">
+    </map>
+<map name="Map2">
+  <area shape="rect" coords="5,7,320,99" href="default.php" target="_self" onclick="pageScroll1()">
+</map>
+	
+
+</td>
+	</tr>
+	 <tr>
+		<td valign="top" style="padding-top:0px " width="90px" bgcolor="#FFFFFF" align="left">&nbsp;
+		 
+		</td>
+		<td valign="top" style="padding-top:0px " width="900px" bgcolor="#FFFFFF" align="left">&nbsp;
+		 
+		</td>
+	 </tr>
+	<tr>
+		<td valign="top" align="center" width="990px" colspan="2" bgcolor="#ffffff"><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/******************************************
+* DHTML Ad Box (By Matt Gabbert at http://www.nolag.com)
+* Visit http://www.dynamicdrive.com/ for full script
+* This notice must stay intact for use
+******************************************/
+
+adTime=10;  // seconds ad reminder is shown
+chanceAd=1; // ad will be shown 1 in X times (put 1 for everytime)
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+var check=0;
+var calunit=ns? "" : "px"
+adCount=0;
+var countforzoom=0;
+var basha1=0;
+if(basha1==1)
+{
+    //alert("hi");
+    check=1;
+}
+else
+{    
+    check=0;
+}
+function initAd(){
+	if(!ns && !ie && !w3) return;
+	if(ie)		adDiv=eval('document.all.sponsorAdDiv.style');
+	else if(ns)	adDiv=eval('document.layers["sponsorAdDiv"]');
+	else if(w3)	adDiv=eval('document.getElementById("sponsorAdDiv").style');
+
+	randAd=Math.ceil(Math.random()*chanceAd);
+        if (ie||w3)
+        adDiv.visibility="visible";
+        else
+        adDiv.visibility ="show";
+	if(randAd==1) showAd();
+}
+function showAd(){
+if(adCount<adTime*100000000000){adCount+=1;
+	if (ie){documentWidth  =truebody().offsetWidth/2+truebody().scrollLeft-20;
+	documentHeight =truebody().offsetHeight/2+truebody().scrollTop-20;}	
+	else if (ns){documentWidth=window.innerWidth/2+window.pageXOffset-20;
+	documentHeight=window.innerHeight/2+window.pageYOffset-20;} 
+	else if (w3){documentWidth=self.innerWidth/2+window.pageXOffset-20;
+	documentHeight=self.innerHeight/2+window.pageYOffset-20;} 
+	adDiv.left=documentWidth-50+calunit;adDiv.top =documentHeight-200+calunit;
+	setTimeout("showAd()",100000000000);}else closeAd();
+}
+function closeAd(){
+if (ie||w3)
+adDiv.display="none";
+else
+adDiv.visibility ="hide";
+document.frmchannel11.txthid.value=0;
+document.forms["frmchannel11"].submit();
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+function submitform() 
+{
+var delimiter = delimiter || ';';
+	var filter  = /([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+>?$/;	
+	var error = 0;
+	// Create an array by splitting the field along the delimiter
+	var aEmails = document.frmchannel11.to_field.value.split(';');
+		if(document.frmchannel11.to_field.value=="")
+	{
+			alert("Please enter a valid email address.");
+			return;
+	}
+
+	// For each of the emails
+	for(index = 0; index < aEmails.length; index++) {
+		// Trim spaces from the ends
+		aEmails[index] = (aEmails[index].replace(/^\s+/,'')).replace(/\s+$/,'');
+		// Check whether an email is present
+		if(aEmails[index] != '' && aEmails[index].search(filter) == -1)
+		{
+			alert("Please enter a valid email address.");
+			return;
+			}
+	}
+	var aEmails1 = document.frmchannel11.to_field.value;
+	var aName1 = document.frmchannel11.name_field.value;
+	var aBody1 = document.frmchannel11.body_field.value;
+	var url1 =document.frmchannel11.url1.value;
+	var title1=document.frmchannel11.url11.value;
+	//alert(url1);
+	//alert(title1);
+	window.open("sendEmail.php?email=" + aEmails1 + "&url=" + url1 + "&line31=" + title1 + "&Name=" + aName1 + "&Body=" + aBody1 + "","open_window","menubar=no, toolbar=no, location=no, directories=no, status=no, scrollbars=no, resizable=no, dependent=no, width=200, height=100, left=400, top=350");
+//	window.open("sendEmail.php?email=" + aEmails1 + "&Name=" + aName1 + "&Body=" + aBody1 + "","open_window","menubar=no, toolbar=no, location=no, directories=no, status=no, scrollbars=no, resizable=no, dependent=no, width=200, height=100, left=400, top=350");
+		
+
+//	popupWin = window.open('sendmail.php?email=aEmails1&Name=aName1&Body=aBody1','open_window','menubar, toolbar, location, directories, status, scrollbars, resizable, dependent, width=640, height=480, left=0, top=0');
+	document.forms["frmchannel11"].submit();
+}
+//onload=initAd;
+function CopyHTMLToClipboard() {    
+        if (document.body.createControlRange) {
+//            var htmlContent = document.getElementById('kopiraj');
+			var div = document.getElementById('kopiraj');
+			div.contentEditable = 'true';
+            var controlRange;
+			//var controlRange;
+        if (document.body.createControlRange) {
+        controlRange = document.body.createControlRange();
+        controlRange.addElement(div);
+		document.getElementById('kopiraj').style.display = 'block';
+        controlRange.execCommand('Copy');
+        }
+        div.contentEditable = 'false';
+		document.getElementById('kopiraj').style.display = 'none';
+        return false;
+            alert('Your HTML has been copied\n\r\n\rGo to Word and press Ctrl+V');
+        }
+    }  
+    function getParameterByName(name)
+{
+  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+  var regexS = "[\\?&]" + name + "=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.href);
+  if(results == null)
+    return "";
+  else
+    return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+    function Filter11(){
+    
+    if(getParameterByName('chname1')=="")
+    {
+        var val=getParameterByName('chname');
+    }
+    else
+    {
+        var val=getParameterByName('chname1');
+    }
+var fdate='2005-01-01';
+		var a = new Date();
+//		var b = a.toISOString().split("T")[0].split("-");
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+var monthNames = new Array("January","February","March","April","May","June","July",
+                           "August","September","October","November","December");
+
+var dt = new Date();
+var y  = dt.getYear();
+
+// Y2K compliant
+if (y < 1000) y +=1900;
+
+var b= y+"-"+dt.getMonth()+1 + "-" + dt.getDate() ;
+var tdate = b;
+var stext=document.getElementById('SearchText').value;
+if(stext=="Search")
+{
+	alert("Enter search text.......!");
+	return false;
+}
+
+	if(document.getElementById('check1').checked==true){
+        if( val =="Events")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+		if(getParameterByName('chname')=="Interviews")
+                {
+                    document.location.href="displayitemSearch.php?chkey=18&subchkey=0&chname=Interviews&chname1=Events&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+                }
+                else
+                {
+                    document.location.href="displayitemSearch.php?chkey=1&subchkey=0&chname=Events&chname1=Events&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+                }
+	}
+
+	if( val =="Reading Room")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+		document.location.href="displayitemSearch.php?chkey=10&subchkey=0&chname=Publications&chname1=Reading Room&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="Get Involved")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+		document.location.href="displayitemSearch.php?chkey=9&subchkey=0&chname=Get Involved&chname1=Get Involved&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+
+	if( val =="Press Releases")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+
+//		document.location.href="displayitemSearch.php?chkey=12&subchkey=0&chname=Press Releases&chname1=Stop Press&rk="+document.getElementById('viewperpage12').value+"&mfdate="+fdate+"&mtdate="+tdate;
+		document.location.href="displayitemSearch.php?chkey=9&chkey1=6&subchkey=0&chname=Press Releases&chname1=Press Releases&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	
+	if( val =="UNEWS Newsletter (UNIC, New Delhi)")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+
+//		document.location.href="displayitemSearch.php?chkey=12&subchkey=0&chname=Press Releases&chname1=Stop Press&rk="+document.getElementById('viewperpage12').value+"&mfdate="+fdate+"&mtdate="+tdate;
+		document.location.href="displayitemSearch.php?chkey=9&chkey1=46&subchkey=0&chname=Press and Media&chname1=UNEWS Newsletter (UNIC, New Delhi)&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="Newsletter (UNIC, New Delhi)")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+
+//		document.location.href="displayitemSearch.php?chkey=12&subchkey=0&chname=Press Releases&chname1=Stop Press&rk="+document.getElementById('viewperpage12').value+"&mfdate="+fdate+"&mtdate="+tdate;
+		document.location.href="displayitemSearch.php?chkey=9&chkey1=46&subchkey=0&chname=Press and Media&chname1=Newsletter (UNIC, New Delhi)&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	
+	
+	if( val =="Stop Press" )
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+//		document.location.href="displayitemSearch.php?chkey=12&subchkey=0&chname=Press Releases&chname1=Stop Press&rk="+document.getElementById('viewperpage12').value+"&mfdate="+fdate+"&mtdate="+tdate;
+		document.location.href="displayitemSearch.php?chkey=9&chkey1=6&subchkey=0&chname=Press Releases&chname1=Stop Press&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+
+	if( val =="UNIC Videos")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+		//var fdate=document.getElementById('month_from').value+"/"+document.getElementById('day_from').value+"/"+document.getElementById('year_from').value;
+		//var tdate=document.getElementById('month_to').value+"/"+document.getElementById('day_to').value+"/"+document.getElementById('year_to').value;
+
+		document.location.href="displayitemSearch.php?chname=Videos&chname1=UNIC Videos&subchkey=1&VIDEOChannel=0&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="UNIC Photos")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+	//	var fdate=document.getElementById('month_from').value+"/"+document.getElementById('day_from').value+"/"+document.getElementById('year_from').value;
+//		var tdate=document.getElementById('month_to').value+"/"+document.getElementById('day_to').value+"/"+document.getElementById('year_to').value;
+		document.location.href="displayitemSearch.php?chkey=0&pchkey=&subchkey=0&chname=Photos&chname1=UNIC Photos&pitemsqno=1&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="UN Photos")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+//		var fdate=document.getElementById('month_from').value+"/"+document.getElementById('day_from').value+"/"+document.getElementById('year_from').value;
+//		var tdate=document.getElementById('month_to').value+"/"+document.getElementById('day_to').value+"/"+document.getElementById('year_to').value;
+		document.location.href="displayitemSearch.php?chname=Videos&chname1=UN Photos&subchkey=1&VIDEOChannel=3&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="UN Radio")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+//		var fdate=document.getElementById('month_from').value+"/"+document.getElementById('day_from').value+"/"+document.getElementById('year_from').value;
+//		var tdate=document.getElementById('month_to').value+"/"+document.getElementById('day_to').value+"/"+document.getElementById('year_to').value;
+		document.location.href="displayitemSearch.php?chname=Videos&chname1=UN Radio&subchkey=1&VIDEOChannel=1&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+	if( val =="UN TV")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+		document.location.href="displayitemSearch.php?chname=Videos&chname1=UN TV&subchkey=1&VIDEOChannel=2&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+        if( val =="UN Working in India")
+	{
+		if(fdate == tdate)
+		{
+			fdate='2005-01-01';
+		}
+//		var fdate=document.getElementById('month_from').value+"/"+document.getElementById('day_from').value+"/"+document.getElementById('year_from').value;
+//		var tdate=document.getElementById('month_to').value+"/"+document.getElementById('day_to').value+"/"+document.getElementById('year_to').value;
+		document.location.href="displayitemSearch.php?chkey=16&chkey1=65&subchkey=0&chname=UN Working in India&chname1=UN Working in India&mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+	}
+    }
+    if(document.getElementById('check').checked==true)
+     {
+         document.location.href="displayitemSearchHome.php?mfdate="+fdate+"&mtdate="+tdate+"&stext="+stext;
+     }
+    }    
+        //var x=document.getElementsByTagName('span');
+        /*if(document.getElementsByTagName("span").style.fontSize=="12pt")
+        {            
+            $("span").css("font-size","14pt");       
+        }
+        if(document.getElementsByTagName("span").style.fontSize=="10pt")
+        {            
+            $("span").css("font-size","12pt");       
+        }
+        if(document.getElementsByTagName("span").style.fontSize=="8pt")
+        {            
+            $("span").css("font-size","10pt");       
+        }*/
+        
+        
+        
+        //$("plusBtn").addEvent("click", function() {resizeText(1);});
+   
+</script>
+<style type="text/css">
+<!--
+#sponsorAdDiv {position:absolute; height:1; width:1px; top:0; left:0;}
+.twitter-share-button {
+width: 60px !important;
+}
+-->
+</style>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<form name="frmchannel11" action="" method="POST"> 
+<input type="hidden" name="txt1" id="txt1">
+<input type="hidden" name="txt2" id="txt2">
+<input type="hidden" name="txthid" id="txthid1">
+<input type="hidden" name="url11" id="url11" value="Privacy Statement">
+<input type="hidden" name="url1" id="url1" value="www.unic.org.in/Story.php?E=12044">
+
+
+	<table width="1000px" cellpadding="0" cellspacing="0" align="left">
+			<tbody><tr valign="top">
+			<td colspan="5">
+			</td>
+		</tr>
+		<tr valign="top">
+				<td valign="top" align="center" width="45px" bgcolor="#EDEDE2" height="28px">&nbsp;</td>
+				<td width="635px" bgcolor="#EDEDE2" align="center" colspan="2">
+					<table cellpadding="2" cellspacing="2" border="0" width="635px">
+						<tbody><tr>
+								<td width="130px">&nbsp;</td>
+								
+								<td width="60px" align="right">	
+<a href="https://twitter.com/share" data-count="none" class="twitter-share-button" data-url="www.unic.org.in/Story.php?E=12044" data-text="Privacy Statement www.unic.org.in/Story.php?E=12044" data-counturl="Privacy Statement www.unic.org.in/Story.php?E=12044"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td>								
+
+								
+								<!--
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="www.unic.org.in/Story.php?E=12044"  data-text="Privacy Statement www.unic.org.in/Story.php?E=12044" data-counturl="Privacy Statement www.unic.org.in/Story.php?E=12044" ></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			-->					
+<!--							
+								<a href="https://twitter.com/intent/tweet?button_hashtag=" class="twitter-hashtag-button" data-related="RakeshKaulParam" data-text="Privacy Statementwww.unic.org.in/Story.php?E=12044"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+-->
+								<td width="100px" align="right"><div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-action="recommend"></div></td>
+								<td width="75px"><img onclick="initAd()" src="Button_EmailLink.png" width="71px" height="20px"></td>
+								<td width="75px"><img onclick="CopyHTMLToClipboard()" src="Button_CopyLink.png" width="71px" height="20px"></td>
+                                                                <td width="205px" align="left">&nbsp;</td>
+
+						</tr>
+					</tbody></table>
+				</td>
+				<td valign="top" align="center" width="10px" bgcolor="#FFFFFF">&nbsp;</td>
+                                    <td valign="top" width="300px" bgcolor="#EdE9E9" align="center">
+                                <table cellspacing="0" cellpadding="0" border="0" width="213px">
+				  <tbody><tr>
+						<td valign="middle" height="22" width="123px" bgcolor="#EDE9E9" style="padding-left:10px"><input name="SearchText" id="SearchText" class="SNTexthome" onfocus="javascript:this.value=''" type="text" size="25" maxlength="100" value="Search" onkeydown="if (event.keyCode == 13) document.getElementById('Search2').click()"></td>
+						<td align="left" valign="middle" height="22" width="91px" bgcolor="#EDE9E9"><img id="Search2" src="unic/Search_Square.png" width="24" height="21" onmouseover="shov11()" onmouseout="sout11()" onclick="Filter11()"></td>
+				  </tr>  
+                                  <tr>
+                                      <td colspan="2">
+                                          <table cellspacing="0" cellpadding="0" border="0" width="213px">
+                                              <tbody><tr>
+                                          <td width="89px&quot;"><input class="SNText" id="check" type="radio" name="choice" value="website" align="left">Entire Website </td>
+                                          <td><input id="check1" type="radio" class="SNText" name="choice" align="left" value="website" checked="">Other</td></tr></tbody></table>
+                                      </td>
+                                  </tr>
+		  </tbody></table>
+                                </td>
+		</tr>
+               
+		<tr valign="top">
+			<td valign="top" align="center" width="45px" bgcolor="#EDEDE2" height="40px">&nbsp;</td>
+                                <td width="590px" bgcolor="#EDEDE2" align="right"></td>
+				<td valign="top" align="center" width="45px" bgcolor="#EDEDE2">&nbsp;</td>
+				<td valign="top" align="center" width="10px" bgcolor="#FFFFFF">&nbsp;</td>
+				<td valign="top" width="250px" bgcolor="#EDE9E9" align="center">&nbsp;</td>
+		</tr>
+
+		<tr valign="top">
+			<td valign="top" align="center" width="45px" bgcolor="#EDEDE2">&nbsp;</td>
+							<td width="590px" bgcolor="#EDEDE2" align="center">
+					<div id="yogiBody" align="center" style="width:auto; line-height:200%;text-align:justify;text-justify:inter-word;"> 
+                                            
+						                                                <!--<center>
+                                                    <input type="button" value="A" style="font-size:11px;" onclick="testing1()">
+                      <input type="button" value="A" style="font-size:14px;" onclick="testing2()"></center>-->
+                                                
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 12 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msopapdefault, li.msopapdefault, div.msopapdefault
+	{mso-style-name:msopapdefault;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal"><b><span lang="EN" style="font-size:12.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#0099CC">Privacy Statement</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:#333333">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Your privacy on the Internet is
+of utmost importance to UNIC India. As a general policy, UNIC India does not
+collect any personal information on its websites that identify you or any
+demographic information about you. </span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">This privacy statement describes UNIC
+India’s policy concerning the gathering and sharing of visitors’
+information through the UNIC India web site. </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><i><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">1. What information does unic
+india collect?</span></i></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">In general, you can browse the UNIC India
+site without revealing any personal information about yourself. The only
+information we gather during general browsing is from standard server logs.
+These include your IP (Internet Protocol) address, domain name, browser type,
+operating system, and information such as the web site that referred you to us,
+the files you download, the pages you visit, and the dates/times of those
+visits.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><i><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">2. What does unic india do with
+this information?</span></i></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">The information gathered during general
+browsing of the “unic.org.in” domain is used to analyze trends and
+usage of the UNIC India site and to improve the usefulness of the site. It is
+not connected with any personal information.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;&nbsp;</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><i><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">3. What about information
+security</span></i></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">We do not sell or share any personally
+identifiable information volunteered on the UNIC India site to any third party.
+Any information provided to UNIC India by users of the UNIC India site is held
+with the utmost care and security, and will not be used in ways other than as
+set forth in this privacy policy, or in any site-specific policies, or in ways
+to which you have explicitly consented. UNIC India employs a range of
+technologies and security measures to protect the information maintained on our
+systems from loss, misuse, unauthorized access or disclosure, alteration, or
+destruction.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">All our employees who have access to, and are
+associated with the processing of personal data, are obliged to respect the
+confidentiality of official business matters, including personal data.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">The UNIC India site contains links to sites external
+to the unic.org.in domain. UNIC India is not responsible for the privacy
+practices or the content of such sites.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><i><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">4. Our contact information</span></i></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">For questions or queries regarding this
+privacy policy, please contact the </span><span style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#0099CC"><a href="mailto:sharma@unicindia.org"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
+color:#0099CC;text-decoration:none">webmaster</span></a>.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><b><i><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">5. Website usage agreement</span></i></b></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Use of this Site constitutes agreement with
+the following terms and conditions.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span lang="EN" style="font-size:10.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">The United Nations Information Centre for
+India and Bhutan (“UNIC India”) maintains this web site (the
+"Site") as a courtesy to those UNIC India may choose to access the
+Site ("Users"). The information presented herein is for informative
+purposes only. UNIC India is pleased to allow Users to visit the Site and
+download and copy the information, documents and materials (collectively,
+"Materials") from the Site for User's personal, non-commercial use,
+without any right to resell, create derivative works, subject to the terms and
+conditions outlined in the </span><span lang="EN" style="font-size:10.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#0099CC"><a href="displaymore.php?chname=Other&amp;subchkey=&amp;itemid=12045&amp;subid="><span style="color:#0099CC;text-decoration:none">copyright notice</span></a></span><span lang="EN" style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">,
+and also subject to more specific restrictions that may apply to specific
+material within this Site.</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;</span></p>
+
+</div>
+
+
+
+
+					</div>
+				</td>
+							<td valign="top" align="center" width="45px" bgcolor="#EDEDE2">&nbsp;</td>
+				<td valign="top" align="center" width="10px" bgcolor="#FFFFFF">&nbsp;</td>
+				<td id="forfile" valign="top" width="300px" bgcolor="#EDE9E9" align="center">
+
+
+
+
+<title>UNIC Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+
+
+<table width="300px" align="left" border="0" cellspacing="0" cellpadding="2" style="margin-top:0px " bgcolor="#EDE9E9">
+
+</table>
+
+
+</td>
+		</tr>
+		<tr valign="top">
+			<td valign="top" align="center" width="45px" bgcolor="#EDEDE2" height="40px">&nbsp;</td>
+				<td width="590px" bgcolor="#EDEDE2"><div id="kopiraj" style="display:none; overflow:hidden" align="left">www.unic.org.in/Story.php?E=12044</div></td>
+				<td valign="top" align="center" width="45px" bgcolor="#EDEDE2">&nbsp;</td>
+				<td valign="top" align="center" width="10px" bgcolor="#FFFFFF">&nbsp;</td>
+				<td valign="top" width="300px" bgcolor="#EDE9E9" align="center">&nbsp;</td>
+		</tr>
+		<tr>
+		<td colspan="5">
+					<div id="sponsorAdDiv" style="visibility:hidden; width:500px; height:500px;">	
+					<table width="500px" height="500px" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" border="1" bordercolor="#0054AC6">
+						<tbody><tr>
+							<td>
+
+								<table width="500px" height="500px" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+									<tbody><tr>
+										<td valign="middle" height="60px" align="left" bgcolor="#6F6E6E" style="margin-left:25px; font:Arial, Helvetica, sans-serif; color:#FFFFFF; font-size:22px; line-height:100% ">&nbsp;&nbsp;&nbsp;Email this to friend(s):</td>
+									</tr>
+									<tr>
+										<td height="2px" align="left" valign="middle" style="line-height:80% ">&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="left" valign="middle" bgcolor="#EDEDE2" style="font:Arial, Helvetica, sans-serif; color:#0099CC; font-size:16px; line-height:110%; font-weight:bold "><div style="margin-left:15px; margin-top:5px " id="title">Privacy Statement</div></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="2px" align="left" bgcolor="#EDEDE2" style="font:Arial, Helvetica, sans-serif; color:#6F6E6E; font-size:7px; font-weight:bold ">____________________________________________________________________________________________________________________________________</td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:normal;  margin-left:25px;font:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; font-weight:bold ">&nbsp;</td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:normal;  margin-left:25px;font:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter the email id. of the recipients: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font:Arial, Helvetica, sans-serif; color:#666666; font-size:12px; font-style:italic; font-weight:normal">(maximum 10 separated by commas)</span></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="20px" align="left" bgcolor="#EDEDE2" style=" line-height:normal; margin-left:25px;font:Arial, Helvetica, sans-serif; color:#6F6E6E; font-size:7px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="to_field" type="text" size="78" height="30px"></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:100% ">&nbsp;</td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:normal;  margin-left:25px;font:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter your name:</td>
+									</tr>
+									<tr>
+										<td valign="middle" height="20px" align="left" bgcolor="#EDEDE2" style=" line-height:normal; margin-left:25px;font:Arial, Helvetica, sans-serif; color:#6F6E6E; font-size:7px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="name_field" type="text" size="78" height="30px"></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:100% ">&nbsp;</td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="line-height:normal;  margin-left:25px;font:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter your message:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font:Arial, Helvetica, sans-serif; color:#666666; font-size:12px; font-style:italic; font-weight:normal">(maximum 500 characters)</span></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="80px" align="left" bgcolor="#EDEDE2" style=" line-height:normal; margin-left:25px;font:Arial, Helvetica, sans-serif; color:#6F6E6E; font-size:7px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<textarea name="body_field" cols="61" rows="10" style="overflow:hidden "></textarea></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="10px" align="left" bgcolor="#EDEDE2" style="  margin-left:25px;font:Arial, Helvetica, sans-serif; color:#6F6E6E; font-size:7px; font-weight:bold "></td>
+									</tr>
+									<tr>
+										<td valign="middle" height="56px" align="center" bgcolor="#EDEDE2"><a href="#" onclick="submitform();"><img src="Button_SendLink.png" border="0"></a>&nbsp;&nbsp;<a href="#" onclick="closeAd();"><img src="Button_Close.png" border="0"></a>
+										
+										</td>
+									</tr>
+									
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</div>
+
+		</td>
+		
+		</tr>
+	</tbody></table>
+</form>
+
+</td>
+	</tr>
+</tbody></table>		 
+	<table width="995px" align="center" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" style="padding:'0px' '0px' '0px' '0px' ">
+		<tbody><tr>
+		   <td valign="middle" width="" align="center">
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+	<table cellspacing="0" cellpadding="0" border="0" style="padding:'0','0','0','0';" bgcolor="#FFFFFF">
+		<tbody><tr>
+			<td align="left" valign="top" height="15px"><img src="unic/SeparatorLine.png" border="0" width="1000px" height="1px"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top"><script language="javascript" type="text/javascript" src="ClientScript/rollover.js">
+<!--
+	function rolloverInit() {}
+	function rolloverOn() {}
+	function rolloverOff() {}
+//-->
+</script>
+<script language="javascript" type="text/javascript" src="ClientScript/windows.js"></script>
+<script language="javascript" src="ClientScript/ypSlideOutMenusC.js"></script>
+<script language="javascript">
+var screenResolution=screen.width;
+	offset=(screenResolution - 995) / 2
+	if (offset < 0){
+	offset=0;
+	}
+	function mouseOverMainMenu(channelKey)
+	{
+		document.getElementById(channelKey).className="toolbar1";
+	}
+	function mouseOutMainMenu(channelKey)
+	{
+		document.getElementById(channelKey).className="toolbar";
+	}
+
+	function mouseOutMenu(subChannelId)
+	{
+		document.getElementById(subChannelId).className="toolbar";
+	}
+   function mouseOverMenu(subChannelId)
+   {
+   		document.getElementById(subChannelId).className="toolbar1";
+   }
+   function mouseOverDiv(divId)
+   {
+      document.getElementById(divId).className="toolbarsub1";
+   }
+   function mouseOutDiv(divId)
+   {
+   		document.getElementById(divId).className="toolbarsub";
+   }
+	
+	/*if (screenResolution == 640){
+	offset=0;
+	}
+	if (screenResolution == 720){
+	offset=0;
+	}
+	if (screenResolution == 800){
+	offset=0;
+	}
+	if (screenResolution == 1024){
+	offset=112;
+	}*/
+</script>
+<script language="javascript">
+
+			                   new ypSlideOutMenu("menu1", "down", offset+1, 1, 1,34)
+		                  			                   new ypSlideOutMenu("menu2", "down", offset+97, 132, 140,34)
+		                  			                   new ypSlideOutMenu("menu3", "down", offset+233, 132, 150,34)
+		                  			                   new ypSlideOutMenu("menu4", "down", offset+316, 132, 180,34)
+		                  			                   new ypSlideOutMenu("menu5", "down", offset+427, 132, 142,34)
+		                  			                   new ypSlideOutMenu("menu6", "down", offset+538, 132, 195,34)
+		                  			                   new ypSlideOutMenu("menu7", "down", offset+700, 200, 200,34)
+		                  			                   new ypSlideOutMenu("menu8", "down", offset+766, 132, 130,34)
+		                  			                   new ypSlideOutMenu("menu9", "down", offset+846, 132, 140,34)
+		                  
+
+
+
+
+
+
+</script><style type="text/css">#menu1Container { visibility:hidden; left:1px; top:1px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:1px; height:34px; clip:rect(0 1 34 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:97px; top:132px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:140px; height:34px; clip:rect(0 140 34 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:233px; top:132px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:150px; height:34px; clip:rect(0 150 34 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:316px; top:132px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:180px; height:34px; clip:rect(0 180 34 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:427px; top:132px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:142px; height:34px; clip:rect(0 142 34 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:538px; top:132px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:195px; height:34px; clip:rect(0 195 34 0); }</style><style type="text/css">#menu7Container { visibility:hidden; left:700px; top:200px; overflow:hidden; z-index:10000; }#menu7Container, #menu7Content { position:absolute; width:200px; height:34px; clip:rect(0 200 34 0); }</style><style type="text/css">#menu8Container { visibility:hidden; left:766px; top:132px; overflow:hidden; z-index:10000; }#menu8Container, #menu8Content { position:absolute; width:130px; height:34px; clip:rect(0 130 34 0); }</style><style type="text/css">#menu9Container { visibility:hidden; left:846px; top:132px; overflow:hidden; z-index:10000; }#menu9Container, #menu9Content { position:absolute; width:140px; height:34px; clip:rect(0 140 34 0); }</style>
+<style type="text/css">
+
+
+</style>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<table width="995px" border="0" align="right" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+	<tbody>
+		<tr>
+		<td height="15px"></td>
+		</tr>
+		<tr>
+				<td align="left" style="text-decoration:none;" width="120" class="hdtoolbarsm" id="menu14" valign="top">&nbsp;&nbsp;Home Page Links
+				<div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=9&amp;chkey1=6&amp;subchkey=0&amp;chname=Press Releases&amp;chname1=Stop Press" target="_self" class="linksdsm">&nbsp;&nbsp;Stop Press</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=1&amp;subchkey=0&amp;chname=Events&amp;chname1=Events" target="_self" class="linksdsm">&nbsp;&nbsp;Events</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=10&amp;subchkey=0&amp;chname=Publications&amp;chname1=Reading Room" target="_self" class="linksdsm">&nbsp;&nbsp;Reading Room</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=9&amp;subchkey=0&amp;chname=Get Involved&amp;chname1=Get Involved" target="_self" class="linksdsm">&nbsp;&nbsp;Get Involved</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chname=Videos&amp;chname1=UNIC Videos&amp;subchkey=1&amp;VIDEOChannel=0" target="_self" class="linksdsm">&nbsp;&nbsp;Videos</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=0&amp;pchkey=&amp;subchkey=0&amp;chname=Photos&amp;chname1=UNIC Photos&amp;pitemsqno=1" target="_self" class="linksdsm">&nbsp;&nbsp;UNIC Photos</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chname=Videos&amp;chname1=UN Photos&amp;subchkey=1&amp;VIDEOChannel=3" target="_self" class="linksdsm">&nbsp;&nbsp;UN Photos</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chname=Videos&amp;chname1=UN Radio&amp;subchkey=1&amp;VIDEOChannel=1" target="_self" class="linksdsm">&nbsp;&nbsp;UN Radio</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chname=Videos&amp;chname1=UN TV&amp;subchkey=1&amp;VIDEOChannel=2" target="_self" class="linksdsm">&nbsp;&nbsp;UN TV</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=15&amp;chkey1=64&amp;subchkey=0&amp;chname=Coming Up&amp;chname1=Coming Up" target="_self" class="linksdsm">&nbsp;&nbsp;Coming Up</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=16&amp;chkey1=65&amp;subchkey=0&amp;chname=UN Working in Indiap&amp;chname1=UN Working in India" target="_self" class="linksdsm">&nbsp;&nbsp;UN Working in India</a></span>
+					</div>
+					<div align="left" id="11111" class="toolbarsmd">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=17&amp;chkey1=66&amp;subchkey=0&amp;chname=OP-EDs Placed by UNIC&amp;chname1=OP-EDs Placed by UNIC" target="_self" class="linksdsm">&nbsp;&nbsp;OP-EDs Placed by UNIC</a></span>
+					</div>
+				</div>
+
+									<div id="drop">
+						<div id="11">
+			<div id="12">
+			 
+</div>
+</div>
+		
+				</div></td><td align="left" style="text-decoration:none;" width="120" class="hdtoolbarsm" id="menu2" valign="top">
+				About Us&nbsp;
+									<div id="11">
+			<div id="12">
+							  <div>
+					<div align="left" id="divsubchannel85" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel85');" onmouseout="mouseOutDiv('divsubchannel85');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org/en/hq/dpi/" target="_blank" class="linksdsm"> UN / DPI</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel2" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel2');" onmouseout="mouseOutDiv('divsubchannel2');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=12063&amp;subid=" target="_self" class="linksdsm"> UNIC Director</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel8" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel8');" onmouseout="mouseOutDiv('divsubchannel8');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=10025&amp;subid=" target="_self" class="linksdsm"> What We Do</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel47" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel47');" onmouseout="mouseOutDiv('divsubchannel47');">
+					<span style="padding:1px; line-height:110%"><a href="http://unic.un.org/" target="_blank" class="linksdsm"> UNICs around the World</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel9" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel9');" onmouseout="mouseOutDiv('divsubchannel9');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=2&amp;subchkey=&amp;itemid=10001&amp;subid=" target="_self" class="linksdsm"> Contact Us</a></span>
+					</div>
+					</div>
+					
+
+					
+					 
+</div>
+</div>
+
+		
+ <div align="left" style="width:120px ">
+		</div>
+								<div id="11">
+			<div id="12">
+			 
+</div>
+</div>
+		
+								<div id="11">
+			<div id="12">
+			 
+</div>
+</div>
+		
+				</td><td align="left" style="text-decoration:none;" width="120" class="hdtoolbarsm" id="menu12" valign="top">
+				UN System&nbsp;
+									<div id="11">
+			<div id="12">
+							  <div>
+					<div align="left" id="divsubchannel39" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel39');" onmouseout="mouseOutDiv('divsubchannel39');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org" target="_blank" class="linksdsm"> UN Home Page</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel40" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel40');" onmouseout="mouseOutDiv('divsubchannel40');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org/en/aboutun/structure/index.shtml" target="_blank" class="linksdsm"> Structure of the UN</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel41" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel41');" onmouseout="mouseOutDiv('divsubchannel41');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org/sg/" target="_blank" class="linksdsm"> Secretary-General</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel49" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel49');" onmouseout="mouseOutDiv('divsubchannel49');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org.in/Pages/index.html" target="_blank" class="linksdsm"> UN System in India</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel91" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel91');" onmouseout="mouseOutDiv('divsubchannel91');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;subchkey=&amp;itemid=11972&amp;subid=" target="_blank" class="linksdsm"> UN Country Team - India</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel84" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel84');" onmouseout="mouseOutDiv('divsubchannel84');">
+					<span style="padding:1px; line-height:110%"><a href="items/ContactUs_UNCountryTeamBhutan.pdf" target="_blank" class="linksdsm"> UN Country Team - Bhutan</a></span>
+					</div>
+					</div>
+					
+
+					
+					 
+</div>
+</div>
+		
+				</td><td align="left" style="text-decoration:none;" width="120" class="hdtoolbarsm" id="menu9" valign="top">
+				Press &amp; Media&nbsp;
+									<div id="11">
+			<div id="12">
+							  <div>
+					<div align="left" id="divsubchannel6" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel6');" onmouseout="mouseOutDiv('divsubchannel6');">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=9&amp;chkey1=6&amp;subchkey=0&amp;chname=Press &amp; Media&amp;chname1=Press Releases" target="_self" class="linksdsm"> Press Releases</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel26" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel26');" onmouseout="mouseOutDiv('divsubchannel26');">
+					<span style="padding:1px; line-height:110%"><a href="http://www.un.org/News/" target="_blank" class="linksdsm"> UN News Centre, New York</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel46" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel46');" onmouseout="mouseOutDiv('divsubchannel46');">
+					<span style="padding:1px; line-height:110%"><a href="displayitem.php?chkey=9&amp;chkey1=46&amp;subchkey=0&amp;chname=Press &amp; Media&amp;chname1=UNEWS Newsletter (UNIC, New Delhi)" target="_self" class="linksdsm"> UNEWS Newsletter (UNIC, New Delhi)</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel73" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel73');" onmouseout="mouseOutDiv('divsubchannel73');">
+					<span style="padding:1px; line-height:110%"><a href="items/Other_HumanRightsWeeklyStories.pdf" target="_blank" class="linksdsm"> Human Rights</a></span>
+					</div>
+					</div>
+					
+
+					
+					 
+</div>
+</div>
+		
+								<div id="11">
+			<div id="12">
+			 
+</div>
+</div>
+		
+				</td><td align="left" style="text-decoration:none;" width="120" class="hdtoolbarsm" id="menu18" valign="top">
+				Model UN&nbsp;
+									<div id="11">
+			<div id="12">
+							  <div>
+					<div align="left" id="divsubchannel67" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel67');" onmouseout="mouseOutDiv('divsubchannel67');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12748&amp;subid=" target="_self" class="linksdsm"> About Model UN</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel81" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel81');" onmouseout="mouseOutDiv('divsubchannel81');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12899&amp;subid=" target="_self" class="linksdsm"> How UNIC Collaborates</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel68" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel68');" onmouseout="mouseOutDiv('divsubchannel68');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12057&amp;subid=" target="_self" class="linksdsm"> MUN Calendar</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel69" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel69');" onmouseout="mouseOutDiv('divsubchannel69');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=18&amp;subchkey=&amp;itemid=12750&amp;subid=" target="_self" class="linksdsm"> Resources</a></span>
+					</div>
+					</div>
+					
+
+					
+					 
+</div>
+</div>
+		
+			<div id="11">
+			<div id="12">
+							  <div>
+					<div align="left" id="divsubchannel51" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel51');" onmouseout="mouseOutDiv('divsubchannel51');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11972&amp;subid=" target="_self" class="linksdsm"> UN Country Team - India</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel83" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel83');" onmouseout="mouseOutDiv('divsubchannel83');">
+					<span style="padding:1px; line-height:110%"><a href="items/ContactUs_UNCountryTeamBhutan.pdf" target="_blank" class="linksdsm"> UN Country Team - Bhutan</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel50" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel50');" onmouseout="mouseOutDiv('divsubchannel50');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General%20Link&amp;chkey=2&amp;subchkey=&amp;itemid=10001&amp;subid=" target="_blank" class="linksdsm"> UNIC Contacts</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel52" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel52');" onmouseout="mouseOutDiv('divsubchannel52');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11973&amp;subid=" target="_self" class="linksdsm"> UN Communication Group</a></span>
+					</div>
+					</div>
+					
+
+					
+									  <div>
+					<div align="left" id="divsubchannel53" class="toolbarsmd" onmouseover="mouseOverDiv('divsubchannel53');" onmouseout="mouseOutDiv('divsubchannel53');">
+					<span style="padding:1px; line-height:110%"><a href="displaymore.php?chname=General Link&amp;chkey=10&amp;subchkey=&amp;itemid=11974&amp;subid=" target="_self" class="linksdsm"> UN Librarians</a></span>
+					</div>
+					</div>
+					
+
+					
+					 
+</div>
+</div>
+		
+
+
+</td></tr>
+		<tr>
+		<td height="15px"></td>
+		</tr>
+</tbody></table>
+</td>
+		</tr>
+
+		<tr>
+		<td valign="top" width="1000px" bgcolor="#999999">
+			<table cellspacing="0" cellpadding="0" border="0" style="padding:'0','0','0','0';">
+				<tbody><tr>
+					<td align="left" bgcolor="#0066CC" class="hdtoolbar" style="color:#FFFFFF " width="420" height="28px"><a style="text-decoration:none; font-size:10px; color:#FFFFFF" href="displaymore.php?chname=Other&amp;subchkey=&amp;itemid=12045&amp;subid=" target="_self">&nbsp;Design and Architecture of this website © UN Information Centre for India and Bhutan</a></td>
+					<td align="right" bgcolor="#0066CC" class="hdtoolbar" style="color:#FFFFFF " width="135"><a style="text-decoration:none;" class="toolbar" href="displaymore.php?chname=Other&amp;subchkey=&amp;itemid=12044&amp;subid=" target="_self">Privacy Statement&nbsp;&nbsp;</a></td>
+					<td align="center" bgcolor="#0066CC" class="hdtoolbar" style="color:#FFFFFF " width="10">I</td>
+					<td align="left" bgcolor="#0066CC" class="hdtoolbar" style="color:#FFFFFF " width="135">&nbsp;&nbsp;<a style="text-decoration:none;" class="toolbar" href="mailto:sharma@unicindia.org">Webmaster</a></td>
+					<td align="right" bgcolor="#0066CC" class="hdtoolbar" style="color:#FFFFFF " width="300">Last Updated: 20 Sep 2016&nbsp;</td>
+				</tr>
+				<tr bgcolor="#999999">
+					<td align="left" bgcolor="#999999" class="hdtoolbar" style="color:#FFFFFF " width="420" height="28px">&nbsp;&nbsp;Images of masks courtesy artist Jagdish Chinthala</td>
+					<td align="right" bgcolor="#999999" class="hdtoolbar" style="color:#FFFFFF " width="135"> &nbsp;&nbsp;</td>
+					<td align="center" bgcolor="#999999" class="hdtoolbar" style="color:#FFFFFF " width="10">&nbsp;</td>
+					<td align="left" bgcolor="#999999" class="hdtoolbar" style="color:#FFFFFF " width="135">&nbsp;&nbsp;</td>
+					<td align="right" bgcolor="#999999" class="hdtoolbar" style="color:#FFFFFF " width="300"> &nbsp;&nbsp;Powered by <a style="text-decoration:none " href="http://www.paramarsh.com" target="_blank"> <img src="Paramarsh_Logo.png" border="0"></a>&nbsp;</td>
+				</tr>
+				</tbody></table>
+		
+		
+		</td>
+		</tr>
+	</tbody></table>
+
+    </td>
+		</tr>
+	</tbody></table>
+
+
+</body></html>
