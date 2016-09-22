@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531052042id_/https%3A//www.astrazenecaprivacynotice.com/home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922145151id_/https%3A//www.astrazenecaprivacynotice.com/home.html) for the most accurate reproduction.*
 
 # Home
 
