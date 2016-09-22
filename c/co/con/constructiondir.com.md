@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constructiondir.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522054101id_/http%3A//www.constructiondir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constructiondir.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922105115id_/http%3A//www.constructiondir.com/privacy.html) for the most accurate reproduction.*
 
 # Construction Directory - Privacy Policy
 
