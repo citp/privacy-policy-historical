@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentceleb.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606034353id_/http%3A//www.entertainmentceleb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentceleb.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922034552id_/http%3A//www.entertainmentceleb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice | EntertainmentCeleb.com
 
