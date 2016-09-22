@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509002906id_/http%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922133137id_/http%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Agora Financial
 
@@ -26,9 +26,9 @@ Order Processing Center
 
 Attn: Customer Service
 
-P.O. Box 925
+808 St. Paul Street
 
-Frederick, MD 21705
+Baltimore, MD 21202
 
 **Cookies**
 
