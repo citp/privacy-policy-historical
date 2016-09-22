@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531220730id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922160105id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Copyright, Privacy and Disclaimer - StudyLink
 
@@ -23,12 +23,18 @@ However, visitors to this website are advised that:
   * The information provided does not replace or alter the laws of New Zealand or any other official guidelines or requirements 
   * The contents of this website should not be construed as legal advice. Before relying on any information in this website users should independently verify its relevance for their purposes 
   * The Ministry may change, delete, add to, or otherwise amend information contained on this website without notice 
-  * The Ministry is not responsible for the contents or reliability of any linked websites and does not necessarily endorse the views expressed within them. Listing is for convenience only and should not be taken as endorsement of any kind. The Ministry cannot guarantee that these links will work all of the time and has no control over availability of the linked pages 
+  * The Ministry is not responsible for the contents or reliability of any linked websites and does not necessarily endorse the views expressed within them. Linking is for convenience only and should not be taken as endorsement of any kind. The Ministry cannot guarantee that these links will work all of the time and has no control over availability of the linked pages 
   * The Ministry does not implicitly or impliedly endorse any website, organisation, or people who have off-site links to the Ministry's website. 
 
 
 
 * * *
+
+## Privacy
+
+You may browse and access information contained within this website without providing any personal information. Where you voluntarily provide personal information (eg through online forms or email requests), we will only use that information to communicate with you, update our records or to provide you with advice or service.
+
+We will keep any personal information that you provide secure. The Ministry of Social Development (MSD) uses Oracle New Zealand to provide this cloud-based online service. Oracle New Zealand is contractually obliged to MSD to keep any personal information collected through the online service that they provide for MSD secure. Your information may be held in Australia, Singapore or the United States of America. Oracle New Zealand is subject to the laws of these countries.
 
 ## About your personal information
 
@@ -40,7 +46,8 @@ Under the terms of the Privacy Act 1993 you need to know:
 
 
 
-You can ask to see and correct any information we hold on you by writing to:  
+You can ask to see and correct any information we hold on you by writing to:
+
 Manager Centralised Services  
 StudyLink  
 Private Bag 11070  
@@ -61,4 +68,4 @@ To keep yourself safe online, we strongly encourage you to take the following st
 
 * * *
 
-Last updated: 12 October 2015
+Last updated: 09 June 2016
