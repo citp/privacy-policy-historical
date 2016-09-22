@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621125558id_/http%3A//talent.studiod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922021325id_/http%3A//talent.studiod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — studioD Talent Network
 
