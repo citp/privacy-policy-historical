@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531235614id_/http%3A//www.openfreely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922184155id_/http%3A//openfreely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Open Freely
 
