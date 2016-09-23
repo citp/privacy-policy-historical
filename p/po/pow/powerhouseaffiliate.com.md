@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouseaffiliate.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103055556id_/http%3A//powerhouseaffiliate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouseaffiliate.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923230051id_/http%3A//powerhouseaffiliate.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Powerhouse Affiliate
 
@@ -29,6 +29,16 @@ Payment information
 
 We do not collect payment information since our payments are processed through a 3rd party (Paypal). We do not collect or store any of your information contained in Paypal. When you agree to pay monthly fees for our membership it is done through the Paypal system.
 
+#### User accounts, user content, and feedback
+
+#### **Account creation and account details**
+
+In order to be able to access certain information and functionality offered on this website, you must create an account. To create your account, you must provide all requested account registration details in the manner described on this website (including selecting a username and password which we will use to verify your identity when you use this website). You must ensure that your account details are complete and accurate when submitted to us, and you must keep your account details up-to-date.
+
+**Your username and password**
+
+Your username and password are personal to you and you must at all times maintain the confidentiality of your username and password and not disclose them to any third party. Your username and password may be used by one person only, i.e. a single login is not permitted to be shared by multiple people. You agree that you are solely responsible for any use of this website by any person using your username and password and you agree to indemnify us against any and all claims arising out of your failure to maintain the confidentiality of your username or password. We will not be liable for any loss that you may incur as a result of someone else using your password or account (whether with or without your knowledge). You agree to notify us immediately of any unauthorised use of your account or any other breach of security.
+
 The privacy of our visitors to Vault Media Inc. websites is important to us.
 
-Vault Media Inc. recognizes that privacy of your personal information is important. If you have any issues please [contact us. ](http://www.cpatrainingvault.com/contact/)
+Vault Media Inc. recognizes that privacy of your personal information is important. If you have any issues please email us at: support@powerhouseaffiliate.com
