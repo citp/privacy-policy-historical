@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000254id_/http%3A//jbonamassa.com/about-joe/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924012005id_/https%3A//jbonamassa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Joe Bonamassa
+# Privacy Policy - Joe Bonamassa
 
-**J &R Adventures Privacy Policy**
+This privacy policy discloses the privacy practices for[JBonamassa.com](http://jbonamassa.com/ "JBonamassa.com"). This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-This privacy policy discloses the privacy practices for [JBonamassa.com](http://jbonamassa.com/ "JBonamassa.com"). This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
-> 1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-> 
-> 2\. What choices are available to you regarding the use of your data.
-> 
-> 3\. The security procedures in place to protect the misuse of your information.
-> 
-> 4\. How you can correct any inaccuracies in the information.
+
 
 **Information Collection, Use, and Sharing**
 
@@ -26,10 +23,12 @@ We use Google AdWords conversion tracking to measure our ad performance on some 
 You may opt out of any future contacts from us at any time. You can do the following at any time by clicking the unsubscribe link provided in any of our email contacts to you. Once you unsubscribe from one of our lists, you automatically unsubscribe from all other lists, regardless of when and where you provided your email.  
 You have a right at any time to request the following:
 
-> – See what data we have about you, if any.  
->  – Change/correct any data we have about you.  
->  – Have us delete any data we have about you.  
->  – Express any concern you have about our use of your data.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
+
+
 
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
