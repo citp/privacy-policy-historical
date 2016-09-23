@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machine365.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201212506id_/http%3A//machine365.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machine365.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923123735id_/http%3A//machine365.com/about/privacy.html) for the most accurate reproduction.*
 
 # Machine365.com China Machine China products, China suppliers, China trade, China factory
 
