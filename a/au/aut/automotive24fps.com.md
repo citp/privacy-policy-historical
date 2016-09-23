@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotive24fps.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524031505id_/http%3A//automotive24fps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotive24fps.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923092613id_/http%3A//automotive24fps.com/privacy) for the most accurate reproduction.*
 
 # Auto
 
