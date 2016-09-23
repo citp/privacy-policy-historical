@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwadi-alakhdar.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504113623id_/http%3A//www.alwadi-alakhdar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwadi-alakhdar.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923065113id_/http%3A//www.alwadi-alakhdar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Al Wadi Al Akhdar
 
