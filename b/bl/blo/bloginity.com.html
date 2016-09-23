@@ -1,9 +1,14 @@
-<!--The following is the downloaded HTML source of the bloginity.com privacy policy that was archived on 2016-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160529124947id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloginity.com privacy policy that was archived on 2016-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160923175456id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en"><head lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 		
-		<link type="text/css" rel="stylesheet" href="http://www.bloginity.com/wp-content/themes/b14/style.css">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=322900481112066"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=0489c402f5/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"7baf1ba6c213baaa09d24326b402271d",petok:"b19cdae375ad9f2d16443792448919382fab077e-1474653296-1800",zone:"bloginity.com",rocket:"0",apps:{"ga_key":{"ua":"UA-5440925-2","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=0489c402f5/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link type="text/css" rel="stylesheet" href="http://www.bloginity.com/wp-content/themes/b14/style.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<!--[if lt IE 9]><script src="dist/html5shiv.js"></script><![endif]-->
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -28,7 +33,7 @@
 		<meta name="msapplication-TileColor" content="#222222">
 		<meta name="msapplication-TileImage" content="b9a69cec-1d3d-42a5-9a82-a34cea54eb3d.png">
 				
-<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy</title>
 <meta name="description" content="Your privacy is very important to us.">
 <meta name="robots" content="noodp">
@@ -48,9 +53,11 @@
 <meta name="twitter:creator" content="@danielhaim">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title=" » Privacy Policy Comments Feed" href="http://www.bloginity.com/privacy-policy/feed/">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=322900481112066"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.bloginity.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/www.bloginity.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.bloginity.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.bloginity.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -67,7 +74,7 @@
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -93,7 +100,29 @@
 				 * to a larger image (4-5KB data URL).
 				 */
 				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
 			case 'diversity':
 				/*
 				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
@@ -126,6 +155,13 @@
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 
 		return false;
@@ -139,7 +175,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
 
 	settings.supports = {
 		everything: true,
@@ -191,7 +227,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.bloginity.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://www.bloginity.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
+		</script><script src="http://www.bloginity.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.bloginity.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -206,8 +242,8 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://www.bloginity.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bloginity.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bloginity.com/wp-includes/wlwmanifest.xml"> 
@@ -228,7 +264,22 @@ h+"ms ease-in-out","-o-transition":"opacity "+h+"ms ease-in-out",transition:"opa
 k.find("a"),r=function(a){q.closest("li").removeClass(v).eq(a).addClass(v)};a.auto&&(t=function(){p=setInterval(function(){e.stop(!0,!0);var b=n+1<C?n+1:0;(a.pager||a.manualControls)&&r(b);z(b)},D)},t());m=function(){a.auto&&(clearInterval(p),t())};a.pause&&f.hover(function(){clearInterval(p)},function(){m()});if(a.pager||a.manualControls)q.bind("click",function(b){b.preventDefault();a.pauseControls||m();b=q.index(this);n===b||c("."+j).queue("fx").length||(r(b),z(b))}).eq(0).closest("li").addClass(v),
 a.pauseControls&&q.hover(function(){clearInterval(p)},function(){m()});if(a.nav){g="<a href='#' class='"+E+" prev'>"+a.prevText+"</a><a href='#' class='"+E+" next'>"+a.nextText+"</a>";l.navContainer?c(a.navContainer).append(g):f.after(g);var d=c("."+d+"_nav"),G=d.filter(".prev");d.bind("click",function(b){b.preventDefault();b=c("."+j);if(!b.queue("fx").length){var d=e.index(b);b=d-1;d=d+1<C?n+1:0;z(c(this)[0]===G[0]?b:d);if(a.pager||a.manualControls)r(c(this)[0]===G[0]?b:d);a.pauseControls||m()}});
 a.pauseControls&&d.hover(function(){clearInterval(p)},function(){m()})}}if("undefined"===typeof document.body.style.maxWidth&&l.maxwidth){var H=function(){f.css("width","100%");f.width()>u&&f.css("width",u)};H();c(I).bind("resize",function(){H()})}})}})(jQuery,this,0);
-</script>	
+</script>	<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5440925-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+
 	
 		<div class="wrapper">
 			<div class="header">
@@ -279,7 +330,7 @@ a.pauseControls&&d.hover(function(){clearInterval(p)},function(){m()})}}if("unde
 						</select>
 					</div>
 				</div>
-			</div><div class="inside-page"><div class="new_breadcrumbs"><p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.bloginity.com" rel="v:url" property="v:title">Home</a> / <span class="breadcrumb_last">Privacy Policy</span></span></span></p></div>
+			</div><div class="inside-page"><div class="new_breadcrumbs"><p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.bloginity.com/" rel="v:url" property="v:title">Home</a> / <span class="breadcrumb_last">Privacy Policy</span></span></span></p></div>
 <div class="contentwrapper"><div class="leftcolumn" id="content"><div id="magician"><span id="rabbit"></span></div> <div class="edit"></div><div class="articlebody"><div class="article_body"><p>This Privacy Policy governs the manner in which Bloginity Networks, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the <a href="http://www.bloginity.net">http://www.bloginity.net</a> website (“Site”). This privacy policy applies to the Site and all products and services offered by Bloginity Networks, LLC.</p>
 <p>Bloginity claims no credit for any images posted on this site unless otherwise noted. Images on this blog are copyright to its respectful owners. If there is an image appearing on this blog that belongs to you and you do not wish for it to appear on this site, please email <a href="mailto:info@bloginity.com">info@bloginity.com</a> with a link to image and it will be promptly removed or credited.</p>
 <p><b>Personal identification information</b></p>
@@ -314,47 +365,52 @@ info@bloginity.com</p>
 <p>This document was last updated on December 12, 2012</p>
 </div><div class="clear"></div></div></div><div class="horizontal-sidebar"><div class="sidebar300">
 	<div class="widget-box">
-		<a target="new" href="http://click.linksynergy.com/fs-bin/click?id=/hpCuyF3C0s&amp;offerid=368155.95&amp;subid=0&amp;type=4"><img border="0" alt="Anya Hindmarch Spring Summer 2016 Collection" src="http://ad.linksynergy.com/fs-bin/show?id=/hpCuyF3C0s&amp;bids=368155.95&amp;subid=0&amp;type=4&amp;gridnum=19"></a>
-	</div>
-	<div class="widget-box">
 		<div class="g-page" data-href="//plus.google.com/100772154169283365457" data-layout="landscape" data-rel="publisher"></div>
 	</div>
 	<div class="widget-box">
 		<div class="widget-title">
 			<span>Good Reads</span>
 		</div>
-
-					<div class="sidebar-recents">
-						<div class="sidebar-recents-story">
+				<div class="sidebar-recents">
+						<div class="sidebar-recents-story clearfix">
 				<div class="recent-image">
-					<a href="http://www.bloginity.com/2012/01/style-guru-simon-doonan-dishes-book/"><img width="600" height="400" src="http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/01/Style-Guru-Simon-Doonan-Dishes-on-His-New-Book-1.jpg?fit=600%2C400" class="attachment-medium size-medium wp-post-image" alt="Simon Doonan, Photo Credit: Joann Jovinelly" srcset="http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/01/Style-Guru-Simon-Doonan-Dishes-on-His-New-Book-1.jpg?w=600 600w, http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/01/Style-Guru-Simon-Doonan-Dishes-on-His-New-Book-1.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px"></a>
+					<a href="http://www.bloginity.com/2012/12/paris-retro-sandra-fourqui/">
+						<img width="600" height="356" src="http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Sandra-Fourqui-Paris-Retro.jpg?fit=600%2C356" class="attachment-medium size-medium wp-post-image" alt="Sandra-Fourqui-Paris-Retro" srcset="http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Sandra-Fourqui-Paris-Retro.jpg?w=975 975w, http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Sandra-Fourqui-Paris-Retro.jpg?resize=300%2C178 300w, http://i2.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Sandra-Fourqui-Paris-Retro.jpg?resize=600%2C356 600w" sizes="(max-width: 600px) 100vw, 600px">					</a>
 				</div>
 				<div class="recent-title">
-					<h3><a href="http://www.bloginity.com/2012/01/style-guru-simon-doonan-dishes-book/">Interview: Style Guru Simon Doonan Dishes on His New Book</a></h3>
+					<h3><a href="http://www.bloginity.com/2012/12/paris-retro-sandra-fourqui/">Paris Retro, Fashion Editorial by Sandra Fourqui</a></h3>
 				</div>
 				<div class="recent-excerpt">
-					We caught up with the style icon at Barney’s, where over the most wholesome of breakfasts, sweet berries and a heavenly combination of yogurt and				</div>
-			</div>		</div>
+					Wandering the streets of Paris alone, the beauty of the fog in the darkness brings us to a place of magic, falling under its intoxicating				</div>
+			</div>
+			<div style="background-color:#ddd;height:1px;margin-top:10px;margin-bottom:10px;display:block;"></div>
+						<div class="sidebar-recents-story clearfix">
+				<div class="recent-image">
+					<a href="http://www.bloginity.com/2012/12/case-red-sole/">
+						<img width="600" height="450" src="http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Yves-Saint-Laurent-Headquarters.jpeg?fit=600%2C450" class="attachment-medium size-medium wp-post-image" alt="Yves-Saint-Laurent-Headquarters" srcset="http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Yves-Saint-Laurent-Headquarters.jpeg?w=900 900w, http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Yves-Saint-Laurent-Headquarters.jpeg?resize=300%2C225 300w, http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Yves-Saint-Laurent-Headquarters.jpeg?resize=600%2C450 600w" sizes="(max-width: 600px) 100vw, 600px">					</a>
+				</div>
+				<div class="recent-title">
+					<h3><a href="http://www.bloginity.com/2012/12/case-red-sole/">The Case of the Red Sole</a></h3>
+				</div>
+				<div class="recent-excerpt">
+					The ongoing lawsuit over the red soles on shoes between Christian Louboutin and Yves St. Laurent seems to finally be over.				</div>
+			</div>
+			<div style="background-color:#ddd;height:1px;margin-top:10px;margin-bottom:10px;display:block;"></div>
+						<div class="sidebar-recents-story clearfix">
+				<div class="recent-image">
+					<a href="http://www.bloginity.com/2012/12/terry-richardson-lady-gaga/">
+						<img width="600" height="400" src="http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Terry-Richardson-Lady-Gaga-2013.jpeg?fit=600%2C400" class="attachment-medium size-medium wp-post-image" alt="Terry-Richardson-Lady-Gaga-2013" srcset="http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Terry-Richardson-Lady-Gaga-2013.jpeg?w=1280 1280w, http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Terry-Richardson-Lady-Gaga-2013.jpeg?resize=300%2C200 300w, http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Terry-Richardson-Lady-Gaga-2013.jpeg?resize=600%2C400 600w, http://i0.wp.com/www.bloginity.com/wp-content/uploads/2012/12/Terry-Richardson-Lady-Gaga-2013.jpeg?resize=975%2C651 975w" sizes="(max-width: 600px) 100vw, 600px">					</a>
+				</div>
+				<div class="recent-title">
+					<h3><a href="http://www.bloginity.com/2012/12/terry-richardson-lady-gaga/">Terry Richardson and Lady Gaga team up to Make Documentary</a></h3>
+				</div>
+				<div class="recent-excerpt">
+					Terry Richardson will indeed be making a documentary following the creation of Lady Gaga’s new album, ARTPOP, as well as a peek into her everyday				</div>
+			</div>
+			<div style="background-color:#ddd;height:1px;margin-top:10px;margin-bottom:10px;display:block;"></div>
+					</div>
 	</div>
-	<div class="widget-box">
-		<div class="fb-like-box" data-href="http://www.facebook.com/BLGNTY" data-width="300" data-show-faces="true" data-stream="false" data-border-color="#DDD" data-header="true"></div>
-	</div>
-	<div class="widget-box">
-		<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Bloginity" data-widget-id="252097050366320640">Tweets by @Bloginity</a>
-	</div>
-	<div class="float">
-		<div class="widget-box">
-		
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 300x250 -->
-			<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9776654125622607" data-ad-slot="4347323575"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-		</div>
-	</div>
-</div>
-</div></div></div><div class="clear"></div><div class="clear"></div>
+</div></div></div></div><div class="clear"></div><div class="clear"></div>
 <div class="footer">
 	<div class="footer-menu">
 		<div class="left-section">© 2008 - 2015&nbsp; <a target="_blank" href="http://www.bloginity.net"><strong>Bloginity.com</strong></a>.
@@ -375,16 +431,10 @@ info@bloginity.com</p>
 
 
 <script type="text/javascript" src="http://www.bloginity.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201621"></script>
-<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"creatediscussion"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.bloginity.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201638"></script>
+<script type="text/javascript" src="http://www.bloginity.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
 
 <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-5440925-2"]);_gaq.push(["_trackPageview"]);(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
 </script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
