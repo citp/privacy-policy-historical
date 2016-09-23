@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405140841id_/https%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923051557id_/https%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Consumer Cellular
 
@@ -16,7 +16,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-When contacting us via email, or the 'Contact Us' smart-form, please do not include Account Numbers, Credit Card Numbers, Social Security Numbers or any other identification numbers, aside from phone numbers and/or cell phone numbers. Thank you. 
+When contacting us via email, or the 'Contact Us' smart-form, please do not include Account Numbers, Credit Card Numbers, Social Security Numbers or any other identification numbers, aside from phone numbers and/or cellphone numbers. Thank you. 
 
 ## Your access to and control over information.
 
