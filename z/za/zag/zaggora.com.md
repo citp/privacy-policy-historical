@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405135726id_/https%3A//zaggora.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaggora.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923023108id_/https%3A//zaggora.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
