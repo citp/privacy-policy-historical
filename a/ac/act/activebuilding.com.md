@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629080912id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925015248id_/http%3A//www.realpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home
 
@@ -82,7 +82,7 @@ If you have any questions or concerns about the RealPage Privacy Policy or its i
 
 RealPage, Inc.  
 Attn: Privacy (Legal)  
-4000 International Parkway  
-Carrollton, Texas 75007-1913
+2201 Lakeside Blvd.  
+Richardson, TX 75082
 
 [Prior Versions Archive](https://web.archive.org/privacy-policy/archive/)
