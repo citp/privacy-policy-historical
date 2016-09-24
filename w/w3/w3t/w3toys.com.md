@@ -1,67 +1,28 @@
-> *The following text is extracted and transformed from the w3toys.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705184142id_/http%3A//www.w3toys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3toys.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924143414id_/http%3A//www.w3toys.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy Policy - w3toys | w3toys
+# Privacy & Cookies - w3toys
 
-PRIVACY POLICY for www.w3toys.com
+At w3toys.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.w3toys.com and how it is used.
 
-At w3toys we are committed to safeguarding and preserving the privacy of our visitors.
+## Log Files
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
+Like many other Web sites, www.w3toys.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We do update this Policy from time to time so please do review this Policy regularly.
+## Cookies and Web Beacons
 
-**Information We Collect**
+www.w3toys.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-In running and maintaining our website we may collect and process the following data about you:
+## Third Party Cookies
 
-  1. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
-  2. Information provided voluntarily by you. For example, when you register for information.
-  3. Information that you provide when you communicate with us by any means.
+**DoubleClick DART Cookie** :  
+Google, as a third party vendor, uses cookies to serve ads on www.w3toys.com
 
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.dinsta.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
+**Google Adsense**  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.dinsta.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.dinsta.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Use of Cookies  
-**Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.dinsta.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We may gather information about your general internet use by using the cookie.  Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
-
-You can adjust the settings on your computer to decline any cookies if you wish.  This can easily be done by activating the reject cookies setting on your computer.
-
-Our advertisers may also use cookies, over which we have no control.  Such cookies (if used) would be downloaded once you click on advertisements on our website.
-
-**Use of Your Information**
-
-We use the information that we collect from you to provide our services to you.  In addition to this we may use the information for one or more of the following purposes:
-
-  1. To provide information to you that you request from us relating to our products or services.
-  2. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-  3. To inform you of any changes to our website, services or goods and products.
-
-
-
-If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
-
-Where your consent has been provided in advance we may allow selected third parties to use your data to enable them to provide you with information regarding unrelated goods and services which we believe may interest you.  Where such consent has been provided it can be withdrawn by you at any time.
-
-**Storing Your Personal Data**
-
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
-
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
-
-**Disclosing Your Information**
-
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
-
-  1. In the event that we sell any or all of our business to the buyer.
-  2. Where we are legally required by law to disclose your personal information.
-  3. To further fraud protection and reduce the risk of fraud.
-
-
-
-**Third Party Links  
-**On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
-
-**Contacting Us**
-
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at info [at] w3toys.com
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
