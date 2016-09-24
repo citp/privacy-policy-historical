@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523082911id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924113116id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
 
 # Popgadget Privacy Policy
 
