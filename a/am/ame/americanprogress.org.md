@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528173227id_/https%3A//www.americanprogress.org/about/c3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprogress.org privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924111616id_/https%3A//www.americanprogress.org/about/c3-privacy-policy) for the most accurate reproduction.*
 
 # CAP Privacy Policy | Center for American Progress
 
