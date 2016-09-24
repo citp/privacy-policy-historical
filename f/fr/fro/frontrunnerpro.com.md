@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrunnerpro.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617113453id_/http%3A//www.frontrunnerpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrunnerpro.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924052742id_/http%3A//www.frontrunnerpro.com/privacy-policy) for the most accurate reproduction.*
 
 # FrontRunner's Privacy Policy
 
