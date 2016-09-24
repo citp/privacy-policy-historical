@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myleadconsultant.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208182856id_/http%3A//myleadconsultant.com/legal/data-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleadconsultant.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924074850id_/http%3A//myleadconsultant.com/legal/data-policy.html) for the most accurate reproduction.*
 
 # MyLeadConsultant | Data & Privacy Policy
 
