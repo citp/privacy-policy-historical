@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpink.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525005951id_/http%3A//www.hotpink.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpink.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924053757id_/http%3A//www.hotpink.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy
 
