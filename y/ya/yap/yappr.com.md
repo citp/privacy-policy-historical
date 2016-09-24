@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappr.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025234256id_/http%3A//en.englishyappr.com/help/PrivacyPolicy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappr.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924173008id_/http%3A//en.englishyappr.com/help/PrivacyPolicy.action) for the most accurate reproduction.*
 
 # englishyappr
 
