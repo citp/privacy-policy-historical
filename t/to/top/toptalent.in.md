@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524165557id_/https%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924030504id_/http%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
 
 # Privacy - TopTalent.in
 
