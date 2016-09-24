@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the premierequine.co.uk privacy policy that was archived on 2016-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160516172954id_/http%3A//premierequine.oxatis.com/PBCPPlayer.asp%3FID%3D1323009) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the premierequine.co.uk privacy policy that was archived on 2016-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160924104843id_/http%3A//www.premierequine.co.uk/PBCPPlayer.asp%3FID%3D1323009) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!DOCTYPE html><html class="flexwrap"><head>
 <meta name="generator" content="Oxatis (www.oxatis.com)">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Content-Language" content="en"> 
@@ -11,91 +11,143 @@
 <meta http-equiv="Expires" content="-1">
 <link rel="StyleSheet" type="Text/css" href="DesignCss/shared.css?v=43">
 <link rel="StyleSheet" type="Text/css" href="DesignCss/bootstrap-grid.css?v=3">
-<link rel="StyleSheet" type="Text/css" href="DesignCss/193000/294/style.css">
+<link rel="StyleSheet" type="Text/css" href="DesignCss/202000/992/style.css">
 <style type="text/css">IMG.BlackBox { border-color: #000000; }</style>
-<script async="" src="//web.archive.org/web/20150920152009/https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ND2QQG"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="javascript/jquery/jquery-1.6.1.min.js"></script>
-<script type="text/javascript" src="javascript/jquery/jquery-ui-1.8.12.custom.min.js"></script>
-<script type="text/javascript" src="javascript/oxratingcertificate.asp"></script>
-<meta name="google-site-verification" content="8bePSdam0rE5YDWx3t13CFL_NpxNnmk7TOKAXs02HuU">
-<link rel="SHORTCUT ICON" href="http://www.premierequine.co.uk/Files/98189/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//web.archive.org/web/20161105001532/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="javascript/oxratingcertificate.asp"></script>
+
+<script type="text/javascript" src="/frontend/scripts/oxUAnalytics.js?ver=1&amp;account=UA-52525713-1&amp;account=UA-28405760-23&amp;trackClick=1"></script>
+<link rel="StyleSheet" href="/frontend/angular-1.3.15/css/oxApps.css?v=2016-268">
+<script type="text/javascript" data-type="frontend-config">
+window.name = "NG_DEFER_BOOTSTRAP!";
+window.oxInfos = {
+	oxADContext : 0,
+	oxCurrency : {mainFormat:"&pound;&nbsp;#",decSep:".",thousandsSep:",",taxMode:0},
+	oxLang : 1,
+	oxUser : null,
+	oxAccid: 98189,
+	oxCart: {
+		total: 0,
+		qty: 0,
+		subTotalNet: 0,
+		shippingOffered: 1
+	},
+	oxPriceConf: {
+		priceIdx: null,
+		vatMode: null,
+		ecopartMode: null,
+		ecopartAmount: 0
+	}
+};
+window.appDependencies = ['oxFramework'];
+window.oxAppsConfig = {};
+window.appConfig = {};
+</script>
+<script type="text/javascript" src="/frontend/angular-1.3.15/angularFramework.js?v=2016-268"></script>
+<script type="text/javascript" src="/frontend/angular-1.3.15/i18n/angular-locale_en-gb.js"></script>
 <script type="text/javascript">
-  var _elLanguageSelectorConfig = {
-    location: "embedded",
-    parent: "currencyZone",
-    orientation: "horizontal",
-    flagStyle: {},
-    sideBarStyle: {
-      backgroundColor: "transparent",
-      position: "absolute",
-      top: "33px",
-      left: "7px"
-    }
-  };
+window.oxAppsConfig.csShippingEstimation= [{
+	condition: '#maincontainer.scshopcart'
+	,place: {
+			tag: '<div cs cs-shipping-estimation default-country="61" is-app="true"></div>'
+			, method: 'after'
+			, target: '#maincontainer.scshopcart .shopcarttable'
+	}
+	,pre: function () {}
+}];
+window.appConfig.csFreeShipping = {
+	amount: 100
+	,showAfter: true
+	,translation: {
+		before: 'Spend {{amount}} more and get free delivery'
+	}
+};
+window.oxAppsConfig.csFreeShipping= [{
+	condition: '#maincontainer.scshopcart'
+	,place: {
+		tag: '<tr class="freeShippingInfo"><td colspan="4"><div cs cs-free-shipping is-app="true"></div></td></tr>'
+		,method: 'after'
+		,target: '.cartsubtotal'
+	}
+}];
+window.oxAppsConfig.csLogin= [{
+	condition: '#maincontainer'
+	,place: {
+		tag: '<div cs cs-login template="dropdown" is-app="true"></div>'
+		,method: 'replaceWith'
+		,target: '#headerarea .accountLink'
+	}
+}];
+window.oxAppsConfig.csBreadcrumb= [{
+	condition: '#maincontainer.itemdetail'
+	,place: {
+		tag: '<div cs cs-breadcrumb all="true" is-app="true"></div>'
+		,method: 'append'
+		,target: '.sectiontbarea'
+	}
+	, deps: ['platinumBuilder']
+}];
+window.oxAppsConfig.csMenuCol= [{
+	condition: '#maincontainer'
+	, pre : function () {
+		$('#footermenu').attr("cs", true).attr("cs-menu-col", true);
+	}
+}];
+window.oxAppsConfig.csBackTotop= [{
+	condition: '#maincontainer'
+	,place: {
+		tag: '<div cs cs-back-to-top trigger="100" is-app="true"><img src="Files/98189/../0/oxa-arrow-up-white-60x60.png"></div>'
+		,method: 'append'
+		,target: '#maincontainer'
+	}
+}];
 </script>
-<script type="text/javascript" src="http://www.easyling.com/_el/ext/js/languageSelector.js?code=gbv8zl6o"></script>
-
-<!--[if IE]><link href="Files/98189/IE.css" rel="StyleSheet" />
-<style type="text/css">
-#dynamicCart font#cart-price .priceBlock{
-   position:relative;
-left:0;
-top:-8px;
-
+<script type="text/javascript" src="/frontend/scripts/oxCart6App/oxCart6App.js"></script>
+<script type="text/javascript">
+oxCart.popupReinsuranceWbId = 1795907;
+window.oxAppsConfig.csAppOutofstockNotification = [{
+	condition: '#maincontainer.sccatalog.itemdetail'
+	, place: {
+		tag: '<tr class="outofstock-notification-trigger"><td><cs-app-outofstock-notification cs></cs-app-outofstock-notification></td></tr>'
+		, method: 'append'
+		, target: '.PBStockTbl > tbody'
+	}
+}];
+window.appConfig.csAppOutofstockNotification = {
+	showBtnTriggerWhen: ['.PBMsgOutOfStock']
+	, translation: {
+		btnTrigger: "Notify me when available"
+	}
+};
+window.appConfig.appDisclamer = {
+wbId: "1794482"
+,template: "alert"
+,localStorageType: "localStorage"
+,translation: {
+confirm: {
+	accept: "I agree"
+	,decline: "I refuse"
 }
-</style>
-<![endif]-->
-<link href="Files/98189/pop-up.css" rel="StyleSheet">
-<link href="Files/98189/steps.css" rel="StyleSheet">
-<link href="Files/98189/btnDesign.css" rel="StyleSheet">
-<link href="http://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet" type="text/css"></head><body onload="PGFOnLoad()" class="PB"><br>
-<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet" type="text/css">
-
-
-<style type="text/css">
-.infoBillingZipCode:before {
-content: "Find UK Address (ROI please type IRELAND)";
-font-size: 9px;
-left: 150px;
-position: absolute;
-text-transform: uppercase;
-white-space: nowrap;
-top: 10px;
-background: url('/Files/0/icon-search-black-20X20.png') no-repeat left center rgba(0, 0, 0, 0);
-padding: 0 0 0 20px;
-line-height: 20px;
-}
-<div></div>
-.infoShippingZipCode:before {
-content: "Find UK Address (ROI please type IRELAND)";
-font-size: 12px;
-left: 60px;
-position: absolute;
-text-transform: uppercase;
-white-space: nowrap;
-top: 0;
-background: url('/Files/0/icon-search-black-20X20.png') no-repeat left center rgba(0, 0, 0, 0);
-padding: 0 0 0 20px;
-line-height: 20px;
-}
-
-</style>
-
-
-
-<script src="Files/15269/oxQuery.js"></script> 
-<script src="Files/15269/orderForm.js"></script> 
-<script> 
-window.orderFormConfig = { 
-texts: { 
-'Building, residence': 'Address line 1', 
-'Street name and number': 'Address line 2',
-'Special Instructions': 'Special Instructions - NSR Deliveries, We can deliver with No Signature Required. If you request the parcel is left somewhere safe this is at your own risk and claims cannot be made for lost deliveries.',
-}, 
-reverseAddressFields: true, 
-removeLastAddressField: true, 
-disablePhoneValidation: true 
-}; 
+,alert: {
+	accept: "OK"
+}}
+};
+window.oxAppsConfig.appDisclamer = [{
+	condition: '#maincontainer'
+	,place: {
+		tag: '<cs-disclamer cs is-app="true" component-id="appDisclamer"></cs-disclamer>'
+		,method: 'append'
+		,target: 'body'
+	}
+}];
+window.oxAppsPreviewOnly = ['appDisclamer'];
 </script>
+<script src="/frontend/angular-1.3.15/baseApp.js?v=2016-268"></script>
+<meta name="google-site-verification" content="8bePSdam0rE5YDWx3t13CFL_NpxNnmk7TOKAXs02HuU">
+<meta name="google-site-verification" content="GC1IQLONSuUAklYV2nTEO-Fb8xhhJtIdwcThyYnPEgA">
+
+<link rel="SHORTCUT ICON" href="/Files/98189/favicon.ico">
+
+<script type="text/javascript" src="/Files/15269/cellUniformizer.js"></script>
 
 <script type="text/javascript">
 document.cookie = "TestCookie=1" ;
@@ -119,8 +171,8 @@ _gaq.push(['ox._setAccount', 'UA-18618721-2'],['ox._setDomainName', 'none'],['ox
 })();
 </script>
 
-
-
+<script type="text/javascript" src="Javascript/oxtooltipshelper.js"></script><style id="OxTTCSSInserted" type="text/css"> #OxSearchPanel { margin: 0px; padding: 0px; border: none; background-color: #fff; font-size: 12px; text-align: left;} #OxSearchPanel .sectiondataarea { padding: 1em; } #OxSearchAnswers { width: 60em; min-height: 27.5em; }  .OxSearchPanelDataLink { display: inline-block; width: 18em; border:1px solid #ebebeb; min-height:7em; vertical-align: top; margin:0 0 1em 1em; padding: 0.5em; }  .OxSearchPanelDataLink:hover { cursor: pointer;  box-shadow: 1px 1px 1em 1px #656565; } .OxSearchPanelItemSelected { box-shadow: 1px 1px 1em 1px #656565; } .OxSearchPanelDataLink:nth-of-type(3n+1) { margin-left: 0; } .OxSearchPanelDataLink .PBItemInfos .PBShortTxt { font-size: 1em; line-height: 1.2em; } .OxSearchPanelDataLink .PBItemInfos .PBCurrency { font-size: 1.2em; line-height: 1.5em; } .OxSearchPanelDataLink .PBItemInfos , .OxSearchPanelLink .PBItemImg { display: block; vertical-align: top; } .OxSearchPanelDataLink .PBItemImg { margin-left:1em; float:right; } .OxSearchPanelDataLink .PBItemImg img { max-height: 6em; max-width: 6em; } .OxSearchPanelNavBar { text-align: right; } .OxSearchPanelNavBar .OxSearchPanelBtnHide { visibility: hidden; } .OxSearchPanelNavBtn { display:inline-block; 	/*height: 20px;*/padding: 5px 10px; background-color:#F4F4F4; 	color: #666;/* font-weight:normal;font-size: 14px;font-family : arial, sans-serif;*/ 	border: 1px solid #D0D0D0;	cursor: pointer;} .OxSearchPanelNavBtn.OxSchPnlNext { margin-left: 10px; } .OxSearchPanelBlkAdv .OxSchPnlAdvBtn:hover { /*background-image: url('/Files/0//icon-search-white-20X20.png');*/ } .OxSearchPanelBlkAdv.noItemsFound { margin: 10px; } .OxSearchPanelBlkAdv.noItemsFound span, .OxSearchPanelBlkAdv.noItemsFound a { margin: 2px 10px; } .OxSearchPanelBlkAdv span, .OxSearchPanelBlkAdv a { display: inline-block; margin: 2px 10px; line-height: 20px; } .OxSearchPanelBlkAdv .OxSchPnlAdvBtn { padding-left: 35px; 	background: url('/Files/0//icon-search-black-20X20.png') 7px center no-repeat #F4F4F4; } .OxSearchPanelBlkAdv.itemsFound .OxSchPnlAdvBtn { margin: 0px; } .OxSearchPanelNavBar .OxSearchPanelBlkAdv, .OxSearchPanelNavBar .OxSearchPanelBlkNavBtn  { display: inline-block; float: left; } .OxSearchPanelNavBar .OxSearchPanelBlkNavBtn  { float: right; }</style></head>
+<body onload="PGFOnLoad()" class="PB">
 <script type="text/javascript" src="HLAPI.js"></script>
 <script type="text/javascript">
 function SubmitAction( nActionID, strFormAction, nValidate, nSkipSubmit, nSkipReturn ) {
@@ -136,15 +188,7 @@ function SubmitAction( nActionID, strFormAction, nValidate, nSkipSubmit, nSkipRe
 		return( bResult );
 }
 </script> 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ND2QQG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-ND2QQG');</script>
-<!-- End Google Tag Manager -->
+
 <script language="javascript" defer="" src="windowAPI.js"></script>
 <script language="javascript" defer="" src="WBValidationAPI.js"></script>
 <script language="javascript" defer="" src="XSL/CPRuntime.js"></script>
@@ -200,229 +244,133 @@ document.write("<OPTION value=\"1\">January</OPTION><OPTION value=\"2\">February
 
 	<div id="headercontainer">
 		<div id="headerarea">
-<div id="mainheader">
-   <div class="blackbar">
-       <p><a href="/PBUserLogin.asp?CCode=33">REGISTER</a> <a href="/PBUserLogin.asp?CCode=33">SIGN IN</a></p>
-   </div>
-   
-   <div class="top-white">
-   
-   <div class="left">
-   <img src="/Files/98189/Img/09/header-social.gif" border="0" usemap="#Map">
-<map name="Map"><area shape="rect" coords="3,1,15,21" href="http://www.facebook.com/premierequineinternational" target="_blank" alt="Facebook"><area shape="rect" coords="28,1,48,19" href="https://twitter.com/premierequine1" target="_blank" alt="Twitter"><area shape="rect" coords="56,0,74,20" href="https://www.pinterest.com/PremierEquine/" target="_blank" alt="Pintrest">
-</map>
-      <p>ORDER LINE</p>
-      <p class="tel">01469 532 279</p>
-   </div>
-
-   <div class="right">
-   <div id="blocksearch" class="blockshortcut"><div class="blockarea"><input type="text" onkeyup="if ((event.keyCode?event.keyCode:event.charCode)==13) submitsearchForm();" size="18" value="Search..." class="searchtext" name="searchformtext" id="searchformtext" autocomplete="off"><span class="searchimg"></span><input type="button" onclick="submitsearchForm();" value="Search" name="searchformBtn" id="searchformBtn" class="blockbtn"><script type="text/javascript">function submitsearchForm(){document.searchform['SearchText'].value = document.getElementById('searchformtext').value;document.searchform.submit();}</script></div></div>
-    </div>
- </div>
- 
-</div>
-
-<div id="headercolumn2"><div id="headerdata"></div> </div>
-<script type="text/javascript" src="Files/15269/qtyBox.js"></script>
-<script type="text/javascript" src="Files/15269/itemOptimizer.js"></script>
-<script type="text/javascript" src="Files/15269/productTabs.js"></script>
-<script type="text/javascript" src="Files/15269/ajaxScheduler.js"></script>
-<script type="text/javascript" src="Files/15269/addToCart-4.js"></script>
-
-<script type="text/javascript">
-
-    var siteInfo = {
-    currency : {mainFormat:"&pound;&nbsp;#",decSep:".",thousandsSep:",",taxMode:0}
-
-    }
-
-</script>
-
-<script type="text/javascript" src="Files/15269/priceConverter.js"></script>
-<script type="text/javascript" src="Files/15269/cookieManager.js"></script>
-<script type="text/javascript" src="/javascript/CurrencyRates.js"></script>
-
-
-
-
-<script type="text/javascript" src="/Files/15269/multidevises.js"></script>
-<script type="text/javascript" src="/Files/98189/98189_v3.js"></script>
-
-
-
-<script type="text/javascript">
-myCurrency.currecyList= '<select id="currencySet">'
-+ '<option countryType="uk" value="GBP">BRITISH POUND &nbsp;&nbsp;</option>'
-+ '<option countryType="fr" value="EUR">EURO</option>'
-+ '<option countryType="uk" value="USD">US DOLLAR</option>'
-+ '<option countryType="uk" value="NZD">NZ DOLLAR</option>'
-+ '<option countryType="fr" value="CHF">SWISS FRANC</option>'
-+ '<option countryType="fr" value="XPF">PACIFIC FRANC</option>'
-+ '<option countryType="fr" value="MXN">MEXICAN PESO</option>'
-+ '<option countryType="fr" value="CLP">CHILEAN PESO</option>'
-+ '</select>';
-myCurrency.is = 'GBP'; //devise secondaire affichée par défaut.
-myCurrency.target = "#currencySelection";
-myCurrency.twiceMode = false;
-myCurrency.exec();
-
-var cart = new dynamicCart();
-cart.smallCartTmpl=1346549;
-cart.popupCartTmpl=1346555;
-cart.cookieSaving=true; //passer sur true à la fin de l'intégration
-cart.onComplete=function () { myCurrency.updatePrices(); }
-$(function () {
-cart.showSmallCart ();
-});
-</script>
-<div id="showCartContainer"></div>
-<div id="currencyZone"><span>Currency : </span><span id="currencySelection"></span></div>
- <script>
-$(function () {
-$('input[name="ShippingZipCode"]')
-.prev().before('<span class="zipCodeInfo infoShippingZipCode"></span>');
-
-$('input[name="BillingZipCode"]')
-.prev().before('<span class="zipCodeInfo infoBillingZipCode"></span>');
-});
-</script>
-
-<!-- back to top -->
-<script type="text/javascript" src="/Files/98189/backToTop.js"></script>
-
-
-
-
-  
-    <title>Mega Menu</title>
-    <meta charset="utf-8">
-    <link href="https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="css/menu.css">
-    
-
-  
-  <div class="main-nav">
-    <div class="menu-wrapper" role="megaigation">
-      <ul class="mega" role="menubar">
-        <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1713598">HOME</a></li>
-        <li role="menuitem"> <a href="#"><strong>SHOP NOW</strong></a>
-            <div class="mega-menu" aria-hidden="true" role="menu">
-              <div class="mega-column line">
-                <ul>
-                  <li class="title">RUGS, COOLERS &amp; SHEETS</li>
-                  <li role="menuitem"><a href="http://www.premierequine.co.uk/heavyweight-turnout-rugs">TURNOUT RUGS - HEAVYWEIGHT</a></li>
-                  <li role="menuitem"><a href="http://www.premierequine.co.uk/medium-weight-turnout-rugs">TURNOUT RUGS - MEDIUMWEIGHT</a></li>
-                  <li role="menuitem"><a href="http://www.premierequine.co.uk/lightweight-turnout-rugs">TURNOUT RUGS - LIGHTWEIGHT</a></li>
-                  <li role="menuitem"><a href="http://www.premierequine.co.uk/stable-rugs">STABLE RUGS</a></li>
-                  <li role="menuitem"><a href="http://www.premierequine.co.uk/rug-liners">HORSE &amp; PONY RUG LINERS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1731296">FLY/SUMMER RUGS &amp; FLY MASKS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1733637">EXERCISE SHEET &amp; WALKER RUG</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732625">PONY HEAVYWEIGHT RUGS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732638">PONY MEDIUM &amp; LIGHTWEIGHT RUGS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732674">PONY FLY RUGS &amp; FLY MASKS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732714">HORSE &amp; PONY COOLERS/ SHEETS</a></li>
-                </ul>
-              </div>
-              <div class="mega-column line">
-                <ul>
-                  <li class="title">PROTECTIVE BOOTS</li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1733648">COLD WATER BOOTS &amp; ICE BOOTS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732779">TURNOUT BOOTS &amp; STABLE LEG WRAPS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732271">AIR-COOLED &amp; AIR TRAX EVENTING BOOTS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732791">KEVLAR TENDON &amp; FETLOCK BOOTS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732799">SPORTS BOOTS &amp; BRUSHING BOOTS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732854">TRAVEL BOOTS &amp; OVER REACH BOOTS</a></li>
-                  <!-- <li role="menuitem"><a href="/PBSCProduct.asp?ItmID=15774573">PRO-TEQUE BALLISTIC TRAVEL BOOTS</a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2015811">PRO-TEQUE AIRTECHNOLOGY TRAVEL BOOTS</a></li>--><br>
-                  <br>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732752"><strong>MAGNET THERAPY</strong></a></li>
-                  <br>
-                </ul>
-              </div>
-              <div class="mega-column line">
-                <ul>
-                  <li class="title">SADDLE PADS</li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1733964">ALL SADDLE PADS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734031">AIRTECHNOLOGY SHOCKPROOF WOOL</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734056">AIRTECHNOLOGY SHOCKPROOF PLAIN</a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?ItmID=19745863">CORRECTION PADS</a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?ItmID=13629284">BUSTER PADS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734015">MERINO WOOL SADDLE PADS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734005">STRATUS LIMITED EDITION PADS </a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734006">TECH GRIP SADDLE PADS </a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1734002">COTTON SQUARES</a></li>
-                  <br>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1732916"><strong>EQUINE ACCESSORIES</strong></a></li>
-                  <br>
-                </ul>
-              </div>
-              <div class="mega-column three">
-                <ul>
-                  <li class="title">CLOTHING</li>
-
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1726064">ALL CLOTHING &amp; FOOTWEAR</a></li>                
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1727029">SHIRTS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1727935">TOPS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1727719">COATS/GILETS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1726099">BREECHES</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1726909">JACKETS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1728471">MEN'S CLOTHING</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1728982"><strong>FOOTWEAR</strong></a></li>
-                 <!-- <li role="menuitem"><a href="">ACCESSORIES</a></li> -->
-                  <br>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1733720"><strong>GIFT VOUCHERS</strong></a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2015794"><strong>SALE &amp; 20% PROMOTIONS</strong></a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2015798"><strong>SALE - END OF LINE</strong></a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2496676"><strong>SALE - RETURNED GOODS</strong></a></li>
-                </ul>
-              </div>
-              <!-- <div class="mega-column pic">
-               <ul>
-                 <li><img src="/Files/98189/Img/21/we-are-premier.jpg" alt="We are Premiere"></li>
-              </ul>
-            </div> -->
-            </div>
-        </li>
-        <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1653845">ABOUT US</a></li>
-        <li role="menuitem"> <a href="#"><strong>OFFERS &amp; SALE</strong></a>
-            <div class="mega-menu small" aria-hidden="true" role="menu">
-              <div class="mega-column">
-                <ul>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2015794">SALE &amp; 20% PROMOTIONS</a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2015798">SALE - END OF LINE</a></li>
-                  <li role="menuitem"><a href="/PBSCCatalog.asp?CatID=2496676">SALE - RETURNED GOODS</a></li>
-                  <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1733720">GIFT VOUCHERS</a></li>
-                </ul>
-              </div>
-            </div>
-        </li>
-        <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1514375">RIDERS</a></li>
-        <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1312282">CONTACT US</a></li>
-        <li role="menuitem"><a href="/PBUserLogin.asp?CCode=33">ACCOUNT</a></li>
-        <li role="menuitem"><a href="/PBCPPlayer.asp?ID=1312285">DELIVERY</a></li>
-        <li role="menuitem"><a href="/PBShoppingCart.asp?PBMInit=1">VIEW CART</a></li>
-        <li role="menuitem"><a href="/PBShoppingCart.asp?PBMInit=1">CHECKOUT</a></li>
-      </ul>
+<!-- /head -->
+<div class="headerflex-search"> <a class="homeLink" href="/"><span>Home</span></a><div class="eshopSearch"><div id="headerSearchBlock"><form action="PBSearch.asp" method="post" name="headerSearch"><input type="hidden" name="ActionID" value="1"><input type="hidden" name="CCode" value="2"><input type="hidden" name="ShowSMImg" value="1"><input type="text" onfocus="this.value='';" id="headerSearchText" name="SearchText" class="searchtext" value="Search..." size="18" autocomplete="off"><button class="blockbtn" type="submit"><span>OK</span></button></form></div></div></div>
+<div class="headerflex-miniLogo"><a href="/"><img src="Files/98189/_img-header/logo2.png"></a></div>
+<div class="headerflex-btn">
+  <div id="headerBtn">
+    <div class="acc"><a class="accountLink" href="PBUserLogin.asp?CCode=33"><span>Account</span></a></div>
+	<span class="headerBtnSep">|</span>
+    <a class="contactLink" href="/PBCPPlayer.asp?ID=1312282"><span>Contact</span></a>
+	 <span class="headerBtnSep">|</span>
+    <div class="eshopCart">
+    <div id="headerInfoCart">
+      <div class="headerInfoCartInner">
+        <a class="cartLink" href="PBShoppingCart.asp?PBMInit=1"><span>Your cart</span></a> <span id="cartItems">0</span> <span class="cartPrice">£&nbsp;0.00</span>
+      </div>
     </div>
   </div>
+  </div>
+</div>
+
+<div class="headerflex-text">
+  <div class="social-links">
+    <a class="facebook" href="https://www.facebook.com/premierequineinternational" target="_blank"></a>
+    <a class="twitter" href="https://twitter.com/premierequine1" target="_blank"></a>
+    <a class="pinterest" href="https://www.pinterest.com/PremierEquine/" target="_blank"></a>   
+    <a class="instagram" href="https://www.instagram.com/explore/tags/premierequineinternational/" target="_blank"></a>   
+    <a class="youtube" href="https://www.youtube.com/user/Premierequine" target="_blank"></a>
+  </div>
+  <div class="order-online"><img src="/Files/98189/_img-header/order.png"></div>
+  <div><span id="headertext">Sample text</span></div>
+</div>
+
+<div class="headerflex-logo"><div id="headerlogo"><a href="/"><img src="Files/98189/_img-header/logo.png"></a></div></div>
+
+<div class="headerflex-utils"><div cs="" cs-currency-select=""></div>
+   <a class="free-shipping" href="/PBCPPlayer.asp?ID=1312285"><img src="/Files/98189/_img-header/freedelivery.png"></a>
+</div>
+
+<div class="headerSticky-breadcrumb"></div>
+
+<div class="headerSticky-orderLine">
+	   <div class="small-order-online"><img src="/Files/98189/_img-header/order2.png"></div>
+</div>
+
+<script type="text/javascript">
+window.appDependencies.push ('multiCurrencies');
+
+window.oxAppsConfig.csMenu100= [{
+	condition: '#maincontainer'
+	,pre : function () {
+		$('#headermenu').eq(0).attr("cs", true).attr("cs-menu-100", true);
+	}
+}];
+
+  window.appConfig.csCurrencySelect = {
+    currencyList :  ['GBP', 'EUR', 'USD', 'NZD', 'CAD', 'AUD', 'NOK', 'SEK', 'CHF', 'PLN', 'JPY', 'MXN', 'ARS', 'CLP']
+}
+
+// oxInfos
+_.extend(window.oxInfos, {
+    majorVersion: 1
+});
+// app config
+_.extend(window.appConfig, {});
   
 
+</script>
+
+<!--order adress manadgement---->
+<script src="Files/15269/oxQuery.js"></script> 
+<script src="Files/15269/orderForm.js"></script> 
+<script> 
+window.orderFormConfig = { 
+texts: { 
+'Building, residence': 'Address line 1', 
+'Street name and number': 'Address line 2',
+'Special Instructions': 'Special Instructions - NSR Deliveries, We can deliver with No Signature Required. If you request the parcel is left somewhere safe this is at your own risk and claims cannot be made for lost deliveries.'
+}, 
+reverseAddressFields: true, 
+removeLastAddressField: true, 
+disablePhoneValidation: true 
+}; 
+  $(function () {
+$('#maincontainer.scorderform [name="HearAboutID"] [value="0"]').html('Please select');
+
+  });
+</script>
+<!--end order adress manadgement---->
+
+<script src="/frontend/angular-1.3.15/modules/multiCurrencies/multiCurrencies.js"></script>
+<script src="/frontend/angular-1.3.15/modules/coolPopup/coolPopup.js"></script>
+<script src="/frontend/angular-1.3.15/lazyDirectives/all.js"></script>
+<script src="/frontend/Files/98189/v1/app.js"></script>
+
+<!-- /AngularJs -->
+
+<div id="headermenu"><ul id="hmenu"><li class="begin">&nbsp;</li><li class="mitext" id="pmenu3298348" onmouseover="OxMenu('menu3298348',true)" onmouseout="OxMenu('menu3298348',false)"><a class="menu" id="amenu3298348" href="horse-rugs-cooler-rugs-sheets-c102x3068296">RUGS, COOLERS &amp; SHEETS</a><div><ul class="submenu" id="menu3298348" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="heavyweight-turnout-rugs-c102x3068302"><img src="Files/98189/Img/06/menu-heavyweight.png"></a></li><li class="mititle menusep"><a class="menu" href="heavyweight-turnout-rugs-c102x3068302">HORSE TURNOUT RUGS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="rug-liners-c102x3068411"><img src="Files/98189/Img/21/menu-rug-liners.png"></a></li><li class="mititle menusep"><a class="menu" href="rug-liners-c102x3068411">RUG LINERS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="medium-weight-turnout-rugs-c102x3068373"><img src="Files/98189/Img/01/menu-pony-turnout.jpg"></a></li><li class="mititle menusep"><a class="menu" href="medium-weight-turnout-rugs-c102x3068373">PONY TURNOUT RUGS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="horse-cooler-rugs-and-sheets-c102x3068440"><img src="Files/98189/Img/19/menu-coolers.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-cooler-rugs-and-sheets-c102x3068440">COOLERS &amp; SHEETS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="stable-rugs-c102x3068410"><img src="Files/98189/Img/22/menu-stable-rugs.png"></a></li><li class="mititle menusep"><a class="menu" href="stable-rugs-c102x3068410">STABLE RUGS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="exercise-sheets-and-walker-rug-c102x3068439"><img src="Files/98189/Img/12/menu-exercise-sheet.png"></a></li><li class="mititle menusep"><a class="menu" href="exercise-sheets-and-walker-rug-c102x3068439">EXERCISE SHEETS &amp; WALKER RUG</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="fly-rugs-and-summer-rugs-c102x3068430"><img src="Files/98189/Img/23/menu-fly-rug.png"></a></li><li class="mititle menusep"><a class="menu" href="fly-rugs-and-summer-rugs-c102x3068430">FLY RUGS</a></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3298853" onmouseover="OxMenu('menu3298853',true)" onmouseout="OxMenu('menu3298853',false)"><a class="menu" id="amenu3298853" href="horse-boots-c102x3068442">HORSE BOOTS</a><div><ul class="submenu" id="menu3298853" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="eventing-boots-c102x3068492"><img src="Files/98189/Img/16/menu-eventing.png"></a></li><li class="mititle menusep"><a class="menu" href="eventing-boots-c102x3068492">EVENTING BOOTS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="over-reach-boots-c102x3068548"><img src="Files/98189/Img/02/menu-over-reach.png"></a></li><li class="mititle menusep"><a class="menu" href="over-reach-boots-c102x3068548">OVER REACH BOOTS</a></li><li class="misep"></li><li class="miimg"><a class="menu" href="tendon-and-fetlock-boots-c102x3068541"><img src="Files/98189/Img/21/menu-tendonfetlock.png"></a></li><li class="mititle menusep"><a class="menu" href="tendon-and-fetlock-boots-c102x3068541">TENDON/FETLOCK BOOTS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="sports-boots-c102x3068543"><img src="Files/98189/Img/06/menu-sports-boots.png"></a></li><li class="mititle menusep"><a class="menu" href="sports-boots-c102x3068543">SPORTS MEDICINE BOOTS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="brushing-boots-c102x3068544"><img src="Files/98189/Img/16/menu-brushing.png"></a></li><li class="mititle menusep"><a class="menu" href="brushing-boots-c102x3068544">BRUSHING BOOTS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="stable-boots-and-leg-wraps-c102x3068490"><img src="Files/98189/Img/08/menu-stable-wraps.png"></a></li><li class="mititle menusep"><a class="menu" href="stable-boots-and-leg-wraps-c102x3068490">STABLE BOOTS/LEG WRAPS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="turnout-boots-c102x3068461"><img src="Files/98189/Img/11/menu-turnout.png"></a></li><li class="mititle menusep"><a class="menu" href="turnout-boots-c102x3068461">TURNOUT BOOTS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="travel-boots-c102x3068547"><img src="Files/98189/Img/12/menu-travel.png"></a></li><li class="mititle menusep"><a class="menu" href="travel-boots-c102x3068547">TRAVEL BOOTS</a></li><li class="mispacer"></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3307142" onmouseover="OxMenu('menu3307142',true)" onmouseout="OxMenu('menu3307142',false)"><a class="menu" id="amenu3307142" href="magnet-therapy-cold-boots-c102x3068567">MAGNET/COLD THERAPY</a><div><ul class="submenu" id="menu3307142" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="horse-magnet-therapy-c102x3085532"><img src="Files/98189/Img/08/menu-magnet.jpg"></a></li><li class="mititle menusep"><a class="menu" href="horse-magnet-therapy-c102x3085532">MAGNET THERAPY</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="cold-water-boots-ice-boots-c102x3068658"><img src="Files/98189/Img/24/menu-water-therapy.png"></a></li><li class="mititle menusep"><a class="menu" href="cold-water-boots-ice-boots-c102x3068658">COLD WATER BOOTS/ICE BOOTS</a></li><li class="mispacer"></li><li class="misep"></li><li class="misep"></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3298871" onmouseover="OxMenu('menu3298871',true)" onmouseout="OxMenu('menu3298871',false)"><a class="menu" id="amenu3298871" href="saddle-pads-c102x3071700">SADDLE PADS</a><div><ul class="submenu" id="menu3298871" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="air-teque-shockproof-wool-saddle-pads-c102x3071706"><img src="Files/98189/Img/08/menu-shockproof.png"></a></li><li class="mititle menusep"><a class="menu" href="air-teque-shockproof-wool-saddle-pads-c102x3071706">SHOCKPROOF SADDLE PADS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="stratus-saddle-pads-c102x3071707"><img src="Files/98189/Img/05/menu-stratus-saddle.png"></a></li><li class="mititle menusep"><a class="menu" href="stratus-saddle-pads-c102x3071707">STRATUS SADDLE PADS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="tech-grip-saddle-pads-c102x3071710"><img src="Files/98189/Img/17/menu-antislip-saddle.png"></a></li><li class="mititle menusep"><a class="menu" href="tech-grip-saddle-pads-c102x3071710">ANTI-SLIP SADDLE PADS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="other-saddle-pads-c102x3085534"><img src="Files/98189/Img/22/menu-other-saddle.png"></a></li><li class="mititle menusep"><a class="menu" href="other-saddle-pads-c102x3085534">OTHER SADDLE PADS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="plain-cotton-saddle-pads-c102x3071703"><img src="Files/98189/Img/12/menu-plain-saddle.png"></a></li><li class="mititle menusep"><a class="menu" href="plain-cotton-saddle-pads-c102x3071703">PLAIN COTTON SADDLE PADS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="merino-wool-saddle-pads-c102x3071704"><img src="Files/98189/Img/15/menu-wool-saddle.png"></a></li><li class="mititle menusep"><a class="menu" href="merino-wool-saddle-pads-c102x3071704">MERINO WOOL SADDLE PADS</a></li><li class="mispacer"></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3299997" onmouseover="OxMenu('menu3299997',true)" onmouseout="OxMenu('menu3299997',false)"><a class="menu" id="amenu3299997" href="equine-accessories-c102x3071727">EQUINE ACCESSORIES</a><div><ul class="submenu" id="menu3299997" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="horse-head-collars-lead-ropes-c102x3071740"><img src="Files/98189/Img/10/menu-head-collar.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-head-collars-lead-ropes-c102x3071740">HEAD COLLARS/LEAD ROPES</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="horse-fly-masks-c102x3071811"><img src="Files/98189/Img/05/menu-fly-masks.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-fly-masks-c102x3071811">FLY MASKS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="horse-bandages-c102x3071746"><img src="Files/98189/Img/12/menu-bandage-wraps.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-bandages-c102x3071746">BANDAGES/BOOT WRAP LINERS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="horse-tail-guards-c102x3071745"><img src="Files/98189/Img/15/menu-tail-guards.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-tail-guards-c102x3071745">TAIL GUARDS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="horse-rug-re-proofer-rug-washes-c102x3085546"><img src="Files/98189/Img/06/menu-rug-washes.png"></a></li><li class="mititle menusep"><a class="menu" href="horse-rug-re-proofer-rug-washes-c102x3085546">RUG REPROOFER/RUG WASHES</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="other-accessories-c102x3085545"><img src="Files/98189/Img/22/menu-other-accessories.png"></a></li><li class="mititle menusep"><a class="menu" href="other-accessories-c102x3085545">OTHER ACCESSORIES</a></li><li class="mispacer"></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3300086" onmouseover="OxMenu('menu3300086',true)" onmouseout="OxMenu('menu3300086',false)"><a class="menu" id="amenu3300086" href="equestrian-clothing-c102x3071752">CLOTHING &amp; FOOTWEAR</a><div><ul class="submenu" id="menu3300086" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="ladies-waterproof-riding-coats-jackets-gilets-c102x3071756"><img src="Files/98189/Img/24/menu-coats.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-waterproof-riding-coats-jackets-gilets-c102x3071756">LADIES RIDING COATS &amp; GILETS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="ladies-riding-tops-polo-shirts-c102x3071761"><img src="Files/98189/Img/11/menu-tops.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-riding-tops-polo-shirts-c102x3071761">LADIES TOPS/POLO SHIRTS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="ladies-competition-show-jackets-c102x3071755"><img src="Files/98189/Img/02/menu-show-jackets.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-competition-show-jackets-c102x3071755">LADIES COMPETITION JACKETS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="equestrian-clothing-accessories-c102x3071764"><img src="Files/98189/Img/20/menu-accessories.png"></a></li><li class="mititle menusep"><a class="menu" href="equestrian-clothing-accessories-c102x3071764">CLOTHING ACCESSORIES</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="ladies-breeches-c102x3071753"><img src="Files/98189/Img/12/menu-breeches.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-breeches-c102x3071753">LADIES BREECHES</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="ladies-footwear-c102x3091600"><img src="Files/98189/Img/12/menu-ladies-footwear.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-footwear-c102x3091600">LADIES FOOTWEAR</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="ladies-competition-riding-show-shirts-c102x3071759"><img src="Files/98189/Img/07/menu-show-shirts.png"></a></li><li class="mititle menusep"><a class="menu" href="ladies-competition-riding-show-shirts-c102x3071759">LADIES SHOW SHIRTS</a></li><li class="mispacer"></li><li class="mispacer"></li><li class="miimg"><a class="menu" href="mens-equestrian-clothing-c102x3071763"><img src="Files/98189/Img/13/menu-mens.png"></a></li><li class="mititle menusep"><a class="menu" href="mens-equestrian-clothing-c102x3071763">MEN'S CLOTHING &amp; FOOTWEAR</a></li><li class="mispacer"></li><li class="end">&nbsp;</li></ul></div></li><li class="mitext menusep" id="pmenu3300106" onmouseover="OxMenu('menu3300106',true)" onmouseout="OxMenu('menu3300106',false)"><a class="menu" id="amenu3300106" href="sale-c102x3071766">OFFERS/SALES</a><div><ul class="submenu" id="menu3300106" onmouseover="OxSubMenu(this,true)" onmouseout="OxSubMenu(this,false)"><li class="begin">&nbsp;</li><li class="miimg"><a class="menu" href="20-promotions-c102x2015794"><img src="Files/98189/Img/11/20-promotions.png"></a></li><li class="mititle menusep"><a class="menu" href="20-promotions-c102x2015794">20% PROMOTIONS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="end-of-line-sale-c102x3071767"><img src="Files/98189/Img/25/menu-end-line.jpg"></a></li><li class="mititle menusep"><a class="menu" href="end-of-line-sale-c102x3071767">END OF LINE</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="returned-goods-c102x2496676"><img src="Files/98189/Img/02/returned-goods-sales.jpg"></a></li><li class="mititle menusep"><a class="menu" href="returned-goods-c102x2496676">RETURNED GOODS</a></li><li class="mispacer"></li><li class="misep"></li><li class="miimg"><a class="menu" href="gift-vouchers-c102x3083589"><img src="Files/98189/Img/03/gift-vouchers-sales.png"></a></li><li class="mititle menusep"><a class="menu" href="gift-vouchers-c102x3083589">GIFT VOUCHERS</a></li><li class="mispacer"></li><li class="end">&nbsp;</li></ul></div></li><li class="end">&nbsp;</li></ul></div>
+<script type="text/javascript">
+function OxMenu(menu,display){
+	var objElem=(document.getElementById)?document.getElementById(menu):document[menu];
+	objElem.style.visibility=display?'visible':'hidden';
+}
+function OxHandleSubMenu(id,over){
+	var newClass='subactive', objElem=(document.getElementById)?document.getElementById(id):document[id];
+	if (!objElem) return;
+	var cls = objElem.className, idx = (' '+cls+' ').indexOf(' ' + newClass + ' ');
+	if (over){ if(idx<0) objElem.className=cls+(cls?' ':'')+newClass;
+	}else if(idx>=0) objElem.className=objElem.className.replace(new RegExp('(\\s|^)'+newClass+'(\\s|$)'),' ');
+}
+function OxSubMenu(elem,over){
+	OxHandleSubMenu('a'+elem.id,over);
+}
+</script>
 
 		</div>
 	</div>
 	<div id="bodycontainer">
 		<div id="bodyarea">
-		<div id="bodycolumn1">
-<div class="OxSiteRatingCert" style="width:150px; background:#FFFFFF; text-align:center; padding:6px 0px 0 6px 0; margin:2px 0;text-indent:0;" itemscope="" itemtype="http://schema.org/LocalBusiness"><span itemprop="name" style="display:none;">www.premierequine.co.uk</span><a href="http://www.shopping-satisfaction.co.uk/OxSiteRating.asp?RatedAccID=98189" target="Shopping-Satisfaction"><img src="/Images/Rating/Shopping-Satisfaction-Logo.png" width="130"></a><div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"><div class="OxRatingBk"><div class="OxRatingGauge" style="width:92%;"><a class="PBLink" href="http://www.shopping-satisfaction.co.uk/OxSiteRating.asp?RatedAccID=98189" target="Shopping-Satisfaction"><img class="OxReviewBar" src="../Images/Transparent.gif"></a></div><div style="display:none"><span itemprop="bestRating">5.0</span><span itemprop="itemReviewed">www.premierequine.co.uk</span><span itemprop="ratingValue">4.61</span></div></div><div class="OxReviewCount"><a class="PBLink" href="http://www.shopping-satisfaction.co.uk/OxSiteRating.asp?RatedAccID=98189" target="Shopping-Satisfaction">(<span itemprop="ratingCount" style="display:inline-block;">8544</span>)</a></div></div></div><div id="verticalmenu"><ul id="vmenu"><li class="begin">&nbsp;</li><li class="mispacer"></li><li class="mitext evenrow"><a class="menu" href="/heavyweight-turnout-rugs">Turnout Rugs - Heavyweight</a></li><li class="mitext menusep evenrow"><a class="menu" href="/medium-weight-turnout-rugs">Turnout Rugs - Mediumweight</a></li><li class="mitext menusep oddrow"><a class="menu" href="/lightweight-turnout-rugs">Turnout Rugs - Lightweight</a></li><li class="mitext menusep evenrow"><a class="menu" href="/stable-rugs">Stable Rugs </a></li><li class="mitext menusep evenrow"><a class="menu" href="/rug-liners">Horse &amp; Pony Rug Liners</a></li><li class="mitext menusep oddrow"><a class="menu" href="http://www.premierequine.co.uk/PBCPPlayer.asp?ID=1731296">Fly/ Summer Rugs &amp; Fly Masks</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1733637">Exercise Sheet &amp; Walker Rug</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1732625">Pony Heavyweight Rugs</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732638">Pony Medium &amp; Lightweight Rugs</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1732674">Pony Fly Rugs &amp; Fly Masks</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732714">Horse &amp; Pony Coolers/ Sheets</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1732752">Magnet Therapy </a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1733648">Cold Water Boots &amp; Ice Boots</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1732779">Turnout Boots &amp; Stable Leg Wraps</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732271">Air-Cooled &amp; Air Trax Eventing Boots</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1732791">Kevlar Tendon &amp; Fetlock Boots</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732799">Sports Boots &amp; Brushing Boots</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732854">Travel Boots &amp; Over Reach Boots</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1733964">Saddle Pads</a></li><li class="mitext menusep oddrow"><a class="menu" href="PBCPPlayer.asp?ID=1732916">Equine Accessories</a></li><li class="mitext menusep bold"><a class="menu" href="PBCPPlayer.asp?ID=1726064">Clothing &amp; Footwear</a></li><li class="mitext menusep evenrow"><a class="menu" href="PBCPPlayer.asp?ID=1733720">Gift Vouchers</a></li><li class="mitext menusep"><a class="menu" href="PBSCCatalog.asp?CatID=2015794">Sale - 20% Promotions</a></li><li class="mitext menusep"><a class="menu" href="PBSCCatalog.asp?CatID=2015798">Sale - End Of Line </a></li><li class="mitext menusep"><a class="menu" href="PBSCCatalog.asp?CatID=2496676">Sale - Returned Goods</a></li><li class="miimg"><a class="menu" href="javascript:HLExecute('accid[=]98189[&amp;]hlid[=]32896[&amp;]cpid[=]1332208[&amp;]pwdx[=]500[&amp;]pwdy[=]300')"><img src="Files/98189/Img/19/SS16OrderCatalogue.png"></a></li><li class="miimg"><a class="menu" href="PBCPPlayer.asp?ID=1733720"><img src="Files/98189/Img/10/leftnav16-r2-c1.gif"></a></li><li class="miimg"><a class="menu" href="https://view.pagetiger.com/SpringSummer2016/Spring-Summer-2016"><img src="Files/98189/Img/19/SS16ViewCatalogue.png"></a></li><li class="miimg"><a class="menu" href="PBSubscribe.asp?PBMInit=1"><img src="Files/98189/Img/12/leftnav16-r4-c1.gif"></a></li><li class="end">&nbsp;</li></ul></div></div>
+		<div id="bodycolumn1"></div>
 		<div id="bodycolumn3"></div><!-- bodycolumn3 -->
-		<div id="bodycolumn2">
+		<div id="bodycolumn2" class="widecolumn2">
 			<div id="bodydata"><!--DATA-->
 <div class="view"><table class="viewtbl"><tbody><tr><td><div class="sectiondata"><div class="sectiondataarea"><table width="100%">
 <tbody><tr>
 <td>
 <font>
 &nbsp;</font>
-<br><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h1><span style="font-size: 14px;">Privacy Policy</span></h1><p><span style="font-size: 14px;">We are committed to safeguarding the privacy of our website visitors;<br>this policy sets out how we will treat your personal information</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">What information do we collect?</span></h2><p><span style="font-size: 14px;">We may collect, store and use the following kinds of personal data:<br><br>(a) information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;<br><br>(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;</span><br><br><span style="font-size: 14px;">(c) information that you provide to us for the purpose of registering with us ;<br><br>(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters ;<br><br>(e) any other information that you choose to send to us; </span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Cookies <br></span></h2><p><span style="font-size: 14px;">We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.<br>We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognise your computer when you visit our website, and to personalise our website for you.<br><br>Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools”, "Internet Options”, "Privacy”, and selecting "Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;"><span style="font-size: 14px;">Using your personal date</span></span></h2><p><span style="font-size: 14px;"><span style="font-size: 14px;">Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.<br><br>We may use your personal information to:<br><br>[a) administer the website;<br><br>(b) improve your browsing experience by personalising the website;<br><br>(c) enable your use of the services available on the website;<br><br>(d) send to you goods purchased via the website, and supply to you services purchased via the website;<br><br>(e) send statements and invoices to you, and collect payments from you;</span><br></span><br>(f) send you general (non-marketing) commercial communications;<br><br>(g) send you email notifications which you have specifically requested;<br><br><span style="font-size: 14px;">(h) send to you our newsletter and other marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at sales@premierequineinternational.com);<br><br>We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Other disclosures</span></h2><p><span style="font-size: 14px;">In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:<br><br>(a) to the extent that we are required to do so by law;<br><br>(b) in connection with any legal proceedings or prospective legal proceedings;<br><br>(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and</span><br><br><span style="font-size: 14px;">Except as provided in this privacy policy, we will not provide your information to third parties.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Security of your personal data</span></h2><p><span style="font-size: 14px;">We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.<br><br>All electronic transactions you make to or receive from us will be encrypted using SSL technology.<br><br>Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Policy amendments</span></h2><p><span style="font-size: 14px;">We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Your rights</span></h2><p><span style="font-size: 14px;">You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).<br><br>You may instruct us not to process your personal data for marketing purposes by email (to sales@premierequineinternational.com) at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Third party websites</span></h2><p><span style="font-size: 14px;">The website may contain links to other websites. We are not responsible for the privacy policies or practices of third party websites.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Updating information</span></h2><p><span style="font-size: 14px;">Please let us know if the personal information which we hold about you needs to be corrected or updated.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Contact</span></h2><p><span style="font-size: 14px;">If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to sales or by post to Premier Equine International, Uplands Lodge, East Marsh Road, Goxhill, North Lincolnshire, DN19 7NQ .</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Credit website law</span></h2><p><span style="font-size: 14px;">This privacy policy is based on a template created and distributed by <a href="http://www.website-law.co.uk/" target="_self">www.website-law.co.uk</a></span></p></td></tr></tbody></table></td></tr>
+<br><table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h1><span style="font-size: 14px;">Privacy Policy<img style="float:right;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;;width:160px;;height:78px;" alt="" src="/Files/98189/Img/08/contact-us-pe-logo.png" border="0"></span></h1><p><span style="font-size: 14px;">We are committed to safeguarding the privacy of our website visitors;<br>this policy sets out how we will treat your personal information</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">What information do we collect?</span></h2><p><span style="font-size: 14px;">We may collect, store and use the following kinds of personal data:<br><br>(a) information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;<br><br>(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;</span><br><br><span style="font-size: 14px;">(c) information that you provide to us for the purpose of registering with us ;<br><br>(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters ;<br><br>(e) any other information that you choose to send to us; </span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Cookies <br></span></h2><p><span style="font-size: 14px;">We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.<br>We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognise your computer when you visit our website, and to personalise our website for you.<br><br>Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools”, "Internet Options”, "Privacy”, and selecting "Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;"><span style="font-size: 14px;">Using your personal date</span></span></h2><p><span style="font-size: 14px;"><span style="font-size: 14px;">Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.<br><br>We may use your personal information to:<br><br>[a) administer the website;<br><br>(b) improve your browsing experience by personalising the website;<br><br>(c) enable your use of the services available on the website;<br><br>(d) send to you goods purchased via the website, and supply to you services purchased via the website;<br><br>(e) send statements and invoices to you, and collect payments from you;</span><br></span><br>(f) send you general (non-marketing) commercial communications;<br><br>(g) send you email notifications which you have specifically requested;<br><br><span style="font-size: 14px;">(h) send to you our newsletter and other marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at sales@premierequineinternational.com);<br><br>We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Other disclosures</span></h2><p><span style="font-size: 14px;">In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:<br><br>(a) to the extent that we are required to do so by law;<br><br>(b) in connection with any legal proceedings or prospective legal proceedings;<br><br>(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and</span><br><br><span style="font-size: 14px;">Except as provided in this privacy policy, we will not provide your information to third parties.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Security of your personal data</span></h2><p><span style="font-size: 14px;">We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.<br><br>All electronic transactions you make to or receive from us will be encrypted using SSL technology.<br><br>Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Policy amendments</span></h2><p><span style="font-size: 14px;">We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Your rights</span></h2><p><span style="font-size: 14px;">You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).<br><br>You may instruct us not to process your personal data for marketing purposes by email (to sales@premierequineinternational.com) at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Third party websites</span></h2><p><span style="font-size: 14px;">The website may contain links to other websites. We are not responsible for the privacy policies or practices of third party websites.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 14px;">Updating information</span></h2><p><span style="font-size: 14px;">Please let us know if the personal information which we hold about you needs to be corrected or updated.</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Contact</span></h2><p><span style="font-size: 14px;">If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to sales or by post to Premier Equine International, Uplands Lodge, East Marsh Road, Goxhill, North Lincolnshire, DN19 7NQ .</span></p></td></tr><tr><td valign="top">  <h2><span style="font-size: 8pt;"></span><span style="font-size: 14px;">Credit website law</span></h2><p><span style="font-size: 14px;">This privacy policy is based on a template created and distributed by <a href="http://www.website-law.co.uk/" target="_self">www.website-law.co.uk</a></span></p></td></tr></tbody></table></td></tr>
 </tbody></table>
 </div></div></td></tr></tbody></table></div>
 			</div> <!--bodydata -->
@@ -431,35 +379,15 @@ $('input[name="BillingZipCode"]')
 	</div><!-- bodyarea -->
 	</div><!-- bodycontainer -->
 	<div id="footercontainer">
-		<div id="footerarea"><div id="footerblock"><div id="fbfooter"><a href="https://twitter.com/premierequine1"><img class="left" src="/Files/98189/Img/11/top-twitter.jpg "></a><a href="http://www.facebook.com/premierequineinternational"><img class="right" src="/Files/98189/Img/25/top-facebook.jpg "></a>
-<a href="http://www.facebook.com/premierequineinternational"><span class="fbtext">Enter our Facebook May Competition &amp; Win a Altus Stratus 0g Turnout Rug with Neck Cover</span></a></div>
-<div id="footer-content">
-<table width="920" align="center">
-<tbody><tr>
-<td width="220"><img src="/Files/98189/Img/13/premier-logo-ongrey.gif  "></td>
-<td class="fc1" width="360">Tel: 01469 532279<br>
-Email: <a href="mailto:sales@premierequine.co.uk">sales@premierequine.co.uk</a><br>
-www.premierequine.co.uk</td>
-<td><a href="#" class="scrollToTop" style="left: 1163px;"></a></td>
-<td class="fc2" width="340">Premier Equine International Ltd.<br>
-Uplands Lodge, East Marsh Road, Goxhill,<br>
-North Lincs, DN19 7NQ United Kingdom<br>
-
-Registered in England 4416281 VAT No. 797 2422 94 <br>
-<a href="http://premierequine.oxatis.com/PBCPPlayer.asp?ID=1312287">Terms and Conditions</a> | <a href="http://premierequine.oxatis.com/PBCPPlayer.asp?ID=1323009">Privacy Policy</a>
-</td>
-</tr>
-</tbody></table>
-</div>
-</div><div id="footermenu"><ul id="fmenu"><li class="begin">&nbsp;</li><li class="misep"></li><li class="end">&nbsp;</li></ul></div><div id="poweredby"><a href="http://www.actinic.co.uk" rel="nofollow" target="_blank"><span>Ecommerce Website by Actinic</span></a></div></div>
+		<div id="footerarea"><div id="footerblock"><div cs="" cs-webblock="" wb-id="1774990" id="FooterCustom" session-cache="true"></div></div><div id="footermenu"><ul id="fmenu"><li class="begin">&nbsp;</li><li class="mititle"><span>LEGAL</span></li><li class="mitext menusep"><a class="menu" href="PBCPPlayer.asp?ID=1323009">Privacy Policy</a></li><li class="mitext menusep"><a class="menu" href="PBCPPlayer.asp?ID=1312287">Terms &amp; Conditions</a></li><li class="misep"></li><li class="mititle"><span>ABOUT US</span></li><li class="mitext menusep"><a class="menu" href="javascript:HLExecute('accid[=]98189[&amp;]hlid[=]32896[&amp;]cpid[=]1796093[&amp;]pwdx[=]500[&amp;]pwdy[=]300')">The Company</a></li><li class="mitext menusep"><a class="menu" href="javascript:HLExecute('accid[=]98189[&amp;]hlid[=]32896[&amp;]cpid[=]1767713[&amp;]pwdx[=]500[&amp;]pwdy[=]300')">Our Riders</a></li><li class="misep"></li><li class="mititle"><span>USEFUL INFO</span></li><li class="mitext menusep"><a class="menu" href="PBCPPlayer.asp?ID=1312285">Returns &amp; Delivery</a></li><li class="end">&nbsp;</li></ul></div><div id="poweredby"><a href="http://www.actinic.co.uk" rel="nofollow" target="_blank"><span>Ecommerce Website by Actinic</span></a></div></div>
 	</div>
 </div><!-- maincontainer -->
 
 <script type="text/javascript" language="Javascript">
-var strStatParams = "AccountID=98189&amp;ADMode=&amp;SessionID=701622202&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=70194&amp;StatVal2=1";
+var strStatParams = "AccountID=98189&amp;ADMode=&amp;SessionID=459848140&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=46123&amp;StatVal2=1";
 document.write('<img src="StatRecorder.asp?'+ strStatParams +'" border="0" width="1" height="1" />');
-</script><img src="StatRecorder.asp?AccountID=98189&amp;ADMode=&amp;SessionID=701622202&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=70194&amp;StatVal2=1" border="0" width="1" height="1">
-<noscript><img src="StatRecorder.asp?AccountID=98189&amp;ADMode=&amp;SessionID=701622202&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=70194&amp;StatVal2=2" border="0" width="1" height="1" /></noscript>
+</script><img src="StatRecorder.asp?AccountID=98189&amp;ADMode=&amp;SessionID=459848140&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=46123&amp;StatVal2=1" border="0" width="1" height="1">
+<noscript><img src="StatRecorder.asp?AccountID=98189&amp;ADMode=&amp;SessionID=459848140&amp;CCode=21&amp;ViewCode=&amp;WPID=1323009&amp;CatID=&amp;ItemID=&amp;PBLangID=1&amp;StatVal1=46123&amp;StatVal2=2" border="0" width="1" height="1" /></noscript>
 
 <script type="text/javascript">
 var OxCompName = "WebBlock" ; 
@@ -469,30 +397,8 @@ var OxCatID1 = null;
 var OxCatID2 = null;
 var OxCatID3 = null;
 </script>
-<!-- Start Premier Equine Google Analytics Script -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-52525713-1', 'auto');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-
-</script>
-<!-- End Premier Equine Google Analytics Script -->
-
-
-
-<!-- A placer dans le point d'insertion HTML "fin </body>" du menu site > Propriétés par langue > [Modifier]-->
 <script type="text/javascript">
 if (OxPageName  && OxPageName == "Identification") document.getElementById("maincontainer").className += " scorderform";
 </script>
 
-
-<!-- SAGEPAY US STATE FIELD FIX --> 
-<script type="text/javascript" src="/Files/15269/orderFormExpander.js"></script> 
-<script type="text/javascript"> 
-myCountryIs (61); 
-</script><script type="text/javascript" src="Javascript/OxRealTimeSearch.js?_v=1.3"></script></body></html>
+<script type="text/javascript" src="Javascript/OxRealTimeSearch.js?_v=1.3"></script></body></html>
