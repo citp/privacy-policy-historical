@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604185342id_/http%3A//www.dorianyatesnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorianyates.net privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924132122id_/http%3A//www.dynutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Dorian Yates Nutrition
 
