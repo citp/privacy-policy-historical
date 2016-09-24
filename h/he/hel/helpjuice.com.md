@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helpjuice.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510083320id_/http%3A//help.helpjuice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpjuice.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924034106id_/https%3A//help.helpjuice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Helpjuice Support
-
-## Privacy Policy
+# Helpjuice — Privacy Policy
 
 Last updated: June 19, 2014  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
