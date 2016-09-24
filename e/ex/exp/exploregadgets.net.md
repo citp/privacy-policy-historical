@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploregadgets.net privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522185420id_/http%3A//www.exploregadgets.net/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploregadgets.net privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925000620id_/http%3A//www.exploregadgets.net/our-privacy-policy) for the most accurate reproduction.*
 
 # Explore Gadgets - Our Privacy Policy
 
