@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tooft.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526181239id_/http%3A//www.tooft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tooft.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925212033id_/http%3A//www.tooft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photo Collection - Graphics Arts, Amazing Designs and more
 
