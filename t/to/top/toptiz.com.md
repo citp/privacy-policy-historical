@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toptiz.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614065545id_/http%3A//www.toptiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptiz.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925184615id_/http%3A//www.toptiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Toptiz
+# Privacy Policy - Toptiz
 
 This Privacy Policy governs the manner in which Top Tiz collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.Toptiz.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Top Tiz.
 
