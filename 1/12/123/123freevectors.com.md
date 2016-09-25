@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604111202id_/http%3A//www.123freevectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123freevectors.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925194945id_/http%3A//www.123freevectors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Download Free Vector Art & Graphics | 123Freevectors
 
