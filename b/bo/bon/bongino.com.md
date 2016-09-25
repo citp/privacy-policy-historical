@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625002724id_/http%3A//www.bongino.com/clkn/http/www.bongino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925233507id_/http%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
 
-# Dan Bongino for Congress
+# Privacy Policy – Dan Bongino
 
-**Privacy Policy**
-
-This Privacy Policy governs the manner in which Citizens for Bongino collects, uses, maintains and discloses information collected from users of www.bongino.com (the “website”). This Privacy Policy applies to the website and all products and services offered by Citizens for Bongino.
+This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from users of www.bongino.com (the “website”). This Privacy Policy applies to the website and all products and services offered.
 
 **Information We Collect Automatically**
 
@@ -14,13 +12,12 @@ Your web browser automatically sends us (and we may retain) information such as 
 
 Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);
 
-Internet Protocol address of the computer you are using;
+  * Internet Protocol address of the computer you are using;
+  * type of browser software and operating system you are using;
+  * date and time you access our site; and
+  * the Internet address of the site from which you linked directly to our site.
 
-type of browser software and operating system you are using;
 
-date and time you access our site; and
-
-the Internet address of the site from which you linked directly to our site.
 
 We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.
 
@@ -56,7 +53,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time by contacting us via the email address given on our website **: campaign@bongino.com**
+You may opt out of any future contacts from us at any time by contacting us via the email address given on our website: [campaign@bongino.com](mailto:campaign@bongino.com)
 
 **Links to Other Websites**
 
@@ -72,7 +69,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 **Changes to this Privacy Policy**
 
-Citizens for Bongino has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our website and revise the updated date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We have the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our website and revise the updated date at the bottom of this page. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance of These Terms**
 
@@ -82,8 +79,4 @@ By using the website, you signify your acceptance of this policy. If you do not 
 
 If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
 
-**campaign@bongino.com**
-
-Citizens for Bongino, PO Box 887, Naples FL. 34106
-
-_This document was last updated on **June 16, 2016**_
+[campaign@bongino.com](mailto:campaign@bongino.com)
