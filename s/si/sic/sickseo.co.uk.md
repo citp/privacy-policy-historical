@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickseo.co.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621014808id_/http%3A//sickseo.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickseo.co.uk privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925080706id_/http%3A//sickseo.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
