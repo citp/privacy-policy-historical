@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robynsonlineworld.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525124533id_/http%3A//www.robynsonlineworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robynsonlineworld.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925094316id_/http%3A//www.robynsonlineworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — RobynsOnlineWorld.com
 
