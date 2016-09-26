@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeconferencecall.com privacy policy that was archived on 2016-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160313152959id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeconferencecall.com privacy policy that was archived on 2016-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160926235322id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--[if IE 9]>
 <html class='ie9'></html>
@@ -14,22 +14,32 @@ Free Conference Call Privacy Policy | freeconferencecall.com
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR">
 <meta content="6Ldw2wATAAAAAPrc0sIk2o7FxSX5ZwzkHm55xu2i" name="RECAPTCHA">
+<link href="/fcc_favicon.ico" rel="shortcut icon" type="image/x-icon">
 <meta content="Privacy policy for freeconferencecall.com. For additional information, visit freeconferencecall.com or call (844) 844-1322." name="description">
 <meta content="freeconferencecall.com" name="Author">
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
 
 
-<meta content="authenticity_token" name="csrf-param">
-<meta content="eUX9Bc7YWVYCHboBRBe9TRc81fhpZdN87XJo1YM0zs4=" name="csrf-token">
-<link debug="false" href="/assets/vendor_wide-924208510a29952bc8378c50bb6be531.css" media="all" rel="stylesheet">
-<link debug="false" href="/assets/application_wide-1d3d36eb01b2853305fed09763924d70.css" media="all" rel="stylesheet">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="7Y73cucIpJMuAgek3MZXByNTXRJ4FKJtKUFjLrUvJJZVeFWHOOPpWeBhMQ2/hiDrK9vjwI4t+C3KvMvmazSn7Q==">
+<link rel="stylesheet" media="all" href="/assets/vendor_inside-46681701b5e33de51bfaf8d49b619bf9.css" debug="false">
+<link rel="stylesheet" media="all" href="/assets/application_wide-c595777580ca4cb4c34064c1690236c2.css" debug="false">
 
 <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 if(!window.LauncherConfig) { LauncherConfig = {}; }
+if(!window.App) { App = {}; }
 LauncherConfig.AppUrl = "";
 LauncherConfig.PluginVersion = "0.0.0";
 LauncherConfig.PluginUrl = null;
 LauncherConfig.ServerEnvironment = "fcc_production";
+LauncherConfig.OperationSystem = "unknown";
+LauncherConfig.isLinuxOS = false;
+LauncherConfig.isWinOS = false;
+LauncherConfig.isMacOS = false;
+
+window.PROJECT_NAME = "fcc";
+App.isStartMeeting = (window.PROJECT_NAME === 'sm');
+
 </script>
 
 <script src="//cdn.optimizely.com/js/234829055.js"></script>
@@ -47,7 +57,6 @@ LauncherConfig.ServerEnvironment = "fcc_production";
   // bfcache buster
   window.onpageshow = function(event) {
     if (event.persisted) {
-      debugger
         window.location.reload()
     }
   };
@@ -60,14 +69,18 @@ LauncherConfig.ServerEnvironment = "fcc_production";
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 <div class="navbar-header" id="nav-banner">
 <div class="text-center">
-Your account now comes with video conferencing.
-<a class="white-text" href="/video-conferencing">Learn More</a>
+Accounts now include FREE screen sharing and video conferencing for up to 1,000 participants.
+<a class="white-text" href="/online-meetings" onclick="ga('send', 'event', 'link', 'clicked', 'top banner');" title="Learn More">
+Learn More
+</a>
 </div>
 </div>
 <div class="container-fluid">
 <div class="navbar-header">
 <button class="navbar-toggle" data-target=".top-collapse" data-toggle="collapse" type="button">
-<span class="sr-only">Toggle navigation</span>
+<span class="sr-only">
+Toggle navigation
+</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
@@ -77,21 +90,31 @@ Your account now comes with video conferencing.
 <img alt="FreeConferenceCall.com Logo" id="fcc-logo" src="/images/application_wide/general/logo/fcclogo.png">
 </object>
 </a>
-<div class="btn btn-light-grey pull-right" id="login-mobile" onclick="window.location='/login'" title="Log In" type="button">Log In</div>
+<div class="btn btn-light-grey pull-right" id="login-mobile" onclick="window.location='/login'" title="Log In" type="button">
+Log In
+</div>
 </div>
 <div class="collapse navbar-collapse top-collapse" id="navMain">
 <ul class="nav navbar-nav">
 <li class="hide1 hide2">
-<a href="#" onclick="Dialog.whatIsThisHome('', '', 'FCC_HO_5_F', '', '')" title="Sign Up">Sign Up</a>
+<a href="#" onclick="ga('send', 'event', 'signup button', 'clicked', 'navbar'); window.DialogMessages ? DialogMessages.signupPopup(undefined, undefined, 'FCC_HO_5_F', '', '') : Dialog.whatIsThisHome('', '', 'FCC_HO_5_F', '', '')" title="Sign Up">
+Sign Up
+</a>
 </li>
 <li class="hide1 hide2">
-<a href="/international-conferencing" title="International Service">International Service</a>
+<a href="/international-conferencing" title="International Service">
+International Service
+</a>
 </li>
 <li class="menu-show">
-<a href="/features" title="Features">Features</a>
+<a href="/features" title="Features">
+Features
+</a>
 </li>
 <li class="menu-show">
-<a href="/support" title="Support">Support</a>
+<a href="/support" title="Support">
+Support
+</a>
 </li>
 <li class="dropdown">
 <a class="dropdown-toggle menu-show" data-toggle="dropdown" href="#" title="More">
@@ -104,34 +127,54 @@ Menu
 </a>
 <ul class="dropdown-menu" role="menu">
 <li class="hide1">
-<a href="#" onclick="Launcher.showHostPopup()" title="Host Meeting">Host Meeting</a>
+<a href="#" onclick="Launcher.showHostPopup()" title="Host Meeting">
+Host Meeting
+</a>
 </li>
 <li class="hide1">
-<a href="#" onclick="Launcher.showJoinPopup()" title="Join Meeting">Join Meeting</a>
+<a href="#" onclick="Launcher.showJoinPopup()" title="Join Meeting">
+Join Meeting
+</a>
 </li>
 <li class="hide1">
-<a href="/features" title="Features">Features</a>
+<a href="/features" title="Features">
+Features
+</a>
 </li>
 <li class="hide1">
-<a href="/support" title="Support">Support</a>
+<a href="/support" title="Support">
+Support
+</a>
 </li>
 <li>
-<a href="/apps" title="Apps">Apps</a>
+<a href="/apps" title="Apps">
+Apps
+</a>
 </li>
 <li>
-<a href="/aboutus" title="About Us">About Us</a>
+<a href="/aboutus" title="About Us">
+About Us
+</a>
 </li>
 <li>
-<a href="/contactus" title="Contact Us">Contact Us</a>
+<a href="/contactus" title="Contact Us">
+Contact Us
+</a>
 </li>
 <li>
-<a href="/partner_program" title="Partner Program">Partner Program</a>
+<a href="/partner_program" title="Partner Program">
+Partner Program
+</a>
 </li>
 <li class="hide3">
-<a href="/for-business" title="For Business">For Business</a>
+<a href="/for-business" title="For Business">
+For Business
+</a>
 </li>
 <li class="hide">
-<a href="/online-meetings" title="Free Online Meetings">Free Online Meetings</a>
+<a href="/online-meetings" title="Free Online Meetings">
+Free Online Meetings
+</a>
 </li>
 </ul>
 </li>
@@ -163,7 +206,9 @@ Free Online Meetings
 </ul>
 </li>
 <li class="menu-show w768">
-<a href="/for-business" title="For Business">For Business</a>
+<a href="/for-business" title="For Business">
+For Business
+</a>
 </li>
 <li class="hide-phone">
 <p class="navbar-text">
@@ -173,10 +218,14 @@ Customer Service:
 </li>
 </ul>
 <div class="navbar-right">
-<div class="btn btn-light-grey pull-right" id="login-desktop" onclick="window.location='/login'" title="Log In" type="button">Log In</div>
+<div class="btn btn-light-grey pull-right" id="login-desktop" onclick="window.location='/login'" title="Log In" type="button">
+Log In
+</div>
 </div>
 <div class="navbar-right">
-<div class="btn btn-blue" onclick="Dialog.whatIsThisHome('', '', 'FCC_HO_5_F', '', '')" title="Sign Up" type="button">Sign Up</div>
+<div class="btn btn-blue" onclick="ga('send', 'event', 'signup button', 'clicked', 'navbar'); window.DialogMessages ? DialogMessages.signupPopup(undefined, undefined, 'FCC_HO_5_F', '', '') : Dialog.whatIsThisHome('', '', 'FCC_HO_5_F', '', '')" title="Sign Up" type="button">
+Sign Up
+</div>
 </div>
 <div class="navbar-right">
 <span class="glyphicons glyphicons-earphone navbar-text"></span>
@@ -249,7 +298,7 @@ However, if you decide not to provide such information, then you may not be able
 modify your Personal Information from your Account, or by contacting us at the number provided below.
 </p>
 <p>
-IN-SESSION INFORMATION
+<strong>In-Session Information</strong>
 </p>
 <p>
 Information collected during your use of the Services, including domestic and international audio, web and video conferencing services, live chat,
@@ -281,31 +330,33 @@ certain of your Personal Information.
 </p>
 <p>
 In general, we may use your Personal Information to:
-</p>
-<p>
-· Administer your Account and verify your identity;
-</p>
-<p>
-· Process your payments and fulfill your orders;
-</p>
-<p>
-· Provide you with the Services and customer support;
-</p>
-<p>
-· Tailor the features, performance, and support of the Services to you;
-</p>
-<p>
-· Market the Services to you;
-</p>
-<p>
-· Respond to your requests, resolve disputes, and/or troubleshoot problems;
-</p>
-<p>
-· Improve the quality of the Services; and
-</p>
-<p>
-· Communicate with you about the Services.
-</p>
+</p><ul>
+<li>
+Administer your Account and verify your identity;
+</li>
+<li>
+Process your payments and fulfill your orders;
+</li>
+<li>
+Provide you with the Services and customer support;
+</li>
+<li>
+Tailor the features, performance, and support of the Services to you;
+</li>
+<li>
+Market the Services to you;
+</li>
+<li>
+Respond to your requests, resolve disputes, and/or troubleshoot problems;
+</li>
+<li>
+Improve the quality of the Services; and
+</li>
+<li>
+Communicate with you about the Services.
+</li>
+</ul>
+<p></p>
 <p>
 FCC uses email to contact its customers. If you voluntarily submit your email address to receive information, we may subsequently issue Service information
 to you via email, including technical advisories. Customers receive an initial registration email with all account details listed. After each call,
@@ -376,84 +427,147 @@ or call (844)
 <div class="container">
 <div class="footernav">
 <div class="row">
-<div class="col-md-3">
-<h4>Products</h4>
+<div class="col-xs-12">
+<div class="col-md-2 col-md-15">
+<h4>
+Features
+</h4>
 <ul>
 <li>
-<a href="/features" title="Features">Features</a>
+<a href="/free-teleconferencing-service" title="Teleconferencing and Conference Call Benefits">
+Free Teleconferencing
+</a>
 </li>
 <li>
-<a href="/free-teleconferencing-service" title="Teleconferencing and Conference Call Benefits">Free Conference Call</a>
+<a href="/online-meetings" title="Screen Sharing">
+Screen Sharing
+</a>
 </li>
 <li>
-<a href="/for-business" title="For Business">For Business</a>
+<a href="/video-conferencing" title="Video Conferencing">
+Video Conferencing
+</a>
 </li>
 <li>
-<a href="/developers" title="Developers">Developers</a>
+<a href="/international-conferencing" title="International Conferencing">
+International Conferencing
+</a>
+</li>
+</ul>
+</div>
+<div class="col-md-2 col-md-15">
+<h4>
+Solutions
+</h4>
+<ul>
+<li>
+<a href="/for-business" title="For Business">
+For Business
+</a>
+</li>
+<li>
+<a href="/for-education" title="For Education">
+For Education
+</a>
+</li>
+<li>
+<a href="/developers" title="Developers">
+Developers
+</a>
 </li>
 <li>
 <a href="/high-volume" title="Large Meetings">
 Large Meetings
 </a>
 </li>
+</ul>
+</div>
+<div class="col-md-2 col-md-15">
+<h4>
+Support
+</h4>
+<ul>
 <li>
-<a href="/online-meetings" title="Online Meetings">Online Meetings</a>
+<a href="/support" title="FAQs">
+FAQs
+</a>
 </li>
 <li>
-<a href="/video-conferencing" title="Video Conferencing">Video Conferencing</a>
+<a href="/instructions" title="Instructions">
+Instructions
+</a>
+</li>
+<li>
+<a href="/support-ticket" title="Support Ticket">
+Support Ticket
+</a>
 </li>
 <li id="download-app">
-<a href="javascript://" onclick="Launcher.download();  return false;" title="Get Desktop App">Get Desktop App</a>
+<a href="javascript://" onclick="ga('send', 'event', 'Desktop App', 'Download', 'Footer Link'); Launcher.download();  return false;" title="Get Desktop App">
+Get Desktop App
+</a>
 </li>
 </ul>
 </div>
-<div class="col-md-3">
-<h4>Support</h4>
+<div class="col-md-2 col-md-15">
+<h4>
+Company
+</h4>
 <ul>
 <li>
-<a href="/support" title="FAQs">FAQs</a>
+<a href="/aboutus" title="About Us">
+About Us
+</a>
 </li>
 <li>
-<a href="/support-ticket" title="Support Ticket">Support Ticket</a>
+<a href="/aboutus/executives" title="Executives">
+Executives
+</a>
 </li>
 <li>
-<a href="/referral" title="Refer a Friend">Refer a Friend</a>
+<a href="/careers" title="Careers">
+Careers
+</a>
 </li>
 <li>
-<a href="/instructions" title="Instructions">Instructions</a>
+<a href="/contactus" title="Contact Us">
+Contact Us
+</a>
 </li>
 </ul>
 </div>
-<div class="col-md-3">
-<h4>Company</h4>
+<div class="col-md-2 col-md-15">
+<h4>
+Stay Connected
+</h4>
 <ul>
 <li>
-<a href="/aboutus" title="About Us">About Us</a>
+<a href="/resources" title="Press Releases">
+Press Releases
+</a>
 </li>
 <li>
-<a href="/contactus" title="Contact Us">Contact Us</a>
+<a href="/testimonial" title="Testimonials">
+Testimonials
+</a>
 </li>
 <li>
-<a href="/aboutus/executives" title="Executives">Executives</a>
+<a href="/referral" title="Refer a Friend">
+Refer a Friend
+</a>
 </li>
 <li>
-<a href="/careers" title="Careers">Careers</a>
-</li>
-<li>
-<a href="http://www.freeconferencecall.com/blog" title="Blog">Blog</a>
+<a href="http://www.freeconferencecall.com/blog" title="Blog">
+Blog
+</a>
 </li>
 </ul>
 </div>
-<div class="col-md-3">
-<h4>In The News</h4>
-<ul>
-<li>
-<a href="/resources" title="Press Releases">Press Releases</a>
-</li>
-<li>
-<a href="/testimonial" title="Testimonials">Testimonials</a>
-</li>
-</ul>
+</div>
+</div>
+<hr>
+<div class="row row-centered">
+<div class="col-md-4 col-sm-6 col-xs-12 col-centered">
 <div class="social-icons">
 <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
 <a addthis:userid="FreeConferenceCallFanPage" class="addthis_button_facebook_follow"></a>
@@ -466,19 +580,29 @@ Large Meetings
 <script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-506327bb73b175dc" type="text/javascript"></script>
 </div>
 </div>
-<hr>
 <div class="row">
 <div class="col-md-12">
-<div class="small text-center" id="sitelegend">
-<a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
-|
-<a href="/sitemap" title="Sitemap">Sitemap</a>
-|
-<a id="termsofservice_link_footer" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
-|
-<span>
-© FreeConferenceCall.com 2001-2016, version W
-</span>
+<div class="small" id="sitelegend">
+<ul>
+<li>
+<a href="/privacy-policy" title="Privacy Policy">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/sitemap" title="Sitemap">
+Sitemap
+</a>
+</li>
+<li>
+<a id="termsofservice_link_footer" title="Terms &amp; Conditions">
+Terms &amp; Conditions
+</a>
+</li>
+<li>
+© FreeConferenceCall.com 2001-2016, ver W
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -487,7 +611,7 @@ Large Meetings
 </div>
 
 
-<script src="/assets/application_wide-1c5fd7b725cb7ca41d9f535d8daa0425.js"></script>
+<script src="/assets/application_wide-87f09489a94cce7081a4609cdac953f6.js"></script>
 <script>
   $(function () {
     $('[data-toggle="tooltip"]').tooltip()
@@ -551,6 +675,9 @@ Large Meetings
   })();
 </script>
 <!-- end Pardot Website Tracking code -->
+<script>
+  window.mobile_app_launch_url = "/application/freeconferencecall/"
+</script>
 
 
 </body></html>
