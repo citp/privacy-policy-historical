@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planyourwedding.my privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517021057id_/http%3A//www.planyourwedding.my/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planyourwedding.my privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926194837id_/http%3A//www.planyourwedding.my/policy) for the most accurate reproduction.*
 
 # PlanYourWedding: Your wedding ideas and inspiration!
 
