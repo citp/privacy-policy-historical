@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614032837id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926184604id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
 
 # Drugstore | drugstore.com
 
