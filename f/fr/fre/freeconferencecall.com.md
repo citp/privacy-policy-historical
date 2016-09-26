@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313152959id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926235322id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Conference Call Privacy Policy | freeconferencecall.com
 
@@ -19,7 +19,7 @@ We may also collect Personal Information that you submit to us voluntarily when 
 
 You can always decline to provide any Personal Information to us—it is your choice, and you are under no obligation to provide Personal Information to us. However, if you decide not to provide such information, then you may not be able to use or purchase the Services. At any point, you may access, review, and modify your Personal Information from your Account, or by contacting us at the number provided below. 
 
-IN-SESSION INFORMATION 
+**In-Session Information**
 
 Information collected during your use of the Services, including domestic and international audio, web and video conferencing services, live chat, voicemail, audio, web and video recording, voice broadcasting services and other voice and messaging services. In addition, the company offers assorted features and applications as part of its Services is protected by the use of end-to-end encryption and only accessible to those users you invite, or with whom you otherwise choose to share information. You will have the ability to record, store, and access information related to your use of the Services, and we will not access this information except as may be necessary to support the Services and anticipate, diagnose, or resolve problems that may limit or disrupt the Services, or as may be required by law. Please be aware that any Personal Information you provide to other users during your use of the Services can be collected, used, maintained, shared, or disclosed by those users, and we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such users. 
 
@@ -31,21 +31,16 @@ We may also collect and store certain information that does not identify you, su
 
 In general, we may use your Personal Information to: 
 
-· Administer your Account and verify your identity; 
+  * Administer your Account and verify your identity; 
+  * Process your payments and fulfill your orders; 
+  * Provide you with the Services and customer support; 
+  * Tailor the features, performance, and support of the Services to you; 
+  * Market the Services to you; 
+  * Respond to your requests, resolve disputes, and/or troubleshoot problems; 
+  * Improve the quality of the Services; and 
+  * Communicate with you about the Services. 
 
-· Process your payments and fulfill your orders; 
 
-· Provide you with the Services and customer support; 
-
-· Tailor the features, performance, and support of the Services to you; 
-
-· Market the Services to you; 
-
-· Respond to your requests, resolve disputes, and/or troubleshoot problems; 
-
-· Improve the quality of the Services; and 
-
-· Communicate with you about the Services. 
 
 FCC uses email to contact its customers. If you voluntarily submit your email address to receive information, we may subsequently issue Service information to you via email, including technical advisories. Customers receive an initial registration email with all account details listed. After each call, customers receive call detail reports via email. Finally, FCC uses email to communicate promotions and product updates with customers (“Promotional Emails”); however, we respect your right to opt out of receiving such Promotional Emails from us. If, at any time after registering, you change your mind about receiving Promotional Emails, you can opt out of receiving such information by sending your request to services@freeconferencecall.com. In addition, you can choose to opt out of the Promotional Emails via the “opt out” link included in each email. 
 
