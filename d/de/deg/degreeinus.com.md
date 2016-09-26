@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreeinus.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620193023id_/http%3A//www.degreeinus.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeinus.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926022448id_/http%3A//degreeinus.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # degreeinus -American Degree Programs, American Online Education
 
