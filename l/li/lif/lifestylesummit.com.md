@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylesummit.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021003930id_/http%3A//www.lifestylesummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylesummit.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926092913id_/http%3A//www.lifestylesummit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
