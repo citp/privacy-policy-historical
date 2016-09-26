@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themelot.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628123911id_/http%3A//themelot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themelot.net privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926172914id_/http%3A//themelot.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Themes Download Free
+# Privacy Policy - Free Themes & Templates
 
 **The following is an outline of** **Themelot.net** Privacy Policy.
 
