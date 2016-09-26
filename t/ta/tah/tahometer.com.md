@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tahometer.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603232958id_/http%3A//www.tahometer.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tahometer.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926225119id_/http%3A//www.tahometer.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy of Tahometer
 
