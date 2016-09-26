@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318031556id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926233729id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Istanto Blog – Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online. - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
@@ -32,6 +32,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Related Search Terms:
 
-  * [alamat dan telepon mandiri surabaya](http://www.istanto.net/privacy-policy "alamat dan telepon mandiri surabaya") (2)
+  * [alamat dan telepon mandiri surabaya](http://www.istanto.net/privacy-policy "alamat dan telepon mandiri surabaya")
 
 
