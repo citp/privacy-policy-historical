@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525183031id_/http%3A//crsdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926082756id_/http%3A//www.crsdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-The Real Estate [Suite] … gives me an edge in an industry that is quite competitive.” 
+“I say this…and I can’t say it enough-you have a great product, but you’ve got even greater people. And you are extremely responsive. You have a team that can service all 230 banks in my state.”
 
-**ROSS RYLANCE** \- Keller Williams Realty, Franklin 
+**COLIN BARRETT** \- Tennessee Bankers Association 
