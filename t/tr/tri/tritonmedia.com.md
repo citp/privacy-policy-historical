@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tritonmedia.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320174736id_/https%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tritonmedia.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926150209id_/https%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Triton Digital - Privacy Policy
 
