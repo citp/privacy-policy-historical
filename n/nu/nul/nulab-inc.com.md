@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606062007id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927013208id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nulab Inc.
 
