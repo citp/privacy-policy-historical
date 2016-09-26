@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipsociety.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603042548id_/http%3A//vipsociety.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipsociety.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926132617id_/http%3A//vipsociety.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
