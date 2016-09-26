@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625013733id_/http%3A//www.lasvegasdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926143642id_/http%3A//www.lasvegasdirect.com/privacy.html) for the most accurate reproduction.*
 
 # Las Vegas Direct Privacy Policy
 
@@ -10,11 +10,11 @@ _
 
 Las Vegas Direct has established and carried out information handling practices for www.LasVegasDirect.com that we truly believe are consistent with the highest standards and best procedures of organizations doing business on the Internet today. This privacy policy describes the procedures that apply to LasVegasDirect.com, including:
 
-· The information we collect about you
+� The information we collect about you
 
-· When and how we collect that information
+� When and how we collect that information
 
-· What may happen to that information  
+� What may happen to that information  
  
 
 Below is a detailed description of LasVegasDirect.com's information handling.  
@@ -28,18 +28,18 @@ Some information is collected automatically every time you visit LasVegasDirect.
 What information we collect  
  
 
-**· Personal Information**
+**� Personal Information**
 
 LasVegasDirect.com collects your personal information that you specifically and voluntarily provide. personal information includes information that can identify you as a specific individual, such as name, phone number, email address, and address. In order to fulfill travel requests, it is necessary for us to collect personal information including the previously mentioned information. Declining to provide this information will impede your access to all sections of LasVegasDirect.com and your ability to book reservations on LasVegasDirect.com.
 
 On all Las Vegas Direct pages that request personal information, we explicate what information is required in order to provide you with the requested product or service.  
  
 
-**· Payment Information**
+**� Payment Information**
 
 By using the LasVegasDirect, you will be able to book, reserve or purchase travel services or accommodations. To use these services, you must provide payment information to us including credit card specifics like card number and type, issuing bank, expiration date, cardholder name and billing address. This information will only be required in as a consequence of requesting reservation services. 
 
-**· Activity Information**
+**� Activity Information**
 
 Las Vegas Direct reserves the right to collect technical information from your computer each time you request a Web page. This information is accessed from your Web browser and may include your Web browser type and version, operating system, IP address, and screen resolution. 
 
