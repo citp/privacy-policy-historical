@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealistrevolution.org privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416232431id_/http%3A//www.idealistrevolution.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealistrevolution.org privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926130654id_/http%3A//www.idealistrevolution.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Idealist Revolution
 
