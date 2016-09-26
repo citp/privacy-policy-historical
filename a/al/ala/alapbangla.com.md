@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alapbangla.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529160504id_/http%3A//alapbangla.com/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alapbangla.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926093300id_/http%3A//alapbangla.com/Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
