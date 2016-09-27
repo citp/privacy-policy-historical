@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508022233id_/https%3A//varvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927034637id_/https%3A//varvy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Varvy.com
 
@@ -33,3 +33,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   
 
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact me by email at pat@varvy.com.
