@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406000259id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927042923id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pro Tool Reviews
 
