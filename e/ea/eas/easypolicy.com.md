@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623181813id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927020333id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Insurance Services - Easypolicy Customer Privacy Policy
 
@@ -26,7 +26,7 @@ As the internet is an ever evolving medium, we may change our privacy policy fro
 
 ####  Contact Information
 
-Easypolicy Insurance Web Aggregators Pvt. Ltd.  
-9th Floor, Tower C, Logix Cyber Park, C-28 & 29, Sector 62,   
-Noida, Uttar Pradesh, 201301 India.  
+Easypolicy Insurance Web Aggregators Pvt. Ltd.,  
+9th Floor, Tower C, Logix Cyber Park,C-28 & 29,Sector 62,  
+Noida-201301, Uttar Pradesh, India.  
 Email: help@easypolicy.com 
