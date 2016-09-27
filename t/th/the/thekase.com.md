@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekase.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035545id_/http%3A//www.thekase.com/us/en/page-infos-privacy-US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekase.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928012144id_/http%3A//www.thekase.com/us/en/page-infos-privacy-US.html) for the most accurate reproduction.*
 
 # Privacy policy
 
