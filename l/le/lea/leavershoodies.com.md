@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leavershoodies.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512073553id_/http%3A//www.leavershoodies.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leavershoodies.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927083759id_/http%3A//www.leavershoodies.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Leavers Hoodies .com | Privacy Policy
 
