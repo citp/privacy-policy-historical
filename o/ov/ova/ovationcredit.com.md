@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403101252id_/http%3A//www.ovationcredit.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927123414id_/http%3A//www.ovationcredit.com/Policies/Privacy) for the most accurate reproduction.*
 
-# Ovation Credit | Privacy Policy
+# Credit Repair to Fix Credit Scores | Ovation Credit | Privacy Policy
 
 ### Your information is safe and secure with Ovation. 
 
