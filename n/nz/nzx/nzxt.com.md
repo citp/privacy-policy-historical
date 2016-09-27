@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404144229id_/https%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927144832id_/https%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
 
-# NZXT Privacy Policy - NZXT
+# NZXT | PC Hardware Manufacturer - Cases, Cooling, Fan Control and PC Monitoring
 
 ### NZXT HQ
 
@@ -171,8 +171,8 @@ If you have any questions, comments or concerns regarding our Privacy Policy and
 
 
 NZXT Corporation   
-|3164 East Temple Avenue   
-|City of Industry, CA 91746
+13164 East Temple Avenue  
+City of Industry, CA 91746
 
 ### NZXT HQ
 
