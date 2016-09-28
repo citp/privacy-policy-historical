@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522080546id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928115733id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » OverallBeauty.com
 
-Overall Beauty/Website/Creator of [**Overall Beauty Minerals**](http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/ "Overall Beauty Minerals vegan friendly mineral makeup") your vegan friendly mineral makeup line.  
-ATTN: Kim Snyder  
-kim (@)overallbeauty.com  
-5336 Blue Sapphire Ct.  
-Elk Grove, CA 95758
+Overall Beauty/Website/Creator of [**Overall Beauty Minerals**](http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/ "Overall Beauty Minerals vegan friendly mineral makeup") your vegan friendly mineral makeup line.
 
-We have an official stance on animal testing and/or the use of animal ingredients used in our brand of mineral makeup we call Overall Beauty Minerals. Once thing we are very passion about is being able to state we are a vegan mineral makeup line. We do not believe in the testing on animals is right. There are difference ways to test without testing on animals. Overall Beauty Minerals does not use any ingredients that are by products of animals such as beeswax, carmine,lanolin, glycerin or other products created from animals.  
+We have an official stance on no animal testing and/or the use of animal ingredients in our brand of vegan mineral makeup we call **Overall Beauty Minerals.** Once thing we are very passion about is being able to state we are a vegan mineral makeup line. We do not believe in the testing on animals is right. There are difference ways to test without testing on animals. Overall Beauty Minerals does not use any ingredients that are by products of animals such as beeswax, carmine, lanolin, glycerin or other products created from animals.  
 Thank you for reading this, now to our privacy Notice. 
 
 http://overallbeauty.com Privacy Policy  
@@ -143,4 +139,4 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 By email at kim@overallbeauty.com
 
-Last Edited on 2015-08-17
+Last Edited on 2016-09-17
