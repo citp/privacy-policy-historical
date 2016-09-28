@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvzone.tv privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318191540id_/http%3A//www.tvzone.tv/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvzone.tv privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928095603id_/http%3A//www.tvzone.tv/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -51,4 +51,4 @@ tvinn has the discretion to update this privacy policy at any time. When we do, 
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20160318191540id_/http%3A//www.tvzone.tv/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20160928095603id_/http%3A//www.tvzone.tv/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
