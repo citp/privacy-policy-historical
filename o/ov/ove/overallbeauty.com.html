@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the overallbeauty.com privacy policy that was archived on 2016-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522080546id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the overallbeauty.com privacy policy that was archived on 2016-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160928115733id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -32,18 +32,19 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Notice - OverallBeauty.com">
-<meta property="og:description" content="Overall Beauty/Website/Creator of Overall Beauty Minerals your vegan friendly mineral makeup line. ATTN: Kim Snyder kim (@)overallbeauty.com 5336 Blue Sapphire Ct. Elk Grove, CA 95758 We have an official stance on animal testing and/or the use of animal ingredients used in our brand of mineral makeup we call Overall Beauty Minerals. Once thing we are [...]">
+<meta property="og:description" content="Overall Beauty/Website/Creator of Overall Beauty Minerals your vegan friendly mineral makeup line. We have an official stance on no animal testing and/or the use of animal ingredients in our brand of vegan mineral makeup we call Overall Beauty Minerals. Once thing we are very passion about is being able to state we are a vegan [...]">
 <meta property="og:url" content="http://overallbeauty.com/homepage/privacy-notice/">
 <meta property="og:site_name" content="OverallBeauty.com">
 <meta property="article:author" content="http://facebook.com/overallbeauty1">
 <meta property="article:published_time" content="2013-04-10T17:57:47+00:00">
-<meta property="article:modified_time" content="2015-08-17T12:14:30+00:00">
-<meta property="og:updated_time" content="2015-08-17T12:14:30+00:00">
+<meta property="article:modified_time" content="2016-09-22T15:43:22+00:00">
+<meta property="og:updated_time" content="2016-09-22T15:43:22+00:00">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="OverallBeauty.com » Feed" href="http://overallbeauty.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="OverallBeauty.com » Comments Feed" href="http://overallbeauty.com/comments/feed/">
 <link rel="stylesheet" id="thickbox-css" href="http://overallbeauty.com/wp-includes/js/thickbox/thickbox.css?ver=20121105" type="text/css" media="all">
+<link rel="stylesheet" id="flick-css" href="http://overallbeauty.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://overallbeauty.com/?mcsf_action=main_css&amp;ver=3.5.2" type="text/css" media="all">
 <!--[if IE]>
 <link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://overallbeauty.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.5.2' type='text/css' media='all' />
@@ -69,6 +70,8 @@
     <script type="text/javascript">      
     var     yiw_product_slider_interval = 6;</script>
     <script type="text/javascript" src="http://overallbeauty.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://overallbeauty.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2"></script>
+<script type="text/javascript" src="http://overallbeauty.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.5.2"></script>
 <script type="text/javascript" src="http://overallbeauty.com/wp-content/themes/maya/core/includes/js/jquery.easing.1.3.js?ver=1.3"></script>
 <script type="text/javascript" src="http://overallbeauty.com/wp-content/themes/maya/core/includes/js/jquery.prettyPhoto.js?ver=3.0"></script>
 <script type="text/javascript" src="http://overallbeauty.com/wp-content/themes/maya/core/includes/js/jquery.tipsy.js?ver=3.5.2"></script>
@@ -84,6 +87,39 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://overallbeauty.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://overallbeauty.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 3.5.2">
+<script type="text/javascript">
+        jQuery(function($) {
+            $('.date-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd/yyyy';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: true,
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+            });
+            d = new Date();
+            $('.birthdate-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: false,
+                    minDate: new Date(d.getFullYear(), 1-1, 1),
+                    maxDate: new Date(d.getFullYear(), 12-1, 31),
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+
+            });
+
+        });
+    </script>
     <script type="text/javascript">
     jQuery(document).ready(function($){   
         $('body').bind('added_to_cart', function(){
@@ -96,46 +132,58 @@
 <!-- WooCommerce Version -->
 <meta name="generator" content="WooCommerce 2.0.20">
 
-<style type="text/css">.topbar-right .topbar-level-1 > li > ul li a { color:#a92d66 !important; }
+<style type="text/css">#top a { color:#0000 !important; }
+.topbar-right .topbar-level-1 > li > ul li a { color:#a92d66 !important; }
+#vacation p, #vacation li { color:#fffff !important; }
 #cart .quick-cart li a, #cart .quick-cart li .price { color:#a92d66 !important; }
 #cart .quick-cart li:hover a, #cart .quick-cart li:hover .price { color:#000 !important; }
 #cart .quick-cart li.empty, #cart .quick-cart li.totals, #cart .quick-cart li.totals .price { color:#000 !important; }
 #cart .quick-cart a.view-cart-button { color:#000 !important; }
 #cart .quick-cart a.view-cart-button:hover { color:#000 !important; }
+#nav ul li a { color:#fffff; }
 #nav ul li a:hover, #nav ul.sub-menu li a:hover, #nav ul.children a:hover { color:#da0680; }
 #nav .current-menu-item > a, #nav .current-menu-ancestor > a, div#nav .current_page_item > a, div#nav .current_page_parent > a { color:#da0684 !important; }
-#nav ul.sub-menu li a, #nav ul.children li a { color:#da0659; }
+#nav ul.sub-menu li, #nav ul.children li { border-top-color:#FF78F0; }
+#nav ul.sub-menu li a, #nav ul.children li a { color:#da0680; }
 #nav ul.sub-menu li a:hover, #nav ul.children li a:hover { color:#da0684; }
 h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color:#a0025f; }
+#slogan h3 { color:#EB64DC; }
 body, p, li, address, dd, blockquote, #content .contact-form label, #content .contact-form input, #content .contact-form textarea, .gallery-filters ul.filters li a { color:#1f1f1f; }
 a, #footer a, #footer .widget a, #copyright a, .testimonial-widget a.url-testimonial, .testimonial-widget a.name-testimonial:hover, #sidebar .recent-post a.title, #sidebar .recent-comments a.title, #sidebar .recent-comments a.goto, #sidebar .recent-comments .author a, .gallery-filters ul.filters li a:hover, .gallery-filters ul.filters li.selected a { color:#ab056c; }
 #sidebar a:hover, #sidebar div a:hover, #sidebar ul li a:hover, #sidebar p a:hover, #sidebar .widget a:hover, #sidebar div ul li a:hover { color:#ab056c !important; }
-span.onsale { background-color:#b90168; }
-.products li a strong { background-color:#F68cff !important; }
-.shop-ribbon .products li:hover .below-thumb, .products li:hover a strong.below-thumb, .products.ribbon .below-thumb:hover { color:#a92d66 !important; }
-.products li .buttons a.add-to-cart { background-color:#F68cff; }
-.products li .buttons a.details { background-color:#ec82ff; }
-.products li .buttons a.add-to-cart:hover { background-color:#c27aa9 !important; }
-.products li .buttons a.details:hover { background-color:#bb6691; }
-.products li .buttons a.add-to-cart:hover { color:#ffff !important; }
-.products li .buttons a.details:hover { color:#ffff; }
-a.button, button.button, input.button, #review_form #submit { background-color:#C45AEC !important; }
+span.onsale { color:#ffffff; }
+span.onsale { background-color:#CD4690; }
+.products li a strong { background-color:#ff33ff !important; }
+.shop-ribbon .products li:hover .below-thumb, .products li:hover a strong.below-thumb, .products.ribbon .below-thumb:hover { color:#fff !important; }
+.products li .buttons a.add-to-cart { background-color:#FF78C4; }
+.products li .buttons a.details { background-color:#FF78C2; }
+.products li .buttons a.details { color:#ffffff; }
+.products li .buttons a.add-to-cart:hover { background-color:#AF5AAF !important; }
+.products li .buttons a.details:hover { background-color:#da0680; }
+.products li .buttons a.add-to-cart:hover { color:#da0680 !important; }
+.products li .buttons a.details:hover { color:#FF78F0; }
+a.button, button.button, input.button, #review_form #submit { background-color:#E18CE1 !important; }
 a.button, button.button, input.button, #review_form #submit { color:#fff !important; }
-a.button, button.button, input.button, #review_form #submit { border-color:#a92d6a !important; }
-a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover { background:#b83084 !important; }
-a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover { color:#fff0fd !important; }
+a.button, button.button, input.button, #review_form #submit { border-color:#FFA0D9 !important; }
+a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover { background:#FFA0D9 !important; }
+a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover { color:#FFA0D9 !important; }
 a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover { border-color:#a92d66 !important; }
-a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { background-color:#a92d66 !important; }
-a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { color:#fff0fd !important; }
-a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { border-color:#a92d75 !important; }
-a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { background-color:#b83084 !important; }
-a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { color:#fff0fd !important; }
-a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { border-color:#a92d6a !important; }
-div.product p.price { background-color:#a92d7f; }
- div.product p.price:before { border-left-color:#a92d7f; }
-#footer p, #footer .widget li { color:#a92d66; }
+a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { background-color:#E18CE1 !important; }
+a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { color:#fdcdf7 !important; }
+a.button-alt, a.button.alt, input.button-alt, button.button.alt, button.button-alt, input.button.alt, #review_form #submit.alt { border-color:#fff !important; }
+a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { background-color:#B0467F !important; }
+a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { color:#FFDCFF !important; }
+a.button-alt:hover, a.button.alt:hover, input.button-alt:hover, button.button.alt:hover, button.button-alt:hover, input.button.alt:hover, #review_form #submit.alt:hover { border-color:#FF78F0 !important; }
+div.product p.price { background-color:#D76ED7; }
+ div.product p.price:before { border-left-color:#D76ED7; }
+div.product p.price { color:#ffffff; }
+#footer .inner:first-child { border-top-color:#EB1E96; }
+#footer p, #footer .widget li { color:#fff; }
 #footer a { color:#a92d66 !important; }
-#footer .widget ul li a:hover { color:#f378e2 !important; }
+#footer a:hover { color:#cc33cc !important; }
+#footer .widget ul li a { color:#B964B9 !important; }
+#footer .widget ul li a:hover { color:#cc33cc !important; }
+#copyright a { color:#FF78F0; }
 select#dropdown_product_cat {width:211px;}	.shop-traditional .products li { width:164px !important; }
 	//.shop-traditional .products li img { width:150px !important; }
 	.shop-ribbon .products li { width:155px !important; }
@@ -284,96 +332,21 @@ jQuery(document).ready( function($){
 				       
 				 
 			</div>                    <ul class="topbar-level-1">
-                                                                       <li><a href="http://overallbeauty.com/my-account/">Login</a></li>
-                                            </ul>
-                </div>
-							</div><!-- .inner -->
-		</div><!-- #top -->                <!-- END TOPBAR -->  
-                
-                <div class="group inner">
-                    <!-- START LOGO -->
-                    <div id="logo" class="group">
-                                                    <a href="http://overallbeauty.com" title="OverallBeauty.com"> 
-                                                                <img src="http://overallbeauty.com/wp-content/uploads/2013/03/OB_stackedlogo_black1.png" alt="Logo OverallBeauty.com">
-                            </a>
-                                                <p class="logo-description">All Natural Vegan Mineral Makeup</p>                    </div>
-                    <!-- END LOGO -->
-                    
-                      
-<div id="cont-info" style="float:right; margin-top: -150px;">
-</div>  
-                    <!-- START SEARCHFORM -->
-                    <form role="search" method="get" id="searchform" action="http://overallbeauty.com/">
-    <div><label class="screen-reader-text" for="s">Search...</label>
-        <input type="text" value="" name="s" id="s">
-        <input type="submit" id="searchsubmit" value=" ">
-        <input type="hidden" name="post_type" value="product">
-    </div>
-</form> 
-                    <!-- END SEARCHFORM -->
-                
-                    <!-- START NAV -->
-                    <div id="nav" class="group">
-                        <ul id="menu-main-navigation" class="level-1"><li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1509"><a href="http://overallbeauty.com/">Home</a></li>
+                        <li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1509"><a href="http://overallbeauty.com/">Home</a></li>
 <li id="menu-item-1155" class="bold menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Start Here to find what you are looking for" href="http://overallbeauty.com/shop/">Shop</a>
 <ul class="sub-menu">
-	<li id="menu-item-3896" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3896"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/">Overall Beauty Minerals</a>
-	<ul class="sub-menu">
-		<li id="menu-item-5026" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5026"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-blue-eye-shadows/">Shades of Blue</a></li>
-		<li id="menu-item-5030" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5030"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-brown-eye-shadows/">Shades of Brown</a></li>
-		<li id="menu-item-5029" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5029"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-dark-colors/">Dark Shades</a></li>
-		<li id="menu-item-5486" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5486"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-golds/">Shades in Golds</a></li>
-		<li id="menu-item-5032" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5032"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-green-eye-shadows/">Shades of Green</a></li>
-		<li id="menu-item-5485" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5485"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-matte-shades/">Matte Shades</a></li>
-		<li id="menu-item-12167" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12167"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/orange-eye-shadows/">Shades of Orange</a></li>
-		<li id="menu-item-10345" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10345"><a title=":ight Eye Shadows" href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-neturals/">Netural Shades</a></li>
-		<li id="menu-item-5033" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5033"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/pink-mineral-makeup-eye-shadows/">Shades of Pink</a></li>
-		<li id="menu-item-5343" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5343"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-in-purples/">Shades of Purple</a></li>
-	</ul>
-</li>
+	<li id="menu-item-3896" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3896"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/">Overall Beauty Minerals</a></li>
 	<li id="menu-item-5031" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5031"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/sets-of-overall-beauty-minerals/">Mineral Eye Shadow Sets</a></li>
 	<li id="menu-item-7518" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7518"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/powder-blushes/">Mineral Powder Blushes</a></li>
-	<li id="menu-item-11956" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-11956"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/powder-foundation/">Mineral Powder Foundation</a></li>
-	<li id="menu-item-1873" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1873"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/">Makeup</a>
-	<ul class="sub-menu">
-		<li id="menu-item-4537" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4537"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/eye-makeup/">Eyes</a></li>
-		<li id="menu-item-3211" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3211"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/products-for-your-lips/">Lips</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1874" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1874"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/">Nail Polish</a>
-	<ul class="sub-menu">
-		<li id="menu-item-7290" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7290"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/glamglaze-polish/">GlamGlaze Nail Polish</a></li>
-		<li id="menu-item-13950" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13950"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-care-nail-polish-brands-and-more/">Nail Care Products</a></li>
-		<li id="menu-item-6931" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6931"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/pretty-serious-polishes/">Pretty Serious</a></li>
-		<li id="menu-item-10465" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10465"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/trust-fund-beauty/">Trust Fund Beauty</a></li>
-	</ul>
-</li>
+	<li id="menu-item-1873" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1873"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/">Makeup</a></li>
+	<li id="menu-item-1874" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1874"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/">Nail Polish</a></li>
 	<li id="menu-item-2144" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2144"><a href="http://overallbeauty.com/product-category/stock-on-its-way/">Coming Soon</a></li>
-	<li id="menu-item-6084" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6084"><a href="http://overallbeauty.com/product-category/beauty-accessories/">Beauty Accessories</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13116" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13116"><a href="http://overallbeauty.com/product-category/organza-bags/">Organza bags</a></li>
-		<li id="menu-item-2974" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2974"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/makeup-tools/">Makeup Tools</a></li>
-		<li id="menu-item-7338" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7338"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/makeup-tools/makeup-brushes-makeup-tools/">Makeup Brushes</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1875" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1875"><a href="http://overallbeauty.com/product-category/products-for-your-skincare-needs/">Skin Care</a>
-	<ul class="sub-menu">
-		<li id="menu-item-4806" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4806"><a href="http://overallbeauty.com/product-category/beauty-accessories/bath/">Bath Products</a></li>
-	</ul>
-</li>
-	<li id="menu-item-2529" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2529"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/">Nail Art Accessories</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2530" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2530"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/glass-nail-files/">Glass Nail Files</a></li>
-		<li id="menu-item-2059" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2059"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-decals/">Joby Nail Art Decals</a></li>
-		<li id="menu-item-6937" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6937"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/nail-tape-nail-care-accessories/">Nail Striping Tape</a></li>
-	</ul>
-</li>
+	<li id="menu-item-6084" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6084"><a href="http://overallbeauty.com/product-category/beauty-accessories/">Beauty Accessories</a></li>
+	<li id="menu-item-1875" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1875"><a href="http://overallbeauty.com/product-category/products-for-your-skincare-needs/">Skin Care</a></li>
+	<li id="menu-item-2529" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2529"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/">Nail Art Accessories</a></li>
 	<li id="menu-item-4699" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4699"><a href="http://overallbeauty.com/product-category/products-for-men-only/">Stuff for Guys</a></li>
-	<li id="menu-item-13288" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13288"><a href="http://overallbeauty.com/product-category/holiday-gift-ideas/">holiday gifts</a>
-	<ul class="sub-menu">
-		<li id="menu-item-13321" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13321"><a href="http://overallbeauty.com/product-category/holiday-gift-ideas/gifts-under-10-dollars/">Gifts under $10.00</a></li>
-	</ul>
-</li>
+	<li id="menu-item-13288" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13288"><a href="http://overallbeauty.com/product-category/holiday-gift-ideas/">Holiday Gifts</a></li>
+	<li id="menu-item-14187" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-14187"><a href="http://overallbeauty.com/product-category/supplies-shipping-gift-wrap/">Supplies/shipping/gift-wrap</a></li>
 	<li id="menu-item-13775" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13775"><a href="http://overallbeauty.com/product-category/on-its-way-out/">Clearance</a></li>
 </ul>
 </li>
@@ -405,6 +378,130 @@ jQuery(document).ready( function($){
 	<li id="menu-item-1261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1261"><a href="http://overallbeauty.com/category/beauty-articles/bath-and-body-tips/">Bath and Body Tips</a></li>
 </ul>
 </li>
+                                               <li><a href="http://overallbeauty.com/my-account/">Login</a></li>
+                                            </ul>
+                </div>
+							</div><!-- .inner -->
+		</div><!-- #top -->                <!-- END TOPBAR -->  
+                
+                <div class="group inner">
+                    <!-- START LOGO -->
+                    <div id="logo" class="group">
+                                                    <a href="http://overallbeauty.com" title="OverallBeauty.com"> 
+                                                                <img src="http://overallbeauty.com/wp-content/uploads/2013/03/OB_stackedlogo_black1.png" alt="Logo OverallBeauty.com">
+                            </a>
+                                                <p class="logo-description">All Natural Vegan Mineral Makeup</p>                    </div>
+                    <!-- END LOGO -->
+                    
+                      
+<div id="cont-info" style="float:right; margin-top: -150px;">
+</div>  
+                    <!-- START SEARCHFORM -->
+                    <form role="search" method="get" id="searchform" action="http://overallbeauty.com/">
+    <div><label class="screen-reader-text" for="s">Search...</label>
+        <input type="text" value="" name="s" id="s">
+        <input type="submit" id="searchsubmit" value=" ">
+        <input type="hidden" name="post_type" value="product">
+    </div>
+</form> 
+                    <!-- END SEARCHFORM -->
+                
+                    <!-- START NAV -->
+                    <div id="nav" class="group">
+                        <ul id="menu-main-navigation-1" class="level-1"><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1509"><a href="http://overallbeauty.com/">Home</a></li>
+<li class="bold menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Start Here to find what you are looking for" href="http://overallbeauty.com/shop/">Shop</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3896"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/">Overall Beauty Minerals</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5026" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5026"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-blue-eye-shadows/">Shades of Blue</a></li>
+		<li id="menu-item-5030" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5030"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-brown-eye-shadows/">Shades of Brown</a></li>
+		<li id="menu-item-5029" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5029"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-dark-colors/">Dark Shades</a></li>
+		<li id="menu-item-5486" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5486"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-golds/">Shades in Golds</a></li>
+		<li id="menu-item-5032" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5032"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-green-eye-shadows/">Shades of Green</a></li>
+		<li id="menu-item-5485" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5485"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-matte-shades/">Matte Shades</a></li>
+		<li id="menu-item-12167" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12167"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/orange-eye-shadows/">Shades of Orange</a></li>
+		<li id="menu-item-10345" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10345"><a title=":ight Eye Shadows" href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-neturals/">Netural Shades</a></li>
+		<li id="menu-item-5033" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5033"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/pink-mineral-makeup-eye-shadows/">Shades of Pink</a></li>
+		<li id="menu-item-5343" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5343"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/overall-beauty-minerals-in-purples/">Shades of Purple</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5031"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/sets-of-overall-beauty-minerals/">Mineral Eye Shadow Sets</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7518"><a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand/powder-blushes/">Mineral Powder Blushes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1873"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/">Makeup</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4537" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4537"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/eye-makeup/">Eyes</a></li>
+		<li id="menu-item-3211" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3211"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/products-for-your-lips/">Lips</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1874"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/">Nail Polish</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7290" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7290"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/glamglaze-polish/">GlamGlaze Nail Polish</a></li>
+		<li id="menu-item-13950" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13950"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-care-nail-polish-brands-and-more/">Nail Care Products</a></li>
+		<li id="menu-item-6931" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6931"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/pretty-serious-polishes/">Pretty Serious</a></li>
+		<li id="menu-item-10465" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10465"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/trust-fund-beauty/">Trust Fund Beauty</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2144"><a href="http://overallbeauty.com/product-category/stock-on-its-way/">Coming Soon</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6084"><a href="http://overallbeauty.com/product-category/beauty-accessories/">Beauty Accessories</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2974" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2974"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/makeup-tools/">Makeup Tools</a></li>
+		<li id="menu-item-7338" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7338"><a href="http://overallbeauty.com/product-category/beauty-accessories/makeup-products/makeup-tools/makeup-brushes-makeup-tools/">Makeup Brushes</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1875"><a href="http://overallbeauty.com/product-category/products-for-your-skincare-needs/">Skin Care</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4806" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4806"><a href="http://overallbeauty.com/product-category/beauty-accessories/bath/">Bath Products</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2529"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/">Nail Art Accessories</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2530" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2530"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/glass-nail-files/">Glass Nail Files</a></li>
+		<li id="menu-item-2059" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2059"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-decals/">Joby Nail Art Decals</a></li>
+		<li id="menu-item-6937" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6937"><a href="http://overallbeauty.com/product-category/nail-polish-brands-and-more/nail-art-accessories/nail-tape-nail-care-accessories/">Nail Striping Tape</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4699"><a href="http://overallbeauty.com/product-category/products-for-men-only/">Stuff for Guys</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13288"><a href="http://overallbeauty.com/product-category/holiday-gift-ideas/">Holiday Gifts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13321" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13321"><a href="http://overallbeauty.com/product-category/holiday-gift-ideas/gifts-under-10-dollars/">Gifts under $10.00</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-14187"><a href="http://overallbeauty.com/product-category/supplies-shipping-gift-wrap/">Supplies/shipping/gift-wrap</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13116" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13116"><a href="http://overallbeauty.com/product-category/organza-bags/">Organza bags</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13775"><a href="http://overallbeauty.com/product-category/on-its-way-out/">Clearance</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a href="http://overallbeauty.com/cart/">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-1510"><a href="http://overallbeauty.com/my-account/">My Account</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682"><a href="http://overallbeauty.com/homepage/conditions-of-use/">Conditions of Use</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1627 current_page_item menu-item-1683"><a href="http://overallbeauty.com/homepage/privacy-notice/">Privacy Notice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684"><a href="http://overallbeauty.com/homepage/shipping-returns/">Shipping &amp; Returns</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156"><a href="http://overallbeauty.com/order-tracking/">Track your order</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511"><a href="http://overallbeauty.com/my-account/lost-password/">Lost Password</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1815"><a href="http://overallbeauty.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1297"><a href="http://overallbeauty.com/wishlist/">Wishlist</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1506"><a target="_blank" href="http://overallbeauty.com/beauty-blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12625"><a href="http://overallbeauty.com/press-news/">Media Buzz</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13012"><a href="http://overallbeauty.com/press-news/mentions-press/">Mentions in the Press</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1157"><a href="http://overallbeauty.com/category/beauty-articles/">Articles</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1159"><a href="http://overallbeauty.com/category/beauty-articles/eye-makeup-tips/">Eye Makeup Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1266"><a href="http://overallbeauty.com/category/beauty-articles/articles-for-teens/">Teen Beauty Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1258"><a href="http://overallbeauty.com/category/beauty-articles/foundation-tips/">Foundation Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3852"><a href="http://overallbeauty.com/category/beauty-articles/wedding-tips/">Wedding Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1158"><a href="http://overallbeauty.com/category/beauty-articles/basic-beauty-and-makeup-tips/">Basic Makeup Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1261"><a href="http://overallbeauty.com/category/beauty-articles/bath-and-body-tips/">Bath and Body Tips</a></li>
+</ul>
+</li>
 </ul>    
                     </div>
                     <!-- END NAV -->     
@@ -426,12 +523,8 @@ jQuery(document).ready( function($){
                 <!-- START CONTENT -->
                 <div id="content" class="group">
                     <p id="crumbs" class="theme_breadcumb"><a class="home" href="http://overallbeauty.com">Home Page</a>  ›  <a class="no-link" href="http://overallbeauty.com/">Best Vegan Mineral Makeup &amp; Nail Polish Supplies</a>  ›  <a class="no-link current" href="#">Privacy Notice</a></p>                    
-                    <h2>Privacy Notice</h2>			<div id="post-1627" class="post-1627 page type-page status-publish hentry group instock"><p>Overall Beauty/Website/Creator of <a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/" title="Overall Beauty Minerals vegan friendly mineral makeup" target="_blank"><strong>Overall Beauty Minerals</strong></a> your vegan friendly mineral makeup line.<br>
-ATTN: Kim Snyder<br>
-kim (@)overallbeauty.com<br>
-5336 Blue Sapphire Ct.<br>
-Elk Grove, CA 95758</p>
-<p>We have an official stance on animal testing and/or the use of animal ingredients used in our brand of mineral makeup we call Overall Beauty Minerals. Once thing we are very passion about is being able to state we are a vegan mineral makeup line. We do not believe in the testing on animals is right. There are difference ways to test without testing on animals. Overall Beauty Minerals does not use any ingredients that are by products of animals such as beeswax, carmine,lanolin, glycerin or other products created from animals.<br>
+                    <h2>Privacy Notice</h2>			<div id="post-1627" class="post-1627 page type-page status-publish hentry group instock"><p>Overall Beauty/Website/Creator of <a href="http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/" title="Overall Beauty Minerals vegan friendly mineral makeup" target="_blank"><strong>Overall Beauty Minerals</strong></a> your vegan friendly mineral makeup line.</p>
+<p>We have an official stance on no animal testing and/or the use of animal ingredients in our brand of vegan mineral makeup we call <strong>Overall Beauty Minerals.</strong> Once thing we are very passion about is being able to state we are a vegan mineral makeup line. We do not believe in the testing on animals is right. There are difference ways to test without testing on animals. Overall Beauty Minerals does not use any ingredients that are by products of animals such as beeswax, carmine, lanolin, glycerin or other products created from animals.<br>
 Thank you for reading this, now to our privacy Notice. </p>
 <p>http://overallbeauty.com Privacy Policy<br>
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p>
@@ -514,7 +607,7 @@ and we will promptly remove you from ALL correspondence.</p>
 <p>Contacting Us<br>
 If there are any questions regarding this privacy policy you may contact us using the information below.<br>
 By email at kim@overallbeauty.com</p>
-<p>Last Edited on 2015-08-17</p>
+<p>Last Edited on 2016-09-17</p>
 			</div>                    
 
 
@@ -543,16 +636,137 @@ By email at kim@overallbeauty.com</p>
 					 
 					 
 					
-	                <div id="social-widget-2" class="widget-1 widget-first widget Social_Widget"><h3>Follow Us!</h3><div class="socialmedia-buttons smw_left"><a href="http://facebook.com/overallbeauty1" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" alt="Follow Us on Facebook" title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://twitter.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://overallbeauty.com/beauty-blog/" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/wordpress.png" alt="Follow Us on Wordpress" title="Follow Us on Wordpress" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://instagram.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/instagram.png" alt="Follow Us on Instagram" title="Follow Us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://pinterest.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/pinterest.png" alt="Follow Us on Pinterest" title="Follow Us on Pinterest" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://kmms.etsy.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/etsy.png" alt="Follow Us on Etsy" title="Follow Us on Etsy" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a></div></div><div id="product_search-3" class="widget-2 widget woocommerce widget_product_search"><h3>Search for products</h3><form role="search" method="get" id="searchform" action="http://overallbeauty.com/">
+	                <div id="social-widget-2" class="widget-1 widget-first widget Social_Widget"><h3>Follow Us!</h3><div class="socialmedia-buttons smw_left"><a href="http://facebook.com/overallbeauty1" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" alt="Follow Us on Facebook" title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://twitter.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://overallbeauty.com/beauty-blog/" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/wordpress.png" alt="Follow Us on Wordpress" title="Follow Us on Wordpress" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://instagram.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/instagram.png" alt="Follow Us on Instagram" title="Follow Us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://pinterest.com/overallbeauty" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/pinterest.png" alt="Follow Us on Pinterest" title="Follow Us on Pinterest" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="http://kmms.etsy.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://overallbeauty.com/wp-content/plugins/social-media-widget/images/default/32/etsy.png" alt="Follow Us on Etsy" title="Follow Us on Etsy" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a></div></div><div id="mailchimpsf_widget-2" class="widget-2 widget widget_mailchimpsf_widget"><h4><p>Sign up today for news, deals &amp; coupons!</p></h4><h4>	<style>
+		.widget_mailchimpsf_widget .widget-title {
+		line-height: 1.4em;
+		margin-bottom: 0.75em;
+	}
+	#mc_subheader {
+		line-height: 1.25em;
+		margin-bottom: 18px;
+	}
+	.mc_merge_var {
+		margin-bottom: 1.0em;
+	}
+	.mc_var_label,
+	.mc_interest_label {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.mc_input {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.mc_input.mc_phone {
+		width: auto;
+	}
+	select.mc_select {
+		margin-top: 0.5em;
+		width: 100%;
+	}
+	.mc_address_label {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+		display: block;
+	}
+	.mc_address_label ~ select {
+		width: 100%;		
+	}
+	.mc_list li {
+		list-style: none;
+		background: none !important;
+	}
+	.mc_interests_header {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_interest label,
+	.mc_interest input {
+		margin-bottom: 0.4em;
+	}
+	#mc_signup_submit {
+		margin-top: 1.5em;
+		width: 80%;
+	}
+	#mc_unsub_link a {
+		font-size: 0.75em;
+	}
+	#mc_unsub_link {
+		margin-top: 1.0em;
+	}
+	.mc_header_address,
+	.mc_email_format {
+		display: block;
+		font-weight: bold;
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_email_options {
+		margin-top: 0.5em;
+	}
+	.mc_email_type {
+		padding-left: 4px;
+	}
+	</style>
+	
+<div id="mc_signup">
+	<form method="post" action="#mc_signup" id="mc_signup_form">
+		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
+		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="5717a7eefd">		
+		
+	<div class="mc_form_inside">
+		
+		<div class="updated" id="mc_message">
+					</div><!-- /mc_message -->
+
+		
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address<span class="mc_required">*</span></label>
+	<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div><!-- /mc_merge_var -->
+<div class="mc_merge_var">
+		<label for="mc_mv_FNAME" class="mc_var_label mc_header mc_header_text">First Name</label>
+	<input type="text" size="18" placeholder="" name="mc_mv_FNAME" id="mc_mv_FNAME" class="mc_input">
+</div><!-- /mc_merge_var --><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div>			<div id="mc-indicates-required">
+				* = required field			</div><!-- /mc-indicates-required -->
+					<div class="mergeRow">
+			<label class="mc_email_format">Preferred Format</label>
+		    <div class="field-group groups mc_email_options">
+		        <ul class="mc_list">
+			        <li><input type="radio" name="email_type" id="email_type_html" value="html" checked="checked"><label for="email_type_html" class="mc_email_type">HTML</label></li>
+			        <li><input type="radio" name="email_type" id="email_type_text" value="text"><label for="email_type_text" class="mc_email_type">Text</label></li>
+		        </ul>
+			</div>
+		</div>	
+
+		
+		<div class="mc_signup_submit">
+			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe Today!" class="button">
+		</div><!-- /mc_signup_submit -->
+	
+	
+					<br>
+			<div id="mc_display_rewards" align="center">
+				powered by <a href="http://www.mailchimp.com/affiliates/?aid=ed421d2844669edbad08287eb&amp;afl=1">MailChimp</a>!
+			</div><!-- /mc_display_rewards -->
+					
+	</div><!-- /mc_form_inside -->
+	</form><!-- /mc_signup_form -->
+</div><!-- /mc_signup_container -->
+	</h4></div><div id="product_search-3" class="widget-3 widget woocommerce widget_product_search"><h3>Search for products</h3><form role="search" method="get" id="searchform" action="http://overallbeauty.com/">
 			<div>
 				<label class="screen-reader-text" for="s">Search for:</label>
 				<input type="text" value="" name="s" id="s" placeholder="Search for products">
 				<input type="submit" id="searchsubmit" value="Search">
 				<input type="hidden" name="post_type" value="product">
 			</div>
-		</form></div><div id="product_categories-4" class="widget-3 widget woocommerce widget_product_categories"><h3>Product listings</h3><select name="product_cat" id="dropdown_product_cat"><option value="" selected="selected">Select a category</option>	<option class="level-0" value="holiday-gift-ideas">holiday gifts</option>
+		</form></div><div id="product_categories-4" class="widget-4 widget woocommerce widget_product_categories"><h3>Product listings</h3><select name="product_cat" id="dropdown_product_cat"><option value="" selected="selected">Select a category</option>	<option class="level-0" value="holiday-gift-ideas">holiday gifts</option>
 	<option class="level-1" value="gifts-under-10-dollars">Gifts under $10.00</option>
 	<option class="level-0" value="organza-bags">Organza bags</option>
+	<option class="level-0" value="supplies-shipping-gift-wrap">Supplies/shipping/gift-wrap</option>
 	<option class="level-0" value="stock-on-its-way">Coming Soon</option>
 	<option class="level-0" value="beauty-accessories">Beauty Accessories</option>
 	<option class="level-1" value="bath">Bath Products</option>
@@ -569,6 +783,7 @@ By email at kim@overallbeauty.com</p>
 	<option class="level-0" value="super-special-deals">What a Deal!</option>
 	<option class="level-0" value="products-for-men-only">Stuff for Guys</option>
 	<option class="level-0" value="overall-beauty-minerals-brand">Overall Beauty Minerals</option>
+	<option class="level-1" value="powder-highlighters">Highlighters</option>
 	<option class="level-1" value="overall-beauty-minerals-matte-shades">Matte Eye Shadows</option>
 	<option class="level-1" value="orange-eye-shadows">Orange Eye Shadows</option>
 	<option class="level-1" value="overall-beauty-minerals-dark-colors">Dark Eye Shadows</option>
@@ -625,7 +840,7 @@ By email at kim@overallbeauty.com</p>
 				product_cat_dropdown.onchange = onProductCatChange;
 			/* ]]> */
 			</script>
-			</div><div id="shopping_cart-6" class="widget-5 widget woocommerce widget_shopping_cart"><h3>In your cart now</h3><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></div><div id="onsale-3" class="widget-8 widget-last widget woocommerce widget_onsale"><h3> Deals of Today!</h3><ul class="product_list_widget"><li>
+			</div><div id="shopping_cart-6" class="widget-6 widget woocommerce widget_shopping_cart"><h3>In your cart now</h3><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></div><div id="onsale-3" class="widget-9 widget-last widget woocommerce widget_onsale"><h3> Deals of Today!</h3><ul class="product_list_widget"><li>
 					<a href="http://overallbeauty.com/shop/california-themed-nail-art-decals/">
 						<img width="90" height="90" src="http://overallbeauty.com/wp-content/uploads/2013/02/ca-01-90x90.jpg" class="attachment-shop_thumbnail wp-post-image" alt="california nail art decals"> California Themed Nail Art Decals
 					</a> <del><span class="amount">$2.95</span></del> <ins><span class="amount">$1</span></ins>
@@ -730,7 +945,7 @@ var yith_wcwl_l10n = {"out_of_stock":"Cannot add to the cart as product is Out o
 <script type="text/javascript" src="http://overallbeauty.com/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/overallbeauty.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/overallbeauty.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"472ee4c70b","apply_coupon_nonce":"ffc2cad8e2","option_guest_checkout":"yes","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"67f0a2841e","cart_url":"http:\/\/overallbeauty.com\/cart\/","cart_redirect_after_add":"no"};
+var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/overallbeauty.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/overallbeauty.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"ab32c57eea","apply_coupon_nonce":"bf5ce1c2d4","option_guest_checkout":"yes","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"f8416b62f0","cart_url":"http:\/\/overallbeauty.com\/cart\/","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://overallbeauty.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.20"></script>
